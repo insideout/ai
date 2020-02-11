@@ -46,6 +46,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
         width: 600
         height: 600
+  - title: "First Lexus with self-driving system arrives in 2020"
+    excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
+    publishedDateTime: 2020-02-11T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127062_first-lexus-with-self-driving-system-arrives-in-2020"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
+        width: 1920
+        height: 1204
 
 secured: "wLYgXGf1GvaQ5h3v2rBfkpyXLKpxpsb4b+LUshFcGqgeneKeQA48D6oQPbJ2Bwv/eJPGWeAmBU3es+yVlXDDgKiKLq3hlcdSqYerfVFk3EEhtiI7JxHUgg+vt9BUW7UBMBH6qDMG5aywUzsIbosLz6p9q1jMPMXNBU4P0BlNgWPEd6SW3A2bg/pfP8cwr7g/gamlcEjvTjuyUGvdvrCb2qskXAK5ACTwsiKuFccD3NlBtY9jI5NyWQ0aU5AI2ek6KauIsFk6w0LxXYrRCePS0Pqi1jmPs3KbHv2sgXY7tosMiseyhZwthnOgyTBO+w4pstxGX7pzdBonsnOH2RZ1a3Za/IO0rU+lR/zU9wehiheJNeN6h4LH0yaby9Cv/b8v8fyeIfZuXl9CjD2uJ/73x7ZImpZ8BTuHeKOHqbH520NXngILyWkH4GN/UMfH+x09gwOhwttvOHlyeRKTx00ILZVUasBNQnXjOy6fm39OxmQ=;moe/sMsP1v05ILk3uOEjjg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done"
 
 related:
-  - title: "Self-driving cars have an overlooked upside"
-    excerpt: "Upon reading the Jan. 24 Metro article “Uber bringing its tests of self-driving cars to D.C.,” one major benefit that I have yet to read about popped to mind: tipping. A lot of people will save money if they don’t need to tip a driver. I’ve always tipped, but it is appealing to have that need disappear. It will also be kind of a relief ..."
-    publishedDateTime: 2020-01-27T22:12:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
-    images:
-      - url: "https://www.washingtonpost.com/resizer/LmozzyHTYJdM70nJ5Z-81opmU7U=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5AO2UBSBDQI6VNP4535IJDG6TE.jpg"
-        width: 1440
-        height: 1080
   - title: "AI Self-Driving Cars Will Spur Americans To Be Savvier About Their Personal Finances, But Not For The Reasons That You Think"
     excerpt: "It is said that many Americans are so busy trying to earn money that they don’t have time to think about how to best leverage and save money. This seemingly puzzling statement highlights that we are all on a frantic and mind-numbing treadmill of trying to earn income,"
     publishedDateTime: 2020-01-28T13:25:00Z

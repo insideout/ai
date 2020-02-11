@@ -23,6 +23,6 @@ images:
     height: 999
     title: "Figure Eight Workflows designed to automate AI training data annotation"
 
-secured: "CD3gBSInWRIZcSZQ+VEbtEQuge8pKCq+9MMO6pIWs/fslaH4K15BP7Et0fLCUv9Vo3uKShgrNrAq3gXrl2trG5bvziHCgDvn8ahEUzX7ykXAH7NmMK6pZ0pieHTWNhnOIYu/loK/UZ7GtV/4qqW6tUHkuLybJytX6MAs+Hzhg/tJYep6/hvCN6NCWFboMK5BTS+A+Jjd43xFkWxP8QUSjle8C/6PUxYt6cgjjk6MqyU+/RS4nf2vtahHworO/YCtbHZsCYYGS1bC32xwW/Vucjqb/LPHdWpuFUwwXtxCno82aiILonlow5fvOjgGbFe9;R6QbJNodPN0NobYQfL3ddQ=="
+secured: "FE8+FLoOemtiwypFGzk/yVPY0KYPFdUFc8hcaJRfz5xVbTyipRAqZ+WdwICzuBN4aIg5LRHooFeVorrQujIKM5x4oBeJiZos/Rdt7dn6JOvgEEJdNiCBFq6w6537PAIlZbsaC/3NorAT+ZI8RGCuaAwWIqjyR3xIxeNT0nf4Ip3Euo7rXx3elzIm5FUlawO6I9ZxlK1IclPZWN+TCoa6qO+wgUDfnDF5TuNNYVa/hBnk9UG5eenp7V+CRfR+8T/8mkJqfQcS9RPQdeCFKMAiDrEy36eaM/pid4weMYTT6SPTYfna/hPScqr/sN2KYeSUxNLb0YDdapm36n3+6i1dwV3l0LeB10y0Xy2MpFUbX8bP0UJmwzGXb5QGSDbEi5ltnyxr/lCt4mqVN6v0l95/oUZxto0Uacsrl29k5pEGE+NiUiVvUfagwVzP2mS513i39A74T5/EwO2Q8PEWYsuaXN2jRzac2oVSwlnGUCInbiM=;Gea9CPgoGcAmUrFjBXaF2A=="
 ---
 

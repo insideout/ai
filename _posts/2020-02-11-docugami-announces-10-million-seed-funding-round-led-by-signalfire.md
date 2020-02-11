@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
-excerpt: "View the full release here: https://www.businesswire.com/news/home/20200211005446/en/ Founded in March 2018 by former Microsoft executive Jean Paoli and four other senior engineering leaders from Microsoft, Docugami harnesses a wide range of artificial intelligence techniques, including natural language processing, image recognition ..."
-publishedDateTime: 2020-02-11T14:53:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-docugami-announces-10-million-seed-funding-round-led-/2020/02/11/9095880.htm"
+excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary ..."
+publishedDateTime: 2020-02-11T15:26:00Z
+webUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/"
+ampWebUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/amp/"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Natural Language Processing
+  - Microsoft AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200211005446/en/772660/4/Docugami_Team_Offsite_February_2020.jpg"
+  - url: "https://i2.wp.com/mms.businesswire.com/media/20200211005446/en/772660/4/Docugami_Team_Offsite_February_2020.jpg?strip=all&ssl=1"
     width: 480
     height: 346
     title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
@@ -37,16 +43,7 @@ related:
       - url: "https://images.eurogamer.net/2020/articles/2020-02-05-10-45/modl.ai_team.jpg"
         width: 1500
         height: 1000
-  - title: "Israeli Start-up Kardome Receives Investment from Hyundai During Successful Seed Funding Round"
-    excerpt: "Kardome, an Israeli startup that develops voice-control technology for machines ... We plan to use Kardome's robust voice AI technology to boost customer's value and gain competitive advantage by enhancing user experience and safety features.\""
-    publishedDateTime: 2020-02-05T08:58:00Z
-    webUrl: "https://www.autoblog.com/press-releases/israeli-start-up-kardome-receives-investment-from-hyundai-during-successful-seed-funding-round_22077/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 5
 
-secured: "TfOWhfu+dw4AvCPwsUwiLioWP7xL21YsLTE194b6vX1Z1rIFLHBO9gOVskZMKpeLbjdqNkETsNITV+larKbzQpbobRmCn/D9+X/gNHD32Bzcpclnasfoy9htzBMX7WWD5LE8m0e4Zg1o0nEjV5xu1VTOYuSP6w4kWi1T3NtTQUjNoujibobvoiApAsHzzkWAos0HQUcRyzKjqmSZG547jcyWgxqYTsrZl+8Bg29Ew8yB5OdqQX7kn2dweWjViYEU6HRtQQCQX+I8WxqGs/jYYIBINHwWmACREKVIcrxwOehehjep+tyiGXrlnMT18nOr;vV0qnVc+uR4PaFRihjOyFQ=="
+secured: "Z5jLCKM0tGpMH3wpknJr1AEdp1r4d/e4Bgm+CZbZyI1lwtex6tC0Sbxyk4xsrbCqKe6V497gYRB0k4l1V8wxNcAyYRIroCuDtUZFYnzlqzsvQauSGMVF90EHnQng6GOjASRlo7f4pdzRlKvMWKTlRVYw8xM4r7Oj76dldcHIbO5kDeJLrLa5lg6sTCETmG+3KxTZUIBIEQShKTzwpOh8upjz+lht5d2Kqm91OhBCwbuazHU82Oe1H6IraScNbWoOPOsqeonSxKMdltHKz+mit2Uv0uo3jGHMWa/vVqicpHOX+3MmN16XWo8VJY45vzWd;5aecPJl2onY3t5I1bmpB+w=="
 ---
 

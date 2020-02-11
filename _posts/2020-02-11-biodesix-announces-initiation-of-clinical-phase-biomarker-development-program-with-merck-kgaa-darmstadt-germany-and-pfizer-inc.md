@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Biodesix Announces Initiation of Clinical Phase Biomarker Development Program with Merck KGaA, Darmstadt, Germany and Pfizer Inc."
 
-secured: "wjoSq44GR4Aj+AvNv0Mv+B3ggQ6gopD55KaAAkIVHRy2FbOoh83utvSzU5/ls8pDqaOGhE49JXCa2wiTfspFV3TavHv60LEvA6ZeT12ybNWlWmZep7a362lxFFsodw2zaYSS948nSpK3ZnMMWG+goet0ykPKYFhK+s/vooFkTV7gjsh/KtPYvG0pmgZihGGFnarU9htm9X39iMUols+X3LuR/VF3oMy1tTpqTzyUBHyohvMEwtgD8XO1ZQZdbg9VtR1OIN/RJkYJaV+W15kK/luCYum4EX+wZ052j9bTYhOuBkBaBuIAqMytYV2sE5oD;/gkuBC4KTdUPhgMVVO1QkQ=="
+secured: "oiz42A4OVpWJQmnADhHzfYVw4oLo0bUKsDV9G0rmsLm3V2JF6nbf+X9b9AGsgeieHQdfPbkD16xwOBuAKzazx+yMzA38+7SEQKGgJQJMG/2ndvwHpKjQ5eLhNY4ASACKZhpAC/AD2bBedDT8C07ZlnKjiPqKEYPM6gNE0k+yY6LRBK999cimzxGzKd6rx7x30NfOPZ5GNlN9FAI/coBMfWmducQk6/kWrueRyj4UHc6jIKDJIURkFQzNY1XXpTSjgqPsSY02P0u9RoiRn0GlpBJahky7eICy2imFrEJ47iIwIAK9b//B1n6xapZCXVnI7YXIdXvI+rdn6keB+LdMViw4eoGM6jsba+90vS/si2dp67+LeG5Bj0YBhvk1ALXT1JJltPQ2mVUEFAkceLr183I9SNC9o+fnOTiLZ7ce5FPtFUK4nZpn0xnmtoreNND4JTO6/9iP9ppDWeS2r0MwRO09Rw+dwW6dNWhKiss2ALA=;EoE2fWdRtA3IxL0wDTDzuQ=="
 ---
 

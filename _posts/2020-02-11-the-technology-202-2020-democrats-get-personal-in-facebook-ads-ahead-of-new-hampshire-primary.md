@@ -23,6 +23,6 @@ images:
     height: 988
     title: "The Technology 202: 2020 Democrats get personal in Facebook ads ahead of New Hampshire primary"
 
-secured: "cFTeYKNXIK+K5SyZJkEDcg7YokLERONf/gpYhtNZmC4aM4NsmdZoEcyGdJc6YdqYw9QqtXI0wDSxdyeCc3tLKA60ZSNYZHTfPyW7rwCZD9JgAtDRiWNrn7018i/YVeiLUHlfq6pPnupcAj/l3/arLwoPkhT192HKTHnqLHzourwCjvPyp1RVRQa3wTKrG6jUykUcgnPwyPS9go6+zgDhcyIUsXxMBFhWhTTwXe3IPhEfuWW/CKZf7hInOYtipvNCvFVdiNAYD/8tDoctFI8onT8lHcFLTmpNCGYtsrad52DGfIsldWpLPvQ1J8VK8HXw;Dv5DZO2qw464dn3Pr+jUkg=="
+secured: "YJLYrhfOKD5qnixqGSrZgo6HwS/BGMHf7nfSvG3fI3LLGhzMSD9+PG+JiBEz3W6QcJ9Ps9hX4ZZJzFJzmczJonMYq0JABRCdkl45/W5z9uJiI8ttPSOpgDuwc5e5BZ9HkP99/zqAVpBwptOKFwjHIJ7eD+lrb1AwJ/wmT9G5ntClVg+FgObLDVzosFquP7kuvrwQfovMgqGjPGb0FqmHeawUH1LAg5SragzZo43a+Tco/yl7u+1nMvOZ8ebbaYK0fBCBVkETw/GYAUonHlDaAMN3UG96eDfYrPDBmXFoiv9wgnZWwGnZK4yOSBBdGQSU1xAc/lG8kV3WXEB9M8e/nxaCP0+iyahGuqwOEiwgwp8QdJ/n/Mg0zG5iXqrBLKdE3L/eb9U5PQMf5ywgQOO/eYM4b7rlQpW3aGtSu+tIH9dy6/IFkD0kZfpUbQnz+joakhO4K64EzCRyA/eqo3JlNVzbwAGS/flPw6/dHiTEs6k=;gocL4TJAuS75Efe7nRmWuw=="
 ---
 

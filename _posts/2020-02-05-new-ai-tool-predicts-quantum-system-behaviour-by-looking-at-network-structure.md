@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T13:54:00Z
 webUrl: "https://www.hindustantimes.com/tech/new-ai-tool-predicts-quantum-system-behaviour-by-looking-at-network-structure/story-68HTmxyMnjMpw6gCY32fVO.html"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,19 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Researchers Create Neural Network to Predict Quantum System Behavior"
+    excerpt: "What the Russian researchers did is they replaced the experts with artificial intelligence. They trained the machine to distinguish between networks and tell if a given network will deliver quantum advantage. This pinpoints the networks that are good candidates for building a quantum computer. The team used a neural network geared toward image ..."
+    publishedDateTime: 2020-02-11T15:41:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/researchers-create-neural-network-to-predict-quantum-system-behavior/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Illustration-eye-AI-mipt-300x204.jpg"
+        width: 300
+        height: 204
   - title: "Moscow: New artificial Intelligence tool predicts the behaviour of a quantum system"
     excerpt: "Moscow: Russian researchers have created an Artificial Intelligence (AI)-based tool that has learned to predict the behaviour of a quantum system by \"looking\" at its network structure. The neural network autonomously finds solutions that are well-adapted toward quantum advantage demonstrations, according to a study published in the New Journal ..."
     publishedDateTime: 2020-02-05T20:02:00Z

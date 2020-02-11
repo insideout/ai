@@ -102,13 +102,13 @@ related:
       domain: benzinga.com
     quality: 2
   - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-    publishedDateTime: 2020-02-03T10:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
+    publishedDateTime: 2020-02-03T11:44:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 1
   - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
     excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
@@ -120,6 +120,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "hSFuU6mRmh7yMdl6BUeewcs3kMEy/LEfCU3AD2cBF0Ryur7XQUDK7atJcXtOuELc9evMZWo8Doj1FM/MLsblvDVQ0q0jfpuW8nm1qS6FOvuVngTJ00onzh10HWhef6ajJLU/z+eZXsQuKtJIQO4qwHhwHCrLIN37at+07T9N8VRmUlWJLN+ZsVbL+mwBUENR5ChlJ5qjmVnsCKsF8y/JcfR3tYGKZVTi7GKtrguqJrxWTCKONF8vyGnWso5FVyaUbcmaRbDBwIp4gqQmHvTaTJX/LJQyzbZmXDevUfCvlqFLDTpMSizTdOi3jkS1LlAZ;gXI6DtTZLzI+XmUq6J161g=="
+secured: "j7ZeZt0F1Su3w2gyCNyProAh8Xv2J0lXSgaKa0MQ5adUd/yihtNYQXMqfrc6/Ms2qxoaRnRHI4YzFm+J4OapslbegwIDCVkKx+nhIF38NUPZjfEBCmSQSefM81g8Lf5ZffkMSTasxnZ1TnHrDv/7Zc+/abrti6E8PvGpjIi20YS63T4O79aO4s5xwa+bAKEGc+s7Y0X5i5Z0Plf0E9/pxcEuZYVQfS9Gzw81e7pY4/4DnC6okGySA90X1qvdIXZFPHfSPzn3VhrW0U6NJBOlqho3wjFDfpUVY7rwvl023Dnl/9pVQ4DndUrHr0Hv0O/2zUv2LufSNTkuL9V+/dsDVekvMiLMiOjnpEOZokrgT8qM5uS+cjqidqVGKOlXd08FZmsb0ELJKuLFVVgmTGXQuziAoTmxFVCj3Nbpv/fEiBvXQLumvw8NN7n5oceoMWazciZS52ZMpX4bGM7lrVr6mzjK7xk0C+aBr3jvsSDuzok=;yN/xDvBjjdpHFnvOrvd4kA=="
 ---
 

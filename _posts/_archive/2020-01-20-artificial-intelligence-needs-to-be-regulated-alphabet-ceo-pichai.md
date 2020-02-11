@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligenc
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
 
 related:
-  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
@@ -53,6 +42,6 @@ related:
         width: 1200
         height: 628
 
-secured: "S53/ktrD85MAoVa3OEtlWEq/4PDVRRTKDpFq/Lu3ScxgyFWFF0GbiHu8Vbat3NiLmHuH4e1rWuJTANI/fknZPXqjC5P872Cb+nwyWKhXmGgtjst/aASq9Rri8qa7gsHd34a8MXVBuWwTgUD+FgMwawq/cbijFvD4W6gcjlNpfiia7G90PAg3n2qFJr2W9AqHkvDDrRL3UI+urO3eVJyy7vF4ZAdcLH7nHhmNNhUz6KRGp5UogYHJeYSivEVwu8sFOYL8jBjJDRILE+ru8tfdcCka5a0jd090Mc6xMo5Uoq9QbUXmJ+Bw3NlmRTOb/mRf;Eya5isMniGYSnLe+eSPqtQ=="
+secured: "dxge/wX/IQCNnx23iSlR2sAH47hfT0CKleNSbKh2JtlRrMMJI+B3YeTbfhk+UEucaHB2rtfJHdyvmUUjnu96moAR/mH+k0mn3ZAKoz3nnxPXrjf71G8qLXllun9BXoiUZiKLDnwe38aRidcG6t5b5NjsrH3rUmmqkwRD1A8U1q+wnUlnYKH/vYLFDnmi+V/k5wJS3L8NLSlux0pmgHDCEFiPcJQPas1k1ncmIxJklsBYk9caEdWxfhgNJb0CFGckxB0cCfMNFJhumS66+nuUNtrl7OstK1ixkgJWE3bBenygC7j+VD7C3RxYmgUTRPUz;SxKSU9qmZ4GJAJ8hGHlaIw=="
 ---
 

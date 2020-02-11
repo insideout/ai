@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T20:53:00Z
 webUrl: "https://www.statnews.com/2020/02/07/fda-approves-ai-based-software-ultrasound-pictures-heart/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     title: "FDA approves AI-based software that helps doctors take ultrasound pictures of the heart"
 
 related:
+  - title: "Caption Health received De Novo clearance from the FDA for its AI-assisted cardiac ultrasound software"
+    excerpt: "Caption Health received De Novo clearance from the FDA for its AI-powered tool that guides medical professionals as they perform echocardiogram tests."
+    publishedDateTime: 2020-02-11T15:25:00Z
+    webUrl: "https://www.businessinsider.com/caption-health-cardiac-ultrasound-software-receives-fda-clearance-2020-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/5e42b9522dae5c3e3c424764?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "FDA Authorizes Marketing of First Cardiac Ultrasound Software That Uses Artificial Intelligence to Guide User"
     excerpt: "/PRNewswire/ -- Today, the U.S. Food and Drug Administration authorized marketing of software to assist medical professionals in the acquisition of"
     publishedDateTime: 2020-02-07T17:57:00Z

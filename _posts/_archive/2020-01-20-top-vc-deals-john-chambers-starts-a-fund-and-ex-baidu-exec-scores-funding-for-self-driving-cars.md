@@ -40,6 +40,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "uMwSYlss2BVal1hBgHSMZRgDUdOdsXs/QAOe//Rem4GFlcnGBtXQuEfhuhvfOLeygSLIxmvhnPhxOQFXOOK8IBZ9d5BzO4Iw7BSjvt5bE+/lKIo0LK4dPeI1SnmUydH2TRYZWxjNzo3RcZKLnRp0zO2wn6vdrjRO6vYR9CHCJrngZlVikkh2s7G8OSnpCjUbg+vh6njiNuEKOWxnFnJ7LqLeVTawC6eRW9w1tR6TICn4BSn/frY9gQsrD9epR2rqgxvZtvOhsB4qbj7RJFCH3naM1Q2GTY54PrxnSYAVZvrjheLQKQsXe/d7kgj4nlSi;oLhiNLaDt3nsn8JY0swbhw=="
+secured: "sei+oyvwGL82+MWvaiZLDcHgP0K6577+qh9HejGdJBUveab6z4B+OYKKnF6VrPImFT7ncGJwTdojtWEmj5vyNZMMufYiXHwU1XjQJ/NOdtQnuvpU4xnOKDBKnIdYF+PzYiorMUZ/dlxAJfqJ+Byt+DAm3Rr04xTuRYlApkLT50gGuF8O3qUMJjR16Sh95A+hdhX8HGXkzZvRopgTOr0Eu2O6/2Xyppam6p9huG5PWXE81rQN6dMgtDfP5uBJ+hd6DLkpXk0izvygvrHGGkPNrlyq5w2pQ3RDldgV83V/8IsSVY89PoJGI4knC6B+HeMl;dHYlvXAf7nl8C911VUv9+g=="
 ---
 

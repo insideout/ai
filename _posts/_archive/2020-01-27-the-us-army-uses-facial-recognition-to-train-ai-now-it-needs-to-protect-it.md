@@ -1163,19 +1163,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
         width: 2127
         height: 2072
-  - title: "Adroit Forecasts $12 Billion Facial Recognition Market"
-    excerpt: "Adroit Market Research has released a new report that predicts that the global facial recognition market will climb above $12 billion by 2025. That figure eclipses previous reports from MarketsandMarkets and Reports and Data. The former predicted that the global facial recognition market would reach $7 billion by 2024, while the latter forecast ..."
-    publishedDateTime: 2020-01-27T22:20:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/adroit-forecasts-12-billion-facial-recognition-market/246374"
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 39
-    images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
-        width: 512
-        height: 512
   - title: "EU Considers Ban on Use of Facial Recognition Technology"
     excerpt: "The European Union is considering a temporary ban on the use of facial recognition technology because of data privacy concerns. Next month Margrethe Vestager, the European commissioner for digital policy and antitrust, will publish a paper setting out the EU’s plans for regulating artificial intelligence over the next five years. This paper ..."
     publishedDateTime: 2020-01-28T23:34:00Z
@@ -1638,6 +1625,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "2S9X/Vf5MSg1MMRKLj5b/LaQuPK8CjNsWAHRb6V6q43KpOURQ+8EAph7Cto+gOMliSKXYtYnco8XIAx4FLJdXFQ5Z3HOH9BJduDlSQqXmhA7h8m287ieOK0ajNKUTyR4KToNKBN5IO1AJQxjuzYmtqm1MVaRWMZDz30GYOxOb6N2BAH8sAKSPbnjQI0gH2pztUjOybj9L+Tj1V+8uqydCI+41Le7Kh7CfMOJXgL/5rN7WGx5RMgKnFhHRqCYx2hgtvdbcaGFMdCQ17zKusJfhbl08+M0ieyvd/ZllUyxwgFBzrL5xcbBFmb5XDyqNP3p;8ZexOC89l4r1KlVcFL+/ZQ=="
+secured: "r/ntBVTNRg7He6trm2+QH9AaT6u6jXNfZj0dB/5w6cDx643wldggRq/y071lzNe7YKHxS03eAjMi10Wrz6n/3RlLapZmLKTPU64+nFqkAiyJN8mhIaXD/LY8nOhsSmWT6hHNHKgPiVoagCdHSS6E/80HZYxGA+mq8GRqollLrSTIJuvjcYmF7+E0V4hDz1AEuwatB5N3kROvhQv8UPclB0UF67lzhlt/86d3fedeXA7OP7AApD5S74MU1vwoXf6dpV3mBjPQE4XnDZP/gDRaFe824JYb7/xANcUIujNosJVEBU+cF3DWFdIbOQMy9rZP;C+OpsVT91vvgy6Dcolffzw=="
 ---
 

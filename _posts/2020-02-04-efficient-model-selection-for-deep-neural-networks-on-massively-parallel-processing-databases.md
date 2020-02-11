@@ -148,13 +148,13 @@ related:
       domain: globenewswire.com
     quality: 0
   - title: "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System"
-    excerpt: "/PRNewswire/ -- Veoneer, Inc. (NYSE: VNE and SSE: VNE SDB), the world's largest pure-play company focused on Advanced Driving Assistance Systems and"
-    publishedDateTime: 2020-02-05T06:57:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system-300999289.html"
+    excerpt: "These are the main build blocks for higher levels of automated driving. Veoneer's camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity's software, fusing information from the camera and radar ..."
+    publishedDateTime: 2020-02-05T11:07:00Z
+    webUrl: "https://www.autoblog.com/press-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system_22080/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Autoblog
+      domain: autoblog.com
     quality: 0
 
 secured: "TkPvDX0Q8JJLRtpYhWENYNZHEWUXtu5uhvC97Rr14ZB2lKROsjcGS+ovRw41B5llaGIMkrLnFZZCbnOTnmMFsbge9CEBhrcmaaNtp7AqaXqWSJUJyLLZXPsAxX2OJDDJGbYz+JNe093Ik671wfCanLFTxwTp68wbtfUmF4mZ1T3VR3ac+GIi72JJZYoBzhFxX69Ih3fu+e1MeEovOnqw3+BfK9PY+yHANEYxf1bT3BbeMe59Y4q0FiRNKd2daQnqxxoawcMFJSK10hTcg4T4eWrgUtOB/vFGFDHCLzsLn2MjESwIePTAilVv9XPmsWolpW9Xzum48iMlWYqESEE4E2dMPINzfn44aRfkLDgU8JV4Q+dV2hjknsyRm66ycC5721+XuAB8pcDR2NCcFS9DUTqlaxeXxm4kSzkTg9ZPuxIZiv/o7cNjMs4HwxrD8R1p90unCBLRk9kAPOimis5l/apljaLumGWK0LwVeOtS4cE=;67h1WN3QmQueVlp8nBRryQ=="
