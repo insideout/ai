@@ -26,36 +26,6 @@ images:
     title: "Google Translate Will Soon Transcribe Full Speeches, In Context"
 
 related:
-  - title: "Google Translate will transcribe translations in real time on Android"
-    excerpt: "The feature will likely require an internet connection at launch, Google says, which means it will differ from the AI-based and on-device translation features that are in Google Translate today. The company says this is because real-time multilingual transcription is more complicated than simply translating written text from one language to ..."
-    publishedDateTime: 2020-01-28T19:18:00Z
-    webUrl: "https://www.theverge.com/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Io0Xl3TweW-02htkun4nckwTH-Y=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66207626/acastro_180427_1777_0001.0.jpg"
-        width: 1400
-        height: 933
-  - title: "Google will translate and transcribe conversations in real time"
-    excerpt: "Google on Tuesday unveiled a feature that will let people use their phones to both transcribe and translate a conversation in real time into a language that isn't being spoken ... More broadly, Google has invested heavily in AI and machine learning. Google made major waves last year when the company announced it had achieved quantum supremacy."
-    publishedDateTime: 2020-01-28T19:53:00Z
-    webUrl: "https://www.cnet.com/news/google-will-translate-and-transcribe-conversations-in-real-time/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-will-translate-and-transcribe-conversations-in-real-time/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-will-translate-and-transcribe-conversations-in-real-time/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/MFLT6rx2GFLOe1gR08eDHpmjdcA=/756x567/2019/09/10/2e5b33b9-5b16-46a4-89d0-b7251ace8e71/google-logo-5.jpg"
-        width: 756
-        height: 567
   - title: "Google Translate App to Transcribe and Translate in Real Time"
     excerpt: "As CNET reports, Google was showing off a number of its AI projects earlier this week in San Francisco. One of them is a new feature heading to the Google Translate app a few months from now which allows a conversation to be transcribed in real-time while simultaneously being translated into another language. From a practical point of view it ..."
     publishedDateTime: 2020-01-29T16:48:00Z
@@ -174,19 +144,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-73728287/73728287.jpg"
         width: 800
         height: 600
-  - title: "Uniphore: Gained in translation"
-    excerpt: "“Their understanding of natural language processing and speech recognition married with artificial intelligence (AI) and automation is exceptional.” In August 2019, Uniphore raised $51 million in its Series C funding, its largest round, led by March Capital Partners along with Chiratae Ventures (formerly IDG Ventures), Sistema ..."
-    publishedDateTime: 2020-02-04T07:28:00Z
-    webUrl: "https://www.fortuneindia.com/venture/uniphore-gained-in-translation/104095"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: "https://images.assettype.com/fortuneindia/2020-02/7236f7ba-166f-4500-bfd4-d77dcb7b4412/Uniphore.jpg?w=700"
-        width: 700
-        height: 394
   - title: "Android to translate spoken words in real-time in the near future"
     excerpt: "What it’s missing, though, is perhaps the holy grail of translation, transcribing and translating spoken words in real-time. That’s exactly what Google demonstrated to a handful of folks in San Francisco, showing off its chops at AI and natural language processing. The simple process, which involved speaking through the Android phone’s ..."
     publishedDateTime: 2020-01-29T03:35:00Z
@@ -196,6 +153,21 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 34
+  - title: "Translate this: How real-time translation breaks down barriers when you don't speak the language"
+    excerpt: "Half of the internet's content is in English, says Google AI director of product Barak Turovsky,, but only 20% of the global population have any English skills whatsoever. And while Microsoft's text translation technology now supports up to 70 languages and its speech translation can decipher around 40, says Microsoft technical fellow and ..."
+    publishedDateTime: 2020-02-05T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/02/05/translation-tech-solutions-language-barriers-google-translate-interpreter/4596091002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4596091002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4596091002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 31
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/0ac4d43446bf371f6ef33a823905ed947c4a607a/c=5-0-787-440/local/-/media/2019/12/27/USATODAY/usatsports/Reviewed.com-RvEW-23982-echo_amazon.png?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
   - title: "Google demos real-time speech to text translation"
     excerpt: "Google has demonstrated a real time translation and transcription tool powered by AI, that will take lectures and other long-form voice in one language and output it in another. Part of Google Translate, the tool will let a smartphone act as interpreter, listening to speech via the microphone and transcribing translated text in real time."
     publishedDateTime: 2020-01-29T13:08:00Z
@@ -235,32 +207,15 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/01/Google-Translate-Google.jpg"
         width: 1172
         height: 693
-  - title: "Scale and translation-invariance for novel objects in human vision"
-    excerpt: "Here we report tolerance to scale and position changes in one-shot learning by measuring recognition accuracy of Korean letters presented in a flash to non-Korean subjects who had no previous experience with Korean letters. We found that humans have significant scale-invariance after only a single exposure to a novel object. The range of ..."
-    publishedDateTime: 2020-01-29T10:12:00Z
-    webUrl: "https://www.nature.com/articles/s41598-019-57261-6"
+  - title: "Google aims AI at whales and words"
+    excerpt: "SAN FRANCISCO: Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... orcas and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters is ..."
+    publishedDateTime: 2020-01-30T04:30:00Z
+    webUrl: "https://www.bangkokpost.com/tech/1846539/google-aims-ai-at-whales-and-words"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-57261-6/MediaObjects/41598_2019_57261_Fig1_HTML.png"
-        width: 685
-        height: 419
-  - title: "Voice Transcription App Company Otter Secures $10 Million"
-    excerpt: "“There is a large business market opportunity for Otter.ai and DOCOMO’s translation service.” With this round of funding, Otter plans to hire more talent and enhance its artificial intelligence technologies in speech recognition, speaker identifications, and automatic summarization."
-    publishedDateTime: 2020-01-29T12:01:00Z
-    webUrl: "https://pulse2.com/otter-10-million/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 24
-    images:
-      - url: "https://cdn.pulse2.com/cdn/2020/01/Otter.jpg"
-        width: 1200
-        height: 925
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 19
 
 secured: "tvNNCPzHbwzeY6IReuJHxsjydm8Rdhc1lntRGvZ/jnCX23tYVfw4KkGIxpk7nf5fnAELBvu8B6ETYKt4zCX+/kjWNeWqH0CzlORZE85dN08Cm+7QDwAKLF6IMLBjqwD8hnyQsxxiiaNJBlSpubk4YwBWN3UIJ3L+TkK2iZnabGGbb4whnWIFMoDXogS5eRPkTvdKmMu+fwK3ANwm6Pn1tyQ08xEkmJS8VsOXUvENWOHkCVHiTADSXqYlM5MHIAgvf3/dHBUv+XMEN446wsTH+QNC7mihWrSIUnLKdTmKti4voXUbFTAnetf2iwkZMNhNdJ48QhwTn0r3PKVJCm/5L8NAwGDFZoXQq4JLtWM/PC7E14vdd3OJHqh4uDd2JBEFFWVVgz2/bLTrofztEMnpiwB3ACeTFvtOxrw2LbNkDjmHGsvFxCP6sXhPTdbXTo4dCkEbNOEnJW5oSGLNwQ7Mjg4TyziLaCb6nA4tKG5Fd6I=;Zwmw7wBlgNTv8grFzkPz9A=="
 ---

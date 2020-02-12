@@ -66,15 +66,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 19
-  - title: "Google aims AI at whales and words"
-    excerpt: "SAN FRANCISCO: Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... orcas and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters is ..."
-    publishedDateTime: 2020-01-30T04:30:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1846539/google-aims-ai-at-whales-and-words"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 19
 
 secured: "kiP4PDY/hjcAGEDKF7vFoXDJnjSgE518IBwmfJYOyJpUOv99hNcxc0gC2xH/r1pfOKRhl7C1MWa9zwBlOizHfn1sx2b9akiBCJAbgdLJas4lwWhWPy70fKwnUKY4ErGF74qIbS3QIZ03R63PJSRpt0JijQT1tHZ9Jkt/tBYw6kI5SZyM8SjI63viuvVECS0LQRmEmDU3qbq9FBopLjdbDTSbA+tVxYQpRpKbO0FC4LMkRP6YuVq+kqpFcba5vACXFTlrFm6+xJmFe8Ix0AeVkkIL5T/fuRhFZVvkVAADWkfrEbAjrfGKqJUUrHfoUSp8qzEesKRJxen3F73jWzgerV8nkmzi1ArnyKCUyxcGUKauZH2tPPpvh/4VqlbzxQQ+QH8muOr4QI+V+AL03E7t08sQvCj5ATiEjP6qQw8vOt5Fn37uPxsrW5mX/CTES9KZl90lFGNQR3CYrjgyM7om5c42tHyiYNyVD9CCuPZxXQ8=;N/nHErlYEnrgS9ufh5Yarg=="
 ---

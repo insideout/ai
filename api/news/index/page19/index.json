@@ -2,50 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-27-mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back.md",
-      "title": "Mosquitoes spread disease, but this is how AI is biting back",
-      "excerpt": "So, having early detection systems to promptly deploy preventive controls is crucial to protecting people. The Institute of Agrifood Research and Technology (IRTA) in Catalonia, Spain, has started to use artificial intelligence (AI), sensors, and satellite communications to automate the process of trapping mosquitoes and classifying them ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
-      "publishedDateTime": "2020-01-27T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/17/9cd53c09-594e-45b6-ad71-ffebbe7c4b06/thumbnail/1200x675/d95da7082bf0d82ff45d36f0d4da5436/20200117-tiernan-karen-global.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Mosquitoes spread disease, but this is how AI is biting back",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-natural-language-processing-nlp-market-growth-opportunity-and-2027.md",
       "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
       "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
@@ -560,8 +516,8 @@
     {
       "path": "_posts/_archive/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
       "title": "AI can help cancer patients start radiation therapy sooner",
-      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait ...",
-      "heat": 104,
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
@@ -883,6 +839,95 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-28-facial-recognition-startup-clearview-ai-is-struggling-to-address-complaints-as-its-legal-issues-mount.md",
+      "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
+      "excerpt": "One of Clearview AI's investors defended the company, “We do not have to be hidden to be free.” By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 28, 2020, at 3:34 p.m. ET A screenshot of Clearview's search results. Clearview AI, the facial recognition company that claims to have amassed a database of more than 3 billion ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
+      "publishedDateTime": "2020-01-28T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/27/16/campaign_images/5ec0c13d1ba4/20-cashmere-things-so-soft-you-might-want-to-splu-2-326-1580142937-2_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3.md",
+      "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+      "excerpt": "TechCrunch’s fourth Robotics and AI show is coming up on March 3 at UC Berkeley’s Zellerbach Hall. If past experience is any guide, the show is sure to draw a big crowd (cheap student rates here!) but there’s still time to grab a pass. If you’re wondering why you want to take a day out to catch a full day of interviews and audience Q&A ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "publishedDateTime": "2020-01-28T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/5.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-electric-trucks-in-detroit.md",
       "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
       "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
@@ -925,6 +970,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web.md",
+      "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
+      "excerpt": "Basically, it’s a quick and dirty way to perform object detection, face detection, hand tracking, multi-hand tracking, hair segmentation, and other such tasks in a modular fashion, with popular machine learning frameworks like Google’s own TensorFlow and TensorFlow Lite. MediaPipe could previously be deployed to desktop, mobile devices ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
+      "publishedDateTime": "2020-01-28T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {

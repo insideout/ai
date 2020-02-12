@@ -365,19 +365,6 @@ related:
       - url: "https://www.incimages.com/uploaded_files/image/970x450/getty_936177628_2000133320009280405_411864.jpg"
         width: 970
         height: 450
-  - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
-    excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
-    publishedDateTime: 2020-01-28T19:22:00Z
-    webUrl: "https://www.thespec.com/news-story/9833836-facial-recognition-technology-poses-enormous-potential-for-abuse-ndp-says/"
-    type: article
-    provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 36
-    images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
-        width: 587
-        height: 417
   - title: "Milestone adds Innovatrics SmartFace facial recognition to video management software"
     excerpt: "VMS provider, Milestone, has integrated SmartFace biometric facial recognition system from Innovatrics with its XProtect video management software to analyze multiple, simultaneous real-time video streams, improve functionality, tool performance and support compatibility standards, the company announced. SmartFace leverages Innovatrics ..."
     publishedDateTime: 2020-02-03T16:56:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200210/Depression-treatment-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: News Medical
@@ -26,6 +26,21 @@ images:
     title: "Depression treatment using AI, brain scans"
 
 related:
+  - title: "New Treatment Strategy for Depression Uses AI and Brain Scans"
+    excerpt: "Artificial Intelligence (AI) and brain scanning can predict which ... understand the underpinnings of depression and ensure patients are prescribed an effective therapy.\" The research team is planning to integrate the AI technology interface with EEG ..."
+    publishedDateTime: 2020-02-12T12:23:00Z
+    webUrl: "https://www.medindia.net/news/healthinfocus/new-treatment-strategy-for-depression-uses-ai-and-brain-scans-193123-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/healthinfocus/new-treatment-strategy-for-depression-uses-ai-and-brain-scans-193123-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthinfocus/new-treatment-strategy-for-depression-uses-ai-and-brain-scans-193123-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/images/common/news/950_400/ai-and-brain-scans.jpg"
+        width: 950
+        height: 400
   - title: "AI, brain scans may alter how doctors treat depression"
     excerpt: "DALLAS - Feb. 10, 2020 - Artificial intelligence may soon play a critical role in choosing which depression therapy is best for patients. A national trial initiated by UT Southwestern in 2011 to better understand mood disorders has produced what scientists ..."
     publishedDateTime: 2020-02-10T16:03:00Z

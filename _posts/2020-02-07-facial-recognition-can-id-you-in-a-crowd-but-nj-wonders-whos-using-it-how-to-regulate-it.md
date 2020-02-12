@@ -931,21 +931,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
         width: 636
         height: 382
-  - title: "With New Scorecard, Group Seeks Promises That Colleges Won’t Use Facial Recognition on Campus"
-    excerpt: "More than 40 colleges have said they do not use facial recognition technology on campus and stated they have no plans to do so, according to a new “scorecard” published Tuesday by an advocacy campaign titled Ban Facial Recognition on Campus. Launched in mid-January by nonprofit advocacy organizations Fight for the Future and Students for ..."
-    publishedDateTime: 2020-01-28T19:25:00Z
-    webUrl: "https://www.edsurge.com/news/2020-01-28-with-new-scorecard-group-seeks-promises-that-colleges-won-t-use-facial-recognition-on-campus"
-    ampWebUrl: "https://www.edsurge.com/amp/news/2020-01-28-with-new-scorecard-group-seeks-promises-that-colleges-won-t-use-facial-recognition-on-campus"
-    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-01-28-with-new-scorecard-group-seeks-promises-that-colleges-won-t-use-facial-recognition-on-campus"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 48
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/13032/shutterstock_1385868245-1580238863.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
-        width: 640
-        height: 260
   - title: "PopCom’s Interactive Retail Kiosk Incorporates Facial Recognition, Data Collection"
     excerpt: "PopShop is designed to allow e-commerce retailers to have a physical self-serve presence in the form of an interactive kiosk that uses facial recognition. The kiosk’s management software collects customer demographic information at the point of sale, along with monitoring inventory, capturing sales data and generating insights for lead ..."
     publishedDateTime: 2020-01-30T13:48:00Z

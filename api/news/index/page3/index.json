@@ -2,128 +2,10 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-01-how-aws-is-delivering-innovation-in-a-box-for-startups.md",
-      "title": "How AWS is delivering innovation in a box for startups",
-      "excerpt": "Karza also uses Amazon Rekognition, an image and scene identification service, to improve the efficiency of the due-diligence process. All of these pre-tuned services, says Manaktala, is hugely popular among startups. “If a company doesn’t have access ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp",
-      "publishedDateTime": "2020-01-31T20:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static-news.moneycontrol.com/static-mcnews/2019/04/digital-payment-technology-fintech-banking-tech-online-payment-shopping-378x213.jpg",
-          "width": 378,
-          "height": 213,
-          "title": "How AWS is delivering innovation in a box for startups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-01-hyper-intelligent-ai-hive-mind-claims-to-predict-super-bowl-winner.md",
-      "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
-      "excerpt": "But if you’re looking for a really educated guess on the game’s outcome, you’ll want to ask Stanford computer scientist Louis Rosenberg, the founder of Unanimous A.I., a startup that combines the opinions of a lot of humans with artificial intelligence to make remarkably accurate predictions. In nature, many species exhibit something ...",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://futurism.com/the-byte/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner",
-      "ampWebUrl": "https://futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
-      "publishedDateTime": "2020-02-01T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/01/hyper-intelligent-hive-mind-predicts-super-bowl-liv-winner-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-01-indias-plans-for-data-centre-parks-may-finally-force-facebook-and-twitter-to-localise.md",
-      "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
-      "excerpt": "The proposed policy directly takes on a highly-debated clause in India’s personal data protection bill, which suggests that data collected by foreign companies such as Facebook, TikTok ... for tech advancements by setting up a national portal for artificial intelligence (AI) research and development. “We appreciate the government’s ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/",
-      "ampWebUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
-      "publishedDateTime": "2020-02-01T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/02/AP_20032244386981-e1580546856302.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-01-the-future-of-fintech-ai-blockchain.md",
       "title": "The Future of Fintech: AI & Blockchain",
       "excerpt": "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services.",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
@@ -2143,6 +2025,124 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training.md",
+      "title": "Labelbox raises $25 million to grow its data-labeling platform for AI model training",
+      "excerpt": "Labelbox today announced the close of a $25 million Series B funding round to grow its data-labeling platform made to suppy customers with labeled data necessary to train AI systems. The funding round was led by Andreessen Horowitz with participation from Google’s AI-focused fund Gradient Ventures, Kleiner Perkins, and First Round Capital.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/amp/",
+      "publishedDateTime": "2020-02-04T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Labelbox-co-founders.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Labelbox raises $25 million to grow its data-labeling platform for AI model training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-new-deep-learning-model-identifies-sleep-stages.md",
+      "title": "New deep learning model identifies sleep stages",
+      "excerpt": "Researchers at the University of Eastern Finland have developed a new deep learning model that can identify sleep stages as accurately as an experienced physician. Sleep is manually classified into five stages, which are wake, rapid eye movement (REM) sleep and three stages of non-REM sleep. It is estimated that up to one billion people ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://timesofindia.indiatimes.com/videos/news/new-deep-learning-model-identifies-sleep-stages/videoshow/73923466.cms",
+      "ampWebUrl": "https://m.timesofindia.com/videos/news/new-deep-learning-model-identifies-sleep-stages/amp_videoshow/73923466.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/new-deep-learning-model-identifies-sleep-stages/amp_videoshow/73923466.cms",
+      "publishedDateTime": "2020-02-04T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-73923466/videos/news/new-deep-learning-model-identifies-sleep-stages.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "New deep learning model identifies sleep stages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-nomagics-pick-and-place-warehouse-robots-raise-86m.md",
+      "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
+      "excerpt": "Since automation can relieve human warehouse workers of tedious tasks, Nomagic claimed that its smart pick-and-place robots offer high flexibility and that they can help reduce the cost per pick. The company added that its artificial intelligence and cloud platform enable its robotic arms to handle millions of different products. Magicloader is ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/nomagic-pick-place-warehouse-robots-86m/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/Nomagic_0-1024x563-1.jpeg",
+          "width": 1024,
+          "height": 563,
+          "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

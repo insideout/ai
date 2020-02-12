@@ -25,6 +25,19 @@ images:
     title: "Toronto machine learning startup Dessa acquired by Square"
 
 related:
+  - title: "Square acquires Toronto-based machine learning company Dessa"
+    excerpt: "We’ve acquired Dessa, a Toronto-based company building machine learning applications that address significant real-world challenges for all types of businesses. Their team of world-class engineers will immediately bolster our machine learning and ..."
+    publishedDateTime: 2020-02-12T12:27:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81471/square-acquires-toronto-based-machine-learning-company-dessa"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
   - title: "Content delivery firm Hyland acquires blockchain-credential startup Learning Machine"
     excerpt: "Hyland Software Inc., an enterprise content services provider, today announced the company’s acquisition of blockchain-anchored document credential solutions startup Learning Machine. Learning Machine is a startup that has pioneered the use of distributed ledger blockchain technology to authenticate documents and content. Using its ..."
     publishedDateTime: 2020-02-05T21:25:00Z

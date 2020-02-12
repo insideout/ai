@@ -74,6 +74,19 @@ related:
       - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
         width: 1000
         height: 543
+  - title: "Congress looks to revive self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-12T12:19:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
+        width: 938
+        height: 483
 
 secured: "lx1L7+v/9GQOQPeUnTH386m8cINiiBrpT+Mkxfwt3bTw8NZRjj+Q3L1CNjSkcFKI9dBb7iRGSWCq62X5oDgJXEXGUwydfNo8hiv1EushOvG3zdMwrcoCnijaDqyOFEOEdgZhaP9WX198ArrbSsWKmrdz+GD8vnjcyZXjB0TXpDWGuLNCWgP/4eBj8/kO5hgzwLmOp+eyzm4CEKNOuVbXBIWoosDHiieVnjHDMDb3mG/qrxHTAYHBSWkNRGgdi9LA/wzc1GF4TZ3VyofPSEKl5DARBhIBLnTs+RN3vrMqlemanebldQSbVwV5B8VDhVzeJPaK4jb453NnkRDT9st+fAdCiT1LHuWhDUvWfXZH1Q2ECkeuqS442eiUsBQeF06m/rd1GlaS2Dzs1kQspVbQ00TL8O37Eny+wKy9jwBmCWVM/IT0JkGEAan95sDJBf7C0rmGs72BgaWoCAocPR9iL7YDiyVYaExl2bpNezmPcy0=;Zzy7QCqck5+mkcFN6/Ji+A=="
 ---

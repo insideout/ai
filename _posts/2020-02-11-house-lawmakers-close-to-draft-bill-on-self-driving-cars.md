@@ -67,6 +67,19 @@ related:
       - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
         width: 1000
         height: 543
+  - title: "Congress looks to revive self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-12T12:19:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
+        width: 938
+        height: 483
   - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
     excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
     publishedDateTime: 2020-02-11T19:56:00Z

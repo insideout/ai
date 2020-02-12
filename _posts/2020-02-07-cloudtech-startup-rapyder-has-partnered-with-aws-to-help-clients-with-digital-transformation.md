@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T00:24:00Z
 webUrl: "https://yourstory.com/2020/02/cloudtech-startup-rapyder-aws-quickride"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,23 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Agritech startup CropIn partners with Centre to help estimate crop yield accurately"
+    excerpt: "Krishna Kumar, Kunal Prasad and Chittaranjan Jena, Co-founders, CropIn According to a statement released by the startup, the goal of this partnership is to prevent improper data collection and provide complete digitisation of farms and farmers-level data. AI and data-led CropIn will help the government in providing technical support to conduct ..."
+    publishedDateTime: 2020-02-12T12:48:00Z
+    webUrl: "https://yourstory.com/2020/02/ai-agritech-startup-cropin-government-partnership"
+    ampWebUrl: "https://yourstory.com/2020/02/ai-agritech-startup-cropin-government-partnership/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/ai-agritech-startup-cropin-government-partnership/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 36
+    images:
+      - url: "https://images.yourstory.com/cs/wordpress/2018/11/CropIn_Krishna-Kumar_Kunal-Prasad_Chittaranjan-Jena-from-left-to-right.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
 
 secured: "lC1nhbIfvHQ81RR3rtY0q3xVq/ueHJwtYiPMVee9GwM2CzfggaRhAOxQi7cgBMXfP8U1eV8jthimPtOg40CSm4yjYt5761PYcL5ePahXcWCDz4GjG9aa7nnuJqBWyfBLrm0d9hg8PMOg4Gs4ApsbcRjLNdRJ3mY6HBa8/xJB2iqrwLkqQ9qHDJsT3J+l1i/meXpguAZyMUQ24GAtvRzh78YdounFF2meEhMLGxMghehvo4e0BQUmfUMNsdup6ss07nAkV8pnK5dvLVwoPVmYuVP614ob5frNO/sHbTo3PtVg5ondpzN86EiG0NDLxFHBSJ/pMfpd1vu+IpOuMmhq6veGsP0LAisyyb10q4/YylqlYPvzwp0UdR+MBQRJJU6RHOSdX59vNR0xjcz1kZ2sI3JNN4VpdN6nlhztaL4ayNew4sBLn5+D5VIcgnPbJCE29ybt0l5+q9toiIYand+d4+LmvnxvoyeYXiNbGFXbd6s=;VAO3YIpqb1TwoNPoHkZnOg=="
 ---

@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "AI can help cancer patients start radiation therapy sooner"
-    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait ..."
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
     publishedDateTime: 2020-01-28T02:41:00Z
     webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
     ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
@@ -40,19 +40,6 @@ related:
         width: 620
         height: 480
   - title: "AI can jump-start radiation therapy for cancer patients"
-    excerpt: "DALLAS - Jan. 27, 2020 - Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating ..."
-    publishedDateTime: 2020-01-27T21:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/usmc-ac012720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/222662_web.jpg"
-        width: 720
-        height: 527
-  - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
     webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
@@ -64,6 +51,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "gFk+a7zqQd/npoM2e3ulN8IAb/6ESSlOohGufGd0klu4kMfPStbiLsnEosLupdgA+C2wplycP7bQdyqJgy7xvdW3+CKul6DPhDt7RgDMoIV3rSbIhkhaB9AmXjkt3GLvXDNUZ9GFvHfEX/zSPIaQCjNRdnFgn4gYrGLIomRDEkAVDNtnXWB1IKGr7eDCzhxfhm4cyQs8I8l9GEC+iRqMII7/kOAzP6qbEDtKaGTk1Y3MnpM/ZCmhltLbQfCanjDnSnBylq6H9/m7YeXss8zb/o5apdmjsa1pIQ2TFIwFGlUEOwFygQ8dNW1WtD4eJ2qc;cONnV2EstFjxcRjFBXzz3g=="
+secured: "SCu9Ri6uXmFGxsGA24xeqq2pXsNMzT4FoOL+nF5S71ZBv/KrmTjdUY971oCracUMwXMRLbJUEx4iht/C4mYbhJTo7VB6BMmMQa6v553/9/m47t4gP3vAghYmNuyliWbktXvY9OsvNEsQ6hE67PcolznJNY/nrhWmoh5wFBAc7mnMAEnrNBwHuJK187MPR/+yIgdZcHKUc4Iv0vrPL5TzBzCKiHH9cNk+EFnDS4rA2mSAMZM9X2246+xCclSltZ7bnPF3bUYlY7aGVUI0LnX992trBOhjVvn30UIx+Q4W+Rm3VUQDSAhdLiieiow5Gdv3;C25Ux4+NzMDH2BVZB0TKdQ=="
 ---
 

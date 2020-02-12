@@ -944,21 +944,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2019/11/13/USATODAY/usatsports/imageforentry20-mcf.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "With New Scorecard, Group Seeks Promises That Colleges Won’t Use Facial Recognition on Campus"
-    excerpt: "More than 40 colleges have said they do not use facial recognition technology on campus and stated they have no plans to do so, according to a new “scorecard” published Tuesday by an advocacy campaign titled Ban Facial Recognition on Campus. Launched in mid-January by nonprofit advocacy organizations Fight for the Future and Students for ..."
-    publishedDateTime: 2020-01-28T19:25:00Z
-    webUrl: "https://www.edsurge.com/news/2020-01-28-with-new-scorecard-group-seeks-promises-that-colleges-won-t-use-facial-recognition-on-campus"
-    ampWebUrl: "https://www.edsurge.com/amp/news/2020-01-28-with-new-scorecard-group-seeks-promises-that-colleges-won-t-use-facial-recognition-on-campus"
-    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-01-28-with-new-scorecard-group-seeks-promises-that-colleges-won-t-use-facial-recognition-on-campus"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 48
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/13032/shutterstock_1385868245-1580238863.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
-        width: 640
-        height: 260
   - title: "PopCom’s Interactive Retail Kiosk Incorporates Facial Recognition, Data Collection"
     excerpt: "PopShop is designed to allow e-commerce retailers to have a physical self-serve presence in the form of an interactive kiosk that uses facial recognition. The kiosk’s management software collects customer demographic information at the point of sale, along with monitoring inventory, capturing sales data and generating insights for lead ..."
     publishedDateTime: 2020-01-30T13:48:00Z

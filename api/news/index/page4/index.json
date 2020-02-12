@@ -2,124 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-04-labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training.md",
-      "title": "Labelbox raises $25 million to grow its data-labeling platform for AI model training",
-      "excerpt": "Labelbox today announced the close of a $25 million Series B funding round to grow its data-labeling platform made to suppy customers with labeled data necessary to train AI systems. The funding round was led by Andreessen Horowitz with participation from Google’s AI-focused fund Gradient Ventures, Kleiner Perkins, and First Round Capital.",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/amp/",
-      "publishedDateTime": "2020-02-04T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Labelbox-co-founders.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Labelbox raises $25 million to grow its data-labeling platform for AI model training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-new-deep-learning-model-identifies-sleep-stages.md",
-      "title": "New deep learning model identifies sleep stages",
-      "excerpt": "Researchers at the University of Eastern Finland have developed a new deep learning model that can identify sleep stages as accurately as an experienced physician. Sleep is manually classified into five stages, which are wake, rapid eye movement (REM) sleep and three stages of non-REM sleep. It is estimated that up to one billion people ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://timesofindia.indiatimes.com/videos/news/new-deep-learning-model-identifies-sleep-stages/videoshow/73923466.cms",
-      "ampWebUrl": "https://m.timesofindia.com/videos/news/new-deep-learning-model-identifies-sleep-stages/amp_videoshow/73923466.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/new-deep-learning-model-identifies-sleep-stages/amp_videoshow/73923466.cms",
-      "publishedDateTime": "2020-02-04T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-73923466/videos/news/new-deep-learning-model-identifies-sleep-stages.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "New deep learning model identifies sleep stages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-nomagics-pick-and-place-warehouse-robots-raise-86m.md",
-      "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
-      "excerpt": "Since automation can relieve human warehouse workers of tedious tasks, Nomagic claimed that its smart pick-and-place robots offer high flexibility and that they can help reduce the cost per pick. The company added that its artificial intelligence and cloud platform enable its robotic arms to handle millions of different products. Magicloader is ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/nomagic-pick-place-warehouse-robots-86m/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-04T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/Nomagic_0-1024x563-1.jpeg",
-          "width": 1024,
-          "height": 563,
-          "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests.md",
       "title": "Online targeting needs tighter controls, UK data ethics body suggests",
       "excerpt": "A UK government advisory body on AI and data ethics has recommended tighter controls on how platform giants can use ad targeting and content personalization. Concerns about the largely unregulated eyeball-grabbing targeting tactics of online platforms — be it via serving ‘personalized content’ or ‘microtargeted ads’ to individuals or ...",
@@ -629,43 +511,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-an-introduction-to-robots-that-work-on-the-nanoparticle-scale.md",
-      "title": "An Introduction to Robots that Work on the Nanoparticle Scale",
-      "excerpt": "In it, Lem describes bacteria sized robots collectively looking like normal dust developed by artificial intelligence on the moon in an era of global cold warfare. These tiny robots are later sent to earth to destroy all technology, weapons, and machines but leaving the living organisms intact. They penetrated cannon barrels, tanks, planes ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=336",
-      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=336",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=336",
-      "publishedDateTime": "2020-02-05T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/Article_Images/ImageForArticle_336_15809016109583463.png",
-          "width": 950,
-          "height": 534,
-          "title": "An Introduction to Robots that Work on the Nanoparticle Scale",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -2101,6 +1946,160 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-energy-names-inaugural-director-of-new-artificial-intelligence-and-technology-office.md",
+      "title": "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office",
+      "excerpt": "Less than a half-year into its existence, the Energy Department’s new Artificial Intelligence and Technology Office officially unveiled its leader. According to a Thursday announcement, the agency’s undersecretary for science officially swore in Cheryl Ingstad as the inaugural director of AITO on Feb. 4. “AI technologies will be as ...",
+      "heat": 140,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/02/energy-names-inaugural-director-new-artificial-intelligence-and-technology-office/162922/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2020/02/05/NGai20200205/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon.md",
+      "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
+      "excerpt": "The European Central Bank (ECB) has partnered with Reply, a platform focused on digital innovation, in order to offer a 48-hour coding marathon, which will focus on teaching participants how to apply the latest artificial intelligence (AI) and machine learning (ML) algorithms. The marathon is scheduled to take place during the final days of ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
+      "publishedDateTime": "2020-02-06T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Euro-Money-Europe-20-bright-300x216.jpeg",
+          "width": 300,
+          "height": 216,
+          "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites.md",
+      "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
+      "excerpt": "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ...",
+      "heat": 327,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/",
+      "ampWebUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
+      "cdnAmpWebUrl": "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
+      "publishedDateTime": "2020-02-05T18:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Snopes.com",
+        "domain": "snopes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452",
+          "width": 800,
+          "height": 452,
+          "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-how-ai-can-help-keep-your-customers-onside.md",
+      "title": "How AI Can Help Keep Your Customers Onside",
+      "excerpt": "After years of hype around the potential of artificial intelligence (AI), the augmented workforce is finally a reality for many businesses. But while much of the attention so far has focused on relatively simplistic chatbots helping field basic customer enquiries,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/03/how-ai-can-help-keep-your-customers-onside/",
+      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/02/03/how-ai-can-help-keep-your-customers-onside/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/03/how-ai-can-help-keep-your-customers-onside/amp/",
+      "publishedDateTime": "2020-02-05T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e384e52a854780006b054f3%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "How AI Can Help Keep Your Customers Onside",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

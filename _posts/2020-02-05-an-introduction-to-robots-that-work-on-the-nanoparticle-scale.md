@@ -8,8 +8,8 @@ ampWebUrl: "https://www.azorobotics.com/amp/article.aspx?ArticleID=336"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=336"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Azorobotics
@@ -26,19 +26,6 @@ images:
     title: "An Introduction to Robots that Work on the Nanoparticle Scale"
 
 related:
-  - title: "Avaloq shares insights on AI, robotics & automation, and its role in the future of financial services"
-    excerpt: "According to new industry research by Avaloq, a Swiss FinTech, additional key developments include the increasing use of more ... But it is clear that even bigger changes are arriving, particularly with regards to AI, robotics and automation, which combined with design thinking methodology will enhance the overall customer experience."
-    publishedDateTime: 2020-01-30T16:01:00Z
-    webUrl: "https://hubbis.com/news/avaloq-shares-insights-on-ai-robotics-automation-and-its-role-in-the-future-of-financial-services"
-    type: article
-    provider:
-      name: Hubbis
-      domain: hubbis.com
-    quality: 24
-    images:
-      - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
-        width: 500
-        height: 500
   - title: "Reinforcement Learning: An Introduction to the Technology"
     excerpt: "A general framework for deep Reinforcement Learning (RL) – also known as a semi-supervised learning model in machine learning paradigm Read the full report: https://www.reportlinker.com/p05843529/?utm_source=PRN - Assessing the breadth and depth of RL applications in real-world domains, including increased data efficiency and stability as ..."
     publishedDateTime: 2020-02-04T00:29:00Z

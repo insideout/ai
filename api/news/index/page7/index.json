@@ -2,186 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-10-tyson-takes-computer-vision-to-the-chicken-plant.md",
-      "title": "Tyson Takes Computer Vision to the Chicken Plant",
-      "excerpt": "The meat processor plans to expand the use of computer vision to track how much chicken moves through its plants, part of an effort to invest more in automation and artificial intelligence to cut costs and reduce waste.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "publishedDateTime": "2020-02-10T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-152065/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Tyson Takes Computer Vision to the Chicken Plant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds.md",
-      "title": "UK public sector failing to be open about its use of AI, review finds",
-      "excerpt": "He has also personally championed a chatbot startup, Babylon Health, that’s using AI for healthcare triage — and which is now selling a service in to the NHS. Policing is another area where AI is being accelerated into UK public service delivery, with a number of police forces trialing facial recognition technology — and London’s Met ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/amp/",
-      "publishedDateTime": "2020-02-10T06:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1074644658-2.jpg?w=1024",
-          "width": 1024,
-          "height": 662,
-          "title": "UK public sector failing to be open about its use of AI, review finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-us-army-to-use-gamers-brain-waves-to-train-military-robot-swarms.md",
-      "title": "US Army to use gamers’ brain waves to train military robot swarms",
-      "excerpt": "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ...",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots",
-      "ampWebUrl": "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp",
-      "publishedDateTime": "2020-02-10T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "US Army to use gamers’ brain waves to train military robot swarms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers.md",
-      "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
-      "excerpt": "This intelligence report provides a comprehensive analysis of the \"Global Vehicle Speech Recognition System Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 125,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-virie-and-the-upgrading-financial-globalization.md",
       "title": "Virie and the Upgrading Financial Globalization",
       "excerpt": "Digital platforms, blockchain, and machine learning are generating new channels and innovating financial systems. The new league of markets like Virie is ... Virie lets you transact in your choice of fiat or virtual currency, or even other goods or services in exchange. The Virie Market keeps the user in the spotlight and works around this ...",
@@ -532,7 +352,7 @@
       "path": "_posts/2020-02-11-arm-targets-iot-with-new-machine-learning-ip-processors.md",
       "title": "Arm targets IoT with new Machine Learning IP, processors",
       "excerpt": "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ...",
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/",
@@ -783,10 +603,47 @@
       ]
     },
     {
+      "path": "_posts/2020-02-11-depression-treatment-using-ai-brain-scans.md",
+      "title": "Depression treatment using AI, brain scans",
+      "excerpt": "Artificial intelligence (AI) may be a useful and even essential tool in selecting the best ... patterns of brain activity were actually linked to the kind of brain activity impairment that improves with antidepressant therapy. This data came from the EMBARC trial for patients with major depression. The trial lasted 16 weeks at four different ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
+      "publishedDateTime": "2020-02-10T17:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f2%2f223421_web_00c4750629854c469bd98996c081a559-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Depression treatment using AI, brain scans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/2020-02-11-eu-backs-away-from-call-for-blanket-ban-on-facial-recognition-tech.md",
       "title": "EU backs away from call for blanket ban on facial recognition tech",
       "excerpt": "Brussels has backed away from plans to call for a five-year blanket moratorium on the use of facial recognition technology in public spaces, instead leaving the responsibility of choosing to impose a ban to member states, despite concerns from privacy groups that civil liberties could be infringed by the biometric software. In a draft of a ...",
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.ft.com/content/ff798944-4cc6-11ea-95a0-43d18ec715f5",
@@ -1785,6 +1642,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-11-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
+      "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+      "excerpt": "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11",
+      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "publishedDateTime": "2020-02-11T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG",
+          "width": 640,
+          "height": 419,
+          "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/2020-02-11-why-we-need-to-focus-on-the-positives-of-ai.md",
       "title": "Why We Need To Focus On The Positives Of AI",
       "excerpt": "Many people tend to think of AI as purely an automation technology, but that just skims the surface of what these tools and techniques can do for us.",
@@ -2137,6 +2031,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-12-uk-vc-firm-focused-on-artificial-intelligence-expands-to-southeast-asia.md",
+      "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
+      "excerpt": "Skymind Global Ventures, a venture capital firm that invests in artificial intelligence companies, on Wednesday launched an $800 million fund and said it would expand to Southeast Asia region. A significant portion of the $800 million fund will be used to invest in Southeast Asian AI companies, the company said in a statement to the press.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346265",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346265",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346265",
+      "publishedDateTime": "2020-02-12T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20170107081833-shutterstock-539711077.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2013-07-04-from-chess-to-ping-pong-how-pegasystems-is-capturing-the-fortune-500.md",
       "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
       "excerpt": "And Cisco is using the technology to centralise its business processes in a company-wide rules engine that will help it respond ... and refine and develop them until they meet the needs of the ...",
@@ -2161,6 +2100,42 @@
           "width": 580,
           "height": 387,
           "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2015-02-17-meet-the-new-face-detection-algorithm-that-will-change-image-search.md",
+      "title": "Meet the new face-detection algorithm that will change image search",
+      "excerpt": "Current facial-recognition technology is based primarily on the work of Paul Viola and Michael Jones, who achieved a major breakthrough in 2001 when they developed an algorithm that could detect ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/",
+      "ampWebUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
+      "publishedDateTime": "2015-02-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/7da/6e/fc3aa93d4cf68ff5406f291efcd81b08-1022x512.jpg",
+          "width": 1022,
+          "height": 512,
+          "title": "Meet the new face-detection algorithm that will change image search",
           "attribution": null
         }
       ],

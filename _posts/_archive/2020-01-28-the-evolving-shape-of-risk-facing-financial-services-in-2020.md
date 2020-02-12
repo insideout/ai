@@ -110,6 +110,6 @@ related:
       domain: finextra.com
     quality: 0
 
-secured: "ba94Vzt9+fa9eWiOGAG3axrt5BxMLWyWax3NfQFzp1RUlvVsvenEsMABJ45yxdED+aEoTl1qef1oTiDcoGPcspH8Nb1mLGE/pETzV5sDrV42ZkAtQ6KST2aA6CLAG0+A0EcZi4dhInpJgdVeu+RjDUs7m85AQBlfwLKBmaEYoO8hgdi3q2as/4jxmsxQggGOfhgRJMIBbJbbwGs/PkUX1rPyCzu4AHEtj8LzNjzpHsmmlasVo8JAkiu+HpX9YYmnDc4rwFXhCLmE3nX4xbEgq1duYTPdKfMjAvlB4z1oNXZf/nfDQf11Ts8IQT//evEl;OEEKim7A1ra3mLJt33gm3w=="
+secured: "MH4CICVgaSswCoZuvFMp3ydIRZ+gDag/fj71tIXkX6x6uYXQ/0XSGDBWgDdt9H4vVEllqsHg27W8ImzsQAQ/Cl4RJkuiXr+b50GUWAFexVL+iiqZ87UAM6M7RjTv8qejzpSmW8bseR0hmHVzT5AlxzVwPRiffkKq6IV5SjJGFoAPG9BZrtj9wBcepwknYydObWwk7rIPNGFTNmvMeCF6UF+qE/1T5UWtGWI8b5OMXErjgVwmuUgKPaO6EWv/QUgo7GvxwHp/mcGI0nBquYM0o9iDIoqu+IOv9NPI9NZGjDLfzqF7wgkdMTtgy0JPuyCS;8eCXnRAGRdeSit0f+zhnhA=="
 ---
 

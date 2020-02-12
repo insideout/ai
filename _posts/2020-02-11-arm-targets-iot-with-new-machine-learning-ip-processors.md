@@ -8,7 +8,7 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/devices-home-banner
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Arm targets IoT with new Machine Learning IP, processors"
 
 related:
+  - title: "Arm announces new processor IPs for AI and machine learning"
+    excerpt: "Arm has announced details of its latest processors designed for artificial intelligence and machine learning, the Arm Cortex-M55, as well as the first microNPU (Neural Processing Unit), the Ethos-U55 which offer a combined 480x machine learning improvement for microcontrollers. Cortex-M based processors are already powering a vast range of AI ..."
+    publishedDateTime: 2020-02-12T12:25:00Z
+    webUrl: "https://www.kitguru.net/components/cpu/james-dawson/arm-announces-new-processor-ips-for-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 54
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/02/2744.arm-processors-cortex-m-hero-v2.jpg-900x506x2-618x330.jpg"
+        width: 732
+        height: 330
   - title: "BrainChip Showcases Vision and Learning Capabilities of its Akida Neural Processing IP and Device at tinyML Summit 2020"
     excerpt: "\"We recognize the growing need for low-power machine learning for emerging applications and architectures and have worked diligently to provide a solution that performs complex neural network training and inference for these systems. We believe that as a high-performance and ultra-power neural processor, Akida is ideally suited to be ..."
     publishedDateTime: 2020-02-07T13:06:00Z

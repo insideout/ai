@@ -92,140 +92,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-28-facial-recognition-startup-clearview-ai-is-struggling-to-address-complaints-as-its-legal-issues-mount.md",
-      "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
-      "excerpt": "One of Clearview AI's investors defended the company, “We do not have to be hidden to be free.” By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 28, 2020, at 3:34 p.m. ET A screenshot of Clearview's search results. Clearview AI, the facial recognition company that claims to have amassed a database of more than 3 billion ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
-      "publishedDateTime": "2020-01-28T12:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/27/16/campaign_images/5ec0c13d1ba4/20-cashmere-things-so-soft-you-might-want-to-splu-2-326-1580142937-2_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-28-five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3.md",
-      "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
-      "excerpt": "TechCrunch’s fourth Robotics and AI show is coming up on March 3 at UC Berkeley’s Zellerbach Hall. If past experience is any guide, the show is sure to draw a big crowd (cheap student rates here!) but there’s still time to grab a pass. If you’re wondering why you want to take a day out to catch a full day of interviews and audience Q&A ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
-      "publishedDateTime": "2020-01-28T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/5.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-28-google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web.md",
-      "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
-      "excerpt": "Basically, it’s a quick and dirty way to perform object detection, face detection, hand tracking, multi-hand tracking, hair segmentation, and other such tasks in a modular fashion, with popular machine learning frameworks like Google’s own TensorFlow and TensorFlow Lite. MediaPipe could previously be deployed to desktop, mobile devices ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
-      "publishedDateTime": "2020-01-28T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-28-launch-your-product-at-transform-2020-the-ai-event-for-enterprise-decision-makers.md",
       "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
       "excerpt": "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ...",
@@ -837,43 +703,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-29-burger-flipping-robot-now-stands-on-its-head.md",
-      "title": "Burger flipping robot now stands on its head",
-      "excerpt": "Flippy is a lightweight industrial robotic arm with a spatula for an end effector bundled with a sensor suite and smart AI that helps it get better the more it cooks ... This month, Zume, previously the hottest fast food automation startup on the block with a valuation in the billions as of late 2019, announced it was changing focus from ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/burger-flipping-robot-now-stands-on-its-head/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/burger-flipping-robot-now-stands-on-its-head/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/burger-flipping-robot-now-stands-on-its-head/",
-      "publishedDateTime": "2020-01-29T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-01-29-concentric-raises-75-million-to-identify-and-protect-sensitive-enterprise-data-with-ai.md",
       "title": "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI",
       "excerpt": "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ...",
@@ -1167,6 +996,51 @@
           "width": 1200,
           "height": 675,
           "title": "Google looks ahead to the next decade of AI research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-google-translate-app-to-transcribe-and-translate-in-real-time.md",
+      "title": "Google Translate App to Transcribe and Translate in Real Time",
+      "excerpt": "As CNET reports, Google was showing off a number of its AI projects earlier this week in San Francisco. One of them is a new feature heading to the Google Translate app a few months from now which allows a conversation to be transcribed in real-time while simultaneously being translated into another language. From a practical point of view it ...",
+      "heat": 214,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/345665",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345665",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345665",
+      "publishedDateTime": "2020-01-29T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200129163936-google-translate.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Google Translate App to Transcribe and Translate in Real Time",
           "attribution": null
         }
       ],
@@ -2131,6 +2005,139 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-ai-finds-square-structure-inside-triangle-on-ceres-failing-experiment-to-see-if-it-could-be-used-to-find-aliens.md",
+      "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
+      "excerpt": "In an experiment designed to see if artificial intelligence could be used to discover extraterrestrials, it detected an unusual \"square structure\" inside a \"triangle\" on Ceres, a dwarf planet that sits in the asteroid belt between Mars and Jupiter.",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856",
+      "ampWebUrl": "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1",
+      "publishedDateTime": "2020-01-30T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1563805/bright-spots.jpg",
+          "width": 720,
+          "height": 400,
+          "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated.md",
+      "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
+      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of the progress of AI highlight anxiety about AI eliminating jobs, the competition for AI talent, questions about employees AI preparedness,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
+      "publishedDateTime": "2020-01-30T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855180%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-alphabet-earnings-might-google-make-a-fourth-quarter-comeback.md",
+      "title": "Alphabet Earnings: Might Google Make A Fourth Quarter Comeback?",
+      "excerpt": "Key Takeaways:Third-party analyst consensus sees quarterly adjusted earnings of $12.55 per share on revenue of $46.93 billion.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/",
+      "ampWebUrl": "https://www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/amp/",
+      "publishedDateTime": "2020-01-30T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e32fbe9a854780006aff826%2F0x0.jpg",
+          "width": 507,
+          "height": 290,
+          "title": "Alphabet Earnings: Might Google Make A Fourth Quarter Comeback?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

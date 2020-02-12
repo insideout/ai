@@ -36,15 +36,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 39
-  - title: "The Evolving Data Center, Part 2: AI in 2020"
-    excerpt: "Prediction #1: In 2020, we will see a proliferation of customized AI chips hitting the market. As a result, almost every vertical will begin to tap into the power of AI/ML. Billions of dollars have been spent over the past few years to develop AI chips ..."
-    publishedDateTime: 2020-02-03T18:31:00Z
-    webUrl: "https://www.networkworld.com/article/3518821/the-evolving-data-center-part-2-ai-in-2020.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
 
 secured: "dkXCdXscsNGiwSn2LSr/ODmjWQxG5k+gKeVsLTZIRY7ppEqHVQ57ZoXniMnv0BA3i7J2AtBZOJgyXfogZZisX7vD1lJ7Rk2IhTK0Kj1o1q5GlPEKXH74veNnOfYcIfPhSmXGw889pBve7Mgj4ng/+VjPXSRaRU0/k1iMvJoEO+F6Kn5/ekncj0AaboSW3J9qs5q4K1iz06dG1F2QnZ9lqfbVqqErpm3ogZHxx05vvcraT0qbx8NIrCjR8cCbfQWQq+jovvz7W42CgBuEqjM1m6eS+6AfML543ixc1DPleFkJz+H+yjAAYvojYP3HC+qncJMwDKz1PtVTEiZQHuuW891mqC2+1bJks6J9uScRkrMDuD5rLY0gmwO+Ml8NWmnfzn8/2b0jfMhMSHqWTVTBlhyAtUgnQ7YD5XynVX0e/Q7NjH6KXlLXyFXxwUmK1VFdMHSjIUK+wTC8oE9eC4tip5KCvedojqpc1xF88rI7G7U=;8kXPnRe/pxI6TI2V36+80w=="
 ---

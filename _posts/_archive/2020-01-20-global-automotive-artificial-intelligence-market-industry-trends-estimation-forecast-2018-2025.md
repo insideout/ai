@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T09:52:00Z
 webUrl: "https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ topics:
   - AI
   - AI in Autos
 
-secured: "aPEuBG73D+fc7CWMR9ykf4hcF2XBfH7nc9IFU4Z8SDD7ph+My2Rx5mtCm6+ls5R1iOpZIiU3mBuE+WhMwC9ChzP/Z5slyApv3x9BXXqhEfXBNh5GWZYvwNv2cdZ1FGMrwHq1p2HcPdcGT8X9+8vg/fQrxdqfm249dGJXFS9DqMQKg0Jhgiqrf8qYabXPxA0hU2BMo1jGpKNk/focfmKfDjQkuzFiy2fMi5noPw+kf+135vRM5vxrWFaSnssJxuCR2l9wy7hMmuSKvQP5cjmk3IUsuAs14vcrP3L4J1jU1cUM2faoqFJAmqnSfY0NEkTM;M7cNeiFyKYQlixnSiJlCmQ=="
+related:
+  - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
+    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
+    publishedDateTime: 2020-01-22T10:53:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 12
+
+secured: "Ricl4CtDVEwitJZtIG4B+aBPHU4WBCVu28tf2vSPWDr08xAR1Yg1J9sUsHgP+AlTY0QtZWe0tbvAjfZddCM4EpTvc8Gdd61zFezTOo+8CGx2AUC4eseaKhZomnEnovDQ/JRtvmzI39GiSNiCu2/ECcJ/MFripLWsKl/ocg+GwfN7gKMhhPD3tOOFlJ/r/HsOkM/edb/tIPx2sbj9x/LyMOx2Ot9dEGRIX+ZnDHhDPvYYfZ7GCKjbRoi48GWU5FOaywgfpaN0Jcz1BotTo/bk+FEiWo/jG5c30AU+aULEOafqvxWG6U2NTF9/8NmPM3zR;HPeNNckk29sIQe+J3rjRxg=="
 ---
 
