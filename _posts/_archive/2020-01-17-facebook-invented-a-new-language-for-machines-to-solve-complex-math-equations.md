@@ -29,6 +29,6 @@ images:
     height: 358
     title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
 
-secured: "xCJHW9GxJj17lkDVRH19pTGaUnTWgO+zBHvIDvNE5WlgFBqB0V+8wh+b/P/o/rGuU/FiYe38BosxHVrTXnGN1Xoym1WZFZPqxpwV5hVDczMLJFT9dfBO1qCDWCb8GFYir/G5yhemKT23isJbN1c+0VQAER0Xnwx6gBSu7bEhnv7j3cJsRYZ4OQ1OQoEgUOY5d1sS6U6AAKhAaQ4HETkhmVZO1JQsgObBX5pN8U+CWb6O3IhE9VZBa+3sBu3ody0LROGnbMJVdgiZHbDgFjZKggC0QA9OUr1Qh/JqH0INeE4TY9sOTEb3V7WMZrHue9Nm;2UxWrqoaVxjmtofIn5Zddg=="
+secured: "woycjKCNuDBvXNYcfopqP1MT2QI5SHCFzDpwRimSUZ6PX525kP6Z/PIV7omd2h2dh/EJTrLbRMfHWfUKZnUcq6b+BydYSfd1YdjwiUw+VO/9nYCsX2dkjmTeiy4/klDW657iaflgupmlH9iTlO1pZ91SHgypRsQ02vGkYJFetChCLT5pHntGaI+BjB3hUp1LqO8mJqSgLs1ZndqQDbZtixMmiyzrZuqO4rb6HAb1AhWnCP2buOzjcXGGmki5uAoaqKZ5k/6Hrs3Ke+LLTdDCYrC3hP3YE9cOPVQJvVMW6qJiLHWufsNNJBWFC8Q+RxGH;mYrlWdeVn/9V6jNETu7Zug=="
 ---
 

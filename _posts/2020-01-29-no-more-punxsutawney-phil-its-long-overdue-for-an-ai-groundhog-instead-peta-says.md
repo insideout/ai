@@ -8,7 +8,7 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punx
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp"
 type: article
 quality: 149
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -188,21 +188,6 @@ related:
       - url: "https://tribwgntv.files.wordpress.com/2020/01/punxsutawney-phil.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 800
-  - title: "Put Punxsutawney Phil out to pasture and get a robot groundhog instead, PETA says"
-    excerpt: "But if Phil can’t see his shadow, the superstition says that spring will come early. PETA suggests the club send Phil off to “a reputable animal sanctuary” and replace him with an animatronic groundhog robot armed with artificial intelligence. Artificial intelligence, PETA says, would create a groundhog “that could actually predict the ..."
-    publishedDateTime: 2020-01-29T00:53:00Z
-    webUrl: "https://www.newsobserver.com/news/nation-world/national/article239741963.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article239741963.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article239741963.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 54
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998036001/d01769b4-eb66-43be-868f-320757842948/5aec2205-a62b-400c-b020-004d9d563dc1/1280x720/match/image.jpg"
-        width: 1081
-        height: 720
   - title: "Groundhog Club responds to PETA's request to replace Punxsutawney Phil with a robot"
     excerpt: "(Meredith/CNN) -- Animal rights group PETA wants to use a robot instead of a live groundhog to predict the weather on Groundhog ... PETA suggests that instead, the Punxsutawney Groundhog Club get hip to existing technologies and create a groundhog with artificial intelligence that could reliably predict the weather. \"By creating an AI Phil ..."
     publishedDateTime: 2020-01-31T13:50:00Z

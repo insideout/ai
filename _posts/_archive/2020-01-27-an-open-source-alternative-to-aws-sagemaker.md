@@ -24,6 +24,6 @@ images:
     height: 771
     title: "An Open Source Alternative to AWS SageMaker"
 
-secured: "fjLAkKMbeh7ID15VO0LhzPqO39kU8qTEsJd4s3EC1vkr33EtfCW1qwWiaFzox7/hroVoNyUUGDnRmQ/AsSxdUaAROMrc6SM68ZRz0QaAwQCP2/2YD/0zbREHvura40UFMtBTvWh60tOsFjmwymARLPJHVExeyShM97Wss3rj+nW0rahyQQxSkmsPdVCd47TYle57IzI4mWN3Ucqh9BWxWTApiOfbo4VKlflfrTMxtslIgKuVweOrG23M7dQjWdzYIrSm89JzDGrNlWu+ZhTDVyl6kAsLjjsviK6qklmTT2FZr1x+/e9Bf5Ze0gG58c+N;8zddOA7DM4M9QeODCSUs8g=="
+secured: "yJibUH6mh5EBvriWfwKGqz7uUAJQnS9RvVbHFvDPx2azWAeIlTFL0cYRorAowBDpvDCgHs04+Cl0/gD/EpsiL15nVk0NiCVbO396cGVua3ndSGyyqoN2uieTJxrdXd4fjiH6fhSC8r2rwScITUtuIiqlO3xYp/kqcHQyPg78CxBZf6pJZ4WJp5i4ssFBa5/8GzCORXaqZ5UKFw6Zq1OE84neNa1pbILCfR7hqro1qBLGdACEEWIGrcxMEcDQyNowrbVSfG9bbYE/um6W6IbieIex8zI3Oc7aW1/QJUkbwtWE0ipl1DUp1vb5Ac/vT5PM;MTUI/cV4LTblUb6BAi7y0Q=="
 ---
 

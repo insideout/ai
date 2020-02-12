@@ -26,19 +26,6 @@ images:
     title: "HPE keeps financial firms compliant with analytics"
 
 related:
-  - title: "Big Data Trends in Financial Services"
-    excerpt: "... has become one of the main Big Data priorities in the financial services industry. Versive is a company that created software that they claim can help financial institutions and banks analyze massive transaction datasets and cybersecurity data using machine learning. The software is called Versive Security Engine and is touted as being ..."
-    publishedDateTime: 2020-02-03T13:34:00Z
-    webUrl: "https://www.klkntv.com/story/41644204/big-data-trends-in-financial-services"
-    type: article
-    provider:
-      name: KLTN
-      domain: klkntv.com
-    quality: 24
-    images:
-      - url: "https://CNTSYNCONT.images.worldnow.com/images/19157415_G.jpg"
-        width: 1080
-        height: 721
   - title: "Accenture to Acquire Mudano, Enhancing Its Analytics and Data Transformation Services to Financial Services Firms in the UK"
     excerpt: "Follow @AccentureAI and visit www.accenture.com/appliedintelligence. Mudano is a data and machine learning business focused exclusively on the financial services sector. Headquartered in London, Mudano provides data solutions and consulting services to help financial services firms transition to an AI-powered future. Its unique combination of ..."
     publishedDateTime: 2020-02-03T13:10:00Z

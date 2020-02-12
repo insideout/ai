@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Apex.AI enabling greater safety and reliability of autonomous driving systems"
-excerpt: "Apex.AI is an autonomous driving startup that builds software on the Robot Operating System (ROS), which is used for the development and deployment of highly safety-critical systems such as AVs, robots and aerospace applications. The startup recently unveiled its proprietary software, Apex.OS, which enables companies to bring safety to the ..."
-publishedDateTime: 2020-02-12T13:34:00Z
-webUrl: "https://www.freightwaves.com/news/apexai-enabling-greater-safety-and-reliability-of-autonomous-driving-systems"
-ampWebUrl: "https://www.freightwaves.com/news/apexai-enabling-greater-safety-and-reliability-of-autonomous-driving-systems/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/apexai-enabling-greater-safety-and-reliability-of-autonomous-driving-systems/amp"
+title: "Apex.AI Enabling Greater Safety And Reliability Of Autonomous Driving Systems"
+excerpt: "The autonomous driving segment has seen an explosion of interest in recent times, with it perhaps being the only niche within the transport market to have attracted stakeholders from varied industries,"
+publishedDateTime: 2020-02-12T15:50:00Z
+webUrl: "https://www.benzinga.com/news/20/02/15310882/apex-ai-enabling-greater-safety-and-reliability-of-autonomous-driving-systems"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15310882"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15310882"
 type: article
 quality: 56
 heat: 56
 published: false
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2020/02/VAYAVISION_1-1.jpg"
-    width: 1152
-    height: 648
-    title: "Apex.AI enabling greater safety and reliability of autonomous driving systems"
+  - url: "https://www.benzinga.com/files/images/story/2012/road-237384_1920_6.jpg"
+    width: 1920
+    height: 1280
+    title: "Apex.AI Enabling Greater Safety And Reliability Of Autonomous Driving Systems"
 
-secured: "KtACkzxpHCNxjtqTSLZfRLgGnUZDN2uiz9bsFhccVO6GeKM1JcRWLcPH9loSv/G+RqdnQ+06nAnsrQg6IsuwJUZowwK24DRBfAA97OcoS+CEKD+VrXi4fl7G/yOfAsnDTi9yKEDohmGaYSUv5G23HUwKEXPt005SvjKZoGnA1ZnWAiDVKNWH8Q0QzA+co6s5z3OF+QkUHuUI8al1UZ9Gd/s21kEUTIjJAS1hdavmdkMpUK5OM5f6fJ1EjfscDYVOsOQ3S7rhL7w0PFNNSRmy45Sce62DKkfuVvjZKZBBtWUr7jyuH18o4ZR6Mm6WM918hd+mFbclt15yJjoOUQAQyZZsaH9WfqwrUKPOEmu8FicSrW4O2H3wp9I/4z0430YZz1krCPwBWmbvUy12uoO87PQ9r52OJJPlGrWFd30pMloXn3JHRUghT5htAnK004wlRLe+5AJfkG9ENdyHwO0T2xWSJNz8F6DQ48LRlCFAyJY=;QuHSieV2xbDAXk7EpoOxjQ=="
+secured: "8DVOswhnNejDacMvpXVJzlzdFRJYGc/NOnEEptsyHBDnBPNrIEtMg2Q1iygDwcqwHqvdGiIDICsbZYjJydgf9lgmpL5EgyR5HJw/jDF4nWsmWL4Fz++ROx/AH9xPbaFpmJ47bTUBe3B2XpXms/SVe4t2W3OjXX5xjMfPu36SeY0aVEE3s4U7euWj4aaSQIRNrgBl4WOlV7bfK3MIJOublubgCG9c5zTnUxOHJFb+I7KVLONaKYs9TRK+YDRUcoaebyMjzGbFsHIdgdoc7az+QmGeQ8Fj2IovQtNYUYLrQwvL+E20QUl/rME17qBdMK+9;n0emxLOzqrquqGf2hhf1IQ=="
 ---
 

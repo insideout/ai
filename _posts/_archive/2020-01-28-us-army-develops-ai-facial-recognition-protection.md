@@ -70,7 +70,7 @@ related:
         width: 1200
         height: 800
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -1391,6 +1391,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "WkThcmofVfYjfeQOkDbZ2eXSSnhZqbwMcP5p8rEztG3Ye4SYK7lFVLmkC4R6YK5HO5X30Hmg3XzL3mrzuzr0unaQJhs9Y8C6jDzQVMynHbxFuwuYSMm+0uqG90/rt4lEygCsswQpDdhYuS27HgHdfB3CnELkZKQxLnDc3AKAACzG1kCV4vbmNh/BjiO5S0NiAcrVnoOwWhM1kg7m86TO3m/xBuWnU3Dj2upv+CAz71dr/nSMWmcZbsxofv07i7olAeiBscfjBPBBks1xxq6VAwHCnA4XY9320oJ/Cs6ZcqlShVSqNaSKEVJV1myRFR6+;p0oJLd9uM4bj/BGkFUtj2A=="
+secured: "VBHENZHPn/JXlq2Ft6fLI7xOS955Jg7l5hn1L+5kTH4RERWBFdgSgCQkv+EFxHCvVTDF0y+GuId/pNhR3KA7vimV8rhkxQ7Bc0qX2wEQoWBmrjyv8QvPN14x0v7dE656+XKlFHI20zqr5gclkv24Poa6jMKZ61NICnjNTxcLeCgFM7a6jcGuCCZC4pc+XZiTnizcbA28XaGiaGb3zi3/FrU2DkBSBFKjhzqAPqHXcN8BJBwqOwxCP/MkEMUmZNv4OLz+2xAetOvNesB5TkHTy9B4sUJnIUQR+6JX9N26ISCpgGb9D+OJaz2xU8T7fFVs;fQHlSx7Rl4YRrMnkgZk4aw=="
 ---
 

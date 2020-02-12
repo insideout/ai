@@ -108,21 +108,6 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
         width: 1200
         height: 800
-  - title: "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban"
-    excerpt: "Portland still seems on pace to impose a dual ban prohibiting facial recognition use by both government agencies and private entities such as retailers and other businesses. But a City Hall session today illuminated what could become a more pronounced point of contention: some local businesses and tech firms could oppose a private-use ban."
-    publishedDateTime: 2020-01-29T01:01:00Z
-    webUrl: "https://www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/"
-    ampWebUrl: "https://www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 77
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/06/bigstock-Portland-Oregon-USA-skyline-247939699-630x420.jpg"
-        width: 630
-        height: 420
   - title: "Indian Railways to use facial recognition technology to identify criminals"
     excerpt: "Indian Railways has announced that it plans to use facial recognition to tackle crime at railway stations. The new facial recognition system is currently being tested in Bengaluru. A senior railway official told Reuters that the move would turn the railways into a fortress. \"Without a physical, brick and mortar boundary wall, we will be able ..."
     publishedDateTime: 2020-01-29T12:44:00Z

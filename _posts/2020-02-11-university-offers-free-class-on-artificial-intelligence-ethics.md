@@ -36,6 +36,21 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg"
         width: 780
         height: 501
+  - title: "Free Seattle U Course Explores Intersection of Privacy, AI"
+    excerpt: "But as AI permeates everyday life, what about the ethics and morality of the systems? For example, should an autonomous vehicle swerve into a pedestrian or stay its course when facing a collision? These questions plague technology companies as they develop AI at a clip outpacing government regulation, and have led Seattle University to develop ..."
+    publishedDateTime: 2020-02-12T17:15:00Z
+    webUrl: "https://www.govtech.com/computing/Free-Seattle-U-Course-Explores-Intersection-of-Privacy-AI.html"
+    ampWebUrl: "https://www.govtech.com/computing/Free-Seattle-U-Course-Explores-Intersection-of-Privacy-AI.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Free-Seattle-U-Course-Explores-Intersection-of-Privacy-AI.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_720821920.jpg"
+        width: 940
+        height: 627
   - title: "AI is here to stay, but are we sacrificing safety and privacy? A free public Seattle U course will explore that"
     excerpt: "But as AI permeates everyday life, what about the ethics and morality of the systems? For example, should an autonomous vehicle swerve into a pedestrian or stay its course when facing a collision? These questions plague technology companies as they develop AI at a clip outpacing government regulation, and have led Seattle University to develop ..."
     publishedDateTime: 2020-02-11T14:00:00Z

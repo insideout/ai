@@ -19,18 +19,18 @@ topics:
 
 related:
   - title: "Oracle Announces Oracle Cloud Data Science Platform"
-    excerpt: "REDWOOD SHORES, Calif., Feb. 12, 2020 /PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data Science, helping enterprises to collaboratively build,"
-    publishedDateTime: 2020-02-12T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/oracle-announces-oracle-cloud-data-science-platform-2020-02-12-8183037"
+    excerpt: "Oracle Cloud Infrastructure Data Science automatically selects the most optimal training datasets through AutoML algorithm selection and tuning, model evaluation and model explanation. Today, organizations realize only a fraction of the enormous transformational potential of data because data science teams don’t have easy access to the right ..."
+    publishedDateTime: 2020-02-12T13:20:00Z
+    webUrl: "https://www.oracle.com/corporate/pressrelease/oracle-cloud-data-science-platform-021220.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Oracle
+      domain: oracle.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
+        width: 480
+        height: 480
 
 secured: "cvCvVZpnB/hlnQ1fXFi66Bf9ejBmJQhef7HDAAF1lduAhQAGu5B6cFys0NcB+CJift9vJg/HCagvLzxlVpU02ZUzMoPYQCJVg0owL8XvbGeaFgCqrkTsR2LHLJHIoJRNonWEXoD6ucNSCfrYi1xI8Ip6KWL1DjgVaGaM7v/FluWmoJFGAFpexzowxFH9NHMjaUW8VgJ4H3r1plOCThyugL4spE8P6lS+SejZKRHnMDn1iu6TixYrKz8ImXDntOd119ZhwFv7rofKPCZKxEx89yte1JTg5CqbhdruHOmylhK9wzdz9joh0gu+AG643PjQ;7tp0x20AOJLuoRQUty7nqg=="
 ---

@@ -17,6 +17,17 @@ topics:
   - AI
   - AI in Autos
 
-secured: "IZbl8fCDvcUc8b6oi7B8GsSMB1w2A2urdlnrqnpceZ/dtE+QGAJkCS1rmGM+K3bzVxriyq9LUYTxHlnm2iOfMdrWctldvpeyabhikW2gpHQsd9+ZfYayxEy9vaGdwk1eFzecYQlW19epWilbm7dW8KuxY1MwxjEsWMrWb9WoSLdNMM0VTmhk+ZT+xnnlBXR6LvSiIvIXQAVXlovmwsKOW3u8aXc4cvmzb+4GwXzzd1a0zckdVIPacfl+6gNJYieKkbSD9x7+VXGQXvu9xFXaYfvhnja8f1uVWq0hkruM47oviQBI9uroivRbZoBo2m6f;wvVmAvk43uvXjchYnmezNQ=="
+related:
+  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
+    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
+    publishedDateTime: 2020-01-20T09:52:00Z
+    webUrl: "https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+
+secured: "uabVD4kuL0GLr/TnEcJrIj6Oslh8stvn2mWHJUQJGofYu2vbBuIuTZPh21u1xxZZ4adNCTdFhwVhVNriIAmmwwWaCn37u4xXXN1t8OEhLxlexpu0AXtZXRFUpFH7sXpMYfMyGl0dStvCpOSceTknAtL0Jj1EF3tthOk5+iWaK8B8DqtmQXoPH3IRnY4b9slHT0Klo8eBsHYyvRKpkINi+y0YnWCaIX4ysqNC8bA0uuxzjuRJrTw4QsAXIpXf0GmBAIyIo/GyUvvXFN3marPfMT+Sm3LtbOhM/JtqE+7fHYFJB+mWJDQrF1HMNaxW88TN;UJ4MzxWCL4p+czXiI4atJA=="
 ---
 
