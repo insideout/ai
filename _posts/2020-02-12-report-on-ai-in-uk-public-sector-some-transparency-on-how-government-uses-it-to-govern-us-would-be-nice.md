@@ -25,6 +25,6 @@ images:
     height: 432
     title: "Report on AI in UK public sector: Some transparency on how government uses it to govern us would be nice"
 
-secured: "YNoo/m7iybJ+n2hW/nNk/O9fu+Hb1w8KM65Ply/LGLdIWSb5Wrjc3AAuOIvyOcLKI5RerPOTB6W+a9jTzB479lykwtftMWYge2G+4E+xpdau2vs0lyt/RAqpzVfkjjzMFNrUbcF1rj77iLQjSS8e/voYrrHD1Gz+7FkwrRLQZxv2E9Cod0nvEr4qhSfPzNSjSxVL7HDiL3PNpJ1tvlgqoOTimOzIJ+ejUqhU+VNEjWIc6M0ozPL6FTjSv8w2Dym3nebuUTbooDoGhHo8aF8OFRIhAGwhwCqjUAtyVDdgeu3xBqgOMWdaDIF0GP0gTEW3;5UNd1IqvCjp1Ua6oARyyow=="
+secured: "OLq0zcsBZc3I4L9HSDlaVguaNmCbD3uWw83arSy9fUabv3XVhNSLMYb/bp9IW+JWiyrqcqNugzuk9EcRfh3byPYCkfnVtv2fkERwmDHangp0F6YkrwL3KQAEOme9hO8OVe/1Nsfnr2j11ZpbdyQgCa0pWr3jccds2YF/bT+JTA2em4eWbL2wLGZHFNQNg/YuImNkJcUUQlQvgOyU+xSdoV4gg/TG/gB3zmcvzCIzh3FI31Uz+f/vEGoL019H+Qkxs5wFVvzMzl05n4gLMEaeJdumHvffKVIHj+GUspS+7WBKt7Th86ZXTQGOdB4aPbqm2BXD/NC4WkQZJYKAldTxvepDAwK58X4pcKL+El7az/X66jI8Lk+/8kzbFOMjGDoEF0wxnr29TajaRfPE+sjaf5OdotdZJQj1nXwyTNesiDOtX//LPWuUYUxKcst4XRyY0ydp5PwUJg0RoTPh3HFLe0254amEe/AScV5HJg6YPr0=;cFltP6qTQuLwwMZUrd1PwQ=="
 ---
 

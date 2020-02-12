@@ -419,21 +419,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "Ban Facial Recognition on College Campuses, Activists Say"
-    excerpt: "A campaign to ban facial recognition on college campuses has just been launched by the non-profit organizations Fight for the Future and Students for Sensible Drug Policy. Facial recognition technology is already being deployed in some public school systems, so the organizers want to get ahead of the spread of pervasive surveillance to higher ..."
-    publishedDateTime: 2020-01-28T21:20:00Z
-    webUrl: "https://reason.com/2020/01/28/ban-facial-recognition-on-college-campuses/"
-    ampWebUrl: "https://reason.com/2020/01/28/ban-facial-recognition-on-college-campuses/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/28/ban-facial-recognition-on-college-campuses/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 59
-    images:
-      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2020/01/Screen-Shot-2020-01-28-at-12.57.07-PM.png"
-        width: 685
-        height: 438
   - title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
     excerpt: "We have Woody Bledsoe to thank for being one of the fathers of facial recognition technology. In the early ’60s, this sharecropper’s son from Maysville, Oklahoma was a pioneer in having machines recognize faces. Bledsoe’s early research into facial recognition technology attracted fans, most particularly, the U.S. government and the CIA ..."
     publishedDateTime: 2020-01-29T16:44:00Z

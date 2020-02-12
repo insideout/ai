@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "US House panel will discuss self-driving cars next week"
 
 related:
+  - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
+    excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
+    publishedDateTime: 2020-02-12T14:21:00Z
+    webUrl: "https://www.wsj.com/articles/house-hearing-revives-push-for-self-driving-car-legislation-11581503402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-153483/social"
+        width: 1280
+        height: 640
   - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
     excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
     publishedDateTime: 2020-02-10T14:44:00Z

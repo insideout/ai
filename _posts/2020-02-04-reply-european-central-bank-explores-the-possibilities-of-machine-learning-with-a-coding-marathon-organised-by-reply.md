@@ -1,23 +1,17 @@
 ---
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
-excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-publishedDateTime: 2020-02-04T09:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment."
+publishedDateTime: 2020-02-04T10:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200204005137/en/REPLY-European-Central-Bank-Explores-Possibilities-Machine"
 type: article
-quality: 46
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
@@ -66,6 +60,6 @@ related:
         width: 400
         height: 225
 
-secured: "wD1Uy4LZDxtPSdTboecoz9wNz/EilVmJLO6QarwUOy5FakJ2JuICzUAaYSAjV+kUfYThyKPL/kElsPsOkf4rb/7eB05XLcmso3UPJR2egQqF8tExHooaDgk4vPvy/g0P9+/J43bsfJAS/QdvWwRf7OooL8kwmLJ8rEwv3bMVBB+cL3WwEQGjMtXHFxR+aRUlRFRh5se8jj6LAYhFnsF/kkSzqT34LqQDwxoL36FkXyHJNSigLWnWRXhIXNz+Hmpj1UAY5V86QpNREaVo7Dqo/7g8B3ZF/4WAvuelgxZVZFjlm3qikOREWOxSTSZ9hFRw;SGYLhV3sT3nr7Vf8TmQcwQ=="
+secured: "5SccA7AODCMJRxVgPeFQZsNfMeQEbdvjnwL5wcaz6afZQsxPEiPCX4qnIosufHCkdU+oeHvtPC9yhE4pjZGyJ/Rj0GT9gstMf0WpzTSkvMLw76ahPAAlwLIVPzNhc6yCPLLt2N8CiDuGXEoDvRhWFVXKcAMe62a4/6fDwxPQDEgrpr+5C2SGZW5Q0VhdDVnw4azxcyB8HgDMd4aSmxPmMcA9aEySybuvte9ZNjbNO+/891AJT2IoJ2ItV9le80Bru9v3l/O3ff0x/MdSv1vaWUhUmPEiEOOS3VM/My+hV8vf2Z3GUcos5fsVwEAdlL/z;K9e6VbEUNXfqR84wRxs6aA=="
 ---
 

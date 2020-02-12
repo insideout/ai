@@ -404,21 +404,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
         width: 760
         height: 380
-  - title: "Ban Facial Recognition on College Campuses, Activists Say"
-    excerpt: "A campaign to ban facial recognition on college campuses has just been launched by the non-profit organizations Fight for the Future and Students for Sensible Drug Policy. Facial recognition technology is already being deployed in some public school systems, so the organizers want to get ahead of the spread of pervasive surveillance to higher ..."
-    publishedDateTime: 2020-01-28T21:20:00Z
-    webUrl: "https://reason.com/2020/01/28/ban-facial-recognition-on-college-campuses/"
-    ampWebUrl: "https://reason.com/2020/01/28/ban-facial-recognition-on-college-campuses/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/28/ban-facial-recognition-on-college-campuses/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 59
-    images:
-      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2020/01/Screen-Shot-2020-01-28-at-12.57.07-PM.png"
-        width: 685
-        height: 438
   - title: "Wasp’s facial recognition ability offers lessons in evolution"
     excerpt: "Through its analysis, the team found a strong and rapid selection by genes linked to insect vision, learning and memory, all crucial to facial recognition. They believe this took place in just the last few thousand years. Meanwhile, the two close relatives of the Northern paper wasp exhibited no strong patterns of genetic selection for learning ..."
     publishedDateTime: 2020-01-28T23:26:00Z

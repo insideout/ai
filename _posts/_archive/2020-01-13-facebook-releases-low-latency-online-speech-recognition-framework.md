@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Facebook releases low-latency online speech recognition framework"
 
-secured: "EsDbt9MPK0zcrjldHOTn229ALPal/INE+KibLQ1EECfJKP6zucxaETf0hw4rI5qbMRjYpPRtTR7JzvsCQK0mv9bbsLS8PpkheIerHN5JEe0MyVoD+7vcC4rUcrHH++BUZN6IemNSzVzwLLFXNjQKHJZ9Ib+SkofL+Rh0MmmfZfT32l+Umag1uffnTg43z6v/YWE5uR8rV7VbWs9GuXOkvf5Ikl12F8XrSv2mP2dY4vbG22BMJwFMfLu1gcX/oVI1Q1OANJ3Kkzs/gESw3NhDxOieW/rwxy53iHuNlBzlmN7++YlAYoR2yGEZ4xU6jsHi;d4CYVqVN9NK9hhJ7hODckg=="
+secured: "2cJYO7Pu4NKJagljaIY5YFJgagrvvJBbUIbapffYGUjXzQcQRb1A2GN/OkO5vBuXAYfCrXSXJb2S/c+UgsoXyjnt6SPGnFcU1o3dwp9o9gA8oA2zd6gzC6Xzbro4aXPLZjR7kR+dmQcssbyk71JxmuWqNLdvh0C/2I1soUPk6jiXgtJyxpRpyK7o7KAqWwBrUmh7x+UJcr4XDjdP3X3b42RdFedXW1dLOwQHMhCEzN2tO6NwYHlZZADtGdz51klnIxaABaBGrMJF+gDktN4D4pPQt6oDQkim/dT8rgc8YKQ4k8qhOkshjY3S4I4iUle4;4CMNRhINGZjXvRXVyWXNYg=="
 ---
 

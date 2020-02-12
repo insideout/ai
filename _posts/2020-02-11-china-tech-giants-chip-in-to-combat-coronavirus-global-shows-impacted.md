@@ -39,6 +39,19 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2014/10/04/d918c155-4bf8-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/8160da71d46f35e6b7f8af8058103971/ftc-thumb.jpeg"
         width: 1200
         height: 675
+  - title: "Robotics companies providing technology to fight coronavirus in China"
+    excerpt: "She added that, as a result of the success of robots in helping against the coronavirus, China is likely to use more artificial intelligence and robotics in medical care. “It is set to be more common in the future,” she said. Coronavirus has spread across China and beyond, having started in Wuhan province, geographically central in the country."
+    publishedDateTime: 2020-02-12T14:30:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/02/12/robotics-companies-providing-technology-to-fight-coronavirus-in-china/29921/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/ubtech-robot-in-china.png"
+        width: 1015
+        height: 972
   - title: "Coronavirus | China turns to Artificial Intelligence, big data"
     excerpt: "data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if they have taken the same flight or train as confirmed virus patients, scraping data from lists published by state media. In Guangzhou, southern Guangdong province, robots at one public plaza have even been deployed to scold passers ..."
     publishedDateTime: 2020-02-08T16:45:00Z

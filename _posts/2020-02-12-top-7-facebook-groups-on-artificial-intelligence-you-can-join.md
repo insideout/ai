@@ -23,6 +23,6 @@ images:
     height: 683
     title: "Top 7 Facebook Groups On Artificial Intelligence You Can Join"
 
-secured: "Tzkq7uh0s3T3zI56dohBII/v0UqPJh+avUby1Upi+dJEdQghcvPqu+Rnv3TsVfsxEqlgwmDluFzncj89wvdLXsjNJOAAek1VpMx+Rq81z536WST6lFNckyya+ba7Is5aGkkROd1ZpXZb8zROLnP47gSkqU/+lkIW/APch43FHnmJpqTOwO07/laOkGoO5EiC/sA6BsRgn5NxIDV5psTS9ioCkB+qU2VHmU1D9j7wXN0rIsX1jbOvJ5wJKMAW4rd//M7XircEQgqllgeag3/Ef30D1LdUcz3DpoxyME2t2TbRDnjVY70HKj44aDH9LPd6;TDrENSB1roa/R9wfR8Lp3A=="
+secured: "qLPtZErEb5W4wZz/b1mfgyg8NyoPdA87rIYRfu71e1HxaikQ+sp8rjFDxgOwdkjcGBLUnc5avkx9u2LlTyxkQh6NUPrJSHncehEaBfxRyVtvtU/dtLzIQJBa0qJqzATNv6v+d3nHHQNuDbzjMqWCBV8pBtywq+onyUt6CfeOEEexXa4iaWip5o+lSr/L35j2p+fp1CsVGTtGdICd4/0ShFP/QqwMrMeWFi3EvbvQuBQtWnNDNP7ZVyVCM4TFxr/bv8ASZMFNcdLTaKD/2cssidSlk6fpqLPejKB2Xwkf8kbFPdFbOl7kHU3P5sJEAJgN/XVxrH8i3IjlMR+qC9KLpnCv1ggqJTR7fQU2uQzDpGgFAg5tnWIb722qLAmtyCO11EMh2XsZvlPwKDtg09YoRWQZGe5ptMrW5ZJA2wPPULjQxxNIheRhNznGF3o+O6mFeLyMn6xloMAGsB2sA+vVyu2x1/njDaaRXi8nG9otRIc=;TzpvOkCjGZbRKmYTdhBWfg=="
 ---
 

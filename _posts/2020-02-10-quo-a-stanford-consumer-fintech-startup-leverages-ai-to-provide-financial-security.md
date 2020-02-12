@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 711
     height: 533
     title: "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security"
+
+related:
+  - title: "RegTech startup Signzy wins Most Innovative Fintech Data Solution Provider Award"
+    excerpt: "Signzy, through its AI-based decision engines and back office automation solutions ... Today, it works with over 90 banks, NBFCs and FinTech companies globally, including Mastercard, SBI Bank, ICICI Bank, HDFC Bank and RBL Bank, among others. It has completed 5 million new customer onboarding transactions in the last two years."
+    publishedDateTime: 2020-02-12T14:29:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/fintech-regtech-startup-signzy-wins-most-innovative-fintech-data-solution-provider-award-4937631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/fintech-regtech-startup-signzy-wins-most-innovative-fintech-data-solution-provider-award-4937631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-regtech-startup-signzy-wins-most-innovative-fintech-data-solution-provider-award-4937631.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 39
+    images:
+      - url: "https://static-news.moneycontrol.com/static-mcnews/2017/03/moneygram-e1489500579826-378x212.jpg"
+        width: 378
+        height: 212
 
 secured: "2izCMS0czDoaol3BA5KqSIw+MXE5bzn4fPDuv6dL+zohAJtA4fJ1kcR1yWqnNTTCSwsLQ7OaF17R+n5JXJdj2CMYVFclTQYF2Q5WiKIhBz6Z7SuiozWvq3HnWVG0PJgnWK6B8Z9BSAsUZlPaynLSe0GM8ofeNdzJ1vnpPjBAlvhq/yFH641lIY3R+iRZTf8PzrmGU4kWCvrHdaMYNiqsJq0dknSNtnP76T6KELYpPhNvsZTAqRquCvyfnm4aVBrqAJHW8GnVzCBX/VRbRw8Oh2VreWa/TgWhtvLFFCOh+xkKElOcDwZknPcvbtxOwFtKf1Bz06gLmsW7anVwsEMSsMd7d8SePes6ONg3NRlQwM59A9rF59imsHYji79Bn9UFwO2VTIJoMJxjTOJSHzTm+WF4vHQiwrWIu9ge1q6prPDmfp0BZehLOCXM+3us41UzRIE5deWM0N2i+3lauqHHSoIJhqkL9xQmY/CvDkQVIpM=;B/c2mAjTC9zmpaD8TfiQTA=="
 ---

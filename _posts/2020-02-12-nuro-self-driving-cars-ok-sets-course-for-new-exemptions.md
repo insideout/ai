@@ -35,6 +35,19 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6"
         width: 600
         height: 350
+  - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
+    excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
+    publishedDateTime: 2020-02-12T14:21:00Z
+    webUrl: "https://www.wsj.com/articles/house-hearing-revives-push-for-self-driving-car-legislation-11581503402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-153483/social"
+        width: 1280
+        height: 640
   - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
     excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
     publishedDateTime: 2020-02-10T14:44:00Z

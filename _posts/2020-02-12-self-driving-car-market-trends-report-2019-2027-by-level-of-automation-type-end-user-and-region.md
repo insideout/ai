@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
-excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. The United States is considered as the major hub for companies in autonomous vehicle development,"
-publishedDateTime: 2020-02-12T12:55:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15309208/self-driving-car-market-trends-report-2019-2027-by-level-of-automation-type-end-user-and-region"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15309208"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15309208"
+excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report"
+publishedDateTime: 2020-02-12T12:54:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/12/1983746/0/en/Self-Driving-Car-Market-Trends-Report-2019-2027-by-Level-of-Automation-Type-End-user-and-Region.html"
 type: article
-quality: 11
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -34,6 +32,6 @@ related:
         width: 1200
         height: 630
 
-secured: "/APIKhG3+smRvCmDURRp7qcnTSvVybL2ksV8LEgjfWEimBo/lKHHrF2dhAV6YDLcdsxGH61CQ49l1wAwQfH7OV7vRGykZsphG6Otaa3UFl4Ey5DUxSoRUz6kew4/sonDX/PanaAC/PAuprKxZCb8uDIBkVv2ltZof3bkS4coTOz89DrvBZTxXUEiNka7Sa1+uxRVIUcmfOln2nqsVm3Oic8YvDCIn+uhRWK6SIidRlzcW/rKQnox6hOLwuTVmKwd2eXigN7VdM+T0gwXtzRQlj+dV7h3BCkNtU+L7EdtP7S7I/60cnOVCI03WbJcQCR5;neXlSwL6LOIf3beWxzkCmg=="
+secured: "41YCTJDZ8jQdWxKAubp5tm7EK7/p6c9GCIMfU9xNskcV2LTuivz+3/cOYqzQkLolyNCH5BSlS68xcTtNgyoCJQvJ8tQztgnucigRtY+zDLuKeIW0SQX4wBk4D5Hy0LohZ/pqwxKkBGmtywzf4+/xVm+tgThyAZ+kNkbY8uNC/SASv4IPO2fv2vrMVxdcsNovtucbP+FM180IDa2suGPVxEKnvQUY9Q8AuK7PMlhrkPtIWZ8konO6JeUWD3uIy63OjqJjfYERIEILja8QpqBqdXlz6QcOMi580qBW+IyJ6F15+u3pCe7AoKAm00ahSVMh;FmMqj0c25WoAiAi1bf3enA=="
 ---
 

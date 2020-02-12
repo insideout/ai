@@ -29,6 +29,6 @@ images:
     height: 1588
     title: "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI"
 
-secured: "vgIX7BOfRgspfkvB+qnrbhZ+4zkr3muMjuGn0m4UdcqpxduSrRDZjEOvm76LIAtYYBf6RKCF7n4jMcUq4DSicu52xvLwRBkyRx3xk3djLs6vGUazCS12BMy0edI7q+/6xwtPnBJmUJrxmk0ISdXeZ/kHibGMO+v8V4JNFi9VwzG0uuAz4CulbeDKYN7w+x6y1ziuNaLA4Q0Dz2ToLwApo94InhbhlHiVcSAcAIwZ2PUIUCZc5DC6m4U7Gmh6GrEcBWBAt5LzhRJpM83FvyatjPdjT67ORe6QzrHMlCcZR8dGrHgTAjJjBd8r17eb2IPp;YbQFzpTkwlCQ6+tj814h3w=="
+secured: "Rwz0PVYi3t7Cn3Tf5QxS22R51jaO42NmPGY/trj/Qy2Dwk/aCpY4zHN06lsdimGPqUHdlBZgJ8JXhMsL424QTXbOXrJpXooI6ln8O7TrdHnO8r9RX8azIBIq7Trnbs3+1KQx29tYbjx87VktMs1NOLgMAMxYuwsXpIi3QnMP50bRTZWev3eEsEZuBkIAt9RZr+/Fbr49bB/Qlu2AiaQXy4Vl/5Jaj20zr7pExdUhGbscjuMThJMBDWyn7Hm3Oy8tfyCa3Gclj5VQY7r6NOfOD5zGmijuhZTWRrjKRNOqUaa6OzEl0oNB/TCeNFZtdmqp;URep+S7Q1Yz6luxBvsbFqw=="
 ---
 

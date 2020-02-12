@@ -2,44 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-06-intel-drops-work-on-one-of-its-ai-chip-lines-in-favor-of-an-other.md",
-      "title": "Intel drops work on one of its AI-chip lines in favor of an other",
-      "excerpt": "[Get regularly scheduled insights by signing up for Network World newsletters.] Intel acquired Nervana in 2016 and issued its first NNP chip one year later. After the $408 million acquisition by Intel, Nervana co-founder Naveen Rao was placed in charge of the AI platforms group, which is part of Intel's data platforms group. The Nervana chips ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.html",
-      "ampWebUrl": "https://www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.amp.html",
-      "publishedDateTime": "2020-02-05T21:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Intel drops work on one of its AI-chip lines in favor of an other",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-microsoft-announces-changes-to-officecom-and-office-365-app-launcher.md",
       "title": "Microsoft announces changes to Office.com and Office 365 app launcher",
       "excerpt": "The Recommended section displays the files which are most likely to their your attention using the power of AI. And the Discover section allows users to see the files ... Microsoft now offers controls in the Azure Active Directory portal that enable admins to pin up to three apps to Office.com and the app launcher. Any app added by an admin ...",
@@ -2178,6 +2140,51 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars.md",
+      "title": "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars",
+      "excerpt": "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind.",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-02-08T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x507/https://specials-images.forbesimg.com/imageserve/1150260060/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 507,
+          "title": "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

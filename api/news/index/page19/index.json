@@ -2,6 +2,51 @@
   "page": 19,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-27-natural-language-processing-nlp-market-growth-opportunity-and-2027.md",
+      "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-growth-opportunity-and-2027-2020-01-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-26T22:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-27-privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020.md",
       "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
       "excerpt": "This year, businesses should make compliance a priority with the advent of new regulations and an industry emphasis on privacy.",
@@ -637,6 +682,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-building-a-business-intelligence-dashboard-for-your-amazon-lex-bots.md",
+      "title": "Building a business intelligence dashboard for your Amazon Lex bots",
+      "excerpt": "You’ve rolled out a conversational interface powered by Amazon Lex, with a goal of improving the user experience for your customers. Now you want to track how well it’s working. Are your customers finding it helpful? How are they using it? Do they like it enough to come back? How can you analyze their",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T14:55:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/27/bi-lex-1.gif",
+          "width": 800,
+          "height": 428,
+          "title": "Building a business intelligence dashboard for your Amazon Lex bots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1559,6 +1649,50 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-28-risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware.md",
+      "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
+      "excerpt": "\"The way we look at it is as an expert system,\" says Mukkamala, using a traditional term from the AI literature for software programs that include a great deal of domain expertise. \"What are my signals?\" he asks, rhetorically. \"First, a strong signal would be end-point vendors detecting it and blocking it, a second is Microsoft paying attention ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "publishedDateTime": "2020-01-28T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/9c16f4ed-c84d-4107-98b1-bd33cfbcd800/risksense-ransomware-dashboard-jan-2020.png",
+          "width": 2424,
+          "height": 1735,
+          "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-securitiai-scores-50m-series-b-to-modernize-data-governance.md",
       "title": "Securiti.ai scores $50M Series B to modernize data governance",
       "excerpt": "Securiti.ai, a San Jose startup, is working to bring a modern twist to data governance and security. Today the company announced a $50 million Series B led by General Catalyst with participation from Mayfield. The company, which only launched in 2018, reports it has already raised $81 million. What is attracting all of this investment in such a ...",
@@ -1985,44 +2119,7 @@
       "topics": [
         "AI"
       ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-why-silicon-valley-is-obsessed-with-robots-delivering-pizza.md",
-      "title": "Why Silicon Valley is obsessed with robots delivering pizza",
-      "excerpt": "A robot that bakes the well-loved meal was a big hit at the Consumer Electronics ... Here’s a second reason for caution: Despite heady media claims that pizza is now being made by artificial intelligence (and a similar suggestion from the company itself), Picnic’s device doesn’t quite earn that encomium. I tend to agree with Melanie ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/",
-      "ampWebUrl": "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp",
-      "publishedDateTime": "2020-01-27T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2018/06/robot-e1527912484227.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Why Silicon Valley is obsessed with robots delivering pizza",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 20
 }

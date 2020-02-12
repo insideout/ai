@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-10-white-houses-proposed-budget-would-increase-investments-in-ai-and-quantum-computing.md",
-      "title": "White House’s proposed budget would increase investments in AI and quantum computing",
-      "excerpt": "The White House’s proposed budget for fiscal year 2021 includes sizable increases in federal funding for AI and quantum computing projects. All told, the overall increase in federal R&D funding is 6% compared to fiscal year 2020, reaching $142.2 billion. Although much of the funding is aimed at R&D and infrastructure investments like $25 ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/amp/",
-      "publishedDateTime": "2020-02-10T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/10/white-house.png?fit=1438%2C756&strip=all",
-          "width": 1438,
-          "height": 756,
-          "title": "White House’s proposed budget would increase investments in AI and quantum computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-3-big-trends-about-the-future-of-work-every-leader-should-know-about.md",
       "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
       "excerpt": "For 2020, she has identified three issues that \"require immediate and intentional action\" if organizations want to thrive in the future of work. 1. Overlooked talent in people with disabilities and older workers. \"The United States has a jobs surplus of more than one million open positions, and there are record-high labor shortages across 12 of ...",
@@ -344,7 +300,7 @@
       "path": "_posts/2020-02-11-china-tech-giants-chip-in-to-combat-coronavirus-global-events-impacted.md",
       "title": "China tech giants chip in to combat coronavirus, global events impacted",
       "excerpt": "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ...",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
@@ -1801,7 +1757,7 @@
       "path": "_posts/2020-02-12-deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks.md",
       "title": "Deep Instinct raises $43 million for deep learning to thwart cyberattacks",
       "excerpt": "Deep Instinct has raised $43 million in venture capital as the company seeks to apply its deep learning technology to predicting and preventing increasingly sophisticated cyberattacks. The company says it has developed an “artificial deep neural network brain” which has the ability to rapidly learn about new forms of malware and ransomware.",
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/",
@@ -1979,6 +1935,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
+      "title": "India can benefit from AI, machine learning: Chandra",
+      "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/articleshow/74103826.cms",
+      "ampWebUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
+      "publishedDateTime": "2020-02-12T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": "India can benefit from AI, machine learning: Chandra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-12-lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects.md",
       "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
       "excerpt": "Autonomous cars will prove critical to the future of cities, according to Raj Kapoor, Lyft’s chief strategy officer and head of business for self-driving. But he added that riders may need to adjust their expectations and warned of unintended “second order” effects of the burgeoning driverless car industry. Kapoor was speaking at the Move ...",
@@ -2021,6 +2014,50 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
+      "title": "The Future Of Blockchain: Fintech 50 2020",
+      "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
+      "heat": 207,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "publishedDateTime": "2020-02-12T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future Of Blockchain: Fintech 50 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -2093,42 +2130,6 @@
           "width": 580,
           "height": 387,
           "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2015-02-17-meet-the-new-face-detection-algorithm-that-will-change-image-search.md",
-      "title": "Meet the new face-detection algorithm that will change image search",
-      "excerpt": "Current facial-recognition technology is based primarily on the work of Paul Viola and Michael Jones, who achieved a major breakthrough in 2001 when they developed an algorithm that could detect ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/",
-      "ampWebUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
-      "publishedDateTime": "2015-02-17T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/7da/6e/fc3aa93d4cf68ff5406f291efcd81b08-1022x512.jpg",
-          "width": 1022,
-          "height": 512,
-          "title": "Meet the new face-detection algorithm that will change image search",
           "attribution": null
         }
       ],

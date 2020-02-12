@@ -8,8 +8,8 @@ ampWebUrl: "https://www.silive.com/news/2020/01/peta-calls-for-punxsutawney-phil
 cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2020/01/peta-calls-for-punxsutawney-phil-to-be-replaced-with-a-robot.html?outputType=amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: SILive
@@ -26,21 +26,6 @@ images:
     title: "PETA calls for Punxsutawney Phil to be replaced with a robot"
 
 related:
-  - title: "Replace Punxsutawney Phil With Robot, Animal Rights Group Says"
-    excerpt: "People for the Ethical Treatment of Animals are advocating a radical change in how Groundhog Day is celebrated."
-    publishedDateTime: 2020-01-28T22:02:00Z
-    webUrl: "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says"
-    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 59
-    images:
-      - url: "https://patch.com/img/cdn20/users/22920172/20200128/033110/styles/patch_image/public/phil2-getty___28150658187.jpg?width=984"
-        width: 897
-        height: 673
   - title: "PETA requests Punxsutawney Phil to be replaced with robot"
     excerpt: "The People for the Ethical Treatment of Animals (PETA) sent a letter to the Punxsutawney Groundhog Club requesting that the groundhog should be replaced with a robot. The letter signed by PETA President ... \"We even have the technology to create an animatronic groundhog with artificial intelligence (AI) that could actually predict the weather."
     publishedDateTime: 2020-01-31T04:04:00Z

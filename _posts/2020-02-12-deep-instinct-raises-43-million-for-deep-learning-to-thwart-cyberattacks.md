@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/"
 type: article
 quality: 103
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/cyber-security-3400657_1280.jpg"
         width: 1280
         height: 768
+  - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
+    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
+    publishedDateTime: 2020-02-12T14:19:00Z
+    webUrl: "https://seekingalpha.com/article/4323431-arm-brings-ai-and-machine-learning-to-iot-and-edge"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 38
   - title: "The CEO of Deep Instinct, which just raised $43 million, explains why he he's committed to a cybersecurity IPO instead of selling out"
     excerpt: "It's more common for security startups to get acquired, such as BlackBerry acquiring Cylance. Deep Instinct CEO Guy Caspi wants to buck that trend."
     publishedDateTime: 2020-02-12T13:03:00Z
@@ -87,13 +96,13 @@ related:
   - title: "Deep Instinct, The Deep Learning Cybersecurity Innovator, Raises $43 Million Series C Financing To Accelerate Growth"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to successfully apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced its $43 million Series C funding. The round was led by Millennium New Horizons, with participation from Unbound, the London-based investment firm founded by ..."
     publishedDateTime: 2020-02-12T13:36:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005334/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200212005334/en/Deep-Instinct-Deep-Learning-Cybersecurity-Innovator-Raises"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
     quality: 11
 
-secured: "h5roNBdPo9VWr8hJ1uQslRCzklrqAvOTKjqhYFIh+0Qh9hTwXO1mks2YUY1EDCb+o6nF+l2ToKL3OvKXxiQWiMIoNvGekqm21o9spZ2mP9ni/CzfNGdu6RnB71aXXzu/WNjGNPifXdYVag9g7TKkpzPjIsqSNTw4vHGj1PViGITRtf8Qu6YXs9RTg/7xO55H3oyCbDBm6DJfu1/3yN6eG+ZpavJiKQKp2S37A2W8XNVDQSiBULiN4ogasjD156u3Igkhu+LlxgqekDRJ4WHafbDt0B1eBBZUca2sGO48lKoqh8BM86jJSimB5S66/fG7;6Tb7AMXrWEJh+zVonNJRSg=="
+secured: "OGcjHU6yNI5CBVf564GaZoM5miJKXhlAcTwIqPboOo2or83EEX7g4M4/O2iHEp+cYObcJXyGjHUJFBqNPV3Eq3+E+C2wT8OdlvxHIUUkFm166P9DLLxsocn8QUMT1ApzCYDNOm61ZL83T2bS7EiL1u73ws7/76tv+8D2oTKAYyoauzhvtIIo+wXFUZzx0LUEP70Pyzl3CG3fwdP9tPrPeJp0ETVsbHFg5dXt70GctGWx6HJvvaFcKkrmuGKCaTgvHgFuoToO4JPbfP2fkmYuWUUVGf4NFzCf+8mno2oNobAD9495NW/Jl2IvQy5zAHrNONadWS9TZQwwQVLyDmoHseyyqiO2VMacdJ/Nbs8OthdNGSW39TnzTASy4qQ2wwt9BYBfhi759axTDz9qjquE1rYBx8PvDHfUTcbv7ixKeEKcHW+C4Ywn/zVv1RPKNylYQJOUx6if5mO+wmWr5XzjHiAau8pgBgTUgZ/+oS+mbVo=;x5GGI1zn1Oxy04B16GiNgw=="
 ---
 

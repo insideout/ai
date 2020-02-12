@@ -26,21 +26,6 @@ images:
     title: "PETA requests Punxsutawney Phil to be replaced with robot"
 
 related:
-  - title: "Replace Punxsutawney Phil With Robot, Animal Rights Group Says"
-    excerpt: "People for the Ethical Treatment of Animals are advocating a radical change in how Groundhog Day is celebrated."
-    publishedDateTime: 2020-01-28T22:02:00Z
-    webUrl: "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says"
-    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 59
-    images:
-      - url: "https://patch.com/img/cdn20/users/22920172/20200128/033110/styles/patch_image/public/phil2-getty___28150658187.jpg?width=984"
-        width: 897
-        height: 673
   - title: "PETA calls for Punxsutawney Phil to be replaced with a robot"
     excerpt: "STATEN ISLAND, N.Y. -- It appears no one’s job is safe from the rise of the robot workforce, not even the nation’s most beloved groundhog ... that the Punxsutawney Groundhog Club replaces Phil with an animatronic groundhog with an artificial intelligence (AI) system that would allow it to accurately predict the coming weather."
     publishedDateTime: 2020-01-29T20:17:00Z

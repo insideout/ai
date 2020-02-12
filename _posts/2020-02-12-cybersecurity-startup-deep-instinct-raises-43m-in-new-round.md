@@ -67,6 +67,15 @@ related:
       - url: "https://cdn.pulse2.com/cdn/2020/02/Kaskada.jpg"
         width: 1262
         height: 1120
+  - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
+    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
+    publishedDateTime: 2020-02-12T14:19:00Z
+    webUrl: "https://seekingalpha.com/article/4323431-arm-brings-ai-and-machine-learning-to-iot-and-edge"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 38
   - title: "The CEO of Deep Instinct, which just raised $43 million, explains why he he's committed to a cybersecurity IPO instead of selling out"
     excerpt: "It's more common for security startups to get acquired, such as BlackBerry acquiring Cylance. Deep Instinct CEO Guy Caspi wants to buck that trend."
     publishedDateTime: 2020-02-12T13:03:00Z
@@ -83,13 +92,13 @@ related:
   - title: "Deep Instinct, The Deep Learning Cybersecurity Innovator, Raises $43 Million Series C Financing To Accelerate Growth"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to successfully apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced its $43 million Series C funding. The round was led by Millennium New Horizons, with participation from Unbound, the London-based investment firm founded by ..."
     publishedDateTime: 2020-02-12T13:36:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005334/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200212005334/en/Deep-Instinct-Deep-Learning-Cybersecurity-Innovator-Raises"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
     quality: 11
 
-secured: "hIoFqXXZq5yTfcuIm3v+sMWwhgGCEiGlDsSs88xp+ilUiVmIEmmUksCELxFHoAUJ3W1KRyzj9Z9YxJ948x2Iiim/VqpAxxB0nOgImJyXPZ3dGQEHtxfRrZKNMGIXleEhz/jAHN4xRMvMduFQQeu2OHFf/1g2tCs9WgX4ADMpfnoOKj1tociuD76yLrP6xGYTpKNE+QZ0JiaPG6McUwliU2sXbeSPXTUtg08AsmGiez8et44XdZ0zFCNy5EIrIFpV3cZcOZd6OUQA6Au/22Dj9N27IKqebIISSxdzMmCSCeCcHbMLujX4pn/wprZp87oN;rtYLXHbcZzytRq6weR0JSw=="
+secured: "CU7ILRmo3xgXE1z4S4bxkvyf0FYrDiTgSnq0aTlWlEXw+r8p4t65o9YDyjeMLX+p3Yt3EFDqwhzsoNZvRsQlhfiHBKaSC7KzVZbHbuXqPd8Y+qU6IIEe0wB9GuAbH7GlV6r/nd6vbYV4U6JenAWJliKcCWpHfchGXpEoJ1Yj2AaGaU9LjzytXdF3RcFLjUPCHtMXsd6SunhZxYi7t84L15jWaOesuBKPfz/Mm3tVD7EpMxCh3VUrEngxKKsr1+W4B1cLV1npPT1yrS3AcjzFzn1agIC90tYZDaUXOQgZnIKiCgrLJNMEdFcnkUAw3CErGKG1eqsHO9MrxfSiwMvOGLOi8SEplLs0VPse4J8iDXSqped9c3uRBkEKOI6YLJiNLbIgiUgkaJBNZIRS3V+daMCSJ8VwOjjIIzRJtsAq6eDqx4KMTPgScRdZDwFgfg70/v/PtM3rRnv7qWXLtAp7NgVOQ036Y3Aq/hDFzCjInGE=;uHYECfFPCjGm7qPdpiJmLA=="
 ---
 

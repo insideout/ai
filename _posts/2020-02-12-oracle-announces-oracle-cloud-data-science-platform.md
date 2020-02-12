@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Oracle Announces Oracle Cloud Data Science Platform"
-excerpt: "/PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data"
+excerpt: "REDWOOD SHORES, Calif., Feb. 12, 2020 /PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data Science, helping enterprises to collaboratively build,"
 publishedDateTime: 2020-02-12T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-oracle-cloud-data-science-platform-301003588.html"
+webUrl: "https://www.marketwatch.com/press-release/oracle-announces-oracle-cloud-data-science-platform-2020-02-12-8183037"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Google AI
+  - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "Oracle Announces Oracle Cloud Data Science Platform"
 
 related:
@@ -34,6 +38,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "cjdr1pa+KObaXDZPk04k8nP6SmQYSh/S+RRDXt3iQHmUWGmQBntxdwSt8B20qKMs1OSGX/AU0vk8THUTmZ9EhS75XAky9VzUOv3Euxbze4xDmve2PvuHsZmy5t2hP14OAW1aUsE+GeIFTH1v7fBnNgW8sI2tJ2NmYCXSixJh9rPKDNDMZkWmI0xlFGtVjQV96lmYhqo+myGx7dOErdHcveIRu50afa2hUH4Si7mKe4bFOFXcWgTDjjOBdk7JDP8rv7iWleTF8N/b2sJRWx+F/dxm4+lmEim1lZb4G+pdK9NAGTOVLKPIXPdHwOyP2r5j;+5jP1a/MbzvBjzM/lJGeNQ=="
+secured: "X9gnjOoAyhY2wZSMm/cU0rIkaum7jPptn+1dkS1WgjiSZW1WLRGP4XmHv6u0Z5cumdXb1H0lVVJ2Sff81vsNK20EXNjRlSJECCju0Ap3Z4jve1TXhzCkAF3OLmm7Cp3m1qhfeppe52UlaZl+/1gXIM0b5cQxshnAiT06+VuQyg5cCPNeW5pSeqI1T7d+ICbEpWujHKPGAEGi9GV6B2XXAcDp+btmh250uzSxMh3Mmme4Fp3ASocL4DBK4cfUXoGOqmbBHQ+orkD8Hd+hRLmXjq5AaWvWFz12hE9Lvq7vh5eOOtrQvQq5m8eH/zSRoxpx;tyrNMFNyr64fwTR2AZYtAQ=="
 ---
 

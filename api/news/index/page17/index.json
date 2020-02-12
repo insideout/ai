@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-23-ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo.md",
+      "title": "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO",
+      "excerpt": "The Mountain View, Calif.-based startup last week named Celia Poon as its finance chief.",
+      "heat": 181,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "publishedDateTime": "2020-01-22T19:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-146435/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-23-amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing.md",
       "title": "Amazon explores a way to preserve privacy in natural language processing",
       "excerpt": "The team analyzed the privacy implications of different choices of epsilon value in the context of natural language processing, where word embeddings — mappings from the space of words into a vector (i.e., the space of real numbers) — often depend on the frequency with which words co-occur with each other. This presents a challenge where ...",
@@ -2099,43 +2143,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-24-ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.md",
-      "title": "GANPaint Studio uses neural network to 'paint' new elements into images",
-      "excerpt": "A team of researchers with IBM Research, MIT CSAIL and MIT-IBM Watson AI Lab has launched a new online tool called GANPaint Studio that utilizes a GAN neural network and semantic brushes to 'draw' entirely new elements into existing images. In the case of this particular tool, the elements include grass, clouds, brick, doors, trees, sky and domes.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images",
-      "ampWebUrl": "https://m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp",
-      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp",
-      "publishedDateTime": "2020-01-24T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Photography Review",
-        "domain": "dpreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://2.img-dpreview.com/files/p/E~TS590x0~articles/7545535551/original_main.jpeg",
-          "width": 590,
-          "height": 436,
-          "title": "GANPaint Studio uses neural network to 'paint' new elements into images",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

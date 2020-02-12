@@ -3,7 +3,7 @@ category: news
 title: "Deep Instinct, The Deep Learning Cybersecurity Innovator, Raises $43 Million Series C Financing To Accelerate Growth"
 excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to successfully apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced its $43 million Series C funding. The round was led by Millennium New Horizons, with participation from Unbound, the London-based investment firm founded by ..."
 publishedDateTime: 2020-02-12T13:36:00Z
-webUrl: "https://www.businesswire.com/news/home/20200212005334/en/"
+webUrl: "https://www.businesswire.com/news/home/20200212005334/en/Deep-Instinct-Deep-Learning-Cybersecurity-Innovator-Raises"
 type: article
 quality: 11
 heat: -1
@@ -74,6 +74,15 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/cyber-security-3400657_1280.jpg"
         width: 1280
         height: 768
+  - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
+    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
+    publishedDateTime: 2020-02-12T14:19:00Z
+    webUrl: "https://seekingalpha.com/article/4323431-arm-brings-ai-and-machine-learning-to-iot-and-edge"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 38
   - title: "The CEO of Deep Instinct, which just raised $43 million, explains why he he's committed to a cybersecurity IPO instead of selling out"
     excerpt: "It's more common for security startups to get acquired, such as BlackBerry acquiring Cylance. Deep Instinct CEO Guy Caspi wants to buck that trend."
     publishedDateTime: 2020-02-12T13:03:00Z
@@ -88,6 +97,6 @@ related:
         width: 1200
         height: 600
 
-secured: "VtTTjcTCq4Is6uXT6gR5KpXVaTKYE2AYICtfxZJOgIxXv3rwgDkjQdhMP3WnNiYFzZs05IgurSZoPefmtmIuns2PSHC9GObYQ+4LnxRBc/qMCRC9wzgg5DzdWyBvSniD2WjPJxJFH61HKuxX3twWS/lLQWPeLjkoyhLeCJI82qeEdYFbuKaXkppBNSU2uJqQegoQx5VZRvDe9tK0iUWWuuHxRamiZhfiVXfIF9jIMBmg9i0fs3RhKXMCWUeuZBk2Znfu65O24QjFpCuxU6AtKaGgWh9L5RCnoqJUZDb3px1PDb7BPmFl+K6xqxUvZP7b;gsgUYxvs1av2kJsQJnakFA=="
+secured: "5Y3e53VwOUTgpkrUZ+agZYAIwBMef+TItPJ6QacW7qmp0TK6FC3ZnKxEXggZXCv1C841fO3Ya6S35ZP6hJHDhnImyzQHpYojeHx8RGk53MQfb9M++kaXlFkZohFTwsQZN+GKwDeLSMLVgBDZa1cxYB5sKZG2M5o5CTdNQ4yFqihTHhlsYI//nu5Q1Va7lD1ldAlF9q1sEIzWXDybi0SBcoQDnbwThFAhKVP8HCLOMXH7hTODq7xnq+hU0kp+j4Ynsumu8um5gi9bG0Fjw0UPOdxjSqtmWs87AEeSEzW2dsHpTvgGYH2PzArFnqsHDpot;kh0wn8wgu60PMZleZluzjA=="
 ---
 

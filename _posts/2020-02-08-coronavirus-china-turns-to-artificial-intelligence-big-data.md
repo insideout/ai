@@ -44,6 +44,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Robotics companies providing technology to fight coronavirus in China"
+    excerpt: "She added that, as a result of the success of robots in helping against the coronavirus, China is likely to use more artificial intelligence and robotics in medical care. “It is set to be more common in the future,” she said. Coronavirus has spread across China and beyond, having started in Wuhan province, geographically central in the country."
+    publishedDateTime: 2020-02-12T14:30:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/02/12/robotics-companies-providing-technology-to-fight-coronavirus-in-china/29921/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/ubtech-robot-in-china.png"
+        width: 1015
+        height: 972
 
 secured: "vio16lDnQR8pQBjo3Ui/quk0QX1FvCzVfes6ieXHsQtwwJ75vo1pwrCrcPEa/Fh26CAiQ6W5teSEonoE8JHrOraX7vpD6VSNG+p0k2QAqrGHNh5RVpJzBGZW29FaVfGn7oY+EUES9oDDD0+ObR0n4kYbzw6UNWofPhSnZ6L6M+9VP/hId0HoipaCwcF1RM6V5iALYFanL9cDbC887WshXGKS7/YIu5KXavR0TZlrwIYJjrGkxfyOgI8V+ZE9gIwDYMJ+AWDOHvlF0T8K/HX9j2kAX3+U+psftvaSEAKX701hE95nVhYt36rnSdehxdo2;Dpoi99/J+qcJyi360DQDPQ=="
 ---
