@@ -325,6 +325,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200131005232/en/770583/23/Global_Educational_Robots_Market_2020-2024.jpg"
         width: 1200
         height: 627
+  - title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"
+    excerpt: "Segmentation by Technology: Acoustic digital video fingerprinting, Digital audio, video image watermarking, Optical character recognition, Speech recognition. Segmentation by Industry Vertical: Avionics, E-Commerce, Consumer Electronics, Media and Entertainment, Transportation and Logistics, Banking, Financial Services, and Insurance ..."
+    publishedDateTime: 2020-02-12T21:40:00Z
+    webUrl: "https://apnews.com/9d4f89708f92d191e5c9a10e51f0fd86"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "Global Robo Taxi Market 2026 Information Procurement and Data Analysis"
     excerpt: "A Robo-Taxi, also known as a Robo-Cab, is a driverless taxi or a self-driving taxi. Its primary purpose is to eliminate the need for human ... Companies such as Lyft, DiDi, Uber, and Baidu are the major ride-hailing service providers. These players are the major potential customers for Robo -Taxi. Nowadays, most companies are focusing on ..."
     publishedDateTime: 2020-02-06T12:43:00Z

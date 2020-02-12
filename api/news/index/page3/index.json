@@ -1069,35 +1069,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-04-ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis.md",
-      "title": "AI can help early start of radiation therapy, prevent cancer metastasis",
-      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicaldialogues.in/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872",
-      "ampWebUrl": "https://medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872",
-      "publishedDateTime": "2020-02-04T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you.md",
       "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
       "excerpt": "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ...",
@@ -1961,7 +1932,7 @@
       "path": "_posts/2020-02-04-policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management.md",
       "title": "Policy Implications of Artificial Intelligence and Machine Learning in Diabetes Management.",
       "excerpt": "Machine learning (ML) is increasingly being studied for the screening, diagnosis, and management of diabetes and its complications. Although various models of ML have been developed, most have not led to practical solutions for real-world problems. There has been a disconnect between ML developers, regulatory bodies, health services researchers ...",
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.physiciansweekly.com/policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management/",
@@ -2110,6 +2081,50 @@
           "width": 1200,
           "height": 588,
           "title": "Smart Marketing: How Corporate Marketers Deploy AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin.md",
+      "title": "This new AI model will badmouth you for putting trash in the wrong bin",
+      "excerpt": "When I’m at airports, I often get confused as to which trash and recycling bin I should throw my rubbish into. A new solution from a Canadian AI company, Initutaive AI, might come in handy. The firm has developed Oscar, an image-detection based AI, that recognizes objects in your hand and guides you to put things in correct bins.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/amp/",
+      "publishedDateTime": "2020-02-03T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Garbage-badmouth-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": "This new AI model will badmouth you for putting trash in the wrong bin",
           "attribution": null
         }
       ],

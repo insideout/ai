@@ -24,32 +24,21 @@ images:
     title: "Robots pose biggest Risk to the poorest countries"
 
 related:
-  - title: "Robots Pose Biggest Risk to the Poorest Countries"
-    excerpt: "At the end of the 20th century, globalization narrowed the gap between rich and poor nations. But history shows that isn’t always the case. In the years following the fall of the Berlin Wall in 1989,"
-    publishedDateTime: 2020-01-29T05:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries"
+  - title: "Chatbots are big news, but robots are set to be bigger"
+    excerpt: "Robotic process automation is an application technology leveraging artificial intelligence (AI) and machine learning (ML ... Today, RPA is a compelling proposition in that it allows businesses to create their own software robots to automate business processes, quickly giving the business an efficient digital workforce that dramatically reduces ..."
+    publishedDateTime: 2020-02-06T07:27:00Z
+    webUrl: "https://www.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
+    ampWebUrl: "https://amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-  - title: "Rise of robots could see a new wave of migrants, from poorer to richer countries"
-    excerpt: "Consider the effect of new technologies. More jobs have been automated because of advances in computing, robotics, and artificial intelligence. One consequence has been the hollowing out of clerical jobs. Displaced employees end up competing for positions that might have been considered below their pay grade. That depresses wages more generally."
-    publishedDateTime: 2020-01-29T09:33:00Z
-    webUrl: "https://theprint.in/world/rise-of-robots-could-see-a-new-wave-of-migrants-from-poorer-to-richer-countries/355983/"
-    ampWebUrl: "https://theprint.in/world/rise-of-robots-could-see-a-new-wave-of-migrants-from-poorer-to-richer-countries/355983/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/rise-of-robots-could-see-a-new-wave-of-migrants-from-poorer-to-richer-countries/355983/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 54
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2018/06/robot-e1527912484227.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.itweb.co.za/static/pictures/2020/02/Gavin-Els-2020-IIN.jpg"
+        width: 816
+        height: 459
   - title: "Robots Pose the Biggest Risk to Poorest Countries"
     excerpt: "Consider the effect of new technologies. More jobs have been automated because of advances in computing, robotics, and artificial intelligence. One consequence has been the hollowing out of clerical jobs. Displaced employees end up competing for positions that might have been considered below their pay grade. That depresses wages more generally."
     publishedDateTime: 2020-01-31T11:10:00Z

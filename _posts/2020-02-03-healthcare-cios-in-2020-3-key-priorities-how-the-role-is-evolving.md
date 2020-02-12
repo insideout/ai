@@ -23,17 +23,6 @@ images:
     height: 300
     title: "Healthcare CIOs in 2020: 3 key priorities & how the role is evolving"
 
-related:
-  - title: "The Evolving Shape Of Risk Facing Financial Services In 2020"
-    excerpt: "For financial services executives, the risk environment is becoming more complex and this is compounded by the use of new technologies, including AI, blockchain and RPA. Only a small percentage of risk managers are fully capable of assessing the risks of these technologies within their businesses."
-    publishedDateTime: 2020-01-28T15:33:00Z
-    webUrl: "https://www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
-
 secured: "jdW+0e0HAtt9pODw3LKJ+lo/yJeTNkd0bizbns19u+a+1aeVfFoQVCRp+lRQnZMBrB4NBz1CcMH+jC+mXMxtpMNsJhS6D6nh60uYz2WQge5d57HDlpPepOND8F8PNof9K685yT+eROZqF4z1S78S9QuZYbiuHlgtQzV9E1sovflLbq+YbBgR5MuceCuLjy7Q5Q1DCqOp0t3cMyCmVX/ajPCZgvATyWlqeQM+GoFXCRRl8byJdWD7hJwWS7X92OiHda0W1/Qu/7M/F9likydJU3c0WrEoLvYwgGi2dfqKChg5hTWc+u1JCblt1+p6gnXE;mQKaUgMgxqTjq5tixyGysA=="
 ---
 

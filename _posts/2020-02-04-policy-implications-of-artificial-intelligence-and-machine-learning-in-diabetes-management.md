@@ -8,7 +8,7 @@ ampWebUrl: "https://www.physiciansweekly.com/policy-implications-of-artificial-i
 cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management/amp/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Policy Implications of Artificial Intelligence and Machine Learning in Diabetes Management."
 
 related:
-  - title: "AI and the Auteur: Implications of Using Artificial Intelligence in Film Studio Decision-Making"
-    excerpt: "Given the inherent financial risk involved in film making, some now believe artificial intelligence, rather than human expertise, is best placed to select which films are most likely to provide suitable returns on investment. In early January 2020, Warner Bros signed a deal with Cinelytic, a Los Angeles-based artificial intelligence company ..."
-    publishedDateTime: 2020-01-29T03:11:00Z
-    webUrl: "https://www.jurist.org/commentary/2020/01/kelsey-farish-ai-and-the-auteur/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 40
-    images:
-      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2020/01/film_1579994061.jpg"
-        width: 1280
-        height: 853
   - title: "NSF-Simons Research Collaborations on the Mathematical and Scientific Foundations of Deep Learning (MoDL)"
     excerpt: "Research activities will be focused on explicit topics involving some of the most challenging questions in the general area of Mathematical and Scientific Foundations of Deep Learning. Each collaboration will conduct training through research involvement of recent doctoral degree recipients, graduate students, and/or undergraduate students from ..."
     publishedDateTime: 2020-01-29T22:45:00Z

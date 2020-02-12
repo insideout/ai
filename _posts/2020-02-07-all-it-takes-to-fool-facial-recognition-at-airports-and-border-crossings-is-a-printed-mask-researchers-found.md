@@ -60,6 +60,21 @@ related:
       - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
         width: 800
         height: 480
+  - title: "Booker, Merkley propose federal facial recognition moratorium"
+    excerpt: "Two Democratic senators on Wednesday introduced a bill that would place a moratorium on federal government use of facial recognition technology until Congress passes legislation regulating it."
+    publishedDateTime: 2020-02-12T20:48:00Z
+    webUrl: "https://thehill.com/policy/technology/482815-booker-merkley-propose-facial-recognition-moratorium"
+    ampWebUrl: "https://thehill.com/policy/technology/482815-booker-merkley-propose-facial-recognition-moratorium?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482815-booker-merkley-propose-facial-recognition-moratorium?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognition_052518istock.jpg"
+        width: 980
+        height: 551
   - title: "Met Police begins deploying live facial recognition cameras in Stratford"
     excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
     publishedDateTime: 2020-02-11T11:37:00Z

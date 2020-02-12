@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/346215"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346215"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -75,6 +75,21 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/10/Coins-Pounds-Money-UK-sketch-600x415.jpg"
         width: 600
         height: 415
+  - title: "North Texas startup grabs $1 million in funding as it focuses on AI tools for health care"
+    excerpt: "DocSynk is kicking off the year with new bridge funding. The North Texas startup focused on health care received the package from private equity firm Colosseum Group in Chicago, according to a news release."
+    publishedDateTime: 2020-02-12T19:54:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2020/02/12/docsynk.html"
+    ampWebUrl: "https://www.bizjournals.com/dallas/news/2020/02/12/docsynk.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/02/12/docsynk.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 50
+    images:
+      - url: "https://media.bizj.us/view/img/725821/fundingstartupistockphoto*600xx3454-2303-0-182.jpg"
+        width: 600
+        height: 400
   - title: "The 12 Largest US Tech Startup Funding Rounds of January 2020"
     excerpt: "Founded by JoeBen Bevirt in 2009, Joby Aviation has now raised a total of $720.0M in total equity funding and is backed by investors that include Toyota Motor Corporation, JetBlue Technology Ventures, Capricorn Investment Group, SPARX Group, and Toyota AI Ventures. Investors in the round: Abdul Latif Jameel, Baillie Gifford, Capricorn ..."
     publishedDateTime: 2020-02-05T14:27:00Z

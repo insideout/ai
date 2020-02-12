@@ -2,6 +2,138 @@
   "page": 15,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-19-how-quartz-used-ai-to-sort-through-the-luanda-leaks.md",
+      "title": "How Quartz used AI to sort through the Luanda Leaks",
+      "excerpt": "But they had a problem: That’s a heck of a lot of files. ICIJ partnered with Quartz’s AI Studio to find a solution. We built a system using artificial intelligence to “read” all the documents and help journalists from Quartz, ICIJ and other partner organizations find the kinds of documents they expected in the cache of leaks ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/",
+      "ampWebUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "publishedDateTime": "2020-01-19T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/01/Cover-TheEngineer-V2.jpeg_effected_logo.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "How Quartz used AI to sort through the Luanda Leaks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-how-software-developers-sparked-management-transformation.md",
+      "title": "How Software Developers Sparked Management Transformation",
+      "excerpt": "20 Years Ago, The IT Department Was Often The Firm’s Worst Performing Unit. Now The Rest Of The Firm Can’t Keep Up",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/",
+      "publishedDateTime": "2020-01-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198341263%2F0x0.jpg",
+          "width": 1200,
+          "height": 728,
+          "title": "How Software Developers Sparked Management Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-lioness-ai-sex-toy-can-teach-you-about-your-orgasms.md",
+      "title": "Lioness AI sex toy can teach you about your orgasms",
+      "excerpt": "Lioness has been pioneering sex tech since 2017, but CES 2020 was the first time the company was allowed to exhibit its AI-enabled sex toy at one of the world’s biggest tech shows. The Consumer Technology Association backtracked on its earlier policies and allowed sex-positive sex tech companies to display their wares at CES, which took place ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/amp/",
+      "publishedDateTime": "2020-01-19T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/lioness-guidance_feature-1.jpg?fit=1200%2C713&strip=all",
+          "width": 1200,
+          "height": 713,
+          "title": "Lioness AI sex toy can teach you about your orgasms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-19-why-agile-methodologies-miss-the-mark-for-ai-ml-projects.md",
       "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
       "excerpt": "What drives AI and ML projects is not programmatic code, but rather the data from which learning must be derived. What is needed is a project management methodology that takes into account the data-centric needs of AI and application-focused uses of models.",
@@ -288,6 +420,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai.md",
+      "title": "Artificial intelligence needs to be regulated: Alphabet CEO Pichai",
+      "excerpt": "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html",
+      "publishedDateTime": "2020-01-20T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG",
+          "width": 600,
+          "height": 338,
+          "title": "Artificial intelligence needs to be regulated: Alphabet CEO Pichai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -943,6 +1112,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-20-top-vc-deals-john-chambers-starts-a-fund-and-ex-baidu-exec-scores-funding-for-self-driving-cars.md",
+      "title": "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars",
+      "excerpt": "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "publishedDateTime": "2020-01-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104874500-GettyImages-647709384-pony-ma.jpg?v=1532563719",
+          "width": 2004,
+          "height": 1336,
+          "title": "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-21-3-big-takeaways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store.md",
       "title": "3 Big Takeaways From NRF 2020: Omnichannel Holidays, AI And The Measured Store",
       "excerpt": "It’s important to gauge retailers’ moods at NRF not least because it’s usually the first warning you have as to what holiday results are going to be like.",
@@ -984,6 +1198,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-4-stocks-to-gain-as-artificial-intelligence-simplifies-life-nasdaq.md",
+      "title": "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq",
+      "excerpt": "Since its invention in 1955, Artificial Intelligence (AI) has constantly been studied by several researchers and many big firms have invested billions each year just to accomplish one goal ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21?amp",
+      "publishedDateTime": "2020-01-21T00:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1902,261 +2153,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-macworld-speculates-that-apple-bought-xnorai-to-make-siri-smarter.md",
-      "title": "Macworld speculates that Apple bought Xnor.ai to make Siri smarter",
-      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
-      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "publishedDateTime": "2020-01-21T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Macworld speculates that Apple bought Xnor.ai to make Siri smarter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-microsoft-disagrees-with-eu-facial-recognition-ban.md",
-      "title": "Microsoft disagrees with EU facial-recognition ban",
-      "excerpt": "Microsoft disagrees with the EU's plan to ban facial recognition, saying the only way to make the technology better is to use it. The European Commission is considering a five-year ban on facial recognition in public spaces in order to buy time to assess risks and develop legislation. The move comes as other public authorities, notably the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
-      "publishedDateTime": "2020-01-21T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Microsoft disagrees with EU facial-recognition ban",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers.md",
-      "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
-      "excerpt": "Many of the deep learning models from Microsoft's Project Turing-- machine reading comprehension for the semantic search portion of Microsoft Search -- runs on the ONNX runtime, as well.",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "publishedDateTime": "2020-01-21T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/21/875b8c65-4f5f-486c-8179-9d5bc4aa4d5e/onnxoptimization.jpg",
-          "width": 954,
-          "height": 719,
-          "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-more-privacy-better-battery-life-ai-everywhere-what-apples-xnorai-deal-says-about-its-ambitions.md",
-      "title": "More privacy, better battery life, AI everywhere: What Apple’s Xnor.ai deal says about its ambitions",
-      "excerpt": "Arm Holdings CEO Simon Segars shows an Xnor.ai board at a 2019 event. Speaking on stage last year about the rise of artificial intelligence on devices, Arm Holdings CEO Simon Segars touted the capabilities of the chip giant’s Cortex-M4 processor to help identify objects using image recognition technology. But the circuit board on the slide ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/",
-      "ampWebUrl": "https://www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/amp/",
-      "publishedDateTime": "2020-01-21T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/01/arm-630x373.jpg",
-          "width": 630,
-          "height": 373,
-          "title": "More privacy, better battery life, AI everywhere: What Apple’s Xnor.ai deal says about its ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-neurips-competition-tackles-climate-data-challenges.md",
-      "title": "NeurIPS competition tackles climate data challenges",
-      "excerpt": "The Earth’s climate is a highly complex, dynamic system. It is difficult to understand and predict how different climate variables interact. Finding causal relations in climate research today relies mostly on expensive and time-consuming model simulations. Fortunately, with the explosion in the availability",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/neurips-competition-tackles-climate-data-challenges/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T11:09:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/neurips-f.jpg",
-          "width": 800,
-          "height": 440,
-          "title": "NeurIPS competition tackles climate data challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture.md",
-      "title": "Philips' new OLED805 and OLED855 TVs will use AI power to pimp your picture",
-      "excerpt": "Philips has revealed its first wave of new OLED TVs for 2020 – and it's going all-in on AI picture ... OLED855 and OLED805 televisions their debuts. Essentially identical in terms of specs aside from the style of their respective stands (the 805 has a two-legged \"chamfered stand\" while the 855 has a central mount), both make use of the ...",
-      "heat": 145,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

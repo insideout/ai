@@ -4,9 +4,11 @@ title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Na
 excerpt: "The Six Nations digital team created these capabilities using the AWS managed machine learning service, Amazon SageMaker, to build, train and deploy the models. The 2020 Six Nations will see the cloud services giant provide fans with an expanded range of real-time, in-game rugby statistics as they follow all the action from the tournament ..."
 publishedDateTime: 2020-01-23T15:57:00Z
 webUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship"
+ampWebUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "wHwJd7hTvQDe33A6BAlVU1MH7IxPVSEVZpau8XXBnf5e7sas1fffyM/tP7t60+zLnY0Bexio+dJSAAs/tfuMf7szprOgISslyz5EM4bLkZCd8a8nxukc3cOAB2PyY3OzNbMLLuyPhyNEdOG1YrLblEq4p/tqWl8YFD+I0DtRUr3aVcf0cu164MhfFEWHl+y7BdAGCj6w/WarlCQ7QgF6avgwQMZm2hMMVqkonj8HJMFVUJuZiCQN0HQPqpbwnrLqpVaBrJVrOliNRV9d/GBKCZB9AwwkRmpfXPcBPUbD9qjCVkB/HY8irptGYW3eA//DG4TLRI4v5Q3Ixh9USKVPgsBWCTaWmkefjfNl/awtSA2ZCH2YW/5V5aO0YHf2+LXCreIs1psjuJ8e8WrtcjAZcAkTKla+ecgIELRKXiXWbQVQerKc6X5rvbOQNDBKNWB2X9YzL8iacQ7yNmBoVL24MiO2wFWIgsAAAT+7uXQ6R28=;ergnds3JxEcDXaNEh0UnKA=="
+images:
+  - url: "https://cdn.ttgtmedia.com/visuals/LeMagIT/hero_article/Rugby_AdobeStock_46421708.jpeg"
+    width: 1200
+    height: 400
+    title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Nations championship"
+
+secured: "6k3/ZnnydkmiN/jv2AASj5WJlIn6Iagh1aaR3tRSgbS9pkcIrdAfCXqG+6Y/kYMRTdjGobNcmdpqulYzPxEemjcltcxuXNBTqOke9CgKCDfE6MbcS71LrT8R7EhnD/x/HxJPzG08hJBuGpQdit96gtw+mIzXQLR7/VkwJhfD/qVc8SzOR0Z5YliBWPIfrIQyJfVKjW33ZUVt4UjE+MO8XbNAhGDndHnUPdhv98izqqV231KQSkYFCN60lgekTDMj7mgeyiLC6JJq01WlI46ajkStQyHH1fYvylSFobqcicFFnbWO+JimPme7khy/1UGX;fsvTHtAxJC4LCSd5UWHX1Q=="
 ---
 

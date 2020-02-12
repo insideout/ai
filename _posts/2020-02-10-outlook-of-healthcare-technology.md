@@ -39,6 +39,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale"
         width: 711
         height: 474
+  - title: "Healthcare Algorithms Are Biased, and the Results Can Be Deadly"
+    excerpt: "And the Alliance for Artificial Intelligence in Healthcare, a nonprofit organization founded in December 2018, brings together developers, device manufacturers, researchers, and other professionals to advance the safe and fair use of AI in medicine. Some organizations have started baking inclusivity and fairness into the data-gathering process ..."
+    publishedDateTime: 2020-02-12T21:44:00Z
+    webUrl: "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly"
+    ampWebUrl: "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/healthcare/healthcare-algorithms-are-biased-and-the-results-can-be-dead_3kzk.620.jpg"
+        width: 620
+        height: 348
   - title: "How AI and Blockchain are Powering the Next Generation of Healthcare"
     excerpt: "With artificial intelligence (AI), a greater amount of information about our bodies ... whose Watson Supercomputer has analyzed more than 115,000 patients to gauge impact of symptoms are leading the charge in introducing AI into healthcare as a means to save precious resources like money and time. How can we use cutting edge technologies ..."
     publishedDateTime: 2020-02-07T20:49:00Z

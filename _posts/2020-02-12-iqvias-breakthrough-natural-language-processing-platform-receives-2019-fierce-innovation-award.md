@@ -3,7 +3,7 @@ category: news
 title: "IQVIA’s Breakthrough Natural Language Processing Platform Receives 2019 Fierce Innovation Award"
 excerpt: "“Our teams are leveraging natural language processing, artificial intelligence and machine learning to drive healthcare breakthroughs ... healthcare stakeholders identify disease patterns and correlate with the precise treatment path and therapy needed for better outcomes. IQVIA’s insights and execution capabilities help biotech, medical ..."
 publishedDateTime: 2020-02-12T20:50:00Z
-webUrl: "https://apnews.com/Business Wire/6424f22489ad45cca050683cfcc9bd12"
+webUrl: "https://apnews.com/6424f22489ad45cca050683cfcc9bd12"
 type: article
 quality: 12
 heat: 12
@@ -23,6 +23,6 @@ images:
     height: 450
     title: "IQVIA’s Breakthrough Natural Language Processing Platform Receives 2019 Fierce Innovation Award"
 
-secured: "+DTdU+oVQmgDFxbw9TUNXeEJhHWoNg9sKddHuUsgXYvaYyuABtoguJsZCaks2Wv8tn81fbId7Ynv3bUA6iPPxpYoHAvTR12gcm3ByYYhxwI2GmvfDrH8KAFTFSdaMiveKVrez9UWREQKUxRxtQAtWHm36K4eUhvVhF6R+X2IxMQWSOuVSpWDyA64zuRIkomO9yx5hw9HUIqn82q6tc4FJF1EyK7u8N2eU8KXZawnfXQ0CfD6axD6UKLb5cVFPHynUJpfQRYintTWm/0Ys1rUE5O+F1Y8gxeMTRCWNMVu5LcjRiRaO0HEGi51YvG90LOs;cIMlWLW/8uzPL/XZET+a9g=="
+secured: "GQ7PGNEhRZnIok2t/B9T5BalPK3LK3fTzoTnC4Xb0397dxOhri8S9vbguRmLIh0TAcMv+VJDqTKOpiG4PoI7jMMmGeR38xeIfklwIKCZsOzCLah/AI+09v1cvVz6IuwyN0GqtAeHKdiN0L4eVeYkh2eFVbIbCpqqD8K2Oq4E+XL7o4VUV/fIdKYUIKGAJL14cf7e8qYuYckWOB6l7NOgrHZ1ukvQkOj+VGZLsGtt5aCWU/2taHC6dehH2Rw9O2If4UqaN4ughTQXOw4CctV3fkkq8BAr1Vq0VhAGZgLB9p9F8F6zwbaS7orLTxCVd7r1;kzDH0Qa9V/p361zeriqRIA=="
 ---
 

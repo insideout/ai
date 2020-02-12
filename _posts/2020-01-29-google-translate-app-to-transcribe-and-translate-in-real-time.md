@@ -133,15 +133,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2018/11/Google-Translate-AH-new.jpg"
         width: 1920
         height: 1080
-  - title: "Android to translate spoken words in real-time in the near future"
-    excerpt: "What it’s missing, though, is perhaps the holy grail of translation, transcribing and translating spoken words in real-time. That’s exactly what Google demonstrated to a handful of folks in San Francisco, showing off its chops at AI and natural language processing. The simple process, which involved speaking through the Android phone’s ..."
-    publishedDateTime: 2020-01-29T03:35:00Z
-    webUrl: "https://www.slashgear.com/android-to-translate-spoken-words-in-real-time-in-the-near-future-28607974/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 34
   - title: "Translate this: How real-time translation breaks down barriers when you don't speak the language"
     excerpt: "Half of the internet's content is in English, says Google AI director of product Barak Turovsky,, but only 20% of the global population have any English skills whatsoever. And while Microsoft's text translation technology now supports up to 70 languages and its speech translation can decipher around 40, says Microsoft technical fellow and ..."
     publishedDateTime: 2020-02-05T10:16:00Z
@@ -196,6 +187,19 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/01/Google-Translate-Google.jpg"
         width: 1172
         height: 693
+  - title: "Google Will Soon Translate And Transcribe Languages In Real Time"
+    excerpt: "Google has shown off an upcoming feature for its Android Google Translate app that will allow for real-time transcription and translation of one language into another at an AI event in San Fransisco. According to CNET, the feature is still in the prototyping stage, so don't expect the functional equivalent of a Hitchhiker's Babel Fish to be on ..."
+    publishedDateTime: 2020-01-30T09:24:00Z
+    webUrl: "https://www.gizmodo.co.uk/2020/01/google-will-soon-translate-and-transcribe-languages-in-real-time/"
+    type: article
+    provider:
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 24
+    images:
+      - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/01/file-20191211-95125-r0n3lh.jpg"
+        width: 2479
+        height: 1653
   - title: "Google aims AI at whales and words"
     excerpt: "SAN FRANCISCO: Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... orcas and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters is ..."
     publishedDateTime: 2020-01-30T04:30:00Z

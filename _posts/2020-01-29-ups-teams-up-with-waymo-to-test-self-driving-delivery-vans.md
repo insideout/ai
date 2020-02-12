@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-packa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html"
 type: article
 quality: 89
-heat: 359
+heat: 349
 published: true
 
 provider:
@@ -336,15 +336,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/634/14634/WaymoUPSPartnership_Still.jpg"
         width: 752
         height: 423
-  - title: "Tokyo Olympics To Coincide With Biggest Self-Driving Demonstration In History"
-    excerpt: "Set to take place in early July, just two weeks before the Tokyo Olympics, the multi-manufacturer group will produce some 80 self-driving vehicles"
-    publishedDateTime: 2020-01-29T04:40:00Z
-    webUrl: "https://www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 31
   - title: "Uber is trying to bring its self-driving vehicles to the District"
     excerpt: "This month, Uber announced plans to bring its self-driving vehicles to D.C. The transportation company began collecting data in the District on Jan. 24 to do so. Exciting times ahead in Washington, DC where we'll officially kick-off manual data collection with three self-driving vehicles, starting tomorrow (weather permitting)! Learn more about ..."
     publishedDateTime: 2020-01-30T18:08:00Z

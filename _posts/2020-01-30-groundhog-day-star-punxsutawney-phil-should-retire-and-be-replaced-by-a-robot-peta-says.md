@@ -60,21 +60,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/9HNbKTpxEfhl6QnFewwKN7aJ2Ug=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66218730/1092678740.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "PETA calls for robot Punxsutawney Phil with AI to predict weather"
-    excerpt: "In the letter, Newkirk suggests that usage of artificial intelligence (AI), could actually make the yearly tradition more interesting and \"renew interest in Punxsutawney, generating a great deal of buzz, much like Sony's robot dog 'aibo,' which walks, plays, misbehaves, and responds to commands.\" In the letter, the president of PETA asks Deeley ..."
-    publishedDateTime: 2020-01-29T04:52:00Z
-    webUrl: "https://www.wusa9.com/article/news/nation-world/peta-calls-for-animatronic-punxsutawney-phil/507-dfa18f16-67c7-4405-96ab-82e200ec9b0a"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/nation-world/peta-calls-for-animatronic-punxsutawney-phil/507-dfa18f16-67c7-4405-96ab-82e200ec9b0a"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/peta-calls-for-animatronic-punxsutawney-phil/507-dfa18f16-67c7-4405-96ab-82e200ec9b0a"
-    type: article
-    provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 74
-    images:
-      - url: "https://media.wusa9.com/assets/CCT/images/250208b4-c338-41b4-83b4-d505ba2eb2cf/250208b4-c338-41b4-83b4-d505ba2eb2cf_360x203.jpg"
-        width: 360
-        height: 203
   - title: "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot"
     excerpt: "The organization suggests \"an animatronic groundhog with artificial intelligence\" to predict the end of winter. PETA is calling for Punxsutawney Phil to be retired and replaced by a robot ahead of Groundhogs Day on Sunday. The animal rights organization wrote a letter to the Punxsutawney Groundhog Club urging the the small town in Pennsylvania ..."
     publishedDateTime: 2020-01-30T16:42:00Z

@@ -85,6 +85,21 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/10/Coins-Pounds-Money-UK-sketch-600x415.jpg"
         width: 600
         height: 415
+  - title: "North Texas startup grabs $1 million in funding as it focuses on AI tools for health care"
+    excerpt: "DocSynk is kicking off the year with new bridge funding. The North Texas startup focused on health care received the package from private equity firm Colosseum Group in Chicago, according to a news release."
+    publishedDateTime: 2020-02-12T19:54:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2020/02/12/docsynk.html"
+    ampWebUrl: "https://www.bizjournals.com/dallas/news/2020/02/12/docsynk.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/02/12/docsynk.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 50
+    images:
+      - url: "https://media.bizj.us/view/img/725821/fundingstartupistockphoto*600xx3454-2303-0-182.jpg"
+        width: 600
+        height: 400
   - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
     excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary ..."
     publishedDateTime: 2020-02-11T15:26:00Z

@@ -41,19 +41,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/01/29/autossell/29robopicker-video1/29robopicker-video1-facebookJumbo-v3.jpg"
         width: 1050
         height: 550
-  - title: "AI Helps Warehouse Robots Pick Up New Tricks"
-    excerpt: "Geoffrey Hinton and Yann Lecunn, who shared this year’s Turing Prize with Yoshua Bengio for their work on deep learning, are among the AI luminaries who have invested in Covariant.ai, a startup developing AI technology for warehouse bin-picking bots. Covariant.ai has developed a platform that consists of off-the-shelf robot arms equipped with ..."
-    publishedDateTime: 2020-01-29T04:00:00Z
-    webUrl: "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 84
-    images:
-      - url: "https://media.wired.com/photos/5e2f1b2fad484f0008ab9102/191:100/w_1280,c_limit/Biz-A%2520Covariant%2520robot%2520at%2520a%2520KNAPP-powered%2520warehouse%2520Obeta%2520outside%2520Berlin_.jpg"
-        width: 1280
-        height: 670
   - title: "A warehouse robot learns to sort out the tricky stuff"
     excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — from clothes and shoes to ..."
     publishedDateTime: 2020-02-02T00:08:00Z

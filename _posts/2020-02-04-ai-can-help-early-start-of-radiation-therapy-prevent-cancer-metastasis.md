@@ -8,8 +8,8 @@ ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/ai-can-help-early-star
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Daily
@@ -20,15 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI could kickstart early radiation therapy for cancer patients"
-    excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
-    publishedDateTime: 2020-01-28T13:01:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
   - title: "Longer Looks: Wilderness Therapy, How AI Caught The Start Of A Pandemic, And Pregnancy Meds"
     excerpt: "But a Canadian health monitoring platform had beaten them both to the punch, sending word of the outbreak to its customers on December 31. BlueDot uses an AI-driven algorithm that scours foreign-language news reports, animal and plant disease networks, and official proclamations to give its clients advance warning to avoid danger zones like Wuhan."
     publishedDateTime: 2020-01-31T12:38:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T10:53:00Z
 webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -18,16 +18,16 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Jan 17, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI ... practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation."
-    publishedDateTime: 2020-01-17T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
+  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
+    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
+    publishedDateTime: 2020-01-20T09:52:00Z
+    webUrl: "https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "Go0a7a0AZkLwDDAIWu8Y+DxR39SSEp1Ud4Bik1YIOpd27o5ius24kEkEHe0OeG1KDywNBFXkS1lJA+TNsKnx7oJpfjUYzuNPCrNTjUuZOQ3+oD/eBKrimsz7Vn/DF91nan9QlMV3akLuJlM2oTwtR0FrKb8XIqJmPz0QeUcDiGVu6jKFA45L/9uFrcWhp566PGu9Z88+8Yn2hOoU5HVB3UUG4o1QUrM5sZZYEUGqIPz29vbLNryujEyRt8B5vRpHHgAX3q0HHAcVuBxjd89/s0K+1Robw7YygtBdl5twDFRD1r8ssxvr+SJEtcYNTUQw;pK9OMHE0oCZMmRcO9Ko4ug=="
+secured: "cd6VzIgUZH+OGowXmvEZuNYSnZhTolyvbX7k/zRbAKlbZnEnfIMMRDVOXJg9BiMo7k7pvApcjE15wfA4DrKjH40hZ3kZv9NWwLstjS2aiBUe8WHbsMJTVz6Yvu3L/VVK7og4WS4GRx4pju6ZH7G2GGCtYqSQOphewEVSv1ttG3KMrserXN1yihspDX/PKfIIXqo5xALklqHyhvCutXKaB99j04Fc0088ONlkvZ4ekM6zs0YKYhlCxVev8Yeaxhd7c/9kuaOTTzpjSbZQ7QCnQucePBv22y4hbqgbvgVsdUDJRkW4u7V0B6fAV5nkTAIp;Zhvd1rTpT2fi5wBfXBWYNA=="
 ---
 

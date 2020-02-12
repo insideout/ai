@@ -33,19 +33,6 @@ related:
       - url: "https://www.physiciansweekly.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg"
         width: 400
         height: 400
-  - title: "AI and the Auteur: Implications of Using Artificial Intelligence in Film Studio Decision-Making"
-    excerpt: "Given the inherent financial risk involved in film making, some now believe artificial intelligence, rather than human expertise, is best placed to select which films are most likely to provide suitable returns on investment. In early January 2020, Warner Bros signed a deal with Cinelytic, a Los Angeles-based artificial intelligence company ..."
-    publishedDateTime: 2020-01-29T03:11:00Z
-    webUrl: "https://www.jurist.org/commentary/2020/01/kelsey-farish-ai-and-the-auteur/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 40
-    images:
-      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2020/01/film_1579994061.jpg"
-        width: 1280
-        height: 853
 
 secured: "JWwJQRX+93VuR/7+dt+4KiyoVjiuYV3UgNVMY+rX2qGIIJVXuVPCls/pM7wysK6SbrjDZdAszE1yGMuyhT5ELD4ic9Rw6xv4maDlmO4fEcjBlETYK/X6B2kfzhy/0yFkM2UZ/MnkMxqoUtPHxnYdG9lYKq5XK85oi7HU1NWMTKD3oNSHbqlK5oWmeo/T1y6BSdc3KPD8v1MV5WZrUBq6tTXUOPBcEM7IhSPoIVTEgQ7HaVZK3+u0CgjJb5woYR1HGXlSot4SIBFPuP31T3f6Y9hFi1ohJVy+uOsyuOL/ObcaRIAYt7QsQ8CxiRT77EyV;LjUhS0Pbhjc433oUjaNHxw=="
 ---

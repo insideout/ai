@@ -283,6 +283,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1236897664.jpg"
         width: 1119
         height: 630
+  - title: "Raleigh police stop using controversial facial recognition technology"
+    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
+    publishedDateTime: 2020-02-12T17:54:00Z
+    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
   - title: "Raleigh police abruptly end use of controversial facial recognition tech"
     excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
     publishedDateTime: 2020-02-11T18:11:00Z
