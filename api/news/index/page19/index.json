@@ -595,6 +595,43 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
+      "title": "AI can help cancer patients start radiation therapy sooner",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "publishedDateTime": "2020-01-27T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI can help cancer patients start radiation therapy sooner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential.md",
       "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
       "excerpt": "Unlock new opportunities in Artificial Intelligence (AI) in Agriculture Market; the latest release from HTF MI highlights the key market trends significant to the growth prospects, Let us know if any specific players or list of players needs to consider to ...",
@@ -718,6 +755,42 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-cisco-adds-ai-transcription-to-webex-meetings.md",
+      "title": "Cisco adds AI transcription to Webex Meetings",
+      "excerpt": "Cisco has added new AI capabilities to Webex Meetings, following the company’s acquisition of Voicea last year. Voicea’s Enterprise Voice Assistant (EVA) speech recognition tech has been integrated into Cisco’s Webex Meetings videoconferencing platform. New features include automated recording and transcription of conversations ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.html",
+      "ampWebUrl": "https://www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.amp.html",
+      "publishedDateTime": "2020-01-28T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/cisco-100784903-large.jpg",
+          "width": 700,
+          "height": 498,
+          "title": "Cisco adds AI transcription to Webex Meetings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1176,8 +1249,8 @@
     {
       "path": "_posts/_archive/2020-01-28-reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai.md",
       "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
-      "excerpt": "Most exciting of all is that the tiny eighteen-person team has some very novel takes on deep learning forms of AI, the product of seasoned vets in machine learning technology and products. This is no me-too chat bot service, it would appear. Founders include Bindu Reddy, who was previously head of \"AI Verticals\" for Amazon's AWS. The company ...",
-      "heat": 98,
+      "excerpt": "They make use of a mish-mash of technology such as \"AutoML,\" of varying sophistication and quality. The Reality Engines offering goes up a level above simple program functions like those to more substantial corporate applications. They include such apps as how to optimize a company's spend on cloud computing services fees; financial metrics ...",
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
@@ -1202,9 +1275,9 @@
       },
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/28/52508ce2-f9c8-402a-b6b2-8a1250faa0f2/binduheadshot6.jpg",
-          "width": 940,
-          "height": 512,
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/28/c09d9ffd-7104-467f-a7bd-207a377162ca/crop/2114x1588+89+0/df2670fd400eaf01050ef3a769fc3c10/reality-engines-dagan-training-outline-jan-2020.png",
+          "width": 2114,
+          "height": 1588,
           "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
           "attribution": null
         }
@@ -1215,10 +1288,7 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Microsoft AI",
-        "AI in Finance"
+        "Machine Learning"
       ]
     },
     {
@@ -1342,6 +1412,42 @@
           "width": 1024,
           "height": 682,
           "title": "ServiceNow acquires conversational AI startup Passage AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-servicenow-to-acquire-small-conversational-ai-startup-in-mountain-view.md",
+      "title": "ServiceNow to acquire small conversational AI startup in Mountain View",
+      "excerpt": "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html",
+      "publishedDateTime": "2020-01-28T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/10466072/servicenowhq*600xx1080-720-100-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "ServiceNow to acquire small conversational AI startup in Mountain View",
           "attribution": null
         }
       ],

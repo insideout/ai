@@ -26,7 +26,7 @@ images:
 related:
   - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
     excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
-    publishedDateTime: 2020-01-28T17:16:00Z
+    publishedDateTime: 2020-01-30T19:40:00Z
     webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
     type: article
     provider:

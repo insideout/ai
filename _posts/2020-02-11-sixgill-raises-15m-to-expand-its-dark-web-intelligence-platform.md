@@ -20,6 +20,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Aiera Raises $7M to Further Event Intelligence and Insights Platform"
+    excerpt: "NEW YORK, NY , Feb. 12, 2020 (GLOBE NEWSWIRE) -- via NEWMEDIAWIRE – Aiera is announcing that it has raised $7 million through the sale of its Series"
+    publishedDateTime: 2020-02-12T10:00:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/12/1983636/0/en/Aiera-Raises-7M-to-Further-Event-Intelligence-and-Insights-Platform.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 19
+
 secured: "vIgRMUhSR3UmBx1HKREw8/FL3vhB9s2QlYBAJPqgcPf8IpaXS55u4b6k69kj2JKyRFCd1OoJRPY6A8CeDDeBMyCTk6Amx7DOxssa3NzSGwIwpXmQCfrafoPS+spGkpkE6xfiOdM8e1PUHQVfvdSEZVXnzwLdl2f7WEdumLMvcku1oD2jIlSdSAXv1Jb1m7DtXDNuc3RqAEtTrRSj+ulXQa8N1wrE0r1IQSudjoKXH1Nf5jkadMsV5Ofx2ecRien9HHX6yeTgrpLVokQ2XhYMWPVneLgHA9DK+WwoRq64P5yNrcAj1lMUdiXdhBQ+JxQZ8y5aE5yyivEltCKoeElo0UxLWzJqSD8wQu78kVIapnLlu//0WIsxhjhDKb7nMg8csRwA8PC0fCzsIgjUvIDQvEguRsS94sZCTFdM581yCwZp9uUj8m2Of4HkK8Ks37rK0zD8+ve1MlkjUs43TJR7NzcvhipssIWER+BSCPYKBjk=;HmY3y/2AztcGqn8t4vnBjA=="
 ---
 

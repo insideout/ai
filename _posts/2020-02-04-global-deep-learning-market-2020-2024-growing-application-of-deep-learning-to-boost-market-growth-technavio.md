@@ -89,6 +89,19 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "Despite public concerns, facial recognition gets traction in Congress"
+    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs ..."
+    publishedDateTime: 2020-02-09T00:00:00Z
+    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
+        width: 760
+        height: 368
   - title: "Learning Management System Market Growth Opportunities 2026, Segmentation and Key Players Forecast by 2026"
     excerpt: "Top Players in Learning Management System Market are D2L Corporation, CrossKnowledge, IBM Corporation, Edmodo, Cornerstone, McGraw-Hill Education, Saba Software, Inc., Upside Learning Solutions, Oracle Corporation,"
     publishedDateTime: 2020-01-29T09:18:00Z

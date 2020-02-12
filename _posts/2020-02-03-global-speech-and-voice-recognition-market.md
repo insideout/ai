@@ -44,6 +44,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
         width: 900
         height: 499
+  - title: "2020's Trend: Speech Recognition- Latest Innovations and Market Scope 2019-2026"
+    excerpt: "Speech Recognition: How it Works? Speech recognition is a technology used in various devices such as smartphones which enables system to identify the sound of spoken words and convert them into machine readable form. It uses linguistic units for speech and audio signals. These signals are measured by word error rate (WER) that helps to identify ..."
+    publishedDateTime: 2020-02-11T08:37:00Z
+    webUrl: "https://www.openpr.com/news/1926902/2020-s-trend-speech-recognition-latest-innovations"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
   - title: "North America Speech and Voice Recognition Market"
     excerpt: "Data Bridge Market research has recently released expansive research report with titled \"North America Speech and voice recognition Market\". The report helps out the clients to tackle every strategic aspect including product development, product specification, exploring niche growth opportunities, application modelling, and new geographical ..."
     publishedDateTime: 2020-02-07T13:42:00Z

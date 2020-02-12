@@ -8,7 +8,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/news/mastercard-invests-in-a
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
         width: 460
         height: 460
-  - title: "Infront Lab invests in AI-based video tracking and analytics startup Videocites"
-    excerpt: "This investment is a continuation of Infront Lab’s work with some of the world’s most exciting technology start-ups which has provided huge benefits to our clients.” Videocites CEO Eyal Arad on the firm’s Video-AI search engine: “Videocites ..."
-    publishedDateTime: 2020-01-28T17:58:00Z
-    webUrl: "https://news.europawire.eu/infront-lab-invests-in-ai-based-video-tracking-and-analytics-startup-videocites-304958/eu-press-release/2020/01/28/"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 13
   - title: "Mastercard invests in online and offline identity startup Trust Stamp"
     excerpt: "Mastercard has made a strategic investment in AI-generated identity authentication company Trust Stamp. Trust Stamp is a graduate of the 2018 Mastercard Start Path accelerator programme. The two companies introduced their first collaboration with a secure non-PII authentication network for both online and offline environments at the June 2019 ..."
     publishedDateTime: 2020-01-31T10:50:00Z

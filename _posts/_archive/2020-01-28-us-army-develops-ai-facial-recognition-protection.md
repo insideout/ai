@@ -1,8 +1,8 @@
 ---
 category: news
 title: "US Army develops AI facial recognition protection"
-excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, has created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. The US Army uses facial and object recognition technologies to train artificial ..."
-publishedDateTime: 2020-01-28T09:29:00Z
+excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+publishedDateTime: 2020-01-28T09:26:00Z
 webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
 type: article
 quality: 54
@@ -84,21 +84,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "British watchdog urges caution over police facial recognition plans"
-    excerpt: "LONDON, Jan 28 (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance ..."
-    publishedDateTime: 2020-01-28T17:25:00Z
-    webUrl: "https://uk.reuters.com/article/britain-data-privacy/british-watchdog-urges-caution-over-police-facial-recognition-plans-idUKL8N29X4CD?feedType=RSS&feedName=technology-media-telco-SP"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKL8N29X4CD"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL8N29X4CD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
   - title: "British watchdog urges caution over police facial recognition plans"
     excerpt: "LONDON (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance between ..."
     publishedDateTime: 2020-01-29T00:00:00Z
@@ -747,21 +732,6 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
         width: 1200
         height: 800
-  - title: "Atlantic privacy commissioners question growing use of facial recognition"
-    excerpt: "Information and privacy commissioners in Atlantic Canada marked Data Privacy Day on Tuesday by highlighting the growing prevalence of facial recognition technology. The commissioners from Newfoundland and Labrador, Nova Scotia, New Brunswick and Prince Edward Island say that while the technology is in limited use in Canada, it is being ..."
-    publishedDateTime: 2020-01-28T18:03:00Z
-    webUrl: "https://www.cbc.ca/news/canada/newfoundland-labrador/privacy-commissioners-facial-recognition-1.5443150"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5443150"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5443150"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 58
-    images:
-      - url: "https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
-        width: 620
-        height: 349
   - title: "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society"
     excerpt: "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ..."
     publishedDateTime: 2020-01-31T22:41:00Z
@@ -1520,6 +1490,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "QeeDOAc2LZNtUlw+nmsZ1P0yuSLxSN+BHDeWZxUESWFqP8nBm7musWJIY5HfVZPuT1rKJj6Sq3eRXZAog1Jb7xV5XuEvGpgRpe0Mi+ig+49qgzO+EskrSEPWdVOE5lteBlU4AZXkAFI9SEBnXIUEbBziQjYl9upxKPgo0mXvXN72FROf2hSrjWYE7r5fvXTj+MnOwAPc1sSoIwVH3vzTTcASI9Zx8bRzbVH3Zh3sIiys5QXxZJNWPqk/VgfCbblPRO7r1xB/fm4YtAKx/lmRb1vFUYM6qMV9u+U5KZ1ApPq680qQDd6yOvOhZsAWGC2u;VkoqE7lz0o75Kt9mDyyM2Q=="
+secured: "2jWuXAb2mgEKsQ0L5UlOGzItBTPeHveKhKnMvUFXC748fYE/yVZKEmaRcMEX/sLl5fDndsk4gn88RbD8NJ8eel7a3z/cIKIHNNtl173LDHnJpHv0yl9d+vaYfCtfceySAxZ9ICYnGv2jzqhQeIbAYdb9xvUcwQJhUbUB5/72gtIyELxpVVZEk7olPmvl3fgC3oEHM2aRaMGGW8DvwnSfJWogxNQ+4zi6UNQD4xZAg2jsn+wEE707CYCQ9BXbNAbgIMR8ktHI6Z3xUZEnuKE+3e3lbTvVGrQ69/uUze3NhjncXaEu4p3GNkR+MW2cPGoD;3D5Mpxb9KfXf/WzE2Q0Adg=="
 ---
 

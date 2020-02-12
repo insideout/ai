@@ -50,6 +50,19 @@ related:
       - url: "https://miro.medium.com/max/1200/1*C6Z6i1_2EJn13jVEsAOkRQ.png"
         width: 1200
         height: 683
+  - title: "Despite public concerns, facial recognition gets traction in Congress"
+    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
+    publishedDateTime: 2020-02-10T01:59:00Z
+    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
+        width: 760
+        height: 368
   - title: "mCloud Announces Tuck-In Acquisition of AI Visual Inspection Technology from AirFusion"
     excerpt: "Headquartered in Vancouver, Canada with offices in twelve locations worldwide, the mCloud family includes an ecosystem of operating subsidiaries that deliver high-performance IoT, AI, 3D, and mobile capabilities to customers, all integrated into AssetCare. With over 100 blue-chip customers and more than 35,000 assets connected in thousands of ..."
     publishedDateTime: 2020-02-10T13:53:00Z
@@ -115,6 +128,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+  - title: "Orthogonal Representations of Object Shape and Category in Deep Convolutional Neural Networks and Human Visual Cortex"
+    excerpt: "In conclusion, despite shape and category often being confounded in natural images, and the possibility for artificial neural networks to exploit this correlation when performing classification tasks, we find that deep convolutional neural networks are able to represent category information independently from low-level shape in a manner similar ..."
+    publishedDateTime: 2020-02-12T10:21:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-59175-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 18
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59175-0/MediaObjects/41598_2020_59175_Fig1_HTML.png"
+        width: 685
+        height: 626
   - title: "Forter Introduces its Machine Learning-based Loyalty Program Protection Solution"
     excerpt: "To share a press release or news update, please email our Features Editor, Ameya at: ameya.dusane@martechadvisor.com Loyalty program fraud rose 89% year on year, predominantly driven by the amount of personally identifiable information (PII) available from increasing numbers of data breaches. With direct and indirect losses from loyalty and ..."
     publishedDateTime: 2020-02-05T14:35:00Z
@@ -137,6 +163,17 @@ related:
       - url: "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf30000138MApEAM"
         width: 272
         height: 270
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
+    publishedDateTime: 2020-02-11T10:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
   - title: "Deltapath's Noise Cancellation Gateway Helps Businesses Improve Communication and Collaboration Over Phone Calls and Fuels Artificial Intelligence"
     excerpt: "The Noise Cancellation Gateway leverages Dolby's renowned audio expertise and technology. It filters nonhuman voices and focuses on improving two major areas garnering a lot of attention: voice calls and artificial intelligence. Voice calls remain a popular mode of communication, but the new work-from-anywhere trend is increasing the number of ..."
     publishedDateTime: 2020-02-04T19:33:00Z

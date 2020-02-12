@@ -29,6 +29,6 @@ images:
     height: 2000
     title: "China cares as deeply about A.I. ethics as the US, Microsoft CEO says, as he calls for global rules"
 
-secured: "4qQ2yuz8n6zoWMhsEvlPHcwbs/VxvfgEAffo0NHkqG7IYGlJUr6zqJKUEf7LoNqdtBNkCzgpEWajd2LYaFslbdxO22Cwftqlej2rgWM+ABTgYMr84Te44e4Dw4a1yYH6DdIbz64zip5puXbQUo9bJoqmq73Y+feiL08HphVqvHQCIUbc1LgVwtTRzHy0NU+Fc0II5LAIiylqCXVNY3LXKdzthXGTdHKCYzgg3zt961GpBvE0L/M3XZNUDipovNh403bOTy7PYkYGVmG50qJan7yScmQVl2FzYi0PXVkViLJSuMK6HT+U+rx25CUIl0NE;qM+IfoeBMvk1dhfQzuwZkA=="
+secured: "5TeKqhQS6++1IK5NAJUS0qrcJ9bo+xwE6Lhp+v2PV/4hgzxdMAlGvoqESF3ID8iu5MruJ4iGvhe8qV6hmQ/ZWB9aLq32TBNh4j8+Yf1kxS118wFSwHOr+lKuhkCbDZFZI80qDUm67CWW4XjJxH0KZI4IAfw/HftFTv+i78+DBTiVdujYYAJnqRCZJDj3tP6fyLniCgJ3+rashABNt4FKiwYMgsIYYLx0j2dLTlYq2DboLS/YxZvSxRxN6Eq8R4FWMFSSo+zee/YdY4xWdltkX0FQtsedoU5/unUzx8ldYBebTTWCwOlba6SOGi4CYRwx;xL/mgNu0UrJSvPoMqOztOg=="
 ---
 

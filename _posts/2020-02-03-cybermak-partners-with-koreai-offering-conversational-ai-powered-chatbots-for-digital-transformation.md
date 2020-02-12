@@ -39,6 +39,17 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Euro-Money-Europe-20-bright-300x216.jpeg"
         width: 300
         height: 216
+  - title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
+    excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "SD Times news digest: CheerpJ 2.0, Splice Machine partners with Heirloom Computing on modern mainframe apps, and Aiven’s open-source cloud platform"
     excerpt: "The partnership enables the modernization of legacy applications to cloud-native targets with new data sources and injection of AI and machine learning without rewriting them. “Businesses will benefit by at least an order of magnitude, from reengineering applications by hand, to replatforming at compiler-speed to an agile Java ecosystem on ..."
     publishedDateTime: 2020-02-06T15:55:00Z
@@ -52,19 +63,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-10.51.48-AM.png"
         width: 914
         height: 611
-  - title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
-    excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-    publishedDateTime: 2020-02-04T10:24:00Z
-    webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
 
 secured: "ED0xSlaBQ/ODCh8bXjwDCg6/wTx5PiqvUnYGmemgDZNrCr524aHgAWkMswLstgycvN1UEubSMhuC66dl9LRSE///DOhP4FoAhhcel1nXRx0rhE1Cj79sfLL7mltB9jNXJM3n64ZeaTnu8jsCaZJ2/Ox59Lmxv2rR4EgO5ItoZcNm28pWnNRmOI/2WbZ5GCl3R1NulWlNYIJ/RwVM4rFu6tddnlsTtOLOGZ+NoNkQPulYJSXRap6Um8OOb121jkTC0sDd8IDCuzL1Oxzi6Wq45p0O6QEhQc6YpnbWg9gc/3sTsXCr6xmaXbuQQ9VtPi+4;BHS64k+/XHDqTMTXqig5jQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passa
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -51,19 +51,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200128005287/en/656556/23/ServiceNow_logo_5-8-18.jpg"
         width: 1200
         height: 627
-  - title: "ServiceNow to Buy AI Chat Startup Passage AI"
-    excerpt: "Passage AI was launched in 2016. It has raised $10.3 million ... Last week, ServiceNow announced it had acquired Israeli startup Loom Systems. The companies did not reveal the purchase price. The company’s stock was up more than 2% Tuesday. It is set to announce its earnings on Wednesday. CFOs and their companies are becoming inundated ..."
-    publishedDateTime: 2020-01-28T18:04:00Z
-    webUrl: "https://www.cfo.com/ma/2020/01/servicenow-to-buy-ai-chat-startup-passage-ai/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 37
-    images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/01/GettyImages-1173671080.jpg"
-        width: 604
-        height: 578
 
 secured: "J1TPJP73wuekS4dIAu4M6g7b+bPgKCnzvw8ofimMIBUYxNtUhZd9f3ajeAUIVT27IW4QXxlqjokHqh8H3b1ojNXGUz494aUuflhRtWDHfHzwI8ZUj8nHYnRxGCtkBdtFS5p57lAwkZOAsnBXprvsINjUQJ/bxHy3vpdHIFyITzRKd6+RVrxFIupU6Ftr09Zm3Q/qd0YIsg/21yNe7AXY1kRSTfNyjqURoLy7ekirXzo3wBdRtYrV5/1jDZ9jo8HXEKXY4IcxwyPG04ftP4ei8HXjzoigeEpk1Us3c8D2uUeG6SuG5oQdTgvQo6bQqNOEjo1yF6+fLFrIMo/Kez9U9OF1SLAvq70ZJ7EWP0vP/fX45lTo4qHyxusTe2balPlaVxyXBDKwg8jTwSJyQwU3kVjesL/yEZB7h/O35iZPY6TbklHCBSovr/jLQIfhsC+LHvDIGfIDg44I0eZWbvI+e9VmaA0NB+ez57zTP3FQvBs=;Dh4l5MDu5Sr2SPQe8FAoLA=="
 ---

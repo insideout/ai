@@ -19,6 +19,21 @@ topics:
   - AI
   - Computer Vision
 
+related:
+  - title: "Poor resolution at the back of the tongue is the bottleneck for spatial pattern recognition"
+    excerpt: "In daily usage, users should be able to recognize objects through mere bottom-up processing. Yet, to the best of our knowledge, there are no studies demonstrating bottom-up object recognition using tactile SSD which we would predict to yield worse recognition performance than those reported in the literature so far."
+    publishedDateTime: 2020-02-12T10:11:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-59102-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59102-3/MediaObjects/41598_2020_59102_Fig1_HTML.png"
+        width: 559
+        height: 685
+
 secured: "v4PndhVYzhMT9tbK3iEgCCIQttfzguFEAbXctQtpvWWqvVVTdHi7AtLilCTQB1U8Tft9B7e/fqFv6chx3sI71OQ0bl6tQZ5hpXDzFL0Rmlfps9GNU15di/DJDNLE/EeSO/GlCNH+1Fqro6ecy95lX4UM/iUtkreXTO9cvoAY01gW5sUQH4hoNF4uNB7V93yK9opjA407pwDTM+pUrupR9QG5XCs7Fnu6fgg2cZ0VUthWdn5XfeZicVzcaGE6uorzp7eLS1NQO8tAT4okEPRLZueWLFygl5iOXNmSHHW3bUTGFEaXjOb1Nx6+YrJrQ68j;5SEMT//5jk78P1nNev0t6A=="
 ---
 

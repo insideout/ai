@@ -46,6 +46,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/assets/v3/editorial/3/1a/31a4f67f-c4b3-5f0e-9d69-8a954c0d14b6/5e3ba2ce8fd0d.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
+    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
+    publishedDateTime: 2020-02-06T20:54:00Z
+    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
 
 secured: "VY4MDMbXPNqRDujLWyZ3hlGqo/yUXt0CSHevcJIls6Ag53QKPDIBmqXJ539ZTo7mF+l7qvwidnEsz09kXfHnZSaayh2k1NY3B3Ty8XuEs/mwkvEMbxfLQd3P1tOK/X+qV63c7jGgvMhrYBVWixnen9NIIInn6lXcW/0luIdCvTH+edDyQ1nvGFWFLFYXs2Ry/eNQw5uc2UEJZOBTp31ZRfR/fEiRceayBXnWHyTWap1JvAcA5fBrb4Q38j63ZvLHyzNMaPdVjtECfeFz1iu4QyrTUlx1014ovAv8ACp9GXTCRVtQLRai7T22LFpQdLpG7hJNwZQv0svWtwKBkM0us5h0tkn1HJn5ZlTvkmRge0FpFBIS4tODkoErSao3utH4jA5RyyFniH98D+EQS2z4SNfqKcGP04UjeBWZt6KuFgTnz8eSALtK/m9LXc3TwXClf1UQXTL4ttdd5s7lNADRrwYbvl/KuG9sBpFS94TPlGQ=;gj7+yHvBJ+Nf8bRhunkiKg=="
 ---

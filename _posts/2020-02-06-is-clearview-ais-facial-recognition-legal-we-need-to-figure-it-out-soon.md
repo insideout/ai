@@ -391,6 +391,19 @@ related:
       - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
         width: 1200
         height: 800
+  - title: "Clearview AI: why the controversial facial recognition technology should be a concern for the UK, according to experts"
+    excerpt: "A controversial US facial recognition company is raising concerns over privacy after it created a database using nearly three billion public photos of people from sites such as Facebook, Twitter and YouTube. Clearview AI, until recently a relatively unknown tech startup, has made its facial recognition software available to law enforcement ..."
+    publishedDateTime: 2020-02-12T10:30:00Z
+    webUrl: "https://inews.co.uk/news/technology/clearview-ai-facial-recognition-technology-uk-explained-1555522"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 30
+    images:
+      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/Thumbnail-maker-91.jpg"
+        width: 1200
+        height: 630
   - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
     excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
     publishedDateTime: 2020-02-03T22:34:00Z

@@ -45,18 +45,18 @@ related:
         width: 1024
         height: 767
   - title: "Covariant launches from stealth to bring universal AI to robots"
-    excerpt: "/PRNewswire/ -- Covariant, a leading AI Robotics company, launched from stealth today to announce that its artificial intelligence has been deployed and"
-    publishedDateTime: 2020-01-29T10:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/covariant-launches-from-stealth-to-bring-universal-ai-to-robots-300995185.html"
+    excerpt: "AI Robotics is a foundational part of our future strategy ... \"Covariant has produced one of the first major breakthroughs in real-world robotic application, and it's just the start of the possibilities.\" \"Covariant has assembled an impressive group ..."
+    publishedDateTime: 2020-01-29T11:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-covariant-launches-from-stealth-bring-universal-ai-robots-/2020/01/29/9088561.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1083489/Covariant_Logo.jpg?p=facebook"
-        width: 2695
-        height: 1414
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "Dave Copps’ stealthy AI startup emerges with $10 million in backing"
     excerpt: "“As the number of IoT devices continues to grow, so will the need for AI and machine learning solutions to help manage the massive influx of data these devices will create.” Worlds’ funding round continues the fast start this year for Dallas-based ..."
     publishedDateTime: 2020-02-07T13:58:00Z

@@ -139,6 +139,19 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 13
+  - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
+    publishedDateTime: 2020-02-12T10:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200212005344/en/Study-Digital-China-2020---Government-Fostering"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
+    images:
+      - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "MmVZEU1tz6GqepdWMKgICKTloocL0otSs+25D+VfyXLZjaTyqIy/sRKcpLpXfhlKQjwByjhMf4xXNUNPOejoySzZSUxIpt0rgwOR+wUi0m1mDFTJkX60Q8hZo+9BSlsNwIaoErLH0CD/BOYEPZEerNQKgXWcgVhXsqflp0Bz83n5+JcBWy70g3wAjFn1uGI9U/LUPeRDaedWjOWwsVLbM0fFQadcObGSTSVv6OoZh2e4ch+9Ei13ocmlK29Q11l2pnpp4kGhYTl9TMJJPfi0g4OhISW1vLQF2Lv9LnGxpIJbv/asDjq4Q2VtPBrBgpXgk0UzFustGGD+82qu1quMvo0BQ66CN83jq30ZCLVfgB8k0G/FOWDsG+khCgPYD2TwS9y1nR2ApNIahKBxJ8E/6VQN0JZwexqV4FnmHfCaCguCojStt3WYYUH/zyGbp/JYF56Efq8LqamtgOlb1FwEs3igS5LfLB1a10vLQSloAww=;+9MaLCeAUrXLYA6lWEUM9g=="
 ---

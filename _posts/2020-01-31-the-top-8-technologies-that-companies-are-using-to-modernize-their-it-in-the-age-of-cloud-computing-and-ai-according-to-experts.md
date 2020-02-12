@@ -114,21 +114,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg"
         width: 1200
         height: 628
-  - title: "5 ways Fintech is making Banking more accessible"
-    excerpt: "But Fintech has a solution for that, too. Artificial intelligence (AI) facilitated the development of robo-advisors, who can communicate with consumers in real-time, offering financial advice and more. An example is a chatbot, which “talks to” the customer through online messaging. For now, most institutions that use robo-advisors have ..."
-    publishedDateTime: 2020-01-28T17:20:00Z
-    webUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/"
-    ampWebUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2020/01/offshore-software-development.png"
-        width: 700
-        height: 400
   - title: "Going deep on deep learning with Dr. Jianfeng Gao"
     excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
     publishedDateTime: 2020-01-29T11:13:00Z

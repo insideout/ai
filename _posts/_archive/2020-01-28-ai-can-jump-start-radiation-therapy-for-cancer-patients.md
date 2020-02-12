@@ -20,6 +20,21 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "AI can help cancer patients start radiation therapy sooner"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
+    publishedDateTime: 2020-01-28T02:41:00Z
+    webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 74
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "DALLAS - Jan. 27, 2020 - Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating ..."
     publishedDateTime: 2020-01-27T21:00:00Z
@@ -33,17 +48,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/222662_web.jpg"
         width: 720
         height: 527
-  - title: "AI can help cancer patients start radiation therapy sooner"
-    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
-    publishedDateTime: 2020-01-28T02:41:00Z
-    webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
   - title: "AI could kickstart early radiation therapy for cancer patients"
     excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
     publishedDateTime: 2020-01-28T13:01:00Z
@@ -58,6 +62,6 @@ related:
         width: 1200
         height: 450
 
-secured: "UuypViZROugEZhKvFtyAocFZLFkQq0d95s/YudeSEtA4CTSI9C2ML6txWZqPo3Zi8BrRgZWrBlWnZwYaJAnjujuLA2vk3qPhKNUB5qYkM1fdoAzqKOONvoWVlEi8heAWyWO3qYv7FVutNkJQcPnRQ6c12NMsblhteCSrDWdq+dpMphPg1xVZaN76yMTaahFkNIE2W35P9XdBNype6+i4cs3i3pFcL0eM0YJm66opUvv9/uCB/dXJq41MPVKjYPYGjK6iDcFmDVMgFmJjoWpjyqZIuaonn2KIgD9xEDT9/j+BtGheAAX+CKoT1HJktE27;ILeCpS7ozMaOZZb97Atr8g=="
+secured: "jcgy0OcRMlZbSLXhAttAKPQ6Eqkc3NWFLIu3P4f9pcALSWikVKuTjnceKL9F+TSGdjH3/QEnD4hgdHC0Ih/m5LfezKVUzuf2KggnTAGR5H/wpsXKpgqRA9dUjbthpA4r2GRJ9tsyXv27vIHpnsVKHA13RLzgFhOoSO+16acEG/naT1z/VigEN488dpT5wPkDgHZaJOpUT+VqXe7FOCZrUr7zhm6xaAgaUoC0CHZ1TV8Tm8o9e3HWmjDrpXjWyWo8At6IFSrfvjcALtPtMIq4p0CFKGiaxSh+80uts0gJWnz0otkbY5LaXuiP8homp7Gx;S/i2bWujDR2WOg07ry57Rw=="
 ---
 

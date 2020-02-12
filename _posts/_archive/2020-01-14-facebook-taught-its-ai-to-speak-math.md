@@ -29,6 +29,6 @@ images:
     height: 350
     title: "Facebook taught its AI to speak math"
 
-secured: "wDVQqyiXjx/QmMFBQDL8zJV1fb1nZzxHrSGrb3IZi6TA94mcwLYCMzn144wKDYNgn/xWBeVba0hfJpDo351GJaaaZtNBkvvWAfc3TcFFcrOwr5qhxbYZzLj8JCWU9GGA30lpEHSH4uTK4NWIZM2TWjJN/oaUJ51iPi3HjIh88lyEf8nYzhY753C6k6sGjFyCyQIdm/PT+oYnroDWndckYL21FQ97gg2SwVnTceWqsylz4ttlaz0wjKe+cJzP9Cg5l4J1hXf1MuIBQVifujCXK/dj8y/oqezb6MZ+SnjUCy+zCJWxSx6zGoTynzHHLboV;IQTK1Z8RW8dqyFgqrF2nJA=="
+secured: "GUSxtfaczUWgqmMd8KNq0H5FcKFwnd6/tzql7hD+6CONWbcJKBPPNPb5AFtl/IoRx8tpXCR/fVCsIGroAAziRyv5B2nsM86voJN2AF5TcdqwYWuCw7oJNmGuy+XvqLCuUK8BsdkPrcLCUHE2RBjZyA73U48EvlKHJam8c9DfjweIjbF3NEpv3QVkdDvyQTluSjeUTRIHE4ADmqU3LuXT0kM+iED5KxST9qxCzgtMk8EugcEBClL5UBAKy4dHcFSB0RlIQHho7NY4rdu4wo8u6dCkg6fm7m4GP/KKRp7ycrlGdlgv6gsq0rVPoWVXEVYy;0GZ4yNNiOK17/rD6K5jjuA=="
 ---
 

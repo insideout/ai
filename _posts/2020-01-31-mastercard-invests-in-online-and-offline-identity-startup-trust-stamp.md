@@ -58,15 +58,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
         width: 460
         height: 460
-  - title: "Infront Lab invests in AI-based video tracking and analytics startup Videocites"
-    excerpt: "This investment is a continuation of Infront Lab’s work with some of the world’s most exciting technology start-ups which has provided huge benefits to our clients.” Videocites CEO Eyal Arad on the firm’s Video-AI search engine: “Videocites ..."
-    publishedDateTime: 2020-01-28T17:58:00Z
-    webUrl: "https://news.europawire.eu/infront-lab-invests-in-ai-based-video-tracking-and-analytics-startup-videocites-304958/eu-press-release/2020/01/28/"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 13
 
 secured: "LxgqlGsYgyav9U8a3xDhE6YRKJPX6SfOxXiS7ErKNxdkP9p9+pCKDYKRReMZV3yiwbCAz+UmnTuat19J2YAB9cJ2Wi5kx4kJnMaU30tJZdfzPObmCPKdHTdd3CTbmWv9+MUmEr6wrmb+MFkTZe+VqbMDxbq/rbEQduzZVCOjb/YuarGVXeuiNLOJA5chpuZOhtPHYKXq3GDYfE1lPCJ7MR7ctp1olSmum/gmwjxBJ+DGXg9VBcS/JOVBS+IYxgT15PZXhjcgyIgOAD0KemwtH/N/ommNO6lNc2x899yyPTbQeRzZZys9BP69IXvvH+2lWj+WjfzTjJkY+dPhRVKuPfeSZCVRyn1BzIZdXPTd4UelNyVlVjXcSMD4rj+hTPUiNB0s6Yzck5NcZg4+f/NtDVjJN74cUVH/ASAHqXo9gTq98GVf0DcP+ZSGDGF1CnSQYaM0W9trF5S87mQ9lwIvHRR7UVXYzacL7dh41qCh/U4=;RWQKgudl37+G7j4yasBrPQ=="
 ---

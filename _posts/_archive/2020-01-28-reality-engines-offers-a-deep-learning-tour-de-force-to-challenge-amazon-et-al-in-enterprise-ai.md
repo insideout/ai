@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI"
-excerpt: "Most exciting of all is that the tiny eighteen-person team has some very novel takes on deep learning forms of AI, the product of seasoned vets in machine learning technology and products. This is no me-too chat bot service, it would appear. Founders include Bindu Reddy, who was previously head of \"AI Verticals\" for Amazon's AWS. The company ..."
+excerpt: "They make use of a mish-mash of technology such as \"AutoML,\" of varying sophistication and quality. The Reality Engines offering goes up a level above simple program functions like those to more substantial corporate applications. They include such apps as how to optimize a company's spend on cloud computing services fees; financial metrics ..."
 publishedDateTime: 2020-01-28T17:28:00Z
 webUrl: "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
 type: article
-quality: 98
-heat: 98
+quality: 92
+heat: 92
 published: true
 
 provider:
@@ -22,16 +22,13 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - AWS AI
-  - Microsoft AI
-  - AI in Finance
 
 images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/01/28/52508ce2-f9c8-402a-b6b2-8a1250faa0f2/binduheadshot6.jpg"
-    width: 940
-    height: 512
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/28/c09d9ffd-7104-467f-a7bd-207a377162ca/crop/2114x1588+89+0/df2670fd400eaf01050ef3a769fc3c10/reality-engines-dagan-training-outline-jan-2020.png"
+    width: 2114
+    height: 1588
     title: "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI"
 
-secured: "yTNKrHTUstTw87oOhoN35LJRYoYdh9D08XeUy2dJSJrH3Ztpo2Zab80rAitpLYP14YERKZp4An5QYD6f72tt/9ttmXWUHG5XVMivTdbF+WaX+CwACHqaOURSsVzmrZwppCN24KcMDUQC6va0IuONcIrNkw4u2+enP/nKptTEWjgt/T9ChTbOIpTdrSMSGlzCROPkE68NkOoB7ri7g3qiEwCXIgUrt++vZh34wMTYcQwU22cNsrhw7a5UsDhEbFrjm5ISH1GKGkb9qihoXpVWHfNe5hKLombgE5Vt87DK6SILcB5EgvAYy/OjajNwNtJFjPx7QzvBgmExA9MAc/wHBCu4NrR9aOl8oYdNLfpEMeK88bT0XmWAqKW9xRC5p8w9ggN93Ju+G2C0t7nhrQGzLA7H1sxE64QxGF1SHOdJNxH4rK/qt+gYpn2xXbaIA1I3dxF+/zE+iaLA7hpz+k8aef16o884NWNOB4h3yZDJZic=;85Ckj/IRIGGiF3MxntOhaA=="
+secured: "qfTEcvrasWdqKiU0rUtdU+3qkAFk0KDBknQ5vmkKQRRz0XsNotM4pveSvafLbSrtAqZOCUqPWkTrZ/qXo0gJpuTLBNUrUq823Z6wFZIgtldNDy6JsiBhm82p688sC8VSLne3U6g000gQBd1w/YYF9xUQBPb9fa1GJEQaZFn4J7OppWqZ1q7Wi51TykopoB8WKrutFFLodeTV/sDfyRdgVl3dnrMUQXnyHoUA/T+LEd3dUhofMIcXhIN0F1oBUajoQ0KfezfB/KVpZtNVqfMGuxlrykkgE5ujIp3aIefiFwXaXwuh8vfNCFRH7lPq0NmB;AQQdVdcWibd5KFQUBfjkFA=="
 ---
 

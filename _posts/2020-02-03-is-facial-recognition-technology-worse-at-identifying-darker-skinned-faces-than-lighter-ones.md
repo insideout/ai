@@ -399,6 +399,19 @@ related:
       - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
         width: 1200
         height: 800
+  - title: "Clearview AI: why the controversial facial recognition technology should be a concern for the UK, according to experts"
+    excerpt: "A controversial US facial recognition company is raising concerns over privacy after it created a database using nearly three billion public photos of people from sites such as Facebook, Twitter and YouTube. Clearview AI, until recently a relatively unknown tech startup, has made its facial recognition software available to law enforcement ..."
+    publishedDateTime: 2020-02-12T10:30:00Z
+    webUrl: "https://inews.co.uk/news/technology/clearview-ai-facial-recognition-technology-uk-explained-1555522"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 30
+    images:
+      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/Thumbnail-maker-91.jpg"
+        width: 1200
+        height: 630
   - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
     excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
     publishedDateTime: 2020-02-05T03:35:00Z

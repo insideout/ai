@@ -101,21 +101,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg"
         width: 1200
         height: 628
-  - title: "5 ways Fintech is making Banking more accessible"
-    excerpt: "But Fintech has a solution for that, too. Artificial intelligence (AI) facilitated the development of robo-advisors, who can communicate with consumers in real-time, offering financial advice and more. An example is a chatbot, which “talks to” the customer through online messaging. For now, most institutions that use robo-advisors have ..."
-    publishedDateTime: 2020-01-28T17:20:00Z
-    webUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/"
-    ampWebUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2020/01/offshore-software-development.png"
-        width: 700
-        height: 400
   - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
     excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
     publishedDateTime: 2020-01-31T15:06:00Z
