@@ -2,44 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-10-ten-steps-to-ethics-based-governance-of-ai-in-healthcare.md",
-      "title": "Ten steps to ethics-based governance of AI in healthcare",
-      "excerpt": "A data governance framework based on the following ten steps can assist large healthcare systems embrace AI applications in a way that reduces ethical risks to patients, providers, and payors. Additionally, it enhances public trust, transforms patient experiences, and provides effective ethics-based oversight. 1) Establish ethics-based ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.healthdatamanagement.com/opinion/ten-steps-to-ethics-based-governance-of-ai-in-healthcare",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Health Data Management",
-        "domain": "healthdatamanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Ten steps to ethics-based governance of AI in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
       "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
       "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
@@ -661,7 +623,7 @@
       "path": "_posts/2020-02-11-ai-and-automation-together-forever.md",
       "title": "AI And Automation: Together Forever?",
       "excerpt": "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes.",
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/",
@@ -2186,6 +2148,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai.md",
+      "title": "CDHI Foundation and IBM tracking the progress of Huntington's disease using AI",
+      "excerpt": "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/",
+      "publishedDateTime": "2020-02-11T20:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     }
   ],

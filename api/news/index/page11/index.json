@@ -2,51 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-11-will-ambarellas-new-robotics-platform-widen-its-moat-against-intel.md",
-      "title": "Will Ambarella's New Robotics Platform Widen Its Moat Against Intel?",
-      "excerpt": "The platform, which serves as a unified software infrastructure for Ambarella's CVflow computer vision system on chips (SoCs), targets automated guided vehicles, industrial robots, and emerging ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/11/will-ambarella-robotics-platform-widen-moat-intel.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/11/will-ambarella-robotics-platform-widen-moat-intel.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/11/will-ambarella-robotics-platform-widen-moat-intel.aspx",
-      "publishedDateTime": "2020-01-11T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553078%2Fgettyimages-1134562388.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Will Ambarella's New Robotics Platform Widen Its Moat Against Intel?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-12-artificial-intelligence-how-to-measure-the-i-in-ai.md",
       "title": "Artificial intelligence: How to measure the ‘I’ in AI",
       "excerpt": "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ...",
@@ -1572,7 +1527,7 @@
       "path": "_posts/_archive/2020-01-14-germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence.md",
       "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
       "excerpt": "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ...",
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437",
@@ -2091,6 +2046,50 @@
           "width": 1200,
           "height": 802,
           "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-15-apples-latest-ai-acquisition-leaves-some-wyze-cameras-without-people-detection.md",
+      "title": "Apple’s latest AI acquisition leaves some Wyze cameras without people detection",
+      "excerpt": "Earlier today, Apple confirmed it purchased Seattle-based AI company Xnor.ai (via MacRumors). Acquisitions at Apple’s scale happen frequently, though rarely do they impact everyday people on the day of their announcement. This one is different. Cameras from fellow Seattle-based company Wyze, including the Wyze Cam V2 and Wyze Cam Pan ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature",
+      "publishedDateTime": "2020-01-15T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/nfIULNMvKIPLvLANqIRqNurHj8g=/0x0:1599x1066/1400x933/filters:focal(673x406:927x660):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66109524/Wyze_Labs_Inc_WyzeCam.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Apple’s latest AI acquisition leaves some Wyze cameras without people detection",
           "attribution": null
         }
       ],

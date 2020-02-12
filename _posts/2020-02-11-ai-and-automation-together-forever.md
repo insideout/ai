@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-auto
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     title: "AI And Automation: Together Forever?"
 
 related:
+  - title: "Artificial Solutions and Blue Prism Partner to Add Conversational AI to Business Automations"
+    excerpt: "About Artificial Solutions Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise ..."
+    publishedDateTime: 2020-02-12T07:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
   - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
     excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
     publishedDateTime: 2020-02-06T09:45:00Z

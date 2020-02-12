@@ -1,8 +1,8 @@
 ---
 category: news
 title: "The Rise of Smart Camera Networks, and Why We Should Ban Them"
-excerpt: "Behavior recognition includes video analytics capabilities like fight detection, emotion recognition, fall detection, loitering, dog walking, jaywalking, toll fare evasion, and even lie detection. Object recognition can recognize faces, animals, cars, weapons, fires, and other things, as well as human characteristics like gender, age ..."
-publishedDateTime: 2020-01-27T18:05:00Z
+excerpt: "Object recognition can recognize faces, animals, cars, weapons, fires, and other things, as well as human characteristics like gender, age, and hair color. Anomalous or unusual behavior detection ..."
+publishedDateTime: 2020-01-27T18:03:00Z
 webUrl: "https://theintercept.com/2020/01/27/surveillance-cctv-smart-camera-networks/"
 type: article
 quality: 24
@@ -23,6 +23,6 @@ images:
     height: 500
     title: "The Rise of Smart Camera Networks, and Why We Should Ban Them"
 
-secured: "NmluAo2Sf7ugoJkXe6F8X6qd65jlLaPhTabF9pAcUtu/Yhgk+Z0IRAcsJ76INF96EF4ZGp9vkER+Dwqxa+2fc0RbiMsrkUqJa2qb4YlA7aMhXO1v6P9qH5CjV2hRjbg+yq3Z8FmcIsShEK6LlWsVA3Blea09UG6kuActz0JyurAzpxUeNNjTOJbNeT4zK4Rga4ZZccI14jogKmbienuNtL9nFshlAX/jfkS7ESy+XO5oOFyi6vi1tHyoboocyZcI/oB1sfLB1FzFRY8Bi/cRDIHmourRVcGZujOqVoiKm5nZ1WRoUZGtb/xpQ/wq5V0QOlovfSyicO8hPjyQxYz63sWNaIurU+8bc8CiTFKuCRxGZOWbvXEiizvzMeLRr8RP/TSnbUQfyuvk+8Pk4jPFjlJxJN1Rn7k2G1H+iQJ2uIz0J6wtp94KVzbJWWcLhMink16ic1qsmp4sB6wXq2Ygtkx8Jojj/S6PfC6Mv89A9LM=;0zoxUIxhWq2WSh7EQM1sXA=="
+secured: "27AideO0FHa84o4kibXnIHtCDl7f9bEqeBpQqRgZbw///Zt15MdTjBQdqUyrBPdSehI1xiKJtnTHQChhymoDWk4DRC9xyGNJymY+oMi9m7X+cnwonbKHU8ptqikUEJZ+bbeBhskh98ym1RMFWU+pCV0KuUGRGgwnsAStmJbLdTkeCfyp9EaZziPM2Zco4aWOZcKbyEKtvRaosMbPaNYsWw4ixlxUkex3syTsRyXAPwrt+2dXZrftVCJfML3i+kwOFBIWpUZSqfTILLqnBlXXV4YlvCnrQfiaxcl5qe0mIh7ilz6W3kIR3VruZT37VkYI;HeIAua9PYFs9aqTyPqCA6w=="
 ---
 

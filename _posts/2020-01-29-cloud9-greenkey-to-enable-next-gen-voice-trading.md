@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T06:50:00Z
 webUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/cloud9-greenkey-to-enable-next-gen-voice-trading/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Cloud9 & GreenKey to enable Next-Gen Voice Trading"
 
 related:
-  - title: "Cloud9 and GreenKey team on voice trading"
-    excerpt: "The collaboration will leverage Cloud9’s C9 Trader voice collaboration platform and GreenKey’s speech recognition (ASR) and natural language processing (NLP) engine within IPC’s Connexus™ Cloud financial ecosystem. The collaboration will allow customers to “voice-populate” their desktop applications such as trade tickets ..."
-    publishedDateTime: 2020-01-28T15:15:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81273/cloud9-and-greenkey-team-on-voice-trading"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
   - title: "Cloud9 and GreenKey Partner on Next-Gen Voice Trading"
     excerpt: "The collaboration will leverage Cloud9’s C9 Trader voice collaboration platform and GreenKey’s speech recognition (ASR) and natural language processing (NLP) engine within IPC’s Connexus™ Cloud financial ecosystem. The collaboration will allow customers to “voice-populate” their desktop applications such as trade tickets ..."
     publishedDateTime: 2020-01-31T02:38:00Z

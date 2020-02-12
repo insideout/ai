@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/"
 type: article
 quality: 187
-heat: 537
+heat: 527
 published: true
 
 provider:
@@ -421,19 +421,6 @@ related:
       - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
         width: 450
         height: 366
-  - title: "Data Protection Day: Privacy Commissioner Warns About Facial Recognition Tech"
-    excerpt: "Facial recognition is the process by which a person can be identified or otherwise recognized from a digital image. Facial recognition is one form of biometric identification; others include fingerprints, voice recognition and retinal scans. Facial recognition is based on unique, measurable characteristics that can be used to verify or ..."
-    publishedDateTime: 2020-01-28T15:21:00Z
-    webUrl: "https://vocm.com/2020/01/28/data-protection-day-privacy-commissioner-warns-about-facial-recognition-tech/"
-    type: article
-    provider:
-      name: VOCM News
-      domain: vocm.com
-    quality: 21
-    images:
-      - url: "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Facial-recognition-scanner-kids.jpg"
-        width: 800
-        height: 400
   - title: "Facial-recognition tech may have value, but real-time surveillance goes too far"
     excerpt: "If you stroll through some parts of London, facial-recognition systems linked to street cameras analyze whether you look like someone wanted for a crime. This technology isn’t very accurate — it often makes false matches — and warrantless surveillance that can identify people in public in real time corrodes individual rights that ought to ..."
     publishedDateTime: 2020-02-04T09:29:00Z

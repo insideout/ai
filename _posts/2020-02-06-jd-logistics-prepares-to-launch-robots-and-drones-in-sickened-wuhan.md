@@ -24,21 +24,36 @@ images:
     title: "JD Logistics prepares to launch robots and drones in sickened Wuhan"
 
 related:
-  - title: "Aker BP to Test Robots and Drones at Skarv"
-    excerpt: "Aker BP said it plans to trial robots and drones for autonomous inspection, data capture and automatic report generation on its operated Skarv installation in the Norwegian Sea during 2020. The Norwegian focused exploration and production firm announced Tuesday it is working with industrial artificial intelligence (AI) software-as-a-service ..."
-    publishedDateTime: 2020-02-11T14:38:00Z
-    webUrl: "https://www.oedigital.com/news/475520-aker-bp-to-test-robots-and-drones-at-skarv"
-    ampWebUrl: "https://www.oedigital.com/amp/news/475520-aker-bp-to-test-robots-and-drones-at-skarv"
-    cdnAmpWebUrl: "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/475520-aker-bp-to-test-robots-and-drones-at-skarv"
+  - title: "Robots aren’t taking over, and other lessons learned from 2 decades in the logistics tech industry"
+    excerpt: "Editor’s note: The following is a guest post written by David Glick, CTO at Flexe, a Seattle logistics startup. I’ve spent a lot of time in warehouses ... You may have seen videos of robots zipping around the warehouse and heard the rumors of AI and automation replacing jobs. I don’t agree. Logistics is a $1.6 trillion industry; a ..."
+    publishedDateTime: 2020-02-10T02:30:00Z
+    webUrl: "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/"
+    ampWebUrl: "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/"
     type: article
     provider:
-      name: oedigital.com
-      domain: oedigital.com
-    quality: 59
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
     images:
-      - url: "https://images.oedigital.com/images/maritime/w537h300pad/quadruped-robot-developed-boston-dynamics-109826.png"
-        width: 537
-        height: 300
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/Glick-Guest-Post-Pic-630x387.png"
+        width: 630
+        height: 387
+  - title: "Lessons from a logistics tech veteran: Robots aren’t taking over and put engineers close to the customer"
+    excerpt: "Editor’s note: The following is a guest post written by David Glick, CTO at Flexe, a Seattle logistics startup. I’ve spent a lot of time in warehouses ... You may have seen videos of robots zipping around the warehouse and heard the rumors of AI and automation replacing jobs. I don’t agree. Logistics is a $1.6 trillion industry; a ..."
+    publishedDateTime: 2020-02-09T18:33:00Z
+    webUrl: "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/"
+    ampWebUrl: "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 72
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/Glick-Guest-Post-Pic-630x387.png"
+        width: 630
+        height: 387
 
 secured: "vB08pAWwcGVaBgecNUq8IKKroDSvppBADCxQR8Ca4FtXovYi12AzudzOib0jr3byaNmTSd1z0o9Ha5FEXD3DIu5u/lJG/4RkrdLmKsUuni2UjA1iBoFjpdfoUGonCV24XHxlCpjeZTrpM/EyGvFvoqHHYH2ChTtDanMk0n9nFk/tu688b54TlwOP7Ad+wcWcZ+bBnWjjzWc1f66yFbWsYgBbLIweh7fhPxdlyyh3Bx6ytmfgpSFVkQV3BqmIPQmyQC0McAgzDEuDpMyk8dud+J2MAlRwlGerY1fXAReRNN2tBOjaXnVhRF5dSVxsBnC6;P05Cz2J8M2fQrRQyG8+X2w=="
 ---
