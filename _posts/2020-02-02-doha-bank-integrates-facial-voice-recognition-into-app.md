@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-02T19:02:00Z
 webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -25,49 +25,15 @@ images:
     title: "Doha Bank integrates facial, voice recognition into app"
 
 related:
-  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
-    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
-    publishedDateTime: 2020-02-06T19:08:00Z
-    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+  - title: "Innovatrics Joins Milestone Marketplace: SmartFace Facial Recognition Platform Integrated to XProtect, Optimizing Video-Enabled Solutions"
+    excerpt: "BRATISLAVA, SLOVAKIA, Feb. 05, 2020 (GLOBE NEWSWIRE) -- Innovatrics, the global leader in multimodal biometric technology, today announced that its SmartFace facial recognition system has been verified by Milestone Marketplace and has been successfully integrated into the Milestone XProtect® video management software,"
+    publishedDateTime: 2020-02-05T12:00:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980141/0/en/Innovatrics-Joins-Milestone-Marketplace-SmartFace-Facial-Recognition-Platform-Integrated-to-XProtect-Optimizing-Video-Enabled-Solutions.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
-    images:
-      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
-        width: 980
-        height: 551
-  - title: "How to use voice recognition in Pokémon HOME"
-    excerpt: "Because you can use it from a mobile device, you can use it with voice recognition. You can’t use everything with voice recognition, though. Only a handful of features register with it, and you should know what they are because they will have a microphone next to them in your mobile application. For example, when you go into your Pokémon box ..."
-    publishedDateTime: 2020-02-12T10:16:00Z
-    webUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home"
-    ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
-    cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
-    type: article
-    provider:
-      name: Gaming Polls
-      domain: gamepur.com
-    quality: 44
-    images:
-      - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
-        width: 1200
-        height: 675
-  - title: "Facial-recognition tech questioned, defended at House committee hearing"
-    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
-    publishedDateTime: 2020-02-07T20:31:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
-        width: 700
-        height: 379
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "tQjnsc2ZI5ZSW7PICubTHYs5iP9TNnfSuKvdHkfo5QYF8A+EP7jFaLTKesflTmMoke13hSKk1GXuCeDzzY6cC5oZTrWEMUyTsyTo0gS/WLJFRlTxijR+qPQfq8XVERFfe3XAnXUweh6x9OcRhddcXDWD9QH6XHl8/fMkWhe7MisrGSUWRB5fjQN4gHjq7/EYxvtjRRpXgkZv1eljYCwWLim9atYhIr/ZZnUqUfMx42vH4kQZmoPLdlAfZ8RE3j4aFcKoX7thVVrdAh/dJWyORxawe2nwSeLnVlcJlPdbR7Qtc0707lKjlDM3eZiaIxH3xwPSNANHhvbFQx2bMG9pTl9tEcu5HY6LKbB9PzSJd5hgCIpciDtWyThwNO7nUS0Ssw8b5zKGG+r/cizFyRRpxkaznahJ5TTgy/AraxgaunD0l1ZQUswek+8KRWS6nDYVUoyAnP7L6VUA3m6WsLXK264ZAZ/DEO8DpR7EA6kQIKY=;NMOGngDAAm89n7hucO8UQw=="
 ---

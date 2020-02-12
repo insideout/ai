@@ -61,6 +61,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Edge Artificial Intelligence Hardware Market Progress & Manufacturer Contribution Highlighted Until 2029"
+    excerpt: "A recent market research analysis titled, Edge Artificial Intelligence Hardware Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Edge Artificial Intelligence Hardware market covering industry surroundings,"
+    publishedDateTime: 2020-02-12T13:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-hardware-market-progress-manufacturer-contribution-highlighted-until-2029-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "iqh6P5OqtEh6DAsv9ZbaF2ZDHzN/Je2EazrzjTMH7kIsX7hX+zzkkU9r6bF146QAgROZXDWMNrW2/aue+mnyL7yr//3U5zpKPCiDTdL/nF0boe2koGQbButWcHCFFMdkcjwDb4vMvsg6a5zcPpDdayJxImCH6QvILKQhwh3PRbRcbWRPOiVUZBZJ3TC8j2oSSJLsywg2n5P25xkagNl5oWKg2MLP7skO1Zc5Dj66MROMs1mm0IInl5navWpoEs4+oiv4FLK0+6CPtnmw17hrtQyWQPin8X0C/tqJkjeDde7F5tOHOs9r3bUCA7aTCSQr;NySulgP85KEiz6VRRtnqbQ=="
 ---

@@ -54,6 +54,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Edge Artificial Intelligence Hardware Market Progress & Manufacturer Contribution Highlighted Until 2029"
+    excerpt: "A recent market research analysis titled, Edge Artificial Intelligence Hardware Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Edge Artificial Intelligence Hardware market covering industry surroundings,"
+    publishedDateTime: 2020-02-12T13:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-hardware-market-progress-manufacturer-contribution-highlighted-until-2029-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
     excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
     publishedDateTime: 2020-02-11T07:58:00Z

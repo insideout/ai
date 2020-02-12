@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T04:17:00Z
 webUrl: "https://www.phnompenhpost.com/lifestyle/google-aims-ai-whales-language-and-well-being"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Google aims AI at whales, language and well-being"
 
 related:
-  - title: "Google Aims AI At Whales, Words And Well-being"
-    excerpt: "Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers. The internet giant unveiled projects on AI work teams a week after Google chief executive Sundar Pichai urged a \"proportional approach\" to regulating the technology."
-    publishedDateTime: 2020-01-28T20:47:00Z
-    webUrl: "https://www.ibtimes.com/google-aims-ai-whales-words-well-being-2911505"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/google-said-it-was-developing-ways-to-use.jpg"
-        width: 1024
-        height: 682
   - title: "Google aims AI at whales, words and well-being"
     excerpt: "Google on Jan 28 provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... managers,\" Google said. Another AI team showed how Google translation software that already lets ..."
     publishedDateTime: 2020-01-30T01:12:00Z

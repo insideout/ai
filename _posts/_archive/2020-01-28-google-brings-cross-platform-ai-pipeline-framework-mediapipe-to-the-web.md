@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Google brings cross-platform AI pipeline framework MediaPipe to the web"
-excerpt: "Basically, it’s a quick and dirty way to perform object detection, face detection, hand tracking, multi-hand tracking, hair segmentation, and other such tasks in a modular fashion, with popular machine learning frameworks like Google’s own TensorFlow and TensorFlow Lite. MediaPipe could previously be deployed to desktop, mobile devices ..."
-publishedDateTime: 2020-01-28T20:25:00Z
+excerpt: "TensorFlow Lite inference isn’t supported, and the graph’s computations must be run on a single processor thread. A lack of compute shaders — routines compiled for high-throughput ..."
+publishedDateTime: 2020-01-28T20:29:00Z
 webUrl: "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/"
 ampWebUrl: "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/"
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Google brings cross-platform AI pipeline framework MediaPipe to the web"
 
-secured: "MXzC3bpiufKcYmBiVJ9QwXIbyJ5sGTEJjccF/HAvhkhLA2saSNtDD20v5aD01oATQ1j1kig63Y6hEoPpwaIabTWXhGZRfd94QRLrxxNPSUHb6M9r2XgruXu9Z+oNfCWrdW+GD65eeMgFHv3rauWjo/jSl7QuTKIffJ94KWoxDtH0nI1Tp6Z9thVgCcHH8x74CUA4pEbdy673dMHfS5ypJR2uEd7EzgSttZg2laV1xZYmLCcBQqsTtZGL9C+bsGJOW3PtHVqFlkDk/8VowuC1aPljy4Pvh2jG/wv3v0g2bdcg1e40xDQ7AT4kfBAfR1EWjlvVtcCzCPmqTLzcwHUy/8lAbMJm2rLLMyBRvuLMkdkrQSGck3Suombl2rI4XaXZxcFxcwRuKy4ohnTj7Nq3fePW2gg/jyovO2exc4IWugQA2kPkW3VjzBpe/PLqD1Mjcz9enWa7sFW8k7xVeAA5iBk3O9Pv/1Cxow8mle/bii4=;08zGDoG/urxMHhF1ZLyEgg=="
+secured: "hZ0sE0oFRz80KkyLugS/tmkscgJvEqTKR5n+K5PFEfQJ8qVcgvGL3wSpJs0tQPsSU9HQ2x4u+vfErOjY93iwVDLPUc3wWVkA8/3HyGTcYxWMCIZdHuKnvT25gDpQK9DQjc5oUWbFQYxLO/MDxwaEzf+BsAxZY+CglvOaGjkJbrd3kJDhXYc3lxlEZOpoVoECv+42WdlVu1QadALfUq4eCqbpngcLxEpqHEJ5Y0K5ta1CCVOITkrFm93dwFh6lFP+YBAvIlziDtPhYHF6SrLMVfrZmEkeS3hOLmlMWAWXAlNcHnA51ZYdPRYyOSGKPzP5;V5lqwa34rxSQQLo4IyuPYw=="
 ---
 

@@ -24,49 +24,34 @@ images:
     title: "Facial-recognition tech questioned, defended at House committee hearing"
 
 related:
-  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
-    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
-    publishedDateTime: 2020-02-06T19:08:00Z
-    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+  - title: "Police use of facial recognition ‘unjustifiable’, says Scottish Justice Committee"
+    excerpt: "There is no “justifiable basis” for Police Scotland to invest in and use live facial recognition (LFR) technology, a Scottish parliamentary committee has ruled, citing human rights and data protection concerns. The Scottish Parliament’s Justice Sub-Committee on Policing said in a report published today (11 February) that Police Scotland ..."
+    publishedDateTime: 2020-02-11T00:43:00Z
+    webUrl: "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee"
+    ampWebUrl: "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 54
     images:
-      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
-        width: 980
-        height: 551
-  - title: "How to use voice recognition in Pokémon HOME"
-    excerpt: "Because you can use it from a mobile device, you can use it with voice recognition. You can’t use everything with voice recognition, though. Only a handful of features register with it, and you should know what they are because they will have a microphone next to them in your mobile application. For example, when you go into your Pokémon box ..."
-    publishedDateTime: 2020-02-12T10:16:00Z
-    webUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home"
-    ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
-    cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
-    type: article
-    provider:
-      name: Gaming Polls
-      domain: gamepur.com
-    quality: 44
-    images:
-      - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
-        height: 675
-  - title: "Doha Bank integrates facial, voice recognition into app"
-    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
-    publishedDateTime: 2020-02-02T19:02:00Z
-    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
+        height: 400
+  - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
+    excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
+    publishedDateTime: 2020-02-11T05:28:00Z
+    webUrl: "https://www.heraldscotland.com/news/18225186.police-warned-not-adopt-unjustifiable-live-facial-recognition-technology/"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 26
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 36
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
-        width: 620
-        height: 355
+      - url: "https://www.heraldscotland.com/resources/images/10955630/"
+        width: 800
+        height: 600
 
 secured: "LFJcJGY+Uj2r/OuNdKYI5UOZCO3HKtnPN8/ETz4BnDGmpTLGOK2joV9Ql0TQFh+ljvemZM0JYwhWhiAAC5g4JXAQsOGeeX9ojnjntJyQUoBwQX7Mlq0H+kozSdYREClo2xuId00nyQa+MymZssn2fxh5qNUsdGSemjegK8WPSwafB0+BTNIROGXPNGtyiHeHiEU0dAqaTn5/AbE2CbNXWMqu+oUGQCeYksCCFjthwxits9jLhvYow+W4bIJF7J+GvxFyNudtrEdqTu1DQ+i6k8GLeNCtFSUXsAJtvNXg3/OIfxkRoJxkpXF2BtcJCgsBAHjqVtA/BJ2DsbyMZ5FzrCcpD4yIgN7TskpbBGhMp/CFNJdT3WcFStIGBPLuNoj9LRcpWyhMD6msgn8G1Nz8ziOy3hOkHXBPS351MD1JuPtEhocwFMUkiCnfK0bKP2DjOxgR2r96lNaSHYUs8Td4QPqq1RC4k7NyfwmCxd/pADg=;RPtO1lWZpPeE+70yN6NgQg=="
 ---

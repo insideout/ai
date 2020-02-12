@@ -39,6 +39,19 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
         height: 400
+  - title: "Facial-recognition tech questioned, defended at House committee hearing"
+    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
+    publishedDateTime: 2020-02-07T20:31:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
+        width: 700
+        height: 379
 
 secured: "h5CxR9Sn2e0SwgBNv02wp8b/loAU1gJtQvVyYcrkHSWJSbiTtMU2mDA97bKb11JAgO1S0Uj/c2n/0vhsOw4u2wUPw4IIB3U7+V4TJ8PFzIrkUrZLFLO5oYcS/yJffIiXBaE0sIMMWtyLFpppiyX4d0sGI2n3SApoNoQ7uhTDRd9G/gD5EkYEJdmikDkdyKkOSVSKjk3QJymMyjpNnBbg1TIjxSprlIyQW6g0KLeAK49kyO2NRP3CaxqUoSOIon0ce0kb7uq/p/enn0byhm+aJGQ6/UZTPgicYbHBpkfyfF5ac879z5KTkZAYNqqu0J3k;ng0pggKbFxr2Nua8Wtr8Rw=="
 ---

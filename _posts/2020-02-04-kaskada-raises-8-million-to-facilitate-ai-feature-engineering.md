@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facil
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -48,19 +48,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Machine Learning Company Kaskada Closes $8 Million In Funding"
-    excerpt: "Kaskada, a machine learning company that provides a unified platform for feature engineering, announced it raised $8 million in funding Kaskada — a machine learning company that provides a unified platform for feature engineering — announced it has ..."
-    publishedDateTime: 2020-02-06T07:56:00Z
-    webUrl: "https://pulse2.com/kaskada-raises-8-million/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
-    images:
-      - url: "https://cdn.pulse2.com/cdn/2020/02/Kaskada.jpg"
-        width: 1262
-        height: 1120
 
 secured: "ACievoRkyB8/6uqv1NEJJ+nxqpu8QJ3JDlMFmtFX2NtK8PJI2tPZh8k59WUZd1A43V8MIjXX12XyVl3Lt2unByjbUv/PjLF9aGLZIyD/BfC9rqtFYzeKPrfih+gAxnZhUCzybTKEX3NdPq/6f0aWfA78vptgZHm0XmIBycHvdM4dNqaMrhjOXai3VRk9Wbm/UaftWPqB9ZlkdHrbrJKSnSr8ACBEVhImyDFMcW+b3cGOzmxDX9nYD2M1NJs752odqO0uLFB6KzGH8hsVNuthiQKsvWfuBOB7K6uo5KbyPvwDB8sz0xm9H1kuzginrCiM;C6rpVbqCV6myEBZwM7+i0A=="
 ---

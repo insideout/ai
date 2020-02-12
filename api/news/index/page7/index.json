@@ -2,95 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-10-virie-and-the-upgrading-financial-globalization.md",
-      "title": "Virie and the Upgrading Financial Globalization",
-      "excerpt": "Digital platforms, blockchain, and machine learning are generating new channels and innovating financial systems. The new league of markets like Virie is ... Virie lets you transact in your choice of fiat or virtual currency, or even other goods or services in exchange. The Virie Market keeps the user in the spotlight and works around this ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@goddessathena051/virie-and-the-upgrading-financial-globalization-d9d3ff60a37d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/480/1*ltzTsd0__NMjb1gH4Js6EA.gif",
-          "width": 480,
-          "height": 270,
-          "title": "Virie and the Upgrading Financial Globalization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game.md",
-      "title": "We are still playing catch up with AI, and it's a dangerous game",
-      "excerpt": "\"This review found that the government is failing on openness.\" The very first issue highlighted by the organisation, in effect, is that no one knows exactly where the government currently uses AI. Academics, civil society groups and public officials alike said that they were unable to find out which government departments were using the ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game/",
-      "publishedDateTime": "2020-02-10T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/97edf97a-b310-4039-9187-a171b3f4f42b/thumbnail/1200x675/b7184f33d5c3dbaa6df56d95e8bbd35b/screen-shot-2020-01-27-at-12-40-12-pm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "We are still playing catch up with AI, and it's a dangerous game",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-white-houses-proposed-budget-would-increase-investments-in-ai-and-quantum-computing.md",
       "title": "White House’s proposed budget would increase investments in AI and quantum computing",
       "excerpt": "The White House’s proposed budget for fiscal year 2021 includes sizable increases in federal funding for AI and quantum computing projects. All told, the overall increase in federal R&D funding is 6% compared to fiscal year 2020, reaching $142.2 billion. Although much of the funding is aimed at R&D and infrastructure investments like $25 ...",
@@ -941,7 +852,7 @@
       "path": "_posts/2020-02-11-machine-learning-artificial-intelligence-market-may-set-new-growth-amazon-google-facebook.md",
       "title": "Machine Learning Artificial intelligence Market May Set New Growth| Amazon, Google, Facebook",
       "excerpt": "Some are the key & emerging players that are part of coverage and have being profiled are AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI, Apple, Luminoso & Qualcomm. Know how you are perceived in comparison to your competitors like AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI ...",
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-may-set-new-growth-amazon-google-facebook-2020-02-11",
@@ -1196,6 +1107,43 @@
           "width": 1400,
           "height": 933,
           "title": "New Jersey’s former attorney general on Ring cameras and facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-police-use-of-facial-recognition-unjustifiable-says-scottish-justice-committee.md",
+      "title": "Police use of facial recognition ‘unjustifiable’, says Scottish Justice Committee",
+      "excerpt": "There is no “justifiable basis” for Police Scotland to invest in and use live facial recognition (LFR) technology, a Scottish parliamentary committee has ruled, citing human rights and data protection concerns. The Scottish Parliament’s Justice Sub-Committee on Policing said in a report published today (11 February) that Police Scotland ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee",
+      "ampWebUrl": "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1",
+      "publishedDateTime": "2020-02-10T16:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Police use of facial recognition ‘unjustifiable’, says Scottish Justice Committee",
           "attribution": null
         }
       ],
@@ -1847,6 +1795,51 @@
       "topics": [
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks.md",
+      "title": "Deep Instinct raises $43 million for deep learning to thwart cyberattacks",
+      "excerpt": "Deep Instinct has raised $43 million in venture capital as the company seeks to apply its deep learning technology to predicting and preventing increasingly sophisticated cyberattacks. The company says it has developed an “artificial deep neural network brain” which has the ability to rapidly learn about new forms of malware and ransomware.",
+      "heat": 153,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/",
+      "publishedDateTime": "2020-02-12T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/protection_unlimited-e1581452823620.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Deep Instinct raises $43 million for deep learning to thwart cyberattacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {

@@ -24,39 +24,71 @@ images:
     title: "Machine Learning Company Kaskada Closes $8 Million In Funding"
 
 related:
-  - title: "Kaskada raises $8 million to facilitate AI feature engineering"
-    excerpt: "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform."
-    publishedDateTime: 2020-02-04T17:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/"
-    ampWebUrl: "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/"
+  - title: "Deep Instinct raises $43 million for deep learning to thwart cyberattacks"
+    excerpt: "Deep Instinct has raised $43 million in venture capital as the company seeks to apply its deep learning technology to predicting and preventing increasingly sophisticated cyberattacks. The company says it has developed an “artificial deep neural network brain” which has the ability to rapidly learn about new forms of malware and ransomware."
+    publishedDateTime: 2020-02-12T13:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/"
+    ampWebUrl: "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/protection_unlimited-e1581452823620.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "Cybersecurity firm Deep Instinct raises $43 million"
+    excerpt: "U.S.-Israeli cybersecurity firm Deep Instinct has raised $43 million in late-stage funding to help expand its business globally, the company said on Wednesday. The round was led by Millennium New Horizons,"
+    publishedDateTime: 2020-02-12T13:07:00Z
+    webUrl: "https://www.reuters.com/article/cyber-deep-instinct-fundraising-idUSL8N2A5396"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2A5396"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2A5396"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?fit=1200%2C628&strip=all"
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
-        height: 628
-  - title: "OpsRamp raises $37.5 million to apply AI to DevOps processes"
-    excerpt: "Ever heard of AI for IT management (AIOps)? It’s a burgeoning ecosystem of platforms and products that enhance IT operations by leveraging AI to analyze data collected from various tools and devices. Research and Markets anticipates it’ll be a $14.3 billion segment by 2025, and one of the startups leading the charge is OpsRamp. Raju Chekuri ..."
-    publishedDateTime: 2020-01-30T08:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/30/opsramp-raises-37-5-million-to-apply-ai-to-devops-processes/"
+        height: 630
+  - title: "Cybersecurity startup Deep Instinct raises $43M in new round"
+    excerpt: "It brings Deep Instinct’s total amount raised to $100 million. Deep Instinct has developed a patented threat detection platform that uses deep learning techniques to protect against sophisticated and previously unknown threats. The platform is built on a deep neural network that learns to predict and prevent all types of security threats ..."
+    publishedDateTime: 2020-02-12T13:12:00Z
+    webUrl: "https://siliconangle.com/2020/02/12/cybersecurity-startup-deep-instinct-raises-43m-series-c-round-draft/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Cherre raises $16 million to analyze real estate data with AI"
-    excerpt: "Real estate data collection and analytics costs can total in the millions of dollars. That’s why in 2016, L.D. Salmanson founded Cherre, a startup that leverages AI to cost-effectively resolve property data from disparate public and private sources. After raising $9 million in October 2018, the New York-based company today announced that it ..."
-    publishedDateTime: 2020-02-05T14:28:00Z
-    webUrl: "https://venturebeat.com/2020/02/05/cherre-raises-16-million-to-analyze-real-estate-data-with-ai/"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/cyber-security-3400657_1280.jpg"
+        width: 1280
+        height: 768
+  - title: "The CEO of Deep Instinct, which just raised $43 million, explains why he he's committed to a cybersecurity IPO instead of selling out"
+    excerpt: "It's more common for security startups to get acquired, such as BlackBerry acquiring Cylance. Deep Instinct CEO Guy Caspi wants to buck that trend."
+    publishedDateTime: 2020-02-12T13:03:00Z
+    webUrl: "https://www.businessinsider.com/cybersecurity-startup-deep-instinct-43-million-ipo-2020-2"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5e4333004b661b4b6c4fee72?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "Deep Instinct, The Deep Learning Cybersecurity Innovator, Raises $43 Million Series C Financing To Accelerate Growth"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to successfully apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced its $43 million Series C funding. The round was led by Millennium New Horizons, with participation from Unbound, the London-based investment firm founded by ..."
+    publishedDateTime: 2020-02-12T13:36:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200212005334/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "Af/fQsJWLXfwv+flol4HEDc/7ANK0nrxIlLj2c19M6xAVy1LiOeaD1K4pK6WRPJexizrwBu25A54C+hQuVLfGOzYn4WyITyMu+2xdesRZp1e5x3LQclkIuKUQHhT0TJmiXfVgPYFpElp3M3+zkicMZuFiGTZsa62seD2eusOGCqgpEqihVkaMLu23s+TK4F4mbNEhOTa2Y+YoGvCKp7xUhj8f7Zxy9jFU/gu7DnzAjjhfxJLZvKCNM4XkytO8HLSyQfnLUBC0m8Hggup2WF1GmoAjLnZ3lMz4fZikpRakKKUcZh4NreCMc3d2ahx5ElFMrC61wY29p4JPW6U9hM9ND8g0N09E+eA7li6RMkWZq+ijLSjmY/46E+quX1FtrYiImEkxN37yD30UMhytc0Z5xeiuyKRr4OZ35JIZGE4JtoPHEzHT+/pzBrB7stWVtSuC9bpS5nca8wFnxFM2OXXsQcSj9CbFULN8wTxdPAUSG0=;hCX3iafEIAuND1sYPnNHlA=="
 ---

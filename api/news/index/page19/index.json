@@ -2,51 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-27-natural-language-processing-nlp-market-growth-opportunity-and-2027.md",
-      "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-growth-opportunity-and-2027-2020-01-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-26T22:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020.md",
       "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
       "excerpt": "This year, businesses should make compliance a priority with the advent of new regulations and an industry emphasis on privacy.",
@@ -395,6 +350,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-28-3-chinese-stocks-poised-to-benefit-from-the-phase-one-trade-deal.md",
+      "title": "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal",
+      "excerpt": "Also helping Baidu's stock in 2020 is wins in the artificial intelligence market and progress with its efforts related to self-driving vehicles. Shares of Baidu got a good boost on news of phase one of the trade deal but since then have slumped. Year-to-date, the stock is down 2%, which could present a buying opportunity. Wall Street has a $144 ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx",
+      "publishedDateTime": "2020-01-28T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554783%2Ftrade-war-stocks-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-advantages-of-machine-learning-and-data-analytics-courses.md",
       "title": "Advantages of Machine Learning and Data Analytics Courses",
       "excerpt": "Advantages of Machine Learning and Data Analytics Courses: Considering that the data enormity is consistently on the rise, the urgent need to figure out such methods that can help to gain valuable insights on the same can be felt. As a result, the demand for professionals with adequate data science skills cannot be neglected. There is no ...",
@@ -517,7 +517,7 @@
       "path": "_posts/_archive/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
       "title": "AI can help cancer patients start radiation therapy sooner",
       "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
@@ -975,14 +975,14 @@
     {
       "path": "_posts/_archive/2020-01-28-google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web.md",
       "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
-      "excerpt": "Basically, it’s a quick and dirty way to perform object detection, face detection, hand tracking, multi-hand tracking, hair segmentation, and other such tasks in a modular fashion, with popular machine learning frameworks like Google’s own TensorFlow and TensorFlow Lite. MediaPipe could previously be deployed to desktop, mobile devices ...",
+      "excerpt": "TensorFlow Lite inference isn’t supported, and the graph’s computations must be run on a single processor thread. A lack of compute shaders — routines compiled for high-throughput ...",
       "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/",
       "ampWebUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
-      "publishedDateTime": "2020-01-28T12:25:00-08:00",
+      "publishedDateTime": "2020-01-28T12:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1142,6 +1142,50 @@
         "AI",
         "IBM AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-meena-is-googles-attempt-at-making-true-conversational-ai.md",
+      "title": "Meena is Google’s attempt at making true conversational AI",
+      "excerpt": "Conversational AI is a catch-all term for natural language models for artificial intelligence that can interpret human words, speak to people, or carry out tasks or computation with natural language. But talk to any of the best-known AI assistants today — Alexa, Siri, Google Assistant — and they’re not exactly conversational. They can ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/",
+      "publishedDateTime": "2020-01-28T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/google.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Meena is Google’s attempt at making true conversational AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1475,6 +1519,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-replace-punxsutawney-phil-with-robot-animal-rights-group-says.md",
+      "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+      "excerpt": "People for the Ethical Treatment of Animals are advocating a radical change in how Groundhog Day is celebrated.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "ampWebUrl": "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "publishedDateTime": "2020-01-28T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22920172/20200128/033110/styles/patch_image/public/phil2-getty___28150658187.jpg?width=984",
+          "width": 897,
+          "height": 673,
+          "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

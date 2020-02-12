@@ -2,88 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-01-the-future-of-fintech-ai-blockchain.md",
-      "title": "The Future of Fintech: AI & Blockchain",
-      "excerpt": "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.businessinsider.com/image/5e305ac224306a476129d512",
-          "width": 400,
-          "height": 224,
-          "title": "The Future of Fintech: AI & Blockchain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-01-the-future-of-work-dont-fear-the-robot.md",
-      "title": "The future of work: Don’t fear the robot",
-      "excerpt": "Thus the challenge of government trying to guide the future of work. Globalization and the advancement of artificial intelligence further complicate the ability to anticipate the necessary policy steps. “We are not in a robot apocalypse where there will be no jobs in the future,” Mendonca said. But that economy is going to reward the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sfchronicle.com/opinion/diaz/article/The-future-of-work-Don-t-fear-the-robot-15021304.php",
-      "ampWebUrl": "https://www.sfchronicle.com/opinion/diaz/amp/The-future-of-work-Don-t-fear-the-robot-15021304.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/diaz/amp/The-future-of-work-Don-t-fear-the-robot-15021304.php",
-      "publishedDateTime": "2020-01-31T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/10/24/70/18959912/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1374,
-          "title": "The future of work: Don’t fear the robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-01-what-if-ai-could-anticipate-our-wants-and-needs.md",
       "title": "What If AI Could Anticipate Our Wants and Needs?",
       "excerpt": "The lines of code that animate these machines will inevitably lack nuance, forget to spell out caveats, and end up giving AI systems goals and incentives that don’t align with our true preferences. A now-classic thought experiment illustrating this problem was posed by the Oxford philosopher Nick Bostrom in 2003. Bostrom imagined a ...",
@@ -1198,6 +1116,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-03-this-company-scraped-social-media-to-feed-its-ai-facial-recognition-tool-is-that-legal.md",
+      "title": "This company scraped social media to feed its AI facial recognition tool. Is that legal?",
+      "excerpt": "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bigthink.com/technology-innovation/facial-recognition-clearview",
+      "ampWebUrl": "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html",
+      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html",
+      "publishedDateTime": "2020-02-03T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big Think",
+        "domain": "bigthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600",
+          "width": 1440,
+          "height": 810,
+          "title": "This company scraped social media to feed its AI facial recognition tool. Is that legal?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-03-victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls.md",
       "title": "Victoria to use AI to detect heart attacks on emergency calls",
       "excerpt": "Triple zero call operators could soon have artificial intelligence (AI) alert them to callers who suffer from a heart attack. The Victorian government announced on Sunday it was kicking in AU$1.36 million towards the Artificial Intelligence in Cardiac Arrest project, which will be developed by Monash University and Ambulance Victoria.",
@@ -1986,7 +1941,7 @@
       "path": "_posts/2020-02-04-kaskada-raises-8-million-to-facilitate-ai-feature-engineering.md",
       "title": "Kaskada raises $8 million to facilitate AI feature engineering",
       "excerpt": "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform.",
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/",
@@ -2143,6 +2098,51 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests.md",
+      "title": "Online targeting needs tighter controls, UK data ethics body suggests",
+      "excerpt": "A UK government advisory body on AI and data ethics has recommended tighter controls on how platform giants can use ad targeting and content personalization. Concerns about the largely unregulated eyeball-grabbing targeting tactics of online platforms — be it via serving ‘personalized content’ or ‘microtargeted ads’ to individuals or ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/",
+      "publishedDateTime": "2020-02-04T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/02/3115110964_142191363f_b.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": "Online targeting needs tighter controls, UK data ethics body suggests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

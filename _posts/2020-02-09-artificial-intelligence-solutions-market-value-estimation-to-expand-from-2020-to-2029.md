@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-09T10:26:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029-2020-02-09"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Edge Artificial Intelligence Hardware Market Progress & Manufacturer Contribution Highlighted Until 2029"
+    excerpt: "A recent market research analysis titled, Edge Artificial Intelligence Hardware Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Edge Artificial Intelligence Hardware market covering industry surroundings,"
+    publishedDateTime: 2020-02-12T13:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-hardware-market-progress-manufacturer-contribution-highlighted-until-2029-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

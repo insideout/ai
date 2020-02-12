@@ -2,96 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-08-scape-technologies-the-london-based-computer-vision-startup-has-been-acquired-by-facebook.md",
-      "title": "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook",
-      "excerpt": "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%).",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/08/scapebook/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/08/scapebook/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/",
-      "publishedDateTime": "2020-02-08T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024",
-          "width": 1024,
-          "height": 767,
-          "title": "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-08-this-new-memory-chip-could-end-up-in-an-iphone-5g.md",
-      "title": "This new memory chip could end up in an iPhone 5G",
-      "excerpt": "The new chip is likely to make its way into the next iPhone ... The rising popularity of high pixel cameras (like the 108 million pixel sensor set on the Xiaomi CC9 Pro), concurrent apps demanding huge bandwidth and AI means that LPDDR5 is likely to become the defacto memory tech for flagship smartphones in 2020. It remains to be seen whether ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
-      "publishedDateTime": "2020-02-07T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/n5GsBjxkGK8epc7bMzP4ug-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "This new memory chip could end up in an iPhone 5G",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-08-those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars.md",
       "title": "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars",
       "excerpt": "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind.",
@@ -230,7 +140,7 @@
       "path": "_posts/2020-02-09-artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029.md",
       "title": "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029",
       "excerpt": "A recent market research analysis titled, Artificial Intelligence Solutions Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence Solutions market covering industry surroundings,",
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029-2020-02-09",
@@ -2203,6 +2113,95 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-virie-and-the-upgrading-financial-globalization.md",
+      "title": "Virie and the Upgrading Financial Globalization",
+      "excerpt": "Digital platforms, blockchain, and machine learning are generating new channels and innovating financial systems. The new league of markets like Virie is ... Virie lets you transact in your choice of fiat or virtual currency, or even other goods or services in exchange. The Virie Market keeps the user in the spotlight and works around this ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@goddessathena051/virie-and-the-upgrading-financial-globalization-d9d3ff60a37d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/480/1*ltzTsd0__NMjb1gH4Js6EA.gif",
+          "width": 480,
+          "height": 270,
+          "title": "Virie and the Upgrading Financial Globalization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game.md",
+      "title": "We are still playing catch up with AI, and it's a dangerous game",
+      "excerpt": "\"This review found that the government is failing on openness.\" The very first issue highlighted by the organisation, in effect, is that no one knows exactly where the government currently uses AI. Academics, civil society groups and public officials alike said that they were unable to find out which government departments were using the ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game/",
+      "publishedDateTime": "2020-02-10T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/97edf97a-b310-4039-9187-a171b3f4f42b/thumbnail/1200x675/b7184f33d5c3dbaa6df56d95e8bbd35b/screen-shot-2020-01-27-at-12-40-12-pm.png",
+          "width": 1200,
+          "height": 675,
+          "title": "We are still playing catch up with AI, and it's a dangerous game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

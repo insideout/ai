@@ -8,8 +8,8 @@ ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-d
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -26,47 +26,49 @@ images:
     title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
 
 related:
-  - title: "How to use voice recognition in Pokémon HOME"
-    excerpt: "Because you can use it from a mobile device, you can use it with voice recognition. You can’t use everything with voice recognition, though. Only a handful of features register with it, and you should know what they are because they will have a microphone next to them in your mobile application. For example, when you go into your Pokémon box ..."
-    publishedDateTime: 2020-02-12T10:16:00Z
-    webUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home"
-    ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
-    cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
+  - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
+    excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
+    publishedDateTime: 2020-02-03T21:39:00Z
+    webUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview"
+    ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
     type: article
     provider:
-      name: Gaming Polls
-      domain: gamepur.com
-    quality: 44
+      name: Big Think
+      domain: bigthink.com
+    quality: 65
     images:
-      - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
-        width: 1200
-        height: 675
-  - title: "Doha Bank integrates facial, voice recognition into app"
-    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
-    publishedDateTime: 2020-02-02T19:02:00Z
-    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
+      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
+        width: 1440
+        height: 810
+  - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
+    excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
+    publishedDateTime: 2020-02-09T07:00:00Z
+    webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 26
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 51
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
-        width: 620
-        height: 355
-  - title: "Facial-recognition tech questioned, defended at House committee hearing"
-    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
-    publishedDateTime: 2020-02-07T20:31:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
+      - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
+        width: 1400
+        height: 1050
+  - title: "Facial Recognition Comedy bridges storytelling, social commentary at SF’s Cafe du Nord"
+    excerpt: "On Friday, comedy collective Facial Recognition Comedy took the stage at Cafe du Nord in San Francisco as part of the lineup for the 19th Annual SF Sketchfest. Despite the group’s fairly recent rise to prominence in the comedy world, with a nationally ..."
+    publishedDateTime: 2020-01-30T14:00:00Z
+    webUrl: "https://www.dailycal.org/2020/01/30/facial-recognition-comedy-bridges-storytelling-social-commentary-at-sfs-cafe-du-nord/"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 24
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 31
     images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
-        width: 700
-        height: 379
+      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2020/01/Facial-Recognition_Facial-Recognition-Comedy.Courtesy.jpg?ssl=1"
+        width: 900
+        height: 580
 
 secured: "QwRc93S81mY2FZKHYaSa7wmE/IrqSTvaFPEm1M4rKg5W1gQC5+4ajDAf3Jzngjuu3WoTfSIna+PT3W51+R7v7BPvZ75EfFvF1+9oAigZ1V452YC1wNRizy4IvQ8z6IgruXv95hNqUwQ+PJPEM1fUnszwLcPqMjNs14P6seuYmQZrve0HEovJ53haWALtGSvN6HFJCOWLhQUgGgOpkw1sgXbWaPYykbwfCqsM8q+YP6OhN/diLYrMlR9nKbTHAq9p4al9kRy3oGqv1x3YbFe8LkRJ1LEmUrxnAf7Wegr1AkOf1uk9Xn0IHxBTkz2JzeAxwVn6aI5yImNpUiW+xLi5GZ0PZPMak9Cxbv138N1YVpp4NXCcLan3bXZeEDqVwN9NQHkZI/xIOm7h8x7iXZVayyXDlWZXDHfUVR6kp1RI9bfIGUPweJu4Etv9jXxhgG7CrU3baWLGturbgg/Lp+mGZKPLVdd95HVkLWNwqNAt+kA=;u1GFH17K2PVIzWwrzYQHqQ=="
 ---
