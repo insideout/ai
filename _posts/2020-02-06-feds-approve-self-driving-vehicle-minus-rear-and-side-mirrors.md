@@ -56,19 +56,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ALVEY7JR7NCHZKKWPIJVSNBDLY.jpg"
         width: 6720
         height: 4480
-  - title: "Self-driving car company Nuro wins federal safety approval"
-    excerpt: "WASHINGTON - Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
-    publishedDateTime: 2020-02-08T14:07:00Z
-    webUrl: "https://www.postguam.com/business/technology/self-driving-car-company-nuro-wins-federal-safety-approval/article_1c34c964-4960-11ea-8ad5-17b7d62b54d5.html"
-    type: article
-    provider:
-      name: The Guam Daily Post
-      domain: postguam.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
-        width: 800
-        height: 448
 
 secured: "5MGQAaK2dhgmc7Nq0At9M69+COlNy6dIgXfRRTJ68OXORTmpRCu691Ug+D/hqaJuf+7F7CS57p9pxRp9gVpjHrw8nweQacIshgDBMW7Jcs8c/559rZgDHAgZbR3NNKMbMxH7E9HyM1KIk4Ylvwo9TBDNSzpjtoYbqHK8E7oaQ3U3lYhrnqcY4UPi+sUh7RYTQGkOuF5AMAL0YKN802MpyfH/omdeRKBt607BRzZizrPBCqrA22LIsBxal/IUTi4HFJ+t4r06i3+UCXtTFY0cnsWnZQINdosrZnkenHjmovvf8+/m4R4/H3ioetL717ni5E58zEqlT/kdLQ8IE8rbCxf2FsKiwr05aH4PiHm19I6dAKRxLRF+BTeAOr1c7MO1eKakeiX/hNwqvgtvhK2ttvs0+0B8FF3O2DW3dAHQtWQTfwOZnTBxQuD8Ww4b2VzqKebgJ6hsD54uNeIGyEos3TWa9/aoJ5DZD06cKy494Ms=;KXgdN3osBAqaCkCpBj+Muw=="
 ---

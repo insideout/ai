@@ -63,15 +63,6 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
-  - title: "Zensar's Smart Application Development and Maintenance services incorporate Artificial Intelligence"
-    excerpt: "Zensar, a leading digital solutions and technology services company that specializes in partnering with organizations across industries on their digital transformation journey, announced that its Smart Application Development and Maintenance (SmartADM) services now incorporate Robotics, Automation and Artificial Intelligence (AI). Sandeep ..."
-    publishedDateTime: 2020-01-28T11:30:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=261380"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 20
 
 secured: "cYtyU9vYsLyDVv25hZWo1Ep9IauSrGJImHcLcPRBtlanMu1MMup29EppopuU70qkmlvmbMVU/yMgCyGJqmtq86sUjsIn0AdJ/fbZ5li3DSx2GEWRpc8nLtfayIa5XTRsehLonuO+bj+vNrvg/Lh7mhWos9Vb0OXsOVoLF41Ea0ciKatLcJJCJbGYdl72CvvGTEpM3lfs8uZmosHoDlj6CKOkhORgkAS4F6eDKAFs5kL+4hC2RS8oHyzSeDo4aDer/81nMWjA+5uV6BaHLVSTqAwTj/ULZrNAR5Xz+saZwED/keLaWjM5YnmcTBarRPvi;nNHD4KVQ9k01Q2YO+tYwjg=="
 ---

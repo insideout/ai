@@ -18,19 +18,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Lone Wolf Releases AI-Enabled Solution, Insights, Helping Brokers Start Fast in 2020"
-    excerpt: "Real estate's leading tech provider launches new solution to put control of profitability directly in the hands of brokers CAMBRIDGE, Ontario, Jan. 28, 2020 /PRNewswire/ -- Lone Wolf Technologies (\"Lone Wolf\") is thrilled to announce the release of a new solution: Lone Wolf Insights."
-    publishedDateTime: 2020-01-28T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lone-wolf-releases-ai-enabled-solution-insights-helping-brokers-start-fast-in-2020-300994138.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/1082602/Lone_Wolf_Technologies_Insights_Images.jpg?p=facebook"
-        width: 1200
-        height: 628
   - title: "RSIP Vision Launches a Breakthrough AI-Based Shoulder Replacement Solution, Dramatically Improving Clinical Outcome And Shortening Recovery Time"
     excerpt: "TEL AVIV, Israel, Jan. 28, 2020 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based Shoulder Replacement Solution that will be integrated into leading vendors' Surgery Planning Platforms,"
     publishedDateTime: 2020-01-28T13:00:00Z

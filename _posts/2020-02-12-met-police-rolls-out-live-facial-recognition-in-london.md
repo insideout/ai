@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
-excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
-publishedDateTime: 2020-02-09T07:00:00Z
-webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+title: "Met Police rolls out live facial recognition in London"
+excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
+publishedDateTime: 2020-02-12T04:00:00Z
+webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
 type: article
-quality: 51
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Chicago Sun-Times
-  domain: suntimes.com
+  name: The Financial Times
+  domain: ft.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
-    width: 1400
-    height: 1050
-    title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
+    title: "Met Police rolls out live facial recognition in London"
 
 related:
   - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
@@ -54,21 +54,6 @@ related:
     quality: 59
     images:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1b149884-4cd0-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "Met Police rolls out live facial recognition in London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
   - title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
@@ -146,6 +131,21 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2019-08/00F53187-544B-4807-ACF1-7877845AA4B7.jpeg"
         width: 640
         height: 426
+  - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
+    excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
+    publishedDateTime: 2020-02-09T07:00:00Z
+    webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 51
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
+        width: 1400
+        height: 1050
   - title: "Facial Recognition Technology Uses at Homeland Security Department"
     excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
     publishedDateTime: 2020-02-07T12:41:00Z
@@ -290,6 +290,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "Df0FOL6tBxcY35ilFlP3pP9knBhJvKATkN+pKD18s3EK6aBk+UQZnRYpw/C8cb9AfMnT3rmzztszhcFfHkv3mwcrG16FmgttREtjWMnUuMllugWpwndQNyxhD3KjqJm69fAv+VbwjVI50m4DYS2KatmOC4VJmHHjUtwFKOWQwUCRhyIfm/ghE3lGFp9og9zpJnP59/T3miEgGSZDydHvnrmrf4Q9lETSex2ktlumBY1nod21DsjPFJ+QgWQRyekb+1DH7+B8zbSRgzow3BhrHfBxF12+80XlB9NsjxZS+etsXVywTIMgveSp1jDBD8y9sb19x5QcswwwliavSjumm24EWanBMazlkXWlPiUDxQ6hUCxglP6qpx4DkNzktSUOkSdVgM0U16OWzHq0ZDHsDvBSfxj+4KMbwub5+7WuqhkxyfsxqaE+SPcLuGMoxSDqxhZyWqe+WTkLfHtIRsi7tvKbysNLjyGVvdACuE95lO8=;120lUPkz9cWcRDLCUwXykg=="
+secured: "RqQMVN9RICrj8A2Xk07YnKqMcEz66xzqS9Kry52+XglICHReBkPhg6Cy6oPbGT7PRiWCPUPEBgF3SZa+MTX7uqdymIO/vY47brNQBkwaBIsK7hhVQuVEH7dg2ptQgGlRjPZ2sPLGRGLyjQk9d5AHMnw2mqniKbdYRrRuf5P0fEjfAh22KcH1IXevH+/KOjJe4wP3qtA/RcbnPhKj3eDhtHAtqHea1I9jeqJgecqx1ZbzOvBJDIq2sd0vPe93xRGVNEv9/yTyiV+L++cNG9zjiFk6kKvn5sW62jIJXRmiAGtn3dHkDlIbyZuXQaQX1B90;r0r9f7+0Dj0XT8NzO6vB3Q=="
 ---
 
