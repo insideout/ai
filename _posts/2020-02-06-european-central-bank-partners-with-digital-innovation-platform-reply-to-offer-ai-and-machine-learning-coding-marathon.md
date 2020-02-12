@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157182-european-central-ban
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -40,6 +40,19 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-10.51.48-AM.png"
         width: 914
         height: 611
+  - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
+    excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged NLP engine that supports 30+ channels, and makes websites and mobile app more human-like ..."
+    publishedDateTime: 2020-02-03T04:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1085089/CyberMAK_Kore_AI_Chatbots.jpg"
+        width: 400
+        height: 225
   - title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
     excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
     publishedDateTime: 2020-02-04T10:24:00Z

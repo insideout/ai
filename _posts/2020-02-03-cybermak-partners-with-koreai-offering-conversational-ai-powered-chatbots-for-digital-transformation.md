@@ -24,88 +24,47 @@ images:
     title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
 
 related:
-  - title: "ServiceNow acquires conversational AI startup Passage AI"
-    excerpt: "ServiceNow announced this morning that it has acquired Passage AI, a startup that helps customers build chatbots, something that should come in handy as ServiceNow continues to modernize its digital service platform. The companies did not share terms of the deal. With Passage AI, ServiceNow gets a bushel of AI talent, which in itself has value ..."
-    publishedDateTime: 2020-01-28T14:28:00Z
-    webUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/"
-    ampWebUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
+  - title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
+    excerpt: "The European Central Bank (ECB) has partnered with Reply, a platform focused on digital innovation, in order to offer a 48-hour coding marathon, which will focus on teaching participants how to apply the latest artificial intelligence (AI) and machine learning (ML) algorithms. The marathon is scheduled to take place during the final days of ..."
+    publishedDateTime: 2020-02-06T14:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 187
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1156805372.jpg?w=1024"
-        width: 1024
-        height: 682
-  - title: "ServiceNow to acquire small conversational AI startup in Mountain View"
-    excerpt: "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products."
-    publishedDateTime: 2020-01-28T18:36:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Euro-Money-Europe-20-bright-300x216.jpeg"
+        width: 300
+        height: 216
+  - title: "SD Times news digest: CheerpJ 2.0, Splice Machine partners with Heirloom Computing on modern mainframe apps, and Aiven’s open-source cloud platform"
+    excerpt: "The partnership enables the modernization of legacy applications to cloud-native targets with new data sources and injection of AI and machine learning without rewriting them. “Businesses will benefit by at least an order of magnitude, from reengineering applications by hand, to replatforming at compiler-speed to an agile Java ecosystem on ..."
+    publishedDateTime: 2020-02-06T15:55:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-cheerpj-2-0-splice-machine-partners-with-heirloom-computing-on-modern-mainframe-apps-and-aivens-open-source-cloud-platform/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 57
+      name: SD Times
+      domain: sdtimes.com
+    quality: 31
     images:
-      - url: "https://media.bizj.us/view/img/10466072/servicenowhq*600xx1080-720-100-0.jpg"
-        width: 600
-        height: 400
-  - title: "ServiceNow acquires Passage AI to advance deep learning AI capabilities"
-    excerpt: "based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its vision of supporting all major languages across the company’s Now Platform and products, including ServiceNow ..."
-    publishedDateTime: 2020-01-31T01:05:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/01/31/servicenow-passage-ai/"
+      - url: "https://sdtimes.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-10.51.48-AM.png"
+        width: 914
+        height: 611
+  - title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
+    excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
+    publishedDateTime: 2020-02-04T10:24:00Z
+    webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg"
-        width: 304
-        height: 430
-  - title: "Two deals in a week: ServiceNow acquires Passage AI for its deep learning chatbots"
-    excerpt: "But what apparently drew ServiceNow’s attention was the platform’s support for multiple languages. The deep learning algorithms that Passage AI uses to power chatbots aren’t pre-calibrated, but rather can be trained on custom data such as customer support tickets. The fact that companies have the ability to bring own training data ..."
-    publishedDateTime: 2020-01-28T17:14:00Z
-    webUrl: "https://siliconangle.com/2020/01/28/two-deals-week-servicenow-acquires-passage-ai-deep-learning-chatbots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/servicenow-1.png"
-        width: 718
-        height: 400
-  - title: "ServiceNow to Acquire Passage AI"
-    excerpt: "SANTA CLARA, Calif.--(BUSINESS WIRE)--ServiceNow (NYSE: NOW), the company making work, work better for people, today announced it has signed an agreement to acquire Passage AI, a Mountain View, Calif.-based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its ..."
-    publishedDateTime: 2020-01-28T19:36:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200128005287/en/ServiceNow-Acquire-Passage-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: "https://mms.businesswire.com/media/20200128005287/en/656556/23/ServiceNow_logo_5-8-18.jpg"
-        width: 1200
-        height: 627
-  - title: "ServiceNow to Buy AI Chat Startup Passage AI"
-    excerpt: "Passage AI was launched in 2016. It has raised $10.3 million ... Last week, ServiceNow announced it had acquired Israeli startup Loom Systems. The companies did not reveal the purchase price. The company’s stock was up more than 2% Tuesday. It is set to announce its earnings on Wednesday. CFOs and their companies are becoming inundated ..."
-    publishedDateTime: 2020-01-28T18:04:00Z
-    webUrl: "https://www.cfo.com/ma/2020/01/servicenow-to-buy-ai-chat-startup-passage-ai/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 37
-    images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/01/GettyImages-1173671080.jpg"
-        width: 604
-        height: 578
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "ED0xSlaBQ/ODCh8bXjwDCg6/wTx5PiqvUnYGmemgDZNrCr524aHgAWkMswLstgycvN1UEubSMhuC66dl9LRSE///DOhP4FoAhhcel1nXRx0rhE1Cj79sfLL7mltB9jNXJM3n64ZeaTnu8jsCaZJ2/Ox59Lmxv2rR4EgO5ItoZcNm28pWnNRmOI/2WbZ5GCl3R1NulWlNYIJ/RwVM4rFu6tddnlsTtOLOGZ+NoNkQPulYJSXRap6Um8OOb121jkTC0sDd8IDCuzL1Oxzi6Wq45p0O6QEhQc6YpnbWg9gc/3sTsXCr6xmaXbuQQ9VtPi+4;BHS64k+/XHDqTMTXqig5jQ=="
 ---

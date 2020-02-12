@@ -1,7 +1,7 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -75,21 +75,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
         width: 1200
         height: 800
-  - title: "India's railways to use facial recognition amid privacy fears"
-    excerpt: "Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people’s privacy in the absence of stringent laws."
-    publishedDateTime: 2020-01-28T14:33:00Z
-    webUrl: "https://www.reuters.com/article/us-india-tech-railways-idUSKBN1ZR1RP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZR1RP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZR1RP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
   - title: "British watchdog urges caution over police facial recognition plans"
     excerpt: "LONDON, Jan 28 (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance ..."
     publishedDateTime: 2020-01-28T17:25:00Z
@@ -850,21 +835,8 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
-  - title: "India's railways to use facial recognition despite privacy fears"
-    excerpt: "NEW DELHI (THOMSON REUTERS FOUNDATION) - Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday (Jan 28) warned could breach people's privacy in the absence of stringent laws. The system is being trialled in the tech hub of ..."
-    publishedDateTime: 2020-01-28T14:55:00Z
-    webUrl: "https://www.straitstimes.com/asia/south-asia/indias-railways-to-use-facial-recognition-amid-privacy-fears"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/28/wh_railway_280128.jpg?itok=mebMVOcC"
-        width: 763
-        height: 509
   - title: "US Army develops AI facial recognition protection"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, has created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. The US Army uses facial and object recognition technologies to train artificial ..."
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However, it is a little concerned that if a hacker gets into facial ..."
     publishedDateTime: 2020-01-28T09:29:00Z
     webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
     type: article
@@ -1567,6 +1539,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "gA0rPnYJlrrh71F5bkjpXMdjhUiyfdYQBh0gFeT01fPdh7e16Y8Pe/EZX7Lbzb+EReaVWfD2hXFaym4dJHbAkEa7W99nK2xRbtC4ihKs85Q5Whw67k0v4x/sLdLLstEd5a+EiwpKm+FAoQD48XW1UvQ3xao+oIlS8P64VpATm+5LfTm3z2CFICmbg0LWU/0OlrDld6zYq5mmDPopdPHhYKLSKcoD77GXx4sBVFtmtDVDpmSzTnWDfG+Zm4SU3IWm0Uz+AzpjjxZpVvjcT+gDW1fNfEUhYmC+KALFuxkBApTsfOY1Z6w8zUQw8SudDgrI;XrpHRJA3EneinBvdRsC3Cg=="
+secured: "MTxtLHZZBXtSY7CfTQ0H1bMdpTeQN5VuOkcP7sFaqX1jXD3E/K6o/du15JZtvykqup6kj9bWnr9VNEkbEi0+V4m6fyY1txIsfQ7wwnqUOVNg2pxCyu06sgp5PEcdSO4otNi/7lt9oqjkFJ3B7LFVBXvjySNfPTa4HoZ7w5mt2s0c7Xv2tO92cxETOl1xlcamkpzMvE7CKQ5PAiKZdlRr1d56ARufEJDVb/vB2RuAddYAal5bC7DY2T4w8roLGCIyyB7sEtDOHkrnyh13K48f3M0gbMiOml+n6Wzj+hqXiOnBRal0fuOsl2hRrpok5obB;t5BnWLrr6wnc4pkqZ2I/oA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T17:30:00Z
 webUrl: "https://www.hpcwire.com/2020/01/28/ibm-launches-ic922-power-server-for-ai-inferencing-and-data-management/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,32 +25,19 @@ images:
     title: "IBM Debuts IC922 Power Server for AI Inferencing and Data Management"
 
 related:
-  - title: "Analytics, AI, and Cloud Power Modern Inventory Management"
-    excerpt: "Fortunately, companies can tap a variety of technologies and services to ensure that they—and their suppliers—can meet fluctuating customer demand. In particular, data analytics, AI, and cloud can help meet these demands. Collectively, these three technologies give companies visibility in two directions: the customer marketplace as well as ..."
-    publishedDateTime: 2020-02-03T19:22:00Z
-    webUrl: "https://www.cio.com/article/3518997/analytics-ai-and-cloud-power-modern-inventory-management.html"
+  - title: "Two deals in a week: ServiceNow acquires Passage AI for its deep learning chatbots"
+    excerpt: "But what apparently drew ServiceNow’s attention was the platform’s support for multiple languages. The deep learning algorithms that Passage AI uses to power chatbots aren’t pre-calibrated, but rather can be trained on custom data such as customer support tickets. The fact that companies have the ability to bring own training data ..."
+    publishedDateTime: 2020-01-28T17:14:00Z
+    webUrl: "https://siliconangle.com/2020/01/28/two-deals-week-servicenow-acquires-passage-ai-deep-learning-chatbots/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
     images:
-      - url: "https://images.idgesg.net/images/article/2020/02/istock-670852562-100828832-large.3x2.jpg"
-        width: 1200
-        height: 800
-  - title: "How analog in-memory computing can solve power challenges of edge AI inference"
-    excerpt: "Machine learning and deep learning already are integral parts of our lives. Artificial Intelligence (AI) applications via Natural Language Processing (NLP), image classification and object detection are deeply embedded in many of the devices we use. Most AI applications are served via cloud-based engines that work well for what they are used ..."
-    publishedDateTime: 2020-02-04T17:12:00Z
-    webUrl: "https://www.embedded.com/how-analog-in-memory-computing-can-solve-power-challenges-of-edge-ai-inference/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 35
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2020/02/02vp_f1.jpg"
-        width: 800
-        height: 533
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/servicenow-1.png"
+        width: 718
+        height: 400
 
 secured: "nlMa8z/5q4RGqJ1pcuQ50Awamnh5XfwCw7Q5hJ14YnJ+e8NgvFPzXb5bmF81Qf+PTTZ20RcsubETNe3b9awfxwPeGQpubm3vHwd+Ke8zlwqPErI6C6GJ2eVFY39cRxZ8VZIXC2k3eBeuN8Ly+nC1yDmrZHEn6MEAbpBCNQlTI2grI/Yv5JVdTVpB+RwJ1gcrx94Bo8OiULEPx4pwsJz7cPBIdjGm/OwPjkB+pWW58Qnq2Y0zsqGtsY3jDOHCrwgDYtY8XUnBTQ/TGeN7d1KGuxIRNjx/IaeuU1aHzPN5peKmtSv7DvEAnNMpL7Pep0f8eaBMppK7huWV8avk3zPMSxeFDnIlXifNzinnZ6PMT+wAdgUn3ykzEjvYQI3VgPQIZW4pFstkTPXdcIM2OXHVliKExx3X8cEvUqYFi9qdJ/DWRHg1P1B8GzIB6vgxbiZYvgVU+lNqVoM/LcGXFbq6+xQfLgOSLoYxdpXqxPQ4d7M=;HsGPSXYVi7JQFRVCBNT9AA=="
 ---

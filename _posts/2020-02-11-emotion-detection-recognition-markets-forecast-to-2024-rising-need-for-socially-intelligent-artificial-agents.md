@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
-publishedDateTime: 2020-02-11T11:18:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/11/1982878/0/en/Emotion-Detection-Recognition-Markets-Forecast-to-2024-Rising-Need-for-Socially-Intelligent-Artificial-Agents.html"
+excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
+publishedDateTime: 2020-02-11T10:18:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -192,6 +194,17 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
+  - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
+    excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
+    publishedDateTime: 2020-02-12T07:33:00Z
+    webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
+    ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+    cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
     excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
     publishedDateTime: 2020-02-11T05:28:00Z
@@ -288,6 +301,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "AeQzI5yvtFyromDiKLEALpkC+okp3tDJdCm520TM0m/RoNvEpetHj++lQGMN3dHGMm2T1MyukUgqwaHXCHph+SZQK+5XF19z4Ol0fLz94i29fwlebIzv6POCCeVxhD90q8QdNf7ZssWYGbRvnPCpmNbaBw/OpGnleIHKz/a6wDdXP5il8oHsa5w7De/byT2cJBqcdCAtO4pegEf7cQ6vPoC9wtNlNrbqICPJp640hFGE6cOv/Ke14CFEEBxuPHjRDMw1+AN9kxkaC7xhMaKVPzc9yrSZITLQ08J9PHqa/NBcfKAUJpXfl6lQkTsNSe4L;9qJcxxHER3TyiH5UgTf3bw=="
+secured: "S3n5HICgG49CZPHnYy5mry8IdKA4xdLXpmx6kvCX9F9HIqEdv2rnk+WCoE2rd45zQFsGa5T0GIt4AJMKE84i/hBLnRyETCwXDsPW2rmHHT/qzs767N0kqroTsalek8CK8UI5Dl7+L0nnQvB8Z80FbfRrptxTdm6UnVNMP/vj87aYZaPCirfAS5N0jsxUf5h6Hh03UQRNUAgOoJoXGA3akgfVzdaWILNKd4OglVL7Yi/wSodApMc7TNFzllRQhX/gPoRFnQSPu5tZrt9ZfiBF8EL8eTCR9wKxeS4Yde8M6FRUSX04cZTH1/YhCmrOJXmV;ua/DNpyRDopBWWipCumFsQ=="
 ---
 

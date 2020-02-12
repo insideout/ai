@@ -24,21 +24,6 @@ images:
     title: "ServiceNow acquires Passage AI to advance deep learning AI capabilities"
 
 related:
-  - title: "ServiceNow acquires conversational AI startup Passage AI"
-    excerpt: "ServiceNow announced this morning that it has acquired Passage AI, a startup that helps customers build chatbots, something that should come in handy as ServiceNow continues to modernize its digital service platform. The companies did not share terms of the deal. With Passage AI, ServiceNow gets a bushel of AI talent, which in itself has value ..."
-    publishedDateTime: 2020-01-28T14:28:00Z
-    webUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/"
-    ampWebUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 187
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1156805372.jpg?w=1024"
-        width: 1024
-        height: 682
   - title: "ServiceNow to acquire small conversational AI startup in Mountain View"
     excerpt: "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products."
     publishedDateTime: 2020-01-28T18:36:00Z
@@ -53,19 +38,6 @@ related:
     images:
       - url: "https://media.bizj.us/view/img/10466072/servicenowhq*600xx1080-720-100-0.jpg"
         width: 600
-        height: 400
-  - title: "Two deals in a week: ServiceNow acquires Passage AI for its deep learning chatbots"
-    excerpt: "But what apparently drew ServiceNow’s attention was the platform’s support for multiple languages. The deep learning algorithms that Passage AI uses to power chatbots aren’t pre-calibrated, but rather can be trained on custom data such as customer support tickets. The fact that companies have the ability to bring own training data ..."
-    publishedDateTime: 2020-01-28T17:14:00Z
-    webUrl: "https://siliconangle.com/2020/01/28/two-deals-week-servicenow-acquires-passage-ai-deep-learning-chatbots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/servicenow-1.png"
-        width: 718
         height: 400
   - title: "ServiceNow to Acquire Passage AI"
     excerpt: "SANTA CLARA, Calif.--(BUSINESS WIRE)--ServiceNow (NYSE: NOW), the company making work, work better for people, today announced it has signed an agreement to acquire Passage AI, a Mountain View, Calif.-based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its ..."
@@ -93,19 +65,6 @@ related:
       - url: "https://cdn.cfo.com/content/uploads/2020/01/GettyImages-1173671080.jpg"
         width: 604
         height: 578
-  - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
-    excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged NLP engine that supports 30+ channels, and makes websites and mobile app more human-like ..."
-    publishedDateTime: 2020-02-03T04:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1085089/CyberMAK_Kore_AI_Chatbots.jpg"
-        width: 400
-        height: 225
 
 secured: "y4YtujnlgixjhhBtFQdFZfwGAk9bepu5ADPSp42CB/abShEEYYU5eW/s9Jr3gdEJ3Tk5OHedNJoOn649Fvf74xqkg4N3SR0E5RPd9PBas4Rk7UZsTZb487/C7spEH1aWa8BfZJD4Vvb8WkA5mtox8jyJu48mFCALSL+mxjdcSSkWktbELTrnQeEQsULxsCwzBS8N1N4tATk+V0apWCRpbOLsVTT9qf7Z5Jm+1RkwMnH6WvhlYAnI5rdsCoof7K06VHSEnv1GADFBdnm6Dp+MS8POdo+nJnxsFqgWp3nCOtH9hFsomX6ampHryhUVE6HvzY4UkqixA5egE1tcPLolGWh0rO1qwHvDqNVMpz8d0MNg0W7/2N6+qEvkeWKXzbcRHUogFnfTinwi6jeiZ7zs9fSu96rvy7DXikZEE7iqKsdySJniYTFzZ0jfBYrS/hiwLcvjpTuS173X0jtjHCC1zzD0LDj3dnphtPt6K2SAVAw=;+vBUUVzzvN3xJyc7KvQY3g=="
 ---

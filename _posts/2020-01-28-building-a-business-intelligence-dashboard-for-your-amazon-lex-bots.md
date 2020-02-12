@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T22:55:31Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Building a business intelligence dashboard for your Amazon Lex bots"
 
 related:
-  - title: "Spies Like AI: The Future of Artificial Intelligence for the U.S. Intelligence Community"
-    excerpt: "But concern is rising, in 2017, researchers at MIT showed how easy it was to fool neural networks with 3D-printed objects by just slightly changing the texture. It’s an issue that some in the intelligence community are beginning to talk about as well with the rise of new tools such as general adversarial networks. The National Institute of ..."
-    publishedDateTime: 2020-01-28T15:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/01/spies-ai-future-artificial-intelligence-us-intelligence-community/162683/?oref=ng-rail-most-read-lander"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 45
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/01/27/NGai20200127/open-graph.jpg"
-        width: 400
-        height: 400
   - title: "The Case for Integrating Dark Web Intelligence Into Your Daily Operations"
     excerpt: "With the assistance of artificial intelligence (AI) to manage and make sense of all these data points, you can certainly create a good defensive perimeter and take remediation steps if you identify gaps in your network. It’s the second, third and fourth clusters that may require some tailoring and additional resources. Certain service ..."
     publishedDateTime: 2020-01-30T14:06:00Z

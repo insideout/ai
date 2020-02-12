@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passa
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: The Business Journals
@@ -25,21 +25,6 @@ images:
     title: "ServiceNow to acquire small conversational AI startup in Mountain View"
 
 related:
-  - title: "ServiceNow acquires conversational AI startup Passage AI"
-    excerpt: "ServiceNow announced this morning that it has acquired Passage AI, a startup that helps customers build chatbots, something that should come in handy as ServiceNow continues to modernize its digital service platform. The companies did not share terms of the deal. With Passage AI, ServiceNow gets a bushel of AI talent, which in itself has value ..."
-    publishedDateTime: 2020-01-28T14:28:00Z
-    webUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/"
-    ampWebUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 187
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1156805372.jpg?w=1024"
-        width: 1024
-        height: 682
   - title: "ServiceNow acquires Passage AI to advance deep learning AI capabilities"
     excerpt: "based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its vision of supporting all major languages across the company’s Now Platform and products, including ServiceNow ..."
     publishedDateTime: 2020-01-31T01:05:00Z
@@ -53,19 +38,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg"
         width: 304
         height: 430
-  - title: "Two deals in a week: ServiceNow acquires Passage AI for its deep learning chatbots"
-    excerpt: "But what apparently drew ServiceNow’s attention was the platform’s support for multiple languages. The deep learning algorithms that Passage AI uses to power chatbots aren’t pre-calibrated, but rather can be trained on custom data such as customer support tickets. The fact that companies have the ability to bring own training data ..."
-    publishedDateTime: 2020-01-28T17:14:00Z
-    webUrl: "https://siliconangle.com/2020/01/28/two-deals-week-servicenow-acquires-passage-ai-deep-learning-chatbots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/servicenow-1.png"
-        width: 718
-        height: 400
   - title: "ServiceNow to Acquire Passage AI"
     excerpt: "SANTA CLARA, Calif.--(BUSINESS WIRE)--ServiceNow (NYSE: NOW), the company making work, work better for people, today announced it has signed an agreement to acquire Passage AI, a Mountain View, Calif.-based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its ..."
     publishedDateTime: 2020-01-28T19:36:00Z
@@ -92,19 +64,6 @@ related:
       - url: "https://cdn.cfo.com/content/uploads/2020/01/GettyImages-1173671080.jpg"
         width: 604
         height: 578
-  - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
-    excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged NLP engine that supports 30+ channels, and makes websites and mobile app more human-like ..."
-    publishedDateTime: 2020-02-03T04:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1085089/CyberMAK_Kore_AI_Chatbots.jpg"
-        width: 400
-        height: 225
 
 secured: "J1TPJP73wuekS4dIAu4M6g7b+bPgKCnzvw8ofimMIBUYxNtUhZd9f3ajeAUIVT27IW4QXxlqjokHqh8H3b1ojNXGUz494aUuflhRtWDHfHzwI8ZUj8nHYnRxGCtkBdtFS5p57lAwkZOAsnBXprvsINjUQJ/bxHy3vpdHIFyITzRKd6+RVrxFIupU6Ftr09Zm3Q/qd0YIsg/21yNe7AXY1kRSTfNyjqURoLy7ekirXzo3wBdRtYrV5/1jDZ9jo8HXEKXY4IcxwyPG04ftP4ei8HXjzoigeEpk1Us3c8D2uUeG6SuG5oQdTgvQo6bQqNOEjo1yF6+fLFrIMo/Kez9U9OF1SLAvq70ZJ7EWP0vP/fX45lTo4qHyxusTe2balPlaVxyXBDKwg8jTwSJyQwU3kVjesL/yEZB7h/O35iZPY6TbklHCBSovr/jLQIfhsC+LHvDIGfIDg44I0eZWbvI+e9VmaA0NB+ez57zTP3FQvBs=;Dh4l5MDu5Sr2SPQe8FAoLA=="
 ---

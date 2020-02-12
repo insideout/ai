@@ -3,7 +3,7 @@ category: news
 title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
 excerpt: "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up."
 publishedDateTime: 2020-02-11T17:44:00Z
-webUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2"
+webUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp%3Butm_medium=referral"
 ampWebUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
 
-secured: "i6S2/hF98iV7NUZ6aAwiooC7nAEIS1dloNKY88cCsAzMFefuJHuxpfxoMRlx4VHyHcfKqPIXMMiJtwN9ITzvCxY2ykFsvsh88ri8mZsBedDELCe9TAeJDe5IbU+KHBqZJsymea5HPTIQsmDm0P4U7TGpT9avpWfVgnM29PyiJya6+z7NDCaQ/YbbpuxiEfBkZPYOvyF4zONaXUP6ZzRsuGMpUxrES32B8L0ajHpb/xE2nSNTzsLB6A8PaH0JemjzAxcxcNgYv0fJyddL9OXuI0v+p8tcV21+FPcJZSbSeR4tBANj7rKj9aIprfvMeunv;sUhNZfk6EvbGZT2X7tyPsg=="
+secured: "vGxraOLdCvmjrR5kT7yCpftQF2P0x9T6dpTPOuSS8dBg4xcco+uN8CfNrdxv5SnRIXPNUJoA6vj8kYGdMufnVtlMS+MpBqIarqvGosoR0IJCZ0tNB0yjwc36bwSwQMHufd0l46q2QVB+XTxQSpzYFR6dAjVcH+YRuDYHS802tHQv7rKDS0aAZrDC6kzDdEiEZo7hI7NQVWCl+fP0PSPYoBhRDSggukUsH5bkcpbJQ9gRafJ+fiYwZuB8ftfqyHgzqxldeIs8tl8wq7FFLyw+VJF5Xfu5XzCR3/I4dCi4LEjXOJIs4In/Tve2OYy3EIBN;VcxKKoV5IoqYb2SM/3T0pA=="
 ---
 

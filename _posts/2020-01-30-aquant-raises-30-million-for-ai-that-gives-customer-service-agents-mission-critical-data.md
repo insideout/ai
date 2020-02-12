@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: VentureBeat
@@ -29,77 +29,24 @@ images:
     title: "Aquant raises $30 million for AI that gives customer service agents mission-critical data"
 
 related:
-  - title: "Directly raises $20 million to improve customer service with AI"
-    excerpt: "Notably, it comes after a year in which the startup grew 10% per month over a six-month period. “At Industry Ventures, our focus is to work with leading growth companies, full stop,” said the VC firm’s Brian Langer. “Directly saw tremendous growth toward the end of 2019, and the work they’re doing to revolutionize AI and machine ..."
-    publishedDateTime: 2020-01-28T14:52:00Z
-    webUrl: "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/"
-    ampWebUrl: "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/"
+  - title: "Artificial intelligence company Ambyint raises $19.9 million CAD Series B"
+    excerpt: "“It is also a proof point for our approach of combining advanced physics and artificial intelligence, deployed on a scalable software infrastructure, to deliver 10 to 20 percent margin gains in a market where meaningful improvements have been hard to achieve.” Ambyint’s solutions are aimed at improving wells by automating the detection of ..."
+    publishedDateTime: 2020-02-05T11:49:00Z
+    webUrl: "https://betakit.com/artificial-intelligence-company-ambyint-raises-19-9-million-cad-series-b/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/5b070d85a92bfd1d8fa7ba1c_sharing_c5g69e6MSr5iT0iGaltGfR_upscaled_image_x4-1-e1580223042930.png?fit=1200%2C733&strip=all"
-        width: 1200
-        height: 733
-  - title: "Directly raises $20 million to inject AI into customer service"
-    excerpt: "Newly appointed CEO Mike de la Cruz, previously Siebel Systems senior vice president of customer relationship management and Directly’s chief business officer, said the fresh capital willl “significantly” expand Directly’s ability to bring AI and customer experience automation to the market. It brings the company’s total raised to ..."
-    publishedDateTime: 2020-01-28T14:52:00Z
-    webUrl: "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/"
-    ampWebUrl: "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/"
+      name: BetaKit
+      domain: betakit.com
+    quality: 31
+  - title: "Intelligent Automation Is the Customer Service Differentiator For Banks"
+    excerpt: "Artificial Intelligence, Robotic Process Automation, Intelligent Automation, Blockchain, Tokenisation, Machine Learning - banks are struggling ... research by Capgemini estimated that the financial services industry could expect to add up to $512bn to ..."
+    publishedDateTime: 2020-01-29T12:22:00Z
+    webUrl: "https://www.finextra.com/blogposting/18388/intelligent-automation-is-the-customer-service-differentiator-for-banks"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/5b070d85a92bfd1d8fa7ba1c_sharing_c5g69e6MSr5iT0iGaltGfR_upscaled_image_x4-1-e1580223042930.png?fit=1200%2C733&strip=all"
-        width: 1200
-        height: 733
-  - title: "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI"
-    excerpt: "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ..."
-    publishedDateTime: 2020-01-29T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/8a91385a-4630-4ae0-a791-1dbe7d1f8780-e1580153727148.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Amazon Connect Helps AWS Partner Improve Annoying Customer Service Calls"
-    excerpt: "“Think of Connect as the sun, and Earth, Venus and Mars are like Lex and Polly and Lambda and SageMaker and other things that make the whole experience more impactful,” VoiceFoundry CEO John Marino said, referring to AWS services for building conversation bots, text-to-speech, serverless compute and machine learning services. “But Connect ..."
-    publishedDateTime: 2020-01-29T20:32:00Z
-    webUrl: "https://www.crn.com/news/cloud/amazon-connect-helps-aws-partner-improve-annoying-customer-service-calls"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 38
-    images:
-      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
-        width: 1000
-        height: 600
-  - title: "Verizon boosts customer service with NLP"
-    excerpt: "Each request had to be read and individually acted on until Global Technology Solutions (GTS), Verizon's IT group, leveraged natural language processing (NLP) and deep learning to automate the process. \"In essence the Digital Worker takes tasks that can be executed automatically away from the engineers so that we can use the engineers' time in ..."
-    publishedDateTime: 2020-02-04T11:24:00Z
-    webUrl: "https://www.cio.com/article/3518782/verizon-boosts-customer-service-with-nlp.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 24
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.3x2.jpg"
-        width: 1200
-        height: 800
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "ixWcwVSdxhPnYJe2Erhpgq5LZEhK8KQRIFzd6sfjhZcLzsSJjdO6/QWcBzngR2+IewYlKJuZZyaWvRTiyLI5sqjK7EieD3Q2iHDAVCHcZOTyy3MbeUGHFlk16ia3FPb3AIiQCHzHvdF72h2y0y6SRbANh4MgJG05/dcwRUOevQROx6XKXRxXQFQTwGkwXbOPC8dfzCmGflnEaKVyZhpeP1GLcFaGuBMXdNnCEWh9NAbzXrp1uqG8ayzRZnzdz2mAsRmNX540XlYXq1dEnXAXZCH6yYta14z7wLNlpDlENP+tfki6Tq9BY8PKJcP42HG+cP6GpY/8KKgtEpDcbtYQyepFfVmS4gNBbL/WK+NcXTECkiKdsNnXH1y7COay1PJ++eg9Wgz72op2GEjewOvHSnHeGn1oXMFH3Bd29x1ou+v9bf3hPp/b0MDy1a1Vxv7PIQ3Oma7ISOWXZUmL6izuGO6vvXiysvDfq7jo9FEHQ1w=;Z+6JBBON+IU7wXLvK3Us7g=="
 ---

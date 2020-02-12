@@ -1,17 +1,19 @@
 ---
 category: news
-title: "MSPs warn Police Scotland about use of live facial recognition technology"
-excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."
-publishedDateTime: 2020-02-11T10:26:00Z
-webUrl: "https://www.telecompaper.com/news/msps-warn-police-scotland-about-use-of-live-facial-recognition-technology--1326133"
+title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
+excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
+publishedDateTime: 2020-02-12T07:33:00Z
+webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
+ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
 type: article
-quality: 18
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: CBS Boston / WBZ
+  domain: cbslocal.com
 
 topics:
   - AI
@@ -192,17 +194,6 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
-  - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
-    excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
-    publishedDateTime: 2020-02-12T07:33:00Z
-    webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
-    ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
-    cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
   - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
     excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
     publishedDateTime: 2020-02-11T05:28:00Z
@@ -262,6 +253,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
+  - title: "MSPs warn Police Scotland about use of live facial recognition technology"
+    excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."
+    publishedDateTime: 2020-02-11T10:26:00Z
+    webUrl: "https://www.telecompaper.com/news/msps-warn-police-scotland-about-use-of-live-facial-recognition-technology--1326133"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 18
   - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
     excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
     publishedDateTime: 2020-02-11T09:23:00Z
@@ -301,6 +301,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "xKqLhuT4ySEI4ONoWRv2lR1GtZV7s5b+u68ZwJqO7vXgMPwx/yPvDPGHPlLOl3JOBieJxq+i91nF1XwbsmwQycqfoNe8sDn72gj+jQIDDyGkB8VgegIa7nzTLTEKVFeIosaoXfOWC7K7e5iggjSEeRrumkfBsKR6kdFu7DIN82u+mafYw/m4yZNAMJjwnHOP/XtUtdhhWfz9aZJYtCmhOlPY0zJitVU0RZK5CjZv3dJZGT7G2qbZDQ+7Zmbbbon/LXqpMMTslAZpBs3LRi6AgB88f4orE0MlmpxgyTV/i9ZOZMCfi2tI03KwFjrJFxVd;zqd8Ia1CrdVfjV+EeD5Egw=="
+secured: "pBmJIdypDdVktNfVvyXEPT7xG5M2B2RtZMc07cBNlhpZISgwyg9xr50v+pzF6B5c3HRIUN5+G4e+dqlmEb8Km3e3Ty1dRXMcewfq0+BAUGg9oSr3MXMPoqoPtP0q0AGz6p6jkph6P4EXfH8L+ZbStIIQ122ox6iRdnZjI9hwS05qAfSV4a6Va/T6cj+oRlVI3d1ImzoAf0t0moEon6C/ANGdzBeRC7L25iKPup7EsL+esj+IEeelvbPINlI6D6hxHFFtw2W//ny/ZKDMog9PQwJwkMIgJzMtTuAcWBajOzEBGsOhVD1HXDNqRmCU02te01Z2Ck+4Sg9S4n8NL2Tq+W5wZV75fWvlVq72ffus75jAa+X/ylv69tAXfkFB5zHiZ7HI5cz2BIFedVCIggVaFr2F79Fhg+bFrSPChfFWmodXTDoAtJ8PC9Sc0KVhE65SrqD/tE4WNnxXWCfjvmPa9yNAjTFF2HJwLsb9P+ZyAok=;n9lWP45LRVA2IHr/yw6oHA=="
 ---
 

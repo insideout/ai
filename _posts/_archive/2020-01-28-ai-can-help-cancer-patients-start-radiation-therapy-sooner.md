@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-pa
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -63,16 +63,7 @@ related:
       - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
         width: 1200
         height: 450
-  - title: "Deep Learning Tools Can Kickstart Cancer Radiation Therapy"
-    excerpt: "who directs UT Southwestern’s Medical Artificial Intelligence and Automation (MAIA) Lab. “Achieving optimal treatment plans in near real time is important and part of our broader mission to use AI to improve all aspects of cancer care.” The team explored how AI and deep learning tools could improve multiple aspects of radiation therapy ..."
-    publishedDateTime: 2020-01-28T15:12:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-tools-can-kickstart-cancer-radiation-therapy"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 36
 
-secured: "VH/+pvGXsG7WSRl9MiCIdIhJARmOgbutx+B0l4bU06hLD7+EP9rOh65LscFU//lXcERY4YcJ92ICB0vkZr8ztk9oTqdPZsFoXz9PNf0zh+mVcHQOXo1FodWoVQ96N3N1yqEcYOsbWObcfe1/fE+hbsHJvTad+RKj2kmyaufnrhZ0sVTfbQe5UWGfrJ63R3h7CUG++m6rl9KXEm3faggjt/VMJ9J8qkA/mL9Mc+PVNmBtHW1R5sMZeAvq0Uux55kegdBrv0o4NkbfnAVl9lyonE4cTV4z5Dv8nn29fUYENA9Wkdyyj7SWFEbHHaWy/2vz;Hf/IBHEgD5g+PrYGR4oU1A=="
+secured: "asQspkyZqnmoTzJqc7qXXgxu+VgKD/f1TXj4YvEqAHywvE42XBbrk5nDvMOkmNplYcCHibaCtnr0VTQn61FcjxtjWixYcJiJ4DCG53BHEkTam++IUAjPLC+m8ilMVQXx1NYw9JatH618ZmkNaBLpxpchYuk/CMrhgEmksp+F5sTBdr5QcSyiMgbLKevS0oKNeyYnSmwS7Zyv7nUXNRqztB3mybbFysGNpwvSF/QLyJGZmGH8PcAV/lpKiguyqI9GQICxpzW1tlrlW/QIWjNH0Sw77sTkrCsf2mi5/8B3J6SlZWPAzHgvxqudZ+4r4A7M;A4aSxgE2vsezl1u31emKzQ=="
 ---
 

@@ -88,21 +88,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
         width: 1200
         height: 675
-  - title: "Moogsoft CEO Phil Tee on AIOps and service assurance in the age of digital transformation"
-    excerpt: "Tee founded his latest startup, Moogsoft, in 2011, with cofounder Mike Silvey. The company's solution is based on research the founders initiated at the University of Sussex to determine how data science, machine learning, and natural language processing could be applied to IT operations management as a way to improve service assurance."
-    publishedDateTime: 2020-01-28T14:21:00Z
-    webUrl: "https://diginomica.com/moogsoft-ceo-phil-tee-aiops-and-service-assurance-age-digital-transformation"
-    ampWebUrl: "https://diginomica.com/moogsoft-ceo-phil-tee-aiops-and-service-assurance-age-digital-transformation?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/moogsoft-ceo-phil-tee-aiops-and-service-assurance-age-digital-transformation?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 50
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-01/Phil%20Tee%20-%20CECO%20Moogsoft.jpg"
-        width: 1220
-        height: 856
   - title: "Google Will Soon Translate And Transcribe Languages In Real Time"
     excerpt: "Google has shown off an upcoming feature for its Android Google Translate app that will allow for real-time transcription and translation of one language into another at an AI event in San Fransisco. According to CNET, the feature is still in the prototyping stage, so don't expect the functional equivalent of a Hitchhiker's Babel Fish to be on ..."
     publishedDateTime: 2020-01-28T22:23:00Z

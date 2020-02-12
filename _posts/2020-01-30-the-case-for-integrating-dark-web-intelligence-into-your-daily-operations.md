@@ -36,19 +36,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/27/bi-lex-1.gif"
         width: 800
         height: 428
-  - title: "Spies Like AI: The Future of Artificial Intelligence for the U.S. Intelligence Community"
-    excerpt: "But concern is rising, in 2017, researchers at MIT showed how easy it was to fool neural networks with 3D-printed objects by just slightly changing the texture. It’s an issue that some in the intelligence community are beginning to talk about as well with the rise of new tools such as general adversarial networks. The National Institute of ..."
-    publishedDateTime: 2020-01-28T15:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/01/spies-ai-future-artificial-intelligence-us-intelligence-community/162683/?oref=ng-rail-most-read-lander"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 45
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/01/27/NGai20200127/open-graph.jpg"
-        width: 400
-        height: 400
 
 secured: "16Ag9XPyrSYSrtyaegqE86oyoAgZdMFXnCAq2boNgtDuBR8ZCx+sWIG01nJn9o11OCsGHERwtjgEVLX3BOipCtx1Oe04r5rPKaCM4z8TIkpGXkK5L6UVg/iA+NZC2sZl/UTkhvccSkQrZkO8HUqUXMY/A7euUlOgNjS8R9zM/+szDp8Yhq4a3YvpvF97sx5tJZzSxA56QhCIb/jNw3oM4cNJsY+Fq9uMtoY6u3V6Ma7CcIQpey2/54EWTN3cYxSdLBjSv7br0lbmiGcsBHAyHOiM4A3OxLOTWpENSWQgfiZ2164v/LpbPoI2V/6IRhdi;N5eSzI9sMy2bEEEpWmIRmw=="
 ---

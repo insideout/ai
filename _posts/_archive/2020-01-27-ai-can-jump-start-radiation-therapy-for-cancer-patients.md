@@ -63,16 +63,7 @@ related:
       - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
         width: 1200
         height: 450
-  - title: "Deep Learning Tools Can Kickstart Cancer Radiation Therapy"
-    excerpt: "who directs UT Southwestern’s Medical Artificial Intelligence and Automation (MAIA) Lab. “Achieving optimal treatment plans in near real time is important and part of our broader mission to use AI to improve all aspects of cancer care.” The team explored how AI and deep learning tools could improve multiple aspects of radiation therapy ..."
-    publishedDateTime: 2020-01-28T15:12:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-tools-can-kickstart-cancer-radiation-therapy"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 36
 
-secured: "x7RD5dYq3EnG9/s8agaUvaruHl6Fqyfo3NCCRyYSiwKu2n1zXuPDAH5hszyOIOjss8CsxmYxsJynEFObjU3Z1LvBsbNSZBDeehQznuhaS3mmI22dXcyjoRcnuca8T3cmpa2MqzwTnpNa7V1/D8htSV6iZdt196s3nqXoaZyl+Dqtn2q5ZY6xqLAPgEMHIkompHeNhW5atLkFrItxvyoGBqTJao58Y2whTE18UuMDok2dbzp3NoeTDe+V3+rQ3qoPgYt2g6B3SzgtEjnxwy+T5kx1F5kEFuhYGnT1EOWCwdap7Ooo3mCnbV9lJBugwdUT;BrSeYS8DfqU3rl7XS/cNeQ=="
+secured: "yUPe6qHcJ+pqx870JhZfgTAmoFKqbH3bCuf3NtHr0iI/cZN3M7OymPODLsLPLHZHuLEWKAK2bs7xI7bjmwT3+ZG2hIqC6m7dAvXs2LMBkgf/rGkN3FXr9dVnMHpFSz3gvuoSGPNC/05WXn2CAWqaNfpHIsTkGgqTr9PVyAUv23yA/2+y7V1BZ5hvz+52TS+wKyDk56Brfsib85KbjfoGjpfaKRqBkNRGzVo+1uqFcc30YDl4qV9MP98B4gmshpR+V2+s4Ih8HKD3XHZq8z/jrcvNER9nf4sPUCg/od+kKnRfgHwdgMPIMyhs9AEqWk0S;3or/xeTW5gDLq6RGRoL6Ig=="
 ---
 

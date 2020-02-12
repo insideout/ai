@@ -63,16 +63,7 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 54
-  - title: "Deep Learning Tools Can Kickstart Cancer Radiation Therapy"
-    excerpt: "who directs UT Southwestern’s Medical Artificial Intelligence and Automation (MAIA) Lab. “Achieving optimal treatment plans in near real time is important and part of our broader mission to use AI to improve all aspects of cancer care.” The team explored how AI and deep learning tools could improve multiple aspects of radiation therapy ..."
-    publishedDateTime: 2020-01-28T15:12:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-tools-can-kickstart-cancer-radiation-therapy"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 36
 
-secured: "H4MUaMaJ9eCRS5z3CX/UgA0TpR3wOzrbywgB1RqDpbW8G671nlmyoVdQsTDh9dNfJexoaWXOBWgknbKgvS5X+lUvalby/z6BjoKlGyb8uoDU3wGx16WpkBgt0Tl6xdKzQqrpauWcIn0CEWQtc0cKB8G6uGo/myjQILwQnuRnO2L2VkXm/o8/jTMTRs7Q2lNj7xoIW2U3AtAqYfxrjl1W30yH8XgTy7xDHyywTzW7iPmHS0SDrxgMyPAHtAgRAO4ZhfceFKuvgiLakleqFte64tufH8ewoplTdfm9nQPvU9dlXSLdKzuCojUCpqanX8d8;Nj5z2tFL8bObCBwESKLRXQ=="
+secured: "zbGfK70ozWr9h039d327EhiSHdknHrWLd2Li7tVR0jDKH/9bB5ewZ+wQH0IkB0KTBooyYXrE0swh/geTHnZcxxSMJkJjQMTR++jJNZDrjrzWVNxzrDU2iVoBYiqgMr8BwDxKfbP4ExmaJ0CMi2dMEIU8y3Bj/CH7JtuuJSSSotq1U1Ny6B01HvPUuyoCbNIb47oQRwniRgNyE1afq9jZfbdUd0FpJGoxImGwaKkvkRKGV7QY31PjFcKl370lUbDtZNhwlMlELLVdWA/h7QnC3tfKNKeYynq+DSrXUzuwz2nFitixamkdabdWCnWFWgSY;JyvmmW63GX8UVfCnXcd3hQ=="
 ---
 
