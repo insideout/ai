@@ -8,7 +8,7 @@ ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intel
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     height: 628
     title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
-related:
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
-  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-
-secured: "1lI3T19B3cSHkJNYwaXoCO4CchW0/ror9M7O1ZSHDAi+26l/M4bivjI71fz1xSw5oeYJnCxkRFYUuXAz/GsRa4TbqNLpDNsq4dzWOi/lQV65Ik0DeXgwt++69mtBb5LZiqh4cDP/nC5KCdE2y2lrwFJMbTARa2NxHfofXpbfeGA58YXpOppsLCr9NGot3TT6aeeXUH3+Q9UpY1NzPyP0WY+5JGWD/zr/dAZ+qllVwCYJWJqzwNcmqtaLcrSdSFHNeQMCko+0mWNknxFKj4uwSvtZhdl+crzukIdJOSwaDFngjPBVVALH0MceftGq7aF7;69a6RvJb93ZJewE6UNHQyQ=="
+secured: "lQgCUEh6SHX3frq6abwbntYV1v6yjSmX5ZER2u26Nvh0u7rqABwSYqBp15sQN7CBldep/Cm8uh1jAFcjAsp/gLkX6RGALdcnByO7ZlrVOCEsH6Iw1uotzH7TR2xR/cv2XOUrMitEdKJs7nFJioEtYOZhD9aBtZlQV4JvEwbZCtzbSpQ/PRzbKk6jB/CeFqZSpELJH6Kp45AebuApClkh/SrRK2+BB8OmdSXUFRuqsA9TmWrql7bxesGk5yxU4mlcKNFdsa7a+GZY4DhAVb8Y10wydnKBZOO+ACOTTZ/ui9wZ8XhWRPqW+ia25mpZ+2nS;R0+xWLMbJV+PMB1nUwH9Ug=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-07T19:29:00Z
 webUrl: "https://medium.com/@shanif/what-is-a-i-and-machine-learning-58cd0f46d9eb"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medium
@@ -28,19 +28,30 @@ images:
     title: "What Is A.I. and Machine Learning?"
 
 related:
-  - title: "What is artificial intelligence?"
-    excerpt: "As such, calculators are not AI. It's important to understand that AI is an umbrella term covering quite a few technologies. Among these are machine learning, deep learning, natural language processing, speech recognition, the aforementioned image recognition, and robotics. These are all AI, but all AI is not, say, machine learning. To further ..."
-    publishedDateTime: 2020-02-01T22:43:00Z
-    webUrl: "https://www.journalofaccountancy.com/issues/2020/feb/what-is-artificial-intelligence.html"
+  - title: "2020 And The Dawn Of AI Learning At The Edge"
+    excerpt: "AI that learns at the edge is a paradigm-shifting technology that will finally empower AI to truly serve its purpose."
+    publishedDateTime: 2020-02-12T16:18:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/"
     type: article
     provider:
-      name: JournalofAccountancy
-      domain: journalofaccountancy.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.journalofaccountancy.com/content/dam/jofa/issues/2019/jun/ai-640.jpg"
-        width: 640
-        height: 388
+      - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/593333566/960x0.jpg?fit=scale"
+        width: 711
+        height: 473
+  - title: "Arm brings AI and machine learning to IoT and the edge"
+    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
+    publishedDateTime: 2020-02-11T16:10:00Z
+    webUrl: "https://www.techspot.com/news/83965-arm-brings-ai-machine-learning-iot-edge.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 68
 
 secured: "9SZz6ya6VZdUCuqiB6QQhKb1ARtt+vu/wbU6sdsQnOAnBHIW1WtgEfCFNw1KZBiZkdEBmMO992hOjT8Zb1DIzLuPa7fT86tfVEKzz464KcaK2WtZ7Xrd6xYFLqwzrZm9S/ZMwdpJCMtqMAPkynVookLo6AK+3LsK43lbmZ6eylqG8uK/d2AjWbzXlWSVD0TGxLqbxGt0/GHjfhoIR8wbKOlikPDV6obS4DE06SCJpNgrRUNneRRfoBEmXvH6uXsv2pFtKzmOkQvXGwlnSDFfYmSWPZk+e7rU/kmoFjY1dAwSb/7INNK1QYpyN47y57Ar;tglNgaojnJ71h89+a8Z0Xw=="
 ---

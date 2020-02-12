@@ -52,6 +52,15 @@ related:
       - url: "https://www.heraldscotland.com/resources/images/10955630/"
         width: 800
         height: 600
+  - title: "Great Britain at Odds over Police Use of Facial Recognition Technology"
+    excerpt: "Great Britain's three nations are not in agreement over the use of facial recognition technology by police forces. The technology, which can be legally used by police in Wales, was officially introduced by England's Metropolitan Police Service in East London yesterday, amid a peaceful protest by Big Brother Watch. Use of the technology by ..."
+    publishedDateTime: 2020-02-12T16:20:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/great-britain-at-odds-over-police/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
 
 secured: "LFJcJGY+Uj2r/OuNdKYI5UOZCO3HKtnPN8/ETz4BnDGmpTLGOK2joV9Ql0TQFh+ljvemZM0JYwhWhiAAC5g4JXAQsOGeeX9ojnjntJyQUoBwQX7Mlq0H+kozSdYREClo2xuId00nyQa+MymZssn2fxh5qNUsdGSemjegK8WPSwafB0+BTNIROGXPNGtyiHeHiEU0dAqaTn5/AbE2CbNXWMqu+oUGQCeYksCCFjthwxits9jLhvYow+W4bIJF7J+GvxFyNudtrEdqTu1DQ+i6k8GLeNCtFSUXsAJtvNXg3/OIfxkRoJxkpXF2BtcJCgsBAHjqVtA/BJ2DsbyMZ5FzrCcpD4yIgN7TskpbBGhMp/CFNJdT3WcFStIGBPLuNoj9LRcpWyhMD6msgn8G1Nz8ziOy3hOkHXBPS351MD1JuPtEhocwFMUkiCnfK0bKP2DjOxgR2r96lNaSHYUs8Td4QPqq1RC4k7NyfwmCxd/pADg=;RPtO1lWZpPeE+70yN6NgQg=="
 ---

@@ -30,20 +30,20 @@ images:
     title: "Facebook releases low-latency online speech recognition framework"
 
 related:
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
+    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
+    publishedDateTime: 2020-01-13T11:55:00Z
+    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 54
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 36
     images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
+      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
+        width: 620
+        height: 500
 
-secured: "s5pTzgAaTmGI3V+vu12KkpRfUDmApdLT9zfQPHgXOeKIqK1spaO8UAeKrCoK73t0F431mrvh8frEUHHEIhAvIUtuBHx7LABy6bXbl1sSSnFJkcJfax3SnKI45QdwlmTPOp30K2PqgpyMKaeIhv22PK6hGkBwZJHDmWGKitQ+huQmw9V0RWQx+t7GJo5rGNCpmYn8eEbDRX9MGWV90g2yDelgHwkMKJ8+D7tsw/V+HufSexG8KDMPW6dm9Yvpo2Z8G0I8b8S9HF+ag4xdHjDfscSJCUeMfT8pGSop0tlprPLbZPHrDpeukJvjK7+236xT;DRe1jb5uLKHz2CHgdm8Azw=="
+secured: "sQBFd1SEiXtjHaX4isp+vdfJPMULFSaK/aB7iQE/CXjJQZq7ZsbY35P5YZayBxTel4tAKu+re/awOTHoN6I5O6a39dD3Tg9Z2C5hKz7v4lVUWPlgkpYReFOCYnqYc/KeLzbdzF8vVKkJc231K0va/w9mrSxV2/B+tTnujMlClVLDqFAZzLYK/RoACPXGInAn4rzWLmzVvD/xi6l2Eqd6bNQ53gOdilp206eSJNtXZAv9lp1MoT7hlApxlYOvSblsIUu8dEmlJNl0M+6jCAaRojl+zR83SvnBTHSbTXe9nilsjFDt+4CL8F/TM3ZNVlAL;VSkbMnHhvGA9mG16OyRdEQ=="
 ---
 

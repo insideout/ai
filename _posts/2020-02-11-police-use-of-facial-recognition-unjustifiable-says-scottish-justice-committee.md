@@ -8,7 +8,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252478173/Police-use-of-facial-r
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       - url: "https://www.heraldscotland.com/resources/images/10955630/"
         width: 800
         height: 600
+  - title: "Great Britain at Odds over Police Use of Facial Recognition Technology"
+    excerpt: "Great Britain's three nations are not in agreement over the use of facial recognition technology by police forces. The technology, which can be legally used by police in Wales, was officially introduced by England's Metropolitan Police Service in East London yesterday, amid a peaceful protest by Big Brother Watch. Use of the technology by ..."
+    publishedDateTime: 2020-02-12T16:20:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/great-britain-at-odds-over-police/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
   - title: "Facial-recognition tech questioned, defended at House committee hearing"
     excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
     publishedDateTime: 2020-02-07T20:31:00Z

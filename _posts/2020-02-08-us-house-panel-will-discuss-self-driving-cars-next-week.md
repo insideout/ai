@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "US House panel will discuss self-driving cars next week"
 
 related:
+  - title: "U.S. Lawmakers Hear Arguments for New Safeguards for Self-Driving Cars"
+    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
+    publishedDateTime: 2020-02-11T05:14:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/11/technology/11reuters-autos-autonomous-congress.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
     excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
     publishedDateTime: 2020-02-12T14:21:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T12:34:00Z
 webUrl: "https://www.technologyreview.com/f/615174/the-white-house-will-spend-hundreds-of-millions-more-on-ai-research/"
 type: article
 quality: 137
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -64,6 +64,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Trump splashes out on $4.8 trillion artificial intelligence plan"
+    excerpt: "For several years, technologists have urged the Trump administration to back research on artificial intelligence -- which could affect things as diverse as weapons and transportation -- and ..."
+    publishedDateTime: 2020-02-11T22:54:00Z
+    webUrl: "https://fudzilla.com/news/ai/50279-trump-splashes-out-on-4-8-trillion-artificial-intelligence-plan"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://fudzilla.com/media/k2/items/cache/e2deecb27d204b307a129860c86261a4_L.jpg"
+        width: 620
+        height: 464
 
 secured: "huPEVwfWgZNyrXyZ3oiCl18i9GyGcSZvnwq7euxH22rOFIWFWaYRSDlHnsagGO0vseXWvwCiOmM6HnXeCq7XQIUapJtzYcBGh3fTGx+3c8ld1lCRUvD6qWFN3WZwQ9zjbq8tgm62oEbrO3Q2SbXngdnH0iRa5MbxAwJOXUoXFFkOFaPvmONK1tC+n/kDM3uhGdywrDrDou99JQ4oL7eb1V4Ux5u0XRbHO1CzfQiYmdiMMq+RPkhWwOfPPLC3J75K/ypWIZmBv9zyhSV7OKZ99gzOEBv3epiapMtTppeEZsn4cPCWS0VTJIMZelkUVHqBhJvecnLU0BVUEEEYwV8c0i5243F3VoU6IH1rmy7Y9MICVY+8/TJD8oeXpmS1gEngcLocrV2wWudW43gntAQvUAi/ZojBQMD8GcDYAkO2cRboTSLE8+35Dn/MbvqBY0Nlr7u6eiv0DC9osL2Op6fD/UVL1c+S7V+jx25bkHZypzZ22l5+7PafHJCsZkyQEgON;P4XxU923zYo3kE7dGfRflQ=="
 ---

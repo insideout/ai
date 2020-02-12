@@ -73,6 +73,21 @@ related:
       - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
         width: 800
         height: 480
+  - title: "Chino, Calif., PD to Hold Forum on Facial Recognition Tech"
+    excerpt: "(TNS) — Facial recognition technology is already used by several agencies in California's Inland Empire, and the Chino, Calif., Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the ..."
+    publishedDateTime: 2020-02-12T16:53:00Z
+    webUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_DEEPFAKE_FACIAL_RECOGNITION_AI.jpg"
+        width: 940
+        height: 627
   - title: "Met Police begins deploying live facial recognition cameras in Stratford"
     excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
     publishedDateTime: 2020-02-11T11:37:00Z

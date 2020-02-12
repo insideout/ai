@@ -47,6 +47,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "VA7dGlckoO7G29TYlu94RkO9WW4aUvJFv2b6yP74gFrBCM0E94ClknkAFciXkVBIfKEUm0cN+/4gDMlFC8AOvrYW+fKD4sCwQgU9XC0y2iiF/mIDJ10sEuiacM6WrWBKo/PDiO5PblQhAY11aO7g0Ru+pMv2W2FQORzBVchWQ1QHztjN0/WKKaAoo5pwpjyu+ekusRweEXMrgnd/cJ035O8ErH4Jb6iS6dp6rNor6wEKBSuCkolYCPXdLd58Q/0UlUGPG+1+fnl22Du9hvJxB2VomTN+UKo5baWOmnNswcrj50kRj3xuqQ8ulD2p1bku;RTY1ssbIW2SSdWGqelBeAw=="
+secured: "4xsWL7bL4UwOSB0sH9smuGwe6hd8fNcCL+g/7ha3WJeonFoivDhH9EDa2UrfGq6bpoRtUBNPj9zX2oxUacFDAe+erZoVYQjTpHVSBEoDjjfYc7T4ZLf9b1Lwu+zioin7L3gANdaIzMbJZoyESQczY7NJ4ZKeacI6kEjriZ7FCXfi4qM7ID75EAhoWPVrKXE0qcl+Zwi2NXOi2AUQv9Qj2UtlXR/jmfayKYLi0zkHGuZG9AEPZs3LEOTok8OjCF6ghWrGE3z2ymLHcwIy873H63VLGswyA4b9Avw45NQomc7A2ahV9dNaisNkYvAPGzOG;9a6M4O/inB9uslGI9iU/sw=="
 ---
 

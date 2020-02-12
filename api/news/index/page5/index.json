@@ -1532,51 +1532,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-07-what-is-ai-and-machine-learning.md",
-      "title": "What Is A.I. and Machine Learning?",
-      "excerpt": "Artificial intelligence (A.I.) and machine learning have seen a recent resurgence due to advancements in computing power A.I. is an area of R&D that focuses on getting machines to act rationally and autonomously. Machine learning is a subset of A.I. that leverages applied math to find patterns in data Machine learning is composed of three ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@shanif/what-is-a-i-and-machine-learning-58cd0f46d9eb",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*27WsK53Ir7W6xSo46jjTow.jpeg",
-          "width": 1200,
-          "height": 745,
-          "title": "What Is A.I. and Machine Learning?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-what-is-machine-learning-exploring-its-impact-on-customer-experience.md",
       "title": "What is machine learning? Exploring its impact on customer experience",
       "excerpt": "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ...",
@@ -2109,7 +2064,7 @@
       "path": "_posts/2020-02-08-us-house-panel-will-discuss-self-driving-cars-next-week.md",
       "title": "US House panel will discuss self-driving cars next week",
       "excerpt": "Witnesses include officials from automotive, tech and transportation trade groups. On February 11th, a House panel will hold a hearing that could help shape the future of self-driving vehicles in the US. The Consumer Protection and Commerce Subcommittee ...",
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020/02/08/us-house-panel-self-driving-cars-hearing/",
@@ -2183,6 +2138,51 @@
           "width": 1200,
           "height": 675,
           "title": "Artificial Intelligence Is Not Ready For The Intricacies Of Radiology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-09-artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029.md",
+      "title": "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029",
+      "excerpt": "A recent market research analysis titled, Artificial Intelligence Solutions Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence Solutions market covering industry surroundings,",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029-2020-02-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-09T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029",
           "attribution": null
         }
       ],

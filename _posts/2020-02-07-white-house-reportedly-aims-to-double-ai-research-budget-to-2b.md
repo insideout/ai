@@ -69,6 +69,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Trump splashes out on $4.8 trillion artificial intelligence plan"
+    excerpt: "For several years, technologists have urged the Trump administration to back research on artificial intelligence -- which could affect things as diverse as weapons and transportation -- and ..."
+    publishedDateTime: 2020-02-11T22:54:00Z
+    webUrl: "https://fudzilla.com/news/ai/50279-trump-splashes-out-on-4-8-trillion-artificial-intelligence-plan"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://fudzilla.com/media/k2/items/cache/e2deecb27d204b307a129860c86261a4_L.jpg"
+        width: 620
+        height: 464
 
 secured: "3LdMtrbsVtMMwNT7l0PzAnU7tEsdnrEH6zR6FhRvuquw0Ex6XNcZIMrw6Znyx9aqbMtchHnZquvWevd7131+vD6JQsZrLzmayxgA+4ZSZtGJ0kcvLqy/nkXAKz6AQjjoeiA5kM1iWFOnSLF5zAEx+w+7N96FkKmW2+x8VADOwjVP5ItVFzSpnIKlEtMEPMqbg1AyMDmLYZL2U8KP5JuLjlmStwQ6AFmEHYGLsbCPhr7BSTWWKMSM7gedjp5ujaDpqNAA/hgxOeLXGiuBxkYB0Mx9i7BZr9Now7E2tq2yYNP8meqHzNaHSxZuKnDNEaQ7VPC/kGO7nPQuqDjYz7M0kYoNL1cJCMfXVQ24e2P2QHtc+s0Ti7bRuvUobHJ32TXAa73whvTikEfgx3jag/WzWvonG9mON5FpsfGOD95iNgl6Rq4mwPh+GDz/nniKYXlw+N83W2hjZUb11hCvSxsIqS4+PYiGG3+s9pdrpBrfMEE=;EqPOjyUlOX54DjKwECZaPw=="
 ---

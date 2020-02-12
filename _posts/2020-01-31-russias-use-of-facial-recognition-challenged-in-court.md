@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-51324841"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841"
 type: article
 quality: 189
-heat: 1239
+heat: 1209
 published: true
 
 provider:
@@ -61,7 +61,7 @@ related:
         width: 1200
         height: 800
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
     publishedDateTime: 2020-01-27T09:55:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -75,21 +75,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "British watchdog urges caution over police facial recognition plans"
-    excerpt: "LONDON (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance between ..."
-    publishedDateTime: 2020-01-29T00:00:00Z
-    webUrl: "https://www.reuters.com/article/us-britain-data-privacy/british-watchdog-urges-caution-over-police-facial-recognition-plans-idUSKBN1ZR273"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZR273"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZR273"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
   - title: "EU drops idea of facial recognition ban in public areas: paper"
     excerpt: "The European Union has scrapped the possibility of a ban on facial recognition technology in public spaces, according to the latest proposals seen by Reuters. An earlier draft by the European Commission had broached the idea of a moratorium of up to five years to give the bloc time to work out how to prevent abuses."
     publishedDateTime: 2020-01-29T23:11:00Z
@@ -382,21 +367,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "Wasp’s facial recognition ability offers lessons in evolution"
-    excerpt: "Through its analysis, the team found a strong and rapid selection by genes linked to insect vision, learning and memory, all crucial to facial recognition. They believe this took place in just the last few thousand years. Meanwhile, the two close relatives of the Northern paper wasp exhibited no strong patterns of genetic selection for learning ..."
-    publishedDateTime: 2020-01-28T23:26:00Z
-    webUrl: "https://dailytimes.com.pk/548306/wasps-facial-recognition-ability-offers-lessons-in-evolution/"
-    ampWebUrl: "https://dailytimes.com.pk/548306/wasps-facial-recognition-ability-offers-lessons-in-evolution/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/548306/wasps-facial-recognition-ability-offers-lessons-in-evolution/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 59
-    images:
-      - url: "https://dailytimes.com.pk/assets/uploads/2020/01/28/Wasp’s-facial-recognition-ability-offers-lessons-in-evolution.jpg"
-        width: 800
-        height: 419
   - title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
     excerpt: "We have Woody Bledsoe to thank for being one of the fathers of facial recognition technology. In the early ’60s, this sharecropper’s son from Maysville, Oklahoma was a pioneer in having machines recognize faces. Bledsoe’s early research into facial recognition technology attracted fans, most particularly, the U.S. government and the CIA ..."
     publishedDateTime: 2020-01-29T16:44:00Z
@@ -989,19 +959,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
         width: 2127
         height: 2072
-  - title: "EU Considers Ban on Use of Facial Recognition Technology"
-    excerpt: "The European Union is considering a temporary ban on the use of facial recognition technology because of data privacy concerns. Next month Margrethe Vestager, the European commissioner for digital policy and antitrust, will publish a paper setting out the EU’s plans for regulating artificial intelligence over the next five years. This paper ..."
-    publishedDateTime: 2020-01-28T23:34:00Z
-    webUrl: "https://www.law.com/international-edition/2020/01/28/eu-considers-ban-on-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
-        width: 4000
-        height: 2110
   - title: "Why a facial recognition ban won’t protect your privacy"
     excerpt: "As a rule, new technologies usually become more popular when they become more advanced, but not so for facial recognition. The technology is both more effective than ever, and also facing a growing backlash from consumers, activists, and lawmakers at the state and federal levels. Concerns about facial recognition are understandable, but they ..."
     publishedDateTime: 2020-01-30T12:00:00Z

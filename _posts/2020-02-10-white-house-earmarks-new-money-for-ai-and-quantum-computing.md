@@ -62,6 +62,19 @@ related:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/1906/854081161001_6129875769001_6129874072001-vs.jpg"
         width: 1280
         height: 720
+  - title: "Trump splashes out on $4.8 trillion artificial intelligence plan"
+    excerpt: "For several years, technologists have urged the Trump administration to back research on artificial intelligence -- which could affect things as diverse as weapons and transportation -- and ..."
+    publishedDateTime: 2020-02-11T22:54:00Z
+    webUrl: "https://fudzilla.com/news/ai/50279-trump-splashes-out-on-4-8-trillion-artificial-intelligence-plan"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://fudzilla.com/media/k2/items/cache/e2deecb27d204b307a129860c86261a4_L.jpg"
+        width: 620
+        height: 464
 
 secured: "6DoZvZLW5fDbVAafyT9suCtA2bU3Tz3oSIH0z04DUnSTXkpKulgTOuOF7Hn8MSOkKcmKcxjrHVEWGpsySfbgscwXiD2jRVK5B0jqytR7kaYRHHkVoAD7k274oY5ofPdzebKYxdY1dSi6RqO7OpZPt3lwRq7hCgzs4XuJC/qnKVwetFtAQic7skthUW6BvynSAflKyD9t0PWCzPBQdEui5StWVsMPe7CIRKzUB0zJpYaZfuOtW5qS/666dYgEXoq/sTL8ryZIQYViDDo3vli8rZBf+166SnTfSGgM5+i+1+z3xTMo6laIulzUV1FgtjxBSRKFSdo4Tz87GVjJNwslC2RCZ8i6yRkI4+lzMw/uHsxx2i/We7eA+izBokS9IhNAqpjseI0Vr8IzEuUJL6xOhBRjjAXSUrefA0Y2Zg1zLQgc5rUTVB94lYTYfTkDYKlhTNPPAQfHhmBEJJANYNqfct5y0EDbxJILU0NmICWZFkQ=;uiVbZJ8ncz7HJe61SZ5k/A=="
 ---
