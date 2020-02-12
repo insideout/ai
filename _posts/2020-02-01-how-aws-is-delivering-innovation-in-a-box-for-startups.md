@@ -8,8 +8,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-d
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: moneycontrol.com
@@ -26,21 +26,19 @@ images:
     title: "How AWS is delivering innovation in a box for startups"
 
 related:
-  - title: "This Young Innovator Is A Champion Of AI For Good"
-    excerpt: "At the AIMed conference 2019, UCI’s sophomore, and Dalai Lama Scholar Karishma Muthukumar gave an opening speech about her big idea of using empathy-based artificial intelligence to improve human connection in the healthcare field."
-    publishedDateTime: 2020-01-28T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/amp/"
+  - title: "Kashyap Kompella, CFA: Delivering Innovative and Sustainable Business Growth Through Enterprise Automation and AI"
+    excerpt: "RPA2AI also serves as an on-demand Chief AI Officer for large organizations and advises on their enterprise AI strategy, AI ethics, implementation roadmap, technology selection, and change management. The company also started working with national and regional governments and industry bodies to create AI policies that sustain business growth ..."
+    publishedDateTime: 2020-01-30T10:47:00Z
+    webUrl: "https://www.analyticsinsight.net/kashyap-kompella-cfa-delivering-innovative-sustainable-business-growth-enterprise-automation-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 20
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f1c45f133f400076acafb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D616%26cropY1%3D76%26cropY2%3D423"
-        width: 616
-        height: 348
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/GlobalAI-Rectangle4.jpg"
+        width: 5000
+        height: 2500
   - title: "How Amazon is delivering innovation in a box for startups"
     excerpt: "Textract eliminated all of those cumbersome processes in one fell swoop and drastically reduced the manual intervention at Karza,” elaborates Manaktala. Karza also uses Amazon Rekognition, an image and scene identification service, to improve the efficiency of the due-diligence process. All of these pre-tuned services, says Manaktala ..."
     publishedDateTime: 2020-01-30T14:51:00Z

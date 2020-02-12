@@ -23,21 +23,6 @@ images:
     height: 630
     title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
 
-related:
-  - title: "RI: Are self-driving cars a solution for transit? An East Coast test shows their promise and challenges"
-    excerpt: "In the Seattle area, a collection of companies is joining in AV research. Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Carmera, based in Seattle, San Francisco and New York, uses data from video streams to help cars \"see\" what's nearby. Gov. Jay Inslee chose Kirkland ..."
-    publishedDateTime: 2020-01-28T12:18:00Z
-    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/news/21123065/ri-are-selfdriving-cars-a-solution-for-transit-an-east-coast-test-shows-their-promise-and-challenges"
-    type: article
-    provider:
-      name: Mass Transit
-      domain: masstransitmag.com
-    quality: 8
-    images:
-      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2020/01/16x9/BIZ_AUTO_SELFDRIVING_TRANSIT_PJ.5e2f9635158de.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-
 secured: "z4f4GGYxhzBjRMCW7hdsmGVHiPuBm81/pAgs3cyChG525+2ythmtVOT91k9BvLRjWwQ1kOgZ+1zYLBh/w64svWZmagc6c1n7r/j3HmoDXmgJo8PEWM9JRw4YLZpYl7K+AdPqPovrqgDP/XxyJh+6Dp5XUhQYianAlOTeGEZAKHh03EcRDtHOrxvSsH8yyILyqh1v3R0MJ6e+PZEnxNl8lV4/masN0rTEsLncJwnXyw7wWei0R4uS0iRlpcQr83O+aMwjmspiqBK67bLcjDLqTNIdrmucF2RKdpVXTaouQSljTcBj9Pe8xQC/Wp9GQ/lb;brZSDo3SlhrJNGYHVWdRaA=="
 ---
 

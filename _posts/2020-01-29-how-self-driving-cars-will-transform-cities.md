@@ -26,21 +26,6 @@ images:
     title: "How Self-Driving Cars Will Transform Cities"
 
 related:
-  - title: "Uber's self-driving cars are a key to its path to profitability"
-    excerpt: "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable."
-    publishedDateTime: 2020-01-28T12:09:00Z
-    webUrl: "https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104181597-GettyImages-605519688.jpg?v=1529473695"
-        width: 1024
-        height: 681
   - title: "Aurora can now give the public rides in its self-driving cars"
     excerpt: "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ..."
     publishedDateTime: 2020-01-29T17:15:00Z
@@ -56,15 +41,43 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024"
         width: 1024
         height: 661
-  - title: "The Key To Tesla's Future Is Full Self-Driving"
-    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
-    publishedDateTime: 2020-02-03T17:07:00Z
-    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+  - title: "The hunt for security flaws in self-driving cars steps up a gear"
+    excerpt: "Last week, seven projects in the UK dedicated to developing tools that will improve cybersecurity in self-driving vehicles received a grand total of £1.2 million ($1.56 million), or about £171,500 ($222,847) each, to boost their research – a sum partly funded by the government's Centre for Connected and Autonomous Vehicles (CCAV)."
+    publishedDateTime: 2020-01-29T11:43:00Z
+    webUrl: "https://www.zdnet.com/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/31/cba611cd-8679-462a-b4f1-0bf604e5d1bb/thumbnail/1200x675/4253ba1d55270145e9da1a11a543ec27/thumb.jpg"
+        width: 1200
+        height: 675
+  - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
+    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The EasyMile shuttles, developed in Europe, are 13 feet long, 10 feet high and 6 1/2 feet ..."
+    publishedDateTime: 2020-01-31T21:48:00Z
+    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
+    type: article
+    provider:
+      name: WUFT
+      domain: wuft.org
+    quality: 39
+    images:
+      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
+        width: 1200
+        height: 782
+  - title: "The man who invented the self-driving car (in 1986)"
+    excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
+    publishedDateTime: 2020-02-02T17:32:00Z
+    webUrl: "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 4
 
 secured: "l2S5JFdLMHd131eT0w42V6JwFc51MjLsRfQNRvv3ZGmvC+r5/QrZffwuZqnwjOOeLZYh1Niz1VPXv9GkzhDEzzyvu7n3qX8hSLX7CCr4DEKXRGNHRSRWm3iL68LhfPgPYFd+OfQCCX3DfrILZE9+ouA6DrmtHFt0X8TFrLCtC02Xlhx/20WCgZd7Pt/V5eXixsFhJsKDLNchnr4xfecHS5RNqmu/2obA0uANkeOW57Qpdeq9YrnGrBixGHiQKETBUbO06g+oZIgR6WQeqYeavDw0JeM5amYw8LcrujS+OeogKE4vUWxf7a/WyxxNCwUL;HIViZhP1vu63eHBVA2RZiA=="
 ---

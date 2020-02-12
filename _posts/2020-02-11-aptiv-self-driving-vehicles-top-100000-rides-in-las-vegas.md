@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -138,6 +138,19 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/pallone.jpg?itok=zhaIX2_q"
         width: 470
         height: 246
+  - title: "Self-driving vehicle law hits a speed bump"
+    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
+    publishedDateTime: 2020-02-11T11:08:00Z
+    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
+        width: 1920
+        height: 1080
 
 secured: "kON6uOXhIIymvfXGDAJiV3g1Fv4bvuZCqND1IusGXFys74SWhzSQFEDcKz4QJzdAdEwPY8IiMLh8m5CVLifYJhEZIH9ty0l9PaBWXDrWl7LxkIehdQKn/rerIy4TFOQsuk7OONjBrUcPgIm1e2MXelb9ly2JqucM5g8JDEkzUACWScy358VPEQGF1izFCpI2PtVRE/uFWGOc6nwzRW4WrHmarLW2QXl0l+eZ+HbIgdtxyLykTcntscf9M0QZkDhgZDZTQZQoL4iGZPlBDu4AWRe4BLi4LUkuLkABbM40B04He6UHo7CDQI+sciNdf8vtFhEakQFAM9tov9pcDYUw709M5pv3T9dmlXP/ocQKMsnOOchj5iGb2CFs4GLdqNAk7cFp8DKoGFsR3/VTyym9RqfhF0ABrO9Zr5uSajD3XM9TZMRGAGim3oyb+zhKDOucaZhj22hlDRqotDma3V+ai8jMxKmZAGs+nfsTiwEvwB4=;pJRgpZOZJO+xAA9WeZd7UA=="
 ---

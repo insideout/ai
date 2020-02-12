@@ -26,43 +26,34 @@ images:
     title: "£1.2m awarded to progress self-driving vehicle cyber security projects"
 
 related:
-  - title: "The hunt for security flaws in self-driving cars steps up a gear"
-    excerpt: "Last week, seven projects in the UK dedicated to developing tools that will improve cybersecurity in self-driving vehicles received a grand total of £1.2 million ($1.56 million), or about £171,500 ($222,847) each, to boost their research – a sum partly funded by the government's Centre for Connected and Autonomous Vehicles (CCAV)."
-    publishedDateTime: 2020-01-29T11:43:00Z
-    webUrl: "https://www.zdnet.com/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+  - title: "What Cybersecurity Operations Can Learn From Self-Driving Trucks"
+    excerpt: "It might not be the first comparison you’d think of, but there’s a significant parallel between long-haul drivers and front-line cybersecurity analysts. Both sets of people sit before screens – either glass windshields or computer monitors — for hours at a time,"
+    publishedDateTime: 2020-02-04T16:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cybersecurity-operations-can-learn-from-self-driving-trucks/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cybersecurity-operations-can-learn-from-self-driving-trucks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cybersecurity-operations-can-learn-from-self-driving-trucks/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/31/cba611cd-8679-462a-b4f1-0bf604e5d1bb/thumbnail/1200x675/4253ba1d55270145e9da1a11a543ec27/thumb.jpg"
-        width: 1200
-        height: 675
-  - title: "The Future of Sensors for Self-Driving Cars: All Roads, All Conditions"
-    excerpt: "But as ADAS and eventually self-driving systems become more advanced, it will be essential for vehicle cameras to perform well in all situations. Camera benchmarking firm DXOMARK has done a lot of work in accurately characterizing camera image quality challenges that are unique to automotive, which its VP of marketing Nicolas Touchard shared ..."
-    publishedDateTime: 2020-02-04T14:14:00Z
-    webUrl: "https://www.extremetech.com/computing/305691-the-future-of-sensors-for-self-driving-cars-all-roads-all-conditions"
+      - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/932516238/960x0.jpg?fit=scale"
+        width: 711
+        height: 473
+  - title: "New self-driving construction trucks provides live-saving barrier"
+    excerpt: "In September 2019, a car hit Anthony Joseph while he worked in a construction zone. He survived, but not without serious injuries. A self-driving truck that acts as a barrier for construction crews could prevent future horrific crashes. “From what I see with the accident scene,” said Linda Joseph, the victim’s mother, “had that truck ..."
+    publishedDateTime: 2020-02-05T02:11:00Z
+    webUrl: "https://www.winknews.com/2020/02/04/new-self-driving-construction-trucks-provides-live-saving-barrier/"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
+      name: WINK NEWS
+      domain: winknews.com
     quality: 24
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/02/GettyImages-1148108337.jpg"
-        width: 1344
-        height: 756
-  - title: "The man who invented the self-driving car (in 1986)"
-    excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
-    publishedDateTime: 2020-02-02T17:32:00Z
-    webUrl: "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 4
+      - url: "https://cdn.winknews.com/wp-content/uploads/2020/02/The-device.-Credit-WINK-News-e1580872182567.png"
+        width: 1200
+        height: 672
 
 secured: "6Qfmyv91Kzqnw4Btg2PTKpy8ZCDq9sKiGQf4Q+BaremE5e748qBMJtxr004Pl8S4nXKZ6xB5XxEy79y0LgUMvCr+M19NDy05TXZ4ixMh4TlmGTb6DNq2qbWOKwNdhCtUzmDswVHWzWrlXlqEeEB7PuHX6KAYsS9KBxGM7C4BdX903mitKkSj/NLT8MwnERk3buvI40hhmn2z+Vh/HspmputlU3ZSxX7BfjsRaccButh2s2T3/ixknwVXmHaBaGcphtF5oA19e88y+MLYGakw+P9FVN6Ygs8hswxAiQn9dptBbbyUR+u6cv5q19rla2unmUWyxM3zf8u6/Cj1IvLtTwTKeeNY2LZH5LL9NEDXGthREGDl9aP+IBD9+oLH1Fg4/iAaLP/7t4+M2qd/3ZEIPwlaNA2EvHtL6GCKIsZVcwEMBXZouvwnmvll+JbOce6b16TszH7nFDlmxCw0lrUIa50o1NWtAfnnhVQ8G/mL7f4=;TpGmyoX5e9Gq0iL2Azwl8g=="
 ---

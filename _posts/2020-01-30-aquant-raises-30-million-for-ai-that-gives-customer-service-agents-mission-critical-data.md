@@ -59,21 +59,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/5b070d85a92bfd1d8fa7ba1c_sharing_c5g69e6MSr5iT0iGaltGfR_upscaled_image_x4-1-e1580223042930.png?fit=1200%2C733&strip=all"
         width: 1200
         height: 733
-  - title: "Roambee raises $15.2 million to track physical assets with AI"
-    excerpt: "The Santa Clara, California-based startup provides on-demand shipment and asset monitoring for companies in the logistics, transportation, finance, pharmaceutical, and automotive industries, with products that combine internet of things sensors and AI with robotic process automation to deliver insights and streamline operations. After raising a ..."
-    publishedDateTime: 2020-01-28T12:30:00Z
-    webUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/roambee.jpg?fit=1200%2C720&strip=all"
-        width: 1200
-        height: 720
   - title: "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI"
     excerpt: "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ..."
     publishedDateTime: 2020-01-29T14:00:00Z

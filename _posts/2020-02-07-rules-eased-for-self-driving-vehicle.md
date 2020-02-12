@@ -134,6 +134,19 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/pallone.jpg?itok=zhaIX2_q"
         width: 470
         height: 246
+  - title: "Self-driving vehicle law hits a speed bump"
+    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
+    publishedDateTime: 2020-02-11T11:08:00Z
+    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
+        width: 1920
+        height: 1080
 
 secured: "EEAlkHruVy5NFUgGTGKBx8vU8gQYO11o+RsX4hOV7bwG8YGP+KZtbiiod9+9PK3xOPKScYLaRBkTCJpGoWTyUhPrasWe2ecShRYIYbKbPMhxRRE+hCwxvUTh6OATxN7bwVGSqeCoR3yLL+GMnCiF3Ka+DX59FzUggbSbJ9A74CpvuSKlHjooeQjPj5fEuwCp/gLo+VLFLbTdPgxRkL+QRTqoyw4GZbQUZzdS2Q19vfeNSjIDz6lhWkj/qvSIn5UWsotzuG0YGZtDY8lR1OgWm2pV/NZzIhCn9aeMeYRQSapuKkKVZe6tXPh5vQeM1I5q;w2dzcHRZWDJNPvKbOEbrMw=="
 ---

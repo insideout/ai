@@ -1,33 +1,22 @@
 ---
 category: news
 title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
-excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
-publishedDateTime: 2020-01-22T10:53:00Z
-webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
+excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements ..."
+publishedDateTime: 2020-01-22T11:00:00Z
+webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI
   - AI in Autos
 
-related:
-  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
-    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
-    publishedDateTime: 2020-01-20T09:52:00Z
-    webUrl: "https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-
-secured: "s9gL/UeshJxyeuseVj4DnXMsvgp/rxwvbpRhbYDfN1tTkdR6AuVQospSLDenRa0bfGRbMycHNhkUtaNiF1PLIKJBzFYgEKIoGXPdB7S9YERWaxsqyXql+gZX+ouyI6uLNT5eRybx/NpKGSG3T7b3Gq5c6gd47ihbzLIESTSh6g3DbYZsd7MuizpENwNJ50iKLf2oegKPWJuEu2i4GEXsFs4pg1b7FVT7kV3w/UtQ6XxSwlSC3vkq+MEn377/Urw/Hkiu3rSMJ8SDhETfimTVD8FNHaG4Z8iPhGCHxJPnbBEDxnkP22wSaRS+zlL1jXPg;di96Jex76o8VJkHkSkUn9w=="
+secured: "ee6DRK67Tn93KeNKgO6iu/mr3OmCaJt5Fn9GbqQ5nW2xmXmpIJGNIIUY06kgAzWchkiD1qG5YykNKxc/Kqg9CVF2DgrFHjkgsoKsL2IGZxhA8kxEdNlN6llJsHJf1G7rsCqa+6VhAfYYQd3yjW6jgIEJ3L0omDnWeSPaiOvGoI71kR5mqmUiqIqavbcR6gJeJxOyFnewSdV6HtN7FwDxWXjgdeV6jxgMaZWs6+LAWZXLZ9wWWFRCoQD2CH6vsFJCbFyEaH1E/xfVaTjLfPUtV82zpr2J+n11lxUEy/Or/JmhqB4jQr645xGSkZG3mi3F;L4bUqzxzDQhmJAAZtio2dw=="
 ---
 

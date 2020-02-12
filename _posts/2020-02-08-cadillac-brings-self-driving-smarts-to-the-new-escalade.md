@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/2/4/saupload_Dollar-Car-cropped_thumb1.png"
         width: 640
         height: 390
+  - title: "The Key To Tesla's Future Is Full Self-Driving"
+    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
+    publishedDateTime: 2020-02-03T17:07:00Z
+    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "Photos: Smart Columbus self-driving shuttle starts rolling in Linden"
     excerpt: "Smart Columbus has launched its self-driving shuttles between COTA routes and community centers in Linden. \"To be part of innovation in a community that deserves access and equity is exciting for us.\""
     publishedDateTime: 2020-02-06T12:00:00Z

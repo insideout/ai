@@ -8,7 +8,7 @@ ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intel
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,23 +25,6 @@ images:
     height: 628
     title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
-related:
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
-
-secured: "Uin51TsBrWBrCSHNM6MEE8SW16WVOju49je1o6MkUeAEmiGokHAGFc+b4gP+93G8RSQVsBkWhH2V1pes+4Vj4MmTWsYM7Zjc2jyvISuBlro1WQ3Yv4L4HWKdAaq2yqsg9Y3V7a2Kb6t9BX/w4asabK59AjKFS3qu6C7lkKIN7VKot/MP79kHPqSS3CsY4NpxWzQEMFuQgkqlLT0oU/rKl31N/4uC4duLMJ4/yulDXLvxkUQjOF0//SI2kZMCfai3GMrMDvRL7K9AIXy0I2wIRtk27CbqJVpKD2+X+9NhtQYgYNzBTwStFTDvnlcmuQ2R;gEjh0uQ6tIc1n8gYf3tgqw=="
+secured: "U1KfDvgTcv7ClzfLrfzaOWgX6CPXQRGC26M3VRa+3oCFoXWiEgkdGrgKCvw4HHNpiPSSzi0fyOVLQUlT0yfs8Lut6UUBD/v9gecipXvY2lOdAflHDh00MFV+8n7A3Vd52mrnazKTzlXaNt12nqamOtiSi+zr32aE0r5Ata87QqHr0FRdwKht4HA7MyXRM2IpIxAijd9zP/x6YEDmg1TZ+f3sW0AU8M0ziV3t2wMKWD44146icH3dglYX82eElK3MByA4YmjYyg6R2Xfme07XtXmW4mcRH4ioWGpNiiSuYegpzxn2rziYFp3U9VWlncme;bmFXiw2traM2y7RdthuXfA=="
 ---
 

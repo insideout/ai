@@ -36,6 +36,21 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg"
         width: 780
         height: 501
+  - title: "AI is here to stay, but are we sacrificing safety and privacy? A free public Seattle U course will explore that"
+    excerpt: "But as AI permeates everyday life, what about the ethics and morality of the systems? For example, should an autonomous vehicle swerve into a pedestrian or stay its course when facing a collision? These questions plague technology companies as they develop AI at a clip outpacing government regulation, and have led Seattle University to develop ..."
+    publishedDateTime: 2020-02-11T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg"
+        width: 780
+        height: 501
 
 secured: "mDXtUrVk4wp/8IUQ9j63OvyLMlNor6vBiM93GILh/XE2ZzOfh75ElOQrfLI3652Wfv0h4uVA6avMT7BVmnZB4DfqJnGJkflX5jdcz0b6iQjDLH69rtTRZRYSsdEVpd59PDuASn94mF0gMjwDUgcT1lIdzZqv7zWEg91LZWkdwtFzf9xG3VyRwYHujFE/Qd7Qyn5PqI1uaTZLqWjCw7xgRChktxO5vbebw2bg5IPQbaNez3Bv46DZgy1+K47c2k0qhhFyk6TeYnTJjLBr+2KqsYjcYWmhC7RbKFuxh4EtPpCabHH5+oRaKTcKk2/trWzC;1HWbYZ6R8546gK1QVk1g5w=="
 ---

@@ -18,51 +18,56 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Uber's self-driving cars are a key to its path to profitability"
-    excerpt: "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable."
-    publishedDateTime: 2020-01-28T12:09:00Z
-    webUrl: "https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
+  - title: "Cadillac Brings Self-Driving Smarts to the New Escalade"
+    excerpt: "He is a member of the Academy of Motion Pictures Arts and Sciences. TopicsCadillac Self-Driving Cars SUVs WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from ..."
+    publishedDateTime: 2020-02-08T07:00:00Z
+    webUrl: "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/"
+    ampWebUrl: "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: Wired
+      domain: wired.com
     quality: 74
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104181597-GettyImages-605519688.jpg?v=1529473695"
-        width: 1024
-        height: 681
-  - title: "Aurora can now give the public rides in its self-driving cars"
-    excerpt: "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ..."
-    publishedDateTime: 2020-01-29T17:15:00Z
-    webUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/"
-    ampWebUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
+      - url: "https://media.wired.com/photos/5e3c9fc2184f8b00092042da/master/pass/Transpo-2021-Cadillac-Escalade-053.jpg"
+        width: 2400
+        height: 1600
+  - title: "2021 Cadillac Escalade: 38-Inch Display, Better Self-Driving"
+    excerpt: "Night Vision is optional on the top four lines. Super Cruise is enhanced Level 2 self-driving, meaning the car lane-centers and paces the car ahead. Unlike other L2 vehicles, it uses lidar reference maps of major US highways to help the car know exactly where it is. (There is no onboard lidar on shipping Cadillacs.) The 2021 Super Cruise also ..."
+    publishedDateTime: 2020-02-06T15:15:00Z
+    webUrl: "https://www.extremetech.com/extreme/305850-2021-cadillac-escalade-38-inch-display-better-self-driving"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024"
-        width: 1024
-        height: 661
-  - title: "How Self-Driving Cars Will Transform Cities"
-    excerpt: "S elf-driving cars will completely transform urban city landscapes, and possibly even change the nature of real estate as we know it. This transformation will both create and destroy trillions of dollars in wealth."
-    publishedDateTime: 2020-01-29T15:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/02/Escalade-0764B8300.jpg"
+        width: 1344
+        height: 743
+  - title: "Magna: The Ultimate Winner Of Self-Driving Is Boringly Profitable"
+    excerpt: "Companies at the forefront of the self-driving revolution have collectively deployed $100 billion into this futuristic technology over the past few years. Canadian auto parts giant Magna International stands to gain from this wave of investments. The company has strategic alliances with manufacturers and innovators which allow it to deploy new ..."
+    publishedDateTime: 2020-02-06T17:35:00Z
+    webUrl: "https://seekingalpha.com/article/4322027-magna-ultimate-winner-of-self-driving-is-boringly-profitable"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
     images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
-        width: 1024
-        height: 512
+      - url: "https://static.seekingalpha.com/uploads/2020/2/4/saupload_Dollar-Car-cropped_thumb1.png"
+        width: 640
+        height: 390
+  - title: "Photos: Smart Columbus self-driving shuttle starts rolling in Linden"
+    excerpt: "Smart Columbus has launched its self-driving shuttles between COTA routes and community centers in Linden. \"To be part of innovation in a community that deserves access and equity is exciting for us.\""
+    publishedDateTime: 2020-02-06T12:00:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2020/02/06/photossmart-columbus-self-driving-shuttle-starts.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "aKHAXoKSeFPztVefO6fjolSC1xMlnKJBpdeVl9sD9lNpS1wMyp+Bz3hXkBtSOcsV0nfX2kHkjFDRD4jbOH01/CTykvjHgjOLFfFNMc1RiIvfa/VpvqvAOQhD6/cUA9RBWY5DB1C/BXl+bTBS4KFL0ue2L0f4fJTDglXfikoyrctwyNCTlylpeQgvf39xUXW3JArR2M37BnopcZJ13oenDzVitViiKKq7kf5PLzkglveVR+zPSkUAOCbIv+0gUzIAYoH2dyC64MD6zT0bPR0k1HofDsAWL2aWQtV20F2PCREIpUWYs+zVbyvFopfJSVbmfFBQoG5pGwRDT4kgIBl2bXPoDRqGrgzPpCl/V7MO4HUp4gHxZNlRNYWQz+howUE08C9sdRAaC0NtpPu18ztdw6snA400B0bZCwa8fpplSfjziYdjmQQz/NBp5oeC79zMMdySBR7KW4Gcho3WiFrGOLCW+3xWjpBRk7Cn1IDjS4I=;Fe3REyORywfJax+Zqnxv9Q=="
 ---

@@ -314,19 +314,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Automobiles Market 2020 | Global Size, Share, CAGR, Application, Overview, Analysis by Top Leaders and Forecast 2023"
-    excerpt: "Summary Global Automotive Artificial Intelligence Market Information Report by Technology (Deep Learning, Machine"
-    publishedDateTime: 2020-01-28T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automobiles-market-2020-global-size-share-cagr-application-overview-analysis-by-top-leaders-and-forecast-2023-2020-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Machine Learning as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
     excerpt: "New York, February 05, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
     publishedDateTime: 2020-02-05T04:05:00Z
@@ -336,17 +323,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Wearable Medical Devices Market worth $139,353.6 Mn by 2026 | Global Market Size, Share, Growth Forecast"
-    excerpt: "Pune, Jan. 28, 2020 (GLOBE NEWSWIRE) -- The global wearable medical devices market is anticipated to gain momentum from the rising incidence of chronic diseases worldwide. Besides, the increasing integration of healthcare and technology,"
-    publishedDateTime: 2020-01-28T12:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15197697/wearable-medical-devices-market-worth-139-353-6-mn-by-2026-global-market-size-share-growth-forecas"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15197697"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15197697"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
   - title: "Global Artificial Intelligence in Medicine Market Size, Share & Forecast 2020-2023 | Global Industry Overview and Latest Trend and Growth Analysis"
     excerpt: "Global \"Artificial Intelligence in Medicine\" Market report 2020 intends to give inside and out data about Artificial Intelligence in Medicine industry with market outlook, trends, business strategies and future prospects of industry. It includes the present market status with some changing size and trends that can affect the market growth rate."
     publishedDateTime: 2020-01-31T11:30:00Z

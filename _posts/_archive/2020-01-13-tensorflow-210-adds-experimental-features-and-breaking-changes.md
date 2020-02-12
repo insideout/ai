@@ -23,6 +23,6 @@ images:
     height: 400
     title: "TensorFlow 2.1.0 adds experimental features and breaking changes"
 
-secured: "F7TELGwsaBSFchw1Gq8v+YJBorA1owkVnwfA3rHdrTuFUAZacNhKFdYBKYcWBXTPuwOoZR+8X1JlGYYyrH2HqyQ0Ch/zOO+mtMPSsRAP/l8zBngFxgPgwjWvdZS2kwNYt3isr+PWNrSu7nXMzjznOFm7MFQnTqr4LLJkLlwfPQFdMor7mwabPVov9fkvkcMli/mHmYEy3xJ4MgwSc/HJzm+lXIk29gnS7UkxisHRA1/ZMGErEYNYvcyi/GzsG0tmPde2yKlrigeF9Eede66bwbMmzGlIovEPMLzefdcEFRt48GPc7ECBq+1RHRJVU55j;xrGZ16CxNpigSl0BCLQFmw=="
+secured: "FTIQ6nQ7OVP2SMhXIiwut9ERWmG2MsUuxLcf+rcPNB4HGu/TkAXo79NFDcRTIZjuF6iQ0weusICr6esDDblIOPTvYXljIvSZNBSFvm5XvVxF3V37uKjMPswnhZtvZo/O7z5IgqSdu2gmEzdJYt8XbQkZtZwYkWlwGl8NXaQEe5yCBM58S7gUc8RnxZcjFAOaKY8TEBD8gluA0p9uFiV9H2DTBhyClwOx14E0a9tBmcmrd81mC85Y3FTXqXS0nbklEHlVP8xPOB6Qn03gtdA5dk+ItjywMeLLtH6f9wvX4/XBmJrQ9RoHMiKDQKSRMhdh;P6vnfBWjdg+9NRCun4eoeQ=="
 ---
 

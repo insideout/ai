@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15215015"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15215015"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -20,19 +20,15 @@ topics:
   - AI in Finance
 
 related:
-  - title: "H2O.ai Empowers MarketAxess to Innovate and Inform Trading Strategies"
-    excerpt: "H2O also has an industry leading AutoML functionality that automatically runs through all the algorithms and their hyperparameters to produce a leaderboard of the best models. The H2O platform is extensively used in industries such as financial services ..."
-    publishedDateTime: 2020-01-26T23:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200126005001/en/H2O.ai-Empowers-MarketAxess-Innovate-Inform-Trading-Strategies"
+  - title: "Phase One Industrial and AI-Survey GmbH Sign Partner Integrator Agreement"
+    excerpt: "Enabling new opportunities in drone-based high-end aerial imaging Copenhagen, Denmark and Atenkirchen, Germany, February 3, 2020 – Phase One Industrial, a world-leading provider of medium format metric cameras and imaging solutions for aerial applications, today announced that it has signed an agreement with AI-Survey GmbH, a developer of UAS ..."
+    publishedDateTime: 2020-02-04T14:26:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/9522"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200126005001/en/767274/23/logo.jpg"
-        width: 1200
-        height: 627
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 16
 
 secured: "97PlnflFFfDNUi1ZyoJErws1zdYYndOw1nfRXzYZJDzEv30XE3v2buW/0hfrOgWpgflSuiGeaGrFz6dQuyS77rlvLcQVRYDtFdbXlaMCHL/Yjh3eeTOwk+y+xn1ldfZ0Rln6BIewIPQaTkuHVbRa+VJl/ba6yD9+R8RrfmyZps/lFZo+ScmwEPtUfd036Qrx/C6YWdJOopeiKToUQUdqinDj3aiicPWBjZWg7BxoVY+ZugKNmSopVN0JrVe6YGGppCXL5d2QL/nPlwG/PgvVq9Z7rrIErS7R03tg8QGoI9gnYx3OENdr1btdnTdOPPzy;21IUxKmud9wvMH9jV3Q2FQ=="
 ---

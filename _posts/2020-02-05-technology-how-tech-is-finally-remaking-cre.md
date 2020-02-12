@@ -25,6 +25,19 @@ images:
     height: 451
     title: "Technology: How Tech is (Finally) Remaking CRE"
 
+related:
+  - title: "6 ways how technology is changing healthcare"
+    excerpt: "Advancements in technological developments over the past few years have led to incredible growth in the Indian healthcare space from an innovation perspective. New-age technologies such as VR (virtual reality), AI (artificial intelligence), 3D-printing, robotics, nanotechnology, etc. have led to what was visualized as the future of healthcare ..."
+    publishedDateTime: 2020-02-12T05:27:00Z
+    webUrl: "https://www.ciol.com/6-ways-technology-changing-healthcare/"
+    ampWebUrl: "https://www.ciol.com/6-ways-technology-changing-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/6-ways-technology-changing-healthcare/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
+
 secured: "424W/U6UOjEfdNeqF20vlkTUhx0fLEtke3nKFcSlWXqSPQ8dHBoVkQ+R/BkHJffqSc1gh4iyhDibrxCnkIeCRVomHjxpGVwnGa07/2BCzt2y15u1wVApO4grcW9b3C+T4YrGxXPM8s5Mev9/nz01z6B5X9BTCmRjYlQNCVFXxi6w7ICyANKIYKzlsOsESqkAB8mrluVPl3D3Cu/C92bJhfHo9We3TueCKg7EiYfFr8ljRrGIZ/gFFrYguEDmr+H8/lYwBzIRzqZbIQ0y7BG0KqDa1CA8fuba2itvqqYMUoLQ5kIHM3+383SSCXk/8rgX;JthWelZNYEdvZzFXxAYtkQ=="
 ---
 

@@ -134,6 +134,19 @@ related:
       - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
         width: 1140
         height: 712
+  - title: "Self-driving vehicle law hits a speed bump"
+    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
+    publishedDateTime: 2020-02-11T11:08:00Z
+    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
+        width: 1920
+        height: 1080
 
 secured: "s1XAMW3t6VM9vxbN0sEyPcUVeVwaUe0g6QHbUHdsEQiUB11uzlMQU8SD/HKmSn9DCH3LFvIO8Cw3IMlIBC+iLL4C70yByxS2JUKI5DlA6RxMl5IQYCet1JXJmcSwI5kg9rEFgk8GTXaM/pESBR6SMhrFHq2nDyjygbF8StJ6oIQ96qvthHnktvKRwk2VluL7hGDbBBApSjLuCnNbDHe89jCifAhkUWQcuahV1k2zUrxTahuHJPlstLXCnSam8GP2QX1/Rp2U95SqJCONYChTYrXD1TZOF7YmahrvkhTBKi6NAdUyIT1g35fW85AOIRnC;OSMfbadgBet32CdCpIPJ4g=="
 ---

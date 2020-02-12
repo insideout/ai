@@ -48,6 +48,19 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/222662_web.jpg"
         width: 720
         height: 527
+  - title: "AI could kickstart early radiation therapy for cancer patients"
+    excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
+    publishedDateTime: 2020-01-28T13:01:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+        width: 1200
+        height: 450
   - title: "Deep Learning Tools Can Kickstart Cancer Radiation Therapy"
     excerpt: "who directs UT Southwestern’s Medical Artificial Intelligence and Automation (MAIA) Lab. “Achieving optimal treatment plans in near real time is important and part of our broader mission to use AI to improve all aspects of cancer care.” The team explored how AI and deep learning tools could improve multiple aspects of radiation therapy ..."
     publishedDateTime: 2020-01-28T15:12:00Z
@@ -57,16 +70,7 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 36
-  - title: "AI could kickstart early radiation therapy for cancer patients"
-    excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically, cancer patients must wait from several days to over a week to begin therapy while doctors ..."
-    publishedDateTime: 2020-01-28T13:03:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
 
-secured: "Z8sgSqSxrbPRBRh5gsHy9cg0umj1CJsSUKcoBHKTnC0oWdOkyHHh1j408sq3BBih/kOL0EImdjsNT3uUTEHMPajvinkjTnQg1bHBRmTdkD6/o5X4aIlNASpOW2MnmVjUq2RjEFIPC+XW1HMGAScngjVysCIqKpYG4eqvECehtWnbQWcjLKnxWab9nnp168b39nR9RCG5gvCEwzjmINbu2KYEbbVb4/HzveBgSD3mJXM3fcjUJ9441c8IsqbHvkNsznKo+GyCtpO4I3tNQHLkaTHUKta8gnEPL194Mj7TLnEhNqIOSnmW16cXZd2FEXes;csy4Q+Qnb1d+tGF87W5/sA=="
+secured: "Gm9mFhiskjqBX4IS4O8b9NpvfYsfIHvc/irrIuwmgZpsXmjLWpYjm42u85LOV63c1yFTidTFhfuoiznX7QpWMH+eKFgnlkLU/N28+AFMk8Q8HeE/FuHf2/i6AftvX+tJio/SzDPjRBrOQVf0hqRl83n4Y8d7CCMOg/MHvkhZF8irFN+EZ/aritnUJSzJjDTDLJN2iTQJTIkVkjrrLXVFf8Wfkl3X66C9R87YrwqGO87rjHytp+qqT+qsMeZCRXoKmgg3QWW5s2LiMMhKazo1Y23aTLPf/lzndcHcivC70FnQOzfOYZw62RUTpR6XpLJe;aQUmpr55Gu9DUGR2XV4oJA=="
 ---
 

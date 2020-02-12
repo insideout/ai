@@ -1,11 +1,11 @@
 ---
 category: news
 title: "AI could kickstart early radiation therapy for cancer patients"
-excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically, cancer patients must wait from several days to over a week to begin therapy while doctors ..."
-publishedDateTime: 2020-01-28T13:03:00Z
+excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
+publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+    width: 1200
+    height: 450
+    title: "AI could kickstart early radiation therapy for cancer patients"
 
 related:
   - title: "AI can help cancer patients start radiation therapy sooner"
@@ -67,6 +73,6 @@ related:
       domain: healthitanalytics.com
     quality: 36
 
-secured: "UQxtwQZiqO87+94XOOSZTQVLiZjIudMmUBce3nTziE0csuIkTq3IeHYkw3x5XvZLaAJnrRjUi/iHhk6n/qAiD+J9ZB/mKNVXcvRIiBBZljR6gXNxGZdKMn+tyjanBpTgxT4k4ZnpSv6g93A0BWarlGKVXX2D8nlakttcU7NWfMVeuYLi68RfCfvx6jlGur5RulMhXwf9wLMZksxpYHb06BnLUvbajPz5Sd84bVkebCaXWl98lz/HjHXusQ4kxWYXIKB6WwTAEEMMK3DvmkZkp/slpkwYwUqVT9objIAwJ2WskrWoFB8VvA7MmGeTRgdWFuAejKJvwp+IMFZzN4yTvAm/8p7koK3rtVlkA9acCMfD+sb2+p0exaN7ZF3ngoNK44kmdkLGd6A3hn6VAPBUygQ4BqsIAEI4ZWIzAfCWGEPC6gFia5/Bg+m7rj0Y/Uol+Ptqs+Zoc2p7KTm4uVUQADruMMnMPrye8js+FkN6Mik=;HgUYygUcQ62Kbi3kyMRkvA=="
+secured: "QqVE6tr6WcgNUd+AN+vi0QL6bvBd+6zHbEMhQHoB5jpa56lJCvcWwE7E+oQMtm+/IMLgo0piudt7iN8nNtOA5MDIaXi93ieLOhYbSdS67QEhj2x0sM+P8UR9/k+HKNSQS+qsBVdGPwLOvlSWbUl+yXRXn5NflMzA55UFcABjvurv2L0RFn8T6Fpu187Zy+PKpI0Cjo1C05kdT3ypPEVUu2X8VyebhRO08Uln12lubZDqB0LGFq43vMI19fze5L8GMI/p2jrJ8gxIP6h6Ks2AB+Q1LqMEoB8XJr9NZ+DZGxGyaKgq+/LRljAptORi9AZY;JV72Ut2IXx9lB3mmgGcNoQ=="
 ---
 

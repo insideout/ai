@@ -8,7 +8,7 @@ ampWebUrl: "https://www.seattletimes.com/business/technology/seattle-university-
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -38,6 +38,21 @@ related:
       name: Governing
       domain: governing.com
     quality: 56
+  - title: "AI is here to stay, but are we sacrificing safety and privacy? A free public Seattle U course will explore that"
+    excerpt: "But as AI permeates everyday life, what about the ethics and morality of the systems? For example, should an autonomous vehicle swerve into a pedestrian or stay its course when facing a collision? These questions plague technology companies as they develop AI at a clip outpacing government regulation, and have led Seattle University to develop ..."
+    publishedDateTime: 2020-02-11T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg"
+        width: 780
+        height: 501
 
 secured: "JOT+jNaRW4ZJUjHBLgLRgVCUFy5Ro6O6k+i9Zv9QY5xBQIwNa1eKLzyRmt6zGd4FqK0q//xIAgsTVmNZoT3wr7D62XeoX/4JumA45wOdJfUnhiVr0to0QK+T1qv1M2MY5oXlFWsHPuz32/qE/jRIupJASzWkh9etXws0u5wlfWFpYVVhaF3AkatSc9do3wnz+UVHhAunAHotHp65A4evumLHUdxJ/DzeVNysaHYga0JaIA9jh6YAPx57o5XQ2xnhzvEg3lbdJA6JqWb5NzTQm//huY80YHK8rOe6iF24YvMDIvZprftrCT2r0HGZolxU5aYr4gocYC6tF2tbYH1K42EkizGH11KWEMCGdWQeuFKFYlRqvp+cj+yTdVmcRyVe4DacYyhkK/hS2M7Bee46+p9lqGKlpSmauZWQeP9aDzEoHBEMte/l9KGwYyFqYqd2Ma5YvUi/PTfnb5EcJhskPUye97GXkENt0mh854KGOnU=;ur3uGB1d2MgEAqIwpoOpMg=="
 ---
