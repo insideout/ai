@@ -105,21 +105,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "Wasp’s unique facial recognition ability offers lessons in evolution"
-    excerpt: "Through its analysis, the team found a strong and rapid selection by genes linked to insect vision, learning and memory, all crucial to facial recognition. They believe this took place in just the last few thousand years. Meanwhile, the two close relatives of the Northern paper wasp exhibited no strong patterns of genetic selection for learning ..."
-    publishedDateTime: 2020-01-28T06:10:00Z
-    webUrl: "https://newatlas.com/biology/uptake-facial-recognition-wasps-evolution/"
-    ampWebUrl: "https://newatlas.com/biology/uptake-facial-recognition-wasps-evolution/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/biology/uptake-facial-recognition-wasps-evolution/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/92fd30f/2147483647/strip/true/crop/544x360+48+0/resize/130x86!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2F44%2F2f%2Fc1bc7330479d89db98bbf4866f15%2Fnew-shark.gif"
-        width: 640
-        height: 360
   - title: "British watchdog urges caution over police facial recognition plans"
     excerpt: "LONDON (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance between ..."
     publishedDateTime: 2020-01-29T00:00:00Z

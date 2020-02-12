@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-roboti
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
 type: article
 quality: 119
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-  - title: "Cognitive skills startup WizKlub raises INR 7 Cr in seed round"
-    excerpt: "The WizKlub SmartTech Program, a first-of-its-kind for children as young as 6 years, builds lifelong skills and confidence to create tech products by application of coding, robotics, smart devices and AI. The startup has 150+ centers in Bengaluru and has progressed 3000+ children through its programs. The company also offers HOTS and SmartTech ..."
-    publishedDateTime: 2020-01-28T06:43:00Z
-    webUrl: "https://indiaeducationdiary.in/cognitive-skills-startup-wizklub-raises-inr-7-cr-in-seed-round/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 19
 
 secured: "IzsDfwLBTdZ2I/Orf2BI8FjuFu+rxVSsU6y/yTNFaUQ8xjHnBMOThPi0PtK1ECha5dFH6nOl0vKqm4qIXYjXbumM409j0L+qicuMldrbTlht0z4iFzF2/mNkbcr4T3dGc2nivMFKowb55iFHKdz6lR4MLcZ29QJaofWp+53UkXANoK5XXEJpO0zsZ7DdYm5YvdrQzwIefCsuNtMU08fcdmc1rsNCq4SGuvEmdq5plutdf4P2aLngaIJf663UV++OXnIadUZAT2XNTQwY4bx9X7SIY5AIKaTXIz2XHDwiYBW79e+T/nefdBDkpVuW4LXRLtghQyNF8KcYvR+mE65uVlIa0Q4ag8/GqitzL9j/abAJMIH5M8aSgsxPcxuggRFpN+maBgb7bfo1vykeP32+FSCHaYrch+MQWpDYKIVSN/lMUIWlV2fQonndnpWjRFiJdVPp3KYQinDgzxPqDMjT/BmJcmS2IozuL3Y/+DpPSCg=;qa4zPUp6ALrJcbFhCVBlWw=="
 ---

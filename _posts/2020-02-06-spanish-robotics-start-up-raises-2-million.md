@@ -64,15 +64,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-  - title: "Cognitive skills startup WizKlub raises INR 7 Cr in seed round"
-    excerpt: "The WizKlub SmartTech Program, a first-of-its-kind for children as young as 6 years, builds lifelong skills and confidence to create tech products by application of coding, robotics, smart devices and AI. The startup has 150+ centers in Bengaluru and has progressed 3000+ children through its programs. The company also offers HOTS and SmartTech ..."
-    publishedDateTime: 2020-01-28T06:43:00Z
-    webUrl: "https://indiaeducationdiary.in/cognitive-skills-startup-wizklub-raises-inr-7-cr-in-seed-round/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 19
 
 secured: "BstL9r5PcDLinWCM/AxUgRek5OzLKD1AuQUHzQGmZgmdPgaI5Jj/e30wwv9J4ZxTJU4SrrmCuUGk7jzhk/aAYNCGntzTFrozYab3QRW5ObneEQwPcm2aWmLawTiYfOVr0vVOf+BsYcr3uSFlGlRQY8hZNx4XuwAXW4PbRXchmtvNZ/E7pKbdE0ueTXXnlMDw8Z5Ts56ClUeHPJYnkfAf5EiAnJCE3QHClJDntiY2NenPHXto8CTTQ3GBkezdgrxg4fhrr0Bt+Lm7Qo1LuCj0ZZFr5CaNBLKTfw4UskWMVnwq8gFLd0/kvKw1nCBuvff9OrbXiL+Xnmy7cQu6HQBBvrxHHc1aALI3P2Ay4Jt8S+KL7+Be9vPeohimGLXz7/WREXbUn8A0zqkQp2htD67D5iOjMZY/BpZoMq5w1Bqi8ezuHi5FEHtI6jHHA2bEx6kiyJMyYnaWl0LUB8a+HI3ArOlLGi6tBm+/S0ynnEfp0TU=;f6v33CgL/lIkXcMHdKjYRQ=="
 ---

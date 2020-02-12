@@ -66,15 +66,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 42
-  - title: "Cognitive skills startup WizKlub raises INR 7 Cr in seed round"
-    excerpt: "The WizKlub SmartTech Program, a first-of-its-kind for children as young as 6 years, builds lifelong skills and confidence to create tech products by application of coding, robotics, smart devices and AI. The startup has 150+ centers in Bengaluru and has progressed 3000+ children through its programs. The company also offers HOTS and SmartTech ..."
-    publishedDateTime: 2020-01-28T06:43:00Z
-    webUrl: "https://indiaeducationdiary.in/cognitive-skills-startup-wizklub-raises-inr-7-cr-in-seed-round/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 19
 
 secured: "k/0rF//5BtjUv8tZ/UBKRZhGtbgP5Peim12670e0okctrNI8VmIKmPtIf6i60SDF9M76mgzF+3o8kobNoQLCc2G2daVr88MSGJ+N9yWHFd2OYAOzSjzQeJgqOq5Hmk263VPXza/XQ354rnLva3GZOIYIorbYu34h2cLnmEAduVFMBxYPDuLjNf97UGb128J42KP+wu2ICz2sUZ7XNa4wsW4uOaEsd/NglKO5AjOSiwsv5bYGbZb+kbyCiX5fg65YbW0tOB5ktSlNQMa5l4eUi2WHQjtySzC0Y6JbTDDTFnpfCMx8PcToE3vJNcl83WPi;bFW6rtgIpMYnHDnNX1IRNA=="
 ---

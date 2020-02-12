@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/what-is-computer-vision?amp=true"
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/what-is-computer-vision?amp=true"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/4726567002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4726567002"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     height: 675
     title: "US lawmakers, trial lawyers clash over self-driving rules"
 
-secured: "Fyu6DxPxmGpZS7APSMAhZtFMgKp/xYbCQ5BtHqJouNFQwY1aCN8fm51KTq9sTH2zLswiiLsiuYdmO6LWtkVKx3CLn7yfwu+hWIuxPu+MEGz6+MbmRhQ17LNvnjmEsrTMKRk/alQB+2FosiYaBD3F37IN27FZJP+ZANcDck9Fz4iQENrjCoW98jHChpa5Y29+arEWPncjMwhnFQuM3/sztZdwdfn3b1HN6yohLpQMicwBXw9FvgAsdPIotznxI8a8poDv0wXNf/sp1aqXo5lShhJEzT3jVVN3xb12VGcCKMxe03Swoa2PKaSAzou85iTl;yw+tTr7KD0g5FuIT1DfdMA=="
+related:
+  - title: "U.S. lawmakers hear arguments for new safeguards for self-driving cars"
+    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,"
+    publishedDateTime: 2020-02-11T23:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
+        width: 640
+        height: 419
+  - title: "Self-driving car company Nuro wins federal safety approval"
+    excerpt: "WASHINGTON - Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
+    publishedDateTime: 2020-02-08T14:07:00Z
+    webUrl: "https://www.postguam.com/business/technology/self-driving-car-company-nuro-wins-federal-safety-approval/article_1c34c964-4960-11ea-8ad5-17b7d62b54d5.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
+        width: 800
+        height: 448
+
+secured: "ZqLNwneeB79JnNs8Ji+KHNgpw5F4zuFXtLJtgfcxyEoORbG5DLOFDplgDy+corE/lYdSeH9Wr9pTdXZaRLVDfTB+fVgaqQNcrNLhtbrYMSABIp60jn3rZP9erzOzqtJo8r6iMdd5OJRUtky4n6BRTRdMYgo/TmFtVpT7Yt94fsWWAkKjTpJOXOsveZa/6yGZ91CBEGAOs0k8RHhER0hsgNZWwUf+zA0OEUTakQehq1S/AFknoz3aZhiltPXo+4uOgECnJmqCs27hedX4NQ9hTYLGDmj/82UzByC9XPzaMoiB/i+4Hm93Xjx1vHEjoTHXqufYcOB2s1YpNY7bRq1tTBUIplo0sdbXstc97fU3KL1otLQSnKgKfKS7/PwjXasNN10MxeF5VFogYtSfD8nDGmrwdysOqt5cJCw92DQA8bjuEOwIDwkG/L2zyuGMD5w4a8TvkOYxWNPaUMr4bme8eKZQ6HD2Ox9Dtu8suI3BXsE=;JlsPuVR0EhHm9EZDECZd6g=="
 ---
 

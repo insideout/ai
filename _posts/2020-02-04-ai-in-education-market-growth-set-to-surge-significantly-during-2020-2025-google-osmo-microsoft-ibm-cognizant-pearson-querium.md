@@ -127,15 +127,6 @@ related:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600
         height: 246
-  - title: "Artificial Intelligence as a Service Market to Drive Amazing Growth by 2025 | IBM Corp., Google, Amazon Web services"
-    excerpt: "Zion Market Research published a new 110+ pages industry research \"Global Artificial Intelligence As A Service Market Is Set For A Rapid Growth And Is Expected To Reach Around USD 14.71 Billion Globally by 2024\" is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term ..."
-    publishedDateTime: 2020-01-28T06:47:00Z
-    webUrl: "https://www.openpr.com/news/1910327/artificial-intelligence-as-a-service-market-to-drive-amazing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Enterprise Artificial Intelligence Market Technology, Future Trends, Opportunities 2019 & Key Players Google Inc, Apple Inc., Amazon Web Services"
     excerpt: "The updated research report on ‘Global Enterprise Artificial Intelligence Market’ offers real-time information with ... This has driven the market of AI across the globe, owing to developments, such as self-driving cars, space exploration, accurate weather predictions, and others. Furthermore, AI is expected to affect healthcare ..."
     publishedDateTime: 2020-01-31T12:12:00Z

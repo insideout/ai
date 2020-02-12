@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T10:53:00Z
 webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -18,20 +18,29 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Jan 17, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI ... practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation."
-    publishedDateTime: 2020-01-17T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
+  - title: "Artificial Intelligence in Healthcare Market (PDF Report) 2020 – Leading Players IBM Corporation, Intel Corporation, Google"
+    excerpt: "New York City, NY: Jan 28, 2020 – Published via (Wired Release) – The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for ..."
+    publishedDateTime: 2020-01-28T07:41:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2020-01-28/artificial-intelligence-in-healthcare-market-pdf-report-2020-leading-players-ibm-corporation-in"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 11
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
-        height: 630
+        height: 448
+  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
+    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
+    publishedDateTime: 2020-01-20T09:52:00Z
+    webUrl: "https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "FFdlr/zoicvxeg2NGfAdtXFe05A7RnWS9FhFcWsWdugNxuv8HQQFCMZ+OIWLlAwAwV49O5wale6gsaOBc4MxcbxOhVWB6Vfjs5dJxbftKkhBHuxEmnBgtz4RQGqLhOThRQCJTu+b3Lf/SY15ZAUkaxLmpRAQDtcMr0hmZBrmBCt1t6An+jwIBHZyoASrecpPa8NDwOg9OM5JhJyi39TcEwqWBSL6Idy30qwjI1ajS/3tDBys9pAsrflIGqNONVAAMgkDCrdCpTnM/tB77ltpqmPd7+W1aa4u6m73G+WzB81j6Irmh/kHaIVpTZ14glHA;voZhvLOaX7MmF+02DXei0Q=="
+secured: "zhcjB3oyZbJD+n0AHzNq4wGvDssKLKdpq1myNJG/H68oGpPJrshFksfJ9toeA2k13yFtW+7LwV1sAFaZnH31IZ5DEpMfb5fUljboo6wgqCiyOOZu1dAPU+Sg+p5LN+RCOmYcsyPPWplbsxfCg/2svEW0hPS1qDE0OUrrITubokctCN1wQXZ9dU54gOc5H057EoYVQU6pAsvNF8i6iEtu+C/NPq6pVRsFjEwMZJYsBTHapuocGVODzr7Q1rcVbWsyDZEVcDKI0KYmkSn5Q1Uj+N3Ehq3T0bC9l4XkHz09q3baps7J2P7gIL4GBMlfcUxg;CGrwpB0OXWOKVxA4qRWogg=="
 ---
 

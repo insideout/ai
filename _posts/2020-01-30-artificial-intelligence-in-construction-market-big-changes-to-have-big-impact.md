@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T09:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market---big-changes-to-have-big-impact-2020-01-30"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     title: "Artificial Intelligence In Construction Market - Big Changes to Have Big Impact"
 
 related:
-  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Top Companies | Building System Planning, Microsoft, IBM, Oracle, SAP"
-    excerpt: "New Jersey, United States, - The report on the Artificial Intelligence (AI) in Construction Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
-    publishedDateTime: 2020-01-28T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-analysis-by-top-companies-building-system-planning-microsoft-ibm-oracle-sap-2020-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Construction Market 2020 Strategic Assessment - IBM, Microsoft, Oracle, SAP, Autodesk"
     excerpt: "The Artificial Intelligence In Construction Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
     publishedDateTime: 2020-02-03T10:05:00Z

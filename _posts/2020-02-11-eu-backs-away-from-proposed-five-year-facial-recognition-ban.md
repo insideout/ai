@@ -102,6 +102,21 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 28
+  - title: "Google Photos allegedly violated Illinois’ facial recognition laws, according to suit filed after Facebook settles class-action over same law"
+    excerpt: "The suit was filed about a week after Facebook agreed to pay $550 million to Illinois users to settle allegations that its facial tagging feature violated the same state law protecting biometric information, which can include data from facial, fingerprint and iris scans. Illinois has one of the strictest biometric privacy laws in the nation."
+    publishedDateTime: 2020-02-11T23:07:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-google-facial-recognition-lawsuit-20200211-3pzwk7qwznhfvgdv5lk2bdyqu4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-google-facial-recognition-lawsuit-20200211-3pzwk7qwznhfvgdv5lk2bdyqu4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-google-facial-recognition-lawsuit-20200211-3pzwk7qwznhfvgdv5lk2bdyqu4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 24
+    images:
+      - url: "https://www.chicagotribune.com/resizer/R_JTtoqdaQpQCFtG9OHt_xZ_9lY=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/C3DCANJPP5EF3BJLLF7AUJDL3U.jpg"
+        width: 1200
+        height: 720
   - title: "Venmo, YouTube and Twitter demand company stop ‘scraping’ photos for facial recognition work with police"
     excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part … This item is available in full to subscribers."
     publishedDateTime: 2020-02-06T15:54:00Z

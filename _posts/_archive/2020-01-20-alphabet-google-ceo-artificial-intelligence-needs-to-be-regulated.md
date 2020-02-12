@@ -41,18 +41,7 @@ related:
       - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
         width: 600
         height: 338
-  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
 
-secured: "UIOY2LDILZYT/o2KOKUH450nu0yvIMrh5O9VQOWWN55VwE648j01WJU5WhZZa//+fFOv7i/X/nkEcahoBONZtfnE6H9R/xlOAmQvpSOSCB0EpT45ypQWl8qJGL/1LYMxLSBUgE2q3u0HcMI1Uw9cF3T5AuLPwqF7hy/PhuGbnSUCrXu5VoIGbq9Q6E3kfctLC26g+jXK2f3a1EtL8l/V2+u0ID4H4POqKSOsVBc08yTdDubl1x/O/8sPdN1esEtXe8ttZDAdETuMojVEUHOY+WmXhJ7rhfb9Loh6QjBLfBDyiNUc1GH4YRHm+jbDYY5A;LzWiXygto8PDBhXDFIAgVg=="
+secured: "5Ht936WGkcz69V+g3f40dz/UWtMdP9PNEF9d44OLNOMw/cUzb7sAUslFz0yRXAdlVo5ujP5efN2SFXfbAYZl6B+ZtEPlxkv6eztCJPgrrgWt5+reSzgCDfu9D7hokdoU/wHmEZ8Bnw3BvaCVPVsNGAJW+YEQ2kXEn4OXejVGMG12X2g+K37WpRHkVSGjMeRlbmt5eDCIL05WlhinaleP21ay+5Itz843cks1jsHu+IHOp8Th0UnwWLgXosG6nAxUxZVKu+5HrXXjKsMj5yrriWfJ8iW9JjsvryCCI2oQHBqxOaTfT7lmt5WQsQTepiCA;QYIYz/arZ9s+QEP6dVSUTQ=="
 ---
 

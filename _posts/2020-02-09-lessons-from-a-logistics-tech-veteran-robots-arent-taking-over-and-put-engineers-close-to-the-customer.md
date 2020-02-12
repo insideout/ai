@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

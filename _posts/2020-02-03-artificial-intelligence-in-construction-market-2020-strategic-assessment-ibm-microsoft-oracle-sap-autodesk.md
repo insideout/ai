@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Top Companies | Building System Planning, Microsoft, IBM, Oracle, SAP"
-    excerpt: "New Jersey, United States, - The report on the Artificial Intelligence (AI) in Construction Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
-    publishedDateTime: 2020-01-28T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-analysis-by-top-companies-building-system-planning-microsoft-ibm-oracle-sap-2020-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Construction Market Garner US$ 2.1 Bn by 2026"
     excerpt: "/PRNewswire/ -- The Global Artificial Intelligence in Construction Market size is expected to garner around US$ 2.1 billion by 2026. The Global"
     publishedDateTime: 2020-01-29T14:30:00Z
