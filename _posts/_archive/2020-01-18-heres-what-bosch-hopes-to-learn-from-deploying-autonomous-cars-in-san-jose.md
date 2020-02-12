@@ -29,6 +29,6 @@ images:
     height: 628
     title: "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose"
 
-secured: "2LvYPTDCGcR2Zk57cZhBz4uE1+H3WZkrhVN0D7uZn34IysML9FpDRNLFVzS8E+OUDHhvMeS3veEZbB1epvJxzjsbu01wIzKkggH7JJIO0lBDl4fbdsKA9JEQK/8EExFGuMCFmBjk5HSdSkN75p+68k2leB579A85jzqEnJFY0z61b4WAeoRPUNF19jSFKuuFb6NSpLh5dXqcmaAhFy9mL1nmnx3RSMp2vhZgAittEr+UOTZsazUDrGdDXjgkpxxvP3KU5FNbJUCLRgkiEVX8kQDgVvDleBEaEl4tKUxyca7IyWH6WpK3FdxKIeC4+5En;vC0hFo7kAF6Drx8uqaxfqg=="
+secured: "pL1VE95Hbpz8rUmiBvU1+2/bYimv2Vg7d+AsQ9y0TI1QAlGCr/U3crkxDaSuep72SxefnKxMtIUiViI05l5ncIjTv2cYRO939prjHAaGCU0T05n0GEJwrxT9l4mPzy3ohLW0Ycx+NOhOaDTptslpdL8OlsajbYrppQIjGA9sbnlElOE98lbpRLx4fcUjSGoSeQWeHp+9aTZu4n7US8xs0PTayopusjrpv7q3sLjRYwO4KkqY33f6YpZX960qO0tGCpgBO43ix5awfBfzK5GKf989lgJXi3Bz6Mthi+sShgChxlJ6LT5jEqbKdVJCPGJk;+a18gTXxJPcBZQI8i82WYA=="
 ---
 

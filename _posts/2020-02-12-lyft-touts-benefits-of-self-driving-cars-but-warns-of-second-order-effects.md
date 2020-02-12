@@ -29,6 +29,6 @@ images:
     height: 1247
     title: "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects"
 
-secured: "7FakzFXR41dh/6WGJfNaGXlSktYdFg4QJqM/F1AYSbC6pmMXzB1NtF0ovNbJ23WD8lx8kyEOIgcxXW0H3n2J93u2Hp5TlSqAuQjJxWm3waR2ZlX1E2MM18G9j0xUTg3U7WV0UVlWf9I2aDJu+t7MOD2ytKWQczltYCvZCoUjWaCHQBkHL4d6EUrxSsEK6y2wXUVaiPcBCJu0O9kXyIbtJFT12iSarrW3pFn19suJOJ3ZhCiEF0JYMyBRl3+JkIpJhEd2+x0cP88ZcGydhNyrmPR6i3dsXD6mVDLgQQqptYNLwKQVJCII/cYleX+7lTpt;up5E+xN27RCCvqxoqHwJgw=="
+secured: "5m7YVYBEMxi/mrqcGoB1L8u/6HN6XIsYzIQTBu+9fFsNaekSQP9yY+F6pdd6Q+HwrsZMnXjp+wH/H1CPQbeEHctpUtOmJ99kOicbY7HL+5tDajmELu5twy9CMNxJ73HC0M3VXDw/3K3K0CFCBx+K1MquuWnaqkkJh0nogz5zX1WH0BtPCVtaDrhzNY3wKq7bD3Z0S1HdmWCZkN6aH/mKwyBIc6oxvm4E6+yujuOFBEVVmjTOXUyZH7a71du4dk67on49oN964DKQ0AJYRDnuumEsk299Qa4/xn4gyBENsaVF84Z4+itM+BlNZn6uYiEkr+NL9o9KBWvDlLPtP5jSnmPiVOURP3WniKvNeS7vYJmvsWAklvSX+i5mrWyeA2wcPiWfqjViPTc9XMeVjbdDqq7nxEhOKnqTuIO7yoiHKLC/YuUuDuErlQpB0Oey7rgm3lTWQ7/MGxrhcWIM42v/kj+ThOchIGDqpV/PKeewTUI=;jdZKx4X5GakBTmW4yvo9SA=="
 ---
 

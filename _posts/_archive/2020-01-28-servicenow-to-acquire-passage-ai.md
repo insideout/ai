@@ -23,21 +23,6 @@ images:
     title: "ServiceNow to Acquire Passage AI"
 
 related:
-  - title: "ServiceNow to acquire small conversational AI startup in Mountain View"
-    excerpt: "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products."
-    publishedDateTime: 2020-01-28T18:36:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 57
-    images:
-      - url: "https://media.bizj.us/view/img/10466072/servicenowhq*600xx1080-720-100-0.jpg"
-        width: 600
-        height: 400
   - title: "ServiceNow acquires Passage AI to advance deep learning AI capabilities"
     excerpt: "based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its vision of supporting all major languages across the company’s Now Platform and products, including ServiceNow ..."
     publishedDateTime: 2020-01-31T01:05:00Z

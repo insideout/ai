@@ -5,8 +5,8 @@ excerpt: "AUSTIN, Texas — As agricultural equipment gains enough “artificial
 publishedDateTime: 2020-01-22T18:03:00Z
 webUrl: "https://www.capitalpress.com/ag_sectors/research/driverless-farm-machinery-may-lead-to-new-business-model/article_345e9f7c-3cec-11ea-b368-cf7703dd0c58.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "RfCiyGwoBhPPYvVfZ84NM2YmBGvXtjOgfZz/itj3hQJSwDa9rZTqkzDX2WTZa1lT9ZkJkIj2vAMCUpDpHKQKpkxuX7YnYMF13+GlMAxoDYrmaYToz7eIZ92eNP/WKTAY0CNLrjN4O8fpQ6RxhBjv3AwXQ4dzfc8DhRResPeaCbaWDGZ54dFSu4B8ZUkwYYNao+DiMe1r5WWsMq8Z6MZQamRJnSz1JcOxMXvYGI04CbmvfmwhF+JjhIApumcdmOKyR1PGxGsSeoFZ6LR9h0VxeylIAOo7y+WuyP4Tm2Qqj1PLbud5ZteRWscXDbDKPomB;1qQW/DkzQDtGLgK2VDzsuw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/capitalpress.com/content/tncms/assets/v3/editorial/e/f8/ef8129d5-4597-5a29-9a1d-23ae242215b9/5bdb6085c006a.image.jpg?resize=840%2C630"
+    width: 840
+    height: 630
+    title: "Driverless farm machinery may lead to new business model"
+
+secured: "HpC6beiKJ1vHnKvxj0WR1U6U6mtDUDv2NeqGEttKVwC5z27L5kcG2xTBFAQUOHKx3nLN+IgsqfG2QI9EBLcoZG43GEH/Cof+o1dECYcDX2unPArGcF63QotF20p0oJBLW4J2DYW0KUYZcTDwGq5b2nUaC31T6ILuTjK6frLfwWGOqYvTP1tGIsSP7N1ZSioy8xt2EZGGxgUII9m3CRO8B4HIUhkHQDHufK9guc+wR0Kw5WwyYMBnb8aZhWAs0wJKxGVnCwJa4oYbNA56J0IXdXSlSr0+xBoGihee6kKjVBIa5TofEGV/96HV1wmeueCV;XYQbllQoze6CGagdq1hAaQ=="
 ---
 

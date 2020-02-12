@@ -2,43 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-27-machine-learning-system-uses-images-to-teach-itself-morse-code.md",
-      "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
-      "excerpt": "The blog entry by the delightfully callsigned [Mauri Niininen (AG1LE)] reads like a scientific paper, with good reason: [Mauri] really seems to know a thing or two about machine learning. His method uses curated training data to build a model, namely Morse snippets and their translations, as is the usual approach with such systems. But things ...",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hackaday.com/2020/01/27/machine-learning-system-uses-images-to-teach-itself-morse-code/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/01/shutterstock_1210526857.jpg",
-          "width": 2395,
-          "height": 1349,
-          "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back.md",
       "title": "Mosquitoes spread disease, but this is how AI is biting back",
       "excerpt": "So, having early detection systems to promptly deploy preventive controls is crucial to protecting people. The Institute of Agrifood Research and Technology (IRTA) in Catalonia, Spain, has started to use artificial intelligence (AI), sensors, and satellite communications to automate the process of trapping mosquitoes and classifying them ...",
@@ -597,7 +560,7 @@
     {
       "path": "_posts/_archive/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
       "title": "AI can help cancer patients start radiation therapy sooner",
-      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait ...",
       "heat": 104,
       "tags": null,
       "type": "article",
@@ -962,6 +925,95 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-google-translate-will-transcribe-translations-in-real-time-on-android.md",
+      "title": "Google Translate will transcribe translations in real time on Android",
+      "excerpt": "The feature will likely require an internet connection at launch, Google says, which means it will differ from the AI-based and on-device translation features that are in Google Translate today. The company says this is because real-time multilingual transcription is more complicated than simply translating written text from one language to ...",
+      "heat": 244,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
+      "publishedDateTime": "2020-01-28T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/Io0Xl3TweW-02htkun4nckwTH-Y=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66207626/acastro_180427_1777_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google Translate will transcribe translations in real time on Android",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-googles-ai-powers-real-time-orca-tracking-in-vancouver-bay.md",
+      "title": "Google’s AI powers real-time orca tracking in Vancouver Bay",
+      "excerpt": "Google AI today shared that it’s created a model for detecting an endangered species of orca whales in the Salish Sea, a waterway between the United States and Canada. Underwater microphones situated at a dozen points in the Salish Sea that includes the state of Washington and Vancouver Bay are used to alert officials when a Southern Resident ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/googles-ai-powers-real-time-orca-tracking-in-vancouver-bay/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/googles-ai-powers-real-time-orca-tracking-in-vancouver-bay/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/googles-ai-powers-real-time-orca-tracking-in-vancouver-bay/amp/",
+      "publishedDateTime": "2020-01-28T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/tim-cole-3TqYDlquU8c-unsplash.jpg?fit=2250%2C1125&strip=all",
+          "width": 2250,
+          "height": 1125,
+          "title": "Google’s AI powers real-time orca tracking in Vancouver Bay",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1457,6 +1509,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-the-10-coolest-silliest-and-most-borderline-insulting-tv-pilots-of-2020.md",
+      "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
+      "excerpt": "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to become a government assassin ... better known as that show starring Karl Urban about robot cops that was pretty good except when it was awful. This could end up being something interesting, or it could turn ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564",
+      "ampWebUrl": "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp",
+      "publishedDateTime": "2020-01-28T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--aSgrF8P5--/c_scale,f_auto,fl_progressive,q_80,w_800/civehnkykwkfwklensxt.jpg",
+          "width": 800,
+          "height": 449,
+          "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

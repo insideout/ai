@@ -39,20 +39,7 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
-    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
-    publishedDateTime: 2020-01-13T11:55:00Z
-    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
-    type: article
-    provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 36
-    images:
-      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-        width: 620
-        height: 500
 
-secured: "IfFj//vPdIJIj7Tr/y97y3VPuymXscK/j5eVzjbEAMocm58bf5VXYyq4CPO5DPACZNalWgsBIvf0w9tQ/tpyRYNni4oC+DWrDiFOs8iED0eSWBW7yAtx0F0RSYfM7NwSms9WVxsqlQRbndRmgl8hqFEaM/IBu2IcnAAMDqPVqXe7n3S1NxIlqlq//xMZfGF6h18pTiuZTu93bbpwEDsFayrAorrTIcB48O/l/yhet7mMfpJDyL3yumk1PDZgZ7RWbmo1zB6pKCOuqUMBqjuz/Jbr9VstMttoBG13h3heVTIi+eset7ZZ08n05rYnQ0z1;WfXnPC0jRRcHBOUAlul27g=="
+secured: "LA0SpA29f25YABeS7PPkcc/NPUzqbaXuhHdeOuEd605LEQOfwwxxxMxhBsKmSoau+E3UHuEz8BHG5pgYCtVRS/1q0c47iMLnFkFsvokBzZNuKEUNbw9mUUXavRe9uwHuDyrzp2x+lNYkHzNu0JskAzkSDkAuJjBHVitm3nEKzlPw2zi1TIU1o3hvq7FC9gqheWrdx9yyW89fqcxAYVD95p6PIVrolyzfGuWCtoq66sLwbuU83eBJLQh2NtPXF8F59BmKjSbsZQcxw/X5b/RpKWLp18fw0NUq397NcyZTvY67O8qju25Hd348WBR+5EbR;uh6waqxGpPmLQuQWCFhgaQ=="
 ---
 

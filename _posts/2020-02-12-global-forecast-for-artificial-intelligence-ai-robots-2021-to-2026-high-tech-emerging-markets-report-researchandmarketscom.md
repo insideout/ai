@@ -3,7 +3,7 @@ category: news
 title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
 excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually ..."
 publishedDateTime: 2020-02-12T10:12:00Z
-webUrl: "https://www.businesswire.com/news/home/20200212005347/en/"
+webUrl: "https://www.businesswire.com/news/home/20200212005347/en/Global-Forecast-Artificial-Intelligence-AI-Robots-2021"
 type: article
 quality: 38
 heat: -1
@@ -80,6 +80,19 @@ related:
     excerpt: "The Global Machine Learning Operationalization Software Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application,"
     publishedDateTime: 2020-02-08T09:22:00Z
     webUrl: "https://www.marketwatch.com/press-release/machine-learning-operationalization-software-market-2019-2025-global-industry-analysis-2020-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029"
+    excerpt: "Global Natural Language Processing Market, revenue was xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2029, with a CAGR of x.x% during 2019-2029. The report published by Prophecy Market Insights covers detailed segmentation as mentioned below - By Type: – Rule-Based – Statistical – Hybrid By Technologies: – Recognition – IVR – OCR – Speech Recognition – Text Processing – Pattern & Image Recognition Download Sample of This Strategic Report: https://www."
+    publishedDateTime: 2020-02-12T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-development-scenario-and-forecast-to-2029-2020-02-12"
     type: article
     provider:
       name: MarketWatch
@@ -357,6 +370,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "0COAYkAK2VCeDMLpgrXKCPi58l5GDBEB3nPXYAXLMHUlN2+TuIysCaN5lgTxELFWKuGB8c9G0d24elTwbGjW5iBm6xFteOq7uZ9PlSEvUpyyZFk0598dncNLkuBHwCQI9w39Zc0R2gF4JRbphXYzRKBqqDHmOTIiGMhr1tb21ZMaYbkca0wpGWyjPphb34w51Dk8EwzLtnEHQNNg+nwRf413ptSbZy93rzT6rGZN6V5Rxv9B/8Ha7YYLB7AK7BvJrwoK84kUyoMzv1GkMxUyTgErZdKkuAJNtvwF30EmlTOYhW4YxW3Zcx2NosR2rhtR;xYMLAe0cA7xfjrYhsgwW3Q=="
+secured: "cfiFoq8cfdCiBWI6GJVme11f0aXvmFcH6jgGJUJqOSm73xsXNxXr8goi2iiiS1bt9CimSW2q7VaxDLaS3WycQEffI5kE6dKabdQw9r06P0szEXVPrOkQvIMa2b6H25u+V/f4Oo6XtUXJylrlEwNV0Rw5L8YNryr7Tz9+btZ2dh7tGBKYQeV0lZQDzbBDVMOgP8/krSzU1MuV/B8eC3wUOAYzvwx0iPuzGwLWmGeTF/cr+1ikrmHs6Ctdc5F2/FIA9IpUrTgYSzb9uUVbTgqakBqOolMVyiAlgwSL2dulh3auEHRSMMJ9DCQmExBeIZs2;ntEIG/Tqmgu7bS+5kk0f5A=="
 ---
 

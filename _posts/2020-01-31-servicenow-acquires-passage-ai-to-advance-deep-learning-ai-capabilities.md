@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T01:05:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/01/31/servicenow-passage-ai/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     title: "ServiceNow acquires Passage AI to advance deep learning AI capabilities"
 
 related:
-  - title: "ServiceNow to acquire small conversational AI startup in Mountain View"
-    excerpt: "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products."
-    publishedDateTime: 2020-01-28T18:36:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 57
-    images:
-      - url: "https://media.bizj.us/view/img/10466072/servicenowhq*600xx1080-720-100-0.jpg"
-        width: 600
-        height: 400
   - title: "ServiceNow to Acquire Passage AI"
     excerpt: "SANTA CLARA, Calif.--(BUSINESS WIRE)--ServiceNow (NYSE: NOW), the company making work, work better for people, today announced it has signed an agreement to acquire Passage AI, a Mountain View, Calif.-based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its ..."
     publishedDateTime: 2020-01-28T19:36:00Z
