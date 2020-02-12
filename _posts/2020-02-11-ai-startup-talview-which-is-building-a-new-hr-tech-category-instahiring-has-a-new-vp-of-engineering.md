@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI Startup Talview Which is Building a New HR Tech Category 'Instahiring' has a New VP of Engineering"
-excerpt: "/PRNewswire/ -- AI Recruitment startup Talview announced a new addition to its executive team to guide the company's next generation Instahiring"
+excerpt: "PALO ALTO, California, Feb. 11, 2020 /PRNewswire/ -- AI Recruitment startup Talview announced a new addition to its executive team to guide the company's next generation Instahiring Experience platform. Parimal Bajpai has joined as VP of Engineering to help scale Talview's platform as a recruitment automation and Instahiring solution."
 publishedDateTime: 2020-02-11T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ai-startup-talview-which-is-building-a-new-hr-tech-category-instahiring-has-a-new-vp-of-engineering-301002667.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-startup-talview-which-is-building-a-new-hr-tech/article_dae12bd6-0bd0-5062-9ed8-530c984c11fe.html"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "AI Startup Talview Which is Building a New HR Tech Category 'Instahiring' has a New VP of Engineering"
 
-secured: "DDIxLpj6bgkVftcVp4pi38Kk/vISnxZwxOai36OAMbJGTCDx9yW/Ddl5HJ1qh51NBlhX3VMnSjYE0lTR+KlKm4bJflco210rgvPaeOGCQc8S1BymMletMra3J2uD+U/DiEfl3IsoWeFbGDLWGXVdB6AuuKpVJe+g9nrbE14Vm7BAL4qTl0CHLy/NqV4WfkxYH63vUMos4d3oczUKeGq3Tn14F64nI90PLkzeW8AAJKjwPzj1LczfPPcs+oGqkIyioCN0KcIwIOO9+1/5KITHvteCBh+GpN/sZa5eU3zyuFbicXCr0gAY2+MjAgJv9DeE;uALMgm1Saxmqx3852YPAtA=="
+secured: "+tS1JSSjKecukQt/vEMEpgsUDO82Ced8M3Y8jpA/xQPYZpoch7o3alr0Xvx1eDPyRxnY8nX6Y9/K0CaCWWUYIrbIMECTUhpY+uUjp+fP4EIYEyhfvqoMpE0b9tVJKkxz8IaD7jMZ8cRv0AdpOe6nSYeTZK/DGcD8nrDVtxA4s9AFMJPKR0jEBcSU/ioXOGj+8esU36uf9iL9R36MPzwQ6PHz20Et8SQfzkeJHlJR2zJ7WqeLFOCpwSNzM/yGYAu1JjMjuw/QlQUQyIcXvpHTHuxt+s05Vb4XlzuRRPjdMfB65gKJWJnf1OBeRUwEqRn/;BcFkAIx512LM5SwXv0L7eg=="
 ---
 

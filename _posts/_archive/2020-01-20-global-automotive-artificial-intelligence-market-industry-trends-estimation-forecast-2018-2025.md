@@ -27,20 +27,7 @@ related:
       name: Reseller News
       domain: reseller.co.nz
     quality: 12
-  - title: "Artificial Intelligence in Healthcare Market (PDF Report) 2020 – Leading Players IBM Corporation, Intel Corporation, Google"
-    excerpt: "New York City, NY: Jan 28, 2020 – Published via (Wired Release) – The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for ..."
-    publishedDateTime: 2020-01-28T07:41:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2020-01-28/artificial-intelligence-in-healthcare-market-pdf-report-2020-leading-players-ibm-corporation-in"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 11
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
 
-secured: "QRW08C0Cn29QCwzMO6H30/7Zkvzz7ycJJyHmZvtMOtuhq68sf+ZgR+x7HOD/6nkc6mMEr3jBXEoqgew/2D09GufoQ4CH2Ris41xPjvMZ7Y1kpPkiyojYXQhjhaj5n1k4Wy9bJFqBGdOrQTHQWmjHoXgbeGjLbftPEX6+CF7RVX9VQb2OmdbKkNtBSHniAMP2g6MoreU6Hc9Qi9NztSdAiMOrygTZHFvp4m9lveb4GPxYf+mOk8eVJhnrIgfKs4Y6KEfdLCigaklKAA0n6lfByY54y4JeBImH+4iHvJDbZ+1l2Qnnr3Qf5jqVG88ovv2z;2+C+WrRc50kcnQi7V/NAzg=="
+secured: "E20q8kSvqiQp2FkOdMSEjcsiIMl86ErCq0/BNbH0/VP5DZFyvANjZfHn8mk7y99CwH7XZOcY8b5p5YlodsRmqAM2BRSGCFeQ1mVrLzyjPt8DRDFu3fE59y04m/bq83Tx9botey/uAzBnNaAlNCMmO/T0Smpx443WekFKH3WYkhxkTMB1kdnd8cqjeaZk++SYrWdMz8ZFr3S3dHqnaQhL0yYmwxicCY1gZwoDT68CQwXpPnW4wTKOMD84+nLke3Q9ClHUBfztJMrU7efGH/kAjN5PF0ZIVoTyqYNerKe4UNklKpIw4sUeCUklKaIErCI7;kAtMDKop1LOHEFv7w6+neg=="
 ---
 

@@ -39,15 +39,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1147429610/960x0.jpg?fit=scale"
         width: 711
         height: 474
-  - title: "ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET"
-    excerpt: "Artificial Intelligence In Healthcare Market has been provided in the latest report launched by SMI that primarily focuses on the World industry trends, demand, Share, Consumption and Growth with competitive analysis and Future Forecast 2020-2027. The report begins with a brief introduction regarding the major factors influencing the Artificial ..."
-    publishedDateTime: 2020-01-28T08:01:00Z
-    webUrl: "https://www.openpr.com/news/1910427/artificial-intelligence-in-healthcare-market-is-set"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
   - title: "Artificial Intelligence in Healthcare"
     excerpt: "WMR published report on Artificial Intelligence in Healthcare Market 2027: Delivering key insights and providing a competitive advantage to clients through a detailed report. Artificial Intelligence in Healthcare Industry Size, Market Share Value, Competitors Research, Industry Outlook as well Analysis covers various factors like Regional ..."
     publishedDateTime: 2020-01-30T10:45:00Z

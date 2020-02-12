@@ -39,6 +39,19 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6"
         width: 600
         height: 350
+  - title: "U.S. Lawmakers Hear Arguments for New Safeguards for Self-Driving Cars"
+    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
+    publishedDateTime: 2020-02-11T05:14:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/11/technology/11reuters-autos-autonomous-congress.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "Prediction: Market for Artificial Intelligence in Cars Will Grow 1,200% in Next Six Years"
     excerpt: "The market for artificial intelligence in the automotive industry will go from $1 billion today to ... for more assistive and autonomous features for improved driving comfort and safety, as well as realizing the goal of self-driving cars and trucks. AI-powered features are already being developed, tested and offered on consumer vehicles."
     publishedDateTime: 2020-02-07T19:07:00Z

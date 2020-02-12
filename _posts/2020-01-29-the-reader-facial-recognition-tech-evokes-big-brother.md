@@ -315,17 +315,6 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
-  - title: "NEC to Provide Facial Recognition Technology for Mitsui Fudosan Hotels"
-    excerpt: "NEC Corporation (TSE: 6701), a leader in the integration of IT and network technologies, today announced it will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\","
-    publishedDateTime: 2020-01-28T07:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/a15195437/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15195437"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15195437"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Facebook pays $550M to settle facial recognition privacy lawsuit"
     excerpt: "The settlement came after Facebook was sued for collecting facial recognition data to use in tagging photos, which allegedly violated the Illinois Biometric Information Privacy Act. Illinois is the only state to have biometric privacy laws that allow people to sue for damages if their rights are violated."
     publishedDateTime: 2020-01-30T15:58:00Z

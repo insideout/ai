@@ -37,6 +37,19 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/IBM-IC922.png"
         width: 1094
         height: 564
+  - title: "Analytics, AI, and Cloud Power Modern Inventory Management"
+    excerpt: "Fortunately, companies can tap a variety of technologies and services to ensure that they—and their suppliers—can meet fluctuating customer demand. In particular, data analytics, AI, and cloud can help meet these demands. Collectively, these three technologies give companies visibility in two directions: the customer marketplace as well as ..."
+    publishedDateTime: 2020-02-03T19:22:00Z
+    webUrl: "https://www.cio.com/article/3518997/analytics-ai-and-cloud-power-modern-inventory-management.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/02/istock-670852562-100828832-large.3x2.jpg"
+        width: 1200
+        height: 800
 
 secured: "L3tLey0QYDU0fLiTX3q0FbiGlgnOi23kcjC4HtI4zPr4kopHFwcqOh+BuB2GmfskBNMW+9RlQgxbrv0TkoHF8MqcvAGk4pr5c7uq0zT48fNpQuutvusQ3YwFEzpUWWvNj43rJXSCKO9PlmiQwMI8CPgTIiFgKHYpB7XP/IadGfftNAelSNLI1RrZqdX/FTwZiHClPnueQIi5hr/K0UKxMOzb23C35IVmVCdckpmrTbkZajyRyvTfqHPtFEFQhydnu8mAxyQYih9ALmYJPWT52TfUGq6kx9+CvsPftql6+50hTivrq+t9iGLKwx+9aKxeMWjEWmcP0Nje7No1bQoR0REP6c7Lb/bRiZrUgKEBwwq83kdkjg+QCNk2iCuunxKSZ9jmqY0YaGT+DczJPmkVIZ+8Rn50mz0Pgyc+TFCPjLUCZo5wBh+6phnEj/19TALLl6Q2diNA2leDI32TMjhyN564CfnYtLHOZgi8Lxnm0Uc=;m7VN408qdKM5iDWL9VJHAA=="
 ---

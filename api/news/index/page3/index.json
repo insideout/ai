@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_posts/2020-01-31-chicago-police-facial-recognition-adds-jet-fuel-for-criminal-investigations.md",
+      "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
+      "excerpt": "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg",
+          "width": 796,
+          "height": 420,
+          "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-01-31-forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same.md",
       "title": "Forget The ROI: With Artificial Intelligence, Decision-Making Will Never Be The Same",
       "excerpt": "Having the right mindset toward AI means looking beyond traditional, cold ROI measures, and looking at the ways AI will enrich and amplify decision-making.",
@@ -93,7 +138,7 @@
       "path": "_posts/2020-01-31-how-ai-in-healthcare-will-influence-the-path-to-value.md",
       "title": "How AI In Healthcare Will Influence The Path To Value",
       "excerpt": "From medical malpractice to single-payer healthcare, there is no shortage of topics to debate in healthcare. Though provision, funding and government involvement in our system continue to be central topics,",
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/",
@@ -2078,43 +2123,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-03-teslas-video-shows-what-full-self-driving-autopilot-sees.md",
-      "title": "Tesla's Video Shows What Full Self-Driving Autopilot Sees",
-      "excerpt": "Tesla's Autopilot plans are aggressive to say the least. CEO Elon Musk has noted that the company's current-generation vehicles already have the hardware for Full Self-Driving (FSD). The limiting factor, according to Musk, is the software. Clearly, the CEO wants self-driving, so to make it a reality, the Autopilot team is now recruiting via the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.caranddriver.com/news/a30733506/tesla-autopilot-full-self-driving-video/",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/",
-      "publishedDateTime": "2020-02-03T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/algorithms-1580508501.jpeg?crop=1.00xw:0.802xh;0,0.120xh&resize=1200:*",
-          "width": 800,
-          "height": 401,
-          "title": "Tesla's Video Shows What Full Self-Driving Autopilot Sees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

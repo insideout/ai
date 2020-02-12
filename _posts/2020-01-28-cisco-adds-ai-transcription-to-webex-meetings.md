@@ -8,8 +8,8 @@ ampWebUrl: "https://www.computerworld.com/article/3516593/cisco-adds-ai-transcri
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.amp.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Computerworld
@@ -25,21 +25,19 @@ images:
     title: "Cisco adds AI transcription to Webex Meetings"
 
 related:
-  - title: "Cisco brings new AI functionality to Webex"
-    excerpt: "About six months after acquiring Voicea, Cisco is bringing its AI capabilities to Webex meetings. Now, Webex Assistant will be able to help with meeting tasks such as language translation, closed captioning and transcriptions. What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from ..."
-    publishedDateTime: 2020-01-28T08:00:00Z
-    webUrl: "https://www.zdnet.com/article/cisco-brings-new-ai-functionality-to-webex/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/"
+  - title: "Cisco (Nasdaq:CSCO) Introduces AI Voice Intelligence to Webex Platform"
+    excerpt: "The press release indicates that these developments were spurred by Cisco's recent acquisition of software company Voicea, which itself leverages AI-powered voice recognition to power AI assistants. Sri Srinivasan, Senior Vice President and General Manager, Team Collaboration at Cisco, explained: \"Voicea users have reported saving more than six ..."
+    publishedDateTime: 2020-01-28T18:40:00Z
+    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/01281AIEye-GOOG-ACN-IBM-CSCO.asp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 39
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/01/27/b83afa9e-e7cf-4580-873e-523febb334a5/wm-1.jpg"
-        width: 1789
-        height: 1118
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
   - title: "Cisco adds AI-powered voice intelligence capabilities to Webex Meetings"
     excerpt: "Cisco is introducing new AI-powered voice intelligence capabilities to Webex Meetings to help turn talk ... but looking for a business-class solution that doesn’t create added complexity and cost. Research has found there may already be as many as 25 million huddle spaces around the world, with more springing up daily. However, 78 percent ..."
     publishedDateTime: 2020-01-29T01:32:00Z

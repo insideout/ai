@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AI can jump-start radiation therapy for cancer patients"
-excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
-publishedDateTime: 2020-01-28T07:36:00Z
+excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
+publishedDateTime: 2020-01-28T07:25:00Z
 webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
 ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
@@ -20,21 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI can Boost Radiation Therapy for Cancer Patients"
-    excerpt: "Artificial intelligence (AI) can now instantly translate complex clinical data into an optimal plan of attack which can help cancer patients start their radiation therapy sooner and thereby decrease the odds of the cancer spreading, reports a new study."
-    publishedDateTime: 2020-01-28T07:21:00Z
-    webUrl: "https://www.medindia.net/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 74
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/zika-virus-kills-brain-cancer-cells.jpg"
-        width: 1200
-        height: 1000
   - title: "AI can help cancer patients start radiation therapy sooner"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
     publishedDateTime: 2020-01-28T02:41:00Z
@@ -82,6 +67,6 @@ related:
       domain: theiet.org
     quality: 34
 
-secured: "0CJQ576tK1oP3BGXu4QjAQ1T8xzW0PcTrljDxydgVA2JW9JGj7GY4WQZxLHCD5fr/xcKyEVHyJYGe7MTNobX9ENKZkakYmxOmWs9YdVVsiowrYuhojBxHZwtP/Qj61hIssvifzN9JrnUs4K7Qlxu3bxjbBakBWcvppfJ2l0kZYOEG1GxTXc+3xbAqtYSEcwLqLR5e/2e8AYZ9mPBGW32tarubK1c0KNTzBdcaVstGgQPx6uwMSjiqN7tlmUBqwu3b9zW078H93wXQOhwsfwRolJLa1aIuXVX5Dbhfs7A8S7WZYxkSJTdgAPqTRAlMYFnOWHPL6RgBOIldfwxrzxB974DLcTen5HrO0gepKuudBxEHLCy6YUPuS7D5s1fELq8ddcLcHq9v3klvzjN+pT9f3X+HTzJW/4wrIZB6sqBNMrMNaMQMZh4JnQ6PmMlyYAlEWABZBxgk5xKbi7N+8U0swW1KmWVYzxJeURPLXD37Qw=;G1KpcAmzotnPVjate18UjQ=="
+secured: "VFug+4a+V2UFOJTGANX/jcy3eLO79a+ZHLbi63aSsjuhTU2miJEs+EANxvGzllY+fvAWyz/69mJ2CsU+8JBnXa+bgUPwBHCHxhlI4anMylRG8y9r3kVlZHvGTtl4tZj/Qw5xb9mQbd587I6QlLfL3n9cFm3U2VmggzxVT/9K7R6rExCKA/zWK0XqC+nej5wMmfEsV5KRNISxk2JaLeq++tr2pAzWNgpVasfYPlww6MxOKuFaRDFdOaBu458eXxUfwnzG50njLGqlaAoVqwnHwyZRJXTDRn19WND61XGx0/5KPzjSYRc+V7RxSjRqRslJ;SzQuaVXAz3A4JKe1qF9U6g=="
 ---
 

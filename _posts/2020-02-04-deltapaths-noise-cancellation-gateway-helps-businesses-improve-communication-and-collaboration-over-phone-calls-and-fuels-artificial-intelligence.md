@@ -62,19 +62,6 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
         width: 1280
         height: 640
-  - title: "Despite public concerns, facial recognition gets traction in Congress"
-    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
-    publishedDateTime: 2020-02-10T01:59:00Z
-    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
-        width: 760
-        height: 368
   - title: "mCloud Announces Tuck-In Acquisition of AI Visual Inspection Technology from AirFusion"
     excerpt: "Headquartered in Vancouver, Canada with offices in twelve locations worldwide, the mCloud family includes an ecosystem of operating subsidiaries that deliver high-performance IoT, AI, 3D, and mobile capabilities to customers, all integrated into AssetCare. With over 100 blue-chip customers and more than 35,000 assets connected in thousands of ..."
     publishedDateTime: 2020-02-10T13:53:00Z
@@ -162,17 +149,6 @@ related:
       - url: "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf30000138MApEAM"
         width: 272
         height: 270
-  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
-    publishedDateTime: 2020-02-11T10:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
   - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
     excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
     publishedDateTime: 2020-02-05T15:33:00Z

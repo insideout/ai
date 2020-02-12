@@ -1,31 +1,27 @@
 ---
 category: news
-title: "U.S. Lawmakers to Hear Calls for Requiring New Safeguards for Self-Driving Cars"
-excerpt: "A U.S. House panel on Tuesday will hear calls for requiring new safeguards as part of any effort to speed the adoption of self-driving cars on U.S. roads."
-publishedDateTime: 2020-02-11T10:14:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/02/11/technology/11reuters-autos-autonomous-congress.html"
+title: "U.S. lawmakers to hear calls for requiring new safeguards for self-driving cars"
+excerpt: "A U.S. House panel on Tuesday will hear calls for requiring new safeguards as part of any effort to speed the adoption of self-driving cars on U.S. roads. At the same hearing, groups representing automakers and tech companies will tout benefits of autonomous vehicles and warn the United States risks falling behind China and others without new legal backing."
+publishedDateTime: 2020-02-11T10:10:00Z
+webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN20513F"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20513F"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20513F"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    title: "U.S. Lawmakers to Hear Calls for Requiring New Safeguards for Self-Driving Cars"
 
 related:
   - title: "Uber gets green light to test self-driving cars in California again"
@@ -486,6 +482,6 @@ related:
       domain: khou.com
     quality: 4
 
-secured: "WZzHk8FDAbBEhY5A++7zvgux5RgMhZynG1GlVH9269G2VVlEHmtyw+zerZ/JSNpAIIdiYYomozvxA+vb0aVGKDEGyJnDW3lBIdCr7lmWvkP8gx1BUHVVUdL66N28cTQenAEQzQ8RHvVcYJ1jHs8AoqmUFrXjWU13Tv8AJjB++EiBts3MdPfyzar+3wp9HIT7CjqArZpYASm0a/jusw+rrNFtZ0AUvrr5HF6sOXQ3iACOxMQfwcS+nLJUHrEwv9L9Rg71acr+E4UodOq9nJrhaf1L715JfdKs5Gm+N8H2qxPqBcE5xvcCDO7ix4x1QP+Q;xc1jTdqN7S2ywE8c/aFX/w=="
+secured: "p5p1BaHdybbKBdCGShEluScJE6kZ/HzWr94e4/HRPFviSURWGR3A0O4IO0pMaVTUPtMf/WUPzJpIDMKY+m20Ms3C9bwtGQ4l7yiri4+TeemlBegNxgQIg/9pNoLMFMjEiE0SpXYkstKoC7kTuC75ciSKl2E3qI89zS+Wx07me3gxpBQ+mVmQfzJ9ToU5seyVFyf2NQgzvI9IYrzfgfzBq/+sCT0FNP+b69Qsv/uYiHOnqtUn0Eenz1On2Fs+czyNVZkudYmJxPGIgOf5VHJ9nVe99nX/vQB1Ar4zF3OuKWjzRHYHfeRDK/OPyKvtLRru;VQsj3W+dnHjQPHTq1/vQQQ=="
 ---
 

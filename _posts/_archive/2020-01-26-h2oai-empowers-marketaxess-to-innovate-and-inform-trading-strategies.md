@@ -1,7 +1,7 @@
 ---
 category: news
 title: "H2O.ai Empowers MarketAxess to Innovate and Inform Trading Strategies"
-excerpt: "H2O also has an industry leading AutoML functionality that automatically runs through all the algorithms and their hyperparameters to produce a leaderboard of the best models. The H2O platform is extensively used in industries such as financial services that require the machine learning at scale. About H2O.ai H2O.ai is an open source leader in ..."
+excerpt: "H2O also has an industry leading AutoML functionality that automatically runs through all the algorithms and their hyperparameters to produce a leaderboard of the best models. The H2O platform is extensively used in industries such as financial services ..."
 publishedDateTime: 2020-01-26T23:16:00Z
 webUrl: "https://www.businesswire.com/news/home/20200126005001/en/H2O.ai-Empowers-MarketAxess-Innovate-Inform-Trading-Strategies"
 type: article
@@ -49,6 +49,6 @@ related:
       domain: benzinga.com
     quality: 18
 
-secured: "6XdMHERML+pEz1ktGZOhQ/3Y5pWGkVnyu6TrwrBLeaU0GFOpRBk0KpSJu8c7U95x8th/Vw801rqJBpbxN0QgkXv5BXFkYoSOLDRdclsgsHS69BmxzQCAv4O/QJlzB3woxn89/DjuYmVcrRhnmILvBcHwDx8zqJwGnQXU4ocxntuvMHzssB/n3p9MLjs9ebGRV0jVk23F/FN38wdvf8kW9xnJFdhQXe/s1RhbjOyC/ySuKpZNYfsHnC3ZPWguwx4h9fLFz3CGrUGNOiBvWdyJ+i+8/LByJBffW3I/NTwVRk6NvMgOsjqsgBpMBRRoQo86;HpduvYjVVt1jAeRGw2bK0w=="
+secured: "bbMQoz1L8/aw8UuPoKXPE20d6lpv4c7NsdnN8FYCIAKxV4a3Enb6XRCxFePVRS0xPmJ3cvRiKqMLhh8j0uLNptFSFpfGz01fztnQdmuQiUb98JrOwjPr1sGzzjsFlViUJpXl6T3zRljwMowrxfZV03P48cogCzau9AtrMDEoWgiE1VkWXh/DtKymL/4qaIwaGxjOkgjILVBEA8UegGimA2oSicDMIsau0PIQcoJXRhClDDFMLmuMBtKCWgj5PHqjb1isBcmU4p1v0O3uvoI3urGZkPmY+GfncfagxSe5RkclfEYbG+DoCg+y3tTadEO1;prPisjqGC1gcvluom7vMhw=="
 ---
 

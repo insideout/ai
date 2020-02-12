@@ -37,6 +37,19 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/google-said-it-was-developing-ways-to-use.jpg"
         width: 1024
         height: 682
+  - title: "Google aims AI at whales, words and well-being"
+    excerpt: "Google on Jan 28 provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... managers,\" Google said. Another AI team showed how Google translation software that already lets ..."
+    publishedDateTime: 2020-01-30T01:12:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/01/30/google-aims-ai-at-whales-words-and-well-being"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/01/29/531769.jpg"
+        width: 1240
+        height: 864
   - title: "‘Bioacoustics’: Google aims AI at whales, words and well-being"
     excerpt: "Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers. The internet giant unveiled ... sends alerts to Canadian harbor managers,” Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters ..."
     publishedDateTime: 2020-01-28T21:55:00Z

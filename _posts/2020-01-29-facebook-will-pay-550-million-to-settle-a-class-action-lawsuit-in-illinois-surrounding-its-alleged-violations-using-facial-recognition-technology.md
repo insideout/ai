@@ -306,17 +306,6 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
-  - title: "NEC to Provide Facial Recognition Technology for Mitsui Fudosan Hotels"
-    excerpt: "NEC Corporation (TSE: 6701), a leader in the integration of IT and network technologies, today announced it will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\","
-    publishedDateTime: 2020-01-28T07:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/a15195437/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15195437"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15195437"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "The Reader: Facial recognition tech evokes Big Brother"
     excerpt: "The Metropolitan Police’s decision to use facial recognition technology across London [“Met’s big brother goes London wide ”, January 24] is a dangerous and sinister step. It takes us one step closer to becoming a surveillance state where the freedom to live our lives free from State interference no longer exists. Across the world ..."
     publishedDateTime: 2020-01-29T12:58:00Z

@@ -63,19 +63,6 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
         width: 1280
         height: 640
-  - title: "Despite public concerns, facial recognition gets traction in Congress"
-    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
-    publishedDateTime: 2020-02-10T01:59:00Z
-    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
-        width: 760
-        height: 368
   - title: "Efficient Model Selection for Deep Neural Networks on Massively Parallel Processing Databases"
     excerpt: "In this session we will present an efficient way to train many deep learning model configurations at the same time with Greenplum, a free and open source massively parallel database based on PostgreSQL. The implementation involves distributing data to the workers that have GPUs available and hopping model state between those workers ..."
     publishedDateTime: 2020-02-04T15:28:00Z
@@ -150,17 +137,6 @@ related:
       - url: "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf30000138MApEAM"
         width: 272
         height: 270
-  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
-    publishedDateTime: 2020-02-11T10:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
   - title: "Deltapath's Noise Cancellation Gateway Helps Businesses Improve Communication and Collaboration Over Phone Calls and Fuels Artificial Intelligence"
     excerpt: "The Noise Cancellation Gateway leverages Dolby's renowned audio expertise and technology. It filters nonhuman voices and focuses on improving two major areas garnering a lot of attention: voice calls and artificial intelligence. Voice calls remain a popular mode of communication, but the new work-from-anywhere trend is increasing the number of ..."
     publishedDateTime: 2020-02-04T19:33:00Z

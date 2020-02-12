@@ -2,51 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-23-what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions.md",
-      "title": "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions",
-      "excerpt": "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ...",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/",
-      "ampWebUrl": "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/",
-      "publishedDateTime": "2020-01-22T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-23-why-your-business-should-focus-on-understanding-speech-over-voice-recognition.md",
       "title": "Why your business should focus on understanding speech over voice recognition",
       "excerpt": "If you have ever had to repeat “yes” six times to your automated telephone banking assistant, you’d be forgiven for thinking that automatic speech recognition (ASR) has a long way yet to go.",
@@ -2137,6 +2092,51 @@
           "width": 1200,
           "height": 630,
           "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-27-everything-you-want-to-know-about-automated-machine-learning-pipeline.md",
+      "title": "Everything You Want to Know About Automated Machine Learning Pipeline",
+      "excerpt": "The answer lies in the emergence of the automated machine learning pipeline technology also known as the AutoML pipeline. Through this article, we shall evaluate the business value of customized ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@Countants/everything-you-want-to-know-about-automated-machine-learning-pipeline-df9e44612ff",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T01:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/469/0*AK8e-vVQ9ltxh3dc",
+          "width": 469,
+          "height": 235,
+          "title": "Everything You Want to Know About Automated Machine Learning Pipeline",
           "attribution": null
         }
       ],
