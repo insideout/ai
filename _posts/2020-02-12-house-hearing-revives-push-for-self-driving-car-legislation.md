@@ -43,19 +43,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6"
         width: 600
         height: 350
-  - title: "U.S. Lawmakers Hear Arguments for New Safeguards for Self-Driving Cars"
-    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
-    publishedDateTime: 2020-02-11T05:14:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/11/technology/11reuters-autos-autonomous-congress.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
     excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
     publishedDateTime: 2020-02-10T14:44:00Z
@@ -89,6 +76,15 @@ related:
       name: Machine Design
       domain: machinedesign.com
     quality: 10
+  - title: "Self-Driving Cars as Edge Computing Devices"
+    excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
+    publishedDateTime: 2020-02-10T22:40:00Z
+    webUrl: "https://www.infoq.com/presentations/uber-atg/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 4
 
 secured: "UBEmHcPW2wsH45lIie7uyCk2vy/V8NLgh5iJq9ARIw527MY5juiMpdk/eDz6uWVmSblOB9MyhSPO85nPfL/jrHaakHuN+/N4wxbWMVv8pKbQW6gO5a03Nauqul0B0yaXUpYUfeokccOy8YCJp9vS56oeNlH993euE/73Rv5xUclBfhYtg4I13ePVTB6XQU1UUcHTxzHlmNCIE7rpnYbSNc5WDcQwzTjwuivv5SREV17xzA3xR+yKOPQ+S0QyBHhq0QKg26wDoJMjQlRuPFhqMqlVwpSa7XS7vEaoqr/0OpZzz0QDDyyNb+pfwHs5zO3yA+Lo7QQ2tcQaovDg08QmGmciH/rMx3HJbm1fGds0/YbfAnVxRpi/MtXa6IHRd+i4h9WcJb76havufXyvKrEmq08N26AXSi4FL89nzSyXA6hhxG8ywsF164k1i/kaLQzAPRzRlJq5Fi5RenMF4QuUb0/CGNbwMx6b8OnQzRr80lY=;PE+A3zcTxjQKkA6Sk/0Wrw=="
 ---

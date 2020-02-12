@@ -2,26 +2,24 @@
 category: news
 title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
 excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary ..."
-publishedDateTime: 2020-02-11T15:04:00Z
-webUrl: "https://www.businesswire.com/news/home/20200211005446/en/Docugami-Announces-10-Million-Seed-Funding-Led"
+publishedDateTime: 2020-02-11T15:26:00Z
+webUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200211005446/en/772660/23/Docugami_Team_Offsite_February_2020.jpg"
-    width: 1200
-    height: 627
-    title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
 
 related:
   - title: "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round"
@@ -100,6 +98,6 @@ related:
         width: 1000
         height: 525
 
-secured: "79HKx3+8N8FvoX80BZMKYPKazfyvyJP/1L73uQ6qNKVe5RgHJ02bs0jD2jsIqw0mwZKZMXQ9P9I/UBJ669bkIp+ADID0CtRQSRTs6XQsjshJ5csfUKYD3/e1QQMX/Hv88ppKWSBrGzchS9QgA8k3z7r2VlYcUhxTFyE1JYJg80K1rsFHyWxizL39tI1KszFNEtC7+FOsKRT153+ixqF8zZIiuXFWG4qTP9iRrT+YjKc3qjyFh/MjHOjzIPG+k3SXyB4IIoOy1ITjtSEml0PTMQ+/ZeETGHQpY2p2x5GPismIAJACxhVmGsUrypEDIxlAaR0eu7ftwettS4vzNx+R/Lib2WuX20wmaCE9YwXUmqIp0NdfhvGfPC/WJw52CdbIM+XxTBcT6HkD6/GyAs2TtKxKDp01dZ7rlX7NtPbLawOoB1+H71TEtwfdXJUnuZ7C8Fe8aXMpomBmgQMTg8dcqtcnQfIU4e4S3IfTJhCt9MQ=;BS6qt9xfJ6XqvXLZlMDBJQ=="
+secured: "edVtXf1gvIslv6tlovNehNsxUSa1KVhUAqVZVYbQHskr9/EaCdF9BKTtiPQh7Y9WZZnWpQGX3f8WsA7eP+dUnKaVBL9BsiBOzRyIMUwr4BNPZHM7LG9K/n0WH2gJas/tzAeP8Sr/RCDnwYZKrngweFh5UchDWA0ogwzioCygmtr9QRLkJtlQuzz5ZK0ClSUMPGYyQXvXpTsuwA88PCezmd4/NEpQI9Bvcfu6F+9Y032klsLDKAcUGDrBGY/rRqgafV6hX+bdp1LKVZmErVUPJjeeHkbQa1+foL3AitDq+TN9G9yycsqeDUODYWlAMn4oZyWUujonY+xA9MV5EXXAbMquZYCCH9r87JpVwLaac9altvP0VcK2Gt/2MVqiyDEB7iqtb1SeOj83u6soUKGrddPq/LzhSz8IfPMayg1sp67Byxe4zdsi7INr2LjaswyuL4LkH98Twsq31twXYjYOgfNJSVMza21fk590G3OsO1U=;dDUkxa7fmlFd/C/n0RKUgA=="
 ---
 

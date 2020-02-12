@@ -69,34 +69,6 @@ related:
       - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
         width: 800
         height: 480
-  - title: "Chino, Calif., PD to Hold Forum on Facial Recognition Tech"
-    excerpt: "(TNS) — Facial recognition technology is already used by several agencies in California's Inland Empire, and the Chino, Calif., Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the ..."
-    publishedDateTime: 2020-02-12T16:53:00Z
-    webUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_DEEPFAKE_FACIAL_RECOGNITION_AI.jpg"
-        width: 940
-        height: 627
-  - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
-    excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
-    publishedDateTime: 2020-02-11T22:23:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-privacy-safety-trends"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Met Police begins deploying live facial recognition cameras in Stratford"
     excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
     publishedDateTime: 2020-02-11T11:37:00Z
@@ -150,19 +122,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 13
-  - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
-    publishedDateTime: 2020-02-12T10:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005344/en/Study-Digital-China-2020---Government-Fostering"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "s4QyRwjDgYGSgR9dFqvz3VAQ+I7eerLg/gdCZxKmJmFcT/q2vvIOqW8hi9Bq83RN2XpxEk1r00Zmrwyv8pIvG5qkvlsVIMIo740LO1YV7PUUg/dUiPJl7J+vnGeCWjQlby1H1ZnPIJaGHFClrPb4UHbUPcZEcQ9XFQlf4ZOjYVqxXpRcRNHQTyYks17bZvWsejB4/PdPH7aQB9m3flDvgkQqnL99C+4WN7gV0gVvfnRSdrtE9wDgVUzjvakxReDzLemKXyB17yJZ8SaxF+XX326cNkUdguYdS5m7Fe2nNwk2bxc53UjL0QflbiMOvcFL;wahEZCy5vTMmKIxNjkhwHA=="
 ---

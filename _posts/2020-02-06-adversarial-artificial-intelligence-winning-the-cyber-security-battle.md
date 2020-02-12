@@ -38,15 +38,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all"
         width: 2160
         height: 1078
-  - title: "AI can be an ally in cybersecurity"
-    excerpt: "Fears surrounding AI and cybersecurity reflect very real risks. AI-powered malware isn’t a threat we need to worry about right now, but attackers have become adept at manipulating AI systems to their own advantage, essentially turning them against users. Widespread manipulation of the algorithms used on social media is already causing ..."
-    publishedDateTime: 2020-02-11T17:08:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/ai-can-be-an-ally-in-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Biased AI Is Another Sign We Need to Solve the Cybersecurity Diversity Problem"
     excerpt: "Individuals with diverse perspectives on AI, technology, data, ethics and diversity need to collaborate on governance. Remember, “minimize” is not the same as “remove.” A risk-based framework is the only pragmatic way to put AI governance into practice. Resources should be directed toward mitigating biases in artificial intelligence ..."
     publishedDateTime: 2020-02-06T12:17:00Z

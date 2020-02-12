@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-driv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
+    excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
+    publishedDateTime: 2020-02-12T20:51:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21998371/intel-angling-for-piece-of-selfdriving-market-with-new-processors"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 4
 
 secured: "Xq+LLqQq+6SW4PPrq1Jbl20wB6VVMLyPKnjK2LHx3qcK5oDznMG28RoxHUoSoFl9aRo1dbavkjr8/Xl4G/s6yEwq0kD2nyjM4ae/MKF1a4ubbbGa0pqUP905dcBfg4jGKi992Ut+KMBJnAJH3lPVfzijEcNF91hyAH7RgFQB+jT8A37Njk7ibimp9PPmx+eFHp2PkoOg5KstGxWIDJ2Q/EDuV3fn21ToBO47UTQDa3GxNhPMAEeL5f1yDTRJbaOwJ4d77AgQjOVHIfh1ZMcli+w1rMc947FzeuBWLCZyBFBCshDm1rfYZ2NIfb5bUgTOesizDz55ZT81iPVQRVAD9k+fY4vnzsxklK4H3A7yZWtkGSMEIxuhdEDjx/Zd5k/sY2ZdDZVBriokEwbY/yikDmPVgJpFe04opip/CTvdyYx/o0Rpuu0H77QI06M25ptU58DRpSG1hIJTsqwIxKhp/uMi4Uxm4f+qYWfH4h4R7is=;jifX2eXhdeYsRrmoaR2h9Q=="
 ---

@@ -26,50 +26,54 @@ images:
     title: "The Future Of Android Integration In The Fintech industry"
 
 related:
-  - title: "Fintech's Consolidation Creates Investment Opportunities"
-    excerpt: "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,"
-    publishedDateTime: 2020-02-05T17:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05"
-    ampWebUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
+  - title: "The Future of Fintech: AI & Blockchain"
+    excerpt: "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services."
+    publishedDateTime: 2020-02-01T03:19:00Z
+    webUrl: "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1823106049"
-        width: 1024
-        height: 512
-  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
-    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
-    publishedDateTime: 2020-02-04T04:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
+      - url: "https://static.businessinsider.com/image/5e305ac224306a476129d512"
+        width: 400
+        height: 224
+  - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
+    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+    publishedDateTime: 2020-02-04T17:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/reckoons-blockchain--ai-enabled-solution-is-shaping-the-future-of-the-retail-industry-300998820.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Uber Creates Uber Money Team In India With FinTech Focus"
-    excerpt: "The Uber Money team will be geared toward putting into place new payment methods, harnessing smart routing technologies for payment gateways, using Uber artificial intelligence (AI) models for intelligent risk decisions ... “The Uber Hyderabad Tech Centre has the best in class fintech talent specializing in risk, payments, financial reporting ..."
-    publishedDateTime: 2020-02-11T18:02:00Z
-    webUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/"
-    ampWebUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
+        width: 1199
+        height: 628
+  - title: "Stock Bots: The Future of Financial Trading?"
+    excerpt: "Stock Bots: The Future of Financial Trading? Humans still program the algorithms and design their ... They cannot think or feel, and despite the hype around machine learning, it’s still contentious and complicated to describe them as intelligent. Like human traders, however, they make decisions, observe others making decisions, and adjust ..."
+    publishedDateTime: 2020-01-29T15:56:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/stock-bots-future-financial-trading-117806"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
+      name: The National Interest
+      domain: nationalinterest.org
     quality: 24
-  - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
-    excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
-    publishedDateTime: 2020-02-06T09:44:00Z
-    webUrl: "https://www.openpr.com/news/1920717/just-ai-a-conversational-ai-solutions-provider-receives"
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/sdfgg.jpg"
+        width: 1305
+        height: 863
+  - title: "The Future of Financial Services: 3 Technologies Poised to Change Your Experience"
+    excerpt: "But financial services companies today are already well on their way to changing this experience, and three technologies are key to this transformation: APIs, adaptive intelligence (AI)/machine learning, and blockchain. These key strategies involve leveraging large troughs of data so banks can become an integral part of the consumers’ journey ..."
+    publishedDateTime: 2020-02-01T02:16:00Z
+    webUrl: "https://www.finextra.com/blogposting/18394/the-future-of-financial-services-3-technologies-poised-to-change-your-experience"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 3
+      name: Finextra
+      domain: finextra.com
+    quality: 0
 
 secured: "lwQ0QwpT86qn4sJrT9SHsWmun8dcVF8S3XsANoRTmZwGphP8aLJY/uYOKbPrG1iA36fmDvTQyMplTuNLWJdCsmbpgvRBOboA5XUWe6jhTyefWrcRGIME9oocGDi+wDlmdKnTOZXa60cdYK1Cc5QTYvVUo7s5jUaeahYy5OPh1O0VT+mGvVil2qZnOZARBtSa//FD2669ujMOgyU18fQKqtKcH3Ni0rMrmiQim8egiLOTG41TXJFBhIg41/rixcuuFD7VziyFDws5tiiVwgnVQT2au8uZ+wpkbswZtY93183BoYK2eAEPmROgoqkgHYoDWDdYsJJIxiBhNSPh6xcZGRL3M1C5pp5N/OE+tvvHRWWaQr7iicnrcYYWne27fsuBlFVP3lFZyg1TxnwnydOMk83kkeUlNoVDrdyIx0M3grU2+HEEj/PLHVErFyHmjISlkrxyqSN3sgE6Xbt8gI9yJJMG3n1w+PLssw8/pI3Tv8Y=;gVSYl9ukrvR/23k4rdmkaA=="
 ---

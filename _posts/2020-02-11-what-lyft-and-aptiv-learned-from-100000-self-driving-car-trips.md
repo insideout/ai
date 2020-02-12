@@ -24,6 +24,21 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app"
+    excerpt: "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ..."
+    publishedDateTime: 2020-02-11T11:07:00Z
+    webUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/"
+    ampWebUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 189
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024"
+        width: 1024
+        height: 576
   - title: "GM’s Cruise now has 1,800 employees working on self-driving cars, up from 1,000 in March 2019"
     excerpt: "During a press conference this morning, Dan Ammann, CEO of GM’s self-driving subsidiary Cruise Automation, gave a glimpse at the progress that’s been made toward a fully self-driving vehicle fleet. He said that Cruise’s engineers, of which there are now 1,800 (up from 1,000 in March 2019), have over the past four years made a “10,000 ..."
     publishedDateTime: 2020-02-05T17:42:00Z
@@ -39,51 +54,126 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/20190718_Cruise_AV_ISO_FINAL_MB_WBGRND-1-e1573598957728.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app"
-    excerpt: "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ..."
-    publishedDateTime: 2020-02-11T11:07:00Z
-    webUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/"
-    ampWebUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
+  - title: "Uber can resume testing its self-driving cars in California"
+    excerpt: "A newly issued permit has been granted nearly two years after a fatal crash in Arizona. Uber started scaling back its self-driving car tests after one of its vehicles hit and killed a pedestrian in March of 2018. While the company doesn't seem primed to unleash a fleet of autonomous cars, it has been granted a new permit to resume testing in ..."
+    publishedDateTime: 2020-02-05T18:47:00Z
+    webUrl: "https://www.engadget.com/2020/02/05/uber-self-driving-car-permit-california/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024"
-        width: 1024
-        height: 576
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
+      name: Engadget
+      domain: engadget.com
     quality: 74
     images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
-  - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
-    excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
-    publishedDateTime: 2020-02-07T20:17:00Z
-    webUrl: "https://futurism.com/the-byte/waymo-people-injecting-drugs-self-driving-cars"
-    ampWebUrl: "https://futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fb9771a10-4852-11ea-bff7-ef681d5d0ecb%26client%3Da1acac3e1b3290917d92%26signature%3D6155d16da62a23f3c23ff3c2df84de6c08108d5c&client=amp-blogside-v2&signature=229f519d801b555c87fa388a4059f2d145839f4c"
+        width: 600
+        height: 350
+  - title: "Uber's self-driving cars return home"
+    excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
+    publishedDateTime: 2020-02-05T18:36:00Z
+    webUrl: "https://mashable.com/article/uber-california-self-driving-permit/"
+    ampWebUrl: "https://mashable.com/article/uber-california-self-driving-permit.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/uber-california-self-driving-permit.amp"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
+        width: 1200
+        height: 630
+  - title: "Aptiv \"Self-Driving Vehicles\" Top 100,000 Rides In Las Vegas"
+    excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
+    publishedDateTime: 2020-02-11T11:05:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg"
+        width: 1200
+        height: 675
+  - title: "Aptiv’s self-driving cars have given Lyft passengers over 100,000 rides"
+    excerpt: "The two hit 5,000 rides sometime in August 2018 — in a matter of months — and by May 2019, Aptv’s self-driving BMW 5 Series cars equipped with lidar sensors, cameras, radars, and cameras had given 50,000 Lyft passenger rides. But that’s small potatoes compared with the two companies’ latest milestone. Today, Lyft and Aptiv announced ..."
+    publishedDateTime: 2020-02-11T11:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/"
+    ampWebUrl: "https://venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/APTIVvegas026-1100x734-1.jpeg?fit=1100%2C734&strip=all"
+        width: 1100
+        height: 734
+  - title: "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas"
+    excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
+    publishedDateTime: 2020-02-11T17:07:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg"
+        width: 1200
+        height: 675
+  - title: "Apple and Its Rivals Have Spent $16 Billion on Self-Driving Cars"
+    excerpt: "The report outlines the estimated spending by the top 11 companies working on self-driving vehicles, which is topped out by Alphabet’s Waymo, GM’s Cruise, and Uber, which The Information estimates have spent about half of the money being invested in developing the new technologies, while Apple, Baidu, Ford, and Toyota account for “most of ..."
+    publishedDateTime: 2020-02-05T17:42:00Z
+    webUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/"
+    ampWebUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
+    type: article
+    provider:
+      name: iDrop News
+      domain: idropnews.com
+    quality: 44
+    images:
+      - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
+        width: 1000
+        height: 600
+  - title: "Uber gets DMV permit to test self-driving cars on California roads"
+    excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
+    publishedDateTime: 2020-02-05T21:18:00Z
+    webUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/"
+    ampWebUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
+        width: 1024
+        height: 705
+  - title: "Uber self-driving cars can be tested in California"
+    excerpt: "The California Department of Motor Vehicles on Wednesday added Uber to a list of companies with permits to test self-driving cars in the state, according to the ride-hailing app. Continue Reading Below The move comes nearly two years after an autonomous car struck and killed a pedestrian in Tempe, Arizona, because the employee ..."
+    publishedDateTime: 2020-02-05T19:39:00Z
+    webUrl: "https://www.foxbusiness.com/markets/california-uber-permit-autonomous"
+    ampWebUrl: "https://www.foxbusiness.com/markets/california-uber-permit-autonomous.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/california-uber-permit-autonomous.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 44
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202001/3280/854081161001_6120640160001_6120644360001-vs.jpg"
+        width: 1280
+        height: 720
   - title: "House panel to a hold hearing on the future of self-driving cars"
     excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
     publishedDateTime: 2020-02-09T18:48:00Z
@@ -99,74 +189,41 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/12/26125219/Cadillac-CT6-SuperCruiseEngaged.jpg"
         width: 800
         height: 450
-  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
-    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
-    publishedDateTime: 2020-02-03T17:40:00Z
-    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
+  - title: "How lidar makers are coping with slow progress of self-driving tech"
+    excerpt: "Experts and industry insiders not named Elon Musk see it as a key technology for self-driving cars. There are dozens of companies developing lidar technology, and each insists that its sensor is a cut above the rest. But while every lidar is above-average in the halls of CES, things are starting to look different in the real world. At least one ..."
+    publishedDateTime: 2020-02-11T11:45:00Z
+    webUrl: "https://arstechnica.com/cars/2020/02/whos-really-gaining-traction-in-the-hype-filled-lidar-industry/"
     type: article
     provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 39
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
-        width: 622
-        height: 318
-  - title: "This self-driving car has no steering wheel or pedals"
-    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
-    publishedDateTime: 2020-01-31T14:41:00Z
-    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.html"
-    ampWebUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
-    cdnAmpWebUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
+  - title: "Self-driving cars are getting their own rules"
+    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
+    publishedDateTime: 2020-02-08T00:30:00Z
+    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
     type: article
     provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 24
-  - title: "BGU developing system to stop self-driving cars being fooled"
-    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
-    publishedDateTime: 2020-02-04T13:36:00Z
-    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
+      name: Axios
+      domain: axios.com
     quality: 24
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
-        width: 822
-        height: 537
-  - title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
-    excerpt: "A team of engineers at the University of Waterloo has made it its mission to Canadianize self-driving vehicles. It's the first group in the world to create a data set for winter driving. In other words, it has compiled 10,000 video frames and 56,000 images to better teach self-driving vehicles how to navigate snow and ice. \"We're basically ..."
-    publishedDateTime: 2020-02-11T15:08:00Z
-    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/self-driving-car-university-waterloo-winter-driving-1.5459331"
+      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
+        width: 1920
+        height: 1080
+  - title: "Uber Gets OK To Test Self-Driving Cars In California"
+    excerpt: "The state of California has granted Uber a permit to test its self-driving vehicles on public roads. The Department of Motor Vehicles gave the approval to the Uber Advanced Technologies Group to test autonomous vehicles as long as a driver is in the vehicle. Uber is the latest company to be added to the entities with autonomous vehicle testing ..."
+    publishedDateTime: 2020-02-10T13:35:00Z
+    webUrl: "https://www.mediapost.com/publications/article/346759/uber-gets-ok-to-test-self-driving-cars-in-californ.html?edition=117136"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
+      name: MediaPost
+      domain: mediapost.com
     quality: 24
     images:
-      - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
-        width: 620
-        height: 349
-  - title: "Self-Driving Cars as Edge Computing Devices"
-    excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
-    publishedDateTime: 2020-02-10T22:40:00Z
-    webUrl: "https://www.infoq.com/presentations/uber-atg/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 4
-  - title: "Self-driving cars being tested all across Houston"
-    excerpt: "Several self-driving cars are being tested right here in Houston. Kroger, Dominos, even METRO are testing the technology. For now, the automated vehicles have a person on board. Cars that can operate without a driver are rolling around West University and Texas Southern University. The shuttle, funded by METRO, maneuvers through traffic on a ..."
-    publishedDateTime: 2020-02-11T01:04:00Z
-    webUrl: "https://www.khou.com/article/news/local/self-driving-cars-are-all-over-houston/285-b29c5839-ffd0-4355-88bf-61568031a13f"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 4
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/12/19/uberselfdrivingcar-600_tmkffdC.jpg"
+        width: 600
+        height: 375
 
 secured: "o/W3xvew1fQFPxwOV3ua4OVeRDy55OsDT0Ze5+c8UAxpL5TDcyCXmxngU2IsP6/IM3FP3I//GerrPA9Y7o6RyugadkG3knz1mNpazZW4KbJdis1NLfARtxYvk9UpFNL/gMGrEGVO3xrMk+ySisxjbATgDHaQ/fps/YslH6N1VKkPgK60DyaWmlM/e4qEA3FfFBygsCARpR+OGngxMW4uKGYIbbZ/Lvq0Mw75nLY9Lt2fhHW5QhXoBeT3Q2eCef0IgAGxi7sQd0HTergkwJIYxYJKwAORtPJ+3BJUw4CTMAM08x/7zb14RiK27ayAt+RcbvddwnC/99r8WOTFu64f3yhT9l9GUHImeauxacuXlZK/p4WrZQV7GOj8dfllSLwW128A/FOUOGTcSpfgEdYArdRYewpfuwttjs7z47m1CblSNZSDPuH6/C3JAQ2P4wc77FNWm5GStb3kN359FxWqTCLznJIn3Eq7eYODaUoKMDw=;Nydfq8Xu5pShsYCpioq/jA=="
 ---

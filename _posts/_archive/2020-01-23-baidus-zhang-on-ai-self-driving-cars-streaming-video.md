@@ -18,22 +18,74 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars"
-    excerpt: "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)"
-    publishedDateTime: 2020-01-20T00:00:00Z
-    webUrl: "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
+  - title: "Aurora can now give the public rides in its self-driving cars"
+    excerpt: "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ..."
+    publishedDateTime: 2020-01-29T17:15:00Z
+    webUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/"
+    ampWebUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104874500-GettyImages-647709384-pony-ma.jpg?v=1532563719"
-        width: 2004
-        height: 1336
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024"
+        width: 1024
+        height: 661
+  - title: "How Self-Driving Cars Will Transform Cities"
+    excerpt: "S elf-driving cars will completely transform urban city landscapes, and possibly even change the nature of real estate as we know it. This transformation will both create and destroy trillions of dollars in wealth."
+    publishedDateTime: 2020-01-29T15:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+        width: 1024
+        height: 512
+  - title: "The hunt for security flaws in self-driving cars steps up a gear"
+    excerpt: "Last week, seven projects in the UK dedicated to developing tools that will improve cybersecurity in self-driving vehicles received a grand total of £1.2 million ($1.56 million), or about £171,500 ($222,847) each, to boost their research – a sum partly funded by the government's Centre for Connected and Autonomous Vehicles (CCAV)."
+    publishedDateTime: 2020-01-29T11:43:00Z
+    webUrl: "https://www.zdnet.com/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/31/cba611cd-8679-462a-b4f1-0bf604e5d1bb/thumbnail/1200x675/4253ba1d55270145e9da1a11a543ec27/thumb.jpg"
+        width: 1200
+        height: 675
+  - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
+    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The EasyMile shuttles, developed in Europe, are 13 feet long, 10 feet high and 6 1/2 feet ..."
+    publishedDateTime: 2020-01-31T21:48:00Z
+    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
+    type: article
+    provider:
+      name: WUFT
+      domain: wuft.org
+    quality: 39
+    images:
+      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
+        width: 1200
+        height: 782
+  - title: "The man who invented the self-driving car (in 1986)"
+    excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
+    publishedDateTime: 2020-02-02T17:32:00Z
+    webUrl: "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 4
 
-secured: "9ZMtLTgVaoRzri4k/Tg+R6tMygB33fnLtagJiHCQSz93glckwFRfBbBgzgI4o0S4Pp1AOrZc2lgFCPH9xyw6UmwgTi2l7MAxukehE8L+yhA9r6rHdvD2A35qcBdqP16VwODWEdkiC7l9hN4ABpBL26ipxqzx5fE1Kqb3yiHidp2mCrenoTy0v0mvxgWx2DkRriVlmo+VsewoZj4BEyrcZ5mlZYqv4cXSWDEVoqFlsYNTx3hYLRU+LD31sWK8eKZ8/kq3KLM4VvlfRgKv8KxnQpsgF6CuVXsbnyZUt1K8tp24jd5dFFEFeeND7tVIkFTA;8f5MQgfPyGD2lNDngMlu0Q=="
+secured: "u1ShHz5hdZIiolG1dMh4FV2swQ1EVz6dcF2f4sxmFvOwPrHkN7/3ZBkAezR8OGIX8zFyjUAWtl9/GCenbEbsrUjruUzcQomOcQS67FURiygjns1wT87/ywiFglBXByP9RAmskn4M80iNJSd9Jeg9ZFpxQ8oA89367i3kwU7EWFxyz4sAE9EwDcHYo8ip6guWLNgQvNKTSrSP0noXWluGYdzoXUWPvS/UDa3Wb7chSSNjSQN+5DoRJFSjl7zQeE1Yf49uDrvy8q8uAAiUDQVJv6QNj5VqkdjZkMVOVe7XDK/2DYi9YPTElzH9BzRKoo9W;o7TmqRXOv7vrOyFM3G0P1Q=="
 ---
 

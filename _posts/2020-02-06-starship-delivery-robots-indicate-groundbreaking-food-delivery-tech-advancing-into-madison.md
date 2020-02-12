@@ -175,15 +175,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/41/32/19011219/13/rawImage.jpg"
         width: 2000
         height: 1333
-  - title: "How lidar makers are coping with slow progress of self-driving tech"
-    excerpt: "Experts and industry insiders not named Elon Musk see it as a key technology for self-driving cars. There are dozens of companies developing lidar technology, and each insists that its sensor is a cut above the rest. But while every lidar is above-average in the halls of CES, things are starting to look different in the real world. At least one ..."
-    publishedDateTime: 2020-02-11T11:45:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/whos-really-gaining-traction-in-the-hype-filled-lidar-industry/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
   - title: "Plannuh Raises $4 Million To Expand AI-Driven Marketing, Budgeting and Planning Platform"
     excerpt: "/PRNewswire/ -- Plannuh, a startup transforming the way marketers plan and budget, today announced a $4 million seed round co-led by Glasswing Ventures"
     publishedDateTime: 2020-02-06T12:00:00Z

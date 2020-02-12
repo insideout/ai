@@ -84,21 +84,6 @@ related:
       - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
         width: 750
         height: 500
-  - title: "Apple and Its Rivals Have Spent $16 Billion on Self-Driving Cars"
-    excerpt: "The report outlines the estimated spending by the top 11 companies working on self-driving vehicles, which is topped out by Alphabet’s Waymo, GM’s Cruise, and Uber, which The Information estimates have spent about half of the money being invested in developing the new technologies, while Apple, Baidu, Ford, and Toyota account for “most of ..."
-    publishedDateTime: 2020-02-05T17:42:00Z
-    webUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/"
-    ampWebUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
-    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
-    type: article
-    provider:
-      name: iDrop News
-      domain: idropnews.com
-    quality: 44
-    images:
-      - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
-        width: 1000
-        height: 600
   - title: "Working the bugs out of self-driving vehicles"
     excerpt: "She did so at a technology show in Las Vegas. Autonomous vehicles — self-driving cars and trucks, some call them –remain a technology with plenty of bugs to work out. Those concerned about them point out that they can be dangerous. Indeed, they have ..."
     publishedDateTime: 2020-02-04T06:18:00Z

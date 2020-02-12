@@ -66,6 +66,15 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg"
         width: 780
         height: 501
+  - title: "Covariant launches from stealth to bring universal AI to robots"
+    excerpt: "and it’s just the start of the possibilities.” “Covariant has assembled an impressive group of roboticists and AI engineers,” said Yann LeCun, Turing Award Winner, Chief AI Scientist at Facebook, Professor at NYU, and a Covariant investor. “If anyone can make robots learn to perceive, reason, and act in real industrial settings ..."
+    publishedDateTime: 2020-02-12T19:24:00Z
+    webUrl: "https://apnews.com/PR Newswire/dfbc9db080ddfd14cff5649fefc4f750"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
 
 secured: "mDXtUrVk4wp/8IUQ9j63OvyLMlNor6vBiM93GILh/XE2ZzOfh75ElOQrfLI3652Wfv0h4uVA6avMT7BVmnZB4DfqJnGJkflX5jdcz0b6iQjDLH69rtTRZRYSsdEVpd59PDuASn94mF0gMjwDUgcT1lIdzZqv7zWEg91LZWkdwtFzf9xG3VyRwYHujFE/Qd7Qyn5PqI1uaTZLqWjCw7xgRChktxO5vbebw2bg5IPQbaNez3Bv46DZgy1+K47c2k0qhhFyk6TeYnTJjLBr+2KqsYjcYWmhC7RbKFuxh4EtPpCabHH5+oRaKTcKk2/trWzC;1HWbYZ6R8546gK1QVk1g5w=="
 ---

@@ -41,6 +41,17 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/7/d5/7d505b47-b933-5dcc-9088-5a0c11dc44d1/5e28d08cb51ef.image.jpg?resize=1024%2C784"
         width: 1024
         height: 784
+  - title: "This self-driving car has no steering wheel or pedals"
+    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
+    publishedDateTime: 2020-01-31T14:41:00Z
+    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.html"
+    ampWebUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
+    cdnAmpWebUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
+    type: article
+    provider:
+      name: Marietta Daily Journal
+      domain: mdjonline.com
+    quality: 24
 
 secured: "uJhz2Pa42vJDcVnY0w5+uJIjsDdEuVNl6iA5zxMxxXQOFtSeByJavtpPtcmVHDfpiQNBSaU78ffJ2YISX67iUdvT+f9CaU8Tz6+Qw8r40zAtYUVuUIfZJi0IGJKkLgnpFdmofdLMuvPLXLiud5GNicbwDy06zdgESU/4jW4ch1QyyisXxhYc5n/8MjxclB3kpT5dbhja1ITvkWmoiBlkE71gx/fBCRCHVMPWPFxe+UzOndC+HL5y8OK5bGpXwRqZKlG16VLXjO07ucj8E7t5rBU0IX8gFNLg7EkBEsdPz15fyngaDuQaa6U177sUeRQW+b9L46UrbdnsbEsjijVPKbMbO+AdqvTD+5d9P4lCCLogJcIxVFi3zTqXBkXXMWPy3+UOn7+ZJi8nzS9JjlKPbMPG2jwRITrlhMnL9z/xjcpiboIlLNZAsV2TFYoiIWoxwtZYqi7nBNptYOzKtGoxyXV0McuUePfztFgCCxh9dtc=;z5FLDtzjrqfsxS78EX83LA=="
 ---

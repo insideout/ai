@@ -39,19 +39,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6"
         width: 600
         height: 350
-  - title: "U.S. Lawmakers Hear Arguments for New Safeguards for Self-Driving Cars"
-    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
-    publishedDateTime: 2020-02-11T05:14:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/11/technology/11reuters-autos-autonomous-congress.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
     excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
     publishedDateTime: 2020-02-12T14:21:00Z
@@ -85,6 +72,15 @@ related:
       name: Machine Design
       domain: machinedesign.com
     quality: 10
+  - title: "Self-Driving Cars as Edge Computing Devices"
+    excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
+    publishedDateTime: 2020-02-10T22:40:00Z
+    webUrl: "https://www.infoq.com/presentations/uber-atg/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 4
 
 secured: "MOBdaV7uehc3JUorEk25OWT//COq/rAg1dDsuf+uqHKgL5NmzKXtaTMQd5B3spKTIKe5CnPYILgze4MH9cfKux1g/YcHL5ohLZm7ekieKMJnF5WMaespgV6zLHmVuLsVLDi6DhzaqPqQYZdmWubl8fZ3o9y2sadV4CJGjjjMOM+fF+G0nzAYm69zXwQIojb5qwC9XKK/TXgocny6eusLTWZvD9qGFcLw32ivJILu1yESpNyYvM0LaV8v65PdU6M+qryHJ7ToCNBb49FOXLopJyNIHzToOyg/POK9pXuperS11SY6rDG984PQARve4sdf/Yd9SZEIhrq6taksQsQKZ3gzyxvDBI1ObDu+Qt1L/7KuxoCHT4xk68W3rVhTQTjbAYZG5MEE4w83pXJ5khroEt28MbP0aIpOxSOGw5Ejuieawh+6tWE0INyCWOw9uEdHrEfjn+Loz5ZBIO/nsCUiDIFh1TcWo7+mZRXXdKLZ8A0=;EVXJiGuoiL31rvBQ2fg/Pw=="
 ---

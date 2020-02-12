@@ -21,43 +21,73 @@ topics:
   - AI
 
 related:
-  - title: "McAfee CTO: How AI is changing both cybersecurity and cyberattacks"
-    excerpt: "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ..."
-    publishedDateTime: 2020-02-11T17:04:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/"
-    ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
+  - title: "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens"
+    excerpt: "Today, a startup that’s built a deep learning solution that it claims can both identify and stop even viruses that have yet to be identified, has raised a large round of funding from some big strategic partners. Deep Instinct, which uses deep learning both to learn how to identify and stop known viruses and other hacking techniques ..."
+    publishedDateTime: 2020-02-12T14:38:00Z
+    webUrl: "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/"
+    ampWebUrl: "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 155
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1079200304.jpg?w=1024"
+        width: 1024
+        height: 752
+  - title: "Deep Instinct raises $43 million for deep learning to thwart cyberattacks"
+    excerpt: "Deep Instinct has raised $43 million in venture capital as the company seeks to apply its deep learning technology to predicting and preventing increasingly sophisticated cyberattacks. The company says it has developed an “artificial deep neural network brain” which has the ability to rapidly learn about new forms of malware and ransomware."
+    publishedDateTime: 2020-02-12T13:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/"
+    ampWebUrl: "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/protection_unlimited-e1581452823620.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "Cybersecurity firm Deep Instinct raises $43 million"
+    excerpt: "U.S.-Israeli cybersecurity firm Deep Instinct has raised $43 million in late-stage funding to help expand its business globally, the company said on Wednesday. The round was led by Millennium New Horizons,"
+    publishedDateTime: 2020-02-12T13:07:00Z
+    webUrl: "https://www.reuters.com/article/cyber-deep-instinct-fundraising-idUSL8N2A5396"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2A5396"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2A5396"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all"
-        width: 2160
-        height: 1078
-  - title: "Adversarial artificial intelligence winning the cyber security battle"
-    excerpt: "Artificial intelligence (AI) has come a long way since its humble beginnings. Once thought to be a technology that would struggle to find its place in the real world, it is now all around us. It’s in our phones, our cars, and our homes. It can influence the ads we see, the purchases we make and the television we watch. It’s also fast ..."
-    publishedDateTime: 2020-02-06T09:43:00Z
-    webUrl: "https://www.information-age.com/adversarial-artificial-intelligence-winning-cyber-security-battle-123487325/"
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+  - title: "Cybersecurity startup Deep Instinct raises $43M in new round"
+    excerpt: "It brings Deep Instinct’s total amount raised to $100 million. Deep Instinct has developed a patented threat detection platform that uses deep learning techniques to protect against sophisticated and previously unknown threats. The platform is built on a deep neural network that learns to predict and prevent all types of security threats ..."
+    publishedDateTime: 2020-02-12T13:12:00Z
+    webUrl: "https://siliconangle.com/2020/02/12/cybersecurity-startup-deep-instinct-raises-43m-series-c-round-draft/"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/01/adversarial-artificial-intelligence-winning-cyber-security-battle.jpeg"
-        width: 1080
-        height: 608
-  - title: "Biased AI Is Another Sign We Need to Solve the Cybersecurity Diversity Problem"
-    excerpt: "Individuals with diverse perspectives on AI, technology, data, ethics and diversity need to collaborate on governance. Remember, “minimize” is not the same as “remove.” A risk-based framework is the only pragmatic way to put AI governance into practice. Resources should be directed toward mitigating biases in artificial intelligence ..."
-    publishedDateTime: 2020-02-06T12:17:00Z
-    webUrl: "https://securityintelligence.com/articles/biased-ai-is-another-sign-we-need-to-solve-the-cybersecurity-diversity-problem/"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/cyber-security-3400657_1280.jpg"
+        width: 1280
+        height: 768
+  - title: "Deep Instinct, The Deep Learning Cybersecurity Innovator, Raises $43 Million Series C Financing To Accelerate Growth"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to successfully apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced its $43 million Series C funding. The round was led by Millennium New Horizons, with participation from Unbound, the London-based investment firm founded by ..."
+    publishedDateTime: 2020-02-12T13:36:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200212005334/en/Deep-Instinct-Deep-Learning-Cybersecurity-Innovator-Raises"
     type: article
     provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 17
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "hgCFdXGQo3AGGtBOqc7VsVAqg27jHCi1zusOYIpVRSZpop5VI8EKU/9/8SFuhCmkLAHigf07bN1kpU50tDa0MZgNTj0P3G/CdAvi8ICtSPtiykpBR9clzVdfH8jFpStICLS+jn9tBBBht5a8OnECo6N7/A6NUEI7QtdyOZcwUoME5Eptm2j6c34TW4TYXMIQEbI0mdG1To7Va11iXhPn9dwFJ0IgoRg3vM4U9xVs2bIzrm1IGZKKsMHkNXV65pdY0UWbWIBCxLx0fDbT6rxRvJp0+nOYBeor8/d6tAV5zvQZrKIqh63UMWLqV9PvOucDwX2Z9kY324TMdEKqVMZeKICUaREpjjm1XgBvyMqWN9CnjgZ8zQkO12pFuiv2st0LywJegIKlcz8MlN5GEZCb9cm2IjROs9MqUnYz55pWItUYRPkjAuPJlu/CT+OjHpGV6ouaXRRVS5aq8GLZJMehrgKmZxyVrpOtQvUOkNyYYtk=;/Fj4YGcfSOmxVgz3g83gag=="
 ---

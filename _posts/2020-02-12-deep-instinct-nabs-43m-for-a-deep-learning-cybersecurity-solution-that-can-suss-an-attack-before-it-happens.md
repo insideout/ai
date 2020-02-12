@@ -7,9 +7,9 @@ webUrl: "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-lea
 ampWebUrl: "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 155
+heat: 205
+published: true
 
 provider:
   name: TechCrunch
@@ -60,19 +60,15 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "Machine Learning Company Kaskada Closes $8 Million In Funding"
-    excerpt: "Kaskada, a machine learning company that provides a unified platform for feature engineering, announced it raised $8 million in funding Kaskada — a machine learning company that provides a unified platform for feature engineering — announced it has ..."
-    publishedDateTime: 2020-02-06T07:56:00Z
-    webUrl: "https://pulse2.com/kaskada-raises-8-million/"
+  - title: "AI can be an ally in cybersecurity"
+    excerpt: "Fears surrounding AI and cybersecurity reflect very real risks. AI-powered malware isn’t a threat we need to worry about right now, but attackers have become adept at manipulating AI systems to their own advantage, essentially turning them against users. Widespread manipulation of the algorithms used on social media is already causing ..."
+    publishedDateTime: 2020-02-11T17:08:00Z
+    webUrl: "https://venturebeat.com/2020/02/11/ai-can-be-an-ally-in-cybersecurity/"
     type: article
     provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
-    images:
-      - url: "https://cdn.pulse2.com/cdn/2020/02/Kaskada.jpg"
-        width: 1262
-        height: 1120
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Cybersecurity startup Deep Instinct raises $43M in new round"
     excerpt: "It brings Deep Instinct’s total amount raised to $100 million. Deep Instinct has developed a patented threat detection platform that uses deep learning techniques to protect against sophisticated and previously unknown threats. The platform is built on a deep neural network that learns to predict and prevent all types of security threats ..."
     publishedDateTime: 2020-02-12T13:12:00Z
@@ -86,28 +82,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/cyber-security-3400657_1280.jpg"
         width: 1280
         height: 768
-  - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
-    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
-    publishedDateTime: 2020-02-12T14:19:00Z
-    webUrl: "https://seekingalpha.com/article/4323431-arm-brings-ai-and-machine-learning-to-iot-and-edge"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 38
-  - title: "The CEO of Deep Instinct, which just raised $43 million, explains why he he's committed to a cybersecurity IPO instead of selling out"
-    excerpt: "It's more common for security startups to get acquired, such as BlackBerry acquiring Cylance. Deep Instinct CEO Guy Caspi wants to buck that trend."
-    publishedDateTime: 2020-02-12T13:03:00Z
-    webUrl: "https://www.businessinsider.com/cybersecurity-startup-deep-instinct-43-million-ipo-2020-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5e4333004b661b4b6c4fee72?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Deep Instinct, The Deep Learning Cybersecurity Innovator, Raises $43 Million Series C Financing To Accelerate Growth"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to successfully apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced its $43 million Series C funding. The round was led by Millennium New Horizons, with participation from Unbound, the London-based investment firm founded by ..."
     publishedDateTime: 2020-02-12T13:36:00Z
@@ -118,6 +92,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "+8iMJBJNxaKOeMVVwjfW/os1TlvqGJkqn4DFmp/TEL2aQOGhu0bZrk3BB5qcsdKcjJw0hnjcvLDKufbK8OIouIUwJlDfIHkpNh4SVsbXVNyUobmRu3dTQ3OQCFYVlF9Hso8CbkHoSooLoIVaPxSNFZS4/6C5BVQRED9UyvUggSFFvmfgu1C8g8vByW8KNbYD33YZelco2sFG0gtDOScnwVxqjHg61NFIiTpUGGKG6uIvF6/1/YcDR62h/DMctzIZdf07NtE5Umvhgn0yp8aVdDd46yL3jNKryRCUwEC5jWdydVWRxtwljBes06s/qAHV71eqOwGlah7S4tQn0O3lB2PxLfS0vsNt+WK+Tft1WBvb3mFUAXnTTCRlesL/MuGs5qPyQEg0ZVVNl3QqVImhvtokTGBs3jcv6gE0y9uMLPGjuSlbYKTie75cDvTOWrDVW7IbEkIU8x8dugQJ8mCK7AjlC417DHgaLyX2RriiybI=;ZEvq4WLuVZBqkemaRN/VrA=="
+secured: "Whr3f8IKo56RR9At1PHRcDgbQX4p9+qLNla0BU5dg0CYDjhEAViozu0YxB4lDXTaos/6yp7W8FnWiKaL/t7/ffPM+0PcCG/iLl6VoLHTydyDRBtebnRQA188pfOaYj733FYG59zgzS9SIjbbokOOrYPnx30M7AyZLaOMRbc7BTwjqeXXfM6QG1aYLi/ocADY64Y6NClzfsmR1fEQHYyNH8hTed86QsDqbVa3PafGZDESx8ErWGbolQgylsRBjbqW66ZW+p+TTil/FLbvVcG11EOfhy2KR86lBZm2Vi6N3DuOBi788byXy/PkuxGpRTzvhr4J8Ff1yRPWf4qjphQbIoXXTZHR1haJLUKu9kfgYPiUc26Q+hVZtrnMG5G41F9sts6LGlULUat3RiMhoCo8SWIHC+0KliSQMe8vzpTmfbkMSgA0EBKGPxCZNXdi646ew6kq8yDBmxEkRlOJrJp5KHchLVDykcVg4P5xbrxHfH04aLjs9ndYzdX/FxsT5/P9;ckgKCQENhSHp2wGPSXlEIA=="
 ---
 

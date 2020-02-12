@@ -34,6 +34,15 @@ related:
       name: Daily
       domain: medicaldialogues.in
     quality: 54
+  - title: "AI could kickstart early radiation therapy for cancer patients"
+    excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
+    publishedDateTime: 2020-01-28T13:01:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 34
 
 secured: "x4/1pZjwbeTTdDJzYASDSwj3VcDy00sR6zFs7M2aDW0Fjvk7hs1rCX9cpKtT0aOw6GgylC+XCRnmrUUKLmjntS/1IdYOPjbLLli3A16lb00zC7TWYaxFJ+X+AC81XjHzOCn/fPv871YC6zQQYsju1PWzYNw5r+WqyaU0Mzf+cG4Cds+ELk0z9OvDraWh4qgYUyNLrfbgT940cJT6LRkpD0yNBL9i174mBv7nHTH/IeT/dmd5l0YPosO/ZfxgWgkwgEAPGtXmiSY9tD/UWdxF7AYMVs2CVqVYxhfVg60rdqQloPWdbaUAGDJIz5/lsn/B;3fmF2oGr9IvQqAVuyBksUw=="
 ---

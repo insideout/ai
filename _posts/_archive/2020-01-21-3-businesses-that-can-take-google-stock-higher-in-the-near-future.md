@@ -1,28 +1,22 @@
 ---
 category: news
 title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
-excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a ... Specifically, the company is developing self-driving trucks. Compared with providing robotaxi ..."
-publishedDateTime: 2020-01-21T13:14:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901"
+excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ..."
+publishedDateTime: 2020-01-21T11:55:00Z
+webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/"
 type: article
-quality: 54
-heat: 54
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI
   - AI in Autos
 
-secured: "JRVoif5UKLMJre8JfDldrXrL/1s73KTNxmZs5WNxFX5a+K46LGk35zWURU9u2KmIS0m2vOH7ny9DcWqXAJ33wCKiortGG3aEXJBVz6xugKqTzA3EynuElciwhSwSG8LGNeTzSU/+0cTIbro8qYO7Kfq9o9Uhr9UMfrzuDNI4+f4Wa9yLIdlUNFmXsHfoHMUJ5KIwBcLJ6vEvE1z0NREduYHGxBVsMd3Jbsh5BMQ3bqOR7WazOPL8c892mBa90vMdmlQqEG5FYb9fJBZgt/FMw6gj020SgRALLZFQFkErTlKja3YGAIdRfpmiCEFEiJ9B;qsOWueZBlKmklHs8lcSOtw=="
+secured: "ncuu7RvO1LQjJVMzXjAcQZX2hefJOcSlYrtMhx07UGhPkrFKrG80zRCzFxMI9sGwHt7gxOvdCKWjB2e/XHLHc/V6GMjR5z6xOE77MZEhBjZfOwOC8bV+41FPx+Jy15e1sLY+uCR/2Ey/uJTwBkguTiLDKIokHQKHrhagJdnslEwWCjV/YAHW/3CimQV9FK8OsVd0r24gScIqf/JW929PKSMOmr2XToXlaZyso09sJN1y3OCNnYCBh1Qk81/CY6hseStfb5Q6OzYdX0wcuprm/PtbmrgE1dbLiOlTCiIUJMgGWKqdR/uQCt+9WcI+V1HaeHHJZrT+BRYmUIOTBIxgCj0Clr4rhuxOFF2dBXNDeWgMh79DaxT178G7DFWo1Amtt6JyYH9Lt7ZKRz5q4D7BLamku0RRp9+uaVY8nyFKLeR7YxT93NmhsEKjOyskHXNCyGAa07eEZfPQlAV9i52t/DZEp++nig8XAIJyP1QbGL8=;AxUF8/WssttWX99NuhkOog=="
 ---
 

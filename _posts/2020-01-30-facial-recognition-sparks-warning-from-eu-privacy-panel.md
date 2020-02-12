@@ -52,15 +52,6 @@ related:
       - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
         width: 3135
         height: 2008
-  - title: "Consumers Warm Up to Facial Recognition to Keep Them Safe, but for Marketing and Advertising, No Thanks"
-    excerpt: "As facial recognition systems become increasingly accurate, more governments and law enforcement organizations are tapping them to verify people’s identities, nab criminals and keep transactions secure. In recent months, France’s government announced a nationwide facial recognition ID program, a UK court ruled that live facial recognition ..."
-    publishedDateTime: 2020-01-29T02:39:00Z
-    webUrl: "https://www.emarketer.com/content/consumers-warm-to-facial-recognition-to-keep-them-safe-but-for-marketing-and-advertising-no-thanks"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 3
 
 secured: "YYApf+YghGTtytDHAyWoaqjPIKLTKQ3a/4XPzj8xXxxgmG+R3dAdYNi4ljkyb0p4jsJLF0MzIK6eQgMjfXpzkBXJ+ajPWlzl6xHS6/7OmuKHV4uJqiFnUyeB6gKoDJHsOb6xxzHSWh6SM/11JOrTRE8BUGjpowxzIHufQjTx8vxZ5h/xSvwuFT7cnVo7X+evbdD7vndmWjcqgsUF4xtCw4onl3EPRRJHWWCgfcXJQBGlMpipo7fMJEfJXITIoe/Tx9BvJA7rOJwY0t3erVVNib8IHMaXPMGGNpdFOjmWK4dTHDch7/IbMee3b1mptxuh;v3dN1a2b7CLyCOZuBkfHCw=="
 ---

@@ -52,6 +52,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
+  - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
+    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
+    publishedDateTime: 2020-02-12T14:19:00Z
+    webUrl: "https://seekingalpha.com/article/4323431-arm-brings-ai-and-machine-learning-to-iot-and-edge"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 38
 
 secured: "9SZz6ya6VZdUCuqiB6QQhKb1ARtt+vu/wbU6sdsQnOAnBHIW1WtgEfCFNw1KZBiZkdEBmMO992hOjT8Zb1DIzLuPa7fT86tfVEKzz464KcaK2WtZ7Xrd6xYFLqwzrZm9S/ZMwdpJCMtqMAPkynVookLo6AK+3LsK43lbmZ6eylqG8uK/d2AjWbzXlWSVD0TGxLqbxGt0/GHjfhoIR8wbKOlikPDV6obS4DE06SCJpNgrRUNneRRfoBEmXvH6uXsv2pFtKzmOkQvXGwlnSDFfYmSWPZk+e7rU/kmoFjY1dAwSb/7INNK1QYpyN47y57Ar;tglNgaojnJ71h89+a8Z0Xw=="
 ---

@@ -41,21 +41,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1b149884-4cd0-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Met Police rolls out live facial recognition in London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
   - title: "Met Police try to calm tensions as live facial recognition hits London"
     excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
     publishedDateTime: 2020-02-12T04:00:00Z
@@ -116,6 +101,21 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2019-08/00F53187-544B-4807-ACF1-7877845AA4B7.jpeg"
         width: 640
         height: 426
+  - title: "Chino Police Department to hold forum Wednesday on proposed use of facial recognition technology"
+    excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
+    publishedDateTime: 2020-02-12T02:16:00Z
+    webUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: The Press-Enterprise
+      domain: pe.com
+    quality: 46
+    images:
+      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 578
   - title: "Facial Recognition Technology Uses at Homeland Security Department"
     excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
     publishedDateTime: 2020-02-07T12:41:00Z
@@ -188,6 +188,15 @@ related:
     provider:
       name: dailyrecord
       domain: dailyrecord.co.uk
+    quality: 16
+  - title: "Public Perception of Facial Recognition Technologies - a four countries study"
+    excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
+    publishedDateTime: 2020-02-12T19:35:00Z
+    webUrl: "https://www.linkedin.com/pulse/public-perception-facial-recognition-technologies-four-meckel"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
     quality: 16
 
 secured: "i7ozneAZmME1DcJUoy5UNt1VPd5+zOSy4ifnDfKODewJw/D5BKPShr8yOrQV9+zlNcvKidd4KL3/zIFm86JR9zFKHtllfOLZM2m8WBugL0cPRLYrWDfC4uFTKTTAqkpEp1uRYpj6t2CBsPJ5dBIQivXuzQ3ncFiBZXZPPhKNorbwzW2ZmN3ufeyg7mYpcLgOqBp/O1b8OT8U1qDp6iOyP4v5iPKpd36e4afq8WtxrjPeNKqEHaBPpBOC+x/4RyRlmJ/UZUwemGK8xvUER12rLd3MUY1vrNpReGGBNrksUpf+tiQcavoXJKDQg59N1VGf;C44cvgN2pip4ylA1zLs4Dw=="

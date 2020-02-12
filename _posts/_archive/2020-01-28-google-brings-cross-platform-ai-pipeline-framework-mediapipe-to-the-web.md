@@ -4,12 +4,10 @@ title: "Google brings cross-platform AI pipeline framework MediaPipe to the web"
 excerpt: "TensorFlow Lite inference isn’t supported, and the graph’s computations must be run on a single processor thread. A lack of compute shaders — routines compiled for high-throughput ..."
 publishedDateTime: 2020-01-28T20:29:00Z
 webUrl: "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/"
-ampWebUrl: "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat
@@ -23,12 +21,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
-    width: 1200
-    height: 600
-    title: "Google brings cross-platform AI pipeline framework MediaPipe to the web"
-
-secured: "taIl5hEGXqwN0uVARrqU9Z6njqe1LDNRpbwVZMlkleXwE8zIpj9plg+utmtyhsYheLyh/Gu/gvQjki5gHl0BddZubdYDiXlpXNO8GWcCO06pKksvh8P9TDW/ZT4RZxGb4YO73F3EV7Apu9QSBqQnBGpncR/4NQ12PMNyTHRCfe5kr4of2kVJx8u46/oRaZ7YtgVp6Uih64fvSyWtNtEdx9Lh23HxkpWhONPRCSz9sZ5gIGnmj224xCWdHYSuR6XK4ilkO+g8tyubFxXs4MRUHX9s4G06njLGUKvHeRsi93Ku/O8LuU7g44lCJ1+p0g/q;r5d+bz2RkfZmzMe/WtsitA=="
+secured: "d+8xbldIO6PSrGy+jRn395Kj+NolsIA+7IBVUCo4d2TDyHDcuvbnHF0JccrpnV3Y6+G6r9Q8X6rbqbB82AGqfLpuJh+fQtl3G+4rJBqZzS9ZuHh3d6WtVMmc0V0Q/ud9W/PnXkX2kfDFdmyFHeKynskarw0Sx2c06Hor0p3XedSc15jnmpeJPZx1z65AzY5Z5wzffBc+GRepfyudh7Bbbfyyt+BtZa9RBn90cG26ECvmgHyuWXvSldyA1cUAT3pRp25TirN4chuqkCN5xv9Uowz0aHoWEz9ET0IsxwaKMC7a3/t1FE4jbFXgfwdptgAB;kCAuaTtJClo1cg6FMwo+zQ=="
 ---
 

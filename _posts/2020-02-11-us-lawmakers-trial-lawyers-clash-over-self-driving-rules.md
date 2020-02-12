@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/4726567002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4726567002"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,79 @@ images:
     width: 1200
     height: 675
     title: "US lawmakers, trial lawyers clash over self-driving rules"
+
+related:
+  - title: "U.S. lawmakers hear arguments for new safeguards for self-driving cars"
+    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,"
+    publishedDateTime: 2020-02-11T23:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
+        width: 640
+        height: 419
+  - title: "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars"
+    excerpt: "WASHINGTON, Feb 11- A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
+    publishedDateTime: 2020-02-12T04:03:00Z
+    webUrl: "https://www.cnbc.com/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
+        width: 1200
+        height: 630
+  - title: "Lawmakers, Trial Lawyers Clash Over Self-Driving Car Rules"
+    excerpt: "(TNS) — Lawmakers in the U.S. House on Tuesday took to task a trial lawyers' lobby group that helped kill a bill setting regulations for self-driving cars. The Washington-based American Association for Justice, which lobbies for trial lawyers who typically represent plaintiffs, had objected to a lack of concrete protections that would ensure ..."
+    publishedDateTime: 2020-02-12T18:09:00Z
+    webUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
+        width: 950
+        height: 629
+  - title: "Self-driving car company Nuro wins federal safety approval"
+    excerpt: "WASHINGTON - Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
+    publishedDateTime: 2020-02-08T14:07:00Z
+    webUrl: "https://www.postguam.com/business/technology/self-driving-car-company-nuro-wins-federal-safety-approval/article_1c34c964-4960-11ea-8ad5-17b7d62b54d5.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
+        width: 800
+        height: 448
+  - title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
+    excerpt: "A team of engineers at the University of Waterloo has made it its mission to Canadianize self-driving vehicles. It's the first group in the world to create a data set for winter driving. In other words, it has compiled 10,000 video frames and 56,000 images to better teach self-driving vehicles how to navigate snow and ice. \"We're basically ..."
+    publishedDateTime: 2020-02-11T15:08:00Z
+    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/self-driving-car-university-waterloo-winter-driving-1.5459331"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 24
+    images:
+      - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
+        width: 620
+        height: 349
 
 secured: "ZqLNwneeB79JnNs8Ji+KHNgpw5F4zuFXtLJtgfcxyEoORbG5DLOFDplgDy+corE/lYdSeH9Wr9pTdXZaRLVDfTB+fVgaqQNcrNLhtbrYMSABIp60jn3rZP9erzOzqtJo8r6iMdd5OJRUtky4n6BRTRdMYgo/TmFtVpT7Yt94fsWWAkKjTpJOXOsveZa/6yGZ91CBEGAOs0k8RHhER0hsgNZWwUf+zA0OEUTakQehq1S/AFknoz3aZhiltPXo+4uOgECnJmqCs27hedX4NQ9hTYLGDmj/82UzByC9XPzaMoiB/i+4Hm93Xjx1vHEjoTHXqufYcOB2s1YpNY7bRq1tTBUIplo0sdbXstc97fU3KL1otLQSnKgKfKS7/PwjXasNN10MxeF5VFogYtSfD8nDGmrwdysOqt5cJCw92DQA8bjuEOwIDwkG/L2zyuGMD5w4a8TvkOYxWNPaUMr4bme8eKZQ6HD2Ox9Dtu8suI3BXsE=;JlsPuVR0EhHm9EZDECZd6g=="
 ---

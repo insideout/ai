@@ -30,19 +30,6 @@ images:
     title: "US House panel will discuss self-driving cars next week"
 
 related:
-  - title: "U.S. Lawmakers Hear Arguments for New Safeguards for Self-Driving Cars"
-    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
-    publishedDateTime: 2020-02-11T05:14:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/11/technology/11reuters-autos-autonomous-congress.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
     excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
     publishedDateTime: 2020-02-12T14:21:00Z
@@ -89,6 +76,15 @@ related:
       name: Machine Design
       domain: machinedesign.com
     quality: 10
+  - title: "Self-Driving Cars as Edge Computing Devices"
+    excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
+    publishedDateTime: 2020-02-10T22:40:00Z
+    webUrl: "https://www.infoq.com/presentations/uber-atg/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 4
 
 secured: "UZoDZKk5fFYWnPGRAN2lgoc07ifdfhem9GC1hx2YpZM/VtiZSehVocSx+NREI4tlXU1GTYWm3bsuzvnOSDFIuTk1P2u2+xIM09Sv5ihIXBh+3HlDcLMnpvmRpqtF8JQwxRWu8c578v8ANJ7EP8jsPBHE/JhSRvciI4OoUojTzbOJwMow4ISIBADpIchRXVElsFYDG8BgLYFRnt8AX/Ulq+hrSYZuLV7AtSdhfNxCtSbX8x5DN+eddax27m/Cu9uIr4RPi2d0yoAMYp1yODqPce4bWawZbTqP2JA1hGH0DsK2uOToUVB18etjwCgVdBglWJpcz4/lzAerGcQ1yJQ0QgcRabuaNbwc8hfjEPOrbCKdRYCecswGNOD47snqYxAJOqql1c3r1BneRpy2L/By2eMWpBS+85g2GpO4tpF8l7U5TsmLf7002clWknDvXPrb+Yj/tas/R/dDFcGKp2cFCJOEHeDrYhTSOQl4mReuWA0=;wWi7nxks3T5ROhuwNvjpSw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-futur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/"
 type: article
 quality: 187
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42ee49f133f400076c2e55%2F0x0.jpg"
         width: 1200
         height: 783
+  - title: "The Future Of Insurance: Fintech 50 2020"
+    excerpt: "With tailored products and easy access, Insurtech companies make shopping for insurance faster and often cheaper."
+    publishedDateTime: 2020-02-12T14:26:00Z
+    webUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42de658b6cf300071e6f2b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2688%26cropY1%3D133%26cropY2%3D1645"
+        width: 1199
+        height: 675
   - title: "The Future Of Real Estate: Fintech 50 2020"
     excerpt: "Better Mortgage Headquarters: New York Online mortgage lender provides home shoppers with pre-approvals in as little as three minutes."
     publishedDateTime: 2020-02-12T14:42:00Z

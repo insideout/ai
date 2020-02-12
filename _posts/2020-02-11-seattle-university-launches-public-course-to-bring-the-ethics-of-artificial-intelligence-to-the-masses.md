@@ -8,7 +8,7 @@ ampWebUrl: "https://www.seattletimes.com/business/technology/seattle-university-
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1"
 type: article
 quality: 60
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg"
         width: 780
         height: 501
+  - title: "Covariant launches from stealth to bring universal AI to robots"
+    excerpt: "and it’s just the start of the possibilities.” “Covariant has assembled an impressive group of roboticists and AI engineers,” said Yann LeCun, Turing Award Winner, Chief AI Scientist at Facebook, Professor at NYU, and a Covariant investor. “If anyone can make robots learn to perceive, reason, and act in real industrial settings ..."
+    publishedDateTime: 2020-02-12T19:24:00Z
+    webUrl: "https://apnews.com/PR Newswire/dfbc9db080ddfd14cff5649fefc4f750"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
 
 secured: "JOT+jNaRW4ZJUjHBLgLRgVCUFy5Ro6O6k+i9Zv9QY5xBQIwNa1eKLzyRmt6zGd4FqK0q//xIAgsTVmNZoT3wr7D62XeoX/4JumA45wOdJfUnhiVr0to0QK+T1qv1M2MY5oXlFWsHPuz32/qE/jRIupJASzWkh9etXws0u5wlfWFpYVVhaF3AkatSc9do3wnz+UVHhAunAHotHp65A4evumLHUdxJ/DzeVNysaHYga0JaIA9jh6YAPx57o5XQ2xnhzvEg3lbdJA6JqWb5NzTQm//huY80YHK8rOe6iF24YvMDIvZprftrCT2r0HGZolxU5aYr4gocYC6tF2tbYH1K42EkizGH11KWEMCGdWQeuFKFYlRqvp+cj+yTdVmcRyVe4DacYyhkK/hS2M7Bee46+p9lqGKlpSmauZWQeP9aDzEoHBEMte/l9KGwYyFqYqd2Ma5YvUi/PTfnb5EcJhskPUye97GXkENt0mh854KGOnU=;ur3uGB1d2MgEAqIwpoOpMg=="
 ---

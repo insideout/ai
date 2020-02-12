@@ -69,34 +69,6 @@ related:
       - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
         width: 800
         height: 480
-  - title: "Chino, Calif., PD to Hold Forum on Facial Recognition Tech"
-    excerpt: "(TNS) — Facial recognition technology is already used by several agencies in California's Inland Empire, and the Chino, Calif., Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the ..."
-    publishedDateTime: 2020-02-12T16:53:00Z
-    webUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_DEEPFAKE_FACIAL_RECOGNITION_AI.jpg"
-        width: 940
-        height: 627
-  - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
-    excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
-    publishedDateTime: 2020-02-11T22:23:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-privacy-safety-trends"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Basic rules required for facial recognition usage: Statesman contributor"
     excerpt: "In his article, the author says that the use of facial recognition technology, in its present form, is not in conformity with the right of privacy. KK Paul NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) - In spite of several advantages of the latest technology of facial recognition, doubts continue to prevail in view of its very thin legal base."
     publishedDateTime: 2020-02-12T03:46:00Z
@@ -150,19 +122,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 13
-  - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
-    publishedDateTime: 2020-02-12T10:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005344/en/Study-Digital-China-2020---Government-Fostering"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "OfBsGsXwZbQvmKum1C2FoP5+m5tqsmB4/zgT18egTSA5gYA1V3UCoVH+dgPcSXrDmZJKaEBFXY7Wtv1R+mJqgXHm2L4fgUymH9Or+kKgwXAq0Tgyh3zW4Gs3aKMej++yMgDiubZ8JwC/35+RXRIVMVBhg02fHGhZFuvThembpj5Gmsn/HhqtPPiqxhVyrbD0ZRgUdbWICE8j/TJ/edU39NJF4TD0e9aiLVWrKnOmV4zu1hzS/LQVUmcWrhSsw+Y5jbF7nUoIWcUV8R/7meLE5h6pN0EYENgRPtaU5VGfgsLaHYNL9PK4r+Kb1mu9Hjy0WUmaZz+qJng0wwu7ldFDX6KoABWIHRrhW7CvRPJ+UqG/5aiwHTlA7gf1kOprJWgXH6Wl9NWpQjpz6jHZAJadtv0jX3zgsbRpbVD7HP5RL/pPBfltgumyRohoyJbQBR7wwSj7KyNZboWNwKBgdp36nlP/WlHzevNXzTRBIniiLmI=;IExj5DfxD+fjjTeiAZTCdQ=="
 ---

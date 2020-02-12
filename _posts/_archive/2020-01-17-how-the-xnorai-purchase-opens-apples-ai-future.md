@@ -1,14 +1,12 @@
 ---
 category: news
 title: "How the Xnor.ai purchase opens Apple’s AI future"
-excerpt: "smarter person and object identification in Photos and smart object recognition in ARKit. Another place where Apple may be able to make a difference is in CCTV video, improving playback and person ..."
-publishedDateTime: 2020-01-17T14:27:00Z
+excerpt: "smarter person and object identification in Photos and smart object recognition in ARKit. Another place where Apple may be able to make a difference is in CCTV video, improving playback and person recognition systems in these. Wyze delivered this using Xnor.ai. Apple’s interest in HomeKit Secure Video and its focus on HomeKit, along with its ..."
+publishedDateTime: 2020-01-17T16:20:00Z
 webUrl: "https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.html"
-ampWebUrl: "https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.amp.html"
-cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.amp.html"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://images.idgesg.net/images/article/2019/02/iot_internet_of_things_lifestyle_connected_appliances_by_elenabs_gettyimages-1018211724_2400x1600-100788445-large.jpg"
-    width: 1200
-    height: 800
-    title: "How the Xnor.ai purchase opens Apple’s AI future"
-
-secured: "1f3NY4pNxhbT51UH/wDR9bDlpvmSZDFtujCpfFplp6zNEhnKl3GkVB/rswzn+aQ545f/ZSoMCh1SRorl29KZ4wxkFMnKhWyb/YCjfaSZtmDze56z3Yx/q2VY6GCRSFiqShQU3lkFtdDW6Kcs9+fuvpLbj1wCngb8B9EPsMXiKmhqhiTljNkW7ykxdy8rNwaGt8+YfLyzhleAAiNrpdO5YLR+fLyiJilv5m4ANH7Nc6VrG86RaqxYykMkpqD+Q8N4pniJOA0OF51yzOw5kfmMuNJVwKw/x5wn8/jeGRmsumpWO2Oky/1MSeuyCSQ717Xs;hTq1G4FzdIjzwTh4sgC4Zw=="
+secured: "0xWl8za90yPNe+zc9rzzUt0OPyrg0WK6GUm65vH85gIRxjJ0U2+00VwqB+7nXNv8gBk0pFgPIG4iIGm7NuVah7EiT0abt7BQwqNJnqIIU+Vs8CnoD5yU6C3Ab0H55L1VNb7iAHfyc69rz+JHgvJEBJFHx1zLNzLWJpOYy+YmJNFpA0UWoxlncLQWcZkWXoydGo9LV3JtBXj26S81dHa0pQBVwD3LKxjTlVwyu8F0TVeXI6e6QKaIH1apYXyHqwzRnCT9xy8TrW4iniY18ZpPHnfvS4qM65QbXBBQVPZAjq77+47pVMdoR74MOdlnzyCM;qBHw/Q6Lwn8Xeot4ESzqBA=="
 ---
 

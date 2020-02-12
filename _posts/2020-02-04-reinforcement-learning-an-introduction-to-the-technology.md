@@ -39,6 +39,19 @@ related:
       - url: "https://www.azorobotics.com/images/Article_Images/ImageForArticle_336_15809016109583463.png"
         width: 950
         height: 534
+  - title: "Avaloq shares insights on AI, robotics & automation, and its role in the future of financial services"
+    excerpt: "According to new industry research by Avaloq, a Swiss FinTech, additional key developments include the increasing use of more ... But it is clear that even bigger changes are arriving, particularly with regards to AI, robotics and automation, which combined with design thinking methodology will enhance the overall customer experience."
+    publishedDateTime: 2020-01-30T16:01:00Z
+    webUrl: "https://hubbis.com/news/avaloq-shares-insights-on-ai-robotics-automation-and-its-role-in-the-future-of-financial-services"
+    type: article
+    provider:
+      name: Hubbis
+      domain: hubbis.com
+    quality: 24
+    images:
+      - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
+        width: 500
+        height: 500
 
 secured: "EAP6E58k4hj7uQSZZhWLgEmwTpxR/Q/codL1Rw0iwFUe/+MZ8WoVXRM1zOjFYTNfhjfXDQc719PUpZwN+QvKL6lPw3If2zlYG1YXWHJmKq3xzYSHG73GdJgESEbN+CuWrwDPzwHKzpEnYBP/RVLGDzahgT7HaKpwu02Wu6snCRCnsyF3JVTh0/qJ9tW8WknKG3g4qh9+5huXbr7ChKB87EjVLTCdOyrqEOMKdc7e+7UTOUqST14yXL6e9eHIRWrn6XZHJk7FgB0/E71F2HHJS6k0dQT//vtQSXd3EJR1Q8kf1lKCnmB02l4fNF4JA7a9;fgpzBPVHvE0WAPmSo5rHqw=="
 ---

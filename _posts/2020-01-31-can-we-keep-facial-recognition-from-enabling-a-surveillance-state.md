@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recogniti
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
         width: 3135
         height: 2008
-  - title: "Consumers Warm Up to Facial Recognition to Keep Them Safe, but for Marketing and Advertising, No Thanks"
-    excerpt: "As facial recognition systems become increasingly accurate, more governments and law enforcement organizations are tapping them to verify people’s identities, nab criminals and keep transactions secure. In recent months, France’s government announced a nationwide facial recognition ID program, a UK court ruled that live facial recognition ..."
-    publishedDateTime: 2020-01-29T02:39:00Z
-    webUrl: "https://www.emarketer.com/content/consumers-warm-to-facial-recognition-to-keep-them-safe-but-for-marketing-and-advertising-no-thanks"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 3
 
 secured: "2LM6L5+5R/OIMr9Xiz8Q8eU+c1XToDiPn8RNaMvR0/CBwAlzfXoeo4kO3DUtoRy2HESygFYurHJ4GKRU0IgdOASYOSJmP+bmH2sodFOmu/1alaYzvcQkIigkKjukGk8efHM3zvk+0v2SJq+Y/Ogz4NOu7DV50oba+JN6es44WVON+pgQ+UDIM0kiWxBWS88YxAKO/IsMVk4jdt378fEZ2gyGQMd6vG3+Z2eO/B/tpAizuW21dbliXmy/JH1/Moga0h/MSRp93tNpPv6jD5ehz8jZKZYIV0HwwZ4gJD9YA6MSaEqbRNFOasS3206V6+AueCesmAmttOwWWpmn457gDddGCZy6ZAUFcl1iIwzjKe7vt9gIKNqqRs+j3XpgfX1nJMyu+vtLT1RZaQ8ffCp2RTBCXTK8FkCi627ATBDTZzzTcDJvwGe5WqWNcagZrKL6vAvs397reAYPrhk6h35a8z9EnNo0nhH6Hf8TyFaJVM4=;hacR1dq0zkrYIez46mxX7w=="
 ---

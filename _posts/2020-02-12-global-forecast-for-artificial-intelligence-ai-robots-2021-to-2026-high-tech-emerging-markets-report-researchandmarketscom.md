@@ -241,6 +241,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
+    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
+    publishedDateTime: 2020-02-04T04:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Artificial Intelligence in Stadium Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026"
     excerpt: "New Jersey, United States - The report titled, Artificial Intelligence in Stadium Market has been recently published by Verified Market Research. The Artificial Intelligence in Stadium market has been garnering remarkable momentum in recent years."
     publishedDateTime: 2020-02-03T17:01:00Z
@@ -280,6 +289,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
+    excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
+    publishedDateTime: 2020-02-12T19:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-size-share-growth-rate-revenue-segmentation-industry-demand-forecast-to-2026-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
   - title: "Global Forecast for Artificial Intelligence (AI) Chipsets (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Chipsets (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate ..."
     publishedDateTime: 2020-02-12T10:16:00Z
@@ -368,6 +386,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 0
+  - title: "Voice Assistant Market Innovations, And Top Companies – Forecast To 2029| Amazon Inc, Google Inc, Apple Inc"
+    excerpt: "Segmentation by Technology:, Speech Recognition, Speech Recognition System, Speaker Dependent Systems, Speaker Independent Systems, Natural Language Processing (NLP), Text-to-Speech Recognition, Voice Recognition. Segmentation by Application: Messenger Bots, Websites, Contact Centers. Segmentation by End User: Individual Users, SMEs ..."
+    publishedDateTime: 2020-02-12T20:18:00Z
+    webUrl: "https://apnews.com/Wired Release/f77df562f1ed5f919f28a22f80c01d58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 0
 
 secured: "xgcn/9vYJDfQ0aQpFN/stVE1lh1QuFPJc6EWiWrCkK0knocAotz3ou0BHLKv2qdM1my6bWRS/ITAmMP2REslw8nvYhfLsiGQGjqDncPZjLStFhWU2+T2lD0ABpnMP3O9KHY2k3FZIEHU0IHu1iPFzBAkQ3cw5f2YynnN6UPN1paXNjXdFifN47p4moOl5vpglOXcFSbA1HfU50zDgfIxf21xjqCJE+5iIjR2u0J5zm/sRi+ZYdzQAoZV7hkdrVGko+xIZN5fND5JYKKHIVRg0riKgHvLTTkL8NsNInOrqrNUXrm0HxSNTSxZh0vbmgrO6zb+fmKHAHgz9SrAXkASaun4f06IGW4Buz92hYGhJFwoLG6bCTHwTX3M9ORCQFS8bJlScAi6U7iS+og+GwJb6h6AGlxP3qzZpcRZSmUw2f2JkBJOXTOyU/0VtYaEgpuvivCQQPJKwWYz2v+lNzDXnyhSDn7RgrMgRBIRtvKjg/E=;a5Tq35logRO0zVqw+cz+DQ=="

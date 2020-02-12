@@ -41,21 +41,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1b149884-4cd0-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Met Police rolls out live facial recognition in London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
   - title: "Met Police try to calm tensions as live facial recognition hits London"
     excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
     publishedDateTime: 2020-02-12T04:00:00Z
@@ -112,6 +97,21 @@ related:
       name: The Press-Enterprise
       domain: pe.com
     quality: 54
+    images:
+      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 578
+  - title: "Chino Police Department to hold forum Wednesday on proposed use of facial recognition technology"
+    excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
+    publishedDateTime: 2020-02-12T02:16:00Z
+    webUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: The Press-Enterprise
+      domain: pe.com
+    quality: 46
     images:
       - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
         width: 1024
@@ -188,6 +188,15 @@ related:
     provider:
       name: dailyrecord
       domain: dailyrecord.co.uk
+    quality: 16
+  - title: "Public Perception of Facial Recognition Technologies - a four countries study"
+    excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
+    publishedDateTime: 2020-02-12T19:35:00Z
+    webUrl: "https://www.linkedin.com/pulse/public-perception-facial-recognition-technologies-four-meckel"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
     quality: 16
 
 secured: "eJyfiqvXwyRSPn8DCs15k6sVigwYYeTMgsANHlLTLr9TZ+3ZBpmfhyzbO93Cy/XjYxfP6q0HGklMRUR0J2r6HSjU12IOdvKQQ13V0/rHoIiL/UZlfjKOJ1GCL/V7z+4sSZ0gcjTZS8MjDdywqdSjO3dlvwNVD5csjqk+n25Sw7A26lb6uTE7xsvg+zJOrkWiI6SsWuYmYLC10mGqjRMjpwS7dhIEuXU2UcmmapHukRbEvbKj3S93n4OPJopR737doviSqd87gJwOlyFOlqnR7zJuZpefcIJlfwCkuYxBYNiq2DSC9zY4yYbWA5HpCyErf6XDl3LywGY2O7VBMqH2ImEiXZBAP/yC0YLSuNREfN0nUkO0Z1j/AO8x91Nj0iDxRctj+L5DhPCniALF5sEPOlGItPcYurHxRg9cVNiq+4VX3VGorPVyHsam3RCPNjQ1+28GqNEhYf6qacl52nkQdT9eQ0NudsrZtHucxeVI/kM=;lXR5oG/nUxcCgpHAqm9YYA=="

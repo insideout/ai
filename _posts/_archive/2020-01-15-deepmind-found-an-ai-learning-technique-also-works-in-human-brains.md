@@ -4,11 +4,9 @@ title: "DeepMind found an AI learning technique also works in human brains"
 excerpt: "Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new explanation ..."
 publishedDateTime: 2020-01-15T18:40:00Z
 webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
-ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
-cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +17,23 @@ topics:
   - AI
   - Google AI
 
-secured: "Yzf5fW6rbg7FxMdWOreppAnAOx8MyjVWRhjoE3EAKHqt/Y50tftDAxYeP8vrMh8SegFuvs7yK4vsAGVItOXddXyw6eI4s2nE1jYPSXUMdsZGUwEbssJSU2nJGB6xtsy54B1PJ2lZckx4Y9517M0kpvPX5IChsEgbq+DMJL4cT83MEWtA3uWPI2VdL44XhGvvRlGBRT7opNCjTRyn5w32hAeCXu8tXTsiAtNP7GeSbMlhxAWZe35kgLH97lLgyihcqLQBUhS0QK8l9DPFfj17hm1g2cz5B6o5TZSArXkti2wNunFwbhnAZxcDFYtEHwdv;lXSGtWMUG2pXctdQYRuPNQ=="
+related:
+  - title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
+    excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works."
+    publishedDateTime: 2020-01-16T20:54:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
+    ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
+    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
+    type: article
+    provider:
+      name: Independent
+      domain: independent.co.uk
+    quality: 78
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/16/14/deepmind-artificial-intelligence-brain.jpg"
+        width: 2500
+        height: 1875
+
+secured: "1XzxgDBr6YZMPSUxD1OKaIlLPTRQdWSftuW6bjZGEHcntTwBdBgIeF4q51hiC3S+a4Mkq68dGtqR5z9tiOJqmXCjbSjA2dKR6tTiYxnjc4MnDxERigB6rl4vnI3beF/yAafvODJziwWQsGPy/dftsGOAloBDjVH0U69j1IUpQgsmzHWPvIUTBpwFEXK1HmxspJqNN9pbO2RLcmkYaE2yDeBLAN1KxJATvq3TBXZXVMglecK5e5BvXOg6TWHgIzlgAtodciM1ktVMm5kQkq6bzvGA3EBvh7F9eCEyeAQBjbEmbvoUZs+7AU3/gWqAvZZG;GGONUEhZJkzZM2kBSyYuDA=="
 ---
 

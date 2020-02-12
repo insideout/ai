@@ -22,244 +22,208 @@ topics:
   - AI in Autos
 
 related:
-  - title: "AI, machine learning, robots, and marketing tech coming to a store near you"
-    excerpt: "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ..."
-    publishedDateTime: 2020-02-04T15:00:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
+  - title: "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app"
+    excerpt: "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ..."
+    publishedDateTime: 2020-02-11T11:07:00Z
+    webUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/"
+    ampWebUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 119
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 189
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2019/01/15/cede3a51-32c8-47dc-8928-b8c18295dde9/resize/1200x/9f06c8112c21a809abb2fc0b6a7e4b11/retail-ai.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024"
+        width: 1024
+        height: 576
+  - title: "GM’s Cruise now has 1,800 employees working on self-driving cars, up from 1,000 in March 2019"
+    excerpt: "During a press conference this morning, Dan Ammann, CEO of GM’s self-driving subsidiary Cruise Automation, gave a glimpse at the progress that’s been made toward a fully self-driving vehicle fleet. He said that Cruise’s engineers, of which there are now 1,800 (up from 1,000 in March 2019), have over the past four years made a “10,000 ..."
+    publishedDateTime: 2020-02-05T17:42:00Z
+    webUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 163
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/07/20190718_Cruise_AV_ISO_FINAL_MB_WBGRND-1-e1573598957728.png?fit=1200%2C600&strip=all"
         width: 1200
-        height: 900
-  - title: "Inside the future of online dating: AI swiping and concierge bots"
-    excerpt: "Once it knows what you want, it can essentially use the apps for you. They’re posted on Github; here is the exact one that Winters used, but there are many more — such as the Bernie AI. These facts alone have led some people to wring their hands and mourn the ways of olde, like meeting through at church or through friends at work."
-    publishedDateTime: 2020-01-31T16:53:00Z
-    webUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating/"
-    ampWebUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tinder-hack-bot-ai-dating.amp"
+        height: 600
+  - title: "Uber can resume testing its self-driving cars in California"
+    excerpt: "A newly issued permit has been granted nearly two years after a fatal crash in Arizona. Uber started scaling back its self-driving car tests after one of its vehicles hit and killed a pedestrian in March of 2018. While the company doesn't seem primed to unleash a fleet of autonomous cars, it has been granted a new permit to resume testing in ..."
+    publishedDateTime: 2020-02-05T18:47:00Z
+    webUrl: "https://www.engadget.com/2020/02/05/uber-self-driving-car-permit-california/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fb9771a10-4852-11ea-bff7-ef681d5d0ecb%26client%3Da1acac3e1b3290917d92%26signature%3D6155d16da62a23f3c23ff3c2df84de6c08108d5c&client=amp-blogside-v2&signature=229f519d801b555c87fa388a4059f2d145839f4c"
+        width: 600
+        height: 350
+  - title: "Uber's self-driving cars return home"
+    excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
+    publishedDateTime: 2020-02-05T18:36:00Z
+    webUrl: "https://mashable.com/article/uber-california-self-driving-permit/"
+    ampWebUrl: "https://mashable.com/article/uber-california-self-driving-permit.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/uber-california-self-driving-permit.amp"
     type: article
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F31%252F78%252F2cf65c6ab12943cb81d1691f4bb64888.ea787.png%252F1200x630.png?signature=y2owegQIwA9L6yfJDveE8u36QJI="
-        width: 1200
-        height: 630
-  - title: "Talking to Robots With David Ewing Duncan"
-    excerpt: "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ..."
-    publishedDateTime: 2020-02-10T21:22:00Z
-    webUrl: "https://www.entrepreneur.com/article/346085"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/346085"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346085"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200210211852-MikeDEDcorrectdimensions.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-  - title: "Learning Automated Trading Can Give You a Major Investing Advantage"
-    excerpt: "From there, you'll learn how to use machine learning tools like Python to automate your trading to limit your losses and maximize your gains. You'll even get access to an Interactive brokers platform to practice automating your trading and learn momentum trading skills for forex markets. By the end of the training, you'll be fully ready to ..."
-    publishedDateTime: 2020-02-02T18:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/345748"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/345748"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345748"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
     quality: 74
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200131021051-photo-1569025690938-a00729c9e1f9.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-  - title: "Deep Learning Market Analysis And Forecast 2026"
-    excerpt: "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,"
-    publishedDateTime: 2020-02-05T02:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
         width: 1200
         height: 630
-  - title: "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence"
-    excerpt: "But, again, it becomes important to mention digital marketing without an effective resolution to the customer means nothing. And, here, AI or Artificial Intelligence comes into the picture. Today, most of the companies are merging the two technologies to create outstanding business operations, which can help in business growth."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@inforobertsmith36/7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence-17cab74ff304"
+  - title: "Aptiv \"Self-Driving Vehicles\" Top 100,000 Rides In Las Vegas"
+    excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
+    publishedDateTime: 2020-02-11T11:05:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 63
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg"
         width: 1200
-        height: 628
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
-    publishedDateTime: 2020-01-31T15:06:00Z
-    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
+        height: 675
+  - title: "Aptiv’s self-driving cars have given Lyft passengers over 100,000 rides"
+    excerpt: "The two hit 5,000 rides sometime in August 2018 — in a matter of months — and by May 2019, Aptv’s self-driving BMW 5 Series cars equipped with lidar sensors, cameras, radars, and cameras had given 50,000 Lyft passenger rides. But that’s small potatoes compared with the two companies’ latest milestone. Today, Lyft and Aptiv announced ..."
+    publishedDateTime: 2020-02-11T11:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/"
+    ampWebUrl: "https://venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-  - title: "Going deep on deep learning with Dr. Jianfeng Gao"
-    excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
-    publishedDateTime: 2020-01-29T11:13:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/going-deep-on-deep-learning-with-dr-jianfeng-gao/"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/APTIVvegas026-1100x734-1.jpeg?fit=1100%2C734&strip=all"
+        width: 1100
+        height: 734
+  - title: "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas"
+    excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
+    publishedDateTime: 2020-02-11T17:07:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg"
         width: 1200
-        height: 627
-  - title: "Deep learning of circulating tumour cells"
-    excerpt: "Moreover, our network excelled in identifying different important subclasses of objects. Deep learning was faster and superior to classical image analysis approaches and enabled the identification of new biological phenomena. Fig. 1: Overview of the analysis workflow used. Fig. 2: Comparison of the t-SNE maps of the latent space for a standard ..."
-    publishedDateTime: 2020-02-10T19:12:00Z
-    webUrl: "https://www.nature.com/articles/s42256-020-0153-x"
+        height: 675
+  - title: "What Lyft and Aptiv learned from 100,000 self-driving car trips"
+    excerpt: "Lyft and Aptiv’s partnership to develop self-driving cars for ridesharing has reached a major milestone. Aptiv cars operating on the Lyft network in Las Vegas have completed 100,000 trips. The two companies will not discuss scaling up the program, but said the Vegas deployment will serve as a “blueprint” for more widespread use of self ..."
+    publishedDateTime: 2020-02-11T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/?amp"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-0153-x/MediaObjects/42256_2020_153_Fig1_HTML.png"
-        width: 685
-        height: 521
-  - title: "Evolving L&D: Before artificial intelligence, master adaptive learning"
-    excerpt: "Machine Learning Natural Language Processing Deep Learning Neural Networks “Artificially intelligent systems have to not only analyze activities and predict outcomes - they also need to learn from those predictions over time.” He also points out that even in our attempt to understand AI, a lack of a highly precise and universally embraced ..."
-    publishedDateTime: 2020-02-11T14:32:00Z
-    webUrl: "https://www.hrdive.com/spons/evolving-ld-before-artificial-intelligence-master-adaptive-learning/572014/"
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
+  - title: "Apple and Its Rivals Have Spent $16 Billion on Self-Driving Cars"
+    excerpt: "The report outlines the estimated spending by the top 11 companies working on self-driving vehicles, which is topped out by Alphabet’s Waymo, GM’s Cruise, and Uber, which The Information estimates have spent about half of the money being invested in developing the new technologies, while Apple, Baidu, Ford, and Toyota account for “most of ..."
+    publishedDateTime: 2020-02-05T17:42:00Z
+    webUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/"
+    ampWebUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
     type: article
     provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 39
+      name: iDrop News
+      domain: idropnews.com
+    quality: 44
     images:
-      - url: "https://www.hrdive.com/user_media/cache/d4/49/d449d9cf9eb38eb0e348de33ab507062.jpg"
-        width: 770
-        height: 364
-  - title: "Talking to Robots With David Ewing Duncan"
-    excerpt: "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ..."
-    publishedDateTime: 2020-02-11T14:08:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Talking-to-Robots-With-David-Ewing-Duncan-15045274.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/41/32/19011219/13/rawImage.jpg"
-        width: 2000
-        height: 1333
-  - title: "Starship delivery robots indicate groundbreaking food delivery tech advancing into Madison"
-    excerpt: "Now, three months after being introduced, these robots are in southeast and their AI (artificial intelligence) has greatly improved. They now cross streets faster, though still with some difficulty (missing traffic lights), and can navigate through more environments. If a robot does get stuck, they can be remotely controlled by a human to help ..."
-    publishedDateTime: 2020-02-06T17:23:00Z
-    webUrl: "https://www.dailycardinal.com/article/2020/02/robots-indicate-greater-food-delivery-tech"
-    type: article
-    provider:
-      name: Daily Cardinal
-      domain: dailycardinal.com
-    quality: 29
-    images:
-      - url: "https://snworksceo.imgix.net/car/34a76c62-7835-44ec-b09c-8156ef641ec0.sized-1000x1000.jpeg?w=1000"
+      - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
         width: 1000
         height: 600
-  - title: "Plannuh Raises $4 Million To Expand AI-Driven Marketing, Budgeting and Planning Platform"
-    excerpt: "/PRNewswire/ -- Plannuh, a startup transforming the way marketers plan and budget, today announced a $4 million seed round co-led by Glasswing Ventures"
-    publishedDateTime: 2020-02-06T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/plannuh-raises-4-million-to-expand-ai-driven-marketing-budgeting-and-planning-platform-300999949.html"
+  - title: "Uber gets DMV permit to test self-driving cars on California roads"
+    excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
+    publishedDateTime: 2020-02-05T21:18:00Z
+    webUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/"
+    ampWebUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "Look out, the robots are coming!"
-    excerpt: "Just when I think that I'm getting used to the shiny new world of Roombas, Alexas and driverless cars, something else comes along and throws ... a team of international researchers remarked on the potential of artificial intelligence to disrupt a variety of jobs in fields as diverse as finance, information technology, law and medicine, and ..."
-    publishedDateTime: 2020-02-08T04:31:00Z
-    webUrl: "https://www.texarkanagazette.com/news/features/story/2020/feb/07/look-out-robots-are-coming/815638/"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
+        width: 1024
+        height: 705
+  - title: "Uber self-driving cars can be tested in California"
+    excerpt: "The California Department of Motor Vehicles on Wednesday added Uber to a list of companies with permits to test self-driving cars in the state, according to the ride-hailing app. Continue Reading Below The move comes nearly two years after an autonomous car struck and killed a pedestrian in Tempe, Arizona, because the employee ..."
+    publishedDateTime: 2020-02-05T19:39:00Z
+    webUrl: "https://www.foxbusiness.com/markets/california-uber-permit-autonomous"
+    ampWebUrl: "https://www.foxbusiness.com/markets/california-uber-permit-autonomous.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/california-uber-permit-autonomous.amp"
     type: article
     provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 44
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202001/3280/854081161001_6120640160001_6120644360001-vs.jpg"
+        width: 1280
+        height: 720
+  - title: "House panel to a hold hearing on the future of self-driving cars"
+    excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
+    publishedDateTime: 2020-02-09T18:48:00Z
+    webUrl: "https://www.autoblog.com/2020/02/09/house-hearing-self-driving-cars/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/12/26125219/Cadillac-CT6-SuperCruiseEngaged.jpg"
+        width: 800
+        height: 450
+  - title: "Self-driving cars are getting their own rules"
+    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
+    publishedDateTime: 2020-02-08T00:30:00Z
+    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
     quality: 24
     images:
-      - url: "https://media-cdn.wehco.com/img/photos/2020/02/07/cdoughertycolumn24539147173_t1070_h10763943e31ed1ed1283106f30b9da2ac5376c82.jpg"
-        width: 1070
-        height: 721
-  - title: "Influence marketing’s problems can be solved with a machine-learning solution"
-    excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
-    publishedDateTime: 2020-02-10T20:08:00Z
-    webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
+      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
+        width: 1920
+        height: 1080
+  - title: "Uber Gets OK To Test Self-Driving Cars In California"
+    excerpt: "The state of California has granted Uber a permit to test its self-driving vehicles on public roads. The Department of Motor Vehicles gave the approval to the Uber Advanced Technologies Group to test autonomous vehicles as long as a driver is in the vehicle. Uber is the latest company to be added to the entities with autonomous vehicle testing ..."
+    publishedDateTime: 2020-02-10T13:35:00Z
+    webUrl: "https://www.mediapost.com/publications/article/346759/uber-gets-ok-to-test-self-driving-cars-in-californ.html?edition=117136"
     type: article
     provider:
-      name: Mumbrella
-      domain: mumbrella.com.au
-    quality: 21
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
     images:
-      - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
-        width: 1254
-        height: 836
-  - title: "The Robots Are Coming for Fund Management Jobs"
-    excerpt: "Remember Aibo, the computerized dog Sony Corp. started selling in 1999 as the first personal robot? Hiro Mizuno, the chief investment officer of Japan’s Government Pension Investment Fund, does. So he asked Sony’s computer science lab unit to build him a cyberhound using artificial intelligence to help oversee the external fund managers who ..."
-    publishedDateTime: 2020-01-31T07:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/the-robots-are-coming-for-fund-management-jobs/2020/01/31/68cc62dc-43f7-11ea-99c7-1dfd4241a2fe_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
-  - title: "How Increasing Power and Advanced Cooling Techniques Are Converging for AI, Supercomputing and Cloud Data Centers"
-    excerpt: "This is driving innovation from companies like Cerebras, whose recently announced Wafer Scale Engine (WSE) is widely regarded as the most powerful processor in AI today. Comprised of 84 processing cells that span an entire wafer and yet function as a single chip, the WSE dramatically reduces the latency associated with a traditional singulated ..."
-    publishedDateTime: 2020-02-10T21:44:00Z
-    webUrl: "https://www.embedded-computing.com/guest-blogs/how-increasing-power-and-advanced-cooling-techniques-are-converging-for-ai-supercomputing-and-cloud-datacenters"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 18
-    images:
-      - url: "http://share.opsy.st/5e41cd6c4aabb-cranium-2099120_1280.png"
-        width: 1160
-        height: 1280
-  - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
-    excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
-    publishedDateTime: 2020-02-05T02:19:00Z
-    webUrl: "https://www.digitimes.com/news/a20200205PR200.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 16
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200205PR200_files/2_r.jpg"
-        width: 336
-        height: 224
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/12/19/uberselfdrivingcar-600_tmkffdC.jpg"
+        width: 600
+        height: 375
 
 secured: "m5uiXEc0+19UVfJWHrtbxg6c05VtZWYqGAshgPyMNy9ve73trNSTvB2e2+yijoRddnARtQvM/aWW/873gbfgV7lRmKQ8H0TuJ03Ac05l/Rn3D/Oy13dlcB2Rs/5s2HNgepXMCCP+UPNeefyjm8UteNYwqojdFY74CCJ0p4JZ+f+bir1zU7Qh4N28eGyhsPTcV5I/DHEFl8laTDbn3gCrYK8a+Iz0GM8Z/kGFYTPHzpxFcUEtcjvajCMNCa3yJ/VEg7elLiyYxycxZ2Q+INfeOYtTuOZUNn0aVFjsjlt4toIBKW3XkY5+0UhoAZVdYnX+p+naeJkG5FsO/ybqYgLUVaq3fzyhYVPYZbybGHZOXmHcBZ638ZjAUIxULA/C+mOIMZTB9+qBuoyVnosJHyzEM/VxfjJO8XT4TOTP0a0OtkSoY27+fQoDOpvw1ZpyITlNosC7FDf8KMlqzIMNWm7jA02GwpgJfrTP+6iS+s5Jmy8=;rCQMEUJiZ2Ku0Z2qmhgp7g=="
 ---

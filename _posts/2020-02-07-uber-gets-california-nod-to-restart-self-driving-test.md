@@ -35,21 +35,21 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg"
         width: 756
         height: 567
-  - title: "Uber can resume testing its self-driving cars in California"
-    excerpt: "A newly issued permit has been granted nearly two years after a fatal crash in Arizona. Uber started scaling back its self-driving car tests after one of its vehicles hit and killed a pedestrian in March of 2018. While the company doesn't seem primed to unleash a fleet of autonomous cars, it has been granted a new permit to resume testing in ..."
-    publishedDateTime: 2020-02-05T18:47:00Z
-    webUrl: "https://www.engadget.com/2020/02/05/uber-self-driving-car-permit-california/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
+  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
+    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
+    publishedDateTime: 2020-02-03T07:00:00Z
+    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
+    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: Wired
+      domain: wired.com
     quality: 74
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fb9771a10-4852-11ea-bff7-ef681d5d0ecb%26client%3Da1acac3e1b3290917d92%26signature%3D6155d16da62a23f3c23ff3c2df84de6c08108d5c&client=amp-blogside-v2&signature=229f519d801b555c87fa388a4059f2d145839f4c"
-        width: 600
-        height: 350
+      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
+        width: 2400
+        height: 1600
   - title: "Uber gets permit to restart testing its self-driving cars in California"
     excerpt: "Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona. The California Department of Motor Vehicles issued a permit on Wednesday to the company’s self-driving unit,"
     publishedDateTime: 2020-02-05T19:31:00Z
@@ -65,21 +65,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486288485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG141VL"
         width: 818
         height: 545
-  - title: "Uber's self-driving cars return home"
-    excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
-    publishedDateTime: 2020-02-05T18:36:00Z
-    webUrl: "https://mashable.com/article/uber-california-self-driving-permit/"
-    ampWebUrl: "https://mashable.com/article/uber-california-self-driving-permit.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/uber-california-self-driving-permit.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
-        width: 1200
-        height: 630
   - title: "Nuro self-driving car gets US DOT's blessing"
     excerpt: "California-based Nuro has made history. Perhaps not the biggest splash, but in one small step for self-driving cars, Nuro's driverless R2 has received the first approved exemption from the US Department of Transportation. The exemption allows Nuro to operate its latest R2 self-driving car on public roads despite it having no human-driver controls."
     publishedDateTime: 2020-02-06T22:00:00Z
@@ -164,6 +149,21 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 60
+  - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
+    excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
+    publishedDateTime: 2020-02-07T20:17:00Z
+    webUrl: "https://futurism.com/the-byte/waymo-people-injecting-drugs-self-driving-cars"
+    ampWebUrl: "https://futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
+        width: 600
+        height: 315
   - title: "That California Story About A Daughter In The Backseat With A Sign Saying ‘Not My Mom’ Stirs Valuable Lessons For AI Self-Driving Cars"
     excerpt: "The phrase “Not My Mom” created quite a commotion the other day. Here’s the 411 about it. A recent news story indicated that a girl in the backseat of a moving car displayed a hand-scrawled sign that said “Not My Mom,"
     publishedDateTime: 2020-02-01T16:41:00Z
@@ -216,21 +216,6 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200205&Category=NEWS&ArtNo=200209273&Ref=AR"
         width: 2000
         height: 1460
-  - title: "Uber gets DMV permit to test self-driving cars on California roads"
-    excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
-    publishedDateTime: 2020-02-05T21:18:00Z
-    webUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/"
-    ampWebUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
-        width: 1024
-        height: 705
   - title: "Uber self-driving cars allowed back on California roads"
     excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
     publishedDateTime: 2020-02-05T19:34:00Z
@@ -246,21 +231,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C8A8/production/_110786315_ubergettyimages-605519896.jpg"
         width: 1024
         height: 576
-  - title: "Uber self-driving cars can be tested in California"
-    excerpt: "The California Department of Motor Vehicles on Wednesday added Uber to a list of companies with permits to test self-driving cars in the state, according to the ride-hailing app. Continue Reading Below The move comes nearly two years after an autonomous car struck and killed a pedestrian in Tempe, Arizona, because the employee ..."
-    publishedDateTime: 2020-02-05T19:39:00Z
-    webUrl: "https://www.foxbusiness.com/markets/california-uber-permit-autonomous"
-    ampWebUrl: "https://www.foxbusiness.com/markets/california-uber-permit-autonomous.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/california-uber-permit-autonomous.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202001/3280/854081161001_6120640160001_6120644360001-vs.jpg"
-        width: 1280
-        height: 720
   - title: "Uber Can Now Test Self-Driving Tech On California Roads"
     excerpt: "The company has been granted a permit by the California DMV. To recall, the tests were stopped after a self-driven car killed a pedestrian in 2018."
     publishedDateTime: 2020-02-06T13:54:00Z
@@ -321,6 +291,19 @@ related:
       - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
         width: 600
         height: 360
+  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
+    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
+    publishedDateTime: 2020-02-03T17:40:00Z
+    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 39
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
+        width: 622
+        height: 318
   - title: "Uber to bring back self-driving cars in California for first time since 2018 death"
     excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
     publishedDateTime: 2020-02-06T00:06:00Z
@@ -366,6 +349,19 @@ related:
       - url: "https://placehold.it/300X250"
         width: 300
         height: 250
+  - title: "BGU developing system to stop self-driving cars being fooled"
+    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
+    publishedDateTime: 2020-02-04T13:36:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 24
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
+        width: 822
+        height: 537
   - title: "Uber’s Self-Driving Vehicles Get On-Road Permit For CA"
     excerpt: "Uber may soon be able to put its self-driving vehicles back on California roads after several years, with the issuance of a new permit, according to reports. The company had to scale back its autonomous vehicle program following an incident in Arizona where a pedestrian was killed by one of the vehicles. However, the permit — issued by the ..."
     publishedDateTime: 2020-02-06T07:13:00Z
@@ -390,19 +386,6 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/02/image-7.jpeg"
         width: 796
         height: 419
-  - title: "Self-driving cars are getting their own rules"
-    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
-    publishedDateTime: 2020-02-08T00:30:00Z
-    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
-        width: 1920
-        height: 1080
   - title: "Hearing to review self-driving car legislation"
     excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
     publishedDateTime: 2020-02-10T11:13:00Z
@@ -416,19 +399,6 @@ related:
       - url: "https://www.eenews.net/image_assets/2020/02/image_asset_73911.jpg"
         width: 618
         height: 318
-  - title: "Uber Gets OK To Test Self-Driving Cars In California"
-    excerpt: "The state of California has granted Uber a permit to test its self-driving vehicles on public roads. The Department of Motor Vehicles gave the approval to the Uber Advanced Technologies Group to test autonomous vehicles as long as a driver is in the vehicle. Uber is the latest company to be added to the entities with autonomous vehicle testing ..."
-    publishedDateTime: 2020-02-10T13:35:00Z
-    webUrl: "https://www.mediapost.com/publications/article/346759/uber-gets-ok-to-test-self-driving-cars-in-californ.html?edition=117136"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/12/19/uberselfdrivingcar-600_tmkffdC.jpg"
-        width: 600
-        height: 375
   - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
     excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
     publishedDateTime: 2020-02-04T16:07:00Z
@@ -472,6 +442,15 @@ related:
     excerpt: "From West University to Texas Southern University, self-driving cars are all around Houston. But how soon will it be before there are no drivers in them?"
     publishedDateTime: 2020-02-11T01:00:00Z
     webUrl: "https://www.khou.com/video/news/local/self-driving-cars-are-being-tested-all-over-houston/285-b2c221a2-a6c4-40b3-be2c-bd3074396bc8"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 4
+  - title: "Self-driving cars being tested all across Houston"
+    excerpt: "Several self-driving cars are being tested right here in Houston. Kroger, Dominos, even METRO are testing the technology. For now, the automated vehicles have a person on board. Cars that can operate without a driver are rolling around West University and Texas Southern University. The shuttle, funded by METRO, maneuvers through traffic on a ..."
+    publishedDateTime: 2020-02-11T01:04:00Z
+    webUrl: "https://www.khou.com/article/news/local/self-driving-cars-are-all-over-houston/285-b29c5839-ffd0-4355-88bf-61568031a13f"
     type: article
     provider:
       name: KHOU 11

@@ -56,21 +56,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/9HNbKTpxEfhl6QnFewwKN7aJ2Ug=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66218730/1092678740.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "PETA is calling on Punxsutawney Phil to retire and be replaced with an AI groundhog"
-    excerpt: "(CNN)The robots are coming for Punxsutawney Phil's job, too. People for the Ethical Treatment of Animals is calling on the keepers of the weather-forecasting groundhog to let him retire -- and to be replaced by an animatronic groundhog."
-    publishedDateTime: 2020-01-29T01:12:00Z
-    webUrl: "https://www.cnn.com/2020/01/28/us/peta-punxsutawney-phil-ai-groundhog-trnd"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/01/28/us/peta-punxsutawney-phil-ai-groundhog-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/28/us/peta-punxsutawney-phil-ai-groundhog-trnd/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 81
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190202074902-punxsutawney-phil-0202-super-tease.jpg"
-        width: 1100
-        height: 619
   - title: "Groundhog Day star Punxsutawney Phil should retire and be replaced by a robot, PETA says"
     excerpt: "Newkirk suggests an \"animatronic groundhog\" with artificial intelligence could replace Phil. The techno-savvy \"Phil\" would actually be able to predict the weather, she says. \"An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony's robot dog 'aibo,' which walks, plays, misbehaves, and responds to ..."
     publishedDateTime: 2020-01-30T09:41:00Z

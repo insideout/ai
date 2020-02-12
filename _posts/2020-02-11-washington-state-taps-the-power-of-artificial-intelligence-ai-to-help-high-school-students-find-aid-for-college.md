@@ -68,6 +68,19 @@ related:
       - url: "https://s3.amazonaws.com/wp-media-es/2020/02/05185106/rock-n-roll-monkey-FTfjMijq-Ws-unsplash-1.jpg"
         width: 2000
         height: 1333
+  - title: "Washington State Taps the Power of Artificial Intelligence (AI) to Help High School Students Find Aid for College"
+    excerpt: "OLYMPIA, Wash., Feb. 11, 2020 /PRNewswire/ -- Thousands of high school students in Washington will have a new ally in the financial aid application process, thanks to the rollout of an AI chatbot named \"Otter.\" Developed by AdmitHub and launched by the Washington Student Achievement Council (WSAC), Otter utilizes conversational AI, familiar to ..."
+    publishedDateTime: 2020-02-12T01:02:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/washington-state-taps-the-power-of-artificial-intelligence-ai-to/article_8df95b8e-14fe-58ed-b6ce-26ea504a08c1.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/d5/cd5be0ac-9ff6-5f4f-b668-9acf6e4bae86/5e4374e6e0663.image.jpg?resize=379%2C400"
+        width: 379
+        height: 400
 
 secured: "MaqyQ5JBXFpldcYoizLmXyNUPAdHeD6zn2+B6z31opoS3sfHXMc/HSPzwoW98prftN3fksqMnO7ArFWwEQ3p6mbr7q5gN4dUDrotIvWUKFFBKyWUC2AfOKZ7SuRvRe0t45KZKvbdRKwd1++kbrKecx1nyTXjiQbHVgyF1fY9FufOezf/KtKQTwI9sOmA7m+PGIhiVKOaRgQeaClcsEFsBwWVij1n2V4n4U0cfau9DfuVM9WShVwvKYHpu4oUyo/vbB2XRp3baMk+K2OkpXCx4z18uQIPgDoOKg+XUZJqiEx7y3d13YEd1zeIg5vnbMprvZ6yMarMA6FlO83n8JwEgC2JwUIb1FtsJO7OfXzbTLMKsFZi41O3XRVKOoyDnnaS/Ko32fZaPJXEBbD3/eJYTGe3FfTrg3lnde5alUDYecwweExuHODb11RN8etgsLZYNboe1fNYzDlbnWbpssHtRF5LCAdyNF0vCq4GdHN8NIE=;9VjVz3N05Mx0b07gnWxUmA=="
 ---

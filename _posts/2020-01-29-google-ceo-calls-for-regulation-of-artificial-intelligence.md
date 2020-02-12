@@ -70,19 +70,6 @@ related:
       - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
         width: 496
         height: 372
-  - title: "Electricity Can’t Hold a Candle to Artificial Intelligence in Significance, Says Alphabet CEO"
-    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. “AI is one of the most profound things we’re working on as humanity. It’s more profound than fire or electricity,” Alphabet Inc. CEO Sundar Pichai said in an interview at the World Economic Forum in Davos ..."
-    publishedDateTime: 2020-01-29T01:16:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/01/28/556768.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 28
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/02/Google-Corporate-Headquarters.jpg"
-        width: 900
-        height: 600
 
 secured: "ZaPxRWfqBcgBEPfV852Tj+yQqOeslMAnSw3AhlXBggDElUffkrBnNI3uqMQXA2egVEGmYQsn1Xs/nkE3q9JnFwF3e56CypjU3aSZ27+zdX4gFffRfcp3n1sfOeonLoJtrF7/uSllOtgFjNLLgync4mCFcDUvYxS0bMK9dcf0zxOF9YUlM+pO8chz+qzD6P8iU8gV//y1fX+7IY0lfAVQsz+PEFnG3q/XvcP4lGHUdHTqLAFEdirAMwF+Qya6Qxenh92WxpRcK7ofGvQLDTzM19kLImH4z9haCnnjtVnP+i7ZA8oC9Apu0l3uQJmzpOakXI/HZnTtc3wJZaAWDrjcsjukQA/yDGC35ax2BPHs79NCBybJrGPseeSsz19k5nndf3Cz/+UEW6dIUockceCd/ael4AdKn9g89jR9HL200UTL7erxTeHKTmuVWCl5r9zGCZDOwzGcAYVzviUNz/r/8/fVSYeu9zQziOsp0j0cKCI=;q6EJpa+Ba742M7OE46bXfQ=="
 ---

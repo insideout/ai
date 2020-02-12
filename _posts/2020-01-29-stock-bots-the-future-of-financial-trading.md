@@ -37,6 +37,21 @@ related:
       - url: "https://static.businessinsider.com/image/5e305ac224306a476129d512"
         width: 400
         height: 224
+  - title: "The Future Of Android Integration In The Fintech industry"
+    excerpt: "Though there are a number of benefits to Fintech technology and the effect that it has had on the market, it is also important to note that this style of financial payment will require further development in security. With Visa and a number of other companies using Ai and other technologies to create a highly secure two-step verification ..."
+    publishedDateTime: 2020-02-05T08:11:00Z
+    webUrl: "https://www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/02/Trading-analysis-forex-chart-image-1.jpg"
+        width: 910
+        height: 607
   - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
     excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
     publishedDateTime: 2020-02-04T17:39:00Z
@@ -50,6 +65,15 @@ related:
       - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
         width: 1199
         height: 628
+  - title: "The Future of Financial Services: 3 Technologies Poised to Change Your Experience"
+    excerpt: "But financial services companies today are already well on their way to changing this experience, and three technologies are key to this transformation: APIs, adaptive intelligence (AI)/machine learning, and blockchain. These key strategies involve leveraging large troughs of data so banks can become an integral part of the consumers’ journey ..."
+    publishedDateTime: 2020-02-01T02:16:00Z
+    webUrl: "https://www.finextra.com/blogposting/18394/the-future-of-financial-services-3-technologies-poised-to-change-your-experience"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 0
 
 secured: "ztIcN0rm8g95wp75dz84kBAGCP2rAHPowottelINMttwCUKFSpaJqEpQVc2PV5irYXWvGZWukM2A1Y1BasChLrEwabGBMIqDknEdXmXmtheSXIxHibZDJHcyVB9gsliem4mxuXhzBvIwx9CgFbW8kQVFQeLC4cYKDPU2GZEdDmHY7apyBkI0pMB2n7+dZVaRHr+aMKCf4R3i6kIHUyl1dK4VU/GD7X6mf6gRa4sLkonnKHluTG7eNhCbywy++VNtRU7lNmeraaTzzehnEzoEX+iSaI5nsTfyYQ15hIdutLc4xWWQaf/LA0RjgxnDlUW0emd4jTPaQkN+DctMQLGysoG9jtx++xjdwzz0P+0jNybwRyRexQ5s9/Lt0c9WzkT1JKIYya1uzh71i/BMsFF0vAqxtBsnZk/OrDiG2t3C2oCQX3GwNcM0AN+I2Gs22mZRMBuovfPguam16amkRLShRH6px+qAxedvO51IifWTZ4Q=;/DRMZnq7+0Az6+qI5PBeHQ=="
 ---

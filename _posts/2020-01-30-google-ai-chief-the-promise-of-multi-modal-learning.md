@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T13:57:00Z
 webUrl: "https://www.zdnet.com/video/google-ai-chief-the-promise-of-multi-modal-learning/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     title: "Google AI chief: The promise of multi-modal learning"
 
 related:
+  - title: "Coming soon: The promise of artificial intelligence in servicing"
+    excerpt: "When loans transfer to servicing, the smooth digital process is suddenly transformed into a rough, paper-heavy and confusing process. But AI is slowly starting to change that."
+    publishedDateTime: 2020-02-03T05:12:00Z
+    webUrl: "https://www.housingwire.com/articles/coming-soon-the-promise-of-artificial-intelligence-in-servicing/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 37
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2020/01/F1-header.png"
+        width: 1010
+        height: 599
   - title: "State CIOs: Achieving the promise of artificial intelligence"
     excerpt: "Based on responses from 45 states, “Delivering on Digital Government: Achieving the Promise of Artificial Intelligence,” shows that state CIOs are taking an eyes-open approach toward AI and organizational, cultural, ethical and technological concerns. Topping the list of challenges is the need to overcome the restrictions of legacy IT ..."
     publishedDateTime: 2020-01-29T15:51:00Z

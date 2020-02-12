@@ -92,17 +92,13 @@ related:
         height: 525
   - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
     excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary ..."
-    publishedDateTime: 2020-02-11T15:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200211005446/en/Docugami-Announces-10-Million-Seed-Funding-Led"
+    publishedDateTime: 2020-02-11T15:26:00Z
+    webUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20200211005446/en/772660/23/Docugami_Team_Offsite_February_2020.jpg"
-        width: 1200
-        height: 627
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
 
 secured: "2mHI27ZWF/ksyWb0OAjJXneaYMt0UazPPgW+rUbPPmG5n9tutyWwufGDiL2wsXE9Pp/LPwHfuirB7hddraXlgs4V1dgv337IsgQATxLu7r09kTUdahHV1Ge6nCqmYUa5tqHZ0fQhLepTWxIDl6wlWGTMNcXLnxFmQ7ffS5mOF11oHS1/1I2VSasQpXEqnmeHnTCe0ODYKYZj7jQdm2atrmaIgg38Ux5msI56IqrvbyadQ0SNbhEdlVvaxZNrXKTXYuE9HsdI6sG78CxC4JCcCnIpR/Z5yr/yE2aIxMPj4hdujKLH46E9UOk6Ea3NtXKYiy2PSLiPLy1/9gwTyaqXhhVHD7y9/Hc52xGKSYHRV9YeZohyQHIQoD9PCOprGFRAmtDVsK8+JH7wxLx57DH3Lgy23+4N6QKJ6yGFer4K5mrnVKK0xhysNTNoKhXoQFq0F50VHb1annbEZrhxXRzFMaavk7qBe+NFZQWEtfKT2ZQ=;yg2mKA2EBhELh0gNP00JqQ=="
 ---

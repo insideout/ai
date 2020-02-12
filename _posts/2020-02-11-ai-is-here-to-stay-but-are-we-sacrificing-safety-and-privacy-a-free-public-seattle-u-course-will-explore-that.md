@@ -67,6 +67,15 @@ related:
       name: Governing
       domain: governing.com
     quality: 56
+  - title: "Covariant launches from stealth to bring universal AI to robots"
+    excerpt: "and it’s just the start of the possibilities.” “Covariant has assembled an impressive group of roboticists and AI engineers,” said Yann LeCun, Turing Award Winner, Chief AI Scientist at Facebook, Professor at NYU, and a Covariant investor. “If anyone can make robots learn to perceive, reason, and act in real industrial settings ..."
+    publishedDateTime: 2020-02-12T19:24:00Z
+    webUrl: "https://apnews.com/PR Newswire/dfbc9db080ddfd14cff5649fefc4f750"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
 
 secured: "lffMwZ7L1NWHfRgVzt04OYsgfUsFjNQfAZo2SHjcTyN6GDHYtvf99JWIRStveFTOBiJJE7xC3nx69orvPAu9aEnQrAdV8w5yedW1gf9aaxnIWIbab7rO0TZmOUZiZDeUmLMvCUWgPWl+U4b33zcCDqjMQur3USnx/i802cHAvERLUX5LJhM9RfrQxNsTlru7GAKY/OcYI6Zs7NBjrphIlVl2hyO7olBvE2+ZMVsN9zAZ9FA6BvgLFLxbbGuucuJM1IGWOpdQb8U3xJQ6JWUY6nmmsE03ZXp2XHB5RsDOLvYzz1G96XluE2SELOFluKQoTZafupkDl3gNaVobOVybzspGRca5GXyISFVpkzDK7tTlXy+a5sZieBDhppf57cvQrPE1cNWLwjuFqIN24zO8vy7kKZeUGmGMuvvwvppeBXIEL2s7iS4LLvGk0XD6W21Syolpg3zUHq9gjAcKMcXrpfOW8iC+MwWYen4fEvpfpwE=;3mOhyqVwJbFvnYYr9sSnhQ=="
 ---

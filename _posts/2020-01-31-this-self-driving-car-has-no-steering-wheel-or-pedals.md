@@ -20,149 +20,36 @@ topics:
   - AI in Autos
 
 related:
-  - title: "GM’s Cruise now has 1,800 employees working on self-driving cars, up from 1,000 in March 2019"
-    excerpt: "During a press conference this morning, Dan Ammann, CEO of GM’s self-driving subsidiary Cruise Automation, gave a glimpse at the progress that’s been made toward a fully self-driving vehicle fleet. He said that Cruise’s engineers, of which there are now 1,800 (up from 1,000 in March 2019), have over the past four years made a “10,000 ..."
-    publishedDateTime: 2020-02-05T17:42:00Z
-    webUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/"
-    ampWebUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
+  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
+    excerpt: "(CNN) -- GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open."
+    publishedDateTime: 2020-01-30T09:53:00Z
+    webUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.html"
+    ampWebUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
+    cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 163
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/20190718_Cruise_AV_ISO_FINAL_MB_WBGRND-1-e1573598957728.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app"
-    excerpt: "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ..."
-    publishedDateTime: 2020-02-11T11:07:00Z
-    webUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/"
-    ampWebUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024"
-        width: 1024
-        height: 576
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
-  - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
-    excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
-    publishedDateTime: 2020-02-07T20:17:00Z
-    webUrl: "https://futurism.com/the-byte/waymo-people-injecting-drugs-self-driving-cars"
-    ampWebUrl: "https://futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
-        width: 600
-        height: 315
-  - title: "What Lyft and Aptiv learned from 100,000 self-driving car trips"
-    excerpt: "Lyft and Aptiv’s partnership to develop self-driving cars for ridesharing has reached a major milestone. Aptiv cars operating on the Lyft network in Las Vegas have completed 100,000 trips. The two companies will not discuss scaling up the program, but said the Vegas deployment will serve as a “blueprint” for more widespread use of self ..."
-    publishedDateTime: 2020-02-11T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
-  - title: "House panel to a hold hearing on the future of self-driving cars"
-    excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
-    publishedDateTime: 2020-02-09T18:48:00Z
-    webUrl: "https://www.autoblog.com/2020/02/09/house-hearing-self-driving-cars/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
+      name: CBS Atlanta
+      domain: cbs46.com
     quality: 44
     images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/12/26125219/Cadillac-CT6-SuperCruiseEngaged.jpg"
-        width: 800
-        height: 450
-  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
-    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
-    publishedDateTime: 2020-02-03T17:40:00Z
-    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
+      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/7/d5/7d505b47-b933-5dcc-9088-5a0c11dc44d1/5e28d08cb51ef.image.jpg?resize=1024%2C784"
+        width: 1024
+        height: 784
+  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
+    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around. The Ohio State University engineering student had opted for a rolling walker over the wheelchair she sometimes uses, but nonetheless she was late."
+    publishedDateTime: 2020-01-31T13:10:00Z
+    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
     type: article
     provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 39
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 33
     images:
-      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
-        width: 622
-        height: 318
-  - title: "BGU developing system to stop self-driving cars being fooled"
-    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
-    publishedDateTime: 2020-02-04T13:36:00Z
-    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 24
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
-        width: 822
-        height: 537
-  - title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
-    excerpt: "A team of engineers at the University of Waterloo has made it its mission to Canadianize self-driving vehicles. It's the first group in the world to create a data set for winter driving. In other words, it has compiled 10,000 video frames and 56,000 images to better teach self-driving vehicles how to navigate snow and ice. \"We're basically ..."
-    publishedDateTime: 2020-02-11T15:08:00Z
-    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/self-driving-car-university-waterloo-winter-driving-1.5459331"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 24
-    images:
-      - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
-        width: 620
-        height: 349
-  - title: "Self-Driving Cars as Edge Computing Devices"
-    excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
-    publishedDateTime: 2020-02-10T22:40:00Z
-    webUrl: "https://www.infoq.com/presentations/uber-atg/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 4
-  - title: "Self-driving cars being tested all across Houston"
-    excerpt: "Several self-driving cars are being tested right here in Houston. Kroger, Dominos, even METRO are testing the technology. For now, the automated vehicles have a person on board. Cars that can operate without a driver are rolling around West University and Texas Southern University. The shuttle, funded by METRO, maneuvers through traffic on a ..."
-    publishedDateTime: 2020-02-11T01:04:00Z
-    webUrl: "https://www.khou.com/article/news/local/self-driving-cars-are-all-over-houston/285-b29c5839-ffd0-4355-88bf-61568031a13f"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 4
+      - url: "https://www.washingtonpost.com/resizer/qxjWQ-jXwV-C9osVN4wWU0S_SLI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QUAWFCR4PUI6VL7CBEHLG63AWE.jpg"
+        width: 1440
+        height: 960
 
 secured: "EKLcMGT2vgtgTubzzafML2D82jeNpVGP9pJHFPSvPCPqxYbd69uWriivlbs4wKlDsscw/nk3jJeI9ZARYJvx7GcmTM2VRyqeITn01RO8XQadsIZHnzWEr0o/hunDHwbcPAYbVVOKHVLcHzpFGHKINYMr8xZqrSHSj0yc1kJEr87OkGl0HCTloNHOLlpabPArJYuMCM+De0GVEeE8K9CYJ6889rNhxg/VqzVAdx54DM2hps3sOJpDlKnKi4tjBZSrjj+7GHXmNLwJSZxdhX8wXIMMNSrOY3lWTLjtOx32lzqpYj3dlS1vwCRctvZ5/jJQ;dd5bu9vsH+/n0AtG6rODxg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/assessing-google-ceo
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -74,19 +74,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
-  - title: "Electricity Can’t Hold a Candle to Artificial Intelligence in Significance, Says Alphabet CEO"
-    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. “AI is one of the most profound things we’re working on as humanity. It’s more profound than fire or electricity,” Alphabet Inc. CEO Sundar Pichai said in an interview at the World Economic Forum in Davos ..."
-    publishedDateTime: 2020-01-29T01:16:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/01/28/556768.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 28
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/02/Google-Corporate-Headquarters.jpg"
-        width: 900
-        height: 600
 
 secured: "fNNpLLO0Uu54l6bgCsY23pBQNdXwqVFm8ZjKRQKKKnc6fM3jYEd5Cl7YN2uqaMpuUJteypWSKtpnwFM0TAsX3qYJ5T55yGmKtMDUWm7UFQQiQsn9IBBGbAA2J3h9SSeXVT8hKrEUNo3bUjBRvPd4M71C+yIUPXHXtTQnudRRDgpWMuIrPZkniL2zNNnty4tAPdt8Dkwe468YRL9S2WMPT1Oopfn8tnqMXGIYmEtuSBqzLMQVSPult6WfyLCRw8YDfBwcMnErrbHA8wEgvWO/CAAmMw3GUrf6yWXFVHymUn/WbLKuoEFBj8yC1m6FnrU/C/4wzlUauZNIGgBugiPS0MTOOOLI6lniJXceZ+4IUPp/+B0g5W6VnwTa7/YS6KdL8HmyyOfZJHc98VrdH6msuTWOvmM1uWmuR8970xm4JFlKQ5iO95q+ACXeEurrKNE6O3Vw+xirxQCyGQhDgBIewDV2FpoxbA2b2H/jvm55SHE=;/zuYEeu6Z3DfCap0tGFeJA=="
 ---

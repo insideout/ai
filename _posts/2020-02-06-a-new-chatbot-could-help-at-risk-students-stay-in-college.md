@@ -69,6 +69,19 @@ related:
       - url: "https://mma.prnewswire.com/media/1088502/WSAC_Logo.jpg?p=facebook"
         width: 4357
         height: 2280
+  - title: "Washington State Taps the Power of Artificial Intelligence (AI) to Help High School Students Find Aid for College"
+    excerpt: "OLYMPIA, Wash., Feb. 11, 2020 /PRNewswire/ -- Thousands of high school students in Washington will have a new ally in the financial aid application process, thanks to the rollout of an AI chatbot named \"Otter.\" Developed by AdmitHub and launched by the Washington Student Achievement Council (WSAC), Otter utilizes conversational AI, familiar to ..."
+    publishedDateTime: 2020-02-12T01:02:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/washington-state-taps-the-power-of-artificial-intelligence-ai-to/article_8df95b8e-14fe-58ed-b6ce-26ea504a08c1.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/d5/cd5be0ac-9ff6-5f4f-b668-9acf6e4bae86/5e4374e6e0663.image.jpg?resize=379%2C400"
+        width: 379
+        height: 400
 
 secured: "zy8a7K0aaleC740JJq6HHwYDzrt6uiFBFLg3FjK6mCS22ktKQ5Yl6ORgKMUBBFuC6nITk5BVte//9+EIKFJzCnrIvTafaXV5GW71p0bWf0B4Dy74AdB0pYLhZE6d9OO4MK67pIROs49e2BTcwGHge7CpRtrICg0TT1hCHHpPCUVVdyTwMwF3EFrMcRUboH5cdhs2764Ju8GY9U5q1an5osfOTAW6wSA1i9yp3ae1eSfSJt3Eha1W1oGwIvbxaulcbc8fnHTs7nGVpcrLV5FaVCK+Jb49FsgCr42OHopdr24wU1xlvXi1ZUHWCJkX9kRySWm9c2cjHOInM3TgSSpoBETrSqFF5ANelC8Kt3lcWwA5BCXTc8E8YlqJ6oyjo8mdgJ+RSj4EvKAt3saily00ICYZ960ovEcM2xir/x52tu3tPbT6YJUkhbAMleHr8D1fRNh+Y6ovSKpUZz6QIU4rZ54IfILxOgv4MVTcWlE7fH8=;j3vz8EsVmGLdCcjKS3qrdg=="
 ---

@@ -60,6 +60,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42ee49f133f400076c2e55%2F0x0.jpg"
         width: 1200
         height: 783
+  - title: "The Future Of Insurance: Fintech 50 2020"
+    excerpt: "With tailored products and easy access, Insurtech companies make shopping for insurance faster and often cheaper."
+    publishedDateTime: 2020-02-12T14:26:00Z
+    webUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42de658b6cf300071e6f2b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2688%26cropY1%3D133%26cropY2%3D1645"
+        width: 1199
+        height: 675
   - title: "A Vision For Fintech In 2020: The Future Looks Bright For BFSI Sector"
     excerpt: "These two pillars being the base of fintech 2020 will build a world of ease for daily consumers with AI, Blockchain and IT working more wonders than they had begun within 2019. The year gone by played a key role in the world-wide fintech time capsule. The fintech conversation of 2019 incepted with the much-awaited advent of 5G, the rise of ..."
     publishedDateTime: 2020-02-09T02:55:00Z
@@ -76,6 +91,6 @@ related:
         width: 1200
         height: 628
 
-secured: "EaZLskPiK+e9at0rso1UULZjMSVg27Yadvs/9I4ErtEEPO9yAjqZMfU40Bqp100XVDz/2tGukIy+v53IodsW8gwXFBiLa6ToQesr7KfYTZWmFQ3ALmELjqYjTwe3/e+5KUWYDFL0eRLaYZYd92USa/VMjaxnEwz9eQSjlYNZX76X8RYj8XkzXY7nHJVcbW5YfmoTbT7CkduQ9Y1hEBYhgvDaz+WnFVY5NhJst+NN8vvWxwHka4VTDyU2CLmHe2c7iUIlhh3L5+9fpJrlgQIO2H37jEG6N/C/aHAdeQ5nhYVBJcb5ck7t1g1X4pg1iGXE;qOl5/Wzdw+qetGx4/KWcbg=="
+secured: "OCWH3/d8Yi38pJ8gGlv0ahYaqjhI+YrNalIXGkPNKTxBEl5vjz+ueuxo7JOwHHx9vJ16wcvAR/ohvrCMK5qLajYYimNA0BPHXHA+xN1lniw+uo3CwWMbql8t9CbmDFS+vJHEBeo8j5PyfoeyxQwGL2M7qYtDoT3aCCGOJJ4RYfVl61BivEmbaRk6lMNirB2ZazccT9UxQzEN8aozSezYpBfWLHLrgMgjbo8RuvwrMwb2ezCugQf+fOVMuke3jVG9sf03/HBiSfVwfoT33I171GSnZaRmhHzVidw3mmKZ59952UjkxwRTNkidi+IpoUS7H1lKJIBbTC7dSSf63q+B5psrh3ybdqiirtf8Kle9f6kvKl0waeMGfWoqezyDLa7ccOOtIcuE7OdJqQviMo6wu6todxeqmR/tbMkTV1L0zH1NJUZlyDbsbt8GF7bZ6X0PpyYSEJooXO/Y9vmBorFkhafXalP1oSfzjvGLtRT+QGY=;K0s87l+Keid+IieO2ZdsQQ=="
 ---
 

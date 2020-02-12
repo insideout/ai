@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
+  - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
+    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
+    publishedDateTime: 2020-02-12T14:19:00Z
+    webUrl: "https://seekingalpha.com/article/4323431-arm-brings-ai-and-machine-learning-to-iot-and-edge"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 38
 
 secured: "x/F5q7Cc+tcQ9Zm5uO5AxiyG/742JG3kNtBLsep46hQCiwL8xXbYvGt/Z9W4zYgUc8Yc41v97GCLWjGt77tHVl+hs3K24uJHgGPNgDn92FfVH6aJb69nOtZpLpFjsWGSfNSQOfrqXTPBBGeB0QQ9rJNMS4Y50tNv8e0WC6YLu4zvCRjLk58afdwdfPku1d3NdHNiACGspWyUZAeBOF53I5HTUzzX3bUQ8RZvYTP41B1qxMJza2WjFBFckXgudOel6DOZ7MHkDJvonZKVJ/h0xVHcHoq7jv1KmMYy34W+Ltm3JDa2eJS2+A3XJyd3C56sndkija8+VjpCY9RYuffKqYPXAAaQAQOYUtIwt/CylyMde9kf/8QcWXxdncYoNxLCn64i0KdPDXDEs8HGNdo6f11EypRkdCUqX6ua6V8cyAd/HJeihVxEKAhpG/1HAYTTbu8ujPI3lEfBAtqs+FZ81VIk0uianDiiPJR825cUs8c=;U7XsapTuTjs5Yy2HY0pa1g=="
 ---
