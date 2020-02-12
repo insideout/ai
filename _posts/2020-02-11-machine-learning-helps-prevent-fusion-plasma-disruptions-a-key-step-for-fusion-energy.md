@@ -37,19 +37,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/02/fusion2.jpg"
         width: 300
         height: 300
-  - title: "European researchers look beyond deep learning"
-    excerpt: "Since then, deep learning has powered its way through a series of benchmarks. In the field of natural language processing (NLP), the team behind the GLUE benchmark suite has produced a more stringent version called SuperGLUE because systems that have adopted a second layer of deep learning were so successful at beating the original."
-    publishedDateTime: 2020-01-28T16:56:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/01/claire-network-looks-beyond-limits-of-deep-learning/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/3017/dreamstime_l_22720244.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131552209930000000"
-        width: 1200
-        height: 450
   - title: "DIII-D Researchers Use Machine Learning to Steer Fusion Plasmas Near Operational Limits"
     excerpt: "San Diego, Feb. 03, 2020 (GLOBE NEWSWIRE) -- Researchers at the DIII-D National Fusion Facility achieved a scientific first this month when they used machine learning calculations to automatically prevent fusion plasma disruptions in real time,"
     publishedDateTime: 2020-02-03T17:25:00Z

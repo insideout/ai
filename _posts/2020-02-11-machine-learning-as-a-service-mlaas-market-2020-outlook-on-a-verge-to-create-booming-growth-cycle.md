@@ -36,6 +36,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Machine Learning Market Garner Valuation US$ 76.8 Bn by 2026"
+    excerpt: "The global machine learning market value is expected to reach around US$ 76.8 Bn by 2026 and growing at a CAGR of around 40.1% over the forecast period 2019 to 2026. Machine learning is a subset of artificial intelligence. The concept has evolved from computational learning and pattern recognition in artificial intelligence. It explores the ..."
+    publishedDateTime: 2020-02-05T05:54:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38213/machine-learning-market-garner-valuation-us-768/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 19
 
 secured: "T30ICtGIHW8tXePMe6KDFa9sPM0YXijyDDRLhC9O6oz7Xd/Eaa4vDPA6BR0Wv4+srHEW1FfTxK1gA5L8yspmVaFQ5UUSHXQZDlBV6BXh5+tRcpeZoAs5r9G0ac2OwMxomtDS4JdUeEqCZL1/ScWL4nbbVBQV2img5fW+0A9ik1MRuia0rngTYq/aYvP1pR4t0Rt8WglD1lU2flbTZAJlyju0EJcuG1kPi5902tXmaFgmbOyZC6MaYUm7RxBDnTHXgexEDp0c6OSMDr/rznq2fuvN35gMR/STJykri7Q3NGgd2WIOxWJWvIYZWT3jtgpf;V1tw+FHWRL3e2ASSxiVvdw=="
 ---

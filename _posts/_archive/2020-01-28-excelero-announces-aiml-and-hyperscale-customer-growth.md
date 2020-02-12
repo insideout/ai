@@ -18,11 +18,11 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Intel_shutterstock-1500048230_700x-405x228.jpg"
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/ECP-logo-800x-405x228.png"
     width: 405
     height: 228
     title: "Excelero Announces AI/ML and Hyperscale Customer Growth"
 
-secured: "IaqGP9Zp52BGSEZqUzP1QfkqamBsxIfgGn5xwemgEkkhzL9uN7ZV9EJ1rZyKlJCrMKZGbaA1qSVs8g22OZnoJSfiW2BdxaakXtC6U4hNg4MPhslfBD9zCITeFJDFxtC8j5SFZyyrs3BOG2v3csrVKX7Iy6y6bB/ayKgv1F249p6qxN4hIePwRAPX7T3rDqOljZ1EJ1c2wasMlNOu4qHj45OjEdRcrkjbM0IT1biMmgd/ZmdAIF9gDM/fB0BhD6NyzvlreKAvA0olK8sjg09q58IWR7fg1qCArKyrOXTByPwB03FeIYWi3eSBV95RfUdso/4oPe0RjPYsc9+bV90IxdjaJd+p6+oIJavXEe2/rhzOXSjg7iy50HF/jFM2l6L4nZz/TLek1SjfHzTD3LBvl31MWxJzqdAjIxxdQoWHJp487K5+L/IhYtcbx2xDdLV02m3umVvXXBeNPNaEQRiKrL98oGl4Ji9CkAOPnQFq03A=;Er3jhPTocE9Wi141nC/Ubg=="
+secured: "pLAAljIv3t9TW09NjGcbchHARYmKRiau5GCqzqGC3X8DhTwi+aEC4CjU/wkURyJqXMPq51PWQOjgc6XJrf4Ziap3UUb5rCwhamNu7vWn5/xLXqGPF1ojiyoGYn12zYebFlol0NIB8JDRFvpIyDZSlxI/8ku8lyzeq2yxAf6LoJozykFekMe4EfBJb19AY9U7R01bqiIa792YgopUQdhakVc4D1kbE+j/qSQKYzRUS8Oa1diXdW3xYRe5aWBI9LnPyiNYWPwBURWv+32iuc/UJy+NvQvQFky0lhObzllQxEW7qOp2TnqGsmIbMflu1h+T;t1JX2yvD5nEKUBhGJlLg4Q=="
 ---
 

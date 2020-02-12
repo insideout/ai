@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-27T21:00:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-01/usmc-ac012720.php"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: EurekAlert!
@@ -34,11 +34,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 74
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
-        width: 620
-        height: 480
+    quality: 54
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
@@ -64,6 +60,6 @@ related:
         width: 1200
         height: 450
 
-secured: "JeVY8+XTJKUTO/78yXFF2n5Dr2VmuRMCJsf/PhxfmpPP63a8RrLLapKgW07WZ/fjNTPdJTV2PvR+C1/S4lb6bdONFNKzUIdT3oITRvr4Ucxscb2/0Ip+PCxoPDBopTPyWxGNd6Soqdb1+IHbg0ufAPr0RMfqoEJMqN71cU1mb2HREluB9R106xJKhUzIrVcw5lXMOj4byK78mHNJ0FJ9hRA3k8w9bTtlT5/JexjzhEbC6pnhm7U9pe6fwHHhG1jXB1+tGpzLAEQKBiWegzP/aolylyoa7owHBDetp4wsotAJGynOuO7D/snXn/fMblFi;xEsLOKV1JPwmo+x4EfVX+A=="
+secured: "JVB45pMWgab0Wcc7H1Tnxp4Fmd2vRYv36KfSMClCA4Y58mVl80xE56WcloS0Eu7UAgh0HcwAmzms2qo6/eF89+prsFCUD/NskpXK5ngzg8pWpzORnOA5v3WP6Mx+gbwSRm6lsRER7gL+cToR731RQ8cFtNRekM01ye0h4J3Grrp6VgYSJukdx1UgmRAcV5AV7b8BilwEygn1Q+70ZlJP/aEuGdOFBwfnMHy/qx+iXFLBGDe3W5446scayDNPqbZ55zbJCK/r6Kb3HZCFC/ZA58Z3IFov0Z0ztKzuyNItZ2xggZhM0T05xOJH61fDdIjh;xGiRA+olH+ZbVzpdHeiNoA=="
 ---
 

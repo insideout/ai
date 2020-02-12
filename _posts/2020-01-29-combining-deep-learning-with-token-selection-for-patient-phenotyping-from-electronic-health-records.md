@@ -25,19 +25,6 @@ images:
     title: "Combining deep learning with token selection for patient phenotyping from electronic health records"
 
 related:
-  - title: "Identification of biological mechanisms underlying a multidimensional ASD phenotype using machine learning"
-    excerpt: "To establish more precise genotype–phenotype correlations in ASD, we developed a novel machine-learning integrative approach, which seeks to delineate associations between patients’ clinical profiles and disrupted biological processes, inferred from their copy number variants (CNVs) that span brain genes. Clustering analysis of the relevant ..."
-    publishedDateTime: 2020-01-28T16:43:00Z
-    webUrl: "https://www.nature.com/articles/s41398-020-0721-1"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 21
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41398-020-0721-1/MediaObjects/41398_2020_721_Fig1_HTML.png"
-        width: 685
-        height: 360
   - title: "Discrimination By Artificial Intelligence In A Commercial Electronic Health Record—A Case Study"
     excerpt: "When artificial intelligence (AI) is built into electronic health record (EHR ... What role should regulators, such as the Food and Drug Administration (FDA), have in ensuring that AI in health care is trustworthy and equitable? AI has the potential to transform health care, but implementation at the point of care is fraught with challenges."
     publishedDateTime: 2020-01-31T15:09:00Z

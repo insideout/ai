@@ -60,21 +60,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/1day_countdown.png?w=1024"
         width: 1024
         height: 562
-  - title: "72 hours left to save $150 on tickets to TC Sessions: Robotics + AI 2020"
-    excerpt: "We’re counting the days (35 to be precise) until TC Sessions: Robotics + AI 2020 takes place on March 3 in Berkeley, Calif. But we’re also counting the days that you can save on the price of admission. The early-bird pricing ends in just three days on January 31. Buy your ticket right here before that bird flies south, and you’ll save $150."
-    publishedDateTime: 2020-01-28T16:54:00Z
-    webUrl: "https://techcrunch.com/2020/01/28/72-hours-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/"
-    ampWebUrl: "https://techcrunch.com/2020/01/28/72-hours-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/72-hours-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 118
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/eb_countdown_3DAYS.png?w=1024"
-        width: 1024
-        height: 562
   - title: "Stanford’s Doggo quadrupedal robot and siblings Pupper and Woofer are coming to TC Sessions: Robotics+AI"
     excerpt: "Doggo’s creators will bring the diminutive robot, plus its smaller and larger siblings Pupper and Woofer, to TC Sessions: Robotics+AI on March 3. P.S. Early bird ticket sales end this Friday – book your tickets today and save $150. We first heard of Doggo last year when the Stanford Robotics Club showed off the highly capable design ..."
     publishedDateTime: 2020-01-29T21:05:00Z

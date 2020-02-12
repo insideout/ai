@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T15:18:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Voice Assistant Market is Set to Reach USD 5,843.8 million by 2024, Observing a CAGR of 27.7% during 2019-2024: VynZ Research"
-    excerpt: "NEW YORK, Jan. 28, 2020 (GLOBE NEWSWIRE) -- The global voice assistant market is expected to grow at a CAGR of 27.7% during the forecast period with its market size predicted to reach USD 5,843.8 million by 2024."
-    publishedDateTime: 2020-01-28T16:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-is-set-to-reach-usd-58438-million-by-2024-observing-a-cagr-of-277-during-2019-2024-vynz-research-2020-01-28-121843838"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

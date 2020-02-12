@@ -1,82 +1,60 @@
 ---
 category: news
-title: "U.S. Lawmakers Hear Arguments for New Safeguards for Self-Driving Cars"
-excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
-publishedDateTime: 2020-02-11T05:14:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/02/11/technology/11reuters-autos-autonomous-congress.html"
+title: "U.S. lawmakers hear arguments for new safeguards for self-driving cars"
+excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,"
+publishedDateTime: 2020-02-11T23:02:00Z
+webUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11"
+ampWebUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 74
+heat: 94
+published: true
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    title: "U.S. Lawmakers Hear Arguments for New Safeguards for Self-Driving Cars"
+  - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
+    width: 640
+    height: 419
+    title: "U.S. lawmakers hear arguments for new safeguards for self-driving cars"
 
 related:
-  - title: "US House panel will discuss self-driving cars next week"
-    excerpt: "Witnesses include officials from automotive, tech and transportation trade groups. On February 11th, a House panel will hold a hearing that could help shape the future of self-driving vehicles in the US. The Consumer Protection and Commerce Subcommittee ..."
-    publishedDateTime: 2020-02-08T06:41:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/us-house-panel-self-driving-cars-hearing/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
+  - title: "US lawmakers, trial lawyers clash over self-driving rules"
+    excerpt: "US lawmakers, trial lawyers clash over self-driving rules Trial lawyers objected to a lack of protections in a 2018 Senate bill that would ensure the right to sue carmakers after autonomous-vehicle crashes Check out this story on detroitnews.com ..."
+    publishedDateTime: 2020-02-11T22:55:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/02/11/lawmakers-trial-lawyers-clash-over-self-driving-rules/4726567002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4726567002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4726567002"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6"
-        width: 600
-        height: 350
-  - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
-    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
-    publishedDateTime: 2020-02-10T14:44:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/02/10/557962.htm"
+      - url: "https://www.gannett-cdn.com/presto/2020/02/11/PDTN/bfd3cbac-2c60-49f8-bec8-325637799aec-dtncent02-796k6oa3zeracqe94qt_original.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+  - title: "Self-driving car company Nuro wins federal safety approval"
+    excerpt: "WASHINGTON - Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
+    publishedDateTime: 2020-02-08T14:07:00Z
+    webUrl: "https://www.postguam.com/business/technology/self-driving-car-company-nuro-wins-federal-safety-approval/article_1c34c964-4960-11ea-8ad5-17b7d62b54d5.html"
     type: article
     provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
+      name: The Guam Daily Post
+      domain: postguam.com
     quality: 24
     images:
-      - url: "https://www.insurancejournal.com/app/uploads/2013/09/Congress-580x386.jpg"
-        width: 580
-        height: 386
-  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
-    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
-    publishedDateTime: 2020-02-12T01:57:00Z
-    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
-    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
-  - title: "Prediction: Market for Artificial Intelligence in Cars Will Grow 1,200% in Next Six Years"
-    excerpt: "The market for artificial intelligence in the automotive industry will go from $1 billion today to ... for more assistive and autonomous features for improved driving comfort and safety, as well as realizing the goal of self-driving cars and trucks. AI-powered features are already being developed, tested and offered on consumer vehicles."
-    publishedDateTime: 2020-02-07T19:07:00Z
-    webUrl: "https://www.machinedesign.com/mechanical-motion-systems/article/21122520/prediction-market-for-artificial-intelligence-in-cars-will-grow-1200-in-next-six-years"
-    type: article
-    provider:
-      name: Machine Design
-      domain: machinedesign.com
-    quality: 10
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
+        width: 800
+        height: 448
 
-secured: "tesiXR85X92NKrv4hkUov4Xh9v0jb9xvT9UM2/WpST360TEM6WvX20U5Bo80bnkvg6GocdJO3U2IaRMIcx6rRLSkz3kXDxzoreJXqoiINXkN1ngjQONfDjGSRNotpcX3XzZJ0XJpeJSYz0UihEBCfeJ+uTz7Mh4lpGM+4tOkizWPrvTlPDBGJJ+uOufwyCYl8SemqPKesDlCvPBMTcf1Q+7j7aHqttkVKucQzeTagHm4G3eIAhRtjvrum67rpv57D2tdFs0pwK1dQkUdCCZQvt/DsOWDsYLv/djWQ3EkvYQyQThfVi/LJZfuwJp71J2H;bJuQrnu/0YBpkO3Gou36Jw=="
+secured: "omCknjkH2yz4vMwSHCxYVBBuxgtxag7gCadbkqVM5hzGnn0kPJ/0CHsKQTcaeOefNf0UniiHUT9zl/axMKrx3NYJDi2D/mqptAwcGe3j+EaYgwJCprvrWjCIWeXiyuUc1z8CxFCcaye1Y+wITPbBa9SfVD4qTgcE4+04A1ES1Y8MHCzF5nW4LEafmh/ZPygAAQqjxqrHUjJaJJsnOFNrOYtRib3UH+Pkdc35iuJk3Wt6QaZYCz3vOktcBSooqWFC+CqonbqRAk4m+xQtmjF1GObsnIN2cRpWi8pxpXlvftG5m1KKFTQozogDOTo7JLGj;LNZi/t2I90fhK58Nr0XtUA=="
 ---
 

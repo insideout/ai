@@ -59,21 +59,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/1day_countdown.png?w=1024"
         width: 1024
         height: 562
-  - title: "72 hours left to save $150 on tickets to TC Sessions: Robotics + AI 2020"
-    excerpt: "We’re counting the days (35 to be precise) until TC Sessions: Robotics + AI 2020 takes place on March 3 in Berkeley, Calif. But we’re also counting the days that you can save on the price of admission. The early-bird pricing ends in just three days on January 31. Buy your ticket right here before that bird flies south, and you’ll save $150."
-    publishedDateTime: 2020-01-28T16:54:00Z
-    webUrl: "https://techcrunch.com/2020/01/28/72-hours-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/"
-    ampWebUrl: "https://techcrunch.com/2020/01/28/72-hours-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/72-hours-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 118
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/eb_countdown_3DAYS.png?w=1024"
-        width: 1024
-        height: 562
   - title: "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020"
     excerpt: "Today’s your last day to score early-bird pricing on tickets to TC Sessions: Robotics + AI 2020, which takes place on March 3. If you want to keep $150 in your wallet, beat the deadline and buy your ticket here before the clock strikes 11:59 p.m. (PT) tonight! Our one-day conference dedicated to robotics and AI — the good, the bad and the ..."
     publishedDateTime: 2020-01-31T17:10:00Z

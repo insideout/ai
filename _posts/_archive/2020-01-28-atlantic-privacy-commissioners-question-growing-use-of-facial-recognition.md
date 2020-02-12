@@ -1,33 +1,29 @@
 ---
 category: news
-title: "British watchdog urges caution over police facial recognition plans"
-excerpt: "LONDON, Jan 28 (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance ..."
-publishedDateTime: 2020-01-28T17:25:00Z
-webUrl: "https://uk.reuters.com/article/britain-data-privacy/british-watchdog-urges-caution-over-police-facial-recognition-plans-idUKL8N29X4CD?feedType=RSS&feedName=technology-media-telco-SP"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKL8N29X4CD"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL8N29X4CD"
+title: "Atlantic privacy commissioners question growing use of facial recognition"
+excerpt: "Information and privacy commissioners in Atlantic Canada marked Data Privacy Day on Tuesday by highlighting the growing prevalence of facial recognition technology. The commissioners from Newfoundland and Labrador, Nova Scotia, New Brunswick and Prince Edward Island say that while the technology is in limited use in Canada, it is being ..."
+publishedDateTime: 2020-01-28T18:03:00Z
+webUrl: "https://www.cbc.ca/news/canada/newfoundland-labrador/privacy-commissioners-facial-recognition-1.5443150"
+ampWebUrl: "https://www.cbc.ca/amp/1.5443150"
+cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5443150"
 type: article
-quality: 89
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CBC.ca
+  domain: www.cbc.ca
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-    width: 1200
-    height: 630
-    title: "British watchdog urges caution over police facial recognition plans"
+  - url: "https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
+    width: 620
+    height: 349
+    title: "Atlantic privacy commissioners question growing use of facial recognition"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -90,6 +86,21 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
+  - title: "British watchdog urges caution over police facial recognition plans"
+    excerpt: "LONDON, Jan 28 (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance ..."
+    publishedDateTime: 2020-01-28T17:25:00Z
+    webUrl: "https://uk.reuters.com/article/britain-data-privacy/british-watchdog-urges-caution-over-police-facial-recognition-plans-idUKL8N29X4CD?feedType=RSS&feedName=technology-media-telco-SP"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKL8N29X4CD"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL8N29X4CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
   - title: "British watchdog urges caution over police facial recognition plans"
     excerpt: "LONDON (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance between ..."
     publishedDateTime: 2020-01-29T00:00:00Z
@@ -268,21 +279,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_06/2878756/190531-facebook-mc-1420_f639f66c650025e6a1878b44481e1754.JPG"
         width: 2500
         height: 1668
-  - title: "Met Police could deploy facial recognition against protesters"
-    excerpt: "The operational use of live facial recognition (LFR) by UK law enforcers could artificially inflate tension between political activists and police during protests, as participants may feel under pressure to conceal their identities because of privacy concerns. According to the Network for Police Monitoring (Netpol), which monitors and resists ..."
-    publishedDateTime: 2020-01-28T16:38:00Z
-    webUrl: "https://www.computerweekly.com/news/252477453/Met-Police-could-deploy-facial-recognition-against-protesters"
-    ampWebUrl: "https://www.computerweekly.com/news/252477453/Met-Police-could-deploy-facial-recognition-against-protesters?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477453/Met-Police-could-deploy-facial-recognition-against-protesters?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
-        width: 1200
-        height: 400
   - title: "Privacy Groups Hail Facebook Facial Recognition Settlement"
     excerpt: "Facial recognition critics are weighing in on Facebook's revelation--in its financial reports this week--that it had paid $550 million to settle a class action suit alleging it had violated an Illinois law by using the biometric technology without user's ..."
     publishedDateTime: 2020-01-31T12:25:00Z
@@ -753,21 +749,6 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
         width: 1200
         height: 800
-  - title: "Atlantic privacy commissioners question growing use of facial recognition"
-    excerpt: "Information and privacy commissioners in Atlantic Canada marked Data Privacy Day on Tuesday by highlighting the growing prevalence of facial recognition technology. The commissioners from Newfoundland and Labrador, Nova Scotia, New Brunswick and Prince Edward Island say that while the technology is in limited use in Canada, it is being ..."
-    publishedDateTime: 2020-01-28T18:03:00Z
-    webUrl: "https://www.cbc.ca/news/canada/newfoundland-labrador/privacy-commissioners-facial-recognition-1.5443150"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5443150"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5443150"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 58
-    images:
-      - url: "https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
-        width: 620
-        height: 349
   - title: "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society"
     excerpt: "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ..."
     publishedDateTime: 2020-01-31T22:41:00Z
@@ -1539,6 +1520,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "/yNyRwx4jwKrZ1yWbXPhVd5hXRm49YoaTqmytngRWZ1JsQtTfZl7J3D1Y9Q/jxunes7650ADkdYycDMU9NGaC0gRr63ewYvmdLKjW7ohPMgbBf38HlbnZdIzBM6hg3WF1DxTtmk2Nt6WcPuVvkdi9vFd8xo+HKDuCp5F3CAeltFqedzSnS25CwC63ii24Vn2duY4CvgMP/gDSIkjyTEpx6ghLBFuHvFx0qMZot89HJQvh7c9tFFO6PzUZpdvAxgf0drSveRCcgzvJBzXHiQ2IuW4s1yc5StSTcABbJ0FNLYLmhCqFSGAQSE2lmJs+lAP;Ay7d+qEMPDTyZXffI58lIw=="
+secured: "LUhMif2XX5OabNwFqZq1q//N5/opIBNpvBKQf6w5elpmF3kNSGTOX5rcXcffDm6F1Nk9BsTBwDB3thfoQuEK3vuUC+DGbART6/e4tRCQIYYoyV2fK2VLT4MS26VNLOKFxHKjKvfvaL7MUJxL7RiPVjQAkFqVKoarz7Nrgv6rkTj9LYBv85XX3YHvVFoweA+++FdX7oa5x5Rz07ycbSfWaduXjk2+bjfLvMMx/sZJzYXkN6t5aKgspRBXYbyRbyAFl5e5OAzqrCjVqH5T7aMM72SRemWgJgvW3rsMEQOIaNK1ifiONBJu6hoE8YfB/Tb1caMm9Gi0QaHFVx0nKUKRJdhv605UcQpUHNTdHiGlno6bIQDVdNpDR2MyOYkhXYIdDUwQ6kpDRih1yiv/lDej8ZAWzak9p8TxPic/MktU4XOaipFAdwvL/tIUtt2gN1KN4bTQzv3ankmXdbWtx3YlFOfgU9GB010l/OafzCleh+w=;zpkBF8pCGZwxg+4wbhH0Eg=="
 ---
 

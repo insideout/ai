@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Facebook’s AI learns the relationships between physical places from first-person video footage"
 
-secured: "KcdkD6qEqJp7o4jPENNG+wUC/+FzkKwfWPWFFyFCexAReSVs8a3y/vFdD7Rl1Lf2cuIijiM53WrKzppqo5b1SFcqA3W/YHNs/R5pvxdFIf2TpGuB39t87K8LMRE2BkC5GIDf0EDgdamvIhRp7obA35XHiYoH2/k/uskFX9RQRHcJskh5ZuE12ih5LFC3SVhjsK9F6F7T5yudsav7cqnLrBNmEaeYQRsGbh1KdXN6HESbiFBJFjdlJyIOuo+ir22IT5rTBfHgJMpCtzo5hOq+1X1etoiwVi4CBtqkGX9qGkQvco8/fZQ19gyN4NiokYhH;tacVN/V/uS9hooMaMJtthw=="
+secured: "riiXHWwcerqEC5B8TsVwIlKtSTESyWw05oE1EQVUr4dh3kgXmxzCO9EwJJmC9uWiVkWlJDxQ0QNpfmXnLHk8Eja2Pt2EclKzu81Ttm63abOjNhESmli3PxiP/vgKGM5mpABVldh5XRNuenAriULwgqH2d+w2usw3ywdjkxQKU6FWIYnWmCYWAb1+LFBUyWuV117X8XktmHRYLQtBRSMZfZkylc/55uASuxTyxKalWVaui1flkMTUCcObWRjOB8Knzmt7LDq5cpoit/O4AWf0l1oaXLt/Oeocwu1940396ptYFUaWVC+j+aBeGoTWzwfj;FJKLkd4WpJnK5AL9APvtTA=="
 ---
 
