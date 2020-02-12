@@ -301,15 +301,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
-    excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
-    publishedDateTime: 2020-02-12T19:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-size-share-growth-rate-revenue-segmentation-industry-demand-forecast-to-2026-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Global Educational Robots Market 2020-2024 | Evolving Opportunities with BLUE FROG ROBOTICS & BUDDY and fischerwerke GmbH & Co. KG | Technavio"
     excerpt: "especially among robotics industry players in the educational robotics industry. For instance, an artificial intelligence firm, UBTECH Robotics, which develops educational and entertainment robots, raised about USD 820 million in May 2018. Thus ..."
     publishedDateTime: 2020-01-31T11:00:00Z
@@ -409,6 +400,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "B8Eqbw1XY3d2BTZKo3eDH6qCbEOpf2zqkRVpgZeheIOMHXGPonr+iNrzsOy6hVQa0jau30hi//BZGtfr83vXd5LBOL+QTq+ytIPmMN1DacUVooVB4QUe1eUKAqlcK4Sc4y4UP/vx+vR+ZVPL878+Es5U80FLWwYC6hoDFMYm+wqPgmhU5da58aF0sliWN7JYDwQUq3QqZJ+MVkBziSj3/HQRMfDPand8DTEs4WuGSlX46+BYvuwnBcLHCbhpUouC0sZ7UoQqgKsDXEjzhaeDIoeVd8QWqijNkCv/nquSyG2Zgx+mYONDZlozPeLaalFr;i863IL69OwB+ZgWrKcd/1Q=="
+secured: "YOd2tZr4QQ05Ol5UbxgJd5gS1e/GXfNFXTtywfwZ/Uixs6ZvbYbgIlengrwYjLhsSGDGuN9IwmH9PqUreohy8+/L4G/J//Pp6A/QynArnaylRibVxSPqKvnuWg5JWzjFHbHAwkazn11i2Cm49wJsoI6xaL0AM8hseME18yUeGJg1S8lj0iisPc5D5qeISPgL4kGzwwTgBvOfpZibh6jA9IkZJpbzeFitp3e4Jx0H2pHEyxmguPUZtj6HMKCkY9AO/p106v/IKJ5qvOD9kku/mjhO8TcdrpXfRnJuEdudR81KGEiuuSO5rDLvuO+fu4mw0P40PQDVzK3X884ggBklGmf4NN7o9X5g1BURHfykOGK7ZJNfF2Bb/dq+efIzo7lpNe9WVV7PMI9mGGWQHBLIdw9tmZ6qQ5fnVSba86jBxJPTnoVjRFAZcYuMubDtFNWd9fzRBOntLU1TAgoGh7CLaUXDGFyMQjqHg0szBEdJQqk=;NzIiafx2YzAco7KU2uSCug=="
 ---
 

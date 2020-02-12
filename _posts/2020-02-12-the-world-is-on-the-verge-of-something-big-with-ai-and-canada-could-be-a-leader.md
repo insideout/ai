@@ -25,6 +25,6 @@ images:
     height: 750
     title: "The world is on the verge of something big with AI, and Canada could be a leader"
 
-secured: "2UdXoY+m/TCAex8E/XpxXToa5Tu0GxLI9gO9jGisQ1FqF0N4YaGWTQCnjbAPG4nlyHcIujlavvar8ltS6GnK+VRpHOghHlnleFUBqX8NaEEDMoXonUb3yFEjZ05UjND1LEjQjI9o5xYbpPfelMK93BGz7P/5Ra+Fchb0T5V7AIq6OEi9ffBIMM+uFdPZHZzy42nm4KHQGnXjOuHhSgvcFgzq79oeO80CEd653+NbOpMSezARKmXzo1R2AurAYjsmSlHPKdBehjs4Gyhq/LxCyTBoF/5r7FGt4bLbV/QuzbQ4D4NqWHWP/iqLE9LIprqk;e9CKFtQgJimymGRY2EVZrw=="
+secured: "I+F256MPBHNusfPkYcPv/Q7V49ofd4a+ClK/dzIlejTkTh0fL/iXBgGgGpx8X0DXLnodtTvQvzRe1WZtP9NwxpXRxlUjJsnrNnu+l/nBl1KEmprGgiaQPk4NP9XZkj0YhGWDExDxuqMx3iSDQHjJJXeClsc3t6LeLOcymPR0Sdpwo/mi5KGdwpn6UM48Ba3+VdwBvCWT9Qb4+Sv8e34H53FNd649oum4+YxmLD04L2+zCWA0y/qcwpcNl1EJVDbRErGVStcWorj1sm3uf3zWH+HHPN8evgbU34nlbW3fnxMzRrhXmBR065MYNE0tUEOlVa69aOaLPXlov9boSwhAhEtUvD9NVmlwJHumf+WihoA9J7QtxkzkuQ38zyH6wss17fVTZUODoPJvfmYUwi17Rta1FW0SPHOzkbxpxdKNJQGvh3+rBaVqJQRXoC+dzNly5RJS9IRpjUEGzhBQkRgQstQtpm6AoMAVwCKPv3/WcXA=;V/QS/QlvaS/o5z8BXvP6Ow=="
 ---
 

@@ -51,6 +51,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "1X8fEpHLRNW+Xx1w1zibSy0SFPwk+6gyf4IQo/ygwxErg0REMmL4RIWHf3kBCJwA4TX/+b06txsmNAwjdCH9yY6eTjqMKio5JXLV5/ZpgyFcXvpStNZmBmTh2bY3kNBN7UE9YcKeyqXf73vM5fTuZgpWPnhilP7yYxIzjQvUpL+B+aRzBMwUkc/1tgDjTLoPZDgMYJ9saX9xjaAkhAvXMBsMKlni9GfOxwKusLBKjJHyz22O4XDFF+UQ1ZfdaDJcXweCoBRM19tJtl/9Bwtu8u/NwqmO7WcFeMtPlY4dbCE8eNoffn0szBtNb4c7eYWR;Je+iWWy+LBmlEU28nMi2TA=="
+secured: "PAj0i1qXLtZVF9ZkCtM1qS56+V4V9+rK8uZaruzKv89Q8op7GkJuLFRmfb4xse1ApltIvrOQ/44F8Aq3VkY67xYf6lsSQW0WBk9b6qOUeJz6faEBDv4CkqxO36hN8G7pjc5dd/XnQiqjPuoNFGlIA76EVSZ3FkLnJxXk67ntPF/Plp4J4DLOq5TAHSJEF2ImP0qqxNr/a8blItym2wgwpku+N2DzVy2mXbWRAiqnXE3Ff+Fb6tp0eZo+kHVSRBnLJf2uQOL+qQMmenXv25AIggzu+hfmz/ESl/y3zg6hR/1WhqF+te70Ou9DM6i5XHuj;HVGxU/ucspC3jSNR1bueaQ=="
 ---
 

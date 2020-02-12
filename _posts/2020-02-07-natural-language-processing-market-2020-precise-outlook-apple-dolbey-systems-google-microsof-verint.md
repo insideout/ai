@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T09:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-precise-outlook---apple-dolbey-systems-google-microsof-verint-2020-02-07"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -63,6 +63,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "Edge Artificial Intelligence Hardware Market 2020|by Top Key Players- Apple Inc, Xilinx Inc, Alphabet Inc"
+    excerpt: "Ltd. The Global Edge Artificial Intelligence Hardware Market Research Report is expected to display ... and SoC accelerators.). Segmentation by End-User Industry: Industrial, Healthcare, Government, Smart Home, Consumer Electronics, Aerospace Defense, Automotive Transportation, Others (Retail, Construction, Manufacturing, Education, Etc ..."
+    publishedDateTime: 2020-02-12T20:20:00Z
+    webUrl: "https://apnews.com/Wired Release/e7593db4ef23ab8e0a529a9919ca3ab2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "tk8CYMYgutjU+KyGWCbVpqO7SMdp25+GkgphBzNkvB+kJ5n8fz1BFFyq+D5JKTcoGXiqsroNWq4d10VUJ2FZkpuJqEzSUBM0dUy/TPYgvQEFlsXFmnzL4UxNU+A8V4cZxuDmHvG0J+sjUlNHniym7orKC7kogc4L6PEi7KMpniAWGKJvULkEhaab7bxrNRIe9oYuDp3NWWnrcOk53UEf8dk32gSQa+IzN0DMbf+c9n+I4o5M04EzGyLz39O5PSUvwffpj+DLN9K8qTAOIoBolHtISblHRHwyW3y3LyvVVmFUY1MePcWsnTE23EDR2nG5;DYuT8fcZ6wCYldeDdb9PDQ=="
 ---

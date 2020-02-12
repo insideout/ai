@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15254403"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15254403"
 type: article
 quality: 76
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability."
-    publishedDateTime: 2020-02-11T06:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
   - title: "Global Artificial Intelligence (AI) in Manufacturing Market Hits Record Value of USD 18.5 Billion By 2025"
     excerpt: "The \"Global Artificial Intelligence (AI) in Manufacturing Market Is Anticipated To Reach Around USD 18.5 Billion By 2025\" Research Report provides the newest industry data and industry future trends,"
     publishedDateTime: 2020-02-11T06:10:00Z

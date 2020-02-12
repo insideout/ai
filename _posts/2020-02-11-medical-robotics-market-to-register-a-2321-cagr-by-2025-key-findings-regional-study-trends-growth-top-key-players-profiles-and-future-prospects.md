@@ -18,32 +18,50 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES"
-    excerpt: "One way to increase robotic abilities in a safe and efficient manner is to use an innovative new technology: computer vision. Computer vision technology enables a robot to use a camera or scanner to transform multidimensional inputs into data it can process, “perceiving” its surroundings and mimicking sight. Computer vision coupled with ..."
-    publishedDateTime: 2020-02-11T12:34:00Z
-    webUrl: "https://www.roboticstomorrow.com/article/2020/02/computer-vision-and-robotics-expand-industrial-capabilities/14749"
+  - title: "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023"
+    excerpt: "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51."
+    publishedDateTime: 2020-02-12T20:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 71
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
     images:
-      - url: "https://www.roboticstomorrow.com/images/articles/14749.jpg"
-        width: 680
-        height: 295
-  - title: "Deploying robots and drones in process plants and facilities"
-    excerpt: "Artificial intelligence made analysis of large data sets possible, and machine learning can be used to make decisions and take corrective actions in real time. The convergence of all these and other technologies has created space for innovation, with robotics one of the main beneficiaries. In general, mobile robots and drones must perform two ..."
-    publishedDateTime: 2020-02-05T07:05:00Z
-    webUrl: "https://www.controleng.com/articles/deploying-robots-and-drones-in-process-plants-and-facilities/"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability."
+    publishedDateTime: 2020-02-11T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
     type: article
     provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+  - title: "Computer Vision in Healthcare Market to enjoy 'explosive growth' | Xilinx, IBM, Google"
+    excerpt: "An extensive elaboration of the Global Computer Vision in Healthcare market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
+    publishedDateTime: 2020-02-08T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-to-enjoy-explosive-growth-xilinx-ibm-google-2020-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
-      - url: "https://cfemedia1.wpengine.com/wp-content/uploads/2020/02/CTL2002_MAG2_F3_Yokogawa-Fig2_RemoteRobotics-Slider.jpg"
-        width: 645
-        height: 350
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
+    excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
+    publishedDateTime: 2020-02-12T19:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-size-share-growth-rate-revenue-segmentation-industry-demand-forecast-to-2026-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "dbPKoHO8qa9I6z5ukMXehdNCl96c/B9X+v4m4xS51Xgxcr42p46ZqOBeDoleWTDKa7ACK88jFgVyjJBlDmSCJavLGZRQmcmEfutypEd+x+o774TrwDpNGqyHj6TlIrG7NX88IIr/TmwVs6+CTK7MD/cMhOcqT2imlThNrroP6HsJ/irFkgxhu5M4WmxLh6rms7ZpQJ2SOOKK5ZyBIBRH/SqmZyNhYVzhxTq29Sue9VysP9PZNnUUdK1KvW4AyBmbfQXLIvgn4P5jvDclMjlheuN8ERUipLpU/RId1xqCC/BJ5JnR9KIIg/HSbPsX9nXKMxuYdNITpwY5FU97KGCoqpkjT2yTGs8Ol4aRi0bzssLToPRmRgjY+Je/gVTmccvBJOcj9JBUs0tC18qWgY/AJthmJWQ0dj7VUczv/n048Pi2DgBJ9/QSEgZjRqO4JMc49th/BHNTkTidYcCPundOzOdACK5wWm+VWuVP3haZB0s=;/d5hZX9L7ZFcRmmwKVcatQ=="
 ---

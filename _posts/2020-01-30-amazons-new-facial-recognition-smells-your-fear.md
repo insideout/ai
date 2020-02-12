@@ -920,21 +920,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
         width: 2016
         height: 1512
-  - title: "CPD using controversial facial recognition program that scans billions of photos from Facebook, other sites"
-    excerpt: "Critics say Clearview AI’s software is an invasive overreach because it grabs the photos without the consent of those pictured or even the websites that post them. The Chicago Police Department is using a controversial facial recognition tool that allows investigators to search an image of unknown suspects to see if it matches a database of three billion photos lifted from websites like Facebook,"
-    publishedDateTime: 2020-01-29T05:30:00Z
-    webUrl: "https://chicago.suntimes.com/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 43
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Z1sfgvRN8Spjpfj6rY2OvYwMNYI=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211429/large.0.jpg"
-        width: 768
-        height: 465
   - title: "Springfield Mayor Domenic Sarno vows veto if City Council bans police use of facial recognition technology"
     excerpt: "SPRINGFIELD — Mayor Domenic J. Sarno said Monday he is poised with a veto if the City Council votes to block the Police Department from using facial recognition technology. Sarno said the technology, which is not used in Springfield yet, could someday aid in the arrest of criminals and enhance public safety. Citing the recent abduction of an ..."
     publishedDateTime: 2020-02-03T19:05:00Z

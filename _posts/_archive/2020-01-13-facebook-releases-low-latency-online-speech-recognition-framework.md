@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-onl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     height: 600
     title: "Facebook releases low-latency online speech recognition framework"
 
-secured: "SDq/1nQ629Lur5G2STQ41HuoViJpXgrz5gDUX/oBbAdtuppa23+Sx43TJZC7JjSWyhQO2eDd2XQDWYvtBWXAbyfdSHhxGpSkbWWV9QkpjoZYtTh3jha1meGloDEguNWw9Cc0t6Z9iHp2eYlLNu1hOrSQJvecwvaDpAAaHhTRd64pVe3CKBvn9bTBloTw2QjnbNfbNXkJAZ5cNKAEYMo1udRAfK79kvccOTlZDUn/bQ19/EMM5H5t3j2tk8p+88JGGYLYuxZ8BJrnoIdsPcxYIbkeGXj3ll473nWqcHO5yJRewKhOnQ0ZkFHQ0agNYQ4n;zGRosmqsA5O0U0tFc37IGg=="
+related:
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+        width: 849
+        height: 565
+
+secured: "A/qwr1i+y0G9x3I+D1RavtImC+rGr6LfuwqFrzItWjWdoXOcfqYe9qtwInq+KvqYxmT+SPcwvvRKXI5hJvzwjLU4Qbir6F2LfJ93NSad+vHCvNhBnILx5xHYSVZ3icnkRBqpATR03TomBvn/ywo4JdNkzWiOu8+MRrcWJAW9RBEa5FKj02qVB83mB4GODhuq921DiW+jA+WPdUCbwc9ppql43sNW4OLT/QyMAoUbFCSV2uh7FDtAwELFcp1f7ETbAqjHUz41oMJhhX49k+qB59joksqYqypNvkUavgwwe1X858jx6yIyo22polxQYE9t;HkfN4Wu/Q9QfZNq0MNfjXw=="
 ---
 

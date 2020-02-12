@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T09:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
 type: article
 quality: 70
-heat: 400
+heat: 390
 published: true
 
 provider:
@@ -294,15 +294,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
-    excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
-    publishedDateTime: 2020-02-12T19:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-size-share-growth-rate-revenue-segmentation-industry-demand-forecast-to-2026-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Global Forecast for Artificial Intelligence (AI) Chipsets (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Chipsets (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate ..."
     publishedDateTime: 2020-02-12T10:16:00Z

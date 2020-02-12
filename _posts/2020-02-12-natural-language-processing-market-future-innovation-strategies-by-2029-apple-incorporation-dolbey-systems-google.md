@@ -63,6 +63,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "Edge Artificial Intelligence Hardware Market 2020|by Top Key Players- Apple Inc, Xilinx Inc, Alphabet Inc"
+    excerpt: "Ltd. The Global Edge Artificial Intelligence Hardware Market Research Report is expected to display ... and SoC accelerators.). Segmentation by End-User Industry: Industrial, Healthcare, Government, Smart Home, Consumer Electronics, Aerospace Defense, Automotive Transportation, Others (Retail, Construction, Manufacturing, Education, Etc ..."
+    publishedDateTime: 2020-02-12T20:20:00Z
+    webUrl: "https://apnews.com/Wired Release/e7593db4ef23ab8e0a529a9919ca3ab2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "Vbu/G4h5uOY5SgkSbl00HJHL+kAD019W9G5DCmJ568cErAWsT2K5CiUurTC5SNrkzqMxMbKvWcEeIAcd7eAkK1XH2py6Y8I4r6Z0h9aFTZ5NeEgjdme9KN1lG81COdxBwXzQjEogL1RkL2iLG4Jvq5aMvsZkx0KeLlGTvcMI1GKRYUBxpFkyUY5R+ik4c1nS+Q5gx4N6X/KKgEWFNFWnHARAIm2Rz+9wjVhd50iCi0YIDLB9I1jGxjW/G4Tx8KzsCG6OdrFoRKMgYq+4jy3mPJ/r5BocN1hiSuiLh9sz3ITTpmdV36/KkGFJpC1mU5AN;HxtAFVM04FPEfbaT8rpgEA=="
 ---
