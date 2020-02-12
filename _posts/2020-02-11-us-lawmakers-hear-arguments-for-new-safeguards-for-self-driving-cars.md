@@ -56,6 +56,17 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2013/09/Congress-580x386.jpg"
         width: 580
         height: 386
+  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
+    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
+    publishedDateTime: 2020-02-12T01:57:00Z
+    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
+    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
   - title: "Prediction: Market for Artificial Intelligence in Cars Will Grow 1,200% in Next Six Years"
     excerpt: "The market for artificial intelligence in the automotive industry will go from $1 billion today to ... for more assistive and autonomous features for improved driving comfort and safety, as well as realizing the goal of self-driving cars and trucks. AI-powered features are already being developed, tested and offered on consumer vehicles."
     publishedDateTime: 2020-02-07T19:07:00Z

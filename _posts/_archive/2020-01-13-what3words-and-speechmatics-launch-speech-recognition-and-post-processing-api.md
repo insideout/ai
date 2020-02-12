@@ -5,7 +5,7 @@ excerpt: "Location tech firm what3words has released an end-to-end speech recogn
 publishedDateTime: 2020-01-13T11:55:00Z
 webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-    width: 620
-    height: 500
-    title: "what3words and Speechmatics launch speech recognition and post-processing API"
 
 related:
   - title: "Facebook releases low-latency online speech recognition framework"
@@ -47,12 +41,8 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
+    quality: 34
 
-secured: "oBipSb1ziWUGyo1I9r2MOWBSOzqokGuYaqrevFqIGhMTWsY6QgeUFWvvY+bbPdOfk9XX47oz8RJ801yD0yJuDXdT1EE7AHnfgctMLdyePZbrSppi44DdKZKgnUhGR+zOE8KJqdoqnzIScXsbfTzzO49RnoOlxbSyGWbkAKBqlMjdKka8xd56wTgW04T7wAsBdjz3bRX15MwI25Jf/zNpUxoJ8Pc/Mnf5WRlgvaBnD7ls2+bC5TqiD0qqm8S+YsiMxSuy4321Bki3kVhMSF+Wk+FnwDkAvs7IVDPwV5gnwT26uMPPuUs2zFkwEyvEodhy;+LeMolRhdwUYE/Rtj5A5UA=="
+secured: "ehOgJ+q8QlDuwrHbcsVVsFb3rL/POY3BkE+hD6QtSHjeePbDvxo2AUlbZbCFkxNbjb3aGPtcrwmKJQ7DDKdzVhxl+BLtPe/KbNPpMkZ1QqoqhRAILsGichmBCAFIXJmAv9HBAZJcErvR+MzRMJ04B1ZmiMwvSAoapEiaXjuOj9R3Eky1DjqKHJU6FJPNQkc8A4USr/UYTLFF/Ve3JeRk96BUCEJ0IEqNjY7fti3FblgkbtNjdZIHoQIuShA/mqNWuOUa2JXAlEDilLiEOfRVpPGY9fZV+mQU5uvQH+SWFsrqgAp48SZLa+EvaHwqQfpI;IzaUAQ0Qbt8wAu11lLS0sA=="
 ---
 

@@ -49,11 +49,7 @@ related:
     provider:
       name: BCW
       domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-        width: 320
-        height: 210
+    quality: 34
 
 secured: "toZm4iJqj8ykHle/vev/8Z9mCIKhPjrXzk9b0rX8hj6LQ8hEWwIDNXKxHRxkWL/7J/BTKtnGRpTQzErm0Glvc4Oei/UEpoUchBJ4Zr5H6ky7VWZL/PUVl89dcehGcCI+a/iKK2vkK68yuF7svU5h6mODDREkjRcTGNbP2OqbiF1EEoalknJzJGgzvMkKzTdbxMgCSLGg1oBATmBC3fxw8v+nBxDYwBIlsgiVD7Dl12O0/4e9y6PdGCdZiSBQOhfveWh+Jge/tgDICLjdoDILg7bR1ZbiJPY3fvfVRIgAbvabZ8w5A+ClL/e52DlprKb8Xzj026NsP9YodgjHvlNYY4zsYl7UHF+yH8JFjXmt2Ofivz18SllJtBGtAAJAKUYkLJvE75ICy7dA/Z0/WCExCLFRtT1T0GBxckkBuB9kvB/rvxJ/DPh8pjChrUl6o6iABdwSHLFGMYoSgkA/CvbOqxZ/i7AgNGVdCgdgh705fSM=;aExCUkGGv/ylnFuJaJbyRQ=="
 ---

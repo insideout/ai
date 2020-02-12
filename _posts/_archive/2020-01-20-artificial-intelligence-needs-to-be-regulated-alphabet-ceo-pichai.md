@@ -7,9 +7,9 @@ webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-n
 ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 54
+heat: 64
+published: false
 
 provider:
   name: Mint
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-    width: 600
-    height: 338
-    title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
 
 related:
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
@@ -36,12 +30,8 @@ related:
     provider:
       name: POLITICO
       domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-        width: 1200
-        height: 628
+    quality: 39
 
-secured: "0bVjjYA0zy/x/mI70TDsuIgC25xbD383TH/hZq35L+3ANSP1JnfkB/DJlbAsIm4gDF8i+cLTbpQmkfHHQCyRL07ykN1vA+HJt3c4DCR8FLwlC3b+odVD+23sQ1t6YcLxRR4cYmR1iVhzzgPPi27jvAGvvzFrnOIl/4r+3579++6SighsqmMuYxVvxjX62U5X/FmZRYEoiFU13cDIoNFj3RLbmckg0EYVDjaz+NEw4MbU9RCEsO6NpHv/yoNfTWeW5EusjJBew4SOgk9fFIdRLvW2a2JDyx+hbxAzpE/CxkJJQfrq3vSV3+yT0irxXcvX;byHAXSSye7Drsej6f1PY2A=="
+secured: "IfQzxER1cHBHbeqqTfhimdtDkojzMEEOgxwcH3sSmacV93cJo4RT6HCNgaldsYL9zhcRkFEgOC/l4N7u9G5Ibei0vkCwZVSzzgz/bJDcZxpVOS9A2LlHS2rwJNQ7MohmfF6u23XzWK9oIoEVi3jGEHlUS5pd6oCoCpnUtJAIxkiRKkeTzZtzbzUAbnpToJrwg0VBZMycPmgbAT+1A5bbmoDj9I6Lh2X4vHHI7m/RZNwMVVTCFX4UqIyT4emg+/EqbYFr+O+BUoWRqMqXVcc5Oo8oaLIKDWa74d8vXD6wwwiHoWtEHVTDHiFUFnzuzB/O;CharHmGAmszyB8VCDl4bTQ=="
 ---
 

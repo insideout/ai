@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-scotland-51449166"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-51449166"
 type: article
 quality: 86
-heat: 276
+heat: 286
 published: true
 
 provider:
@@ -90,6 +90,21 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
         height: 400
+  - title: "Chino PD to hold forum Wednesday on proposed use of facial recognition technology"
+    excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
+    publishedDateTime: 2020-02-12T01:16:00Z
+    webUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: The Press-Enterprise
+      domain: pe.com
+    quality: 54
+    images:
+      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 578
   - title: "“No justifiable basis” for Police Scotland to use live facial recognition technology"
     excerpt: "Members of Scottish Parliament said that facial recognition software is known to discriminate against females and members of the BAME community. Whilst Police Scotland has outlined its ambitions to make use of facial recognition technology in its 10-year strategy, which plans to introduce its use by 2026, Members of Scottish Parliament have ..."
     publishedDateTime: 2020-02-11T11:26:00Z
@@ -264,6 +279,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "gAvv/e4K2upjlD6BR1HfbQyjiiJN2HwoyyqX/rptiuZWafvrVkpmu3jevoDwNNB6feDqwwUa52137KOhIG7y81144HGO5Ok6qyrS1qNk25LMUuCIwWB6djxGM3eHbLVJkQN+sHEVo+yGMXIzTFWQk/1GlacEIFZK6TqkODxGmrM2tTY4s8w5IC4tH0j/Rg11FKwj1FQxX/IQ9vkv9ma+HPtyhf+qQ6Kv3Lfv4NGvGFGukB+VI4m/KMZlZ8sMC2g6h+socdTpsJabk3GElfCw/vTr0L/P3hIFvVDe2Eslm/73Cr44w5Zdfz4VpCvD8iOM;CmUTxW+GItswfR9kRAjzwg=="
+secured: "NcKd6FA7CfqHUtompPKlbzQRr0vFcx1HLWPpf61bT5iSze7dUJlVEZTlQgkxicRV09i4vtY6+tfzg+QMjM0gL+f1coQltIm6y7LHqRGvdQ61zHyQVT6R/ldgww1El4CiocWIxRxoiHv1p/xX8um8DwTEHpuDEmsM+u1UXP3/RMPh2dmDmP33hvCwlT6VmSXLepTQPIMnWPxV+R/pG3xzS/AHfZvTlU/lWTcwd1gN57DVc3VLIk4eW09zYq+nPSmncbEbOSX4R7EtLvTSYs7cYCUJFuGa71+2BRpsdMmTTqBwfaaTTFlCIzuSZR67y0+fh3mClA2ba8Nz9T7ra6GDp68Xu4dF8O2NH7gQ6GxPdhvOB+F9ZEE5nZ6p1QmwZKjOAqI6MrnC9kiZtXYXwhNm72jQqzUe7ccXOYeGsl5ax43iQmMRq6c2hF0pfjPn94oMGV8FXk9PCj5ddOsOmoxhEp2DXRpHyxobcQyEtBANtJA=;gpTbBahX8uiQfeOSVYYk9A=="
 ---
 

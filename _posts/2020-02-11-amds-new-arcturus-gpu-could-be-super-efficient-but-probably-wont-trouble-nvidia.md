@@ -29,6 +29,6 @@ images:
     height: 675
     title: "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia"
 
-secured: "ABBXJdoTRX2PBm+ghViajAmOhoeHUCOBU29S6GkSWsJ1AOwKTyFrTqd9IYqL6i2Bv7EL8+KIycBpx/k71BVCuFu3fGqGKrph27ApwhqNtTXfNQ1BeFAauv6hpceaato06TLjTjWC1Bq0Y5GOVITHcpgXz5VIZKL6UiIVkZzWH9I9Gz4AvnbwWzfpwZgMaotWsIbMZjY6jSbpNPJf9CHQEwDYsOHIJG7CIsbav7elkaN75gkMN7wVtScXPoBVFHbN2Sl9LsAdPzxRgQVBl5ffdbmB0Uu9Cduu6KiAMHZDfk/iDexMwf1SBzqUvEs8ED1b;l6GkfPDpek2HparH8fh5hA=="
+secured: "TUvFLksXjkieTI3gH8aM7d+QKR6BbGFJuoRvbuv82XOhKUi9LA/2De3grHxBs4QIXkWRNRbXCFJ/4VpwaiUb8RuzZhVuNafNlQcqg/8tWgCRW38ym5nLfmbbmA2NRE+5TOzBFBMqSIeTwU2770tmatvVSjCV1aGTg+IvAkvU7aUVkw7KVf28FtZSm0oYNVi31cYfHtFtcfweR3zBBcCqAJ80+W27zV7Vvh+ymraDnK6OFOVWH5R+RBqF6syZYXIm2ItpoJSXl8KLuyzjhU004N6esxPuyGTKZuab/JPTc/I/gs052Z65VOHuquD7AlTRyN07ol6O2MEGcrnxrhW+MxbUq1V70ska+K2t0s6/757OyadbBflLaTciQvSmC27VmZwBovC/HA/6Q/bhpE+h4e4CWKkLBGSSjT1Kjv+XLS54ke8fzMesgGPj7VgEcsSGF6uEhMqWz+hUni+8rvAUv/R7sSMb2i3PThnJNlaOXPY=;UjhRjea/v+iQkbEZKP6TzQ=="
 ---
 

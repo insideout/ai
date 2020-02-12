@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Why most self-driving car companies use these 3 models"
-excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
+excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
 publishedDateTime: 2020-01-21T20:54:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
 ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Mashable
@@ -19,27 +19,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
-    width: 1200
-    height: 630
-    title: "Why most self-driving car companies use these 3 models"
-
-related:
-  - title: "The road ahead for AV in the age of self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
-    publishedDateTime: 2020-01-28T10:25:00Z
-    webUrl: "https://www.avinteractive.com/features/blogs/road-ahead-av-self-driving-cars-28-01-2020/"
-    type: article
-    provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 24
-    images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
-        width: 620
-        height: 330
-
-secured: "frMQcHZtAks1nJZbo0IBCRQk6kGB21hyETe1f5BdDV9rttoIgAza6oWfSaSp+o/oOj2pbkukDWiZ+OpX2GxHcqPFv/HAoHasVI5yXS4FnoAG6BZQ9iJs6saX8kV+cWqxASQoT5pteGPUqAbez1f3SdTQayADDb0oQcqGc9miNdBd8URJlAqIx2TrDbrLm72iAJr5e+JeDcPuI+jy7Fr2Wxhc337/yo+Fa2ZcRErprNj6rCRLRwvmdDOXl7A7NP3UeHjwUyaBYDcOvAYQoUFeUM93tBgmXwDk10+BHdEMDY0z4f4dCwTP0eWDJ199vgG+;B5G3blAAckKuSpQzGmpW6A=="
+secured: "0Ah3swxYkShd/uwabEX/QcgW7SzuVzaxw3K3Dc+j4hajX9eAPqS0fCnjO+eVqWdYEPLQHwaik3Mn2Xo9YNC/jSD9aExRBY/RCmmtm4T7G/X0R3nYBC9huth2GlY//N9/jFr6yrjsTFARg9twlzozS4KRmNEmIeKg91c1FLgqEnA+F2Z2qXQ2GbRmUgqKSxSdee9FMasW8A9E0XruyyZ8Z7Knw1FuxyDyq/mV/8UV2F4RDETu4f6CbVIgCsjLy6iKW03TTVh7CKmoTj3Tuv68+U5g3VkK/C3iXffXPgtoXqxPlRJ1QswTsC/0gxz1uSnabcuh4iZPvlGAAYdK5s9v51TklefxwZygaYkvtECOhiGaBUaZ0bwAfxDM9Ks2LKxBKt8re3w7OOPpuZiovSXrEC2yT42xDOY6vmW0yZrR1VoFC2sdMtG0U2qYeOhkUuNu09XCIDajjr1GeRVg201QvokE5MRS4S5rmzvYMKpNPZE=;z+RBiBVr+8YN6pZNEbgKSQ=="
 ---
 

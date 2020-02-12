@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Google aims AI at whales, words and well-being"
-excerpt: "\"We trained a deep neural network that automatically and immediately detects orcas and sends alerts ... \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai said, while stressing that Google wants \"to offer our expertise, experience, and tools as we grapple with the inevitable tensions and trade-offs.\""
-publishedDateTime: 2020-01-29T02:37:00Z
-webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-aims-ai-at-whales-words-and-well-being/73718759"
+excerpt: "Google this week provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers. The internet giant unveiled ... and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters ..."
+publishedDateTime: 2020-01-29T22:00:00Z
+webUrl: "https://japantoday.com/category/tech/google-aims-ai-at-whales-words-and-well-being"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Japan Today
+  domain: japantoday.com
 
 topics:
   - AI
-  - Machine Learning
+  - Natural Language Processing
 
 related:
   - title: "Google Aims AI At Whales, Words And Well-being"
@@ -76,6 +76,6 @@ related:
       domain: bangkokpost.com
     quality: 19
 
-secured: "jRfBd4HWG09hbkdnyL6JMzHQzAG1H8A5/z4gYB13moztT/6H0pXMhhcL29/aIAassyC3IfYtNTkxe2O/ws28m/C5xhQE6Yz+KezNawWxh/fgUF+VTrJ6o1KWo+Fwi1LjrrO+btZmT/OoYwmpHwOHlBFhVU5YJ3PA6kyOkWawJST5PpnbM4t/YYLecXnrCf+Vr2Gi4vVFCTqS9DIHEUKCosdbOTYPAcZmMPgV9SN8MUs1DYuTNTDVdt8WCj+t6uMADZ1gq9DGRNVcp+uIXmfBgNFUmkqyv0B7dWTmjGRUJrGErlcdSZOywm3wkStAPVNk0KH2D2ffwCyMIcx8dQ3O8nIKHqr5muFdswbn1PZkbJILH83obem9TU3LVg2S/Q6DTuX1OExtgbDEkkoP5FPI51bStZSDHGxHIaSDQUEFhgfe8zdkV9oqUcQ/0ILqQlgtFBZ9xX6yDHqOYnOrRHRJgbUyjIPhR3uf1BDQAdQfwS0=;qkxlGj4LtvstKkBrMxY3vA=="
+secured: "JM4gLX0QWR30iAc1dM9j6wCgKvVvmhXUCQnymJbckyyualu9jqkZZOID0wYEU/8iqBuZsvjcRWD0Q1V7CSdsyLZK8hDrHnF/DV+Q1EegylLLenrD0i9xx+XB/URPHdU2+oQ0+QjXrMpnb9erN2KKdE2LLe3vOzbpH++pbZknKQl2yD+AgAqO/MqjMGISe0ez+/ufTWNTN8ywBvikDDbs5rkq/x7D2JcX0nSadXNy28dzMdF64j2OpiQGfNT59NWxIk6+PiDl7ka2xSO9UXg1DC2I9yyFixvdYc0AZ0cyvvr0wZQkVkm/z5pL+e9xfos8i4zeUjBKGQ0uLu+da/HYBYlNPg3NFio6HDanFBQKccwZnkz/3sB+PxZj/jj77i3nB7lNCWs4ZqzGTHTC5dlDTs7oICOO1/JnQm3tdk+Y8BIa/s1pqlc8o2ViX5I8Rf4zwgttUNGyxj/+DRGdBJoI4H2XDuZgDUt2G4Kqau3KwPc=;4YUtuD5HvXBRfeBujy8+Fw=="
 ---
 

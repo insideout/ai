@@ -58,13 +58,13 @@ related:
         width: 1240
         height: 864
   - title: "Google aims AI at whales, words and well-being"
-    excerpt: "\"We trained a deep neural network that automatically and immediately detects orcas and sends alerts ... \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai said, while stressing that Google wants \"to offer our expertise, experience, and tools as we grapple with the inevitable tensions and trade-offs.\""
-    publishedDateTime: 2020-01-29T02:37:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-aims-ai-at-whales-words-and-well-being/73718759"
+    excerpt: "Google this week provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers. The internet giant unveiled ... and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters ..."
+    publishedDateTime: 2020-01-29T22:00:00Z
+    webUrl: "https://japantoday.com/category/tech/google-aims-ai-at-whales-words-and-well-being"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Japan Today
+      domain: japantoday.com
     quality: 19
   - title: "Google aims AI at whales and words"
     excerpt: "SAN FRANCISCO: Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... orcas and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters is ..."

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 type: article
 quality: 112
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -31,19 +31,6 @@ images:
     title: "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
 
 related:
-  - title: "Artificial Intelligence in IoT Market 2020 Is Booming Globally | Top Key Players : Google, Baidu, IBM, Microsoft, SAP, Intel"
-    excerpt: "The Artificial Intelligence in IoT Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
-    publishedDateTime: 2020-01-28T08:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2020-is-booming-globally-top-key-players-google-baidu-ibm-microsoft-sap-intel-2020-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "2 major security flaws detected in Microsoft Azure Cloud"
     excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
     publishedDateTime: 2020-01-31T03:14:00Z

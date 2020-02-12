@@ -7,9 +7,9 @@ webUrl: "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationship
 ampWebUrl: "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: VentureBeat
@@ -23,12 +23,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/01/df0f4b81-fa76-42d4-bee8-2b4c4e8cd50d-e1579627646898.png?fit=1200%2C600&strip=all"
-    width: 1200
-    height: 600
-    title: "Facebook’s AI learns the relationships between physical places from first-person video footage"
-
-secured: "oOy4shpmJixEqUX546+ar67amEXn/848P4bfJBjh1qM8XnWqY5hE6R/dpDlm1Y78mRZrdLERxCHLYE7y9x8r1RyuLt5Lc3cbfMQcXMABWgkH63J33uUQeNqx+XoL8hq0ucJJKWs+H7O5jZxsMfRfbS3CFonD7V8DL4JM1XRUDlU5Gyc81O1pAa7JeALZnOARPqaxxRUBa2icmHHPNYCIOjVVjuIPYIp4UGjTaToNQszsUCdUp8jVqhBvdpwkOZW3miHtqzXnV9PKVS7hR7j7kzb5cPVkTi1EsD0xnnWgcfo4Rd+aT/ocV19a//VQ4XRK;9ki51SvHGY/VVWlMae4emQ=="
+secured: "twriqC3eXLI6d/0kDvhUoFFHY7aqN4++jMNJoTSF6rUjzqfQsCTN5JlpmuYGmNAb88y1a14bKBi2oaBiBWiD7ugEMD0aWvt6STUuxKkTp93NAtOSxYtdP1XA2SpDA1aCA/oA4wSqHCpXrUPFTUA93oepE2MzbvUXVfDo2A7B2gS7dlYhWNKXlW0QvgRjH+xjDhF6Jhon547nIK2026zTpMGQ4FXfPDGdg0yIEGo1Rf7RsTCdw4U6xr/QJK3cs1oTCIBJ7voGZ7Z/S615ka6J0N6wQt6d1xiaamawVypVpB66NNsNOA0nqW1XmYRRXp2h;2aWgBcDIt5zuQlkp6btjEg=="
 ---
 

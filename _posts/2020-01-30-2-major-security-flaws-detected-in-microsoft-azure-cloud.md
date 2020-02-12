@@ -33,19 +33,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/ceb60455-dec4-4a4b-9359-2712746d6986/gartner-cloud-spend-2020.png"
         width: 823
         height: 557
-  - title: "Artificial Intelligence in IoT Market 2020 Is Booming Globally | Top Key Players : Google, Baidu, IBM, Microsoft, SAP, Intel"
-    excerpt: "The Artificial Intelligence in IoT Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
-    publishedDateTime: 2020-01-28T08:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2020-is-booming-globally-top-key-players-google-baidu-ibm-microsoft-sap-intel-2020-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "2 major security flaws detected in Microsoft Azure Cloud"
     excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
     publishedDateTime: 2020-01-31T03:14:00Z

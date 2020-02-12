@@ -56,6 +56,19 @@ related:
       - url: "https://s3.amazonaws.com/wp-media-es/2020/02/05185106/rock-n-roll-monkey-FTfjMijq-Ws-unsplash-1.jpg"
         width: 2000
         height: 1333
+  - title: "Washington State Taps the Power of Artificial Intelligence (AI) to Help High School Students Find Aid for College"
+    excerpt: "/PRNewswire/ -- Thousands of high school students in Washington will have a new ally in the financial aid application process, thanks to the rollout of an"
+    publishedDateTime: 2020-02-11T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/washington-state-taps-the-power-of-artificial-intelligence-ai-to-help-high-school-students-find-aid-for-college-301002631.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1088502/WSAC_Logo.jpg?p=facebook"
+        width: 4357
+        height: 2280
 
 secured: "vVFbA5kcvNtZHrCh7CuIK2x4ilBzWPIiK64UE0oQo9pqkl7MWz7Yww4VEK4mCi5Pq1uTYlwHefBJty2DYpYg01KhVUVapf4+gPbtiF7njUxoloHG7wLBMO942fdxdTxaoFVIZ4lFU8zoMacRD8yY5Rd0yUouguLNr3a6hs4a414Z9dkDjfuGxr3ADjidnJs0orf3FKz6Z0lItghGeHR861m77UunOtONN1QvJ8g5MFCND5Rfyxpi9xhSbttlX37EL2S8YGGo8pwBSpiF8h/NqkRRjeWpithqUQ6fUPCAKN1iW7bC1MDGXFoR9OFJOAWpZef5t5Pt5qMlhE+bR7xu1hE0BYovhnu54Ffuqe2l8rLmtfbF78hVqCWtikLVlpCdUiwTPqJzPG/WxKPs/I1qhuEMYpiqgfu+LNDK8SyIMeGX4tZRpTWRmHHG2oH0unOoBn/l/0c090H9rVXbh/ez5PVvymCdlPTn/n9wIXWkIQ0=;jyhsj5aBEjeIdQdaP5UgMw=="
 ---

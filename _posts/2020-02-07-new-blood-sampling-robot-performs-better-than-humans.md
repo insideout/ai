@@ -31,6 +31,17 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/alte-cinci-decese-provocate-de-gripa-1024x826.jpg"
         width: 1024
         height: 826
+  - title: "For The First Time Ever, A Drug Developed By AI Will Be Tested In Human Trials"
+    excerpt: "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last."
+    publishedDateTime: 2020-02-12T02:10:00Z
+    webUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/"
+    ampWebUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
   - title: "New blood-sampling robot performs as well or better than people"
     excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
     publishedDateTime: 2020-02-06T20:38:00Z

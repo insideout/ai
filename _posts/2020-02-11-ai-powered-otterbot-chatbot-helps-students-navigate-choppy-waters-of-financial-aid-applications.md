@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-stud
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -59,6 +59,19 @@ related:
       - url: "https://s3.amazonaws.com/wp-media-es/2020/02/05185106/rock-n-roll-monkey-FTfjMijq-Ws-unsplash-1.jpg"
         width: 2000
         height: 1333
+  - title: "Washington State Taps the Power of Artificial Intelligence (AI) to Help High School Students Find Aid for College"
+    excerpt: "/PRNewswire/ -- Thousands of high school students in Washington will have a new ally in the financial aid application process, thanks to the rollout of an"
+    publishedDateTime: 2020-02-11T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/washington-state-taps-the-power-of-artificial-intelligence-ai-to-help-high-school-students-find-aid-for-college-301002631.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1088502/WSAC_Logo.jpg?p=facebook"
+        width: 4357
+        height: 2280
 
 secured: "M9EfH64YK4s6I/V3TXj3jWSlHUU9k28EIrP1WXAFklPzTD+YdEM6V67hZ5H2zXe1kdOoyCvdVV9jvvwLBkH9Pr4cp3hyzCKaUmewoTeXy2rVY609zdseNfLQ4srU4R+4ZB13E6O8V04kEupMQpCj5/mZvne4FTfWtzML9+fEIiWfWBqLWiqjdknflRAlayfVRJXOMcMlz4QumH6VfkIk2H92F97Xb3ksOtwQQ2+1gPFt/hwUWoEHH8zuJ5X+2Ob7TBqY7p9O+kC92zckFNV2p/0WK5iksnb358kYiHuYrWuC4Sn2PkU7MmuBpLDwWVcFpgtvGXnAhKXixSHfEQmnQPyIuSVH3QuWR05FW0QlsOUksVb3V3mx4i5dA2tjdftDmQMPwHk96y3rsDV8+WO30+bynCS3YwSUuubzx9ZWHPYegkUUolS87s1Hx1Mtf2+D5H1D6LV901iot0XxXuuTF+VDM/MDNkI1MiQiukPooR0=;4gStqTMUtRPDxDDtntaUwQ=="
 ---

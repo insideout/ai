@@ -93,6 +93,21 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
         height: 400
+  - title: "Chino PD to hold forum Wednesday on proposed use of facial recognition technology"
+    excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
+    publishedDateTime: 2020-02-12T01:16:00Z
+    webUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: The Press-Enterprise
+      domain: pe.com
+    quality: 54
+    images:
+      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 578
   - title: "“No justifiable basis” for Police Scotland to use live facial recognition technology"
     excerpt: "Members of Scottish Parliament said that facial recognition software is known to discriminate against females and members of the BAME community. Whilst Police Scotland has outlined its ambitions to make use of facial recognition technology in its 10-year strategy, which plans to introduce its use by 2026, Members of Scottish Parliament have ..."
     publishedDateTime: 2020-02-11T11:26:00Z
@@ -258,6 +273,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "QL9BSf3gSSjPwLyGj8ic0qnnvi/nJ1z5DqlKHzS3/cAPsmYxQ1n5FqAaJAth2OaztXq4PnamClu2waIG9Jp87Cyi/ycSqvDkGZ3BmOrOIY+AFkTEGcMw4ddOA7pCDUwS+FUnSZMCff5Qnj9nG+fz80i1TH8nn8JUsJ2gXFocjyCVrVP1vAYifqbVNRtbZYzxeingT9+Vt7uI34Q10xEtFzA8RL80vifx3LQw9C6dafn9kE2/ehs3xfLFro4q6qEMvgePmZpbZagFCdKtVRVmqi+fsA54+BtuzLKdyJet2LuJSO3p786UmJ00tD0epaFw;qQas1y/WU+G6fkjuVrObnA=="
+secured: "AeQzI5yvtFyromDiKLEALpkC+okp3tDJdCm520TM0m/RoNvEpetHj++lQGMN3dHGMm2T1MyukUgqwaHXCHph+SZQK+5XF19z4Ol0fLz94i29fwlebIzv6POCCeVxhD90q8QdNf7ZssWYGbRvnPCpmNbaBw/OpGnleIHKz/a6wDdXP5il8oHsa5w7De/byT2cJBqcdCAtO4pegEf7cQ6vPoC9wtNlNrbqICPJp640hFGE6cOv/Ke14CFEEBxuPHjRDMw1+AN9kxkaC7xhMaKVPzc9yrSZITLQ08J9PHqa/NBcfKAUJpXfl6lQkTsNSe4L;9qJcxxHER3TyiH5UgTf3bw=="
 ---
 

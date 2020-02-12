@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-tr
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 101
+quality: 81
 heat: -1
 published: false
 
@@ -22,12 +22,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-    width: 1200
-    height: 763
-    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -1582,6 +1576,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "smhPcho8yursxRSrxoX2KJqliDV4W3ASargF/TVe6f9h2YWXJC8d4V3FRRbcUKAMnUzp6dDLchujIYbVBoP3iSFTgIUrLv5OHIYI7LCvrNWEvOgQwsxrpDfDQhLzAJ2KUH7k9yjhoiUCYT2aEvTOwBV1XVFa7F0wxM5JjKGNeyzdUpsybqH1o/KzjQ7OmYq9SeEGX3lbIvwUQ9EUDisg/Wd5Pu+jsaHxQRzhvMv7MsaIZxnyDaBcuzX3iGoSu6Glipd16N1t21J1ybcwi6emFZe80PW5kKXVxu0AfnWars1oNpTiYi/qyizaB0iRWm+r;2O0+sz2IUYTzN17tBPibNA=="
+secured: "eR3yRkB7wX7HekesbQ46Q8mhYDCGPGXYd4lftCkWmjBXT6ojjvx8eL/BPY/vpm4KlIQAJPxxjhIYkr6BXwUV/yoDRM03MfINbTMmh7SkMaqP3Z51KvaU3O3yFaZeLuV/iog/38+bH+HHETqzfRVfdqkKrg97hss08rBqrgjY4XBsErBnH97J7pAHM4a3+5PW4y1XOAjz0uaDlqdY3/kNmuWwE6lg9o2icF0i61BPAg3e37fIFDHVbJDJtNRw9ytvOIFbLDE+C3mhKytZUzcJEhz+jMV6y3EAECFESLypaQcZ7FI61atYsiukXSAg7703/ndySJLEbAx4tAkeTG0+xlu+xy9RkwduZesGqxoUrZJlspbwf2N7ibq5H3yjM1MEpXJ7RFVX71O116GbQhVYGyMd0yDXufQLn1bmAYFGQV0wLzN1kqEpQKPIPx7uuei3o0SO1ZRjyDAAGnX56drAdSyERuooA/ycUH2Jq3g2WbQ=;Agj1Ejpr/GBkACi7ZWIZvQ=="
 ---
 

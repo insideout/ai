@@ -7,8 +7,8 @@ webUrl: "https://www.cmswire.com/customer-experience/platinum-equity-acquires-ce
 ampWebUrl: "https://www.cmswire.com/customer-experience/platinum-equity-acquires-centerfield-logmein-launches-marketplace-more-news/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/platinum-equity-acquires-centerfield-logmein-launches-marketplace-more-news/amp/"
 type: article
-quality: 41
-heat: 41
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://www.cmswire.com/~/media/951755c6545646ff959dd2829dd71ecd.jpg?mw=1024&hash=90E8FD4CBF33B2AD8D5DCEEF05E2F15103D67212"
-    width: 640
-    height: 480
-    title: "Platinum Equity Acquires Centerfield, LogMeIn Launches Marketplace, More News"
-
-secured: "1o2y9foLGYmdwy8B4PtUdxly6yCaW8nE96PRMQMAA6Em39Yhx5LKEvP/qpuYDNbiDoKU/GBBklGY514yi2FXKLXXMokSfN45ZWVlxxFJJ6Efn2EpQMTpk/TtDyQoOZ94XsT3RhTQXRru0UUtPABo9iRcV+iXoRBPSFeAmvk5pK0DCLbnlu3Ye23qPA+x8YosWZ2vN4Azn60VoCZE1wV3naSySTHZHRy0LYhttbq5BA+eBAeKRki4Cju9THkXC3HjBhMVlC1JxK1uuzeMkNQ0hUjqkVE0YnBrWmCdbe00lChbSSmTuUca61iOvFjErD8X;SQzTKAiSR0F/gtEWCdsQsQ=="
+secured: "hOys/V8jua/m92aUpuezbmG/Mvf6cxCxYFiGG9NCrRQOEyCHgV7C0tCIcI6cFnUVVzGDogUmZHwA9jlR1yoWtRHixoJkqRptjJ/hVWRQOvxArrGiHgEHOkbHR9eX6Qg3udymKuhKZqbvqXtfjmPQPbk8rQGpXb2SBIQK8/w0Ww5KK3oLOQ1UmbnwogjkY+uTV5+4eEW1GivqTowYKlWLr3D62f9nZEZ2MS1KJlkncv1UiUPbjIGfzv9gZXJpfCKjnTYewxcKq1avsyJE6XSxkkbevP5GfzG50zcyH+vp5wJbTTiURYY6v6dSTh5km0lZ;MdLEbzUDPCk1RmTAFFjwaA=="
 ---
 

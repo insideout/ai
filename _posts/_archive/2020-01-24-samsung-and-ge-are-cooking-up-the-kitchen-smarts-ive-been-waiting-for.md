@@ -7,9 +7,9 @@ webUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain
 ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: CNET
@@ -23,12 +23,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg"
-    width: 756
-    height: 567
-    title: "Samsung and GE are cooking up the kitchen smarts I've been waiting for"
-
-secured: "WoIl9VTssVOFcab9acKqF/DsXziaeFc4iXWOxppTXKdJoyi5aNOpvPvzX0ommxauTD3V+j4zWp7PGwZk6QsJD08bbPMLOOdkUequuOYIDKMZQOWZj348x3esdyVS1P9JMFifwfel/eqhXX9Kur/3arRyC69QSCehj7rZU2CcXu9rVbyCI/0IZ3p/B5wne1uRkyr6gE8ZMmc6aONDNskAkaF6m2BS3ojiFMydfWt/6M4Tj8UgpW231IEAErZWlSYNgbQlvbiIoCSEZFEoWttY/ybytttLWvgTC4BcHYeWDJkuABfcUHR8+Hqh+cOpoVZb;IvXXjKupTmaKNOt3v9NIxQ=="
+secured: "coqsTEIjKC8eLYz3w5yGytZd4at25fG3pBDDTIEqyn6BPz8DUX2NWEEV6+xWdyrYTV/hgP4v3TsKhAFgA96UWDUwi5qX63W2cE7F8Oy6Y6r5pTmByaGRw1sgC7QQTIVlXL5OyqHuq4MUiZvPYRz92bEK8iwSNvp/olQnrFSzMUDtXy9/VCrLWlg26BVkBcMPB/6MdoGW8Lh2P55EB0VlOefyA/4WdDHel4w904G1t3NV2qbYhsKw1xK6wpItf7D4GRct6oxwMe0ZecJn8qAWmelaJd4EoiJANgBdRWNSmS8v6xpDy0jHyQLOQ1NxpaBJ;OM1M53HuFUTCFQoNLlgtkg=="
 ---
 

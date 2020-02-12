@@ -1,19 +1,17 @@
 ---
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
-excerpt: "The European Central Bank (ECB), in collaboration with Reply, leader in digital technology innovation, is organising the \"Supervisory Data Hackathon\", a coding marathon focussing on the application of Machine Learning and Artificial Intelligence."
-publishedDateTime: 2020-02-04T09:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/b15243725/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15243725"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15243725"
+excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
+publishedDateTime: 2020-02-04T10:24:00Z
+webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
 type: article
-quality: 16
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
@@ -49,6 +47,6 @@ related:
         width: 914
         height: 611
 
-secured: "hiXRoG4+RRNAmwLGww8858WQ322olKoCUvhEnscjh/DLXXxa08JjiHe8uDeLHf9E9fsn5qjzuCtjZXAtk4fqr0dcjvvwRwMTgDTQkym7cO1ECHoODct7ZzKELxN+PinJ7uyaxlIpcqMm0SFBeGjX5JIXXnYh+46dMwjSrpbZrA9V331ISgnwhoXP/QwMpVxKsK5b4sNktqR0o//dj8il94LWGM4fSHOM3Gsatu2BeBP9uqANdBdvcMqwRBuj++Lm6P+mDZxmku5WV40j0yjrTjNudfxfK/hzMyTExNdKZg/Mz5MtWHrojPAnk5KmGl0N;VFTb9ZsOzqC0FuOdPor6tw=="
+secured: "I4nQoOb8kznf6bFpv8/5jeMYFff7CsIByKgn/sajKTRTKRcetkbyis/hfeBYRaJDWNaRa1hSmWBN7u0MxZp1r/HfLbeWi4atDHJy28gGToeF3zN1DCxRF7Dw/mb8YRx7eqnYFssZdUBchQ+Vjr4yltZ614ZUVQhYsTropq+AI6Dh/+QToaTTZzvwp660zrxXeEOy2qckz0Q+aHAyYtM6KxKt3fm1LHEiFElTQO+jXn6hapy/Z4jhmNp5o3jjEAsmWLxKD88lE8grS+vtTXPaJv/nH9RqYzCnbSD9LCej+v+njfZMWC5ExEhZy90vopEu;F3RdHccLuvq+WCODPWC6JQ=="
 ---
 

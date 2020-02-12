@@ -59,6 +59,17 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2013/09/Congress-580x386.jpg"
         width: 580
         height: 386
+  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
+    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
+    publishedDateTime: 2020-02-12T01:57:00Z
+    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
+    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "tEgkNhS532EnApi0ONXBkknkErGrnmUz1kQET0enYc3um1rMHXvxLNpv8r3dUvFvnugYC1hlH+xUf3CPTlqHrWXa8liKK4HlUsdDQsDEwmtatrhn0+i5yyoOgFfoQ20TpbkOMyfQHVECDYaIsaja9MRJ1hTnNEFVbZAeFTUrxriYjTFblwBMvJiLTJB4+dyNRsXs4KTAJlNlkNvCsSUf1PiHYYEGhQxalr/SIHVeV6YzwFhO1aWZ3QkO506liimfLYVAasQ1gOQC0cqw8tm6uf8n7qv3kqPk803eQn9IH1piq1M1RG/suJvy5XlVipoCtFq7b2ieVee9rzznVfT4brxXnT3jtd+D7qWjheG6MF3wTwXHDnp0/xUyO+27kgR37cH/XSRhtREgYCcv5b+9TzDdT6c1B9swSQ76Z3u553kHeMUDCnEb6oyhCXSC63nOFJxYrjTiF4nTpj3c5L3agKwPlgSURjJ9u7MelO8rmRE=;cHyVKJuaUlwKvFhgmCQeQw=="
 ---
