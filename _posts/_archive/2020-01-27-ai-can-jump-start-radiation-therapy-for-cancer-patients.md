@@ -5,7 +5,7 @@ excerpt: "DALLAS - Jan. 27, 2020 - Artificial intelligence can help cancer patie
 publishedDateTime: 2020-01-27T21:00:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-01/usmc-ac012720.php"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/222662_web.jpg"
+    width: 720
+    height: 527
+    title: "AI can jump-start radiation therapy for cancer patients"
 
 related:
   - title: "AI can help cancer patients start radiation therapy sooner"
@@ -28,7 +34,11 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 54
+    quality: 74
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
@@ -59,6 +69,6 @@ related:
       domain: theiet.org
     quality: 34
 
-secured: "g28xdQWiSSOca7I8FfOVV2Lji6Pnig902rhCUVzoLe2M6ZU7JCv3nH5YtS6sGqGRODQ35xdAaE8ChHiORIzG2knY5TXJaR9Hp0HIFsWEEI/S/l/MQJ2Fdi++IjYYIapR7J08fGUr5iqsCywtOzstTMF6vEET9xy32GtyrD8LdOV4kRJqv6lideUdB50VsJCZGLvm+6fXKkGXzjXxTXcq2J8I3PLNxoI+l1g2+GnHzAA/HS4CFfrXrt5LvXQWN2IXrJdHTtm6aXjsC0ruQyIjffqe/KPI3rKaMGuqJQ8uWD3LfSmMHy1Qvd+PXp/UXkB1;NDhQrIJRaf3e0sV7kfpQ/g=="
+secured: "Sb5pWDHqJ4J+JAaCkD+xjlWAVgABLwUR4/l/73UcFsnO84IdcUzs2rTK+GAanpfHwjiBW/EXadT9phfo0J5L5W5SEijk0bwi+Yhox1CE5GzWRT/Ud0iUde2WvkP9HgZV4uTbWj2xZmUfcX+MpNjFcBnCkGALRHpgKJuliORxiTl3Q9rVJzWZ/AhLYtZb0tJ9PDgN3Sl1ekhTr6KYGn9X9pN5+0p7zCynLsJ4Ejv6aH4KURdibzhvKICnUlMON4w7erHjeWiVm/zpwWAK4yH4OhtxrqFUj9LJeg3uHfPbnMT/Gh49mkNmV68aWehx+nbt;emHOUsv6bRdDjczk1fINEA=="
 ---
 

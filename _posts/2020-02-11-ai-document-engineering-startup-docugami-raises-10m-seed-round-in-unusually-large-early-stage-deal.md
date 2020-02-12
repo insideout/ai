@@ -8,8 +8,8 @@ ampWebUrl: "https://www.geekwire.com/2020/ai-document-engineering-startup-docuga
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/amp/"
 type: article
 quality: 73
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -29,19 +29,79 @@ images:
     title: "AI document engineering startup Docugami raises $10M seed round in unusually large early stage deal"
 
 related:
-  - title: "Mexican banking startup Stori raises $10 million"
-    excerpt: "The latest capital raise comes as the mobile-only startup issues its first credit card. This new round of financing will be used by the bank to strengthen its big data and AI platform, grow its talent base, and serve 100,000 customers in Mexico."
-    publishedDateTime: 2020-02-05T17:21:00Z
-    webUrl: "https://www.finextra.com/newsarticle/35235/mexican-banking-startup-stori-raises-10-million?member=92212"
+  - title: "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round"
+    excerpt: "The founding team consists of serial entrepreneurs, data scientists, and fintech execs who have had experiences in banking, risk and compliance, regulations, and scaling in emerging markets. Shady points out that the startup’s main advantage in the market is its proprietary AI algorithm, which they originally conceived based off their researc ..."
+    publishedDateTime: 2020-02-12T03:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/346215"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/346215"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346215"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/stori.jpg"
-        width: 480
-        height: 270
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9"
+        width: 600
+        height: 338
+  - title: "Global tax and audit firm KPMG takes minority interest in startup LumaTax in $2M funding round"
+    excerpt: "which automates manual accounting processes New Seattle-based VC firm aims to help startups bridge gap between seed and Series A rounds Seattle startup Spruce Up raises $3M for AI-powered home shopping platform Google discloses cloud revenue for the first time — here’s how it compares to Amazon and Microsoft"
+    publishedDateTime: 2020-02-05T21:56:00Z
+    webUrl: "https://www.geekwire.com/2020/global-tax-audit-firm-kpmg-takes-minority-interest-startup-lumatax-2m-funding-round/"
+    ampWebUrl: "https://www.geekwire.com/2020/global-tax-audit-firm-kpmg-takes-minority-interest-startup-lumatax-2m-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/global-tax-audit-firm-kpmg-takes-minority-interest-startup-lumatax-2m-funding-round/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 60
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/01/Robet-Schulte-LumaTax-CEO-300x300.jpg"
+        width: 300
+        height: 300
+  - title: "UK Fintech Rimilia Raises $15 Million Through Latest Investment Round"
+    excerpt: "Rimilia, a UK-based SaaS fintech, announced earlier this week it raised $15 million through its latest ... while also focusing on building out our team to add further subject matter expertise and leading data scientists to further advance our automation and AI.” The funding, which brings the total amount raised by Rimilia to $40 million ..."
+    publishedDateTime: 2020-02-06T12:08:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/10/Coins-Pounds-Money-UK-sketch-600x415.jpg"
+        width: 600
+        height: 415
+  - title: "The 12 Largest US Tech Startup Funding Rounds of January 2020"
+    excerpt: "Founded by JoeBen Bevirt in 2009, Joby Aviation has now raised a total of $720.0M in total equity funding and is backed by investors that include Toyota Motor Corporation, JetBlue Technology Ventures, Capricorn Investment Group, SPARX Group, and Toyota AI Ventures. Investors in the round: Abdul Latif Jameel, Baillie Gifford, Capricorn ..."
+    publishedDateTime: 2020-02-05T14:27:00Z
+    webUrl: "https://www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/14/"
+    ampWebUrl: "https://www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 42
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/02/January-2020-us-top-startup-fundings.jpg"
+        width: 1000
+        height: 525
+  - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
+    excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary ..."
+    publishedDateTime: 2020-02-11T15:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200211005446/en/Docugami-Announces-10-Million-Seed-Funding-Led"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
+    images:
+      - url: "https://mms.businesswire.com/media/20200211005446/en/772660/23/Docugami_Team_Offsite_February_2020.jpg"
+        width: 1200
+        height: 627
 
 secured: "BW2Fg0Qh71jAQ0qao0pjlo/BOUnkyCxIHloSCm2Z//y8/RI7v2+EHKXv1D1CEg3jM6EtvlqC7AVMmbgErySg99Osi2tQ9O1+lzY840lbFUHFf2O1JaLqoxAi3grcYqL4S0HOo5Fd2osCPBqykGdpZOvjgOpbRC39HzLLMopMl6vatbxUbqGY1Pljsd2zVG3wMjhbH0XamKMu5tPiGPwlzBgXAFq7flBVJJsY/8snCZlTCeEh7G8BJkLnp0saFnX9dZnMpwvKsI+giq4U3be88wDIfedRaMPvuqeyhFw+T1BCiWpLpMmtwDie2Hw71B0eomMl4KRDMklIwv8OBCYQG8jCEkjX8z8k18T7eN4GcV/9g98/FV8cgNQICJDNaqZmsyTo7u5enhon/5ldnNJfEgzsKbcCCwr8t8HrQaw/rdmZ9XEm9dNnu9TZjxk3E9+Nx224NDJ6q6sSWiIkajiBYti/hke2WuWw2/Gz5nwuZ2I=;eYzrApG42DvhKNnu189Idg=="
 ---

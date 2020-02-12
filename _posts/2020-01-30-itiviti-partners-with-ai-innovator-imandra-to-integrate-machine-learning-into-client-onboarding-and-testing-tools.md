@@ -28,7 +28,11 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200126005001/en/767274/23/logo.jpg"
+        width: 1200
+        height: 627
 
 secured: "97PlnflFFfDNUi1ZyoJErws1zdYYndOw1nfRXzYZJDzEv30XE3v2buW/0hfrOgWpgflSuiGeaGrFz6dQuyS77rlvLcQVRYDtFdbXlaMCHL/Yjh3eeTOwk+y+xn1ldfZ0Rln6BIewIPQaTkuHVbRa+VJl/ba6yD9+R8RrfmyZps/lFZo+ScmwEPtUfd036Qrx/C6YWdJOopeiKToUQUdqinDj3aiicPWBjZWg7BxoVY+ZugKNmSopVN0JrVe6YGGppCXL5d2QL/nPlwG/PgvVq9Z7rrIErS7R03tg8QGoI9gnYx3OENdr1btdnTdOPPzy;21IUxKmud9wvMH9jV3Q2FQ=="
 ---

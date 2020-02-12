@@ -70,15 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Personalized Healthcare Apps Market"
-    excerpt: "It's a The Research Corporation summary of the worldwide market's competitive landscape. The Artificial Intelligence Personalized Healthcare Apps report additional predicts the dimensions and valuation of the global industry throughout the forecast amount. The Artificial Intelligence Personalized Healthcare Apps Market report examines the ..."
-    publishedDateTime: 2020-01-28T10:32:00Z
-    webUrl: "https://www.openpr.com/news/1910720/artificial-intelligence-personalized-healthcare-apps-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "golFvlTcmK662jQAsAZGD11USdrlcBeEfzekLDrMbcIJkSesVVt/0GUR2GExlBvtiu4l3brwIUbaRAj9pxAyxmW+FcmKQamQMISXjI4McdD3MNXUzySe3pp9XaboUKOMnADWz3pHq75jNBXEm/CeFC6/tWp5pEsisK5n/1ZgwEVhuRDFRCP3vrDZ2MR5rqAknaxiqLsZT5Y9T3+CXJwAokTUAc3bLehgkiY1G+CT0M0/QsJKhh5jnp23LBKrLPmlXVLdmd6Bvnr+h4I8l6ac+lpD5wKUwPssb2Ba7aP7ggZsme+QGlROMDAZx2sNAX4k;fSGEj8vvVpOCOjRqlzorpg=="
 ---

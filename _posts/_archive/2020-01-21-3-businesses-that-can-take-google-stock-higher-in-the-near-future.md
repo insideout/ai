@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-sto
 ampWebUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "Zf7jzMilRGGSKFTBLxz2zLR1O3nEKBIxRHYgSXqSU6nsmKB9bYZ6xvGxYM/dbMANIMqF9pcVXr1KBdW9/JLhJ0oQ9px1MgRAJkw/0rBjxTjdFlmKof1XjVqofTk3I5DRIJmX6TVP0QYgivynSN2NEvhWjAPhO0tGN8eNpp0ixjBZjzOCaRnM07jsZ8Wf1qHyLl0IGj8rHM97XujoApHKKg0NgWwNcNPuwtuDfJIMIBuBMSGydWV3rC09PcNLJQnG0qQJf69SJSAIGrvdJMnotQ4Ct7GvA4Wt5UIqAvv9MemDTOAbGLg1dtNErjyPAa9fywK/m3mZeCLz0x1rQaO8j3qwQW3hdMRBhGTiM6ZL9rDybx2VwyDRBIsuT4t9JRGuPUyj7/FuGEmxO6XKGJ5cHvBJ78BVckT5OVQJb5g56ZHXT4zyIa++JCzGplUKFMH01eiHYKrJQqdV0UTWZ8DpQnYSdxyg/Y6mt/Dwu7Y6yRs=;6trcGqUTqjsaQFlQ5vZakg=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/Googl_1600.jpg"
+    width: 1600
+    height: 900
+    title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
+
+secured: "/2e6E3Zc4vnVKpkdawsWZv3905uSMMsqsRuEpRs1PC9iWB+gs+v1pPTJYtEJOLX+CWWJgaXAGReKa7SUxlJJ+WtnA76xbyP+sjTyt8f99t26lhYD6cewEIzyaD+5N9rzPUbkIt4o34dvxYY14y4d8c08RiW7esnuj3vH2LPNVZnAZaCSWrChm12sKI17ZS8O0cWOPGxPZeFmnXD1U8/0qmWY0jcHR3DUtVXNAUowEJ+uvb/BsqFhPi5xRZdqzGHMLghs+NEO595QYSuvyrEFZPoxntpvGMYohgzrxl9bEwo3GCUxcg2XjKAnt+oJL1Oz;P4v+epDc4mkmr1BRj530/w=="
 ---
 

@@ -82,6 +82,19 @@ related:
       - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Basic rules required for facial recognition usage: Statesman contributor"
+    excerpt: "In his article, the author says that the use of facial recognition technology, in its present form, is not in conformity with the right of privacy. KK Paul NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) - In spite of several advantages of the latest technology of facial recognition, doubts continue to prevail in view of its very thin legal base."
+    publishedDateTime: 2020-02-12T03:46:00Z
+    webUrl: "https://www.straitstimes.com/asia/basic-rules-required-for-facial-recognition-usage-statesman-contributor"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 38
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/12/rk_facialrecognition_120220.jpg?itok=HoPHK8e9"
+        width: 763
+        height: 509
   - title: "London police deploy live facial recognition technology, stirring privacy fears"
     excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
     publishedDateTime: 2020-02-11T18:47:00Z

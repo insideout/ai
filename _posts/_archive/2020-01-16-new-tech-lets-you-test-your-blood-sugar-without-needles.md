@@ -7,8 +7,8 @@ webUrl: "https://www.healthcentral.com/article/new-glucose-monitoring-device-for
 ampWebUrl: "https://www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
 cdnAmpWebUrl: "https://www-healthcentral-com.cdn.ampproject.org/c/s/www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "njXrQb90yDDyugeImLzydla1pYDDl8SO8Xb4uh1E9HdDI5O9/+CT/TCwtl+hc/oXKjitaPFBPmpSLVQkTSmOuq4oAlj1JxObQPLTBj1YGMKc6QeEsXZZhwg40NUthmcoMgBjHNxfGxBNQ8EnLNvSc4gDIei06IKxJENmzJA+VuQRdZnaQl3DI4jq3mJviiIRlXfCjZx/vnaa0A1SYHwQ8pNcGtKFwWGWhl+9Yn36QkNEOwd9NBwKH7RoTPfkYbpye9aBle4U+uyXfri1PE0kMDJhapXR7LwWSQ2R1Ez38TT92KBEs2ZNpCl7Fv8zrTD2;Eu487rIlfqHN/vDsx9GnjQ=="
+images:
+  - url: "https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg"
+    width: 1254
+    height: 836
+    title: "New Tech Lets You Test Your Blood Sugar Without Needles"
+
+secured: "BvzCRNU7Ymf81S6ch0evZrwaSjc2yzkUtYkuGzgbeicxYnMbm4rovlxb5FwteO61NmeNA2/CsnF+gwFtl7MeW3t3g65wtlPB9IJEPrpYT52+eSQQtlVWXhRXSsYinli9t1XChEoNnEqfuFAxMFfzNspwRTCTuAHKJc6SMJdBuexXCfsosug4r5Ga+eyVr/l5d9Tzhavi3kyglLg44cxBcqxiwKsMwmT/4AAjxfj1hdbIRRwEk2/+iYFBL6EkLeF5ruMcfgWc8WDt6PafzwxA2FkRRbsPk0x9htkp8+l226V/87DSr71/e6lt5FoFRZed;U8V4rw3yVRZ0CPSSjgi+Bw=="
 ---
 

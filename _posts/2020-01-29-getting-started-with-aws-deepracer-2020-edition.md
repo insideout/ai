@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T15:00:00Z
 webUrl: "https://medium.com/vaibhav-malpanis-blog/getting-started-with-deepracer-2020-edition-a7896dd07c48"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 800
     height: 450
     title: "Getting Started with AWS Deepracer (2020 edition)"
-
-related:
-  - title: "5 things to know about getting started with AI/ML"
-    excerpt: "insight discovery and data science (i.e. autoML) all while communicating actions to roles with less AI know-how. Artificial intelligence and machine learning will undoubtedly shake up the business world and life as we know it in years to come, and organisations need to empower each and every human member of their business to be thinking about ..."
-    publishedDateTime: 2020-01-28T10:07:00Z
-    webUrl: "https://www.bmmagazine.co.uk/in-business/5-things-to-know-about-getting-started-with-ai-ml/"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 34
 
 secured: "jYQaw8e/ZSwmITuLknbl5tLWaLCZ3C/5Ggti/DKxcn6rtCXsv93HacDe0+E6O38+SSM1TjuApgM5miBnqBJqqOOSrw4qytZ8rFJ3/yzJwTTTzQRK8p3EBE3+gPDyEVAdbSZ9Arq1nISl8elQWNr82KrJw3VVAeHn+reCJuK5ij0S6oByS5R65EQNoB84O6UUFT10qw2jenxcs+RkHESoc7TdyZnPi9+md7MO6DH/27dv7ALrfPK0nJoKkBExpGGzusr9pftrOqQiIZMaTxveH5S4xN/MdCyGvjS1YCUSV24AhbG9jv1iWnCCHv1DbFYM;tK8FWtytj4hQM4O26iHXHg=="
 ---

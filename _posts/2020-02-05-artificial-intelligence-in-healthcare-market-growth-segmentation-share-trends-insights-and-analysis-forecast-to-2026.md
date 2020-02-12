@@ -67,15 +67,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Personalized Healthcare Apps Market"
-    excerpt: "It's a The Research Corporation summary of the worldwide market's competitive landscape. The Artificial Intelligence Personalized Healthcare Apps report additional predicts the dimensions and valuation of the global industry throughout the forecast amount. The Artificial Intelligence Personalized Healthcare Apps Market report examines the ..."
-    publishedDateTime: 2020-01-28T10:32:00Z
-    webUrl: "https://www.openpr.com/news/1910720/artificial-intelligence-personalized-healthcare-apps-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
   - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
     excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look for patterns and model possible solutions in understanding health and wellness is a notable aspect bolstering the uptake of cognitive systems in ..."
     publishedDateTime: 2020-01-29T12:14:00Z

@@ -7,8 +7,8 @@ webUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-
 ampWebUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "w/PMqirsGBXJphhW5/BJAiCCAnuka/0nvI4jSDJfaEC9LB/FoNjf5k+nKOtMU6oNtVi6H58tOa69MDVUv7FIXBjlEhpANmtL5eWhKGiYl7ZSaaQ411loLYW4N8IRwvCiqWotGb0aipwAxQBLR4HMy34OiK26+W8IIdxjsJ/2pSpYv833XnFYTKXjgymohHnG5A0lh4cdw2da1+j66Wc5tEEVxN8QTHRuvPh+Zf2rMWQKW1N2gRQ1O/pAgg45JuoeuEx4y3CWcL/cKRaRh/0bcapV+GKP0dxpuk2LON93QAequoxZ5Q+63vx05BsxPbZ2V2cOGuuo9TcXM0e1UDLnJ3N4FxUEKDYoN/1LYDiqZyyrYlsHext+7pe7dNy9SQyMbc6fh97oKWzhdGT6r0t7GqNVZMhu/mqlWUUhC1+G2hCtl0OiX7FHl0mB424TnjWIajLu+zK61+xm8zz1avQwXhU+AuVHtqTKGe8Lf8iaiog=;PGuS6ziCC3KwJqyC8x68Xw=="
+images:
+  - url: "https://cdn.ttgtmedia.com/visuals/LeMagIT/hero_article/Rugby_AdobeStock_46421708.jpeg"
+    width: 1200
+    height: 400
+    title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Nations championship"
+
+secured: "B/NWPq0nSrjeasvXjKcezpPoLgRlcziAzUiNXfBQWCrJCv+d0jz93cQ6uwIq/zHslstTCtbie6F68HOwJ4yRneyZUSKG+UWa13ikYixAe/EXQSp4pwVQscNZlZZViQ4VNBjAhlWbfB4iVJLhTFf4kAB4lA+m0bZVH9TFbBSTaUdzUVgPJOSo6KGbpvZwVF6tOGecB4CDytF9Cniy2/e98r/pOJG4MR0HsPX47mZvOWclkg44hgJLpKL7P8GIujw3M1kCV6/VlHrjKFvM0XHriZVF2HvJ3JbSFDxaVVZJ9+NSe18HjYi+pocqKShJNRq3;erfCfg402wktY8IYpZO4zg=="
 ---
 

@@ -7,9 +7,9 @@ webUrl: "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-langu
 ampWebUrl: "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
 type: article
-quality: 51
-heat: 51
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: VICE
@@ -23,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "UCQUYURShPCm0vGiQ7DBT5yMDUvjt8MqgabNnZuk5jXZl5EMmbLUZpQDH/LceA9FgjG+VB+82YbuY3VPpbntRUDY3CKc1CpS+RTkVbdGZEEI7O1u3f/hm7ageQKd+lUhCFwaKI2uGnEST/fts8eSR+PRK0ZH7AWQX6YJPkyxwMGDbvjYbppLHqxwPtTqHk0UQ0chVMymTKMQKgX9/AGzN170DQMfK5PAULDFMZexvhlKMO5tF0XEyrhBv49kTOYHgrfW1vHT9zedlPz6IzngPIkcbjv8Rzy3W/PodtnNg3PPyyXgsv1sBt6ct5jwqNFa;vd2eRkc8iKCJfadsxV6TvA=="
+images:
+  - url: "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*"
+    width: 640
+    height: 358
+    title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
+
+secured: "qG5HY5Stv5PdursvrR8wTp06Yxzu4vQ3FHOU2S1dTtoW1N/YW8A+W2mte3Il9iMHoMriKFj9zdArRbeWobqefe2fwsOuNcxjOdyHMzoHPdu3w+UEnCzuH3enfWwr945T6nwaTvpViDXWU59n+/48A6M1OFtyYGrrNBUU8NDEQNn5zkDsW5mIY/vZUFk5M94MAo/a4QQ1wBtb11xNQX6rGPMqXNh3Vc0Fp4w6L63YWupMAqLT9b3jwmu0Mqz1iCj61NOdacNqb6ndU+MEYj0Z3vNaAwBcj6mgHKL75blEArrseEeLKEmgGeFaZ6t+zy3f;+kmpY3eim5B7I4UUjhsZTA=="
 ---
 

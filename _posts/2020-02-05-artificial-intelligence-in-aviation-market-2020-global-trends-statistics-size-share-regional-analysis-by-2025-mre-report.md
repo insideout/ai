@@ -214,19 +214,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-  - title: "Self-Driving Cars Market 2019 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
-    excerpt: "A new market research report by Big Market Research on Self-Driving Cars market reveals that the market is estimated to grow with a substantial growth rate from 2019-2026. This report is a valuable document for major players and the new entrants to scrutinize the market in detail."
-    publishedDateTime: 2020-01-28T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2019-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026-2020-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Education System Market Report With Current Trends, Growth Ratio and Size Reckoned Forecast by 2029"
     excerpt: "A recent market research analysis titled, Artificial Intelligence in Education System Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Education System market covering industry surroundings,"
     publishedDateTime: 2020-01-31T05:04:00Z

@@ -46,21 +46,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F0e6ec05e-41e6-11ea-bdb5-169ba7be433d?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Watchdog calls for probe after Sheffield's Meadowhall facial recognition police trial"
-    excerpt: "A facial recognition camera trial has sparked further calls for government to intervene in the into the use of the controversial technology. South Yorkshire Police shared three pictures of serious offenders and one of a vulnerable missing person with Meadowhall shopping centre, Sheffield, in 2018 so officers could better understand ..."
-    publishedDateTime: 2020-01-28T09:38:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7937289/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7937289/amp/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7937289/amp/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/01/28/09/23971966-0-image-a-2_1580203901768.jpg"
-        width: 636
-        height: 382
 
 secured: "CUnyIRLObnUrPOHtSDPCoaFpWmishgP4EqSOOZFkEux9qX39djVO/dVyVCE5amFb75U5NOk9T8D9+Zf7/IWOtkp0osWT69sY7DZREeTNsY0O4H4K6Z7gTvXHcdzB4yr7TpLErf/Kk6EcjtAvf1Qa5iw5PIfhM78T5Kn9pa3NQQe1jlHjVtKdud6/Qv+iM12jVnGLzqzP6s2Qqs9f0OYs4JVbSwkwI8qq7cMgM6HVyED5+oh43v6Ba+8ds+9SHkwDIDGNyRfMF7B8dlSg1DwmvRs6MqBclRvWvRfLZJAknmmSxOrCPMMOffM+ZDG/PB7CaT5onxoodTtHcIoFizgXyMou1wYFRR+fChFnz8ZeB2fk0Sbpk7BbyQYfjK40ugit4sGV6+k8UT4NIC8YnL9XbwLpsQK3dr8Y2mCkrJHXMDZtBHQYW238pQYFuOAAK/Zk06cwYSPMxQ8RMDX7i6B5zUI3R/ARWZ+E7mpnlt/dmh8=;QpGUUDDPpsd2ONa3MU846w=="
 ---

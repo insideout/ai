@@ -2,125 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-07-facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media.md",
-      "title": "Facebook bans deceptive deepfakes and some misleadingly modified media",
-      "excerpt": "Hence the new policy bans deepfake content that involves the use of AI technologies ... to produce more research and open source tools to detect deepfakes”. While says Facebook has been working ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/",
-      "publishedDateTime": "2020-01-07T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024",
-          "width": 1024,
-          "height": 663,
-          "title": "Facebook bans deceptive deepfakes and some misleadingly modified media",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-ibms-watson-uses-ai-to-optimize-commercial-creative.md",
-      "title": "IBM’s Watson Uses AI to Optimize Commercial Creative",
-      "excerpt": "IBM launched a new product, Advertising Accelerator with Watson, which uses artificial intelligence to predict which creative elements will result in the highest engagement and conversion for a targeted audience. IBM said the product, introduced at CES In ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.broadcastingcable.com/news/ibms-watson-uses-ai-to-optimize-commercial-creative",
-      "ampWebUrl": "https://www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative",
-      "cdnAmpWebUrl": "https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative",
-      "publishedDateTime": "2020-01-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Broadcasting & Cable",
-        "domain": "broadcastingcable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.broadcastingcable.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTY5NTIxMDI2MTIyNjU1MDA5/ibm-watson.png",
-          "width": 619,
-          "height": 556,
-          "title": "IBM’s Watson Uses AI to Optimize Commercial Creative",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture.md",
-      "title": "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture",
-      "excerpt": "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture",
-      "ampWebUrl": "https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/",
-      "publishedDateTime": "2020-01-07T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/34074-60961-intel-tiger-lake-board-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-07-intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graphics-processing.md",
       "title": "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing",
       "excerpt": "Some laptops with Tiger Lake processors are also expected to use Intel's upcoming discrete GPU, called the DGX1. Intel teased its discrete graphics processor last year at Computex, and at CES here it showed off a working demo of the GPU running Destiny 2 ...",
@@ -2134,6 +2015,141 @@
           "width": 1920,
           "height": 1152,
           "title": "China tests world’s first high-speed driverless bullet train at a speed of 350 km successfully",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-11-how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things.md",
+      "title": "How Watson AI allows IBM's Advertising Accelerator to do three key things",
+      "excerpt": "TechRepublic's Teena Maddox talked to Dave Neway, head of marketing at IBM Watson Advertising, at CES 2020 about how Watson can take advertising to the next level with artificial intelligence (AI). The following is an edited transcript of their conversation. Dave Neway: We had a major product announcement this week. On Tuesday, I'm very proud ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/",
+      "publishedDateTime": "2020-01-11T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/10/b282fdc1-3853-444c-9942-fc7594b8e3a4/resize/1200x/5c975a45581745a7fdeb8be198c4c7db/20200110-ibm-dave-teena.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Watson AI allows IBM's Advertising Accelerator to do three key things",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-11-no-ibm-is-not-the-only-relevant-player-in-virtual-agents.md",
+      "title": "No, IBM is not the only relevant player in virtual agents",
+      "excerpt": "Last month, IBM General Manager of Data and Watson AI, Rob Thomas, told VentureBeat that IBM was the only major enterprise provider in the red-hot area of virtual agents. Virtual agents are software that can chat with customers through text, voice, or web chat. “There really are no big players, except for us,” Thomas said at the time.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/11/no-ibm-is-not-the-only-relevant-player-in-virtual-agents/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/11/no-ibm-is-not-the-only-relevant-player-in-virtual-agents/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/11/no-ibm-is-not-the-only-relevant-player-in-virtual-agents/amp/",
+      "publishedDateTime": "2020-01-11T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp.jpg?fit=2121%2C1414&strip=all",
+          "width": 2121,
+          "height": 1414,
+          "title": "No, IBM is not the only relevant player in virtual agents",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-11-robotaxis-will-be-available-as-soon-as-2022-self-driving-tech-supplier-mobileye-ceo-says.md",
+      "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
+      "excerpt": "Self-driving cars will start with fleet operators before general use due to regulatory and cost constraints “that you cannot put on a consumer,” he said in a “Mad Money” interview. “If more cars will be autonomous,",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
+      "publishedDateTime": "2020-01-10T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106331425-1578694177734shashua_amnon_mm_20200110_img_1027.jpg?v=1578694283",
+          "width": 5795,
+          "height": 3863,
+          "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
           "attribution": null
         }
       ],

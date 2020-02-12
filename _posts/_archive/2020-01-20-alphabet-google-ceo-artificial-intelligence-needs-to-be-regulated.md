@@ -7,7 +7,7 @@ webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intellig
 ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+    width: 1200
+    height: 628
+    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
@@ -30,8 +36,12 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 54
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+        width: 600
+        height: 338
 
-secured: "OCSp7C7ZnJHhEdNTU+cFgwaHETYKR6B/5qvf+JsUYgn2kdLAO1rgwjexDpfxoJbPSsJRJ5kzVySXItAUMVBRRkEEgmb+Gten8M+czRGrl0sQaNEpMTNgE7IFykBuOJ7ReRl05MofBwnjJpmJGuIqlaSSTFErUecSmVX74kgjBzaGfBTcl+j19WZL9XD0KTBttMm1rRIce6Smm69KNSMlUoAzeuT3BQuZcF/tPe+W85RgM3L/9xN3kGJ2UUjt6xhJyt1IlR2k9y0ESqq4w8nJ4dBQJ85v5GoDT5y84LlkywBtj7wypL2Am9C2JL56VpQFQCwNghSMr/qgRKgqtVhqR/VOdcUT7ci3xgG7qRvmaNeT2c3Gr0CNvlxxIBhE0BgAPQmX59UtM48MZnWvHVNtmDYU62gODE8RcdOyFhZau+fYl1AqiJ04s/W3Mob1CtxQ5ZfNbu1Dw9vGqzSHqXMoTpkekYxJmNuB3srXQPQRI/k=;pTcMTtqCPa3SE15Jleb7wA=="
+secured: "NIkvocNAd21iXQZWnLpRq5KPKaHkQuEmVFLV5dCGDrDzkwQLgz2ioLiWZ2qMWqvLnuWelX6u2jrW30lRjjH+JV5XZZ5k50Z/rfKZxtDjtLsR6ehqR1Q1uwxYz262W597wTxBkF2KgqnSOfDPL/DxwV+Jrc620s2K3+PVDdzL4RT1HUGxjcChF+46J7bnjFqsPgMpNJ26z5wCH6kAwSWFo9CRRje4MUUBdVSBu6IRWFeMF3AhCCeYdJv6PHQXDMXpDd6PQWLI2rkMNHa7MH4CuMPhdljNXkiFkOyOUC+kcV7zqJ4xZL33aBWR1JCgmxD4;kEHRG1DD5rxvRHD/BxfjOw=="
 ---
 

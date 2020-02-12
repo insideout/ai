@@ -7,9 +7,9 @@ webUrl: "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html"
 ampWebUrl: "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: CNBC
@@ -23,6 +23,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "YcIzrcjhCcK4hPGWOJJg9T0vnty3XbN0ln6wT/Vi4eJV+KPP44MTa3hz7RyfXIgOyi4qKIyclmB0gi3iQmpnMaFIjIb+iCrEk23YCIrkBmRY3UBquXbGkj436zp0Ih3EngjKE8Nkq/dMlci8LNPGZpqAQhlQO6u2pZuGnEEwIbg0imFQOazlQOCKEXliib5t2Rq10pjj/zY3Xjnb4p1jvud2+t06b1Y4xKhn6Zyyl4L1anw+kK016vwm845CLTI1j5QIYTkyxGY49KLcFeMG5ZDs4H9V2mcUQUnMUs0VWspAvyDHMqrRtKOYDwRBnV7Q;JVBXFb6Lav3yCVk7v+1vfw=="
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578"
+    width: 3970
+    height: 2652
+    title: "Google hopes to draw more cloud customers by making A.I. easier to use"
+
+secured: "lnVsc3L+8BEZ7qOFHEqLeEn5AGs0UwLZMljaSvPHpcQaF+lMD4LXkOGma/qkoDvor2tyKJiKZ0P8vvmefBl3L1f3ASIhn488FVx/5/yK2ndFC7UTtFbOBt+j949jKNRCgMU7VUfJ/0X7MMVP2x4MIvA91dKQrOzU+jgxWDoGddVogPztzfT789hV7JdFHhODnD6HgSlMy3hJ22Nms+0GyOR1V8cDMo/kR+4v+INujuu/P6pOEXStfhojpYZuVgcCoKakg79AN+ZYxmB0Tn0n2Op6onrHd9ofUGPLRK7u04hOwR0ZQqZhYJoItPhfBXYP;DkL2fCJGvabwPDBSkQQRIg=="
 ---
 

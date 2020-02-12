@@ -2,179 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-10-how-the-expansion-of-artificial-neural-networks-can-drive-your-business.md",
-      "title": "How The Expansion Of Artificial Neural Networks Can Drive Your Business",
-      "excerpt": "ANN is basically the framework for letting many different machine learning algorithms work together to process very complex operations.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/amp/",
-      "publishedDateTime": "2020-02-10T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152157066/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How The Expansion Of Artificial Neural Networks Can Drive Your Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots.md",
-      "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
-      "excerpt": "This approach is a useful and important tool to get yourself in front of the right people. This strategy will help increase your chances of getting noticed, chosen for an interview and, ultimately, getting the job you want.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
-      "publishedDateTime": "2020-02-10T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180036882%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-machine-learning-the-tool-of-the-century.md",
-      "title": "Machine Learning: The Tool of the Century",
-      "excerpt": "There are 3 main types of artificial intelligence: narrow, general, and super. We have yet to achieve super, or even general intelligence. Artificial narrow intelligence (ANI) includes machine learning, which is being used to make self-driving cars, show you advertisements, and improve disease diagnosis. Machine learning is the field in which ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/machine-learning-the-tool-of-the-century-fe5a20309920",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*3z-djqopm88GYDz2OB3qDg.png",
-          "width": 1200,
-          "height": 672,
-          "title": "Machine Learning: The Tool of the Century",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models.md",
-      "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
-      "excerpt": "Microsoft Research today announced DeepSpeed, a new deep learning optimization library that can train massive 100-billion-parameter models. In AI, you need to have larger natural language models for better accuracy. But training larger natural language models is time consuming and the costs associated with it are very high. Microsoft claims ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/",
-      "ampWebUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
-      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
-      "publishedDateTime": "2020-02-10T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSPoweruser",
-        "domain": "mspoweruser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mspoweruser.com/wp-content/uploads/2020/02/Microsoft-Deepspeed-deeplearning.jpg",
-          "width": 1305,
-          "height": 717,
-          "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-new-music-label-says-it-can-use-ai-to-find-the-next-big-artist.md",
       "title": "New music label says it can use AI to find the next big artist",
       "excerpt": "We've seen artists like Björk and Arca use the technology to create new musical arrangements. But a new label called Snafu Records thinks it can also use AI to discover the next big artist long before even the most music-savvy talent scouts find them.",
@@ -1040,50 +867,6 @@
           "width": 1200,
           "height": 801,
           "title": "AI And Automation: Together Forever?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-ai-document-engineering-startup-docugami-raises-10m-seed-round-in-unusually-large-early-stage-deal.md",
-      "title": "AI document engineering startup Docugami raises $10M seed round in unusually large early stage deal",
-      "excerpt": "The startup’s document engineering technology lets companies create documents such as contracts and reports that can then be analyzed in the aggregate as if the contents were stored in a structured database. Docugami says it’s creating new AI techniques using machine learning, computer vision, natural language processing and unique XML ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/amp/",
-      "publishedDateTime": "2020-02-11T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/Docugami-Board-of-Directors-February-2020-1-630x443.jpg",
-          "width": 630,
-          "height": 443,
-          "title": "AI document engineering startup Docugami raises $10M seed round in unusually large early stage deal",
           "attribution": null
         }
       ],
@@ -2019,7 +1802,7 @@
       "path": "_posts/2020-02-11-new-jerseys-former-attorney-general-on-ring-cameras-and-facial-recognition.md",
       "title": "New Jersey’s former attorney general on Ring cameras and facial recognition",
       "excerpt": "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ...",
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast",
@@ -2185,6 +1968,223 @@
         "AI",
         "AI in Autos",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-the-aclu-slammed-a-facial-recognition-company-that-scrapes-photos-from-instagram-and-facebook.md",
+      "title": "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook",
+      "excerpt": "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ...",
+      "heat": 300,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
+      "publishedDateTime": "2020-02-10T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*",
+          "width": 640,
+          "height": 440,
+          "title": "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-the-ai-revolution-is-here-a-podcast-and-interview-with-nate-yohannes.md",
+      "title": "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes",
+      "excerpt": "Nate’s perspective on AI being built for everybody on the planet is birthed from one of the most unique foundations possible. He’s the offspring of a revolutionary who stepped on a landmine in 1978 fighting for democracy on the Horn of Africa,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/amp/",
+      "publishedDateTime": "2020-02-11T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d6e478b6cf300071e2656%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup.md",
+      "title": "The engineers behind Google’s Bookbot have launched a delivery robot startup",
+      "excerpt": "The secretive startup called Cartken was formed in fall 2019 after Google ... However, a Korean trade delegation to Silicon Valley in October was told the company had “developed a delivery robot that combines unmanned autonomous vehicles and artificial intelligence.” Cartken’s website says that it will offer “low-cost delivery through ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/11/the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/11/the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup/amp/",
+      "publishedDateTime": "2020-02-11T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/bookbot-cartken.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "The engineers behind Google’s Bookbot have launched a delivery robot startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-the-white-house-wants-to-spend-hundreds-of-millions-more-on-ai-research.md",
+      "title": "The White House wants to spend hundreds of millions more on AI research",
+      "excerpt": "The news: The White House is pumping hundreds of millions more dollars into artificial intelligence research. In budget plans announced on Monday, the administration bumped funding for AI research at the Defense Advanced Research Projects Agency (DARPA) from $50 million to $249 million and at the National Science Foundation from $500 million ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615174/the-white-house-will-spend-hundreds-of-millions-more-on-ai-research/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688",
+          "width": 1200,
+          "height": 675,
+          "title": "The White House wants to spend hundreds of millions more on AI research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes.md",
+      "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
+      "excerpt": "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience.",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
+      "publishedDateTime": "2020-02-10T16:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

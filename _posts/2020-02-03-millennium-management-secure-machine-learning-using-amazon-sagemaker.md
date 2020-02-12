@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T20:16:17Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/29/labeling-efficiency-sagemaker-gt-2.gif"
         width: 500
         height: 202
-  - title: "Deep Graph Library, part 2 — Training on Amazon SageMaker"
-    excerpt: "Well, as DGL is available on Amazon SageMaker, I’ll show you in this post how to quickly and easily adapt your DGL code for SageMaker. As you probably guessed, we’re going to use script mode ..."
-    publishedDateTime: 2020-01-28T09:58:00Z
-    webUrl: "https://medium.com/@julsimon/deep-graph-library-part-2-training-on-amazon-sagemaker-54d318dfc814"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 84
-    images:
-      - url: "https://miro.medium.com/max/891/1*Ti5TbBkB0vxxKOC5DyESHQ.png"
-        width: 891
-        height: 514
 
 secured: "ky6m/7LWA8U5weTkNGoRJvaNwtLdy/o0EMdUWCVcwxb1u7Pq8rQha217H/udPIjieyhFocjpFf2UfFwWxiFvA1BIbvATjU+Fc/Yyd9rmY0Zdx7r0N9/496esJEy3AGbgaqKu0ayXXjVMZgNMbd+pzFNVpIjCyF5ZqNw8Z832ccKo+CpyH3X7KEMXSMmYBAzTGnUn/M4Eb+cOfMBQKGznSOyxpM+SPaJrpGpFtvwZI0Q0wtJ2FZXoHxGf4ZWz5O4fA6GCQZxDRUO6fUcbsuHfIxuaBbOo2pv6gwwagDI+hv+EF+ZDy/L/njYwxvipawhd;MaZq7JhyvlmZNtMyoSI39w=="
 ---

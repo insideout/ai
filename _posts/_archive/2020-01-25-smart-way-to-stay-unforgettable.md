@@ -5,8 +5,8 @@ excerpt: "MAXIS has come up with a unique 5G-enabled innovation called unforgetT
 publishedDateTime: 2020-01-25T00:00:00Z
 webUrl: "https://www.thestar.com.my/metro/metro-news/2020/01/25/smart-way-to-stay-unforgettable"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "RDRriH/wDkOOyhXJGpTTPtrLgjvBjvt38N4zwAHIBKDZMlOuT+y6bsaCb9NRNpzofZZglCgMRS/hpcPJrhkz09bZjnPrsU4gllJaZvug82CHKQ22d3jsjD51Gq/3FrDuwKa7gpYANxVYSIHpqed4LKJV4dRLUjH3s6uBLJn2kHT3GPD4MtDh+bxa1eOJ/lNTYjNw+jrOgoeK6/8OIzAK47YbQ7tgrqbupI0m1+fMPN1RUNOLnK2Bfw2yXcu+egRmtWvsdHl7ZCoT9U4KMnUYbY5Iw7lQzWK3NVJ7sUVDZ48ePEUuE/8kqBQL6r0xqlZj;AcBCMGdATx0NKFjamew+dw=="
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2020/01/25/524274.jpg"
+    width: 1240
+    height: 845
+    title: "Smart way to stay unforgettable"
+
+secured: "i05hltBGYxE3akM3nqw2OSg3ZFYjDewCrKFo5gp0QP85TpuRhKndxE7+QOKNCGduju+7lpHKZDmPdMe+bMqAIAZyplwxfAaw8nvwZ3KvavCfJt0PjeO2Ts8zvXCz7eUBlhtADzLLPIdNyONYEKQMaD2HpLwpFnuoHGKNuRVuze5vDgkv0wcbaMc4cS3Mv0RBURxkAlPUyhgvmqhsaVxKgI6cGPcegBgLqpHJDw8bNl20oetSytS7XYVaWPesNQU/FfpsK6EjUVmzciqhKvIUMrRMMS/bQGkwBcocnNZQi81Wrzng/iby8QTZ2SfhtfCY;udNbqkFpElBCAogP8QHPNw=="
 ---
 

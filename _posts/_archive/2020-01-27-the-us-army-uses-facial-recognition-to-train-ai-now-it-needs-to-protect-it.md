@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-tr
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 81
+quality: 101
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+    width: 1200
+    height: 763
+    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -873,7 +879,7 @@ related:
         width: 763
         height: 509
   - title: "US Army develops AI facial recognition protection"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. The US Army uses facial and object recognition technologies to train artificial ..."
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, has created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. The US Army uses facial and object recognition technologies to train artificial ..."
     publishedDateTime: 2020-01-28T09:29:00Z
     webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
     type: article
@@ -1576,6 +1582,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "eR3yRkB7wX7HekesbQ46Q8mhYDCGPGXYd4lftCkWmjBXT6ojjvx8eL/BPY/vpm4KlIQAJPxxjhIYkr6BXwUV/yoDRM03MfINbTMmh7SkMaqP3Z51KvaU3O3yFaZeLuV/iog/38+bH+HHETqzfRVfdqkKrg97hss08rBqrgjY4XBsErBnH97J7pAHM4a3+5PW4y1XOAjz0uaDlqdY3/kNmuWwE6lg9o2icF0i61BPAg3e37fIFDHVbJDJtNRw9ytvOIFbLDE+C3mhKytZUzcJEhz+jMV6y3EAECFESLypaQcZ7FI61atYsiukXSAg7703/ndySJLEbAx4tAkeTG0+xlu+xy9RkwduZesGqxoUrZJlspbwf2N7ibq5H3yjM1MEpXJ7RFVX71O116GbQhVYGyMd0yDXufQLn1bmAYFGQV0wLzN1kqEpQKPIPx7uuei3o0SO1ZRjyDAAGnX56drAdSyERuooA/ycUH2Jq3g2WbQ=;Agj1Ejpr/GBkACi7ZWIZvQ=="
+secured: "F6lj880ThnWENIlVuzFwTk7Mc6nB4YOnAH2OaSXKQv6NJ3fK9Coo3debDsXxKnqVTRdnsK1ajG0iHBKfjfrsrcIGzFJ6FdI+QvqPRIWqU8FLp4y2ypZnbV2ux86yTqiTEox73zIo7xxyyiInR4f2hyZnU2oY5VXe1fTLhSIzQD17+7qR+271q10NMX9kS68zWyvA+ceN+cbUPBkli/FN0SFE8hUrMxuGu6R+93ZIwjpH7AOzxaOo3qKqfqit978TwHxcFudKzcsKS8hckK41TJZ0xl9Jf0ZISGS/Iv4bMQ5SivN5xBVRhGzagbAYJi9U;2tAJm/yu6hhjjBzr/7b/3A=="
 ---
 

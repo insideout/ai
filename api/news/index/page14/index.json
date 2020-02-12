@@ -2,89 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-17-artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future",
-      "excerpt": "Jan 17, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI ... practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-avra-medical-robotics-attends-jp-morgan-healthcare-conference.md",
-      "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
-      "excerpt": "... the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence, machine learning and proprietary software; is attending the 38th J.P. Morgan Healthcare Conference in San Francisco this week. The Company is represented by its CEO, Barry Cohen. Mr. Cohen has held ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T14:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press News",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models.md",
       "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
       "excerpt": "No matter the claimed robustness of AI and machine learning systems in production, none are immune to adversarial attacks, or techniques that attempt to fool algorithms through malicious input. It’s been shown that generating even small perturbations on images can fool the best of classifiers with high probability. And that’s problematic ...",
@@ -374,6 +291,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-17-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
+      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "publishedDateTime": "2020-01-17T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
+          "width": 640,
+          "height": 358,
+          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-17-facial-recognition-scanners-are-coming-to-philadelphias-airport-starting-tuesday.md",
       "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
       "excerpt": "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ...",
@@ -490,6 +452,51 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
+      "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
+      "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
+      "publishedDateTime": "2020-01-17T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578",
+          "width": 3970,
+          "height": 2652,
+          "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1540,6 +1547,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-18-heres-what-bosch-hopes-to-learn-from-deploying-autonomous-cars-in-san-jose.md",
+      "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+      "excerpt": "That’s where artificial intelligence comes to the rescue ... and you could hail a lounge-like driverless cab to go pick it up.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "publishedDateTime": "2020-01-18T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/bosch-daimler-autonomous-s-class-1-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-18-how-fractals-trial-run-uses-aws-to-power-ai-based-decision-making.md",
       "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
       "excerpt": "Akhil Behl, VP, Artificial Intelligence and Machine Learning at ... When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than ...",
@@ -2084,50 +2136,6 @@
           "width": 1200,
           "height": 713,
           "title": "Lioness AI sex toy can teach you about your orgasms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-19-why-agile-methodologies-miss-the-mark-for-ai-ml-projects.md",
-      "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
-      "excerpt": "What drives AI and ML projects is not programmatic code, but rather the data from which learning must be derived. What is needed is a project management methodology that takes into account the data-centric needs of AI and application-focused uses of models.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
-      "publishedDateTime": "2020-01-19T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1a23e2a854780006e84fa0%2F0x0.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
           "attribution": null
         }
       ],

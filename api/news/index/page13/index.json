@@ -2,87 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-apple-reportedly-acquires-xnorai-to-boost-on-device-ai.md",
-      "title": "Apple reportedly acquires Xnor.ai to boost on-device AI",
-      "excerpt": "Did you know that, according to CEO Tim Cook, Apple acquires a company every two to three weeks? It’s just added another startup to its long line of AI acquisitions. According to a report by GeekWire, the Cupertino-based company has made a deal with Xnor.ai, an edge-based AI startup, for $200 million. What is edge-based AI, you may ask?",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/apple/2020/01/16/apple-reportedly-acquires-xnor-ai-to-boost-on-device-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg",
-          "width": 796,
-          "height": 482,
-          "title": "Apple reportedly acquires Xnor.ai to boost on-device AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-361-billion-by-2025.md",
-      "title": "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025",
-      "excerpt": "Why is Artificial Intelligence disrupting the healthcare ... From life coaching to cognitive behavioural therapy to faith-based healing, therapy bots support users’ mental health and help ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020.md",
       "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
       "excerpt": "HTF MI newly added the Global Artificial Intelligence Platform Market Study that gives meticulous investigation of current scenario of the Market size, share, demand, growth, trends, and forecast in the coming years.",
@@ -2164,6 +2083,89 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future",
+      "excerpt": "Jan 17, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI ... practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-avra-medical-robotics-attends-jp-morgan-healthcare-conference.md",
+      "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
+      "excerpt": "... the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence, machine learning and proprietary software; is attending the 38th J.P. Morgan Healthcare Conference in San Francisco this week. The Company is represented by its CEO, Barry Cohen. Mr. Cohen has held ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press News",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
       ]
     }
   ],

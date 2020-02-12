@@ -5,8 +5,8 @@ excerpt: "H2O also has an industry leading AutoML functionality that automatical
 publishedDateTime: 2020-01-26T23:16:00Z
 webUrl: "https://www.businesswire.com/news/home/20200126005001/en/H2O.ai-Empowers-MarketAxess-Innovate-Inform-Trading-Strategies"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: "https://mms.businesswire.com/media/20200126005001/en/767274/23/logo.jpg"
+    width: 1200
+    height: 627
+    title: "H2O.ai Empowers MarketAxess to Innovate and Inform Trading Strategies"
 
 related:
   - title: "Itiviti Partners With AI Innovator Imandra to Integrate Machine Learning Into Client Onboarding and Testing Tools"
@@ -30,6 +36,6 @@ related:
       domain: benzinga.com
     quality: 18
 
-secured: "ZT2uU2054VfYkhztKqqyI/1Ps59kehhTcWKDX+W7KOt5qF6aKWsbksEnOBUzkg8xUUtDBQRaUgjVBNIqbVVM+GQcnTl0jir1bLH9OeVnjyPph0LEf9crD4VFBHgC7A51oeoQyQJbTnMfFyj2t1k14ZWCROSwgIjkfTJO4FzLa0WWIWonJdn5J7wuGB07FueTrYux2wYLPjBuJcB9ujnYQkDB7h5Iy173gRIRW15HxkIYVhxwINbGoeoZVlHb6fCnK8CVbuBwaunnbAO6oyzsQIjnV87LJV3ABXJA00Vh8qGL411h9SF5kIIq/DGnByiGCSLj1OAssyRq+3JSfNtWYGwfnn+j4Uyvci8PoYHwdY4dZCNwwP350I2Pox+aFJXXWYooaLS2plslS2zcYRGKXSNoqfidH+L84BBJPRe8BviL5mEnA91GzI1rb10SiUkhcJUop/FCyDoN4dUqEavOLqkL0GSPEMmOh9/wDHZPYyY=;vIS9q3sRBJ/9zcEGvbDbYw=="
+secured: "GyHfnSt8jhCG7wfKfg3msBG/Iw+vEBsdcBhD/jKFV0kCj9w0mcE4kwlC7nJ/33Nh/2VpOmJfXJTB85+lu0C6ghT4w9VkYvyTOzn2dKiwqqSZPK0keu1Ty1wcXcJ6bTNn7yxikyC3o8f7Nf6+7528opSWoRLMESCALAMFJ51XMtaCHjoRmvDVyuwlzIuYZ27Ylqr8Je2wC9I52g65ilhqidl3IKZf9R2Ey5ieg+i9+AdKp7nRYp2yPeaoYjaxUf5/WUNvyoJ7cFYJizRzhkHWTZLTmiX7V4tbpg7yW2FdVojh/AeSbk1lXZbzecwmbgw0;+PdP4PoAzvrEYskFDXVz/g=="
 ---
 

@@ -41,19 +41,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/millenium-sagemaker-1.gif"
         width: 900
         height: 473
-  - title: "Deep Graph Library, part 2 — Training on Amazon SageMaker"
-    excerpt: "Well, as DGL is available on Amazon SageMaker, I’ll show you in this post how to quickly and easily adapt your DGL code for SageMaker. As you probably guessed, we’re going to use script mode ..."
-    publishedDateTime: 2020-01-28T09:58:00Z
-    webUrl: "https://medium.com/@julsimon/deep-graph-library-part-2-training-on-amazon-sagemaker-54d318dfc814"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 84
-    images:
-      - url: "https://miro.medium.com/max/891/1*Ti5TbBkB0vxxKOC5DyESHQ.png"
-        width: 891
-        height: 514
 
 secured: "/XzpEXbXl9tFLWrqjR/vdb7Dj9O0GGWAnkvOBRw87zXAqMm1jI9nSDgTvS5z9DKaV1YiNmBUmE7hAKFd9/iis13jBE++DzYb1QkzfpEprJ38HbH6DG8HZpYdQsg+I4M/0SWWUDGkRaiLV0qHYKq3BUlbjlUEtBBsCllPSc2cfjwT312ZtXDH26v4PeDky0OJSVSm3vfGQs7C5VRbKKyqfu5Sm0Q7hqP2LNDubs4Lrm0edi94Q5Bo8YWl/exyDT+iLh6K9NWS4l80lPTFUrQnewiLgbNfJeB4NglB2dnt1YHP1ud0Ndj8HkBcfhAIjrOD9Fjxt9Ve1mWpkh6E1AQ8KQ==;c3Af41hNdXOZyNof/bfpJw=="
 ---

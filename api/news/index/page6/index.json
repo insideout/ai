@@ -2,176 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-07-smart-cities-how-artificial-intelligence-could-change-london.md",
-      "title": "Smart cities: How artificial intelligence could change London",
-      "excerpt": "Computers are scanning London's roads, with a 98% accuracy rate in identifying vehicles and people. And they are are learning all the time. The new system can run 24/7 and is part of the \"smart city\" revolution. Using data from the scanners, planners can change streets and target investment.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/av/uk-england-london-51415491/smart-cities-how-artificial-intelligence-could-change-london",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T15:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F0A1/production/_110810616_p082lg33.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Smart cities: How artificial intelligence could change London",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri.md",
-      "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
-      "excerpt": "But the tweaks made an AI interpret the sentences completely differently. Why it matters: We have seen many examples of such adversarial attacks, most often with image recognition systems, where tiny alterations to the input can flummox an AI and make it misclassify what it sees. TextFooler shows that this style of attack also breaks NLP ...",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/f/615158/software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/40507772191411d162do.jpg?sw=1200&cx=478&cy=0&cw=2350&ch=1322",
-          "width": 1200,
-          "height": 675,
-          "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-tesla-accused-of-abruptly-pulling-self-driving-from-a-used-model-s.md",
-      "title": "Tesla accused of abruptly pulling self-driving from a used Model S",
-      "excerpt": "An extensive Jalopnik report details an (anonymous) person who bought a second-hand Model S 75D with both Enhanced Autopilot and Full Self Driving (FSD) as listed features. Except, somehow, those features were remotely removed, without notice from Tesla, as part of a software update. Last November, a California secondhand dealer picked up the ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/07/tesla-model-s-fsd-issues/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/",
-      "publishedDateTime": "2020-02-07T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5615%252C3744%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F573a2860-4997-11ea-b8ff-def49bb616f0%26client%3Da1acac3e1b3290917d92%26signature%3Dbc650a616fa7b08a85ec932a5a5f8db81960ac55&client=amp-blogside-v2&signature=55e283838481287341c2ce50730f8e43eb0dd682",
-          "width": 600,
-          "height": 350,
-          "title": "Tesla accused of abruptly pulling self-driving from a used Model S",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-the-rise-of-the-ai-agency-in-2020.md",
-      "title": "The Rise Of The AI Agency In 2020",
-      "excerpt": "In a world of increasing information and races to the bottom, AI is more obviously an important competitive advantage for many organizations.",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/",
-      "publishedDateTime": "2020-02-07T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 493,
-          "title": "The Rise Of The AI Agency In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-the-straight-line-from-google-maps-to-clearview-ai.md",
       "title": "The straight line from Google Maps to Clearview AI",
       "excerpt": "It’s worse than showing nothing.” People walking around and finding themselves subject to ubiquitous computing — whether they like it or not — is a subject that has been in the news constantly of late, as we debate the rise of for-profit facial recognition and tools like Clearview AI. It’s a story that, to my mind, starts with the ...",
@@ -2189,6 +2019,179 @@
         "AI",
         "AI in Autos",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-how-the-expansion-of-artificial-neural-networks-can-drive-your-business.md",
+      "title": "How The Expansion Of Artificial Neural Networks Can Drive Your Business",
+      "excerpt": "ANN is basically the framework for letting many different machine learning algorithms work together to process very complex operations.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/amp/",
+      "publishedDateTime": "2020-02-10T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152157066/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How The Expansion Of Artificial Neural Networks Can Drive Your Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots.md",
+      "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
+      "excerpt": "This approach is a useful and important tool to get yourself in front of the right people. This strategy will help increase your chances of getting noticed, chosen for an interview and, ultimately, getting the job you want.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
+      "publishedDateTime": "2020-02-10T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180036882%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-machine-learning-the-tool-of-the-century.md",
+      "title": "Machine Learning: The Tool of the Century",
+      "excerpt": "There are 3 main types of artificial intelligence: narrow, general, and super. We have yet to achieve super, or even general intelligence. Artificial narrow intelligence (ANI) includes machine learning, which is being used to make self-driving cars, show you advertisements, and improve disease diagnosis. Machine learning is the field in which ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/machine-learning-the-tool-of-the-century-fe5a20309920",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*3z-djqopm88GYDz2OB3qDg.png",
+          "width": 1200,
+          "height": 672,
+          "title": "Machine Learning: The Tool of the Century",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models.md",
+      "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+      "excerpt": "Microsoft Research today announced DeepSpeed, a new deep learning optimization library that can train massive 100-billion-parameter models. In AI, you need to have larger natural language models for better accuracy. But training larger natural language models is time consuming and the costs associated with it are very high. Microsoft claims ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/",
+      "ampWebUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "publishedDateTime": "2020-02-10T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2020/02/Microsoft-Deepspeed-deeplearning.jpg",
+          "width": 1305,
+          "height": 717,
+          "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

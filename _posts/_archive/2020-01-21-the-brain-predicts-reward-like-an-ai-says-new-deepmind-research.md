@@ -7,9 +7,9 @@ webUrl: "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an
 ampWebUrl: "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/"
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Singularity Hub
@@ -19,6 +19,12 @@ topics:
   - AI
   - Google AI
 
-secured: "hECZwrsJ96mUh+f8+dg+VONY4STKTy6d5/oD8PecBl8hGHn5Vey2iDwLiDD1v0pBFQ/bDJrkOZlxqF2dRAdKrcLt1fCkZLflalNu8aqyHNDVy/WfrTvNp9qa/InSHn2LPZZ1jCGfGVBXcHixHnXWyjpzbmtXDoHzQwPFkK80jKh5+rnHHLLoOK1Y9dCtrxwE+qEjGkiHd26KBitdW6kLxo3nMMHKvY2ubc2ZOIe8SB6uy1v4gxw8XxETFRA20Z76JXdNgf5eoStMCMaB2gaS++PHyq6tzp6oCjo1KO0Id6LYQoS+lKCu4qELKas7Whe/;UIhvvrxxC4Ol/n40DflBhQ=="
+images:
+  - url: "https://singularityhub.com/wp-content/uploads/2020/01/brain-1787622_1280-dopaminergic-neurons-reward.jpg"
+    width: 1068
+    height: 601
+    title: "The Brain Predicts Reward Like an AI, Says New DeepMind Research"
+
+secured: "NLAZ24WN48RL6Fs8bhNNXnic26dX4eF20q9lNoQFCxz1p4R9InIvwCu5MeaTsO9Rbxi8IIyPrX03fQ0oNwSSqdaVcVxLJb1LU2pugaleGI+nT8Dn3ap6PH05bKZP/n1inhaXTJ6jHxm0LsBKNrQO+EHziZOu0uAAf6CYVd8scBuXrHLTM3TCjgEqmeU/fEBc2DSnkB1kLbptbSX28VcluTHqt7OBvv/ll6o8ECX610vfPGzajkOjV/Dz1PEyvXwLmWDcpfUR7BJhN2XfGk0gSlbyu9oKyuARtaGVwpMicDdfYe+KZ8eV0IOY4bMfjGHE;7K7gaNwG0EekEj6gYwGYMg=="
 ---
 

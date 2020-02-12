@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T20:56:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -43,21 +43,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F0e6ec05e-41e6-11ea-bdb5-169ba7be433d?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Watchdog calls for probe after Sheffield's Meadowhall facial recognition police trial"
-    excerpt: "A facial recognition camera trial has sparked further calls for government to intervene in the into the use of the controversial technology. South Yorkshire Police shared three pictures of serious offenders and one of a vulnerable missing person with Meadowhall shopping centre, Sheffield, in 2018 so officers could better understand ..."
-    publishedDateTime: 2020-01-28T09:38:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7937289/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7937289/amp/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7937289/amp/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/01/28/09/23971966-0-image-a-2_1580203901768.jpg"
-        width: 636
-        height: 382
   - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
     excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
     publishedDateTime: 2020-02-04T11:47:00Z

@@ -7,8 +7,8 @@ webUrl: "https://www.governing.com/finance/Trustee-Wants-School-District-to-Get-
 ampWebUrl: "https://www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html?AMP"
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html?AMP"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "XOPN5IVtaWBaUVKkRKj0j5s6TW7H4+v46KWo5WcqWpFp7QCJlPOE/kKlFw8bfohyG5GZKLgG9lhNWB6aa9L1qaYSyLoYLsPZ2wk9P0XSP62XoxPG51yVjn036q1H3xA5RUu86j7J6yYRQZcj3e6gfAB5GI/61zMTet547q0c4aj8XStJp/mmfh+GTt8ahKFIke4iUt0vFuCnHbRV4dfPNhNQbFYwIqigwxF9EwJK/3+lQCAjaUrHOhDPbXg0/9sKWONnDkVpoRJQTp/Xpbme5qDzLzBEV4gVEOIxMP8PfZutXuXq4YDz0eBjWPF+/7T2;JQqJEYpQh9lT+l3F/Csb+A=="
+images:
+  - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
+    width: 940
+    height: 627
+    title: "Trustee Wants School District to Get Refund for Recognition Tech"
+
+secured: "yO3q2aDTS9+GQ96Cuekml2rywlRDnVeqTfkfqe1ra+YVMrbYHUnLMyhxBiO7gyEaSyc3peoY0oS58VmCt1CT/P6i5KnN/qGfUpmVwgsHSs3OxRdQ3vovDaZE+SvruR1CEM/YZcdBv6a5+jCntPJrj3uXYYl/urpU4jjdqEZcYWTtmf2SsrFflvAwtV0p8XdkRBUXH/HOfgsGiH3fEZtZ0ngpOiwATbuu4uMv4y3L4u9/KBW7WCnNguLZPRi/bdL8QYOVKXgYvl2u8ppiVM/eByoafKmLN+i39qFcXrxFqoQgSrE5c8Tt+ul2tttz87Cx;QqJM/AGPnXS1SjA77ByAFg=="
 ---
 

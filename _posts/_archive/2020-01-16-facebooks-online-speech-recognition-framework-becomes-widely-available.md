@@ -5,7 +5,7 @@ excerpt: "Facebook has announced that it will be making its wav2letter@anywhere 
 publishedDateTime: 2020-01-16T00:00:00Z
 webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+    width: 849
+    height: 565
+    title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
 
 related:
   - title: "Facebook releases low-latency online speech recognition framework"
@@ -41,8 +47,12 @@ related:
     provider:
       name: Pepsi
       domain: mobilemarketingmagazine.com
-    quality: 16
+    quality: 36
+    images:
+      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
+        width: 620
+        height: 500
 
-secured: "kkfWR+Num2iQvKatr8NSBYkFKSFYzF+PMnF4PVbiDHvSnYXt3NxZ+zuQJ2a3ttgd5Vg71RnesiaXYmw+GXpnKvEoNs4Ym/euaWXZCKwEIf6Lh25fHle0N0eVdJJ1ZbdtpTrBEj9MAJQOxt/5Lc60w1HnQLAxxt0KYctzhWmH8lt+/5KmQp4Nu4hlSL6BNLuGdM2apdOV0cwkGDAYca35555FMg1I4wJlwkZToFlMG1AvdoNc3obEEJTRCIexPY/cSTdziJ9hbSbnnpilcMFRb5wQyphZkshIkhcbUT0dAW3IIpuiav1UoqwrYE+yz1pq;ACH2u7tIas9Kp9YchfnydQ=="
+secured: "nCQSj7Ff1NE+fDB/RWkviCt/9EmzJ7BuEujy6mHn0Y2NsMTfWOp/gODJopHyycOHlqiMFHUgmAurbNF7rui5SVIcxy0ZSDM8XYpYgpd096xiYQrHOhb19A7L8vefi7OP1YvQKmJ5aQs6hk22HvOIH0pgIDDPSZX4POm9eOOkvrhupjMbzkw4tvV8Y3vh11aEJl7A9aXozJgilZKKvOyt1bdWjy3wGzXAxMX/gutO3YBh7Lbd0NfAFvjHUofCnq42RysN6MIFtfDpKjPAEmi1GuycE8NPTBl5vgX1D8FUW29Ikx7JEpAhEvFJERKym1T8;7VN0acJxnda3CAT/XDj06A=="
 ---
 

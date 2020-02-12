@@ -28,7 +28,24 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
+    quality: 74
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
+  - title: "AI can jump-start radiation therapy for cancer patients"
+    excerpt: "DALLAS - Jan. 27, 2020 - Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating ..."
+    publishedDateTime: 2020-01-27T21:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/usmc-ac012720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/222662_web.jpg"
+        width: 720
+        height: 527
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
@@ -49,15 +66,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 36
-  - title: "AI can jump-start radiation therapy for cancer patients"
-    excerpt: "DALLAS - Jan. 27, 2020 - Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating ..."
-    publishedDateTime: 2020-01-27T21:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/usmc-ac012720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
 
 secured: "UQxtwQZiqO87+94XOOSZTQVLiZjIudMmUBce3nTziE0csuIkTq3IeHYkw3x5XvZLaAJnrRjUi/iHhk6n/qAiD+J9ZB/mKNVXcvRIiBBZljR6gXNxGZdKMn+tyjanBpTgxT4k4ZnpSv6g93A0BWarlGKVXX2D8nlakttcU7NWfMVeuYLi68RfCfvx6jlGur5RulMhXwf9wLMZksxpYHb06BnLUvbajPz5Sd84bVkebCaXWl98lz/HjHXusQ4kxWYXIKB6WwTAEEMMK3DvmkZkp/slpkwYwUqVT9objIAwJ2WskrWoFB8VvA7MmGeTRgdWFuAejKJvwp+IMFZzN4yTvAm/8p7koK3rtVlkA9acCMfD+sb2+p0exaN7ZF3ngoNK44kmdkLGd6A3hn6VAPBUygQ4BqsIAEI4ZWIzAfCWGEPC6gFia5/Bg+m7rj0Y/Uol+Ptqs+Zoc2p7KTm4uVUQADruMMnMPrye8js+FkN6Mik=;HgUYygUcQ62Kbi3kyMRkvA=="
 ---

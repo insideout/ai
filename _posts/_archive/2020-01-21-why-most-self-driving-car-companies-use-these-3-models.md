@@ -7,9 +7,9 @@ webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
 ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Mashable
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "0Ah3swxYkShd/uwabEX/QcgW7SzuVzaxw3K3Dc+j4hajX9eAPqS0fCnjO+eVqWdYEPLQHwaik3Mn2Xo9YNC/jSD9aExRBY/RCmmtm4T7G/X0R3nYBC9huth2GlY//N9/jFr6yrjsTFARg9twlzozS4KRmNEmIeKg91c1FLgqEnA+F2Z2qXQ2GbRmUgqKSxSdee9FMasW8A9E0XruyyZ8Z7Knw1FuxyDyq/mV/8UV2F4RDETu4f6CbVIgCsjLy6iKW03TTVh7CKmoTj3Tuv68+U5g3VkK/C3iXffXPgtoXqxPlRJ1QswTsC/0gxz1uSnabcuh4iZPvlGAAYdK5s9v51TklefxwZygaYkvtECOhiGaBUaZ0bwAfxDM9Ks2LKxBKt8re3w7OOPpuZiovSXrEC2yT42xDOY6vmW0yZrR1VoFC2sdMtG0U2qYeOhkUuNu09XCIDajjr1GeRVg201QvokE5MRS4S5rmzvYMKpNPZE=;z+RBiBVr+8YN6pZNEbgKSQ=="
+images:
+  - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
+    width: 1200
+    height: 630
+    title: "Why most self-driving car companies use these 3 models"
+
+secured: "LYeWWo+RTp9Fxkc3OqpfPVSc+edYxGa3hAupOcd4W2ZHd3oz3Gy8Gg6K166NkJh5roaRAqlr/l4qgBKVG7inbwNDf3qJhbfBmh0hqRm3szYsodip15+ugZamiAtuXY7u/JaFcKmjex9oBHnR1Dh6Xg4BSz+rBuS9AO0VXTlgcDPZdTfgBBkrfy9M6lWtBuVaeiHTvpzKrQqoA8ERcU8s0/bWWR4fK3GMk/pir8OtaBBif7x4VA4fM5Sc8D+CrfwGlpoNUiFEYSxxDJTUMZutF0yLF0cucmK68dT6+am15Z3D5zUu2K9tZ1PJbY92WE03;6ZJaV6K3iCG5O3hzhTEnhg=="
 ---
 

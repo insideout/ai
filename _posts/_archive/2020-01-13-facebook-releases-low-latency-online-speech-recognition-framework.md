@@ -38,7 +38,11 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+        width: 849
+        height: 565
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -47,8 +51,12 @@ related:
     provider:
       name: Pepsi
       domain: mobilemarketingmagazine.com
-    quality: 16
+    quality: 36
+    images:
+      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
+        width: 620
+        height: 500
 
-secured: "j9LWxyRIkTiYHJr8bgkCNONEqd7fR3ESrrD+CKw5jNzYlOM6XejcUUOqez9HgRQalSI/cJLFEpNPqzs2Y/8S4zFVKsN1wAs8nSbyH+IA8T5glVf+EA4i+ATIbgPpzSR/cFCutuA2NtQDCZj/kfMc9ZdviuBV2ivh131WFa1c4YwGwiHMsgZqlYZ4KBNgEOtQ9w1rj5i2G3KQuj2x6voiuvLEUWQodxLP0b2vlkYxWTqLxXUdVjo8lGcI5sbCPeg9Vf5R+YRgxjEQhoBQaCLM+hthCl1BJz5ND92ZBdJZ+7U54dihSf+sWlo8fAenV61u;a0tqubPN6xiy6X6it47e3w=="
+secured: "OGq0wwJCttogT3qQwVni+tFpzfadLnxR3PFrc7WBtqAGRZrXqlc/RqchnJlf1HeBsqDTISUe0iThcIkLCQrIMfDbqTdj7mKHlvH5HJKe4IXPZkB4yc0XI1W0z08saEhE5xBo56qEbD3oNelV7WB0XoWcUpZWnoJfWnaHr95h7k91Ek3NPQOPzGhAktAYxdqpPbPAU7y+TGATl+KiwVvGOE1Tw2n84PTM5L1dZhIkwLDkxdoNGNkSli4LhBvkcG1O5ynRG/mQkgfqV7FqlNnNVyk04gVKK88eL7PinglWcfk2jJh7baks8j+4gBbVqzwM;YxkUC4kyj2LZhkJiW+zQiw=="
 ---
 

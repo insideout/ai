@@ -85,6 +85,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    publishedDateTime: 2020-01-27T09:55:00Z
+    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+        width: 1200
+        height: 763
   - title: "British watchdog urges caution over police facial recognition plans"
     excerpt: "LONDON, Jan 28 (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance ..."
     publishedDateTime: 2020-01-28T17:25:00Z
@@ -278,17 +293,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_06/2878756/190531-facebook-mc-1420_f639f66c650025e6a1878b44481e1754.JPG"
         width: 2500
         height: 1668
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
   - title: "Met Police could deploy facial recognition against protesters"
     excerpt: "The operational use of live facial recognition (LFR) by UK law enforcers could artificially inflate tension between political activists and police during protests, as participants may feel under pressure to conceal their identities because of privacy concerns. According to the Network for Police Monitoring (Netpol), which monitors and resists ..."
     publishedDateTime: 2020-01-28T16:38:00Z
@@ -885,7 +889,7 @@ related:
         width: 763
         height: 509
   - title: "US Army develops AI facial recognition protection"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. The US Army uses facial and object recognition technologies to train artificial ..."
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, has created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. The US Army uses facial and object recognition technologies to train artificial ..."
     publishedDateTime: 2020-01-28T09:29:00Z
     webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
     type: article

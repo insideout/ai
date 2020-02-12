@@ -7,8 +7,8 @@ webUrl: "https://www.telegraph.co.uk/technology/2020/01/15/can-googles-british-s
 ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/15/can-googles-british-sister-company-deepmind-build-computer-smart/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/15/can-googles-british-sister-company-deepmind-build-computer-smart/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Google AI
 
-secured: "5D+inkemy0GxKz/ImhFvdY8GggjQ2NwA9Vo5JLnPiavXtTV9iUhFl3u9Gko2PclQLM9+j/PC191A6PJryz459NszDob8x2XGxnJO39uE838LYCrH5IPznPhEDPGUzp4BFyjw5Ui2KrAVvPoQICxsA0LD3wIBZIzmeNFiZk5FMaVF19i4MV9/XGQ1fhvADaxYtwQOjgMFrjJ2f84WwAsWwBmUNNusr3flmUYIYuf6l1+WSHs8JTSrYCUi0IrsVMUzAL8ue3zEjOD41AQgNsj+2sk6Q5eHo+JknXvE4BVcooohaXyll65Xc4OsXn8fbcA3;k1sQ6DTHUi7CkRJ+rzCVlA=="
+images:
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/16/160120_AiBRAIN_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwfSM8Sv5nIxQonD2k-JCC_U.jpg"
+    width: 1261
+    height: 788
+    title: "Can Google's British sister company DeepMind build a computer as smart as the human brain?"
+
+secured: "lCGvXDx/XygNJ2FVoPiRXlMSpoMIfAkANpNZHNBIZGwaxBsPnEtDMN0HBJGQ/DGX7f0OL68cH0xCLRhVRf8iGsx7UYrZC4f4hzWFuT4yYEPIuUkcHFxN3/dji+TvCBXDCRuBMZTXV9FRODWArI6N73re+5vrzd1/ltsZM68OEbYLY5eypwrotJ2AZX9I4K9O1b5m6m8lpedFM8YBRo0th6MwPxEth+iTNyl28QWgQXmi72V8rosQxmKLC7fnGDZHry+/yeBVKWVwj5CpG3yyFbblIb3+IFj3U3GcBZXEYNmfCjO2JTpU58zxv6Fhd1Wv;Yzi/nPoEiIgn7iGwWUhLPg=="
 ---
 
