@@ -24,28 +24,28 @@ images:
     title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
 
 related:
-  - title: "Campaign to Ban Face Recognition at U.S. Colleges Gathers Steam"
-    excerpt: "An organized campaign against the use of biometric surveillance at universities and colleges in the U.S. is ratcheting up pressure on institutions it believes are currently using—or are likely soon to adopt—face recognition technology. Fight for the Future, one of the nation’s leading digital rights organizations, and Students for ..."
-    publishedDateTime: 2020-01-28T13:38:00Z
-    webUrl: "https://gizmodo.com/campaign-to-ban-face-recognition-at-u-s-colleges-gathe-1841302162"
+  - title: "MediaTek introduces new smartphone chip system supporting biometric facial recognition"
+    excerpt: "MediaTek has developed a new chip called Helio G80, which is part of its mid-range System on Chip (SoC) product line and close in performance to the G70, with image processing capable of object recognition and facial biometrics, writes xda developers. The G-series assures enhanced performance in mobile games, while keeping prices low for consumers."
+    publishedDateTime: 2020-02-05T19:42:00Z
+    webUrl: "https://www.biometricupdate.com/202002/mediatek-introduces-new-smartphone-chip-system-supporting-biometric-facial-recognition"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-  - title: "Doha Bank integrates facial, voice recognition into app"
-    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
-    publishedDateTime: 2020-02-02T19:02:00Z
-    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 26
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
-        width: 620
-        height: 355
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/05143300/MediaTek-smartphone-chip-system-supporting-biometric-facial-recognition.jpg"
+        width: 840
+        height: 500
+  - title: "New North Korea smartphones feature AI, fingerprint, face and voice biometrics"
+    excerpt: "North Korea‘s next generation of Jindallae smartphones will integrate AI, text recognition and biometric facial, fingerprint and voice recognition, reports NK News. “Various types of ‘Jindallae’ smartphones, currently being developed and produced by Mangyongdae Information Technology Corporation, have been earning popularity since their ..."
+    publishedDateTime: 2020-02-05T20:06:00Z
+    webUrl: "https://www.biometricupdate.com/202002/north-korea-smartphones-feature-ai-fingerprint-face-and-voice-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
 
 secured: "sYjR5QMzOWkQgcZw0LJu5sPWUsz9INcwwJwlz7Mi/YaTf/IrB+7IGL3EGgL7HlTqpUi22F5yO4o8oBImHMDT3iPgsYh5ZuZNFUtTq+RmHpfF1hhLZx8AzP0CQCH0mC8xMKDue3N0KNlok9CM3ej6ki30DG/uyx6pHfpU2uPeCCIffSfY8i0/qN8CyRcVXqNpckftYn4yB3neCZc9qo7m2afQC1Um4VMBhvW0X25MFqPEJAQyuQ555mUWQVBvlip0rlElB1MRHvmVSuSmRkE3kZDJD2unt5Cz/nEVRundCHyjkgbPIT1PMW1xocONAU4m;qLhxnbA0O9mZv2oWzZ1n5Q=="
 ---

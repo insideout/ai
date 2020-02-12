@@ -35,15 +35,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/29/126485-buddhi.JPG?itok=Iz0u1-WE"
         width: 918
         height: 506
-  - title: "IIT Delhi startup creates Buddhi kit to make AI learning a child’s play"
-    excerpt: "Buddhi AI DIY kit can be used to quickly and easily learn the basics of AI and build AI-based solutions for real-world problems. NEW DELHI: An IIT-Delhi startup has created a first-of-its-kind interactive Do it Yourself (DIY) education kit based on Artificial Intelligence (AI). Buddhi AI DIY kit can be used to quickly and easily learn the ..."
-    publishedDateTime: 2020-01-28T13:19:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-delhi-startup-creates-buddhi-kit-to-make-ai-learning-a-childs-play/articleshow/73701281.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 17
 
 secured: "Gl/a/a+WVUf3nptBB1YB6DX/aC2XLgS0CiWkhkBc1cGU84XtaShJmnnWagtGYdSu3cZoPpRWwrPoZkIIWii9sNrkkvbCYIXTrqG4uLpF35REBM4iomFKaZWVXJTWiQFSPb2kEJ57il6hZJlmcLK4BbFejoskdJgb+XFm89z/n4rKkkHMnk+AwlkftAnbxCmZFDQIJTFa1Tqhr9DTwk8XA4qvT9RcVCQetGkNb/aWxrAqzFmOv9Z0hXQOvXqVd83SFBv8Thf3dLWrPIDdJe1J2wIdLJuUn4HBwDyP6HD2F7IRleRRIhD8jD5wK4Sr9+4MqHI6c4Y4pXP8LDsDLkGzEW6oCzKBkAymAdoCD7pWFAsZnfwg7OPyb5/lzv0Dnqo60I39w0NbkyW2XVhexqn3UVr7wEkCPFIhgB1gOySVVXuYpa1atNeVSnBKa3FIlT0Fr8rlNJKXixWauOkAWVHNtGXhA5moBd1ZzRvQ/649LOc=;e1hG4AVyGfmctZn77QrCXQ=="
 ---

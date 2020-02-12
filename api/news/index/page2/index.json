@@ -2,219 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-01-29-microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative.md",
-      "title": "Microsoft takes the wraps off $40 million, five-year 'AI for Health' initiative",
-      "excerpt": "Microsoft has added a new program to its \"AI for Good\" line-up. Its new \"AI for Health\" initiative joins its existing AI for Earth; AI for Accessibility; AI for Humanitarian Action; and AI for Cultural Heritage projects. Microsoft is funding the AI for Health project at $40 million over four years. Through its AI for Good projects, Microsoft is ...",
-      "heat": 263,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/",
-      "publishedDateTime": "2020-01-29T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/01/29/55c18e04-6bb4-4573-afbf-7c7705ad4274/microsoftaiforhealth.jpg",
-          "width": 807,
-          "height": 559,
-          "title": "Microsoft takes the wraps off $40 million, five-year 'AI for Health' initiative",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-nest-is-testing-detecting-hvac-problems-with-ai.md",
-      "title": "Nest is testing detecting HVAC problems with AI",
-      "excerpt": "Google today announced that it’s testing AI algorithms tailored to identify “unusual patterns” related to HVAC systems controlled by Nest, which can alert users to issues and put them in touch with a maintenance professional. Based on information like the thermostat’s historical data and current weather, Nest will learn to spot patterns ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
-      "publishedDateTime": "2020-01-29T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/01/nest-thermostat-google-smart-home.jpg?fit=1280%2C600&strip=all",
-          "width": 1280,
-          "height": 600,
-          "title": "Nest is testing detecting HVAC problems with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-no-more-punxsutawney-phil-its-long-overdue-for-an-ai-groundhog-instead-peta-says.md",
-      "title": "No more Punxsutawney Phil? It’s ‘long overdue’ for an AI groundhog instead, PETA says.",
-      "excerpt": "It would renew interest in the event and allow the groundhog to dig, burrow, and forage in peace. “By creating an AI Phil, you could keep Punxsutawney at the center of Groundhog Day but in a much more progressive way,” she wrote. “Talk about taking your town’s annual tradition in a fresh and innovative direction!” While at least nine ...",
-      "heat": 329,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp",
-      "publishedDateTime": "2020-01-29T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/fCupxiPYqehvR516DtsYilH20Bw=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRMLF7NBVNCNTO73DKPS6FKAFI.jpg",
-          "width": 1440,
-          "height": 1102,
-          "title": "No more Punxsutawney Phil? It’s ‘long overdue’ for an AI groundhog instead, PETA says.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-report-after-acquisition-apple-nixed-xnorais-work-on-pentagons-project-maven.md",
-      "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
-      "excerpt": "The Information reports that Seattle-based Xnor.ai played a role in the Pentagon’s controversial Project Maven, but that Apple ended Xnor.ai’s involvement in the project after acquiring the startup. Love space and science? Sign up for our GeekWire Space & Science email newsletter for top headlines from Alan Boyle, GeekWire’s aerospace ...",
-      "heat": 222,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/",
-      "ampWebUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
-      "publishedDateTime": "2020-01-29T15:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/02/team_picture-630x362.png",
-          "width": 630,
-          "height": 362,
-          "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-rich-countries-should-invest-in-latam-to-create-ai-talent.md",
-      "title": "Rich countries should invest in LatAm to create AI talent",
-      "excerpt": "Uruguay, the second best-prepared country on the Insead ranking, has launched its public consultation on AI in April 2019 and spent the whole year working on the plan, which is just about ready. The report also mentions Chile's plan to address the infrastructure, priority areas and ethics, standards and regulations around AI. On Brazil ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "publishedDateTime": "2020-01-29T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/09/25/f2e8efdb-8c6c-4884-a8eb-4a1d5b6e2b3c/thumbnail/1200x675/7f2125eac9be0743c7a93613eb1919e4/istock-919118256.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Rich countries should invest in LatAm to create AI talent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-01-29-robots-pose-biggest-risk-to-the-poorest-countries.md",
       "title": "Robots Pose Biggest Risk to the Poorest Countries",
       "excerpt": "At the end of the 20th century, globalization narrowed the gap between rich and poor nations. But history shows that isn’t always the case. In the years following the fall of the Berlin Wall in 1989,",
@@ -515,7 +302,7 @@
       "path": "_posts/2020-01-30-2-major-security-flaws-detected-in-microsoft-azure-cloud-know-what-they-are.md",
       "title": "2 major security flaws detected in Microsoft Azure Cloud: Know what they are",
       "excerpt": "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ...",
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.indiatvnews.com/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
@@ -848,7 +635,7 @@
       "path": "_posts/2020-01-30-backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done.md",
       "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
       "excerpt": "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/",
@@ -2150,6 +1937,214 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs.md",
+      "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
+      "excerpt": "AI comes in many different forms, and identifying which type is most suitable for a particular use case isn’t always easy.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
+      "publishedDateTime": "2020-01-31T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/888421376/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-oscar-nominated-live-action-shorts-tragedies-near-tragedies-and-soccer-loving-kids.md",
+      "title": "Oscar-nominated live-action shorts: Tragedies, near-tragedies and soccer-loving kids",
+      "excerpt": "The five live-action short films vying for the 2020 Oscar either dance on the border of tragedy or fall headlong into it ... “I heard the recording of the emergency call on YouTube and it stuck with me for months,” said Girard. “I started to create a back story to every character so I could understand them and find their own particular ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-01-31/oscar-nominated-live-action-shorts",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-russias-use-of-facial-recognition-challenged-in-court.md",
+      "title": "Russia's use of facial recognition challenged in court",
+      "excerpt": "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ...",
+      "heat": 1329,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51324841",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51324841",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841",
+      "publishedDateTime": "2020-01-31T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif",
+          "width": 1024,
+          "height": 576,
+          "title": "Russia's use of facial recognition challenged in court",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-top-cloud-providers-in-2020-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
+      "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
+      "excerpt": "At AWS re:Invent 2019, CEO Andy Jassy outlined a vision for the cloud service provider, including its artificial intelligence service, a stack made for analytics and a bevy of purpose-built databases. The broader message from Jassy, however, was that AWS will be relentlessly innovating. Jassy also took a few thinly veiled jabs at rivals like ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "publishedDateTime": "2020-01-31T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/ceb60455-dec4-4a4b-9359-2712746d6986/gartner-cloud-spend-2020.png",
+          "width": 823,
+          "height": 557,
+          "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-want-to-be-ai-first-you-need-to-be-data-first.md",
+      "title": "Want To Be AI-First? You Need To Be Data-First.",
+      "excerpt": "Those that implement AI and Machine Learning project learn quickly that machine learning projects are not like typical application development projects. The code is the least significant part.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
+      "publishedDateTime": "2020-01-30T20:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f567178b3f4000623f395%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Want To Be AI-First? You Need To Be Data-First.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

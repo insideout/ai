@@ -477,21 +477,6 @@ related:
       - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2020/01/Screen-Shot-2020-01-28-at-12.57.07-PM.png"
         width: 685
         height: 438
-  - title: "More than 40 colleges say they won’t use facial recognition on campus"
-    excerpt: "More than 40 colleges have said they have no intention to use facial recognition technology on their campuses amid a push from digital rights group Fight for the Future and Students for Sensible Drug Policy. The two groups launched a campaign earlier this month to ask colleges in the United States about their policies surrounding the use of the ..."
-    publishedDateTime: 2020-01-28T13:32:00Z
-    webUrl: "https://www.dailydot.com/layer8/facial-recognition-colleges/"
-    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-colleges/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-colleges/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Campus-Fight-for-the-Future.jpg"
-        width: 1711
-        height: 856
   - title: "Wasp’s facial recognition ability offers lessons in evolution"
     excerpt: "Through its analysis, the team found a strong and rapid selection by genes linked to insect vision, learning and memory, all crucial to facial recognition. They believe this took place in just the last few thousand years. Meanwhile, the two close relatives of the Northern paper wasp exhibited no strong patterns of genetic selection for learning ..."
     publishedDateTime: 2020-01-28T23:26:00Z
@@ -1578,6 +1563,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "tN8WK6928dvrQMng2zAx7/d1p5jqGeXptXixkImkxpRy1mG9JeL9xOBsN1Oftfg9A92quk1OD06N0vEKRT2Rw5SkXqUI0Isb5amLXgHvnKvL7BZLSvlyVX1cFjfKqWx1qVLueZ0W9U5aZjiWBAiXGWtx0Z4JlQD9i4JZScg6tFr8EYmJqShj0IMgY2tP7k4QsejU4YTSEDUYAv75UG+xQBkkHwfkSfmAB5CrKqxGBXuN00Vr+Qdod5CA9J98pT+6s18HKKLj7XLX5n2bi+zPMWBClJl7KTh+KEbns7kXZXSvlbyWzeOWbFIPR3dwsojo;Fhtfdy1yJ32dIt3+vOmobA=="
+secured: "KUlyoiyO/AWiArX3lHFCHf0pv9ZFsUYlXb62CVpAykxChXloWdI2rbMMSXKyxf4Os7ucMLSHvfE7nhcjnOVAlqHW7+JH3eJbNhv84cBM+jqiBB0cbivDX3ZzTxva2XjN2V86JF8qUr93RB3jvFZThp7nI700lfZLDaqr786v+iM4P3vns5HHVywvKc+aqr5ZtwoaGJdRF87+QGIyy16rn9so/w3YHzblJKO4AFm7AsYi1Z3kx77T5nKdOH3vvdRKPw9l+QW4m1BU3VfaXmsJ4NIXeNzVrOUlQURWOsRQXuBCIAmJ+MQAhRyrYjqEcian;/dE3V1gbBZE5p/AKcwTDxw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T16:55:00Z
 webUrl: "https://www.totaltele.com/504859/From-machine-learning-to-SDM-the-technologies-revolutionising-the-subsea-cable-industry"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -16,47 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-related:
-  - title: "Global Deep Learning Industry"
-    excerpt: "/PRNewswire/ -- Deep Learning market worldwide is projected to grow by US$31 Billion, driven by a compounded growth of 41%.Hardware, one of the"
-    publishedDateTime: 2020-02-07T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-industry-301000864.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "How Will Machine Learning Serve the Hotel Industry in 2020 and Beyond?"
-    excerpt: "Machine learning will help the hotel industry to remain tech-savvy and also help them to save money, improve service, and grow more efficient. Fremont, CA: Artificial intelligence (AI) implementation grew tremendously last year alone such that any business that does not consider the implications of machine learning (ML) will find itself in ..."
-    publishedDateTime: 2020-02-07T23:24:00Z
-    webUrl: "https://www.cioreview.com/news/how-will-machine-learning-serve-the-hotel-industry-in-2020-and-beyond-nid-31155-cid-40.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_w12f.jpg"
-        width: 705
-        height: 485
-  - title: "Worldwide Smart Learning Industry Insights, 2019-2024 - Featuring Use Cases of Docebo, G-Cube, Saba Software, Cisco, IBM, and More"
-    excerpt: "The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to grow at the highest CAGR during the forecast period Based on ..."
-    publishedDateTime: 2020-02-05T20:10:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-worldwide-smart-learning-industry-insights-2019-2024-featuring-/2020/02/05/9092923.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg"
-        width: 336
-        height: 280
 
 secured: "nabgysOgJY2g4EuLGIvTTaH9ArCIsdZOv0SZ4XCvUOsV1BNcRz0NQWMQdsZ/KOZIqXze1qelZ4qkN5fJ11DsYTMff0r5uox0oPH/VmY5+JjF3e6bFA20NUcfpabTlpdXHjUMKHzpdC6fwKDTMOwD33q1NkSg2Uhr1+cTXmJPyDY7YZtrtdICopbEzrulTEnTobyz/Kn10yoHoENx955zvBnnC0/L1CT+oK+LMemaGX95TFLgZXAjQXUJsIBPoVkFmbZcBv/cuaz35L2TV+TLJPITJhVBdD/K1zuaEtci+3yLEpxDJeyqs4zWV+1ymfZHq1h4PktJIkVL5z5EioXJLT0ak9nbbuWJNDbEyhfrXrnQmSTCaD/BNI8FEmYxhLU60o9tAl3ywwWjtD/TcaibkFSm0WW8yVw66+xoF/Tyoc2Y6GW7kzUvWIIIWf6CL/7qKF/ImN147fPjtJ5e841I2HZGHmE8X43bf/8oCzCSpS4=;W80I/C+LfdcVwoThYO3kJg=="
 ---

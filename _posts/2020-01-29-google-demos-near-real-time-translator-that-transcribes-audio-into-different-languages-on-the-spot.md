@@ -54,15 +54,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/c021a94a-3ffd-4f23-a7ff-0cd81481c00a/thumbnail/770x578/79f34669c57d4caa7cd257ec6c2cba7b/20200130-balke-steph.jpg"
         width: 770
         height: 578
-  - title: "Cognitive Computing In The Next Decade Of AI"
-    excerpt: "Machine learning is now accessible to everyone, from students and industry engineers to domain experts and even consumers."
-    publishedDateTime: 2020-01-28T13:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/28/cognitive-computing-in-the-next-decade-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "KWjSSDMx4o+xCXzzyMCGOLIF5gfCj6/2Dv/jyOEsawcLr7HPykJwDqqjKKXcE7IDfjeyZ+cM3XV8Wds0Fuob42yJimmx1jzJKbZS4R2clU5rOODzk8wf4sZnR7hYXsJbdHuQUUCXRHfs6p37NWzoMxL3qq8myPLgMgA/1kv18PiGf031KRkg6ThAZXZiM175AKUovM6hRhS8CiMMWrmDEPwtvQ51CUbJAZ3WqIPlZcWQQE/RuaLISHw0OqNfn6WXCxTmvGKyKzsst6lvHmaoWebQcwIigAmwAaSIheO+Vp07Y+bUuVhHxJqNFKpwdV3kRgpP7jGooXRuH4kaBIN64q++CDuaYwzDYLqs55nfQ+KTrBXEmlxdXRQDvse7q6mOcrhVXGFXGRKTpNK0tu5eVHI9M7bjk5u6jZKPccx3XKagcU/xEYy8CWmo36ftRYjrk3aQj4vBh2J43hVk5V+R2lxZI1beMt+H18ZuzgQ3hR0=;Ca81nJ58buzlRiuAtuHa2g=="
 ---

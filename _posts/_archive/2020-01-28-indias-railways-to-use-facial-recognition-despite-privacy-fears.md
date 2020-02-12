@@ -1,33 +1,27 @@
 ---
 category: news
-title: "India's railways to use facial recognition amid privacy fears"
-excerpt: "Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people’s privacy in the absence of stringent laws."
-publishedDateTime: 2020-01-28T14:33:00Z
-webUrl: "https://www.reuters.com/article/us-india-tech-railways-idUSKBN1ZR1RP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZR1RP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZR1RP"
+title: "India's railways to use facial recognition despite privacy fears"
+excerpt: "NEW DELHI (THOMSON REUTERS FOUNDATION) - Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday (Jan 28) warned could breach people's privacy in the absence of stringent laws. The system is being trialled in the tech hub of ..."
+publishedDateTime: 2020-01-28T14:55:00Z
+webUrl: "https://www.straitstimes.com/asia/south-asia/indias-railways-to-use-facial-recognition-amid-privacy-fears"
 type: article
-quality: 104
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-    width: 1200
-    height: 630
-    title: "India's railways to use facial recognition amid privacy fears"
+  - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/28/wh_railway_280128.jpg?itok=mebMVOcC"
+    width: 763
+    height: 509
+    title: "India's railways to use facial recognition despite privacy fears"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -75,6 +69,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "India's railways to use facial recognition amid privacy fears"
+    excerpt: "Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people’s privacy in the absence of stringent laws."
+    publishedDateTime: 2020-01-28T14:33:00Z
+    webUrl: "https://www.reuters.com/article/us-india-tech-railways-idUSKBN1ZR1RP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZR1RP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZR1RP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
     excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
@@ -468,21 +477,6 @@ related:
       - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2020/01/Screen-Shot-2020-01-28-at-12.57.07-PM.png"
         width: 685
         height: 438
-  - title: "More than 40 colleges say they won’t use facial recognition on campus"
-    excerpt: "More than 40 colleges have said they have no intention to use facial recognition technology on their campuses amid a push from digital rights group Fight for the Future and Students for Sensible Drug Policy. The two groups launched a campaign earlier this month to ask colleges in the United States about their policies surrounding the use of the ..."
-    publishedDateTime: 2020-01-28T13:32:00Z
-    webUrl: "https://www.dailydot.com/layer8/facial-recognition-colleges/"
-    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-colleges/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-colleges/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Campus-Fight-for-the-Future.jpg"
-        width: 1711
-        height: 856
   - title: "Wasp’s facial recognition ability offers lessons in evolution"
     excerpt: "Through its analysis, the team found a strong and rapid selection by genes linked to insect vision, learning and memory, all crucial to facial recognition. They believe this took place in just the last few thousand years. Meanwhile, the two close relatives of the Northern paper wasp exhibited no strong patterns of genetic selection for learning ..."
     publishedDateTime: 2020-01-28T23:26:00Z
@@ -865,19 +859,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
-  - title: "India's railways to use facial recognition despite privacy fears"
-    excerpt: "NEW DELHI (THOMSON REUTERS FOUNDATION) - Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday (Jan 28) warned could breach people's privacy in the absence of stringent laws. The system is being trialled in the tech hub of ..."
-    publishedDateTime: 2020-01-28T14:55:00Z
-    webUrl: "https://www.straitstimes.com/asia/south-asia/indias-railways-to-use-facial-recognition-amid-privacy-fears"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/28/wh_railway_280128.jpg?itok=mebMVOcC"
-        width: 763
-        height: 509
   - title: "US Army develops AI facial recognition protection"
     excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, has created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. The US Army uses facial and object recognition technologies to train artificial ..."
     publishedDateTime: 2020-01-28T09:29:00Z
@@ -1582,6 +1563,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "DcGbX93QWMx8MrUWB6ACQGLv6mklx4xso058G0Clgzwis01m0tJd/rPmwKlfj/9qGCsFrJqPmWfrrEaU8mbznOvr3ROB8ulkOucHDLw3SfpCNadLLYfhzXVWqG/opg0lq5rj4LbfzwaD3fROEKF/MzVhTM3s7TrlhXIDCFrAaE6inqFeknxztpbbjwlhLq9bzVgrBRbmu0erhU/hT1Cbv/zVGOA7pDlKYB8wKEJcYVwUsvJTQjD1C2w3UM0Rk728CRROXJd7y0y4Y+tV1Dd5uOHRQsQccqlKdpVSGuE0v7wi+hEbOUoUbf0i8dpjiD3W;W3xcWIg+XnNank/3KpHwZA=="
+secured: "aH9kGMof+bLveCzadkoiXF/P4BaXzq3/PciwLQQjOxBjNCae5BVa2lToGJ7Zlwf959hWhY29OT4uQQe6eOsmeobyuEnEcmwjLAnziDT06FKqbnePdhJ7adDRMOtqEExGHxPShvx+oeA41oDP8bHPn1N3L4SS/8MWTHued3/EaYVJ0GYJyV5hMqLGefUvBoYWgdpdHVlb74aKA+tmj0ubT1tlAW1nK/gL7XqHhpjhjebSiYFbMy9cbEh+I8C1gy5Tp/Omzq9KzGMX1BDP8UAWrgUYcHa4SR01pVwA+z79NPG7CjYm2bNaQD/fa41wP6M0KjBea/RzPRrY1NYA4xCcLh2fuBOcthNDciTyc1xQdSuRaeSLCirIRBn9eT6MnaRDiRhfB4No92tpaTwYCdptm751RnSsgT4wJHRxJrBSQYyzrPzMT1kTG7M0oLxb7lhqM12l1sH8ISrnbz4S+0gRkRhtkW6Sw4l+dlcl8cRYe4M=;DZdj2M2HbBFnC3BzxjF8Xg=="
 ---
 

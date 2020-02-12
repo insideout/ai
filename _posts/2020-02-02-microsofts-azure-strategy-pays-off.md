@@ -84,19 +84,6 @@ related:
       - url: "https://images.livemint.com/img/2020/01/30/600x338/micro-kDJG--621x414@LiveMint_1580391521648.JPG"
         width: 600
         height: 337
-  - title: "Microsoft Open-Sources ONNX Acceleration for BERT AI Model"
-    excerpt: "According to Ning, With ONNX Runtime, AI developers can now easily productionize large transformer models with high performance across both CPU and GPU hardware, using the same technology Microsoft uses to serve their customers. Taking the lessons learned from re-implementing BERT, the Bing and Azure devs updated the ONNX Runtime code to ..."
-    publishedDateTime: 2020-01-28T14:04:00Z
-    webUrl: "https://www.infoq.com/news/2020/01/microsoft-bert-acceleration/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 58
-    images:
-      - url: "https://res.infoq.com/news/2020/01/microsoft-bert-acceleration/en/headerimage/microsoft-bert-acceleration-1580052141385.jpg"
-        width: 2121
-        height: 1414
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
     publishedDateTime: 2020-02-03T13:44:00Z

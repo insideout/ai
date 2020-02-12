@@ -2,222 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-07-this-girls-only-app-uses-ai-to-screen-a-users-gender-what-could-go-wrong.md",
-      "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
-      "excerpt": "But in an era of ever-expanding surveillance, with companies like Clearview AI identifying people’s faces without their knowledge or consent, an app built on dubious biometric screening and extensive data collection should be cause for concern. While Giggle’s website says the app is “designed to give girls choice, control and connection ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "publishedDateTime": "2020-02-07T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/KylgpuoqoH4U00P5Fk8WjdgX0uE=/0x0:904x683/1400x933/filters:focal(380x270:524x414):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66274336/giggle_girl_banner_1.0.png",
-          "width": 904,
-          "height": 683,
-          "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-triple-1-unveils-ai-processor-goku-for-deep-learning.md",
-      "title": "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning",
-      "excerpt": "KUALA LUMPUR, Feb 7 -- TRIPLE-1 Inc, based in Fukuoka, south-western Japan has announced the development of the AI processor ‘GOKU’ for deep learning that uses the world’s cutting-edge 5-nanometer process. ‘GOKU’ has 10 times higher power efficiency than the conventional process, according to a statement. It utilises core know-how ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bernama.com/en/business/news.php?id=1812202",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bernama.com",
-        "domain": "bernama.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.bernama.com/bm/img/bernama.png",
-          "width": 2483,
-          "height": 2942,
-          "title": "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-weed-mapping-robot-moves-from-prototype-to-fleet-manufacture.md",
-      "title": "Weed-mapping robot moves from prototype to fleet manufacture",
-      "excerpt": "Small Robot Company (SRC), the UK-based agri-tech startup, has announced the next stage in the development of its crop-monitoring ... feed/weed and seed arable crops, directed by an Ubuntu-based AI system called Wilma. Tom creates high-resolution 'per-plant' crop maps, which will enable Dick and Harry to carry out precision husbandry with ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/weed-mapping-robot-moves-from-prototype-to-fleet-manufacture/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weed-mapping-robot-moves-from-prototype-to-fleet-manufacture/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weed-mapping-robot-moves-from-prototype-to-fleet-manufacture/",
-      "publishedDateTime": "2020-02-07T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/07/742eee96-17ca-4206-9b0b-0ad038337ee0/tom-tractor.jpg",
-          "width": 770,
-          "height": 614,
-          "title": "Weed-mapping robot moves from prototype to fleet manufacture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-what-do-we-teach-when-we-teach-tech-ai-ethics.md",
-      "title": "What do we teach when we teach tech & AI ethics?",
-      "excerpt": "With this in mind, my students and I decided to conduct some research to uncover patterns. Ethics in the context of technology (particularly emerging areas like data science and AI) is such an important topic, and curriculum coverage is increasing at universities in computer science and beyond. So our question was: what are we teaching when we ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@cfiesler/what-do-we-teach-when-we-teach-tech-ai-ethics-81059b710e11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*sJQ2hrt7-pn4boq3QgSXqQ.jpeg",
-          "width": 1200,
-          "height": 478,
-          "title": "What do we teach when we teach tech & AI ethics?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-what-is-ai-and-machine-learning.md",
-      "title": "What Is A.I. and Machine Learning?",
-      "excerpt": "Artificial intelligence (A.I.) and machine learning have seen a recent resurgence due to advancements in computing power A.I. is an area of R&D that focuses on getting machines to act rationally and autonomously. Machine learning is a subset of A.I. that leverages applied math to find patterns in data Machine learning is composed of three ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@shanif/what-is-a-i-and-machine-learning-58cd0f46d9eb",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*27WsK53Ir7W6xSo46jjTow.jpeg",
-          "width": 1200,
-          "height": 745,
-          "title": "What Is A.I. and Machine Learning?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-what-is-machine-learning-exploring-its-impact-on-customer-experience.md",
       "title": "What is machine learning? Exploring its impact on customer experience",
       "excerpt": "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ...",
@@ -750,7 +534,7 @@
       "path": "_posts/2020-02-08-us-house-panel-will-discuss-self-driving-cars-next-week.md",
       "title": "US House panel will discuss self-driving cars next week",
       "excerpt": "Witnesses include officials from automotive, tech and transportation trade groups. On February 11th, a House panel will hold a hearing that could help shape the future of self-driving vehicles in the US. The Consumer Protection and Commerce Subcommittee ...",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020/02/08/us-house-panel-self-driving-cars-hearing/",
@@ -2192,6 +1976,223 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-worse-for-workers.md",
+      "title": "Prepare For ‘Robomageddon’: New Study Says AI Makes Jobs Easier, But Worse For Workers",
+      "excerpt": "Are you prepared for \"Robomageddon\"? As robotics and advanced automation continue to spread throughout the American workplace, a new study shows that attitudes are a mixed bag.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/amp/",
+      "publishedDateTime": "2020-02-10T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/1179632186/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Prepare For ‘Robomageddon’: New Study Says AI Makes Jobs Easier, But Worse For Workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security.md",
+      "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
+      "excerpt": "In the midst of an unprecedented stock market rally and record-low unemployment, many Americans still struggle to meet their financial needs. Neel Yerneni and Tucker Haas have created Quo to provide Americans with the financial security they need in today's economy.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
+      "publishedDateTime": "2020-02-10T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e3f539b8b6cf300071e3b09/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
+      "title": "SoftBank-owned Arm to launch new AI chip for small devices",
+      "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-arm-tech-idUSKBN2041MK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2041MK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2041MK",
+      "publishedDateTime": "2020-02-10T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200210&t=2&i=1488376532&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1911W",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank-owned Arm to launch new AI chip for small devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-ten-steps-to-ethics-based-governance-of-ai-in-healthcare.md",
+      "title": "Ten steps to ethics-based governance of AI in healthcare",
+      "excerpt": "A data governance framework based on the following ten steps can assist large healthcare systems embrace AI applications in a way that reduces ethical risks to patients, providers, and payors. Additionally, it enhances public trust, transforms patient experiences, and provides effective ethics-based oversight. 1) Establish ethics-based ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.healthdatamanagement.com/opinion/ten-steps-to-ethics-based-governance-of-ai-in-healthcare",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Health Data Management",
+        "domain": "healthdatamanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Ten steps to ethics-based governance of AI in healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
+      "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
+      "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-152543/social",
+          "width": 1280,
+          "height": 640,
+          "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

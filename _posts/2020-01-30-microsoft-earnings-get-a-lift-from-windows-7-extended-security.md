@@ -41,19 +41,6 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/satya-nadella-1580390767.jpg"
         width: 1200
         height: 675
-  - title: "Genesys Engage call center software coming to Microsoft Azure"
-    excerpt: "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ..."
-    publishedDateTime: 2020-01-26T21:00:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-        width: 320
-        height: 210
 
 secured: "zn/Qkize6J82Rv//1yIAcMiYhxTMeuIxbTOL+jwNTcLI3iS3zBzXWGrXxpf8HssAlfr2lddUFnEFo2/W4Ss0rJWS162VQ5sPF+tWX5aL1ExIlbkuiBTjKWAtIxFnRoTYrLN23bHUEGP3b3BG964LDDuQgY4cfEFCb8oFGtj4KuCRg/wo3GaCasqwtGK1GdSCkdUN6Ey084F6EATX+q36g9xRh9p/p11Ii8XsA3ZWG9vNiK2+uJxhQKFxw0L3X8kOxcGX6jV0JpXXE97Cz9OUO4U0bBtWZ9VBQScHuz330Ui2aB2hlMUOFYHh51S8oa7g;RE1V2BabnsXY4VwtiiNJZg=="
 ---

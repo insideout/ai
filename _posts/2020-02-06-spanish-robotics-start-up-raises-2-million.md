@@ -42,15 +42,6 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 117
-  - title: "Miso Robotics Reimagines Kitchen Automation with Robotic Kitchen Assistant on a Rail"
-    excerpt: "In my mind, that validated the software platform approach we took in designing Flippy's brain,\" noted Dr. Ryan Sinnet, CTO of Miso Robotics. While the next generation of the product has been taking shape, the team has continued to make breakthroughs in the artificial intelligence software that powers Flippy. This has resulted in software that ..."
-    publishedDateTime: 2020-01-28T13:24:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/01/28/miso-robotics-reimagines-kitchen-automation-with-robotic-kitchen-assistant-on-a-rail/14722/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 42
   - title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
     excerpt: "/PRNewswire/ -- MassRobotics, the independent, nonprofit serving as an innovation hub for robotics and smart connected devices, officially opened its"
     publishedDateTime: 2020-02-04T15:28:00Z

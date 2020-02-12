@@ -36,15 +36,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 37
-  - title: "IIT Delhi startup creates Buddhi kit to make AI learning a child’s play"
-    excerpt: "Buddhi AI DIY kit can be used to quickly and easily learn the basics of AI and build AI-based solutions for real-world problems. NEW DELHI: An IIT-Delhi startup has created a first-of-its-kind interactive Do it Yourself (DIY) education kit based on Artificial Intelligence (AI). Buddhi AI DIY kit can be used to quickly and easily learn the ..."
-    publishedDateTime: 2020-01-28T13:19:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-delhi-startup-creates-buddhi-kit-to-make-ai-learning-a-childs-play/articleshow/73701281.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 17
 
 secured: "Ln2pTvWdxFeJz54JyRAWC5jBuAB6ruEMNQmJ/YtyMORqhABVK/0lgZ0Mg4UUaySjDIMoqnYy72MccsqTIC6tWhAtQU1BPMnMM+lcaYCfSR37z6jWXMLYTEr6W65DLtVHp9JMEX7lsvqrlPakBOyeHwwNrzJj1sCkYqxB04Yfgc9CTp/33hiI2DL7oj/75Dxp8cbjq6gznqWb3RmTRm6cHSzahTW9SESuc+vnoYoXtofXzTHfEH7nDDFgZcD20thIhD/jcIHJZFBG1VHnbCSVX4Z3fwkp+IOgI9gDh2oZziu2gSdiQmr1Xzo+oVYjWHWQAGQevVk84DXiIsSJ9hIm6CLp3f+UnsZ7N1tMdYYLhhEhMwC3rxKw0M7iIOPhPVY+HlDrRm9uZWz33ZfIUizcdMgggmoeBOqOwl24/b9cdSs9o3fxscrsj4KwtgSeNW44ouZbzqbiEWe1x0uVU+gcyRFXPmDuW881XqaEhlqKd00=;veTftR7n0+h6Q6sZNkKW+Q=="
 ---

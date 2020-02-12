@@ -57,15 +57,6 @@ related:
       name: KHL
       domain: khl.com
     quality: 49
-  - title: "Miso Robotics Reimagines Kitchen Automation with Robotic Kitchen Assistant on a Rail"
-    excerpt: "In my mind, that validated the software platform approach we took in designing Flippy's brain,\" noted Dr. Ryan Sinnet, CTO of Miso Robotics. While the next generation of the product has been taking shape, the team has continued to make breakthroughs in the artificial intelligence software that powers Flippy. This has resulted in software that ..."
-    publishedDateTime: 2020-01-28T13:24:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/01/28/miso-robotics-reimagines-kitchen-automation-with-robotic-kitchen-assistant-on-a-rail/14722/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 42
 
 secured: "k/0rF//5BtjUv8tZ/UBKRZhGtbgP5Peim12670e0okctrNI8VmIKmPtIf6i60SDF9M76mgzF+3o8kobNoQLCc2G2daVr88MSGJ+N9yWHFd2OYAOzSjzQeJgqOq5Hmk263VPXza/XQ354rnLva3GZOIYIorbYu34h2cLnmEAduVFMBxYPDuLjNf97UGb128J42KP+wu2ICz2sUZ7XNa4wsW4uOaEsd/NglKO5AjOSiwsv5bYGbZb+kbyCiX5fg65YbW0tOB5ktSlNQMa5l4eUi2WHQjtySzC0Y6JbTDDTFnpfCMx8PcToE3vJNcl83WPi;bFW6rtgIpMYnHDnNX1IRNA=="
 ---

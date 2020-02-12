@@ -2,183 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020.md",
-      "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
-      "excerpt": "HTF MI newly added the Global Artificial Intelligence Platform Market Study that gives meticulous investigation of current scenario of the Market size, share, demand, growth, trends, and forecast in the coming years.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-artist-refik-anadol-turns-data-into-art-with-help-from-ai.md",
-      "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
-      "excerpt": "The results, shown on giant screens or projected onto walls or entire buildings, use data points in a kind of AI pointillism. Anadol explains his creative process in a new WIRED video. It features works including Machine Hallucination, a 360-degree video installation made from 10 million photos of New York. Anadol used machine learning to group ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/",
-      "ampWebUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
-      "publishedDateTime": "2020-01-16T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e1f7e0294f53e000834150c/master/pass/Biz-AnadolInstall-DSC06728.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-can-ai-save-our-oceans-lets-start-with-the-data.md",
-      "title": "Can AI Save Our Oceans? Let’s Start With The Data.",
-      "excerpt": "Coral is the ocean’s life system and without it, we will soon also have an ocean without life. In spite of the terrible news, there are some glimmers of light and hope spots that we can point to, especially in the areas of AI for the benefit of the ocean. This will be the first in a series of articles that puts a spotlight on the top ...",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/swlh/can-ai-save-our-oceans-lets-start-with-the-data-ccd0dc91f302",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1920/0*Vm-4leo8UaKkERJE.jpg",
-          "width": 960,
-          "height": 540,
-          "title": "Can AI Save Our Oceans? Let’s Start With The Data.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast.md",
-      "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-cornerstone-acquires-clustree-for-its-ai-powered-skills-engine.md",
       "title": "Cornerstone acquires Clustree for its AI-powered skills engine",
       "excerpt": "Cornerstone On Demand, which makes human capital management (HCM) software, on Thursday announced it is acquiring Clustree, a French technology company with an AI-powered skills engine and an extensive skills ontology. Cornerstone is paying $18.5 million in all cash, and the deal is expected to close this quarter. Cornerstone plans to ...",
@@ -2089,7 +1912,7 @@
       "path": "_posts/_archive/2020-01-17-artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future",
       "excerpt": "Jan 17, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI ... practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation.",
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17",
@@ -2166,6 +1989,168 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models.md",
+      "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
+      "excerpt": "No matter the claimed robustness of AI and machine learning systems in production, none are immune to adversarial attacks, or techniques that attempt to fool algorithms through malicious input. It’s been shown that generating even small perturbations on images can fool the best of classifiers with high probability. And that’s problematic ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/",
+      "publishedDateTime": "2020-01-17T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-best-of-arxivorg-for-ai-machine-learning-and-deep-learning-december-2019.md",
+      "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
+      "excerpt": "In this recurring monthly feature, we filter recent research papers appearing on the arXiv.org preprint server for compelling subjects relating to AI, machine learning and deep learning – from disciplines including statistics, mathematics and computer science – and provide you with a useful “best of” list for the past month. Researchers ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidebigdata.com/2020/01/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-december-2019/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg",
+          "width": 450,
+          "height": 380,
+          "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-bjork-and-microsoft-use-ai-to-create-music-that-changes-with-the-sky.md",
+      "title": "Björk and Microsoft use AI to create music that changes with the sky",
+      "excerpt": "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
+      "publishedDateTime": "2020-01-17T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F1753deb0-3954-11ea-9f26-47e800c6b449%26client%3Da1acac3e1b3290917d92%26signature%3Dd74572e0141a4d05afbcc4cbd4f09da27109c50e&client=amp-blogside-v2&signature=397c2e6c49f4a56b1d74ddeac5f8b83a354ed9cd",
+          "width": 600,
+          "height": 350,
+          "title": "Björk and Microsoft use AI to create music that changes with the sky",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-bjork-creates-an-ai-composition-that-creates-music-that-creates-music-to-the-weather.md",
+      "title": "Björk creates an AI composition that creates music that creates music to the weather",
+      "excerpt": "The AI will create dynamic new variations of Björk's original arrangements based on the changing weather patterns and position of the sun . Called ‘Kórsafn,’ which means ‘choir archive’ in Icelandic, the composition will be played continuously ...",
+      "heat": 160,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7900725/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html",
+      "publishedDateTime": "2020-01-17T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/01/17/22/23542750-0-image-a-28_1579300849679.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Björk creates an AI composition that creates music that creates music to the weather",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,223 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-10-prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-worse-for-workers.md",
-      "title": "Prepare For ‘Robomageddon’: New Study Says AI Makes Jobs Easier, But Worse For Workers",
-      "excerpt": "Are you prepared for \"Robomageddon\"? As robotics and advanced automation continue to spread throughout the American workplace, a new study shows that attitudes are a mixed bag.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/",
-      "ampWebUrl": "https://www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/amp/",
-      "publishedDateTime": "2020-02-10T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/1179632186/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "Prepare For ‘Robomageddon’: New Study Says AI Makes Jobs Easier, But Worse For Workers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security.md",
-      "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
-      "excerpt": "In the midst of an unprecedented stock market rally and record-low unemployment, many Americans still struggle to meet their financial needs. Neel Yerneni and Tucker Haas have created Quo to provide Americans with the financial security they need in today's economy.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
-      "publishedDateTime": "2020-02-10T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e3f539b8b6cf300071e3b09/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
-      "title": "SoftBank-owned Arm to launch new AI chip for small devices",
-      "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-arm-tech-idUSKBN2041MK",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2041MK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2041MK",
-      "publishedDateTime": "2020-02-10T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200210&t=2&i=1488376532&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1911W",
-          "width": 785,
-          "height": 545,
-          "title": "SoftBank-owned Arm to launch new AI chip for small devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-ten-steps-to-ethics-based-governance-of-ai-in-healthcare.md",
-      "title": "Ten steps to ethics-based governance of AI in healthcare",
-      "excerpt": "A data governance framework based on the following ten steps can assist large healthcare systems embrace AI applications in a way that reduces ethical risks to patients, providers, and payors. Additionally, it enhances public trust, transforms patient experiences, and provides effective ethics-based oversight. 1) Establish ethics-based ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.healthdatamanagement.com/opinion/ten-steps-to-ethics-based-governance-of-ai-in-healthcare",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Health Data Management",
-        "domain": "healthdatamanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Ten steps to ethics-based governance of AI in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
-      "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-      "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-152543/social",
-          "width": 1280,
-          "height": 640,
-          "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-the-role-of-machine-learning-in-marketing.md",
       "title": "The Role of Machine Learning in Marketing",
       "excerpt": "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ...",
@@ -2187,6 +1970,213 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-unpacking-the-differences-between-automation-and-ai-in-the-enterprise.md",
+      "title": "Unpacking The Differences Between Automation And AI In The Enterprise",
+      "excerpt": "As enterprises strategize the incorporation of automation and AI-driven applications in their technology ecosystems, it’s critical to clarify the distinctions and understand the unique role each technology plays in digital transformation initiatives.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2020-02-11T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/167890572/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Unpacking The Differences Between Automation And AI In The Enterprise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
+      "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+      "excerpt": "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11",
+      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "publishedDateTime": "2020-02-11T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG",
+          "width": 640,
+          "height": 419,
+          "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-why-we-need-to-focus-on-the-positives-of-ai.md",
+      "title": "Why We Need To Focus On The Positives Of AI",
+      "excerpt": "Many people tend to think of AI as purely an automation technology, but that just skims the surface of what these tools and techniques can do for us.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
+      "publishedDateTime": "2020-02-10T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c807a8b6cf300071e1c86%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375",
+          "width": 1200,
+          "height": 675,
+          "title": "Why We Need To Focus On The Positives Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race.md",
+      "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+      "excerpt": "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "publishedDateTime": "2020-02-11T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/andrew-yang-1.jpg?fit=5048%2C2524&strip=all",
+          "width": 5048,
+          "height": 2524,
+          "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai.md",
+      "title": "CDHI Foundation and IBM tracking the progress of Huntington's disease using AI",
+      "excerpt": "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/",
+      "publishedDateTime": "2020-02-11T20:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     }
   ],

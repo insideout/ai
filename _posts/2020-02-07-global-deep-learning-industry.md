@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T14:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-industry-301000864.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,41 +24,17 @@ images:
     title: "Global Deep Learning Industry"
 
 related:
-  - title: "How Will Machine Learning Serve the Hotel Industry in 2020 and Beyond?"
-    excerpt: "Machine learning will help the hotel industry to remain tech-savvy and also help them to save money, improve service, and grow more efficient. Fremont, CA: Artificial intelligence (AI) implementation grew tremendously last year alone such that any business that does not consider the implications of machine learning (ML) will find itself in ..."
-    publishedDateTime: 2020-02-07T23:24:00Z
-    webUrl: "https://www.cioreview.com/news/how-will-machine-learning-serve-the-hotel-industry-in-2020-and-beyond-nid-31155-cid-40.html"
+  - title: "Empowering Industry 4.0 with Artificial Intelligence"
+    excerpt: "Artificial Intelligence (AI) is a significant part of Industry 4.0 AI is one of ... Furthermore, numerous organizations lack the right people, such as data scientists, to analyze whatever data they have. BFSI, healthcare, logistics which are manual labour-intensive industries deals with a lot of data requires AI solutions to produce effective ..."
+    publishedDateTime: 2020-02-12T06:57:00Z
+    webUrl: "https://www.dqindia.com/empowering-industry-4-0-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/empowering-industry-4-0-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/empowering-industry-4-0-artificial-intelligence/amp/"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_w12f.jpg"
-        width: 705
-        height: 485
-  - title: "From machine learning to SDM; the technologies revolutionising the subsea cable industry"
-    excerpt: "Clearly the flexibility and intelligence will become a top priority. Following the trend from the terrestrial networks, intelligence will be introduced at different levels thanks to SDN interfaces and machine learning algorithms. What makes an event like Submarine Networks EMEA such a great opportunity for professionals interested in the subsea ..."
-    publishedDateTime: 2020-02-07T16:55:00Z
-    webUrl: "https://www.totaltele.com/504859/From-machine-learning-to-SDM-the-technologies-revolutionising-the-subsea-cable-industry"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 10
-  - title: "Worldwide Smart Learning Industry Insights, 2019-2024 - Featuring Use Cases of Docebo, G-Cube, Saba Software, Cisco, IBM, and More"
-    excerpt: "The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to grow at the highest CAGR during the forecast period Based on ..."
-    publishedDateTime: 2020-02-05T20:10:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-worldwide-smart-learning-industry-insights-2019-2024-featuring-/2020/02/05/9092923.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg"
-        width: 336
-        height: 280
+      name: Dataquest
+      domain: dqindia.com
+    quality: 41
 
 secured: "iR+EUmnH4dQBVb6mnwCpWLjn2A31mAwLJ5Cd+M1b07lfZvgKVq9qgi++VMdxNNKhuVgW/7tfh7izXka2JiMAAMrtYOUvr4MhJtZbnfox+NZ5M7zm6kF7yRPFUZ30f9Kf95imwro1GR7M9N+GxyQHSkAlawPETCo85pVcOm/LRPaFZnHDQNi3L+t/wNWQKI8nPkY4A0LsMbhilYxIpWdD1TKSlB8Iq2VOIbtFA982ny1fNBfB/iOKPgfQ0HRiZW948WSK1HCtxCHBnQ1CzWFZRBCKnzhIrEboOXqPa8WcpIPueGUw2bXUoUULBij6avdS;oYLLH5GRLQbmZvx7TsAUAA=="
 ---

@@ -42,15 +42,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2016/07/21/0de0545b-b157-4463-ab44-1d34e8507596/thumbnail/1200x675/b8e69dc3d17f34f561a14663a253b409/twittersign-28.jpg"
         width: 1200
         height: 675
-  - title: "Cognitive Computing In The Next Decade Of AI"
-    excerpt: "Machine learning is now accessible to everyone, from students and industry engineers to domain experts and even consumers."
-    publishedDateTime: 2020-01-28T13:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/28/cognitive-computing-in-the-next-decade-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Google demos near real-time translator that transcribes audio into different languages on the spot"
     excerpt: "Google is showing off a new feature in its Translate app that can create an almost ... is capable of translating text using a device's camera. AI and computer vision are capable of 'looking' at text placed in front of one's camera and then spitting the text back out in another language. Like Interpreter, the Lens tool has become a favorite ..."
     publishedDateTime: 2020-01-29T16:59:00Z

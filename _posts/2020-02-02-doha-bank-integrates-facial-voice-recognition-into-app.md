@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-02T19:02:00Z
 webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -25,28 +25,15 @@ images:
     title: "Doha Bank integrates facial, voice recognition into app"
 
 related:
-  - title: "Campaign to Ban Face Recognition at U.S. Colleges Gathers Steam"
-    excerpt: "An organized campaign against the use of biometric surveillance at universities and colleges in the U.S. is ratcheting up pressure on institutions it believes are currently using—or are likely soon to adopt—face recognition technology. Fight for the Future, one of the nation’s leading digital rights organizations, and Students for ..."
-    publishedDateTime: 2020-01-28T13:38:00Z
-    webUrl: "https://gizmodo.com/campaign-to-ban-face-recognition-at-u-s-colleges-gathe-1841302162"
+  - title: "Innovatrics Joins Milestone Marketplace: SmartFace Facial Recognition Platform Integrated to XProtect, Optimizing Video-Enabled Solutions"
+    excerpt: "BRATISLAVA, SLOVAKIA, Feb. 05, 2020 (GLOBE NEWSWIRE) -- Innovatrics, the global leader in multimodal biometric technology, today announced that its SmartFace facial recognition system has been verified by Milestone Marketplace and has been successfully integrated into the Milestone XProtect® video management software,"
+    publishedDateTime: 2020-02-05T12:00:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980141/0/en/Innovatrics-Joins-Milestone-Marketplace-SmartFace-Facial-Recognition-Platform-Integrated-to-XProtect-Optimizing-Video-Enabled-Solutions.html"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-  - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
-    excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
-    publishedDateTime: 2020-02-03T20:25:00Z
-    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "tQjnsc2ZI5ZSW7PICubTHYs5iP9TNnfSuKvdHkfo5QYF8A+EP7jFaLTKesflTmMoke13hSKk1GXuCeDzzY6cC5oZTrWEMUyTsyTo0gS/WLJFRlTxijR+qPQfq8XVERFfe3XAnXUweh6x9OcRhddcXDWD9QH6XHl8/fMkWhe7MisrGSUWRB5fjQN4gHjq7/EYxvtjRRpXgkZv1eljYCwWLim9atYhIr/ZZnUqUfMx42vH4kQZmoPLdlAfZ8RE3j4aFcKoX7thVVrdAh/dJWyORxawe2nwSeLnVlcJlPdbR7Qtc0707lKjlDM3eZiaIxH3xwPSNANHhvbFQx2bMG9pTl9tEcu5HY6LKbB9PzSJd5hgCIpciDtWyThwNO7nUS0Ssw8b5zKGG+r/cizFyRRpxkaznahJ5TTgy/AraxgaunD0l1ZQUswek+8KRWS6nDYVUoyAnP7L6VUA3m6WsLXK264ZAZ/DEO8DpR7EA6kQIKY=;NMOGngDAAm89n7hucO8UQw=="
 ---

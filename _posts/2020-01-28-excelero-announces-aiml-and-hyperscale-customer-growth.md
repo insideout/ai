@@ -23,21 +23,6 @@ images:
     height: 228
     title: "Excelero Announces AI/ML and Hyperscale Customer Growth"
 
-related:
-  - title: "Excelero Triples AI/ML and Hyperscale Customer Growth"
-    excerpt: "New customers secured during January 2020 continue the trend. Click to Tweet: @ExceleroStorage grows its AI/ML and hyperscaler deployments 3x as #NVMe drives demand for its #GPU storage #datacenter http://bit.ly/30ZNN3i Excelero's strong 2019 affirms the ..."
-    publishedDateTime: 2020-01-28T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/01/28/9087812.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-
 secured: "IaqGP9Zp52BGSEZqUzP1QfkqamBsxIfgGn5xwemgEkkhzL9uN7ZV9EJ1rZyKlJCrMKZGbaA1qSVs8g22OZnoJSfiW2BdxaakXtC6U4hNg4MPhslfBD9zCITeFJDFxtC8j5SFZyyrs3BOG2v3csrVKX7Iy6y6bB/ayKgv1F249p6qxN4hIePwRAPX7T3rDqOljZ1EJ1c2wasMlNOu4qHj45OjEdRcrkjbM0IT1biMmgd/ZmdAIF9gDM/fB0BhD6NyzvlreKAvA0olK8sjg09q58IWR7fg1qCArKyrOXTByPwB03FeIYWi3eSBV95RfUdso/4oPe0RjPYsc9+bV90IxdjaJd+p6+oIJavXEe2/rhzOXSjg7iy50HF/jFM2l6L4nZz/TLek1SjfHzTD3LBvl31MWxJzqdAjIxxdQoWHJp487K5+L/IhYtcbx2xDdLV02m3umVvXXBeNPNaEQRiKrL98oGl4Ji9CkAOPnQFq03A=;Er3jhPTocE9Wi141nC/Ubg=="
 ---
 

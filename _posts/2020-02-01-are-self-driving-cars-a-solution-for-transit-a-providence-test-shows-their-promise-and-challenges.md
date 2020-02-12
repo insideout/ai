@@ -52,15 +52,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/02/GettyImages-1148108337.jpg"
         width: 1344
         height: 756
-  - title: "AI Self-Driving Cars Will Spur Americans To Be Savvier About Their Personal Finances, But Not For The Reasons That You Think"
-    excerpt: "It is said that many Americans are so busy trying to earn money that they don’t have time to think about how to best leverage and save money. This seemingly puzzling statement highlights that we are all on a frantic and mind-numbing treadmill of trying to earn income,"
-    publishedDateTime: 2020-01-28T13:25:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/28/ai-self-driving-cars-will-spur-americans-to-be-savvier-about-their-personal-finances-but-not-for-the-reasons-that-you-think/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 22
   - title: "Safety and Security are Two Major Points of Focus for the Players of Global Self-Driving Car Market -Transparency Market Research"
     excerpt: "/PRNewswire/ -- There are several factors that are responsible for an exceptional growth of global self-driving car market says Transparency Market"
     publishedDateTime: 2020-02-06T13:00:00Z

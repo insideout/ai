@@ -53,15 +53,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f1e2df133f400076acb05%2F0x0.jpg"
         width: 1200
         height: 626
-  - title: "Pecan.ai launches with $11M Series A to automate machine learning"
-    excerpt: "Pecan.ai, a startup that wants to help business analysts build machine learning models in an automated fashion, emerged from stealth today and announced an $11 million Series A. The round was led by Dell Technologies Capital and S Capital. Along with a previously unannounced $4 million seed round, the company has raised a total of $15 million."
-    publishedDateTime: 2020-01-28T13:29:00Z
-    webUrl: "https://techcrunch.com/2020/01/28/pecan-ai-launches-with-11m-series-a-to-automate-machine-learning/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
   - title: "vScaler launches its AI Reference Architecture"
     excerpt: "the platform provides a significant decrease in GPU-GPU communication latency and completely offloads the CPU. The AI optimized Architecture includes vScaler Cloud Storage, which centralizes all I/O and places active files on the fastest tier (Flash/NVMe) but also leverages the cost benefits of an erasure coded HDD tier and provides policy ..."
     publishedDateTime: 2020-02-04T16:03:00Z

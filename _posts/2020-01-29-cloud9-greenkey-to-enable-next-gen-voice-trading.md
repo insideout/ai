@@ -24,19 +24,6 @@ images:
     title: "Cloud9 & GreenKey to enable Next-Gen Voice Trading"
 
 related:
-  - title: "Cloud9 and GreenKey Partner to Enable Next-Gen Voice Trading"
-    excerpt: "The collaboration will leverage Cloud9's C9 Trader voice collaboration platform and GreenKey's speech recognition (ASR) and natural language processing (NLP) engine within IPC's Connexus™ Cloud financial ecosystem. The collaboration will allow customers to \"voice-populate\" their desktop applications such as trade tickets, exchange clearing ..."
-    publishedDateTime: 2020-01-28T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloud9-greenkey-partner-enable-next-gen-voice-trading-/2020/01/28/9088019.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "Cloud9 and GreenKey team on voice trading"
     excerpt: "The collaboration will leverage Cloud9’s C9 Trader voice collaboration platform and GreenKey’s speech recognition (ASR) and natural language processing (NLP) engine within IPC’s Connexus™ Cloud financial ecosystem. The collaboration will allow customers to “voice-populate” their desktop applications such as trade tickets ..."
     publishedDateTime: 2020-01-28T15:15:00Z

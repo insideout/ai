@@ -71,19 +71,6 @@ related:
       - url: "https://images.livemint.com/img/2020/01/30/600x338/micro-kDJG--621x414@LiveMint_1580391521648.JPG"
         width: 600
         height: 337
-  - title: "Microsoft Open-Sources ONNX Acceleration for BERT AI Model"
-    excerpt: "According to Ning, With ONNX Runtime, AI developers can now easily productionize large transformer models with high performance across both CPU and GPU hardware, using the same technology Microsoft uses to serve their customers. Taking the lessons learned from re-implementing BERT, the Bing and Azure devs updated the ONNX Runtime code to ..."
-    publishedDateTime: 2020-01-28T14:04:00Z
-    webUrl: "https://www.infoq.com/news/2020/01/microsoft-bert-acceleration/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 58
-    images:
-      - url: "https://res.infoq.com/news/2020/01/microsoft-bert-acceleration/en/headerimage/microsoft-bert-acceleration-1580052141385.jpg"
-        width: 2121
-        height: 1414
   - title: "Microsoft's Azure Strategy Pays Off"
     excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
     publishedDateTime: 2020-02-02T17:39:00Z

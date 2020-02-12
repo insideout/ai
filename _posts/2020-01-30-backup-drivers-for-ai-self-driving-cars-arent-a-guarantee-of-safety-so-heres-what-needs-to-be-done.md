@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/02/GettyImages-1148108337.jpg"
         width: 1344
         height: 756
-  - title: "AI Self-Driving Cars Will Spur Americans To Be Savvier About Their Personal Finances, But Not For The Reasons That You Think"
-    excerpt: "It is said that many Americans are so busy trying to earn money that they don’t have time to think about how to best leverage and save money. This seemingly puzzling statement highlights that we are all on a frantic and mind-numbing treadmill of trying to earn income,"
-    publishedDateTime: 2020-01-28T13:25:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/28/ai-self-driving-cars-will-spur-americans-to-be-savvier-about-their-personal-finances-but-not-for-the-reasons-that-you-think/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 22
   - title: "Are self-driving cars a solution for transit? A Providence test shows their promise and challenges"
     excerpt: "“You won’t see them on the road for many, many years to come, because they don’t visualize what’s ahead as well as human drivers do.” She predicted completely self-driving vans will arrive in 2021, in Jacksonville, Fla., replacing a worn-out monorail corridor. As AVs develop, there may be an interim phase of driverless cars that halt ..."
     publishedDateTime: 2020-02-01T05:09:00Z

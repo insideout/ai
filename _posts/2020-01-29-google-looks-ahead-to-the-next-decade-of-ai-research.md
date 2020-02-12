@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-looks-ahead-to-the-n
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/c021a94a-3ffd-4f23-a7ff-0cd81481c00a/thumbnail/770x578/79f34669c57d4caa7cd257ec6c2cba7b/20200130-balke-steph.jpg"
         width: 770
         height: 578
-  - title: "Cognitive Computing In The Next Decade Of AI"
-    excerpt: "Machine learning is now accessible to everyone, from students and industry engineers to domain experts and even consumers."
-    publishedDateTime: 2020-01-28T13:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/28/cognitive-computing-in-the-next-decade-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Google demos near real-time translator that transcribes audio into different languages on the spot"
     excerpt: "Google is showing off a new feature in its Translate app that can create an almost ... is capable of translating text using a device's camera. AI and computer vision are capable of 'looking' at text placed in front of one's camera and then spitting the text back out in another language. Like Interpreter, the Lens tool has become a favorite ..."
     publishedDateTime: 2020-01-29T16:59:00Z

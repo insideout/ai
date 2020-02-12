@@ -479,21 +479,6 @@ related:
       - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2020/01/Screen-Shot-2020-01-28-at-12.57.07-PM.png"
         width: 685
         height: 438
-  - title: "More than 40 colleges say they won’t use facial recognition on campus"
-    excerpt: "More than 40 colleges have said they have no intention to use facial recognition technology on their campuses amid a push from digital rights group Fight for the Future and Students for Sensible Drug Policy. The two groups launched a campaign earlier this month to ask colleges in the United States about their policies surrounding the use of the ..."
-    publishedDateTime: 2020-01-28T13:32:00Z
-    webUrl: "https://www.dailydot.com/layer8/facial-recognition-colleges/"
-    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-colleges/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-colleges/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Campus-Fight-for-the-Future.jpg"
-        width: 1711
-        height: 856
   - title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
     excerpt: "We have Woody Bledsoe to thank for being one of the fathers of facial recognition technology. In the early ’60s, this sharecropper’s son from Maysville, Oklahoma was a pioneer in having machines recognize faces. Bledsoe’s early research into facial recognition technology attracted fans, most particularly, the U.S. government and the CIA ..."
     publishedDateTime: 2020-01-29T16:44:00Z

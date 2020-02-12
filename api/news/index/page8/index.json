@@ -2,176 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-11-unpacking-the-differences-between-automation-and-ai-in-the-enterprise.md",
-      "title": "Unpacking The Differences Between Automation And AI In The Enterprise",
-      "excerpt": "As enterprises strategize the incorporation of automation and AI-driven applications in their technology ecosystems, it’s critical to clarify the distinctions and understand the unique role each technology plays in digital transformation initiatives.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/",
-      "publishedDateTime": "2020-02-11T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/167890572/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Unpacking The Differences Between Automation And AI In The Enterprise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-why-we-need-to-focus-on-the-positives-of-ai.md",
-      "title": "Why We Need To Focus On The Positives Of AI",
-      "excerpt": "Many people tend to think of AI as purely an automation technology, but that just skims the surface of what these tools and techniques can do for us.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
-      "publishedDateTime": "2020-02-10T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c807a8b6cf300071e1c86%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375",
-          "width": 1200,
-          "height": 675,
-          "title": "Why We Need To Focus On The Positives Of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race.md",
-      "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
-      "excerpt": "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
-      "publishedDateTime": "2020-02-11T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/andrew-yang-1.jpg?fit=5048%2C2524&strip=all",
-          "width": 5048,
-          "height": 2524,
-          "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai.md",
-      "title": "CDHI Foundation and IBM tracking the progress of Huntington's disease using AI",
-      "excerpt": "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/",
-      "publishedDateTime": "2020-02-11T20:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-fintech-startup-tribal-credit-secures-us55-million-in-funding-round.md",
       "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
       "excerpt": "The founding team consists of serial entrepreneurs, data scientists, and fintech execs who have had experiences in banking, risk and compliance, regulations, and scaling in emerging markets. Shady points out that the startup’s main advantage in the market is its proprietary AI algorithm, which they originally conceived based off their researc ...",
@@ -2075,6 +1905,178 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-02-2010-2019-the-rise-of-deep-learning.md",
+      "title": "2010 – 2019: The rise of deep learning",
+      "excerpt": "In the next decade, all technology will be considered “AI technology.” And we can thank deep learning for that. Deep learning is a friendly facet of machine learning that lets AI sort through ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/02/2010-2019-the-rise-of-deep-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-02T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thenextweb.com",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/deeplearning_notdead-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "2010 – 2019: The rise of deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-02-3-things-that-sent-baidu-stock-soaring-to-start-2020.md",
+      "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
+      "excerpt": "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
+      "publishedDateTime": "2020-01-02T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-02-ai-and-robotics-execs-look-back-at-tech-trends-of-2019.md",
+      "title": "AI and robotics execs look back at tech trends of 2019",
+      "excerpt": "Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of Brighterion Inc., Max Versace ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-02T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctovision.com",
+        "domain": "ctovision.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ctovision.com/wp-content/uploads/quantum-computing.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "AI and robotics execs look back at tech trends of 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-02-ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning.md",
+      "title": "AI creativity will bloom in 2020, all thanks to true web machine learning",
+      "excerpt": "TensorFlow.js is great new creative tool in the developer's arsenal. Machine learning has been trotted out as a trend to watch for many years now. But there’s good reason to talk about it in the ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/",
+      "publishedDateTime": "2020-01-02T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design26-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI creativity will bloom in 2020, all thanks to true web machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

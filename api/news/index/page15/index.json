@@ -2,177 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-19-why-agile-methodologies-miss-the-mark-for-ai-ml-projects.md",
-      "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
-      "excerpt": "What drives AI and ML projects is not programmatic code, but rather the data from which learning must be derived. What is needed is a project management methodology that takes into account the data-centric needs of AI and application-focused uses of models.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
-      "publishedDateTime": "2020-01-19T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1a23e2a854780006e84fa0%2F0x0.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-12-ai-milestones-1-shakey-the-robot.md",
-      "title": "12 AI Milestones: 1. Shakey The Robot",
-      "excerpt": "from 1966 to 1972, SHAKEY was the world’s first mobile intelligent robot. According to the 2017 IEEE Milestone citation, it “could perceive its surroundings, infer implicit facts from explicit ones, create plans,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/",
-      "publishedDateTime": "2020-01-20T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e247090a854780006e8dc0c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D125%26cropY2%3D3219",
-          "width": 1200,
-          "height": 675,
-          "title": "12 AI Milestones: 1. Shakey The Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation.md",
-      "title": "AI Chipset Market is Expanding Due to Adoption of Industrial Automation",
-      "excerpt": "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15149083",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083",
-      "publishedDateTime": "2020-01-20T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1579519636.jpeg",
-          "width": 417,
-          "height": 455,
-          "title": "AI Chipset Market is Expanding Due to Adoption of Industrial Automation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-ai-does-for-security-what-apac-firms-cannot.md",
-      "title": "AI does for security what APAC firms cannot",
-      "excerpt": "Artificial intelligence (AI) will increasingly play a critical role in helping Asia-Pacific businesses cope with a fast-evolving threat landscape as well as an attack surface that is fast expanding amidst a hyperconnected environment. Organisations today face several key issues brought on by the adoption of cloud, Internet of Things (IoT ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-does-for-security-what-apac-firms-cannot/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-does-for-security-what-apac-firms-cannot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-does-for-security-what-apac-firms-cannot/",
-      "publishedDateTime": "2020-01-20T01:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/01/20/35933b74-57f6-49a4-9041-95b10c5f94b6/screenshot-2020-01-20-19-59-59.png",
-          "width": 1248,
-          "height": 603,
-          "title": "AI does for security what APAC firms cannot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-20-ai-will-give-rise-to-fintech-20-and-longevity-banks.md",
       "title": "AI Will Give Rise To FinTech 2.0 And Longevity Banks",
       "excerpt": "Recent advances in the development of practical AI tools are enabling advanced FinTech solutions. Longevity Banks and FinTech 2.0 services will attract people who want to optimize their wealthspan.",
@@ -294,7 +123,7 @@
       "path": "_posts/_archive/2020-01-20-artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai.md",
       "title": "Artificial intelligence needs to be regulated: Alphabet CEO Pichai",
       "excerpt": "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ...",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html",
@@ -2148,6 +1977,161 @@
           "width": 630,
           "height": 373,
           "title": "More privacy, better battery life, AI everywhere: What Apple’s Xnor.ai deal says about its ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-neurips-competition-tackles-climate-data-challenges.md",
+      "title": "NeurIPS competition tackles climate data challenges",
+      "excerpt": "The Earth’s climate is a highly complex, dynamic system. It is difficult to understand and predict how different climate variables interact. Finding causal relations in climate research today relies mostly on expensive and time-consuming model simulations. Fortunately, with the explosion in the availability",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/neurips-competition-tackles-climate-data-challenges/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T11:09:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/neurips-f.jpg",
+          "width": 800,
+          "height": 440,
+          "title": "NeurIPS competition tackles climate data challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture.md",
+      "title": "Philips' new OLED805 and OLED855 TVs will use AI power to pimp your picture",
+      "excerpt": "Philips has revealed its first wave of new OLED TVs for 2020 – and it's going all-in on AI picture ... OLED855 and OLED805 televisions their debuts. Essentially identical in terms of specs aside from the style of their respective stands (the 805 has a two-legged \"chamfered stand\" while the 855 has a central mount), both make use of the ...",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-preparing-for-ai-ethics-and-explainability-in-2020.md",
+      "title": "Preparing For AI Ethics And Explainability In 2020",
+      "excerpt": "After racing head long into creating complex models, companies must take a step back to provide explainable and ethical AI. Fortunately, researchers are providing new tools to help demystify complex models.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/01/21/preparing-for-ai-ethics-and-explainability-in-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T13:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-qualcomms-launched-a-trio-of-4g-chips-5g-aint-going-mainstream-anytime-soon.md",
+      "title": "Qualcomm’s launched a trio of 4G chips: 5G ain’t going mainstream anytime soon",
+      "excerpt": "The chip also features support for Qualcomm aptX audio and comes with an integrated X15 LTE modem. Phones with it will support 4K video recording and the ability to shoot 192-megapixel photos. As a final perk it also has Qualcomm’s latest fifth-generation AI engine. The engine has already been seen in the company’s top end chips and offers ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591",
+      "ampWebUrl": "https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp",
+      "cdnAmpWebUrl": "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp",
+      "publishedDateTime": "2020-01-21T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Trusted Reviews",
+        "domain": "trustedreviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/qualcomm_snapdragon_460_662_and_720g_mobile_platforms_-_chip_case-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Qualcomm’s launched a trio of 4G chips: 5G ain’t going mainstream anytime soon",
           "attribution": null
         }
       ],

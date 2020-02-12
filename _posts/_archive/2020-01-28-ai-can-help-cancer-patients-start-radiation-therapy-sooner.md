@@ -73,6 +73,6 @@ related:
       domain: healthitanalytics.com
     quality: 36
 
-secured: "StAayF0x9HNmWHHTNIhB0CPMwc7N5EDXVRxLumbESBakUdvPblHxKULyGB9TtIgIz1uo3OkX+KA6cEGU7PJ6KymmLylgfILOuxI79gVBAfyyNtYnp18ymiNU6Tv6zWh4kqVDQeXKYeFa4hGgkGR2/DAmPFGlNHQAR6Lr8WN4ElvqQlOEOfjoDuv+764J0WGtYyX+yMo2sd5aY6UXHocnNsf5DrZAkNLpAXnaGCX4CSEeWdbIefAyIjR46cKwXpbn5PsXEC505jsJpuwJ6rYyq3/Ozb2rnOm4YB8GLS9iwAjhVhc8MMqFlvjdlrLUFh3e;vVKqxNq6DR3DJappDQySYw=="
+secured: "VH/+pvGXsG7WSRl9MiCIdIhJARmOgbutx+B0l4bU06hLD7+EP9rOh65LscFU//lXcERY4YcJ92ICB0vkZr8ztk9oTqdPZsFoXz9PNf0zh+mVcHQOXo1FodWoVQ96N3N1yqEcYOsbWObcfe1/fE+hbsHJvTad+RKj2kmyaufnrhZ0sVTfbQe5UWGfrJ63R3h7CUG++m6rl9KXEm3faggjt/VMJ9J8qkA/mL9Mc+PVNmBtHW1R5sMZeAvq0Uux55kegdBrv0o4NkbfnAVl9lyonE4cTV4z5Dv8nn29fUYENA9Wkdyyj7SWFEbHHaWy/2vz;Hf/IBHEgD5g+PrYGR4oU1A=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-security-flaws-micro
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/searchWinDevelopment/app_development/windevelopment_article_002.jpg"
         width: 1200
         height: 400
-  - title: "Genesys Engage call center software coming to Microsoft Azure"
-    excerpt: "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ..."
-    publishedDateTime: 2020-01-26T21:00:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-        width: 320
-        height: 210
 
 secured: "toZm4iJqj8ykHle/vev/8Z9mCIKhPjrXzk9b0rX8hj6LQ8hEWwIDNXKxHRxkWL/7J/BTKtnGRpTQzErm0Glvc4Oei/UEpoUchBJ4Zr5H6ky7VWZL/PUVl89dcehGcCI+a/iKK2vkK68yuF7svU5h6mODDREkjRcTGNbP2OqbiF1EEoalknJzJGgzvMkKzTdbxMgCSLGg1oBATmBC3fxw8v+nBxDYwBIlsgiVD7Dl12O0/4e9y6PdGCdZiSBQOhfveWh+Jge/tgDICLjdoDILg7bR1ZbiJPY3fvfVRIgAbvabZ8w5A+ClL/e52DlprKb8Xzj026NsP9YodgjHvlNYY4zsYl7UHF+yH8JFjXmt2Ofivz18SllJtBGtAAJAKUYkLJvE75ICy7dA/Z0/WCExCLFRtT1T0GBxckkBuB9kvB/rvxJ/DPh8pjChrUl6o6iABdwSHLFGMYoSgkA/CvbOqxZ/i7AgNGVdCgdgh705fSM=;aExCUkGGv/ylnFuJaJbyRQ=="
 ---

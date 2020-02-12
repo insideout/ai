@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-de
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
 type: article
 quality: 98
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,19 +31,6 @@ images:
     width: 940
     height: 512
     title: "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI"
-
-related:
-  - title: "Paramount Resources LTD Forms Strategic Partnership with Novi Labs to Integrate Machine Learning into Well Planning Workflows"
-    excerpt: "Novi's well planning technology leverages highly scalable machine learning algorithms, and a wide variety of economic inputs to automate predictions for planned or producing wells. This gives well planning and engineering teams unprecedented capabilities to model capital allocation and select the ideal parameters that produce optimal production ..."
-    publishedDateTime: 2020-01-28T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/paramount-resources-ltd-forms-strategic-partnership-with-novi-labs-to-integrate-machine-learning-into-well-planning-workflows-1028851306"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/paramount-resources-ltd-forms-strategic-partnership-with-novi-labs-to-integrate-machine-learning-into-well-planning-workflows-1028851306"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/paramount-resources-ltd-forms-strategic-partnership-with-novi-labs-to-integrate-machine-learning-into-well-planning-workflows-1028851306"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
 
 secured: "yTNKrHTUstTw87oOhoN35LJRYoYdh9D08XeUy2dJSJrH3Ztpo2Zab80rAitpLYP14YERKZp4An5QYD6f72tt/9ttmXWUHG5XVMivTdbF+WaX+CwACHqaOURSsVzmrZwppCN24KcMDUQC6va0IuONcIrNkw4u2+enP/nKptTEWjgt/T9ChTbOIpTdrSMSGlzCROPkE68NkOoB7ri7g3qiEwCXIgUrt++vZh34wMTYcQwU22cNsrhw7a5UsDhEbFrjm5ISH1GKGkb9qihoXpVWHfNe5hKLombgE5Vt87DK6SILcB5EgvAYy/OjajNwNtJFjPx7QzvBgmExA9MAc/wHBCu4NrR9aOl8oYdNLfpEMeK88bT0XmWAqKW9xRC5p8w9ggN93Ju+G2C0t7nhrQGzLA7H1sxE64QxGF1SHOdJNxH4rK/qt+gYpn2xXbaIA1I3dxF+/zE+iaLA7hpz+k8aef16o884NWNOB4h3yZDJZic=;85Ckj/IRIGGiF3MxntOhaA=="
 ---
