@@ -196,19 +196,6 @@ related:
       - url: "https://snworksceo.imgix.net/car/34a76c62-7835-44ec-b09c-8156ef641ec0.sized-1000x1000.jpeg?w=1000"
         width: 1000
         height: 600
-  - title: "Gale to Bring Udemy Learning Content to Libraries"
-    excerpt: "While many of them are priced on the website upwards of $200, the company frequently runs specials making those same courses available for big discounts. For example, \"Advanced Machine Learning & Data Analysis Projects Bootcamp,\" with 20.5 hours of video and other materials, is available for $12.34 (as of the time of this writing)."
-    publishedDateTime: 2020-01-28T22:34:00Z
-    webUrl: "https://campustechnology.com/articles/2020/01/28/gale-to-bring-udemy-online-courses-to-libraries.aspx?admgarea=news"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 24
-    images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
-        width: 1200
-        height: 630
   - title: "Look out, the robots are coming!"
     excerpt: "Just when I think that I'm getting used to the shiny new world of Roombas, Alexas and driverless cars, something else comes along and throws ... a team of international researchers remarked on the potential of artificial intelligence to disrupt a variety of jobs in fields as diverse as finance, information technology, law and medicine, and ..."
     publishedDateTime: 2020-02-08T04:31:00Z

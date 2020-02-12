@@ -61,21 +61,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Google-translate-796x417.png"
         width: 796
         height: 417
-  - title: "Google Will Soon Translate And Transcribe Languages In Real Time"
-    excerpt: "Google has shown off an upcoming feature for its Android Google Translate app that will allow for real-time transcription and translation of one language into another at an AI event in San Fransisco. According to CNET, the feature is still in the prototyping stage, so don't expect the functional equivalent of a Hitchhiker's Babel Fish to be on ..."
-    publishedDateTime: 2020-01-28T22:23:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/01/google-will-soon-translate-and-transcribe-languages-in-real-time/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/01/google-will-soon-translate-and-transcribe-languages-in-real-time/amp"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/01/google-will-soon-translate-and-transcribe-languages-in-real-time/amp"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 44
-    images:
-      - url: "https://edge.alluremedia.com.au/m/g/2020/01/file-20191211-95125-r0n3lh.jpg"
-        width: 2479
-        height: 1653
   - title: "Google To Add Live Transcription Feature To Its Translate App"
     excerpt: "The search-giant has already presented a demo of the new feature, during AI demos, held in San Francisco ... The real-time or live transcription of multilingual audio files is more complex than the simple translation of written text from one language to another. And, to use the live transcription feature, internet connection is a must."
     publishedDateTime: 2020-01-29T11:45:00Z

@@ -2,86 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-11-3-big-trends-about-the-future-of-work-every-leader-should-know-about.md",
-      "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-      "excerpt": "For 2020, she has identified three issues that \"require immediate and intentional action\" if organizations want to thrive in the future of work. 1. Overlooked talent in people with disabilities and older workers. \"The United States has a jobs surplus of more than one million open positions, and there are record-high labor shortages across 12 of ...",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.inc.com/marcel-schwantes/3-big-trends-about-future-of-work-every-leader-should-know-about.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.incimages.com/uploaded_files/image/970x450/getty_867341882_412451.jpg",
-          "width": 970,
-          "height": 450,
-          "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-ai-and-automation-together-forever.md",
-      "title": "AI And Automation: Together Forever?",
-      "excerpt": "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/",
-      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
-      "publishedDateTime": "2020-02-11T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "AI And Automation: Together Forever?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-of-financial-aid-applications.md",
       "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
       "excerpt": "Otterbot is a free, AI-powered texting service that can help high school seniors apply for financial aid that covers tuition and fees for college and other training. Last year, Washington ranked 48th among U.S. states for the percent of students who completed federal financial aid applications or FAFSA, a standardized form used for awarding ...",
@@ -240,6 +160,43 @@
           "width": 650,
           "height": 400,
           "title": "Arm targets IoT with new Machine Learning IP, processors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-artificial-intelligence-for-machine-tool-maintenance.md",
+      "title": "Artificial intelligence for machine tool maintenance",
+      "excerpt": "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-02/kift-aif021120.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/223953_web.jpg",
+          "width": 720,
+          "height": 652,
+          "title": "Artificial intelligence for machine tool maintenance",
           "attribution": null
         }
       ],
@@ -1754,10 +1711,54 @@
       ]
     },
     {
+      "path": "_posts/2020-02-12-cybelangel-raises-36-million-to-fight-data-breaches-with-ai.md",
+      "title": "CybelAngel raises $36 million to fight data breaches with AI",
+      "excerpt": "It’s a lot to juggle, but as Keraudy explains, a combination of AI-imbued scanning tech and human analysis enables CybelAngel to analyze upwards of thousands of files, hundreds of potential ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/12/cybelangel-raises-36-million-to-fight-data-breaches-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/12/cybelangel-raises-36-million-to-fight-data-breaches-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/cybelangel-raises-36-million-to-fight-data-breaches-with-ai/amp/",
+      "publishedDateTime": "2020-02-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "CybelAngel raises $36 million to fight data breaches with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-12-deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks.md",
       "title": "Deep Instinct raises $43 million for deep learning to thwart cyberattacks",
       "excerpt": "Deep Instinct has raised $43 million in venture capital as the company seeks to apply its deep learning technology to predicting and preventing increasingly sophisticated cyberattacks. The company says it has developed an “artificial deep neural network brain” which has the ability to rapidly learn about new forms of malware and ransomware.",
-      "heat": 163,
+      "heat": 173,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/",
@@ -1938,7 +1939,7 @@
       "path": "_posts/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
       "title": "India can benefit from AI, machine learning: Chandra",
       "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/articleshow/74103826.cms",
@@ -2017,10 +2018,55 @@
       ]
     },
     {
+      "path": "_posts/2020-02-12-nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-robotics-ai.md",
+      "title": "Nvidia VP Claire Delaunay will discuss empowering robotics startups at TC Sessions: Robotics + AI",
+      "excerpt": "which works to develop AI and general intelligence for robotics, and Joshua Wilson, co-founder and CEO of Freedom Robotics, which works to help companies launch and scale robotics systems. Tickets are on sale now for $345; you’ll save $50 when you book now as prices go up at the door. We have two Startup Demo Packages left for $2,200.",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/11/nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-roboticsai/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/11/nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-roboticsai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-roboticsai/amp/",
+      "publishedDateTime": "2020-02-12T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/claire_speaker_header.png?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": "Nvidia VP Claire Delaunay will discuss empowering robotics startups at TC Sessions: Robotics + AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
       "title": "The Future Of Blockchain: Fintech 50 2020",
       "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
-      "heat": 207,
+      "heat": 217,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
@@ -2061,23 +2107,23 @@
       ]
     },
     {
-      "path": "_posts/2020-02-12-uk-vc-firm-focused-on-artificial-intelligence-expands-to-southeast-asia.md",
-      "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
-      "excerpt": "Skymind Global Ventures, a venture capital firm that invests in artificial intelligence companies, on Wednesday launched an $800 million fund and said it would expand to Southeast Asia region. A significant portion of the $800 million fund will be used to invest in Southeast Asian AI companies, the company said in a statement to the press.",
-      "heat": 88,
+      "path": "_posts/2020-02-12-this-eye-tracking-system-uses-ai-to-diagnose-multiple-sclerosis.md",
+      "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
+      "excerpt": "Now, C. Light Technologies, a neurotech and AI company that grew out of the Berkeley Skydeck accelerator, wants to help doctors diagnose neurological conditions with more speed and precision. The company has developed an eye-tracking technology paired with machine learning that can be used to diagnose multiple sclerosis (MS). Patients simply ...",
+      "heat": 97,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/346265",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346265",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346265",
-      "publishedDateTime": "2020-02-12T04:48:00-08:00",
+      "webUrl": "https://www.engadget.com/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "publishedDateTime": "2020-02-12T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -2089,47 +2135,10 @@
       },
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20170107081833-shutterstock-539711077.jpeg?width=600&crop=16:9",
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4752%252C2969%252C478%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F2bf14030-49c4-11ea-bd12-51dd6eb02117%26client%3Da1acac3e1b3290917d92%26signature%3Dc06466b4199d3f7b3a513f29e3fcc3a88a4b1399&client=amp-blogside-v2&signature=6405a5ad9aa4e773b6077a09463989cd83fdcb9b",
           "width": 600,
-          "height": 338,
-          "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2013-07-04-from-chess-to-ping-pong-how-pegasystems-is-capturing-the-fortune-500.md",
-      "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
-      "excerpt": "And Cisco is using the technology to centralise its business processes in a company-wide rules engine that will help it respond ... and refine and develop them until they meet the needs of the ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500",
-      "ampWebUrl": "https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1",
-      "publishedDateTime": "2013-07-04T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/editorial/Alan-Pegasystems.jpg",
-          "width": 580,
-          "height": 387,
-          "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
+          "height": 350,
+          "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
           "attribution": null
         }
       ],

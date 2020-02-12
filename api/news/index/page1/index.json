@@ -2,95 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-01-28-ai-driven-biomarkers-of-aging.md",
-      "title": "AI Driven Biomarkers Of Aging",
-      "excerpt": "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "publishedDateTime": "2020-01-28T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30aae6f133f400076af2dd%2F0x0.jpg",
-          "width": 1200,
-          "height": 585,
-          "title": "AI Driven Biomarkers Of Aging",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-28-launch-your-product-at-transform-2020-the-ai-event-for-enterprise-decision-makers.md",
-      "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
-      "excerpt": "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
-      "publishedDateTime": "2020-01-28T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ShowcasePic-1.jpg?fit=2000%2C925&strip=all",
-          "width": 2000,
-          "height": 925,
-          "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-29-48-hours-left-on-early-bird-pricing-to-tc-sessions-robotics-ai-2020.md",
       "title": "48 hours left on early-bird pricing to TC Sessions: Robotics + AI 2020",
       "excerpt": "Just two days stand between you and serious savings on tickets to TC Sessions: Robotics+AI 2020. This annual day-long event draws the most innovative and visionary technologists, researchers and investors from two game-changing industries — last year we hosted 1,500 attendees. Make a smart investment. Buy an early-bird ticket before prices go ...",
@@ -613,51 +524,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-29-deepmind-develops-ai-with-an-imagination.md",
-      "title": "DeepMind Develops AI With An Imagination",
-      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "DeepMind Develops AI With An Imagination",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-29-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
       "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
       "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into machine-readable data. And using the same kind of technology that translates English into Mandarin, they were able to translate problems into solutions.",
@@ -842,7 +708,7 @@
       "path": "_posts/2020-01-29-google-translate-app-to-transcribe-and-translate-in-real-time.md",
       "title": "Google Translate App to Transcribe and Translate in Real Time",
       "excerpt": "As CNET reports, Google was showing off a number of its AI projects earlier this week in San Francisco. One of them is a new feature heading to the Google Translate app a few months from now which allows a conversation to be transcribed in real-time while simultaneously being translated into another language. From a practical point of view it ...",
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.entrepreneur.com/article/345665",
@@ -2139,6 +2005,133 @@
         "AI",
         "Natural Language Processing",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regulation.md",
+      "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
+      "excerpt": "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done.md",
+      "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
+      "excerpt": "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/",
+      "publishedDateTime": "2020-01-30T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1037080322%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8678%26cropY1%3D427%26cropY2%3D5309",
+          "width": 1200,
+          "height": 677,
+          "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-darpa-deploys-swarms-of-autonomous-robots-to-carry-out-urban-raid.md",
+      "title": "DARPA Deploys Swarms of Autonomous Robots to Carry Out Urban Raid",
+      "excerpt": "In the not-so-distant future, hundreds of unmanned drones and on-the-ground rovers could swoop into an area of interest and spew crucial data to human military operators, researchers say.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834",
+      "ampWebUrl": "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1",
+      "publishedDateTime": "2020-01-30T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1563786/darpa-drone-swarm.png",
+          "width": 1695,
+          "height": 1115,
+          "title": "DARPA Deploys Swarms of Autonomous Robots to Carry Out Urban Raid",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

@@ -48,6 +48,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens"
+    excerpt: "Today, a startup that’s built a deep learning solution that it claims can both identify and stop even viruses that have yet to be identified, has raised a large round of funding from some big strategic partners. Deep Instinct, which uses deep learning both to learn how to identify and stop known viruses and other hacking techniques ..."
+    publishedDateTime: 2020-02-12T14:38:00Z
+    webUrl: "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/"
+    ampWebUrl: "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 55
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1079200304.jpg?w=1024"
+        width: 1024
+        height: 752
   - title: "Machine Learning Company Kaskada Closes $8 Million In Funding"
     excerpt: "Kaskada, a machine learning company that provides a unified platform for feature engineering, announced it raised $8 million in funding Kaskada — a machine learning company that provides a unified platform for feature engineering — announced it has ..."
     publishedDateTime: 2020-02-06T07:56:00Z

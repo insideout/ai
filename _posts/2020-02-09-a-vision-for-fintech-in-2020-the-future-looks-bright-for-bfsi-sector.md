@@ -41,6 +41,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "Fintech 50 2020: The Newcomers"
+    excerpt: "For our fifth annual Fintech 50, 19 of our picks have never appeared on the list. Digital banks, insurance startups and payments companies made a particularly strong showing."
+    publishedDateTime: 2020-02-12T14:26:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkauflin/2020/02/12/fintech-50-2020-the-newcomers/"
+    ampWebUrl: "https://www.forbes.com/sites/jeffkauflin/2020/02/12/fintech-50-2020-the-newcomers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/02/12/fintech-50-2020-the-newcomers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42ee49f133f400076c2e55%2F0x0.jpg"
+        width: 1200
+        height: 783
   - title: "The Future Of Real Estate: Fintech 50 2020"
     excerpt: "Better Mortgage Headquarters: New York Online mortgage lender provides home shoppers with pre-approvals in as little as three minutes."
     publishedDateTime: 2020-02-12T14:42:00Z

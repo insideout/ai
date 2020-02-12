@@ -2,6 +2,87 @@
   "page": 12,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-15-artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare.md",
+      "title": "Artificial Intelligence or AI: Here is how it is transforming healthcare",
+      "excerpt": ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/",
+      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/",
+      "publishedDateTime": "2020-01-15T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg",
+          "width": 679,
+          "height": 365,
+          "title": "Artificial Intelligence or AI: Here is how it is transforming healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-15-china-the-first-artificial-intelligence-superpower.md",
+      "title": "China – The First Artificial Intelligence Superpower",
+      "excerpt": "China combines a gigantic amount of data with talent, companies, research and capital to build the world's leading AI ecosystem.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/",
+      "publishedDateTime": "2020-01-14T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1d73c0735f8c000799cb86%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1130%26cropY1%3D198%26cropY2%3D833",
+          "width": 1130,
+          "height": 636,
+          "title": "China – The First Artificial Intelligence Superpower",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-15-congress-moves-toward-facial-recognition-regulation.md",
       "title": "Congress moves toward facial recognition regulation",
       "excerpt": "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ...",
@@ -2091,87 +2172,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-cornerstone-acquires-clustree-for-its-ai-powered-skills-engine.md",
-      "title": "Cornerstone acquires Clustree for its AI-powered skills engine",
-      "excerpt": "Cornerstone On Demand, which makes human capital management (HCM) software, on Thursday announced it is acquiring Clustree, a French technology company with an AI-powered skills engine and an extensive skills ontology. Cornerstone is paying $18.5 million in all cash, and the deal is expected to close this quarter. Cornerstone plans to ...",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "publishedDateTime": "2020-01-16T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-creating-a-more-accessible-world-with-azure-ai.md",
-      "title": "Creating a more accessible world with Azure AI",
-      "excerpt": "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges. One challenge is that according to the World Health Association,",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T00:00:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e79a07b9-c903-4f16-8e4f-ee19d7dfdf0d.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Creating a more accessible world with Azure AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

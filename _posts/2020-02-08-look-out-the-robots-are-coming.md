@@ -210,19 +210,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-  - title: "Gale to Bring Udemy Learning Content to Libraries"
-    excerpt: "While many of them are priced on the website upwards of $200, the company frequently runs specials making those same courses available for big discounts. For example, \"Advanced Machine Learning & Data Analysis Projects Bootcamp,\" with 20.5 hours of video and other materials, is available for $12.34 (as of the time of this writing)."
-    publishedDateTime: 2020-01-28T22:34:00Z
-    webUrl: "https://campustechnology.com/articles/2020/01/28/gale-to-bring-udemy-online-courses-to-libraries.aspx?admgarea=news"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 24
-    images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
-        width: 1200
-        height: 630
   - title: "Influence marketing’s problems can be solved with a machine-learning solution"
     excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
     publishedDateTime: 2020-02-10T20:08:00Z

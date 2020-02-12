@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.in/business/news/india-can-benefit-from-
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,19 @@ images:
     height: 275
     title: "India can benefit from AI, machine learning: Chandra"
 
-secured: "eDz/InHKhMG+tdWHhuxYoF7iOP8Z6MCAip2gjXsgizrcCihH2FUd4g+B9bZQNS3snnOCQVWKSJAQnOETmnqluk5+XXoK7ft+ISAYhwv2VNFQPrbF+fsUF5HuK0bc6Vy5yCM/rMrPGqWPnsLtmXrpYTapKNdRhEds+j5v+IE4A0scIKbe6j7RXappC5Z5X0xLMW9n1XS5eNH9WZLMgQyJ1ihea7FsvYJ6IWv3Ls8/B53uGFOP5g48GvfLbc1Kii1se2qDzT64nY0d1I0hRg0/HRtoPOoJYujsjy9drKYZMog2OlpGzIuZS6VozY+fFlst;SH14N5tYKP1MWhksLICW2Q=="
+related:
+  - title: "India can benefit from AI, machine learning: Tata Sons Chairman N Chandrasekaran"
+    excerpt: "Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey ..."
+    publishedDateTime: 2020-02-12T15:49:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/india-can-benefit-from-ai-machine-learning-tata-sons-chairman-n-chandrasekaran/1866243/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/india-can-benefit-from-ai-machine-learning-tata-sons-chairman-n-chandrasekaran/1866243/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/india-can-benefit-from-ai-machine-learning-tata-sons-chairman-n-chandrasekaran/1866243/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 49
+
+secured: "yfs/llDPdUJOmgrq03axM51USzfCACRSjR6NuY7BKVzCm3ttlEm7s1q0QuL6WknI1hilii5vxdRiUAL+PbPxzKw9pGqFc/7ZpPwQa9uQ41anQkcnG3dJ/oejtvNTdGdcpMAPNua4aLLDtwXVIRkVdDfGrul/WgjiB1RzDVT3Ied8pfMw5cpBFhcR17di/PuATx/XmnBsaLEQadyS9dDoBoaTEIBC+O+N1vFqFxrbhVJ9bSWhkQqCr12pM+TZ6Q1iuQuH4TwJyQOJTrzo9a0hMaOJ9OoDIaZs7kpBwoGB9CPr6gI7FVu94SMy6keCYYVUHMJQ/hFqV8zAJax4ZvadNpD7fB2O/pcqWb62y/ChEnHwXX4eO+ftVAN8XrqGznyOhCdqU/cZ0z18ycD0GDWuhX8kOyIxqYb/pBGBbtyT3Jgd5TmE0d/VgATpwYXvDCUUfYF4+iQKMMJD3AgY+pRzcEw/Zh4LZKU5YleHS9NSfgQ=;kpxqJgtC0i3oXpETVXlUCA=="
 ---
 

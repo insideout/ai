@@ -37,6 +37,19 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/223953_web.jpg"
         width: 720
         height: 652
+  - title: "Artificial intelligence for machine tool maintenance"
+    excerpt: "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ..."
+    publishedDateTime: 2020-02-12T15:39:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-02/kift-aif021120.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 52
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/223953_web.jpg"
+        width: 720
+        height: 652
 
 secured: "fbVwePz+I4pEvZazk4m7enEpRBCO5W97NF0wx8EZShU4yvNabdrbE8LkQDuiN8O4D1tTbq11VWOX++WWr9wfr3VZOhmI6urSLnFoT297rCwxNFdUwYkwhfeipfHt8f/2y1HOAnFhkmMrqiF+oYQr5/APDHYVQiTRYaTucttsxREomFRN/l4Sju7FmRbG2+dBCwB68tNbYD6rN3SA1caCE4FSp23ly+INngL0p5czDSVH+zlA4B1XmIiT1Ejvz6P7xklWz3k5BPdLhdaGxEDq5+29H8RCOfXYxcheSvuiooiyRv5p8m7JaSY+/iGx8E8z1XDytiW8AF6n+cyBPDhPHbLDIgZgyBVxpapIBBHfA35Om/yANmI5mJvdeMpSj3pM7mrDiBmInhp7cPf9r6HUiIJneH8nkEo7q8EK/+beB01e9hue3FsX88ZeljBhLFy9VPCtMUp9615mjzFQ1u+DBMJ0mWtGnQkGQfGfiG9IeJs=;PRsSzeyuHO99DU/408E9AQ=="
 ---

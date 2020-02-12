@@ -313,19 +313,6 @@ related:
       - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 675
-  - title: "London to deploy live facial recognition to find wanted faces in crowd"
-    excerpt: "Officials at the Metropolitan Police Service of London announced last Friday that the organization will soon begin to use \"Live Facial Recognition\" (LFR) technology deployed around London to identify people of interest as they appear in surveillance video and alert officers to their location. The system, based on NEC's NeoFace Watch system ..."
-    publishedDateTime: 2020-01-28T22:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2020/01/london-to-deploy-live-facial-recognition-to-find-wanted-faces-in-crowd/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
-        width: 760
-        height: 380
   - title: "Facebook will pay $550 million to settle an Illinois lawsuit about it use of facial recognition and user photos"
     excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent."
     publishedDateTime: 2020-01-31T09:41:00Z
@@ -380,19 +367,6 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-  - title: "London to deploy live facial recognition to find wanted faces in a crowd"
-    excerpt: "Officials at the Metropolitan Police Service of London announced last Friday that the force will soon begin to use \"Live Facial Recognition\" (LFR) technology deployed around London to identify people of interest as they appear in surveillance video and alert officers to their location. The system, based on NEC's NeoFace Watch system ..."
-    publishedDateTime: 2020-01-28T22:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2020/01/london-to-deploy-live-facial-recognition-to-find-wanted-faces-in-crowd/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
-        width: 760
-        height: 380
   - title: "Big Brother facial recognition cameras are watching YOU more than ever right across Britain"
     excerpt: "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ..."
     publishedDateTime: 2020-02-01T22:33:00Z
@@ -1464,6 +1438,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "AE+Odk5j+3+zFBfQvg7KmJJslrNDXI/OyVpwfg9qHQH/WFwp/Z0DVT78BOv4X4dbm+PEci3xDU6tqDPuIS05hze2ZgFvawfPaxOfNmCaFFEDAOiCU9M90M2LQUIVJhm672cjBjizDwV25Yhv97h6CHTuIhxUpgpJ3vpRWhdij7vnPd4Kn1aIeVPm3OhCAs1I/jF16f4iiiIPdSWhkOYmVIptNOFMoAwAQyxAsgmyppWNXKN8cyy6z/SQ8mQ6BMbtCP17ZLXGhYWaKoLbC31cNfS9D+6tpG7FRP1xihNZ81OIuI0ExgYRnSdyD4WxcXuV;WijnaUX9zSefcCbknway2A=="
+secured: "Plrlj0Kh11qEgtTYQnb5sRpc7a4FlRbN1c8TKDsEq8yriljSK3DGaujhBF91wW8ZyNwFk2E5pJnZnWvJ2yEnakEJiPbz/2/LCwyUF8SNpSQ/FSv/6ew1NH94QVxe3TVp/cCl0ygo6SIZMRnBvy6NzXRpKNLc72S7ZnpazNxIh16jDJ/D6XIGaenXoWxgIw4e0g07vbSCLi09yGdZk6IaYTpWKT7VVOSw8hQONUcCH7ydTBiY/3P+S5ZfA0sD9fqKmofDysmTm9yAAsFyFv7jFHgdRvV/mTpPUD/2ChutVgZ2j+BA8Ro7M4zSf2RYa2Vq;C2db2DW0RVksvt0ovwLTVg=="
 ---
 

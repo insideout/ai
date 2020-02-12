@@ -27,20 +27,7 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Army is finding ways to thwart hackers using images to mess with object recognition"
-    excerpt: "Teaching a computer to categorize things like a human is no easy task, it’s harder though when an adversary is messing with the data. The Army wants to use facial and object recognition software to speed up its decision making and bring analyzed data to the warfighter so they can make informed, split-second decisions. The problem is that ..."
-    publishedDateTime: 2020-01-28T22:30:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2020/01/army-is-finding-ways-to-thwart-hackers-using-images-to-mess-with-object-recognition/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 33
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2018/10/military-cyber-talent-e1580247727182.jpg"
-        width: 1200
-        height: 798
 
-secured: "rvCm7QjT9EnQX+a5tDjw987fYQLrO3tF4yfppvH6yq0xiGk1KE0SVw8x1A121oMlAETFpbmweKPgwfrcU9ROYkM07d3u2MPfuasj93PYx9vl/ZmoYJe2BeOtg3y0O6RpE0iJ5Ke0/ULgdIv/2OhygjkPlAcVohEZ8TDmWbG1U0wbdJbKhakZ10jkftdvwlK3AtcadbJmMLRvng8JfnlfVXQKeVtn0ToT5GYGkFpRpX/AgatRv+VQGI4S0lfOcGUJb7Gifk+dFJ6vdfjTKNnzGpNbrKGOexhmgOO49ign1xmKGuaLwTxZHtM/J2VMZiPr;dk0kIO6ytK7Qwrz76VmyUg=="
+secured: "i4p4AzVhyRE9CJOa7wlcqJnSBgxrjBQmVkkPd+guzvalNcXQyBdixEpm7XtvICo4l/9cbdr0wOpSvq9/YPfCid9t3P14/V4xDUyqlPtwDRGmPxBNvKHjxDLieXk9AxJLzXdy+lcZ/5LeZ0j5S07O2amD5gSqlS5Vx0fzSYYyTGWccu1x85nu4rWVJhmhM0RPmMsNLgl+hhxtm0fzCWLDn4eWHxggbfjpVhkbKRv3aqo1m03V9A4AHbYZ8KTHE8Thhfh4o5LJK3oIYbUnRGOcHz8rPkEVSWOuqBMbW86T3zGRrbllXOX/lrQ3wqd+DFZy;gUSS/xNa/yISVhNRluXczA=="
 ---
 
