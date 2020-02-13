@@ -25,6 +25,6 @@ images:
     height: 630
     title: "Amazon-made Rekognition software now able to detect fear"
 
-secured: "tMfoK5FOGsbrd40UW1pEBrV2VyTtIi3UVEwA3jXNpIY0Ibt/SHn7WTqxUDTtAhjbb5YuOB0GROaACecBldj/GTktGF14vqy+LK8yOxucA+BR7XYKU/cxQB4VMy/Sr7o6rFQhBBSIFQmJwpZLBYsYudPT01pT7rYHXgClI0y6DX+hV/4/yD85UNZHa5PuXcEiFpQ/iFM0EnXRoGAcL1o8VZO1zXgAC4/PszrEf2Wa2Bijfog7qbY0uxKALX4peS/WYkQZSRnKdbjxWGB/TmKVWxputTaHGJf4kgm70ji1Y56yqtYLaRXb1WDwkQGWMPz1;FpjlaA7PgIcDLfMBze2Ypg=="
+secured: "khUiwPx6dK8BxueSRy8Bja03MjmO3hATFUdPvXPMW7Wh1pfkiaNLSTGt3IXaxWJGh4cJTlL6CdplvxHrSKsJR9yj0zl6YlAGfdw3TQWqkb4/UUdJlB1hBY0Ne2wsynGgy5B3dtZU1ZqPLj+mYySBIo58HaIMiypmyG7n9kF4AdDWYV+xVl+tOFKc8P6WeHxnCJAmeQmbGINjL8tiAPZNlrmpx4YHPtqEPji3ruVz82/IKoiNpMb7HT5Q5qQgO4nbaHWaaifytS4CEUzeRAXRlI5xvJ+DcgMGh47GQpiw5p74aSMi4grOfbiB8nxaNStS;QEsdWfL41Nh3z9qpKHb7gg=="
 ---
 

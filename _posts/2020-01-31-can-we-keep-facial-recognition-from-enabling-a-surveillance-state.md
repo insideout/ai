@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recogniti
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
+    excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
+    publishedDateTime: 2020-02-04T11:36:00Z
+    webUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/"
+    ampWebUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 62
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 640
   - title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
     excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
     publishedDateTime: 2020-01-31T15:00:00Z

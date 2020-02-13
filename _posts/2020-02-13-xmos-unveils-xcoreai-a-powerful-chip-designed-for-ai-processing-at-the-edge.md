@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
 type: article
 quality: 105
-heat: 145
+heat: 146
 published: true
 
 provider:
@@ -79,6 +79,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "hi2M9epfXzvIkagrsKDfvCz4NeZKZFn0LJDEMAZAJHET3+ncrbKUYTPthZM34ubNRCNYOCgZCN1pHAlTwmQrheH4h3OMFEXqbjQ3uLY0p/3iLsSWHBt3nTH9WHtjk+gywe4qUHjNdRrh7ulKe0Mg5uMfV/SRrHdZlv9cZwHo/vCCkOV2pZT9G6RGM1jeHTQ2UsZNiem6bqgKdVqsTr7USvdfSd5HvTxzIaF0TVKuUxPe4U38+hdl3dTym/t1YbQ6lGNnuEhUOy9Eih3iFvVffZ/xwfNvXz+Hm+t49bWzCFMi3IGLcuPF2z9Wg2qjbDNX;jDXH/puVFFcDlkKD6ELsiA=="
+secured: "aBuWZSoSX+pMXMB1YVeiUiILJcRs/9yrh/mC8o1sS0jOQODvipFfaPZ+TRsXMSIxzh3+2pzOjmTQYdHLmtkalLnUvCpwTrGmJCFAX2ELrmvJajXn+RnQAWBux2PFGljgtZfHWZXTiM0dVB6J2tQLr0+KMLF9XCKwkDcfiYFzLqYVvCxAlZFTzX0gFbjzQxEZE1xh62LZ83li4G+K7JvIq4pbBWyqIs4YPIUi8yV5DzhzhOBBJvIpU/FLBCpIluX2bHZKntIsSVPo+T7ZT+MmYLawHNy5CYCA56+R1bmH3aLX6a8h6k96pyM4wN94Vr6r;KPG0zQKG86NgTXiAJcCHaQ=="
 ---
 

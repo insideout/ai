@@ -39,6 +39,17 @@ related:
       - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
         width: 1440
         height: 810
+  - title: "Facial recognition scanners at US airports under more scrutiny"
+    excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
+    publishedDateTime: 2020-02-03T23:58:00Z
+    webUrl: "https://www.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+    ampWebUrl: "https://amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 54
   - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
     excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
     publishedDateTime: 2020-02-09T07:00:00Z

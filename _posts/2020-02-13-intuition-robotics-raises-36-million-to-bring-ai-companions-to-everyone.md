@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-mill
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/"
 type: article
 quality: 118
-heat: 138
+heat: 139
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         width: 1200
         height: 600
 
-secured: "D00YwTiTmIUh+xwb4nNECOonk/CWnAVdLBrd3R7MB7swjOmbrZbn5HdGUBvq1hr2b4tHetiGa6DgMA9LEwsxXK7niHGb6zxXQie+HlcYSjHjtI3kxDHYxVTcaM7Nb41p5YSsnDjx9M7Up3jHrIedobpRiYF9RFfQg/cSWlHlRZR/OUfATLUixoV7zLGhD+k8mydH5qIX4AckMhsv1B6lbibBIE5igOtw7UTbyMswDHmr6kmIXndt1FTlD9d5s2WJ44mx337OC3gA8JLz2eQTQzymSmYin3lv1RCdXtuBGs/9CRod6ruh5FUuV3mAE+x1Ers5YgG3lR9skSBTow3kG1tjSdTu7bOABNPXR8CoxezX3UxijBX5sRqxlnEu02HtsO7c7+fSZDn8rKCfHEfIjiRCoAsHZWYtcadHKRRdjT/JoP80dGpaYyfopOKI0IJGu028uv7FOqA0wRAl8r/x30PPTrMR0l1QHjkIrZwjufA=;/PNujMrrpMx7XZQASXt9+Q=="
+secured: "tYschfJs4Wc1WwOdnkGV4qzO+MuOtGGGNvoHSzGRDDNamnZGSJILCaoOwavPPqEZSry767+Ex3TsFkPw3I563etUmSXNF0YJGHuzZi+90EJJH31xh1ZoxJlEwT1bI2+N1A91S2vGLbOvu6u1aTNcdQyCrt76Eq87An8DYhd+f0LlUmHtZQ9ptc+BUKBbZ9RLLTkTjsnhDBEiho4bAcb/KTXLv21iR0FrfBmeNLwIHgJZNaKFdUJ6dXEgFnhpKDWGdYgtSjnSVgcIE6tCk68eVs55R+XHoh21vIQlHiIZ2xjbUPgcYogKy7n3oL6FGSW36zQtpYBtK2r6jkhAuJmB2DIAVa7AnAetN3cx6L60XUlemDxeBaqBVsbJs95CQhhKsKxQGHwbnHJtdqTcUfrZz/ONo/HSmff8QbZq9KLrcsy8vm3+z5qUeezAydScZV0QBU9PQaUtSru1v4eFE1O7eylB8cDI/ovC/PjhFD5L/TE=;gSw+0QHib94yVKlujx6wtw=="
 ---
 

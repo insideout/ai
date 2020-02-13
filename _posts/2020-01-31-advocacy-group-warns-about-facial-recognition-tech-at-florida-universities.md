@@ -50,6 +50,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
+    excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
+    publishedDateTime: 2020-02-04T11:36:00Z
+    webUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/"
+    ampWebUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 62
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 640
 
 secured: "MjwqSxBjJxnxhRjPw2hJA7ck1GCWZgtEaKvjBYGxgkZidluyHSueMpXux/y3e6rnGO1eIZcmfXvZwCiXvTFby3RukM60gAaIrlzTRmsbjmyiMY3HlS+yG8dUtFqzcooyj98cjAKLAbWLJcfZRcN7/1gspm/rIkpb1rhHpASX+pvmvpZqY657ylI4E4D/KMW0+agdQ7b/cKll4YUfPtqN5vKXgpvAYO5+FOpgjGVxLCRWvipi8yEtvGnUPEx1nFhZqKmoam/P2+KW5j8liW7hlRPBPDPr227BQS2JRF1k5KlakbHAXGvVNOJ7RxNzriDQsth6dAuxybX+Z2jaO2XH7LQLDLDdvnEAvMAcGdKQBV979wj+sDumO6pmb+D5kuIbAWdt1+ffGJzmIME6p39zEUEHnCgKAAYpuJGqdaoQFfR8hjW5enBldPEPBwH+z2GKH0KJ369g+uM6hCXBTuI10SjkrbXlabkPfanT7KhIABc=;s69ZBXWvmOIRngtSJWorSg=="
 ---

@@ -97,6 +97,19 @@ related:
       - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2020/01/Uber-ATG-self-driving-cars.jpg"
         width: 680
         height: 453
+  - title: "Autonomous and Self-Driving Vehicle News"
+    excerpt: "As a member of the Consortium, Synopsys will actively contribute to the development of a set of recommendations for system architectures and computing platforms that will be used to address the challenges of deploying self-driving vehicles at scale. Waymo announced it will be driving its Chrysler Pacificas and long-haul trucks in Texas and New ..."
+    publishedDateTime: 2020-02-03T02:18:00Z
+    webUrl: "https://www.autoconnectedcar.com/2020/02/autonomous-and-self-driving-vehicle-news/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
+        width: 640
+        height: 300
 
 secured: "j3RXTLDJvQkS0FvgKv7aoctXtLACalpe8PDvZddvBikoPot6x3x4P7uYjmg/djjle+MkTayOyxt9rjkT4ctZZ3/4FxsZEpVMgwPPAVRWWiiOOlJy6RM907BaGQAXc8MixKKFrGzYKECbC7yd2NyAr+bLvVu+4YlE+LIYGszgCLjB9zsl4zASVYRLmzCY4glyLk/w+OC1H+EcQEJUcwaXmrhUAdWTBAFIpchEPFmpg+IRuo5HEOb68MR0rFkcfngt+pV39rKIBmYi0UPTWr81QCWs/7ubFgYVInFekqivWeAgzCq74shtD3IRYBokXD6A;B27Cnqs/UgL0sW85p8iuUQ=="
 ---

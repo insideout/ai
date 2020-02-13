@@ -2,132 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-11-the-white-house-wants-to-spend-hundreds-of-millions-more-on-ai-research.md",
-      "title": "The White House wants to spend hundreds of millions more on AI research",
-      "excerpt": "The news: The White House is pumping hundreds of millions more dollars into artificial intelligence research. In budget plans announced on Monday, the administration bumped funding for AI research at the Defense Advanced Research Projects Agency (DARPA) from $50 million to $249 million and at the National Science Foundation from $500 million ...",
-      "heat": 177,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/f/615174/the-white-house-will-spend-hundreds-of-millions-more-on-ai-research/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688",
-          "width": 1200,
-          "height": 675,
-          "title": "The White House wants to spend hundreds of millions more on AI research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes.md",
-      "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-      "excerpt": "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience.",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "publishedDateTime": "2020-02-10T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-to-protect-people-we-need-a-different-type-of-machine-learning.md",
-      "title": "To protect people, we need a different type of machine learning",
-      "excerpt": "But these measures haven’t solved the biggest security problem — an organization’s own people. Traditional machine learning methods that are used to detect threats at the machine layer aren’t equipped to account for the complexities of human relationships and behaviors across businesses over time. There is no concept of “state ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/amp/",
-      "publishedDateTime": "2020-02-11T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/7-ML-learning.jpg?fit=2160%2C1078&strip=all",
-          "width": 2160,
-          "height": 1078,
-          "title": "To protect people, we need a different type of machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-unpacking-the-differences-between-automation-and-ai-in-the-enterprise.md",
       "title": "Unpacking The Differences Between Automation And AI In The Enterprise",
       "excerpt": "As enterprises strategize the incorporation of automation and AI-driven applications in their technology ecosystems, it’s critical to clarify the distinctions and understand the unique role each technology plays in digital transformation initiatives.",
@@ -616,7 +490,7 @@
       "path": "_posts/2020-02-12-deep-learning-with-spiking-networks-optimising-energy-consumption.md",
       "title": "Deep Learning with Spiking Networks: Optimising Energy Consumption",
       "excerpt": "There are several important differences between what is nowadays known as a “neural network” (in the deep learning sense) and networks of neurons in the brain. A particularly evident one is that artificial networks have analogue activations — the output of an artificial neuron is a continuous number. Biological neurons, conversely ...",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://medium.com/@martino.sorbaro/deep-learning-with-spiking-networks-optimising-energy-consumption-50588b4435fd",
@@ -1256,6 +1130,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-13-ai-in-telecommunication-market-outlook-big-expectations-to-watch-for.md",
+      "title": "AI in Telecommunication Market Outlook: Big Expectations to Watch For",
+      "excerpt": "The Latest research study released by HTF MI \"Global AI in Telecommunication Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-outlook-big-expectations-to-watch-for-2020-02-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Telecommunication Market Outlook: Big Expectations to Watch For",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
       "title": "Esteban Granero aiming to bring artificial intelligence into football",
       "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
@@ -1385,7 +1304,7 @@
       "path": "_posts/2020-02-13-intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone.md",
       "title": "Intuition Robotics raises $36 million to bring AI companions to everyone",
       "excerpt": "Israeli robotics startup Intuition Robotics has raised $36 million in a series B round of funding co-led by Sparx Group and OurCrowd, with participation from Samsung Next, Toyota AI Ventures, Bloomberg Beta, iRobot, Sompo Holdings, Union Tech Ventures, Happiness Capital, and Capital Point. Founded in 2015, Intuition Robotics is creating what ...",
-      "heat": 138,
+      "heat": 139,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/",
@@ -1516,6 +1435,52 @@
       ]
     },
     {
+      "path": "_posts/2020-02-13-sony-envisions-an-ai-fueled-world-from-kitchen-bots-to-games.md",
+      "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
+      "excerpt": "“I told him it started five minutes ago!” he says with a laugh. Such was the state of AI and robotics at the time. It took a machine minutes to interpret its situation and work out what to do next. But much has changed, with AI increasingly helping machines, from self-driving cars to surveillance cameras, perceive and behave in clever way",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/",
+      "ampWebUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
+      "publishedDateTime": "2020-02-13T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e44656433fa920008cbf86d/master/pass/Biz-sonydogs-1145503656.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-13-stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all.md",
       "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
       "excerpt": "Also: AI on steroids: Much bigger neural nets to come with new hardware ... \"I have a heard time believing that my laptop has subjective experience,\" he said, even though it gets more intelligent all the time with faster chips and better software. Still, one has to \"concede it's possible that suitably programmed computers could have ...",
@@ -1565,7 +1530,7 @@
       "path": "_posts/2020-02-13-the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond.md",
       "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
       "excerpt": "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market.",
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/",
@@ -1655,7 +1620,7 @@
       "path": "_posts/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
       "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
       "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
-      "heat": 145,
+      "heat": 146,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/",
@@ -2126,6 +2091,51 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-18-how-the-driverless-vehicles-dilemma-highlights-wider-system-safety-issues.md",
+      "title": "How the driverless vehicles dilemma highlights wider system safety issues",
+      "excerpt": "Artificial intelligence (AI) is already playing a significant part ... This question of bias is a crucial one when considering system safety issues. Our theoretical driverless vehicle needs to know how to value individuals in its “save or sacrifice ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
+      "publishedDateTime": "2019-12-17T22:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1576169739/itpro/2019/12/AI_Ethics_good_vs_bad.jpg",
+          "width": 6222,
+          "height": 3500,
+          "title": "How the driverless vehicles dilemma highlights wider system safety issues",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "AI In Education Market 2020 Strategic Assessment - Google, IBM, Pearson, Microsoft, AWS, Nuance Communications, Cognizant"
-    excerpt: "The AI In Education Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
-    publishedDateTime: 2020-02-10T06:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-2020-strategic-assessment---google-ibm-pearson-microsoft-aws-nuance-communications-cognizant-2020-02-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Deep Learning Industry"
     excerpt: "/PRNewswire/ -- Deep Learning market worldwide is projected to grow by US$31 Billion, driven by a compounded growth of 41%.Hardware, one of the"
     publishedDateTime: 2020-02-07T14:00:00Z

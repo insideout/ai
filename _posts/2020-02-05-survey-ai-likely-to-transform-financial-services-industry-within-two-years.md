@@ -63,21 +63,6 @@ related:
       - url: "https://www.accesswire.com/users/newswire/images/575714/devs-data.png"
         width: 550
         height: 370
-  - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
-    excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
-    publishedDateTime: 2020-02-06T20:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 16
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Paris-France-Eiffel-Tower-300x300.jpeg"
-        width: 300
-        height: 300
 
 secured: "vDjtD0WcBRcD02DY8gSC3TbJ88h8HJPGvxtTyTIRr0hviFNxjd+naCy9nVh4H6HHsHmvs/ZdhzmW/KEo0jllsdfh6wQFJfYoUaip0W76xjS5wtymcEstir/ACdnrSDztv+CkNWOaEDAXEWlqwX7Hk2HZh6o0Kx33GSWqGXygZR6ySMsdApVskujanms9yWO73fmdCmJP7NfCVny7hq/hGI30yNnYPuYGEBnTfr6CluvVX/hHkfBJHlEUmJu9Jhn8RK2N1A6yykMrWJ2ssUn5RhCp0E7FzK1Of8gzmKexNDjVd9MYGK1Y+TtWszo11a+XaILtsKjbpDAKasfcLDkuHo9dl9k19FXoP8sXurpOR3xmorjjjGMJ4wZjixO9M2hsyxKMazXT9uxOGk2PqGZSdo0D4A8/w+CcAx2TCP95BAXzOo2fTY7iyb8xmohnlghLO0j/AB/9wjDzWCt4pHbh1C/Rn21pxTbgTskTnNhzOuM=;D8w+FowgQK8c2CvUYjvj7A=="
 ---

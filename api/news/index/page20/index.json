@@ -2,52 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-29-artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis.md",
-      "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
-      "excerpt": "New York, January 29, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
-      "heat": 353,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-29",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-29-assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations.md",
       "title": "Assessing Google CEO Sundar Pichai's call for fair AI regulations",
       "excerpt": "Google CEO Sundar Pichai and other AI researchers say limited regulation is needed to protect people from irresponsible use cases. Google CEO Sundar Pichai and other executives working on artificial intelligence are now calling for limited government regulation as the European Union mulls potential five-year bans of facial recognition software.",
@@ -350,6 +304,43 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-food-delivery-robots-roll-onto-ole-miss-campus.md",
+      "title": "Food delivery robots roll onto Ole Miss campus",
+      "excerpt": "OXFORD, Miss. — Artificial intelligence has arrived at Ole Miss in the form of food delivery robots. Thirty new robots have been roaming campus for a week, dropping off snacks, meals and drinks. It’s been exactly one week since Ole Miss launched 30 Starship delivery robots. They line up outside the student union, are packed with food and ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/",
+      "ampWebUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
+      "cdnAmpWebUrl": "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
+      "publishedDateTime": "2020-01-29T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WREG",
+        "domain": "wreg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://localtvwreg.files.wordpress.com/2020/01/fooddelivery.jpeg?quality=85&strip=all&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Food delivery robots roll onto Ole Miss campus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1107,6 +1098,95 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-report-after-acquisition-apple-nixed-xnorais-work-on-pentagons-project-maven.md",
+      "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
+      "excerpt": "The Information reports that Seattle-based Xnor.ai played a role in the Pentagon’s controversial Project Maven, but that Apple ended Xnor.ai’s involvement in the project after acquiring the startup. Love space and science? Sign up for our GeekWire Space & Science email newsletter for top headlines from Alan Boyle, GeekWire’s aerospace ...",
+      "heat": 222,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/",
+      "ampWebUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
+      "publishedDateTime": "2020-01-29T15:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/02/team_picture-630x362.png",
+          "width": 630,
+          "height": 362,
+          "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-rich-countries-should-invest-in-latam-to-create-ai-talent.md",
+      "title": "Rich countries should invest in LatAm to create AI talent",
+      "excerpt": "Uruguay, the second best-prepared country on the Insead ranking, has launched its public consultation on AI in April 2019 and spent the whole year working on the plan, which is just about ready. The report also mentions Chile's plan to address the infrastructure, priority areas and ethics, standards and regulations around AI. On Brazil ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
+      "publishedDateTime": "2020-01-29T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/09/25/f2e8efdb-8c6c-4884-a8eb-4a1d5b6e2b3c/thumbnail/1200x675/7f2125eac9be0743c7a93613eb1919e4/istock-919118256.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Rich countries should invest in LatAm to create AI talent",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {

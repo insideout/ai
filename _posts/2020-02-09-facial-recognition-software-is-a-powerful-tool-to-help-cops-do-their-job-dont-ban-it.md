@@ -41,6 +41,17 @@ related:
       - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
         width: 1440
         height: 810
+  - title: "Facial recognition scanners at US airports under more scrutiny"
+    excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
+    publishedDateTime: 2020-02-03T23:58:00Z
+    webUrl: "https://www.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+    ampWebUrl: "https://amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 54
   - title: "Facial Recognition Comedy bridges storytelling, social commentary at SF’s Cafe du Nord"
     excerpt: "On Friday, comedy collective Facial Recognition Comedy took the stage at Cafe du Nord in San Francisco as part of the lineup for the 19th Annual SF Sketchfest. Despite the group’s fairly recent rise to prominence in the comedy world, with a nationally ..."
     publishedDateTime: 2020-01-30T14:00:00Z

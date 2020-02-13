@@ -105,14 +105,18 @@ related:
         width: 1000
         height: 525
   - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
-    excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary ..."
-    publishedDateTime: 2020-02-11T15:26:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/"
+    excerpt: "former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary computing, and Steve DeRose, a renowned expert in natural language processing, computational linguistics, and standards related to document processing. The company’s business ..."
+    publishedDateTime: 2020-02-11T15:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200211005446/en/Docugami-Announces-10-Million-Seed-Funding-Led"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
+    images:
+      - url: "https://mms.businesswire.com/media/20200211005446/en/772660/23/Docugami_Team_Offsite_February_2020.jpg"
+        width: 1200
+        height: 627
 
 secured: "BW2Fg0Qh71jAQ0qao0pjlo/BOUnkyCxIHloSCm2Z//y8/RI7v2+EHKXv1D1CEg3jM6EtvlqC7AVMmbgErySg99Osi2tQ9O1+lzY840lbFUHFf2O1JaLqoxAi3grcYqL4S0HOo5Fd2osCPBqykGdpZOvjgOpbRC39HzLLMopMl6vatbxUbqGY1Pljsd2zVG3wMjhbH0XamKMu5tPiGPwlzBgXAFq7flBVJJsY/8snCZlTCeEh7G8BJkLnp0saFnX9dZnMpwvKsI+giq4U3be88wDIfedRaMPvuqeyhFw+T1BCiWpLpMmtwDie2Hw71B0eomMl4KRDMklIwv8OBCYQG8jCEkjX8z8k18T7eN4GcV/9g98/FV8cgNQICJDNaqZmsyTo7u5enhon/5ldnNJfEgzsKbcCCwr8t8HrQaw/rdmZ9XEm9dNnu9TZjxk3E9+Nx224NDJ6q6sSWiIkajiBYti/hke2WuWw2/Gz5nwuZ2I=;eYzrApG42DvhKNnu189Idg=="
 ---

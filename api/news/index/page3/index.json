@@ -2,94 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-04-benchsci-raises-22-million-for-ai-powered-drug-discovery-tools.md",
-      "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
-      "excerpt": "Assessing the health of pharmaceutical R&D by unearthing hidden patterns in procurement data is a task made simpler by AI. At least, that’s the pitch given by David Qixiang Chen, Elvis Wianda, Liran Belenzon, and Tom Leung, who cofounded BenchSci in 2015. The Toronto, Canada-based biotech company taps AI to run experiments that accelerate ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
-      "publishedDateTime": "2020-02-04T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/products-screenshot-min-e1580583276382.png?fit=1258%2C600&strip=all",
-          "width": 1258,
-          "height": 600,
-          "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-blackpool-pothole-fixing-artificial-intelligence-saves-1m.md",
-      "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
-      "excerpt": "An innovative pilot scheme using artificial intelligence to assess potholes has saved more than £1m of taxpayers' cash, a council has said. Blackpool Council said it was the first local authority to use AI technology to detect damage to roads. It uses satellite images to inspect roads in seconds rather than sending engineers, and was trialled ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/uk-england-lancashire-51356855",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-england-lancashire-51356855",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-england-lancashire-51356855",
-      "publishedDateTime": "2020-02-03T16:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2BF7/production/_110755211_pothole.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-camcon-explores-diesel-and-ai-calibration-for-its-digital-valve-train.md",
       "title": "Camcon explores diesel and AI calibration for its digital valve train",
       "excerpt": "The company is working in three directions to push things forward: it's building plug and play valve train kits for a range of common single-cylinder research engines, it's opening up to the heavy-duty diesel (HDD) market, and it's assembling a machine learning team to start applying artificial intelligence to the complex task of calibrating ...",
@@ -591,43 +503,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management.md",
-      "title": "Policy Implications of Artificial Intelligence and Machine Learning in Diabetes Management.",
-      "excerpt": "Machine learning (ML) is increasingly being studied for the screening, diagnosis, and management of diabetes and its complications. Although various models of ML have been developed, most have not led to practical solutions for real-world problems. There has been a disconnect between ML developers, regulatory bodies, health services researchers ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.physiciansweekly.com/policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management/",
-      "ampWebUrl": "https://www.physiciansweekly.com/policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management/amp/",
-      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management/amp/",
-      "publishedDateTime": "2020-02-04T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Policy Implications of Artificial Intelligence and Machine Learning in Diabetes Management.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1819,7 +1694,7 @@
       "path": "_posts/2020-02-05-waymos-self-driving-car-workers-reportedly-complain-about-finding-leftover-needles-in-the-vehicles-and-a-cut-to-their-benefits.md",
       "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
       "excerpt": "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\"",
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2",
@@ -2092,6 +1967,139 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-amazon-researchers-distill-knowledge-from-a-large-ai-model-to-a-simplified-version.md",
+      "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
+      "excerpt": "In AI and machine learning systems, knowledge is typically distilled by training a small model — a student — to mimic a large and cumbersome model — a teacher. The idea is to compress the teacher’s knowledge by using its outputs as labels to optimize the student, but there’s no guarantee knowledge will be transferred to the student ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/amp/",
+      "publishedDateTime": "2020-02-06T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-artificial-intelligence-tool-created-to-predict-the-structure-of-the-universe-and-unlock-the-mysteries-of-dark-energy.md",
+      "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
+      "excerpt": "The AI tool could play a role in studying the nature of dark energy and dark matter, which seems to make up a large amount of the universe but remains an enigma, researchers said.",
+      "heat": 174,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033",
+      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
+      "publishedDateTime": "2020-02-06T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1565487/milky-ways-galactic-centre.jpg",
+          "width": 2500,
+          "height": 1679,
+          "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-capturing-and-validating-alphanumeric-identifiers-in-amazon-lex.md",
+      "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
+      "excerpt": "Enterprises often rely on unique identifiers to look up information on accounts or events. For example, airlines use confirmation codes to locate itineraries, and insurance companies use policy IDs to retrieve policy details. In customer support, these identifiers are the first level of information necessary",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/capturing-and-validating-alphanumeric-identifiers-in-amazon-lex/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T15:40:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/04/alphanumeric-lex-1.gif",
+          "width": 800,
+          "height": 605,
+          "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

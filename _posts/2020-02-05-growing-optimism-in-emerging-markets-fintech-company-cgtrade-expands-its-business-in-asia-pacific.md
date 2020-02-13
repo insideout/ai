@@ -86,7 +86,7 @@ related:
     provider:
       name: Hypebeast
       domain: hypebeast.com
-    quality: 31
+    quality: 33
 
 secured: "h3V5lyPQF8CUS5WbxFHrAx/LtgQKFLI8azxxqOigqueaJFLjtq4fErxCZNdli2v4F9YIl+xsdjQkzBOsooRdbuQF4pawZtUVMuJyuz2W7uirPVcimRjA9OZe3daFFgfbIzQvnzkc+R5ipck4bU2pBRE49DUS8Ylv0Tyx8Bfkd0LVd4kefwI2JYyqhWqKU+OQUa8/MEs7uxodO/rXcQmPxm0O/j1ajL8LqnBCRW9h7ACNW26UGy4do1gkG/+6Dg6ryjGVQ3jvE0Al3k2L2kGCH46Feo9Bs858KmzYfS/xEMtRLMPHrqB0XbxWu3mRZ1TE;h8dB8ougYC0CZ//CFZTcvA=="
 ---

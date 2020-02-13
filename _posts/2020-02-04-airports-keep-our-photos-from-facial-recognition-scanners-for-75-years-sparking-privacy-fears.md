@@ -26,32 +26,45 @@ images:
     title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
 
 related:
-  - title: "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program"
-    excerpt: "PHILADELPHIA – A growing number of airports across the U.S. are using facial recognition scanners. Philadelphia International Airport (PHL) is the latest to roll out the technology. “So, this is an electronic way, basically, to verify identity,” said Jeni Best, a branch manager with U.S. Customs and Border Protection (CBP). At PHL ..."
-    publishedDateTime: 2020-01-29T22:10:00Z
-    webUrl: "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny"
-    ampWebUrl: "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp"
+  - title: "Can we keep facial recognition from enabling a surveillance state?"
+    excerpt: "Researchers have been pursuing facial recognition technologies since the 1960s but its only been in the last few years that these systems have become so alarmingly capable. Neural networks able to match faces across thousands of features with better than 98 percent accuracy as well as an explosion of available training data sets have fueled the ..."
+    publishedDateTime: 2020-01-31T16:30:00Z
+    webUrl: "https://www.engadget.com/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 91
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg"
+      - url: "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png"
         width: 1280
         height: 720
-  - title: "Facial recognition scanners at US airports under more scrutiny"
-    excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
-    publishedDateTime: 2020-02-03T23:58:00Z
-    webUrl: "https://www.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    ampWebUrl: "https://amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+  - title: "Facial Recognition Sparks Warning From EU Privacy Panel"
+    excerpt: "European Union data protection authorities sounded the alarm over the unfettered use of biometric data and controversial facial-recognition technology, urging companies and agencies to consider “less intrusive” tools."
+    publishedDateTime: 2020-01-30T17:23:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-30/facial-recognition-sparks-warning-from-eu-privacy-panel"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-30/facial-recognition-sparks-warning-from-eu-privacy-panel"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-30/facial-recognition-sparks-warning-from-eu-privacy-panel"
     type: article
     provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 54
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+  - title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
+    excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
+    publishedDateTime: 2020-01-31T15:00:00Z
+    webUrl: "https://www.miaminewtimes.com/news/fight-for-the-future-warns-about-facial-recognition-on-florida-college-campuses-11473208"
+    type: article
+    provider:
+      name: Miami New Times
+      domain: miaminewtimes.com
+    quality: 22
+    images:
+      - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
+        width: 3135
+        height: 2008
 
 secured: "3TIB4nZFP6Kedf8t0eVPKh6+nbYoJ0UBcgyFnynCY4tfmP1IdICOhnlnTzUfqUJrhepdnAl9xkIftWmlSZPTz/US+FMwFJ19IA0gMjJuvZ3Yj+NOCqdCZjcQbq91DDYg+ifpxiyNzs7iCumi6o+oeqkxh9YuuddFHSCe7eprZ00yQ6orcuZotX1aCCUMqDpKmiIUDMuAuM4zqQkqGUvfchOVyY0jLXZaOXwXhJJytVtbSyKRmmKBX736AnIds4cudNiqRljkgtcyNUezXrtePNWMhhO8Q5Ml0Cbgd0ogYNHz1eB6zGQ8i48m6GApCTzTvQgEfRyGVRHbTEFoWAg4dO3ghbTXwjoUZBd7yoWJFb3e33Uo272fkHQ4GoxgClQ2PZVQ2X+oiflQbMc/SxA+mNj1i1c1zmAHyXp8DBaV/3R5o7+/huKCXCIYOJ2on/NWt02NfQQD4O4BDZ4BaSR7CxydnKvcBG7G5vBK5wcgiyg=;Z+MdI5k+7wKcb5HNOmCjhw=="
 ---

@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-excerpt: "The “2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report” report has been added to ResearchAndMarkets.com’s offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually, this report provides a ..."
-publishedDateTime: 2020-02-12T10:20:00Z
-webUrl: "https://apnews.com/Business Wire/a7905aef81874a06976be4dbb4f6fd81"
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually ..."
+publishedDateTime: 2020-02-12T10:12:00Z
+webUrl: "https://www.businesswire.com/news/home/20200212005347/en/Global-Forecast-Artificial-Intelligence-AI-Robots-2021"
 type: article
-quality: 21
-heat: -1
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200212005347/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
     title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
 
 related:
@@ -49,6 +50,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200212005352/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+  - title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Banking, Financial Services, and Insurance industry vertical to hold the largest market ... With the help of data science platform, companies can train machine learning models on thousands of customer profiles with hundreds of data entries for each customer. North America to hold the largest market size during the forecast period ..."
+    publishedDateTime: 2020-02-12T15:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/12/9096953.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "2020 Report on Computer Vision: Thematic Research - Key Trends Impacting Growth Over the Next 12 to 24 Months - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision - Thematic Research\" report has been added to ResearchAndMarkets.com's offering. CV will find myriad applications in several industries, reaching an estimated market size of $28bn by 2030, up from $3.5bn in 2019, according to the publisher forecasts. The explosion in the volume of visual data ..."
     publishedDateTime: 2020-02-13T10:29:00Z
@@ -63,6 +77,6 @@ related:
         width: 1200
         height: 627
 
-secured: "PYs2OC7wdy/cmYbrHzatQfbFPYyYi30Zslou4mEWO7kkDPHJ7m5cGF18kNi2VMSLLHPq5tWGHwt591Wc9UlLq/DwuLzbSLwSPFWMneNdj+lng2mXFVfgegPqnyShTATvj+Tn90F4ZY2hdrNUe9Sgg4V63HVbhEen5SbpF7WCPZF39ESx0RUcsKaZ0kIAj132L8S1f/jTWoTb0mb36JCfK2ekZAxeptpIt8bCPX4+pNiiaW7wjKT39WIH3nKhIjuxgl65ODAyyIIY0qdO/V8wgysM3QakODbP/puNBYCnFXIP6hEYiH1LDCDJwzKfm+bK;vnKM12Hjxooz+XS0fq6x1Q=="
+secured: "n732pTa7usEUO6+NOEULqFynpA7vOei1a+aY3inZmPVAfwnzrQDVq+C9FjjkHJ5RxpG0BmAOZcLZzDUW7mh07rAcf0v6bdW+6UU5k8c/7ba6FdYDPrNvYrG8hoFoGB7dKk8xT/J3/sXohHQ1XJdRYH2P4t34BDuyTAzQ6dZAYZ3v3hbzdu4pdDj+Mcenh+uxJ8QBcjqYqoo69UGhdJGffDRQgsDVtxiYWS+TlI6e0NHR/JUwHKyvGpPRqcfMgI5UJWgRZCHfhpmRNBf+de3ec2GXcV7EZ6V+1mPczhcWhDlp3ug9KyZs1dfaGfLly/k+;dBJfbiG1ohOkGNtT447KUA=="
 ---
 

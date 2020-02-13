@@ -65,19 +65,6 @@ related:
       - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
         width: 1920
         height: 1080
-  - title: "International Emotion Recognition Market to Double by 2024"
-    excerpt: "The emotion recognition market includes both voice and facial recognition technologies, in addition to biosensors that can track other physiological markers. Of those, biosensors made up the biggest portion of the market in 2019, though voice recognition is expected to fuel much of the growth moving forward. According to MarketsandMarkets ..."
-    publishedDateTime: 2020-02-07T17:07:00Z
-    webUrl: "https://mobileidworld.com/biometrics-news-international-emotion-recognition-market-to-double-by-2024/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/chart.jpeg"
-        width: 400
-        height: 295
   - title: "Rules eased for self-driving vehicle"
     excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
     publishedDateTime: 2020-02-07T06:44:00Z

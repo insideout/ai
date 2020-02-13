@@ -76,7 +76,7 @@ related:
     provider:
       name: Hypebeast
       domain: hypebeast.com
-    quality: 31
+    quality: 33
   - title: "Growing Optimism in Emerging Markets, Fintech Company CGTRADE Expands Its Business in Asia Pacific"
     excerpt: "This includes United States fintech investment advisory company CGQuant and its subsidiary CGTrade. CGTrade has set up operation centres across Asia Pacific regions including Malaysia, Singapore, Taiwan, Hong Kong. The company, utilizing powerful internal and external resources of CGQuant including AI big data algorithms, provides top-level ..."
     publishedDateTime: 2020-02-05T11:20:00Z

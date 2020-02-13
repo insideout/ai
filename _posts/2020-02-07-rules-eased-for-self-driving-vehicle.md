@@ -78,19 +78,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/402/2020/02/Joanne-Needleman-Article-202002061606.jpg"
         width: 620
         height: 372
-  - title: "International Emotion Recognition Market to Double by 2024"
-    excerpt: "The emotion recognition market includes both voice and facial recognition technologies, in addition to biosensors that can track other physiological markers. Of those, biosensors made up the biggest portion of the market in 2019, though voice recognition is expected to fuel much of the growth moving forward. According to MarketsandMarkets ..."
-    publishedDateTime: 2020-02-07T17:07:00Z
-    webUrl: "https://mobileidworld.com/biometrics-news-international-emotion-recognition-market-to-double-by-2024/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/chart.jpeg"
-        width: 400
-        height: 295
   - title: "10 Rules Entrepreneurs Need To Know Before Adopting AI"
     excerpt: "Rocio Wu offers insights into how entrepreneurs can start riding the wave. Although adoption of artificial intelligence (AI) and machine learning (ML) for the enterprise is still in the early days, the technology has matured enough for entrepreneurs to start gathering inspiration and evaluating opportunities for potential applications."
     publishedDateTime: 2020-02-11T16:03:00Z

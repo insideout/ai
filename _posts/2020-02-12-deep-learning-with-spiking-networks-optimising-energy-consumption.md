@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T22:58:00Z
 webUrl: "https://medium.com/@martino.sorbaro/deep-learning-with-spiking-networks-optimising-energy-consumption-50588b4435fd"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/223987_web.jpg"
         width: 720
         height: 360
+  - title: "Malware Classification and Labelling using Deep Neural Networks"
+    excerpt: "This paper utilizes deep learning to classify the families of malware for Portable Executable 32 (PE32). More on paper.docx Most samples are collected from various github repositories where the malware has been classified already. Thanks to VirusSign and VirusShare for providing access to huge range of malware collection. Most of the malware ..."
+    publishedDateTime: 2020-02-13T14:59:00Z
+    webUrl: "https://github.com/VISWESWARAN1998/Malware-Classification-and-Labelling"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://avatars3.githubusercontent.com/u/16797137?s=400&v=4"
+        width: 400
+        height: 400
   - title: "Farnell Showcasing Next-Generation Technologies in AI and Machine Learning, Connectivity, Sensing and Power at Embedded World"
     excerpt: "Taking centre stage at the exhibition will be Farnell's investment in next-generation technologies for Artificial Intelligence (AI) and machine learning ... Sensing and Power Management -The Avnet Azure Sphere Starter Kit with Microsoft Azure hardware security and cloud solution for IoT applications. -STMicroelectronics' new multi-sensor ..."
     publishedDateTime: 2020-02-10T17:40:00Z

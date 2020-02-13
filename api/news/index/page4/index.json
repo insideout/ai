@@ -2,139 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-06-amazon-researchers-distill-knowledge-from-a-large-ai-model-to-a-simplified-version.md",
-      "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
-      "excerpt": "In AI and machine learning systems, knowledge is typically distilled by training a small model — a student — to mimic a large and cumbersome model — a teacher. The idea is to compress the teacher’s knowledge by using its outputs as labels to optimize the student, but there’s no guarantee knowledge will be transferred to the student ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/amp/",
-      "publishedDateTime": "2020-02-06T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-artificial-intelligence-tool-created-to-predict-the-structure-of-the-universe-and-unlock-the-mysteries-of-dark-energy.md",
-      "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
-      "excerpt": "The AI tool could play a role in studying the nature of dark energy and dark matter, which seems to make up a large amount of the universe but remains an enigma, researchers said.",
-      "heat": 174,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033",
-      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
-      "publishedDateTime": "2020-02-06T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1565487/milky-ways-galactic-centre.jpg",
-          "width": 2500,
-          "height": 1679,
-          "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-capturing-and-validating-alphanumeric-identifiers-in-amazon-lex.md",
-      "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
-      "excerpt": "Enterprises often rely on unique identifiers to look up information on accounts or events. For example, airlines use confirmation codes to locate itineraries, and insurance companies use policy IDs to retrieve policy details. In customer support, these identifiers are the first level of information necessary",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/capturing-and-validating-alphanumeric-identifiers-in-amazon-lex/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T15:40:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/04/alphanumeric-lex-1.gif",
-          "width": 800,
-          "height": 605,
-          "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-chatbots-are-big-news-but-robots-are-set-to-be-bigger.md",
       "title": "Chatbots are big news, but robots are set to be bigger",
       "excerpt": "Robotic process automation is an application technology leveraging artificial intelligence (AI) and machine learning (ML ... Today, RPA is a compelling proposition in that it allows businesses to create their own software robots to automate business processes, quickly giving the business an efficient digital workforce that dramatically reduces ...",
@@ -782,7 +649,7 @@
       "path": "_posts/2020-02-06-uber-gets-green-light-to-test-self-driving-cars-in-california-again.md",
       "title": "Uber gets green light to test self-driving cars in California again",
       "excerpt": "Uber's self-driving could be allowed roads again in California. According to report Thursday from Reuters, the ride sharing company received a permit on Wednesday from the California Department of Motor Vehicles to test the autonomous vehicles with a backup driver. Uber did not immediately respond to request for comment, but told Reuters it ...",
-      "heat": 399,
+      "heat": 409,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
@@ -2142,6 +2009,140 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-what-do-we-teach-when-we-teach-tech-ai-ethics.md",
+      "title": "What do we teach when we teach tech & AI ethics?",
+      "excerpt": "With this in mind, my students and I decided to conduct some research to uncover patterns. Ethics in the context of technology (particularly emerging areas like data science and AI) is such an important topic, and curriculum coverage is increasing at universities in computer science and beyond. So our question was: what are we teaching when we ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@cfiesler/what-do-we-teach-when-we-teach-tech-ai-ethics-81059b710e11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*sJQ2hrt7-pn4boq3QgSXqQ.jpeg",
+          "width": 1200,
+          "height": 478,
+          "title": "What do we teach when we teach tech & AI ethics?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-what-is-machine-learning-exploring-its-impact-on-customer-experience.md",
+      "title": "What is machine learning? Exploring its impact on customer experience",
+      "excerpt": "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@mahiprashanth866/what-is-machine-learning-exploring-its-impact-on-customer-experience-350bf3115497",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/844/0*bbnXzCvTKv0Wl7uc.png",
+          "width": 844,
+          "height": 422,
+          "title": "What is machine learning? Exploring its impact on customer experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-ai-for-a-competitive-advantage.md",
+      "title": "AI For A Competitive Advantage",
+      "excerpt": "If implemented gradually and accompanied by training for employees to maximize the technology’s impact, AI can promise to unlock many new doors for any organization.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/",
+      "publishedDateTime": "2020-02-07T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 558,
+          "title": "AI For A Competitive Advantage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

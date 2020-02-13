@@ -2,26 +2,26 @@
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-publishedDateTime: 2020-02-04T10:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200204005137/en/REPLY-European-Central-Bank-Explores-Possibilities-Machine"
+publishedDateTime: 2020-02-04T09:00:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
 type: article
-quality: 16
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
-    title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
 related:
   - title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
@@ -66,6 +66,6 @@ related:
         width: 400
         height: 225
 
-secured: "+yVhzLihMtvzK3BHLE+LLfyf2PZAEkZOsub58WFhyBQA3kq9zu4kKX5uLZwY1y0I1IeUdlMxZBNl806Rq4d9INWgqrRZPZyZ+JsWp9ZGj/oe+YhXaSVNJvJmNkT/drqxPWhP7fULIlSPUU912Ave/gHiBrA5RU1swIlml9mV8649FZhdv27Ydq/iFRLkHQ3k+6bKVfsqdFyqvquVOHxeag7zHDU81qldN+stFfGA0elAGA9Mqpop7OW9WJzcMv4/O9uhhi5okdA5SY45PECSDn7GQX0SodaS1Zq3tvqfTYAwiWcOB5rRvAu7X7GPlMDw;3C6HIAmiEv5jJtvzHJHQ3w=="
+secured: "2zFlMmfjVwqSpZ5pkwN6n9Z4KxFkfYcfj+07KnB4cTXnovlXLlQ5qGkO4bQCJDgbyfeJ/ljNFkiJhMMzFefb7XAHGuj6MdCTrhW+F5p8RgET+A9SWym8DAnPHyLY6D11Eqp8teJ0ZI2rsdbhu906hMFjrw5YZZsAqIBkRUO3Y+9+ZxIFPLluIG2q1A1DHh6aJKJHXZ870XtkaLjAnqqRbQZvxQtk00vd2D5f96cK63WKBEbS2QIzLyNBP2YewWaj0z8asaIRdb5DHFRLcuvHiXXe1WboxCjYYFkEMszz4A9kQCM9p/oKJSaVWpNgUwNE;v8rIweGNEQDeZmUqGHsfKw=="
 ---
 

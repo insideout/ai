@@ -2,51 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/_archive/2019-12-18-how-the-driverless-vehicles-dilemma-highlights-wider-system-safety-issues.md",
-      "title": "How the driverless vehicles dilemma highlights wider system safety issues",
-      "excerpt": "Artificial intelligence (AI) is already playing a significant part ... This question of bias is a crucial one when considering system safety issues. Our theoretical driverless vehicle needs to know how to value individuals in its “save or sacrifice ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
-      "publishedDateTime": "2019-12-17T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1576169739/itpro/2019/12/AI_Ethics_good_vs_bad.jpg",
-          "width": 6222,
-          "height": 3500,
-          "title": "How the driverless vehicles dilemma highlights wider system safety issues",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2019-12-18-why-some-cities-states-and-lawmakers-want-to-curb-facial-recognition-technology.md",
       "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
       "excerpt": "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of ...",
@@ -2125,6 +2080,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-03-googles-deepmind-ai-outperforms-doctors-in-identifying-breast-cancer-from-x-ray-images.md",
+      "title": "Google's DeepMind AI outperforms doctors in identifying breast cancer from X-ray images",
+      "excerpt": "Researchers from Imperial College London and Google Health this week published new research that shows DeepMind's medical AI system can outperform doctors on identifying breast cancer from X-ray ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/google-deepmind-outperforms-doctors-identifying-breast-cancer-2020-1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-03T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

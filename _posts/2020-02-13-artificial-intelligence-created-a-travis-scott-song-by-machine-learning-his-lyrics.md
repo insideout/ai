@@ -7,7 +7,7 @@ webUrl: "https://hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-gener
 ampWebUrl: "https://hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics?amp=1"
 cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics?amp=1"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Top 5 companies using Machine Learning in 2020"

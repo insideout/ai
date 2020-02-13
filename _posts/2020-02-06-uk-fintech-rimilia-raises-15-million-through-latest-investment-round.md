@@ -102,14 +102,18 @@ related:
         width: 1000
         height: 525
   - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
-    excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary ..."
-    publishedDateTime: 2020-02-11T15:26:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/"
+    excerpt: "former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary computing, and Steve DeRose, a renowned expert in natural language processing, computational linguistics, and standards related to document processing. The company’s business ..."
+    publishedDateTime: 2020-02-11T15:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200211005446/en/Docugami-Announces-10-Million-Seed-Funding-Led"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
+    images:
+      - url: "https://mms.businesswire.com/media/20200211005446/en/772660/23/Docugami_Team_Offsite_February_2020.jpg"
+        width: 1200
+        height: 627
 
 secured: "3L+edZb5U2F+1pTwUdCx+2GvO9JKnr2VPK5SJNVAb9mlrfB0hgeefi9OrwjhvDZQOxkti5v0R46TOAAZS5XatTr8jF/z3h8NcNm+kos+Ja8N6sO8P6qPOn+MlYP2ONXFEAmgqP15p4d2mnodEsaUDRtHy4cB5pJBJWyADmRjO6cUJ+yGUvz/xBjiBJoEJ3qt3PZMmVtSzaePpZ1N66PJT126/qntwXp3ctayodNQccsX35cfO9R+QYu5s0AFLebKG1a1+SV8/MBtB3ymvhyDGC2orNzzAEbAm8DeyVlMv5DiCqxEFsulcSGhTwkpn4tWVk6oRpUoQ1P4jmnzmJAvf0XVZqPhQdFDq17Y4zoBLY7HNgAkE4XRgGtIpaLwSeSHVwgSQP4Qu76ubfUsaMW/STLz9AdllCMiS6d9nkG+AW4r+NqZuePt9xAb+F6cpSLmw1dd/XvBj5jlfoeEN0KXo+WCugX5vUI6tHxLoER/2Vg=;dtwum6lKMX1cZGryxEqBew=="
 ---
