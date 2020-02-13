@@ -5,7 +5,7 @@ excerpt: "The report titled \"Artificial Intelligence (AI) In Supply Chain And L
 publishedDateTime: 2020-02-08T04:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ topics:
   - AI
   - AI in Healthcare
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

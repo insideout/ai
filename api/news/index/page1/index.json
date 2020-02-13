@@ -562,7 +562,7 @@
       "path": "_posts/2020-01-30-facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit.md",
       "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
       "excerpt": "Facebook has agreed to pay $550 million to settle claims in Illinois that the company violated local laws on facial recognition technologies. The results of the lawsuit were made public on Wednesday and have been described as the \"largest cash settlement ever resolving a privacy-related lawsuit.\" Launched by law firms Edelson, Robbins Geller ...",
-      "heat": 447,
+      "heat": 437,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
@@ -1002,44 +1002,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-30-science-park-unveils-new-facilities-to-boost-ai-and-robotics-rd.md",
-      "title": "Science Park unveils new facilities to boost AI and robotics R&D",
-      "excerpt": "From now on, artificial intelligence and robotics (AIR) developers are able to use the state-of-the-art facilities provided by the Hong Kong Science and Technology Parks Corporation (HKSTP) to develop proof-of-concept (PoC) projects and fabricate functional prototypes. On January 20, HKSTP unveiled the AI PLUG and Robotics Catalysing Centre ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/presented/tech/topics/ai-plug-and-robotics-catalysing-centre/article/3048053/science-park-unveils",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T18:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/hero.jpg?itok=AfFlwyT4",
-          "width": 1200,
-          "height": 630,
-          "title": "Science Park unveils new facilities to boost AI and robotics R&D",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-01-30-the-robots-are-coming-prepare-for-trouble.md",
       "title": "The Robots Are Coming. Prepare for Trouble.",
       "excerpt": "Artificial intelligence won’t eliminate every retail job, an economist says, but the future could be grim unless we start planning now.",
@@ -1119,43 +1081,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-ups-teams-up-with-self-driving-company-waymo-for-package-delivery.md",
-      "title": "UPS Teams Up With Self-driving Company Waymo For Package Delivery",
-      "excerpt": "(RTTNews) - UPS (UPS) said that it has partnered with Waymo, the self-driving arm of Google's parent company Alphabet, to pilot autonomous vehicle package pickup in the Metro Phoenix area. Starting in the coming weeks,",
-      "heat": 199,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp",
-      "publishedDateTime": "2020-01-29T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "UPS Teams Up With Self-driving Company Waymo For Package Delivery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1476,7 +1401,7 @@
       "path": "_posts/2020-01-31-how-ai-in-healthcare-will-influence-the-path-to-value.md",
       "title": "How AI In Healthcare Will Influence The Path To Value",
       "excerpt": "From medical malpractice to single-payer healthcare, there is no shortage of topics to debate in healthcare. Though provision, funding and government involvement in our system continue to be central topics,",
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/",
@@ -1854,7 +1779,7 @@
       "path": "_posts/2020-01-31-russias-use-of-facial-recognition-challenged-in-court.md",
       "title": "Russia's use of facial recognition challenged in court",
       "excerpt": "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ...",
-      "heat": 1059,
+      "heat": 1049,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bbc.com/news/technology-51324841",
@@ -2163,6 +2088,89 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-01-5-soon-to-be-trends-in-artificial-intelligence-and-deep-learning.md",
+      "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
+      "excerpt": "AI’s major headwind is the cost of the investment, which will skew returns in the short-term. When the turnaround occurs, however, companies who are making the investment can expect to be rewarded disproportionately with a wide performance gap and up to double the cash flow.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
+      "publishedDateTime": "2020-01-31T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e34ccbef133f400076b5a6a/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-01-a-warehouse-robot-learns-to-sort-out-the-tricky-stuff.md",
+      "title": "A warehouse robot learns to sort out the tricky stuff",
+      "excerpt": "Standing nearby at the Obeta warehouse, the California engineers who made the robot snapped pictures with their smartphones. They spent more than two years designing the system at a startup called Covariant.AI, building on their research at the University of California, Berkeley. Their technology is an indication that, in the coming years ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html",
+      "ampWebUrl": "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp",
+      "publishedDateTime": "2020-02-01T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "A warehouse robot learns to sort out the tricky stuff",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

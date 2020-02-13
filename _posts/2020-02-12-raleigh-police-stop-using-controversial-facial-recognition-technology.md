@@ -301,6 +301,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1236897664.jpg"
         width: 1119
         height: 630
+  - title: "Raleigh, N.C., Police Halt Use of Facial Recognition Tech"
+    excerpt: "Raleigh PD has stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns from the community. (TNS) — Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a ..."
+    publishedDateTime: 2020-02-13T18:39:00Z
+    webUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
+        width: 770
+        height: 535
   - title: "Raleigh police abruptly end use of controversial facial recognition tech"
     excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
     publishedDateTime: 2020-02-11T18:11:00Z

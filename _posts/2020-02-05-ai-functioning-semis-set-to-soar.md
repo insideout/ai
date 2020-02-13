@@ -33,15 +33,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 19
-  - title: "Sales of semiconductors performing AI functions set to triple by 2025, says IHS"
-    excerpt: "The processor segment will expand slightly faster, growing to US$68.5 billion in 2025, up from US$22.2 billion in 2019. AI chips are used widely in various markets, including automotive, communication, computers, consumer electronics, industrial and healthcare. The largest single market for memory devices in AI applications is the computer ..."
-    publishedDateTime: 2020-01-30T02:42:00Z
-    webUrl: "https://www.digitimes.com/news/a20200130PR200.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 15
 
 secured: "tF+BN2aRaOPNl50LyV9Qk5+EUo1YCoB1k7A0u4ntuJmqcwDnRIv8cu5eRiC3/5dHXvvUaXi9Q9vR5uxpHtszANCmE+PUyDzaU7R99PXgcdAc0MJ7YPL2VXZVBdkeHoa3HfokL1xZ7tn10qvTmcSKox45TYeVvc/kJb/cQs80MQXKAGFRWGKrGwP1BR30Nf0nD5ZED1n2xBLvOqpMX3TpOCwEcVdeneROn2v+rzswA82kxHLhGFmKq5vEAM50Kt1NO1BtH6l3xoqAHlgQ5+jdG7UShbDgWGJAhzEnntjiRTiBOpqoA/tW4jCV0wY1de6Y;0MHOaxlJtRho5pbixC9Gmw=="
 ---

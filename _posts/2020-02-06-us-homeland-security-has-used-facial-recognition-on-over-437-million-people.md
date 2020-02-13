@@ -75,21 +75,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "Facebook To Pay $550 Million To Settle Facial Recognition Lawsuit"
-    excerpt: "Topline: Facebook on Wednesday agreed to pay $550 million to settle a lawsuit accusing it of collecting data and images of users’ faces without permission—the largest ever cash settlement resolving a privacy-related lawsuit."
-    publishedDateTime: 2020-01-30T02:19:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/01/29/facebook-to-pay-550-million-to-settle-facial-recognition-lawsuit/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/01/29/facebook-to-pay-550-million-to-settle-facial-recognition-lawsuit/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/01/29/facebook-to-pay-550-million-to-settle-facial-recognition-lawsuit/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e323b18a854780006afebe7%2F0x0.jpg"
-        width: 1200
-        height: 784
   - title: "Frustration grows in China as face masks compromise facial recognition"
     excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
     publishedDateTime: 2020-02-05T18:51:00Z

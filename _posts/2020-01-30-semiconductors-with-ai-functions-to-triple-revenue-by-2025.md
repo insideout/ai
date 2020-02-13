@@ -31,15 +31,6 @@ related:
       - url: "https://www.ept.ca/wp-content/uploads/sites/29/2020/01/AI-Semis-1024x719.jpg"
         width: 1024
         height: 719
-  - title: "Sales of semiconductors performing AI functions set to triple by 2025, says IHS"
-    excerpt: "The processor segment will expand slightly faster, growing to US$68.5 billion in 2025, up from US$22.2 billion in 2019. AI chips are used widely in various markets, including automotive, communication, computers, consumer electronics, industrial and healthcare. The largest single market for memory devices in AI applications is the computer ..."
-    publishedDateTime: 2020-01-30T02:42:00Z
-    webUrl: "https://www.digitimes.com/news/a20200130PR200.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 15
 
 secured: "yjlVcaUgoh/1Fiyaby9ik7L6ePUqEOo4LQMMRamYFZ0c7srnZSORf6G1D4YJaV37Rr7GliwdQlvBokxsCrA+f6ijV0f/fBF7GJULXD096jC6jpvdXOAStYl8v/Hj11Yp+a6LAuETEeR2J7k5iCG9mftejWSeMVnkDB6tY7679X86FrwQbSbpLclwqbMqTcZDeUp3uCVu20UiLiP09vGKLou5VtwYOZ7RiUjMZBaC0yI3enlWN5YYRd+mgwHGcPCxLMEpYMI+hMlqtirRHaUmJi8PfCrCBYhkLA+WBXTs2gQ2VQnpK3JSPMbl0DnQtUw4;M2GB6jU6au6E9lgr/RFssQ=="
 ---

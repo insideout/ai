@@ -2,6 +2,43 @@
   "page": 17,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-23-career-consultants-help-job-seekers-beat-ai-robot-interviews.md",
+      "title": "Career consultants help job seekers beat AI robot interviews",
+      "excerpt": "In order to give everyone a fair try, we need a system that’s less biased. With the cool, calculating depictions of artificial intelligence in modern media, it’s tempting to say that AI could help us solve our resume screening woes. After all, nothing says unbiased like a machine…right? Wrong. I mean, if you need an example of what can go ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theamericangenius.com/tech-news/career-consultants-help-job-seekers-beat-ai-robot-interviews/",
+      "ampWebUrl": "https://theamericangenius.com/tech-news/career-consultants-help-job-seekers-beat-ai-robot-interviews/amp/",
+      "cdnAmpWebUrl": "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/career-consultants-help-job-seekers-beat-ai-robot-interviews/amp/",
+      "publishedDateTime": "2020-01-23T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Genius",
+        "domain": "theamericangenius.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://theamericangenius.com/wp-content/uploads/2020/01/franck-v-JjGXjESMxOY-unsplash-1-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Career consultants help job seekers beat AI robot interviews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-23-clearview-facial-recognition-app-may-pose-chilling-privacy-risk-senator-says.md",
       "title": "Clearview facial recognition app may pose 'chilling' privacy risk, senator says",
       "excerpt": "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ...",
@@ -2094,50 +2131,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-24-probeat-why-google-is-really-calling-for-ai-regulation.md",
-      "title": "ProBeat: Why Google is really calling for AI regulation",
-      "excerpt": "On Sunday, the Financial Times published an op-ed penned by Sundar Pichai titled “Why Google thinks we need to regulate AI.” Whether he wrote it himself or merely signed off on it, Pichai clearly wants the world to know that as the CEO of Alphabet and Google, he believes AI is too important not to be regulated. He has concerns about the ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/",
-      "publishedDateTime": "2020-01-24T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ProBeat: Why Google is really calling for AI regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

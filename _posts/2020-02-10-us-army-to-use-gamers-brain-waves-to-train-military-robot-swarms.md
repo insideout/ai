@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -69,6 +69,19 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 61
+  - title: "DARPA’s Initiative to Train Military Robots Swarm Using Gamers’ Brain"
+    excerpt: "At present, they’ve yet to start the data-gathering phase of the project ... Ultimately, the researchers hope to end up with an AI that can guide the actions of groups of 250 robots on the ground and in the air, giving the fleet the ability to autonomously navigate unpredictable environments. “Humans can come up with very unique strategies ..."
+    publishedDateTime: 2020-02-13T18:09:00Z
+    webUrl: "https://www.analyticsinsight.net/darpas-initiative-train-military-robot-swarm-using-gamers-brain/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/full.jpg"
+        width: 1893
+        height: 1254
 
 secured: "EeQbFf6y+J0QAAQbG9WUqGaty1+p+H23ztAaN3LxuFy9E3AW4Njh00LEDBUH3IiC0NNAwNVAh394l/rq5jrxsh7T7hZgOnXFHNXQ8AVt+tfG5E7BgLkzACg7fl5mbI56MHjNHsat/j87QLmXDgtb4qEj1SDkfYEZgQyzDWWJjmFb20sWc1MMP9HvbvIG5tH2aHQLTqkVGpXiSml8yNOXwvRbqGMkNGidmhuj6cE6knpmjo5AinPFT+BFHQqPzMT8wN9ICcEcEEesiS2s/u7e6LJ70wvqu0f6UxIIKg0esHqPhKbCutmvlOeydZbnL19pTgEA0tbjL/Ckz2l3FAn7utMmzDQJtABvFT2ol0CVr4++pj3VjnU0dkQrq0RGdUhPfHPwRfQ/8Zk3JREfoS/7lPbSG57X1rS6tzRzIGgBjdUt6ZrQSmvJY6jg2bNG4KJAvPhKtD1iqQkvyyySZJVmVl7iAP+l/JvK9LvSsO+6N0Q=;8lR8aRDSetDO+AItiSs4qA=="
 ---

@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Amazon Connect Helps AWS Partner Improve Annoying Customer Service Calls"
-    excerpt: "“Think of Connect as the sun, and Earth, Venus and Mars are like Lex and Polly and Lambda and SageMaker and other things that make the whole experience more impactful,” VoiceFoundry CEO John Marino said, referring to AWS services for building conversation bots, text-to-speech, serverless compute and machine learning services. “But Connect ..."
+    excerpt: "“Think of Connect as the sun, and Earth, Venus and Mars are like Lex and Polly and Lambda and SageMaker and other things that make the whole experience more impactful,” VoiceFoundry CEO John Marino said, referring to AWS services for building ..."
     publishedDateTime: 2020-01-29T20:32:00Z
     webUrl: "https://www.crn.com/news/cloud/amazon-connect-helps-aws-partner-improve-annoying-customer-service-calls"
     type: article

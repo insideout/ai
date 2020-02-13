@@ -23,6 +23,6 @@ images:
     height: 270
     title: "Fintech startup Ramp aims to disrupt the corporate credit market"
 
-secured: "J34/EAYCrX0g/itXolXK4z1FP0gXix7X3Ivm+ZF4RA/11IfKMLMu2iC877XzTXRpOzW3kzx594LHxWlEHSCbBMqAmjFfgXkl6lfHPdGJHUXSLlza49P4lhbRKw/zA1JpInYtbxPFZYemh0eag60Rne9edJNSssbIaFEaI3Ku1Pc9N+mq1wqXewc8JhcRQ6lU0F5bltXdZ37R4KHlJDEespNc33gIUrAvSUjJJFRQTRVyGIfbxcrI53PP/r7uGbg/hgsFSFMIkwZxoM0Frg8khfdrV4bT9O+3ZIa3FBSMVj/5/uOQrORj6qaSypFAxdrW;P8f30hXCy4WGAcFKQ2uxLQ=="
+secured: "/Z+WfK1W8YzKNY27YFnzepRARKYrh9XFenW5JEOHvQNCEmviezLsZY0+lPJIYWh5DmpCVcsUagzM/eSNZ8RGIidh0lTqUIeghbBh7+c2eGOHJrk+iNI6atzjGdzvouq9s67GAnS3uOMKuMjhnVcy92HWdgQPMoBX/pk0jJwBI1PWFt0qhiFlcXxgt16Ib2X2VD4u/+vwjRToUeI413T0mMrbZ1l1aDqf7hYH+WKjiIYmCJ8lB5ULF/+VVKEam9rCtj4Fe/SQr316rz0SwHWaM0+pExbWsPZZ/TCPXc+ALxG0ERVbqSNT8RAqtpdtB2+a7UzWAcYKoILBtDzAZfGg438Uh/k9UHng9jm/0JXstvXmYJ9hSSGb8xOvm37KHnpEIW+VOasOOHi59Y4cNOSKOnE8J63SoKv7spLq1A+3I/m1FZj+kJt6ykK/klttjsOilKBIQ9H3IAfYcGi7PmtsPlw065aqgZ2VQMBu2xmqFWc=;CGbmz8Y72UvGcoJl2StnRA=="
 ---
 

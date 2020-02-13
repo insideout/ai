@@ -7,8 +7,8 @@ webUrl: "https://www.cmswire.com/information-management/digital-transformation-w
 ampWebUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/digital-transformation-why-now/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://www.cmswire.com/~/media/4f6ff12791384bfcbfe2ca1e08d4e283.jpg?mw=1024&hash=87FABE1B6A8C20FF6582B0B72E28EF165144DB1C"

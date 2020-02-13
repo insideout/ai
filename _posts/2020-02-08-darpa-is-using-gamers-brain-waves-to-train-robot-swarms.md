@@ -65,6 +65,19 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 61
+  - title: "DARPA’s Initiative to Train Military Robots Swarm Using Gamers’ Brain"
+    excerpt: "At present, they’ve yet to start the data-gathering phase of the project ... Ultimately, the researchers hope to end up with an AI that can guide the actions of groups of 250 robots on the ground and in the air, giving the fleet the ability to autonomously navigate unpredictable environments. “Humans can come up with very unique strategies ..."
+    publishedDateTime: 2020-02-13T18:09:00Z
+    webUrl: "https://www.analyticsinsight.net/darpas-initiative-train-military-robot-swarm-using-gamers-brain/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/full.jpg"
+        width: 1893
+        height: 1254
 
 secured: "6iMBIT4eTjnOc0PJP7oR7hQhM0MugZQqiayJXjJA84SglzIMygzDj/XM8BYpbaVlrP0/DjihYMGLqEVa7+mFF6s7Ig318eOWOKr2iloqk54uy4BsOibDGklj6f/ikQg1/y4bEF/Ky4A6voyzkYG4/yZRfSo88dIgzwPvQtb4hfHI3zdToj+HA3qsy0TWh1QgAm9DYK741Qsysk3eZyoMGX+xOIm0XV+O+6YOieNend1Us3EYyeHFbXjAqb52MeBM1NDDq7G2MXIMWDeKy9yjtobyFvOsBKnOZgbgeHgkReSSGlk0/yY7gBkS6pfc0cpbR7tu34POnFI8QfZtDeuIMp2B4p/JD2wdPEGc0cMMJyCzSJWdTpPTUQGUSxl3zT6oWp4LRKRdaqHMjDmCQARBNxWbh2PX7WhNg4WCBjsmD4d9V4ZT1DQNTZhvkIAgPnF0D2t2HqI7uhUxsN50InPXQG2kEBb3h6lxqSi9jHk9TZY=;XOOeTnz4CSH0ED3ztmWnsA=="
 ---

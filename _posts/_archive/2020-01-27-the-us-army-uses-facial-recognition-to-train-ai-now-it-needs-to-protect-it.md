@@ -60,21 +60,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "Facebook To Pay $550 Million To Settle Facial Recognition Lawsuit"
-    excerpt: "Topline: Facebook on Wednesday agreed to pay $550 million to settle a lawsuit accusing it of collecting data and images of users’ faces without permission—the largest ever cash settlement resolving a privacy-related lawsuit."
-    publishedDateTime: 2020-01-30T02:19:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/01/29/facebook-to-pay-550-million-to-settle-facial-recognition-lawsuit/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/01/29/facebook-to-pay-550-million-to-settle-facial-recognition-lawsuit/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/01/29/facebook-to-pay-550-million-to-settle-facial-recognition-lawsuit/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e323b18a854780006afebe7%2F0x0.jpg"
-        width: 1200
-        height: 784
   - title: "Frustration grows in China as face masks compromise facial recognition"
     excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
     publishedDateTime: 2020-02-05T18:51:00Z
@@ -1206,6 +1191,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "BVjdOG3UuDFQ9kEtK9QaCFr2sJcqLlSESBpWEZkw6K/WJ9xY60ORFCBXjjW5VML3ueq3exLd+0I/cvwffXBs+w82C2QUqv8we1jGbl6aeMeeVjGIcgEaCGKOhRgvGgm4NLKWEP5mz2Hi6dSoK425r+mBKhQA6d447twEzkFJhuBEYY7+m/By0fbRLA+pBY4c1M37fmalTPcqP8gwIqPiW4O0l0bnbcW651tB4mkiynEMP75J22M7nZ+G4WGWlOVv9BhhtwPkF/9nFxHQf5uPlQOrIEmj9PRMlMtnRKYsJs22rUv5odn09BqTqrxnywh+;kds2mzoDsMhocXhA0/rICQ=="
+secured: "sOksNU9HUikI9wPkgyH6BpjMmYTjJwlhS+5Mc6o2pm8Fnor7uCM1bG/bUDbSd5vTbmlXSsx6sHOs0ka7FzOrj5ki7sjQiMUeAuYPlU837zEX0gIwMNisTvUtZg1MAYHUMhANyY1S8+zUKGBbY4sX6FcLozPwkdwPU8o26R6vuZYiE+sxLyk1/JfcvQWlEGX//c/M9qr9+/J7FhrpQaTzeCD9AO80bEnhCrehQcyBnoy0wHR7maceUfHuHRczXmhiVDeY7pmJjl4tiwhLj+0nB+99MU5fjvNBngmuXIhaKmRhXI1G7TjWgSxtLacdTTr9;p+shBlyq39JwStd2rdnIKw=="
 ---
 

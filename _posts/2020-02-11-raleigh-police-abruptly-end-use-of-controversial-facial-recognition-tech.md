@@ -316,6 +316,21 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
         width: 1280
         height: 720
+  - title: "Raleigh, N.C., Police Halt Use of Facial Recognition Tech"
+    excerpt: "Raleigh PD has stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns from the community. (TNS) — Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a ..."
+    publishedDateTime: 2020-02-13T18:39:00Z
+    webUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
+        width: 770
+        height: 535
   - title: "Florida cops use this facial recognition tech that could be pulling your pics"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T10:08:00Z

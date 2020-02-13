@@ -85,6 +85,21 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 34
+  - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
+    excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
+    publishedDateTime: 2020-02-13T19:29:00Z
+    webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
+    ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 34
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
+        width: 625
+        height: 305
   - title: "Met police deploy live facial recognition technology"
     excerpt: "Cameras used at east London shopping centre despite experts warning against them"
     publishedDateTime: 2020-02-11T19:20:00Z

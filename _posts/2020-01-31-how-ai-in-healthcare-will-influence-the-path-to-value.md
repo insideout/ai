@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg"
         width: 1240
         height: 936
-  - title: "Microsoft backs AI in healthcare with a $40 million program"
-    excerpt: "AI for Health will help treat and understand diseases. Microsoft's deepening health tech strategy now includes a significant commitment to AI. The company is starting a $40 million AI for Health program that should help researchers and key organizations improve the quality of life for people around the planet. The five-year initiative will use ..."
-    publishedDateTime: 2020-01-30T02:44:00Z
-    webUrl: "https://www.engadget.com/2020/01/29/microsoft-ai-for-health/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
   - title: "Artificial Intelligence in Healthcare"
     excerpt: "WMR published report on Artificial Intelligence in Healthcare Market 2027: Delivering key insights and providing a competitive advantage to clients through a detailed report. Artificial Intelligence in Healthcare Industry Size, Market Share Value, Competitors Research, Industry Outlook as well Analysis covers various factors like Regional ..."
     publishedDateTime: 2020-01-30T10:45:00Z

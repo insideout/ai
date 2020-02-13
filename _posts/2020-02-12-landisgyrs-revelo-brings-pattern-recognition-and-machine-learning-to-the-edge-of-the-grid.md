@@ -79,6 +79,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
+  - title: "Incorrect Pronunciation Detection in eLearning using Deep Learning"
+    excerpt: "At a high level, the idea is to monitor pronunciation of end-user, perform an analysis on it and feed the analysis back to them so that they can work on it to improve and also record it for deep learning. This can be achieved with an add-on or separate system that enables students/user to improve their pronunciation skills, not limited to ..."
+    publishedDateTime: 2020-02-13T19:57:00Z
+    webUrl: "https://www.embedded-computing.com/guest-blogs/incorrect-pronunciation-detection-in-elearning-using-deep-learning"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 39
+    images:
+      - url: "http://share.opsy.st/5e45a8d6cadb7-thumbnail_Incorrect+Pronunciation+Detection.jpg"
+        width: 1280
+        height: 763
   - title: "An ultra-compact particle size analyser using a CMOS image sensor and machine learning"
     excerpt: "In this paper, we introduce the concept of a new particle size analyser in a collimated beam configuration using a consumer electronic camera and machine learning. The key novelty is a small form factor angular spatial filter that allows for the collection of light scattered by the particles up to predefined discrete angles. The filter is ..."
     publishedDateTime: 2020-02-12T12:55:00Z

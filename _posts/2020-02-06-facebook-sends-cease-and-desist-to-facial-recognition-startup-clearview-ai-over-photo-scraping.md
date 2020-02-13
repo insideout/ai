@@ -193,15 +193,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
         width: 660
         height: 300
-  - title: "Facebook agrees to $550M slap on the wrist following facial recognition suit"
-    excerpt: "That feature suggested the names of people in photos so that users could more easily tag them to a corresponding Facebook account. In order to accomplish this, Facebook reportedly used a form of facial recognition technology. Facebook discontinued Tag Suggestions in 2019. According to Lauren Gard, a spokesperson for one of the plaintiffs ..."
-    publishedDateTime: 2020-01-30T01:47:00Z
-    webUrl: "https://mashable.com/article/facebook-settles-facial-recognition-lawsuit-illinois/"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 46
   - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
     excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
     publishedDateTime: 2020-02-03T23:00:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-in
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     height: 600
     title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
 
-secured: "MzMsZ6qJZYhJILKOH4gq81Mvacy+a5tXM6UdcPqSl+8XGWm9xQxgvw9t9UAGl7/yFaf+ukLSzHjiLHt4xxuRQfp4bOkWLLp153i9lipM4uCTf+962XZ4v9wF8Imlb5Awiyf2lg7CKtfCZKRFDliM8oOuibM/otX+LY3aOloKnZeq7T0xsvMHWEBLic+tglanSPl0Mo3lGJUThZUTCJg4oOaar8dKwtbb+L0wzsvVme2DyIPPEio65aXXICNiL3PXU1hGv4mUW3fc0DaUkpQRBeePTzlky+y035iMYZm+VuRFDNfoKKuwIfSpOo+wvkXz;vp9wOc78lWPMzFN2bP2ZFw=="
+related:
+  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
+    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
+    publishedDateTime: 2020-02-13T18:50:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
+        width: 400
+        height: 400
+
+secured: "okn48c+op5xX7v39T3TMCw3cZzUX+RifubxExycFleKr1XRzBy6bX9JHOqChZfJQMZS7vB0t5E8IGHoAyU4bfBCAN1ZfdnMtJyqI1TgADddC0kCbDmuJ9LMgKymnDr59Tv0HILZy2Ey2mUvIZv/oAWewQcitmTK5lur1+YKGJwK+lbu3M85augnDgSnHo9YjriScLPsHIGuQbv59V2oITQZZCAuyDJ9RqxD6V/KVXG1lavyafIWvhDLz4sF/golPErlU35gUxBcDJB219SQTvSGLxf8wnCtKg9QwNXg3PknsK+zfJZBfnImxCWcG+W50;w6Y3aNxlHRjKxaFBh07uVA=="
 ---
 

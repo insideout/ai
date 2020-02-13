@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Viziblezone taps AI and smartphone data to alert drivers to pedestrians"
 
-secured: "eC1nq8HohouDu1EgOnvvdwF8UFvZJ4S8aMXa3ew1W//ewJQccYU/ptXEV2vuHuI/gu+xp/pr0ivYG3xLoK5V/ZYyCI/gEyMDD3kyJSzzYpWcyKgwd4JoVFhHXTFBvGjVGpMoTtqgysQd9+RTU06xup0V7dNdQYZ9JzrurakP+xT9deHIO3ap+raaY71dsj/yWTWqVuc1QmyNl79BhNiRxugOpa27QhqWe4e2fz2EJ2VD4zQbJWvS8XNHcl2aPLZdjwv2e306/r/Jj9XhuQdn9/2C55BMn+S7i0mk/rOddpC85xqNydJDFTr59hnJZkqU;flXl/nk1DpbAKM0ET0dhAw=="
+secured: "bN/alB2it/mtpWh+JjJtitvqaNImQbV1OYvaZM24i1u2f7S0NJ6slVzIup06qp/Po7wnyTgohwJ6vWtuIbpWwnS9JHBVMOaBFkOkfAbqJUp2VcfFYmJjFVAt7OXnCKhzEThYzDA88UOvgtFN5Zmk52GnaFKa5TgBeXSnOd9Fh/t06vR3xGe2kuxyjPWLCe59r71dxXM+hR3JXJ+A43JJT4Q6GvY/r/Yb1M8W4gappLA2bEef+8jnIj4xzCnAcVSixLJaPP0KVLTi1xbIcySQ6w9J7mfxAUzdujCQJRW6m8VqqUW3WBMbQJ/ssly54gCSlwFS8GdKC/7Jffd3pxRhPzjQwVJwZvyM9rdIcmgWdRPm9f33Uddt8rUIgXfAJTew6WoKjqfj/OJ71I6hXwDSblbYqsdP4/bAB4amxrAt08JNIfOHYZQUcZlBeZSLVSntn39QXAnz80+rCSZcrEXuyf9VQ0E+CXROh9UL/zHIBcA=;pG2eUj/WWSGWsXXUPgnLnw=="
 ---
 
