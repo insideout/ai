@@ -719,19 +719,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-        width: 620
-        height: 465
   - title: "Amazon’s New Facial Recognition Smells Your Fear"
     excerpt: "Amazon Rekognition is the company’s controversial face detection and analysis technology. The name alone sounds like it comes from a Paul Verhoeven movie. Since its launch in 2016, critics have ..."
     publishedDateTime: 2020-01-30T00:00:00Z
@@ -1358,6 +1345,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "jkntrdKa+BM5IZLa1/C1KhWBx2qV79qOyeKH2MmGmMUqKOGb8mOR6xfdgyWyrvA3cLrpv88f7jFXaoR76Loe6E47s0vSzW2uyc/1hW2XuJTBLwbvpwNBaUgxy8gRupFVTIYJDw6ARrmTTiV8/Yvplzzb2ok4jjEcXYXPts+qD9iz4mXF8eqKFtB0L+Yl8uKwsCaMCQq+CQmGsPmS4+0k9i09Qtr78M9q9GTxwwlKrqaeRQ0dvzjto/MUsIYlA4GxKCDzqb68dzcpm/KNcY+7hd0AJmGFTJYN67YJd484+kOKrWtb5W2KIz9gCE41Fq/R;W8Yj8HAl4VYyEbkXPJKI5g=="
+secured: "NEiSjMBIgNe7aYPn9Ufy2vVZM8A4z3ZzJtP3Fg1YGfLa+ZsbORe+J7smHH/UW5R0p7FK0yHY1dSJYvZZdu42rvijKinPSNA9J5mh5oJaHI+rFEsWKjXsdDBs5mN5/xhxIEgeH7DHRxifoCFfFttHrVnvq+n4EdlfKvVqHSghq3HeaZZx9++qVVQeny1muaZhINWfelKRRvMkRh5BBlN3dtuSkbFPCjW6PUeGPVdHbNc0epq+fsnVZ+cjU4IDcXlaDJGgqWE6G5iPGnqc4uZg5XKeVeXG1gTHCEkhw3Zt/Wa9m9+ybixP/iaozAUcidci;Zd0ne9G93GdCa427V9XzAw=="
 ---
 

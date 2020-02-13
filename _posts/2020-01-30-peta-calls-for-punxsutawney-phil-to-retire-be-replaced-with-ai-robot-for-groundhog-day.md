@@ -99,21 +99,6 @@ related:
       - url: "https://thehill.com/sites/default/files/punxsutawneyphil_groundhogsday_getty01302020.jpg"
         width: 980
         height: 551
-  - title: "PETA calling for groundhog 'Punxsutawney Phil' to be replaced by robot"
-    excerpt: "Instead, the animal rights group suggests using an animatronic groundhog with artificial intelligence that could actually predict the weather. This way, they say you could keep Punxsutawney at the center of Groundhog Day in a more progressive way."
-    publishedDateTime: 2020-01-29T13:30:00Z
-    webUrl: "https://www.abcactionnews.com/news/national/peta-calling-for-groundhog-punxsutawney-phil-to-be-replaced-by-robot"
-    ampWebUrl: "https://www.abcactionnews.com/news/national/peta-calling-for-groundhog-punxsutawney-phil-to-be-replaced-by-robot?_amp=true"
-    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/peta-calling-for-groundhog-punxsutawney-phil-to-be-replaced-by-robot?_amp=true"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fb485cb/2147483647/strip/true/crop/4787x2693+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F3a%2F59%2F864420a84d97a4aa5cdd8f7f569a%2Fgettyimages-913340746.jpg"
-        width: 1280
-        height: 720
   - title: "PETA calls for Punxsutawney Phil to be replaced with a robot"
     excerpt: "STATEN ISLAND, N.Y. -- It appears no one’s job is safe from the rise of the robot workforce, not even the nation’s most beloved groundhog ... that the Punxsutawney Groundhog Club replaces Phil with an animatronic groundhog with an artificial intelligence (AI) system that would allow it to accurately predict the coming weather."
     publishedDateTime: 2020-01-29T20:17:00Z

@@ -54,15 +54,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "Artificial Intelligence (AI) Software Market"
-    excerpt: "Artificial Intelligence (AI) Software Market research Report is a valuable supply of perceptive information for business strategists. This Artificial Intelligence (AI) Software Market study provides comprehensive data which enhances the understanding, scope and application of this report. A thorough study of the competitive landscape of the ..."
-    publishedDateTime: 2020-01-29T13:52:00Z
-    webUrl: "https://www.openpr.com/news/1913073/artificial-intelligence-ai-software-market-with-complete"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
   - title: "Global Artificial Intelligence in Aviation Market 2018-2022| Evolving Opportunities with Airbus and Amazon | Technavio"
     excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence in aviation market is poised to grow by USD 756.71 million ... and product (companion robots and emotional therapy robots). Smart Robots Market – Global Smart Robots Market by geography (APAC, Europe, MEA, North America, and South America), product (personal service robots ..."
     publishedDateTime: 2020-02-04T23:30:00Z

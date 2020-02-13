@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15254403"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15254403"
 type: article
 quality: 76
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "Artificial Intelligence (AI) Software Market"
-    excerpt: "Artificial Intelligence (AI) Software Market research Report is a valuable supply of perceptive information for business strategists. This Artificial Intelligence (AI) Software Market study provides comprehensive data which enhances the understanding, scope and application of this report. A thorough study of the competitive landscape of the ..."
-    publishedDateTime: 2020-01-29T13:52:00Z
-    webUrl: "https://www.openpr.com/news/1913073/artificial-intelligence-ai-software-market-with-complete"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
   - title: "Artificial Intelligence (AI) in Security Market"
     excerpt: "Global Artificial Intelligence (AI) in Security Market would thus note a steady growth over the forecast period of 2020 - 2025. The robust CAGR (Compound Annual Rate Growth) will chart an upward growth curve and create lucrative growth opportunities in the global Artificial Intelligence (AI) in Security Market. In, turn, this will lead to ..."
     publishedDateTime: 2020-02-04T13:02:00Z

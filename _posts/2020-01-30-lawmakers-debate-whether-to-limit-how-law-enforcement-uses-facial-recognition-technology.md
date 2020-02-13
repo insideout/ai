@@ -194,17 +194,6 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-  - title: "Indian Railways will be using facial recognition to fight crime by end of 2020"
-    excerpt: "Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people’s privacy in the absence of stringent laws."
-    publishedDateTime: 2020-01-29T13:34:00Z
-    webUrl: "https://www.hindustantimes.com/tech/indian-railways-will-be-using-facial-recognition-to-fight-crime-by-end-of-2020/story-LbsKdMCY0PrwqDVdMY7LEP.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/indian-railways-will-be-using-facial-recognition-to-fight-crime-by-end-of-2020/story-LbsKdMCY0PrwqDVdMY7LEP_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/indian-railways-will-be-using-facial-recognition-to-fight-crime-by-end-of-2020/story-LbsKdMCY0PrwqDVdMY7LEP_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 50
   - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
     excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
     publishedDateTime: 2020-02-03T23:02:00Z

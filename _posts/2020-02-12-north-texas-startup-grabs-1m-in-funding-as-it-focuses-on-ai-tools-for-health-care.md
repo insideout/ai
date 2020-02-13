@@ -25,6 +25,6 @@ images:
     height: 400
     title: "North Texas startup grabs $1M in funding as it focuses on AI tools for health care"
 
-secured: "ly5SHy23tTMjn49dN/ZQEeUgWsv5uLMpI7DQgwwKkqpL994Cm5cI7Zw8Kk91+GVQnfHBQ4dM36rwz+xYkBHtqHVIN7f5AyktZ9g7yXPAMRVG9D9AR2G4PU+owj+fEc7z8cm4GyjuMaCrV+vPAvQELRhNv833M4LgTz8aJtQJvch6Mv2OQMbLgLcp2ZFjwrwC5Z0oMKlzyU2w36y7WrsIOvQuj0PbcbXlvr6sPXxxVUzV+Ej2MGMTRE6ypWC5CGNrYgSuQggOMeB6rcSO/pvouzdyl5aarvBT/U0YU7ZWypNlQwpzOKR0x238ZnSzkRyw;BygfuFvde1MJXhi/rZ5ZWA=="
+secured: "q2bZ3yY2ZBNvFHAI5xIDUDxNNWMcQfsKWPUh/R71S0P188s7kHbUQRrPi3XOJtwR5edM4HaFb3zZ8LNJCrKaoGQiw+KogIV9bc9aP8/V+BBjJD+yfSAdhHNrykfViYRjtQs0UDnXkgPpoBcCKwOilpDDUXlDuvV2fEyOFhTLszIrZZnpM9JKnSCgwddYUzSfxYPnc/O+JZ/LAsasGOeHym2gOts1T1mBIrVY5TkR5jEevoAbYLnDSkSxhIbT+HJnlC6KYX+O8/6cvH72gksId7d39V0Q35UmId0X0C58Rs0n6/Ka3yDDMNatRL8uXaDyE7IAR8/+S/754nLbrxnWx8/ztqSnavikowb1YnVQakTMqU/Gz2r7Yx2LKWE8nhx0918aQY6qeK/07/PVnX/k5rANBwNlTQbPAlSAqg2+ee2uijSYzRvzjmm07GySO5ZcOrLLQxA5H1ma5Uu0ypA63z9tXe5UqeG1Ezl5o0fuVmw=;EghcuXIq3OO8UUvcpRJAAA=="
 ---
 

@@ -87,6 +87,19 @@ related:
       - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
         width: 938
         height: 483
+  - title: "This Is What A Self-Driving Car 'Sees' Versus What You See"
+    excerpt: "This is something that I’ve been lucky enough to see on some prototypes, but it’s more than a little valuable for the public to get a sense of what a self-driving car “sees” when driving down the road. In this case, we have one of Waymo’s test cars predicting the path of a cyclist before a crash might even happen. Waymo sent us two ..."
+    publishedDateTime: 2020-02-12T00:30:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/this-is-what-a-state-of-the-art-self-driving-car-sees-versus-what-you-see/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/gvhymwj5q8azlfbrg6g6.jpg"
+        width: 800
+        height: 450
 
 secured: "lx1L7+v/9GQOQPeUnTH386m8cINiiBrpT+Mkxfwt3bTw8NZRjj+Q3L1CNjSkcFKI9dBb7iRGSWCq62X5oDgJXEXGUwydfNo8hiv1EushOvG3zdMwrcoCnijaDqyOFEOEdgZhaP9WX198ArrbSsWKmrdz+GD8vnjcyZXjB0TXpDWGuLNCWgP/4eBj8/kO5hgzwLmOp+eyzm4CEKNOuVbXBIWoosDHiieVnjHDMDb3mG/qrxHTAYHBSWkNRGgdi9LA/wzc1GF4TZ3VyofPSEKl5DARBhIBLnTs+RN3vrMqlemanebldQSbVwV5B8VDhVzeJPaK4jb453NnkRDT9st+fAdCiT1LHuWhDUvWfXZH1Q2ECkeuqS442eiUsBQeF06m/rd1GlaS2Dzs1kQspVbQ00TL8O37Eny+wKy9jwBmCWVM/IT0JkGEAan95sDJBf7C0rmGs72BgaWoCAocPR9iL7YDiyVYaExl2bpNezmPcy0=;Zzy7QCqck5+mkcFN6/Ji+A=="
 ---

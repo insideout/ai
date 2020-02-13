@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-05-crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020.md",
-      "title": "CrunchMatch simplifies networking @ TC Sessions: Robotics + AI 2020",
-      "excerpt": "With just about 1 month until go-time, TC Sessions: Robotics + AI 2020 (March 3 in Berkeley, Calif.) looks to be a true powerhouse event. Prepare to spend the day engaging with the leading innovators, makers and investors bent on shaping the future of these two game-changing technologies. Don’t have a ticket yet? Crikey, mate, beat the price ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-02-05T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/networking_header.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "CrunchMatch simplifies networking @ TC Sessions: Robotics + AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-fintechs-consolidation-creates-investment-opportunities.md",
       "title": "Fintech's Consolidation Creates Investment Opportunities",
       "excerpt": "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,",
@@ -131,7 +87,7 @@
       "path": "_posts/2020-02-05-global-artificial-intelligence-ai-market-in.md",
       "title": "Global Artificial Intelligence (AI) Market in...",
       "excerpt": "The global artificial intelligence (AI) market in food and beverage (F&B ... and product (companion robots and emotional therapy robots). Smart Robots Market – Global Smart Robots Market by geography (APAC, Europe, MEA, North America, and South America), product (personal service robots, professional service robots, and collaborative robots ...",
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.benzinga.com/pressreleases/20/02/b15254403/global-artificial-intelligence-ai-market-in-food-and-beverage-f-b-industry-2017-2021-evolving-oppo",
@@ -2087,6 +2043,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-daily-news-of-artificial-intelligence.md",
+      "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
+      "excerpt": "The robots have recently entered pole-dancers ... costs and fraudulent orders PWC Tech World reports that most e-commerce platforms are focused on sectors such as communication commerce, artificial intelligence (AI), virtual reality (VR) / augmented reality (AR) and analytics technologies New Delhi: Global auditing and consulting firm PWC ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/series/daily-news-of-artificial-intelligence-66b0dd171af1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/2400/1*nUI0tQinevzbwiWcodKGCg.jpeg",
+          "width": 639,
+          "height": 429,
+          "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T20:45:00Z
 webUrl: "https://www.healthdatamanagement.com/opinion/4-steps-to-getting-practical-about-scaling-ai-for-success"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -15,21 +15,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Three Steps to Succeed with your Machine Learning Project"
-    excerpt: "Success in digital transformation through the implementation of AI - and Machine Learning specifically - largely depends on good planning and timely management of expectations. Mistakes made at management level can have serious consequences. But is there a simple way to integrate Machine Learning into business processes, avoid pitfalls ..."
-    publishedDateTime: 2020-01-29T13:27:00Z
-    webUrl: "https://www.computerworld.com/resources/197372/three-steps-to-succeed-with-your-machine-learning-project"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 39
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
 
 secured: "GtOUtwy5aVwLoESaJOc+9wUP+kcbAITPhtr9L8xFbTGjgOnXaG/8aMG1E2/k5KqG/n+jyAyLOG/GFxXe2MDRPKF3v8N6CHRg/p5iEutryGmVGKUwaIkoeVjJd1HDPtWo0o2tJ1GrE8xxQVfK0A+w5jQrwwpvCLu6VtSwU+9UazX4f953nUabm+KDGRdrq7tPmsGvmr/MPk3Sr7L5L8f9JHF1+yd7JrEOSpAu2hVKptpdMaNwt0nLACAIs91SwXpWXH1fUrOAqcTpSlrcng6Ew6TZ4IPuJA42PP0P1uDDyonmrGiLrYd9xo/xvj3Uh4v+Tw/djjInnOL/G/N3tNcOZVR6lBB6MMwXxWVlk+XHRqfSYkNTsTooWUlyQZdQcUFERpMS+A0HjWl3bpLchwCCmjXnsUQZzJtu/fgzhiIOvlnOedIF+FQ+xtHYHPdpVjmGejBvOLjKJZzO6mEEk5xlALIqN+lDZuAR9lp3YakA+OE=;34s1gc7uPeP38dOZHPSqWg=="
 ---

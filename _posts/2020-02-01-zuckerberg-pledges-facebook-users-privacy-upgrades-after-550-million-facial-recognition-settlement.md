@@ -183,17 +183,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
         width: 2880
         height: 1800
-  - title: "Indian Railways will be using facial recognition to fight crime by end of 2020"
-    excerpt: "Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people’s privacy in the absence of stringent laws."
-    publishedDateTime: 2020-01-29T13:34:00Z
-    webUrl: "https://www.hindustantimes.com/tech/indian-railways-will-be-using-facial-recognition-to-fight-crime-by-end-of-2020/story-LbsKdMCY0PrwqDVdMY7LEP.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/indian-railways-will-be-using-facial-recognition-to-fight-crime-by-end-of-2020/story-LbsKdMCY0PrwqDVdMY7LEP_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/indian-railways-will-be-using-facial-recognition-to-fight-crime-by-end-of-2020/story-LbsKdMCY0PrwqDVdMY7LEP_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 50
   - title: "Lawmakers debate whether to limit how law enforcement uses facial recognition technology"
     excerpt: "ST. PAUL, Minn. (FOX 9) - Minnesota lawmakers will debate Thursday whether to limit how law enforcement uses facial recognition technology. Police are already using facial recognition to scan mug shots and even security footage for suspects, but it is also causing concerns over digital privacy. A Senate committee is holding a hearing ..."
     publishedDateTime: 2020-01-30T16:26:00Z
