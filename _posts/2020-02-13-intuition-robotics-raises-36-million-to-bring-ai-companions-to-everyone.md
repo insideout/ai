@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-mill
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/"
 type: article
 quality: 118
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -58,7 +58,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "The Design Automation Conference to Showcase an AI Hardware Pavilion, Broadening the 2020 Exhibition Lineup"
+    excerpt: "AI hardware is driving the largest wave of chip-design activity in decades. Understanding and harnessing the enormous computational and application potential of AI is fertile ground for new ideas and startup providers. Converting these ideas into working hardware circuits and systems is the core value of design automation, and the major ..."
+    publishedDateTime: 2020-02-13T16:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-design-automation-conference-showcase-an-ai-hardware-pavilion-/2020/02/13/9097887.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
-secured: "tYschfJs4Wc1WwOdnkGV4qzO+MuOtGGGNvoHSzGRDDNamnZGSJILCaoOwavPPqEZSry767+Ex3TsFkPw3I563etUmSXNF0YJGHuzZi+90EJJH31xh1ZoxJlEwT1bI2+N1A91S2vGLbOvu6u1aTNcdQyCrt76Eq87An8DYhd+f0LlUmHtZQ9ptc+BUKBbZ9RLLTkTjsnhDBEiho4bAcb/KTXLv21iR0FrfBmeNLwIHgJZNaKFdUJ6dXEgFnhpKDWGdYgtSjnSVgcIE6tCk68eVs55R+XHoh21vIQlHiIZ2xjbUPgcYogKy7n3oL6FGSW36zQtpYBtK2r6jkhAuJmB2DIAVa7AnAetN3cx6L60XUlemDxeBaqBVsbJs95CQhhKsKxQGHwbnHJtdqTcUfrZz/ONo/HSmff8QbZq9KLrcsy8vm3+z5qUeezAydScZV0QBU9PQaUtSru1v4eFE1O7eylB8cDI/ovC/PjhFD5L/TE=;gSw+0QHib94yVKlujx6wtw=="
+secured: "cMEqxZ5RqENJJm31wUjYuQVenICL5enYYk9KX0st8BOcoU2tIQ4MH8Dm9kLatPHS49UoyX44i+8+cIA0DnSPI4fmQRFBbpXVe8rSRkr6FY49x2GlGxmh46JYezvCW0Kq5C/pr2+WmvklkGwUyQh3C1m/Kv1rn4idFTUUWu/1UOAIKA0qfkXXZYCactVfC2LkqFfsjHr5ZhiukRQpEoCHIqjGIzL81RTB6pl3UD0g6ooA++ASLYVq/x4kf4aXnOdmVN+2vUZxVSB4baUipT/Le+Ngm/4XROkuMswgvQUKYS3SMNAErQQ/4pvAcffjetGhD5N2sannS5Bijo9+HehApJ5natIL8qcJC9vVvQ/TAst3q8kB54bxESGi/nBYkSXg5EO0xRcVUQp2p2KjmogZQkep6PYkvteF83bfM8UoHMTGlBlFVT0v027vwleC/W5l8eaTC3bHpHLnC66Eek/iWFAl94/mVMi9aySscmOUzWQ=;gdFIZoRIEAbVW5sqx0lZ0A=="
 ---
 

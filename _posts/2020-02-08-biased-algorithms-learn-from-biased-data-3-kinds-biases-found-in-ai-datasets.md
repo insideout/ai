@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algori
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/02/ai.jpg"
         width: 523
         height: 519
+  - title: "The Telos Foundation Welcomes Unbiased, a Data Marketplace Designed to Combat Bias in Artificial Intelligence"
+    excerpt: "/PRNewswire/ -- The artificial intelligence community has a problem; their data sources are riddled with bias. \"We live in the era of AI, and data"
+    publishedDateTime: 2020-02-13T16:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-telos-foundation-welcomes-unbiased-a-data-marketplace-designed-to-combat-bias-in-artificial-intelligence-301004605.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1090171/The_Unbiased_Data_Marketplace.jpg?p=facebook"
+        width: 600
+        height: 314
 
 secured: "DKLNI9NUP4Yz8xUcGJayuYEKQynT+DnjEI/f/kUbGf1Ywafu8u4NDujtdJrX6bYkjNuShVTHCuFlFDQ25F+Jcd9jCVWGcGQePFE5YXZCAKDySZX1VT8k2cAv5xGfMuSaRJCY6p31PlF25WG3evJfdw4cVoDre8oJd5QVVTUFYEca0pWxwpdRudCBG6l11dZYEUE0W4sUNYyRtCDazL6rodkhMrN95Tz7hiqIyrMgZrGyOc6oMclZFnESR/lIbCdqU2QpepKugN1iHtlD0kc3fPaO8CDhqwTRcu3iBIP3HMroi8snzh6T6oZiQ7v78hPxJplRHeghK07qulHhIr/oW9G5l8vB+ngFnVuYxfCF80PGa5TDzMTsvCnjD1hTPzLkATPegLZKnweAa+vSbNK4C+k6BfwgH6eaH+3UfJGLkeR3LU0iGpEuGoiZ678zrjMuv81BT2HNZ3Y9rIITRjBeNdFI5CMm+lOLi2HX4FJHsQQ=;Gj1JrhxzjJQ4Q76Jf5bzAw=="
 ---

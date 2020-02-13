@@ -57,6 +57,19 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/ElliQ_3-1024x773-1.jpg"
         width: 1024
         height: 773
+  - title: "The Design Automation Conference to Showcase an AI Hardware Pavilion, Broadening the 2020 Exhibition Lineup"
+    excerpt: "AI hardware is driving the largest wave of chip-design activity in decades. Understanding and harnessing the enormous computational and application potential of AI is fertile ground for new ideas and startup providers. Converting these ideas into working hardware circuits and systems is the core value of design automation, and the major ..."
+    publishedDateTime: 2020-02-13T16:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-design-automation-conference-showcase-an-ai-hardware-pavilion-/2020/02/13/9097887.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "DFgv2fUyF2VCHQ5qlrHHlewHZyNbmvnNkzNG7sMeaytuzwhaS/6BA3UuCqjC85u671REzEdLNeXZnUhr3X/juA1i7YPu4aoyV7Hn3YqB2KRK+FTgugTTTlGj48vHI543G+tkUWeem+SmwoMFs2pJTM2acP/DH39XaaKtvXyoUsp4PVHjJZV+xMSaVOX9yGC1tcMg2OfaP9QiWpbRIuvhyULJHMbaIfBR679YiwWy3JSsJLmJ7ILCONI47oGCYf84Ye8qWsGPvrs63KJC8cV8MJugCe4J83fekxrsKAHELeX1iw4KlU/PrLOZkCjWffjxZStcvfbTtST+GYHBLGfLUGnrFKH1v1ozGgyQ0Mcam/zZ6I3ADBmu213rrFaqdRqs4m5yAazGDyIFwe/Pz9ONw4iUOEr19lAc2RQnMjY4AGDPHsMaAl786txcdYAxuXZf971Wsb7XQ8kl60vQ6nZJVnRqvBnXBI7H9lsjzZO+DWY=;4dSF8nCsTYi0IOe2UMIh8Q=="
 ---

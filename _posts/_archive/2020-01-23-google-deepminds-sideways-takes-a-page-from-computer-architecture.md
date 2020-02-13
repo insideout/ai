@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Google DeepMind’s ‘Sideways’ takes a page from computer architecture"
 
-secured: "5k1os/cyEYFtTBv8CvFzAKXBhK1MR/kSDpv5LDYdzKIvuYLl/jZcZe7ZHc8uVrasStFaO7GDK+B414i3Fa4OrOSK0DJ6/+HGhkK8TczJUMLdUnw03P/GLFjv0r7u7HMyPWUDqtuyIMZfIn55AIHM2y80T9QBX31/PinH1mFSsRDE8u22eI75H2Yk44bcjGCnuK1mLq1yK/6ImdNYxmGYwkNMSYE/DyGIcw6dlREOIoXpBzhNSnX/oAKoDKuRlz0oXGTlPFZnqyGkpQw6M5Fzv2WXvCDHQ04XW0Z3r/yx5aV46l6DExsiPuOw0FondXBx;KKkRPmrBw/SDkF8GjsjIew=="
+secured: "KLxEOKeD4rjLR2weTbOTajR30pGA/2Mxs8Jos2H1bXxZXag22ZPDOuwvuh81YFGu+vGWRdcgZwd6RrqMpYpCirtNUvqiCz7ZYGOKEUvUHFtYLOIM7YRJZByQbC14FjZZFJgq9Vz5zqjXjA8ZhlWuNzYNu9Mp1nVUVuN/YbaJ6EmzmX71t+xamjRHZac1qCHfWS3i4HoztBELuajPDYoX1hDvOTJV15emB7C0zkcHlNnNrhVk0Sqgl7ejBKn8w+VHbUOVMzJGfoZwX3zB3n98FfkkZnkr3GoBn/IKl+93fnWI2kp9vQeR0XDhhq6j82bN;EcnNBr13EC8OrjsKgBNskg=="
 ---
 

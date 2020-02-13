@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-11-unpacking-the-differences-between-automation-and-ai-in-the-enterprise.md",
-      "title": "Unpacking The Differences Between Automation And AI In The Enterprise",
-      "excerpt": "As enterprises strategize the incorporation of automation and AI-driven applications in their technology ecosystems, it’s critical to clarify the distinctions and understand the unique role each technology plays in digital transformation initiatives.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/",
-      "publishedDateTime": "2020-02-11T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/167890572/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Unpacking The Differences Between Automation And AI In The Enterprise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
       "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
       "excerpt": "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,",
@@ -1175,6 +1131,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-13-ais-healthcare-promise-will-serve-patients-and-more.md",
+      "title": "AI’s Healthcare Promise Will Serve Patients — and More",
+      "excerpt": "The question: “As healthcare organizations invest in artificial intelligence technologies, in what areas can they reap the most immediate benefits?” Scott Nelson, Founder, CEO, CTO, Reuleaux Technology, agrees. “Without question, the most immediate AND impactful application of AI in healthcare will be patient engagement/behavior during ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.html",
+      "ampWebUrl": "https://www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.amp.html",
+      "publishedDateTime": "2020-02-13T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/02/istock-1139923894-100831551-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI’s Healthcare Promise Will Serve Patients — and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
       "title": "Esteban Granero aiming to bring artificial intelligence into football",
       "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
@@ -1304,7 +1297,7 @@
       "path": "_posts/2020-02-13-intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone.md",
       "title": "Intuition Robotics raises $36 million to bring AI companions to everyone",
       "excerpt": "Israeli robotics startup Intuition Robotics has raised $36 million in a series B round of funding co-led by Sparx Group and OurCrowd, with participation from Samsung Next, Toyota AI Ventures, Bloomberg Beta, iRobot, Sompo Holdings, Union Tech Ventures, Happiness Capital, and Capital Point. Founded in 2015, Intuition Robotics is creating what ...",
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/",

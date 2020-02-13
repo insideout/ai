@@ -820,6 +820,43 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-27-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
+      "title": "AI can help cancer patients start radiation therapy sooner",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "publishedDateTime": "2020-01-26T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI can help cancer patients start radiation therapy sooner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
       "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
       "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",
@@ -2142,43 +2179,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-advantages-of-machine-learning-and-data-analytics-courses.md",
-      "title": "Advantages of Machine Learning and Data Analytics Courses",
-      "excerpt": "Advantages of Machine Learning and Data Analytics Courses: Considering that the data enormity is consistently on the rise, the urgent need to figure out such methods that can help to gain valuable insights on the same can be felt. As a result, the demand for professionals with adequate data science skills cannot be neglected. There is no ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/",
-      "ampWebUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
-      "cdnAmpWebUrl": "https://www-newznew-com.cdn.ampproject.org/c/s/www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
-      "publishedDateTime": "2020-01-27T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seat",
-        "domain": "newznew.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newznew.com/wp-content/uploads/2020/01/892730_f4e5_3.jpg",
-          "width": 750,
-          "height": 422,
-          "title": "Advantages of Machine Learning and Data Analytics Courses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

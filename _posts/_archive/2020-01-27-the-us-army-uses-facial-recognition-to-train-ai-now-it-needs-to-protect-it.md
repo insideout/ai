@@ -1,7 +1,7 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -60,36 +60,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "EU drops idea of facial recognition ban in public areas: paper"
-    excerpt: "The European Union has scrapped the possibility of a ban on facial recognition technology in public spaces, according to the latest proposals seen by Reuters. An earlier draft by the European Commission had broached the idea of a moratorium of up to five years to give the bloc time to work out how to prevent abuses."
-    publishedDateTime: 2020-01-29T23:11:00Z
-    webUrl: "https://www.reuters.com/article/us-eu-ai-idUSKBN1ZS37Q"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZS37Q"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZS37Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
-  - title: "Facebook to Pay $550 Million to Settle Facial Recognition Suit"
-    excerpt: "It was another black mark on the privacy record of the social network, which also reported its quarterly earnings. Facebook said on Wednesday that it had agreed to pay $550 million to settle a class-action lawsuit over its use of facial recognition technology in Illinois,"
-    publishedDateTime: 2020-01-29T23:18:00Z
-    webUrl: "https://www.nytimes.com/2020/01/29/technology/facebook-privacy-lawsuit-earnings.html"
-    ampWebUrl: "https://www.nytimes.com/2020/01/29/technology/facebook-privacy-lawsuit-earnings.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/facebook-privacy-lawsuit-earnings.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2020/01/29/business/29facebook/29facebook-facebookJumbo.jpg"
-        width: 1050
-        height: 549
   - title: "Facebook To Pay $550 Million To Settle Facial Recognition Lawsuit"
     excerpt: "Topline: Facebook on Wednesday agreed to pay $550 million to settle a lawsuit accusing it of collecting data and images of users’ faces without permission—the largest ever cash settlement resolving a privacy-related lawsuit."
     publishedDateTime: 2020-01-30T02:19:00Z
@@ -672,19 +642,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
         width: 620
         height: 465
-  - title: "Amazon’s New Facial Recognition Smells Your Fear"
-    excerpt: "Amazon Rekognition is the company’s controversial face detection and analysis technology. The name alone sounds like it comes from a Paul Verhoeven movie. Since its launch in 2016, critics have ..."
-    publishedDateTime: 2020-01-30T00:00:00Z
-    webUrl: "https://www.geek.com/tech/amazons-new-facial-recognition-smells-your-fear-1800027/"
-    type: article
-    provider:
-      name: Geek.com
-      domain: geek.com
-    quality: 54
-    images:
-      - url: "https://www.geek.com/wp-content/uploads/2019/03/Jeff-Bezos-Mars-Conference.jpg"
-        width: 1000
-        height: 562
   - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
     excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
     publishedDateTime: 2020-02-02T02:35:00Z
@@ -700,19 +657,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/s--1cJFuGHm--/c_scale,f_auto,fl_progressive,q_80,w_800/pm2nsbcl6nmsxpirnyv9.jpg"
         width: 800
         height: 449
-  - title: "Facial recognition fails in China as people wear masks to avoid coronavirus"
-    excerpt: "For hundreds of millions of people in China, the spread of the new coronavirus has caused abrupt changes to the smallest of habits -- even a gesture that most in the country are used to by now: Looking into the camera for facial recognition. Residents donning surgical face masks while venturing outside their homes or meeting strangers have ..."
-    publishedDateTime: 2020-01-29T23:09:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3048147/facial-recognition-fails-china-people-wear-masks-avoid-coronavirus"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 52
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/mask_3.jpg?itok=o51DKRSy"
-        width: 1200
-        height: 630
   - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
     excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
     publishedDateTime: 2020-02-05T22:16:00Z
@@ -743,15 +687,6 @@ related:
       - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Facebook reaches $550 million settlement in facial recognition lawsuit"
-    excerpt: "Facebook said Wednesday that it had reached a $550 million settlement in principle related to a class action lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent. The lawsuit began in 2015, when ..."
-    publishedDateTime: 2020-01-29T23:50:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/facebook-reaches-550-million-settlement-facial-recognition-lawsuit-n1126191"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
   - title: "Facebook will cough up $550 million to settle facial recognition case"
     excerpt: "Remember the time when Facebook used to automatically tag you in photos uploaded by your friends using facial recognition? Now the company has agreed to pay $550 million to settle a class-action lawsuit for using the technology in Illinois. A report by the New York Times noted that the suit alleged Facebook of violating Illinois biometric ..."
     publishedDateTime: 2020-01-30T06:38:00Z
@@ -1280,6 +1215,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "L8ZX0O8Pv4OhLLxYyEDFeNApqNQZ1+Ie0LPSLIEb2QlJHIqKCt2Qvs/II0N5mcXJgLSfhuXpqymwLV3fnaX9MiTyKxK88b2ijDZCIGikaKyPvyPBgzbU+EyxgN1ck+f/98tneoXCnqGGH3KcauESig8YzuVG9BQpgN6aq7f+uEKNQ2sjIFCAM6b1XV/c7LcYpS127FJnmJgmmGb8YKjkbwXl0+7eslnQUBrGFnw1kk9hAuTJcME6Kn0ahu9H3Sf4r76Ep097Cbm0LuOnrOnhqmxUwW5jkCSOgJC3vnq9oqFHQAtK4gZ4txblTIEanCc7;RKSG/bGfH61Z2NogFaneFQ=="
+secured: "JKYIIZH6dWUcqaN0AcEou64yhu0Upi2I7nI7uWdYC8ETgRbkvwWa/YBimkQVyYd8n6lLD7n6LNngc/9A7aA4zct3QvZgKpHEdbaG3NGPcDs4e59mfAR8yr6V08hV4iuj5Ka/wQdloNfVQEopbmVJ9I1G5GKERAQCreLTD9fxMViKv2R7hyW7ubK82vkH35tkxyPYrjdXPJ96yi8mQjUqRJsoH2Yr6CzzkJRgE2R4JzLxWJmOeYYAjpqXmgOGNwmyGLBjFOzGJSAKSvY3zbRDFdSDN15m7BdKi7EBqNMZnBP4Tz1r17h+OEhfvK/R0Gve;9zKXW6GLaCQJXhDXjCqf8g=="
 ---
 

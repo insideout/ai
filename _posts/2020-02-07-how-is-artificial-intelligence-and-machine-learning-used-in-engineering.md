@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
 type: article
 quality: 105
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -31,6 +31,21 @@ images:
     title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
 
 related:
+  - title: "How is your company managing its AI and ML initiatives?"
+    excerpt: "When it comes to artificial intelligence (AI) and machine learning (ML) projects, the biggest challenge for CXOs isn't necessarily deployment, but rather, managing these initiatives. For example, what do you anticipate your AI/ML budget will look like? What business areas are you applying AI/ML in? How knowledgeable is your upper management ..."
+    publishedDateTime: 2020-02-13T16:05:00Z
+    webUrl: "https://www.zdnet.com/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/97edf97a-b310-4039-9187-a171b3f4f42b/thumbnail/1200x675/b7184f33d5c3dbaa6df56d95e8bbd35b/screen-shot-2020-01-27-at-12-40-12-pm.png"
+        width: 1200
+        height: 675
   - title: "An Engineer’s trek into Machine Learning"
     excerpt: "My trek mates and I climbing Mayali Pass in Uttarakhand Himalaya, India You are a Software Engineer. You notice Artificial Intelligence, Machine Learning, Deep Learning, Data Science buzzwords all around. You wonder what these phrases mean, whether all this is for real and useful or is yet another hype and passing fad. You want to figure out ..."
     publishedDateTime: 2020-02-10T18:43:00Z

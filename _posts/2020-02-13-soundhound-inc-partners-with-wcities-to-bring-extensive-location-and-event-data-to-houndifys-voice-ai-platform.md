@@ -23,6 +23,6 @@ images:
     height: 627
     title: "SoundHound Inc. Partners With Wcities to Bring Extensive Location and Event Data to Houndify’s Voice AI Platform"
 
-secured: "OUja9FvsNmoBWh0Rz27HpeDW9cecNpda+piLmoLPunoX/W6PGO/6kgzjWTfWyIn4aPGXnIk//kVlhJIuh0rHsCPc2e+Cw3hTiwjKwt2+5+KIlvntmQ2ZS71dC5DchqovGM1tg4wopNebFdRYEKlaR7dvOPIKRxgwlEWAvEo8x742hlunSzEMuPk9C1ZzlLswkWDiJ5eywhIDty0CC/GZ8ICEoJmugU6P0XBpHrXSgndW8U22IL0W5Pln57c3WkfP1hI8899vFE8YwhQzM+soB+oYv4K9WUc04BmIaUv45xtVrXVG2uArtOLvWm+Y28/I;YXUWOEI+JItOh5nIqGllDg=="
+secured: "1wNhO4Z9KdN7WGTZy5VC1aOuA3+t0Fm5g+G4f+OVNmvJ3kwQRgsDeAbdHHjVGAF/w88Fl7w0HQYTBE5+2l6mR4k3/voaB4Tphoj8IjgfO6nOX9wHoCSrV5Gvh7/V2Qo11RZ4vdGv2WO9wLatB+QX/6JqZ7pI4NZsYYD4lqq8KxuPufDG713zpG+J3Zp8hXWYHY34SKdPEcoluZU+OTtVVRlXqKbWSRKcZ+EuKFGx9GZg0NZYvc5KFkHjHxShPBQrqTaHSJfgOoqI9P81hTQeyqrgIPJ/ZDwQZLcnyJLh8EL2U9A1l1Kp71qRWGlcV2Q834d+9GWwx32r5AE1GtMHxYyC2RYAaYGcVAvVY6OoVwfxq4EzxtaYhvV2b2aiaEI5enNRjT5GCDqP1iYNp9ZfcXRrtaIWTp/zRbL1FWpIcFprsX5IkNxaNWlFsjPnxtABTCeE5/8clV45522Rq81pqxJ8Ci79zKRFgHUVMIHwc20=;iHka+cIl7mRlE+6RSsUq8g=="
 ---
 

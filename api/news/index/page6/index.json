@@ -2,51 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
-      "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-      "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-152543/social",
-          "width": 1280,
-          "height": 640,
-          "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-the-role-of-machine-learning-in-marketing.md",
       "title": "The Role of Machine Learning in Marketing",
       "excerpt": "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ...",
@@ -2153,6 +2108,50 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-unpacking-the-differences-between-automation-and-ai-in-the-enterprise.md",
+      "title": "Unpacking The Differences Between Automation And AI In The Enterprise",
+      "excerpt": "As enterprises strategize the incorporation of automation and AI-driven applications in their technology ecosystems, it’s critical to clarify the distinctions and understand the unique role each technology plays in digital transformation initiatives.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2020-02-11T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/167890572/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Unpacking The Differences Between Automation And AI In The Enterprise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

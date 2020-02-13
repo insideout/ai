@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-04-camcon-explores-diesel-and-ai-calibration-for-its-digital-valve-train.md",
-      "title": "Camcon explores diesel and AI calibration for its digital valve train",
-      "excerpt": "The company is working in three directions to push things forward: it's building plug and play valve train kits for a range of common single-cylinder research engines, it's opening up to the heavy-duty diesel (HDD) market, and it's assembling a machine learning team to start applying artificial intelligence to the complex task of calibrating ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/",
-      "ampWebUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
-      "publishedDateTime": "2020-02-03T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/257812a/2147483647/strip/true/crop/1619x1080+0+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Fcamcon-digital-iva-valve-system-4.jpg",
-          "width": 1160,
-          "height": 774,
-          "title": "Camcon explores diesel and AI calibration for its digital valve train",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-elon-musk-says-he-doesnt-care-if-tesla-ai-dept-applicants-finished-high-school.md",
       "title": "Elon Musk Says He Doesn’t Care If Tesla AI Dept. Applicants Finished High School",
       "excerpt": "The CEO of SpaceX said Sunday that he's looking to hire folks for Tesla’s artificial intelligence team. \"Join AI at Tesla!\" he tweeted. The artificial intelligence team “reports directly to me & we meet/email/text almost every day.\" “At Tesla, using AI to solve self-driving isn’t just icing on the cake, it the cake” - @lexfridman Join ...",
@@ -2100,6 +2056,43 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-chatbots-are-big-news-but-robots-are-set-to-be-bigger.md",
+      "title": "Chatbots are big news, but robots are set to be bigger",
+      "excerpt": "Robotic process automation is an application technology leveraging artificial intelligence (AI) and machine learning (ML ... Today, RPA is a compelling proposition in that it allows businesses to create their own software robots to automate business processes, quickly giving the business an efficient digital workforce that dramatically reduces ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/LPp6V7r4Y2NqDKQz",
+      "ampWebUrl": "https://amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz",
+      "publishedDateTime": "2020-02-05T23:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/02/Gavin-Els-2020-IIN.jpg",
+          "width": 816,
+          "height": 459,
+          "title": "Chatbots are big news, but robots are set to be bigger",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

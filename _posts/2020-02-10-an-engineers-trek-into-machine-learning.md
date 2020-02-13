@@ -37,6 +37,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
         width: 711
         height: 290
+  - title: "How is your company managing its AI and ML initiatives?"
+    excerpt: "When it comes to artificial intelligence (AI) and machine learning (ML) projects, the biggest challenge for CXOs isn't necessarily deployment, but rather, managing these initiatives. For example, what do you anticipate your AI/ML budget will look like? What business areas are you applying AI/ML in? How knowledgeable is your upper management ..."
+    publishedDateTime: 2020-02-13T16:05:00Z
+    webUrl: "https://www.zdnet.com/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/97edf97a-b310-4039-9187-a171b3f4f42b/thumbnail/1200x675/b7184f33d5c3dbaa6df56d95e8bbd35b/screen-shot-2020-01-27-at-12-40-12-pm.png"
+        width: 1200
+        height: 675
   - title: "Hyland buys blockchain-anchored business Learning Machine"
     excerpt: "Financial terms of the acquisition by Hyland were not disclosed ... More than 900 such institutions already use Hyland's content services platform. Chris Jagers, CEO of Learning Machine, said in a statement that the deal \"creates significant value for Learning Machine customers who will gain the full benefit of Hyland's notable support ..."
     publishedDateTime: 2020-02-05T16:11:00Z

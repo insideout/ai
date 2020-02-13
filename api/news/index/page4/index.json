@@ -2,43 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-06-chatbots-are-big-news-but-robots-are-set-to-be-bigger.md",
-      "title": "Chatbots are big news, but robots are set to be bigger",
-      "excerpt": "Robotic process automation is an application technology leveraging artificial intelligence (AI) and machine learning (ML ... Today, RPA is a compelling proposition in that it allows businesses to create their own software robots to automate business processes, quickly giving the business an efficient digital workforce that dramatically reduces ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/LPp6V7r4Y2NqDKQz",
-      "ampWebUrl": "https://amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz",
-      "publishedDateTime": "2020-02-05T23:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/02/Gavin-Els-2020-IIN.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "Chatbots are big news, but robots are set to be bigger",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-clearview-ai-is-looking-to-expand-globally-report-says.md",
       "title": "Clearview AI is looking to expand globally, report says",
       "excerpt": "The facial recognition company reportedly wants to sell its app to law enforcement in 22 more countries. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries ...",
@@ -1438,7 +1401,7 @@
       "path": "_posts/2020-02-07-how-is-artificial-intelligence-and-machine-learning-used-in-engineering.md",
       "title": "How Is Artificial Intelligence And Machine Learning Used In Engineering?",
       "excerpt": "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness.",
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/",
@@ -2134,6 +2097,50 @@
           "width": 711,
           "height": 558,
           "title": "AI For A Competitive Advantage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-an-ai-regulation-strategy-that-could-really-work.md",
+      "title": "An AI regulation strategy that could really work",
+      "excerpt": "When even the companies developing AI themselves agree with the need for regulation, it is time to stop discussing abstract principles and get down to the business of how to regulate a rapidly advancing technology landscape. It is clear that our regulatory system needs an update. If we try to regulate 21st century technology and beyond ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/amp/",
+      "publishedDateTime": "2020-02-08T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/markets.jpg?fit=3840%2C2160&strip=all",
+          "width": 3840,
+          "height": 2160,
+          "title": "An AI regulation strategy that could really work",
           "attribution": null
         }
       ],
