@@ -34,9 +34,9 @@ related:
       domain: crn.com
     quality: 38
     images:
-      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.crn.com/resources/0259-0e94f355479c-492ac67e6a1d-1000/amazon-connect-1.jpg"
+        width: 610
+        height: 457
 
 secured: "rrKZI1EgkkNlBp3qI2VMiu/Kf1sfk0ZdT9XpAPbyE//ATfN2jYHs0en7NeGU7BAvux8RMWPiA/3ssCttOokkNtT8IH58PUQvDqgICrKmhxgDXjhfhEacyM9zPsi3++DcuYUxnHH2dncQh8X3Rooub6bt00THWGzqgiqPJYNY/TjLnrhxR5Vovkn/ecJgEEZiLPIUY55ju9S92qHC9Q9l2vIFPJ91Ad3OYK01co9U2zfTZ3NU5+Q6vl4ysToDxHDzGbNEY0UhddA/75FIwvEZANmz4xdi3H47JuJpxC6iU0aK9mN3DMvBa/ALml7ZRuOFzPXYdv0AXXkHUQlL61m5J3qH4I4cmI8BqykbmlFCWWeWrVDivHZOkBxYqq1cFFlaZMgdXGwwVwccn8OkL3uVKq00kwC2OEkWGP620JUr4ia8aylFmMzUEP7w/FpiIcRRZFc7DcXTygM73mjAAJ1+eqLHhs4jpkqO7Xs54OdfHVA=;nGWxTpYqxfzxehiUEKebmA=="
 ---

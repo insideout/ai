@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Senate bill would place a moratorium on feds using facial recognition"
 
 related:
+  - title: "US senators propose facial recognition ban (but not for police)"
+    excerpt: "US senators have introduced a bill that would temporarily restrict the use of facial recognition technology — but their proposals fall short of a total ban. The Ethical Use of Artificial Intelligence Act would place a moratorium on federal government use of facial recognition technology (FRT) until Congress passes legislation regulating ..."
+    publishedDateTime: 2020-02-13T13:41:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-10-796x417.png"
+        width: 796
+        height: 417
   - title: "U.S. Senators propose facial recognition moratorium for federal government"
     excerpt: "Two Democratic U.S. Senators today proposed legislation that requires a moratorium on facial recognition use by federal agencies, government employees, and law enforcement until a Congressional commission can act to recommend guidelines and place limits on use of the technology. The bill, titled named the Ethical Use of Artificial Intelligence ..."
     publishedDateTime: 2020-02-12T23:24:00Z

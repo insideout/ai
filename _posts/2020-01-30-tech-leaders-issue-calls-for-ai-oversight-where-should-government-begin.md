@@ -39,19 +39,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570816530/itpro/2019/02/ai_shutterstock_767827225.jpg"
         width: 1920
         height: 1080
-  - title: "Government developing AI use case repository for agencies facing challenges"
-    excerpt: "Early practice areas TTS identified are acquisition, ethics, governance, tools and techniques ... GSA is working to educate agencies that AI is an embedded technology that needs to be adopted within the acquisition framework, not a solution in itself, said Omar Saeb, Alliant 2 program manager in GSA’s Office of Information Technology Category."
-    publishedDateTime: 2020-01-29T20:55:00Z
-    webUrl: "https://www.fedscoop.com/ai-use-case-repository-tts/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/GettyImages-1141197135.jpg"
-        width: 2100
-        height: 1107
 
 secured: "RXRmvCt8Ac0nb9nGo1ZWZdTAas3DYT5Ed3LLjBOQjovWEHfzFyd4BdI6Ns7SpnA8x3mpdnpHVv3LhgfoACf9uCKNnouvaAY2b0frmIbhI1ElSwiLizgjGGXjWs2XLuF6g+jS+M7SDAoE2958Yg+9LYj1ML2kCL0cc1+EugBQSrsljEf6kTR3ZXOvzAfaBsSsZJHfUde2Lj2Hs2dtzbeuOcM1Gc0j4pPBX3qxak19OYz5TLByeKQinqHvKjMOkPWjbSARaXqQmyz3ycqL3hinYsxjMVoa4NBrpKpDZ/l7K6yxBNg6U2XWV9tR4TJbz6el;pzmlVz3C7eICfPaDsF8/qg=="
 ---

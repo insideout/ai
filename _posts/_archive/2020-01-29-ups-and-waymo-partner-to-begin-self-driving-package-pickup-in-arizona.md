@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Self-driving company Waymo teams up with UPS for package delivery"
-excerpt: "Waymo will start delivering parcels for UPS using its self-driving Chrysler Pacifica minivans in Phoenix as part of a broader partnership with the shipping and logistics company. The companies said Wednesday that Waymo will pilot autonomous vehicle package pickup in metro Phoenix — the same area where its self-driving vehicles already operate."
-publishedDateTime: 2020-01-29T21:11:00Z
-webUrl: "https://techcrunch.com/2020/01/29/self-driving-company-waymo-teams-up-with-ups-for-package-delivery/"
-ampWebUrl: "https://techcrunch.com/2020/01/29/self-driving-company-waymo-teams-up-with-ups-for-package-delivery/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/self-driving-company-waymo-teams-up-with-ups-for-package-delivery/amp/"
+title: "UPS And Waymo Partner To Begin Self-Driving Package Pickup In Arizona"
+excerpt: "Waymo’s self-driving vehicles will shuttle packages from The UPS Store locations in Metro Phoenix to UPS facility -- Partnership to develop customer and operational benefits “UPS and Waymo are exploring automated and autonomous technologies to enhance network operations,” said Scott Price, UPS chief strategy and transformation officer."
+publishedDateTime: 2020-01-29T21:47:00Z
+webUrl: "https://www.bakersfield.com/ap/news/ups-and-waymo-partner-to-begin-self-driving-package-pickup/article_ea2b0bbc-178a-5d6f-8805-694383fa1cbf.html"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
+    title: "UPS And Waymo Partner To Begin Self-Driving Package Pickup In Arizona"
 
 related:
   - title: "UPS teams up with Waymo to test self-driving delivery vans"
@@ -174,6 +174,17 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30bcd88b6cf300071d3b31%2F0x0.jpg"
         width: 1200
         height: 817
+  - title: "Self-driving company Waymo teams up with UPS for package delivery"
+    excerpt: "Waymo will start delivering parcels for UPS using its self-driving Chrysler Pacifica minivans in Phoenix as part of a broader partnership with the shipping and logistics company. The companies said Wednesday that Waymo will pilot autonomous vehicle package pickup in metro Phoenix — the same area where its self-driving vehicles already operate."
+    publishedDateTime: 2020-01-29T21:11:00Z
+    webUrl: "https://techcrunch.com/2020/01/29/self-driving-company-waymo-teams-up-with-ups-for-package-delivery/"
+    ampWebUrl: "https://techcrunch.com/2020/01/29/self-driving-company-waymo-teams-up-with-ups-for-package-delivery/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/self-driving-company-waymo-teams-up-with-ups-for-package-delivery/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
   - title: "Self-driving Waymo van, 2nd vehicle collide in Tempe"
     excerpt: "PHOENIX – A self-driving minivan and another vehicle collided in Tempe late Thursday but no one was seriously injured, police said. The driverless Waymo van and the car crashed near Warner and Rural roads. The van was carrying one passenger. The driver was taken to a hospital but the injuries weren’t life-threatening. Neither the driver of ..."
     publishedDateTime: 2020-01-31T14:36:00Z
@@ -256,32 +267,6 @@ related:
       - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/upsvan.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "UPS And Waymo Partner To Begin Self-Driving Package Pickup In Arizona"
-    excerpt: "Waymo’s self-driving vehicles will shuttle packages from The UPS Store locations in Metro Phoenix to UPS facility -- Partnership to develop customer and operational benefits “UPS and Waymo are exploring automated and autonomous technologies to enhance network operations,” said Scott Price, UPS chief strategy and transformation officer."
-    publishedDateTime: 2020-01-29T21:47:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/ups-and-waymo-partner-to-begin-self-driving-package-pickup/article_ea2b0bbc-178a-5d6f-8805-694383fa1cbf.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-        width: 1200
-        height: 630
-  - title: "Waymo and UPS unite for self-driving pilot project, maybe more"
-    excerpt: "They're about to get some company in the fleet. Waymo soon will carry packages for UPS using its self-driving Chrysler Pacifica minivans, the two companies said Wednesday. In a pilot project expected to begin this quarter, Waymo will use its minivans to ferry packages from multiple UPS stores in the metro Phoenix area to the logistics company ..."
-    publishedDateTime: 2020-01-29T20:05:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-and-ups-unite-self-driving-pilot-project-maybe-more"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-main_i.png"
-        width: 800
-        height: 600
   - title: "Waymo To Team With UPS On Self-driving Delivery Plan"
     excerpt: "Waymo said Wednesday it would team up with UPS to test its autonomous vehicles for the package delivery giant. The two firms said they would collaborate on the project to shuttle packages from UPS Stores in the Phoenix,"
     publishedDateTime: 2020-01-29T22:42:00Z
@@ -295,19 +280,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/29/waymo-will-be-using-its-autonomous-vehicles-with.jpg"
         width: 1024
         height: 670
-  - title: "Waymo, UPS unite for self-driving pilot project, maybe more"
-    excerpt: "They're about to get some company in the fleet. Waymo soon will carry packages for UPS using its self-driving Chrysler Pacifica minivans, the two companies said Jan. 29. In a pilot project expected to begin this quarter, Waymo will use its minivans to ferry packages from multiple UPS stores in the metro Phoenix area to the logistics company's ..."
-    publishedDateTime: 2020-01-29T20:49:00Z
-    webUrl: "https://www.rubbernews.com/automotive/waymo-ups-unite-self-driving-pilot-project-maybe-more"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Waymo_i.png"
-        width: 800
-        height: 600
   - title: "UPS and Waymo partner on self-driving parcel pickup"
     excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
     publishedDateTime: 2020-01-30T17:34:00Z
@@ -383,6 +355,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "axdkGAwdgLf/XBB7D5tTJvYGbn/kPmcX+1RL9yWpjqtbQzJtZNCI5ZmJSa1u7braMySHBWpHreuiC/CVXqzMtZW/gMt95FJS9v5Rrk8aSuj6roWvh3oxoGEgXJdgRxQaeALQeNc8jdSl9Thwg2ZUWQr3+0TerdZvetRNdo00v+vhMgTchvg2sHL2CYmexgbCvl6/Y4voB7KOaMXE6Nl2zFcY5ODTY7ziYrP/87r4Pcreb6T/fQiTt1OUm+8Wf/6gzulhh+QrIPoOErUldv3ohpNIp4mFdUTdUcQCTAdL5HhLb6bCgWQ+r/kmUh+UpLU2/z78Dn5Ezq/Qsdjv+sSpyvKdSPvq09djhNVobF0auBxEzsiZ1Mky/1xOnsQ9lTTTl0jITC0UOHHrcu5Cex2sWmbhQ7dVjInSqxeZwOvqt2ego2a8+KSNxscrgSMsw0KvFm619mYANv/fFI6PksrE3Szs3DHK1JOw3OT7dCjwOcw=;cvBrcXNZN39XPUoJKduvRw=="
+secured: "g3O+Yf3Bm7iQXY1rMXqGXVfjeBE73joZF5ZsCmiC4q809ik97DsuvVZrxy/zYEzumZgfAshP3SgL0awBQM+misQAtsfyURQio53UXZbIcj1Hjy4iB9dpcPBq2kkSPagS9kW0nfLUFFLKrl/PuImeXbqJgu7waOzquap3bAv/V0JhvBe0DLu9BCli+VGqT80DNOy6CFvGRMjDUZhtW4axvCAx8Bz0a1tL3Tvw1jO3FQGnQkQHTSgVE8P05rF9M1mbe+0NIWrlHrwWxIwOqONqnmV+7PAqttTptDMgmUDS7TyuJIdlFr/hOZNqYhUpp1Iz;4ugma4YQHMEgsva2DA1KGg=="
 ---
 

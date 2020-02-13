@@ -271,19 +271,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
         width: 1200
         height: 630
-  - title: "Waymo and UPS unite for self-driving pilot project, maybe more"
-    excerpt: "They're about to get some company in the fleet. Waymo soon will carry packages for UPS using its self-driving Chrysler Pacifica minivans, the two companies said Wednesday. In a pilot project expected to begin this quarter, Waymo will use its minivans to ferry packages from multiple UPS stores in the metro Phoenix area to the logistics company ..."
-    publishedDateTime: 2020-01-29T20:05:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-and-ups-unite-self-driving-pilot-project-maybe-more"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-main_i.png"
-        width: 800
-        height: 600
   - title: "Waymo To Team With UPS On Self-driving Delivery Plan"
     excerpt: "Waymo said Wednesday it would team up with UPS to test its autonomous vehicles for the package delivery giant. The two firms said they would collaborate on the project to shuttle packages from UPS Stores in the Phoenix,"
     publishedDateTime: 2020-01-29T22:42:00Z
@@ -297,19 +284,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/29/waymo-will-be-using-its-autonomous-vehicles-with.jpg"
         width: 1024
         height: 670
-  - title: "Waymo, UPS unite for self-driving pilot project, maybe more"
-    excerpt: "They're about to get some company in the fleet. Waymo soon will carry packages for UPS using its self-driving Chrysler Pacifica minivans, the two companies said Jan. 29. In a pilot project expected to begin this quarter, Waymo will use its minivans to ferry packages from multiple UPS stores in the metro Phoenix area to the logistics company's ..."
-    publishedDateTime: 2020-01-29T20:49:00Z
-    webUrl: "https://www.rubbernews.com/automotive/waymo-ups-unite-self-driving-pilot-project-maybe-more"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Waymo_i.png"
-        width: 800
-        height: 600
   - title: "UPS and Waymo partner on self-driving parcel pickup"
     excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
     publishedDateTime: 2020-01-30T17:34:00Z

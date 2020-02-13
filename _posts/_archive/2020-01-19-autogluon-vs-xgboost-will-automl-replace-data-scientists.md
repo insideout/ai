@@ -5,8 +5,8 @@ excerpt: "Automatic Machine Learning (AutoML) has become a hot topic in the real
 publishedDateTime: 2020-01-19T01:40:00Z
 webUrl: "https://medium.com/@Askavia/autogluon-vs-xgboost-will-automl-replace-data-scientists-dc1220010102"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "VysazRvCkmSf/FauXpAHntFrR4gIz7yFMu4u+SbvAvigN75i3rwJChtKJ+IEwrnvCXzjxrW055Ssr55T6wGSgxsuPo9pZt4/KB1itcHdbg87I651jEdHW1I/JAhvVP1XaLLsysmG3XI5hJFwvM1F9CxZgoHIN9KtfWxREzTlvVFpipKsLfT8w84go4qyochtU0Yu0B+50dMlW/YmnoovH2vxJROHlHZaqNy2S5qjKdQBgsevv6Uz/ObhNquJoGtANrC5VoQkkq80h8n7R1IIrU9gOQzKGKk8TDfb8onPqktmEI5/oraHy1XtU3HBjGez;s6/Sm9aNljufLg6eiI8v/w=="
+images:
+  - url: "https://miro.medium.com/max/1200/0*48sMhz-Z-TX11FXl"
+    width: 1200
+    height: 900
+    title: "AutoGluon vs. XGBoost — Will AutoML Replace Data Scientists?"
+
+secured: "c7gp4l1ORJyM7fOtmkBsPNyrE7hsbFLFdggP93GLNmrpdJh4FxMP/KgunuWppJ++ExgdfVj62T5qAfn2XvcBT2cv3aQsDz/6/gLS/3qBNYEIf+fW5gDh833/hU/o+rvVk+QNHZPlRgeNEitIxaaQ2jn/XGoGNcQuF4n6FzovaJD1IvXgoUgzBnWGfodPzynTYq9wpddGJQIlT6ILxLCJCf/VPxzLs8isnJPv43mMGB+vAo9+hdEdaD4DbcIk91iaKmVrw6+nFrn3p47vYpz+bWiH9a4JTr3Ne42VRJpx5/8HkhKdBxWIyzWsw3BgdO+V;0kdaqE1XXjaHDD/l0ltAOQ=="
 ---
 

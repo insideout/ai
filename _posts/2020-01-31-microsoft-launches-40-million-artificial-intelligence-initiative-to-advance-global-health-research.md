@@ -36,15 +36,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/09/techdoc.jpg?w=600"
         width: 600
         height: 400
-  - title: "Microsoft Launches $40M Healthcare Artificial Intelligence Program"
-    excerpt: "January 29, 2020 - Microsoft has launched a five-year, $40 million program called AI for Health, an initiative that will use artificial intelligence tools to address some of healthcare’s biggest challenges, including disease diagnosis and treatment and global health crises. The AI for Health program will ensure that nonprofits, academia ..."
-    publishedDateTime: 2020-01-29T19:56:00Z
-    webUrl: "https://healthitanalytics.com/news/microsoft-launches-40m-healthcare-artificial-intelligence-program"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
 
 secured: "5UPvDupr3jpAC4fjgx/McnWzQu+ev7ZcW+nqLh8PjDGMKGHR5r7sydEBQpSmF/wyFMnG9sOo9fRFcEHJEerAv4Dr3OL3wGwpgEExn367H4IwoCxAAQYrNzDGcfmvWgVePCNME0JXE1NJUJSh8WhgxKrD/idrF1dqUKF+8JKMtS4wDrGDWSgLm5rhpzTslgVpZwFRH6oVra+URmHSkMosCdIUR4Y/nLpHkr958bDg9l6I+ZO5C8oOnLLrt4jrjJJwGD9xacsDuPh6O7P9OC8VIyT3HODMoX6vDjl1Zh525iddwB4BYa+li9NHEeZ5vZdSrGn07njX+3fp28ZyyJyubRn0CSCrEuwN+7gvGZvgqBxhcoYIEC/l3OHXAuAH62l4jQfFt4SoCn21jAUcNzPXtmoKTV/7jK/dmvwhkUSoO5rz8KWy1OtJPhImWbSyNkONOuBIpS4uPKuH056OHSCC+kL1Sj4L+nBbsi/6EUyGfLQ=;2AgoeqBzjH24G3DjEBfSiQ=="
 ---

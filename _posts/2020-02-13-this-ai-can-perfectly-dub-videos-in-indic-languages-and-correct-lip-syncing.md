@@ -29,6 +29,6 @@ images:
     height: 315
     title: "This AI can perfectly dub videos in Indic languages — and correct lip syncing"
 
-secured: "hegE/bsKfQl4yvGd8lq9R2CjK1mKzCi2ai3am6Vnm4qJwhqhvj2wgGQPvYIHHoRm8//e6hrW5pnr/aYllekcLvaqabSn+adBNlyllXcHPOC1EGL56sAdEH2PYTsaw+M2kkbI+EOtc/hzbQzrz3ld2FHu345sHfbLhtVNfIKOjO4xe5UvPXh2xLhZURwGWKQIWvnEAHDHfZj/DZx3wLcgBPFZYBfbvyLy2SmFkMA/D2nSYOEWbQ+4gLAyYssaKqvGxOONnp/gfI0tlWvrzF55tAaVP6sz/J5h0MHRZRysh/9uyplmttqaZI6X0/6GNPYl;JPNHy1FdX6fkGhXmRUfk3A=="
+secured: "0n3Nl4519IVcY5I7+pj2OUM/gJTOkhNQa/vPRdbfbXheukNWse1yXwL/4wumndou6xc/Xwyo8Fcp/HqJKM8D3GkOVrGaCPkgGZZvh7twssE1rDWPXbAvaQtba7zVocgv+ZHTcjYS1pyyneb07jojetFejs0+RX1vidYtN+BNZrm8tPeY7mdvhX9YZdxH7C2m45hfOu55XugOtkTf5VwHYTVhOHpbGcP8EhBNVwhmEfjG44QaRePVrJu8osfuaXirNK0JYLA8QPdBILhHZQX8bSiK1qyVQdth7cW04UKrimvxUKGNj08j1C9T1KJnpreQObS9wY3f9OtRg+aLZ9echzeMhDQg/hxqb568pQ0NKfhtFoMO/Tc/if1r67sAAdX+U6yJf6e3MTHm+sJLhKw/WSjq2yikppEHyo1Lje8jw6Fhy0XNn9P2ziESGa0YnLP/ptXQrdSQboBldFuUFiN4JD6xiOLjH86VAV4uzOJGJko=;C14a1/plACpfUleTORlpnw=="
 ---
 

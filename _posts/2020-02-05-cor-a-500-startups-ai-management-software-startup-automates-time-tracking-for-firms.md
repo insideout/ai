@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2020/02/05/cor-a-500-star
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/05/cor-a-500-startups-ai-management-software-startup-automates-time-tracking-for-firms/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     title: "COR, A 500 Startups AI Management Software Startup, Automates Time Tracking For Firms"
 
 related:
-  - title: "Startup Boost! Microsoft helps startups in Tier 2 cities go global"
-    excerpt: "More than 650 startups have benefited from the mentorship and guidance through technology workshops on Azure, Artificial Intelligence and Machine Learning. Microsoft for Startups, a comprehensive global programme designed to support startups as they build and scale their companies, is keen on empowering innovative entrepreneurs in the country."
-    publishedDateTime: 2020-01-29T19:52:00Z
-    webUrl: "https://www.financialexpress.com/industry/sme/startup-boost-microsoft-helps-startups-in-tier-2-cities-go-global/1839422/"
-    ampWebUrl: "https://www.financialexpress.com/industry/sme/startup-boost-microsoft-helps-startups-in-tier-2-cities-go-global/1839422/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/startup-boost-microsoft-helps-startups-in-tier-2-cities-go-global/1839422/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 39
   - title: "Self-driving shuttle startup May Mobility shakes up senior management"
     excerpt: "Self-driving shuttle company May Mobility has revamped its senior management team. COO Alisyn Malek will leave her position with the company at the end of this week, but will retain an advisory role. Her departure follows the exit of former chief technology officer Steve Vozar, who left last week. Both are co-founders of the company."
     publishedDateTime: 2020-01-31T10:28:00Z

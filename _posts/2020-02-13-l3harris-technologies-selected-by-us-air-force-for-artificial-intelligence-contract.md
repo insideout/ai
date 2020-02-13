@@ -24,18 +24,18 @@ images:
 
 related:
   - title: "L3Harris Technologies Selected by US Air Force for Artificial Intelligence Contract"
-    excerpt: "The L3Harris tool creates sample images used to train search algorithms to identify hard-to-find objects in the data, which will help make it easier for the military and intelligence community to adopt artificial intelligence. \"L3Harris is a premier provider of modeling and simulation capabilities that provide risk reduction for our customers ..."
-    publishedDateTime: 2020-02-12T14:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-l3harris-technologies-selected-us-air-force-artificial-intelligence-/2020/02/12/9096844.htm"
+    excerpt: "Fills critical gap for training data needed for artificial intelligence algorithms Addresses urgent defense need for automation to analyze large geospatial data sets MELBOURNE, Fla.--(BUSINESS WIRE)--The Air Force Life Cycle Management Center has awarded L3Harris Technologies (NYSE:LHX) a multimillion-dollar contract to develop a software ..."
+    publishedDateTime: 2020-02-12T18:06:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200212005069/en/L3Harris-Technologies-Selected-Air-Force-Artificial-Intelligence"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 46
     images:
-      - url: "https://mms.businesswire.com/media/20200212005069/en/772794/4/shutterstock_1191286246_webready.jpg"
-        width: 480
-        height: 390
+      - url: "https://mms.businesswire.com/media/20200212005069/en/772794/23/shutterstock_1191286246_webready.jpg"
+        width: 1200
+        height: 627
 
 secured: "fLHLpCOvfR5idujOICdOsBa0GWW/Hs7C1oyfkRFQhXwc8/YzePw1ju59SF8lBrtNXekVSTNjf2miS5iGsuMuNHnWhO7mND2AxerIwQlk/NNeapeEFDSJVhxxdDlygMZcBS4i26YIp49hLUtF0t6HGntpLOnO+gHXgIKm8xofmec0nTPRu0ho0QwTronzHiw1TpgaWPgN7oaCYhWdhBADsnfq5TIb/jYxRMZG0DPpSOGmnjbPLiJWc5XtXL+hP5KO9gITuS1iOy8jT6P9TxTj0N9JSuboSLEbBvIM2YUHNlzeluXtH/68DaIhbrXijdq1;VT5mboWLc+GSeOUNjvY+wg=="
 ---

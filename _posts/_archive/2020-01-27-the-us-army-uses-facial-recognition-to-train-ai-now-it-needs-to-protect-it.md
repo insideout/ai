@@ -1,11 +1,13 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 61
+quality: 101
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+    width: 1200
+    height: 763
+    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -651,6 +659,19 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
   - title: "Amazon’s New Facial Recognition Smells Your Fear"
     excerpt: "Amazon Rekognition is the company’s controversial face detection and analysis technology. The name alone sounds like it comes from a Paul Verhoeven movie. Since its launch in 2016, critics have ..."
     publishedDateTime: 2020-01-30T00:00:00Z
@@ -1071,15 +1092,6 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 34
   - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
     excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
     publishedDateTime: 2020-02-04T11:05:00Z
@@ -1268,6 +1280,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "aANrIbPJCESxe5h4BvHHRCAzxV+lCOkLTalBlFCdCpQ0FmSbHSK6JmeWC3TPIV0AnGW3wSlSsg9GwkKbqtY1yWKSUPM6xqaIuH2q1kJGWJ7lsVbViy8uD9AAqQsPvgS8kJXKWOWhR7+uXcpLbXBTm0vmYGNwQs42Udryf2MKKeKgwC94OLHYt2qv9kyfVd5XqqVBEt9QWua9B4DLZtoI1/oKO5kE3N0fkV8SL+nieKX7n1XvnKUJZza4P4JeiBiP6IGR0GsJTx8I5oYzM1Y6eVbiZ/bioZNP23EMQL9/SnLf4EuO7lQfAZA/XNcOr+F7BdJ5EDVW88KGISPXYOQysQVktqwKU8PSF1EwRz+UAu7ays2AQWBfGi44s3msutnsKCqtMXALnq6z6uD7KxVIQwGhewqF/+VKNtbvo0JKb8FY95ixVbmw3RnCX543Lozx3wgRZ7b2m/HtG3HJ7o4lg39SlLOaCXFaxZDwrHLiqic=;cNh4CsIMBNgovvsqYlPtqA=="
+secured: "MQxAv9CDH4Wdw72PbaUPvrwncUU3ZgfhsQ+PGoK9YhbX8Yb+XcrtqxvcZ9YoQHH4+/IjcjGEd5okKVDEA3TkDdd+0C6wb+NTaLxLmcqoZ68GflFvkQ32xJGJMEtUl8/c63ocF2ycDhSMvZ6T7Mn4CdUdKgLkfRJuDilxGIRMBmjRib0EcWwwvp4QtMeqSnRKHEhF1HUisCwvBmppycEUiN3PtXDzKu4kefgAJXHqv7sjrjnbl5xTqPlVyl/qRbZAk7f/PbXxIQi/Q0rri0R+9LnYI6KH3gPGe8kEPI6ASwGn4gpkdr65wxKJf517KSQ3;ik4XE0QlxSDUP5i1BMxUBg=="
 ---
 

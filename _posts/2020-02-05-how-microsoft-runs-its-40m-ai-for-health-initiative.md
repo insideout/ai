@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T19:49:00Z
 webUrl: "https://techcrunch.com/2020/02/05/how-microsoft-runs-its-40m-ai-for-health-initiative/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     title: "How Microsoft runs its $40M ‘AI for Health’ initiative"
 
 related:
-  - title: "Microsoft Launches $40M Healthcare Artificial Intelligence Program"
-    excerpt: "January 29, 2020 - Microsoft has launched a five-year, $40 million program called AI for Health, an initiative that will use artificial intelligence tools to address some of healthcare’s biggest challenges, including disease diagnosis and treatment and global health crises. The AI for Health program will ensure that nonprofits, academia ..."
-    publishedDateTime: 2020-01-29T19:56:00Z
-    webUrl: "https://healthitanalytics.com/news/microsoft-launches-40m-healthcare-artificial-intelligence-program"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Microsoft launches $40 million artificial intelligence initiative to advance global health research"
     excerpt: "will help advance global health initiatives, with two cash grants going to medical research at Seattle -based organizations. As part of the tech giant's $165 million AI for Good initiative, this new public health branch will focus on three main areas: accelerating medical research around prevention and diagnosis of diseases,"
     publishedDateTime: 2020-01-31T23:26:00Z

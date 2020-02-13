@@ -4,10 +4,12 @@ title: "Reality Engines offers a deep learning tour de force to challenge Amazon
 excerpt: "They make use of a mish-mash of technology such as \"AutoML,\" of varying sophistication and quality. The Reality Engines offering goes up a level above simple program functions like those to more substantial corporate applications. They include such apps as how to optimize a company's spend on cloud computing services fees; financial metrics ..."
 publishedDateTime: 2020-01-28T17:28:00Z
 webUrl: "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
 type: article
-quality: 52
-heat: 52
-published: false
+quality: 92
+heat: 92
+published: true
 
 provider:
   name: ZDNet
@@ -21,6 +23,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "HcM87ZEUqjN0RdFykS7kAXGen6krkJpJAbPbG2U3AYW4fR+jbK60eJQ+LNpvtoUH6b3M9dgbq9JOxJoAd+7hfqfM8VgzDYVwRs0F58TDpoz8aoo1tLNs5PlYntST7UBX9y70WMSkz68k5mZH0LBJsdkrLWxS8kNul9L7WbvFOMfwW27X42YU5OMYqnGsplQYlH5co3J2tZsdGQU+l+GPOF7iRnBozJJ/71n9Uc2DpvmXQZ2QpTSMAvmg+wMVYsKQxUOWxrGyYB94SjXbCg5tGF+MwyqGsRoWCUIWOEUVkL/gGMv45RwBLdSf0ik9b7K9EOjCZ/6IKcp/3o0Lbeye4yG6Y28avQlGSJK8kDBqHfwWl723Nis4pOEeS2W5F/IU7+mI8YdHhf1ciDoCk/B6McbXbg22yKT09DybmlvrLB2MYT8AbjZYF7cJ+mgdZJuSBy2J1qTuvMI900DJqHKk1BNeRG8m6UAD2+9eQ5bjiwg=;NeiznhYLZXpALCSfDZC44Q=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/28/c09d9ffd-7104-467f-a7bd-207a377162ca/crop/2114x1588+89+0/df2670fd400eaf01050ef3a769fc3c10/reality-engines-dagan-training-outline-jan-2020.png"
+    width: 2114
+    height: 1588
+    title: "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI"
+
+secured: "haGB5fEns+OC9Bkr3zGKaeVw0iSM7rKmInUzh0VQtcr3+yWSRHZp6EgDMtpdVbFFdSRYnlc9at8i/GusvUwJIl0Fa2eueux8ovLNYpoFioUR76K0SL2bngn3RUBwFSu9pstKi3ZH+YvUPiNnVuqq7bTeAqbGCZLOEMdfF2xfRu67azsT/t37QBUyGVLRg1nThnHUOC8BwrExUnL+ayYsGYCmUlCkRjuNu/FHe3Uq8Rqt89jpPPX3p1KUf56Ft/BvjOkMRPRvo+SUDspS4zqO3+1VEb5ovvR9Jd005ce8h9fxlfa/D9MeIpdNqfbyWMHr;xiWllQsFAk2nx/Yh1si+uA=="
 ---
 

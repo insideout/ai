@@ -4,10 +4,12 @@ title: "Facebook’s AI learns the relationships between physical places from fi
 excerpt: "That’s why a team of researchers from the University of Texas and Facebook AI Research investigated in a paper Ego-Topo, a technique that decomposes a space captured in a video into a ..."
 publishedDateTime: 2020-01-21T17:37:00Z
 webUrl: "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/"
+ampWebUrl: "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "Z/Oh7mp7zoARBFAVHTPo/5kMfvgnQR6V6oIZxxRS3zlfV6p8jjRNoOW4dq+BSqUq0gOOPGaFygp0XNakcXCaEB5Bzmdahcr7p4qQ4aWRhkYFbiYWaZN04e2WIdsBFKfuU1MazerSQbPETrby646Efx+OiAdztRnxBgaOteDHXxbRVb/7qoYEA6IhsX36wVQ1xycAntspZQBbms4Ly1KbPtPV8chgC/0NXLtgkHxilgWlpMtMQUoxV3ZqE4+PTEX3Pw2RpAM89tsqClMhS/HBJ7d1PY2htiCmggwrqkvWWilSmG7YKG35iqpQmCEb9nVR;L0lgvhBv7DtluhKBlyhiZg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/01/df0f4b81-fa76-42d4-bee8-2b4c4e8cd50d-e1579627646898.png?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "Facebook’s AI learns the relationships between physical places from first-person video footage"
+
+secured: "XGjDfMHcDEK2WDYL1l5LyXbINHqFIiPwoP6+4FlFOZmQUzlksZpfXIPQi9H2ETvkrr9/8Y7GJGwPiavnmCgEYS0b5zht2qROOLRk/a5cq/yCOzel43jvZ07BzPxXrM071rPWa45GdURdQ2yAyLE1v779CwAI2ztAg1ftdZQ1/lWSCsgTuf58iIZJzKjFdUqtscRVSP8ScJF63A8jUwTmGRCW8yf1LSZjxo0I2XpDxZQgwkPe3tFhhH84JFjmPa2ExgVn/3HxPQlenY1N6lranXNBhZYUc141xhvyx3SQtotsIowHvUZEwjisof8LF87L;4QDWv9Ez9IGfQjK0/cbu1g=="
 ---
 

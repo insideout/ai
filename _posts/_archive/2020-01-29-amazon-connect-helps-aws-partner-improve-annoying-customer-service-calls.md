@@ -18,9 +18,9 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
-    width: 1000
-    height: 600
+  - url: "https://www.crn.com/resources/0259-0e94f355479c-492ac67e6a1d-1000/amazon-connect-1.jpg"
+    width: 610
+    height: 457
     title: "Amazon Connect Helps AWS Partner Improve Annoying Customer Service Calls"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 1200
         height: 800
 
-secured: "RV4xzKDAGVaTeJgKeEn2zE4wQo+ZAkarhF5KimaIWOHfgtYMfDHr98T9SZv/t4DGl0jMCyNWhdDu10/YAqzhcil+OLCAp/zXSdLeJtS2R6+riIQdWhOCOQR0CvehRK94X/PdTIP6el2E0GERccFD1h45KO2yFf1VDGKe1DCGxZYeqXDRfh/bkFR58uR0wVelgPvoEeSQbvtaOsJDkchD0JxVGsaSt1uOLfxcz4WVVNRzchTA0tCgtpXLandsv35jHF4Z1eMISni772pSvBW1zCpy451C9cdF3eCW7OvNo9KQVciJf0bbAFf/JK4agWO59niO4S58v8ccGkg4XNNsuo2SkhUiR1qPRvqaeTR5sSFV7aRCYVmohJN3Gwv968YK8wa8pS4oJftpuNT1FSc3ByicJruC00+uYhvsDAUvB+C8/ikE3Gb6oYYo7+mq6+NWJhtzsyfH3+ThwoasAuF01QM1etreQuPiANh0xDVfA7M=;wmY5WCIVwg9fmJ1XSB68og=="
+secured: "4sC9IL9ilB5lIj/hdmdOfKZPXNhyMz6nCGoJhVdiFvDPwFl98A8zyer3C9o61dDMHOLmmxncQAKde0mCnEnBl0l00KPGDC1g86XzJ2UJEnxEXxSiBtJ3/DX8zxnGEFb5eAF+4mET2xhgdgjd7HQLgfnc8kB5tezvA3q4acg7chwD056LrQG23OqQ1O8af7690C6g017Mq3nwXw+p/eGQwLbOuZNYAQOZgpgEvVlApz0B/5JmM+14Isc7FHZwUdf2n+e+117aUh5L0GwzxPyqdgaaRye0RYVAX2SpSnBolzbQJF/nGbiYTodPhkbKI9E9;+X6VmqfllTPTV81USqdstw=="
 ---
 

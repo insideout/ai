@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: "https://www.ciodive.com/user_media/cache/0f/91/0f91bf6beaed19556f0d09271f5c61e8.jpg"
         width: 770
         height: 364
-  - title: "Government developing AI use case repository for agencies facing challenges"
-    excerpt: "Early practice areas TTS identified are acquisition, ethics, governance, tools and techniques ... GSA is working to educate agencies that AI is an embedded technology that needs to be adopted within the acquisition framework, not a solution in itself, said Omar Saeb, Alliant 2 program manager in GSA’s Office of Information Technology Category."
-    publishedDateTime: 2020-01-29T20:55:00Z
-    webUrl: "https://www.fedscoop.com/ai-use-case-repository-tts/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/GettyImages-1141197135.jpg"
-        width: 2100
-        height: 1107
 
 secured: "XekaRAMgZlSDyZsNsUk8zflnNvgGES+/ulfWXDzVso9hFikavSFzzYe08lgf5kYa6ubHPy7+TZufVTNiJ3CHN0qxKm7PLnBR4iPejQ4qmMNqBogyvdbtkUWPYqXT0xqzeOX1wM4nMJqWFHBeQ8nSqeZqwouGDp+2dtH5aUTq/5+0E51d66Z/BJ10otohzC0VFaGvNku1bMmAUAYsLdg8qaRr9ww8PJDrN8eyEBiaysFqP9lgY8pAJRb96bgku6gKqRUMr8ZO0cg1eD7d/l2GnhIO6E/pgqL8Vttgv4qLkJ2Zv002NjkVtfOQlgZEB75W;3fyoq4EjdbhWDgu+p09gdg=="
 ---

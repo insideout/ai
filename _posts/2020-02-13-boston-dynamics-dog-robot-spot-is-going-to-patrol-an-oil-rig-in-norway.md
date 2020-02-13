@@ -23,6 +23,17 @@ images:
     height: 331
     title: "Boston Dynamics’ dog robot Spot is going to patrol an oil rig in Norway"
 
-secured: "wMLQKQHh/Ku5hUjRtH0TKwI1xmGMwb9YgjUoBgBmiLYDhCv4mhJo2iI2sR/E9nXXRyF2N4eYrsaOdLrD7+OO5JpoLKAYMGgZQLOa6CaorkGyJfuoCw5hPUzpEdLWY31tisQ/o6253p9gU0bpZTKc3UFWpoi0GWjoKTMncyLDQrGq3zLeC79KNqZ0xpsLL6fRrf/EzgBqV7jAuQsBFtG9HkML88KEBxFZSdoss2gr9gNO6oA22fsqZ61jZt7qj5cKMAcwhMG3BkTxuTsS+DPNaSH6Uvthnx8s/iR1KFBr3eh0K9l6LmXPei77ikNmEFYj;WetxrUeRCiuZPEtk8K98Pw=="
+related:
+  - title: "Video: Boston Dynamics’ robot Spot goes to work on an oil rig"
+    excerpt: "A new pilot project is being undertaken by Aker BP, one of the largest oil companies in Europe, and Cognite, an artificial intelligence (AI) software-as-a-service (SaaS), to explore how robots can improve offshore operations. Part of the project is using Boston Dynamics’ robot Spot, the quadruped robot that is famous for opening doors."
+    publishedDateTime: 2020-02-13T13:49:00Z
+    webUrl: "https://electronics360.globalspec.com/article/14690/video-boston-dynamics-robot-spot-goes-to-work-on-an-oil-rig"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
+
+secured: "TrJ2QCxj/s3J+atfr7TvFjG6hIV21LmcY/fakZ+GPXFrRAvc0F/XtmQ51i/fVgqldkXZDdA8MQ/kEsu+ZIxhHjExUPEM7vA7Ja0r6YFNrjtSK7wwuwyUEXux2y3PZTU0ytWPOC6Sn57qvThjVH1jvAB8KG2LSa5mbGpi6bvjqrLp75q/vr02fWakcODkcGudujwV8QDqBEP2xcVccsWuOJ2OoYlihxQMMXPmgWs9Hknw9jmsoeM6XXOiFTtT8L+FeFr4Y6RP1vSNlDOJijTmrBDKkMSAzgn1VOujmh1wnrNM2si9K3Vb4MYiOMb0MyM2hLyGAEeTAdqbQSvdH96mT22xk6ZlR4rzlcwxfbZKMQVzfxe7K1LCRT+fNChsko6EKAwBNBrPCsYHhZgSV2PTUxkyPz6niTm2eulwsJ2b6l3tgygQh/pVkCIU3M8xgwwzdd0/NIkFV4KlHnWpAMCAs7xaaHGA+nxPYFWEOqlK8E8=;SroVMuzuqaxWSDwalcCAYg=="
 ---
 

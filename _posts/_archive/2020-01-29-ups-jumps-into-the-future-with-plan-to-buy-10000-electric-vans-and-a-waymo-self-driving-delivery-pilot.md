@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Waymo's self-driving vans will carry UPS packages in Phoenix"
-excerpt: "They aren't delivering to customers, but it's a start. Waymo is expanding its foray into self-driving delivery vehicles. The Alphabet brand is teaming with UPS on a pilot that will have autonomous Chrysler Pacifica vans carry packages in the metro Phoenix area. They'll be shuttling cargo from UPS Stores to the courier's Tempe processing hub ..."
-publishedDateTime: 2020-01-29T21:54:00Z
-webUrl: "https://www.engadget.com/2020/01/29/waymo-self-driving-ups-deliveries/"
-ampWebUrl: "https://www.engadget.com/amp/2020/01/29/waymo-self-driving-ups-deliveries/"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/29/waymo-self-driving-ups-deliveries/"
+title: "UPS Jumps Into The Future With Plan To Buy 10,000 Electric Vans And A Waymo Self-Driving Delivery Pilot"
+excerpt: "Arrival will supply the emission-free vehicles starting this year in a deal that could be worth $400 million. UPS is also investing in the U.K. startup."
+publishedDateTime: 2020-01-29T21:09:00Z
+webUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/29/ups-jumps-into-the-future-with-plan-to-buy-10000-electric-vans-and-a-waymo-self-driving-delivery-pilot/"
+ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/29/ups-jumps-into-the-future-with-plan-to-buy-10000-electric-vans-and-a-waymo-self-driving-delivery-pilot/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/29/ups-jumps-into-the-future-with-plan-to-buy-10000-electric-vans-and-a-waymo-self-driving-delivery-pilot/amp/"
 type: article
-quality: 89
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,10 +24,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C900%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F73f747e0-42de-11ea-8779-f35d4b1247e8%26client%3Da1acac3e1b3290917d92%26signature%3D6980374ed80a04ce7facd6264cd4ff6b9e4c64bc&client=amp-blogside-v2&signature=c6bc7fe869c0c4f3f12f1078d1a1ffc1112948ca"
-    width: 600
-    height: 350
-    title: "Waymo's self-driving vans will carry UPS packages in Phoenix"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30bcd88b6cf300071d3b31%2F0x0.jpg"
+    width: 1200
+    height: 817
+    title: "UPS Jumps Into The Future With Plan To Buy 10,000 Electric Vans And A Waymo Self-Driving Delivery Pilot"
 
 related:
   - title: "UPS teams up with Waymo to test self-driving delivery vans"
@@ -105,6 +105,21 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/uoOyTP-GT8tFZyW2fPhgk5VGSyE=/756x567/2018/12/04/787ce980-06da-47e7-9949-d963dbadef71/waymo-image-final.jpg"
         width: 756
         height: 567
+  - title: "Waymo's self-driving vans will carry UPS packages in Phoenix"
+    excerpt: "They aren't delivering to customers, but it's a start. Waymo is expanding its foray into self-driving delivery vehicles. The Alphabet brand is teaming with UPS on a pilot that will have autonomous Chrysler Pacifica vans carry packages in the metro Phoenix area. They'll be shuttling cargo from UPS Stores to the courier's Tempe processing hub ..."
+    publishedDateTime: 2020-01-29T21:54:00Z
+    webUrl: "https://www.engadget.com/2020/01/29/waymo-self-driving-ups-deliveries/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/01/29/waymo-self-driving-ups-deliveries/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/29/waymo-self-driving-ups-deliveries/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C900%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F73f747e0-42de-11ea-8779-f35d4b1247e8%26client%3Da1acac3e1b3290917d92%26signature%3D6980374ed80a04ce7facd6264cd4ff6b9e4c64bc&client=amp-blogside-v2&signature=c6bc7fe869c0c4f3f12f1078d1a1ffc1112948ca"
+        width: 600
+        height: 350
   - title: "Self-driving Waymo minivans will assist UPS with deliveries"
     excerpt: "It's not just people who get to experience self-driving minivans in the Phoenix area. On Wednesday, Google spin-off company Waymo announced a partnership with UPS, the package delivery service. Soon, Waymo's self-driving Chrysler Pacifica minivans will be moving packages around instead of humans. The autonomous driving company is more than a ..."
     publishedDateTime: 2020-01-30T00:21:00Z
@@ -150,21 +165,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483128662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0S1ZS"
         width: 817
         height: 545
-  - title: "UPS Jumps Into The Future With Plan To Buy 10,000 Electric Vans And A Waymo Self-Driving Delivery Pilot"
-    excerpt: "Arrival will supply the emission-free vehicles starting this year in a deal that could be worth $400 million. UPS is also investing in the U.K. startup."
-    publishedDateTime: 2020-01-29T21:09:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/29/ups-jumps-into-the-future-with-plan-to-buy-10000-electric-vans-and-a-waymo-self-driving-delivery-pilot/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/29/ups-jumps-into-the-future-with-plan-to-buy-10000-electric-vans-and-a-waymo-self-driving-delivery-pilot/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/29/ups-jumps-into-the-future-with-plan-to-buy-10000-electric-vans-and-a-waymo-self-driving-delivery-pilot/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30bcd88b6cf300071d3b31%2F0x0.jpg"
-        width: 1200
-        height: 817
   - title: "Self-driving company Waymo teams up with UPS for package delivery"
     excerpt: "Waymo will start delivering parcels for UPS using its self-driving Chrysler Pacifica minivans in Phoenix as part of a broader partnership with the shipping and logistics company. The companies said Wednesday that Waymo will pilot autonomous vehicle package pickup in metro Phoenix — the same area where its self-driving vehicles already operate."
     publishedDateTime: 2020-01-29T21:11:00Z
@@ -271,19 +271,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
         width: 1200
         height: 630
-  - title: "Waymo and UPS unite for self-driving pilot project, maybe more"
-    excerpt: "They're about to get some company in the fleet. Waymo soon will carry packages for UPS using its self-driving Chrysler Pacifica minivans, the two companies said Wednesday. In a pilot project expected to begin this quarter, Waymo will use its minivans to ferry packages from multiple UPS stores in the metro Phoenix area to the logistics company ..."
-    publishedDateTime: 2020-01-29T20:05:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-and-ups-unite-self-driving-pilot-project-maybe-more"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-main_i.png"
-        width: 800
-        height: 600
   - title: "Waymo To Team With UPS On Self-driving Delivery Plan"
     excerpt: "Waymo said Wednesday it would team up with UPS to test its autonomous vehicles for the package delivery giant. The two firms said they would collaborate on the project to shuttle packages from UPS Stores in the Phoenix,"
     publishedDateTime: 2020-01-29T22:42:00Z
@@ -297,19 +284,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/29/waymo-will-be-using-its-autonomous-vehicles-with.jpg"
         width: 1024
         height: 670
-  - title: "Waymo, UPS unite for self-driving pilot project, maybe more"
-    excerpt: "They're about to get some company in the fleet. Waymo soon will carry packages for UPS using its self-driving Chrysler Pacifica minivans, the two companies said Jan. 29. In a pilot project expected to begin this quarter, Waymo will use its minivans to ferry packages from multiple UPS stores in the metro Phoenix area to the logistics company's ..."
-    publishedDateTime: 2020-01-29T20:49:00Z
-    webUrl: "https://www.rubbernews.com/automotive/waymo-ups-unite-self-driving-pilot-project-maybe-more"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Waymo_i.png"
-        width: 800
-        height: 600
   - title: "UPS and Waymo partner on self-driving parcel pickup"
     excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
     publishedDateTime: 2020-01-30T17:34:00Z
@@ -385,6 +359,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "vWOiRZVXwL8L3VSbbmjkJ+SVq4AOB5fAK6piLnj0Z7VZ8rcEvvDLDLxXY4XUtjr2P0xRrPElv/Wl1gyyjRjpYfsbmRlWEE8Kc+FKWw+fiYJxp2dFeGxKiUtJ2ZUDQ0Um3jLroErYgzqNVKYO3G3RAukq29TF8o+F7Vn/Crhd8Ya+YbFSFvBRp/Y9fG4c6oqfhujN8ET38qUyp4Z+uut8xAac66eIaXLSd5+wHivrdtwJcICRDf2mhpEMVAANh0xxbervDnSmz8FyvBbiLedj8RnpZPlw5sNwlZ7xyx7c/fXjPAr+ibkSDbz2Q4Ad6ubFmQPitw3LlpuoUVXIyr02FpUQwV65fCGHs2fj8D2JoLGuAay3Incr2iO5OyXJy/3BNtWx15SYfqD6F8IhX4obY8EyjDLmAH/6STeRtgHFsDKnkaCpdJSzxksWeFS8mqN1f2HREZa1d1ZukX2Jk1GOqOyvvMb5agRnERZlmB/IQtA=;OQ0P+c9wIAvdu+4dkcR8AQ=="
+secured: "O+WPEx9jvPZyGFKF0Qt+e63VyRytwyTpcFlpsJKZa+Hev4C6lM7aZn8v24K6HPLnC730lYgDJyCb73rEEbZWFvO+LKtRduw/4UKsq6QjAd7a21/ABAjs1pHPvUi9f3jVpC782SuY7FuXButfsC9E88KqBJokWQ9hcdC1ujHqTS967F0jz66xzw9EAI+tYn2cJ240k1X3hVQmiaRN94jt7aC9lRg0ycTYnDz81E1B6CF5zeBm+lK8E7mNKhsx/XYVw1sX1PXKxvWRqk/VL+8DURIHM+J0ekpiTXEAV7IkOOyrfpuh1kOH/SGrWKmRm6LUlLCBR2YDboAhspL575lDk7H6nHv4tc5f2MfQoOqa1/Ylqd8gU5K2hE86Ks90W7vmknyXMd7l5EWyRpfZKfJ/0yCxnuFPPNoPIYADwhNflAWMIztXX4fk2UnlTJ4fsAc2alPuEhldv6h6uQdFbC+lytULofhy8D+lyH+cT+T6mUk=;kd5NaP/WMqFSQyvoormn7g=="
 ---
 

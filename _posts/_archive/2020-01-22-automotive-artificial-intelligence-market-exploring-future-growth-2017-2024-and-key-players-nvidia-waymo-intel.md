@@ -28,6 +28,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "l+UvGrUZYoA8z7HXzP43Y5ztf4/5NnqbWBiklv6Ng6nXOKztCZN7WPHoH9pBFaVRssMyj6XhTxGDTIvngXLu1qD/GMAO2SsEsgs1P/N/CLbuvKznhVJegD7RhQ+lAGNp7nW7hqUlHhrv9dRNcFsgegSgJLrLwAnXuNMPque0XIPllqczKG8jPI2RV24ILSLd7/aDgpVq6A3hZGn+hU/dFUpV0S43CQy2bVwetvQ6a+yfbhBy62aqAH36YpTmNabDD7R1b3naL1arJqNnfDtsDYH8zwL2U6T4TZkwjcOlabiG0DmcrQBMaDP2+wORseOH;t1F+U/4lTFzmY8T3Hc1yfg=="
+secured: "wlO0DcBN+LnJXRXOcDDUzv9zEaSDL/Kz7mhemw/rgp+agtPujsS+UiItASdzzz1zeQwIPw0zwECVpMxUua4sa0qOtj9mhEGfb0Q99u071tts/mrEeoYszW4rQ20qZmBBZhrfHCOCaDRc5ZT0c/0+39LDv5o0OfY62VxZV0QmtJK+SM7X7uYR0ihsGJ19g9qYo5YlInhhRho6QvEsQtDkroWd9YHZanKYax+nyhtb7Zd7rfBBsQl8HFBSG4c6LfWMwenS6eh7s7e/mri3qqJui+ogvlll28SMidsUDYmWNmhAYNI5jsiH2QRfyAIbe4DE;2g0p5lwQqp+o+aC/IJel2w=="
 ---
 
