@@ -97,6 +97,15 @@ related:
       - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
         width: 620
         height: 349
+  - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
+    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
+    publishedDateTime: 2020-02-13T22:40:00Z
+    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
 
 secured: "iURtdFNTCv543rH+sqIuzdGF67wELd7UQLhuoskMEElhM1T+ai4QGI4yfmXO946ESb5xoOa0e1bOtn6ecreGdb8IYR/bb6gSpX1zyKGGEZt8lC9Bpe+IbU0mZdAvPhwzES67mecRKr31DgDx/Ma0WXHzXGI95rkU24rdXodHmkdAXRtmazqZYkBRXr2PmJ4Je8rq4GrWeL3kgWunVmFDZqgrU5WUZ+WjILK7Tsfr8zmkg3Xwc5YT05Ar6BwmN+yT9W1u/dG6UIYhzoZcrRFYeU0hhSnKRGWfIK6iAuT2S5e3HjMAAFiwD9FhReiV9nOz;z0zOdIDgyVzy4urxWvLaiA=="
 ---

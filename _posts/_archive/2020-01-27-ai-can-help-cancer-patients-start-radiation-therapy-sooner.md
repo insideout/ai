@@ -25,6 +25,6 @@ images:
     height: 480
     title: "AI can help cancer patients start radiation therapy sooner"
 
-secured: "ma50ii+53SRE0dHCDcqG6W6mvVDaGeDpOz/yWtBiltFcdoStbxcQdDADOyYTXEimpf5FEV5ubjY54+Vrm9FTHnCn3x6qFPtnTYx6EG/8PIU5TtEsTFL5jnidKbfhG28SsMR5Qv99XjfhzwUlMcEy57lvP8WrijQVVXYAfycwCW4vepXMisVxMS2NXXlgfGKSvv/hg+W0OHjhDR5JukLbpoNR4RfemueKNcwxCrY7ZQ/M3/xP+LWP8EVEUjbaH6h4u7ajfcm4iWw9ZGHXYuBx0v2H1yNnkeXE1PJ2wihWUhPgdIC1wls7hOkwEibw1ZTK;cgqKQTa8K28GftFY5cGfZw=="
+secured: "VeHvAHomLZxPd4XAG2gKDrGJj6VnEyCIFl//tj/Niw1W/8fYeovlgIsub/ynh+U7e3xDLGCXFySJA140hW0roTTmJD0tVz42CuopbKmlOuylsivh72CWulap8XqTG4OJgTps/W0BI4gUnigOY4P0GUaBfbR2YuLJsaJrPKcgbMU4a2qVBSiTFJlKKMapQbTVG2KTs0zHf2H81KS1RSkCRE3nJDTZXgjwLaiaid/NvTD9Re5nZPRtmR0V7dbamwLRE5NWrShCShdLTom9uVt/A+funjBXH/gC9Xh9/N7cFgigsckq54EjGB6kV1wicjFz;1ieUsnT3YQ6zY9txUrkivQ=="
 ---
 

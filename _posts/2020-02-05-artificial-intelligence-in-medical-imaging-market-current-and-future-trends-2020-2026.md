@@ -287,19 +287,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-  - title: "Deep Learning Chipset Market Size, Share 2020 Supply, Consumption, Cost and Profit analysis and forecast to 2024| Says Market Reports World"
-    excerpt: "Deep Learning Chipset Market 2020 :- The Deep Learning Chipset Market has been created based on an in-depth market analysis with inputs from industry experts. The report covers the growth prospects over the coming years & discussion of the key vendors."
-    publishedDateTime: 2020-01-30T05:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-share-2020-supply-consumption-cost-and-profit-analysis-and-forecast-to-2024-says-market-reports-world-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
     excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
     publishedDateTime: 2020-01-31T05:35:00Z

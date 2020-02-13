@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Uber's self-driving cars return home"
-excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
-publishedDateTime: 2020-02-05T18:36:00Z
-webUrl: "https://mashable.com/article/uber-california-self-driving-permit/"
-ampWebUrl: "https://mashable.com/article/uber-california-self-driving-permit.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/uber-california-self-driving-permit.amp"
+title: "US risks trailing China, others on self-driving cars, congresswoman warns"
+excerpt: "While the benefits of self-driving cars are vast, she said, they will be transformational in a lot of ways. CLICK HERE TO READ MORE ON FOX BUSINESS “When you think about 37,000 individuals that were killed on our roadways last year largely due to human error, you think about the movement of goods and people, all the congestion in America."
+publishedDateTime: 2020-02-13T22:18:00Z
+webUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers"
+ampWebUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
 type: article
-quality: 74
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
-    width: 1200
-    height: 630
-    title: "Uber's self-driving cars return home"
+  - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg"
+    width: 1280
+    height: 720
+    title: "US risks trailing China, others on self-driving cars, congresswoman warns"
 
 related:
   - title: "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app"
@@ -71,6 +71,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fb9771a10-4852-11ea-bff7-ef681d5d0ecb%26client%3Da1acac3e1b3290917d92%26signature%3D6155d16da62a23f3c23ff3c2df84de6c08108d5c&client=amp-blogside-v2&signature=229f519d801b555c87fa388a4059f2d145839f4c"
         width: 600
         height: 350
+  - title: "Uber's self-driving cars return home"
+    excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
+    publishedDateTime: 2020-02-05T18:36:00Z
+    webUrl: "https://mashable.com/article/uber-california-self-driving-permit/"
+    ampWebUrl: "https://mashable.com/article/uber-california-self-driving-permit.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/uber-california-self-driving-permit.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
+        width: 1200
+        height: 630
   - title: "Aptiv \"Self-Driving Vehicles\" Top 100,000 Rides In Las Vegas"
     excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
     publishedDateTime: 2020-02-11T11:05:00Z
@@ -116,21 +131,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg"
         width: 1200
         height: 675
-  - title: "US risks trailing China, others on self-driving cars, congresswoman warns"
-    excerpt: "While the benefits of self-driving cars are vast, she said, they will be transformational in a lot of ways. CLICK HERE TO READ MORE ON FOX BUSINESS “When you think about 37,000 individuals that were killed on our roadways last year largely due to human error, you think about the movement of goods and people, all the congestion in America."
-    publishedDateTime: 2020-02-13T22:18:00Z
-    webUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers"
-    ampWebUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 58
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg"
-        width: 1280
-        height: 720
   - title: "What Lyft and Aptiv learned from 100,000 self-driving car trips"
     excerpt: "Lyft and Aptiv’s partnership to develop self-driving cars for ridesharing has reached a major milestone. Aptiv cars operating on the Lyft network in Las Vegas have completed 100,000 trips. The two companies will not discuss scaling up the program, but said the Vegas deployment will serve as a “blueprint” for more widespread use of self ..."
     publishedDateTime: 2020-02-11T10:00:00Z
@@ -238,6 +238,6 @@ related:
         width: 600
         height: 375
 
-secured: "MSqRQrI/Zogke9ilIJwsn/cNkw1U5dtwmig5nVCnMiSTJdBjVrY4ZjWoGu8lYx0u5rKdEnCtI4AwwdR7NgX3hq9Uf3mY04fN06sNe03lrZnZguuRBjQis0etAzBYpJwbQjQtjKrC3LQ0YLRpOyKkjeEteoZiNbJM8AJwF0nRV6xBRlx5lvvRv6QJT+XdZDQ5WBVNSFPDFr4nHBmYiTVYKUGrUh9bCF5M2DK/YfxkGXCYLrkWRJTeiy6XJh6lylXbWGy4JyX+nHFMbxw1WHz4QHK+TgF21h12jhilbw5iQm4X3cSk1lvSkcZzhGxMIc5JMkMA0CLnILHjJpJUXIECMGfGijjEgo0/9x3ZORU1t+RDE2mvwGeTudvW+kib4PNeLObzXBctThFgMTdTaZ9V9p7imeRRfdWyfWCxMJncvfsgXH83YGRcZjtYSR5VGiH3dqdJt0NtShO/IeEsGikt/exqXx5jphBD5r9f9xa2KIQ=;f2oUz/9YlhPsNdut2eJlHw=="
+secured: "GxCnluAT5vTO6O2L/CeWqNwOljHYAmv3Jyb/NbeTGeGuc7U8VD2M5WtNty+X3ZDmiPmvPn7eI4mEQyzC0D3OZ1R2oqIUQdRFY6sGCAhzwk1rfiejusTgZgjsO+EfICV4RgTjcmx3uk0E2BoS4007ArnPDP4F9edvTvGMyhl/vvGyjbbUSqg5PaxWC9Hw3w92Ikq4Ax0ISzoAN/wniqvN5OSWipqzqe249R0Shlbu77/jzVR8cjvdzorI0xPlkFjK76sqZUuHTuQ2W1icebHQjookyGgKIHBcs2I944xZZLg1NWzpUBCWABmxFzJJLtYw;aKZkvShS6nJAUnVTpa3lZA=="
 ---
 

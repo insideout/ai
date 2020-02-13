@@ -75,21 +75,6 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 789
-  - title: "Facebook settles lawsuit over its use facial recognition for $550 million"
-    excerpt: "It also announced Q4 profits of $7.3 billion. After years of wrangling in courts, Facebook has settled a lawsuit over its use of facial recognition. Last year it agreed to stop turning on the tech to scan photos by default, which built a template of your facial data, and automatically suggested tags in photos based on it. During an earnings ..."
-    publishedDateTime: 2020-01-30T05:23:00Z
-    webUrl: "https://www.engadget.com/2020/01/30/facebook-photo-tagging-facial-recognition/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/01/30/facebook-photo-tagging-facial-recognition/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/30/facebook-photo-tagging-facial-recognition/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f7434c0-4327-11ea-ae6f-03d3c1d12ff6%26client%3Da1acac3e1b3290917d92%26signature%3D688df7a5ec53e987c3851a64443c2d368e65336a&client=amp-blogside-v2&signature=1168fd01514e69d66ffbe6501fb414d35ba55583"
-        width: 600
-        height: 350
   - title: "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns"
     excerpt: "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer."
     publishedDateTime: 2020-02-06T22:05:00Z
@@ -1169,6 +1154,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "OYSqqJ0Jvki6fAzqRX2dM3SGYC9LOPRCRnmgT2qq6DBRf16ls4W0fSC8K4Y5iONw+KTcCIOVMRvxhhr0n3wDHWPTo2OXNYVoHZVAUydL2o0r4/a1o332VDAY0hmiFk2JYFlje8jS9sHNtKUoTTfBzepZZ8Iv44I/4KgrYB1HSRx6bSCbSbiEUoRWJbODE9ni1+KkTg54lVXcFM7s2oXttBeSEK+h8nPG9395Du76FVeUj0ZNlI454kfBwohcBxXRroEEiojvEVQ6z+9F9gTWNhjDKnMIb6EyGgVwkQPieIoBWi1UKoQNoP8SKs2dXwjC;59YoiT+t5PeymCJehBJa2Q=="
+secured: "5gvb6N/v/gwSXma+cin2S2by82x9BflanvSaWC3Y5w8F/4+pIUyGRzks/92QtzHPGQHhafoHNCKz8KGPEoWkiSGcYhZOmcxzJCG+yLav7xPnGq2i1ry/0VfK7PL8lhWOCdQVeQ4aYeOqJS+1jjZN/If5rjCgM5EeqqR/LtsK1JJ3Ttc47tPYduO0y9yXhwbrqE8GWkAn/ENf2JBlmBBwK5v/kHh/WXnglc6ueXD8j0Z6xrnPKGE1R9tAm6xr8piK6GcuHnu0n0lStRNw58DLiKFG2r/wFWGrbxm6S3tKNO2FnQ6GfrguEbTVjJqsNE3+;/n3jfCf/8DWwgl9vnt29mg=="
 ---
 

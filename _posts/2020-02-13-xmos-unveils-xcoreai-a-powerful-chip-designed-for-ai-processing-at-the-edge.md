@@ -79,6 +79,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "tUO/yf++JeCDlkARny4DqzFdvV88yRCu9uL3mJhStB/ex6euqkEF9jjs3EzidzHJ8EyCgFGr+DkvTnVLXDtCrSZdRj3i3z6yT4GOBNSzizBLlZ7hK1WHhlcYN3jjfjWed26hr9m9Xhx93wbIEL1JaoO8iPfAN4ncKS0oiTCLk2/SU4oxkZddcsjAsCQKfe2wommNaAzpTsW2KZbGIEnoPQKzAYXQtJou+eFKJkzEp2OzRFe2TVnv3cbmlt1cr5jx75EQJeFHEBmbfKVJHlHWgOLURxXDuT0L2URynBTeauImEyIhZFIeFLAGYX1348SJ;G4rUxjbD+Ot5n4cH8Dq7KA=="
+secured: "Xy1aIO180k4KtV4setMseZggaY4wnK+VCN06mZbqUrFuTfBdQKk7IM2crmgAAMDXnA+zELJZTedfMPjeStoeBjCzjTv5iJvZsv5ot2KAvkH+jubP9jTzUGhnpKWXvv+e4Ky29jlYUfy+1zSQ0cOd/SG4P6VYDzx+NdbpR6RyvQzKq4T4YZgcqz/DivdiT5sZMnpAj4Uhv7N/CVJCqm5PgBivrCJBLC8yNu+4TgrdO83fE3G+LVmtTBjit+6ko/InphMLAdeKQ1nTXvB78fu3E4ZGdX1qo08gL0sEHzvs+fnjNXRLUjiZDpolJ/+FTgME;HFw+HbWpS2fA/GtqOOsBeQ=="
 ---
 

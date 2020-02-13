@@ -1,33 +1,21 @@
 ---
 category: news
-title: "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars"
-excerpt: "WASHINGTON, Feb 11- A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
-publishedDateTime: 2020-02-12T04:03:00Z
-webUrl: "https://www.cnbc.com/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
+excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
+publishedDateTime: 2020-02-13T22:40:00Z
+webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
 type: article
-quality: 70
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Daily Beast
+  domain: thedailybeast.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
-    width: 1200
-    height: 630
-    title: "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars"
 
 related:
   - title: "U.S. lawmakers hear arguments for new safeguards for self-driving cars"
@@ -45,6 +33,21 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
         width: 640
         height: 419
+  - title: "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars"
+    excerpt: "WASHINGTON, Feb 11- A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
+    publishedDateTime: 2020-02-12T04:03:00Z
+    webUrl: "https://www.cnbc.com/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
+        width: 1200
+        height: 630
   - title: "US lawmakers, trial lawyers clash over self-driving rules"
     excerpt: "US lawmakers, trial lawyers clash over self-driving rules Trial lawyers objected to a lack of protections in a 2018 Senate bill that would ensure the right to sue carmakers after autonomous-vehicle crashes Check out this story on detroitnews.com ..."
     publishedDateTime: 2020-02-11T22:55:00Z
@@ -101,16 +104,7 @@ related:
       - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
         width: 620
         height: 349
-  - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
-    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
-    publishedDateTime: 2020-02-13T22:40:00Z
-    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 19
 
-secured: "QctpAl2/qIbaA8GcKI3H6j8rGnO9CBkmirQiGdka7T7dH7cv29ouhx8L8Jsz+zia7+cTHbfXZ+ww/ZGjbFDIVN0O+Yp4LpmXNEABRvfarzbftHJH0Brc3ZrbaMqkJ/eJmapyKMA0Ug0Ni0683nAETKYJ9ig8LZY6Y3jb9lUngb7gNFfubedN31Z1CL7S9l6BBQQPuoFZUA/PK+Tjvyk/vHvSTh13QVpRZYoxoy99iS8uCnkH+ABbAp70lw61hLS25NiA06N8wO+seix+sejqhL3Ix8EdJmf/Ynk1SvyYTETZAhDYiJHbu6yvd9Gf/pdZ;Lm19f+lseyLxJOTYoO4b9A=="
+secured: "/bpTE5i2j+oC3ywO4Tc81/1ujdqRISgbiUOJbH1G6aPr5F5P1/NEmP/Z4wQ9HzKF8Sw+v599paposaGYDSbi1yn0jqURgqoRjPnl+ikhu0UmMiVAD3t2hgfBPJmlavYi0d/AnQBz0GoBMVp9iP+m6y4LbzEmtbDzAwXJ7HFpR90mxBg71yLiYtHgJbzUZNSmAA/Jr8b6xziE8RLGkwlmQonXAXU/eCSeocj/Unngc2XzC7DjUW2yUz90dqq7wenww+bigvGjmPUuIPzuL4MiHGUt9m2T+822EejB/vAiixJMGfkvtF1bzs7OnQ0uDbUfrU/rIOTJG/NFeiWEFIWKfjAsqac6iBc2L6uIGWm0qnWljWwNNoXW65n1dSA0Kj9jXAms9IuoqbxoHMoU9mncqnXn6yIcA1fDgaWX7CaIeS+SKv4q3SS8u0x8knGveYqQ5bGSNSJZKjtSRIkvRg3MdoF545NB1iFerYRfQ4pGrR0=;CrKCPMH2Y2Ju/j8K+3TeAg=="
 ---
 

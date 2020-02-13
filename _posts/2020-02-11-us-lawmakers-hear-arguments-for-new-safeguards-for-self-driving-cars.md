@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-ne
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
       - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
         width: 620
         height: 349
+  - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
+    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
+    publishedDateTime: 2020-02-13T22:40:00Z
+    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
 
 secured: "m26YErCstRArgKjX6kVm5Nx5aOUro7jjHD/beJm2LWpNhe8JEwGnAF74YIG3s0jovkynixaLBTTC93NDYPs97EA1UMTfuaGXCnmf9PTpPu5tTugI9RUif1uMEntpNzA2iz4G3lx9ZJzK0c/7rzwKQQNXoyDUw9VHjkEKO4V6KkXwovMmPIplUAV53zUC4MHaXWbB9bGsGc8eT1eCd4bT1ztqgIIJtz2NKoOrpBecLpJRWcO4n9H+8kxSofRqgoPxD/qKNjjRw0evxbBvOf2FYFztGLsVuhDdGBBlDtFXry/+ZUpfU4S8URR7NOcaFbVwAMgMdZyA/2pjNWFJ2B8cvjgp7k/ujqn67bpMWgUY55yY9sFO15qhu+rKD5AD1fp8Eb0tX7SeGMGDjvcYHRDnFoNpVP3JS7XhsSH0gxdNE28GyUGhQM8FBA3C0hmqP+4alBMONeaf6mfhZ11IOakp9vgUtRmon2gv9aDEUhasf28=;9pEC99oKpVzAjv2JGaBaww=="
 ---

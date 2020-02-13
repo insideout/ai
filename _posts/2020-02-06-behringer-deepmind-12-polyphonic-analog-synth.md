@@ -36,6 +36,15 @@ related:
       name: Reverb.com
       domain: reverb.com
     quality: 19
+  - title: "Behringer DeepMind 12 Analog 12-Voice Polyphonic Desktop Synthesizer"
+    excerpt: "Excellent items are almost entirely free from blemishes and other visual defects and have been played or used with the utmost care.learn more I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a ..."
+    publishedDateTime: 2020-02-11T14:12:00Z
+    webUrl: "https://reverb.com/item/32088322-behringer-deepmind-12-analog-12-voice-polyphonic-desktop-synthesizer"
+    type: article
+    provider:
+      name: Reverb.com
+      domain: reverb.com
+    quality: 19
 
 secured: "9d2vvTZ9EDNRVsn2LIG46hW7T7vdDgGvCdE1sPxHBDO4V8wgy9K+VyCcx9a3FxHHbT+zCuqJS3y197/SrTWNO1Yxq9ABLIuRpuvAJTl7KuAmB7doYbQFxUdjfwA5TRzx7N5ZPjn+I4zn0bGLa2CxiGpBk2rvpRRjem4e7fBofOUdMNhfPuq76X0OCzLMOoKORFT/dzt3IoCtj6NZLrJYS2RT2D+OMFxJdFGHHom1mrQ/kIOH61YM2cc1F6thnzFqnPpHDahZefWlXzr5tSoWailQmgJjQzUV5tftHOBWwvFGduyJ9nVm6szCX3C8ZOGW3fcXFuJc2K1UPZVMqGIUW1+OLBpNT1RF070H3Ona/VaG+qKEXr6flURpQIPVLTfpduiV+Cez1jjI21kTMxaIm/Qim9jRpWmKCdgYytWboCfZRDOSo7gHXKPZxtSzwADiX36odaRedAjHZBIeUHBrX3yv43y3z3Psvgkspq4Jv94=;HtdKXBzPkXXqyr7MfCSnHQ=="
 ---
