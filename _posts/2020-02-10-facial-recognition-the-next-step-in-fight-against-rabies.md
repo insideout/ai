@@ -8,7 +8,7 @@ ampWebUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-f
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 792
     height: 528
     title: "Facial recognition: the next step in fight against rabies"
+
+related:
+  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
+    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
+    publishedDateTime: 2020-02-06T20:54:00Z
+    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
 
 secured: "LCi9S2ij8RBFLOj4e5ySPQnmANm/tsGKW8IC8MTF6zwq2gCyS39Ej0cmfp1koUd9CMJtzya1d5izN15F/mpsMcDsjG+ySkqan8Gv9uzd0yU6zx/G97WlwWUs9ClzwuZ2F4NlLHfLLzxOLCRnoarqUsiwIUhVR9dISdWhUQYLh+7cJ3/A8oIyAMHstHg4uHdS16fyFmXwvmWDeSxeuJi6hcCznvAU6O90VqnlDjPkDo1E62ExgevmYzf4WBw1OCgjzziy7j1FjmReFjWSecZ5Cn4E6U6fFZZTrewB/sJKit2kNil+WmdXbSOXvxOKU5fb6qAKuXYyWlWpluAe2BSx14sPyK/AkRFvcbiLz2I8DZ6lRD7Jm4fAltzgOFm8Y8neW1Lc8SbZTtLhOekuq0OGwkHRZsbLiEclxZcjUfmEmx7yOzNwoNMhOlO3tEKEZcqgcXp6jIlG6KF6OZq03IN6BcZ2vDJj1ckuYyUMEQUeEBc=;TSfvkLY8Y9+Nh5h81ngtrg=="
 ---

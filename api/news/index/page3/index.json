@@ -2,141 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-03-microsoft-azure-cloud-migration-3-success-stories.md",
-      "title": "Microsoft Azure cloud migration: 3 success stories",
-      "excerpt": "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html",
-      "publishedDateTime": "2020-02-03T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": "Microsoft Azure cloud migration: 3 success stories",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-03-millennium-management-secure-machine-learning-using-amazon-sagemaker.md",
-      "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-      "excerpt": "This is a guest post from Millennium Management. In their own words, “Millennium Management is a global investment management firm, established in 1989, with over 2,900 employees and $39.2 billion in assets under management as of August 2, 2019.”  \nMillennium Management is comprised of a large number",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T12:16:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/millenium-sagemaker-1.gif",
-          "width": 900,
-          "height": 473,
-          "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-03-tesla-is-holding-a-super-fun-ai-partyhackathon-at-elon-musks-house.md",
-      "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
-      "excerpt": "Tesla has been known to have a presence at some AI conferences and throw parties to ... also looking for world-class chip designers to join our team, based in both Palo Alto & Austin.",
-      "heat": 229,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/",
-      "ampWebUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
-      "publishedDateTime": "2020-02-03T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/07/elon-musk-nga-2017.png?w=1600",
-          "width": 1600,
-          "height": 803,
-          "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-03-teslas-video-shows-what-full-self-driving-autopilot-sees.md",
       "title": "Tesla's Video Shows What Full Self-Driving Autopilot Sees",
       "excerpt": "Tesla's Autopilot plans are aggressive to say the least. CEO Elon Musk has noted that the company's current-generation vehicles already have the hardware for Full Self-Driving (FSD). The limiting factor, according to Musk, is the software. Clearly, the CEO wants self-driving, so to make it a reality, the Autopilot team is now recruiting via the ...",
@@ -177,7 +42,7 @@
       "path": "_posts/2020-02-03-this-company-scraped-social-media-to-feed-its-ai-facial-recognition-tool-is-that-legal.md",
       "title": "This company scraped social media to feed its AI facial recognition tool. Is that legal?",
       "excerpt": "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ...",
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://bigthink.com/technology-innovation/facial-recognition-clearview",
@@ -476,6 +341,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-algorithms-on-social-media-need-regulation-says-uks-ai-adviser.md",
+      "title": "Algorithms on social media need regulation, says UK's AI adviser",
+      "excerpt": "Report also urges government to consider making firms such as Facebook share their data",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
+      "ampWebUrl": "https://amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
+      "publishedDateTime": "2020-02-03T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7ee6487d302dd944c3802483f30864c086cffca3/0_230_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39d22ae526042181ad95e421176c5f95",
+          "width": 600,
+          "height": 360,
+          "title": "Algorithms on social media need regulation, says UK's AI adviser",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -868,6 +770,43 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-face-recognition-app-yielded-80-accuracy-in-polls-officials.md",
+      "title": "Face recognition app yielded 80% accuracy in polls: Officials",
+      "excerpt": "The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an accuracy of 80 per cent, officials have claimed. However, AIMIM chief Asaduddin Owaisi objected to using the technology alleging that it was dangerous and would invade privacy. \"The result (of face recognition app) was encouraging.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.html",
+      "ampWebUrl": "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html",
+      "publishedDateTime": "2020-02-04T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2018/4/17/face-recognition.jpg",
+          "width": 760,
+          "height": 443,
+          "title": "Face recognition app yielded 80% accuracy in polls: Officials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1468,7 +1407,7 @@
       "path": "_posts/2020-02-04-what-cybersecurity-operations-can-learn-from-self-driving-trucks.md",
       "title": "What Cybersecurity Operations Can Learn From Self-Driving Trucks",
       "excerpt": "It might not be the first comparison you’d think of, but there’s a significant parallel between long-haul drivers and front-line cybersecurity analysts. Both sets of people sit before screens – either glass windshields or computer monitors — for hours at a time,",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cybersecurity-operations-can-learn-from-self-driving-trucks/",
@@ -1885,50 +1824,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-05-crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020.md",
-      "title": "CrunchMatch simplifies networking @ TC Sessions: Robotics + AI 2020",
-      "excerpt": "With just about 1 month until go-time, TC Sessions: Robotics + AI 2020 (March 3 in Berkeley, Calif.) looks to be a true powerhouse event. Prepare to spend the day engaging with the leading innovators, makers and investors bent on shaping the future of these two game-changing technologies. Don’t have a ticket yet? Crikey, mate, beat the price ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-02-05T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/networking_header.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "CrunchMatch simplifies networking @ TC Sessions: Robotics + AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-fintechs-consolidation-creates-investment-opportunities.md",
       "title": "Fintech's Consolidation Creates Investment Opportunities",
       "excerpt": "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,",
@@ -2134,6 +2029,88 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-music-by-numbers-robot-conducts-human-orchestra.md",
+      "title": "Music by numbers? Robot conducts human orchestra",
+      "excerpt": "The conductor on the podium has no baton, no tailcoat and no musical score, but Android Alter 3 is kicking up a storm as it guides a symphony orchestra’s players through their paces. The robot has a humanoid face,",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://af.reuters.com/article/worldNews/idAFKBN1ZZ1U5",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486174307&w=1200&r=LYNXMPEG1419I",
+          "width": 1200,
+          "height": 800,
+          "title": "Music by numbers? Robot conducts human orchestra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one.md",
+      "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
+      "excerpt": "Bernie Sanders and Elizabeth Warren. Pete Buttigieg, who proposes the less radical “Medicare for all who want it,” can point to Trump’s rant as a reason for Democrats to support him. But all the Democratic candidates should come away from this speech with a recognition that Trump will be a formidable opponent.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one",
+      "ampWebUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
+      "publishedDateTime": "2020-02-05T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/4bc5b3c/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F37%2F4e8a13c64254b008d334ca3f9f93%2Ftrump-impeachment-54621.jpg",
+          "width": 320,
+          "height": 209,
+          "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

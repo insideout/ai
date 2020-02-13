@@ -121,16 +121,12 @@ related:
   - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
     excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
     publishedDateTime: 2020-02-03T12:24:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
+    webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 24
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
+      name: ARN
+      domain: arnnet.com.au
+    quality: 4
   - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
     excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
     publishedDateTime: 2020-02-04T19:16:00Z

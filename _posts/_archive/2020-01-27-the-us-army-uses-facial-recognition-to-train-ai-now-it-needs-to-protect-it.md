@@ -367,21 +367,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
-    excerpt: "We have Woody Bledsoe to thank for being one of the fathers of facial recognition technology. In the early ’60s, this sharecropper’s son from Maysville, Oklahoma was a pioneer in having machines recognize faces. Bledsoe’s early research into facial recognition technology attracted fans, most particularly, the U.S. government and the CIA ..."
-    publishedDateTime: 2020-01-29T16:44:00Z
-    webUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/"
-    ampWebUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 59
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1080200064.jpg?quality=80&strip"
-        width: 3500
-        height: 2334
   - title: "Facebook will pay $550 million in facial recognition lawsuit settlement"
     excerpt: "Facebook has agreed to pay $550 million as part of a settlement stemming from a facial recognition class-action lawsuit brought up in Illinois. The social media giant was sued by Illinois residents, alleging that it broke the Illinois Biometric Information Privacy Act with its use of facial recognition technology to suggest people to be tagged ..."
     publishedDateTime: 2020-01-30T13:49:00Z
@@ -1336,6 +1321,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "00lhQsp4FUvz16hAlhCfbbk94l/J0Ez6Je4LpXz8dxoFzp3o2AOvMc6DQIYsxgTIdsd70BUwfbKqKqlUO/cOVKmm4FngTE3lr9O4XqHpw8kxNYDlShGPND+03eFcIRUU8y3zuYL8nkK5QmZn8oZeJyJad721B7jaIsn+JO2/kT3u3RvqUg5HMeMcknPwg3KwshJ9dVXxpzr4wuR+HejaIlzW5xH5W5W+90+FIf4LPLxmR3HiL897CmZEQJ9qR5LzlQMfepbDvJPxmIglwS48o3/05xmcTCosV5iq/+OSaZ3l/WbbIIqb04E+ITfemmJE;mOLTKGOPbv9Bjx4dzAgNvw=="
+secured: "nUw3qrASFVk+pwBl0rpzOvbTVIuwl0VuLoqHUR+TqYGhOETYMyQ+WuJiBGpUFUcmffugLmWg/GLA4sMH0BTGLfHoH5o3DcOdc6yxjdTmiHYGqnibjCMLmyEVAi2V1nvQhEduyi6xnybVUvDANlIffzOmkSv3En0Gl321PK/B3g13kTORCZXwnQ1h+gJuRnVYu20fkHcIvY5owbBzibroLjr3QyEyVmH68TqyVEL0HnnZVBIvvsMx9zaO5wctCfITPxJGskIRm06TclGmndlcD6yuLv2xPQNhxQvTfS6EyHGTKy3sDZ4KVeV457YUirHJ;6PT5FBAaG602P1vRIssT1A=="
 ---
 

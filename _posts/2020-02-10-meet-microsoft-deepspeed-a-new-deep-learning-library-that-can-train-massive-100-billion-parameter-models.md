@@ -8,7 +8,7 @@ ampWebUrl: "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models"
 
 related:
+  - title: "Microsoft Details Massive, 17-Billion Parameter Language Model"
+    excerpt: "... took the covers off Turing Natural Language Generation (T-NLG), a massive new deep learning model that it says will push the bounds of AI in the field of natural language processing (NLP). With 17 billion parameters, T-NLG is “the largest [language] model ever published,” Microsoft Research says in a February 10 blog post. The model is ..."
+    publishedDateTime: 2020-02-13T07:50:00Z
+    webUrl: "https://www.datanami.com/2020/02/12/microsoft-details-massive-17-billion-parameter-language-model/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/T-NLG.png"
+        width: 800
+        height: 546
   - title: "DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective."
     excerpt: "Training advanced deep learning models is challenging. Beyond model design, model scientists also need to set up the state-of-the-art training techniques such as distributed training, mixed precision, gradient accumulation, and checkpointing. Yet still ..."
     publishedDateTime: 2020-02-07T22:56:00Z

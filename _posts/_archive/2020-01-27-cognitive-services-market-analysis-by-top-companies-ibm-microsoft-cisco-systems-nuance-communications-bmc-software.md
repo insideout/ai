@@ -118,16 +118,12 @@ related:
   - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
     excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
     publishedDateTime: 2020-02-03T12:24:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
+    webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 24
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
+      name: ARN
+      domain: arnnet.com.au
+    quality: 4
   - title: "Enterprise Artificial Intelligence Market Technology, Future Trends, Opportunities 2019 & Key Players Google Inc, Apple Inc., Amazon Web Services"
     excerpt: "The updated research report on ‘Global Enterprise Artificial Intelligence Market’ offers real-time information with ... This has driven the market of AI across the globe, owing to developments, such as self-driving cars, space exploration, accurate weather predictions, and others. Furthermore, AI is expected to affect healthcare ..."
     publishedDateTime: 2020-01-31T12:12:00Z
@@ -147,6 +143,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "zvGY7dunvqBj6FqBxKegsK1IjmuR3cCx9DVaLe79zem0h4qQ2/oJ98TrU198cqGpyWulXj8So/26OMA6ZjQGvgI91ob/6Lvoy7zmuEb4LuXu7Fv+HK9aJyDYlpsHutokyqzLzuW0NpR7jYW97NfbHrextEQ2PNbMi12RZZZG9JmOBvNYSz3PAGO6r+HAv7UUCkOSEHpPE67x3hdZjGGxD37itl+VQ9tdXOM0loIOv2IgPuc+a5BilpZV5NyjfWbn5rPUTuueM3CF4XZM+U8GHQ6RyOxyq46fElbaQlbFNCC1iKhkrHxklnqx0Alizz3+;Z1ZNs+DZUckwpm76tV/gag=="
+secured: "so+TOVywfnIi+vYWCLYS9UKr6byort2P4b6X03h/8aX0pn4i0hco+Bp77XdMKS85RU2m4FTBIYFcgX5RlxDrlyeW3mbO0wkaxlqGFsbWqn3zZkoKk/AWl2VUvkX6GPlaga7dc/gQ6MxBrvtMHZuPItqqZkDsJVt0GTw5JrAtdV0aW5zaOHT8czGBQWvLJykVbdY9a2jp2QoU8Dxx9THOBy/iN9uWYn1CJfc08FessP7H8UVUz5dr6eIdRh+6IA40xCKHJFLDIaXwNsVg8551t8pw49uVa1d4VerwEvu+E6xpSWerVvR6Y9Nv3DSjlBAT;Jah49yhPwRb1UpFUNEgIdw=="
 ---
 

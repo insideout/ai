@@ -2,95 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-10-fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence.md",
-      "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
-      "excerpt": "FIFA has begun the early stages of testing for a new semi-automated offside system that combines AI with limb tracking technology. I spoke to FIFA's head of technology and innovation to find out how it works and when fans might first get to see it in action.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-10T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190727598%2F0x0.jpg",
-          "width": 1200,
-          "height": 814,
-          "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-flagging-suspicious-healthcare-claims-with-amazon-sagemaker.md",
-      "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
-      "excerpt": "The National Health Care Anti-Fraud Association (NHCAA) estimates that healthcare fraud costs the nation approximately $68 billion annually—3% of the nation’s $2.26 trillion in healthcare spending. This is a conservative estimate; other estimates range as high as 10% of annual healthcare expenditure,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T09:12:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/16/healthcare-fraud-detection-8.gif",
-          "width": 897,
-          "height": 514,
-          "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-flighthub-justfly-on-robots-and-travel.md",
       "title": "FlightHub & JustFly on robots and travel",
       "excerpt": "Once programmed, some robots function autonomously. Still, many robots require more guidance, especially when used with third-party software for voice recognition, accident detection, virtual reality applications, and others. When combined with artificial intelligence (AI), robots become far more sophisticated. AI’s ability to record and ...",
@@ -321,7 +232,7 @@
       "path": "_posts/2020-02-10-meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models.md",
       "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
       "excerpt": "Microsoft Research today announced DeepSpeed, a new deep learning optimization library that can train massive 100-billion-parameter models. In AI, you need to have larger natural language models for better accuracy. But training larger natural language models is time consuming and the costs associated with it are very high. Microsoft claims ...",
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/",
@@ -1060,7 +971,7 @@
       "path": "_posts/2020-02-10-vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers.md",
       "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
       "excerpt": "This intelligence report provides a comprehensive analysis of the \"Global Vehicle Speech Recognition System Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10",
@@ -1687,6 +1598,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-11-current-facial-recognition-technology-is-not-fit-for-purpose-say-msps.md",
+      "title": "Current facial recognition technology ‘is not fit for purpose’, say MSPs",
+      "excerpt": "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675",
+      "ampWebUrl": "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp",
+      "cdnAmpWebUrl": "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp",
+      "publishedDateTime": "2020-02-10T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scotsman",
+        "domain": "scotsman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg",
+          "width": 445,
+          "height": 600,
+          "title": "Current facial recognition technology ‘is not fit for purpose’, say MSPs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-11-deepfakes-and-deep-media-a-new-security-battleground.md",
       "title": "Deepfakes and deep media: A new security battleground",
       "excerpt": "“Deepfakes [produced by] generative [systems] learn a data set of actual images in videos, to which you add new images and then generate a new video with the new images,” Ishai Rosenberg, head of the deep learning group at cybersecurity company Deep Instinct, told VentureBeat via email. “The result is that the output video has subtle ...",
@@ -1766,51 +1714,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-facial-recognition-no-justification-for-police-scotland-to-use-technology.md",
-      "title": "Facial recognition: 'No justification' for Police Scotland to use technology",
-      "excerpt": "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ...",
-      "heat": 286,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/uk-scotland-51449166",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-scotland-51449166",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-51449166",
-      "publishedDateTime": "2020-02-11T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Facial recognition: 'No justification' for Police Scotland to use technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -2155,6 +2058,96 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-microsoft-builds-the-worlds-largest-transformer-based-language-generation-model.md",
+      "title": "Microsoft builds the world's largest transformer-based language generation model",
+      "excerpt": "that outperforms the state of the art models available today on many downstream natural language processing (NLP) applications. To train the model, researchers at Microsoft trained their model on an NVIDIA DGX-2 system housing multiple NVIDIA V100 GPUs that were interconnected with InfiniBand. The type of training data used was similar to the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model/",
+      "publishedDateTime": "2020-02-11T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1580301872_microsoft_2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft builds the world's largest transformer-based language generation model",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae.md",
+      "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
+      "excerpt": "Migrate is moving applications to Azure, he said, while innovate is all about advanced workloads such as blockchain, AI, IoT and cloud-born workloads. There is a big skills gap in the industry due to the emerging technologies such as AI, blockchain, big data but Ozyucel believes that holding a two-day workshop will bridge the skills gap.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
+      "publishedDateTime": "2020-02-11T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rmPaHMzsrrTyXPeTskDQRN-1200-80.jpg",
+          "width": 1058,
+          "height": 596,
+          "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

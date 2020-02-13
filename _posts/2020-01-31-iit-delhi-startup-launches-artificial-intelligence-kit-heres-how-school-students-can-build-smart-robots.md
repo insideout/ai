@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dqindia.com/iit-delhi-startup-launches-artificial-intell
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-delhi-startup-launches-artificial-intelligence-kit-heres-school-students-can-build-smart-robots/amp/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -18,23 +18,6 @@ provider:
 topics:
   - AI
   - AI in Robotics
-
-related:
-  - title: "IIT Delhi's start-up launches world's first do-it-yourself Artificial Intelligence kit"
-    excerpt: "CYRAN AI Solutions, a deep-tech start-up of IIT Delhi on Monday launched BUDDHI (Build Understand Design Deploy Human-like Intelligence) which is THE world's first do-it-yourself (DIY) AI (Artificial Intelligence) kit. The kit is invented and made in India, for the world. The BUDDHI kit is the brainchild of Professor Manan Suri of IIT Delhi ..."
-    publishedDateTime: 2020-01-29T16:16:00Z
-    webUrl: "https://www.wionews.com/india-news/iit-delhis-start-up-launches-worlds-first-do-it-yourself-artificial-intelligence-kit-277410"
-    ampWebUrl: "https://www.wionews.com/india-news/iit-delhis-start-up-launches-worlds-first-do-it-yourself-artificial-intelligence-kit-277410/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/india-news/iit-delhis-start-up-launches-worlds-first-do-it-yourself-artificial-intelligence-kit-277410/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 49
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/29/126485-buddhi.JPG?itok=Iz0u1-WE"
-        width: 918
-        height: 506
 
 secured: "Gl/a/a+WVUf3nptBB1YB6DX/aC2XLgS0CiWkhkBc1cGU84XtaShJmnnWagtGYdSu3cZoPpRWwrPoZkIIWii9sNrkkvbCYIXTrqG4uLpF35REBM4iomFKaZWVXJTWiQFSPb2kEJ57il6hZJlmcLK4BbFejoskdJgb+XFm89z/n4rKkkHMnk+AwlkftAnbxCmZFDQIJTFa1Tqhr9DTwk8XA4qvT9RcVCQetGkNb/aWxrAqzFmOv9Z0hXQOvXqVd83SFBv8Thf3dLWrPIDdJe1J2wIdLJuUn4HBwDyP6HD2F7IRleRRIhD8jD5wK4Sr9+4MqHI6c4Y4pXP8LDsDLkGzEW6oCzKBkAymAdoCD7pWFAsZnfwg7OPyb5/lzv0Dnqo60I39w0NbkyW2XVhexqn3UVr7wEkCPFIhgB1gOySVVXuYpa1atNeVSnBKa3FIlT0Fr8rlNJKXixWauOkAWVHNtGXhA5moBd1ZzRvQ/649LOc=;e1hG4AVyGfmctZn77QrCXQ=="
 ---

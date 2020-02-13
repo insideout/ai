@@ -2,99 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-07-how-is-artificial-intelligence-and-machine-learning-used-in-engineering.md",
-      "title": "How Is Artificial Intelligence And Machine Learning Used In Engineering?",
-      "excerpt": "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness.",
-      "heat": 135,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/",
-      "publishedDateTime": "2020-02-07T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 290,
-          "title": "How Is Artificial Intelligence And Machine Learning Used In Engineering?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-how-to-learn-pytorch-a-resources-guide-for-developers.md",
-      "title": "How to learn PyTorch: A resources guide for developers",
-      "excerpt": "Developed by Facebook, PyTorch is similar to Google's TensorFlow in that it runs on tensors, but instead of using static computation graphs like TensorFlow, it utilizes dynamic computation graphs. If you are interested in learning PyTorch, the following list of resources can help you get started. SEE: Hiring kit: Python developer ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
-      "publishedDateTime": "2020-02-07T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg",
-          "width": 1200,
-          "height": 718,
-          "title": "How to learn PyTorch: A resources guide for developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-machine-learning-infrastructure-terraforming-sagemaker-part-1.md",
       "title": "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~",
       "excerpt": "The MLOps cover these areas mainly: Amazon SageMaker is AWS based machine learning platform that enables developers to build machine learning models, train data, deploy an inference point on the ...",
@@ -2113,7 +2020,7 @@
       "path": "_posts/2020-02-10-facial-recognition-the-next-step-in-fight-against-rabies.md",
       "title": "Facial recognition: the next step in fight against rabies",
       "excerpt": "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ...",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/",
@@ -2189,6 +2096,95 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence.md",
+      "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
+      "excerpt": "FIFA has begun the early stages of testing for a new semi-automated offside system that combines AI with limb tracking technology. I spoke to FIFA's head of technology and innovation to find out how it works and when fans might first get to see it in action.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-02-10T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190727598%2F0x0.jpg",
+          "width": 1200,
+          "height": 814,
+          "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-flagging-suspicious-healthcare-claims-with-amazon-sagemaker.md",
+      "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
+      "excerpt": "The National Health Care Anti-Fraud Association (NHCAA) estimates that healthcare fraud costs the nation approximately $68 billion annually—3% of the nation’s $2.26 trillion in healthcare spending. This is a conservative estimate; other estimates range as high as 10% of annual healthcare expenditure,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T09:12:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/16/healthcare-fraud-detection-8.gif",
+          "width": 897,
+          "height": 514,
+          "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

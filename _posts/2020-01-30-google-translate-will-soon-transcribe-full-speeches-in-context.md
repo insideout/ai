@@ -8,7 +8,7 @@ ampWebUrl: "https://www.androidheadlines.com/2020/01/google-translate-transcribe
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-translate-transcribe-full-speeches.html/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Google Translate Will Soon Transcribe Full Speeches, In Context"
 
 related:
-  - title: "Google Translate App to Transcribe and Translate in Real Time"
-    excerpt: "As CNET reports, Google was showing off a number of its AI projects earlier this week in San Francisco. One of them is a new feature heading to the Google Translate app a few months from now which allows a conversation to be transcribed in real-time while simultaneously being translated into another language. From a practical point of view it ..."
-    publishedDateTime: 2020-01-29T16:48:00Z
-    webUrl: "https://www.entrepreneur.com/article/345665"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/345665"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345665"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200129163936-google-translate.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
   - title: "Translate this: How real-time translation breaks down barriers when you don't speak the language"
     excerpt: "Half of the internet's content is in English, says Google AI director of product Barak Turovsky,, but only 20% of the global population have any English skills whatsoever. And while Microsoft's text translation technology now supports up to 70 languages and its speech translation can decipher around 40, says Microsoft technical fellow and ..."
     publishedDateTime: 2020-02-05T10:16:00Z
@@ -69,15 +54,6 @@ related:
       - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/01/file-20191211-95125-r0n3lh.jpg"
         width: 2479
         height: 1653
-  - title: "Google aims AI at whales and words"
-    excerpt: "SAN FRANCISCO: Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... orcas and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters is ..."
-    publishedDateTime: 2020-01-30T04:30:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1846539/google-aims-ai-at-whales-and-words"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 19
 
 secured: "tvNNCPzHbwzeY6IReuJHxsjydm8Rdhc1lntRGvZ/jnCX23tYVfw4KkGIxpk7nf5fnAELBvu8B6ETYKt4zCX+/kjWNeWqH0CzlORZE85dN08Cm+7QDwAKLF6IMLBjqwD8hnyQsxxiiaNJBlSpubk4YwBWN3UIJ3L+TkK2iZnabGGbb4whnWIFMoDXogS5eRPkTvdKmMu+fwK3ANwm6Pn1tyQ08xEkmJS8VsOXUvENWOHkCVHiTADSXqYlM5MHIAgvf3/dHBUv+XMEN446wsTH+QNC7mihWrSIUnLKdTmKti4voXUbFTAnetf2iwkZMNhNdJ48QhwTn0r3PKVJCm/5L8NAwGDFZoXQq4JLtWM/PC7E14vdd3OJHqh4uDd2JBEFFWVVgz2/bLTrofztEMnpiwB3ACeTFvtOxrw2LbNkDjmHGsvFxCP6sXhPTdbXTo4dCkEbNOEnJW5oSGLNwQ7Mjg4TyziLaCb6nA4tKG5Fd6I=;Zwmw7wBlgNTv8grFzkPz9A=="
 ---

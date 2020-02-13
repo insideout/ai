@@ -7,9 +7,9 @@ webUrl: "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-mat
 ampWebUrl: "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Engadget
@@ -23,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "05Ghh4gT/8HOw+KXwsT/vupbmH6RUNpsqTN6o25WncwUPIiSZ3B+OYdv0gyshHtI3SFJa4aiJt3s1rqhRqNZ7KUlHDtB24PfkmnK60mdODIHlM5q7wvpxxbpuZSBANw1CLbHGRe5weg2Ydd+JMoHGoJnf8kzC+j2NO7i9uiYAN78ZstnfXFNfu+6tVud0siRVBzzT8IIvh75oDnm086pB+uND7c7yHP5m7TDfOLgtw5lQ1q+RhyneCpRKlVk188LkQ0dEWXZRHERDRukAATwOIrGiwaCbtmFTcEb23NsQkHJr4DkVb30VsnFx7WFCW5O;5K47avyVs2IyTbwiN/lbZw=="
+images:
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7952%252C5304%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fa6df90d0-fc30-11e9-bf3d-41e8fa5d6f01%26client%3Da1acac3e1b3290917d92%26signature%3Df51c7486a6dd8080945bf5ef5ac7482111cf2c46&client=amp-blogside-v2&signature=7c28bf857a46eba7eeca3ef58ca21d26e24a1234"
+    width: 600
+    height: 350
+    title: "Facebook taught its AI to speak math"
+
+secured: "l8QjMNl58bhxp5+HiCJHuGu3CYunM3TotZ4WDqivu3KkxPSN81pvkqcD1vWHCH2utIUdWc/9EiBXdYrPANFiH4G1Sd32Ot1OlQ54fIImamdWAJhq5zLo70I7GGGgVhm6RuMb3ulcK3Ep0HIh22shDCCKG0p6VZ5otZ7BDhH36iVe83Kn0S0sAwOts41VqCxt2Ab3WqHUqWiYl+x4awGZjZ8rlIk+E9Qp9modVjDaBOF6nb8KBbtw2/lsghynDuaN5HjPhpzRCLxd/To+vsTYSiuLV0+kP6lWRzx9l2aUJCgsVwcnIU6dtnnxIenBfNC4;nyuemt9s6nM274CdF01hiw=="
 ---
 

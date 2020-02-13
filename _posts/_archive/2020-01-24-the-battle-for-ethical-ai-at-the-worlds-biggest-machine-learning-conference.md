@@ -23,6 +23,6 @@ images:
     height: 576
     title: "The battle for ethical AI at the world’s biggest machine-learning conference"
 
-secured: "P511kDikLq28hhQYdLNwBax0iyhPJ89bDllTN0+TAqxZcJ20Fgu8lS8lQe76FpXwMoPZpuQJ/VxJEHYR/T7htBK41k+Z1mqKuJSoohmhipLTPe4H828hDMhw4eU95isX8OBggJLFrdYAHFBA6BCvFjLeyMiULBJ6wX7UHHzuYT8M4X4jOQIdWioYLLXir0M3ZKu0xw8B1HGvyK+Qzi98k7itWG5EUzRDWuZnMsuckNlPTTPqfU15mdbyE6pi6COBPIc6/VLkzeLuCnaclnCrd4M71SbWbin26QC4g+0fFqtDlMdzYW4hwbd56b5Xb3xn;6RRnM9eAED9y6I7XzyF7aA=="
+secured: "oti6LQ4uFYo373XRuydJBTzpxkWAEH38SFyyHBbZuAwJrbAeedAiGqTmDuSSMP5RE1gjx9r+GnuZXSTA5Cb+Vr8n4vfeHq1sTkHgC0172LIXS1XLYOlG0CDc48nyTdO/WFuoporgv778el8KxeAmFoSq7t3y5x71IdSKM2dnBdeCQf2OAt6vjQLtJULLsMXpc1mS8C/O1r3cTfa8/Qvny3K7QrkcMwAd+Ca00OOV4//cG7w+CzfM+CYq4nVYg7aq+TcEnJ0cmnik0oac5/OVzj7EyPA+1O2Qk5sxWmSs1vsHzSfbjDkQxPO3MhJMeZ3e;xRqT3WGGJ6CgTS+8r9+1eQ=="
 ---
 

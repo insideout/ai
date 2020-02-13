@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T20:56:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Military
       domain: militaryaerospace.com
     quality: 1
+  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
+    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
+    publishedDateTime: 2020-02-05T18:29:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "rmprjo/CfXcCDb7CecFo8G5b55KidXy+8MH61QA9pnDY2zjSR9meWzIaad9STdXpf/+fNQHPqYsR+N5tT7rtxc5+YejBj7OOhtfsfxFhPNXhW0thZ1F/lr3w7BuItcbJe/J9Xri8fliNIkYGrEOvBBBtbPMV6tZufhBGxc1QVT238kAzyJpdKrjiZEJVAKK4AZQ49ChTF4k/KKc7dToC9Rv8Po9Ld3qSPMWxUH3CCO3R2RwzfIHg4X4Qz/eWM4O9WgP7lT6nSBIAx+qsczo9EOdY+GVhIVbYpBwdjijFO9yjrII6Bmzd6ydP0gA3h43kNWku4NNbA8AZ1CX8bna9Jsx0AYwa/XfVW7XZJrR812N/Z0WAtIJLrGf4+U5SeJsahWinZqHwfTsHt+UDmU78bmwlh6BFrU7Ayue0VbLFELd8BhKl1sYTuF0620F2EKPkzxdWjuw1KKPVc5qnL1I4a0Dv532zCf5mUGqUTyHisrE=;dmHwhlWTppMnmPE2miOqFw=="
 ---

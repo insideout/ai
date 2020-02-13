@@ -18,64 +18,41 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Google Translate App to Transcribe and Translate in Real Time"
-    excerpt: "As CNET reports, Google was showing off a number of its AI projects earlier this week in San Francisco. One of them is a new feature heading to the Google Translate app a few months from now which allows a conversation to be transcribed in real-time while simultaneously being translated into another language. From a practical point of view it ..."
-    publishedDateTime: 2020-01-29T16:48:00Z
-    webUrl: "https://www.entrepreneur.com/article/345665"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/345665"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345665"
+  - title: "Google aims AI at whales, language and well-being"
+    excerpt: "Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... managers,” Google said. Another AI team showed how Google translation software that already lets ..."
+    publishedDateTime: 2020-01-30T04:17:00Z
+    webUrl: "https://www.phnompenhpost.com/lifestyle/google-aims-ai-whales-language-and-well-being"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200129163936-google-translate.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-  - title: "Google Translate Will Soon Transcribe Full Speeches, In Context"
-    excerpt: "Unlike previous iterations and Google Translate features, the latest incoming change is designed to transcribe speech into a second language with contextual awareness. Namely, Google hopes to leverage its AI algorithms centered around speech to automatically correct for translation errors. More concisely, the tool will analyze speech in real ..."
-    publishedDateTime: 2020-01-30T19:10:00Z
-    webUrl: "https://www.androidheadlines.com/2020/01/google-translate-transcribe-full-speeches.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/01/google-translate-transcribe-full-speeches.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-translate-transcribe-full-speeches.html/amp"
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/google_engineers_are_also_exploring_using_ai_to_help_with_medical_diagnostics_such_as_detecting_signs_of_cancer_or_eye_disease_in_scans._afp.jpg"
+        width: 990
+        height: 660
+  - title: "Google aims AI at whales, words and well-being"
+    excerpt: "Google on Jan 28 provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... managers,\" Google said. Another AI team showed how Google translation software that already lets ..."
+    publishedDateTime: 2020-01-30T01:12:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/01/30/google-aims-ai-at-whales-words-and-well-being"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2018/11/Google-Translate-AH-new.jpg"
-        width: 1920
-        height: 1080
-  - title: "Translate this: How real-time translation breaks down barriers when you don't speak the language"
-    excerpt: "Half of the internet's content is in English, says Google AI director of product Barak Turovsky,, but only 20% of the global population have any English skills whatsoever. And while Microsoft's text translation technology now supports up to 70 languages and its speech translation can decipher around 40, says Microsoft technical fellow and ..."
-    publishedDateTime: 2020-02-05T10:16:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/02/05/translation-tech-solutions-language-barriers-google-translate-interpreter/4596091002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4596091002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4596091002"
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/01/29/531769.jpg"
+        width: 1240
+        height: 864
+  - title: "Google aims AI at whales, words and well-being"
+    excerpt: "Google this week provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers. The internet giant unveiled ... and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters ..."
+    publishedDateTime: 2020-01-29T22:00:00Z
+    webUrl: "https://japantoday.com/category/tech/google-aims-ai-at-whales-words-and-well-being"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 31
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/0ac4d43446bf371f6ef33a823905ed947c4a607a/c=5-0-787-440/local/-/media/2019/12/27/USATODAY/usatsports/Reviewed.com-RvEW-23982-echo_amazon.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-  - title: "Google Will Soon Translate And Transcribe Languages In Real Time"
-    excerpt: "Google has shown off an upcoming feature for its Android Google Translate app that will allow for real-time transcription and translation of one language into another at an AI event in San Fransisco. According to CNET, the feature is still in the prototyping stage, so don't expect the functional equivalent of a Hitchhiker's Babel Fish to be on ..."
-    publishedDateTime: 2020-01-30T09:24:00Z
-    webUrl: "https://www.gizmodo.co.uk/2020/01/google-will-soon-translate-and-transcribe-languages-in-real-time/"
-    type: article
-    provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 24
-    images:
-      - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/01/file-20191211-95125-r0n3lh.jpg"
-        width: 2479
-        height: 1653
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "O/VPv+4mieMyPl8CnP/UIellfKacSHMCVWpGbIE3JTiOhlu790htp7+Vhx/KBlK7dvujiGHIpjPaWJ2oc60PstNXCFYSRYGlf6+dZuEUReexzoiz8spB+xm8jVQ5h8WZE9jn3uu2MY/qimdZAL5YpstW8LsYa4h4M2T/9roCLIADKUsgxpBRQ9YucNp9oU8hBYHhqFB1atqlgrq4GlVGHO6JQi8vLZQTBX8zJ+trx8RFmDcIqlJJOveDhGz7REPIogbrGtmzBpkdjSbzpsjIB+GfTLSvGa+Y+o6wbthxzVuhq+cYypeWj1FZoC/TJpH1uAR7sXhe2ee8OxLAEqX/zLZgW6ZFQHc3ySkPxO01Rk+1+aGewI5W4oyUMBipHuyCKhZBdPWxn0A4iAKIVj8d25LMU+BaCMwQ4K8Lm+Ezt7yTY3BfnBbOoEUdg6u63NbZoZSxq5jRBf1lg0qWu6+rbor1g0A9sOZjIvm/QQs2oc4=;evRLjcKXOldId7aqzPiqog=="
 ---

@@ -27,6 +27,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "Robotics Market size Witness Growth Acceleration During 2025"
+    excerpt: "Venture capitalists have opened up to funding companies designing and manufacturing industrial robots. Advancements in artificial intelligence and development of sophisticated sensors are projected to augment the development of self-programming robots. Make an Inquiry before Buying: https://www.trendsmarketresearch.com/checkout/3132/Single In ..."
+    publishedDateTime: 2020-02-05T08:23:00Z
+    webUrl: "https://www.openpr.com/news/1919614/robotics-market-size-witness-growth-acceleration-during-2025"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
   - title: "Artificial Intelligence in Cybersecurity Market to Witness an Outstanding Growth during 2019-2030 | Intel, NVIDIA, IBM,"
     excerpt: "Latest research report on ‘Global Artificial Intelligence in Cybersecurity Market’ delivers essential information ... IoT devices are used extensively by the healthcare, finance, and infrastructure sectors. The increasing number of connected devices and the growing need for the IoT have significantly contributed to the growing demand ..."
     publishedDateTime: 2020-01-31T12:28:00Z

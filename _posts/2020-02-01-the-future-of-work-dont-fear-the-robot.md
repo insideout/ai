@@ -8,8 +8,8 @@ ampWebUrl: "https://www.sfchronicle.com/opinion/diaz/amp/The-future-of-work-Don-
 cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/diaz/amp/The-future-of-work-Don-t-fear-the-robot-15021304.php"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: San Francisco Chronicle
@@ -26,19 +26,6 @@ images:
     title: "The future of work: Don’t fear the robot"
 
 related:
-  - title: "Exploring the future of employee-robot relations"
-    excerpt: "She foresees a growing and helpful spot for robots in the workplace with their own personalities ... Steven-Waiss implores her peers to reimagine and re-skill internal workforces considering how artificial intelligence is eliminating jobs faster than available talent can learn new skills. The former journalist also provides a roadmap for ..."
-    publishedDateTime: 2020-01-29T17:09:00Z
-    webUrl: "https://www.benefitnews.com/news/exploring-the-future-of-employee-robot-relations"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 39
-    images:
-      - url: "https://sourcemedia.brightspotcdn.com/dims4/default/2843214/2147483647/strip/true/crop/2119x1112+0+151/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F67%2F5d%2F9ca45b5c4541a515251a7004e27a%2Fprogrammanager.jpg"
-        width: 1200
-        height: 630
   - title: "Five Future Trends in Robot Deployment"
     excerpt: "3. New Applications for Robotics Enabled by AI Solutions leveraging the power of artificial intelligence (AI) are already paying off in automation and manufacturing. AI—in many shapes and forms—will be the stitching that weaves together a new age of industry. We expect to see many advances in the year ahead, especially related to robotics."
     publishedDateTime: 2020-01-30T14:53:00Z

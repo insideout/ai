@@ -378,21 +378,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
-    excerpt: "We have Woody Bledsoe to thank for being one of the fathers of facial recognition technology. In the early ’60s, this sharecropper’s son from Maysville, Oklahoma was a pioneer in having machines recognize faces. Bledsoe’s early research into facial recognition technology attracted fans, most particularly, the U.S. government and the CIA ..."
-    publishedDateTime: 2020-01-29T16:44:00Z
-    webUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/"
-    ampWebUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 59
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1080200064.jpg?quality=80&strip"
-        width: 3500
-        height: 2334
   - title: "Volusia County Sheriff's Office now using facial recognition software"
     excerpt: "WESH 2 News looked into controversial technology that could help catch criminals: facial recognition software is being used in Volusia County. WESH 2 News got answers on how it works and why Orlando police decided against using facial recognition permanently."
     publishedDateTime: 2020-02-01T03:30:00Z

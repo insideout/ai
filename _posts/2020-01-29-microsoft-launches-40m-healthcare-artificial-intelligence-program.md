@@ -93,17 +93,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D"
         width: 800
         height: 600
-  - title: "Microsoft wants to use A.I. to make health care better for everyone"
-    excerpt: "Microsoft is bringing artificial intelligence into the health care world with the launch of a new program that aims to improve the well-being of people and communities around the globe. The five-year program, called A.I. for Health, will focus on advancing medical research, reducing health inequality and improving health care access ..."
-    publishedDateTime: 2020-01-29T16:30:00Z
-    webUrl: "https://www.digitaltrends.com/computing/microsoft-ai-wants-to-make-health-care-better-for-everyone/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-ai-wants-to-make-health-care-better-for-everyone/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-ai-wants-to-make-health-care-better-for-everyone/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
   - title: "Microsoft backs AI in healthcare with a $40 million program"
     excerpt: "AI for Health will help treat and understand diseases. Microsoft's deepening health tech strategy now includes a significant commitment to AI. The company is starting a $40 million AI for Health program that should help researchers and key organizations improve the quality of life for people around the planet. The five-year initiative will use ..."
     publishedDateTime: 2020-01-30T02:44:00Z

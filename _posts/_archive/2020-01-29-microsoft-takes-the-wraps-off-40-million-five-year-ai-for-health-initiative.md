@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Microsoft takes wraps off $40M ‘AI for Health’ initiative"
-excerpt: "The latest such effort is AI for Health, an $40M, five year outgrowth of Microsoft’s AI for Good program that aims to help apply the benefits of AI with an eye to bettering the health of the less fortunate worldwide. The new initiative will focus on direct research in the medical AI field (think algorithms for automatically detecting a ..."
-publishedDateTime: 2020-01-29T17:36:00Z
-webUrl: "https://techcrunch.com/2020/01/29/microsoft-takes-wraps-off-40m-ai-for-health-initiative/"
-ampWebUrl: "https://techcrunch.com/2020/01/29/microsoft-takes-wraps-off-40m-ai-for-health-initiative/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/microsoft-takes-wraps-off-40m-ai-for-health-initiative/amp/"
+title: "Microsoft takes the wraps off $40 million, five-year 'AI for Health' initiative"
+excerpt: "Microsoft has added a new program to its \"AI for Good\" line-up. Its new \"AI for Health\" initiative joins its existing AI for Earth; AI for Accessibility; AI for Humanitarian Action; and AI for Cultural Heritage projects. Microsoft is funding the AI for Health project at $40 million over four years. Through its AI for Good projects, Microsoft is ..."
+publishedDateTime: 2020-01-29T18:05:00Z
+webUrl: "https://www.zdnet.com/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 183
+heat: 253
+published: true
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,27 +23,12 @@ topics:
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1136667866.jpg?w=1024"
-    width: 1024
-    height: 715
-    title: "Microsoft takes wraps off $40M ‘AI for Health’ initiative"
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/01/29/55c18e04-6bb4-4573-afbf-7c7705ad4274/microsoftaiforhealth.jpg"
+    width: 807
+    height: 559
+    title: "Microsoft takes the wraps off $40 million, five-year 'AI for Health' initiative"
 
 related:
-  - title: "Microsoft takes the wraps off $40 million, five-year 'AI for Health' initiative"
-    excerpt: "Microsoft has added a new program to its \"AI for Good\" line-up. Its new \"AI for Health\" initiative joins its existing AI for Earth; AI for Accessibility; AI for Humanitarian Action; and AI for Cultural Heritage projects. Microsoft is funding the AI for Health project at $40 million over four years. Through its AI for Good projects, Microsoft is ..."
-    publishedDateTime: 2020-01-29T18:05:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 183
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/01/29/55c18e04-6bb4-4573-afbf-7c7705ad4274/microsoftaiforhealth.jpg"
-        width: 807
-        height: 559
   - title: "Microsoft launches $50 million AI for Health grant program"
     excerpt: "A health care bot service designed to help organizations create AI-powered assistants and chatbots launched alongside it, with features like a medical dictionary and a built-in symptom checker plus integrations with health systems such as electronic medical records. So too did an API for health record sharing — Azure API — that lets health ..."
     publishedDateTime: 2020-01-29T17:30:00Z
@@ -59,6 +44,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Microsoft takes wraps off $40M ‘AI for Health’ initiative"
+    excerpt: "The latest such effort is AI for Health, an $40M, five year outgrowth of Microsoft’s AI for Good program that aims to help apply the benefits of AI with an eye to bettering the health of the less fortunate worldwide. The new initiative will focus on direct research in the medical AI field (think algorithms for automatically detecting a ..."
+    publishedDateTime: 2020-01-29T17:36:00Z
+    webUrl: "https://techcrunch.com/2020/01/29/microsoft-takes-wraps-off-40m-ai-for-health-initiative/"
+    ampWebUrl: "https://techcrunch.com/2020/01/29/microsoft-takes-wraps-off-40m-ai-for-health-initiative/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/microsoft-takes-wraps-off-40m-ai-for-health-initiative/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1136667866.jpg?w=1024"
+        width: 1024
+        height: 715
   - title: "Microsoft launches $40M initiative to solve global health challenges with AI"
     excerpt: "The $40 million AI for Health initiative will focus on three core areas: Studying, preventing, and treating diseases Studying mortality and longevity around the world to protect against the next global health crisis Reducing inequity in global healthcare Microsoft will provide grants, data science experts, technology, and other resources to ..."
     publishedDateTime: 2020-01-29T17:32:00Z
@@ -89,17 +89,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D"
         width: 800
         height: 600
-  - title: "Microsoft wants to use A.I. to make health care better for everyone"
-    excerpt: "Microsoft is bringing artificial intelligence into the health care world with the launch of a new program that aims to improve the well-being of people and communities around the globe. The five-year program, called A.I. for Health, will focus on advancing medical research, reducing health inequality and improving health care access ..."
-    publishedDateTime: 2020-01-29T16:30:00Z
-    webUrl: "https://www.digitaltrends.com/computing/microsoft-ai-wants-to-make-health-care-better-for-everyone/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-ai-wants-to-make-health-care-better-for-everyone/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-ai-wants-to-make-health-care-better-for-everyone/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
   - title: "Microsoft backs AI in healthcare with a $40 million program"
     excerpt: "AI for Health will help treat and understand diseases. Microsoft's deepening health tech strategy now includes a significant commitment to AI. The company is starting a $40 million AI for Health program that should help researchers and key organizations improve the quality of life for people around the planet. The five-year initiative will use ..."
     publishedDateTime: 2020-01-30T02:44:00Z
@@ -132,6 +121,6 @@ related:
         width: 1024
         height: 683
 
-secured: "ebCiGw4oFWii0nmfuLUgKsARdkzNfvYd/Z/a0tmFNWTYxHNVKsGWJmQJ8zsPYd/xTaUPJiPaA5nuy5i6SUbhopAZU/TEsc1RGh8IDFuzq+nlN/nIUEMWyyHug0VVMMvyysnh7ZGyuCgVhmS761XIxnGFCRGaiH8StBZqtbpAdh68MjFyS7rXIeWfV3fxMPIkM//KrSjAyFflHncxmGAWphJp/kTZQkPzjvhp0LEdapmOMs+YK7brso7wRu24eHAfBCAi6KZcDw8EjWk9wMbKink1SI+s50254hVZSKIN1Gdv60h8mSU4ORjqkDt2tyHVBuyR6aJ10eSZftz72RRc1AIdVN1Yp5nd2kGMU44baX1V073pUpv0snufYY6TuQ9Yu95zBzjyL8M5sJ+BOasozJQjdVuX+E2+e1ExbTX51psLTpQLGULXRuyzgBepmGlv7OQRL15BhtqHxwTrHfPIhJpE4tugEmWhfcxEKCwmJFk=;QgfHcXpMmMUxn+Eo6kFXXw=="
+secured: "QeGPugLJJeg3BIvZLVax67WJ2+6y1glaZGYlZB9FgmuGwHPmgC67uNVSy4Dh9Sn9eiNlxFU6iR0NiKp+C93UPdgcOD38JKY73ycJpsK/QJjXsnvTRYqZQ6gPobH6IiADxtU1M5zvKya+3WMxhQ4Y9YjLTSSTplR4GOR6NOQwY342pWpKBMXKv0trPVF4VOaNNBIOilDykyp7J1QNdNn4nhSECcF7T14w545DaHJqqoktnTQmU0pLljUTyOfQ5f92LYStSnLgv8IizefDb8afsRR3/Mg99LusbRaHepcr2gnwoxWsrk0HcBNHeORfkBYFC90YBdD0yUrnGOnKhSqxeRZ9/lsY6h1rJmFR1dS65dbxinlLCEreLTfImSS66wxmZixyVTkw1wy6sAavFOqnJa+F9sVnMpFp7BN3WdnMDh0V7WH8Giuz3RV4CMZL28A9F7WltUUIYbjluCHf9vYtmEuAAFYhZtnfFMHzAkkZONphzLOqQC8FDYpZ2QA9ONr/;oX5z5QOrLtRTg4GS6aZsnQ=="
 ---
 
