@@ -1,11 +1,13 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
+excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 61
+quality: 101
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+    width: 1200
+    height: 763
+    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -711,6 +719,19 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
   - title: "India's railways to use facial recognition amid privacy fears"
     excerpt: "India is readying to install a nationwide facial recognition system, likely to be among the world's largest Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people's privacy in the absence of ..."
     publishedDateTime: 2020-01-29T12:03:00Z
@@ -1144,15 +1165,6 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 34
   - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
     excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
     publishedDateTime: 2020-02-04T11:05:00Z
@@ -1359,6 +1371,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "Z3W5vGOyCFVCOP1i9Ikjn1sCTpsGr8v/dH7xdE4aG4ZpD7DcguDaqoTibYsHMR1AyBOVBwWQOCzfjV4q47FJgbz+gUlnVJyOmVe8v8opE+xcBTYZ/No4CGwqGA8GZlHrBNGws3htuvSose/LAQntvCNGfKmzjia5OAv3otxnKOl94ldgESmu/R6mg/BV6b+5ZI6KwaeUjjZuBO9kJJXsG45/F332FZo7VvLZugTqBsf5bxIKsim9oBa4dVNf1gnG/S6MO0M5Q02RDjm3nmW5s0LoscUHWAtjo1TftdLrJFuU7+9gPvXTOsozqoMbhF/Zf5mYoAgT6G8bj7j6jV2wxF5E4VN8xh8dK1dgRGp13orT0jASn3dZGOhZWew/Fkib+h9T7o4SSGbxmA+TX2AFDQKf0EcGkTHwhvS4oO7kRA2ndyw9KeVdbCJJK1igTukBwWBypNHMHC8Y2I3bPrL/L6IcaePPCTjBXSG+bcobjDc=;0NsmKbPuNWIEaK5Xhs018A=="
+secured: "C8c+tEsRD7K7IPKzZEa4qC/0wiJvbtLcWt2m4FkC5y9FmvHT4c1hZFomyAxnHqKjUkvl8ckLGtv0QgQFpAYext28uhrJ89JJ5ry5AxLy97F6EF7y0vN/05CW+/UKLm/vppiClNlrLXLrO7DRvnqVnRflD328Kdk+SGL+HE4O0tO2gleGPUWRML5tbojnKDRDX2p2aSKLMQ0D8pymnx0X/FKbXQn33864+OGLKRfD24qnwf3tWkkk/9cXTxdVpDHZypHMJoxHKD7FK7JvIEZx70Qf1G71Hv7AwQx0n9o8+lwMAAhTr+nd9uKMkBKLND3L;Q34w61YHXDzLO7ps/4o8DA=="
 ---
 

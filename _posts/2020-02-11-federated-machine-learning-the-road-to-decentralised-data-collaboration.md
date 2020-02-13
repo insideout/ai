@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - Machine Learning
 
+related:
+  - title: "Veoneer selected to supply system based on next generation vision and radar system"
+    excerpt: "These are the main build blocks for higher levels of automated driving. Veoneer’s camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity’s software, fusing information from the camera and radar ..."
+    publishedDateTime: 2020-02-11T13:46:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 0
+
 secured: "qRHDGcAJ8YH78/yIDpCAosGbRkCsnLz5AxhriQF0JxhQwDZPIw8rIEdJRAnNGhzUUyvY+9E5uKKwMi/zBVjNhObvc5MpmUzPBokIES3+8wfwABoAo/NrGgb6vcptFDO/s7g7zx8arJ3inH49T3TTqSXkW2ua5F2hNz7LnO80WBHFSmX1lS0+ePPRY9b+XuB5Ts+mrhB4EzZsXbjhdMUz0dzPo7vEmKEB0MzQ7NFJ+Vyc/H82GAiQEkhbPhUbtJ8RzGP0U4r0UBrBlep9CHO0pcAgZve5iNELDN1U9HK1SKzmc3qbgorfIXYg3e3M6Vo9;dXDAO82HkOFMaBHuJujQWw=="
 ---
 

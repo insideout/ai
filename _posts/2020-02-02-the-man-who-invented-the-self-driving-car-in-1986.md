@@ -76,15 +76,6 @@ related:
       - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
         width: 1200
         height: 782
-  - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
-    excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
-    publishedDateTime: 2020-01-23T00:00:00Z
-    webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "TOoqxZZ9W7mF1bOOBbvVUjYFv7iay6JiUT63wN4KxkCIgXJWwicfl50ftySHZluwuQq57jda/u3aYVpQQsa0eE2UkihPlUb4mk/qKbP/KO8OPnwD4uh6/OGf3rGTDb47N3KlOm4kV3IuPkqIo8NhVZJ+Sz0CKp9k/0uOHJSqpsZd/cgsaIrXJT3NFPtjh0+XdFMo4hzkFzGiScowMo+yw/oAhnZTBrD8WUwN2AOWyVdF30Pr9BWE2OLF0Vzr7oOkAdKyQNwuCyCOHpZ4hYbwSGVg8NcI/KwUN+xM0wM61UinilGpj674xsG58WbA4AQ6;fSNoUCXnNe/EQhNV7tZyPQ=="
 ---

@@ -50,6 +50,19 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
         width: 1260
         height: 630
+  - title: "Deep Learning Forecasting Model for Dengue Cases in Singapore"
+    excerpt: "Feature extraction is crucial to the success of neural network learning. However ... our approach worked better than those without a deep understanding about the nature of the dengue issues ..."
+    publishedDateTime: 2020-02-12T23:15:00Z
+    webUrl: "https://medium.com/@nobletpadiyaraoffc/forecasting-dengue-cases-in-singapore-8-weeks-in-advance-ce32685e166d"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/378/0*pJ_V5RBE48AfmED2"
+        width: 378
+        height: 410
   - title: "An ultra-compact particle size analyser using a CMOS image sensor and machine learning"
     excerpt: "In this paper, we introduce the concept of a new particle size analyser in a collimated beam configuration using a consumer electronic camera and machine learning. The key novelty is a small form factor angular spatial filter that allows for the collection of light scattered by the particles up to predefined discrete angles. The filter is ..."
     publishedDateTime: 2020-02-12T12:55:00Z

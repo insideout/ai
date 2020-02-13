@@ -2,24 +2,28 @@
 category: news
 title: "Facial recognition: 'No justification' for Police Scotland to use technology"
 excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
-publishedDateTime: 2020-02-11T10:33:00Z
-webUrl: "https://www.bbc.com/news/uk-scotland-51449166"
+publishedDateTime: 2020-02-11T00:06:00Z
+webUrl: "https://www.bbc.co.uk/news/uk-scotland-51449166"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-51449166"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166"
 type: article
-quality: 46
+quality: 56
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
+    width: 1024
+    height: 576
+    title: "Facial recognition: 'No justification' for Police Scotland to use technology"
 
 related:
   - title: "EU backs away from call for blanket ban on facial recognition tech"
@@ -195,6 +199,6 @@ related:
       domain: linkedin.com
     quality: 16
 
-secured: "rFogu2YoUAFSfOpKl5NOQ5am49xFx2pbyVbZds0n47dGbRRAa5gVtX1/r9Ib5SCV4E8PgcVIOC12FmmtGcC/XG7yzLwakfCDRj+xqUs9omEmvAx6Phf+MfeLhmYJAKjGQkhakA8XIuB1XU1iXQzOP3g/GG1YzP6NSD8wIc5eTEhIEcWoB5h+qxmMiB/6GkG0+yWbM/jVJzIKUglTgNKMuSViWTydhvHl8KvS1WX0YEeTDGJzZw1SLP7+TheRHgBfbVVlnZzpEpKKKukzH5bONhDeyV1LR317vBdFJN6CFSZulsM4DYVtLErfV9BvJD4iB7Tz/hA6JYPlc0y4k0ScQqNU+HVcb4kGQwGVB+g7NI020LJANFn7z5y/GJX2eulfem1T1dMNeOEFnUNv4IH/1eaPU+4IhaazBqUkl7yWg3OuoO61nw9MDurj4kvlQVcetHPc+E2HuNo8vBq9w7WBHn6d4wB+c8BxAy/w6wjKPkg=;mWEdzmcanMw8ChNHJuiXdw=="
+secured: "GhqKD3UIwaYMKZpyTrEunyygIUW1hSOF2W1UOhvUWq1GxSJhtzlITh0Lb652y81Pr5yvZtVdbIzzZW1wKUXhsZkO6/3VKJTY5dUf9XuqZP+rjDoxkGufFqI2yNC94OHiiqBo/EIVAtrSbTzmDKzYQ+ibJelyQp6EKXt49bIgYu4DU7UphDeH1HBbtxBt26zd6ZiG3mNen8jBiR7fNGsszlNEeOrjgTAQXQ+ZVAzfhYZnJGt1QmNUtjRZlQN524AOCcGn4LjmdR1FVnurkDyia0jbQ983E2C4FFRwcUP0rd3KlpSJSgfNGYfdML2zsjnK;f87srT0ejgF1m/fvYzegpA=="
 ---
 

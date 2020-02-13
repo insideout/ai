@@ -23,6 +23,21 @@ images:
     height: 475
     title: "Video: Data Parallel Deep Learning"
 
+related:
+  - title: "Efficient Model Selection for Deep Neural Networks on Massively Parallel Processing Databases"
+    excerpt: "In this session we will present an efficient way to train many deep learning model configurations at the same time with Greenplum, a free and open source massively parallel database based on PostgreSQL. The implementation involves distributing data to the workers that have GPUs available and hopping model state between those workers ..."
+    publishedDateTime: 2020-02-04T15:28:00Z
+    webUrl: "https://insidehpc.com/2020/02/efficient-model-selection-for-deep-neural-networks-on-massively-parallel-processing-databases/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 30
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/frank.jpg"
+        width: 300
+        height: 300
+
 secured: "Xst4T76NcYc0xmI+NMsR1MxLV84Y6f7OYkOaP6+CYT7Azv0w2u7xaN8EUS9IuuUaaxFOMraelk77PcuE5x7pggwMyB3iipI2f+WvHHc5Hk8Mhp27kYXfRoHoc9VxSQN+agRj5j45zowfZQRj+9xTEnW2fTs7vxB+nmbBuOq6NzUo/U5gGcs0BtkcH178iyGkF0AoxkQVK6i+6dDR7lAZ2iGqIF3XfxTUH9dsEi6KtskYRnvjRCmBXX3Ha6zsRn18kU7EDeI5fRQrG2S9+xSwG0S2n4Ey55z4qMLdo1jSA05ysPnyMl1TTj7SGB6JhjgMctiNwfeJi3yz+w5WehAWX8w/MIH54RnJHKWhlEQiUvEOwBqQTjbv+kf5Lq3ZmKxJNcF3NfIvxo+ZCieCr35SIlopZMNBIMG2T2Ca9Gd+ihc+GuKetv/9ShZm31Zz78HaejGDMZq+e984x8O/xHPsWV1pO0Mv+bNKEBlK40r7g00=;zMtgGEBEe8gnrzBzs3jkKQ=="
 ---
 

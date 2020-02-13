@@ -67,6 +67,21 @@ related:
       - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
         width: 445
         height: 600
+  - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
+    excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
+    publishedDateTime: 2020-02-11T00:06:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-scotland-51449166"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-51449166"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 56
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
+        width: 1024
+        height: 576
   - title: "Chino PD to hold forum Wednesday on proposed use of facial recognition technology"
     excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
     publishedDateTime: 2020-02-12T01:16:00Z
@@ -97,15 +112,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2019-08/00F53187-544B-4807-ACF1-7877845AA4B7.jpeg"
         width: 640
         height: 426
-  - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
-    excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
-    publishedDateTime: 2020-02-11T10:33:00Z
-    webUrl: "https://www.bbc.com/news/uk-scotland-51449166"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 46
   - title: "Chino Police Department to hold forum Wednesday on proposed use of facial recognition technology"
     excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
     publishedDateTime: 2020-02-12T02:16:00Z

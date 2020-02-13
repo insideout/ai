@@ -4,9 +4,11 @@ title: "New York Institute of Finance and Google Cloud Launch A Machine Learning
 excerpt: "The New York Institute of Finance (NYIF) and Google Cloud announced a new Machine Learning for Trading Specialization available exclusively on the Coursera platform. The Specialization helps ..."
 publishedDateTime: 2020-01-22T17:11:00Z
 webUrl: "https://www.benzinga.com/pressreleases/20/01/p15164967/new-york-institute-of-finance-and-google-cloud-launch-a-machine-learning-for-trading-specializatio"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15164967"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15164967"
 type: article
-quality: 0
-heat: 0
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,6 +19,6 @@ topics:
   - AI
   - AI in Finance
 
-secured: "OWvHw0oDrrObual8MxzgzOeFJliZNQNupGlkOQC8VQaRG9C3eYR0VJBfji3KOIAjkgMHDAbeQwrBlior+8kufnW7NCE0cQc0R+meRgJ/B/aNNufEYGfSxtL0y8SPFp+qBpXX1UYet5Iz/IP3LAjazjz+zzGeWY/cOn8ViNGEZKOxQPtiLK7KmltxSwpFXeVt/psvujImXpTILyxJ7m8gV+M9UdhqkDMi3UVLTqNodWAYLWg1Ju19z6FJOvA+d2Jy07ZRLSUgdJG9X62JHJTA/wZTRmcOgJ2R4rLuVQd5+KhwG07AoVayqWXNXv12XG/c;LFEMdcFZY6IydxQmcO0Rnw=="
+secured: "8QHtxtItgRO5onJ66iuAY0QH8jZbRSHZktO2o2L7Y5JUfi6P9NHY4V5klNpsSafiDP9vftn8V0pf3kN91FIVLqrbpQQjE8wtjVVWSn7xtmr7sVCKnyd3oJiQwjZmqV6AEsXIIz4JKAaT8hBPh0czQLWpSEuMjp064y/H44Hr8qBpohmwoIkZmtm7KYKBsqFiH2b9GHjFNnvtuf5ZkcgC72D3l61eEFNvrrN9yY+swEKc6FJdVvydddEdQCIevJiNv1hUgJXFHnQYmMeodIRVOSrRqbnHh1NmnVAfgYH1It5HheJj6d88XeUcaC4A3wui;lEoati4gyIAlqEhicu2azQ=="
 ---
 

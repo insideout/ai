@@ -41,6 +41,19 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/automating-model-retraining-3.gif"
         width: 800
         height: 397
+  - title: "Deep Learning Forecasting Model for Dengue Cases in Singapore"
+    excerpt: "Feature extraction is crucial to the success of neural network learning. However ... our approach worked better than those without a deep understanding about the nature of the dengue issues ..."
+    publishedDateTime: 2020-02-12T23:15:00Z
+    webUrl: "https://medium.com/@nobletpadiyaraoffc/forecasting-dengue-cases-in-singapore-8-weeks-in-advance-ce32685e166d"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/378/0*pJ_V5RBE48AfmED2"
+        width: 378
+        height: 410
   - title: "CDHI Foundation and IBM tracking the progress of Huntington's disease using AI"
     excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
     publishedDateTime: 2020-02-12T04:32:00Z

@@ -84,17 +84,6 @@ related:
       - url: "https://mma.prnewswire.com/media/276887/abi_research_logo.jpg?p=facebook"
         width: 643
         height: 337
-  - title: "The natural language processing (NLP) market is expected to progress at a 19.7% CAGR during 2019–2024 (forecast period) to $22.9 billion by 2024"
-    excerpt: "New York, Jan. 29, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Natural Language Processing Market\" - https://www.reportlinker.com/p05842957/?utm_source=GNW Valuing $8."
-    publishedDateTime: 2020-01-29T07:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15205612/the-natural-language-processing-nlp-market-is-expected-to-progress-at-a-19-7-cagr-during-2019-2024"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15205612"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15205612"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
   - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
     excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
     publishedDateTime: 2020-02-06T12:07:00Z

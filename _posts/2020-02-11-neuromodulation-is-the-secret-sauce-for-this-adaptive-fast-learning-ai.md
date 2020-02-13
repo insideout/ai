@@ -8,7 +8,7 @@ ampWebUrl: "https://singularityhub.com/2020/02/11/neuromodulation-is-the-secret-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/02/11/neuromodulation-is-the-secret-sauce-for-this-adaptive-fast-learning-ai/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1068
     height: 601
     title: "Neuromodulation Is the Secret Sauce for This Adaptive, Fast-Learning AI"
-
-related:
-  - title: "10 Rules Entrepreneurs Need To Know Before Adopting AI"
-    excerpt: "Rocio Wu offers insights into how entrepreneurs can start riding the wave. Although adoption of artificial intelligence (AI) and machine learning (ML) for the enterprise is still in the early days, the technology has matured enough for entrepreneurs to start gathering inspiration and evaluating opportunities for potential applications."
-    publishedDateTime: 2020-02-11T16:03:00Z
-    webUrl: "https://hbswk.hbs.edu/item/10-rules-entrepreneurs-need-to-know-before-adopting-ai"
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 17
 
 secured: "AssMwVTMe9PszKaYudtT79QMS6y+or2W4A+0KQzDL7oAPJjTndJbo6GQAJdtqQuD6uC4A1KVCJcLGQ8DWHpocZoPzuZJR1LxKorXsVu35U5URApTY3xboXKuIrQmn8T8T01G+fCn4Rf+CMji1rNYlo5jZufuASPzMV0LABL/kYrXA2wERbIgoU+nDrC/wdSx6TZ5par41QK2U7KRyAk3HyxY4c6BU9pBS/7WTrsMWZ8d/7/hw4+0iX4EswsqwH4cNvvHm48REbPrXlzDU9KmAK8DAoO/Z5b+EN+wPrjdffHWMCsKwb6fHBwGe1iwooBxD4g/vo8gEad6gMlzW3qLM5E17KdDIV3G0zQEv3v2xN0dWn3qYTqh3r0OO8GNrwTKWUo2rRyMVafqoC3Mt292xy/QtEYLUHP5AirzGS1iB0f58rr1T7EI2o+qmuDGSL3rhU2UEQz4xu/u/YE5LGRDkhUoeTf4KO0C14DgWD29BX0=;I1Cu/4y/VpkF7SE5p3//EA=="
 ---

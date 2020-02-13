@@ -69,15 +69,6 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/31/cba611cd-8679-462a-b4f1-0bf604e5d1bb/thumbnail/1200x675/4253ba1d55270145e9da1a11a543ec27/thumb.jpg"
         width: 1200
         height: 675
-  - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
-    excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
-    publishedDateTime: 2020-01-23T00:00:00Z
-    webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "The man who invented the self-driving car (in 1986)"
     excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
     publishedDateTime: 2020-02-02T17:32:00Z

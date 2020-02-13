@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
 type: article
 quality: 58
-heat: 158
+heat: 128
 published: true
 
 provider:
@@ -76,32 +76,6 @@ related:
       - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
         width: 540
         height: 420
-  - title: "AVs are getting their own rules"
-    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
-    publishedDateTime: 2020-02-07T17:37:00Z
-    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
-        width: 1920
-        height: 1080
-  - title: "Rules eased for self-driving vehicle"
-    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
-    publishedDateTime: 2020-02-07T06:44:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
   - title: "Self-driving vehicle law hits a speed bump"
     excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
     publishedDateTime: 2020-02-11T11:08:00Z
@@ -137,19 +111,6 @@ related:
       name: Penn Live
       domain: pennlive.com
     quality: 4
-  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
-    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
-    publishedDateTime: 2020-02-07T03:43:00Z
-    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
-        width: 4000
-        height: 2666
 
 secured: "gDWtbDym4EU9KQciGqPU9LlRnMAVkKMzPcfXtCLOf6ZAla/RqH6L4E+XgwtJA+FacB8r3WUcrGfwGohNapOWWq5PLXHQ+1NlRhUZC3fA4xz02CpjwrBRa7hc1B19/Zxh2z1+okVXIBGAEOHI2TSKyTJEpUYiqoYDymquDFMaU6U/zh4m53jyQdAPGV8WmTtbbzxG62l+WEtZI8H5dsAe1VUQM7QbVMWq8ptmuzQoDhcostW1deVMfoqoAw9kQMPevUIGOFH5l/MQ9SxeL0Oj5gXsDNuQAz3+pTLOZg7uT6Tkz65XPEogc12hokwPE2ujNCUMKDBaH3ZK7wsycullZaMrKkEzXmxfx2EtZ7DUz2aRFXtWJuzgz3yrs/ZV1boM8OlL4A2SfUCm5uIYS06ry5l4u98f8ox13haaf93r5M9tFrMhnQoyyEdUVkwEoV6gTCz6xxyPolJ2+n+tcEnmOFjV4g8RakyF0l+DWiuX+Po=;sRHWu8vqU6PtWDnQA6FkHA=="
 ---

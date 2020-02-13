@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence (AI) could one day be used to help cancer pati
 publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,32 +17,29 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "AI can help early start of radiation therapy, prevent cancer metastasis"
-    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several ..."
-    publishedDateTime: 2020-02-04T11:55:00Z
-    webUrl: "https://medicaldialogues.in/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
-    ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 54
-  - title: "Longer Looks: Wilderness Therapy, How AI Caught The Start Of A Pandemic, And Pregnancy Meds"
-    excerpt: "But a Canadian health monitoring platform had beaten them both to the punch, sending word of the outbreak to its customers on December 31. BlueDot uses an AI-driven algorithm that scours foreign-language news reports, animal and plant disease networks, and official proclamations to give its clients advance warning to avoid danger zones like Wuhan."
-    publishedDateTime: 2020-01-31T12:38:00Z
-    webUrl: "https://khn.org/morning-breakout/longer-looks-wilderness-therapy-how-ai-caught-the-start-of-a-pandemic-and-pregnancy-meds/"
-    type: article
-    provider:
-      name: Kaiser Health News
-      domain: khn.org
-    quality: 27
-    images:
-      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
-        width: 570
-        height: 380
+images:
+  - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+    width: 1200
+    height: 450
+    title: "AI could kickstart early radiation therapy for cancer patients"
 
-secured: "YD56fje5tO8oNAMMAr3hAAmPrTuhze3sel5N/wd5iG+OeVTnAiQxafeNPxEYqYnjrILDXbFzclAxjMciGUkek1AsMLUPo2zsEYIv3sTVeOcFlM6p7pDN4Ac//9cCwqU00pyif5+LQLRCOTR2/FMtJGKInsf4Ug/RTJLX2Yr9/B0+fJlvNPHNjruCKrTKGiaeM1E1enBoS7ex8SSLtAR2urGH5JxdjO0RMpuWD8qhiiFQFHtRfNVbjvP06TwEiNKMSOePeVYiVzqVJd1bsvwom/7s536KlfLYBjsy48zyskEmdL/gN/abB0ymOiEyUyKv;SWU4P1D9NJd35CbIUyJSXA=="
+related:
+  - title: "AI can help cancer patients start radiation therapy sooner"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
+    publishedDateTime: 2020-01-28T02:41:00Z
+    webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 74
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
+
+secured: "qWsXZoHQtRghI4eDKQUWruVbEhLwyMcmVPegxn55RXm2uJkrBSgAl8Toi2FcX3tTO1OJTmiaaxPxMCzyvRLU2unflLf7iVTzAyYBm3zXPxQ0tM7JdgYI0iJTZVaDE5jSQifsCw9qcPioO5jHwE6e0ydhgAykfIdjDZF5gglLZR6MbPAr6H6y9wyT4pvAFvNLOQNVBAV/4EjSClVnPU2fNUIU0BVpxFZagaUlBEO8SnsWYMja/eveHlWX3VTwnmYNZKPdWuvCNiaL/9DjwBEDfSsxBlSFgcl1KoLCnurz8o/7WLIxwVWbK1uuZWvCUxtE;Ixe0CwMmuaunWrgxo35nmA=="
 ---
 

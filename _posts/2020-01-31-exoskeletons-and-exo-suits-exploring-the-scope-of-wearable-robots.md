@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T12:36:00Z
 webUrl: "https://www.roboticstomorrow.com/story/2020/01/exoskeletons-and-exo-suits-exploring-the-scope-of-wearable-robots/14716/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -26,7 +26,20 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 17
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
+    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
+    publishedDateTime: 2020-02-04T16:49:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979704/0/en/Rehabilitation-Robots-Industry-Outlook-2020-2025-Set-to-Exhibit-a-CAGR-of-25-8-Exoskeleton-Robots-Expected-to-Hold-the-Major-Share.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "inieZcu/5CiOvU8xjqNF/A/WXXRWKPVnhcH5pQxS8vhuHVPm1bSLRb/n4KqlSXBlunYHo+gTuGeJ7SIqDlPVhK182pmdJM/3OhthAeA6Lb65VU7ne34a14nk4abcoWRYEvAg4hP/9tAjRnK+z/UlvX26nbU5niAlPriXROGj6rZv0O8oHv8+H4eKLkNEvHBSztPkjzTUrm4whxCnZY7r+q8uO+uNGVwTJzXLweMXE8XnChoJsWiXnuOO9dZpLyfNMz1C95hvjk3eNkn4kqepNfsBiwXzTOKW/SJ1khtQoMiejSAzsqVCrvsbumhC7NDB;fUhydY7AP6ZcqpkAwKgIsA=="
 ---

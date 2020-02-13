@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgra
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
 
 related:
+  - title: "U.S. Senators propose facial recognition moratorium for federal government"
+    excerpt: "Two Democratic U.S. Senators today proposed legislation that requires a moratorium on facial recognition use by federal agencies, government employees, and law enforcement until a Congressional commission can act to recommend guidelines and place limits on use of the technology. The bill, titled named the Ethical Use of Artificial Intelligence ..."
+    publishedDateTime: 2020-02-12T23:24:00Z
+    webUrl: "https://venturebeat.com/2020/02/12/u-s-senators-propose-facial-recognition-moratorium-for-federal-government/"
+    ampWebUrl: "https://venturebeat.com/2020/02/12/u-s-senators-propose-facial-recognition-moratorium-for-federal-government/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/u-s-senators-propose-facial-recognition-moratorium-for-federal-government/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/alex-knight-B0-kMa8BgU-unsplash.jpg?fit=1600%2C800&strip=all"
+        width: 1600
+        height: 800
   - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
     excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
     publishedDateTime: 2020-02-07T18:22:00Z

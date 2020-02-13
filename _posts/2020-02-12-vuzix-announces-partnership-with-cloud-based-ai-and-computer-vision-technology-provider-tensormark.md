@@ -24,6 +24,21 @@ images:
     height: 315
     title: "Vuzix Announces Partnership with Cloud-Based AI and Computer Vision Technology Provider TensorMark"
 
+related:
+  - title: "mCloud Announces Tuck-In Acquisition of AI Visual Inspection Technology from AirFusion"
+    excerpt: "Headquartered in Vancouver, Canada with offices in twelve locations worldwide, the mCloud family includes an ecosystem of operating subsidiaries that deliver high-performance IoT, AI, 3D, and mobile capabilities to customers, all integrated into AssetCare. With over 100 blue-chip customers and more than 35,000 assets connected in thousands of ..."
+    publishedDateTime: 2020-02-10T13:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mcloud-announces-tuck-acquisition-ai-visual-inspection-technology-/2020/02/10/9094767.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+
 secured: "KNFN5NDLzIs4fiRYLgui9luXIg5IL134XBnKUp1yeEeASHYBI3tbiFWv5WNi6iKmtCnKTp44parZB8Hew1vDZIutQodJcfa6wFeimvW6vGw+9va6XnwKrD7FZnumVB9MpaW0p5g8a5BCcuWfYEWsUZQZteBhbrWIINjHfl+P1TAzCJvTBw4LUeqH6WxUxCqvZaAMSyD0Yn08hscShe/aDWQyez4KY/us09RjWLiE7Lnt58HsVlDewDrMkQI5anTwVAEyVLgWGKOZFafkxImE6ho/1tcLDmX4DD9+zPkuoK/Bc6dQgq2rhCoGTc+YkYytJKGwvOohpbtOWY7XaOSGCsJYh89oFlAYjxLsJ1J2JPYwMYYZzPv3wXCkNJTDMFjqUCdh8R5iK8LAJQqxDVHPTf9IOp19jimjHv0849HRKwtN27Ihg/1d03/IPppefCCdScOTZIroZM/eqvUxEtgfONUY2TYYQAUzfn71EvUXO9c=;KBWzK4QAcxc56zmlARBfQQ=="
 ---
 

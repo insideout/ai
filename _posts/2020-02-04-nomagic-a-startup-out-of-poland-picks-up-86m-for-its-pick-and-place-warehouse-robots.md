@@ -43,6 +43,36 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/Nomagic_0-1024x563-1.jpeg"
         width: 1024
         height: 563
+  - title: "A warehouse robot learns to sort out the tricky stuff"
+    excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — from clothes and shoes to ..."
+    publishedDateTime: 2020-02-02T00:08:00Z
+    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg"
+        width: 1200
+        height: 900
+  - title: "A warehouse robot learns to sort out the tricky stuff"
+    excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — clothes, shoes ..."
+    publishedDateTime: 2020-02-03T13:31:00Z
+    webUrl: "https://www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/"
+    ampWebUrl: "https://www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/b708d2f7-0d57-45a4-a611-2452c073d53b-300x225.jpg"
+        width: 300
+        height: 225
 
 secured: "2Z6iabagBnwGvtPg/UfUr5wvNuEKmehah3OEFDjul28+WBtpWPgz2d/JTSsaeXVJuQWWFyjJ7VG6uYX0q9VjZMFKu1JbjlGrELv8mG8JU9k4lP1e5OZMavV/B6pc4rxtIwPYBiYI9Y6UkiC7hSn3TkjKqiX9u+SYtpGshUW82N84jKKzaMBhkTTLpNvHadgOSBZHFcSFFxpeZAnOkoiiPfgZjm9yVKniYzSHSK4oendELFKfMXSAL7ATKsjMs0SqAHEAqwYzHjk1hccw6hidf03j1Y2y0jB81qRffup94hBCazUgqHmwFcwa21xu/mGZkKBtuH17vT5pFJpSX88kUBbfvYGyGixhNaXhsLgqR2uc78dHdpsygoDxTQCcfD92ofEgsjJj5xM3cRKNASD9iLD5YEKY+q0fuTSKPd780cd5qcwxzfiO/av4fRv9XXRBgHrmhkj3eCqdcgZVY6HzFeGWeeUoGF1Yc2z9LBZxQNM=;JOjZcnUzlEWWwk7Mvq/F3g=="
 ---

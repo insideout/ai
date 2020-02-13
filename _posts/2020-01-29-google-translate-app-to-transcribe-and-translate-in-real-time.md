@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/345665"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345665"
 type: article
 quality: 74
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
         width: 1200
         height: 675
-  - title: "Google Translate will soon transcribe recordings in other languages"
-    excerpt: "... audio in one language and get live transcription in another language. Initially, it will only work with live recordings — not pre-recorded audio files — and rely on cloud-based AI. Google also said it’ll launch the feature first on Android. New from Google Translate: a transcription feature that can translate and transcribe speech in ..."
-    publishedDateTime: 2020-01-29T08:41:00Z
-    webUrl: "https://thenextweb.com/apps/2020/01/29/google-translate-will-soon-transcribe-recordings-in-other-languages/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Google-translate-796x417.png"
-        width: 796
-        height: 417
   - title: "Google To Add Live Transcription Feature To Its Translate App"
     excerpt: "The search-giant has already presented a demo of the new feature, during AI demos, held in San Francisco ... The real-time or live transcription of multilingual audio files is more complex than the simple translation of written text from one language to another. And, to use the live transcription feature, internet connection is a must."
     publishedDateTime: 2020-01-29T11:45:00Z
@@ -103,21 +90,6 @@ related:
       - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/04/Google-Logo-1024x576.jpg"
         width: 1024
         height: 576
-  - title: "Google Translate set to get this useful feature"
-    excerpt: "As reported by CNET, Google also showed a demo of the feature which the company has planned for future release through the translate app ... people to speak back and forth in two different languages. Apart from this upcoming feature, Google also showed some other initiatives associated with AI. One project showcased by Google is I/O Braid ..."
-    publishedDateTime: 2020-01-29T08:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-translate-set-to-get-this-useful-feature/articleshow/73728322.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/google-translate-set-to-get-this-useful-feature/amp_articleshow/73728322.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/google-translate-set-to-get-this-useful-feature/amp_articleshow/73728322.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/msid-73728287/73728287.jpg"
-        width: 800
-        height: 600
   - title: "Google Translate Will Soon Transcribe Full Speeches, In Context"
     excerpt: "Unlike previous iterations and Google Translate features, the latest incoming change is designed to transcribe speech into a second language with contextual awareness. Namely, Google hopes to leverage its AI algorithms centered around speech to automatically correct for translation errors. More concisely, the tool will analyze speech in real ..."
     publishedDateTime: 2020-01-30T19:10:00Z
