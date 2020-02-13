@@ -25,6 +25,6 @@ images:
     height: 601
     title: "The Brain Predicts Reward Like an AI, Says New DeepMind Research"
 
-secured: "3Qulbl5hWQMxJjUCX55zPoYs8GGmYsOZEfJ0uwTkqZfQv1WflPeoOB76/y11AD0GUiwxnUPzKVj1hh4mRI909B1zsdqcuoJFhGqb8qg+FqJ3ZYWDI+LBQA2vFyDR2bAuppS9gteBMTP6gbUaiT54PdxJYeXy1XzzkosKTn2LtpITkR1jCAxx6XC6xuEX06+0eKLVvIo11d5s9Pz5zTeIAdgYDjWZ4L/evWJArgPvzp7M8iSCq2x4dOAXyVxd2uM0OzlUSZ9dmjuygFeVBRH/treGnAZWX++nzKfFzI3UtU2mU41Dzdcs9+iDq/PY86FM;GDcteSUCN6Uql9Mm6Dd9ig=="
+secured: "m47pksRC8biBQZ83x95bo+SFCfIWOUnEMpgLVeN7NbhHGtRuyqt+VKaJ8vNM3YWQfpVmx2nW2qreIW24TZi2NtfsEOHy8SfIR6aF2Aru7VN6FjdtD0Fijl/kGna0yUHsMdbhOaz9eed/5JJURint7w6l9B0Eo4UMIb1t+PNGN/2sDc7yB+nplWV09FzT25XIHGH2LtCfsqBXfdLFUjek7chpAMZYc23I5zxn/OLNBQ/ILlUfEnSBe4bfxAPwRzoVnts7imHx53pr5RhNPx+8xu3jg6zbyb4HPNcEBOJVAyAKsLW1rEIcGy+2bkZVKmxy;rjxZU4FuQAeJ/8sEk1stSQ=="
 ---
 

@@ -2,10 +2,10 @@
 category: news
 title: "AI: from experimentation to adoption"
 excerpt: "has adopted IBM Watson and IBM Cloud to develop Ava, a new AI virtual Help-to-Buy mortgage adviser. Ava helps first time home buyers onto the property ladder by offering round the clock support ..."
-publishedDateTime: 2020-01-31T11:48:00Z
-webUrl: "https://www.techradar.com/news/ai-from-experimentation-to-adoption"
-ampWebUrl: "https://www.techradar.com/amp/news/ai-from-experimentation-to-adoption"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-from-experimentation-to-adoption"
+publishedDateTime: 2020-01-31T11:13:00Z
+webUrl: "https://www.techradar.com/in/news/ai-from-experimentation-to-adoption"
+ampWebUrl: "https://www.techradar.com/in/amp/news/ai-from-experimentation-to-adoption"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ai-from-experimentation-to-adoption"
 type: article
 quality: 89
 heat: 99
@@ -46,6 +46,6 @@ related:
         width: 1200
         height: 675
 
-secured: "+79k4MsIs6yC20lwXggBVXqU5p5C93H7gW8X15Td6Oz05JWLdxw3m8J3TbNwaIRCMNX7VDgb+6NZiP0/bNwxr3RLqEhwb36x6uNd2h1b0VwKbrZQ8mf9/ZUfSqeLWEtPK1bOTkJTYXvZGHL8uTxs4uxvsF+nyjruA1Y4FD3PWgyJTul2+pSkILeWrJX11Nux1qNXOLwlD9a1PxMd/4KbpTfsIJ69c8BslnX+Q+Ej5GKWzRz+nm1a73m4fdUOZZb0H3+Dvbckz91UGepcO5SOojl1OiJxG7cQQs0zY5mceu/WJ+UvUbfPqQx+REiPx9cc;pQvJcVtNrBGlEnQQG8JIVQ=="
+secured: "Hs7x0f/EJa9mohd84iQr2cmd9uAq9DAhl/UUglsFeR4rR4dSDSXoBa57+IrH03P2YPj9PSyjSn71F/fEbOXfgTAjL0CsWK+uh+dRtjMzmPOiuMr4YvXi5iSF+wwc3E690R6dROJxBXF66ICwyh8l6dWVbSNt86NRr+S0VkCGndkvxGV4FyUhR+i0/ZQQ4pgOI0fnyIWwMfMWC9MNC+ci9ubaypvQBeJ0gsmXRbPnkEzv/wTJ/SZqFozzaLEmbKgu5F50MEdcUrDkbxY1R3XAMVIvSswtyLrGT1OXuZ3+Bwz2znvozIu8GmHCBsnZjq+q;lDwmdV9ZUOacRWRA6owaRg=="
 ---
 

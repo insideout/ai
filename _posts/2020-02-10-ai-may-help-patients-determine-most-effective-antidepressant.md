@@ -8,8 +8,8 @@ ampWebUrl: "https://www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: UPI.com
@@ -26,6 +26,21 @@ images:
     title: "AI may help patients determine most effective antidepressant"
 
 related:
+  - title: "Brain Scans Could Help Depression Patients Find Right Treatment"
+    excerpt: "Not only did the artificial intelligence accurately predict outcomes, further research suggested patients who were doubtful to respond to an antidepressant were likely to improve with other interventions such as psychotherapy or brain stimulation."
+    publishedDateTime: 2020-02-13T02:46:00Z
+    webUrl: "https://www.nbcdfw.com/news/health/brain-scans-could-help-depression-patients-find-right-treatment/2310234/"
+    ampWebUrl: "https://www.nbcdfw.com/news/health/brain-scans-could-help-depression-patients-find-right-treatment/2310234/?amp"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/health/brain-scans-could-help-depression-patients-find-right-treatment/2310234/?amp"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 59
+    images:
+      - url: "https://media.nbcdfw.com/2019/09/Brain-scan-1.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
   - title: "AI May Help Guide Patients to the Most Effective Antidepressant"
     excerpt: "AI May Help Guide Patients to the Most Effective Antidepressant By Serena Gordon HealthDay Reporter MONDAY, Feb. 10, 2020 (HealthDay News) -- Choosing the right antidepressant for someone who is depressed can be hit or miss."
     publishedDateTime: 2020-02-10T19:54:00Z

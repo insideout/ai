@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -104,6 +104,17 @@ related:
       name: Harvard Business School
       domain: hbs.edu
     quality: 17
+  - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
+    excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. The United States is considered as the major hub for companies in autonomous vehicle development,"
+    publishedDateTime: 2020-02-12T12:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15309208/self-driving-car-market-trends-report-2019-2027-by-level-of-automation-type-end-user-and-region"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15309208"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15309208"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
   - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
     excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
     publishedDateTime: 2020-02-07T03:43:00Z
@@ -118,6 +129,6 @@ related:
         width: 4000
         height: 2666
 
-secured: "8k1Pi0M2EuLHChUakjcTZrM9NoATeqQXIghwbJ0PpXTVuhDeycsRYLHh8+6Hd+vsDZsV3khHR9/DRod8HkEGmJUzSE1n8MNAPE2muJ822pAbcoBcEXdUaVJyjlZvWvQpQ34t9k2q66dacbyewRGPyitLEPFTlCCENKrKSe0VrLtLT1hKdIZeudkrV7jbG19WF9qyxnAvlFJa5LwPHv8PaKOTAG26pcMv1NnXy5p+nBoFNWmH4Yua9l0m7wzR826MqK8w7/C7KT+hkfWTZKio7IeNteRCk8YHEBap4EpcvDgS+p7df/orXWErPDPNbchc;cZSrcTkEoa7avlH2tVUaKg=="
+secured: "rB7GYpmgOqQA7VbyuNy4K+VX+Fm3pTKHzY3ilXLF5mMSzpCg37d/dIfI7WgCRLcl/Wbn5RamTLPuMzRB1A98Q/hXo5pgrEpnX2sSpMBGBcYQK3LFTraWtaFNNaMyj9N+dzIgVYQsIcL/jjqes7PtVftzAG2Naj/9JK+tauy6yY58y0HMEXCBbnXjWuiQYyihQhk9MhYupRjiB1jDGQ9lWD1yhASS4UXGWTkuD1gIsnLP3iBEeuAAs0pmRTb2oxN1lpeKJhgOklduuXu5X3zGUZBiNn1Tn7O4oUaoRh12dksQodiaipkF1TV0Nzc/pd5JTIko9YGiOsij5DDQi7COT3NHWOt0xIk5iHbT7oLz+NRPM1KnGeZ42MJrjgyrzEiQTuyfqixopgG0dtdCrfUYNe4V++kNelXiweHMM5kElFGhoS8UzYLQz4uhanb2OLjMJFBD4RBT31HVI47Feh/ixWuNYZQhTv2sa7j0y0n7Yzw=;Vyca368yr3y1Eu2UCgPebw=="
 ---
 

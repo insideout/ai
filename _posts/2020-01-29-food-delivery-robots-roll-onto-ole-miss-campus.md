@@ -8,8 +8,8 @@ ampWebUrl: "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-
 cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: WREG
@@ -26,21 +26,21 @@ images:
     title: "Food delivery robots roll onto Ole Miss campus"
 
 related:
-  - title: "Smarter Delivery Hinges on Smarter Robots"
-    excerpt: "Companies and researchers are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects without the need for extensive additional training or human help."
-    publishedDateTime: 2020-01-29T09:11:00Z
-    webUrl: "https://www.wsj.com/articles/smarter-delivery-hinges-on-smarter-robots-11580288408"
-    ampWebUrl: "https://www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408"
+  - title: "Ole Miss students, staff can order food delivered by robots"
+    excerpt: "Its robots have traveled more than 350,000 miles and completed some 100,000 autonomous deliveries. The robots use a combination of sophisticated machine learning, artificial intelligence and sensors to travel on sidewalks and navigate around obstacles. The computer vision-based navigation helps the robots to map their environment to the nearest ..."
+    publishedDateTime: 2020-01-30T19:31:00Z
+    webUrl: "https://www.gulflive.com/news/2020/01/ole-miss-students-staff-can-order-food-delivered-by-robots.html"
+    ampWebUrl: "https://www.gulflive.com/news/2020/01/ole-miss-students-staff-can-order-food-delivered-by-robots.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-gulflive-com.cdn.ampproject.org/c/s/www.gulflive.com/news/2020/01/ole-miss-students-staff-can-order-food-delivered-by-robots.html?outputType=amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
+      name: Gulf Live
+      domain: gulflive.com
+    quality: 59
     images:
-      - url: "https://images.wsj.net/im-148470/social"
-        width: 1280
-        height: 640
+      - url: "https://www.gulflive.com/resizer/bBn00QhVVlHk-UdLaJHYcBFp0AI=/1200x0/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/SL2SOPVYSJFNFEM3UC6F3OQWX4.jpeg"
+        width: 1200
+        height: 1600
   - title: "Smarter Delivery Hinges on Smarter Robots"
     excerpt: "Companies and researchers world-wide are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects--telling the difference between a cardboard box and a small circuit board for instance--without the need for extensive additional training or human help. Such capabilities would make ..."
     publishedDateTime: 2020-01-30T03:14:00Z
