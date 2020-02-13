@@ -22,444 +22,250 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Uber gets green light to test self-driving cars in California again"
-    excerpt: "Uber's self-driving could be allowed roads again in California. According to report Thursday from Reuters, the ride sharing company received a permit on Wednesday from the California Department of Motor Vehicles to test the autonomous vehicles with a backup driver. Uber did not immediately respond to request for comment, but told Reuters it ..."
-    publishedDateTime: 2020-02-06T17:01:00Z
-    webUrl: "https://www.cnet.com/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/"
+  - title: "Waymo and UPS team to deliver packages with self-driving vans"
+    excerpt: "Autonomous car company Waymo has announced a new partnership with the delivery company UPS. This is said to be ‘a first-of-its-kind deal’ involving Waymo Driver, the company’s self-driving car tech. As part of this deal, Waymo Driver will help UPS deliver packages in Chrysler Pacifica vans, though the deliveries will be limited to just ..."
+    publishedDateTime: 2020-01-29T22:10:00Z
+    webUrl: "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/"
+    ampWebUrl: "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: SlashGear
+      domain: slashgear.com
     quality: 89
     images:
-      - url: "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg"
-        width: 756
-        height: 567
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
+      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/01/waymo_ups_main.jpg"
+        width: 1422
+        height: 800
+  - title: "Waymo and UPS team up for self-driving package delivery"
+    excerpt: "The company thinks that Waymo's driverless tech can transform how it delivers packages. While UPS isn't the only company looking to leverage self-driving cars, this partnership is yet another stepping stone to a future where both packages and people can be transported without a driver. Waymo, the Google subsidiary best known for its self ..."
+    publishedDateTime: 2020-01-29T22:42:00Z
+    webUrl: "https://www.techspot.com/news/83783-waymo-ups-team-up-self-driving-package-delivery.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/83783-waymo-ups-team-up-self-driving-package-delivery.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83783-waymo-ups-team-up-self-driving-package-delivery.html"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
-  - title: "Uber gets permit to restart testing its self-driving cars in California"
-    excerpt: "Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona. The California Department of Motor Vehicles issued a permit on Wednesday to the company’s self-driving unit,"
-    publishedDateTime: 2020-02-05T19:31:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZZ2QG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-29-ts3_thumbs-09f.jpg"
+        width: 800
+        height: 560
+  - title: "Self-driving Waymo minivans will assist UPS with deliveries"
+    excerpt: "It's not just people who get to experience self-driving minivans in the Phoenix area. On Wednesday, Google spin-off company Waymo announced a partnership with UPS, the package delivery service. Soon, Waymo's self-driving Chrysler Pacifica minivans will be moving packages around instead of humans. The autonomous driving company is more than a ..."
+    publishedDateTime: 2020-01-30T00:21:00Z
+    webUrl: "https://mashable.com/article/waymo-ups-autonomous-delivery/"
+    ampWebUrl: "https://mashable.com/article/waymo-ups-autonomous-delivery.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-ups-autonomous-delivery.amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
+      name: Mashable
+      domain: mashable.com
+    quality: 89
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486288485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG141VL"
-        width: 818
-        height: 545
-  - title: "Nuro self-driving car gets US DOT's blessing"
-    excerpt: "California-based Nuro has made history. Perhaps not the biggest splash, but in one small step for self-driving cars, Nuro's driverless R2 has received the first approved exemption from the US Department of Transportation. The exemption allows Nuro to operate its latest R2 self-driving car on public roads despite it having no human-driver controls."
-    publishedDateTime: 2020-02-06T22:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/nuro-r2-self-driving-car-delivery-vehicle/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg"
+      - url: "https://mondrian.mashable.com/2020%252F01%252F29%252F92%252F1adb436cf38e4b8ba6ab5feee3237afa.7da77.jpg%252F1200x630.jpg?signature=xF6AUmM-vbSssyr5JnsUmU94XQM="
         width: 1200
         height: 630
-  - title: "U.S. House panel to hold hearing on future of self-driving cars"
-    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies,"
-    publishedDateTime: 2020-02-07T20:50:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN2012K2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2012K2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2012K2"
+  - title: "UPS Teams Up With Self-driving Company Waymo For Package Delivery"
+    excerpt: "(RTTNews) - UPS (UPS) said that it has partnered with Waymo, the self-driving arm of Google's parent company Alphabet, to pilot autonomous vehicle package pickup in the Metro Phoenix area. Starting in the coming weeks,"
+    publishedDateTime: 2020-01-30T03:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 89
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+        width: 1024
+        height: 512
+  - title: "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month"
+    excerpt: "LOS ANGELES (Reuters) - United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages. The UPS/Arrival partnership includes a minority investment from the world’s ..."
+    publishedDateTime: 2020-01-30T17:30:00Z
+    webUrl: "https://uk.reuters.com/article/us-ups-investment/ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month-idUKKBN1ZS2ZC"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 74
+    quality: 79
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200207&t=2&i=1487254704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG161PZ"
-        width: 902
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483128662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0S1ZS"
+        width: 817
         height: 545
-  - title: "We still can’t agree how to regulate self-driving cars"
-    excerpt: "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar states from setting performance standards. But a complementary bill in the Senate, AV START, failed to pass after Democrats raised objections that it didn ..."
-    publishedDateTime: 2020-02-11T21:19:00Z
-    webUrl: "https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+  - title: "Self-driving Waymo van, 2nd vehicle collide in Tempe"
+    excerpt: "PHOENIX – A self-driving minivan and another vehicle collided in Tempe late Thursday but no one was seriously injured, police said. The driverless Waymo van and the car crashed near Warner and Rural roads. The van was carrying one passenger. The driver was taken to a hospital but the injuries weren’t life-threatening. Neither the driver of ..."
+    publishedDateTime: 2020-01-31T14:36:00Z
+    webUrl: "https://ktar.com/story/2952852/self-driving-waymo-van-2nd-vehicle-collide-in-tempe/"
+    ampWebUrl: "https://ktar.com/story/2952852/self-driving-waymo-van-2nd-vehicle-collide-in-tempe/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/2952852/self-driving-waymo-van-2nd-vehicle-collide-in-tempe/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg"
-        width: 1400
-        height: 933
-  - title: "Uber gets California DMV license to test self-driving cars on public roads"
-    excerpt: "In May 2018, Uber announced it wouldn’t renew its permit to test self-driving vehicles in California, citing caution in the wake of a fatal accident involving one of its autonomous cars in Arizona. (The California Department of Motor Vehicles requires that companies apply to test autonomous cars in the state.) But in a bid to close the gap wi ..."
-    publishedDateTime: 2020-02-05T17:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/05/uber-acquires-dmv-license-to-test-self-driving-cars-on-public-california-roads/"
-    ampWebUrl: "https://venturebeat.com/2020/02/05/uber-acquires-dmv-license-to-test-self-driving-cars-on-public-california-roads/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/uber-acquires-dmv-license-to-test-self-driving-cars-on-public-california-roads/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Uber issued permit to test self-driving vehicles on California public roads"
-    excerpt: "The company says it will notify key local, state, and federal stakeholders before it returns to the city. “San Francisco is a great city to gather key learnings for self-driving technology given it’s complex and ever changing environment. While we do not have an update as to exactly when we’ll resume autonomous testing, receiving our ..."
-    publishedDateTime: 2020-02-05T17:10:00Z
-    webUrl: "https://techcrunch.com/2020/02/05/uber-issued-permit-to-test-self-driving-vehicles-on-california-public-roads/"
-    ampWebUrl: "https://techcrunch.com/2020/02/05/uber-issued-permit-to-test-self-driving-vehicles-on-california-public-roads/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/05/uber-issued-permit-to-test-self-driving-vehicles-on-california-public-roads/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/uber-White-Volvo-6-.jpg?w=1024"
-        width: 1024
-        height: 682
-  - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
-    excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
-    publishedDateTime: 2020-02-07T20:17:00Z
-    webUrl: "https://futurism.com/the-byte/waymo-people-injecting-drugs-self-driving-cars"
-    ampWebUrl: "https://futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
+      name: KTAR News
+      domain: ktar.com
     quality: 59
     images:
-      - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
-        width: 600
-        height: 315
-  - title: "That California Story About A Daughter In The Backseat With A Sign Saying ‘Not My Mom’ Stirs Valuable Lessons For AI Self-Driving Cars"
-    excerpt: "The phrase “Not My Mom” created quite a commotion the other day. Here’s the 411 about it. A recent news story indicated that a girl in the backseat of a moving car displayed a hand-scrawled sign that said “Not My Mom,"
-    publishedDateTime: 2020-02-01T16:41:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/amp/"
+      - url: "https://ktar.com/wp-content/uploads/2020/01/waymo-screenshot-.jpg"
+        width: 620
+        height: 370
+  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
+    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
+    publishedDateTime: 2020-01-31T11:52:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
+      name: New York Times
+      domain: nytimes.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F626535545%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5594%26cropY1%3D275%26cropY2%3D3421"
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
-        height: 675
-  - title: "Uber cleared to restart self-driving car testing in California"
-    excerpt: "Uber is the latest company that California has granted a permit to test self-driving vehicles — with a trained human driver still present. Reuters reports that California’s Department of Motor Vehicles issued Uber the permit on Wednesday, February 5. The permit was issued to Uber Advanced Technologies Group (ATG), which is tasked with ..."
-    publishedDateTime: 2020-02-06T21:27:00Z
-    webUrl: "https://www.digitaltrends.com/news/uber-self-driving-testing-california/"
-    ampWebUrl: "https://www.digitaltrends.com/news/uber-self-driving-testing-california/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/uber-self-driving-testing-california/?amp"
+        height: 630
+  - title: "Waymo strikes deal with UPS to deliver parcels with self-driving vehicles"
+    excerpt: "Waymo, the self-driving technology developer, has announced that it’s partnering with UPS to start delivering parcels. Taking the opportunity to broaden its alliance with UPS, the company will start the beta test in Phoenix, AZ where its self-driving vehicles are already on the streets, much to the chagrin of the locals. Consumers aren’t ..."
+    publishedDateTime: 2020-01-30T16:54:00Z
+    webUrl: "https://www.consumeraffairs.com/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
+    ampWebUrl: "https://www.consumeraffairs.com/amp/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
+    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
-  - title: "U.S. lawmakers to hear calls for requiring new safeguards for self-driving cars"
-    excerpt: "A U.S. House panel on Tuesday will hear calls for requiring new safeguards as part of any effort to speed the adoption of self-driving cars on U.S. roads. At the same hearing, groups representing automakers and tech companies will tout benefits of autonomous vehicles and warn the United States risks falling behind China and others without new legal backing."
-    publishedDateTime: 2020-02-11T10:10:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN20513F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20513F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20513F"
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 58
+    images:
+      - url: "https://media.consumeraffairs.com/files/cache/news/Waymo_self-driving_vehicle_front_view_Andrei_Stanescu_Getty_Images_large.jpg"
+        width: 700
+        height: 467
+  - title: "Today's Pickup: UPS Partners With Self-Driving Startup Waymo To Deliver Parcels"
+    excerpt: "Good day, Autonomous driving startup Waymo has struck a partnership with UPS to commence parcel delivery on its self-driving Chrysler Pacifica minivans across the Phoenix"
+    publishedDateTime: 2020-01-30T15:53:00Z
+    webUrl: "https://www.benzinga.com/news/20/01/15218297/todays-pickup-ups-partners-with-self-driving-startup-waymo-to-deliver-parcels"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15218297"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15218297"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 50
-  - title: "Self-driving shuttles tested in Linden"
-    excerpt: "Self-driving shuttles began traversing the streets of Linden on Wednesday, and community leaders and residents hope the pilot program will show the need for continuing such service. The two 12-passenger shuttles — one blue and green, the other rainbow-colored — began serving the public at 3:30 p.m. The free Linden LEAP — for Linden ..."
-    publishedDateTime: 2020-02-05T21:13:00Z
-    webUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden"
-    ampWebUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
-    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/tyre-1714669_1920_62.jpg"
+        width: 1920
+        height: 1078
+  - title: "Waymo’s self-driving cars will carry packages for UPS in Phoenix"
+    excerpt: "Waymo, Alphabet's self-driving company, is getting into the package-delivery business, the company announced in a Wednesday blog post. \"Our self-driving Chrysler Pacifica minivans will shuttle packages from UPS Stores in the Metro Phoenix area to the UPS Tempe hub,\" Chief Operating Officer Tekedra Mawakana writes. Initially, Waymo will have a ..."
+    publishedDateTime: 2020-01-29T22:15:00Z
+    webUrl: "https://arstechnica.com/cars/2020/01/waymos-self-driving-cars-will-carry-packages-for-ups-in-phoenix/"
     type: article
     provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
+  - title: "UPS testing self-driving minivans in Arizona"
+    excerpt: "ARIZONA (WSYR-TV) — UPS will start testing out self-driving minivans in the Phoenix area in the coming weeks. The tests will involve Chrysler minivans delivering packages from UPS stores to a sorting facility in Tempe, Arizona. Deliveries to customers’ doorsteps are not in the cards for now and during those tests, a driver will be on board ..."
+    publishedDateTime: 2020-01-30T17:37:00Z
+    webUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/"
+    ampWebUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
+    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
     quality: 44
     images:
-      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200205&Category=NEWS&ArtNo=200209273&Ref=AR"
-        width: 2000
-        height: 1460
-  - title: "Uber self-driving cars allowed back on California roads"
-    excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
-    publishedDateTime: 2020-02-05T19:34:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51393808"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51393808"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51393808"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 44
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C8A8/production/_110786315_ubergettyimages-605519896.jpg"
-        width: 1024
-        height: 576
-  - title: "Uber Can Now Test Self-Driving Tech On California Roads"
-    excerpt: "The company has been granted a permit by the California DMV. To recall, the tests were stopped after a self-driven car killed a pedestrian in 2018."
-    publishedDateTime: 2020-02-06T13:54:00Z
-    webUrl: "https://www.ibtimes.com/uber-can-now-test-self-driving-tech-california-roads-2916930"
-    ampWebUrl: "https://www.ibtimes.com/uber-can-now-test-self-driving-tech-california-roads-2916930?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/uber-can-now-test-self-driving-tech-california-roads-2916930?amp=1"
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/upsvan.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
+  - title: "Waymo To Team With UPS On Self-driving Delivery Plan"
+    excerpt: "Waymo said Wednesday it would team up with UPS to test its autonomous vehicles for the package delivery giant. The two firms said they would collaborate on the project to shuttle packages from UPS Stores in the Phoenix,"
+    publishedDateTime: 2020-01-29T22:42:00Z
+    webUrl: "https://www.ibtimes.com/waymo-team-ups-self-driving-delivery-plan-2912208"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 44
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/28/uber-logo.png"
-        width: 1200
-        height: 675
-  - title: "Self-Driving Cars Rise Alongside Flight Shaming"
-    excerpt: "As self-driving cars move closer to becoming a reality at scale, the impact on corporate travel will be immense. As sustainability becomes a more important factor for companies sending employees around the world, new solutions are needed to reduce the impact of flights on the environment. This week we take a look at some of the innovations ..."
-    publishedDateTime: 2020-02-07T04:15:00Z
-    webUrl: "https://skift.com/2020/02/07/self-driving-cars-rise-alongside-flight-shaming/"
-    ampWebUrl: "https://skift.com/2020/02/07/self-driving-cars-rise-alongside-flight-shaming/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/02/07/self-driving-cars-rise-alongside-flight-shaming/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 44
-    images:
-      - url: "https://skift.com/wp-content/uploads/2020/02/waymo_minivan_5.jpg"
-        width: 1024
-        height: 683
-  - title: "How to build a morally ethical self-driving car"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-10T14:32:00Z
-    webUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/"
-    ampWebUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 44
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/02072020_Self-Driving-Car_122510-300x220.jpg"
-        width: 300
-        height: 220
-  - title: "Uber may resume self-driving vehicle testing for first time since 2018 death"
-    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
-    publishedDateTime: 2020-02-06T00:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 41
-    images:
-      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
-        width: 600
-        height: 360
-  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
-    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
-    publishedDateTime: 2020-02-03T17:40:00Z
-    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
     quality: 39
     images:
-      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
-        width: 622
-        height: 318
-  - title: "Uber to bring back self-driving cars in California for first time since 2018 death"
-    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
-    publishedDateTime: 2020-02-06T00:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/29/waymo-will-be-using-its-autonomous-vehicles-with.jpg"
+        width: 1024
+        height: 670
+  - title: "UPS and Waymo partner on self-driving parcel pickup"
+    excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
+    publishedDateTime: 2020-01-30T17:34:00Z
+    webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 38
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
-        width: 600
-        height: 360
-  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
-    excerpt: "Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company’s plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Transportation Department believe specially ..."
-    publishedDateTime: 2020-02-06T17:19:00Z
-    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html?outputType=amp"
+      - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
+        width: 770
+        height: 364
+  - title: "Waymo to begin self-driving deliveries for UPS in Arizona"
+    excerpt: "Waymo, the self-driving wing of Google, and package delivery giant UPS are partnering in a pilot project to use Waymo’s self-driving Chrysler Pacifica minivans to shuttle packages from UPS Store locations to local UPS sorting facilities in the metro area of Phoenix, Arizona. The goal is to explore how autonomous vehicles can improve the ..."
+    publishedDateTime: 2020-02-03T13:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/14634/waymo-to-begin-self-driving-deliveries-for-ups-in-arizona"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
     images:
-      - url: "https://www.washingtonpost.com/resizer/ioZ0vfVxhHboPpFfI1sv9v84lqY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNXLH6CJAUI6VELE2MKUVWFFZU.jpg"
-        width: 1440
-        height: 960
-  - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
-    excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
-    publishedDateTime: 2020-02-08T04:16:00Z
-    webUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/"
-    ampWebUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
+      - url: "https://electronics360.globalspec.com/images/assets/634/14634/WaymoUPSPartnership_Still.jpg"
+        width: 752
+        height: 423
+  - title: "Autonomous and Self-Driving Vehicle News"
+    excerpt: "As a member of the Consortium, Synopsys will actively contribute to the development of a set of recommendations for system architectures and computing platforms that will be used to address the challenges of deploying self-driving vehicles at scale. Waymo announced it will be driving its Chrysler Pacificas and long-haul trucks in Texas and New ..."
+    publishedDateTime: 2020-02-03T02:18:00Z
+    webUrl: "https://www.autoconnectedcar.com/2020/02/autonomous-and-self-driving-vehicle-news/"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 33
-    images:
-      - url: "https://placehold.it/300X250"
-        width: 300
-        height: 250
-  - title: "BGU developing system to stop self-driving cars being fooled"
-    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
-    publishedDateTime: 2020-02-04T13:36:00Z
-    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
     quality: 24
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
-        width: 822
-        height: 537
-  - title: "Uber’s Self-Driving Vehicles Get On-Road Permit For CA"
-    excerpt: "Uber may soon be able to put its self-driving vehicles back on California roads after several years, with the issuance of a new permit, according to reports. The company had to scale back its autonomous vehicle program following an incident in Arizona where a pedestrian was killed by one of the vehicles. However, the permit — issued by the ..."
-    publishedDateTime: 2020-02-06T07:13:00Z
-    webUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/"
-    ampWebUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
+        width: 640
+        height: 300
+  - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
+    excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet, in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed. UPS has been ..."
+    publishedDateTime: 2020-01-30T18:45:00Z
+    webUrl: "https://www.wsbtv.com/news/local/atlanta/ups-orders-10000-electric-delivery-trucks-plans-test-self-driving-vans/MYTOAPEMGRDB7GQCNGUNPUIPM4/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 24
-  - title: "California allows Uber’s self-driving cars to get back on its roads"
-    excerpt: "Nearly two years after a car from Uber’s autonomous fleet was involved in a deadly crash in the neighboring US state of Arizona, the Department of Motor Vehicles has granted a permit to the ride-hailing company to test its self-driving cars on public roads. Before the horrendous incident in Arizona, the multinational ride hailing giant was ..."
-    publishedDateTime: 2020-02-07T14:43:00Z
-    webUrl: "https://www.techjuice.pk/california-allows-ubers-self-driving-cars-to-get-back-on-its-roads/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 24
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/02/image-7.jpeg"
-        width: 796
-        height: 419
-  - title: "Uber gets California nod to restart self-driving test"
-    excerpt: "The California Department of Motor Vehicles issued a permit on Wednesday to the company’s selfdriving unit, Uber Advanced Technologies.Reuters | February 07, 2020, 07:07 IST Uber Technologies has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a ..."
-    publishedDateTime: 2020-02-07T01:37:00Z
-    webUrl: "https://tech.economictimes.indiatimes.com/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
-    ampWebUrl: "https://tech.economictimes.indiatimes.com/amp/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
-    cdnAmpWebUrl: "https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 24
-  - title: "Hearing to review self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-10T11:13:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/10/stories/1062290541"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_73911.jpg"
-        width: 618
-        height: 318
-  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
-    excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
-    publishedDateTime: 2020-02-04T16:07:00Z
-    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
-    type: article
-    provider:
-      name: WTOL
-      domain: wtol.com
+      name: WSB-TV
+      domain: wsbtv.com
     quality: 22
     images:
-      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
-        width: 1140
-        height: 641
-  - title: "Challenge Up Ahead: Building a Morally Ethical Self-Driving Car: Viewpoint"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-06T16:11:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/02/06/557620.htm"
+      - url: "https://www.wsbtv.com/resizer/lf5q3ED7r8oQLkykvs0S_mPqlwI=/1200x628/arc-anglerfish-arc2-prod-cmg.s3.amazonaws.com/public/YTMIY4NHCZDOJD6DMFC3MYIFNA.jpg"
+        width: 1200
+        height: 628
+  - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
+    excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet Inc., in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed."
+    publishedDateTime: 2020-01-31T18:50:00Z
+    webUrl: "https://www.courant.com/classified/automotive/sns-ups-orders-electric-delivery-trucks-self-driving-vans-20200131-o3uytm44cncgfmgebfdbjiceke-story.html"
     type: article
     provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
+      name: Hartford Courant
+      domain: courant.com
     quality: 22
     images:
-      - url: "https://www.insurancejournal.com/app/uploads/2015/06/Ethics-Wrong-And-Right.jpg"
-        width: 900
-        height: 598
-  - title: "A Self-Driving Delivery Vehicle Gets Green Light From Federal Highway Safety Agency"
-    excerpt: "The U.S. government's highway safety agency has approved a Bay Area company's request to exempt its self-driving delivery vehicle from federal safety rules governing human-driven cars and trucks. The approval for Mountain View-based Nuro marks the first time the National Highway Traffic Safety Administration has granted an exemption for an ..."
-    publishedDateTime: 2020-02-06T20:46:00Z
-    webUrl: "https://www.kqed.org/news/11800378/a-self-driving-delivery-vehicle-gets-green-light-from-federal-highway-safety-agency"
+      - url: "https://www.courant.com/resizer/nFagBGbxdgNzvUq8c01L1JdgE2w=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MIH6KZTAZZH6HF7PMHFFTRGMV4.JPG"
+        width: 1200
+        height: 675
+  - title: "Waymo self-driving minivans to deliver UPS packages during pilot in Phoenix"
+    excerpt: "Waymo's self-driving Chrysler Pacifica minivans will shuttle packages from UPS Stores in the Metro Phoenix area to the UPS Tempe hub as part of a pilot that will explore customer and operational benefits and illustrate the ways in which the Waymo Driver can deliver on behalf of clients safely, efficiently, and, eventually, at scale. The pilot ..."
+    publishedDateTime: 2020-01-30T14:55:00Z
+    webUrl: "https://www.telecompaper.com/news/waymo-to-deliver-ups-packages-during-pilot--1324639"
     type: article
     provider:
-      name: KQED
-      domain: kqed.org
-    quality: 18
-    images:
-      - url: "https://ww2.kqed.org/app/uploads/sites/10/2020/02/nuro2-e1581019013601.jpeg"
-        width: 1920
-        height: 1280
-  - title: "Self-driving cars are being tested all over Houston"
-    excerpt: "From West University to Texas Southern University, self-driving cars are all around Houston. But how soon will it be before there are no drivers in them?"
-    publishedDateTime: 2020-02-11T01:00:00Z
-    webUrl: "https://www.khou.com/video/news/local/self-driving-cars-are-being-tested-all-over-houston/285-b2c221a2-a6c4-40b3-be2c-bd3074396bc8"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 4
-  - title: "Self-driving cars being tested all across Houston"
-    excerpt: "Several self-driving cars are being tested right here in Houston. Kroger, Dominos, even METRO are testing the technology. For now, the automated vehicles have a person on board. Cars that can operate without a driver are rolling around West University and Texas Southern University. The shuttle, funded by METRO, maneuvers through traffic on a ..."
-    publishedDateTime: 2020-02-11T01:04:00Z
-    webUrl: "https://www.khou.com/article/news/local/self-driving-cars-are-all-over-houston/285-b29c5839-ffd0-4355-88bf-61568031a13f"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 4
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "slOuKu/7WA9MjHw0kqpFsdSTVV00/LFH2z46TAQnnNcxrDtszEy3Z9uQoHmeZThsNutBtO+kJFlx7H1Rs1Yx55uR94/npNKvjPX4k5xoP9t1vgr3ZLrO0cs76ef3a+Ep4pfyYPbSYtBDIIYR7wD6TomU8H/FNvyMKCTFRb9DQiMe9mc4lP7o/STCSyXr1rZYZ+TzQjj2Wi6DxU3kUhMXwOKqoZPZUm3eYeho/vezCW2JONLSi5B3IJt/uEu3G7aMIYiCqVHVJV27gYzLXlRaBMUPvh9jqlJe/5+gzNCAvltjA8/q4G3xcMxLiK+cpXnzIxEgRcwlT2P/nSoZypEOFSYJMz8vm2pfjw0dZj4D/rxR5OqNd7uA57/W7bFPv52hLdWI5LJ4jmwEgklT24IKRMYXbs3/OjNd6cRiT+nD3JtzenaNB4wT9ZJSwJ0/LTIMtrra3eIhV68ThUUtmOBbRvVUsQ5661WVTuld2eBdz8Y=;G9z2CwsUm533Kxf7ixyuNw=="
 ---

@@ -37,15 +37,6 @@ related:
       - url: "https://www.phnompenhpost.com/sites/default/files/field/image/google_engineers_are_also_exploring_using_ai_to_help_with_medical_diagnostics_such_as_detecting_signs_of_cancer_or_eye_disease_in_scans._afp.jpg"
         width: 990
         height: 660
-  - title: "Google aims AI at whales, words and well-being"
-    excerpt: "Google this week provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers. The internet giant unveiled ... and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters ..."
-    publishedDateTime: 2020-01-29T22:00:00Z
-    webUrl: "https://japantoday.com/category/tech/google-aims-ai-at-whales-words-and-well-being"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
   - title: "Google aims AI at whales and words"
     excerpt: "SAN FRANCISCO: Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... orcas and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters is ..."
     publishedDateTime: 2020-01-30T04:30:00Z

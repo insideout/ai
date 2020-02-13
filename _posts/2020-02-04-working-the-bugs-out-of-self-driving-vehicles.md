@@ -84,19 +84,19 @@ related:
       - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
         width: 750
         height: 500
-  - title: "Autonomous and Self-Driving Vehicle News"
-    excerpt: "As a member of the Consortium, Synopsys will actively contribute to the development of a set of recommendations for system architectures and computing platforms that will be used to address the challenges of deploying self-driving vehicles at scale. Waymo announced it will be driving its Chrysler Pacificas and long-haul trucks in Texas and New ..."
-    publishedDateTime: 2020-02-03T02:18:00Z
-    webUrl: "https://www.autoconnectedcar.com/2020/02/autonomous-and-self-driving-vehicle-news/"
+  - title: "Uber is trying to bring its self-driving vehicles to the District"
+    excerpt: "This month, Uber announced plans to bring its self-driving vehicles to D.C. The transportation company began collecting data in the District on Jan. 24 to do so. Exciting times ahead in Washington, DC where we'll officially kick-off manual data collection with three self-driving vehicles, starting tomorrow (weather permitting)! Learn more about ..."
+    publishedDateTime: 2020-01-30T18:08:00Z
+    webUrl: "https://technical.ly/dc/2020/01/30/uber-bringing-self-driving-vehicles-district-dc-data-collection/"
     type: article
     provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
+      name: Technical
+      domain: technical.ly
     quality: 24
     images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
-        width: 640
-        height: 300
+      - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2020/01/Uber-ATG-self-driving-cars.jpg"
+        width: 680
+        height: 453
 
 secured: "j3RXTLDJvQkS0FvgKv7aoctXtLACalpe8PDvZddvBikoPot6x3x4P7uYjmg/djjle+MkTayOyxt9rjkT4ctZZ3/4FxsZEpVMgwPPAVRWWiiOOlJy6RM907BaGQAXc8MixKKFrGzYKECbC7yd2NyAr+bLvVu+4YlE+LIYGszgCLjB9zsl4zASVYRLmzCY4glyLk/w+OC1H+EcQEJUcwaXmrhUAdWTBAFIpchEPFmpg+IRuo5HEOb68MR0rFkcfngt+pV39rKIBmYi0UPTWr81QCWs/7ubFgYVInFekqivWeAgzCq74shtD3IRYBokXD6A;B27Cnqs/UgL0sW85p8iuUQ=="
 ---

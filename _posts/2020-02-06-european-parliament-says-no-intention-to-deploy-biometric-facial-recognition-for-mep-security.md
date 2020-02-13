@@ -39,6 +39,19 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
         width: 792
         height: 528
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The Global Emotion Detection & Recognition Market is projected to grow from US$ 21.6 billion in 2019 to US$ 56 billion by 2024, at a CAGR of ..."
+    publishedDateTime: 2020-02-12T00:38:00Z
+    webUrl: "https://www.oilandgas360.com/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artificial-agents/"
+    type: article
+    provider:
+      name: Range
+      domain: oilandgas360.com
+    quality: 2
+    images:
+      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
+        width: 300
+        height: 250
 
 secured: "eG+TodqXped0nZIuyyM9wYiz8oEzSh6mFfUvUnlfpQ8zz/xAvxyGapSaVsMPck0q0eRicwJqXPNXuj9RZCJaXMpLgdOzuI3B/PXu5JYk8nVK5Uq4jGYzr6YPnWouM6cOHa1j+GSmhrdGKqVTqgmKziXGniXRAsZrhsiqN8FE5SPw+cF2Oj0tRW0G+KlQLhBLHaA2JFaAurQxr0rivNy8977Iy87bZmBTF82MNDoGPOisP9g9r5SzyFwZPPY5EkYqzYjOw23wMbAlDWSitybZ6hV8WP+itz8DmrE5Th9KLnEbhZfOBnJvin6gylPLnbp4;Tfq6Sz1Jme/XR62iKceyPg=="
 ---

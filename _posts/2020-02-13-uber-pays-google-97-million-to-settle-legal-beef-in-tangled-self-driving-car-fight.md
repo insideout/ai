@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Uber Pays Google $9.7 Million To Settle Legal Beef In Tangled Self-Driving Car Fight"
 
-secured: "FtWs/i/YP5lNignzgWryJL7/LbmxPxB84vR23xctDgboB9u689hpz9VZ5bRyGUcJbnRS4R9Zd/F2oHd3SZKZt4jXS62znk/Cj7glWbSoC3cfvts4afz18kFSDiXsi88PAyjRVUeiOpuwMSBubbWSBnuaFuWSBhp8jLSkdDQp/Ym4owVlBQ2XHoy1td7Q42Xd5MqqLGvWrusCqEy+dvlLAQVWiGfbbQLH0uMlbTMUQEpsH5Knzu3n7bOGnkEQtuC12wizI23GCtjFVfN7A8MyDKyf5u0BG4RibToKmt4ZU+UT1iowQba0pUhrGSUGFW7b;jUFY7tUO6oitNXQt3Vt6iw=="
+secured: "uXNdfPD1kB/1nLVM4p9jfnlpuLnRPDT1RDSlfASqCk7VE3x3gXXXk7PuoqpZIvmaw2bcUaxBGb29cFuSchQFD396I/MdlzX48ZWa6d1q8RD/w/VvRhgLvBYclhpN3xS+Z1Ml0KSy6YiwqCGRjJ1GqI6e+YrR2/h9YRPleIeBvhWwDJz8rLaGf9mrnwLCwE0KHfjx2KCYj+II29W6qECslCAyLVarcb94CbOviYcibhUgfgVXCNyCXxPsMgHdkoK4K/+67bt/L2UBcp8Ix8EsOrrP5/HlPSKPQ86R/hXKh7n3SwvX2IsYBhrveSMMp/66UhBy26UBi2R8ZyRLeMykwh6y12PUHpuF0xZXcn1wTBlvpkVp/lOR+e251HwqLraeiawHGStDeMBsh20Whv/Vf+27VOlhavTPxtSOwQTHJYwy5XK8/y/VS4Wp5rUA53ec8X3HiOjND45+7Mat/NvrEMDHfINSlStcMBDq1IYAybE=;tKYIYf7Y4Bw7MAwVMOmybg=="
 ---
 

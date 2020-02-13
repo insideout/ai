@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/01/30/one-day-left-for-early-bird-ticket
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/"
 type: article
 quality: 119
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -60,21 +60,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/networking_header.png?w=1024"
         width: 1024
         height: 562
-  - title: "Stanford’s Doggo quadrupedal robot and siblings Pupper and Woofer are coming to TC Sessions: Robotics+AI"
-    excerpt: "Doggo’s creators will bring the diminutive robot, plus its smaller and larger siblings Pupper and Woofer, to TC Sessions: Robotics+AI on March 3. P.S. Early bird ticket sales end this Friday – book your tickets today and save $150. We first heard of Doggo last year when the Stanford Robotics Club showed off the highly capable design ..."
-    publishedDateTime: 2020-01-29T21:05:00Z
-    webUrl: "https://techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/"
-    ampWebUrl: "https://techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/doggo_pupper.jpg?w=1024"
-        width: 1024
-        height: 484
   - title: "Stanford’s Doggo quadrupedal robot and siblings Pupper and Woofer are coming to TC Sessions: Robotics + AI"
     excerpt: "Doggo’s creators will bring the diminutive robot, plus its smaller and larger siblings Pupper and Woofer, to TC Sessions: Robotics + AI on March 3. P.S. Early-bird ticket sales end this Friday — book your tickets today and save $150. We first heard of Doggo last year when the Stanford Robotics Club showed off the highly capable design ..."
     publishedDateTime: 2020-01-30T18:32:00Z

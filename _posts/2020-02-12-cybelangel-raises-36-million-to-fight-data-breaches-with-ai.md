@@ -44,6 +44,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/07/still_002.png?fit=1270%2C748&strip=all"
         width: 1270
         height: 748
+  - title: "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles"
+    excerpt: "Intuition Robotics Ltd., which has been developing cognitive agents to interact with ... as well as socially engaged. The company’s “Q” cognitive artificial intelligence product, which powers EllliQ, is available to third parties, starting with automakers. “This investment will fuel the evolution of agents from utilitarian digital ..."
+    publishedDateTime: 2020-02-13T14:05:00Z
+    webUrl: "https://www.therobotreport.com/intuition-robotics-series-b-cognitive-agents/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 95
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/ElliQ_3-1024x773-1.jpg"
+        width: 1024
+        height: 773
 
 secured: "DFgv2fUyF2VCHQ5qlrHHlewHZyNbmvnNkzNG7sMeaytuzwhaS/6BA3UuCqjC85u671REzEdLNeXZnUhr3X/juA1i7YPu4aoyV7Hn3YqB2KRK+FTgugTTTlGj48vHI543G+tkUWeem+SmwoMFs2pJTM2acP/DH39XaaKtvXyoUsp4PVHjJZV+xMSaVOX9yGC1tcMg2OfaP9QiWpbRIuvhyULJHMbaIfBR679YiwWy3JSsJLmJ7ILCONI47oGCYf84Ye8qWsGPvrs63KJC8cV8MJugCe4J83fekxrsKAHELeX1iw4KlU/PrLOZkCjWffjxZStcvfbTtST+GYHBLGfLUGnrFKH1v1ozGgyQ0Mcam/zZ6I3ADBmu213rrFaqdRqs4m5yAazGDyIFwe/Pz9ONw4iUOEr19lAc2RQnMjY4AGDPHsMaAl786txcdYAxuXZf971Wsb7XQ8kl60vQ6nZJVnRqvBnXBI7H9lsjzZO+DWY=;4dSF8nCsTYi0IOe2UMIh8Q=="
 ---

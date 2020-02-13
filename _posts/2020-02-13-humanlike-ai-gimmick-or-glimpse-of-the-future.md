@@ -28,6 +28,6 @@ images:
     height: 474
     title: "Humanlike AI: Gimmick Or Glimpse Of The Future?"
 
-secured: "vRmTjwzMKZ76+SocMJRrSBl7OvRPBul7CMrQpVwrLOzdt6ysw6sMk1bgymg3dpY0/CUVgybp9a7MmyjXgZRkNLzO4dJwEGEup7HDkI4zZaj5/okGkT3Cz9hU+W+mrnVB4yiHVUeJlUPm8doi15Cw9p0mCDpZt5WCDm72Ig/74RFAagxmZKUxWuB/tVCtQLqy+2YI2KQpIpJV1geEHFes0hvqZw5RJnqs1lAbxUkpWZIxtqmrx+xgmbkLSI0HXNosr1RHflY3t3AX53/XvvQkT+AyVDJhX/e61Do8dp5rvOrSn1Hy8udtkZIpvrf5nk6y;C2tyl1mHkVrOSwHjGcZ/EQ=="
+secured: "iZtygtdu0ax//wgQ5sLK4tz0Uwhir6TJ8Uh8IvPYLr8e63glmj4+8EGUs9Am75UoHy33QvoulaX/T3KpwNU6DpzfpO6hqCElgsv+uGfVScLz+6qYPaENGnaKHdWPJUFe0cz+Th2Dq32z3X6bAyvMHJGG6ohWuHZCqaXn+yfZYEkuD0g95PkBi6TUEVB4yLoPyMoPwx1nMVACiThT8/XK3cnjC9y1OB/fOrxWjEzplVwSBCcG/SfB1fZGNjJj/Sta6rEOsh2b3ypYSisGrxF9GfH/Zq6PtR/C/cSL+eMBnNGizLkrVsPBjLvAJvbGJn6xBXHaG8AxiS3ufMUm/RE7rx6lt6QJtf+bqVVfiau+3dmVpiyoIMeSo5yfuNpNulQYMjQN3whjF/zpDZNBmaTndRLmsjVYSpS+XWz+QskikIfcQZd/8p0xKPqgHcM73+A8YU7HyeoV80MV49qs5ige3oyi4uMbs/1UIT7NmuaLMN4=;7+OY2hUc9tiHpPBKBHpSZQ=="
 ---
 

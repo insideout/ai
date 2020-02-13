@@ -39,19 +39,6 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2016/01/m246689.jpeg-copy.jpg"
         width: 880
         height: 400
-  - title: "Purdue U invests $500K in university-affiliated AI startup"
-    excerpt: "West Lafayette, Ind.-based Purdue University's medical technology investment fund allotted $500,000 to PhysIQ, a healthcare startup founded by a Purdue alumnus, according to a Jan. 29 news release. PhysIQ uses artificial intelligence to analyze real-time physiological data gathered by wearable sensors. Because it not only identifies patients in ..."
-    publishedDateTime: 2020-01-29T21:51:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/purdue-u-invests-500k-in-university-affiliated-ai-startup.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
   - title: "Mastercard invests in online and offline identity startup Trust Stamp"
     excerpt: "Mastercard has made a strategic investment in AI-generated identity authentication company Trust Stamp. Trust Stamp is a graduate of the 2018 Mastercard Start Path accelerator programme. The two companies introduced their first collaboration with a secure non-PII authentication network for both online and offline environments at the June 2019 ..."
     publishedDateTime: 2020-01-31T10:50:00Z
