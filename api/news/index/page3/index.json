@@ -2,124 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-03-teslas-video-shows-what-full-self-driving-autopilot-sees.md",
-      "title": "Tesla's Video Shows What Full Self-Driving Autopilot Sees",
-      "excerpt": "Tesla's Autopilot plans are aggressive to say the least. CEO Elon Musk has noted that the company's current-generation vehicles already have the hardware for Full Self-Driving (FSD). The limiting factor, according to Musk, is the software. Clearly, the CEO wants self-driving, so to make it a reality, the Autopilot team is now recruiting via the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.caranddriver.com/news/a30733506/tesla-autopilot-full-self-driving-video/",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/",
-      "publishedDateTime": "2020-02-03T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/algorithms-1580508501.jpeg?crop=1.00xw:0.802xh;0,0.120xh&resize=1200:*",
-          "width": 800,
-          "height": 401,
-          "title": "Tesla's Video Shows What Full Self-Driving Autopilot Sees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-03-this-company-scraped-social-media-to-feed-its-ai-facial-recognition-tool-is-that-legal.md",
-      "title": "This company scraped social media to feed its AI facial recognition tool. Is that legal?",
-      "excerpt": "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bigthink.com/technology-innovation/facial-recognition-clearview",
-      "ampWebUrl": "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html",
-      "publishedDateTime": "2020-02-03T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600",
-          "width": 1440,
-          "height": 810,
-          "title": "This company scraped social media to feed its AI facial recognition tool. Is that legal?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-03-victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls.md",
-      "title": "Victoria to use AI to detect heart attacks on emergency calls",
-      "excerpt": "Triple zero call operators could soon have artificial intelligence (AI) alert them to callers who suffer from a heart attack. The Victorian government announced on Sunday it was kicking in AU$1.36 million towards the Artificial Intelligence in Cardiac Arrest project, which will be developed by Monash University and Ambulance Victoria.",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/",
-      "publishedDateTime": "2020-02-02T20:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2013/11/14/c13adafe-5fde-41cb-99d0-859c455db5d5/Melbourne_credit_Kevin_Poh.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": "Victoria to use AI to detect heart attacks on emergency calls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-03-what-robotics-biggest-raises-tell-us-about-the-industrys-future.md",
       "title": "What robotics’ biggest raises tell us about the industry’s future",
       "excerpt": "It is, perhaps, an arbitrary distinction that has more to do with the way we categorize technologies — placing them in automotive or mobility, as opposed to robotics. Artificial intelligence ...",
@@ -1988,6 +1870,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-05-how-microsoft-runs-its-40m-ai-for-health-initiative.md",
+      "title": "How Microsoft runs its $40M ‘AI for Health’ initiative",
+      "excerpt": "Last week, Microsoft announced the latest news in its ongoing “AI for Good” program: a $40M effort to apply data science and AI to difficult and comparatively under-studied conditions like tuberculosis, SIDS and leprosy. How does one responsibly parachute into such complex ecosystems as a tech provider, and what is the process for vetting ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/05/how-microsoft-runs-its-40m-ai-for-health-initiative/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/09/techdoc.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": "How Microsoft runs its $40M ‘AI for Health’ initiative",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-05-huami-amazfit-homestudio-start-your-immersive-fitness-at-home-in-2020.md",
       "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
       "excerpt": "The Amazfit HomeStudio is built to offer a vision of the future of fitness with connectivity, technology, and the way AI will impact your workout. Huami CEO Wang Huang said, “at the end of 2019, Huami defined a new mission: Connect Health with Technology,” and the new Amazfit is just the start of a new decade of technology. The Amazfit ...",
@@ -2111,6 +2037,87 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-powerful-new-tool-helps-journalists-identify-manipulated-photos.md",
+      "title": "Powerful New Tool Helps Journalists Identify Manipulated Photos",
+      "excerpt": "“Assembler is an early stage experimental platform advancing new detection technology to help fact-checkers and journalists identify manipulated media.” Assembler works by combining several “manipulation detectors” into a single tool. Each individual detector—some brand new and created by Jigsaw, some created by academics at various ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://petapixel.com/2020/02/05/powerful-new-tool-helps-journalists-identify-manipulated-photos/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PetaPixel",
+        "domain": "petapixel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://petapixel.com/assets/uploads/2020/02/manipulation_feat.jpg",
+          "width": 1600,
+          "height": 840,
+          "title": "Powerful New Tool Helps Journalists Identify Manipulated Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle.md",
+      "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
+      "excerpt": "... Prospects by Gearing Yourself with the In-Demand Azure Cloud Skills Machine Learning in the Cloud with Azure Machine Learning Process Real-World Datasets Using Sophisticated Machine Learning Models in the Cloud Azure Project-Based Hands-on Training",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329629_azure-6_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

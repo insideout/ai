@@ -1,21 +1,29 @@
 ---
 category: news
-title: "ZenGo Defends Integrity of Facial Recognition"
-excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
-publishedDateTime: 2020-01-29T18:54:00Z
-webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
+title: "NY State Lawmaker Wants To End Police Use Of Facial Recognition Technology"
+excerpt: "Following mounting concerns over privacy and biased policing practices, state Senator Brad Hoylman has proposed legislation that would prohibit police statewide from using facial recognition and other biometric software. The use of facial recognition in New York City has surfaced over the years across a spectrum of users, from landlords to ..."
+publishedDateTime: 2020-01-29T18:10:00Z
+webUrl: "https://gothamist.com/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
+ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
+cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
 type: article
-quality: 19
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Mobile ID News
-  domain: mobileidworld.com
+  name: Gothamist
+  domain: gothamist.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://cms.prod.nypr.digital/images/22754/original"
+    width: 640
+    height: 426
+    title: "NY State Lawmaker Wants To End Police Use Of Facial Recognition Technology"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -48,21 +56,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "Remember FindFace? The Russian Facial Recognition Company Just Turned On A Massive, Multimillion-Dollar Moscow Surveillance System"
-    excerpt: "Built on several tens of thousands of cameras and what's claimed to be one of the most advanced facial recognition systems on the planet, Moscow has been quietly switching on a massive surveillance project this month."
-    publishedDateTime: 2020-01-29T17:50:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 159
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
-        width: 1200
-        height: 800
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
     excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
@@ -653,21 +646,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
         width: 796
         height: 419
-  - title: "NY State Lawmaker Wants To End Police Use Of Facial Recognition Technology"
-    excerpt: "Following mounting concerns over privacy and biased policing practices, state Senator Brad Hoylman has proposed legislation that would prohibit police statewide from using facial recognition and other biometric software. The use of facial recognition in New York City has surfaced over the years across a spectrum of users, from landlords to ..."
-    publishedDateTime: 2020-01-29T18:10:00Z
-    webUrl: "https://gothamist.com/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 57
-    images:
-      - url: "https://cms.prod.nypr.digital/images/22754/original"
-        width: 640
-        height: 426
   - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
     excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
     publishedDateTime: 2020-02-05T13:40:00Z
@@ -1231,6 +1209,15 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
         width: 770
         height: 400
+  - title: "ZenGo Defends Integrity of Facial Recognition"
+    excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
+    publishedDateTime: 2020-01-29T18:54:00Z
+    webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 19
   - title: "Facebook settles facial recognition dispute"
     excerpt: "Facebook has settled a long-running legal dispute about the way it scans and tags people's photos. It will pay $550m (£421m) to a group of users in Illinois, who argued that its facial recognition tool was in violation of the state's privacy laws. The case has been ongoing since 2015, and the settlement was announced in its quarterly earnings."
     publishedDateTime: 2020-01-30T13:22:00Z
@@ -1315,6 +1302,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "aC1gk5Jxx8kQvi8YfyEDDtHf5/maTcN0nxDBJiqoScnlmr8iAVbucraRqx9G/rgM0x6sVF0FO3o3Ey74FuUKAnWIs2/DiWzsAerR9ORD7QjgTMHm0oB31Q6ea24iqFA8S8Oyw59amVcjAxevcm5S35P8vrrBAa8oFWiCncx3WYfww1vmSboMau+sQw8ghMu2P+Cx38Q0kGCzJ4UtUa8MtTBDgKgZcWti1ibUsRFU2f7f93tDq5SIkXouAtsL9cW0x0iS5kSvKxoA/DmB4SvstDKr3a7itRvI22xsp96nhIfPH9xSTnKtaRPiBzP7MvuWkdVTWXxNaaM6cIGaXqWnTS4kXwAWnQkzUaR4/acqdqDd17ErznUS/UZyWtKA0Orm5bPZRZd8pMcckO3QHKRO6Erwsn4xDrZc94E4kiYynDSOja0l2icz+vwc738kvjYwz6Iq7z6fmjnOjv851LGil5qOrY8o/m6y1Lr+a7z7wGo=;4bAyDFz0NhuLr50REUPa7Q=="
+secured: "SsDO0BwSRX1kueJAP2Kklbkj3m+KztIGVK9dgkkSnQdMKiuY7mkeIkc2DeJRyLZaABfKWAftfkK6Zsl6sCJPgqusZLGqM+CvPNfVir9uuV7UcdcF9lGKtu5sCwax/9giGzRj3BqPQbTL/iiyCdiy4waD+oxjNHYTG6aRvcTS03CIBKqppiQfZ6QakXEa3MkQG4JCUWcAvEYk3kh2HgX9RJD3D2Ot+cejteLaR4MVfj2Av5O2pZS7ZNI8U5adCoScOL4+YSHNlHWyIkWnE+ALIzw2VUACRSN6a4mkeyq4zRtmu41nhSeODocbM098eq5Kk7RKk1SQBX1QGXu9RddtL6AkkQ5EhJr2DtWRtE7RsJdssGd/gfqiRf3I7TKGjq8xHGgvUb/knekA6tK43SlndbwjN0ikH7fZ0alrtXrKGLSWi20+nrNqFlPRVTGZ2rqGl/hPDMYWpNk2Q5Zh8HuKKlSAzcTBqtG8jyc/JQKmg58=;7fYz4uweaLqjlCbrVH/DVQ=="
 ---
 

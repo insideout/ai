@@ -46,6 +46,15 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg"
         width: 1240
         height: 936
+  - title: "Microsoft backs AI in healthcare with a $40 million program"
+    excerpt: "AI for Health will help treat and understand diseases. Microsoft's deepening health tech strategy now includes a significant commitment to AI. The company is starting a $40 million AI for Health program that should help researchers and key organizations improve the quality of life for people around the planet. The five-year initiative will use ..."
+    publishedDateTime: 2020-01-30T02:44:00Z
+    webUrl: "https://www.engadget.com/2020/01/29/microsoft-ai-for-health/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
 
 secured: "58dMaMi3ymcNjkG5ePevMVmpB2yk2RfDC9YjOqKN69GjnNHeZ6p9C0bzUMMr4i1H8aImt2riJB9oH/to2QpcU9eFR4RPRSYJwSpUKHjdFMpT9wEbNWdsTTlRRpWuvtz5Xub6Gu4rrOH76TZrSuUg+WF2KYQoWNozTz799aO/HUE3QFY7X9iEIsKfLwRs0hNlded0z/HIlcCEb5GQyVB3XIT40aQOzxcCTDa7FGgGIJkTm+9ytpqcjoVDPZ1yAzpSp1mqg+ByJNHodADxAEN4GhFN3El70Yd9JUmi3QMIg9IFoMTeRokm6T1b35/6QQIF;3AyckxyKOcPb5+df4Ah3Uw=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "NY State Lawmaker Wants To End Police Use Of Facial Recognition Technology"
-excerpt: "Following mounting concerns over privacy and biased policing practices, state Senator Brad Hoylman has proposed legislation that would prohibit police statewide from using facial recognition and other biometric software. The use of facial recognition in New York City has surfaced over the years across a spectrum of users, from landlords to ..."
-publishedDateTime: 2020-01-29T18:10:00Z
-webUrl: "https://gothamist.com/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
+title: "Facebook curbs its controversial facial recognition features"
+excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
+publishedDateTime: 2020-01-29T19:06:00Z
+webUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change/"
+ampWebUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/facebook-facial-recognition-policy-change.amp"
 type: article
-quality: 57
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Gothamist
-  domain: gothamist.com
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://cms.prod.nypr.digital/images/22754/original"
-    width: 640
-    height: 426
-    title: "NY State Lawmaker Wants To End Police Use Of Facial Recognition Technology"
+  - url: "https://mondrian.mashable.com/2019%252F09%252F04%252F64%252Fbb5d4702626344ae995bccc7d17b927c.1137a.png%252F1200x630.png?signature=thQUzMw0eD4MHb166K_fP84zwIY="
+    width: 1200
+    height: 630
+    title: "Facebook curbs its controversial facial recognition features"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -56,21 +56,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "Remember FindFace? The Russian Facial Recognition Company Just Turned On A Massive, Multimillion-Dollar Moscow Surveillance System"
-    excerpt: "Built on several tens of thousands of cameras and what's claimed to be one of the most advanced facial recognition systems on the planet, Moscow has been quietly switching on a massive surveillance project this month."
-    publishedDateTime: 2020-01-29T17:50:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 159
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
-        width: 1200
-        height: 800
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
     excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
@@ -99,21 +84,6 @@ related:
     quality: 89
     images:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
-  - title: "Facebook curbs its controversial facial recognition features"
-    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
-    publishedDateTime: 2020-01-29T19:06:00Z
-    webUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change/"
-    ampWebUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/facebook-facial-recognition-policy-change.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2019%252F09%252F04%252F64%252Fbb5d4702626344ae995bccc7d17b927c.1137a.png%252F1200x630.png?signature=thQUzMw0eD4MHb166K_fP84zwIY="
         width: 1200
         height: 630
   - title: "Facebook to Pay $550 Million to Settle Facial Recognition Suit"
@@ -661,6 +631,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
         width: 796
         height: 419
+  - title: "NY State Lawmaker Wants To End Police Use Of Facial Recognition Technology"
+    excerpt: "Following mounting concerns over privacy and biased policing practices, state Senator Brad Hoylman has proposed legislation that would prohibit police statewide from using facial recognition and other biometric software. The use of facial recognition in New York City has surfaced over the years across a spectrum of users, from landlords to ..."
+    publishedDateTime: 2020-01-29T18:10:00Z
+    webUrl: "https://gothamist.com/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
+    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
+    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 57
+    images:
+      - url: "https://cms.prod.nypr.digital/images/22754/original"
+        width: 640
+        height: 426
   - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
     excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
     publishedDateTime: 2020-02-05T13:40:00Z
@@ -1317,6 +1302,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "SsDO0BwSRX1kueJAP2Kklbkj3m+KztIGVK9dgkkSnQdMKiuY7mkeIkc2DeJRyLZaABfKWAftfkK6Zsl6sCJPgqusZLGqM+CvPNfVir9uuV7UcdcF9lGKtu5sCwax/9giGzRj3BqPQbTL/iiyCdiy4waD+oxjNHYTG6aRvcTS03CIBKqppiQfZ6QakXEa3MkQG4JCUWcAvEYk3kh2HgX9RJD3D2Ot+cejteLaR4MVfj2Av5O2pZS7ZNI8U5adCoScOL4+YSHNlHWyIkWnE+ALIzw2VUACRSN6a4mkeyq4zRtmu41nhSeODocbM098eq5Kk7RKk1SQBX1QGXu9RddtL6AkkQ5EhJr2DtWRtE7RsJdssGd/gfqiRf3I7TKGjq8xHGgvUb/knekA6tK43SlndbwjN0ikH7fZ0alrtXrKGLSWi20+nrNqFlPRVTGZ2rqGl/hPDMYWpNk2Q5Zh8HuKKlSAzcTBqtG8jyc/JQKmg58=;7fYz4uweaLqjlCbrVH/DVQ=="
+secured: "kRKRKUZK8Z41LVsni38sWfShixEOt8VaKPOrr1z2GXaX+dIwqlk3RJjDnu4/AITuHYTn7gr33VmuM2DDJPj5T/z5A2n+Nba+GclnBnGkiUG4u35QAUMayhHAC/vRsKHaG+O2F9bVqkVQ0QhMFHU0EuzB/q4XUzmpjeAeZr2xjXXBLc4ghjRUVueq4dcWukdQdsRlJENfx13lJJRpZJhrUytHtmEHC/ktqXe6PLLXZ9NSAZ0et2/lOJ9M/R8MaeEzwzjmWwnhCQLIAzuolRPrLBcM3pNWRGe0st0m5EaYuGg4xsrX5uNErNmCcIDSKn4j;fNSZ2uB83tuGG70B3qDoEA=="
 ---
 

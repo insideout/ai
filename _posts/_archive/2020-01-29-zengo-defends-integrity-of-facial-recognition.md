@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Facebook curbs its controversial facial recognition features"
-excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
-publishedDateTime: 2020-01-29T19:06:00Z
-webUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change/"
-ampWebUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/facebook-facial-recognition-policy-change.amp"
+title: "ZenGo Defends Integrity of Facial Recognition"
+excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
+publishedDateTime: 2020-01-29T18:54:00Z
+webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
 type: article
-quality: 89
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Mobile ID News
+  domain: mobileidworld.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://mondrian.mashable.com/2019%252F09%252F04%252F64%252Fbb5d4702626344ae995bccc7d17b927c.1137a.png%252F1200x630.png?signature=thQUzMw0eD4MHb166K_fP84zwIY="
-    width: 1200
-    height: 630
-    title: "Facebook curbs its controversial facial recognition features"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -56,21 +48,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "Remember FindFace? The Russian Facial Recognition Company Just Turned On A Massive, Multimillion-Dollar Moscow Surveillance System"
-    excerpt: "Built on several tens of thousands of cameras and what's claimed to be one of the most advanced facial recognition systems on the planet, Moscow has been quietly switching on a massive surveillance project this month."
-    publishedDateTime: 2020-01-29T17:50:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 159
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
-        width: 1200
-        height: 800
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
     excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
@@ -99,6 +76,21 @@ related:
     quality: 89
     images:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+  - title: "Facebook curbs its controversial facial recognition features"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
+    publishedDateTime: 2020-01-29T19:06:00Z
+    webUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change/"
+    ampWebUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/facebook-facial-recognition-policy-change.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://mondrian.mashable.com/2019%252F09%252F04%252F64%252Fbb5d4702626344ae995bccc7d17b927c.1137a.png%252F1200x630.png?signature=thQUzMw0eD4MHb166K_fP84zwIY="
         width: 1200
         height: 630
   - title: "Facebook to Pay $550 Million to Settle Facial Recognition Suit"
@@ -1224,15 +1216,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
         width: 770
         height: 400
-  - title: "ZenGo Defends Integrity of Facial Recognition"
-    excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
-    publishedDateTime: 2020-01-29T18:54:00Z
-    webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
   - title: "Facebook settles facial recognition dispute"
     excerpt: "Facebook has settled a long-running legal dispute about the way it scans and tags people's photos. It will pay $550m (£421m) to a group of users in Illinois, who argued that its facial recognition tool was in violation of the state's privacy laws. The case has been ongoing since 2015, and the settlement was announced in its quarterly earnings."
     publishedDateTime: 2020-01-30T13:22:00Z
@@ -1317,6 +1300,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "kRKRKUZK8Z41LVsni38sWfShixEOt8VaKPOrr1z2GXaX+dIwqlk3RJjDnu4/AITuHYTn7gr33VmuM2DDJPj5T/z5A2n+Nba+GclnBnGkiUG4u35QAUMayhHAC/vRsKHaG+O2F9bVqkVQ0QhMFHU0EuzB/q4XUzmpjeAeZr2xjXXBLc4ghjRUVueq4dcWukdQdsRlJENfx13lJJRpZJhrUytHtmEHC/ktqXe6PLLXZ9NSAZ0et2/lOJ9M/R8MaeEzwzjmWwnhCQLIAzuolRPrLBcM3pNWRGe0st0m5EaYuGg4xsrX5uNErNmCcIDSKn4j;fNSZ2uB83tuGG70B3qDoEA=="
+secured: "aC1gk5Jxx8kQvi8YfyEDDtHf5/maTcN0nxDBJiqoScnlmr8iAVbucraRqx9G/rgM0x6sVF0FO3o3Ey74FuUKAnWIs2/DiWzsAerR9ORD7QjgTMHm0oB31Q6ea24iqFA8S8Oyw59amVcjAxevcm5S35P8vrrBAa8oFWiCncx3WYfww1vmSboMau+sQw8ghMu2P+Cx38Q0kGCzJ4UtUa8MtTBDgKgZcWti1ibUsRFU2f7f93tDq5SIkXouAtsL9cW0x0iS5kSvKxoA/DmB4SvstDKr3a7itRvI22xsp96nhIfPH9xSTnKtaRPiBzP7MvuWkdVTWXxNaaM6cIGaXqWnTS4kXwAWnQkzUaR4/acqdqDd17ErznUS/UZyWtKA0Orm5bPZRZd8pMcckO3QHKRO6Erwsn4xDrZc94E4kiYynDSOja0l2icz+vwc738kvjYwz6Iq7z6fmjnOjv851LGil5qOrY8o/m6y1Lr+a7z7wGo=;4bAyDFz0NhuLr50REUPa7Q=="
 ---
 

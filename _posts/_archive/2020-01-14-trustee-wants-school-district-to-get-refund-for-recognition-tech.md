@@ -25,6 +25,6 @@ images:
     height: 627
     title: "Trustee Wants School District to Get Refund for Recognition Tech"
 
-secured: "SxSXiAl+NBHQcp6emMbO+GY5+FnyQAKexd12rp4nsFqAB1U9okLaUGT8Ut18VWlAXAuEtqsVDmc4hYE9za9iWoy4FIEunR7ZarBMeLg57D3/neHSWUJ4hiEFqaAfWCIBvO4xjcESrKEc2gZK7lBO5mNP6nUP24tueGBOGuELamEKMv9/2aHSDl3gHszmsJxoha2efgtQxXmuGGIc9AwLRrNi5pCIbiFmEtXEPqE6TKTV6nXLxgaw7aLbrmL/36SeKqD/WoM8iqqd+afAy36fbsBnL7idxyNu7OeQZk5lbmrJKBxTxyet6+RR5mb/0RSW;b5THTfwcm2uQJtxVs5YiyQ=="
+secured: "9ngDnhAVS+cfSEPU+t6c+8M4qYmZNFvH9OqMaZnSgk54yGyynvCWj8zU000uwxNeNQ7teP7Uet/75lj4Aypkwe8/6hpJUjz5ebFPNYt6ZDddVGH9F7Djm5PRwEVCn2VdB4CQlY6BAzx5gWEr4/WM9g2NTvIZbZBMOhq84unhCqzjuJGBWfSTDK2LzafWVijkNK2UUsuBY9ilUmuOCST9GHGn/WNJ6+HcWTpyKXocQWb01Jkh0qCR1Sc/k+ekAFS08mbje+AU0MZMt2hJ058jAIQxIyOtxoexccc8dVInPVvRFQJnI/cj/WMyuNi7LY8m;oLOKSPJp8uJgfu8ZAF9Vfw=="
 ---
 

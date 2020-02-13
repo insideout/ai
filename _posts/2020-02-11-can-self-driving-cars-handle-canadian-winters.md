@@ -59,6 +59,15 @@ related:
       - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
         width: 1920
         height: 1204
+  - title: "The man who invented the self-driving car (in 1986)"
+    excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
+    publishedDateTime: 2020-02-02T17:32:00Z
+    webUrl: "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 4
   - title: "The Man Behind the 1990s' Hottest Supercar Is Coming Out with a Self-Driving Pod"
     excerpt: "The Motiv is similarly quite small, very lightweight, and runs on electric power. It has an aluminum suspension, ultra-lightweight high-strength extruded aluminum in the chassis, and composite body panels and doors that hold its weight below 992 pounds (sans batteries, at least). Measuring just 100 inches long and 52 inches wide, the compact ..."
     publishedDateTime: 2020-02-10T21:54:00Z

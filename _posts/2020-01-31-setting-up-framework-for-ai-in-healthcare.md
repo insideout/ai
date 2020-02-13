@@ -39,6 +39,15 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1147429610/960x0.jpg?fit=scale"
         width: 711
         height: 474
+  - title: "Microsoft backs AI in healthcare with a $40 million program"
+    excerpt: "AI for Health will help treat and understand diseases. Microsoft's deepening health tech strategy now includes a significant commitment to AI. The company is starting a $40 million AI for Health program that should help researchers and key organizations improve the quality of life for people around the planet. The five-year initiative will use ..."
+    publishedDateTime: 2020-01-30T02:44:00Z
+    webUrl: "https://www.engadget.com/2020/01/29/microsoft-ai-for-health/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
   - title: "Artificial Intelligence in Healthcare"
     excerpt: "WMR published report on Artificial Intelligence in Healthcare Market 2027: Delivering key insights and providing a competitive advantage to clients through a detailed report. Artificial Intelligence in Healthcare Industry Size, Market Share Value, Competitors Research, Industry Outlook as well Analysis covers various factors like Regional ..."
     publishedDateTime: 2020-01-30T10:45:00Z

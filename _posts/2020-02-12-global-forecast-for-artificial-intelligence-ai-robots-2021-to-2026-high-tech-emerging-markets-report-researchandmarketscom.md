@@ -1,26 +1,25 @@
 ---
 category: news
 title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually ..."
-publishedDateTime: 2020-02-12T10:12:00Z
-webUrl: "https://www.businesswire.com/news/home/20200212005347/en/Global-Forecast-Artificial-Intelligence-AI-Robots-2021"
+excerpt: "The “2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report” report has been added to ResearchAndMarkets.com’s offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually, this report provides a ..."
+publishedDateTime: 2020-02-12T10:20:00Z
+webUrl: "https://apnews.com/Business Wire/a7905aef81874a06976be4dbb4f6fd81"
 type: article
-quality: 38
-heat: 38
+quality: 21
+heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://mms.businesswire.com/media/20200212005347/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
 
 related:
@@ -50,20 +49,20 @@ related:
       - url: "https://mms.businesswire.com/media/20200212005352/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
-  - title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Banking, Financial Services, and Insurance industry vertical to hold the largest market ... With the help of data science platform, companies can train machine learning models on thousands of customer profiles with hundreds of data entries for each customer. North America to hold the largest market size during the forecast period ..."
-    publishedDateTime: 2020-02-12T15:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/02/12/9096953.htm"
+  - title: "2020 Report on Computer Vision: Thematic Research - Key Trends Impacting Growth Over the Next 12 to 24 Months - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision - Thematic Research\" report has been added to ResearchAndMarkets.com's offering. CV will find myriad applications in several industries, reaching an estimated market size of $28bn by 2030, up from $3.5bn in 2019, according to the publisher forecasts. The explosion in the volume of visual data ..."
+    publishedDateTime: 2020-02-13T10:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200213005340/en/2020-Report-Computer-Vision-Thematic-Research--"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://mms.businesswire.com/media/20200213005340/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
-secured: "9tGM2UTqYuLzs2qD2gueDe+YDsCjkdnUF5vc8+XyXEy3bv4lSIsahfww/5lBqa2jQp2IPYXd0V6IMGEumeNS2tKNNzVhBxRLoqbTdJ0EYBbnk+BiyIAWDskJylLF78Fjra0jhz2z9Nj0KCH4NPTXjRlloTCK/9UMMzg5wkz7r8UOtOBUbky46ChziVALmizpZpq5KGax7HRWrYW+fsrkNOigsZeZ7B1sp3pE1QNQQnLgmrfnX8a/vpMyUe149tGPR1buN68S+z44XxYNrz5IOusoJ4Vdf+8oM+btHgQ2qfLFHlKkyRrIouhml0T7cCu4;wZSCmZ60S4LLzHALGJ+vYA=="
+secured: "Dvf4y8w2TJcixtuDsobyH6rI/S4SbyabO1L8uttGt+zyUjsF6xn1X6iAeOw7SP/Isv1xndi72i79iYH9+y1pjz/o0IivXAvNpWqE0xQ5gCoZcJFn4TsUT4s1eFLrBYCySUQN+Ep4DxWaT48BuKjj8fWn+YOWjzn4Z8Vfne51duiefNjCZPw4ZRqZ35qqJbg/jyqbQr/0+32MLxMUXu9KzbbVPuIXZInfflbJ4Z4Ejf70iLbv0zBfBm4u0dFdRMXPlZVOjXA5mNaeSRHZytuB5V4MPeUdxNcpGdK7A+nPa2wW+GsSX1vbzmhYj3sUwFOT;qWp4ifoUS4QzOd+TrX9nJA=="
 ---
 

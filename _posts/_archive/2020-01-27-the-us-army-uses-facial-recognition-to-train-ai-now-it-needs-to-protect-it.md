@@ -60,21 +60,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "Remember FindFace? The Russian Facial Recognition Company Just Turned On A Massive, Multimillion-Dollar Moscow Surveillance System"
-    excerpt: "Built on several tens of thousands of cameras and what's claimed to be one of the most advanced facial recognition systems on the planet, Moscow has been quietly switching on a massive surveillance project this month."
-    publishedDateTime: 2020-01-29T17:50:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 159
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
-        width: 1200
-        height: 800
   - title: "EU drops idea of facial recognition ban in public areas: paper"
     excerpt: "The European Union has scrapped the possibility of a ban on facial recognition technology in public spaces, according to the latest proposals seen by Reuters. An earlier draft by the European Commission had broached the idea of a moratorium of up to five years to give the bloc time to work out how to prevent abuses."
     publishedDateTime: 2020-01-29T23:11:00Z
@@ -1321,6 +1306,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "nUw3qrASFVk+pwBl0rpzOvbTVIuwl0VuLoqHUR+TqYGhOETYMyQ+WuJiBGpUFUcmffugLmWg/GLA4sMH0BTGLfHoH5o3DcOdc6yxjdTmiHYGqnibjCMLmyEVAi2V1nvQhEduyi6xnybVUvDANlIffzOmkSv3En0Gl321PK/B3g13kTORCZXwnQ1h+gJuRnVYu20fkHcIvY5owbBzibroLjr3QyEyVmH68TqyVEL0HnnZVBIvvsMx9zaO5wctCfITPxJGskIRm06TclGmndlcD6yuLv2xPQNhxQvTfS6EyHGTKy3sDZ4KVeV457YUirHJ;6PT5FBAaG602P1vRIssT1A=="
+secured: "x3viK+m9rzBftCa84quedxD4jeqG+EIyDHdBqLnAY4Vk6tOW/2NyZ21k1ki/bEQxN6gWbFW0l3CfPfdqbKh0L0OcE96sr403VhfSixDwnaIfhMJimiS07phjAwIqB5L21pvuuI3diy5r/4SmcrMCCRKbXlruq5jIEB+D/mVYgwW1XU/Qi0XA/cwdp8XXie8j4TpG3ptsnWav30dd5KH2UVVt7wnQyBpNSSr8l61nTSGA7moz5oB3IJ/cogfhgsVK8YHiiof1ldMXu6wtkvt6V8kmfnI0jc0WgnwFQG1sxpOPl9+W++xVa4ahWULgq3PZ;AUMPPMYWB744/bBgnbliSQ=="
 ---
 
