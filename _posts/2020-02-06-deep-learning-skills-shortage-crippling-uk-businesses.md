@@ -24,8 +24,8 @@ topics:
 related:
   - title: "Making 3-D printing smarter with machine learning"
     excerpt: "They must be discarded, presenting a significant environmental and financial cost to industry. A team of researchers from USC Viterbi School of Engineering is tackling this problem, with a new set of machine learning algorithms and a software tool called PrintFixer, to improve 3-D printing accuracy by 50 percent or more, making the process ..."
-    publishedDateTime: 2020-02-11T22:20:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uosc-m3p021120.php"
+    publishedDateTime: 2020-02-11T22:56:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-02/uosc-m3p021120.php"
     type: article
     provider:
       name: EurekAlert!

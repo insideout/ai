@@ -74,6 +74,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
+  - title: "CHDI Foundation and IBM tracking the progress of Huntington's disease using AI"
+    excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
+    publishedDateTime: 2020-02-12T04:32:00Z
+    webUrl: "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 65
   - title: "Elucidating the multiple roles of hydration for accurate protein-ligand binding prediction via deep learning"
     excerpt: "Nevertheless, for 16% of all systems this near-native pose could not be ranked first by the deep-learning model. Furthermore, for about 150 systems, which failed in the top rank but had a near-native pose at the second rank, the CNN score was almost identical. Further analysis revealed four main reasons for this difficulty in reproducing the ..."
     publishedDateTime: 2020-02-11T10:21:00Z

@@ -26,19 +26,6 @@ images:
     title: "New Algorithm Could Enable Personalized Treatment for Diabetic Macular Edema"
 
 related:
-  - title: "New AI could predict outcome of diabetes-related vision loss"
-    excerpt: "In a new study, researchers found that using artificial intelligence (AI) to analyze retinal images could one day help doctors ... Anti-vascular endothelial growth factor (VEGF) agents are widely used as the first line of therapy for diabetic macular edema, but they don’t work for everyone. There’s a need to identify who would benefit ..."
-    publishedDateTime: 2020-01-29T10:46:00Z
-    webUrl: "https://knowridge.com/2020/01/new-ai-could-predict-outcome-of-diabetes-related-vision-loss/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 39
-    images:
-      - url: "https://knowridge.com/wp-content/uploads/2020/01/New-AI-could-predict-outcome-of-diabetes-related-vision-loss-.jpg"
-        width: 640
-        height: 426
   - title: "Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment"
     excerpt: "As an important subjective trait, personality is believed to be a key factor in modeling individual’s subjective preference. In this paper, we present a personality-assisted multi-task deep learning framework for both generic and personalized image aesthetics assessment. The proposed framework comprises two stages. In the first stage ..."
     publishedDateTime: 2020-02-04T02:59:00Z

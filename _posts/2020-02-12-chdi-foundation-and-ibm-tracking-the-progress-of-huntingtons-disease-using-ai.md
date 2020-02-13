@@ -1,6 +1,6 @@
 ---
 category: news
-title: "CDHI Foundation and IBM tracking the progress of Huntington's disease using AI"
+title: "CHDI Foundation and IBM tracking the progress of Huntington's disease using AI"
 excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
 publishedDateTime: 2020-02-12T04:32:00Z
 webUrl: "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
@@ -63,7 +63,7 @@ related:
       - url: "https://miro.medium.com/max/378/0*pJ_V5RBE48AfmED2"
         width: 378
         height: 410
-  - title: "CHDI Foundation and IBM tracking the progress of Huntington's disease using AI"
+  - title: "CDHI Foundation and IBM tracking the progress of Huntington's disease using AI"
     excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
     publishedDateTime: 2020-02-12T04:32:00Z
     webUrl: "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
@@ -136,6 +136,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "XXOQRa8erfjI/9eC6VcVWVKICtjFnUqGT82oPAfLYD3blu5ZGdyafChYWPJHyosSMeCr17cqwOH69RTW2BcWNWF/dVpsz9YgNIzgd2z0uo2Ku/uqvVKleX+0ZHtjdMsCJJPcINLrAd6wItRxnP9GksArZAmJWvf3MR0/hqpGCWHq2GulmXd+0zaQ6C1wO7SHKNUfm1xNbvD7nWyiWu/SkOTKziP+QuMyzEHmiNaVdP2Tkg2O1+eINIz4j5wy/zJoufJtDdXxqdigTST05UgGVEUKCtLDZPqqh/mQ6RtEoGPaqMQJ7wUlSVm4kfeA7cBt2C02MHZi5ZivNe6J6DYn10aet3rLbrW1yCc8maHibbxOjeDP+XjtYuPD1D6imTT9TqM5MLLS2FIdF0QeSIzAsNT8wAtpo/25CsL6JZ2WpKj1ErrqYWeQfyGw0XRSctCSzZQOiLSOH28Ea+daHGF94kxljUuBtbcgns8BOvY1Ii4=;7ayTS9VXKrRJY34vSzuUCQ=="
+secured: "+3IJLxmkA0oQSlfb67UiL28Jhmv+qts5nVjWenjn4sKx5cICa6DHBmOT8pO1tChPLiwupmI2znZgnWBGYlp9Gj7BNi26vwOycvGvtI2gk70pJfaVtjVUlog9Fx/EuPvTx0ohwB9QGkfqjIbRcl4IkU2Ov01EdeiJcwlUvhEFqoBc9Q4CkWe+k9BhNIF6OvZih6KiGM7WbkUJeCXNQG2T3b/1val9Yvmtskpqc5HK5+e6ASmZos+3NU/p2lktCfrxucj9NtbKcHKlKbxh7Ayvvote7zK/CpJaD5UdlYKNOEeKMMXDdtD1KrLvVVj+0tJWsWbKKU1nJ8dYQGNDU4L0+iXMuREmkJSe/K1Xt4w1S4XIopNpbcT/66IQiXLqwg16tAIYZwg/hVGMpPOTitVA/ep7vFTESZjxLEZsA4oOCQ8VEG4LEEGjKiU3LKTNUaUV8kT9c9d58Headm328sC6AOHwHfEVslgxrhe12SXJ/SQ=;B9QObeLTtBJtGzZ3iaDoQw=="
 ---
 

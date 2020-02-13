@@ -33,19 +33,6 @@ related:
       - url: "https://www.azorobotics.com/images/news/ImageForNews_11070_15803031966954841.png"
         width: 699
         height: 257
-  - title: "New AI could predict outcome of diabetes-related vision loss"
-    excerpt: "In a new study, researchers found that using artificial intelligence (AI) to analyze retinal images could one day help doctors ... Anti-vascular endothelial growth factor (VEGF) agents are widely used as the first line of therapy for diabetic macular edema, but they don’t work for everyone. There’s a need to identify who would benefit ..."
-    publishedDateTime: 2020-01-29T10:46:00Z
-    webUrl: "https://knowridge.com/2020/01/new-ai-could-predict-outcome-of-diabetes-related-vision-loss/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 39
-    images:
-      - url: "https://knowridge.com/wp-content/uploads/2020/01/New-AI-could-predict-outcome-of-diabetes-related-vision-loss-.jpg"
-        width: 640
-        height: 426
 
 secured: "5FX/5wg5ZAQ976Dos6xvnXYmMFUY1BI+ZkjosnKdDA4wetUXU1JMGiqlUGVgDJwJsd6VNjH8rcsuqsXqZgvTeCnRIOTn5amaTqygJ7+N5sk34YNTrnoAaqbnqlXML5PolZwzhtT6e7UGFAhVDrJAtt/pTN8OAn+NW3oeO+428/CzU/HVaDQKZagT221qpTGrZxow2vi96yXjIG2XAi7I8jp1kgDV6GGtIw+LpkzFDSy5ydUDbJuLFcU9TLCX6YumoMsz9BcWnHi/bhv5lXG+dAmvajJjo81yETa73HtHJClPNmm3xHAy0ZRHX4Nd6oeX;lwbmqsmDkyIuNy5tkA2UXg=="
 ---

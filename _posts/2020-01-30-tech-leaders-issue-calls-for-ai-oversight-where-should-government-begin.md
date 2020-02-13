@@ -39,21 +39,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570816530/itpro/2019/02/ai_shutterstock_767827225.jpg"
         width: 1920
         height: 1080
-  - title: "Government creates AI playbook for the public sector"
-    excerpt: "topics related to management of AI systems roll-outs is also covered; decisions around how projects run, team building and the actual implementation, as well as risk, governance, testing and quality assurance. The manual also provides advice on ethics and ..."
-    publishedDateTime: 2020-01-29T10:39:00Z
-    webUrl: "https://www.computerweekly.com/news/252477468/Government-creates-AI-playbook-for-the-public-sector"
-    ampWebUrl: "https://www.computerweekly.com/news/252477468/Government-creates-AI-playbook-for-the-public-sector?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477468/Government-creates-AI-playbook-for-the-public-sector?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg"
-        width: 1200
-        height: 400
   - title: "Government developing AI use case repository for agencies facing challenges"
     excerpt: "Early practice areas TTS identified are acquisition, ethics, governance, tools and techniques ... GSA is working to educate agencies that AI is an embedded technology that needs to be adopted within the acquisition framework, not a solution in itself, said Omar Saeb, Alliant 2 program manager in GSA’s Office of Information Technology Category."
     publishedDateTime: 2020-01-29T20:55:00Z

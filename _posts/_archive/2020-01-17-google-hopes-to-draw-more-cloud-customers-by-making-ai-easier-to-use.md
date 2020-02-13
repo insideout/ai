@@ -29,6 +29,6 @@ images:
     height: 2652
     title: "Google hopes to draw more cloud customers by making A.I. easier to use"
 
-secured: "WzmSbbAn7DXDvs893MmpNUHZeZbql8Z0U5SNOjqpLBrR3yIbDYluYl2DZtYRCRVU28xrrofxsmQ0LrRCMhwH7Y6wcZMYZ5ai/JhOPTxoqtRTavwV7Guzlq0TuWyFse0MHiasmIW8lG/KIsM899BL0vp31jGN35bStRatKv3i5suVlgYPWWrQXlzyMtcos79XortirQm+ZvlBian22rA6BLzQOz33DQBD+9VO9M9ZkOhPx7OXF4hQ1ug0vuXrUrezD2dvhTE9h4Op2CqwfR05FIdrPL+yLnuRk7bns4NYIx3MtIt/f2WwFJVZYDH9ecWa;kisyVzkla4Z/hGSZqIV6Vg=="
+secured: "09BRjO/CvKcMqTWWO0jIm3b56zG3SrPmDFgflVABAlR5MBHD56YKCBysaNhLmp/we4adq6lx77FgQ/ZY0kiTh/sZ/QFlHk2aVZwuDm+vVx06sjLx4xtXWzQCbE0tj78cOtZcMoKmMpb32WebgDw2hWNQOqirxHv0vHRQjUcYft118s/cQGBctNmJu2ybNXzxRvpSAR631/RbSIXmW1OM/UUqqwl76e3ioqEno8DAQunD7J7R1PmCJQGyvtaUtkJpGZadjMSbu+dA8M/AMDB/FBGlTFULX9/jCGsVBzdU5R/qcFN8moOVJM4qPDnZfw6R;KBJmU1QDqz4KtLrqHBd0Kw=="
 ---
 

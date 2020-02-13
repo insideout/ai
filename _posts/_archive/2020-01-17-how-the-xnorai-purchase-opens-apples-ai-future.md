@@ -25,6 +25,6 @@ images:
     height: 800
     title: "How the Xnor.ai purchase opens Apple’s AI future"
 
-secured: "uUr4SRIb+Yn6O6s2USLWm3OwBxTXmmOHb4Cni92zMbtD7nQO6lDUWLkpCJIW3MjNlBnLfWd70bMcmQSQ+yNQ1SOXjkaxmYG11os7hUm7hyOLLKpG1qOPRHmlP5GYZvo/YbQwP2GvpG0wvUg2W9/HiB3jD3GnZARJbzuX/tpgoX1d4jBFoOrC/VhTgcQ4Os93E0uZ9F2F2UK7CO04axz10msX7LY3G7AFMAVi5pLg3JiBc0sNXncG+lUQA97VglBul0+upPoeWkWUJ8xL+GK+7REmcSQgm4sw8by+ZHZyslf/8WABQuy8t7/uuyRUWOc4;eH+tdKZdT8Qrzhl3amUPKw=="
+secured: "V5gkXYIX8ZI6PkLLDg0cN+7MfwQspSjj7K1wOH+Xt8Cgyhm+kHDje2owmT1qEQIFsoRipG6aK64pwUVtTfQVxoCWnRQbjxP8f3QQU9rLoVUekwvhucy3Ls9ZNQ39J49T0fRQ63WVwCBvgZSFc93V5vxYXF/9guwONYN8+YXCI7c1ju5rJJM+bcU5vI5EQngGyim51eJRyCbjJP0WtMV2nofMXdMDNgZ6zDhwcglQWqiZlwAsIseFr81nk3MWLqRam7CRMunsZ6Tq+FX3hyjn/3eBvqaKBJrBu6dLWJRN2vvo6526luuFNc7KRoHXp4+O;S0zrXlD7eJB+TuRz/b+H4Q=="
 ---
 

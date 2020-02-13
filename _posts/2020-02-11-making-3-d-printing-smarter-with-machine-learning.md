@@ -2,8 +2,8 @@
 category: news
 title: "Making 3-D printing smarter with machine learning"
 excerpt: "They must be discarded, presenting a significant environmental and financial cost to industry. A team of researchers from USC Viterbi School of Engineering is tackling this problem, with a new set of machine learning algorithms and a software tool called PrintFixer, to improve 3-D printing accuracy by 50 percent or more, making the process ..."
-publishedDateTime: 2020-02-11T22:20:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uosc-m3p021120.php"
+publishedDateTime: 2020-02-11T22:56:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-02/uosc-m3p021120.php"
 type: article
 quality: 39
 heat: -1
@@ -34,6 +34,6 @@ related:
       domain: techradar.com
     quality: 49
 
-secured: "MKBHo5cXwfwYHGFKJBHlYJU2fPmEzacBoGfZesgsxIQ5pFu5m9QZfcV/qQXGTwmaoi5zzmUoIR5qOiH2JjQTDpVYgZre8BL8q67DxxUHUCUqDBqgn4LqPznK73/oMKLVcSJ0rxhHP92P/K3FgU4VAOWwGnYaQSRBQBki6mzRkLsqJy7eI/8o32vmgIpZurSJl0npmi4Gwg/rLvaOLLKXY67TwVKoRbCGAwzmXcsjmTC3wiTUsR5uZ8iZ7Ydklz5d8j4AE2gAePc73FLo3kbq9IsZYqjgpsvWyYHVMZoaJceTBi76x1ymI9932Oi822zcZROlFOrroJAc/lPPqII5JJoayLDPi68ZukNuXUGuYQ/uCBAO90IxJTr+lOisQUPas85/gWcvLdY4iY3BxbK8O2p486a4p/i38giEfW1pxCKyFu1vgUD4eQkHFRFwYNJoeTXeolApgTI3rzBUgK1dZLVBR0xeu/alnZamDaHPNVY=;e3DfH3IpRh1S3s5+ySdRdw=="
+secured: "YD0Mf+CoMAWKmprQFtZ+mrV4eEg14PR3ynD7OdLzuCx4TDly45rk9yh8yw+vB6axB7oABQ9akZbHGyVPdeJ6cs/ElDb7BPsbVbLN0e6T8xh2m41xki5e150qUPBXjUWOtU4dvRPyBlpytkN9sK+be5PED4WMwUScKC4idjmnAx6bftF0eX/epVLx+wLinwqIzbwcAiGsOMCmuZXP8JHV0OhBr3FGTE+Mfx0Wi7Ft/Py367CpKUzYYUtf74USVRzhaHewBw4cFuOgNr6hgXe69FStyrTPl3ELh8+h19IAFZSQBjklUIcfAU1LruYk34zi;Fbm8V9ghYpfZKcSMJzi2Lw=="
 ---
 

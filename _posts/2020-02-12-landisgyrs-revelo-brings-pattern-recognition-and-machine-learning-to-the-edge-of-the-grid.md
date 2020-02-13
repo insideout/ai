@@ -68,6 +68,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
+  - title: "CHDI Foundation and IBM tracking the progress of Huntington's disease using AI"
+    excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
+    publishedDateTime: 2020-02-12T04:32:00Z
+    webUrl: "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 65
   - title: "An ultra-compact particle size analyser using a CMOS image sensor and machine learning"
     excerpt: "In this paper, we introduce the concept of a new particle size analyser in a collimated beam configuration using a consumer electronic camera and machine learning. The key novelty is a small form factor angular spatial filter that allows for the collection of light scattered by the particles up to predefined discrete angles. The filter is ..."
     publishedDateTime: 2020-02-12T12:55:00Z

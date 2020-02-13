@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Government releases guide for AI use in the public sector"
 
 related:
-  - title: "Government creates AI playbook for the public sector"
-    excerpt: "topics related to management of AI systems roll-outs is also covered; decisions around how projects run, team building and the actual implementation, as well as risk, governance, testing and quality assurance. The manual also provides advice on ethics and ..."
-    publishedDateTime: 2020-01-29T10:39:00Z
-    webUrl: "https://www.computerweekly.com/news/252477468/Government-creates-AI-playbook-for-the-public-sector"
-    ampWebUrl: "https://www.computerweekly.com/news/252477468/Government-creates-AI-playbook-for-the-public-sector?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477468/Government-creates-AI-playbook-for-the-public-sector?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg"
-        width: 1200
-        height: 400
   - title: "Tech leaders issue calls for AI oversight. Where should government begin?"
     excerpt: "In absence of regulation, business has sought to regulate itself. Some larger organizations are appointing a chief AI ethics officer or other similar oversight positions to focus on overseeing the ethical dimensions of AI, with a sharp focus on reducing bias and harm. Others, such as IBM, have internal teams working on an AI regulatory ..."
     publishedDateTime: 2020-01-30T16:49:00Z

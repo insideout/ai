@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Clearview’s Facial Recognition App Is Identifying Child Victims of Abuse"
-excerpt: "Though a breakthrough for law enforcement, the technique could allow the little-known start-up to collect an extraordinarily sensitive set of data and images. Law enforcement agencies across the United States and Canada are using Clearview AI — a secretive facial recognition start-up with a database of three billion images — to identify children who are victims of sexual abuse."
-publishedDateTime: 2020-02-07T15:06:00Z
-webUrl: "https://www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.html"
-ampWebUrl: "https://www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.amp.html"
+title: "Facial recognition could be temporarily banned for law enforcement use"
+excerpt: "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens."
+publishedDateTime: 2020-02-13T03:13:00Z
+webUrl: "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
 type: article
-quality: 188
-heat: 508
-published: true
+quality: 89
+heat: -1
+published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNET
+  domain: cnet.com
   images:
-    - url: "/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "/assets/images/organizations/cnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +24,27 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://static01.nyt.com/images/2020/02/07/business/07CLEARVIEW-01/07CLEARVIEW-01-facebookJumbo.jpg"
-    width: 1050
-    height: 550
-    title: "Clearview’s Facial Recognition App Is Identifying Child Victims of Abuse"
+  - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+    width: 756
+    height: 567
+    title: "Facial recognition could be temporarily banned for law enforcement use"
 
 related:
+  - title: "Clearview’s Facial Recognition App Is Identifying Child Victims of Abuse"
+    excerpt: "Though a breakthrough for law enforcement, the technique could allow the little-known start-up to collect an extraordinarily sensitive set of data and images. Law enforcement agencies across the United States and Canada are using Clearview AI — a secretive facial recognition start-up with a database of three billion images — to identify children who are victims of sexual abuse."
+    publishedDateTime: 2020-02-07T15:06:00Z
+    webUrl: "https://www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.html"
+    ampWebUrl: "https://www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 188
+    images:
+      - url: "https://static01.nyt.com/images/2020/02/07/business/07CLEARVIEW-01/07CLEARVIEW-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
   - title: "ACLU Said Clearview AI’s Facial Recognition Accuracy Study Is “Absurd”"
     excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and forced Clearview to remove it last month. Clearview AI, the facial ..."
     publishedDateTime: 2020-02-10T16:25:00Z
@@ -165,21 +180,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
         width: 1100
         height: 619
-  - title: "Facial recognition could be temporarily banned for law enforcement use"
-    excerpt: "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens."
-    publishedDateTime: 2020-02-13T03:13:00Z
-    webUrl: "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
-        width: 756
-        height: 567
   - title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
     excerpt: "Facebook has demanded that Clearview stop accessing or using information from its platforms after it scraped billions of images without permission."
     publishedDateTime: 2020-02-06T17:51:00Z
@@ -469,6 +469,6 @@ related:
       domain: dailymail.co.uk
     quality: 9
 
-secured: "agBh0DLPrJAJkwZ5sTzpdTQy5z2jt8CDSkNajrCGda9WCQemAERXQRO3iv5U/lTBjLlapoJXaFu2mvlQ2K9o/T/KiZhRvICiQwp66UhqfcBlU1t3esBvRfXGBHrSD2OXQeT7sgT4poH5KDYVBQfkxREh3nDJwaP16ZaVyht4QN6TTJ/ovK2VCUgMlc5OXVR7tsjKYKXZ6/cWLNbuYXgBmdywzEjZj5xY2cfI7YETVyG7+hnVWFvQ3TCxvk6SNMObM4K8gxGFhWlfYaIAjCEW0Shbr6VFVF7d7hdzbLzsaRCGKe3zDyE7nIIHIi2u8f0+G/jleymdSEutstJaNLvDmJ8EJM+Ivs9Nco9lwmBpXcSfiIKKSaHhKxeJjUq8owNEHA/Uj8qsJh74Gv+QQiItH6Zz6Sl4mp+G+B1YyIboEVOLT9PqbyeAKLLYAa9jrmivTMIayu13Gdq72rpYuYqTrE7Iw+4PjKgs2OAQVhj8OcvGiCcTEWLxtPjv5c5lUx5q;1B2pWuB8LlKtMgD3AWiH5A=="
+secured: "Q5xr+9DFtVehX79T98VeoEh9daGxIXfsFiQZH7r/z1LTwNiEpp3GDsSlb+p6c111x+muxMDIiiEcwTW9Rf4yGct2wv3tnbY+dD2idi3wrh59ifntTzhwgWRRkEFVeF+GiSng3JGLtKFvAou5krXaaHfeNN3TLihM22cRO5bB6G3q4NzcNRr6NfNSBUT9S2+iO2D7KqlSEjEJr8NpOxPS/iLAAq2qhO/8zdJEIMqZ2wQZlF2u1NxsnJmRbm+yoHODYbVZEvHpB9bPVzL+QXdsBvTT0n810+rtDnnGLLumtcWrVwNtYguzA08GmNB11WY1;2LazSu+orwxB0d1hJuqNaQ=="
 ---
 
