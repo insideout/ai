@@ -67,8 +67,8 @@ related:
         width: 1200
         height: 630
   - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
-    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look for patterns and model possible solutions in understanding health and wellness is a notable aspect bolstering the uptake of cognitive systems in ..."
-    publishedDateTime: 2020-01-29T12:14:00Z
+    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
+    publishedDateTime: 2020-01-29T12:11:00Z
     webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
     type: article
     provider:

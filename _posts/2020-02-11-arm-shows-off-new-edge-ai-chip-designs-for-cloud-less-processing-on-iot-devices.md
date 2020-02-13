@@ -56,6 +56,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/segars-2-e1580937121468.jpg?fit=1203%2C600&strip=all"
         width: 1203
         height: 600
+  - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
+    excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which ..."
+    publishedDateTime: 2020-02-13T03:13:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 70
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084133.Medi.jpeg"
+        width: 800
+        height: 448
   - title: "Arm launches new AI chip for small devices and sensors"
     excerpt: "Chips with this technology are scheduled to hit the market in 2021 and have been designed to carry out the advanced mathematics needed by artificial intelligence (AI) software in order to detect vibrations or pick out spoken keywords from a user."
     publishedDateTime: 2020-02-10T17:15:00Z

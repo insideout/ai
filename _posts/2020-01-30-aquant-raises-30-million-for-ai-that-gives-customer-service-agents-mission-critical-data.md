@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: BetaKit
       domain: betakit.com
     quality: 31
-  - title: "Intelligent Automation Is the Customer Service Differentiator For Banks"
-    excerpt: "Artificial Intelligence, Robotic Process Automation, Intelligent Automation, Blockchain, Tokenisation, Machine Learning - banks are struggling ... research by Capgemini estimated that the financial services industry could expect to add up to $512bn to ..."
-    publishedDateTime: 2020-01-29T12:22:00Z
-    webUrl: "https://www.finextra.com/blogposting/18388/intelligent-automation-is-the-customer-service-differentiator-for-banks"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "ixWcwVSdxhPnYJe2Erhpgq5LZEhK8KQRIFzd6sfjhZcLzsSJjdO6/QWcBzngR2+IewYlKJuZZyaWvRTiyLI5sqjK7EieD3Q2iHDAVCHcZOTyy3MbeUGHFlk16ia3FPb3AIiQCHzHvdF72h2y0y6SRbANh4MgJG05/dcwRUOevQROx6XKXRxXQFQTwGkwXbOPC8dfzCmGflnEaKVyZhpeP1GLcFaGuBMXdNnCEWh9NAbzXrp1uqG8ayzRZnzdz2mAsRmNX540XlYXq1dEnXAXZCH6yYta14z7wLNlpDlENP+tfki6Tq9BY8PKJcP42HG+cP6GpY/8KKgtEpDcbtYQyepFfVmS4gNBbL/WK+NcXTECkiKdsNnXH1y7COay1PJ++eg9Wgz72op2GEjewOvHSnHeGn1oXMFH3Bd29x1ou+v9bf3hPp/b0MDy1a1Vxv7PIQ3Oma7ISOWXZUmL6izuGO6vvXiysvDfq7jo9FEHQ1w=;Z+6JBBON+IU7wXLvK3Us7g=="
 ---

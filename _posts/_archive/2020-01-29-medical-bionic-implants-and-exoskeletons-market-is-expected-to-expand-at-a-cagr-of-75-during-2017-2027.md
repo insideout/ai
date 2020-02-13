@@ -47,6 +47,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "eHZuWXSojsnYA1pjZjI2qmckmA5/YPxjPoWNSXJGyUiNwYXwXgYImmox6Jahq/fXOOAy4CAP0bcg4eGHjhgFdsK6kukBzOgp6R8jxffRedPZNJmMbMvZKUH5zplN7C/wYpu2CeG01IBNt0sEJPB3wf6A1z1ooDsFXX3uKg83pe2In0nWXy4+21YpQP7aYb63/nZ7i7sO8XcCy6bRRt/+nPlzQnWqslf16mra3n3v/nrOgKY5mex1uCk4O9xVk5kfXHZQcroOU8DyuSlJ1FZtAriqHvq8+b9Bj3hwY0pE6TNymjzSEURcPsK+zxuvX/l9;bgdJsQ37Yi+k4YBt8ELD8Q=="
+secured: "q4Mxr+gq2sptWHqlOcYWtmq4Ma1ZiPt6OO60a1uIzxp5GgrAuzpPjRREtm0n9/AqBGq5u+Vc+UwhSDoNYsXwJcLIjPZHOZNrWPOylBfBSqh2EEOjqW4pQT5lHF7QCM56/NgOEEqmWSPt498TjGUedt+jUBVJGiKu/dY8CvUHYco6MC3DrecWxWuh5HoS/Zug4RF2r4+0CNJfF8WlMJlEerdv5PR8PvABFyXr6tLqbnAw1Sit9YoJIC2sffqOzM/SPDnq8r4dUqMA0LjqaxUNnLz8gw0NyvcPyRKb1bYIFzy4OPru1HAj6RhWBLpJCSgE;2w3Ul9E6hZSVyeNhL5qE8g=="
 ---
 

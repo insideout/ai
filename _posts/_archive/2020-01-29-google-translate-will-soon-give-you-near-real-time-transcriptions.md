@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Google Translate App Will Transcribe and Translate Calls in Real-Time"
-excerpt: "Having the ability to transcribe sales calls that are already in your language would be an excellent addition as well. It’s unclear at this time if the translation feature will require human editing. At the same event, Google showed off other AI projects, including health initiatives and touch controls that work on fabric reports CNET."
-publishedDateTime: 2020-01-29T13:28:00Z
-webUrl: "https://www.legitreviews.com/google-translate-app-will-transcribe-and-translate-calls-in-real-time_217177"
+title: "Google: Translate will soon give you near real-time transcriptions"
+excerpt: "That differs from Google Recorder, which can transcribe offline. Presumably at some point in the future Google will use its AI to perform live transcriptions of one language to another on the device. SEE: Hands on with the Langogo translator: the go-anywhere global language device But live transcriptions of audio from one language to ..."
+publishedDateTime: 2020-01-29T13:55:00Z
+webUrl: "https://www.zdnet.com/article/google-translate-will-soon-give-you-near-real-time-transcriptions/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-translate-will-soon-give-you-near-real-time-transcriptions/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-translate-will-soon-give-you-near-real-time-transcriptions/"
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Legit Reviews
-  domain: legitreviews.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://www.legitreviews.com/wp-content/uploads/2019/03/google.jpg"
-    width: 1080
-    height: 717
-    title: "Google Translate App Will Transcribe and Translate Calls in Real-Time"
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
+    width: 1200
+    height: 675
+    title: "Google: Translate will soon give you near real-time transcriptions"
 
 related:
   - title: "Google Translate App to Transcribe and Translate in Real Time"
@@ -39,36 +45,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200129163936-google-translate.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
-  - title: "Google: Translate will soon give you near real-time transcriptions"
-    excerpt: "That differs from Google Recorder, which can transcribe offline. Presumably at some point in the future Google will use its AI to perform live transcriptions of one language to another on the device. SEE: Hands on with the Langogo translator: the go-anywhere global language device But live transcriptions of audio from one language to ..."
-    publishedDateTime: 2020-01-29T13:55:00Z
-    webUrl: "https://www.zdnet.com/article/google-translate-will-soon-give-you-near-real-time-transcriptions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-translate-will-soon-give-you-near-real-time-transcriptions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-translate-will-soon-give-you-near-real-time-transcriptions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
-        width: 1200
-        height: 675
-  - title: "Google to facilitate real-time transcription for Google Translate app"
-    excerpt: "Currently, Google Translate, which is also powered by AI, can translate audio into more than 59 languages offline, according to The Verge. The transcription feature post-launch will only work for live audio. Users will not be able to translate and transcribe audio files through the Google Translate app using the feature as the app will only ..."
-    publishedDateTime: 2020-01-29T12:46:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/google-to-facilitate-real-time-transcription-for-google-translate-app/article30684492.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-to-facilitate-real-time-transcription-for-google-translate-app/article30684492.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-to-facilitate-real-time-transcription-for-google-translate-app/article30684492.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/yosahd/article30276718.ece/ALTERNATES/LANDSCAPE_615/google-searchesjpg"
-        width: 615
-        height: 384
   - title: "Google Translate is getting a real-time transcription feature"
     excerpt: "Updates added 60 languages and got rid of some of the feature’s bugs, including annoying flickering and shakiness. The Google Translate camera translation function also got an AI upgrade – now packing Neural Machine Translation (NMT) as standard. Google said this will reduce errors by 55-85% in some languages. Unlike other sites ..."
     publishedDateTime: 2020-01-29T15:44:00Z
@@ -127,6 +103,19 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/01/shutterstock_translate.jpg"
         width: 1000
         height: 563
+  - title: "Google Translate App Will Transcribe and Translate Calls in Real-Time"
+    excerpt: "Having the ability to transcribe sales calls that are already in your language would be an excellent addition as well. It’s unclear at this time if the translation feature will require human editing. At the same event, Google showed off other AI projects, including health initiatives and touch controls that work on fabric reports CNET."
+    publishedDateTime: 2020-01-29T13:28:00Z
+    webUrl: "https://www.legitreviews.com/google-translate-app-will-transcribe-and-translate-calls-in-real-time_217177"
+    type: article
+    provider:
+      name: Legit Reviews
+      domain: legitreviews.com
+    quality: 24
+    images:
+      - url: "https://www.legitreviews.com/wp-content/uploads/2019/03/google.jpg"
+        width: 1080
+        height: 717
   - title: "Google Translate Scores Real-Time Transcription Feature"
     excerpt: "With the tool, users will be able to transcribe live audio. As this is the company’s translation tool, it will transcribe in real-time from another language. The feature was unveiled at an AI event in San Francisco, although Google says it is currently in prototype. While Google has not confirmed, it seems the tool only works with live audio ..."
     publishedDateTime: 2020-01-29T16:01:00Z
@@ -163,6 +152,6 @@ related:
       domain: bangkokpost.com
     quality: 19
 
-secured: "lL0eleRSHgRZg4r852FT4eI2PewKfNczEDhz8vh2Q2VQxHgIz9C+puNcgtkgK+icfQ5JNCs5PrBJHwrBecy6ZByIuG87pc1XgkYsNMJ2SOH0sG6gYDXH1MAVjSoHfA/rhlWvOKIP3zsoKt32PNYRqQunPMETlqdJPs7B17w99Wvo5GXpG06OtXbFgRB5+EdERXE/jTihw6gB9mUPE0Vu6EOi08nAZkpkGaJKifNHStVtF9YN5OcrThqjhZYXJmvizCQp1VKin22yaSxavhUWghJpUbkV0QhTMtewSXFqdNS9XUMmSRkA+Zbkz1sgRpOJ66yLIkAqkNTi4iu9Fh/l3LGfRGbutzcllhp6hD3yWagnXFnu90I5EbT9gdoRIqFKyoXSm75kr3SLRfEbk36xtKu7iJPTQL7mHIRg6g0WTERXq7PoWDUz1IvVnbq/JAu5XhRhQ8StTq09BH5MbS1rR8UeuwHVYpMvN7MCfqNGVv8=;osEoU49bbsaiOzuV4WnnDg=="
+secured: "KXf5tTBzNiR1exWd95AbNU1oEnXXlHW6soTk6GylTCTIUWGsMifMZoKKIqV6LgqOkM90gqvzPpMYD395ORp5atPTSuNIWH2FaP2lqJdbuanR6gTHnUyt7rHPm/cJcaB0k5GOjXWgNmbi967ys8ghzOpzS+emw7+zPK9o2h+WuvqVDYj/0GMjcZ7Yj+g8Ya2pJpatz/UW384RE1ehNRkkSGkzOvnmu5I9CYQM7iSJab+DRIy8pIzJCLVmir/L/VCDkCOkJ3IQvbbeMLlg1VzJhRgCoQ7SBiwlAewgwlaGya1ADd0ds+WPxoZZIZF/Ky7DsI/kK5Ntj+AYU0P8XMTzduWqsXgrgOCiX2576fGTq2Y4fr/AnT5y4K6NSZdQxl8U5mOUdWnmrVEEFwzW17TwiV+WW655Va50gwEYn9t+MJH8ehfUSRTPBR71TsrhDR3zx3JZydddnN57tjYNUeQU99Qp6iApIOrMgFW5vTwiuzE=;4Zi5tdP8Kyp+dAWezR4rBQ=="
 ---
 

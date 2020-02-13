@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/345665"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345665"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
         width: 1200
         height: 675
-  - title: "Google to facilitate real-time transcription for Google Translate app"
-    excerpt: "Currently, Google Translate, which is also powered by AI, can translate audio into more than 59 languages offline, according to The Verge. The transcription feature post-launch will only work for live audio. Users will not be able to translate and transcribe audio files through the Google Translate app using the feature as the app will only ..."
-    publishedDateTime: 2020-01-29T12:46:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/google-to-facilitate-real-time-transcription-for-google-translate-app/article30684492.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-to-facilitate-real-time-transcription-for-google-translate-app/article30684492.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-to-facilitate-real-time-transcription-for-google-translate-app/article30684492.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/yosahd/article30276718.ece/ALTERNATES/LANDSCAPE_615/google-searchesjpg"
-        width: 615
-        height: 384
   - title: "Google Translate is getting a real-time transcription feature"
     excerpt: "Updates added 60 languages and got rid of some of the feature’s bugs, including annoying flickering and shakiness. The Google Translate camera translation function also got an AI upgrade – now packing Neural Machine Translation (NMT) as standard. Google said this will reduce errors by 55-85% in some languages. Unlike other sites ..."
     publishedDateTime: 2020-01-29T15:44:00Z

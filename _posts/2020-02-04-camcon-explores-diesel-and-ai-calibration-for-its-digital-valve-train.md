@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Camcon explores diesel and AI calibration for its digital valve train"
 
 related:
-  - title: "Blue Prism Adds Conversational AI, Automated Machine Learning and Integration with Citrix to its Digital Workforce"
-    excerpt: "The latest capabilities on the DX include dealing with conversational AI (working with chatbots), adding automated machine learning as well as new integrations with Citrix. With just a few clicks users can drag and drop these new capabilities into Blue Prism's Digital Workforce—no coding required. \"Blue Prism's vision of providing a Digital ..."
-    publishedDateTime: 2020-01-29T13:06:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-adds-conversational-ai-automated-machine-learning-and-integration-with-citrix-to-its-digital-workforce-300994967.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook"
-        width: 1166
-        height: 610
   - title: "Going digital: Singapore’s construction firms embrace artificial intelligence and virtual reality"
     excerpt: "The company reaped 45 per cent in costs and manpower savings since using AiR, said Ms Ng. AiR (Artificial Intelligence for Ready-Mix Concrete) is a centralised operation system for ready-mix concrete companies that manages ready-mix concrete batching plant production, oversee trucking fleet management, quality control and inventory management."
     publishedDateTime: 2020-02-09T22:35:00Z

@@ -37,19 +37,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-  - title: "Cognitive Data Management Market Future Scope – AttivioInc, CognitiveScaleInc, Cognizant Technology Solutions Corporation"
-    excerpt: "Ltd. The Global Cognitive Data Management ... Kingland Systems Corporation, Microsoft Corporation Market Segmentation: Segmentation by Component: Solutions, Data Integration and Migration, Data Governance and Quality, Others (Data Prep, Data Security, and Event Stream Processing), Services. By Business Function, Operations, Sales and Marketing ..."
-    publishedDateTime: 2020-02-12T21:03:00Z
-    webUrl: "https://apnews.com/6d03754c03ddf3ddd25e5258c04473bb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
 
 secured: "zXh8kWMyRXNkkNxyKRXmVix9XwWZhDJTO9R3ZcN+qTuHZ8gMS6hF2ZpSbmW6pzZTzZgT2JBjxYNLPJZgwk+wm8UXfsYLJoz37Zux3ZI0qgXD7F9HPHpQvbj24x8Y7zqQFhrzDiC7WnUQbP5kPAmeO+7VZA6mEmwlRv7zFFDpZOkFtHZDGFmC2zFgR/0vbkTeKhXV5X5yUCvInVjVD14eEdmsWhIcVTqI5UeI/6mSkt6lp8pDY5/+GCp80wM3fSI2a/Q+h8xSoyF/jrylvJaDTTETksdTbPrQoJoGCOs631FMFYO2w02Y5ekJR4q2HNuq;dcdR85qP2PTHDWFEGZB1Yg=="
 ---

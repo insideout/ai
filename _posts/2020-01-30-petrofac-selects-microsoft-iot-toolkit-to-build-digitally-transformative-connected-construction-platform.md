@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T17:06:00Z
 webUrl: "https://news.microsoft.com/en-xm/2020/01/30/petrofac-selects-microsoft-iot-toolkit-to-build-digitally-transformative-connected-construction-platform/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -26,23 +26,6 @@ images:
     width: 768
     height: 513
     title: "Petrofac selects Microsoft IoT toolkit to build digitally transformative Connected Construction platform"
-
-related:
-  - title: "Petrofac Selects Microsoft IoT Toolkit To Build Digitally Transformative Connected Construction Platform"
-    excerpt: "With the options to run SaaS or PaaS deployment models, solutions builders can deliver real edge intelligence to field operatives that allows better, data-driven decisions through machine learning and advanced analytics. Azure IoT Edge moves cloud analytics and custom business logic to devices for organisations that prioritise business insights ..."
-    publishedDateTime: 2020-01-29T12:49:00Z
-    webUrl: "https://www.albawaba.com/business/pr/petrofac-selects-microsoft-iot-toolkit-build-digitally-transformative-connected"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/petrofac-selects-microsoft-iot-toolkit-build-digitally-transformative-connected"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/petrofac-selects-microsoft-iot-toolkit-build-digitally-transformative-connected"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 42
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/Microsoft-PR-29Jan20.png?itok=1CdHDmOz"
-        width: 960
-        height: 540
 
 secured: "WDVR8zyNNMUWNT4RzI8c2rBTPqpcEvXZNUSHIvwW2hDt2Y472r0frkGr98+fkRkJK0M2x4+kuRrbLGdgnEIqEW9tzcc4B8kDpRW8D2yDhSK4RT5IcwWL1JPJwxkg6GK61JgOOv4hJb0+eruylnf80nCrxa28qUVfRuZTmSDc86Yglwpipd5D6yF7k6ZSIM6Uza/kg3v23RMy1g2LP2ZFrWZNEKOMR7uUvvk4vDZgr0H15mdEPDM30aRIT3cPKKBdTyJx4qtf056Lgk60Uyrt9z+BED+JjBvrm/vVNuKdLL3eN8BwxC+cJhiO6CF2U1qzNWuht4KQ/r1WAlhQn8FSNeNUT4BsE0WT1TF99yH6B0HYrFa4z55T0WuaFujJtOMVXaSX4jUjvzXEY8U3e6lthvxQyY8KKLpBfZbCg8eVScM2JZkX6OpoW7/WWZYuzwdNL8R6gNP6vB+IiZIH+kiUDyMdKZoeFhrH+eU4VNSl62M=;wYimSA5kuiJoPy2dvgdk5A=="
 ---

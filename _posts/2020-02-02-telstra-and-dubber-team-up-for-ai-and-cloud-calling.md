@@ -22,21 +22,6 @@ images:
     height: 533
     title: "Telstra and Dubber team up for AI and cloud calling"
 
-related:
-  - title: "Cloud9 and GreenKey team up for next generation voice trading"
-    excerpt: "The innovative solution will incorporate Cloud9’s C9 Trader voice collaboration platform, GK’s speech recognition (ASR) and natural language processing (NLP) engine with IPC’s Connexus Cloud financial ecosystem. The new solutions will allow customers to “voice populate” desktop applications for trade tickets, exchange clearing portals ..."
-    publishedDateTime: 2020-01-29T12:23:00Z
-    webUrl: "https://www.leaprate.com/financial-services/fintech/cloud9-and-greenkey-team-up-for-next-generation-voice-trading/"
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 24
-    images:
-      - url: "https://www.leaprate.com/wp-content/uploads/2020/01/Clearstream-and-UBS.jpg"
-        width: 730
-        height: 440
-
 secured: "xck0XFWKT1QHIwInQ2g2JzvD1j3jXvJSNP9QigzPkpBDUE9P7gbJ9WBSC2/WGkDAuXEcv3S+lfMz8QyikrbLP3cX1qxWY1WKnUHnMh5r0NRVM6eSBx25W+Fkawcg/4tiGFTaD1eJWG2ET0BQjasa8vValkgdGmUTGo37lGpP0ndcntF01nkgNiU5HEPPGHWt0MWs/m1wJ3h1pFcS27E6G4fqmku+gVCeyBQV2bJkiZoN3R3+CcydBR/3x9bO5yKpJl7s8KSss3K0hMtFVCAczbduQ9B/5Fqr3vNqc8/980Rr2BtREbiwFJiv9cLT3y1C;tijXedgRIaTt9pim49+CTw=="
 ---
 

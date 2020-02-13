@@ -52,15 +52,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
-    excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
-    publishedDateTime: 2020-02-12T20:51:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21998371/intel-angling-for-piece-of-selfdriving-market-with-new-processors"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 4
 
 secured: "Awf5kGfaDFHPo1BLeNRcoySmRzn4H0ESBS9yJtttrMV4AwptAQ8WE+ExaCDqkjC57z2Ubh69U/hht3rLDtASR5xp8EWuNsfuxUhFG6oPWT7uvgT6+jNngxpU7pR46veVI4xcLK2G/To90tTLDQJP0YSelFVjsC/VDqhP9LNf56jzNwSmjcEsiOgeBnizCoQTYjM0CIfunwHBB4n6KUa5Gwo4/MtmQH+7Truq9Y1KoSxLE2umKyTnSpfnSlXFRu9BPX+ybyNAEstT0FewAAF/O6c51DQ23sIgbR7tEUhwmiZDyPWDpqR+bp7dQkj//Q9uU/RC9uJM14p9NILwgV7HeRv37obaNQjWs1yhOR3p4WhXKexqd7xVdtN5PfZluVTMeH+n3axDEBGfgHCM1vsTsFutqnuO84uaP7v07GVmcZJ6etDE+cTs0jsvDZXL5T9twlqUPbXrgIBvP0p/w3ExavOeBJe473d45olKKukhS1k=;RdEjpirL+C38lKKGobSPRA=="
 ---

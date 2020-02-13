@@ -48,15 +48,6 @@ related:
       name: Military
       domain: militaryaerospace.com
     quality: 1
-  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
-    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
-    publishedDateTime: 2020-02-05T18:29:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "Q5LFiirCxMiuQdL5e5iFcMIN7xZ88VXMwjbVGGd+fzZHvQfx08rHjBpcUDvkyZ/KSqL0zEAVl8Wql+9MWH7iQHY1k3K16KTZkyQJiOGLPtJ0lre6q1LKqPVZpcC6dzTccWdfEVQ76Mt83nj7Qy3sHrly37xzAxJ+jafn+yiSqxBQIEIEHeEgzUaiPWvcjPpOO3qaFSe57OrdvuqyUcWsedUU2gh5zJbDmdNhwkP+XWFfFUc/Ae3Skaxt0ouL0ICCOIt3mVI1zJ40G6CSMh+6e/Y+810enoReePktIiZkajA1X32s4oIIqjt0DsY4oXvrnk3ODrTUIji5tZfKtfcI0nutgZLfBfjfYcwiGNNWDgMxNtwuqZ43pavllw6O6X558emDKiBJ4d0Ju1ejifF45tX5T0aYwUj9tAzsm5R0SBKxb4rCKhPlqoehIl7Qjtiq0H3GZPrsNoSovn5oc5W7x8kuLr3naLCB9ibEIr9q2J0=;Q8/acPIdWTasZG+3o4qqOw=="
 ---

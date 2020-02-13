@@ -56,15 +56,6 @@ related:
       - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
         width: 710
         height: 450
-  - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
-    excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
-    publishedDateTime: 2020-02-12T20:51:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21998371/intel-angling-for-piece-of-selfdriving-market-with-new-processors"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 4
 
 secured: "mqMnT+1VGXOkZ1A2dSMXIn9rVYJTkkcluw66GotzHjkgBbATTyMLFB1k8QjG3wYJMgM5RbKiw6hTEt1gWM0reObMwD12hJNNsIQKXWQumyxclNQ92RrgH0Rl3QLktTwXdKPfEbMOwx+HfGNiAhqfmJmxEE4kD9ba3sbAkq6QsRV5fFcTdL2jOzA4kDXt49HU7fVzKdxAWiidtgdkZ5oL5/RcgZlZTW4CGLepu5157rXxPdKVoo/rRpiyRfzNcQGdwS75dETQ050tQoRW30mEIpd+lCNzskfk10qwyXRJtKPx3tQ4pnI0QVKR33DgiLld;DiESd8q2JZaNzHeDZpPsJg=="
 ---

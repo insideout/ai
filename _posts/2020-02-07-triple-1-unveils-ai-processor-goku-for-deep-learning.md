@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-07T08:59:00Z
 webUrl: "https://www.bernama.com/en/business/news.php?id=1812202"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: bernama.com
@@ -24,28 +24,54 @@ images:
     title: "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning"
 
 related:
-  - title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
-    excerpt: "It may differ from the actual product.) - Development background In recent years, various companies have entered the AI chip market, including not only giant IT companies but also fast-growing start-ups in China. As competition for edge AI chip development intensifies, oligopoly supply by several major companies continues in the deep-learning ..."
-    publishedDateTime: 2020-02-08T00:26:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/triple--inc-announces-ai-processor-goku-for-deep-learning/article_070b466a-90ec-5054-bc5b-16e2a2c9413a.html"
+  - title: "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge"
+    excerpt: "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ..."
+    publishedDateTime: 2020-02-13T04:54:00Z
+    webUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/"
+    ampWebUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 35
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 105
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-  - title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
-    excerpt: "/PRNewswire/ -- TRIPLE-1, Inc. (henceforth \"TRIPLE-1\"), based in Fukuoka, southwestern Japan, has announced the development of the AI processor \"GOKU\" for"
-    publishedDateTime: 2020-02-07T07:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/triple-1-inc-announces-ai-processor-goku-for-deep-learning-that-uses-worlds-cutting-edge-5-nanometer-process-301000799.html"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "Here comes a chip designed for AI, 5G era"
+    excerpt: "It is going to power the upcoming Mi 10 smartphone from the Xiaomi stable. The chip takes less power yet offer faster data access speeds. DDR5 DRAM or Double Data Rate 5 Dynamic Random-Access Memory, will accelerate enablement of 5G and AI applications,” Raj Talluri, Senior Vice-President and General Manager (Mobile Business Unit) of Micron ..."
+    publishedDateTime: 2020-02-07T04:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/here-comes-a-chip-designed-for-ai-5g-era/article30759113.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/here-comes-a-chip-designed-for-ai-5g-era/article30759113.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/here-comes-a-chip-designed-for-ai-5g-era/article30759113.ece/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 74
+    images:
+      - url: "https://www.thehindubusinessline.com/opinion/7xd79r/article29214263.ece/ALTERNATES/LANDSCAPE_615/BL22THINKGP2"
+        width: 615
+        height: 384
+  - title: "Arm unveils AI chip for small devices"
+    excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
+    publishedDateTime: 2020-02-10T14:53:00Z
+    webUrl: "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
+  - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
+    excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
+    publishedDateTime: 2020-02-12T20:51:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21998371/intel-angling-for-piece-of-selfdriving-market-with-new-processors"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 4
 
 secured: "Iu605j+85lhbDaUy+pyiKqHTa5ZuwOeJgsrKkLbgimetQRslEjbgzqTzuBiws3m0qXLiXSDqBh04V1JcNRaWb4BChstSsaeBVrhE8cYTjw1xaqJs7KawgbAqaYmva4a9/3UXT/yR+e239pg0nCu+nifwa/ynto340i1eFRWLilasK8uc88+z8ARLbS9NRkGQ6zBDODizd1MgY9RXw3eh0ASqzT4X+2xkFGUxsU7tjh7emG5lHHW7iwKM8TJxg86/fnijkY3woip2VvclSu/ucMdh9oMyOCNWv2tpVPZbeT98cq7ueLef/kD23SSkhTHO;0znwIXWY6cK0pUGBefYaRQ=="
 ---

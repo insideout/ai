@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/01/31/with-googles-meena-are-ai-assista
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/with-googles-meena-are-ai-assistants-about-to-get-a-lot-smarter/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 631
     title: "With Google’s Meena, are AI assistants about to get a lot smarter?"
-
-related:
-  - title: "Google’s next virtual assistant could chat your ear off on just about any topic"
-    excerpt: "Google today shared what it has been up to, and in a published paper, details a “human-like” chatbot called Meena that can “engage in conversation on any topic.” Meena, unlike its peers such as Google’s own Assistant ... virtual human. Google’s Meena likely won’t make it to your devices anytime soon. But it’s that clear in the ..."
-    publishedDateTime: 2020-01-29T12:24:00Z
-    webUrl: "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/"
-    ampWebUrl: "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 148
 
 secured: "8DCDeDwYgj0Z0gW1/8uUV+aeAo2aSxpJ0A6aKZCZw/bJILaGRRPr588yHVXwzY8bOWQcRmQqoc9RmO/JCMPpXNMcV5qxaBGkCl1fk47nWlxAjGtvggZTnNliES5Z2Gmz7kW96k8uTsuVBArgWj6XgrXbWgKaWfC8/rt3OkdURubRU7Udrf3fpDMESNgiHHMys79xwFHVg3p2APN5tFAmqc5zH3UFt+5uxY686Whtc/zrAtJcxg71M/zuNGzwhaRmlCF/ZlyQ4yonRYdq+N76OwHwSqEsO7RQZ02gT91Ahn6ETkpZfA8qA03H7zCBD8p97Y6cDCe5AxsKILOorgSjx8y1Xo8MaGLQ96UQf6d7W9o1TUbx337/hx+sLLJ1SW1gCOCmHJ10kJrR636YNHuV8FNmj7TvpxT+KgxgYxbz8L3RpeVATn/oaKwoSzxgTwTGTqT4+SBxXkqUc/eSJRogJTznn1CUtvmGig/LJgHn6wU=;FbsGm5zPQ2yBsP4/5wVnIw=="
 ---

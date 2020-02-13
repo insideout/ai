@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T17:40:00Z
 webUrl: "https://www.embedded-computing.com/news-releases/farnell-showcasing-next-generation-technologies-in-ai-and-machine-learning-connectivity-sensing-and-power-at-embedded-world"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,34 @@ images:
     width: 380
     height: 500
     title: "Farnell Showcasing Next-Generation Technologies in AI and Machine Learning, Connectivity, Sensing and Power at Embedded World"
+
+related:
+  - title: "Deep Learning with Spiking Networks: Optimising Energy Consumption"
+    excerpt: "There are several important differences between what is nowadays known as a “neural network” (in the deep learning sense) and networks of neurons in the brain. A particularly evident one is that artificial networks have analogue activations — the output of an artificial neuron is a continuous number. Biological neurons, conversely ..."
+    publishedDateTime: 2020-02-12T22:58:00Z
+    webUrl: "https://medium.com/@martino.sorbaro/deep-learning-with-spiking-networks-optimising-energy-consumption-50588b4435fd"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*kfFVkqlme7mqJvfySyfXcg.jpeg"
+        width: 1200
+        height: 644
+  - title: "Making 3-D printing smarter with machine learning"
+    excerpt: "They must be discarded, presenting a significant environmental and financial cost to industry. A team of researchers from USC Viterbi School of Engineering is tackling this problem, with a new set of machine learning algorithms and a software tool called PrintFixer, to improve 3-D printing accuracy by 50 percent or more, making the process ..."
+    publishedDateTime: 2020-02-11T22:56:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-02/uosc-m3p021120.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/223987_web.jpg"
+        width: 720
+        height: 360
 
 secured: "0QecKAF20kMInTFuRYpcO+HiA/JeRxBK60W0Oq8WAfVZKhASjfRo3Zmrk4mv2558PU30xpjy/fRD4KjgZuhf3yamM57AJwsg4W1mNzCsHOrR0h+canbLgtVUpmca15Fr9Z+5T1z/v2GE52Z0R+AOlg9rZoPwwc34kp5yhmn8vM8Jzms0VcGJ3Juumyn94qIl/815qcsSlfhlELKCOONPSS62A12miAxnOiNzFeqI2Ht3YMk0gME99d5lcBg84p0O5/biXJ9h8MBi0BtCQmktLkaiRqgBAsUjVVWWD4Rv2pkE8xvpoHF8H0iXZMR4ivOm4ZhLbCuy/sXbUT+gbu3MSmQWUryv17DCVXC3rhkRcym5XB6qaD+WvgVO4Tv5wEcVFlFaDlcCaMq9gWXW0E19hDAmUzorINiWbGESor/ZW3xi++YfW+H3U83lkjKDXbAyDzL7mWzqDYmiHKHPLajPks9i1q+h69cmlU3vRT11BoQ=;PXoHX6yHOUq5LPG9ZNlGAg=="
 ---

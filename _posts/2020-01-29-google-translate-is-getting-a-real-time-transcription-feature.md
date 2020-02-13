@@ -56,21 +56,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
         width: 1200
         height: 675
-  - title: "Google to facilitate real-time transcription for Google Translate app"
-    excerpt: "Currently, Google Translate, which is also powered by AI, can translate audio into more than 59 languages offline, according to The Verge. The transcription feature post-launch will only work for live audio. Users will not be able to translate and transcribe audio files through the Google Translate app using the feature as the app will only ..."
-    publishedDateTime: 2020-01-29T12:46:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/google-to-facilitate-real-time-transcription-for-google-translate-app/article30684492.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-to-facilitate-real-time-transcription-for-google-translate-app/article30684492.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-to-facilitate-real-time-transcription-for-google-translate-app/article30684492.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/yosahd/article30276718.ece/ALTERNATES/LANDSCAPE_615/google-searchesjpg"
-        width: 615
-        height: 384
   - title: "Google Translate Will Soon Transcribe Full Speeches, In Context"
     excerpt: "Unlike previous iterations and Google Translate features, the latest incoming change is designed to transcribe speech into a second language with contextual awareness. Namely, Google hopes to leverage its AI algorithms centered around speech to automatically correct for translation errors. More concisely, the tool will analyze speech in real ..."
     publishedDateTime: 2020-01-30T19:10:00Z

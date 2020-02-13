@@ -32,15 +32,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Intelligent Automation Is the Customer Service Differentiator For Banks"
-    excerpt: "Artificial Intelligence, Robotic Process Automation, Intelligent Automation, Blockchain, Tokenisation, Machine Learning - banks are struggling ... research by Capgemini estimated that the financial services industry could expect to add up to $512bn to ..."
-    publishedDateTime: 2020-01-29T12:22:00Z
-    webUrl: "https://www.finextra.com/blogposting/18388/intelligent-automation-is-the-customer-service-differentiator-for-banks"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "rcnDZRFGNKSv2VeQd6i2GAHnV/HQaARJ8Iu4thLyi4pO0kq2tP8hUejLdwI19ZaYS6MFja8pZMCqgf2hekgEcdIumQpWdu8vQ2C5069wotKtHzdvW3KrRyvtUeTGIfw4YKGWOcYZJmYrlwHvWh323cviKkMa4UJmWt5Pt2Sg4IfWKm9I/PRsAoE3npPIei56guv2WuwP3m1p7d+vCQpUZVImnhWMzc1Mf3/V8n6S+u08XdNnBCsX/0bsvV003h3dMbUi4xEwZ7vDJ/kUSSYaj0OTSYScctxjGK42nABD9ZAjj0ctF4cj+ieP5mvekMzeLqDaldtPAI7ik3vVeOuM9h/MLYZ6T/7HtTe4ieFcU9pkJfJhby9ucsOXHqBUY+jPZazbszK5xVIWx3xd1CQbghyvNIYN7ZP/iSDDiPVIt4bnqfd/1BHt2thnULbMZMWZhFY+FXwLioyHaBddxclBrItCGSa218KYMhXAOcTfA9E=;+sHp+3/Kcmvx11TL4uWQXw=="
 ---
