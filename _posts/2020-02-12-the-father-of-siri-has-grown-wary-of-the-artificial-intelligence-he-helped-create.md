@@ -5,8 +5,8 @@ excerpt: "The trials are done on millions of people, a sample size that's imposs
 publishedDateTime: 2020-02-12T18:25:00Z
 webUrl: "https://www.wweek.com/technology/2020/02/12/the-father-of-siri-has-grown-wary-of-the-artificial-intelligence-he-helped-create/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://www.wweek.com/pb/resources/assets/img/fallback-promo-image.png?token=false"

@@ -65,21 +65,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F06%252Fc6%252F5335378eb82744b8b802e7bfae6244aa.18786.jpg%252F1200x630.jpg?signature=83PU2mA_LKCXx5zQ3q2x6kyFAW4="
         width: 1200
         height: 630
-  - title: "Facebook pays up $550M for facial recognition privacy lawsuit"
-    excerpt: "The settlement came after Facebook was sued for collecting facial recognition to use in tagging photos, which allegedly violate the Illinois Biometric Information Privacy Act. Tagging someone in a photo on Facebook creates a link to their profile, with the feature finally made opt-in by Facebook last year. Facebook's photo tag suggestions come ..."
-    publishedDateTime: 2020-01-30T00:50:00Z
-    webUrl: "https://www.cnet.com/news/facebook-pays-up-550m-for-facial-recognition-privacy-lawsuit/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-pays-up-550m-for-facial-recognition-privacy-lawsuit/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-pays-up-550m-for-facial-recognition-privacy-lawsuit/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/OuRTFSmFooRflzSwadCV9-V6BUk=/756x567/2019/07/30/27163252-b429-4e86-95e2-e8fa06b82912/facebook-american-flag-logo-2.jpg"
-        width: 756
-        height: 567
   - title: "Facebook forced to pay $550 million settlement over facial recognition lawsuit"
     excerpt: "Facebook is going to have to pay quite a few people money as part of a facial recognition settlement. The catch is, however, you have to live in Illinois. Since Illinois has some of the strictest biometric privacy laws, a 2015 lawsuit alleges that the social network violated these laws in Illinois through the use of facial recognition ..."
     publishedDateTime: 2020-01-30T15:39:00Z

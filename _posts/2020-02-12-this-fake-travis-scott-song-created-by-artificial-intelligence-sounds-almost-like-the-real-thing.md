@@ -7,7 +7,7 @@ webUrl: "https://genius.com/a/this-fake-travis-scott-song-created-by-artificial-
 ampWebUrl: "https://genius.com/amp/a/this-fake-travis-scott-song-created-by-artificial-intelligence-sounds-almost-like-the-real-thing"
 cdnAmpWebUrl: "https://genius-com.cdn.ampproject.org/c/s/genius.com/amp/a/this-fake-travis-scott-song-created-by-artificial-intelligence-sounds-almost-like-the-real-thing"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.genius.com/61ab3433c52a2c0af8abcd351e5884f2.900x500x1.jpg"

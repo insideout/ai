@@ -1178,15 +1178,6 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 16
-  - title: "Facebook agrees to $550 million settlement in facial recognition class action lawsuit"
-    excerpt: "Three Illinois residents sued Facebook under a state law, the Biometric Information Privacy Act, one of only two in the nation to regulate commercial use of facial recognition. The class action, which involved gathering facial data for a feature that suggests the name of people in users’ photos, could have exposed Facebook to billions in damages."
-    publishedDateTime: 2020-01-30T01:05:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/01/29/facial-recognition-lawsuit-facebook-paying-550-million/4615655002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 12
   - title: "Editorial: Implementing facial recognition tech would be a violation of students’ privacy"
     excerpt: "That is, UCLA is watching you. New policies for the implementation of facial recognition technology were introduced in drafted revisions to UCLA Interim Policy 133, which governs the university’s management and use of security camera systems. The Campus Safety Alliance, which first received the draft from campus administrators in December ..."
     publishedDateTime: 2020-01-30T07:08:00Z
@@ -1215,6 +1206,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "JKYIIZH6dWUcqaN0AcEou64yhu0Upi2I7nI7uWdYC8ETgRbkvwWa/YBimkQVyYd8n6lLD7n6LNngc/9A7aA4zct3QvZgKpHEdbaG3NGPcDs4e59mfAR8yr6V08hV4iuj5Ka/wQdloNfVQEopbmVJ9I1G5GKERAQCreLTD9fxMViKv2R7hyW7ubK82vkH35tkxyPYrjdXPJ96yi8mQjUqRJsoH2Yr6CzzkJRgE2R4JzLxWJmOeYYAjpqXmgOGNwmyGLBjFOzGJSAKSvY3zbRDFdSDN15m7BdKi7EBqNMZnBP4Tz1r17h+OEhfvK/R0Gve;9zKXW6GLaCQJXhDXjCqf8g=="
+secured: "BVjdOG3UuDFQ9kEtK9QaCFr2sJcqLlSESBpWEZkw6K/WJ9xY60ORFCBXjjW5VML3ueq3exLd+0I/cvwffXBs+w82C2QUqv8we1jGbl6aeMeeVjGIcgEaCGKOhRgvGgm4NLKWEP5mz2Hi6dSoK425r+mBKhQA6d447twEzkFJhuBEYY7+m/By0fbRLA+pBY4c1M37fmalTPcqP8gwIqPiW4O0l0bnbcW651tB4mkiynEMP75J22M7nZ+G4WGWlOVv9BhhtwPkF/9nFxHQf5uPlQOrIEmj9PRMlMtnRKYsJs22rUv5odn09BqTqrxnywh+;kds2mzoDsMhocXhA0/rICQ=="
 ---
 

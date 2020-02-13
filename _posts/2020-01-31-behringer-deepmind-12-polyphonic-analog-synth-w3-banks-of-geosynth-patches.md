@@ -31,15 +31,6 @@ related:
       - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32517_197.jpg"
         width: 720
         height: 405
-  - title: "Easy Juno 106 Sounds From Your DeepMind"
-    excerpt: "Momo tells us that the DeepMind - Juno 106 Editor is a VST, AU and Standalone overlay midi editor that allows you to control the DeepMind 12 controls that are necessary to create the Juno 106 sounds. It is compatible with DeepMind 6 and DeepMind 12D A ..."
-    publishedDateTime: 2020-01-30T01:07:00Z
-    webUrl: "https://sonicstate.com/news/2020/01/30/easy-juno-106-sounds-from-your-deepmind/"
-    type: article
-    provider:
-      name: Sonic State
-      domain: sonicstate.com
-    quality: 19
 
 secured: "xVqRPDLa/LQmDN0Ii0omWbqAiyLJISHBEUWXr4MfblXZKCMDF5WpMo6L4st3XvuT7WtaopBuh6jqD0F33DQTOHXO/KRjJbElM4j0Und04LAcuWgdF+O7ag16XC0Ly1gmE+ui8jmOkmAQiT0U0lFuKl9sr3Nm/DiBB0Uh0D7N1LaVulKIVGBSbyWJ3Qo1elkq2x46Yh2KMGXaA3Y5zuOnotCGSal7dMDwW/u5Op0sweboYjkZxDumVn4wWbvVpNS84SRL9QEt+4vZRHlhG/uTvGzFLIB9wVMvlRFpUPQIw5gk5Ob0bZle605JPPb08ARjyCnKonsq1tNKKsCAZiICcD/loe4ngLSdSy8aJLwbaA0H3ayc7PNcfBFZj7a9wpG253Qgv3p15b7KjM5IKQ5H9vlMGuydZFKt8RMbySBFJvb992rxx689HFX8lVm7tueTPSYQ1lx/RvLvSplGYI0wa3alU9m6yAXL9blZ53blw/Y=;ayFwV+m/2T8AwhJXyFYvbQ=="
 ---

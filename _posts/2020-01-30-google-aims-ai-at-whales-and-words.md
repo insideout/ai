@@ -31,19 +31,6 @@ related:
       - url: "https://www.phnompenhpost.com/sites/default/files/field/image/google_engineers_are_also_exploring_using_ai_to_help_with_medical_diagnostics_such_as_detecting_signs_of_cancer_or_eye_disease_in_scans._afp.jpg"
         width: 990
         height: 660
-  - title: "Google aims AI at whales, words and well-being"
-    excerpt: "Google on Jan 28 provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... managers,\" Google said. Another AI team showed how Google translation software that already lets ..."
-    publishedDateTime: 2020-01-30T01:12:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/01/30/google-aims-ai-at-whales-words-and-well-being"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/01/29/531769.jpg"
-        width: 1240
-        height: 864
 
 secured: "O/VPv+4mieMyPl8CnP/UIellfKacSHMCVWpGbIE3JTiOhlu790htp7+Vhx/KBlK7dvujiGHIpjPaWJ2oc60PstNXCFYSRYGlf6+dZuEUReexzoiz8spB+xm8jVQ5h8WZE9jn3uu2MY/qimdZAL5YpstW8LsYa4h4M2T/9roCLIADKUsgxpBRQ9YucNp9oU8hBYHhqFB1atqlgrq4GlVGHO6JQi8vLZQTBX8zJ+trx8RFmDcIqlJJOveDhGz7REPIogbrGtmzBpkdjSbzpsjIB+GfTLSvGa+Y+o6wbthxzVuhq+cYypeWj1FZoC/TJpH1uAR7sXhe2ee8OxLAEqX/zLZgW6ZFQHc3ySkPxO01Rk+1+aGewI5W4oyUMBipHuyCKhZBdPWxn0A4iAKIVj8d25LMU+BaCMwQ4K8Lm+Ezt7yTY3BfnBbOoEUdg6u63NbZoZSxq5jRBf1lg0qWu6+rbor1g0A9sOZjIvm/QQs2oc4=;evRLjcKXOldId7aqzPiqog=="
 ---

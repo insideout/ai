@@ -1172,15 +1172,6 @@ related:
       name: Racing Post
       domain: racingpost.com
     quality: 19
-  - title: "Facebook agrees to $550 million settlement in facial recognition class action lawsuit"
-    excerpt: "Three Illinois residents sued Facebook under a state law, the Biometric Information Privacy Act, one of only two in the nation to regulate commercial use of facial recognition. The class action, which involved gathering facial data for a feature that suggests the name of people in users’ photos, could have exposed Facebook to billions in damages."
-    publishedDateTime: 2020-01-30T01:05:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/01/29/facial-recognition-lawsuit-facebook-paying-550-million/4615655002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 12
   - title: "Editorial: Implementing facial recognition tech would be a violation of students’ privacy"
     excerpt: "That is, UCLA is watching you. New policies for the implementation of facial recognition technology were introduced in drafted revisions to UCLA Interim Policy 133, which governs the university’s management and use of security camera systems. The Campus Safety Alliance, which first received the draft from campus administrators in December ..."
     publishedDateTime: 2020-01-30T07:08:00Z

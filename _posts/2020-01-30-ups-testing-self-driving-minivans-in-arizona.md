@@ -26,21 +26,6 @@ images:
     title: "UPS testing self-driving minivans in Arizona"
 
 related:
-  - title: "Self-driving Waymo minivans will assist UPS with deliveries"
-    excerpt: "It's not just people who get to experience self-driving minivans in the Phoenix area. On Wednesday, Google spin-off company Waymo announced a partnership with UPS, the package delivery service. Soon, Waymo's self-driving Chrysler Pacifica minivans will be moving packages around instead of humans. The autonomous driving company is more than a ..."
-    publishedDateTime: 2020-01-30T00:21:00Z
-    webUrl: "https://mashable.com/article/waymo-ups-autonomous-delivery/"
-    ampWebUrl: "https://mashable.com/article/waymo-ups-autonomous-delivery.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-ups-autonomous-delivery.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F29%252F92%252F1adb436cf38e4b8ba6ab5feee3237afa.7da77.jpg%252F1200x630.jpg?signature=xF6AUmM-vbSssyr5JnsUmU94XQM="
-        width: 1200
-        height: 630
   - title: "UPS Teams Up With Self-driving Company Waymo For Package Delivery"
     excerpt: "(RTTNews) - UPS (UPS) said that it has partnered with Waymo, the self-driving arm of Google's parent company Alphabet, to pilot autonomous vehicle package pickup in the Metro Phoenix area. Starting in the coming weeks,"
     publishedDateTime: 2020-01-30T03:37:00Z
@@ -71,21 +56,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483128662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0S1ZS"
         width: 817
         height: 545
-  - title: "Self-driving Waymo van, 2nd vehicle collide in Tempe"
-    excerpt: "PHOENIX – A self-driving minivan and another vehicle collided in Tempe late Thursday but no one was seriously injured, police said. The driverless Waymo van and the car crashed near Warner and Rural roads. The van was carrying one passenger. The driver was taken to a hospital but the injuries weren’t life-threatening. Neither the driver of ..."
-    publishedDateTime: 2020-01-31T14:36:00Z
-    webUrl: "https://ktar.com/story/2952852/self-driving-waymo-van-2nd-vehicle-collide-in-tempe/"
-    ampWebUrl: "https://ktar.com/story/2952852/self-driving-waymo-van-2nd-vehicle-collide-in-tempe/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/2952852/self-driving-waymo-van-2nd-vehicle-collide-in-tempe/amp/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2020/01/waymo-screenshot-.jpg"
-        width: 620
-        height: 370
   - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
     excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
     publishedDateTime: 2020-01-31T11:52:00Z
@@ -155,6 +125,19 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/634/14634/WaymoUPSPartnership_Still.jpg"
         width: 752
         height: 423
+  - title: "UPS, Waymo partner to start self-driving package pickup"
+    excerpt: "In the Arizona pilot, the vehicle will drive autonomously with a Waymo-trained driver on board to monitor operations. UPS invests in technologies that bolster its tightly integrated smart global logistics network. Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone ..."
+    publishedDateTime: 2020-02-06T03:22:00Z
+    webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
+    type: article
+    provider:
+      name: Fibre2Fashion
+      domain: fibre2fashion.com
+    quality: 39
+    images:
+      - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
+        width: 710
+        height: 450
   - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
     excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet, in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed. UPS has been ..."
     publishedDateTime: 2020-01-30T18:45:00Z

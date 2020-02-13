@@ -5,7 +5,7 @@ excerpt: "She will use her computer science and engineering skills to apply mach
 publishedDateTime: 2020-02-13T15:06:00Z
 webUrl: "https://www.unr.edu/nevada-today/news/2020/emily-hand-research"
 type: article
-quality: 8
+quality: 10
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: "https://www.unr.edu//main/images/news/2020/Feb/MPLGroup.jpg"

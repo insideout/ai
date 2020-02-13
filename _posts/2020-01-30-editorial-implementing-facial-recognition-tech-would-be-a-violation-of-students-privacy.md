@@ -1181,15 +1181,6 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 16
-  - title: "Facebook agrees to $550 million settlement in facial recognition class action lawsuit"
-    excerpt: "Three Illinois residents sued Facebook under a state law, the Biometric Information Privacy Act, one of only two in the nation to regulate commercial use of facial recognition. The class action, which involved gathering facial data for a feature that suggests the name of people in users’ photos, could have exposed Facebook to billions in damages."
-    publishedDateTime: 2020-01-30T01:05:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/01/29/facial-recognition-lawsuit-facebook-paying-550-million/4615655002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 12
   - title: "Ban cops from using facial-recognition tech, lawmaker says"
     excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
     publishedDateTime: 2020-01-30T03:32:00Z

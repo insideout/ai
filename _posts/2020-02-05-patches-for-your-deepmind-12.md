@@ -24,15 +24,6 @@ images:
     title: "Patches For Your DeepMind 12"
 
 related:
-  - title: "Easy Juno 106 Sounds From Your DeepMind"
-    excerpt: "Momo tells us that the DeepMind - Juno 106 Editor is a VST, AU and Standalone overlay midi editor that allows you to control the DeepMind 12 controls that are necessary to create the Juno 106 sounds. It is compatible with DeepMind 6 and DeepMind 12D A ..."
-    publishedDateTime: 2020-01-30T01:07:00Z
-    webUrl: "https://sonicstate.com/news/2020/01/30/easy-juno-106-sounds-from-your-deepmind/"
-    type: article
-    provider:
-      name: Sonic State
-      domain: sonicstate.com
-    quality: 19
   - title: "Behringer DeepMind 12 Polyphonic Analog Synth w/3 banks of GEOSYNTH patches"
     excerpt: "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message."
     publishedDateTime: 2020-01-31T03:20:00Z

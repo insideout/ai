@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Fintech startup Ramp aims to disrupt the corporate credit market"
-excerpt: "Ramp investors include veteran fintech investor Keith Rabois of Founders Fund ... and engineers from Facebook AI Research, Google Research, Capital One, Goldman Sachs, Apple, and Lyft. \"Most companies in Silicon Valley are quite wasteful with their ..."
+excerpt: "Ramp investors include veteran fintech investor Keith Rabois of Founders Fund ... the first business hires from Plaid and Atrium, and engineers from Facebook AI Research, Google Research, Capital One, Goldman Sachs, Apple, and Lyft. \"Most companies in Silicon Valley are quite wasteful with their spending, however, without access to the ..."
 publishedDateTime: 2020-02-13T11:23:00Z
-webUrl: "https://www.finextra.com/newsarticle/35282/fintech-startup-ramp-aims-to-disrupt-the-corporate-credit-market"
+webUrl: "https://www.finextra.com/newsarticle/35282/fintech-startup-ramp-aims-to-disrupt-the-corporate-credit-market?member=92212"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Finance
 
-secured: "VKWg6WDqf8xNFVhFX+ZyrZlPS1NUdAyyAgq+Kn5IBAaTk0HeP9SGksPq521M0HJpRl8ByqF5y04tVHJaVgz7xqIOa2hMIYCk6LEpxu4kkLhZsGo3Omj+C4oFSfs8DnGL68ErtOIOHIyZ1x6EQpBNJSMyQZIYR4fyEu3mu8FWZJGBov6tnGWoGMi+P16UHpcpOfyS1b5PNkRIqEyMqJyc1M70AfEX8DI21cx9ikM//D2mhdR5mCZfyomAKsLahfAi10ovupSmjqkJtcd54NZ4z9CVFLYi5vAjgsXoED3ulMBfMWpC/NhTLfU8EXSCaG0noeMngJMQJfGVKUe92Kbyndj5pVpcH9U3f2PhxxviwNx2FOnAyrXhp43t/Hwj5XQMLeWotF4m1DGgg7MV4dZUNyBpyIuGq2kBt3yJpHreDxOz7V2LNP/OfFKWQ966H64qhPtla1NPX7p9kRhLPIT4uHC7vTyVbYgajKNXlJIc6b8=;iLvjYDgP41/wnydqgQBEeQ=="
+images:
+  - url: "https://www.finextra.com/finextra-images/top_pics/xl/money2.jpg"
+    width: 480
+    height: 270
+    title: "Fintech startup Ramp aims to disrupt the corporate credit market"
+
+secured: "J34/EAYCrX0g/itXolXK4z1FP0gXix7X3Ivm+ZF4RA/11IfKMLMu2iC877XzTXRpOzW3kzx594LHxWlEHSCbBMqAmjFfgXkl6lfHPdGJHUXSLlza49P4lhbRKw/zA1JpInYtbxPFZYemh0eag60Rne9edJNSssbIaFEaI3Ku1Pc9N+mq1wqXewc8JhcRQ6lU0F5bltXdZ37R4KHlJDEespNc33gIUrAvSUjJJFRQTRVyGIfbxcrI53PP/r7uGbg/hgsFSFMIkwZxoM0Frg8khfdrV4bT9O+3ZIa3FBSMVj/5/uOQrORj6qaSypFAxdrW;P8f30hXCy4WGAcFKQ2uxLQ=="
 ---
 

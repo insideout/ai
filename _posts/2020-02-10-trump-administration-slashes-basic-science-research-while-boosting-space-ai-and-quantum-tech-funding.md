@@ -37,7 +37,7 @@ related:
     provider:
       name: unr.edu
       domain: unr.edu
-    quality: 8
+    quality: 10
     images:
       - url: "https://www.unr.edu//main/images/news/2020/Feb/MPLGroup.jpg"
         width: 900

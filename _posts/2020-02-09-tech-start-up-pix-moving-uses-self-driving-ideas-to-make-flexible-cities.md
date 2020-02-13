@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-driv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities"
 
 related:
-  - title: "UPS, Waymo partner to start self-driving package pickup"
-    excerpt: "In the Arizona pilot, the vehicle will drive autonomously with a Waymo-trained driver on board to monitor operations. UPS invests in technologies that bolster its tightly integrated smart global logistics network. Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone ..."
-    publishedDateTime: 2020-02-06T03:22:00Z
-    webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
-    type: article
-    provider:
-      name: Fibre2Fashion
-      domain: fibre2fashion.com
-    quality: 39
-    images:
-      - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
-        width: 710
-        height: 450
   - title: "Self-driving Cars market 2019-2025 emerging industry trends focuses on growth factors by major players Toyota, BMW, Volvo, Mercedes-Benz, Audi,"
     excerpt: "Ongoing Trends of Self-driving Cars Market :- Automatic/Self Driving Car is a vehicle that is capable of sensing its environment and navigating without human input. Autonomous vehicles feel their surroundings with such techniques as radar,"
     publishedDateTime: 2020-02-03T10:26:00Z
