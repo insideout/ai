@@ -24,6 +24,17 @@ images:
     title: "Machine learning implemented for quantum optics by Skoltech scientists"
 
 related:
+  - title: "Machine learning implemented for quantum optics"
+    excerpt: "As machine learning continues to surpass human performance in a growing number of tasks, scientists at Skoltech have applied deep learning to reconstruct quantum properties of optical systems. Through a collaboration between the quantum optics research laboratories at Moscow State University, led by Sergey Kulik, and members of Skoltech's Deep ..."
+    publishedDateTime: 2020-02-13T12:21:00Z
+    webUrl: "https://phys.org/news/2020-02-machine-quantum-optics.html"
+    ampWebUrl: "https://phys.org/news/2020-02-machine-quantum-optics.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-machine-quantum-optics.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
   - title: "Machine learning implemented for quantum optics by Skoltech scientists"
     excerpt: "As machine learning continues to surpass human performance in a growing number of tasks, scientists at Skoltech have applied deep learning to reconstruct quantum properties of optical systems. Through a collaboration between the quantum optics research laboratories at Moscow State University, led by Sergey Kulik, and members of Skoltech's Deep ..."
     publishedDateTime: 2020-02-12T19:21:00Z

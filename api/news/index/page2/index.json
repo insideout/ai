@@ -2,177 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-01-31-laszlo-bock-thinks-machine-learning-can-make-work-better.md",
-      "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
-      "excerpt": "A Google veteran’s new firm uses artificial intelligence to send employees ‘nudges’ to prod them toward changes likely to produce a happier workforce",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
-      "publishedDateTime": "2020-01-31T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://si.wsj.net/public/resources/images/B3-FZ452_BOCK_SOC_20200128171741.jpg",
-          "width": 900,
-          "height": 471,
-          "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-31-mastercard-invests-in-ai-based-startup-trust-stamp.md",
-      "title": "Mastercard Invests in AI-Based Startup Trust Stamp",
-      "excerpt": "Meanwhile, the payments giant is intensely getting involved in modern technologies including AI and blockchain. It was a part of the Facebook-led Libra Association but pulled out from the consortium to save itself from regulatory backlash. The company also tied with R3 last year to develop a blockchain-based cross-border payments system.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/",
-      "publishedDateTime": "2020-01-31T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2016/01/m246689.jpeg-copy.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Mastercard Invests in AI-Based Startup Trust Stamp",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-31-misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology.md",
-      "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
-      "excerpt": "The first step, which is the most important, is to view the enterprise AI challenge as a business problem instead of a technical problem.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
-      "publishedDateTime": "2020-01-31T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/921518908/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-31-not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs.md",
-      "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
-      "excerpt": "AI comes in many different forms, and identifying which type is most suitable for a particular use case isn’t always easy.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
-      "publishedDateTime": "2020-01-31T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/888421376/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-31-oscar-nominated-live-action-shorts-tragedies-near-tragedies-and-soccer-loving-kids.md",
       "title": "Oscar-nominated live-action shorts: Tragedies, near-tragedies and soccer-loving kids",
       "excerpt": "The five live-action short films vying for the 2020 Oscar either dance on the border of tragedy or fall headlong into it ... “I heard the recording of the emergency call on YouTube and it stuck with me for months,” said Girard. “I started to create a back story to every character so I could understand them and find their own particular ...",
@@ -204,7 +33,7 @@
       "path": "_posts/2020-01-31-russias-use-of-facial-recognition-challenged-in-court.md",
       "title": "Russia's use of facial recognition challenged in court",
       "excerpt": "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ...",
-      "heat": 1139,
+      "heat": 1119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bbc.com/news/technology-51324841",
@@ -2100,6 +1929,169 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-03-what-robotics-biggest-raises-tell-us-about-the-industrys-future.md",
+      "title": "What robotics’ biggest raises tell us about the industry’s future",
+      "excerpt": "It is, perhaps, an arbitrary distinction that has more to do with the way we categorize technologies — placing them in automotive or mobility, as opposed to robotics. Artificial intelligence ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/03/what-robotics-biggest-raises-tell-us-about-the-industrys-future/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-459796142.jpg?w=601",
+          "width": 601,
+          "height": 399,
+          "title": "What robotics’ biggest raises tell us about the industry’s future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-5-reasons-why-ai-may-dazzle-only-to-disappoint.md",
+      "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
+      "excerpt": "In my experience of advising and consulting with several companies on AI strategy, I have observed five reasons that prevent AI initiatives from delivering the desired business outcomes.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/",
+      "ampWebUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
+      "publishedDateTime": "2020-02-04T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177116437%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis.md",
+      "title": "AI can help early start of radiation therapy, prevent cancer metastasis",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicaldialogues.in/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872",
+      "ampWebUrl": "https://medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872",
+      "publishedDateTime": "2020-02-04T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026.md",
+      "title": "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026",
+      "excerpt": "Global AI In Fintech Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries, Product types and end industries.",
+      "heat": 279,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

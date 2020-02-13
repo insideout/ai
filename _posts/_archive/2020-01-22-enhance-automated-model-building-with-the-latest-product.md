@@ -5,8 +5,8 @@ excerpt: "FREMONT, CA: The global artificial intelligence (AI) company,SparkCogn
 publishedDateTime: 2020-01-22T00:00:00Z
 webUrl: "https://www.cioreview.com/news/enhance-automated-model-building-with-the-latest-product-nid-30206-cid-133.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://www.cioreview.com/newsimages/special/4hxC0X38.png"
-    width: 300
-    height: 300
-    title: "Enhance Automated Model Building With the Latest Product"
-
-secured: "nNPrIKkjUf+xskzAq+K+mmwoqKG3zDYeeW/U+osjGvA/SifjT+TlGIw3XYBr8mWeWICN0vhWBBe3J9Xl9gVfwuWGMIzrmY2hLe9Sk2HS6M382+1KSno7pJuLMxnPPUM8feu4zvs2D+H5xQRN8dj6pJuoPJ3h/xMVqZN8BwJuX/iMSiLrfJuLc+lZshCVbjxUYi5vsCjiXg7E0Sim7I0y52sTGr6Bv1LWWC/uWwunyCYfiXwyNBoqZD+57J4kkLa2eQ+UQ3sFp/DDr/poGc6Bdzpyi2F13BZ2mSQZxlXKWH4fp8M7A96P3TgjmLQaDDdU;qJMsWD9IivxSCNclvKIoPA=="
+secured: "PJELMJ1xZfuUKYDn+TU7R4Ba4EvIB/3+7/j8Lg2zIospn82h6Gx9CUsB9D50N2ozGs2hEh5xVSznXFcj76BJ1Q40nZCgbu/RTfg/vVhAj19t+XPbuGey93BNcXHO+4JqQOJs9YReYd7dyO2CLWH7wSou5ydj+iZQtmZWqspexBdquX//8L4raElFR9SHCM0V0cXS2SJ583IstD7QKSZvOGEqq1j7Uhiq+ildDfb77LbG3x/duZEqUbiRS/oMoClZo9Yz2uD8RpwaTDFD1FUWJcZQajoAnWRI9BuQHZfRCSkjOuzufOcrefRZXZJJf8vl;UpX+ZS1GDx1y4j6aUZqmlQ=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
 
-secured: "zODJhUS+u7Fk1ipTaLSF2y16vLvmUJAcINY+RYFmcMxFKRwRfrurF5MuNLOvY0tnUvj/abxdKcC0Z+9V5yzHyIx+yzE5Mk/gve8t0I4wd+H52Fxwc9Ze0GbQ7Ndi1dFV6D/PA7w2CLYesviS4K+sB+cvRpEGPLTwTAUmkYIA/vZNC27ZU6VgyFk6xafCFe34L8GDCkEl/VNnLHNLfSxfZa66cMk5CSRPg5eaQu6cT7aEzn2YXlj7bwpCzciQLmawr3eyucW9aBgXtA1m3RzfCIaav2dOpdt2EH0uO7umOL49TWLmAUMhETeM6bz6liAI;28GYaf6ECR+7iWXG4s3Rzg=="
+secured: "MMVUCCT1bnFhkm67hOXARs+utoVD9EKsM9GYRqj4CEjjvxaV+JOY9UYqIGQG6ap2ZlTjlSi0QIP7Z259j6fSqdupVSDn9Zl/O4Xh5B9eLMkI3lTwONbBYxp62HiGnvZj3ttqFBSGySZ9P9ehRYHBpPe5hffrPlK8ZIENlaXzIdxCq7QRwWfGrU3n7CWxuyvRsDjvRv8VNYv3ZWimzr8lv5vgIsJwykcWwECzIfdyaljDoRFBPBWsQoddkqXRIyfd3KB7zPAlk8U7nqETC9Mn8dk0UMyNk4SzK5CtOVX3v13XtMT16Rb/ecyZVPdurMv3;nmx9hFi/gTyIuQ79N4FmGA=="
 ---
 

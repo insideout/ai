@@ -86,6 +86,15 @@ related:
       - url: "https://media.bizj.us/view/img/11480968/rob-glaser-ceo-realnetworks-01*600xx4965-3310-9-0.jpg"
         width: 600
         height: 400
+  - title: "Rights groups join student demands to bar facial recognition at colleges"
+    excerpt: "The ACLU, EFF and several other groups sign a letter of support for the student demands. Students shouldn't have to worry that colleges and universities are tracking their movements with facial recognition,"
+    publishedDateTime: 2020-02-13T11:09:00Z
+    webUrl: "https://www.cnet.com/news/rights-groups-join-student-demands-to-bar-facial-recognition-at-colleges/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 48
   - title: "Facial recognition provides big boost in finding lost pets"
     excerpt: "Hardin County Animal Care and Control is taking advantage of a new tool to help locate and identify lost dogs and cats. The shelter recently announced its partnership with Finding Rover, a company that uses facial recognition imaging systems. According to ..."
     publishedDateTime: 2020-02-06T09:55:00Z

@@ -4,12 +4,10 @@ title: "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores fund
 excerpt: "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)"
 publishedDateTime: 2020-01-20T00:00:00Z
 webUrl: "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
-ampWebUrl: "https://www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
 type: article
-quality: 76
-heat: 86
-published: true
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: CNBC
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104874500-GettyImages-647709384-pony-ma.jpg?v=1532563719"
-    width: 2004
-    height: 1336
-    title: "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars"
-
 related:
   - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
     excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
@@ -40,6 +32,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "vrDs4wSZ7fV0/YKfZmDUkVmCJAXIfLxd7K8yhsXEDbaXCYkB7MavR1r6NDoioZ4/Zr/tIuHaT5TKAyYVGXaN5x13bLl2rW7fLtIqdDfDjGMHsKMiUVepQh/Ir6Qn7kGhsei6Qof2w3K8s+TqmtUtAywYc1yBOPJwlzVeIiuqOBFpUtGltbg3OayoeqQp1cRBXsMDzsKGRyyPRXbhhGSguGMWXJZrToHDV5sBnEogxQjSHoJkjzAsIdiToXL8RvobEAkkzarsXw5XS+KHIPmj1y54tSdVDN3Muhz5u1+YCYKlhsn3+IIMDWhAfzK54Okn;QORqNsCZ2zt5h65Kje3+rw=="
+secured: "lsNaomO2XaU6tmBEW0hQU6deAAigDqffgbdAPR25yhGYNVT4RcXZfd8mj4/YPfbWTvjr+NZHfJ1TQKheWMS2yH4LJiky0ONZ/iyZuVpqm8emti0/g5YbCNk8bCecha6sbBSLsFeDkzoahVqn1DDztuIuedlcuuY87werwbxnbaDIm4y1WNXCSCIbDvHR+S1olXyStt9bzMUnP0IqeLvXokn5rt7v9R/X4JQP1bSR208H9ztb/zkj3u3zmCrlePnBOWXZZaomEVmQogCs4DnmtckgQ2POn3Bf36iFE7u9oJ70CtKG7VHrfwoXfF0X614c;GSyFqrH3F35FSlLAidRCCw=="
 ---
 

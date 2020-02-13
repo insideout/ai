@@ -69,6 +69,15 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Rights groups join student demands to bar facial recognition at colleges"
+    excerpt: "The ACLU, EFF and several other groups sign a letter of support for the student demands. Students shouldn't have to worry that colleges and universities are tracking their movements with facial recognition,"
+    publishedDateTime: 2020-02-13T11:09:00Z
+    webUrl: "https://www.cnet.com/news/rights-groups-join-student-demands-to-bar-facial-recognition-at-colleges/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 48
   - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
     excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
     publishedDateTime: 2020-02-11T22:23:00Z

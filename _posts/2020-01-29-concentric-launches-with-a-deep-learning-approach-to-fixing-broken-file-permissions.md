@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T22:08:00Z
 webUrl: "https://siliconangle.com/2020/01/29/concentric-launches-stealth-deep-learning-approach-fixing-broken-file-permissions/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     title: "Concentric launches with a deep learning approach to fixing broken file permissions"
 
 related:
-  - title: "Nest is testing detecting HVAC problems with AI"
-    excerpt: "Google today announced that it’s testing AI algorithms tailored to identify “unusual patterns” related to HVAC systems controlled by Nest, which can alert users to issues and put them in touch with a maintenance professional. Based on information like the thermostat’s historical data and current weather, Nest will learn to spot patterns ..."
-    publishedDateTime: 2020-01-29T18:25:00Z
-    webUrl: "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/"
+  - title: "Concentric launches with a deep learning approach to fixing broken file permissions"
+    excerpt: "To combat this significant threat, Concentric is the first company to leverage deep learning capabilities to identify and autonomously quantify risk by developing an accurate and detailed semantic understanding of all data. The company uses these insights to efficiently and effectively protect business-critical data and meet security ..."
+    publishedDateTime: 2020-01-31T02:25:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/01/31/concentric-semantic-intelligence/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 33
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/01/nest-thermostat-google-smart-home.jpg?fit=1280%2C600&strip=all"
-        width: 1280
-        height: 600
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg"
+        width: 304
+        height: 430
 
 secured: "BlqBirsGpc5MMb/UUTQI0KH2doSpmzVt9I9I8enPk5H9g1LSxroGoeapy3VTv0XOFhg8wW9ON90u3fmcTq1bWKyLweJYBr1OiIRiILwZO1wmMMw2cPbeRMwbAVgIGTjxdc/sSz4GexCivFsj9OORTK263F+FDJhJRjgT29HBIldEeC1PXaZPqnzQQvqw9REb7HDnG7Irr+01u0YIh4OjG7G/EeReLfBXikxTEArBfaVSJhTq2BkLAJgnPlWiYrKphnX0kEkC+//DLlcv/o73Kc8vF/PEbBfWfkwIRq67YZvgDalEHqEoIXM28TIkfE9yZ0vp8rPPfekNBz7tQdckTC4fJTf0XUTh48wFapuX5Xbag1XHBtT93GtVTkM2lDBz+beld9jOoVdgfwuxZzilPvYXJgF6bSZ5seGL695EE35+gyQN2pwI4yS15nhVZfuK99fCMGW8c0J4Nb1VEpx+n+PanxsB8t97SEQBB15Ruv8=;j5OgoxRvVhh+Rfc+L8P6/w=="
 ---

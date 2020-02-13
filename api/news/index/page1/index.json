@@ -129,96 +129,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-29-google-looks-ahead-to-the-next-decade-of-ai-research.md",
-      "title": "Google looks ahead to the next decade of AI research",
-      "excerpt": "Google's already making strides on this front, with on-device translation services offered in 59 different languages. While Google and the industry at large have made significant strides in AI in the past few years, public awareness of the technology's potential drawbacks -- and corresponding regulation -- is only now beginning to catch up ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-looks-ahead-to-the-next-decade-of-ai-research/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/",
-      "publishedDateTime": "2020-01-29T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2016/07/21/0de0545b-b157-4463-ab44-1d34e8507596/thumbnail/1200x675/b8e69dc3d17f34f561a14663a253b409/twittersign-28.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google looks ahead to the next decade of AI research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-here-are-the-7-biggest-fintech-trends-to-watch-in-2020-according-to-a-centana-growth-partners-exec.md",
-      "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
-      "excerpt": "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1",
-      "ampWebUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
-      "publishedDateTime": "2020-01-29T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5de57a1efd9db2771d15a925?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/2020-01-29-house-ethics-committee-warns-lawmakers-against-posting-deepfakes.md",
       "title": "House ethics committee warns lawmakers against posting deepfakes",
       "excerpt": "The House Ethics Committee is advising lawmakers against posting manipulated videos and photos on their social media accounts, warning they could face repercussions for tweets and Facebook posts that",
@@ -253,88 +163,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-microsoft-q2-2020-earnings-369-billion-in-revenue-driven-by-big-azure-surface-growth.md",
-      "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
-      "excerpt": "It doesn't appear the Surface Pro X is one of the currently supported devices for Microsoft's Surface Dock update tool. Microsoft today announced a new addition to its AI for Good program. Called AI for Health, the initiative will see Microsoft invest $40 million over the next five years to improve health outcomes for people around the world.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.windowscentral.com/microsoft-q2-earnings",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-q2-earnings?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-q2-earnings?amp",
-      "publishedDateTime": "2020-01-29T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-object-recognition-is-the-answer-heres-why.md",
-      "title": "Object Recognition Is The Answer, Here’s Why",
-      "excerpt": "From all of the different sensors out there, and all of AI's capabilities, which has the highest likelihood to help solve a problem?",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/",
-      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
-      "publishedDateTime": "2020-01-29T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Object Recognition Is The Answer, Here’s Why",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -778,7 +606,7 @@
       "path": "_posts/2020-01-30-artificial-intelligence-in-healthcare-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
       "title": "Artificial Intelligence In Healthcare Market- What Are The Main Factors That Contributing Towards Industry Growth?",
       "excerpt": "Jan 30, 2020 (AmericaNewsHour) -- A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market. The report analyzes the artificial intelligence in healthcare ...",
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-30?mod=mw_quote_news",
@@ -1520,7 +1348,7 @@
       "path": "_posts/2020-01-30-punxsutawney-phil-should-be-replaced-with-ai-groundhog-says-peta.md",
       "title": "Punxsutawney Phil should be replaced with AI groundhog, says PETA",
       "excerpt": "Instead, says the organization, Punxsutawney Phil should be replaced with an animatronic groundhog that uses AI to actually predict the weather. “Times change. Traditions evolve. It’s long overdue for Phil to be retired,” PETA president and founder Ingrid Newkirk, wrote in a letter to the The Punxsutawney Groundhog Club. “By creating an ...",
-      "heat": 259,
+      "heat": 249,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
@@ -2172,6 +2000,177 @@
       "topics": [
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-laszlo-bock-thinks-machine-learning-can-make-work-better.md",
+      "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
+      "excerpt": "A Google veteran’s new firm uses artificial intelligence to send employees ‘nudges’ to prod them toward changes likely to produce a happier workforce",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "publishedDateTime": "2020-01-31T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/B3-FZ452_BOCK_SOC_20200128171741.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-mastercard-invests-in-ai-based-startup-trust-stamp.md",
+      "title": "Mastercard Invests in AI-Based Startup Trust Stamp",
+      "excerpt": "Meanwhile, the payments giant is intensely getting involved in modern technologies including AI and blockchain. It was a part of the Facebook-led Libra Association but pulled out from the consortium to save itself from regulatory backlash. The company also tied with R3 last year to develop a blockchain-based cross-border payments system.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/",
+      "ampWebUrl": "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/",
+      "publishedDateTime": "2020-01-31T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2016/01/m246689.jpeg-copy.jpg",
+          "width": 880,
+          "height": 400,
+          "title": "Mastercard Invests in AI-Based Startup Trust Stamp",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology.md",
+      "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
+      "excerpt": "The first step, which is the most important, is to view the enterprise AI challenge as a business problem instead of a technical problem.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
+      "publishedDateTime": "2020-01-31T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/921518908/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs.md",
+      "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
+      "excerpt": "AI comes in many different forms, and identifying which type is most suitable for a particular use case isn’t always easy.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
+      "publishedDateTime": "2020-01-31T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/888421376/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

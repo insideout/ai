@@ -82,6 +82,15 @@ related:
       - url: "https://media.bizj.us/view/img/11480968/rob-glaser-ceo-realnetworks-01*600xx4965-3310-9-0.jpg"
         width: 600
         height: 400
+  - title: "Rights groups join student demands to bar facial recognition at colleges"
+    excerpt: "The ACLU, EFF and several other groups sign a letter of support for the student demands. Students shouldn't have to worry that colleges and universities are tracking their movements with facial recognition,"
+    publishedDateTime: 2020-02-13T11:09:00Z
+    webUrl: "https://www.cnet.com/news/rights-groups-join-student-demands-to-bar-facial-recognition-at-colleges/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 48
   - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
     excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
     publishedDateTime: 2020-02-11T22:23:00Z

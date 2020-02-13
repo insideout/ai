@@ -1,29 +1,26 @@
 ---
 category: news
-title: "PETA wants Punxsutawney Phil replaced with robot because news conference causes too much 'stress'"
-excerpt: "The electronic canine, whose name translates to 'companion' in Japanese, and which is also an abbreviation for 'artificial intelligence bot' interacts with humans and has the ability to learn. It was unclear whether the robot is smart enough to predict how long winter will last, a skill Phil is traditionally celebrated for every year on ..."
-publishedDateTime: 2020-01-29T19:24:00Z
-webUrl: "https://www.dailymail.co.uk/news/article-7943799/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
-ampWebUrl: "https://www.dailymail.co.uk/news/article-7943799/amp/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7943799/amp/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
+title: "No more Punxsutawney Phil? PETA says an AI groundhog is 'long overdue'"
+excerpt: "For well over a century, the weather-predicting ritual on Feb. 2 has remained more or less the same: In the forests of western Pennsylvania, a group of bearded men in black top hats and suits lifts one very famous groundhog from a stump,"
+publishedDateTime: 2020-01-29T20:35:00Z
+webUrl: "https://www.chron.com/news/article/No-more-Punxsutawney-Phil-PETA-says-an-AI-15012971.php"
 type: article
-quality: 46
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Mail Online
-  domain: dailymail.co.uk
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://i.dailymail.co.uk/1s/2020/01/29/19/24044436-0-image-a-81_1580324907986.jpg"
-    width: 636
-    height: 382
-    title: "PETA wants Punxsutawney Phil replaced with robot because news conference causes too much 'stress'"
+  - url: "https://s.hdnux.com/photos/57/10/05/12353887/3/rawImage.jpg"
+    width: 2048
+    height: 1366
+    title: "No more Punxsutawney Phil? PETA says an AI groundhog is 'long overdue'"
 
 related:
   - title: "Punxsutawney Phil should be replaced with AI groundhog, says PETA"
@@ -159,21 +156,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/895a56d/2147483647/strip/true/crop/1024x576+0+30/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F17%2F8b%2F580caf7847b0af70cd5cffab8dc3%2Fgettyimages-1092707002.jpg"
         width: 1280
         height: 720
-  - title: "PETA is calling on Punxsutawney Phil to retire and be replaced with robot"
-    excerpt: "PETA suggests that instead, the Punxsutawney Groundhog Club get hip to existing technologies and create a groundhog with artificial intelligence that could reliably predict the weather. “An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony’s robot dog ‘aibo,’ which walks, plays, misbehaves ..."
-    publishedDateTime: 2020-01-29T18:16:00Z
-    webUrl: "https://wgntv.com/2020/01/29/peta-is-calling-on-punxsutawney-phil-to-retire-and-be-replaced-with-robot/"
-    ampWebUrl: "https://wgntv.com/2020/01/29/peta-is-calling-on-punxsutawney-phil-to-retire-and-be-replaced-with-robot/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/01/29/peta-is-calling-on-punxsutawney-phil-to-retire-and-be-replaced-with-robot/amp/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 58
-    images:
-      - url: "https://tribwgntv.files.wordpress.com/2020/01/punxsutawney-phil.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "PETA requests Punxsutawney Phil to be replaced with robot due to ‘stress’"
     excerpt: "The People for the Ethical Treatment of Animals (PETA) sent a letter to the Punxsutawney Groundhog Club requesting that the groundhog should be replaced with a robot. The letter signed by PETA President ... “We even have the technology to create an animatronic groundhog with artificial intelligence (AI) that could actually predict the weather."
     publishedDateTime: 2020-01-31T15:23:00Z
@@ -243,19 +225,21 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "No more Punxsutawney Phil? PETA says an AI groundhog is 'long overdue'"
-    excerpt: "For well over a century, the weather-predicting ritual on Feb. 2 has remained more or less the same: In the forests of western Pennsylvania, a group of bearded men in black top hats and suits lifts one very famous groundhog from a stump,"
-    publishedDateTime: 2020-01-29T20:35:00Z
-    webUrl: "https://www.chron.com/news/article/No-more-Punxsutawney-Phil-PETA-says-an-AI-15012971.php"
+  - title: "PETA wants Punxsutawney Phil replaced with robot because news conference causes too much 'stress'"
+    excerpt: "The electronic canine, whose name translates to 'companion' in Japanese, and which is also an abbreviation for 'artificial intelligence bot' interacts with humans and has the ability to learn. It was unclear whether the robot is smart enough to predict how long winter will last, a skill Phil is traditionally celebrated for every year on ..."
+    publishedDateTime: 2020-01-29T19:24:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7943799/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7943799/amp/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7943799/amp/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 46
     images:
-      - url: "https://s.hdnux.com/photos/57/10/05/12353887/3/rawImage.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://i.dailymail.co.uk/1s/2020/01/29/19/24044436-0-image-a-81_1580324907986.jpg"
+        width: 636
+        height: 382
   - title: "PETA calls for Punxsutawney Phil to retire, be replaced with AI robot for Groundhog Day"
     excerpt: "PETA suggested that instead of live animals, the Punxsutawney Groundhog Club use “technologically advanced electromechanical devices such as animatronics” with artificial intelligence could reliably predict the weather. “An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony’s robot dog ‘aibo ..."
     publishedDateTime: 2020-01-29T23:54:00Z
@@ -266,6 +250,6 @@ related:
       domain: fox7austin.com
     quality: 26
 
-secured: "DlDhtu/5Jqj/ENEmiY1HHXHGwdkpuu8uNz9VvKbIQz+YrXXhYWWSy7G7P0L4iPVy9cy50XSe2ZQylc0aT+T3FQqT39rzs09kJarKEpnqHhrM8ijlZWYrdenVZVHIXsO0vigQpRlIuNjqTFS6yeedSV6W7AUi9zQ4jP53Zul2iBgFTR27asXmo2p6NyazXhX7gHACoMJ5G6NLPVWxKldF48gdy0fcJNr9y7cN9UE8VtYhZaZ1aF5j6kKshKYxgHgJoDRb0d4MWPElJtmyo1onNCPzuJYWUeOA1uXqI3NPWJtOtX5sm3NHoyTZNadXg/pr;1sLbL25YQtNe6FyzY1AibQ=="
+secured: "IAaDnpGBcgRp4ybaO0VuB483rvplTKSqdkptlHMcMM0B2fjMiBpYTu0s6vnJMO9ZKP4tip//2EdhcgRV1FAithRH3MgoBNVuqo/kIiEhUHwqwFUVWC25EdwS32QSJqAdH8xm7Al9rgNMfLWXIU3cQifqdHqGvMLvRHIDa+zphTvg+qYDJVkBxcvjA6KGha56XqICqBNV66lgybplggJS9Fs5zQ2ueIxoDZBMQvB1J0HLx4NM81TPl248tH2mNdTAj9LzmwP5r+8yxb/VdnBU7mM2eAnoUgam3SpTlrFBb++pWcNYUWCf+3piQGfFgBXD2awwCb+re2wYXToXw6yZjJnLcgLf7DJCFgVubR0+dsY9xBy6ydNDe/bbi19JS+xUchtm2Wg4yoL0MA5kFAr6L+gFWvV4uNKk6CZS1ZneRliz0e+wihIDMNGG4qHuPSdL4P0pfcFiI1UkVZkU499aWZ09XUrDQ5Br9CcQLPTqO4Q=;C8CubUDUFpMex2dmA8orQQ=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 1050
     title: "New research shows what AI can teach us about the human brain"
 
-secured: "tr8ASp6RWEs0BT0eJ/rMySw7oOQ9Ixd3FxEUHKmvLQQ/bScG8buzgp+IZJagnSVxN6J/F9qcEnWCjmI3StLLnIgst2SH+2NNznP5Vs+erXaZmA5gyWm/sD3GXWaDvOoGv6FHwbddMNva18i7sfTqkC7Dq6Flai98boX7qfakOnZx9cOOgd1jJK2f7IvRHWq5me9cmAsrGfDKCx8KtYU0odLIFn4TZh9C9eR75SJoEUHFaony9dMbyGZ72voWCXsHLOKKhfMy1n7WVAGWxaQoe3MeqpmQLRPde/67+phMB+4zKkUzdCAjw9U69uy25uak;vyy9bCTFVKEzuAuHgCCSXQ=="
+secured: "Q1YlIhHzJttCgyVuYnSgRAcD85e8UhsZue1XpVIGMVm4dsNNuEFLKFONGaR8ac4GrTsboYDsezH6SuEAsFpFvNnkS9tagx9WSFD8B3fC4L09Iii0ey6cdCIyryECkN+XYVbbTjJ4eH+cztxE/elSzdsi3QdigcNxqsPyFf7/xwX+b7B5FY3CfrYKUepr4mrv5Tb8FPX7/yEpIrL3W/C8AeD3Q/1SaugJZWFeC+jZk+szh9TwF8+Aw8Qwl1H+AR65OLAgBJuF0xvciu19FJO8p/mnoyH0KhGjZ0n/Blu4CsbjO6DqW+zdbGG1Eg6Qf69c;/KNArulSmu4mighMmS0KSQ=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence (AI) could one day be used to help cancer pati
 publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,29 +17,32 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
-    width: 1200
-    height: 450
-    title: "AI could kickstart early radiation therapy for cancer patients"
-
 related:
-  - title: "AI can help cancer patients start radiation therapy sooner"
-    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
-    publishedDateTime: 2020-01-28T02:41:00Z
-    webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+  - title: "AI can help early start of radiation therapy, prevent cancer metastasis"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several ..."
+    publishedDateTime: 2020-02-04T11:55:00Z
+    webUrl: "https://medicaldialogues.in/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
+    ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 74
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 54
+  - title: "Longer Looks: Wilderness Therapy, How AI Caught The Start Of A Pandemic, And Pregnancy Meds"
+    excerpt: "But a Canadian health monitoring platform had beaten them both to the punch, sending word of the outbreak to its customers on December 31. BlueDot uses an AI-driven algorithm that scours foreign-language news reports, animal and plant disease networks, and official proclamations to give its clients advance warning to avoid danger zones like Wuhan."
+    publishedDateTime: 2020-01-31T12:38:00Z
+    webUrl: "https://khn.org/morning-breakout/longer-looks-wilderness-therapy-how-ai-caught-the-start-of-a-pandemic-and-pregnancy-meds/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 27
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
+        width: 570
+        height: 380
 
-secured: "nQakHCEZnjikMIcuTdBiYaoKCubsOrBBoVW/oQFnfGqLk+viX/W5s5gYWix1x6dnZ1EdqTxuNKF7FV8BFeeQhJaZN4rTaEzeBv+jLXeRYEwTcmiSmtCBzS5ZEbTaxJnEUFxm25JMhTZG1JMP5xSqfUop4g11YexvHudCv/Du16fc89HmMreoyUjB5Fp5gNjd9t4wGWpw2t+FxknJMhUiCKIFfI6hf6wNv+7EDCiTM13cc8IZy9Vwn+vuTA2wOaQNQndCHW7FLh/eWmHks6bRBJ1ChxNF46B/5Ikgua0pxU0FyIC52dFI8y9pNy4rU958;v95MYMqL6AyEar1nX5qSUg=="
+secured: "+n/n3HV3HIeMuFKr799ou6nnY0FhZA1/4u3gvHRa92adcr+oT+w3XJoU19LG+Mhq8nqqOYPnUmDY6jdPTr0B9qcORwV1bfD+t++r262k5V2+wSs01RrWkvsCXBYSyniuxm3LiuVJei+xzuC9R10lDlvWVgBZpFpRi04rWj4XWC0Xwre05V46BO9tNWZr1k95Wo7YGCDUeHgd9bm8qBR0NxjrIhcwd0MBHtd+sGyP5pW3zr/8QU58wqhgW2DXOBTmNK6VfzPDZJwvLS4a+wFfnoCqx5XR8Jye7nwC14NYkrs9K6q3/BWiWwoDPQzaSmy0;aTPosU1fGkEXMkXlkRKy9g=="
 ---
 

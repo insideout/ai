@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T08:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Automotive Artificial Intelligence Market Development Analysis 2020 to 2026"
+    excerpt: "Latest Trends Report On Global Automotive Artificial Intelligence Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists."
+    publishedDateTime: 2020-02-13T11:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-development-analysis-2020-to-2026-2020-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
 
 secured: "Qpgu1fWR5+mBRIx9fzdWN580mCMwORdFQnqAWotlbmZ4G69KknXfZclJMGtmr4lIQ6Z4kRi24mnnIGonLwilkcj1aGGxCC1tz0+ZShroKsICLSuzKsJokF6ZnqmvXN7Vrd/cjAd6Be5URAeqKGDqtJoepGkWOO6ky2SWD+blD4GV85DXdEyD+eZH9gI4vTJajdtJjoCtSF1/U+lfPU9arlbt1+ikJy3u4hQKRNZHFSNebBkorjOxyXaiMD0V8ZrAkMM59E4DJgUOdHnVF1hXcrhI24uTdvrYdDQjRlTkOlK0bnbseRtOd3b7ezBb4OiA;uMVZ/rlcYSjCdTgejzZcpw=="
 ---

@@ -2,140 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-03-what-robotics-biggest-raises-tell-us-about-the-industrys-future.md",
-      "title": "What robotics’ biggest raises tell us about the industry’s future",
-      "excerpt": "It is, perhaps, an arbitrary distinction that has more to do with the way we categorize technologies — placing them in automotive or mobility, as opposed to robotics. Artificial intelligence ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/03/what-robotics-biggest-raises-tell-us-about-the-industrys-future/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-459796142.jpg?w=601",
-          "width": 601,
-          "height": 399,
-          "title": "What robotics’ biggest raises tell us about the industry’s future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-5-reasons-why-ai-may-dazzle-only-to-disappoint.md",
-      "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
-      "excerpt": "In my experience of advising and consulting with several companies on AI strategy, I have observed five reasons that prevent AI initiatives from delivering the desired business outcomes.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/",
-      "ampWebUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
-      "publishedDateTime": "2020-02-04T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177116437%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026.md",
-      "title": "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026",
-      "excerpt": "Global AI In Fintech Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries, Product types and end industries.",
-      "heat": 279,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026-2020-02-04",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-04T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you.md",
       "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
       "excerpt": "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ...",
@@ -2118,6 +1984,141 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-the-ai-eye-vsblty-and-energetika-propel-safety-in-mexican-municipalities-and-hvac-giant-carrier-selects-aws-for-digital-transformation.md",
+      "title": "The AI Eye: VSBLTY and Energetika Propel Safety in Mexican Municipalities and HVAC Giant Carrier Selects AWS for Digital Transformation",
+      "excerpt": "Point Roberts, WA and Vancouver, BC - February 5, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-vsblty-and-energetika-propel-safety-in-mexican-municipalities-and-hvac-giant-carrier-selects-aws-for-digital-transformation-2020-02-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye: VSBLTY and Energetika Propel Safety in Mexican Municipalities and HVAC Giant Carrier Selects AWS for Digital Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-the-growing-robot-workforce-means-well-need-a-robot-hr-department-too.md",
+      "title": "The growing robot workforce means we'll need a robot HR department, too",
+      "excerpt": "Retailers are increasingly adopting artificial intelligence and robotics, both in brick-and-mortar shops and in warehouses, and with a new robot workforce comes the need for new management methods. That's right: in the near future, HR departments won't focus only on human employees, but also include a robot resources department to look after ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
+      "publishedDateTime": "2020-02-05T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/02/01/596ef522-cb01-4678-afc7-54371d47cc24/thumbnail/1200x675/dc20cdf8ec64b5bd2f6ecbecbdfd70df/istock-513630810.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "The growing robot workforce means we'll need a robot HR department, too",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-waymos-self-driving-car-workers-reportedly-complain-about-finding-leftover-needles-in-the-vehicles-and-a-cut-to-their-benefits.md",
+      "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
+      "excerpt": "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\"",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
+      "publishedDateTime": "2020-02-05T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg",
+          "width": 800,
+          "height": 400,
+          "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

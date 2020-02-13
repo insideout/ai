@@ -5,7 +5,7 @@ excerpt: "The US Army uses facial and object recognition technologies to train a
 publishedDateTime: 2020-01-28T09:26:00Z
 webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-    width: 620
-    height: 465
-    title: "US Army develops AI facial recognition protection"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -54,36 +48,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "Remember FindFace? The Russian Facial Recognition Company Just Turned On A Massive, Multimillion-Dollar Moscow Surveillance System"
-    excerpt: "Built on several tens of thousands of cameras and what's claimed to be one of the most advanced facial recognition systems on the planet, Moscow has been quietly switching on a massive surveillance project this month."
-    publishedDateTime: 2020-01-29T17:50:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 159
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
-        width: 1200
-        height: 800
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-        width: 1200
-        height: 763
   - title: "EU drops idea of facial recognition ban in public areas: paper"
     excerpt: "The European Union has scrapped the possibility of a ban on facial recognition technology in public spaces, according to the latest proposals seen by Reuters. An earlier draft by the European Commission had broached the idea of a moratorium of up to five years to give the bloc time to work out how to prevent abuses."
     publishedDateTime: 2020-01-29T23:11:00Z
@@ -97,21 +61,6 @@ related:
     quality: 89
     images:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
-  - title: "Facebook curbs its controversial facial recognition features"
-    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
-    publishedDateTime: 2020-01-29T19:06:00Z
-    webUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change/"
-    ampWebUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/facebook-facial-recognition-policy-change.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2019%252F09%252F04%252F64%252Fbb5d4702626344ae995bccc7d17b927c.1137a.png%252F1200x630.png?signature=thQUzMw0eD4MHb166K_fP84zwIY="
         width: 1200
         height: 630
   - title: "Facebook to Pay $550 Million to Settle Facial Recognition Suit"
@@ -376,21 +325,15 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
-    excerpt: "We have Woody Bledsoe to thank for being one of the fathers of facial recognition technology. In the early ’60s, this sharecropper’s son from Maysville, Oklahoma was a pioneer in having machines recognize faces. Bledsoe’s early research into facial recognition technology attracted fans, most particularly, the U.S. government and the CIA ..."
-    publishedDateTime: 2020-01-29T16:44:00Z
-    webUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/"
-    ampWebUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
+  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    publishedDateTime: 2020-01-27T09:55:00Z
+    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     type: article
     provider:
-      name: Observer
-      domain: observer.com
-    quality: 59
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1080200064.jpg?quality=80&strip"
-        width: 3500
-        height: 2334
+      name: ZDNet
+      domain: zdnet.com
+    quality: 61
   - title: "Facebook will pay $550 million in facial recognition lawsuit settlement"
     excerpt: "Facebook has agreed to pay $550 million as part of a settlement stemming from a facial recognition class-action lawsuit brought up in Illinois. The social media giant was sued by Illinois residents, alleging that it broke the Illinois Biometric Information Privacy Act with its use of facial recognition technology to suggest people to be tagged ..."
     publishedDateTime: 2020-01-30T13:49:00Z
@@ -674,21 +617,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
         width: 796
         height: 419
-  - title: "NY State Lawmaker Wants To End Police Use Of Facial Recognition Technology"
-    excerpt: "Following mounting concerns over privacy and biased policing practices, state Senator Brad Hoylman has proposed legislation that would prohibit police statewide from using facial recognition and other biometric software. The use of facial recognition in New York City has surfaced over the years across a spectrum of users, from landlords to ..."
-    publishedDateTime: 2020-01-29T18:10:00Z
-    webUrl: "https://gothamist.com/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 57
-    images:
-      - url: "https://cms.prod.nypr.digital/images/22754/original"
-        width: 640
-        height: 426
   - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
     excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
     publishedDateTime: 2020-02-05T13:40:00Z
@@ -1252,15 +1180,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
         width: 770
         height: 400
-  - title: "ZenGo Defends Integrity of Facial Recognition"
-    excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
-    publishedDateTime: 2020-01-29T18:54:00Z
-    webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
   - title: "Facebook settles facial recognition dispute"
     excerpt: "Facebook has settled a long-running legal dispute about the way it scans and tags people's photos. It will pay $550m (£421m) to a group of users in Illinois, who argued that its facial recognition tool was in violation of the state's privacy laws. The case has been ongoing since 2015, and the settlement was announced in its quarterly earnings."
     publishedDateTime: 2020-01-30T13:22:00Z
@@ -1297,15 +1216,6 @@ related:
       name: Racing Post
       domain: racingpost.com
     quality: 19
-  - title: "40 groups have called for a US moratorium on facial recognition technology"
-    excerpt: "The news: US government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York ..."
-    publishedDateTime: 2020-01-29T15:27:00Z
-    webUrl: "https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "Watchdog Warns About 'Chilling Effect' Of Russia’s Use Of Facial-Recognition Technology"
     excerpt: "Amnesty International has criticized Russia’s plans to broaden the use of widespread facial-recognition systems, saying their expected deployment during public gatherings will “inevitably have a chilling effect” on protesters. The London-based human rights watchdog issued the call on January 31, as a Moscow court was set to hear a ..."
     publishedDateTime: 2020-01-31T11:35:00Z
@@ -1354,6 +1264,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "TNnps+G24ivGc77onQ9bxcQCtDVtmJX5VXU7OPktoSo6/e+fG0JZRU8S9XyWWQKnywxPEd6fLCnS2tQ+wf0d++pJLWZ0pDAIbqrQjQNwFzdf1s8ZGchnupA3y+wWeyG21JUQfKhhU1tB8y6e06ylISPqEzp1Xwe6VhIyRi1m9tr4AJEcenKcKXIQXQfAuN/TtOnzuexsYVQ/unY89a5hDGVCAnoano6b7TU6U9GctIZ81MfFREa0NAGXQ/Hgmp6W5m1bInRfcdzxAzQhqp70Ev1BpJJBqMZ3qLmmTWI2CTU3YSja3Z2kGgWoJJUA/FKx;Oejwr/gG8ZVQQ1QZdgjmnA=="
+secured: "xaAhSVWCNluF/cr7O2hyUxmyDt3EUctR+0/04/UXIBFq1dUQL3+oZ8w7vpsqDT9LN9NGydNwKswe8dN4AFXIoh0HjHUZIrZZFWm3TgxO1h9ZVJM4zSVq2NuRbafzsVIzZjdT/7tiMG4QytqaHLq5GKh0S7X5evUHpFaHMrMmtl8jsLyxJ67/ymN2Ts6a/npd2tJoYpQLhNSAA1xBDzzjLAjekpeqckltJbBkOQZ9Oa8v7c20MQciPBEu4kfcdlwBxwlVuG0ULonmJql0zXVOzFya78QqgsgdGR+jU8cXw9mvOXbuoZiRH9dVsNaglGMW;JmIV9lyk35RWiIMKVym1jQ=="
 ---
 

@@ -50,21 +50,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-        width: 1200
-        height: 763
   - title: "EU drops idea of facial recognition ban in public areas: paper"
     excerpt: "The European Union has scrapped the possibility of a ban on facial recognition technology in public spaces, according to the latest proposals seen by Reuters. An earlier draft by the European Commission had broached the idea of a moratorium of up to five years to give the bloc time to work out how to prevent abuses."
     publishedDateTime: 2020-01-29T23:11:00Z
@@ -78,21 +63,6 @@ related:
     quality: 89
     images:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
-  - title: "Facebook curbs its controversial facial recognition features"
-    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
-    publishedDateTime: 2020-01-29T19:06:00Z
-    webUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change/"
-    ampWebUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/facebook-facial-recognition-policy-change.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2019%252F09%252F04%252F64%252Fbb5d4702626344ae995bccc7d17b927c.1137a.png%252F1200x630.png?signature=thQUzMw0eD4MHb166K_fP84zwIY="
         width: 1200
         height: 630
   - title: "Facebook to Pay $550 Million to Settle Facial Recognition Suit"
@@ -357,6 +327,15 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
+  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    publishedDateTime: 2020-01-27T09:55:00Z
+    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 61
   - title: "Facebook will pay $550 million in facial recognition lawsuit settlement"
     excerpt: "Facebook has agreed to pay $550 million as part of a settlement stemming from a facial recognition class-action lawsuit brought up in Illinois. The social media giant was sued by Illinois residents, alleging that it broke the Illinois Biometric Information Privacy Act with its use of facial recognition technology to suggest people to be tagged ..."
     publishedDateTime: 2020-01-30T13:49:00Z
@@ -640,21 +619,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
         width: 796
         height: 419
-  - title: "NY State Lawmaker Wants To End Police Use Of Facial Recognition Technology"
-    excerpt: "Following mounting concerns over privacy and biased policing practices, state Senator Brad Hoylman has proposed legislation that would prohibit police statewide from using facial recognition and other biometric software. The use of facial recognition in New York City has surfaced over the years across a spectrum of users, from landlords to ..."
-    publishedDateTime: 2020-01-29T18:10:00Z
-    webUrl: "https://gothamist.com/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/ny-state-lawmaker-wants-end-police-use-facial-recognition-technology"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 57
-    images:
-      - url: "https://cms.prod.nypr.digital/images/22754/original"
-        width: 640
-        height: 426
   - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
     excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
     publishedDateTime: 2020-02-05T13:40:00Z
@@ -1114,6 +1078,15 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 34
   - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
     excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
     publishedDateTime: 2020-02-04T11:05:00Z
@@ -1207,15 +1180,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
         width: 770
         height: 400
-  - title: "ZenGo Defends Integrity of Facial Recognition"
-    excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
-    publishedDateTime: 2020-01-29T18:54:00Z
-    webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
   - title: "Facebook settles facial recognition dispute"
     excerpt: "Facebook has settled a long-running legal dispute about the way it scans and tags people's photos. It will pay $550m (£421m) to a group of users in Illinois, who argued that its facial recognition tool was in violation of the state's privacy laws. The case has been ongoing since 2015, and the settlement was announced in its quarterly earnings."
     publishedDateTime: 2020-01-30T13:22:00Z

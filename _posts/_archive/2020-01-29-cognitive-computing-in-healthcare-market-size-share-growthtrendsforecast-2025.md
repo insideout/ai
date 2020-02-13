@@ -57,20 +57,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision in Healthcare Market Analysis by Top Companies | NVIDIA Corporation, IBM, Google, Microsoft, Intel Corporation"
-    excerpt: "New Jersey, United States, - The report on the Computer Vision in Healthcare Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
-    publishedDateTime: 2020-01-29T18:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-by-top-companies-nvidia-corporation-ibm-google-microsoft-intel-corporation-2020-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
-secured: "mZ3UWQpAJplpxQ0dDHW/6w579XTW5mVZKmw7tFka8jM3w/QTvSPy7fgwf3CF0Vp8h8ijQ4wxLV8JRw51okAKeg9bZyWR7VuEWsxoaApOhMs6BPZW0u3EbsVqnV/AcvKT2JiIEyaL6KmH2N2NQt8Qw7Pf6dUv1H0LXBIpVYkQ+yvjJzVIF6TOUIfDrStc8L8BMB2FJanqY0MX7pbdac2uPwPEDNlPpuXz9AVLWlI8HPXRKHsiFhu/ZIItTh0VfRsY9vR1I8+hxz07OrLVvf3lUZNSLqmO+saI4GbyzC80FSM43zm9oYIvwS9m1qfY3KUR;vDqa02QtKMgJfvNaprsjZw=="
+secured: "5KV8fQ2eXR7wm6Si4FJDRK1eRO3+gXq6hNf4U54HcoS7NX2p5xvH4y25hv1WFqnOZG72xwpMj9jlI+WcqvGpCg+LoNE/7YVTZbZ+BmqKiibV89AcBF20/VXWuJZSl+GtMefWJX3y+15atdBKPdcnSImH+91QGJ3eHRfkD34IvNoCMx3v/t1o16f5bS6XYiFAqXv6ZahdX/z39bJn5QS9venBRFBdlyevgwN2RwoP/ypGb7x4/bF0KokjU4FLEmVdPQEe5YR9jEI78TnqecRuVVYaqQLAM3jS9IWEuX1RMu4+Xt7aSCC+QUBjyctJpIar;+O/TERmxY5jUkRX6Hr6LfA=="
 ---
 

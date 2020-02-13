@@ -50,6 +50,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Automotive Artificial Intelligence Market Development Analysis 2020 to 2026"
+    excerpt: "Latest Trends Report On Global Automotive Artificial Intelligence Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists."
+    publishedDateTime: 2020-02-13T11:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-development-analysis-2020-to-2026-2020-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
 
 secured: "+VQuA4Dystr25q8TQSzSRTizxeD13kSEBSLz+45TQ1uqje3ZGR2B9VvuKu/aEj3hKndLd0DYpGqVHn4uIdjCTnx4nCGJ3cG0iKyhdndR9jbjby8TAOs++HcYIRcyL8PlIoQeuQIXrgzu4QK8zlOjuzE9oJVvFdKy3X1mgFJ7gRsylFYPQ69RJ/ppB+xgEuH7JTjTa5IEGSW6MR2IjQii13CA8mM0IrG9kIq/sD9+zDB9oMXuhG4whDR9HOkzUxsjGsypQRBkC+I/YsIKPiugSpn6LVWUSw8nUIR2mE5IjGw9NsjSwvSeUUW95w89tyXN;1QSLRrdXGKEyrn9FbTkoYA=="
 ---

@@ -54,12 +54,12 @@ related:
         height: 611
   - title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
     excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-    publishedDateTime: 2020-02-04T10:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200204005137/en/REPLY-European-Central-Bank-Explores-Possibilities-Machine"
+    publishedDateTime: 2020-02-04T10:24:00Z
+    webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
 
 secured: "ED0xSlaBQ/ODCh8bXjwDCg6/wTx5PiqvUnYGmemgDZNrCr524aHgAWkMswLstgycvN1UEubSMhuC66dl9LRSE///DOhP4FoAhhcel1nXRx0rhE1Cj79sfLL7mltB9jNXJM3n64ZeaTnu8jsCaZJ2/Ox59Lmxv2rR4EgO5ItoZcNm28pWnNRmOI/2WbZ5GCl3R1NulWlNYIJ/RwVM4rFu6tddnlsTtOLOGZ+NoNkQPulYJSXRap6Um8OOb121jkTC0sDd8IDCuzL1Oxzi6Wq45p0O6QEhQc6YpnbWg9gc/3sTsXCr6xmaXbuQQ9VtPi+4;BHS64k+/XHDqTMTXqig5jQ=="
