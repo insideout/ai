@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-06T08:45:00Z
 webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-analysis-report-2019-2027-growing-cagr-356-2020-02-06"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: MarketWatch
@@ -41,15 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
-    excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report"
-    publishedDateTime: 2020-02-12T12:54:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/12/1983746/0/en/Self-Driving-Car-Market-Trends-Report-2019-2027-by-Level-of-Automation-Type-End-user-and-Region.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "FZh9Ywm8MVrboz0K5IzKBuLuj89dHNtEvU56QspeX7xUNOdNdUbQUtBc0mOt1npxzIKNdWY+g4Z4OMeMBzZx1dQO+Uf8CPhzUEHQLrZG3vTZ6t34uRuszbW6R8JNqO41pGLUjolgwOBUSXk7GkmUd9wisJLnAWaSEO09mNMiPZIp/3toRpd0E+adMPEtJwsvAxI+Anek4gq6fx0q8RZhKtWvm4bF2A17dEcEgaEGsnWgpfBnqn1J8YwO65BKe4Z7+wjfk+QG5hT5mB+vIoiLYbRqQUMUFzAhzuoZL1AoUVig2PNYcMyVEivzxi138w63;Z5SK/tNEXgYaBoXNpf75dA=="
 ---

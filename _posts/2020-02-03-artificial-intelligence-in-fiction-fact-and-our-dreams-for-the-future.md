@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T13:00:00Z
 webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 1200
     height: 686
     title: "Artificial Intelligence in Fiction, Fact, and Our Dreams for the Future"
-
-related:
-  - title: "The future is here: AI applications for 2020"
-    excerpt: "For example, Google published its research about an AI achievement that tracks 21 3D coordinates on a person’s hand ... Let us know in the comments below or on Twitter, or Facebook. You can also comment on our MeWe page by joining the MeWe social network. *We use revenue-generating affiliate links and may earn a commission for purchases ..."
-    publishedDateTime: 2020-01-29T15:24:00Z
-    webUrl: "https://techaeris.com/2020/01/29/the-future-is-here-ai-applications-for-2020/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 39
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2019/04/Artificial-Intelligence-1000x543.jpg"
-        width: 1000
-        height: 543
 
 secured: "JhXuSszs3NnqTGEdX+HEdabAcLyYFmS+hNMXfJv0Dm1xqzkh+G8gU7v9zidxKHgXHnvbpyBHs3J6uAd6ghkiEqBJ4zeAjPhgf3JlhxrPFlX7UlVbh2VAProsMbMBhNKWl6VUzJyDVHZYqTrJuJVo+614gEk/nEBTb/0kbxWnqzB6sloDLYB9ibtf6a2DgYuv0pRThMr4fitKV6K6rWoN+uHpIYzjYkyxIR3Sseg8QYWKV9JyCdHeIurrwx9AZXZGpLJ3eX6mucHI2z6ZpNgrXHCXkiexidZ2fZuQ1jyM+2l/z2FnZIGFbjkrAtlVFWUv;VEaz5BTe0x/uX3240l1dlg=="
 ---

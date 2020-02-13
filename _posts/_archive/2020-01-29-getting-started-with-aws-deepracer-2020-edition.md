@@ -27,6 +27,6 @@ images:
     height: 450
     title: "Getting Started with AWS Deepracer (2020 edition)"
 
-secured: "7CyF/W38JjrLdAOpfBJEPW3RqDgYf5gqsYMMsXNAERMjRJUa57chHr6JdBgk6uof/ysj7J1Gp98G2X4p4og8Xy1UoUCaQuPVCcCzg9AmNOSad5jD84d+h7mW/sP5j13x9QAxi2b4XbzBvysyRQ7CBMZC3vwRmzaE+PBfGIMyYzX/h1JpYB44TTtgeNIB9Ca7VNO6bzjcpFy6z2HKMcE8gkqVtfqJ/PgSN8r4oCj5mlM7SHnEYM3cd3n1uj2a/1DeZFNf9JDmGsePe2lmhDVmDYQUCDzU9iPqA4rXDzuwVhyR7Hotrv0kXTSj/EyNv+kO;TQ0262nRutA0V+6iTCSq1w=="
+secured: "WY/PDFf2l/oquJejopvCaNfP+hgMkU2KfaYTMAqiDlh3ZXj4UVJQQeAbz7keBttPtY2unmAvS0p8arYh79K8btJsH/wuh/amyfuzCbBlUegWw3ImBciwZIM2f1Yn3TjLbtEUKKrDWOS+12HELUF3dponEjFR/YjfPpQJX6VNnUhKHyURWovanACNO9PxiRKYiBb/10sD6GPhMhJ0CvCk/2ot2saTBR8Wv1Xi0s6+zC9RXE4nbiiyQgJvdzei00OpAKltY0B4flMiKUr3Uv+p4sDh7JSnahTzNAvWm0Xv+WCVDn+UYhlV9YobPlLDhnfC;XzIk4Lj0cHa/G0+irAu/2g=="
 ---
 

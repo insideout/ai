@@ -31,21 +31,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg"
         width: 796
         height: 420
-  - title: "Facial recognition: authoritarian intrusion or crime-fighting tool?"
-    excerpt: "How do you feel about facial recognition technologies? That question is sparking angst in Britain right now, after it emerged last week that London’s Metropolitan Police plan to deploy cameras with facial recognition and artificial intelligence capabilities. Local newspapers dubbed it “Big Brother Goes London Wide” – and civil liberties ..."
-    publishedDateTime: 2020-01-29T16:03:00Z
-    webUrl: "https://www.ft.com/content/7e6131be-4298-11ea-abea-0c7a29cd66fe"
-    ampWebUrl: "https://amp.ft.com/content/7e6131be-4298-11ea-abea-0c7a29cd66fe"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e6131be-4298-11ea-abea-0c7a29cd66fe"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F0e6ec05e-41e6-11ea-bdb5-169ba7be433d?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
 
 secured: "CUnyIRLObnUrPOHtSDPCoaFpWmishgP4EqSOOZFkEux9qX39djVO/dVyVCE5amFb75U5NOk9T8D9+Zf7/IWOtkp0osWT69sY7DZREeTNsY0O4H4K6Z7gTvXHcdzB4yr7TpLErf/Kk6EcjtAvf1Qa5iw5PIfhM78T5Kn9pa3NQQe1jlHjVtKdud6/Qv+iM12jVnGLzqzP6s2Qqs9f0OYs4JVbSwkwI8qq7cMgM6HVyED5+oh43v6Ba+8ds+9SHkwDIDGNyRfMF7B8dlSg1DwmvRs6MqBclRvWvRfLZJAknmmSxOrCPMMOffM+ZDG/PB7CaT5onxoodTtHcIoFizgXyMou1wYFRR+fChFnz8ZeB2fk0Sbpk7BbyQYfjK40ugit4sGV6+k8UT4NIC8YnL9XbwLpsQK3dr8Y2mCkrJHXMDZtBHQYW238pQYFuOAAK/Zk06cwYSPMxQ8RMDX7i6B5zUI3R/ARWZ+E7mpnlt/dmh8=;QpGUUDDPpsd2ONa3MU846w=="
 ---

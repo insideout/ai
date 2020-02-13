@@ -1288,15 +1288,6 @@ related:
       name: Racing Post
       domain: racingpost.com
     quality: 19
-  - title: "40 groups have called for a US moratorium on facial recognition technology"
-    excerpt: "The news: US government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York ..."
-    publishedDateTime: 2020-01-29T15:27:00Z
-    webUrl: "https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "Watchdog Warns About 'Chilling Effect' Of Russia’s Use Of Facial-Recognition Technology"
     excerpt: "Amnesty International has criticized Russia’s plans to broaden the use of widespread facial-recognition systems, saying their expected deployment during public gatherings will “inevitably have a chilling effect” on protesters. The London-based human rights watchdog issued the call on January 31, as a Moscow court was set to hear a ..."
     publishedDateTime: 2020-01-31T11:35:00Z
@@ -1345,6 +1336,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "uayN+hkM5BimpFmXfAPQd5dVXqNg+PeqvDiaQIq2Vt5ZN5+qZTamMe0bwlyrwaWvtK0BHGP6fG2jPJjZ3X7HopVWlhV9ZifGUZkWCtp8NAlpejsvLvP5BnpQt9ao2c/eoYoUvJbkRkWBbrEeVkEsF5bf+jxv1UEEbLMB/ywYHwEzZIHkmgoAl3+MET54CSR47hVjJXfa05BpeDS2bERtkDWFIObOBOy7kdOjcBiDaFH2kNYC7TRT31wfVIlhRNDkrTCJC6cme/tpUvGN3SNaeuMUWoGsAE45vMweKwANmid0fv6it2lElTwtkYzufQMW;kUk4WxlQ8PYNmol6LWqvbQ=="
+secured: "00lhQsp4FUvz16hAlhCfbbk94l/J0Ez6Je4LpXz8dxoFzp3o2AOvMc6DQIYsxgTIdsd70BUwfbKqKqlUO/cOVKmm4FngTE3lr9O4XqHpw8kxNYDlShGPND+03eFcIRUU8y3zuYL8nkK5QmZn8oZeJyJad721B7jaIsn+JO2/kT3u3RvqUg5HMeMcknPwg3KwshJ9dVXxpzr4wuR+HejaIlzW5xH5W5W+90+FIf4LPLxmR3HiL897CmZEQJ9qR5LzlQMfepbDvJPxmIglwS48o3/05xmcTCosV5iq/+OSaZ3l/WbbIIqb04E+ITfemmJE;mOLTKGOPbv9Bjx4dzAgNvw=="
 ---
 

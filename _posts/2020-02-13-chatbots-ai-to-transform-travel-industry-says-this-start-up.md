@@ -24,6 +24,6 @@ images:
     height: 390
     title: "Chatbots, AI to transform travel industry, says this start-up"
 
-secured: "lw32cRtmpp2N4F8j1IomtnwoNuw/9hC/moferWU/sjSMYnZSO3WMDUFh4J/yGBCv1TwCQ7FdR7XOKOhjdYuRQUcS8slgsajkURPYdLy1j7Bm0mkmFLV/bArR69eByfdtK2bsS23S9Gi+NyHlZvrKNGMi7jZClDaxD0rpILqI2GNt2Pr/D9WdwOrxVrYExzoW1FnP/6iFmRCWEUVmSnG+I0Jra215RN/5+miEfsEcOc+/M9vcpDsARQ7THOGEAjADk9X44IixK1FinnWxIlOFUVhn2bPOTsRD2XkSX2vgkGakifKtZBHnXaXIs71b9PSS;kyzp7suEKLIp/N30duXHVA=="
+secured: "5s6Mk8aRELlaNnUfRfd7n0vLi7W8pbw4B+xpMKQcAM/yXphuxNKMJPR+6GiFRsKU+eBogJKOMIyonEAdL5oFcFGlGxli7gz3af1FSYz1Te++kl/Ou1uj/v4KfJiSrttjM/segdbvoHC46sTI4Y3oae6E/BdTDeq4cDyuCpYD4Ywq/NRh+44UWlcsEytu3RNqrIvcTFNDKjTkqZIlkxJ4IvlcS+X2jQeYtK7i+3T0cgRRJh1HLkv0IWmoQ+G9SLZa8e4lKfZrZGt4n25X1S/1xBbVHoc7cOmRI176iylsrBtlJ68AS32GZj6isNo/6DG1zOkoXnMwDb0R3swoANsBGANzdV7aEzdRPVsieoSNb2F8NwbPcH6jPdGbnkbqH9QL7k0jTTTItYNcKGR8v7ctWjpZMfOclRIJ+JzFhOX1+0FjZfyvHLjqTLCEC4Ac7I8JCYLSROGwDN6hlbgM7ROR2hLIzHNFvnB1A/zxwQWi8lI=;a2WMkjuwAL9SyAhSnOt3PQ=="
 ---
 

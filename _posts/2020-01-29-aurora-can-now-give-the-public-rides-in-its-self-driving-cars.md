@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rid
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Aurora can now give the public rides in its self-driving cars"
 
 related:
-  - title: "How Self-Driving Cars Will Transform Cities"
-    excerpt: "S elf-driving cars will completely transform urban city landscapes, and possibly even change the nature of real estate as we know it. This transformation will both create and destroy trillions of dollars in wealth."
-    publishedDateTime: 2020-01-29T15:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
-    images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
-        width: 1024
-        height: 512
   - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
     excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The EasyMile shuttles, developed in Europe, are 13 feet long, 10 feet high and 6 1/2 feet ..."
     publishedDateTime: 2020-01-31T21:48:00Z

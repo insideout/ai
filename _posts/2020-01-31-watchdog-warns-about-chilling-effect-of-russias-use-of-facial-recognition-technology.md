@@ -1293,15 +1293,6 @@ related:
       name: Racing Post
       domain: racingpost.com
     quality: 19
-  - title: "40 groups have called for a US moratorium on facial recognition technology"
-    excerpt: "The news: US government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York ..."
-    publishedDateTime: 2020-01-29T15:27:00Z
-    webUrl: "https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "Facebook agrees to $550 million settlement in facial recognition class action lawsuit"
     excerpt: "Three Illinois residents sued Facebook under a state law, the Biometric Information Privacy Act, one of only two in the nation to regulate commercial use of facial recognition. The class action, which involved gathering facial data for a feature that suggests the name of people in users’ photos, could have exposed Facebook to billions in damages."
     publishedDateTime: 2020-01-30T01:05:00Z

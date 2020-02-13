@@ -32,6 +32,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "The Global Deep Learning Market is expected to grow by USD 7.2 bn during 2020-2024, progressing at a CAGR of 45% during the forecast period"
+    excerpt: "New York, Feb. 04, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Deep Learning Market 2020-2024\" - https://www.reportlinker.com/p04391092/?utm_source=GNW Our reports on global deep learning market provides a holistic analysis,"
+    publishedDateTime: 2020-02-04T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-deep-learning-market-is-expected-to-grow-by-usd-72-bn-during-2020-2024-progressing-at-a-cagr-of-45-during-the-forecast-period-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research(R)"
     excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth in the speech and voice recognition market can be attributed to the rising acceptance of advanced technology together with increasing consumer demand for smart devices,"
     publishedDateTime: 2020-02-06T11:06:00Z

@@ -1,11 +1,13 @@
 ---
 category: news
 title: "Facebook, Twitter, YouTube, Venmo demand AI startup must stop scraping faces from sites"
-excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook FB, +0.13% said it has demanded New York-based Clearview AI stop accessing or using information ..."
-publishedDateTime: 2020-02-06T03:19:00Z
-webUrl: "https://www.marketwatch.com/story/facebook-twitter-youtube-venmo-demand-ai-startup-must-stop-scraping-faces-from-sites-2020-02-05?mod=mw_latestnews"
+excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police."
+publishedDateTime: 2020-02-06T03:16:00Z
+webUrl: "https://www.marketwatch.com/story/facebook-twitter-youtube-venmo-demand-ai-startup-must-stop-scraping-faces-from-sites-2020-02-05"
+ampWebUrl: "https://www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
 type: article
-quality: 59
+quality: 79
 heat: -1
 published: false
 
@@ -21,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "http://s.marketwatch.com/public/resources/MWimages/MW-HW845_Facebo_ZG_20191212141837.jpg"
-    width: 1320
-    height: 742
+  - url: "https://s.marketwatch.com/public/resources/images/MW-HW845_Facebo_ZH_20191212141837.jpg"
+    width: 890
+    height: 501
     title: "Facebook, Twitter, YouTube, Venmo demand AI startup must stop scraping faces from sites"
 
 related:
@@ -249,6 +251,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "QmMExrZhkBRZ/0BAe2NtjDZMbWXDhROemVXMi71NNajwvqE2W7P6D6+lLSRdlBEUkNwyucSJYg5X2gYvwhjjEK5C078mkFr60SZzDSlUbbsdmvST9U4s9JL6QypkMogs9oQLt+UgUUU5oRcIqlkGrOonh5X2rL5FRMnSniYedM0rtZK97XwMBHmAw9sY+ozhtXukBVGhNefDfoxKK+cKDanmmVEbgKgywYjhZUBVMJyJoltxwvBkyLg8fuN4Bmzids6sJ3KzmcabsS3EtdwoFGd0o49UCmZYTM2pieS2q+8t5lhMbxoNPgkMc36vGMITEXuCYBppZPNSuC7PToEonQj9N7DNJmmfrki40oN2E7QXoNKyAtXqOSkKfX0vTKKDS+0Gm2Od8E3EocNrL0Ip50DECzlEzBhy4dIqEEpYvlu16jbhhYD+3Tbs/JFWGodDOqdqSumrGEG4gKccIqXuZwtEZDebo06VRxWBQGTe7wk=;unlbSgh4UtL1k3bigW5Vvg=="
+secured: "dFLxWKrY1EdIf/uXq2s7bdpB0lTePTj3L6308+CpA3DMFtxTtk0viBBEWDz5uard6qtVUiC4snUgicCBAUFQUwXwe6uWQFQyk0kSYHAr/BNX46Q81kYPYmuOTyDqSz4mOugeyTC0B3U9YQr/EP8QkAeuTtWmxqdH20b4aIdVNIgPCluMfdyxC9EnMMlt3Va5nIFIfUnRaXhbd9H3+yV2iekn4EXDDGBXPHamldnLJGqccbm/oZawpG0GzCHtj8OykvINvPxj//1HcL/uegQWzR03n9B+7hGsKFZ5gv3H10SHxPhCRw3osvnitjsJNeKb;PRDoda9RxTyzG9ROe4gN0g=="
 ---
 

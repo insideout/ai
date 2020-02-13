@@ -44,19 +44,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
         width: 1199
         height: 628
-  - title: "Stock Bots: The Future of Financial Trading?"
-    excerpt: "Stock Bots: The Future of Financial Trading? Humans still program the algorithms and design their ... They cannot think or feel, and despite the hype around machine learning, it’s still contentious and complicated to describe them as intelligent. Like human traders, however, they make decisions, observe others making decisions, and adjust ..."
-    publishedDateTime: 2020-01-29T15:56:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/stock-bots-future-financial-trading-117806"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 24
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/sdfgg.jpg"
-        width: 1305
-        height: 863
 
 secured: "XHcxO5XcgqSzH8n0VT8RkniiN2uC9zGlLBougosW+1eW7U1xsjk8tg/yYC2L6vMvC3mtli7R6X1x131XpailQBrBVbm/wPxMn5cbe7I49d8ERzzlQVPfSdM2592XND40dLkzxaPfUr4AOLaXI5fjZzg0h+jFfYOv6QL/tG61MjhN4tD+16gmaP0hfk2zNdCngCdvfaakcGXc143IDjaHU+iMd8JtrXP3ecp4RJZyABtOU5mze+tQQOs1ixstnM0tohnl70ZEz/kKDP835ElI3YIguvb2RNWKPIbog2q27z2/cJ1uOWqGTfB63HOZp2RZIQCxf+ZtkOqHqt7gl3oDW/oHiMleimjg8xHxLYcoeVF5NUzDfUCZsyeUxQPFlK9kixfT8wxiBEVE3FFqtVTC+9kO28eEmjA8dmuDFOgaoBD/2VXCPk0GC7yex+WqZvGcyrMMpJvKEHomRDsxAbw5Nw59SSAs30e1etCLBFm+4CU=;2iBQ6p4sFSE9wgba+dwtaw=="
 ---

@@ -41,21 +41,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200129163936-google-translate.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
-  - title: "Google Translate is getting a real-time transcription feature"
-    excerpt: "Updates added 60 languages and got rid of some of the feature’s bugs, including annoying flickering and shakiness. The Google Translate camera translation function also got an AI upgrade – now packing Neural Machine Translation (NMT) as standard. Google said this will reduce errors by 55-85% in some languages. Unlike other sites ..."
-    publishedDateTime: 2020-01-29T15:44:00Z
-    webUrl: "https://www.trustedreviews.com/news/google-translate-is-getting-a-real-time-transcription-feature-3973841"
-    ampWebUrl: "https://www.trustedreviews.com/news/google-translate-is-getting-a-real-time-transcription-feature-3973841/amp"
-    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/google-translate-is-getting-a-real-time-transcription-feature-3973841/amp"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 44
-    images:
-      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/04/Google-Logo-1024x576.jpg"
-        width: 1024
-        height: 576
   - title: "Google Translate Will Soon Transcribe Full Speeches, In Context"
     excerpt: "Unlike previous iterations and Google Translate features, the latest incoming change is designed to transcribe speech into a second language with contextual awareness. Namely, Google hopes to leverage its AI algorithms centered around speech to automatically correct for translation errors. More concisely, the tool will analyze speech in real ..."
     publishedDateTime: 2020-01-30T19:10:00Z
@@ -71,19 +56,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2018/11/Google-Translate-AH-new.jpg"
         width: 1920
         height: 1080
-  - title: "Google Translate Scores Real-Time Transcription Feature"
-    excerpt: "With the tool, users will be able to transcribe live audio. As this is the company’s translation tool, it will transcribe in real-time from another language. The feature was unveiled at an AI event in San Francisco, although Google says it is currently in prototype. While Google has not confirmed, it seems the tool only works with live audio ..."
-    publishedDateTime: 2020-01-29T16:01:00Z
-    webUrl: "https://winbuzzer.com/2020/01/29/google-translate-scores-real-time-transcription-feature-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 24
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/01/Google-Translate-Google.jpg"
-        width: 1172
-        height: 693
   - title: "Google Will Soon Translate And Transcribe Languages In Real Time"
     excerpt: "Google has shown off an upcoming feature for its Android Google Translate app that will allow for real-time transcription and translation of one language into another at an AI event in San Fransisco. According to CNET, the feature is still in the prototyping stage, so don't expect the functional equivalent of a Hitchhiker's Babel Fish to be on ..."
     publishedDateTime: 2020-01-30T09:24:00Z

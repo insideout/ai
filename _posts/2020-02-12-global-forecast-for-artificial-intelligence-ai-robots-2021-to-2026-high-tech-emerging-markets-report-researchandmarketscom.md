@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-excerpt: "The “2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report” report has been added to ResearchAndMarkets.com’s offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually, this report provides a ..."
-publishedDateTime: 2020-02-12T10:20:00Z
-webUrl: "https://apnews.com/Business Wire/a7905aef81874a06976be4dbb4f6fd81"
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually ..."
+publishedDateTime: 2020-02-12T10:12:00Z
+webUrl: "https://www.businesswire.com/news/home/20200212005347/en/Global-Forecast-Artificial-Intelligence-AI-Robots-2021"
 type: article
-quality: 21
-heat: -1
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200212005347/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
     title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
 
 related:
@@ -49,7 +50,20 @@ related:
       - url: "https://mms.businesswire.com/media/20200212005352/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+  - title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Banking, Financial Services, and Insurance industry vertical to hold the largest market ... With the help of data science platform, companies can train machine learning models on thousands of customer profiles with hundreds of data entries for each customer. North America to hold the largest market size during the forecast period ..."
+    publishedDateTime: 2020-02-12T15:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-data-science-platform-market-worth-1409-billion-2024-/2020/02/12/9096953.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
-secured: "dS06fBMrjGWSjZCPlnDxh4WsFxxOW6b8ond8wnQlpe+clc3jw5mWjQ+HRMjI0BaseBkH3Plu4yDcweR1CSEfrbzx9KS3VrKz/rlH/1x3jZnIbgn8s7VcdChX8G6mmCNqswGtwaHo2908WD1Z/qTdmedz0fXDpoT4WaX0hO52UB6+mJwww9A65Ls9ZmitxlZ12wfYtcFLEeyJ6ZZBlH8GJbM/97mPss/cdurHsEQBEJwSCLPOzn2PVvpZz05ugauFKIhTnf+FS/2b7Bz/2UMvsG6qCe6Ayftb/cxgMjt9+QWr5uY0STuWPBzqGjV8RpZV;vciHcCthw0r9cQtMBSAnPA=="
+secured: "0PAQUCJeD5L7CnGPBk+/5TGjvi1hVEwNQieISNJuV0r73WeZhbidx+ClF6UwZ7RM1/4i0wxX+KqO7LJgy+QO2lshE+rYoDSuisz7TPwc5rdrHZL3DYGYn6+073UII8Lpv80glVDeOv8zlvRKJyumtP4R0+HZ41UBf4WuGvQKoSQ+SHD38h7X7vCqpx1zBBaHBKr8CzutaqzZKMZnb+3AP0cAYBTrfaQLx0IJyFWvW7QWyQWid7n7fgHNBr3tUIPZLdMAqkP3ZP4jsU3nHckvQCuraTm4v5MJrrlLXEIahN7lkUyOqloO+V8t9hEsJIgE;ZBwSp/5SDLVYyD25vIcsyw=="
 ---
 

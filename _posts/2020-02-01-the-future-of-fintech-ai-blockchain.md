@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-01T03:19:00Z
 webUrl: "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
         width: 1199
         height: 628
-  - title: "Stock Bots: The Future of Financial Trading?"
-    excerpt: "Stock Bots: The Future of Financial Trading? Humans still program the algorithms and design their ... They cannot think or feel, and despite the hype around machine learning, it’s still contentious and complicated to describe them as intelligent. Like human traders, however, they make decisions, observe others making decisions, and adjust ..."
-    publishedDateTime: 2020-01-29T15:56:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/stock-bots-future-financial-trading-117806"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 24
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/sdfgg.jpg"
-        width: 1305
-        height: 863
   - title: "The Future of Financial Services: 3 Technologies Poised to Change Your Experience"
     excerpt: "But financial services companies today are already well on their way to changing this experience, and three technologies are key to this transformation: APIs, adaptive intelligence (AI)/machine learning, and blockchain. These key strategies involve leveraging large troughs of data so banks can become an integral part of the consumers’ journey ..."
     publishedDateTime: 2020-02-01T02:16:00Z
