@@ -25,6 +25,6 @@ images:
     height: 480
     title: "Platinum Equity Acquires Centerfield, LogMeIn Launches Marketplace, More News"
 
-secured: "Xnp7xvt0SaYLOrHia5dka//TWbGOTuNLn91bmdIE5OlfmstoojrvCJvVPorpD0uOaUVfD5gdV9KbVHnoNlVH560VproGkdrH49l1bWQiMJAd+yurf9CwXpen2fnQ+iBf1pV0U7D7rsTHMAlP3TkLOx+jzSmHaiWtuTz1Xsf2rV+awjrIhqEuBZoPlB14gQcHsztgANHvm306QK3lzkpso8wUuZsxRgsCk07ESS1BX4qWeEkzdPHF98uZ6KTdA/BFX6CUnzu2GfKmmd5Es4HaaC/p/A0NioO5dJo+xCBB32uZBUNNEwBvCFz6lVTq+zUN;4OrAs8JkWyqQHzGYvsQmdA=="
+secured: "FUOezTwifGDylBlslcpulLBLLERMyglp0dJ8ppgr6I2J2tjjZZbC+ivHZqs2G28ItwFjYoVDyCvqEtyDMfTbYaRGdwKzOBEMlqQWDyBP5ErtVnwb4/t8ilqjC4aakPVhlp5TDryCmYtfKegUHWO/Qmi1ssCV8/VYKEsFZ3xB7DmYZNN9HmAvTteN7b3bCP0yeopdc53lFd22vbrh5dB8bO2pLGTJrGZfC21KCT0nVySpFc3mSRT+mcOy2IsNMbZB25VMVkHDbGNV/cn+Ck8hjeWclkkgdWrj3+iLZtj/4Ln3Fa6IehMcN7dy/weNKoDQ;LTzBHbhrkvYWD2BMjdyCeg=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/amp
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 628
     title: "Pros And Cons Of Artificial Intelligence"
-
-related:
-  - title: "Banks adopt AI to manage sanctions and compliance risk"
-    excerpt: "Bankers at one US bank’s trade finance team say they have met with regulators to discuss how AI can be used to track the movement of goods, for example, by using technology to highlight red flags such as an auto supplier selling food that could suggest some form of fraud or money laundering. There are some thorny exceptions to this system in ..."
-    publishedDateTime: 2020-01-30T04:30:00Z
-    webUrl: "https://www.ft.com/content/98e82234-16a8-11ea-b869-0971bffac109"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "fBjBfyhQXY/quYyBdcM/C4+LWcSVhsOQ5j7BDevlCuC0AC/z5b9doXdGnF9GmptizXM8wZjPgbt0E1q5bZdrZ4zvbiXc5REzBRfHNKB6gHVO2PDDriwrQ4euXLXrHSUSYXOLk7s/+vpqRHOOF1rgYgp6/5lLqlp8vcbqL4b6sICnFp7irFM5C45Bpi/En2nUbEbsTzZuaMZZ8ZTDZi2FrIrFvdsUcL0w8XB7qA7IrFx6dSE3pszNDdMzGvV3bVZa3f4O3QodOc8MAJs9Pv6Cl2RgntVWe7QcliYHq7L3czG7xtYLlM6Sb+yclbWnTiCn/3nT0ZcGtNJndvpqKhGgEzCpIs+0wkOaWokVb94bbxxArBWkiFQTYMYWiQZxpAF4jGUmpTD1kX+k+GwS5Ns99m7OBr6Ghm4I3pKmS7CK3giSMXFyFUtXUgX1SvjOVKXNvjmFg467JhktH523Xnb4WcTEHwl6j8O7bcKXxKH9Aog=;vm/HtGBrHYrW/uj9O0vu6w=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T10:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026-2020-02-04"
 type: article
 quality: 69
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -115,19 +115,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning In Automobile Market Latest Advancements and Industry Outlook 2020 to 2026"
-    excerpt: "The report presents an in-depth assessment of the Machine Learning In Automobile including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
-    publishedDateTime: 2020-01-30T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-latest-advancements-and-industry-outlook-2020-to-2026-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

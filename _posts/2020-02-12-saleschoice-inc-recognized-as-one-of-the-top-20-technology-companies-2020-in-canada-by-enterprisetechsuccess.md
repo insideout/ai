@@ -23,6 +23,6 @@ images:
     height: 2000
     title: "SalesChoice Inc. recognized as one of the “Top 20 Technology Companies 2020 in Canada” by Enterprisetechsuccess"
 
-secured: "0uvwWZwMucUMpUlSA1sfaKCShJ3auRkCa6a8B3ehCT5JQ6D4fsSqaHxAhirOYkuCLSePKnIbCmykDpFotpv1n5uRmvXT/GJHKT35ECdnPORP8NNyo+jJ6tVCsoNUrPwjYWGNtonZy4xmc89LZ0TlSD6G5l/DBS0w0OYI3TFbJR0AfJNvVkomx0O/otSKvaKxQrqjOA/PCDNTWRWmzwTcdk1IDsS1noiVN2tkyGVQwucAKOYD94YdhZim4+EMNbqnDJGFyMa7/5Rg2ydKqXITIjai1P/rJQQwl7ELmoDxkq8aVMlhLDAUgsK/D3Ku5qt4;U9Q+PU3ouI/Ti7HjyP3JVA=="
+secured: "2172S9oJpg+fJWXJ8TcD5IheTdjzA9rawXNzxAIFaBxTpLveVHmPXmSB/mE0CbdCfcRAdHDhim4XzZO/jh68Su3ZIFqrkC7ZFavDeobQmJuevYxVdPUs/A69nQYP6Yv+aUeL4hYUiR0E+/bXAALglqVHiTBOGM4xXFGJ6Ifd1SLFIpgHlKNK+ZCQ5/7G1o+eDNYNoVDHH6TFWbCTUYIMVIdISkPaI/K6cSQ33Fvlt3KWaAwII1ijFcd6OXTwdoqklUtV/4QYR0H7l8o8juDOK4v/FNcM0/9kBnUb3EpUEz3DTE8yrechRA1JnFcmQDGic8TvzVwmpguNOb5tOa48HsMTxcJyk3BVLwlPZ4PbW2U4+mxNgf4YNtKK9sO2gnqRP7yTVaOVlD/ejhxWOskCoANxw1FSv/C6LCoJtH0Torca/OoWwNpBs34OmAyukEOCkezPqI2jtx4jY4U5uEB1s2FE328WFBVFuh7kDjdDxhI=;O7cNaSftxonnHBo0WuL/Qg=="
 ---
 

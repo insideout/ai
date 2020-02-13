@@ -1,7 +1,7 @@
 ---
 category: news
 title: "How is your company managing its AI and ML initiatives?"
-excerpt: "When it comes to artificial intelligence (AI) and machine learning (ML) projects, the biggest challenge for CXOs isn't necessarily deployment, but rather, managing these initiatives. For example, what do you anticipate your AI/ML budget will look like?"
+excerpt: "When it comes to artificial intelligence (AI) and machine learning (ML) projects, the biggest challenge for CXOs isn't necessarily deployment, but rather, managing these initiatives. For example, what do you anticipate your AI/ML budget will look like? What business areas are you applying AI/ML in? How knowledgeable is your upper management ..."
 publishedDateTime: 2020-02-13T16:05:00Z
 webUrl: "https://www.zdnet.com/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
@@ -70,6 +70,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "G6xOTL1pCDai09ZmDmk5k3btr9m6UPaJmvz1rRy3IbN1XIuM6G33seB94ZYteCWewF0KLf44OMgQNTcqRxOvsOxFNt9b/IHqhMuWHFgxyCDx2FxRlJCpaF0G3lkHW879xOyTUTRI6zPlkxi9pBiK5XSHpLPAgtE+ydQClLJaPBTL7Gv4ttwbiqFhLLayw2BqavBaK2CqZopdUhxgrAAJxkyZcu8T4sWeSTk74uR16Cj5Q/vtZu/N6ltpCzv4bODGMvTkmbddS5/w7mzfLPW4PVH8noihSHTfdrkm9jy99svsUTyQFbH5GWqnaiy8QIGGudJi3EZluWq9w5xGK0rutYw15by523OqJZ7yweWf5bGAJ2M9advmSbJYFFXkUxyyU/XwUnE85EbopU9LHzlHpkFwQfcnfUFwB2zDxPHEVQekGuPLyaMaN07aAdGZf6cvYuTc8753kIxadNiGYAO9ia1GRjEewhXIBWPmv400D9I=;FooQTtWEzZLFFzjzYg5lPw=="
+secured: "3QuF7Dz3gE25PJL5S6hxdLh5Y/Zz2Zl3DSXcf4Lqq+9ZifwX9ka+ztVQlDbB2s2qNRPStc4X0jbXiK0u8CEATvmZBu4eFhDDm6otFW749kDsJXnwZS0pF1yV/rVEO4KMvMBSjTaKfiY8OXHiFADT3Xak/PQW0Dg7iRVTNMPk3ppKYXpe2Ak4AcNy8I6GUaocVMZcbW7pEPElo0eBHtEW01ZqBHTY/48Fc/PhkPU5m6lTgDf/AkMy9+6IW41SMowUZz1AGoOwLArVZQRezRMD1zs0/qWo6XMXGqjYEXyccFUQHjOBPWZZXwd0p4LjDgCxTZymOrd1esYFB+1BnmR+WfSMxBTJZJb2jlG82mndLhlkZ8J4gWtkwkOYoIu+XkJ2c7oDISjP/zDb45xZuj5iqwMaPeicMPaZlgeEcKmm3eSVWf/p0SZVqoYB4OVJkd/PE3YVkQyBZdYopu6VyfIWLjXp7BQxajxSFw0SwDTWXs4=;jjMB4Pr7bPOq2Z5EcXIr7A=="
 ---
 
