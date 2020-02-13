@@ -4,12 +4,10 @@ title: "Reality Engines offers a deep learning tour de force to challenge Amazon
 excerpt: "They make use of a mish-mash of technology such as \"AutoML,\" of varying sophistication and quality. The Reality Engines offering goes up a level above simple program functions like those to more substantial corporate applications. They include such apps as how to optimize a company's spend on cloud computing services fees; financial metrics ..."
 publishedDateTime: 2020-01-28T17:28:00Z
 webUrl: "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
 type: article
-quality: 92
-heat: 92
-published: true
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: ZDNet
@@ -23,12 +21,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/28/c09d9ffd-7104-467f-a7bd-207a377162ca/crop/2114x1588+89+0/df2670fd400eaf01050ef3a769fc3c10/reality-engines-dagan-training-outline-jan-2020.png"
-    width: 2114
-    height: 1588
-    title: "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI"
-
-secured: "RI1tzHig0ByumE8qgcRvWLrPD73vmpdPueooiig1eViKHd62xK5zHMQ1jBUP9HmG/OWXzUmc9vf8cgN3EMzsJVUFWXkZZIR12EYkLeXdwY2Jl8XZ7VEjgCGYqbVyxV9FUx1MIc81PzGT09zYVk+X0mtskhtU6/5ijYAHbgy4Np2LcTcXVGD8+rEBIjdk5mYYhkRQr6cumwoTIGjFK6y1oxDrhPqpoYV/l1+SMXhu9Qk+r8QWVzbG4qj0I0WaGi//53yDJVDrnwuvvdqXKjtLWe7LQHKlpvBAaXwt/mIEywF4QwbYpGavFt4I+Do/6nQI;E2ZjCLlkgJBTt0dNZoOqbw=="
+secured: "7kHKt7LNanGJkMtxO7aUn/rsElRP4dXaw43ZzEKYtUFx6nOOADfFTJxI2B5abxtR3Z12v3OXbLAD5K2WvMnebepvcf/2Uhj/HqXXOafgeiWYsbQOzsL8jGjX5sLayA6VW3593aDSKNCTS23I6C95UvHPovJYQIdjRDiGu3sdbjBHmVadfTalsEQ5L8Y0xuSmo7RTC8wWdXsxaUHObumdN8EclDeJxhDGAfIlShimaiVNPlcZ8tidjlz67lRy3qmYnieilGpsd9OJtiGN22aEp2k/Wo2wKK+vn9/NU+tjapQlcedTKx6cH7kPGK2yDmDEguerAS6iU87euHk6wiaviezZ5p4b4vFVGa8DJGcQCPw6kfv7pO3hKl6yJJvHLdFeDTf57tjrvlrJ/Uv42z+9oAxu7Q7t7+mr3CEPD4g/vWs+3uJojxLuUZiUENu0c7G4ycrFPQ4WmQHQ1zUoWIbBzhrFg/xoG4GNCiKSGPO9Ii8=;W68q3d7X5ryol6YYjtu7YQ=="
 ---
 

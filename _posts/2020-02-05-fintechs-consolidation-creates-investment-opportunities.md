@@ -8,8 +8,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-inves
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Nasdaq
@@ -26,30 +26,41 @@ images:
     title: "Fintech's Consolidation Creates Investment Opportunities"
 
 related:
-  - title: "Executives Report AI Investment Up, But Implementations Lag Expectations"
-    excerpt: "Side face of AI robot by network form. Is there a lag between enthusiasm for investment in Artificial Intelligence (AI) capabilities and delivery of AI results? Apparently so. A 2019 Harvard Business Review article,"
-    publishedDateTime: 2020-02-02T16:18:00Z
-    webUrl: "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/"
-    ampWebUrl: "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/"
+  - title: "The Future Of Android Integration In The Fintech industry"
+    excerpt: "Though there are a number of benefits to Fintech technology and the effect that it has had on the market, it is also important to note that this style of financial payment will require further development in security. With Visa and a number of other companies using Ai and other technologies to create a highly secure two-step verification ..."
+    publishedDateTime: 2020-02-05T08:11:00Z
+    webUrl: "https://www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189020673%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D300%26cropY2%3D3506"
-        width: 1200
-        height: 675
-  - title: "AI: from experimentation to adoption"
-    excerpt: "has adopted IBM Watson and IBM Cloud to develop Ava, a new AI virtual Help-to-Buy mortgage adviser. Ava helps first time home buyers onto the property ladder by offering round the clock support ..."
-    publishedDateTime: 2020-01-31T11:13:00Z
-    webUrl: "https://www.techradar.com/in/news/ai-from-experimentation-to-adoption"
+      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/02/Trading-analysis-forex-chart-image-1.jpg"
+        width: 910
+        height: 607
+  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
+    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
+    publishedDateTime: 2020-02-04T04:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 49
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+  - title: "Uber Creates Uber Money Team In India With FinTech Focus"
+    excerpt: "The Uber Money team will be geared toward putting into place new payment methods, harnessing smart routing technologies for payment gateways, using Uber artificial intelligence (AI) models for intelligent risk decisions ... “The Uber Hyderabad Tech Centre has the best in class fintech talent specializing in risk, payments, financial reporting ..."
+    publishedDateTime: 2020-02-11T18:02:00Z
+    webUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/"
+    ampWebUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
   - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
     excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
     publishedDateTime: 2020-02-06T09:44:00Z

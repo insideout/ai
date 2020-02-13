@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-13T12:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: MarketWatch
@@ -32,13 +32,11 @@ related:
     excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
     publishedDateTime: 2020-01-14T14:43:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 83
+    quality: 63
   - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
     excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 ..."
     publishedDateTime: 2020-01-13T15:16:00Z
@@ -49,6 +47,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "bVbcD7uJ6zjjlYimlw1ZRSrJLACIfTmmepmb+Nij6vfs3XWDdRU8ntXwkmPgzG0H+ZLEsOjyTpEl+lFqWXqHu8ZsJc3FObMsHqi01zB9B4UrFK90QUk9LLkDLKMMXMpWyo7uc3PU7XH1PjDIw6UiAGQC3C5+k6RmFZMRtHHK+wjlgXN+dX4lhCtGdlUhTGSTxpvtXy/L++1krnyAxCub19YEX+HP/MR+aJF+3tMJak3lrgBCeBGtOJTqtD/Jr6YnsoueFzN4cyy+qDaAb7jOu9yPz7SZabaL7qDPsoXu+paCbA3YjXWiAQ4RZA3oxY0J;EHo2kOhpZlAHaWMpP47ULg=="
+secured: "54pzMF+EgUVMACgv8CBT3PQwudZ860hzygA9ibNhYKUifuRMIugMwAWQwNPTczdrp6y9AifZ77f3phsu0NrBBfr42/Qnw8Tzi3jC82rqnLVjjhl7I71tqPkmyIHC4ktO9vjsfhOLg2ksbz5vVjvo+oSM3jZr3s2fF3H/eSeiOm0pOcMpGHrRcYEPz9k0c3OQ1hi9GtDg5eLpsFoWim1bW2vA00+H26WZRKePyDMZxKJwYW9TpqKrJDdAiR9csf19AO1J0Oc5mvZWQ/HoEiraj9ZbpJToJdZ2XF14uAl6OoRfbYPe6cMM2jdzE6vSXfQI;1aP+S+7U4ib6dhJRXiqUnA=="
 ---
 

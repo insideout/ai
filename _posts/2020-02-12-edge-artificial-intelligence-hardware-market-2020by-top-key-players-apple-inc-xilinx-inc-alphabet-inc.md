@@ -63,15 +63,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Fintech Market Size, Share 2020, Growth Outlook – Microsoft, Google, IBM, Amazon Web Services, IPsoft"
-    excerpt: "Global Artificial Intelligence (AI) In Fintech Market is a comprehensive report which provides a detailed overview of the major driver, opportunities, challenges, current market trends and strategies impacting the global Artificial Intelligence (AI) In Fintech market in conjunction with calculation and forecast of size,"
-    publishedDateTime: 2020-02-11T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-2020-growth-outlook-microsoft-google-ibm-amazon-web-services-ipsoft-2020-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
 
 secured: "ALPL7s+Drzhuay1UlSG1fPLCekWgbmHSel86EG6lPfIhaYPuXJVWLCgd/xEwVl1LT2CUDbSYgFbRn510zTO8ccwLTzLgYe4DDivXf9I2T+wnJ3W1qTMN9kIZFAexZacv6CsEphqlg2cReza45QJDQdn1t/El6QvL/xj4Pa/5W5oyJIs4E1OntaHqBZWkB7IlE7TI+ewYnCJOM0Rt1qBC0zhXobpyEqSvDZVTCncX3EmFBt8vaXFjK8+4cFd/l5yEavVy36t1aFBeVrhX++Coz+NUilQ5Qjt4D9cMPSo/oRDqg8Xin13pUx3gOVlUrpNq;2kUEFcJu/4VS84FSDJUsNQ=="
 ---

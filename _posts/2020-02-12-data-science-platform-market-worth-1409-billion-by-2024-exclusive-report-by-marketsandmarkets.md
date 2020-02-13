@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T15:34:00Z
 webUrl: "https://www.tmcnet.com/usubmit/2020/02/12/9096953.htm"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     height: 335
     title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
-secured: "SfzNCrbbrE2saLxriPXdlAHkEoO3usJRD1sbWYRyUGf8WrDZw38bZxVCV8glgZJ4QxW/uuKu8HJYsE72t0650lfWrPMWnf1an+RTGdspKoycQcB1eoEFgsI/cMcTrEUlUuFa4pAD3HF3CVl5whyWLGVtr6G5uKVDZt1U0casZbR4PFDJf7dYMf2owfmDxij3A68wcwF+YOGnOAtbpStx33nXJYVssJvf6cImIYSbh1OL+iPSYeygrAcAtLiwtJNYc8c3IRRz/wb1vStD5Y32sT98b4dDAE6pghTBLsigBdfvbLjNfx6JN2wkbiHfCaEr;KPtO7wxppYxrcWw+q4hTUw=="
+related:
+  - title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually ..."
+    publishedDateTime: 2020-02-12T10:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200212005347/en/Global-Forecast-Artificial-Intelligence-AI-Robots-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 38
+    images:
+      - url: "https://mms.businesswire.com/media/20200212005347/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+  - title: "2020 Study on Reinforcement Learning: Drivers, Restraints & Opportunities - ResearchAndMarkets.com"
+    excerpt: "The Report Includes: A general framework for deep Reinforcement Learning (RL) - also known as a semi-supervised learning model in the machine learning paradigm Assessing the breadth and depth of RL applications in real-world domains, including increased data efficiency and stability as well as multi-tasking Understanding of the RL algorithm ..."
+    publishedDateTime: 2020-02-11T09:27:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200211005482/en/2020-Study-Reinforcement-Learning-Drivers-Restraints-Opportunities"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 25
+    images:
+      - url: "https://mms.businesswire.com/media/20200211005482/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+  - title: "Global Forecast for Artificial Intelligence (AI) Chipsets (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Chipsets (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate ..."
+    publishedDateTime: 2020-02-12T10:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200212005352/en/Global-Forecast-Artificial-Intelligence-AI-Chipsets-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 20
+    images:
+      - url: "https://mms.businesswire.com/media/20200212005352/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+
+secured: "3hRR15ig/sW3D9fXAf+Y3OvLr0e32xe2Up8TL4wsPhPE+D+Tv93vZcb2IzFEFi8kuqW+jGolbwUgnEPWCe48TGh2O8V/wZ/syodLZOml57BPQnBDEQo8BQK9Fi9k+JNmPiF5qecyNMbUIMdHZ9n97MviKRUV7BeBzm92/R7oK9/Wm3EOtNXwFa2RbpWxR5CqWNJlyP9MG7a15haLrfV/OAm6pOTPyAWDD/g1c7AF0JHTDepeVyYy3cVgHUEyMNLJUQAedgV9jSASDk8HduDrrYu5JvjzTlnsYZzimSpAU8H1J048KulwwtbJdYK/ZcS+;71LzWXtKMJ1LnSkMpkv/Qw=="
 ---
 

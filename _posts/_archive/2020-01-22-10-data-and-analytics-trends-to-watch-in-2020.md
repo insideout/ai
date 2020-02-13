@@ -4,11 +4,9 @@ title: "10 Data and Analytics Trends to Watch in 2020"
 excerpt: "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also ..."
 publishedDateTime: 2020-01-22T16:31:00Z
 webUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191"
-ampWebUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
-cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "oVZ2bZlagbvwa/r35dWuOMcvFF96pXyZtBF6FVbhwMvYqK3Z+SF9DAP873RAPkxmMQ9ZoDcYlSZHjl6I5fQOqrdn6Dz/HudLhiXSGBJiA7ylg1EtP1lPr47ujAnrLAXVbBHlnOXwk075QQ/tnk7ylxqcw6+D074Qlviuf74loytumvhjtvJ9lE23HCMor0wVSrBpfxU5sZbjC9QUPBtQ4JXvdcfACuQd1I9WlSK61+WylQ4lVZD/1HnlwqlB0fil/PD6anDbGfu95Ik9KRkw/Dd9Jy0VAA83MGDKJF5g4XIdFYfcaqkWtcwmft1pJHK/;W9XuwataAixsYruj0z8p/A=="
+secured: "+m2Ox68EQhmhfleBE2TG1zEx45Sjl6n5iFqkiDj4f1JNjGvZYirT8sK/sW5omUi7CFmsaQulk0aclOZdT2fuS474BOskMGDeUx/P7/GBd8d6c2tX1mnniWUD8Z2pQVHj7ry2Nvz4kea1Ta/dukuUGnMkpLvicAhTBTtFaO0T1fqy0ZZEEJlvEBIg1g2Gy2LIW937TyW050kj1lFyjNERXV3xvRYoQI4bGOPEaDrur++Vaf4wM9xFlTAdb8X9Wqv5rya83OO6nQLKwTqhARvAJaMpbobwrQOexpcTO3rgYK0dKCaCmmebFLF22iagu1io;Sqv1xqlZvmVOTYa8f4mqSA=="
 ---
 

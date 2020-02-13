@@ -4,12 +4,10 @@ title: "Why most self-driving car companies use these 3 models"
 excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
 publishedDateTime: 2020-01-21T20:54:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
-ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Mashable
@@ -19,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
-    width: 1200
-    height: 630
-    title: "Why most self-driving car companies use these 3 models"
-
-secured: "WwAUrc5W2v61ew8BBcbYCAJ4/LfkW7dfGBDboS7de5MDoprAjXDg3xUMq9RK5DH5CKQZTwkGBoJlRlA8K3e1jw1rpOwFm+9/c1FauincNIZm30oqmd6rVXajYd6Fe20nudjVDsh2qbuDGFeQolzGz1PDWwnmZENjscuHQYSEFTFvEfiTMRiiDMtDszkIjJeNIhS4WuQPDSeD4EMjY/3qdaJKUfQpOQ+avFlZqN/6zGsVVi4B6+Qw1th0YP/aOVPgkFyZNQF+7cMwFub8AtPDHb5Lqn6hquLNIdjCpDF+qWXeK3dhE8FqKIMLg1+RdaLm;z8itu6nJQY8QYPhO9drlXw=="
+secured: "OGuzUxWoDkJLcAYPOKMutTflzlE53GmalDilIZZRpNuxm++W24UlgLn6vnMsPtluTu6CoXB+yjS2V24Fbl8ShNoH/5/Q4dldqzWqYIBZERxK5HRyHosRbjeGXxsnQnbYmaOes+nj7svfUrQaGnIiPAAIxhwu/5hecJ8TH9xqiR4LQWMmdod/nw8r8PYdya0eQkmM/BpPnMyXQ7th8vhYtI7dv0jbZ596wUEgwK/q/f2/4IWFZgol+Ii/HgbQ9/nqGZuGCNDHWeSGH/MrN1Xjvq2EonIBsCda4jPzry7yuuIYmzRQCF3v129EaXQ+4kONUDUYHcUU8P1jS5kBN9eB7+SvldEDNKcHNOXUb0Tijnitj6Iw5qwr6S4kuyx7ILQZkrwUhznzLupJoGJ7yj/Fyvc/kF+2ShlVMVeYCJdqeNYpv7Vi3RxEESmTI5yaeD9zk9h/hSG2dRt8cjrhY7ZxcMCcz+6cOeYPmND6CM3f8zY=;5UWYfG59KqZzVRdlBQCy5A=="
 ---
 

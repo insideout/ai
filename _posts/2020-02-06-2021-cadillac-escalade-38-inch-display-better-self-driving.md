@@ -39,6 +39,19 @@ related:
       - url: "https://media.wired.com/photos/5e3c9fc2184f8b00092042da/master/pass/Transpo-2021-Cadillac-Escalade-053.jpg"
         width: 2400
         height: 1600
+  - title: "amazon launches self-driving toy car and a brand new competitive sports"
+    excerpt: "a diverse digital database that acts as a valuable guide in gaining insight and information about a product directly from the manufacturer, and serves as a rich reference point in developing a ..."
+    publishedDateTime: 2020-02-05T00:00:00Z
+    webUrl: "https://www.designboom.com/technology/amazon-aws-deepracer-self-driving-car-11-29-2018/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 24
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2018/11/amazon-aws-deepracer-self-driving-car-1200.jpg"
+        width: 1200
+        height: 630
   - title: "Magna: The Ultimate Winner Of Self-Driving Is Boringly Profitable"
     excerpt: "Companies at the forefront of the self-driving revolution have collectively deployed $100 billion into this futuristic technology over the past few years. Canadian auto parts giant Magna International stands to gain from this wave of investments. The company has strategic alliances with manufacturers and innovators which allow it to deploy new ..."
     publishedDateTime: 2020-02-06T17:35:00Z

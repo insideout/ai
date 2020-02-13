@@ -1,28 +1,22 @@
 ---
 category: news
 title: "dotData Achieves AWS Machine Learning Competency Status"
-excerpt: "... ML Competency status only eight months after joining the AWS Partner Network (APN). The certification recognizes dotData as an APN Partner that accelerates the full-cycle ML and data science process and provides validation that dotData has deep expertise in artificial intelligence (AI) and ML on AWS and can deliver their organization's ..."
-publishedDateTime: 2020-02-04T13:11:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-dotdata-achieves-aws-machine-learning-competency-status-/2020/02/04/9091610.htm"
+excerpt: "/PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that it"
+publishedDateTime: 2020-02-04T12:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/dotdata-achieves-aws-machine-learning-competency-status-300998268.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
-  - AWS AI
+  - Machine Learning
 
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "dotData Achieves AWS Machine Learning Competency Status"
-
-secured: "IRfMlGo5yTuiJ9aBesJlJ8rs/DcQq2AzvNRsve2IGavRoi2pH1kUFXkkZqT3dp4uZJBjfrYCUTGggXuZQGUM5r/1DX5/5qoeNCfEkQE1DLSTWwhzP4GN+q9yLI+LPw1aLp9ZRW/tpFm/g89/qEOS06JE6uZRSLeHt3MLIM+u04ZaXkAk6VF1aboGFBpB3HjoHu0fVMnK7E3o+Qq27aVAMtbdLoAS2fvn8WiymfWVL3az8fmRBrKP3QkJ8VBi1nZetJ+GILgO5IfRV+Oo6y7EavoIMTi50ELhcrGIo1Qw4t3jJRLytmG0UvDfbutV26n/;65i5pf64SaPhPezIDnxSsA=="
+secured: "Mh89uMWpaADr3rhKlJ0l+0lcDjj4N6qx7Pagsmgp+glHusW6B1hh3S98oHsa98DvaDyASnn5Y4xg+hMvOnojr/moqPzcZIwebIHADtBdLtQRcPd5PQtdmR0oslBTyztmg7D5BT/XxjDTwKxcTHmR2nPt9ewaiNDOKc3hl7ZjOJz70zAj6ZDRucKjQ36fRozU2vxeIgflFDaIh+bQU42lL86Tc6/faabN3FADOVCY1omT6+5kH7BYuN/3+q+A78zAOBwiBZCmHeEzxSfrRmkJj7AOMgiaiZ+03oS8O6ZVfMxvvGpBCPjHpgBGijF8Ldfa;RJ5kHreIAlJ93kjYVKbj/Q=="
 ---
 

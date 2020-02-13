@@ -24,49 +24,45 @@ images:
     title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
 
 related:
-  - title: "Artificial Intelligence in Computer Networks Market: Competitive Dynamics & Global Outlook 2026"
-    excerpt: "ReportsnReports released a new research report of 128 pages on title 'Global Artificial Intelligence in Computer Networks Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2026' with detailed analysis,"
-    publishedDateTime: 2020-02-04T09:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-competitive-dynamics-global-outlook-2026-2020-02-04"
+  - title: "Deep Learning Software Market Will Reflect Significant Growth Prospects during 2019 to 2026"
+    excerpt: "Ameco Research announced the latest market research report on \"Global Deep Learning Software Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Deep Learning Software Market,"
+    publishedDateTime: 2020-02-05T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-will-reflect-significant-growth-prospects-during-2019-to-2026-2020-02-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Military Market: Size, Production, Prospects, Consumption, Cost Structure, Competitive Landscape 2019-2024"
-    excerpt: "The Global Artificial Intelligence In Military Market report provides information by Key Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share,"
-    publishedDateTime: 2020-02-03T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-production-prospects-consumption-cost-structure-competitive-landscape-2019-2024-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Natural Language Processing (Statistical, Rule-Based & Hybrid) Market Outlook to 2024"
-    excerpt: "/PRNewswire/ -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends"
-    publishedDateTime: 2020-02-03T19:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-natural-language-processing-statistical-rule-based--hybrid-market-outlook-to-2024-300997768.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-  - title: "IoT Chip Market Outlook, 2020-2025 - 5G, AI, ML, Smart Homes, Smart Cities, and IoT Connected Devices in Electronics & Automotive Will Drive Growth"
-    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"IoT Chip Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The global IoT chip market is expected to register a CAGR of 13."
-    publishedDateTime: 2020-02-05T15:38:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980393/0/en/IoT-Chip-Market-Outlook-2020-2025-5G-AI-ML-Smart-Homes-Smart-Cities-and-IoT-Connected-Devices-in-Electronics-Automotive-Will-Drive-Growth.html"
+    quality: 39
+  - title: "Neural Network Software Markets, 2025"
+    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"Neural Network Software Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Neural Network Software Market was valued at USD 8."
+    publishedDateTime: 2020-01-31T11:16:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1978041/0/en/Neural-Network-Software-Markets-2025.html"
     type: article
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
+    quality: 19
+  - title: "Artificial Intelligence in Cybersecurity Market to Witness an Outstanding Growth during 2019-2030 | Intel, NVIDIA, IBM,"
+    excerpt: "Latest research report on ‘Global Artificial Intelligence in Cybersecurity Market’ delivers essential information ... IoT devices are used extensively by the healthcare, finance, and infrastructure sectors. The increasing number of connected devices and the growing need for the IoT have significantly contributed to the growing demand ..."
+    publishedDateTime: 2020-01-31T12:28:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38123/artificial-intelligence-in-cybersecurity-market/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 15
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
+  - title: "Artificial Intelligence Software in Security Market 2020-2027 witness to huge growth by top Nvidia, Intel, Xilinx, Samsung Electronics, Micron"
+    excerpt: "The Tax Compliance Software report additional predicts the dimensions and valuation of the global industry throughout the forecast amount. The Artificial Intelligence Software in Security Market report examines the economic status and prognosis of worldwide and major regions, in the prospect of all players, types and end-user application ..."
+    publishedDateTime: 2020-01-29T11:10:00Z
+    webUrl: "https://www.openpr.com/news/1912595/artificial-intelligence-software-in-security-market-2020-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 0
 
 secured: "FVQ6abjW255TUW9MqUBWwGSYNW/Xwle1Ybosnygy6noawexPDMnhXb4HU/1cS9N3zdFNCPocXUpYMgxKG82G1sd+ycywEABbAeT6FKXu0goXz0SdnJr27xRX0wKYGEU4CPERU1VtCaWO8IB8zvLMSeF3UOJpgRL+yzux8xh8scun0SV3Vf/D3AVBFClvH30ZHlaOJJlIWFvOQttWhwUsJZ6KSQZv+TvIj7at16c4cIYousfU1UB6XlrlZemB/I9PkJuv77R7AfUJnTrflGN6b+GNZHcYvrOlHaqkdVq712vKDez93koaw5QQjV8DgjsL5Ev4HEFBLh647CQyGxQba2OY/xDpX+7Es5o9qM0jKQxIs+6AQhJnRVI8CbxFuniO8Z8aOYKNnL43FWPjMRXjOKkO2YCi4+zFPwp4gv1IlrdnP/NOYB9fLZg62U0nbVjKAyz1/KTHC11KjgLqypeD2Z7T5sJ4BiCxA7XWJBarZlg=;2PaE21FkecnyGCzfra4J8A=="

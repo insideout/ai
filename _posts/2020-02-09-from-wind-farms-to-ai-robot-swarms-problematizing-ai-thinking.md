@@ -1,9 +1,9 @@
 ---
 category: news
-title: "From Wind farms to AI Robot Swarms — problematizing AI thinking."
-excerpt: "‘The team will use the data to create artificial intelligence algorithms that guide ... to supplant human agents (like Mitsuku or even Waymo), and economic and valorisation [2] rewards prove ..."
-publishedDateTime: 2020-02-09T08:05:00Z
-webUrl: "https://medium.com/@adhart81/from-wind-farms-to-ai-robot-swarms-problematizing-ai-thinking-f3b47c7f38bd"
+title: "From Wind Farms to AI Robot Swarms — Problematizing AI Thinking"
+excerpt: "‘The team will use the data to create artificial intelligence algorithms that guide ... to supplant human agents (like Mitsuku or even Waymo), and economic and valorization [2] rewards prove ..."
+publishedDateTime: 2020-02-09T18:30:00Z
+webUrl: "https://medium.com/towards-artificial-intelligence/from-wind-farms-to-ai-robot-swarms-problematizing-ai-thinking-f3b47c7f38bd"
 type: article
 quality: 69
 heat: 69
@@ -25,8 +25,8 @@ images:
   - url: "https://miro.medium.com/max/752/1*wz1TN6-0r6AywkpQzIeCLQ.jpeg"
     width: 752
     height: 423
-    title: "From Wind farms to AI Robot Swarms — problematizing AI thinking."
+    title: "From Wind Farms to AI Robot Swarms — Problematizing AI Thinking"
 
-secured: "v71PgDNrauAF4KQi1uRlQEBqZC7iZXY75EPgRw5vk5Z1EotIwy+NupD+fiDpa3+IsVKRg9QRuPYX8mS2btxqDqZJwd9tjYzfAOjRgfz+O/B60ztsgOIiQsT2yK+5a6Ui0cms5AWS3zIzkO1vLqkECxQ5oL0JDtuhoyBO0Ryljei+X9uya7XjaGzTYWE3omt3QYoZRGGKq+Gy92u2SEwkdiK4UqS6sMVUhWKvnl33rP3speEeYxzHRbUaTOy3asKVVkni+q5AVZbX3fzvbupXn4ZsQaGOa5MrnYN4/xHkPoreDZTvHYBPdDnYmLGEXKgb;Ls2BLcWan1jUBuSX12es6g=="
+secured: "uVujUIjG31vCblck6T7HJBqDDnxbOBYx3eL+zqKM2jGcKZMG7kjhJYDQUGN9xSDc8zamP+1d1p/aXxsHZ+Lhfcb2WCBp9DcpBQeHT6+gzg8/NEdcRQa8vXTGdP1+K35kdknUVY0qizSxYEnGYRHU0rKmmAE5ZHdF+LoqUh/2fajgA6U2WnexkaSdqCNAFhAPDtrCJF5SgRTQ8icgKOHDh5sHoOh7zkkH7qlZD2CtQ4wLI0l8TfgRTiaiRgUgND2vPnvJXuSyFe2rqGslrxApNOxw7I97y3xczSzdyyjtBCm0izbu7vBPPcczuVqEWl98;jtDXsOakkHXROqaJuspuFg=="
 ---
 

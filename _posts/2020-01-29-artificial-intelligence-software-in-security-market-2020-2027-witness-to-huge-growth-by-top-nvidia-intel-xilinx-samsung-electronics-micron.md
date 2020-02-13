@@ -17,19 +17,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Software Market to Witness Huge Growth by 2025"
-    excerpt: "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data."
-    publishedDateTime: 2020-02-05T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Deep Learning Software Market Will Reflect Significant Growth Prospects during 2019 to 2026"
     excerpt: "Ameco Research announced the latest market research report on \"Global Deep Learning Software Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Deep Learning Software Market,"
     publishedDateTime: 2020-02-05T09:59:00Z
@@ -61,6 +48,19 @@ related:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600
         height: 246
+  - title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application, Geographical Outlook - Global Industry Analysis and Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's ..."
+    publishedDateTime: 2020-02-05T09:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005339/en/Global-Artificial-Intelligence-Agriculture-Market-Expected-Grow"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20200205005339/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "8fQFyUbkZ4eFWtiix1lEFoEmD+ZwvhDGxFfHw9E+4cqj185NocZTAf9LtJFbA6IPYzPy6+Lc15o2siGTMfFBdvdM0U5m1+vHE7E6fSEDSzXoNm6oduMP/pnfe3ViO0UpfSq1WnGC+y6dYvA4D10eiD3W5fwkUHb/UQX6bWFcFid5A6DDAYzQYIBcMYj+UG8gcUsnJ2uy8CJTDzjBV1LIfKAjNutn93c3LcaDhPmxTR92x+WesaDU7WM4rjpeJwE3y4gmwwLdhQ5UPdapS/YC7LLmCJejt6627svNroqOK1+8nGj6ZZPBjkIWQ8+yfVBW;6WqZlEi84bv8+rxk/bkQEQ=="
 ---

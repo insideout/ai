@@ -39,15 +39,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinemoorman%2Ffiles%2F2020%2F02%2FAI-F1.png"
         width: 1200
         height: 588
-  - title: "Global Computer Vision System Market: What is likely to challenge market growth?"
-    excerpt: "The Global Computer Vision System Market report has been compiled by the best subject matter experts and marketing research professionals to make sure that the info within the report is obtained from the foremost authentic sources and therefore the forecast is of the very best accuracy. This report studies the Computer Vision System Market ..."
-    publishedDateTime: 2020-01-29T06:34:00Z
-    webUrl: "https://www.openpr.com/news/1912099/global-computer-vision-system-market-what-is-likely"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
   - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
     excerpt: "/PRNewswire/ -- According to the new market research report \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
     publishedDateTime: 2020-02-04T14:30:00Z

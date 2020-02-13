@@ -5,7 +5,7 @@ excerpt: "The US Army uses facial and object recognition technologies to train a
 publishedDateTime: 2020-01-28T09:26:00Z
 webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-    width: 620
-    height: 465
-    title: "US Army develops AI facial recognition protection"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -69,21 +63,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
         width: 1200
         height: 800
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-        width: 1200
-        height: 763
   - title: "EU drops idea of facial recognition ban in public areas: paper"
     excerpt: "The European Union has scrapped the possibility of a ban on facial recognition technology in public spaces, according to the latest proposals seen by Reuters. An earlier draft by the European Commission had broached the idea of a moratorium of up to five years to give the bloc time to work out how to prevent abuses."
     publishedDateTime: 2020-01-29T23:11:00Z
@@ -376,6 +355,15 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
+  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
+    publishedDateTime: 2020-01-27T09:55:00Z
+    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 61
   - title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
     excerpt: "We have Woody Bledsoe to thank for being one of the fathers of facial recognition technology. In the early ’60s, this sharecropper’s son from Maysville, Oklahoma was a pioneer in having machines recognize faces. Bledsoe’s early research into facial recognition technology attracted fans, most particularly, the U.S. government and the CIA ..."
     publishedDateTime: 2020-01-29T16:44:00Z
@@ -1367,6 +1355,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "CS4aY9pb7GzdcWfP9/6g8cWzUbUONkkLQ04R1+Hi1TeRtFQUe9fiyPFDlGxU61FNtDd/N5U6JgwZQqZlZ9EUIgUPK0V9BuUEI6eAAr5bDMnIDGPFgt8UTvIf5nWE0VhLIcoFsGjO+MQFIpEUrBlZDhrAx19Yt5VW4F5/7Ve/7x4eOIyw1e5rzX+6EAcWXIS13wfUSwV6iBbf5BHgSTi2hwC1ZbWXqVM4nZ9N7MGGgzcBKQjPvVRqyq2sLeFdmmdZo1xW0FiZL7nr52tNLeYepg92C5D6iJjJdWZdD6kz/UQEQJTpRZPTs65EkaE6nFcJ;R8R3CHo7ADsgNFdPEkKNGA=="
+secured: "fIjxV6i6GPX6NIZfTwJEjEVp7FqCpik0Qgb6H5TdD5JSYUrbwq+M5LG6PLvndxQQaZMH9eIu3Ho8oaDNoyGpm4mdcC36CSb+m3jj/dIO5bzQcGqvAjNLqWFvArLcfLyIsdD/x5nhrtlSE/dcj2aQX8coWltcgd2xGx09sl7nQc3flh1kspyewfdAxgXOerQGscUbl/6XZbKs7+dtI9lTLsTEUf/ju7eoEFiXRVV33P7G3fKgZ+X4qdp89lEMksXbLXemUR3GN/H6OGCmpqj951RrVU0LJF6hewsuFF9ds15O/fhpIcauZA1UCRhmOLIx;tqn9WhcEJpAF4JdlGuLX6A=="
 ---
 

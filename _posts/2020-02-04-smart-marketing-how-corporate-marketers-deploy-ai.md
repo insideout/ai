@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marke
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/AI-silicon-shutterstock-675x380.jpg"
         width: 675
         height: 380
-  - title: "Global Computer Vision System Market: What is likely to challenge market growth?"
-    excerpt: "The Global Computer Vision System Market report has been compiled by the best subject matter experts and marketing research professionals to make sure that the info within the report is obtained from the foremost authentic sources and therefore the forecast is of the very best accuracy. This report studies the Computer Vision System Market ..."
-    publishedDateTime: 2020-01-29T06:34:00Z
-    webUrl: "https://www.openpr.com/news/1912099/global-computer-vision-system-market-what-is-likely"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
   - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
     excerpt: "/PRNewswire/ -- According to the new market research report \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
     publishedDateTime: 2020-02-04T14:30:00Z

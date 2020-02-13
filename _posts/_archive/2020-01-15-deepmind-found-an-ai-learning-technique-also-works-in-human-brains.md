@@ -4,10 +4,8 @@ title: "DeepMind found an AI learning technique also works in human brains"
 excerpt: "Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new explanation ..."
 publishedDateTime: 2020-01-15T18:40:00Z
 webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
-ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
-cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -24,18 +22,12 @@ related:
     excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works."
     publishedDateTime: 2020-01-16T20:54:00Z
     webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
-    ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
-    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
     type: article
     provider:
       name: Independent
       domain: independent.co.uk
-    quality: 78
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/16/14/deepmind-artificial-intelligence-brain.jpg"
-        width: 2500
-        height: 1875
+    quality: 38
 
-secured: "zAU9tg6bJ/DEiIVccEvmZBycp8IoT44jQjJjkejFVekSI8IDUDGANun0NUTkOB9uGTqQpKvlusRYtAP7uSWmjnPm603715vU7Xu4r6tEfrxGNlGAbi/VJ+rTsQOzLIFLyJGfac/o+OY6lKrQXGh5isN3lYag/cW77+MddVbsdzRRDiiSQVZ/CT0o9AJaRuBy4m93SXayIrI1iGGLAG9fCxOOaE52rSFJv5aeq4nxX3SpUO8PTBs9bDYxdO/3/jxHvE3QjJLNATgrCNJSAU+tglykjoC3fnthaxmaEbhVp1ciEr8GX/ie6FvhWpf+bwxV;uWBQNdudQmEx9JtW4AlOuQ=="
+secured: "U1ohg5+9Ilko7fGRK8ig6OaG9CEFT+suzbrp9wJ96uT/CXKQCoYdnQNvoHI/zbOBl4GQ+QXawgsPtbSNu0wOYmFO2f+SnXZkWni54tw7EqDSz/dmHxz7W2dzsdMMXegvvAcD/sVWCkvEQ+GPXZbM/nTM6kZuiAnM/STumkHwLPpCAhBW6oVQVOU5XWBKAcJx7e0tWvCnyvwAAFS25mF3MwNr2Q9JTPP75SV47zPVoIck6my8sTzYBkvKByHyk/cHqCU1Cuu2ZQy1UyT6XxxvN2sDtFjC2RHJp5Kike+pVZLOQJxhb2EbmwidIpl0g3ee;/7Y02K3ZV/CATL0/SrpK8Q=="
 ---
 
