@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T17:17:00Z
 webUrl: "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/"
 type: article
 quality: 154
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -24,21 +24,36 @@ images:
     title: "Army looks to block data ‘poisoning’ in facial recognition, AI"
 
 related:
-  - title: "Chino, Calif., PD to Hold Forum on Facial Recognition Tech"
-    excerpt: "(TNS) — Facial recognition technology is already used by several agencies in California's Inland Empire, and the Chino, Calif., Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the ..."
-    publishedDateTime: 2020-02-12T16:53:00Z
-    webUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
+  - title: "LG CNS deploys AI facial recognition gate service"
+    excerpt: "LG CNS has deployed a facial recognition gate control service that runs on artificial intelligence (AI) software at its headquarters in Seoul, the company has announced. The solution, made in collaboration with Chinese AI firm SenseTime, uses a designated reader that can identify a face, authenticate an employee, and open the gate ..."
+    publishedDateTime: 2020-02-11T02:47:00Z
+    webUrl: "https://www.zdnet.com/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
     images:
-      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_DEEPFAKE_FACIAL_RECOGNITION_AI.jpg"
-        width: 940
-        height: 627
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/02/11/a4f44ba3-79b4-4f42-b5a9-ba5aa4375bd6/lg-cns-3-lg-cns.jpg"
+        width: 2400
+        height: 1600
+  - title: "Is this facial recognition app going too far? We tested it"
+    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality,"
+    publishedDateTime: 2020-02-10T02:12:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
+        width: 1100
+        height: 619
   - title: "Met Police rolls out live facial recognition in London"
     excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
     publishedDateTime: 2020-02-12T04:00:00Z

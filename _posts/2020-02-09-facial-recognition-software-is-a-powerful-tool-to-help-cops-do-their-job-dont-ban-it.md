@@ -8,7 +8,7 @@ ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-
 cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -24,47 +24,6 @@ images:
     width: 1400
     height: 1050
     title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
-
-related:
-  - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
-    excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
-    publishedDateTime: 2020-02-03T21:39:00Z
-    webUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview"
-    ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
-    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
-    type: article
-    provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 65
-    images:
-      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
-        width: 1440
-        height: 810
-  - title: "Facial recognition scanners at US airports under more scrutiny"
-    excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
-    publishedDateTime: 2020-02-03T23:58:00Z
-    webUrl: "https://www.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    ampWebUrl: "https://amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 54
-  - title: "Facial Recognition Comedy bridges storytelling, social commentary at SF’s Cafe du Nord"
-    excerpt: "On Friday, comedy collective Facial Recognition Comedy took the stage at Cafe du Nord in San Francisco as part of the lineup for the 19th Annual SF Sketchfest. Despite the group’s fairly recent rise to prominence in the comedy world, with a nationally ..."
-    publishedDateTime: 2020-01-30T14:00:00Z
-    webUrl: "https://www.dailycal.org/2020/01/30/facial-recognition-comedy-bridges-storytelling-social-commentary-at-sfs-cafe-du-nord/"
-    type: article
-    provider:
-      name: The Daily Californian
-      domain: dailycal.org
-    quality: 31
-    images:
-      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2020/01/Facial-Recognition_Facial-Recognition-Comedy.Courtesy.jpg?ssl=1"
-        width: 900
-        height: 580
 
 secured: "Df0FOL6tBxcY35ilFlP3pP9knBhJvKATkN+pKD18s3EK6aBk+UQZnRYpw/C8cb9AfMnT3rmzztszhcFfHkv3mwcrG16FmgttREtjWMnUuMllugWpwndQNyxhD3KjqJm69fAv+VbwjVI50m4DYS2KatmOC4VJmHHjUtwFKOWQwUCRhyIfm/ghE3lGFp9og9zpJnP59/T3miEgGSZDydHvnrmrf4Q9lETSex2ktlumBY1nod21DsjPFJ+QgWQRyekb+1DH7+B8zbSRgzow3BhrHfBxF12+80XlB9NsjxZS+etsXVywTIMgveSp1jDBD8y9sb19x5QcswwwliavSjumm24EWanBMazlkXWlPiUDxQ6hUCxglP6qpx4DkNzktSUOkSdVgM0U16OWzHq0ZDHsDvBSfxj+4KMbwub5+7WuqhkxyfsxqaE+SPcLuGMoxSDqxhZyWqe+WTkLfHtIRsi7tvKbysNLjyGVvdACuE95lO8=;120lUPkz9cWcRDLCUwXykg=="
 ---

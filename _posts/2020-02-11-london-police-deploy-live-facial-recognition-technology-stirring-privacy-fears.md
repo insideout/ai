@@ -54,6 +54,47 @@ related:
       - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
+  - title: "Chinese firm working on facial recognition that can identify you under a mask"
+    excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
+    publishedDateTime: 2020-02-11T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/"
+    ampWebUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
+  - title: "London police deploy facial recognition tech, stirring privacy fears"
+    excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
+    publishedDateTime: 2020-02-11T18:01:00Z
+    webUrl: "https://www.dawn.com/news/1533822"
+    ampWebUrl: "https://www.dawn.com/news/amp/1533822"
+    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1533822"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 59
+    images:
+      - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
+        width: 800
+        height: 480
+  - title: "Raleigh police stop using controversial facial recognition technology"
+    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
+    publishedDateTime: 2020-02-12T17:54:00Z
+    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
   - title: "Met Police begins deploying live facial recognition cameras in Stratford"
     excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
     publishedDateTime: 2020-02-11T11:37:00Z
@@ -67,19 +108,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
         width: 370
         height: 229
-  - title: "Basic rules required for facial recognition usage: Statesman contributor"
-    excerpt: "In his article, the author says that the use of facial recognition technology, in its present form, is not in conformity with the right of privacy. KK Paul NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) - In spite of several advantages of the latest technology of facial recognition, doubts continue to prevail in view of its very thin legal base."
-    publishedDateTime: 2020-02-12T03:46:00Z
-    webUrl: "https://www.straitstimes.com/asia/basic-rules-required-for-facial-recognition-usage-statesman-contributor"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/12/rk_facialrecognition_120220.jpg?itok=HoPHK8e9"
-        width: 763
-        height: 509
   - title: "London police deploy facial recognition technology, stirring privacy fears"
     excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in east London."
     publishedDateTime: 2020-02-12T01:13:00Z

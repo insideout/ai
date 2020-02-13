@@ -8,8 +8,8 @@ ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearv
 cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
 type: article
 quality: 65
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: Big Think
@@ -26,45 +26,66 @@ images:
     title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
 
 related:
-  - title: "Facial recognition scanners at US airports under more scrutiny"
-    excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
-    publishedDateTime: 2020-02-03T23:58:00Z
-    webUrl: "https://www.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    ampWebUrl: "https://amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+  - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
+    excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
+    publishedDateTime: 2020-02-06T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/"
+    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
     type: article
     provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 54
-  - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
-    excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
-    publishedDateTime: 2020-02-09T07:00:00Z
-    webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 51
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 105
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
-        width: 1400
-        height: 1050
-  - title: "Facial Recognition Comedy bridges storytelling, social commentary at SF’s Cafe du Nord"
-    excerpt: "On Friday, comedy collective Facial Recognition Comedy took the stage at Cafe du Nord in San Francisco as part of the lineup for the 19th Annual SF Sketchfest. Despite the group’s fairly recent rise to prominence in the comedy world, with a nationally ..."
-    publishedDateTime: 2020-01-30T14:00:00Z
-    webUrl: "https://www.dailycal.org/2020/01/30/facial-recognition-comedy-bridges-storytelling-social-commentary-at-sfs-cafe-du-nord/"
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+  - title: "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software"
+    excerpt: "The facial recognition company has been embroiled in a storm of controversy since The New York Times revealed that it was helping police match photos of suspects’ faces to images scraped from websites and social media platforms to aid in their investigations. Clearview says that it has amassed a database of more than three billion images ..."
+    publishedDateTime: 2020-02-11T17:49:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
     type: article
     provider:
-      name: The Daily Californian
-      domain: dailycal.org
-    quality: 31
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 93
     images:
-      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2020/01/Facial-Recognition_Facial-Recognition-Comedy.Courtesy.jpg?ssl=1"
-        width: 900
-        height: 580
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png"
+        width: 796
+        height: 417
+  - title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
+    excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
+    publishedDateTime: 2020-02-08T12:03:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
+    ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "Facial recognition: the next step in fight against rabies"
+    excerpt: "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ..."
+    publishedDateTime: 2020-02-10T14:43:00Z
+    webUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/"
+    ampWebUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 74
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
+        width: 792
+        height: 528
 
 secured: "tbSHVlWQrUMw1z0XeBxsxQXhOXljkV+h9KeLTgFYZFk/HBmBQmcZ8tZngDhGC2KlYJOfoLKwEd4sSGqXS8WctWyWCsLMP83odv88H76Regeu4VFW23yszjmCEHnt3GMzhfSbwBrclLIOWDlkHEUEkJyvZqbt8FVCszljcaLEk19jimg4Kvi1q7QKCumsw7dWDYFpneGEK/g2Vz+nSGV4+cNxFCBqqx2FO5SgO3gpO93BiuTw98HYiWAVUTGFTAyvyVCyaNnJ2QOAnSC/Fr4465VdF9/DDq1cW+Z1rqEtiiMRuCXf/mJgyZa6kV+pMSSiQTeGERtSGSLGwM9rYs0cwezwOPH5/VD1X+GhI1LJ7YTUrVW7l6/t27rXQFFTshX+EkUDHkAXHfQnoKSp8Ce2VJYpJZtl+agengiD4fS2+9MyITSRjZCBEBbsSET8PKwxIpbdnpYAR50ws1b8FY6L1OfCaOF0MQXuJ7jjSj1sFjM=;F6DnPNGnoaqi0spX0zOAog=="
 ---

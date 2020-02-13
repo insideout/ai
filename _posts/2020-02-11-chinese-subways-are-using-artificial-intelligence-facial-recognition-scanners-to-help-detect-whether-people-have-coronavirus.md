@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-in
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -43,7 +43,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
         width: 400
         height: 400
+  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
+    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
+    publishedDateTime: 2020-02-05T03:35:00Z
+    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 20
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
+        width: 500
+        height: 300
 
-secured: "okn48c+op5xX7v39T3TMCw3cZzUX+RifubxExycFleKr1XRzBy6bX9JHOqChZfJQMZS7vB0t5E8IGHoAyU4bfBCAN1ZfdnMtJyqI1TgADddC0kCbDmuJ9LMgKymnDr59Tv0HILZy2Ey2mUvIZv/oAWewQcitmTK5lur1+YKGJwK+lbu3M85augnDgSnHo9YjriScLPsHIGuQbv59V2oITQZZCAuyDJ9RqxD6V/KVXG1lavyafIWvhDLz4sF/golPErlU35gUxBcDJB219SQTvSGLxf8wnCtKg9QwNXg3PknsK+zfJZBfnImxCWcG+W50;w6Y3aNxlHRjKxaFBh07uVA=="
+secured: "qhO/vREHf0gOfwtVgSIPq8iKrw/DGyr3d8ZoOvX96+/9DRcSbIxuB3K955YQlo9QplUqfkki86TzuYcq/QNDB+i7nc5L6hxU3ch5jqcbaCMtgwCnozCPoJLgrLyQlxO4k3om8UBlweprUqrYIhx3He5uZ/Dzifd8ya6N2N/Z/Uf+XX9aNTiIYJdjT/F9V/1BKyKv5CvGWo5AH8Y9UjJVghVOJPOCxcFrM1HaZskxVcul3ct5nTrGUvILa7jPzgwWwdzvr5MQej8Yl+AySqFQoWfSasB3FjPlURWdfJ0wwUgNlOdfR2obfrq0ZCVu8ecO;sbQmUg5moSoRv7E8LUv56w=="
 ---
 

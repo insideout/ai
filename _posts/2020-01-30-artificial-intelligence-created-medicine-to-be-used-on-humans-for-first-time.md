@@ -94,15 +94,6 @@ related:
       - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/ai-developed-drug-goes-to-trial/10654223-1-eng-GB/AI-developed-drug-goes-to-trial.jpg"
         width: 788
         height: 443
-  - title: "AI-designed drug to enter human clinical trial for first time"
-    excerpt: "The new compound, which has been designed to treat patients with obsessive-compulsive disorder, was developed by Oxford-based AI start-up Exscientia in collaboration with the Japanese pharmaceutical firm Sumitomo Dainippon Pharma. In a sharp acceleration of the typical path to drug development, which can take about four and a half years ..."
-    publishedDateTime: 2020-01-30T04:00:00Z
-    webUrl: "https://www.ft.com/content/fe55190e-42bf-11ea-a43a-c4b328d9061c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "8G61SkkOmeimrhTL4P9dc83f0m7matejz4oFnrL+H8l72tURhYEubvMEBm1NABTi7TSzl1I4bbsgJhaLL/HTsMO5w7gcxxjvDZeFAW1vkZq0UtbPgzScle4n/ecXnTCtNbZH26Cq84aQURgkD7MMq1zYMT8wOM/j4YFLh5wXC0Z6O4a1GGc/cnmly96J53GDBYA2z85/qfC/8BZOy0tIbuSlj81gPK8+ngioLn2fTXUmJuG0BV8nR2OSBkQ/Nz7INfoX5UG9gqHxLaZsUlcWqy3q6XVh44VeRLiMy7su7zK/vuFL+DnViJK6OpnGCVoLWKRKcwDYB9/XUK6i54GpP9ehz53S5GLBGK64F6Ad5c+ZJ/KtueUZo+5d8OFyvvVXqISZz0OdPMTSDyfpfqITklLNj6F//Z0sOsEZ5IrUK29o1PHxcEaD/iUQmHaqhFEaJeb4aVI5roxJAh++XgyMvSb5BflpaMuVeNWT+ppvSXg=;vf+4fdCSJTpOTSyI93C0sw=="
 ---

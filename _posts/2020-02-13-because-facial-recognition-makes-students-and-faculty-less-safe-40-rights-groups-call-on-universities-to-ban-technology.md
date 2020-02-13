@@ -41,36 +41,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
-    excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
-    publishedDateTime: 2020-02-11T00:06:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-scotland-51449166"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-51449166"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166"
+  - title: "Raleigh police abruptly end use of controversial facial recognition tech"
+    excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
+    publishedDateTime: 2020-02-11T18:11:00Z
+    webUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/"
+    ampWebUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 56
+      name: WRAL
+      domain: wral.com
+    quality: 58
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
-        width: 1024
-        height: 576
-  - title: "“No justifiable basis” for Police Scotland to use live facial recognition technology"
-    excerpt: "Members of Scottish Parliament said that facial recognition software is known to discriminate against females and members of the BAME community. Whilst Police Scotland has outlined its ambitions to make use of facial recognition technology in its 10-year strategy, which plans to introduce its use by 2026, Members of Scottish Parliament have ..."
-    publishedDateTime: 2020-02-11T11:26:00Z
-    webUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology"
-    ampWebUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-08/00F53187-544B-4807-ACF1-7877845AA4B7.jpeg"
-        width: 640
-        height: 426
+      - url: "https://wwwcache.wral.com/asset/news/local/2020/02/10/18945112/clearview_cap-DMID1-5lstc1qbi-1920x1080.jpg"
+        width: 1920
+        height: 1080
   - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
     excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
     publishedDateTime: 2020-02-11T05:28:00Z
@@ -84,15 +69,6 @@ related:
       - url: "https://www.heraldscotland.com/resources/images/10955630/"
         width: 800
         height: 600
-  - title: "Great Britain at Odds over Police Use of Facial Recognition Technology"
-    excerpt: "Great Britain's three nations are not in agreement over the use of facial recognition technology by police forces. The technology, which can be legally used by police in Wales, was officially introduced by England's Metropolitan Police Service in East London yesterday, amid a peaceful protest by Big Brother Watch. Use of the technology by ..."
-    publishedDateTime: 2020-02-12T16:20:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/great-britain-at-odds-over-police/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 34
   - title: "Met police deploy live facial recognition technology"
     excerpt: "Cameras used at east London shopping centre despite experts warning against them"
     publishedDateTime: 2020-02-11T19:20:00Z
@@ -102,15 +78,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
-  - title: "MSPs warn Police Scotland about use of live facial recognition technology"
-    excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."
-    publishedDateTime: 2020-02-11T10:26:00Z
-    webUrl: "https://www.telecompaper.com/news/msps-warn-police-scotland-about-use-of-live-facial-recognition-technology--1326133"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 18
   - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
     excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
     publishedDateTime: 2020-02-11T09:23:00Z
@@ -130,6 +97,6 @@ related:
       domain: linkedin.com
     quality: 16
 
-secured: "5nmx6HD2AtR/DfjPzhcC5Hh/slyONeY9gDN6Vz1CVBh87QZE+lb5lr8/sfA6N/NCObYujgWenuVwUyoOWAZ2K/U2nmkkAJsaabLq3OcuVrv9gC/0k+MNzXiM4XgOTbMoleeZZdx+B10JUrnr3d2ZrHUbmtfYEkSw2gS5zKsbJt5/TVfbMURBm6B4/Pddd3t+fK8vKIGkk90/PO6ivfi57FsYDXMIPXStD3prKA3vMgLtdmdtUPWpmKwkClX4b6eh54+ogcw6A1JGcOIhTQN2eKDEArR75QI9BXbcsMnWoGJ5ywokFutxe9Y73WXuj0mS;Nt50A+I1l9xz3lsyj9WINg=="
+secured: "1kw2nUC5Zfn8fh93XovXHAJQilm2hxmMewaZ8W5J35njaR5DD15oxSrFLihNx9pqTUUaDHW/MelpJFQFUefpdDwMi0XmEEVw4fssJILZX1RAGzr0CvR8SZgz/o/P0QwtIST6Pnud0B99IG8i/mqQBfd4JjqNqSQpuFMNzxMqER7iovicWgRpqrzP9GUP0j5wXX6yRzfuZlEW+J33YxcIVBN/ZBl/sdLRyGjwgrysz/1mANpyxh2s9ZWqmGi1pgV1IJqkxStnVJfWTLR8T8QVuGGscFeoYJhdOCVidz85kHQ4sM9lhnNf3Nlm3YuMiXyMMcxzObToTpa/8iX6FJ1r7TiNYgp/xn5VNrBw1pDFuvdoWD0cOmVg16OFHS6XDHObab+S86Vfu7lITzLiKB1IPpI9NX7/+5aK7LKkyzG062jWJu8acm1GH56otyN2tkpYrKDa/SEYMpg6s4TMxH3UcNLeLGO5wvzXK1SbroBFd0c=;5r/p+nl1wt1ZRoYsZBC8Kg=="
 ---
 

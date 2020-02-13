@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Enhance Automated Model Building With the Latest Product"
 
-secured: "Avb2jBTOXVVuTuIhycSJKP0NnkXJc+JCgMVw+fRtlbZdgcFSE7K6x90hygdAVGCyIiWOwcTDVZh4GgOxmyOwadXJyGS7/t5GubZs/Az9FammAc6/Ram9dcyivcDF6ktra/BJ1PuZR2QjDTbQVJPvPAzWT7Bps/Jpt+87tWvbphbQY0hfmDfbn518XLlp4R33uOg0iwTEUglBGESCKcKNScfLNX51ksGy/gXVrAbb78ZmRBmh94BX5SWmdo7taqL+GsluAbuHrbXGj+zxANkiwWVQy+Ny+KT1DWuyxc7s4H6MJTaDCblkX1LupJeLwTaa;+ZqTcaIATKNS14v21A0Mmw=="
+secured: "KJ21LvoCohjUsDwn+BScTkNK9d0uT+c5utra6Z24YJj7xSK88wMHGAP9iuhsEDD4favRUqqHqFu2XAXW0GaO+xruEp6tFinHqYuV8Gm4k3T0+ThkD74JdjP9M4cPXLPhbmcPb0bf/1w9XvTSp2rBuc7CF95WMwWTD78H78v76fiUDR3xgWsfrYedlTDovkNzK8Un7WVCWLva6D7TtdDI4J/61Q1DisOx/KuppiYSbLMKMSzn7goDpgLHp59/7GBvXhZ6zFg4IA7Lab7Uuk4jeYsN9jOMn1KHZar6Qg0afnkmE5IrGlZBnKL0nm5OptCt;rL4AKuey213UNvk9sifGcA=="
 ---
 

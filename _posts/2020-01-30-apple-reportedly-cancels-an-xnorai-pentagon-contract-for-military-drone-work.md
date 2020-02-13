@@ -40,15 +40,6 @@ related:
       - url: "https://www.ilounge.com/wp-content/uploads/2020/02/xnor-ai-1024x588.png"
         width: 1024
         height: 588
-  - title: "Apple nixed Xnor.ai's involvement in Pentagon's Project Maven following acquisition"
-    excerpt: "Artificial intelligence startup Xnor.ai, which was acquired by Apple in January, has reportedly pulled out of U.S. Department of Defense initiative Project Maven at the tech giant's command. Officially announced in 2017, Project Maven seeks to develop computer vision technologies capable of autonomously analyzing image data captured by military ..."
-    publishedDateTime: 2020-01-30T03:12:00Z
-    webUrl: "https://appleinsider.com/articles/20/01/29/apple-nixed-xnorais-involvement-in-pentagons-project-maven-following-acquisition"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 11
 
 secured: "x6ANdTFogUvpDCNxr7V11twosy0843uWl1Gywia6HyVdbRgUXR3MYvJ6QPzrgei7vcpHfVfUojfRoujIKW/DxxlMJN6gJcPBbrHwQt/86gEaJcbFvYCDO2B5KYojpTlIbO97gsIWTd0mmlSP0im5a0UXcQtaCVDBp5GhXn6nW1SeQoTeRkx+VeYEGqRDy+BDP55+DDBAsZDj468GiRAyOJSKdpZ7IPO1A+6XI8Fpy7XwKeXRtdsOyfLKqBlGNSaFfOZYOaEgVgHlwD04lGLe6MKt7/IlytI89t24d04dhwwUhb3mmOgTm/s5X3jM5enKJAI6OwqBgqem4dQ3w7CMP1e9Qw9EegMelHUXnlPM9SxK77LcR75kl9q1YKSwkZ8AOUFcy0UZaQSA1V5CnoTokTTRhNf9njm/cTKCpLUggwGtL1S3uBHcZXdsEI+5V/fHxF5/tf5XhzbXDsu8viW4iIyMzksriDLg2a1kyepyMSc=;mq+8cSyoQX8ikaxh+zh4Bw=="
 ---

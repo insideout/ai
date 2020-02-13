@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
 type: article
 quality: 89
-heat: 209
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -30,6 +30,81 @@ images:
     title: "Senate bill would place a moratorium on feds using facial recognition"
 
 related:
+  - title: "Facial recognition could be temporarily banned for law enforcement use"
+    excerpt: "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens."
+    publishedDateTime: 2020-02-13T03:13:00Z
+    webUrl: "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 189
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+        width: 756
+        height: 567
+  - title: "Clearview’s Facial Recognition App Is Identifying Child Victims of Abuse"
+    excerpt: "Though a breakthrough for law enforcement, the technique could allow the little-known start-up to collect an extraordinarily sensitive set of data and images. Law enforcement agencies across the United States and Canada are using Clearview AI — a secretive facial recognition start-up with a database of three billion images — to identify children who are victims of sexual abuse."
+    publishedDateTime: 2020-02-07T15:06:00Z
+    webUrl: "https://www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.html"
+    ampWebUrl: "https://www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 188
+    images:
+      - url: "https://static01.nyt.com/images/2020/02/07/business/07CLEARVIEW-01/07CLEARVIEW-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+  - title: "Paper Masks Are Fooling Facial Recognition Software"
+    excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
+    publishedDateTime: 2020-02-07T16:44:00Z
+    webUrl: "https://www.entrepreneur.com/article/346056"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/346056"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346056"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200207163845-face-recognition.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+  - title: "The Two Faces Of Facial Recognition"
+    excerpt: "Businesses, and society as a whole, must be cognizant of the ethical and moral implications of this technology."
+    publishedDateTime: 2020-02-07T13:33:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-two-faces-of-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-two-faces-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-two-faces-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/182908695/960x0.jpg?fit=scale"
+        width: 711
+        height: 473
+  - title: "Oh great, the EU has ditched its facial recognition ban"
+    excerpt: "The European Union is backing away from its plan to introduce a temporary ban on facial recognition technology, instead delegating decisions on the software to its member states. In a previous draft of a paper on AI, the European Commission had proposed introducing a five-year moratorium on the technology. But in a new draft seen by the ..."
+    publishedDateTime: 2020-02-12T16:00:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-5-796x417.png"
+        width: 796
+        height: 417
   - title: "US senators propose facial recognition ban (but not for police)"
     excerpt: "US senators have introduced a bill that would temporarily restrict the use of facial recognition technology — but their proposals fall short of a total ban. The Ethical Use of Artificial Intelligence Act would place a moratorium on federal government use of facial recognition technology (FRT) until Congress passes legislation regulating ..."
     publishedDateTime: 2020-02-13T13:41:00Z
@@ -60,6 +135,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/alex-knight-B0-kMa8BgU-unsplash.jpg?fit=1600%2C800&strip=all"
         width: 1600
         height: 800
+  - title: "Concerns Surround Facial Recognition App in Florida"
+    excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
+    publishedDateTime: 2020-02-11T20:41:00Z
+    webUrl: "https://www.govtech.com/news/Concerns-Surround-Facial-Recognition-App-in-Florida.html"
+    ampWebUrl: "https://www.govtech.com/news/Concerns-Surround-Facial-Recognition-App-in-Florida.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Concerns-Surround-Facial-Recognition-App-in-Florida.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1236897664.jpg"
+        width: 1119
+        height: 630
   - title: "EU backs away from call for blanket ban on facial recognition tech"
     excerpt: "Brussels has backed away from plans to call for a five-year blanket moratorium on the use of facial recognition technology in public spaces, instead leaving the responsibility of choosing to impose a ban to member states, despite concerns from privacy groups that civil liberties could be infringed by the biometric software. In a draft of a ..."
     publishedDateTime: 2020-02-11T14:49:00Z
@@ -75,21 +165,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1b149884-4cd0-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "London police deploy facial recognition tech, stirring privacy fears"
-    excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
-    publishedDateTime: 2020-02-11T18:01:00Z
-    webUrl: "https://www.dawn.com/news/1533822"
-    ampWebUrl: "https://www.dawn.com/news/amp/1533822"
-    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1533822"
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 59
-    images:
-      - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
-        width: 800
-        height: 480
   - title: "Booker, Merkley propose federal facial recognition moratorium"
     excerpt: "Two Democratic senators on Wednesday introduced a bill that would place a moratorium on federal government use of facial recognition technology until Congress passes legislation regulating it."
     publishedDateTime: 2020-02-12T20:48:00Z
@@ -105,21 +180,81 @@ related:
       - url: "https://thehill.com/sites/default/files/facialrecognition_052518istock.jpg"
         width: 980
         height: 551
-  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
-    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
-    publishedDateTime: 2020-02-06T19:08:00Z
-    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+  - title: "Chino, Calif., PD to Hold Forum on Facial Recognition Tech"
+    excerpt: "(TNS) — Facial recognition technology is already used by several agencies in California's Inland Empire, and the Chino, Calif., Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the ..."
+    publishedDateTime: 2020-02-12T16:53:00Z
+    webUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_DEEPFAKE_FACIAL_RECOGNITION_AI.jpg"
+        width: 940
+        height: 627
+  - title: "Raleigh, N.C., Police Halt Use of Facial Recognition Tech"
+    excerpt: "Raleigh PD has stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns from the community. (TNS) — Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a ..."
+    publishedDateTime: 2020-02-13T18:39:00Z
+    webUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
+        width: 770
+        height: 535
+  - title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
+    excerpt: "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ..."
+    publishedDateTime: 2020-02-11T06:04:00Z
+    webUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675"
+    ampWebUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
+    cdnAmpWebUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 58
+    images:
+      - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
+        width: 445
+        height: 600
+  - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
+    excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
+    publishedDateTime: 2020-02-11T00:06:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-scotland-51449166"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-51449166"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 56
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
+        width: 1024
+        height: 576
+  - title: "Florida cops use this facial recognition tech that could be pulling your pics"
+    excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
+    publishedDateTime: 2020-02-11T10:08:00Z
+    webUrl: "https://www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/"
+    ampWebUrl: "https://www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 56
+    images:
+      - url: "https://www.tampabay.com/resizer/Ad0jNQXVyDvwAuA5wrBJPTi-8v8=/800x450/smart/arc-anglerfish-arc2-prod-tbt.s3.amazonaws.com/public/MNOYRNOZY5HFDLXUNY5ON7YO5A.jpg"
+        width: 800
+        height: 450
   - title: "Chino PD to hold forum Wednesday on proposed use of facial recognition technology"
     excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
     publishedDateTime: 2020-02-12T01:16:00Z
@@ -150,6 +285,30 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg"
         width: 1024
         height: 512
+  - title: "“No justifiable basis” for Police Scotland to use live facial recognition technology"
+    excerpt: "Members of Scottish Parliament said that facial recognition software is known to discriminate against females and members of the BAME community. Whilst Police Scotland has outlined its ambitions to make use of facial recognition technology in its 10-year strategy, which plans to introduce its use by 2026, Members of Scottish Parliament have ..."
+    publishedDateTime: 2020-02-11T11:26:00Z
+    webUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology"
+    ampWebUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-08/00F53187-544B-4807-ACF1-7877845AA4B7.jpeg"
+        width: 640
+        height: 426
+  - title: "EU backs away from proposed five-year facial recognition ban"
+    excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
+    publishedDateTime: 2020-02-11T15:49:00Z
+    webUrl: "https://www.engadget.com/2020/02/11/european-commission-facial-recognition-guidelines/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 49
   - title: "Chino Police Department to hold forum Wednesday on proposed use of facial recognition technology"
     excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
     publishedDateTime: 2020-02-12T02:16:00Z
@@ -165,17 +324,19 @@ related:
       - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
         width: 1024
         height: 578
-  - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
-    excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
-    publishedDateTime: 2020-02-12T07:33:00Z
-    webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
-    ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
-    cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+  - title: "Zwicker Wants to Regulate Facial Recognition Technology"
+    excerpt: "TRENTON, NJ – Just recently, the New Jersey Attorney General prohibited law enforcement in all 21 counties from using Clearview AI’s facial recognition software after a New York Times article revealed the start-up had built its database by scrubbing ..."
+    publishedDateTime: 2020-02-07T09:00:00Z
+    webUrl: "https://www.tapinto.net/towns/somerville/sections/police-and-fire/articles/zwicker-wants-to-regulate-facial-recognition-technology"
     type: article
     provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
+      name: TAPinto
+      domain: tapinto.net
     quality: 39
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/hi/facebook_6c84268a82f274cd1c00_hillspixzwickertestimony.jpg"
+        width: 480
+        height: 401
   - title: "EU Softens Stance On 5-Year Ban Of Facial Recognition Tech"
     excerpt: "The European Union won’t be passing a blanket moratorium on facial recognition software after initially signaling that it would do so. Instead, it plans to leave the responsibility to member states. That decision has faced backlash from privacy advocates, who say civil liberties could be at risk from facial recognition due to its potential ..."
     publishedDateTime: 2020-02-12T11:59:00Z
@@ -187,6 +348,63 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
+  - title: "Basic rules required for facial recognition usage: Statesman contributor"
+    excerpt: "In his article, the author says that the use of facial recognition technology, in its present form, is not in conformity with the right of privacy. KK Paul NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) - In spite of several advantages of the latest technology of facial recognition, doubts continue to prevail in view of its very thin legal base."
+    publishedDateTime: 2020-02-12T03:46:00Z
+    webUrl: "https://www.straitstimes.com/asia/basic-rules-required-for-facial-recognition-usage-statesman-contributor"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 38
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/12/rk_facialrecognition_120220.jpg?itok=HoPHK8e9"
+        width: 763
+        height: 509
+  - title: "Great Britain at Odds over Police Use of Facial Recognition Technology"
+    excerpt: "Great Britain's three nations are not in agreement over the use of facial recognition technology by police forces. The technology, which can be legally used by police in Wales, was officially introduced by England's Metropolitan Police Service in East London yesterday, amid a peaceful protest by Big Brother Watch. Use of the technology by ..."
+    publishedDateTime: 2020-02-12T16:20:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/great-britain-at-odds-over-police/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
+  - title: "Clearview AI: why the controversial facial recognition technology should be a concern for the UK, according to experts"
+    excerpt: "A controversial US facial recognition company is raising concerns over privacy after it created a database using nearly three billion public photos of people from sites such as Facebook, Twitter and YouTube. Clearview AI, until recently a relatively unknown tech startup, has made its facial recognition software available to law enforcement ..."
+    publishedDateTime: 2020-02-12T10:30:00Z
+    webUrl: "https://inews.co.uk/news/technology/clearview-ai-facial-recognition-technology-uk-explained-1555522"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 30
+    images:
+      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/Thumbnail-maker-91.jpg"
+        width: 1200
+        height: 630
+  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
+    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
+    publishedDateTime: 2020-02-06T20:54:00Z
+    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+  - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
+    excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
+    publishedDateTime: 2020-02-11T16:13:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444432-artificial-intelligence-facial-recognition-could-change-how-vegas.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
   - title: "Poker Players Are Asking for Facial Recognition Technology"
     excerpt: "There has been a lot of talk about the idea of introducing facial recognition technology into casinos. Proponents of this idea have argued that a facial recognition system could unlock an array of benefits for casino owners and players. First, it’s a good way of tracking patrons and signing in VIP players without a fuss. Casinos also have the ..."
     publishedDateTime: 2020-02-11T16:08:00Z
@@ -196,6 +414,52 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "MSPs warn Police Scotland about use of live facial recognition technology"
+    excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."
+    publishedDateTime: 2020-02-11T10:26:00Z
+    webUrl: "https://www.telecompaper.com/news/msps-warn-police-scotland-about-use-of-live-facial-recognition-technology--1326133"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 18
+  - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
+    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
+    publishedDateTime: 2020-02-13T13:03:00Z
+    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
+    type: article
+    provider:
+      name: The Salt Lake Tribune
+      domain: sltrib.com
+    quality: 13
+    images:
+      - url: "https://www.sltrib.com/pb/resources/assets/img/sltrib_facebook_card.png"
+        width: 1200
+        height: 630
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
+    publishedDateTime: 2020-02-11T10:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The Global Emotion Detection & Recognition Market is projected to grow from US$ 21.6 billion in 2019 to US$ 56 billion by 2024, at a CAGR of ..."
+    publishedDateTime: 2020-02-12T00:38:00Z
+    webUrl: "https://www.oilandgas360.com/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artificial-agents/"
+    type: article
+    provider:
+      name: Range
+      domain: oilandgas360.com
+    quality: 2
+    images:
+      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
+        width: 300
+        height: 250
 
 secured: "9sms6yIimyzj0arlLnRZpRu+dt4kmcsVfku2Yzr2seizMwFY7l7g9iKq5uCgJsHFZBkVEC9xn0DPfoJRXJ2cKe4DEdDfNBshecJCsXnvhP2y4mqp4jLHPzzl+x2ewYJPIpSKiwe67WsFlsTphQ6D3LB3vyVDftiJ/giRXN9FwsLnOIw1b9cgYjA1tTSozuBcTkjKkDEqHieNN0/WhnvLOv6iOQ0PW5VKDG80YffEIKX64kwbigfjLvv4DOt0dyig+Ow7H4uwYTqhpfyvrYGpNPFVlF8be/eoAk9pGb8FK4iCcORc47hsTYXzbdmYD8Pw92iJh+vrQgqN8TbrI4jSosWvqh86psnSuA0tODb9jIkO5JvXkRgXSBvyX9Wbto7nvV8DWFtublOA7YToZ2wr3l2OVMzC6dTZ3BuAxCHjIS7eoubTLUSWmdb9ithrSFG38JG55ngY+SG43z00aNluWPrHGVn0mlu3/IzFms6A/B0=;ksHO2qHfRmlsAeY7XvIjaQ=="
 ---

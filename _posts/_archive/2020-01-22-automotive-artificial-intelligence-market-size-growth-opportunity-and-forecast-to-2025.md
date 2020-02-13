@@ -29,13 +29,13 @@ images:
 
 related:
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
-    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements ..."
-    publishedDateTime: 2020-01-22T11:00:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
+    publishedDateTime: 2020-01-22T10:53:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 12
   - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
     excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
@@ -47,6 +47,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "4pci9tyxFI9cUFx77J/q97SE5en4VBAxXq78znS7hgrAOAq09SQA4w2dDqkmRbCUBAqJla7zQ9T5NoeGx0RWCl+zobDjIqntkk15v/l91fb+2vDB10voxsJFjBtXnCJe277RfbKmSs7sweDEqvSdylIKOovBnOnGdRs/bn6K4djjku8qZJOZFGJxX1ItPKPuR8y6lLKNWu8x/HXDpWkk+Wc4hFdCEpBzbPFqGlCYvMVuk29o7BHM5+VMbye4JBdQiyUIrqmR7mKmQnXuFxWuPidyPeU7j9uycdcWYz8GV7PnEdSrDkj9QsUet8GFG4bt;QyfYOWcNO5G0QW6ZcDoMfA=="
+secured: "QrtSsDs8ok9W9bnObH1L50e3wjyrRue72C/P8TqWbEmJOe7uvWOlexIre77HCDyytnVQwLGUAGcqqnpnHE88ZIPnj56Nz6G/MZPZBh9GIxv0LNyIAmBu+gVmU+a6RGF58lXWy7Pkf8z7AL2aHUgsDFuwAvPH5BGFoIvP3+UBHH5aGnQKSI7mD2HC8iK+sBqzm7/kI8CUSsZhUCJKblK6T/dDbCiQx91VVemnw9znap0MHAI8qBBAl6VwCrqrCEizBDJByBWTqigWX38Rrpfc61VggZv2SZ13gSPQQfvB9DzcmOzM0a8KneBeTbS4IqDt;U1it7yBSdKe6T32WYv+lQw=="
 ---
 

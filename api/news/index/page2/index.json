@@ -2,30 +2,30 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-01-apple-ends-startup-xnorais-project-maven-work.md",
-      "title": "Apple ends startup Xnor.ai’s Project Maven work",
-      "excerpt": "The startup acquired by Apple Xnor.ai primarily used AI to detect objects in images captured by the military surveillance drones. The company did develop some great tech – it was able to create a chip capable of human detection powered by a coin sized battery. The chip is reportedly so efficient that it could work for decades on a coin sized ...",
+      "path": "_posts/2020-02-01-a-warehouse-robot-learns-to-sort-out-the-tricky-stuff.md",
+      "title": "A warehouse robot learns to sort out the tricky stuff",
+      "excerpt": "Standing nearby at the Obeta warehouse, the California engineers who made the robot snapped pictures with their smartphones. They spent more than two years designing the system at a startup called Covariant.AI, building on their research at the University of California, Berkeley. Their technology is an indication that, in the coming years ...",
       "heat": 79,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.ilounge.com/news/apple-ends-xnor-military-work",
-      "ampWebUrl": "https://www.ilounge.com/news/apple-ends-xnor-military-work/amp",
-      "cdnAmpWebUrl": "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/news/apple-ends-xnor-military-work/amp",
-      "publishedDateTime": "2020-01-31T18:19:00-08:00",
+      "webUrl": "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html",
+      "ampWebUrl": "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp",
+      "publishedDateTime": "2020-02-01T07:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "iLounge",
-        "domain": "ilounge.com",
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.ilounge.com/wp-content/uploads/2020/02/xnor-ai-1024x588.png",
-          "width": 1024,
-          "height": 588,
-          "title": "Apple ends startup Xnor.ai’s Project Maven work",
+          "url": "https://www.baltimoresun.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "A warehouse robot learns to sort out the tricky stuff",
           "attribution": null
         }
       ],
@@ -35,7 +35,7 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
+        "AI in Robotics"
       ]
     },
     {
@@ -1462,43 +1462,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-03-this-company-scraped-social-media-to-feed-its-ai-facial-recognition-tool-is-that-legal.md",
-      "title": "This company scraped social media to feed its AI facial recognition tool. Is that legal?",
-      "excerpt": "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bigthink.com/technology-innovation/facial-recognition-clearview",
-      "ampWebUrl": "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html",
-      "publishedDateTime": "2020-02-03T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600",
-          "width": 1440,
-          "height": 810,
-          "title": "This company scraped social media to feed its AI facial recognition tool. Is that legal?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-03-victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls.md",
       "title": "Victoria to use AI to detect heart attacks on emergency calls",
       "excerpt": "Triple zero call operators could soon have artificial intelligence (AI) alert them to callers who suffer from a heart attack. The Victorian government announced on Sunday it was kicking in AU$1.36 million towards the Artificial Intelligence in Cardiac Arrest project, which will be developed by Monash University and Ambulance Victoria.",
@@ -2103,6 +2066,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-epic-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings.md",
+      "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
+      "excerpt": "has charged that HireVue, a leading provider of artificial intelligence-based pre-employment screenings, is flouting national and international standards of transparency, fairness and accountability.",
+      "heat": 171,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/?ss=diversity",
+      "ampWebUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
+      "publishedDateTime": "2020-02-03T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/trim/365x308:5585x4045/fit-in/711x509/smart/https://specials-images.forbesimg.com/imageserve/1091526904/0x0.jpg",
+          "width": 711,
+          "height": 509,
+          "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

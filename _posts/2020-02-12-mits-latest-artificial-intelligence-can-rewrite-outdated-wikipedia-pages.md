@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/mits-latest-artificial-intelligen
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mits-latest-artificial-intelligence-can-rewrite-outdated-wikipedia-pages/?amp"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,23 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI tool can now update outdated Wikipedia content"
+    excerpt: "Researchers at MIT have developed a system that can automatically update outdated and factually inconsistent data in Wikipedia articles. The automated tool ... structured sentences and relevant Wikipedia sentences, to train the AI system. As a result, it is now able to identify the redundant information then rewrite it without much human ..."
+    publishedDateTime: 2020-02-13T14:03:00Z
+    webUrl: "https://www.techradar.com/in/news/ai-tool-can-now-update-outdated-wikipedia-content"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 187
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/wfYVuuRm4LZTk8h6thKDYN-1200-80.jpg"
+        width: 970
+        height: 545
 
 secured: "vN9KFfQQhX57zqUyjX8TQ86UKtmjdotd3rF4ke1PEpoHGZFerxSPumvSOy5913DTWwmQyRpn9NrLaGUZueVacDMwXeNa5Q/tBi8iEiSP65ZJ1JXaiK0i7RGZkjnDL0d9DJLVNV8ehyOY6ofhMSknXMENeVFLPQk6BY4opQoeBqBi8UgYcioFwhsbVcXmZbkdQZ6XUYWm9BHhwMSw06WPSKEp4KBtBmDSrS/ZpFgJjE7JtIdCAFwGE8UxSZs7iosIi0z5sN1bj2sraXxkQKNOl/vSbjAooZENkjlph+g1cD8dWpJAq3Y/92v7AZWHWQOn;ZqzXAQvfP3HQWrFuBjvdMw=="
 ---

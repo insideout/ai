@@ -207,6 +207,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 50
+  - title: "UPS testing self-driving minivans in Arizona"
+    excerpt: "ARIZONA (WSYR-TV) — UPS will start testing out self-driving minivans in the Phoenix area in the coming weeks. The tests will involve Chrysler minivans delivering packages from UPS stores to a sorting facility in Tempe, Arizona. Deliveries to customers’ doorsteps are not in the cards for now and during those tests, a driver will be on board ..."
+    publishedDateTime: 2020-01-30T17:37:00Z
+    webUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/"
+    ampWebUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
+    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 44
+    images:
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/upsvan.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Uber self-driving cars allowed back on California roads"
     excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
     publishedDateTime: 2020-02-05T19:34:00Z

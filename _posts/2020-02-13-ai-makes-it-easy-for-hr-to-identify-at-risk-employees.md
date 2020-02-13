@@ -5,9 +5,9 @@ excerpt: "Steve Beauchamp, CEO of Paylocity, sits down with Tonya Hall to learn 
 publishedDateTime: 2020-02-13T14:04:00Z
 webUrl: "https://www.zdnet.com/video/ai-makes-it-easy-for-hr-to-identify-at-risk-employees/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 167
+heat: 167
+published: true
 
 provider:
   name: ZDNet
@@ -26,6 +26,6 @@ images:
     height: 578
     title: "AI makes it easy for HR to identify at-risk employees"
 
-secured: "EwQUiDjgyRix4+qKwKqizjLYNeKOh4qjTWZy46WGrJgS7gdMOdAWtG8oBJk3u5tsPg+uJTQ0IEMTQ9EQX52g0mLf2D8vIsX0AzP8pBIoc7V+BewsXmgyD5ldQynSkQb+EZfY7KPilUK1sgxGrXWUVoa5pXZynFEgZDm0JDcmdedzPeCw7Zh1OyiAskuXs1XqKAhTHwp85+GFpMCSXnwz5TfyX1gR64vyfDTRSOAeGoubAMW8CWfo4wyh/ary2syHyPVZm/kXb6zPP+nfW+bFkAugzADbxBiYwQAvL5nrlYfBuSw7qrqTwGFrnH5sHGVCyuPT12QxNIMaidlPmrmwAadgk3gnLOc3lVLmRe0ghjjARWF0z7UKA/ETPSQocmoAvbQPpT1vZiufLhyQh6GpKk7Q9B7aKql4MWuVE79ATmBW6fZ4uE0uQHBos54AZGntHfQ9SbPHl62pI5V9LC6BVS/GKETmei2iDuhI+bWQB2A=;en6cpZIQcFWIfXDwy9N0jw=="
+secured: "3YW0hJPM4hojZW2CiPC266Yb0RZ4srrTuasf6vwC0X2SBZzpfXB8+wrw9eoKoxuSgP6y+fAcmyMEGVTL/iAJgoudNMBuRyUh/gf98QtGUscp89WobFh5pjFk2fO7AQocE4f2F10UXL6WURO6865H/HzqJR8CwIiKJL4Nw5H/z75lz+yVqO3yJDpBHHBVj3qrk27GQBi2RC+/5FKoFCJBU/CXilbPx/0ztS5bYqF2rKHU7FXNQw1s8siHoIqT9cmf3tOxEIBzTRbdJ5KJthrDeyQfefPpW8m0uXrG1sOu2kcfzWU/Crj3tPBk5YfBuSOz47XYhXrKzq28MWH7S7cBUmwCh/WuUXP2KcYdcgjz1fIy1Tvy5Td0vXEH4X5DTZezw8DxvIVU+6zcmdBXAIGqRfXKMuVIjFPn8umQHlZD06gVUBLQ0gQbs50pqgBzwO9sFA6k23CffMcvejigq2WBpWzEfFq8/meCZeNp6ezAHSpiXPH1zUkW6U60rTUGkPk5;IUqzyjd+1eKi5heejj1QnA=="
 ---
 

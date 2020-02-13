@@ -8,8 +8,8 @@ ampWebUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-f
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: ScienceBlog
@@ -26,32 +26,66 @@ images:
     title: "Facial recognition: the next step in fight against rabies"
 
 related:
-  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
-    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
-    publishedDateTime: 2020-02-06T20:54:00Z
-    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
+  - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
+    excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
+    publishedDateTime: 2020-02-06T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/"
+    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 105
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The Global Emotion Detection & Recognition Market is projected to grow from US$ 21.6 billion in 2019 to US$ 56 billion by 2024, at a CAGR of ..."
-    publishedDateTime: 2020-02-12T00:38:00Z
-    webUrl: "https://www.oilandgas360.com/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artificial-agents/"
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+  - title: "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software"
+    excerpt: "The facial recognition company has been embroiled in a storm of controversy since The New York Times revealed that it was helping police match photos of suspects’ faces to images scraped from websites and social media platforms to aid in their investigations. Clearview says that it has amassed a database of more than three billion images ..."
+    publishedDateTime: 2020-02-11T17:49:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
     type: article
     provider:
-      name: Range
-      domain: oilandgas360.com
-    quality: 2
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 93
     images:
-      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
-        width: 300
-        height: 250
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png"
+        width: 796
+        height: 417
+  - title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
+    excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
+    publishedDateTime: 2020-02-08T12:03:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
+    ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
+    excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
+    publishedDateTime: 2020-02-03T21:39:00Z
+    webUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview"
+    ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+    type: article
+    provider:
+      name: Big Think
+      domain: bigthink.com
+    quality: 65
+    images:
+      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
+        width: 1440
+        height: 810
 
 secured: "LCi9S2ij8RBFLOj4e5ySPQnmANm/tsGKW8IC8MTF6zwq2gCyS39Ej0cmfp1koUd9CMJtzya1d5izN15F/mpsMcDsjG+ySkqan8Gv9uzd0yU6zx/G97WlwWUs9ClzwuZ2F4NlLHfLLzxOLCRnoarqUsiwIUhVR9dISdWhUQYLh+7cJ3/A8oIyAMHstHg4uHdS16fyFmXwvmWDeSxeuJi6hcCznvAU6O90VqnlDjPkDo1E62ExgevmYzf4WBw1OCgjzziy7j1FjmReFjWSecZ5Cn4E6U6fFZZTrewB/sJKit2kNil+WmdXbSOXvxOKU5fb6qAKuXYyWlWpluAe2BSx14sPyK/AkRFvcbiLz2I8DZ6lRD7Jm4fAltzgOFm8Y8neW1Lc8SbZTtLhOekuq0OGwkHRZsbLiEclxZcjUfmEmx7yOzNwoNMhOlO3tEKEZcqgcXp6jIlG6KF6OZq03IN6BcZ2vDJj1ckuYyUMEQUeEBc=;TSfvkLY8Y9+Nh5h81ngtrg=="
 ---

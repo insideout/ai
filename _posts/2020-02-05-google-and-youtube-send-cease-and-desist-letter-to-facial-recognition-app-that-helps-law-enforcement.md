@@ -63,6 +63,36 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F10%252F4aaadf8a926d46b39e4d6356ddcdf6e0.18786.jpg%252F1200x630.jpg?signature=agz3Wv8-4-Yn4EO3NpvjhHOw8ng="
         width: 1200
         height: 630
+  - title: "Facebook Has Sent Facial Recognition Startup 'Clearview AI' Cease And Desist Letters"
+    excerpt: "Facial recognition software startup Clearview AI has been under fire over revelations it's been training its machine learning algorithm on billions of publicly available photos, including public personal images scraped from social media without permission. Now Facebook has become the latest tech giant to tell the controversial company to quit it."
+    publishedDateTime: 2020-02-06T06:21:00Z
+    webUrl: "https://in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters"
+    ampWebUrl: "https://in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 80
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/news/f/facebook-s/facebook-sends-cease-and-desist-to-facial-recognition-startu_aamw.620.jpg"
+        width: 620
+        height: 441
+  - title: "Facebook and LinkedIn are latest to demand Clearview stop scraping images for facial recognition tech"
+    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company said, “Which is why we’ve demanded that Clearview stop accessing or using information f ..."
+    publishedDateTime: 2020-02-06T11:56:00Z
+    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/7l1HObT4uIVko8_sSo6v9vlNURg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg"
+        width: 1400
+        height: 933
   - title: "Facebook forced to pay $550 million settlement over facial recognition lawsuit"
     excerpt: "Facebook is going to have to pay quite a few people money as part of a facial recognition settlement. The catch is, however, you have to live in Illinois. Since Illinois has some of the strictest biometric privacy laws, a 2015 lawsuit alleges that the social network violated these laws in Illinois through the use of facial recognition ..."
     publishedDateTime: 2020-01-30T15:39:00Z
@@ -255,6 +285,15 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
+  - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
+    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
+    publishedDateTime: 2020-02-06T11:57:00Z
+    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 36
   - title: "Milestone adds Innovatrics SmartFace facial recognition to video management software"
     excerpt: "VMS provider, Milestone, has integrated SmartFace biometric facial recognition system from Innovatrics with its XProtect video management software to analyze multiple, simultaneous real-time video streams, improve functionality, tool performance and support compatibility standards, the company announced. SmartFace leverages Innovatrics ..."
     publishedDateTime: 2020-02-03T16:56:00Z
@@ -268,6 +307,19 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/03115129/innovatrics-smartface-biometric-facial-recognition.jpg"
         width: 1280
         height: 720
+  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
+    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
+    publishedDateTime: 2020-02-03T22:34:00Z
+    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 28
+    images:
+      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
+        width: 700
+        height: 394
   - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
     excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
     publishedDateTime: 2020-02-04T14:25:00Z
@@ -332,15 +384,6 @@ related:
       name: The Daily News Online
       domain: thedailynewsonline.com
     quality: 19
-  - title: "Facebook to pay US$550 million to settle face recognition lawsuit and avoid ‘risky and expensive’ trial"
-    excerpt: "If Facebook had lost it might have been forced to pay US$6 billion, according to Matthew Schettenhelm, Bloomberg Intelligence litigation and government analyst. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest ..."
-    publishedDateTime: 2020-01-30T04:04:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3048174/facebook-pay-us550-million-settle-face-recognition"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 0
 
 secured: "H1PLRInnZVeaItZ6PNHfXEbufkjpOdSk0eibqdQwkktAzZSS1ooMfyWyr1jRjLOj7N3QlBqNTKYzem7Yz8vWVd+qbAg3ZfVbU2FvPHTSt4Z7UgYq9ZpabrdpxUPMRWquH5xuBMYHyladmwlx2aeYOl6s9El3p5nQUlOPFaWI/VnlEvKxpoAhC+EV/iq39Mmsouo4XL82SbB/amcARN1lJ1peV/PbyXwWxR34AzcudUS4XmjP9HuVAz9idq8mbSNWyTDnXZ0LgoIK0vjV/Hb4lXc6eIqoCd2orCHZ394Ty+PE0UIwr0etBiImn+T9ND38nAjs6P+6Z93/IesuQcJt03P3r+rk8JCh3d+mMcUmwGLZFNbPsKBeV4fF/6HNKcOIz2cwujFCStW3hd8IoEaXXzjMMSD6kBdQTHcM59l+xBJ2H3Ut8coivB1Dywpwn6/EIKYy4AbZJstdpl9zlxUGqd7QOgFEMUFitC7iOloshwUl+ESMyGZVRKijV1DRv7wJ;fCoD03Z8bJV9wMgwgGwhWA=="
 ---

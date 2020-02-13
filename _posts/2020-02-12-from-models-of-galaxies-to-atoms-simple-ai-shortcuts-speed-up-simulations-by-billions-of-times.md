@@ -23,6 +23,17 @@ images:
     height: 720
     title: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times"
 
+related:
+  - title: "AI shortcuts speed up simulations by billions of times"
+    excerpt: "Emulators, based on a form of AI called machine learning, skip the laborious reproduction of nature ... When they were turbocharged with specialized graphical processing chips, they were between about 100,000 and 2 billion times faster than their simulations. That speedup isn't unusual for an emulator, but these were highly accurate: In ..."
+    publishedDateTime: 2020-02-13T19:53:00Z
+    webUrl: "https://science.sciencemag.org/content/367/6479/728.full"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 19
+
 secured: "fFJbyJeKOPVqb02O84mcanGZ/t/L5b8eRGEo6halGRqwpFd83SeZmn4sKraKbf1kb6Tg/cjOCGU4vlpIjpX4iw608Fqunu0QPThQ4zrces6hwSZqAm8Siquq8ac4HxyUkVZ8EweIYfFnvD7m+bWcg0FUwBLe6nJjErdDtprrYfsHR+SRcypzkWU0TPhr+2vD1Qs1yBDDK/GDm/dY+5aQcGaWMNOMPyhBeR3OUlEuB/jdYu9K+mWXPbd0u94QER2Lg1MRp6gJtRoVXHB75PAib9h6r1dfiZiZIMxbdS3mIwW5w+gmQ4Mv+xy3DqjXyaydGErEAaakMkVFTFhxMOGe/XFNwiEDCQDK39qJIv+zb68/MMflu1ob2aW4aI/vZ8VJ/MHUjiH1s2wA9KHCKf/JjQc6LTnqEUQ8lFIbNhINkap+bFUyOj/SIUXUIK1LZfpKQC+9DXrFNLJGNcZFVRXnbA6ua5DynO0YQlH3rMYA124=;6ZpS2KBxdoWuGD9wblGzlA=="
 ---
 

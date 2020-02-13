@@ -41,6 +41,36 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
         width: 640
         height: 440
+  - title: "ACLU Said Clearview AI’s Facial Recognition Accuracy Study Is “Absurd”"
+    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and forced Clearview to remove it last month. Clearview AI, the facial ..."
+    publishedDateTime: 2020-02-10T16:25:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 106
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
+        width: 640
+        height: 440
+  - title: "ACLU rejects Clearview AI's facial recognition accuracy claims"
+    excerpt: "It accuses Clearview of faking endorsements to boost inaccurate tech. Clearview AI's facial recognition isn't just raising privacy issues-- there are also concerns over its accuracy claims. The ACLU has rejected Clearview's assertion that its technology is \"100% accurate\" based on the civil liberty group's methodology for testing Amazon's ..."
+    publishedDateTime: 2020-02-10T18:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3240%252C0%252C495%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3Dde699115449a716bcec325db3e7903662dbd4881&client=amp-blogside-v2&signature=3eefa1557daf961b15de1298ae8254f93b9244fb"
+        width: 600
+        height: 350
   - title: "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World"
     excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 5, 2020, at 6:09 p.m. ET As legal pressures and US lawmaker scrutiny mounts, Clearview AI, the facial recognition company that claims to have a database of more than 3 billion photos scraped from websites and social media, is looking to grow around the world. A document ..."
     publishedDateTime: 2020-02-05T23:16:00Z
@@ -56,21 +86,30 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
         width: 625
         height: 415
-  - title: "Oh great, the EU has ditched its facial recognition ban"
-    excerpt: "The European Union is backing away from its plan to introduce a temporary ban on facial recognition technology, instead delegating decisions on the software to its member states. In a previous draft of a paper on AI, the European Commission had proposed introducing a five-year moratorium on the technology. But in a new draft seen by the ..."
-    publishedDateTime: 2020-02-12T16:00:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
+  - title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
+    excerpt: "Facebook has demanded that Clearview stop accessing or using information from its platforms after it scraped billions of images without permission."
+    publishedDateTime: 2020-02-06T17:51:00Z
+    webUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-5-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://i.insider.com/5e3bff71d9db1d368665e4b5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "Google tells facial recognition startup Clearview AI to stop scraping photos"
+    excerpt: "Following Twitter, Google and YouTube have become the latest companies to send a cease-and-desist letter to Clearview AI, the startup behind a controversial facial recognition program that more than 600 police departments across North American use. Clearview came under scrutiny earlier this year when The New York Times showed that the company ..."
+    publishedDateTime: 2020-02-05T19:13:00Z
+    webUrl: "https://www.engadget.com/2020/02/05/google-tells-clearview-at-stop-scraping-photos/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 61
   - title: "Police Facial Recognition Tech Snags Pics from Social Sites"
     excerpt: "Clearview AI stands apart from other facial recognition companies because it pulls photos from commercial sites, like Facebook and Twitter, for its image database. Some are concerned by the company’s access. (TNS) — Surveillance footage showed a man suspected of fleeing officers during a traffic stop. Still, after several days, Pinellas ..."
     publishedDateTime: 2020-02-11T21:55:00Z
@@ -86,15 +125,19 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_590075333.jpg"
         width: 940
         height: 627
-  - title: "EU backs away from proposed five-year facial recognition ban"
-    excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
-    publishedDateTime: 2020-02-11T15:49:00Z
-    webUrl: "https://www.engadget.com/2020/02/11/european-commission-facial-recognition-guidelines/"
+  - title: "Facial Recognition Has Its Eye on the U.K."
+    excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
+    publishedDateTime: 2020-02-07T13:41:00Z
+    webUrl: "https://www.lawfareblog.com/facial-recognition-has-its-eye-uk"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 49
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 39
+    images:
+      - url: "https://lawfare.s3-us-west-2.amazonaws.com/staging/s3fs-public/20094558872_e897053335_c.jpg"
+        width: 800
+        height: 530
   - title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
     excerpt: "Law firms in Miami and Los Angeles claim in a class action that the Google Photos service uses facial recognition technology that violates an Illinois biometric privacy law with stiff statutory penalties. The lawsuit filed in U.S. District Court for the Northern District of California claims Google failed to get the consent or written release ..."
     publishedDateTime: 2020-02-07T21:16:00Z
@@ -121,15 +164,19 @@ related:
       - url: "https://static.axios.com/img/axios-icon.png"
         width: 400
         height: 400
-  - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
-    excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
-    publishedDateTime: 2020-02-11T16:13:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444432-artificial-intelligence-facial-recognition-could-change-how-vegas.htm"
+  - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
+    excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
+    publishedDateTime: 2020-02-07T12:48:00Z
+    webUrl: "https://www.neweurope.eu/article/facebook-demands-clearview-stop-scraping-images-for-facial-recognition-tech/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
+      name: New Europe
+      domain: neweurope.eu
+    quality: 37
+    images:
+      - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
+        width: 5379
+        height: 3551
   - title: "Google Photos allegedly violated Illinois’ facial recognition laws, according to suit filed after Facebook settles class-action over same law"
     excerpt: "The suit was filed about a week after Facebook agreed to pay $550 million to Illinois users to settle allegations that its facial tagging feature violated the same state law protecting biometric information, which can include data from facial, fingerprint and iris scans. Illinois has one of the strictest biometric privacy laws in the nation."
     publishedDateTime: 2020-02-11T23:07:00Z
@@ -185,6 +232,15 @@ related:
       name: Boston Herald
       domain: bostonherald.com
     quality: 15
+  - title: "Controversial facial recognition app reveals it can access photos that are no longer online"
+    excerpt: "A facial recognition company has amassed a three-billion-strong database of social media photographs including pictures which are private or have been deleted. Clearview AI, which identifies people by cross-referencing their mugshot with its mammoth image archive, has sent chills up the backs of privacy campaigners since it began selling its ..."
+    publishedDateTime: 2020-02-11T16:57:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7991767/Controversial-facial-recognition-app-reveals-access-photos-no-longer-online.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 9
   - title: "Video: American Civil Liberties Union criticizes facial-recognition company using people?s photos without permission"
     excerpt: "One person died and more than 150 people were injured Wednesday when a Pegasus Airlines plane landing at Istanbul’s Sabiha Gokcen Airport skidded off the runway and crashed into a field, according to multiple reports. Istanbul Gov. Ali Yerlikaya said the ..."
     publishedDateTime: 2020-02-06T04:38:00Z

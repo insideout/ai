@@ -95,15 +95,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11559/production/_110710017_aidrug.gif"
         width: 1024
         height: 576
-  - title: "AI-designed drug to enter human clinical trial for first time"
-    excerpt: "The new compound, which has been designed to treat patients with obsessive-compulsive disorder, was developed by Oxford-based AI start-up Exscientia in collaboration with the Japanese pharmaceutical firm Sumitomo Dainippon Pharma. In a sharp acceleration of the typical path to drug development, which can take about four and a half years ..."
-    publishedDateTime: 2020-01-30T04:00:00Z
-    webUrl: "https://www.ft.com/content/fe55190e-42bf-11ea-a43a-c4b328d9061c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "vGqvsS5JFNTumqn+aIfAWNO4rSPyn/7bB4wGOZK4A/DyiGPWg58zpHKF4zRMCpBv0LrEJ2WeyqcLilPG+QTczXIGHdINsNQxG6aCVN5lWhR8r+iaHEDvQGK7Kuuh7myV06f198sJDkiBR21ISifHoiNgQaklWo2BWuQMxJIJxrrIh8blVI38nPpWxxASDai6wB+VHn3RXNYw+s7/1ecA+GUI/gI7GJzb2sTyfpYyCd0BFc1jmcYOwAsVcwIxZruUfBBSIbI8at3yGdMRK3tbdlvhJMz8Q4a74HZwerZBt1HG7UoFYV27kgUlK7/mc1UsGiKXaB14m3IL6fe5Tq7TfKzFB0JhFGKDDybGA6HmDLsZqZoQA6BgHksUA+H80QM+NbwlQBSpXSPLOD/sSgQY/4BMdDhTFgllcqWSk4b+DvgNo7DlswYzDVMyzNHDSXoJo9rS7fmzzjI+778kmCszPDccIhxPCrzK0gqYpWhjDxI=;n4yGi8JIVZbJTPapgvvVUw=="
 ---

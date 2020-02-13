@@ -26,6 +26,21 @@ images:
     title: "Concerns Surround Facial Recognition App in Florida"
 
 related:
+  - title: "Facial recognition could be temporarily banned for law enforcement use"
+    excerpt: "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens."
+    publishedDateTime: 2020-02-13T03:13:00Z
+    webUrl: "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 189
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+        width: 756
+        height: 567
   - title: "Clearview’s Facial Recognition App Is Identifying Child Victims of Abuse"
     excerpt: "Though a breakthrough for law enforcement, the technique could allow the little-known start-up to collect an extraordinarily sensitive set of data and images. Law enforcement agencies across the United States and Canada are using Clearview AI — a secretive facial recognition start-up with a database of three billion images — to identify children who are victims of sexual abuse."
     publishedDateTime: 2020-02-07T15:06:00Z
@@ -41,96 +56,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/02/07/business/07CLEARVIEW-01/07CLEARVIEW-01-facebookJumbo.jpg"
         width: 1050
         height: 550
-  - title: "ACLU Said Clearview AI’s Facial Recognition Accuracy Study Is “Absurd”"
-    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and forced Clearview to remove it last month. Clearview AI, the facial ..."
-    publishedDateTime: 2020-02-10T16:25:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 106
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-        width: 640
-        height: 440
-  - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
-    excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
-    publishedDateTime: 2020-02-06T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/"
-    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 105
-    images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-  - title: "ACLU rejects Clearview AI's facial recognition accuracy claims"
-    excerpt: "It accuses Clearview of faking endorsements to boost inaccurate tech. Clearview AI's facial recognition isn't just raising privacy issues-- there are also concerns over its accuracy claims. The ACLU has rejected Clearview's assertion that its technology is \"100% accurate\" based on the civil liberty group's methodology for testing Amazon's ..."
-    publishedDateTime: 2020-02-10T18:45:00Z
-    webUrl: "https://www.engadget.com/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3240%252C0%252C495%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3Dde699115449a716bcec325db3e7903662dbd4881&client=amp-blogside-v2&signature=3eefa1557daf961b15de1298ae8254f93b9244fb"
-        width: 600
-        height: 350
-  - title: "LG CNS deploys AI facial recognition gate service"
-    excerpt: "LG CNS has deployed a facial recognition gate control service that runs on artificial intelligence (AI) software at its headquarters in Seoul, the company has announced. The solution, made in collaboration with Chinese AI firm SenseTime, uses a designated reader that can identify a face, authenticate an employee, and open the gate ..."
-    publishedDateTime: 2020-02-11T02:47:00Z
-    webUrl: "https://www.zdnet.com/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/02/11/a4f44ba3-79b4-4f42-b5a9-ba5aa4375bd6/lg-cns-3-lg-cns.jpg"
-        width: 2400
-        height: 1600
-  - title: "YouTube demands Clearview AI stop scraping its videos for facial recognition database"
-    excerpt: "YouTube has sent a cease and desist letter to Clearview AI demanding that the controversial facial recognition startup stop scraping YouTube videos to gather faces for its database and delete any images it’s already collected. The demand, first reported by CBS News, says that YouTube forbids anyone from collecting data from its platform that ..."
-    publishedDateTime: 2020-02-05T16:45:00Z
-    webUrl: "https://www.theverge.com/2020/2/5/21124172/youtube-clearview-ai-cease-and-desist"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/5/21124172/youtube-clearview-ai-cease-and-desist"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/5/21124172/youtube-clearview-ai-cease-and-desist"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 99
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/hzn0DYF6-yhz7E7TYeTKLCBBFIs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66255869/acastro_180806_1777_youtube_cancel_0001.0.jpg"
-        width: 1400
-        height: 933
-  - title: "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software"
-    excerpt: "The facial recognition company has been embroiled in a storm of controversy since The New York Times revealed that it was helping police match photos of suspects’ faces to images scraped from websites and social media platforms to aid in their investigations. Clearview says that it has amassed a database of more than three billion images ..."
-    publishedDateTime: 2020-02-11T17:49:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 93
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png"
-        width: 796
-        height: 417
   - title: "Paper Masks Are Fooling Facial Recognition Software"
     excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
     publishedDateTime: 2020-02-07T16:44:00Z
@@ -161,146 +86,111 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/182908695/960x0.jpg?fit=scale"
         width: 711
         height: 473
-  - title: "Is this facial recognition app going too far? We tested it"
-    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality,"
-    publishedDateTime: 2020-02-10T02:12:00Z
-    webUrl: "https://www.cnn.com/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+  - title: "Oh great, the EU has ditched its facial recognition ban"
+    excerpt: "The European Union is backing away from its plan to introduce a temporary ban on facial recognition technology, instead delegating decisions on the software to its member states. In a previous draft of a paper on AI, the European Commission had proposed introducing a five-year moratorium on the technology. But in a new draft seen by the ..."
+    publishedDateTime: 2020-02-12T16:00:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
+      name: The Next Web
+      domain: thenextweb.com
     quality: 89
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
-        width: 1100
-        height: 619
-  - title: "Facial recognition could be temporarily banned for law enforcement use"
-    excerpt: "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens."
-    publishedDateTime: 2020-02-13T03:13:00Z
-    webUrl: "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
-        width: 756
-        height: 567
-  - title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
-    excerpt: "Facebook has demanded that Clearview stop accessing or using information from its platforms after it scraped billions of images without permission."
-    publishedDateTime: 2020-02-06T17:51:00Z
-    webUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2"
-    ampWebUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/5e3bff71d9db1d368665e4b5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Facebook Has Sent Facial Recognition Startup 'Clearview AI' Cease And Desist Letters"
-    excerpt: "Facial recognition software startup Clearview AI has been under fire over revelations it's been training its machine learning algorithm on billions of publicly available photos, including public personal images scraped from social media without permission. Now Facebook has become the latest tech giant to tell the controversial company to quit it."
-    publishedDateTime: 2020-02-06T06:21:00Z
-    webUrl: "https://in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters"
-    ampWebUrl: "https://in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 80
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/news/f/facebook-s/facebook-sends-cease-and-desist-to-facial-recognition-startu_aamw.620.jpg"
-        width: 620
-        height: 441
-  - title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
-    excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
-    publishedDateTime: 2020-02-08T12:03:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Facebook and LinkedIn are latest to demand Clearview stop scraping images for facial recognition tech"
-    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company said, “Which is why we’ve demanded that Clearview stop accessing or using information f ..."
-    publishedDateTime: 2020-02-06T11:56:00Z
-    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/7l1HObT4uIVko8_sSo6v9vlNURg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg"
-        width: 1400
-        height: 933
-  - title: "Chinese firm working on facial recognition that can identify you under a mask"
-    excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
-    publishedDateTime: 2020-02-11T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/"
-    ampWebUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 66
-  - title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
-    excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
-    publishedDateTime: 2020-02-05T17:34:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7970371/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 62
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/05/17/24354446-0-image-a-59_1580923631236.jpg"
-        width: 636
-        height: 382
-  - title: "Google tells facial recognition startup Clearview AI to stop scraping photos"
-    excerpt: "Following Twitter, Google and YouTube have become the latest companies to send a cease-and-desist letter to Clearview AI, the startup behind a controversial facial recognition program that more than 600 police departments across North American use. Clearview came under scrutiny earlier this year when The New York Times showed that the company ..."
-    publishedDateTime: 2020-02-05T19:13:00Z
-    webUrl: "https://www.engadget.com/2020/02/05/google-tells-clearview-at-stop-scraping-photos/"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-5-796x417.png"
+        width: 796
+        height: 417
+  - title: "Senate bill would place a moratorium on feds using facial recognition"
+    excerpt: "First, a 13 member commission would try to establish some guidelines on its use. Facial recognition is being used by more agencies than ever, even as its accuracy and impact remain unclear. Several local governments have already taken steps to stop law enforcement from using it in various ways, and a bill introduced by two US senators seeks to ..."
+    publishedDateTime: 2020-02-13T07:50:00Z
+    webUrl: "https://www.engadget.com/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
     type: article
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 61
-  - title: "Raleigh police stop using controversial facial recognition technology"
-    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
-    publishedDateTime: 2020-02-12T17:54:00Z
-    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3750%252C2199%252C0%252C87%26quality%3D85%26format%3Djpg%26resize%3D1600%252C938%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F13cdbc50-4e28-11ea-af76-05ffda135652%26client%3Da1acac3e1b3290917d92%26signature%3D0481885756e5df58466c02a0c4b77093553bc031&client=amp-blogside-v2&signature=f8f6c4395bba8a560c86317e4de100dad55191c3"
+        width: 600
+        height: 350
+  - title: "US senators propose facial recognition ban (but not for police)"
+    excerpt: "US senators have introduced a bill that would temporarily restrict the use of facial recognition technology — but their proposals fall short of a total ban. The Ethical Use of Artificial Intelligence Act would place a moratorium on federal government use of facial recognition technology (FRT) until Congress passes legislation regulating ..."
+    publishedDateTime: 2020-02-13T13:41:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-10-796x417.png"
+        width: 796
+        height: 417
+  - title: "U.S. Senators propose facial recognition moratorium for federal government"
+    excerpt: "Two Democratic U.S. Senators today proposed legislation that requires a moratorium on facial recognition use by federal agencies, government employees, and law enforcement until a Congressional commission can act to recommend guidelines and place limits on use of the technology. The bill, titled named the Ethical Use of Artificial Intelligence ..."
+    publishedDateTime: 2020-02-12T23:24:00Z
+    webUrl: "https://venturebeat.com/2020/02/12/u-s-senators-propose-facial-recognition-moratorium-for-federal-government/"
+    ampWebUrl: "https://venturebeat.com/2020/02/12/u-s-senators-propose-facial-recognition-moratorium-for-federal-government/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/u-s-senators-propose-facial-recognition-moratorium-for-federal-government/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/alex-knight-B0-kMa8BgU-unsplash.jpg?fit=1600%2C800&strip=all"
+        width: 1600
+        height: 800
+  - title: "EU backs away from call for blanket ban on facial recognition tech"
+    excerpt: "Brussels has backed away from plans to call for a five-year blanket moratorium on the use of facial recognition technology in public spaces, instead leaving the responsibility of choosing to impose a ban to member states, despite concerns from privacy groups that civil liberties could be infringed by the biometric software. In a draft of a ..."
+    publishedDateTime: 2020-02-11T14:49:00Z
+    webUrl: "https://www.ft.com/content/ff798944-4cc6-11ea-95a0-43d18ec715f5"
+    ampWebUrl: "https://amp.ft.com/content/ff798944-4cc6-11ea-95a0-43d18ec715f5"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ff798944-4cc6-11ea-95a0-43d18ec715f5"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 59
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1b149884-4cd0-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+  - title: "Booker, Merkley propose federal facial recognition moratorium"
+    excerpt: "Two Democratic senators on Wednesday introduced a bill that would place a moratorium on federal government use of facial recognition technology until Congress passes legislation regulating it."
+    publishedDateTime: 2020-02-12T20:48:00Z
+    webUrl: "https://thehill.com/policy/technology/482815-booker-merkley-propose-facial-recognition-moratorium"
+    ampWebUrl: "https://thehill.com/policy/technology/482815-booker-merkley-propose-facial-recognition-moratorium?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482815-booker-merkley-propose-facial-recognition-moratorium?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognition_052518istock.jpg"
+        width: 980
+        height: 551
+  - title: "Chino, Calif., PD to Hold Forum on Facial Recognition Tech"
+    excerpt: "(TNS) — Facial recognition technology is already used by several agencies in California's Inland Empire, and the Chino, Calif., Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the ..."
+    publishedDateTime: 2020-02-12T16:53:00Z
+    webUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Chino-Calif-PD-to-Hold-Forum-on-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_DEEPFAKE_FACIAL_RECOGNITION_AI.jpg"
+        width: 940
+        height: 627
   - title: "Raleigh, N.C., Police Halt Use of Facial Recognition Tech"
     excerpt: "Raleigh PD has stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns from the community. (TNS) — Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a ..."
     publishedDateTime: 2020-02-13T18:39:00Z
@@ -316,21 +206,36 @@ related:
       - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
         width: 770
         height: 535
-  - title: "Raleigh police abruptly end use of controversial facial recognition tech"
-    excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
-    publishedDateTime: 2020-02-11T18:11:00Z
-    webUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/"
-    ampWebUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
+  - title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
+    excerpt: "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ..."
+    publishedDateTime: 2020-02-11T06:04:00Z
+    webUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675"
+    ampWebUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
+    cdnAmpWebUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
+      name: The Scotsman
+      domain: scotsman.com
     quality: 58
     images:
-      - url: "https://wwwcache.wral.com/asset/news/local/2020/02/10/18945112/clearview_cap-DMID1-5lstc1qbi-1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
+        width: 445
+        height: 600
+  - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
+    excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
+    publishedDateTime: 2020-02-11T00:06:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-scotland-51449166"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-51449166"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 56
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
+        width: 1024
+        height: 576
   - title: "Florida cops use this facial recognition tech that could be pulling your pics"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T10:08:00Z
@@ -346,41 +251,75 @@ related:
       - url: "https://www.tampabay.com/resizer/Ad0jNQXVyDvwAuA5wrBJPTi-8v8=/800x450/smart/arc-anglerfish-arc2-prod-tbt.s3.amazonaws.com/public/MNOYRNOZY5HFDLXUNY5ON7YO5A.jpg"
         width: 800
         height: 450
-  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
-    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
-    publishedDateTime: 2020-02-10T14:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
+  - title: "Chino PD to hold forum Wednesday on proposed use of facial recognition technology"
+    excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
+    publishedDateTime: 2020-02-12T01:16:00Z
+    webUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: The Press-Enterprise
+      domain: pe.com
     quality: 54
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-  - title: "Google and YouTube want Clearview AI to stop scraping images and video for facial recognition database"
-    excerpt: "Facebook told CBS News that it, too, is reviewing the company's controversial practices, but so far hasn't made any decision on what to do about it. The social giant is on thin ice when it comes to facial recognition, after being brought to court for silently doing it in the background using photos uploaded by its users."
-    publishedDateTime: 2020-02-06T11:51:00Z
-    webUrl: "https://www.techspot.com/news/83883-google-youtube-want-clearview-ai-stop-scraping-images.html"
+      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 578
+  - title: "Senators introduce facial recognition bill proposing moratorium on government use"
+    excerpt: "Two Democratic senators introduced a bill on Wednesday that would place a moratorium on the use of facial recognition technology by the federal government. Sen. Jeff Merkley (D-Ore.) and Sen. Cory Booker (D-N.J.) introduced the Ethical Use of Facial Recognition Act. Besides placing a moratorium on the federal government’s use of the ..."
+    publishedDateTime: 2020-02-13T14:44:00Z
+    webUrl: "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/"
+    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 48
-  - title: "Facial Recognition Has Its Eye on the U.K."
-    excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
-    publishedDateTime: 2020-02-07T13:41:00Z
-    webUrl: "https://www.lawfareblog.com/facial-recognition-has-its-eye-uk"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 39
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 54
     images:
-      - url: "https://lawfare.s3-us-west-2.amazonaws.com/staging/s3fs-public/20094558872_e897053335_c.jpg"
-        width: 800
-        height: 530
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg"
+        width: 1024
+        height: 512
+  - title: "“No justifiable basis” for Police Scotland to use live facial recognition technology"
+    excerpt: "Members of Scottish Parliament said that facial recognition software is known to discriminate against females and members of the BAME community. Whilst Police Scotland has outlined its ambitions to make use of facial recognition technology in its 10-year strategy, which plans to introduce its use by 2026, Members of Scottish Parliament have ..."
+    publishedDateTime: 2020-02-11T11:26:00Z
+    webUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology"
+    ampWebUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-08/00F53187-544B-4807-ACF1-7877845AA4B7.jpeg"
+        width: 640
+        height: 426
+  - title: "EU backs away from proposed five-year facial recognition ban"
+    excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
+    publishedDateTime: 2020-02-11T15:49:00Z
+    webUrl: "https://www.engadget.com/2020/02/11/european-commission-facial-recognition-guidelines/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 49
+  - title: "Chino Police Department to hold forum Wednesday on proposed use of facial recognition technology"
+    excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
+    publishedDateTime: 2020-02-12T02:16:00Z
+    webUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: The Press-Enterprise
+      domain: pe.com
+    quality: 46
+    images:
+      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 578
   - title: "Zwicker Wants to Regulate Facial Recognition Technology"
     excerpt: "TRENTON, NJ – Just recently, the New Jersey Attorney General prohibited law enforcement in all 21 counties from using Clearview AI’s facial recognition software after a New York Times article revealed the start-up had built its database by scrubbing ..."
     publishedDateTime: 2020-02-07T09:00:00Z
@@ -394,43 +333,39 @@ related:
       - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/hi/facebook_6c84268a82f274cd1c00_hillspixzwickertestimony.jpg"
         width: 480
         height: 401
-  - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
-    excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
-    publishedDateTime: 2020-02-07T12:48:00Z
-    webUrl: "https://www.neweurope.eu/article/facebook-demands-clearview-stop-scraping-images-for-facial-recognition-tech/"
+  - title: "EU Softens Stance On 5-Year Ban Of Facial Recognition Tech"
+    excerpt: "The European Union won’t be passing a blanket moratorium on facial recognition software after initially signaling that it would do so. Instead, it plans to leave the responsibility to member states. That decision has faced backlash from privacy advocates, who say civil liberties could be at risk from facial recognition due to its potential ..."
+    publishedDateTime: 2020-02-12T11:59:00Z
+    webUrl: "https://www.pymnts.com/news/biometrics/2020/eu-softens-stance-on-5-year-ban-of-facial-recognition-tech/"
+    ampWebUrl: "https://www.pymnts.com/news/biometrics/2020/eu-softens-stance-on-5-year-ban-of-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2020/eu-softens-stance-on-5-year-ban-of-facial-recognition-tech/amp/"
     type: article
     provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 37
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
+  - title: "Basic rules required for facial recognition usage: Statesman contributor"
+    excerpt: "In his article, the author says that the use of facial recognition technology, in its present form, is not in conformity with the right of privacy. KK Paul NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) - In spite of several advantages of the latest technology of facial recognition, doubts continue to prevail in view of its very thin legal base."
+    publishedDateTime: 2020-02-12T03:46:00Z
+    webUrl: "https://www.straitstimes.com/asia/basic-rules-required-for-facial-recognition-usage-statesman-contributor"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 38
     images:
-      - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
-        width: 5379
-        height: 3551
-  - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
-    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
-    publishedDateTime: 2020-02-06T11:57:00Z
-    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/12/rk_facialrecognition_120220.jpg?itok=HoPHK8e9"
+        width: 763
+        height: 509
+  - title: "Great Britain at Odds over Police Use of Facial Recognition Technology"
+    excerpt: "Great Britain's three nations are not in agreement over the use of facial recognition technology by police forces. The technology, which can be legally used by police in Wales, was officially introduced by England's Metropolitan Police Service in East London yesterday, amid a peaceful protest by Big Brother Watch. Use of the technology by ..."
+    publishedDateTime: 2020-02-12T16:20:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/great-britain-at-odds-over-police/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 36
-  - title: "Facebook, YouTube, Twitter warn Clearview face-recognition service to stop harvesting images"
-    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
-    publishedDateTime: 2020-02-06T19:37:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 33
-    images:
-      - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
-        width: 1200
-        height: 800
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
   - title: "Clearview AI: why the controversial facial recognition technology should be a concern for the UK, according to experts"
     excerpt: "A controversial US facial recognition company is raising concerns over privacy after it created a database using nearly three billion public photos of people from sites such as Facebook, Twitter and YouTube. Clearview AI, until recently a relatively unknown tech startup, has made its facial recognition software available to law enforcement ..."
     publishedDateTime: 2020-02-12T10:30:00Z
@@ -444,41 +379,83 @@ related:
       - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/Thumbnail-maker-91.jpg"
         width: 1200
         height: 630
-  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
-    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
-    publishedDateTime: 2020-02-03T22:34:00Z
-    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
+  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
+    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
+    publishedDateTime: 2020-02-06T20:54:00Z
+    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 28
     images:
-      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
-        width: 700
-        height: 394
-  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
-    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
-    publishedDateTime: 2020-02-05T03:35:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+  - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
+    excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
+    publishedDateTime: 2020-02-11T16:13:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444432-artificial-intelligence-facial-recognition-could-change-how-vegas.htm"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 20
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+  - title: "Poker Players Are Asking for Facial Recognition Technology"
+    excerpt: "There has been a lot of talk about the idea of introducing facial recognition technology into casinos. Proponents of this idea have argued that a facial recognition system could unlock an array of benefits for casino owners and players. First, it’s a good way of tracking patrons and signing in VIP players without a fuss. Casinos also have the ..."
+    publishedDateTime: 2020-02-11T16:08:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444431-poker-players-asking-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "MSPs warn Police Scotland about use of live facial recognition technology"
+    excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."
+    publishedDateTime: 2020-02-11T10:26:00Z
+    webUrl: "https://www.telecompaper.com/news/msps-warn-police-scotland-about-use-of-live-facial-recognition-technology--1326133"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 18
+  - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
+    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
+    publishedDateTime: 2020-02-13T13:03:00Z
+    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
+    type: article
+    provider:
+      name: The Salt Lake Tribune
+      domain: sltrib.com
+    quality: 13
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
-        width: 500
-        height: 300
-  - title: "Controversial facial recognition app reveals it can access photos that are no longer online"
-    excerpt: "A facial recognition company has amassed a three-billion-strong database of social media photographs including pictures which are private or have been deleted. Clearview AI, which identifies people by cross-referencing their mugshot with its mammoth image archive, has sent chills up the backs of privacy campaigners since it began selling its ..."
-    publishedDateTime: 2020-02-11T16:57:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7991767/Controversial-facial-recognition-app-reveals-access-photos-no-longer-online.html"
+      - url: "https://www.sltrib.com/pb/resources/assets/img/sltrib_facebook_card.png"
+        width: 1200
+        height: 630
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
+    publishedDateTime: 2020-02-11T10:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 9
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The Global Emotion Detection & Recognition Market is projected to grow from US$ 21.6 billion in 2019 to US$ 56 billion by 2024, at a CAGR of ..."
+    publishedDateTime: 2020-02-12T00:38:00Z
+    webUrl: "https://www.oilandgas360.com/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artificial-agents/"
+    type: article
+    provider:
+      name: Range
+      domain: oilandgas360.com
+    quality: 2
+    images:
+      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
+        width: 300
+        height: 250
 
 secured: "arTKKsxQuYEpOcc6ri6aQmo7JuFkAYaDyHFgdQa8wE/vxUpkAayFiakaZ2kFKKBvWvT4bTjKR+XkyFwjeNy90tVKesqsyqFSElYitM6bVDjoy3GUEE0FGngxgfyF0MjmcPnBYe9eoA8SuZ5S8drhaulyU7Hgu62P4Wf9qAueXO26EzA0AoaVataXhiO1qn+cEGsjvMuMb1HDIFbE2oRa0VVHeREUg1hvrgXOANwWLkRq21Q+y0Or9IN61/KG/vbOzHCYlykfe1vcHjNot7XBnkKE4XRAn5hZRPWApcW4+XG0L/vbdOGrx3YBeNMflCk3xIYO+4h5ptBFJW88KtN2MKlKZvuWS7kTi8s2Y1e1JRfhTTIkyh4sZks6CqQs4v+YuhThvCrB0r1CbShfenNR+rO9MDy6CwuHea4AsTLKVGnXXeJfAxazosWZzR6HcjEJaMDDniNGvbTAjy+R6u8nt9PVfJM74oAV6WcAKUqZ1eY=;4/fkP3iRufnfynr/TgjEBw=="
 ---

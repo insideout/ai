@@ -1,33 +1,26 @@
 ---
 category: news
 title: "How is your company managing its AI and ML initiatives?"
-excerpt: "SEE: Managing AI and ML in the enterprise 2019: Tech leaders expect more difficulty than previous ... Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
-publishedDateTime: 2020-02-13T16:01:00Z
-webUrl: "https://www.techrepublic.com/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+excerpt: "When it comes to artificial intelligence (AI) and machine learning (ML) projects, the biggest challenge for CXOs isn't necessarily deployment, but rather, managing these initiatives. For example, what do you anticipate your AI/ML budget will look like?"
+publishedDateTime: 2020-02-13T16:05:00Z
+webUrl: "https://www.zdnet.com/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
 type: article
-quality: 89
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "/assets/images/organizations/techrepublic.com-50x50.jpg"
+    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - Microsoft AI
-
-images:
-  - url: "https://tr4.cbsistatic.com/hub/i/r/2020/02/13/f81f1846-84ce-494a-9a0e-c7159a67b93d/resize/1200x/d0bec0400c685055c101739b762f68cb/ai-ml-1.jpg"
-    width: 1200
-    height: 887
-    title: "How is your company managing its AI and ML initiatives?"
 
 related:
   - title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
@@ -77,6 +70,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "Brzg8wX2We9kUGZUt1R4JTZub6IHYiDhXM0y/vI6RWFtPd8tyP4lCcdLRoHpkFcb4Pp8lHvCrhXcjBqwnpevETJRVGZAQphByHhJ9pTXRxo5EDmoIE2qWJ5VTO0V4bGfAvf+JHzMvzE/hgsoNkbrAw3v+EOxjF+QuNX1qxC/QDVZuUQrm6fRTZC8wg4E6NqByGX5CJ2FshQeLsRBJO/4+xdrrceBKZpHgKfoxYvOjyi3AKiKu3hjvt+sciZMojSH2aJfkr+W9nMAwaaXVBQqxxlyFjvk2xesZCrSXZqvOuGZflxru1dCdbyBRP6SD3cb;ywyBlhHogGa8kCzoxFMvIw=="
+secured: "G6xOTL1pCDai09ZmDmk5k3btr9m6UPaJmvz1rRy3IbN1XIuM6G33seB94ZYteCWewF0KLf44OMgQNTcqRxOvsOxFNt9b/IHqhMuWHFgxyCDx2FxRlJCpaF0G3lkHW879xOyTUTRI6zPlkxi9pBiK5XSHpLPAgtE+ydQClLJaPBTL7Gv4ttwbiqFhLLayw2BqavBaK2CqZopdUhxgrAAJxkyZcu8T4sWeSTk74uR16Cj5Q/vtZu/N6ltpCzv4bODGMvTkmbddS5/w7mzfLPW4PVH8noihSHTfdrkm9jy99svsUTyQFbH5GWqnaiy8QIGGudJi3EZluWq9w5xGK0rutYw15by523OqJZ7yweWf5bGAJ2M9advmSbJYFFXkUxyyU/XwUnE85EbopU9LHzlHpkFwQfcnfUFwB2zDxPHEVQekGuPLyaMaN07aAdGZf6cvYuTc8753kIxadNiGYAO9ia1GRjEewhXIBWPmv400D9I=;FooQTtWEzZLFFzjzYg5lPw=="
 ---
 
