@@ -41,6 +41,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
+    excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report"
+    publishedDateTime: 2020-02-12T12:54:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/12/1983746/0/en/Self-Driving-Car-Market-Trends-Report-2019-2027-by-Level-of-Automation-Type-End-user-and-Region.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "fOHku34fdBQx3Q86TLEYz79VhO+E1nASRtUtsH6hs4LWP6LxurWl0zAr5mvR47BxfiC4aPKtrrCn9KC1zKr4GKVV0hwBQe9dNEuUNBzaXTdMHlssuTddvffNUFduuea8J16ibFhL7NwGi195dewsZtVWMvQTn/d/ylMh0qRSHv3eA2A37snhnmh/BJvR+6pIvPZfZQNvGA8IgNmyZlTWb9rJseF2ZIUFtrDWcy3XF1rty1pC2GVA05Q0r43vlXkABTdMJaIUkV+goxJF1salBbFBsRRfTZsqgxqcurz2sFe4hcWR5TRwkbkYThhnDf25;Ko/cR+amZswUrECAHWTa6g=="
 ---

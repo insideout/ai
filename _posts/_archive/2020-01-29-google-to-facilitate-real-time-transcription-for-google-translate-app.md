@@ -56,21 +56,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
         width: 1200
         height: 675
-  - title: "Google To Add Live Transcription Feature To Its Translate App"
-    excerpt: "The search-giant has already presented a demo of the new feature, during AI demos, held in San Francisco ... The real-time or live transcription of multilingual audio files is more complex than the simple translation of written text from one language to another. And, to use the live transcription feature, internet connection is a must."
-    publishedDateTime: 2020-01-29T11:45:00Z
-    webUrl: "https://www.gizbot.com/apps/news/google-to-add-live-transcription-feature-to-its-translate-app-065335.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/apps/news/google-to-add-live-transcription-feature-to-its-translate-app-065335.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/apps/news/google-to-add-live-transcription-feature-to-its-translate-app-065335.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 44
-    images:
-      - url: "https://www.gizbot.com/img/2020/01/google-to-add-live-transcription-feature-to-its-translate-app-1580298151.jpg"
-        width: 600
-        height: 337
   - title: "Google Translate is getting a real-time transcription feature"
     excerpt: "Updates added 60 languages and got rid of some of the feature’s bugs, including annoying flickering and shakiness. The Google Translate camera translation function also got an AI upgrade – now packing Neural Machine Translation (NMT) as standard. Google said this will reduce errors by 55-85% in some languages. Unlike other sites ..."
     publishedDateTime: 2020-01-29T15:44:00Z

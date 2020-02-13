@@ -48,15 +48,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Artificial intelligence In Healthcare Market Poised To revolutionize the healthcare sector"
-    excerpt: "The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for players to better address challenges inside the global Artificial ..."
-    publishedDateTime: 2020-01-29T11:55:00Z
-    webUrl: "https://www.openpr.com/news/1911994/artificial-intelligence-in-healthcare-market-poised"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
 secured: "5oghcNa1ZKROOFHCxa2HxWhImeai2lrllFKBgdfpT/H2NCNTMYvED/ZHMlNRBBW9Oh6Moz6A8v7/x3EXUC1PBLo6gzSqSfUcz1+Zuf5fX35VRzfxadu1nmRP6uSUtQQs5x2M+Bi2dJ3RO+UByQvuukYQjWIT71dqT1NqQ1/B1uejsp/HA/rb/Qum7qd65Ch6QoZBqiu/FcZMCFBy0gxfT0oI9W9KShkjdR48Rs8SsSIEsYX99WN7RuA6VskMik/di/Rnsgvw3E6yuq0oKoACDJu64sefC0J/142UwmoX29JAJ4I7X8YYXxh71BG6x76c;bCUl2Ws6fE1MzxpNRvhwHQ=="
 ---

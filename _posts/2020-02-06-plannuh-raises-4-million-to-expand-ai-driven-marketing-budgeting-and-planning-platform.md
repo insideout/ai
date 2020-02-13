@@ -122,19 +122,6 @@ related:
       - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
         width: 1024
         height: 512
-  - title: "Going deep on deep learning with Dr. Jianfeng Gao"
-    excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
-    publishedDateTime: 2020-01-29T11:13:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/going-deep-on-deep-learning-with-dr-jianfeng-gao/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
-        width: 1200
-        height: 627
   - title: "Deep learning of circulating tumour cells"
     excerpt: "Moreover, our network excelled in identifying different important subclasses of objects. Deep learning was faster and superior to classical image analysis approaches and enabled the identification of new biological phenomena. Fig. 1: Overview of the analysis workflow used. Fig. 2: Comparison of the t-SNE maps of the latent space for a standard ..."
     publishedDateTime: 2020-02-10T19:12:00Z

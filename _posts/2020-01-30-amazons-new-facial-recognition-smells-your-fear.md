@@ -745,19 +745,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
         width: 620
         height: 465
-  - title: "India's railways to use facial recognition amid privacy fears"
-    excerpt: "India is readying to install a nationwide facial recognition system, likely to be among the world's largest Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people's privacy in the absence of ..."
-    publishedDateTime: 2020-01-29T12:03:00Z
-    webUrl: "https://www.dhakatribune.com/world/south-asia/2020/01/29/india-s-railways-to-use-facial-recognition-amid-privacy-fears"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 54
-    images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2020/01/watermarked/new-1580299156638.gif"
-        width: 600
-        height: 315
   - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
     excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
     publishedDateTime: 2020-02-02T02:35:00Z

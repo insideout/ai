@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Artificial intelligence In Healthcare Market Poised To revolutionize the healthcare sector"
-    excerpt: "The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for players to better address challenges inside the global Artificial ..."
-    publishedDateTime: 2020-01-29T11:55:00Z
-    webUrl: "https://www.openpr.com/news/1911994/artificial-intelligence-in-healthcare-market-poised"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
 secured: "X8/VJqL6n/KJ4JLlGOcSKRfsvL5N8uxNSVTlysfV4eSyCLkU6WnVtRQSCnWitaxW35mn4HE2CP98BUOvhF/BBEz4rs3lK6qLF9BDCKdO8iGsq2CIrzzt7d4JKjqbUIAHxibscIwmZWucNWSTxMjJSexUTTm74uaqQiicdRJNWaPvp5f3ME7zIScUV2AgI3PvtfbaeWctyjxNsbvjWKxSYWnQvr00q+zwBjJindt/j9VFlqlsHNKORVSnbWrR+DZ1BmdO3lKn/SX2Q6gJLEMTRba1Ls4vOclGY7lO8oXgoDQRIyrNUBPBugiUTWympwMYmbYJLyJjlB6ac8poCfQBm8wKIzYOcr4aSj/aCQ8o0bgv2Mvh4ZKSBQG/1MMK+8h4Gv3y8MyWuZukUKsnZvvMNfsatXArs03vdF2YdMXbabkQi2bDn41BskMlB9hmU57/qzMKKaReIsae1UKdKgQRUvlr34TaHIUGaiE8kjtX95E=;kvMX5BkUoIe/0jf6nOO6wQ=="
 ---

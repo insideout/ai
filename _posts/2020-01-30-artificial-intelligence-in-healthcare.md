@@ -46,15 +46,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg"
         width: 1240
         height: 936
-  - title: "Artificial intelligence In Healthcare Market Poised To revolutionize the healthcare sector"
-    excerpt: "The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for players to better address challenges inside the global Artificial ..."
-    publishedDateTime: 2020-01-29T11:55:00Z
-    webUrl: "https://www.openpr.com/news/1911994/artificial-intelligence-in-healthcare-market-poised"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
 secured: "58dMaMi3ymcNjkG5ePevMVmpB2yk2RfDC9YjOqKN69GjnNHeZ6p9C0bzUMMr4i1H8aImt2riJB9oH/to2QpcU9eFR4RPRSYJwSpUKHjdFMpT9wEbNWdsTTlRRpWuvtz5Xub6Gu4rrOH76TZrSuUg+WF2KYQoWNozTz799aO/HUE3QFY7X9iEIsKfLwRs0hNlded0z/HIlcCEb5GQyVB3XIT40aQOzxcCTDa7FGgGIJkTm+9ytpqcjoVDPZ1yAzpSp1mqg+ByJNHodADxAEN4GhFN3El70Yd9JUmi3QMIg9IFoMTeRokm6T1b35/6QQIF;3AyckxyKOcPb5+df4Ah3Uw=="
 ---

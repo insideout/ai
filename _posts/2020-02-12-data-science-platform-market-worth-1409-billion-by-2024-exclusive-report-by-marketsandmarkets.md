@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T15:34:00Z
 webUrl: "https://www.tmcnet.com/usubmit/-data-science-platform-market-worth-1409-billion-2024-/2020/02/12/9096953.htm"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -22,47 +22,6 @@ images:
     width: 252
     height: 335
     title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-
-related:
-  - title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually ..."
-    publishedDateTime: 2020-02-12T10:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005347/en/Global-Forecast-Artificial-Intelligence-AI-Robots-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 38
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005347/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-  - title: "2020 Study on Reinforcement Learning: Drivers, Restraints & Opportunities - ResearchAndMarkets.com"
-    excerpt: "The Report Includes: A general framework for deep Reinforcement Learning (RL) - also known as a semi-supervised learning model in the machine learning paradigm Assessing the breadth and depth of RL applications in real-world domains, including increased data efficiency and stability as well as multi-tasking Understanding of the RL algorithm ..."
-    publishedDateTime: 2020-02-11T09:27:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200211005482/en/2020-Study-Reinforcement-Learning-Drivers-Restraints-Opportunities"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20200211005482/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-  - title: "Global Forecast for Artificial Intelligence (AI) Chipsets (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Chipsets (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate ..."
-    publishedDateTime: 2020-02-12T10:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005352/en/Global-Forecast-Artificial-Intelligence-AI-Chipsets-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005352/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "d9cQiiUKd5qobNv1qzHc6lmlNCjKMJfBiLwgbG93EuCVv8FcnMVi5A3Y6fHJ2r7NAhSBpeQLPOD210mbIfaxjiMGsALVruwO+DL0D0bFFaXUTMReMa7LufDy2EC8/2gBOtkhMu8G9Mpj80HYE7KR10oC3Yz+nuhqUzIeGyl7Uoxg+Ye9Xt0w64ZRz5t68PVJETCy7YFQWpDSmAW67fXn4fnR285rA28BkbTfIW90J8ObYXtqkvKj1/X0lOLJjGwIkZ4l4yWE58xmtvL47hDaARZ/UfhQwMJN4xIX59wWbe4r1tibv9NwtVrcqGq2ddMe;Oi+OLC4Tt2BcRc1vX17PhA=="
 ---

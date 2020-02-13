@@ -53,15 +53,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200205005339/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
-  - title: "Artificial Intelligence Software in Security Market 2020-2027 witness to huge growth by top Nvidia, Intel, Xilinx, Samsung Electronics, Micron"
-    excerpt: "The Tax Compliance Software report additional predicts the dimensions and valuation of the global industry throughout the forecast amount. The Artificial Intelligence Software in Security Market report examines the economic status and prognosis of worldwide and major regions, in the prospect of all players, types and end-user application ..."
-    publishedDateTime: 2020-01-29T11:10:00Z
-    webUrl: "https://www.openpr.com/news/1912595/artificial-intelligence-software-in-security-market-2020-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "gfZ8dO9OGtlKbvoee9ct7/c8H6KIXyf4OSu84IwviGKU/ZUlE7yGk+rmzKC2vZYpf3X/IPbWaiuLfeL7oYNYwixJbXWQcPPP3ydO5APZ2raUZRjqiQ5jTl7QhLaAVAs8GMNRd6llhShe3hI/r2Ef9N3kt5G8AILQ+ULBsNeijYDdYV4/83qYhvsvW7ik8GIEV1247nLwA+X1t9VHHIwCsBVKEOJxhmMnEV4fB5xRkxqPKNUKYLMSyPyaGuXFIGmiytr4vK62trR58XRiaHZqvfd/WA+FsZ2kvjfqRI175fzyhYKIKwHyNkAgNHbRChHz;tZxUzMTvahTm9E2CaovTKw=="
 ---

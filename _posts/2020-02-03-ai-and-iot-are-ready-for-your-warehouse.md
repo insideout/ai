@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T22:57:00Z
 webUrl: "https://www.logisticsmgmt.com/article/ai_and_iot_are_ready_for_your_warehouse"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,21 +23,19 @@ images:
     title: "AI and IoT are Ready For Your Warehouse"
 
 related:
-  - title: "AI-powered robot warehouse pickers are now ready to go to work"
-    excerpt: "In the summer of 2018, a small Berkeley-based robotics startup received a challenge. KNAPP, a major provider of warehouse logistics technologies, was on the hunt for a new AI-powered robotic arm that could pick as many types of items as possible. So every week, for eight weeks, it would send the startup a list of increasingly difficult items ..."
-    publishedDateTime: 2020-01-29T11:53:00Z
-    webUrl: "https://www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/"
-    ampWebUrl: "https://www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/amp/"
+  - title: "Are you AI ready?"
+    excerpt: "Algorithms we can trust, data we can trust, decisions we can trust. The most talked about issues in AI today—deepfakes, bias, explainability, privacy—all have trust as a common denominator. It’s essential for AI adoption: those who forgo trust put their deployments and potentially their brand reputations at risk. EmTech ..."
+    publishedDateTime: 2020-02-05T22:13:00Z
+    webUrl: "https://www.technologyreview.com/f/615136/are-you-ai-ready/"
     type: article
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 76
+    quality: 37
     images:
-      - url: "https://cdn.technologyreview.com/i/images/covariant-co-founders-l-r-tianhao-zhang-rocky-duan-peter-chen-pieter-abbeel.jpg?sw=600&cx=0&cy=0&cw=2000&ch=1125"
-        width: 600
-        height: 337
+      - url: "https://cdn.technologyreview.com/i/images/are-you-ai-ready_0.jpg?sw=1200&cx=0&cy=0&cw=1920&ch=1080"
+        width: 1200
+        height: 675
 
 secured: "7uXuSJUHigcDEG92JoeeCPMeu2VFsfh0OTnIRlcTcvn7dXlPgVJDA1KEEDEF60tLlrcrJywDye1aFWXAGcjm6vhrscmg9vsgfuXzBeSIKZyC8olLiB3D3p4dORWziQrqCXfHpJWPhJbCF0EwypmCAZLLivd/FAKA9X1GiHCPLPmCqzvwLjCGgym6kjGgIuQwoDR1juZ+QFJOCY91bG1YVqvI42y89D2Bc7CqXMRXCgqIWBV35qc5pNAK4vFHBR7JHr9rADrnaTfHEjNn9FFwa+1bYG2XLjyCqMwO3S8v/AVStPckO/nWkguP6JcDUMgR;5RljdFdL4GUo87vsnoEzUw=="
 ---

@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Google brings cross-platform AI pipeline framework MediaPipe to the web"
 
-secured: "GKQfWgZgZaOIq3k7xCDzFRre5cbD1pTLDRMxpzUYBJtLixzePHxO7l24/9m/6V0Wrrg/Bt6BQNnueh3Qqd0+TDBh1KvFDt6wmZ5LUkBWd+u/qIX9Bk+VKbN2dCseoBAViw0JqkeJ8IqyITvfptU+R0yVHpNe5ghVh2zsuxHqyp0AsM0mwNM7CuEJznFFivdwbA5diP/KSKcKGWqK8EFkydp1CxRkEw+CS0c7zDHCEgGyUGLhl3sAB+WgNxA0qOPKhe52Pc9QZnzeLE+jjDzortCbc1WIjVzj3hB9IdU7jjQ2n7J3QWB+jLxjDVk9PlmM;KGygRmCd056AktHNhzx6HA=="
+secured: "AiybJwbTIepaYO1uQ0YGLQrI4ihoKn927walyISObg4J77RTzielUThn0jlQ8M/2+Beo7sOday/PEfCd+sOtnSESasTKIbk3nsICD3T+wTbkes/yYWCeHpQcJSrLlYRlC69ful4VNg+aCuIXHJgkNggs7I/jpBSvb7PUfJXT+KEb55f4U1qZdYOJdEWDBFQRtK7/6Fo/V0FvW+z2ArTNfQvUQCk0yGQVJ2LaxJFB3u/w2RxYCugnF+yRDcH3dHxSbdDFA8p6pvDqfn3Z9vKqmC9ucDPvslXE5FEV0JdhF6AKtScWSEJVOWgg9u3o0aut;jOjuRK/etmLRH6QKwfYoEw=="
 ---
 

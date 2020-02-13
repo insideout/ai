@@ -33,15 +33,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-10.09.42-AM.png?w=1024"
         width: 1024
         height: 655
-  - title: "Fundraiser Enablement Solutions Company Gravyty Raises $21 Million"
-    excerpt: "Fundraiser enablement solutions company Gravyty announced it raised $21 million from K1 Investment Management Gravyty ... build donor pipeline at scale, inspire giving, and raise revenue on their missions to change our world. “Higher Education is going to change more in the next ten years than it has in the past 100. I believe this means ..."
-    publishedDateTime: 2020-01-29T12:02:00Z
-    webUrl: "https://pulse2.com/gravyty-raises-21-million/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 117
   - title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
     excerpt: "/PRNewswire/ -- MassRobotics, the independent, nonprofit serving as an innovation hub for robotics and smart connected devices, officially opened its"
     publishedDateTime: 2020-02-04T15:28:00Z

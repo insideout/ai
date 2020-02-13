@@ -2,178 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-11-caption-health-received-de-novo-clearance-from-the-fda-for-its-ai-assisted-cardiac-ultrasound-software.md",
-      "title": "Caption Health received De Novo clearance from the FDA for its AI-assisted cardiac ultrasound software",
-      "excerpt": "Caption Health received De Novo clearance from the FDA for its AI-powered tool that guides medical professionals as they perform echocardiogram tests.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/caption-health-cardiac-ultrasound-software-receives-fda-clearance-2020-2",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e42b9522dae5c3e3c424764?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Caption Health received De Novo clearance from the FDA for its AI-assisted cardiac ultrasound software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-china-tech-giants-chip-in-to-combat-coronavirus-global-events-impacted.md",
-      "title": "China tech giants chip in to combat coronavirus, global events impacted",
-      "excerpt": "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
-      "publishedDateTime": "2020-02-11T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/10/04/d918c155-4bf8-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/8160da71d46f35e6b7f8af8058103971/ftc-thumb.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": "China tech giants chip in to combat coronavirus, global events impacted",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-chinese-subways-are-using-artificial-intelligence-facial-recognition-scanners-to-help-detect-whether-people-have-coronavirus.md",
-      "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
-      "excerpt": "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
-      "publishedDateTime": "2020-02-11T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-computer-vision-and-robotics-expand-industrial-capabilities.md",
-      "title": "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES",
-      "excerpt": "One way to increase robotic abilities in a safe and efficient manner is to use an innovative new technology: computer vision. Computer vision technology enables a robot to use a camera or scanner to transform multidimensional inputs into data it can process, “perceiving” its surroundings and mimicking sight. Computer vision coupled with ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.roboticstomorrow.com/article/2020/02/computer-vision-and-robotics-expand-industrial-capabilities/14749",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.roboticstomorrow.com/images/articles/14749.jpg",
-          "width": 680,
-          "height": 295,
-          "title": "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-deepfakes-and-deep-media-a-new-security-battleground.md",
       "title": "Deepfakes and deep media: A new security battleground",
       "excerpt": "“Deepfakes [produced by] generative [systems] learn a data set of actual images in videos, to which you add new images and then generate a new video with the new images,” Ishai Rosenberg, head of the deep learning group at cybersecurity company Deep Instinct, told VentureBeat via email. “The result is that the output video has subtle ...",
@@ -2157,6 +1985,184 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
+      "title": "The Future Of Blockchain: Fintech 50 2020",
+      "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
+      "heat": 227,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "publishedDateTime": "2020-02-12T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future Of Blockchain: Fintech 50 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-this-eye-tracking-system-uses-ai-to-diagnose-multiple-sclerosis.md",
+      "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
+      "excerpt": "Now, C. Light Technologies, a neurotech and AI company that grew out of the Berkeley Skydeck accelerator, wants to help doctors diagnose neurological conditions with more speed and precision. The company has developed an eye-tracking technology paired with machine learning that can be used to diagnose multiple sclerosis (MS). Patients simply ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "publishedDateTime": "2020-02-12T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4752%252C2969%252C478%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F2bf14030-49c4-11ea-bd12-51dd6eb02117%26client%3Da1acac3e1b3290917d92%26signature%3Dc06466b4199d3f7b3a513f29e3fcc3a88a4b1399&client=amp-blogside-v2&signature=6405a5ad9aa4e773b6077a09463989cd83fdcb9b",
+          "width": 600,
+          "height": 350,
+          "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-this-startup-is-building-infrastructure-for-the-first-factory-in-space.md",
+      "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+      "excerpt": "In the quest to build bigger things in space, one Colorado-based company is readying for an epic construction demonstration mission. Blue Canyon Technologies will provide the spacecraft vehicle infrastructure supporting a “factory” that will 3D-print solar arrays in space.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/",
+      "ampWebUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "publishedDateTime": "2020-02-12T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43fce9f133f400076c4041%2F0x0.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-uk-vc-firm-focused-on-artificial-intelligence-expands-to-southeast-asia.md",
+      "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
+      "excerpt": "Skymind Global Ventures, a venture capital firm that invests in artificial intelligence companies, on Wednesday launched an $800 million fund and said it would expand to Southeast Asia region. A significant portion of the $800 million fund will be used to invest in Southeast Asian AI companies, the company said in a statement to the press.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346265",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346265",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346265",
+      "publishedDateTime": "2020-02-12T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20170107081833-shutterstock-539711077.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

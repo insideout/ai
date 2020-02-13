@@ -48,21 +48,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
         width: 1200
         height: 675
-  - title: "Google To Add Live Transcription Feature To Its Translate App"
-    excerpt: "The search-giant has already presented a demo of the new feature, during AI demos, held in San Francisco ... The real-time or live transcription of multilingual audio files is more complex than the simple translation of written text from one language to another. And, to use the live transcription feature, internet connection is a must."
-    publishedDateTime: 2020-01-29T11:45:00Z
-    webUrl: "https://www.gizbot.com/apps/news/google-to-add-live-transcription-feature-to-its-translate-app-065335.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/apps/news/google-to-add-live-transcription-feature-to-its-translate-app-065335.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/apps/news/google-to-add-live-transcription-feature-to-its-translate-app-065335.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 44
-    images:
-      - url: "https://www.gizbot.com/img/2020/01/google-to-add-live-transcription-feature-to-its-translate-app-1580298151.jpg"
-        width: 600
-        height: 337
   - title: "Google to facilitate real-time transcription for Google Translate app"
     excerpt: "Currently, Google Translate, which is also powered by AI, can translate audio into more than 59 languages offline, according to The Verge. The transcription feature post-launch will only work for live audio. Users will not be able to translate and transcribe audio files through the Google Translate app using the feature as the app will only ..."
     publishedDateTime: 2020-01-29T12:46:00Z

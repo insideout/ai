@@ -732,19 +732,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
         width: 620
         height: 465
-  - title: "India's railways to use facial recognition amid privacy fears"
-    excerpt: "India is readying to install a nationwide facial recognition system, likely to be among the world's largest Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people's privacy in the absence of ..."
-    publishedDateTime: 2020-01-29T12:03:00Z
-    webUrl: "https://www.dhakatribune.com/world/south-asia/2020/01/29/india-s-railways-to-use-facial-recognition-amid-privacy-fears"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 54
-    images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2020/01/watermarked/new-1580299156638.gif"
-        width: 600
-        height: 315
   - title: "Amazon’s New Facial Recognition Smells Your Fear"
     excerpt: "Amazon Rekognition is the company’s controversial face detection and analysis technology. The name alone sounds like it comes from a Paul Verhoeven movie. Since its launch in 2016, critics have ..."
     publishedDateTime: 2020-01-30T00:00:00Z
@@ -1371,6 +1358,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "5BWhjBSiDyFFlXfXzjZ8rhUJCISuK8UmWduDj1RHY0eW0EZsaBTHU478/v3wiDPMAyfQ0Bd+eulDfwcsE9G1sqNp/Q5TK+6CKK3BkTCrAhcG7ZDj1ozgliGFtjQlDOwoQK4rh1eyjsv8E0bbibBdKBh/yfSUa9Sb0X8Xbocj8QwSm29nLfm7lnBLtnkENp3rBd+XNYBJR2ExdI0nDozGtUaiJqTDDjvKm4jvl0m9ESMVPKotT/74FW2pkuElkCdUAVUGZk3JzM49XmN4eNw/KMOTNYUyqs8YKdYwzB5n4oD+C+E62f1hyWZNCO7g7A6p;AH0dH3eXFxGlHUb2EiCGEw=="
+secured: "Dbw7Cp5lx68pppU0+xtGohvKCtAfhWdXZAy4x2wXrSbt2miumg4xvWLR2BoIeto7U1p5JxbT9PuYY1yfJU+EoL/wN1JnagTYMNOaEAdoCJrwAZvi/Sw88scB1QU5Fyuo4W+xDzGmPFNmm4ud8DAjRqk+gYrkusHBXI58pAC6MCrfMugrT/yDNrWYg6jjnzc68HjRwV/a0GHdWT2qB2RtFJ8ETnnKBqXuoLdXZXXGB0ixQM3iw1nsuW61GkYQRLps+Ph5KpIIAOzvmOKQurAhT5o4QuBLbYZA84H6UTtBqkdBE2CgFJ0WuzlxjhWbJaYx;SyRPtX7nAOTwGIs8Hx/wzQ=="
 ---
 

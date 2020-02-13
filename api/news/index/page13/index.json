@@ -2,124 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-361-billion-by-2025.md",
-      "title": "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025",
-      "excerpt": "Why is Artificial Intelligence disrupting the healthcare ... From life coaching to cognitive behavioural therapy to faith-based healing, therapy bots support users’ mental health and help ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-artificial-intelligence-deepmind-unlocks-secrets-of-human-brain-using-ai-learning-technique.md",
-      "title": "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique",
-      "excerpt": "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html",
-      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html",
-      "publishedDateTime": "2020-01-16T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/16/14/deepmind-artificial-intelligence-brain.jpg",
-          "width": 2500,
-          "height": 1875,
-          "title": "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020.md",
-      "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
-      "excerpt": "HTF MI newly added the Global Artificial Intelligence Platform Market Study that gives meticulous investigation of current scenario of the Market size, share, demand, growth, trends, and forecast in the coming years.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-artist-refik-anadol-turns-data-into-art-with-help-from-ai.md",
       "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
       "excerpt": "The results, shown on giant screens or projected onto walls or entire buildings, use data points in a kind of AI pointillism. Anadol explains his creative process in a new WIRED video. It features works including Machine Hallucination, a 360-degree video installation made from 10 million photos of New York. Anadol used machine learning to group ...",
@@ -2147,6 +2029,126 @@
           "width": 620,
           "height": 480,
           "title": "Applying Deep Learning to Localization Microscopy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-avra-medical-robotics-attends-jp-morgan-healthcare-conference.md",
+      "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
+      "excerpt": "... the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence, machine learning and proprietary software; is attending the 38th J.P. Morgan Healthcare Conference in San Francisco this week. The Company is represented by its CEO, Barry Cohen. Mr. Cohen has held ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press News",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models.md",
+      "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
+      "excerpt": "No matter the claimed robustness of AI and machine learning systems in production, none are immune to adversarial attacks, or techniques that attempt to fool algorithms through malicious input. It’s been shown that generating even small perturbations on images can fool the best of classifiers with high probability. And that’s problematic ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/",
+      "publishedDateTime": "2020-01-17T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-best-of-arxivorg-for-ai-machine-learning-and-deep-learning-december-2019.md",
+      "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
+      "excerpt": "In this recurring monthly feature, we filter recent research papers appearing on the arXiv.org preprint server for compelling subjects relating to AI, machine learning and deep learning – from disciplines including statistics, mathematics and computer science – and provide you with a useful “best of” list for the past month. Researchers ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidebigdata.com/2020/01/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-december-2019/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg",
+          "width": 450,
+          "height": 380,
+          "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
           "attribution": null
         }
       ],

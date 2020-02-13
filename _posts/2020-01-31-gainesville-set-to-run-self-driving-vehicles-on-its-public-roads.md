@@ -54,21 +54,6 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
-  - title: "The hunt for security flaws in self-driving cars steps up a gear"
-    excerpt: "Last week, seven projects in the UK dedicated to developing tools that will improve cybersecurity in self-driving vehicles received a grand total of £1.2 million ($1.56 million), or about £171,500 ($222,847) each, to boost their research – a sum partly funded by the government's Centre for Connected and Autonomous Vehicles (CCAV)."
-    publishedDateTime: 2020-01-29T11:43:00Z
-    webUrl: "https://www.zdnet.com/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/31/cba611cd-8679-462a-b4f1-0bf604e5d1bb/thumbnail/1200x675/4253ba1d55270145e9da1a11a543ec27/thumb.jpg"
-        width: 1200
-        height: 675
   - title: "The man who invented the self-driving car (in 1986)"
     excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
     publishedDateTime: 2020-02-02T17:32:00Z

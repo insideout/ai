@@ -113,17 +113,6 @@ related:
       name: Harvard Business School
       domain: hbs.edu
     quality: 17
-  - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
-    excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. The United States is considered as the major hub for companies in autonomous vehicle development,"
-    publishedDateTime: 2020-02-12T12:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15309208/self-driving-car-market-trends-report-2019-2027-by-level-of-automation-type-end-user-and-region"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15309208"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15309208"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "bJlpZ/xmOUqltzu28klhZ203gj1/8wsDuCMIrMJ+za1eiLk/1Cbs9yi10WFIkn4FywsZRDQ9a1GvjDOfsTjOI5K06yInKLELhipjhgfrJ/tussMYpD0VPU4RkrdglriWeAi6HZMo/6Lg0yi1onWNYV9VC/kkqEsYzQouSJiUsW22eNrej+iVHlUkqJ33jj6vxG6hTDZIoQjezGVmMpyUSdScnSzl9MgoQa2H62aPZqNL7+5p+Fqjmat6d0lXZiZWDl/sKK1k2ChUrA7w0S373J//GKYYTlG/KuuZuhCSwbv+VrAj7HQHqzpZqRt61KtA;fzZ/zAa/e2VOgEk+0p/bDA=="
 ---

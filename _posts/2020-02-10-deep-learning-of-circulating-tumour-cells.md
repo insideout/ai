@@ -123,19 +123,6 @@ related:
       - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
         width: 1024
         height: 512
-  - title: "Going deep on deep learning with Dr. Jianfeng Gao"
-    excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
-    publishedDateTime: 2020-01-29T11:13:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/going-deep-on-deep-learning-with-dr-jianfeng-gao/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
-        width: 1200
-        height: 627
   - title: "Evolving L&D: Before artificial intelligence, master adaptive learning"
     excerpt: "Machine Learning Natural Language Processing Deep Learning Neural Networks “Artificially intelligent systems have to not only analyze activities and predict outcomes - they also need to learn from those predictions over time.” He also points out that even in our attempt to understand AI, a lack of a highly precise and universally embraced ..."
     publishedDateTime: 2020-02-11T14:32:00Z

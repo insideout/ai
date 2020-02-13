@@ -2,225 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-01-30-government-releases-guide-for-ai-use-in-the-public-sector.md",
-      "title": "Government releases guide for AI use in the public sector",
-      "excerpt": "to managing the implementation of planned AI deployment and exploring the safety and ethics to using AI systems in the public sector. As AI is already being deployed in the public sector, the guide contains case studies for other public sector workers and organisations to draw inspiration from. For example, it notes how the National Grid uses ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
-      "publishedDateTime": "2020-01-30T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816530/itpro/2019/02/ai_shutterstock_767827225.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Government releases guide for AI use in the public sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-ibms-new-ai-powered-tool-will-automatically-label-images-for-developers.md",
-      "title": "IBM’s new AI-powered tool will automatically label images for developers",
-      "excerpt": "Developers building machine learning or object detection models have to manually label hundreds to thousands of images to train them. To make the task easier, IBM has introduced a new auto-labeling tool. The new feature is available for everyone through Cloud Annotations GUI, IBM’s online tool for labeling images. If you’re a developer ...",
-      "heat": 186,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/30/ibms-new-ai-powered-tool-will-automatically-label-images-for-developers/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/IBM-tool-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": "IBM’s new AI-powered tool will automatically label images for developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-interested-in-machine-learning-better-learn-pytorch.md",
-      "title": "Interested in machine learning? Better learn PyTorch",
-      "excerpt": "Building on the rampant popularity of Python was always going to be a good idea for the Facebook-born PyTorch, an open source machine learning framework. Just how good of an idea, however, few could have guessed. That’s because no matter how many things you get right when launching an open source project (great docs, solid technical ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html",
-      "publishedDateTime": "2020-01-30T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/09/data-science-certification7-100734862-large.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "Interested in machine learning? Better learn PyTorch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-neuromorphic-chip-maker-takes-aim-at-the-edge.md",
-      "title": "Neuromorphic Chip Maker Takes Aim At The Edge",
-      "excerpt": "they provide a critical capability for the kinds of AI applications commonly encountered in edge environments. Specific application areas being targeted include embedded vision, embedded audio, automated driving (LiDAR, RADAR), cybersecurity, and industrial IoT. The addition of the CNN capability did, however, push the company’s chip launch ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/",
-      "ampWebUrl": "https://www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/amp/",
-      "publishedDateTime": "2020-01-30T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/brainchip-akida.jpg",
-          "width": 1799,
-          "height": 863,
-          "title": "Neuromorphic Chip Maker Takes Aim At The Edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-openai-goes-all-in-on-facebooks-pytorch-machine-learning-framework.md",
-      "title": "OpenAI goes all-in on Facebook’s Pytorch machine learning framework",
-      "excerpt": "In what might only be perceived as a win for Facebook, OpenAI today announced that it will migrate to the social network’s PyTorch machine learning framework in future projects, eschewing Google’s long-in-the-tooth TensorFlow platform. OpenAI is the San Francisco-based AI research firm cofounded by CTO Greg Brockman, chief scientist Ilya ...",
-      "heat": 233,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/",
-      "publishedDateTime": "2020-01-30T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "OpenAI goes all-in on Facebook’s Pytorch machine learning framework",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-01-30-science-park-unveils-new-facilities-to-boost-ai-and-robotics-rd.md",
       "title": "Science Park unveils new facilities to boost AI and robotics R&D",
       "excerpt": "From now on, artificial intelligence and robotics (AIR) developers are able to use the state-of-the-art facilities provided by the Hong Kong Science and Technology Parks Corporation (HKSTP) to develop proof-of-concept (PoC) projects and fabricate functional prototypes. On January 20, HKSTP unveiled the AI PLUG and Robotics Catalysing Centre ...",
@@ -658,7 +439,7 @@
       "path": "_posts/2020-01-31-how-ai-in-healthcare-will-influence-the-path-to-value.md",
       "title": "How AI In Healthcare Will Influence The Path To Value",
       "excerpt": "From medical malpractice to single-payer healthcare, there is no shortage of topics to debate in healthcare. Though provision, funding and government involvement in our system continue to be central topics,",
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/",
@@ -1036,7 +817,7 @@
       "path": "_posts/2020-01-31-russias-use-of-facial-recognition-challenged-in-court.md",
       "title": "Russia's use of facial recognition challenged in court",
       "excerpt": "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ...",
-      "heat": 1189,
+      "heat": 1179,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bbc.com/news/technology-51324841",
@@ -2103,6 +1884,229 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-03-ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandmaster-level.md",
+      "title": "AI Bot Is the First to Play StarCraft II at the Grandmaster Level",
+      "excerpt": "Image: DeepMind Computer scientists at DeepMind have developed an artificially intelligent bot capable of defeating the world’s best players at StarCraft II, the popular real-time strategy video ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798",
+      "ampWebUrl": "https://gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798/amp",
+      "publishedDateTime": "2020-02-03T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--lXLgmwrS--/c_scale,f_auto,fl_progressive,q_80,w_800/m02voe7tkleeh51jbcx2.png",
+          "width": 800,
+          "height": 450,
+          "title": "AI Bot Is the First to Play StarCraft II at the Grandmaster Level",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-03-ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z.md",
+      "title": "AI startup Cresta launches from stealth with millions from Greylock and a16z",
+      "excerpt": "Cresta is more focused on using AI suggestions to help human contact center workers make the most of an individual ... Udacity co-founder Sebastian Thrun is the startup’s board chairman and is listed as a co-founder. Enam met Thrun during his PhD research at Stanford focused on workplace productivity. Cresta is launching from stealth and ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/",
+      "publishedDateTime": "2020-02-03T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/CrestaFounders.jpeg?w=1024",
+          "width": 1024,
+          "height": 767,
+          "title": "AI startup Cresta launches from stealth with millions from Greylock and a16z",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-03-apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers.md",
+      "title": "Apple details AI to help voice assistants recognize hotwords and multilingual speakers",
+      "excerpt": "Speech recognition is an acute area of interest for Apple, whose cross-platform Siri virtual assistant is used by over 500 million customers worldwide. This past week, the tech giant published a series of preprint research papers investigating techniques to improve voice trigger detection and speaker verification, as well as language ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/amp/",
+      "publishedDateTime": "2020-02-03T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/apple-siri.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Apple details AI to help voice assistants recognize hotwords and multilingual speakers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-03-are-brighter-days-ahead-for-ibm.md",
+      "title": "Are Brighter Days Ahead for IBM?",
+      "excerpt": "IBM generates its revenue from five core businesses: cloud and cognitive software, global technology services ... business -- which competes against Amazon Web Services (AWS) and Microsoft's Azure -- struggled with \"lower client business volumes\" during the quarter. IBM's total cloud revenue rose 21% to $6.8 billion, or 31% of its top line ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
+      "publishedDateTime": "2020-02-03T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555866%2Fgettyimages-853701240.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Are Brighter Days Ahead for IBM?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-03-artificial-intelligence-ai-hardware-market-challenges-key-players-market-segments-development-opportunities-forecast-report-2026.md",
+      "title": "Artificial Intelligence (AI) Hardware Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026",
+      "excerpt": "New Jersey, United States - The report titled, Artificial Intelligence (AI) Hardware Market has been recently published by Verified Market Research. The Artificial Intelligence (AI) Hardware market has been garnering remarkable momentum in recent years.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-challenges-key-players-market-segments-development-opportunities-forecast-report-2026-2020-02-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Hardware Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,126 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-17-avra-medical-robotics-attends-jp-morgan-healthcare-conference.md",
-      "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
-      "excerpt": "... the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence, machine learning and proprietary software; is attending the 38th J.P. Morgan Healthcare Conference in San Francisco this week. The Company is represented by its CEO, Barry Cohen. Mr. Cohen has held ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T14:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press News",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models.md",
-      "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
-      "excerpt": "No matter the claimed robustness of AI and machine learning systems in production, none are immune to adversarial attacks, or techniques that attempt to fool algorithms through malicious input. It’s been shown that generating even small perturbations on images can fool the best of classifiers with high probability. And that’s problematic ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/",
-      "publishedDateTime": "2020-01-17T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-best-of-arxivorg-for-ai-machine-learning-and-deep-learning-december-2019.md",
-      "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
-      "excerpt": "In this recurring monthly feature, we filter recent research papers appearing on the arXiv.org preprint server for compelling subjects relating to AI, machine learning and deep learning – from disciplines including statistics, mathematics and computer science – and provide you with a useful “best of” list for the past month. Researchers ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidebigdata.com/2020/01/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-december-2019/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T19:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg",
-          "width": 450,
-          "height": 380,
-          "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-bjork-and-microsoft-use-ai-to-create-music-that-changes-with-the-sky.md",
       "title": "Björk and Microsoft use AI to create music that changes with the sky",
       "excerpt": "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ...",
@@ -2139,6 +2019,139 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-lioness-ai-sex-toy-can-teach-you-about-your-orgasms.md",
+      "title": "Lioness AI sex toy can teach you about your orgasms",
+      "excerpt": "Lioness has been pioneering sex tech since 2017, but CES 2020 was the first time the company was allowed to exhibit its AI-enabled sex toy at one of the world’s biggest tech shows. The Consumer Technology Association backtracked on its earlier policies and allowed sex-positive sex tech companies to display their wares at CES, which took place ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/amp/",
+      "publishedDateTime": "2020-01-19T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/lioness-guidance_feature-1.jpg?fit=1200%2C713&strip=all",
+          "width": 1200,
+          "height": 713,
+          "title": "Lioness AI sex toy can teach you about your orgasms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-why-agile-methodologies-miss-the-mark-for-ai-ml-projects.md",
+      "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
+      "excerpt": "What drives AI and ML projects is not programmatic code, but rather the data from which learning must be derived. What is needed is a project management methodology that takes into account the data-centric needs of AI and application-focused uses of models.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
+      "publishedDateTime": "2020-01-19T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1a23e2a854780006e84fa0%2F0x0.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-12-ai-milestones-1-shakey-the-robot.md",
+      "title": "12 AI Milestones: 1. Shakey The Robot",
+      "excerpt": "from 1966 to 1972, SHAKEY was the world’s first mobile intelligent robot. According to the 2017 IEEE Milestone citation, it “could perceive its surroundings, infer implicit facts from explicit ones, create plans,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/",
+      "publishedDateTime": "2020-01-20T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e247090a854780006e8dc0c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D125%26cropY2%3D3219",
+          "width": 1200,
+          "height": 675,
+          "title": "12 AI Milestones: 1. Shakey The Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

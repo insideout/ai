@@ -86,20 +86,18 @@ related:
         width: 600
         height: 350
   - title: "Facebook, Twitter, YouTube, Venmo demand AI startup must stop scraping faces from sites"
-    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police."
-    publishedDateTime: 2020-02-06T02:16:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-twitter-youtube-venmo-demand-ai-startup-must-stop-scraping-faces-from-sites-2020-02-05"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
+    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook FB, +0.13% said it has demanded New York-based Clearview AI stop accessing or using information ..."
+    publishedDateTime: 2020-02-06T03:19:00Z
+    webUrl: "https://www.marketwatch.com/story/facebook-twitter-youtube-venmo-demand-ai-startup-must-stop-scraping-faces-from-sites-2020-02-05?mod=mw_latestnews"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 59
     images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-HW845_Facebo_ZH_20191212141837.jpg"
-        width: 890
-        height: 501
+      - url: "http://s.marketwatch.com/public/resources/MWimages/MW-HW845_Facebo_ZG_20191212141837.jpg"
+        width: 1320
+        height: 742
   - title: "YouTube demands face recognition firm stop harvesting videos"
     excerpt: "NEW YORK — YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny ..."
     publishedDateTime: 2020-02-05T19:53:00Z

@@ -265,7 +265,7 @@
       "path": "_posts/2020-01-29-aurora-can-now-give-the-public-rides-in-its-self-driving-cars.md",
       "title": "Aurora can now give the public rides in its self-driving cars",
       "excerpt": "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ...",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/",
@@ -572,7 +572,7 @@
       "path": "_posts/2020-01-29-google-translate-app-to-transcribe-and-translate-in-real-time.md",
       "title": "Google Translate App to Transcribe and Translate in Real Time",
       "excerpt": "As CNET reports, Google was showing off a number of its AI projects earlier this week in San Francisco. One of them is a new feature heading to the Google Translate app a few months from now which allows a conversation to be transcribed in real-time while simultaneously being translated into another language. From a practical point of view it ...",
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.entrepreneur.com/article/345665",
@@ -611,42 +611,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-googles-next-virtual-assistant-could-chat-your-ear-off-on-just-about-any-topic.md",
-      "title": "Google’s next virtual assistant could chat your ear off on just about any topic",
-      "excerpt": "Google today shared what it has been up to, and in a published paper, details a “human-like” chatbot called Meena that can “engage in conversation on any topic.” Meena, unlike its peers such as Google’s own Assistant ... virtual human. Google’s Meena likely won’t make it to your devices anytime soon. But it’s that clear in the ...",
-      "heat": 158,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp",
-      "publishedDateTime": "2020-01-29T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -813,50 +777,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-29-looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you.md",
-      "title": "Looking To Train Algorithms? Enforce Ethical AI? Then There's An AI Job For You",
-      "excerpt": "Here are some of the current AI-related roles that exist today and will increasingly be in demand over the next few years.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you/amp/",
-      "publishedDateTime": "2020-01-29T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1053499704/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Looking To Train Algorithms? Enforce Ethical AI? Then There's An AI Job For You",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-29-machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354.md",
       "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
       "excerpt": "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market.",
@@ -978,42 +898,6 @@
           "width": 1280,
           "height": 600,
           "title": "Nest is testing detecting HVAC problems with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-no-more-punxsutawney-phil-its-long-overdue-for-an-ai-groundhog-instead-peta-says.md",
-      "title": "No more Punxsutawney Phil? It’s ‘long overdue’ for an AI groundhog instead, PETA says.",
-      "excerpt": "It would renew interest in the event and allow the groundhog to dig, burrow, and forage in peace. “By creating an AI Phil, you could keep Punxsutawney at the center of Groundhog Day but in a much more progressive way,” she wrote. “Talk about taking your town’s annual tradition in a fresh and innovative direction!” While at least nine ...",
-      "heat": 299,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp",
-      "publishedDateTime": "2020-01-29T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/fCupxiPYqehvR516DtsYilH20Bw=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRMLF7NBVNCNTO73DKPS6FKAFI.jpg",
-          "width": 1440,
-          "height": 1102,
-          "title": "No more Punxsutawney Phil? It’s ‘long overdue’ for an AI groundhog instead, PETA says.",
           "attribution": null
         }
       ],
@@ -1274,95 +1158,6 @@
           "width": 1100,
           "height": 619,
           "title": "UPS teams up with Waymo to test self-driving delivery vans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-what-politicians-dont-understand-about-the-ai-debate.md",
-      "title": "What Politicians Don't Understand About The AI Debate",
-      "excerpt": "The U.S. economy continues to expand, with reports from the Bureau of Labor Statistics indicating there are more job openings in the U.S. than people to fill them. Despite this data, working Americans are very concerned about job loss due to AI and automation,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/what-politicians-dont-understand-about-the-ai-debate/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/what-politicians-dont-understand-about-the-ai-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/what-politicians-dont-understand-about-the-ai-debate/amp/",
-      "publishedDateTime": "2020-01-29T04:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/870184586/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 473,
-          "title": "What Politicians Don't Understand About The AI Debate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-29-worlds-biggest-ever-self-driving-experiment-to-coincide-with-tokyo-olympics.md",
-      "title": "World’s Biggest-Ever Self-Driving Experiment To Coincide With Tokyo Olympics",
-      "excerpt": "Set to take place in early July, just two weeks before the Tokyo Olympics, the multi-manufacturer group will produce some 80 self-driving vehicles",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/amp/",
-      "publishedDateTime": "2020-01-29T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e310a64f133f400076afae6%2F0x0.jpg",
-          "width": 900,
-          "height": 563,
-          "title": "World’s Biggest-Ever Self-Driving Experiment To Coincide With Tokyo Olympics",
           "attribution": null
         }
       ],
@@ -2145,6 +1940,225 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-government-releases-guide-for-ai-use-in-the-public-sector.md",
+      "title": "Government releases guide for AI use in the public sector",
+      "excerpt": "to managing the implementation of planned AI deployment and exploring the safety and ethics to using AI systems in the public sector. As AI is already being deployed in the public sector, the guide contains case studies for other public sector workers and organisations to draw inspiration from. For example, it notes how the National Grid uses ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
+      "publishedDateTime": "2020-01-30T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570816530/itpro/2019/02/ai_shutterstock_767827225.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Government releases guide for AI use in the public sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-ibms-new-ai-powered-tool-will-automatically-label-images-for-developers.md",
+      "title": "IBM’s new AI-powered tool will automatically label images for developers",
+      "excerpt": "Developers building machine learning or object detection models have to manually label hundreds to thousands of images to train them. To make the task easier, IBM has introduced a new auto-labeling tool. The new feature is available for everyone through Cloud Annotations GUI, IBM’s online tool for labeling images. If you’re a developer ...",
+      "heat": 186,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/30/ibms-new-ai-powered-tool-will-automatically-label-images-for-developers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/IBM-tool-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": "IBM’s new AI-powered tool will automatically label images for developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-interested-in-machine-learning-better-learn-pytorch.md",
+      "title": "Interested in machine learning? Better learn PyTorch",
+      "excerpt": "Building on the rampant popularity of Python was always going to be a good idea for the Facebook-born PyTorch, an open source machine learning framework. Just how good of an idea, however, few could have guessed. That’s because no matter how many things you get right when launching an open source project (great docs, solid technical ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html",
+      "publishedDateTime": "2020-01-30T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/09/data-science-certification7-100734862-large.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "Interested in machine learning? Better learn PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-neuromorphic-chip-maker-takes-aim-at-the-edge.md",
+      "title": "Neuromorphic Chip Maker Takes Aim At The Edge",
+      "excerpt": "they provide a critical capability for the kinds of AI applications commonly encountered in edge environments. Specific application areas being targeted include embedded vision, embedded audio, automated driving (LiDAR, RADAR), cybersecurity, and industrial IoT. The addition of the CNN capability did, however, push the company’s chip launch ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/",
+      "ampWebUrl": "https://www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/amp/",
+      "publishedDateTime": "2020-01-30T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/brainchip-akida.jpg",
+          "width": 1799,
+          "height": 863,
+          "title": "Neuromorphic Chip Maker Takes Aim At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-openai-goes-all-in-on-facebooks-pytorch-machine-learning-framework.md",
+      "title": "OpenAI goes all-in on Facebook’s Pytorch machine learning framework",
+      "excerpt": "In what might only be perceived as a win for Facebook, OpenAI today announced that it will migrate to the social network’s PyTorch machine learning framework in future projects, eschewing Google’s long-in-the-tooth TensorFlow platform. OpenAI is the San Francisco-based AI research firm cofounded by CTO Greg Brockman, chief scientist Ilya ...",
+      "heat": 233,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/",
+      "publishedDateTime": "2020-01-30T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "OpenAI goes all-in on Facebook’s Pytorch machine learning framework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "Machine Learning"
       ]
     }
   ],
