@@ -21,21 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-related:
-  - title: "Landis+Gyr's Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
-    excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not \"smart.\" Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
-    publishedDateTime: 2020-01-29T14:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-landisgyrs-revelotrade-brings-pattern-recognition-machine-learning-the-/2020/01/29/9088829.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-
 secured: "+aweEn2h0oNNp9jM0kpY9hVa6b7/wjdwQTsHrPdM5ZuZVqzWYFhjxhW3ZADmPcHt+g2D+WpcQlM3sCvlYQAE/hByywwl94Ia2NG48Rk2ZOQgjC2D1S/FJGErUbND6C7KsS/vJnsfIJjd7bQOLR3iWbhc+pAPEfqE9dS5PlWVEZu0+i0crgivW1AwGyE1H5ULkQBv34sGogHZtSGoHPnU8jGwyvnmoMeRMJZ+sxrZy6cu335Rugf/RenTjIu2kjmYoEhbl3mjzfA2QrKGQL//Z1GJeYokVoPXAkfpOhgpKKMPT/3IEbtYrjcEw8Du2EWvoCowKOsNO5C/CTqA5jq0WKe5+f5BZRHjra9P8W2FbftISdupNhpRqKLC0Ugly0cIZp909OizKsyaWGICs3PtX6qkiDVoGgtb/1eUbMeSdJf9ZyR6toMcudf6cMYrRpKQYxgsvtM17k6hzPN8Gam/yIAJ+YD16pw3uxaraQHz7M4=;fZBAQHTIR+wXCS7ctK0VEg=="
 ---
 

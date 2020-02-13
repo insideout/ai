@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T18:22:09Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -89,6 +89,17 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41377-020-0255-6/MediaObjects/41377_2020_255_Fig1_HTML.png"
         width: 685
         height: 382
+  - title: "How AI and data analytics are driving composable infrastructure adoption in datacentres"
+    excerpt: "According to IT market watcher IDC, AI will be a core component of enterprise workloads by 2024 ... but are much trickier to program than developing software to run on a GPU. These accelerators are typically plugged into a standard server and work in conjunction with the existing processor cores. This is known as heterogeneous computing ..."
+    publishedDateTime: 2020-02-12T10:50:00Z
+    webUrl: "https://www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres"
+    ampWebUrl: "https://www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 31
   - title: "Elucidating the multiple roles of hydration for accurate protein-ligand binding prediction via deep learning"
     excerpt: "Nevertheless, for 16% of all systems this near-native pose could not be ranked first by the deep-learning model. Furthermore, for about 150 systems, which failed in the top rank but had a near-native pose at the second rank, the CNN score was almost identical. Further analysis revealed four main reasons for this difficulty in reproducing the ..."
     publishedDateTime: 2020-02-11T10:21:00Z

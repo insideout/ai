@@ -70,18 +70,18 @@ related:
         width: 1600
         height: 900
   - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
-    excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which ..."
+    excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection ARM will not be manufacturing the new designs. (Photo: The Verge) Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM ..."
     publishedDateTime: 2020-02-13T03:13:00Z
-    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
+    webUrl: "https://www.asianage.com/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.html"
+    ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.html"
+    cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.html"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
+      name: The Asian Age
+      domain: asianage.com
     quality: 70
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084133.Medi.jpeg"
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084119.Medi.jpeg"
         width: 800
         height: 448
   - title: "Arm Ltd to launch new AI chip for small devices"

@@ -29,6 +29,6 @@ images:
     height: 567
     title: "Samsung and GE are cooking up the kitchen smarts I've been waiting for"
 
-secured: "Nu/JsM3X2XaaFc7XNgF+uOR6X81nmBKJKMRCWscvrx33VRnQkPPz76FzkwYX5C7XmngJkfIq4nMzVHBgnfUrqsJu/hm5TC6ia7xvLDTQEAfwUzVXzZTaFT+PMt1nPDqipxG7VwyFLRewoedFmFYzMKEwsuDxTPXwiVml1y/8YRMCcFknhq02hYaDskx4dNScGkiM+l1q8DsaCecaKLe58In5VGTS9wnTm/qMYKrtHmgzjoTaipoTOWyYuSH3oal9Ko6nkIL7mt4iE7/O8BZS6hoSbMSz6sK21LjdScoAyHOAOgafnoF7gJjOYIujGPcp;ShN4U1Gb9KBdA/EM4dnE4w=="
+secured: "8BVobbfcFx2y9N0MBY0UIe0/nxJYQyqIsbC0UPGD5iUxGsGLogcBqE/mJTVfUUNmFOQNqbu6LCYTmZf83y04sMUBjJOxY0FpIKi+NwPoLwyQcJSJrwvoQp4UPA0B3poGmlvxnUdv3xdXaG5ts7Vd9RSxCUmckfI2fyj9WwLAejzjMd6WbEuPw77G/vmFtZpEEemlyM9n6PuTCvPj8YdI/NFzG12Frz2V7MRcGmNrbEMk8mXkAtQF60eiyBG4l8ZkGRjAyxh6Fd5xoRmm+kr1GipwdaOV9pZTYVvgfXb5ZppyNmOlv2DzXE2nS9xPbbYW;N1MlEUH4zKTeKp2gLvMBgQ=="
 ---
 

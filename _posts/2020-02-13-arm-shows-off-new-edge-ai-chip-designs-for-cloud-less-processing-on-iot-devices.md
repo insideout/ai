@@ -1,26 +1,26 @@
 ---
 category: news
 title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
-excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which ..."
+excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection ARM will not be manufacturing the new designs. (Photo: The Verge) Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM ..."
 publishedDateTime: 2020-02-13T03:13:00Z
-webUrl: "https://www.deccanchronicle.com/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
-ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
-cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
+webUrl: "https://www.asianage.com/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.html"
+ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.html"
+cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Deccan Chronicle
-  domain: deccanchronicle.com
+  name: The Asian Age
+  domain: asianage.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084133.Medi.jpeg"
+  - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084119.Medi.jpeg"
     width: 800
     height: 448
     title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
@@ -139,6 +139,6 @@ related:
         width: 648
         height: 365
 
-secured: "J1womOCwNa23gxtweyxMMGMJ5bRCTjlvmxUx2dBA8VBPs4sON+F/iB2zsURxmPmtreL1kptCxGiRqSOr9/WOeT6eB/hg9qSwxV/fvt9KfRQiX9yr2bWfURSZolZWO06vaCR506Aj5CaS1WJRNrFGA05tJaVtSoISct0Rl4vqZ6BH2XEl7FAlF1OnK7axSL98n/6Iyb82ramDDmQzm4AzG9yGWAYkJmkzab4ffc/y9s+5ilrS1Jta8jltRp0xPcdmM2B6U9UhGKMsGwc9FjT3JKs50zQYJZhCDZf9m4OR5Kk8Viek9SuOmTCN4x0zk2Rk;L1um6AZoaplazCBLbbFXNA=="
+secured: "3VzbAGYyiPUeqkhxvolyTqWCuuZ07HHaTylUUfWvawZLrcwSvGPOsROS+krzHKmGE44Q8DcRqkswilzLGJHExAi5qrWEAvp0uOdd+7m/iD06z0rvC1p6lB5BS00rwQs9qtw/nQnJcpQKU8MIDYP3FrEsbbHL8xB0dOQSYWPUq4lZZikMQxwr1NKJOIwmXFtOR0yTnxHwAYEYuOxdP6fKk6ab1k3R6Fd02QB0RTuGvf+9P5zDpzmAz7hlWzAjxZwkUdL9anVlU14WGXngDRfO0z57aZfE4WkBOc1o/GtTVJhZb8IFYc2DkL8XRoa6+kUu;7jRmp1w4+hy52fD0U0WNUw=="
 ---
 

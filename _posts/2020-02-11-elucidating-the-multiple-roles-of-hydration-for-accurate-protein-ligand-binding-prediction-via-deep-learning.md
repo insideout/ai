@@ -98,6 +98,17 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41377-020-0255-6/MediaObjects/41377_2020_255_Fig1_HTML.png"
         width: 685
         height: 382
+  - title: "How AI and data analytics are driving composable infrastructure adoption in datacentres"
+    excerpt: "According to IT market watcher IDC, AI will be a core component of enterprise workloads by 2024 ... but are much trickier to program than developing software to run on a GPU. These accelerators are typically plugged into a standard server and work in conjunction with the existing processor cores. This is known as heterogeneous computing ..."
+    publishedDateTime: 2020-02-12T10:50:00Z
+    webUrl: "https://www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres"
+    ampWebUrl: "https://www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 31
   - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
     excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
     publishedDateTime: 2020-02-06T09:45:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T15:34:00Z
 webUrl: "https://www.tmcnet.com/usubmit/2020/02/12/9096953.htm"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 252
     height: 335
     title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+
+related:
+  - title: "Healthcare Chatbots Market worth $703.2 million by 2025"
+    excerpt: "Factors such as increasing optimum internet connectivity and rising adoption of smart devices, limited availability to council huge patient population, technology advancements in artificial intelligence, chatbots to reduce the healthcare cost, and increasing demand for virtual health assistance are driving the growth of the global market."
+    publishedDateTime: 2020-02-13T07:34:00Z
+    webUrl: "https://www.openpr.com/news/1930660/healthcare-chatbots-market-worth-703-2-million-by-2025"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "yNYqVkfYQ/CFPcL6utcY6/JchQh/vdw021+4xXVEDaBKdsYYdtcLtXFiClL6w8iIUhgxZYZZzwsdYQiYW1/YrolObJ1pVH2oA3a+WTkmWXDiGP3t/62kmsvIku0v/rrI2xLneBkwEufe1JAF0gSnEgTIv1wQfmMavZMr9vaDyd90tnNKEsBFBumwr+/E/DVFtY1PY7s2ACaMn47+H8GGMOSmQcnYsYx06g78847pYK5JdmdccvA6FMCZh/Wy8lh/tj66/dBpINT07iMA+/Vd+cPHUex0OBH8ITBnYVM7l1pgwLUMis1Wt6eNGqbWzxWq;brLY1667RntSZwsc3zzycA=="
 ---

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.brookings.edu/research/protecting-privacy-in-an-ai-drive
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Brookings Institution
@@ -39,6 +39,17 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "The future of management students in an artificial intelligence- based world"
+    excerpt: "AI-enabled decision making is better than human or software alone decision making. Let’s understand this with an example. IBM’s cognitive room, an immersive Watson driven exploration of IBM’s capabilities and solutions, supports decision making for mergers and acquisitions. It allows the decision-makers to effectively interact with a ..."
+    publishedDateTime: 2020-02-13T06:59:00Z
+    webUrl: "https://www.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO.html"
+    ampWebUrl: "https://m.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 36
 
 secured: "RuXQWVBNxOwKv0eONQhYOlQjci6Bq8cFyQeOkZDJ8eK00pi/ribfglXviMKJkKBvs+s2y0M3WHaXgwYA9M75P4ohaMgql+ndpFjDcsNkW7AssTag0iMPow0/3fhJi/mZiilyNtxPo3v1iSYGCHxwBFlLObg8vS/7o2yMbzcUiytws79/ejpgnazgSzU8m/al6FTyBN/SlJsY7hj5lt6BiVq9dtmUXgRFb+8CNzc7JvQ+vnwbRESBI7u9OxjqyzaQDF9bun0xq74E/F4mdHpJX1WRvbEm+MZ8Fh1LY1jVefJ/YY1wFXd6/lSpyYkyZCr3GhpNGmghikSyBl/SmVekybORr5fl36yzMN6BXqkvD8QbIDECS82bMaideCSVdZZ7eqxhC8GtF6c1Znjeb9CkM3KJD1TAuQEQZNqfb46OZbUnj+q2RxZ4lhbNwHxPTDdtYfczA2gx3ltBuemRSUSgTflrcJMoWBzriiDNjgQk6JU=;9oBB0iTlESf9Z2h26Cergw=="
 ---

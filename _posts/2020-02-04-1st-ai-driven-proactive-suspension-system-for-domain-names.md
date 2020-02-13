@@ -38,6 +38,17 @@ related:
       - url: "https://www.brookings.edu/wp-content/uploads/2017/04/es_20170425_fintechapps.jpg"
         width: 4566
         height: 3024
+  - title: "The future of management students in an artificial intelligence- based world"
+    excerpt: "AI-enabled decision making is better than human or software alone decision making. Let’s understand this with an example. IBM’s cognitive room, an immersive Watson driven exploration of IBM’s capabilities and solutions, supports decision making for mergers and acquisitions. It allows the decision-makers to effectively interact with a ..."
+    publishedDateTime: 2020-02-13T06:59:00Z
+    webUrl: "https://www.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO.html"
+    ampWebUrl: "https://m.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 36
 
 secured: "nIW6eit53sTsZU3tQSmM55W+czzskpU0jLoZhu0kHy/QCZ+9aGXvFH3w1AWQCsHQ6EtqbTwtlG+xEQichYb4OmRDuQvNDKKrmmohIIljUw81db2cYCA5J+NiFyJJ69xy2TSFAlziT32dtpq5ZI9Ts4AiVmuvftwbTBWXK/RilbJ4OXKLKCC6aHg7HCXkrc5VGOZp9Mg/zUe1m666x3sOsObfgBZABJFBadZs2RdB/eLT+5r2cpaO/0b13MepwNKzlj9mEdvWOOOEUn46QOiMcDrq43KE7V3UcnoEDbMqzddGs+wLUlSdpMXWFPEQA+pQ;ZjS0Ci+mdNs7qniQD8fLBw=="
 ---
