@@ -82,6 +82,21 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/13/PPHX/20a18807-923a-49da-b9dc-7404b2750590-Raymond_Tang_mugshot.jpg?auto=webp&crop=479,269,x1,y167&format=pjpg&width=1200"
         width: 1200
         height: 674
+  - title: "‘Disgruntled’ ex-Waymo driver accused of deliberately causing crash with self-driving vehicle"
+    excerpt: "A man described as a disgruntled former Waymo driver has been arrested on suspicion of deliberately crashing a passenger car into one of the company’s vans with self-driving capabilities"
+    publishedDateTime: 2020-02-14T14:40:00Z
+    webUrl: "https://www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/"
+    ampWebUrl: "https://www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 48
+    images:
+      - url: "https://i1.wp.com/www.mercurynews.com/wp-content/uploads/2020/02/Self-Driving_Vehicle-Collision_Arrest_65344.jpg?fit=620%2C9999px&ssl=1"
+        width: 620
+        height: 301
   - title: "Waymo: Self-driving vehicle in manual mode at time of crash"
     excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was operating in manual mode when it was involved in a rear-end collision in a Phoenix suburb and that the crash was caused by reckless driving of the other vehicle,"
     publishedDateTime: 2020-02-08T11:39:00Z

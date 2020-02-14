@@ -37,6 +37,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d7b0d3738f500063f272c%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1142%26cropY1%3D0%26cropY2%3D640"
         width: 1137
         height: 640
+  - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
+    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
+    publishedDateTime: 2020-02-14T14:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200214005074/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
+    images:
+      - url: "https://mms.businesswire.com/media/20200214005074/en/773548/23/AWS_logo_new.jpg"
+        width: 1200
+        height: 627
 
 secured: "ACiga4YC1Jwq4lQSFOU54UGHzO0sCjpmEpkjoPq5BliHes0LTEfmPbvD/GOfjgyOPI4rSuyYsBf2UmxB+8/79dk1mJdY+OyfilZuJjxMKxgWTRVU0v0ixu9kES3JbZscDUwDVZeBA0KjiB2KuBzaRXNv3b2XZyAPQyCVr33WHPLOZ7vbEvQ5fQKbJ5KV/jM2jzO1gPzJ+h+YmydrY6PNp09s3RxX6900/jnlSLpx5sgYAERg535+0gtWdtfKEkFyFJLhikH2N8tYKJQLdQd3G02Y2KySwvT86D0M9Y2ds5SwLdzFohoiSUcVenmG+P45vRN15c2iQg3ETdP8kfK+sx6QOj6PADrPPeAFcRhddCOU03XZVU2/pyg+v6fcmV9+vGEY6ELLxNHkPFQ2jSIv7XPtSED21Ri66zzYiYsU9MfKxrrE6tX7LBXkO70xc4kMCmMK6OGAOMcAE5VROwuSggxTM+MGPRIOHL96+SXPhlY=;sNiXgoXPYCoEYxiEBdiVYA=="
 ---

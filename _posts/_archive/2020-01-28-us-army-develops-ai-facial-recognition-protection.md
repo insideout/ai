@@ -51,9 +51,9 @@ related:
       domain: zdnet.com
     quality: 101
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/25/1fda6b43-2ef8-4a70-83be-780cd80b7f8c/resize/1200x900/ae17d77a0f9c782c6bd35acf140d0d93/1.jpg"
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
-        height: 764
+        height: 763
   - title: "Frustration grows in China as face masks compromise facial recognition"
     excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
     publishedDateTime: 2020-02-05T18:51:00Z
@@ -1080,6 +1080,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "ZnJTwqVowq5hZW7QwM2xjBVaJIB25/KX3Zdp2oMga+hIquflT5veF2V3mIDjm7qxMDWKzLpVvN6Hnepz5+7kTZguEaGWorP4Mtc5fIHwjYWW2peuQIKxVHwRTUJ/ghZXp8dY3lIIR2fXUDbPeCtaRqSux1JVyv5fY9VnlD3z5e1kkZq1t9ujSDDuOpC8K9A8GRYVpA/NRNlj/8V2gcpBn5v5biGI3LBkppTaaDah4UfpsMdKuB1xu7zxdGnqLhc0st2KlUArJCNViAZyNaH7uVts9+lz74W7MicNkK1gHKj+DibpXuafD7uhUYmNfwDU;ddFJAmEvfq5lIqlcPr4F1A=="
+secured: "lGBYmjejE5GmAADu3JR13HzgF7JRDG58qgpbLnye+D3o7O6Dgq/embo3cEcvjYvPX+FNPfMLrWI13ZwzICCZicJnCx7Y8lwAERz0xE4dY1URtIPslTy4/UQjyrTgtfFJvPCWAltCyWAXxAiiggF+wGSG/EJ2CAGk/K+meWZg1z+mZOuzUYDQixR5wpx2Yy4UhJtd8rKaQWnvm4je9jMP20IeHuDmr+yUb3s/3J4T0+VA3RKC5E9kto2tTxkm9Nl+9Qt+ycjaSkPrOMMQJjyNfxj5S39kY1oMd3xB1bhq1s7ppTyd0CrJAn9Kvob9yaT7;iDDdnkf1BuASuH4LYwNeuQ=="
 ---
 

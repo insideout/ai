@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       name: Datamation
       domain: datamation.com
     quality: 43
+  - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
+    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
+    publishedDateTime: 2020-02-14T14:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200214005074/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
+    images:
+      - url: "https://mms.businesswire.com/media/20200214005074/en/773548/23/AWS_logo_new.jpg"
+        width: 1200
+        height: 627
 
 secured: "CaljstwSgL90MovNxCudIK3CI8GkRlqNDqdZi9ejL6peRxG7chagvQi2yi37sHOSmgB1V+9uKzMbYRr4kLUQpxv44mLo3Yd6RlnW97EfsmS2uQhKesMnC1qAjAnxqarrF/9MB4Ela6jWtwAal4X4muc/KeqfPOJlGGZdPVy4xSQmUHHCTvHQirvGIBqEnxRQOqPSqV+7IHxbCJfE5UT65EiG+wYZA4q1/aZTP9Sj3rD4uciQmJVkkhhioh65dN5dVf0lABUTgXT+YZdVX+3JN+v1rhcNabX6yFh/GofSzzPh3aKkKdND98D5fg/qDlLs7C0nQYUxlwMconYetiQnWExzn2auhFqRTjTS8NxpWp8RbOBPJjfqb2L64XZ0WZIadOkGx0vvFGKzSoZ+5BWh8NjWY+R8hsFuT+dmidS79MAGeybHKYCI+AGqlh8RO62EKUwnU0FgtLKrRnOFbsZ3hw9s28pCgjsFzgLE7Hm3Ft8=;4WRrTUUdOkI3nVROO8uTFA=="
 ---

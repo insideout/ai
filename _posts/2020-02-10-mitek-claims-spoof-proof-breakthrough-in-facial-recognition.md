@@ -24,56 +24,58 @@ images:
     title: "Mitek claims spoof-proof breakthrough in facial recognition"
 
 related:
-  - title: "Watchdog rejects Met's claim that he supported facial recognition"
-    excerpt: "Biometrics commissioner says force was wrong to say he backed use of the technology"
-    publishedDateTime: 2020-02-12T17:53:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
+  - title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
+    excerpt: "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ..."
+    publishedDateTime: 2020-02-14T14:50:00Z
+    webUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy"
+    ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 76
+      name: Fox News
+      domain: foxnews.com
+    quality: 80
     images:
-      - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
-        width: 600
-        height: 360
-  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
-    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
-    publishedDateTime: 2020-02-10T20:50:00Z
-    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
+        width: 810
+        height: 456
+  - title: "Brazil takes a page from China, taps facial recognition to solve crime"
+    excerpt: "In much of the world citizens are speaking out against facial recognition technology. Brazil appears poised to embrace it in the name of security."
+    publishedDateTime: 2020-02-11T14:44:00Z
+    webUrl: "https://www.csmonitor.com/World/Americas/2020/0211/Brazil-takes-a-page-from-China-taps-facial-recognition-to-solve-crime"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/World/Americas/2020/0211/Brazil-takes-a-page-from-China-taps-facial-recognition-to-solve-crime"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/World/Americas/2020/0211/Brazil-takes-a-page-from-China-taps-facial-recognition-to-solve-crime"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "WeWork wants facial recognition biometrics class action dismissed"
-    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
-    publishedDateTime: 2020-02-07T03:36:00Z
-    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
-    type: article
-    provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
+      name: Christian Science Monitor
+      domain: csmonitor.com
     quality: 39
-    images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
-        width: 1280
-        height: 640
-  - title: "Internet giants reject controversial facial-recognition start-up"
-    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
-    publishedDateTime: 2020-02-06T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
+  - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
+    excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
+    publishedDateTime: 2020-02-12T07:33:00Z
+    webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
+    ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+    cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
+  - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
+    excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
+    publishedDateTime: 2020-02-13T19:29:00Z
+    webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
+    ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 34
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
+        width: 625
+        height: 305
 
 secured: "2+4fXZg+loxd8ECeUanKtOAxsLxbW7Y1TBETJGxoNhN7iHXbsA2dwckPbJQlazX/MvHr8uWFpBGdSXYksTyABOAQ0PGBoU4GlXx+1A/WL63LohtsjAvMncH5xRRVgfnEXdoEVGVBzbsNLmrKQGN8uMJiRS/+BjpMV9uth8rGOcn1zhxW9kN0r5TqmSQsL1/kJeLgMypro+J6qUi91Jtq1c15lZ9row/m+EhfsbLaV3Riic+t87LPTHVd1wf7Ur8toWKY7ALe2Q+MLKYKzdCkev7RLMhhFhzWW+qszj1b0cnXQt3AjtqaTMa6EWv+2bu8;x7u1TEP9M+OMv91xvzVOrg=="
 ---

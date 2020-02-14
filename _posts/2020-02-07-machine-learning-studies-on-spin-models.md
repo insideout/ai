@@ -24,6 +24,21 @@ images:
     title: "Machine-Learning Studies on Spin Models"
 
 related:
+  - title: "Nvidia shares surge on signs of a machine learning boom"
+    excerpt: "Nvidia stunned analysts with strong quarterly results and joined rivals Intel and Advanced Micro Devices in predicting strong demand for chips used in data centers and A.I."
+    publishedDateTime: 2020-02-14T14:18:00Z
+    webUrl: "https://www.cnbc.com/2020/02/14/nvidia-nvda-earnings-q4-2020.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453"
+        width: 3846
+        height: 2564
   - title: "Nvidia shares surge on signs of machine learning boom"
     excerpt: "Shares of Nvidia Corp (NVDA.O) rose 6% on Friday after the chipmaker stunned analysts with strong quarterly results and joined rivals Intel Corp (INTC.O) and Advanced Micro Devices Inc (AMD.O) in predicting strong demand for chips used in the latest generation of data centers and AI."
     publishedDateTime: 2020-02-14T13:40:00Z

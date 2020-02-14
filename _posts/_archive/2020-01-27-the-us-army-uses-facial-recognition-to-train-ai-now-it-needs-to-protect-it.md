@@ -24,9 +24,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/25/1fda6b43-2ef8-4a70-83be-780cd80b7f8c/resize/1200x900/ae17d77a0f9c782c6bd35acf140d0d93/1.jpg"
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
     width: 1200
-    height: 764
+    height: 763
     title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
@@ -1084,6 +1084,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "y/77TQMqt1FOf6AUIvp2USTYHaBuw9NKiHs3nog1zkodK2weZ3kg1SREtxp335mA0Y8ekfkass9gXLAwdKaclF7A765IEyy1WA0JI2hEIMJVm27rG4T9y1L1vAjo3Xp2UU/VRQS4Rq5W2F/PpHIup8GiO3Ufvj3CBarllZtCGeO5MR7VRUm1Soq3RxGLi2h/azE/O1dB8QFjAaIVFoAXyigTwVX9BjkEE0hnFOsl35iVLHCmQgEG7PsmILF2LNaR9meXZ259WwGxfinWCY1oNtbg4TR+5hcBaYYwQkhK64zpDaxLlpzq7EiRqDPMvPeO;/3ItQMCxCrIbFExdpJrW3A=="
+secured: "Zc7Bk43eRPoLnp4egjjbxIwMsI8K50oa++KyEXL91mTCtm/dXJns7RgB565W1iM7JLiul47T60R2m+Y/x9R/3YGIzUhwbCUJFT3iNUfr/YtlrN5gOjTH8fYhcsmDBGaV7X+jue4YcjCV7PTsjpqlyBjfrOjCHSXLm70u93jqd6IvYjHj048VY/SW2mEawo5gMpqiPYAssaBF3FM1KpI8YxGgBFMq6po02TCbiDA34EWs/k7YmQFpBgcmp2MaB30C7kZd9CSW/d+vJHP1kemHyDMYaght2fFmEprPHGzgiJl7fUpPEzQFJnEi+ibqjrGU;D29/e511ouubXcfrnXiGSQ=="
 ---
 

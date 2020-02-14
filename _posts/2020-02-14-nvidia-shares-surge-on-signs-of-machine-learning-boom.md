@@ -8,8 +8,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2081OI"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2081OI"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -30,6 +30,21 @@ images:
     title: "Nvidia shares surge on signs of machine learning boom"
 
 related:
+  - title: "Nvidia shares surge on signs of a machine learning boom"
+    excerpt: "Nvidia stunned analysts with strong quarterly results and joined rivals Intel and Advanced Micro Devices in predicting strong demand for chips used in data centers and A.I."
+    publishedDateTime: 2020-02-14T14:18:00Z
+    webUrl: "https://www.cnbc.com/2020/02/14/nvidia-nvda-earnings-q4-2020.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453"
+        width: 3846
+        height: 2564
   - title: "Machine-Learning Studies on Spin Models"
     excerpt: "With the recent developments in machine learning, Carrasquilla and Melko have proposed a paradigm that is complementary to the conventional approach for the study of spin models. As an alternative to investigating the thermal average of macroscopic physical quantities, they have used the spin configurations for the classification of the ..."
     publishedDateTime: 2020-02-07T18:26:00Z
@@ -44,6 +59,6 @@ related:
         width: 685
         height: 647
 
-secured: "fQnZKR6oSwBt5ZN77SNQViFNfclD0vj5yxAv7PJQf6vlqUEM7mCg7yqgGjH+RY65JvVZhVFDsnKTaN4Yjt8UeA6krwXQCkINWT2I2X2WBVFeh0X3CbNI9kc+kvUsvD4wVbWfmPbdM31Anq/SAcQgaQrRgzC7Aoacy+YvzddIM9JfV5GPKsKigD26QvV7SKRFGco/JEf2BwvcvWV4/2OpMGxj4NOITVRQJs2FBLzoIXGGnqHjYjWZjl49OQeWCvil443u5ZOUa+s0edziqO6KkMSF0O9RYBKGCA4Sdl9gOsG0MccFMItej6QlzxQa8e8N;NrHBITmDS5XdMxqzasmcRQ=="
+secured: "pkBd11OFzDmKQwDFRYBZmPHfOXirVPjJxnPMsWfZlsU85xlWNy6ONXaD54eCiS1m1oXnqNbOyTE4We5NsY2w+05zwnK9JyI1Afna4fLftjr47ZoFqMfTrzw5M8XapHgEKpH5YE1QhJO13wm31lo5lH3ewF+FIEBKbZ7zhP69gv3DmVjxc29hCOhj0bzwq6OxEZx0SvzNQpW8zgHktPGRDoOyK21FjrUh2+3evdZNJjI9u7wUwREjxpsV387ZkPRJ04RDt0kP3nsDU3v52z3sG6Fi7jmIG5H3WegU4bM/m1biqXHrPk2ePtHdYrXW4vapSyqsrWb5FE9lDB3pALMJ/V1Hvm4b6D7XQAHV5Y992RMiXxoCl8ckcMj6iCJuYtjA9P78aFhwiIP7qsyYO29Mzhm30y9aX2pAzd7ZIQuajBj8UacdLdVEFly7xBp+VGHJ3M0/54dTMgw++R7VmT1/GdsmErJ6HQXK2qmNbLHC+lo=;uDvtiDtSjawjQgH0liDHPA=="
 ---
 

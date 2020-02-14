@@ -51,9 +51,9 @@ related:
       domain: zdnet.com
     quality: 101
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/25/1fda6b43-2ef8-4a70-83be-780cd80b7f8c/resize/1200x900/ae17d77a0f9c782c6bd35acf140d0d93/1.jpg"
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
-        height: 764
+        height: 763
   - title: "Frustration grows in China as face masks compromise facial recognition"
     excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
     publishedDateTime: 2020-02-05T18:51:00Z
