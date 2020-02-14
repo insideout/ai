@@ -754,19 +754,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
         width: 2127
         height: 2072
-  - title: "Why a facial recognition ban won’t protect your privacy"
-    excerpt: "As a rule, new technologies usually become more popular when they become more advanced, but not so for facial recognition. The technology is both more effective than ever, and also facing a growing backlash from consumers, activists, and lawmakers at the state and federal levels. Concerns about facial recognition are understandable, but they ..."
-    publishedDateTime: 2020-01-30T12:00:00Z
-    webUrl: "https://www.scmagazine.com/home/opinion/executive-insight/why-a-facial-recognition-ban-wont-protect-your-privacy/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/Opinion_Lee-Reiber.jpg"
-        width: 2000
-        height: 1083
   - title: "Facial recognition coming to Europe, but terms and conditions applied"
     excerpt: "Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next month."
     publishedDateTime: 2020-02-02T11:57:00Z
@@ -1145,6 +1132,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "JupDn0sGjH3FUuBmM7qxTycAPeEuFS1Su2nKNlxfN1LPhyu3IYs1SpByUJ6DC75SjnDzC/p9xRqIEut4lq3EEATTEjGy5yzvSlRS2u0Y0XEZ+2Bebed8CGX/aZL3BoUfrJEktmLie4rA1jf6RqB8e5UfmM2UNChWDzlLwr7kiKjiSBzVvcmF4wqPWl4tehbnerIR27BRS0Qo77uXBA33tbCxAmUwA90r4hPNFu6cJNVM/F0pETgzewsNvuzuF1PgWMqN609deQqyI+ZSOk1/DuJ1OQ/SDRz6XerTH30V8xQ8smyNP1PCvDn3C0G9sGPS;4wfRgc3wJgKydlaLg11Hpw=="
+secured: "BT4F+gq6V+joZ7WvflYJHkY0eCc3JZr8Io/Ze8+SMAX7hdoA+OSPR6oSUa2eTBhKm24xYI1QDkhtQ9nxDV4DJAVz0WmPCAsDN1+8U3NCPH4lcDQdLKsDQ1dL6gMsLzh5fCJZVgTpaksym7oC/0HIBBwhOELLNTZ2dzuUJqb/z9FlNFK8qJRwYXOrJdK83JgEoYOcR2h4OjYfmRHK8cMkGjYYSTS6T3KjxwrlZNXlylGMcyCqc4aTdPzgchmXM6qNd0GWg8C5ae8op5+n3iJBAQBdNyZmSjopfB73qCcDOPdU7TbV5IxKXAoOktRZv40+;Bt7Dt2Gara4semm5kwHVYg=="
 ---
 

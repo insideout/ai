@@ -58,6 +58,19 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58263-5/MediaObjects/41598_2020_58263_Fig1_HTML.png"
         width: 685
         height: 647
+  - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
+    excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
+    publishedDateTime: 2020-02-14T04:57:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38383/north-america-is-the-leading-machine-translation/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 0
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "lvJhrQa0CW+qrX32UX14gHe1GLpSG0WXKhc0JcFE+sk9YnuWjedA0ObxN+lYTGToho1dQJwZ/UsJnHSnW/u5Wf4487+kGIBfPp9s3zO3V1+hocBm9W9EeQQ5JKtn1dhxtNt+dScyJUoP7HbsN//wyOt3Z6kOfYud8BFoMqJc2VfD3YuercsNeh6CdJzNCpsBxgsUMTeCjVjqSh26lTnc9V2otrNP0xR4s1h3owCWx03er4AeEP6OSKOdPSJ2ACUSDtRDxm2+ja5IYo9+hs1DPxaXqBj2nPSTfc96YZdjVATlvx0a+idRbo4KyOcFRvQp;aEZND8L2b2c0Jwjo8+ZetQ=="
 ---

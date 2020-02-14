@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Tesla accused of abruptly pulling self-driving from a used Model S"
 
 related:
+  - title: "Ex-Waymo driver accused of causing self-driving van to crash"
+    excerpt: "PHOENIX — Ex-Waymo driver accused of causing self-driving van to crash Tempe police said Raymond Tang, 31, was booked into jail Wednesday night and is facing felony charges of aggravated assault and criminal damage,"
+    publishedDateTime: 2020-02-14T04:11:00Z
+    webUrl: "https://www.marketwatch.com/story/ex-waymo-driver-accused-of-causing-self-driving-van-to-crash-2020-02-13"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A3261B110A22"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A3261B110A22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg"
+        width: 890
+        height: 501
   - title: "Tesla Self-Driving Computer architect Jim Keller is confident about solving autonomous driving"
     excerpt: "Jim Keller, Tesla’s former head of Autopilot hardware and the designer of Tesla’s Self-Driving Computer chip, says that he is confident about solving autonomous driving after working at Tesla. We first exclusively reported on Tesla quietly hiring Keller, a legendary chip designer, from AMD back in 2016 and we were fairly excited by the ..."
     publishedDateTime: 2020-02-08T02:43:00Z

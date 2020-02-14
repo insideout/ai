@@ -22,11 +22,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://miro.medium.com/max/1200/1*F5_ZdM-USv42-MzHCVyv9w.jpeg"
-    width: 600
-    height: 600
+  - url: "https://miro.medium.com/max/1200/0*48sMhz-Z-TX11FXl"
+    width: 1200
+    height: 900
     title: "AutoGluon vs. XGBoost — Will AutoML Replace Data Scientists?"
 
-secured: "/ycrYs50iwP2emua/jWOf2OufrAXw3M/7kd9CeAYsoWmNlq3iSyEFBgemyIjcLwi2JvW2c+cAGeXNfhA9UyYLPwuyMkOVPSKL/owRES79dL4ytILIgti1CseNFuFGo+4uqidpPfJriJyiZNiTSUv6d72VUeNiZW+n7TmQ+YzXZnEYXw7M7Cr17a6uafD1bBIDdcNGolOq4K5RsSY4f6j+878b/DoBDH8JsImED2cgy0QA4sygxVloORn1l5tg39rzazpm+XSXOybNC1/MVJYFqHESZF6NtqUwFlvYu49+0J/P9+5NEmraIVzfPgUp145;mpvwa7v8UZBs9PuBykogHQ=="
+secured: "/3W3R9TGx5kXGiT/wtnAW2Y+XNO7kxWEic/mzLvcJLAmlk1ckyCTznT1yClYboaig4qlKwXp+XuA1H0dZ+4oCKFBAJYZZBKfH4FGWlnzJBng9f5gTEGxS2agm52CCj45rQ3MBo7Wce24JGVX/4KTWZ2tjXOrd3+Yo72RjKjbJFZPX7eNJP4Y2ByV2r6amRR0v2qzBoF4jCUWx0avXXgVDR1Ql3Kpd9Y5Ygd4K11puvUdTVk66mPT3SU8U7f1Rf61j1Hfjb6ovQxpICP2rviE3W2/OpaPxfshGM4c6XraoUJdgo1TKtVdBaJ6788024zE;BfojMTmiMn7X/isv7AVeug=="
 ---
 

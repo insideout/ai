@@ -59,6 +59,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
+  - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
+    excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
+    publishedDateTime: 2020-02-14T04:57:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38383/north-america-is-the-leading-machine-translation/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 0
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "sDerhod4UMdQYN4OWLmtduSH1N4+krQY/ZNb3jHfLuHn1a0mzNXENztXltsjFidTBhsIrLHKvmD9944AptAtVE3tBjV+9FEB7l6o4Z8C/JUv9QKSdyqVTM+5DHvYkm31MpAVFJuHvyWs3QVY5R4gtPaJuHfHLbHyv0qtGEGBT45NRAN0ji13LqTqVF0ZAI+szlM3L2z+cv3cfe6dHpgffIxvIjaTf7ItI12t1rjiuY74XjIqeGjqnRT1OOTWgTKzlyGhXKrC+Pi6Jv7/lqazzHmr+ESho5WSg9fLkSMRNTu5kYY2/jGlsU1eK9rwYk34;nlu9kZEHQenwpmEISDnUrg=="
 ---

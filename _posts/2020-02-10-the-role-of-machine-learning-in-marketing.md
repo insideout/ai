@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T18:43:00Z
 webUrl: "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -64,6 +64,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
+  - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
+    excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
+    publishedDateTime: 2020-02-14T04:57:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38383/north-america-is-the-leading-machine-translation/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 0
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "BD4R9BJI6siHp/qPGNVidIAejwGDGCS/zU/45l/Fbqf77Q3MUPAfXJjQ3LQGFuKxuxsO0SfxpkDGlnJfvURUB/05UIyCPwyy2eTbqXaUqMjzDuwWZcuTFl1BE91StAUzcOZU6BE/brDih5pOqAXkPgpkR5nzF1sUUbq5v/JzlLm9kFEpsHO346ocOwvf/N5lhwYeQxOGphJQsuglLGnsEj/lMbwqWgzpd75BdvbRq/X9MDwgLcL8kK466KcVvvuHa1KysHQ5tFeu0UJGh9Xo9Z/OBGHhzABG0S5gEVTp2DCwsjbOY6D7q2+T/ig+JBoB5KlK2qri8O4RtNOiIuZZDhu9ivC7pHeY05AnjRNEa5NJKy3kW12nGZJ+1VXpy/euN8s9zL5PxlyiZ1cFTmMuRkJGGnj7hhLtClV8BrxRbZvKyZkgb8V005+fSoVsFdMDIES6tHFPNNbqLl8vX68jqhhKpeZnz5f0mffSZCYpfUQ=;z9MhOzaZdr7USDjhfNhZ2Q=="
 ---

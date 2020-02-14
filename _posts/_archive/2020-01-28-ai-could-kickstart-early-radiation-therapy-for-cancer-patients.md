@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -24,18 +24,18 @@ images:
     title: "AI could kickstart early radiation therapy for cancer patients"
 
 related:
-  - title: "AI can jump-start radiation therapy for cancer patients"
-    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
-    publishedDateTime: 2020-01-28T07:25:00Z
-    webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+  - title: "AI can help early start of radiation therapy, prevent cancer metastasis"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several ..."
+    publishedDateTime: 2020-02-04T11:55:00Z
+    webUrl: "https://medicaldialogues.in/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
+    ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: Daily
+      domain: medicaldialogues.in
     quality: 54
 
-secured: "aPv3HHRe0cQl+wlDfyrwarVUlz2tv0Z9xu48lkTUp7XVqI0ger3Jl1pq+TRWPHI4hPJ6ZF0hnxjNHn9yoz9p431LWSKaGGSBnbZOPIuPWsIqRosrouVnBiUby6UUput9gy6BpBbC3ngFtPJTKRcSeqV9ZzWihi0v9+iLGoo4TASeIzyjNPjpcJLuULYr3hD0xai3AZav+rHYqUkGTzT8n0HCIuuGFiOve/HRBQcsHk1Lv2rMPpv2S/gcPi8Gb7ZH8IoPFuoDcSs3VRKMvxsfCbxCITem5xVrrS+VBzchqr1GHkX+1JXerc9dBoQf2eiN;ijLAjWkebXap+JGwT1hzPw=="
+secured: "S6BwrOnf82zm82mlZU9zkHPLD+FG1a6Pogaa1U5/kUqzGq52w2hU9I76o9XFRwU92rULip1pzVEjVGH0qCrSdFVeADE5OxyAUZOGtX4VQ9Wz480fe7onaYRDtoS0HIPKandNyr24P/aeKRDGznoHx5yFtK0Ags0IhgdjKCN8N1uAXrBIefO4NawcITRtzAxrYrM+5ThklT8x/qqrhMNTTfsM2je9DHzmNpQiMfrMLXMv4zPk5/IId+Rj9Lv0wZEmFHmIrXu6i9qGFRTIpXUIj/WuQqwilTCeSShYCms23zpoGk2dk64dDOsmX6Zk5ylj;JGaWAEK+AISUDF1BErPqcw=="
 ---
 

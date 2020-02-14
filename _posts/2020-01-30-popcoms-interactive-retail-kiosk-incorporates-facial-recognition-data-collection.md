@@ -608,6 +608,19 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
   - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
     excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
     publishedDateTime: 2020-02-02T02:35:00Z
@@ -741,19 +754,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
         width: 2127
         height: 2072
-  - title: "Why a facial recognition ban won’t protect your privacy"
-    excerpt: "As a rule, new technologies usually become more popular when they become more advanced, but not so for facial recognition. The technology is both more effective than ever, and also facing a growing backlash from consumers, activists, and lawmakers at the state and federal levels. Concerns about facial recognition are understandable, but they ..."
-    publishedDateTime: 2020-01-30T12:00:00Z
-    webUrl: "https://www.scmagazine.com/home/opinion/executive-insight/why-a-facial-recognition-ban-wont-protect-your-privacy/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/Opinion_Lee-Reiber.jpg"
-        width: 2000
-        height: 1083
   - title: "Facial recognition coming to Europe, but terms and conditions applied"
     excerpt: "Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next month."
     publishedDateTime: 2020-02-02T11:57:00Z
