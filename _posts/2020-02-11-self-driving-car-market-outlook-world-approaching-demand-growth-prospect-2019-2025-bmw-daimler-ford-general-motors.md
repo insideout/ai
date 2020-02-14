@@ -159,6 +159,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 19
+  - title: "Former Self-Driving Car Operator Engineers Crash in Tempe, Cops Say"
+    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
+    publishedDateTime: 2020-02-14T01:38:00Z
+    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 4
 
 secured: "nCfytsEqbWDg2DIc8eRmKlD9YP/cKTNUJW0cUb655t2PxIK+rxQe0dtKGXuuWiPOZeYdgChsBzrFS5zJgDxnPtTmOQYIfYe4ul96Tszx6gTxBdsbJxQVC2bCBLniCMRHKCre/hyC+fHiGtfD3IXduJ9fQr5FRnIwUZ6U//71HwVfWFFTYHE1JHCp4nCouLTihF9mLbey/UOv67oai3LwGgTzvESxmq2uyY44juch9sSRsymk7XgdD0oKMvy+trCdJrgxhpVINTMTamBBx7c5WbryE2AWc40Hrwg5GR7ZOp+flewDBMa3DsIF7LnwCJis;W1Xy3pv2fuRj2PqnWr6F3Q=="
 ---

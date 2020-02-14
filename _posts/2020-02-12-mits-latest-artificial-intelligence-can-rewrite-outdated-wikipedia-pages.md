@@ -7,7 +7,7 @@ webUrl: "https://www.digitaltrends.com/news/mits-latest-artificial-intelligence-
 ampWebUrl: "https://www.digitaltrends.com/news/mits-latest-artificial-intelligence-can-rewrite-outdated-wikipedia-pages/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mits-latest-artificial-intelligence-can-rewrite-outdated-wikipedia-pages/?amp"
 type: article
-quality: 66
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/wikipedia-politics-2-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 630
+    title: "MIT’s latest artificial intelligence can rewrite outdated Wikipedia pages"
 
 related:
   - title: "AI tool can now update outdated Wikipedia content"
@@ -39,6 +45,6 @@ related:
         width: 970
         height: 545
 
-secured: "vN9KFfQQhX57zqUyjX8TQ86UKtmjdotd3rF4ke1PEpoHGZFerxSPumvSOy5913DTWwmQyRpn9NrLaGUZueVacDMwXeNa5Q/tBi8iEiSP65ZJ1JXaiK0i7RGZkjnDL0d9DJLVNV8ehyOY6ofhMSknXMENeVFLPQk6BY4opQoeBqBi8UgYcioFwhsbVcXmZbkdQZ6XUYWm9BHhwMSw06WPSKEp4KBtBmDSrS/ZpFgJjE7JtIdCAFwGE8UxSZs7iosIi0z5sN1bj2sraXxkQKNOl/vSbjAooZENkjlph+g1cD8dWpJAq3Y/92v7AZWHWQOn;ZqzXAQvfP3HQWrFuBjvdMw=="
+secured: "5xCPALrIx8uNRcTl2LWehYr79RlxRwe3ZUjrNfYcL0BuSnjfuWb0uD7bX4gQ6dcEOluiPf4YngJrsHEQnlH5Dj95tuaEa416eEjJcMuaJ6kwyaapzfnBRuZ2f0ASweAvrtzzSsWExt9ZOx/9gbtONc+mXxyfu/jriyZFRGvC3ZDwU03d//UTBYbnEj2y2UeY9Xn8qHAtQzoVNTD9oJIuJawzK3f8wcoUOmGJ6H0zcLEG5prYTWoS3tVeANFiNtaxGOVD3eAt5GFX9AqyJvxTMfGAfLP1wLHOD8cANvLZXWTRQYTgoOWL+U9HU25oX+xf;Wmi5R3B3zv1GfiU7KxtjnA=="
 ---
 

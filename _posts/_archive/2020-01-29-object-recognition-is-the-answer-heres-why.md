@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Object Recognition Is The Answer, Here’s Why"
-excerpt: "From all of the different sensors out there, and all of AI's capabilities, which has the highest likelihood to help solve a problem?"
-publishedDateTime: 2020-01-29T19:35:00Z
+excerpt: "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ..."
+publishedDateTime: 2020-01-29T19:32:00Z
 webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
 ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
@@ -40,6 +40,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "HAjztQ3J2ZrFTjbvCnitr8Qek02ZhyD+RhPfeKhuabrupWLfE/fQNAexaOu96D0mN6WFqLGUNYCQp95E/GGj8elrcR2OyRBMAuQkViwqVJvTcQTBqnCCc6oOXfstwT3SkRpPfe8NqS2uuEYHpqUSLPg9g6SaKNGiR4CsClhPZCuG5SFAr7DPyreZVT2V8YisAhwff7f6vAU+fn/OixxGz1cLaXcNHi3hAOCRqcyRtCfjzNmmsK19jBBS7BUSzJMZZqnX31wlmGo4cFej3prrktzNraZ1TR9HMwQM/vI45vjsEpryJF/Wk7X/o2RkxHEj;dZGu20nriwIcUm6YSi948Q=="
+secured: "p3RZg3V2cjQboC2lRolU8wLj2pK33Oc4yUygxVeL2d60Doteuye/A24twSrByEgmuLmcjVF21xEbmI/MdREYT3DqV9LQvQXuqYp0yw6lcN8KLLgf8CVGGX29395X+x+yB/OY0R2/LR6jbxFfVM+kzbmoid42bpaUULj25XvcUOMCGSVfiiqEr6mFqa/qHDamOr/IJacqQqiLv2bmVslL8VVVVE0ZynGXG914QRVbi9i++6IWirwHgYI4gAq68sqoDKxuNcdPuwTRkgcRUhi43kY7HlLJ1o2ibvYPDLBE3LgI7bJnCfhDYO+WdWgDGFct;Y93pAQAQQ36iakhe3adZiA=="
 ---
 

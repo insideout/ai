@@ -39,7 +39,11 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 66
+    quality: 86
+    images:
+      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/wikipedia-politics-2-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 630
 
 secured: "OZmgMSTmXyx0wH6pstS8KhpGAgGZt51lFm/DixCdweVspbkoISBxNyQhWmfA8KpjL8sjKkEz1L7qXRo/tLeNzZs17OB4xb+Y3lNkGiOtoX40Ii15j7hVSHtsA/7uNUanBAn4wlptm3kDQ/pJ7TwTnI19Fdn63h1V6myRFTfeaBeCJk0GH+tFrUkwStAdGmHNxCDLCI0i8eV1gzGcTnIGKcTsp9EEjYv9UDXRlSoot1+yIlgxcJzF7ulKrjmdYMZt+tAmmEaepHoPG6QEBp4pUxuZUSvDdg48QfwvL00vm24+Kaj1x2Hp46weJPp67EnhyqKPbs8IJOFLVUXjNj0aNQ==;vSeJVGgSq7y9T+pp3AYmsw=="
 ---

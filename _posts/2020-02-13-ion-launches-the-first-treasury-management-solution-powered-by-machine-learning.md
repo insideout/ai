@@ -1,11 +1,11 @@
 ---
 category: news
 title: "ION launches the first treasury management solution powered by machine learning"
-excerpt: "LONDON, Feb. 13, 2020 /PRNewswire-PRWeb/ -- ION, the largest global provider of trading, analytics, and risk management solutions for capital markets, commodities, and"
+excerpt: "The cash forecasting solution is available in the latest versions of ION Treasury's award-winning ITS and Reval products ION, the largest global provider of trading, analytics, and risk management solutions for capital markets,"
 publishedDateTime: 2020-02-13T10:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/n15320630/ion-launches-the-first-treasury-management-solution-powered-by-machine-learning"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15320630"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15320630"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/p15320652/ion-launches-the-first-treasury-management-solution-powered-by-machine-learning"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15320652"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15320652"
 type: article
 quality: 35
 heat: -1
@@ -36,6 +36,6 @@ related:
         width: 620
         height: 349
 
-secured: "wOVGYYqYgN9zQGibJNEzdmPcbN+b8FWiwqfvltgn9dVSD0iCZx8tCSq8s9m1pwGcX00cKYuq7p0t/cucQgESjbpCj8MRyomWrQteHffisBxRxb1IgYrBmPSND9iuzUyq1r3Fatun7ibW4MQLUJ9jT8VKEJo9uMHNqlZ69o26srjGLg86eZf1LZhi4TVrHplch7sbfXuLRBDArPIihuYvdQrVxg44esGNycp8tbVyfv1mtSH6yI2diMDRBJFQ1WRKn7VZ8WGRwWUaLETSDk8r99c9nTxLITabqSbfjyo8qqGOO++nJReVxyGJ+wxBgzOj;V2PMiMBD+liDHOWRrUCkYg=="
+secured: "tgNQtQI5iz9LbGkV+7/tmp+k+wE39LmYoqwFeizD1qwaGOgz04y277Un9J5nU1jxHuKJDc6bt9/uTDfz7hrxeyswRjFoM0CgeD+m26c0al71ETIezw+nu2v74C6+qulbHRzXll/IlbVOR7hAVBaqTJmTo0tKeOh7jxERwlH09WvTdtfa3wFnTJhZzs+AbqOFhzEGW+sMI+ZfQg6V8rXbSCvtIapiCprvQbRPgIkIvD0Ew/bZV64kME8fSMhISZ6x7Mzx+kOfg+ZDq7vlkjHp1+8Z7l3loVL4gZjcryXKCpaeMRF+vClX13habm6YucMw;VEFNjcSnnfecZz0oT6qM1A=="
 ---
 

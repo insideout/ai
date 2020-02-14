@@ -55,7 +55,7 @@ related:
         width: 1400
         height: 933
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -84,21 +84,6 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 789
-  - title: "Facebook settles lawsuit over its use facial recognition for $550 million"
-    excerpt: "It also announced Q4 profits of $7.3 billion. After years of wrangling in courts, Facebook has settled a lawsuit over its use of facial recognition. Last year it agreed to stop turning on the tech to scan photos by default, which built a template of your facial data, and automatically suggested tags in photos based on it. During an earnings ..."
-    publishedDateTime: 2020-01-30T05:23:00Z
-    webUrl: "https://www.engadget.com/2020/01/30/facebook-photo-tagging-facial-recognition/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/01/30/facebook-photo-tagging-facial-recognition/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/30/facebook-photo-tagging-facial-recognition/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f7434c0-4327-11ea-ae6f-03d3c1d12ff6%26client%3Da1acac3e1b3290917d92%26signature%3D688df7a5ec53e987c3851a64443c2d368e65336a&client=amp-blogside-v2&signature=1168fd01514e69d66ffbe6501fb414d35ba55583"
-        width: 600
-        height: 350
   - title: "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns"
     excerpt: "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer."
     publishedDateTime: 2020-02-06T22:05:00Z
@@ -668,15 +653,6 @@ related:
       - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Facebook will cough up $550 million to settle facial recognition case"
-    excerpt: "Remember the time when Facebook used to automatically tag you in photos uploaded by your friends using facial recognition? Now the company has agreed to pay $550 million to settle a class-action lawsuit for using the technology in Illinois. A report by the New York Times noted that the suit alleged Facebook of violating Illinois biometric ..."
-    publishedDateTime: 2020-01-30T06:38:00Z
-    webUrl: "https://thenextweb.com/facebook/2020/01/30/facebook-will-cough-up-550-million-to-settle-facial-recognition-case/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 49
   - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
     excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
     publishedDateTime: 2020-02-01T22:22:00Z
@@ -1159,24 +1135,6 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 16
-  - title: "Editorial: Implementing facial recognition tech would be a violation of students’ privacy"
-    excerpt: "That is, UCLA is watching you. New policies for the implementation of facial recognition technology were introduced in drafted revisions to UCLA Interim Policy 133, which governs the university’s management and use of security camera systems. The Campus Safety Alliance, which first received the draft from campus administrators in December ..."
-    publishedDateTime: 2020-01-30T07:08:00Z
-    webUrl: "https://dailybruin.com/2020/01/29/editorial-implementing-facial-recognition-tech-would-be-a-violation-of-students-privacy/"
-    type: article
-    provider:
-      name: Daily Bruin
-      domain: dailybruin.com
-    quality: 10
-  - title: "Ban cops from using facial-recognition tech, lawmaker says"
-    excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
-    publishedDateTime: 2020-01-30T03:32:00Z
-    webUrl: "https://www.fox5ny.com/news/ban-cops-from-using-facial-recognition-tech-lawmaker-says"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 4
   - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
     excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
     publishedDateTime: 2020-02-02T11:38:00Z
@@ -1187,6 +1145,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "8EkU8mwPIPy09pTW83wWy23vwhDCmXHZMfJvIl4mm7oaVTlM39X/cbI6G7BNkJ8oRLCQSVbTy9I2o/KnR4fa5mu5mC0nTjiucRrUsMsNr82FqJeLrGv9Pa45GYyuqnGcJate8zlcrPGeC7CUKuLNMVhBYMaT+4ACgnMBDWeyXoIxgMOI88gGXFAkjmFpy87CnkNDJ9xS3N7JZrGxIA5So2WE5oZlue3nwrzSoq+TpbxZFy4SCMY9aP2DPeQrHhtc7NLdN2gsSW9S5q1QaiikUHSgvGBmB5RKUXnBbRUF241xMG+im9cg1lYs2JqFY3ZL;OYvMUip//g3MpZ9ZuodQtQ=="
+secured: "JupDn0sGjH3FUuBmM7qxTycAPeEuFS1Su2nKNlxfN1LPhyu3IYs1SpByUJ6DC75SjnDzC/p9xRqIEut4lq3EEATTEjGy5yzvSlRS2u0Y0XEZ+2Bebed8CGX/aZL3BoUfrJEktmLie4rA1jf6RqB8e5UfmM2UNChWDzlLwr7kiKjiSBzVvcmF4wqPWl4tehbnerIR27BRS0Qo77uXBA33tbCxAmUwA90r4hPNFu6cJNVM/F0pETgzewsNvuzuF1PgWMqN609deQqyI+ZSOk1/DuJ1OQ/SDRz6XerTH30V8xQ8smyNP1PCvDn3C0G9sGPS;4wfRgc3wJgKydlaLg11Hpw=="
 ---
 

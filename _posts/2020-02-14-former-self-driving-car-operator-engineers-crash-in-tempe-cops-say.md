@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Will self-driving cars create more distracted drivers?"
-excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
-publishedDateTime: 2020-02-07T16:42:00Z
-webUrl: "https://techaeris.com/2020/02/07/will-self-driving-cars-create-more-distracted-drivers/"
+title: "Former Self-Driving Car Operator Engineers Crash in Tempe, Cops Say"
+excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
+publishedDateTime: 2020-02-14T01:38:00Z
+webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Techaeris
-  domain: techaeris.com
+  name: The Daily Beast
+  domain: thedailybeast.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
-    width: 1000
-    height: 543
-    title: "Will self-driving cars create more distracted drivers?"
 
 related:
   - title: "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash"
@@ -119,6 +113,19 @@ related:
       - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 399
+  - title: "Will self-driving cars create more distracted drivers?"
+    excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
+    publishedDateTime: 2020-02-07T16:42:00Z
+    webUrl: "https://techaeris.com/2020/02/07/will-self-driving-cars-create-more-distracted-drivers/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 24
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
+        width: 1000
+        height: 543
   - title: "Self-driving car company Nuro wins federal safety approval"
     excerpt: "WASHINGTON - Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
     publishedDateTime: 2020-02-08T14:07:00Z
@@ -152,15 +159,6 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 19
-  - title: "Former Self-Driving Car Operator Engineers Crash in Tempe, Cops Say"
-    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
-    publishedDateTime: 2020-02-14T01:38:00Z
-    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 4
   - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
     excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."
     publishedDateTime: 2020-02-11T13:56:00Z
@@ -171,6 +169,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "k5nzfeLJeIYMKClyqM0POEaETPXJtopKEU1vm7JC61WnVYFQJVXPMggqZzQC4XNYGMxxQH6sL5D8jjd1mawJz9lGloMa0BzL/vzKFS1QhYG36ZNGj5LhNnbz64EZrdETsWq9g9q/iJ0Nv0ts4zuOOKmKM4wCAPK+3Uo5LAkMA9DGyQW2VXMT76n+cfgzrgBq3vtsGGzUFKzC1RHvgWBWLdtraEUNZ+pObw47+gmMBqJSqfhOGDJfj2ueTll1Xo0XRPJgc+zVOO/ULr7FRYwckk7P2vVa5MwhlVG9f4cmLShO733c6D6K/xmv32dIqXpIc1WPypxDZ2B69W+j0ivO9WgbaVxu5JkpXOry5zXhV3xmQzbgdniAS4KmceyyZuTQGxBgckL5dKwBNwcPXKNJlAEcntIE824Zs+Aw34idM+NKc/JWQZUWEBtwYEsxyyN8juYLWjv+RKo7vHvenMKi8Aiils+WaMxpl0neGyV3+yM=;1/7G7+9UEEtUKXCJ6+jYEA=="
+secured: "GeaNEnH4q6qtOsjVPzPdZqjrcR2ga6a/qWLsnfRPCnropZ26UfId/KxYPIFnT1NPz2bzBdywRqzQqdg9l+Pf2OiYQF/wXjpUtGHyseB8G0KwIKFrKQNY7+lunhhx5Ol+5+4srAeMVpCQ2tMiQpcz1V2Aw7oYpFUtbyhTuZDLNId853vAHbWLrzDjL9OKF4OsSSq9jSEcIDHXszTtT0HrPqwKisAb8XYzgHPO9VqjduPp7SUdiqlWO/5CAMoQ6U//uBMYFEwMYTGGcgsKcXb+2YfdcZjT8xdokbi2tVMmvCyWr34U/phm1qvCKHIcIoHNZ/TOV3Ke4qKM+snpniEvahvOglJqttRAtmdJS9t9LCasqmsJfOcCltWRcW9Lvyk2p0A2VZ0jIuks6C+RjFI0L/wkIgFPYDal5g6kgCxxg7Z0bS2DsjQKy+mNIomucB0eWKNkLSqXgaiU4yDpo+mIFXcZQoX5JNA/qheHbXTy8MM=;JzlkG75mYnbwMr3t7+DLVA=="
 ---
 

@@ -56,6 +56,21 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-chip-designer-Jim-keller.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 484
+  - title: "A former Waymo driver has been accused of intentionally causing a collision with one of the company's self-driving vans"
+    excerpt: "An ex-Waymo driver was arrested in Arizona on Wednesday after police said he intentionally caused a crash with one of the company's self-driving minivans last month. Tempe police said Raymond Tang, 31, \"targeted\" two Waymo vans, recklessly driving his Mazda around them before braking abruptly in front of one, causing it to rear-end his vehicle."
+    publishedDateTime: 2020-02-13T00:00:00Z
+    webUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/5e45e27a3b62b725f9357f95?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
     excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
     publishedDateTime: 2020-02-02T08:58:00Z
@@ -85,6 +100,6 @@ related:
         width: 1200
         height: 675
 
-secured: "tsIhQ0cSret6WlV+BRh+cy3f8tmeaT4z1arDl0xXuo6WTun4GCiR0VRQg5WVpy6TgUj2mJ/9GVOTBzGFBkHWTYceAZ5eIXS/1zO3dEMwV1Df9h3a74UJPb82SigQLWyHvlEAPKvxgs+iq8k8GbhhqymETYcPtfbdmtp4s1lnvT+9Rbod6bwI6K8+wGrlLBjvHHyZ/ur3vhm6QKwQIt7h4NF9TM+CzJi/YS53hgS7o5GDU8hgcsTmaB48OrMKmm5ZkRSXk78Ixw4ae+RwQeXIJA4EyGTFc55MAHBZfZNRxPFv9cN27pTRPhHeYrvU8k48;S5y20FCUCMz0/zprXDmjbA=="
+secured: "AUFGsChhMv6laXrWlZFvHcmH7R21htAhhdsGf2CsdyDjU4al9hwGVk8WtzlqhJ7GHL9NhgNPuyubhjiwAyClPx4Osghoyb9RMe7oAXvw0ZVpHQjS4uWomCzf90RUbWyzgYa+iEiWIP10dcQPzZZXvBpe/sdHhB8Nfr13jGQ81pdDjfFfgxHj46JCsiDL6q+/1aSio1lv4IJdAW8EiYdvVSTwCl6vtumWFXny6Onc3g3LVCCjiexEkUXuLE62vINqnj/GPQf3UNuwk/cKQNSZOOeulwrJWrkUm/dlphCicLQ2nvHE9srejXIUtGwD66jk7bWj9zxyaPPnqBfufN1ZBPa03ZYyd+pzsJZGFJJVwgfCZS4YK+TDFBn1dbq+H/5IPq1h2TV6C2QUekLYFvSQuG3tSH8nY5be4bG8FWYyjpTvfllDsJvbv0ueuOeRxqgW9T6wGtAAyLycwECkfZo8OL0u8MtkdAUUz6RQrURGmBE=;NE/BjC9AZcsrSRgf9tbF0w=="
 ---
 

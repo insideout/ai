@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Tesla Self-Driving Computer architect Jim Keller is confident about solving autonomous driving"
-excerpt: "Jim Keller, Tesla’s former head of Autopilot hardware and the designer of Tesla’s Self-Driving Computer chip, says that he is confident about solving autonomous driving after working at Tesla. We first exclusively reported on Tesla quietly hiring Keller, a legendary chip designer, from AMD back in 2016 and we were fairly excited by the ..."
-publishedDateTime: 2020-02-08T02:43:00Z
-webUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/"
-ampWebUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
+title: "A former Waymo driver has been accused of intentionally causing a collision with one of the company's self-driving vans"
+excerpt: "An ex-Waymo driver was arrested in Arizona on Wednesday after police said he intentionally caused a crash with one of the company's self-driving minivans last month. Tempe police said Raymond Tang, 31, \"targeted\" two Waymo vans, recklessly driving his Mazda around them before braking abruptly in front of one, causing it to rear-end his vehicle."
+publishedDateTime: 2020-02-13T00:00:00Z
+webUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2"
+ampWebUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
 type: article
-quality: 77
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "/assets/images/organizations/electrek.co-50x50.jpg"
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,10 +24,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-chip-designer-Jim-keller.jpg?quality=82&strip=all&w=1000"
-    width: 1000
-    height: 484
-    title: "Tesla Self-Driving Computer architect Jim Keller is confident about solving autonomous driving"
+  - url: "https://i.insider.com/5e45e27a3b62b725f9357f95?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    title: "A former Waymo driver has been accused of intentionally causing a collision with one of the company's self-driving vans"
 
 related:
   - title: "Tesla accused of abruptly pulling self-driving from a used Model S"
@@ -45,21 +45,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5615%252C3744%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F573a2860-4997-11ea-b8ff-def49bb616f0%26client%3Da1acac3e1b3290917d92%26signature%3Dbc650a616fa7b08a85ec932a5a5f8db81960ac55&client=amp-blogside-v2&signature=55e283838481287341c2ce50730f8e43eb0dd682"
         width: 600
         height: 350
-  - title: "A former Waymo driver has been accused of intentionally causing a collision with one of the company's self-driving vans"
-    excerpt: "An ex-Waymo driver was arrested in Arizona on Wednesday after police said he intentionally caused a crash with one of the company's self-driving minivans last month. Tempe police said Raymond Tang, 31, \"targeted\" two Waymo vans, recklessly driving his Mazda around them before braking abruptly in front of one, causing it to rear-end his vehicle."
-    publishedDateTime: 2020-02-13T00:00:00Z
-    webUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2"
-    ampWebUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
+  - title: "Tesla Self-Driving Computer architect Jim Keller is confident about solving autonomous driving"
+    excerpt: "Jim Keller, Tesla’s former head of Autopilot hardware and the designer of Tesla’s Self-Driving Computer chip, says that he is confident about solving autonomous driving after working at Tesla. We first exclusively reported on Tesla quietly hiring Keller, a legendary chip designer, from AMD back in 2016 and we were fairly excited by the ..."
+    publishedDateTime: 2020-02-08T02:43:00Z
+    webUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/"
+    ampWebUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
+      name: Electrek
+      domain: electrek.co
+    quality: 77
     images:
-      - url: "https://i.insider.com/5e45e27a3b62b725f9357f95?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-chip-designer-Jim-keller.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 484
   - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
     excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
     publishedDateTime: 2020-02-02T08:58:00Z
@@ -104,6 +104,6 @@ related:
         width: 1200
         height: 675
 
-secured: "uDuUdBXATmsDxbcBgRR7/S4EsiYeUyQ7olonkZwiM9wTgqjFuXbEh/SgQaoVDBPchVpPHhuEWfGWz+n4AgFcmj84QdV6MhUMFWweMg5gXN8iYw1xCdJZa7I9/NT9ACiukkDw7yQEPRjLeZHTistpCDEADfXllXqOzalpVVJC46OkBL1edgYzjnqC31twft0VMw1r1y6tq9l0KP0pdL+ykOqoHCV3V2br6eTi/a4mfLNAvcXEsIk3XC1UTIRN4kzVYTdd2Mo5H8OhfGBwi37WRpy0KT8DpWxJlixzFNr0WZEJiNTbwZKQ+rvsff1ACGFDn7J8hkiJwky51ikdnGw8tdzJrYnOPlrjYugOlBPZ4SO7fiOy6t2VNMRhmyltqoAIWv2hH6vij8WER2Fl12mGXv/x/qxI4UPGHsrgMngPFpZ6guoH8n1P7qiyxqDogWIviMQa9o5bDoYMerbAgmtAL8lZOQES0ujZG3qhbLcu5MY=;FkJ7U/b/I7xolOOL/EnCrA=="
+secured: "4uOviCW5y8onGarjCPTosfUTMcN0nPXIbqiGnJw61dIuzq9itTJgQq1HbQVwJ7CjOWo4zPMG2VaxL7o8uKFBI7PeLqOPkBr+zkw05tEzlb6DUYRgKmtgkNTK89MBWiE/96mtVQZkcmVn+CEk5vudn4tWXQl9nHR2OIOzSbxDpeQvlzw5ggZK+3UbQ9E4oAp8rqlFuB/jpEjdYg9LSdZgo5o+z1QNtS4W3u+LRoERx5ma01029YvDLgY16HzxkhUgFaWeYUs618wTUt7y6NzbxkkrCAa2dKtT1jGkXDpO/5yw/FihsELDxzKsu5Am5obs;m0D9W4oKgBq3S2Al97LvjQ=="
 ---
 

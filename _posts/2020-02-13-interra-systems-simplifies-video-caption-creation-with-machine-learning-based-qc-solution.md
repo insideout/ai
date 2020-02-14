@@ -27,11 +27,11 @@ images:
 
 related:
   - title: "ION launches the first treasury management solution powered by machine learning"
-    excerpt: "LONDON, Feb. 13, 2020 /PRNewswire-PRWeb/ -- ION, the largest global provider of trading, analytics, and risk management solutions for capital markets, commodities, and"
+    excerpt: "The cash forecasting solution is available in the latest versions of ION Treasury's award-winning ITS and Reval products ION, the largest global provider of trading, analytics, and risk management solutions for capital markets,"
     publishedDateTime: 2020-02-13T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/n15320630/ion-launches-the-first-treasury-management-solution-powered-by-machine-learning"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15320630"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15320630"
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/p15320652/ion-launches-the-first-treasury-management-solution-powered-by-machine-learning"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15320652"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15320652"
     type: article
     provider:
       name: Benzinga.com
