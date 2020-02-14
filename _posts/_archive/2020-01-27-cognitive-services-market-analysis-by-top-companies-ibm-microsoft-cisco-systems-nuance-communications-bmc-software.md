@@ -5,7 +5,7 @@ excerpt: "New Jersey, United States, - The report on the Cognitive Services Mark
 publishedDateTime: 2020-01-27T11:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
 
 related:
   - title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
@@ -50,19 +44,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Accounting Market 2020 Global Insights and Technology Advancement - Microsoft, AWS, Intuit, IBM, Google, Deloitte"
-    excerpt: "Global �??Artificial Intelligence In Accounting Market Report 2020-2026 provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs."
-    publishedDateTime: 2020-01-31T05:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-global-insights-and-technology-advancement---microsoft-aws-intuit-ibm-google-deloitte-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -143,6 +124,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "rZgFMgzWl4qo7QQoA7d6jIw1YiCBQCnxYNF3qhC9ZHGaL+evIW/y+mIALgKfQJDS71QA9f9AcIJ6mDPxf+mpkws/7QO6MlV4gcENDK7CglZp7836SONuFkEBVKURgNuxsKh3iAqVxh/frHBbVdwA9yD3oT9A+lVv7/oE7MLFCiIi1gCTI6yVZkG1Qbj02ICfTuWAjDe2ShMYcdOcxGCTyN4Y0vLgke+822y8vE77W2XY8g4FDbVX6CPBwa0zrB+eFCe8WhtxjgUgojwBXNJehTc2LJ6ftLH/793zhgKNBp1XjQG/VY8rjlHQOUz7xnXY;2lPGoRIWwJnHhfhVaMhH4A=="
+secured: "HjMBpLE9EylA9vc3sJGoOpQH6N8NlelFwrRd23ktdE7TxF1dxo0ygzXYtTcKZhbCV8X7MyPyFsLK9vIlOvyvpR9I8FMj9OfNrlqlCP/MqmtdoN5Z65N1DEruQY98fdGp1iRykvbr4U4Vnbi3/o3F1Dsetu9g8erWjIglwvLEG3LxmEie28TXZh9zo6knPQ1Kou+0pLiJsp2IzbrsJHSxQSS4+QUudfTgRUSCShSkbfvanZ0hfW4TxCSDeZhtGPKhOCSLifnYMelHQtxWyy7ihYrh5MOFz20kWXh6ZmTCTtNs+kk4l+MCz7Is4egFzKVf;aPASGeAKB5xVebX9g+yt+w=="
 ---
 

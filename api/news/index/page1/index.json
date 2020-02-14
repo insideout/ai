@@ -47,52 +47,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-31-artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis.md",
-      "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
-      "excerpt": "New York, January 31, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
-      "heat": 413,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-01-31-can-we-keep-facial-recognition-from-enabling-a-surveillance-state.md",
       "title": "Can we keep facial recognition from enabling a surveillance state?",
       "excerpt": "Researchers have been pursuing facial recognition technologies since the 1960s but its only been in the last few years that these systems have become so alarmingly capable. Neural networks able to match faces across thousands of features with better than 98 percent accuracy as well as an explosion of available training data sets have fueled the ...",
@@ -1054,10 +1008,10 @@
       "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/aws",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/aws",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/aws",
-      "publishedDateTime": "2020-02-01T08:37:00-08:00",
+      "webUrl": "https://www.techradar.com/au/news/aws",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/aws",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/aws",
+      "publishedDateTime": "2020-02-01T08:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -2092,7 +2046,7 @@
       "path": "_posts/2020-02-03-cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs.md",
       "title": "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS",
       "excerpt": "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-date analysis of the Market with regards to the innovations, current competitive landscape and latest trends and drivers, to provide new predictions for the forecast period.",
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03",
@@ -2132,6 +2086,51 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-03-construction-startup-scaled-robotics-raises-a-2m-seed-round.md",
+      "title": "Construction startup Scaled Robotics raises a €2M seed round",
+      "excerpt": "This morning, the small Barcelona-based construction startup announced that it has raised a €2 million seed investment ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.”",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/",
+      "publishedDateTime": "2020-02-03T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-10.09.42-AM.png?w=1024",
+          "width": 1024,
+          "height": 655,
+          "title": "Construction startup Scaled Robotics raises a €2M seed round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

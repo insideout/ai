@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-
 ampWebUrl: "https://venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/02/mmwaveml.jpg?fit=2608%2C1304&strip=all"
@@ -28,6 +29,6 @@ images:
     height: 1304
     title: "ASU researchers debut ViWi-BT, an AI/computer vision mmWave beam guide"
 
-secured: "Swa0QzMbjm3jGpSFHI9j3vtlL7T4sX6jzVi9+kWrKynwJbqMAEZ4X/ddS2JbTxB/ytIvhNU06+8O8OvSXuhWOYGb/Sb/skKefvuT3n31hg5zrwUq2xdggViK1rn7sTk/1xQpNiNt2zQQ45mws43LH43XqSGofoQXOIAmWCt+OZjkRH+hoP/MuSB99nPVM8yIFtGczLohFVvWJiQflidoevmMWBNbPcLGAERQjbMy/hrb5cdlmM4rOgSRh2l7naH4GYSI3XZbDzEIVOgxj7G07QKzMm2qzSpNrPCg2RzMkQM6+oRFFPwZ5LRHUBm93pEd;tB0I8mRiz+ES/eK5bT0tfw=="
+secured: "Dj0LfB3PcrykMILps6vEjE9wjpGfiHRwNz3CnJ4tsLVwdsT/hcpzxWWphT98uwsFQuB2iwsZQf+PZcqkAoJI6KF95ygHu2coklSFS6Ty+nMWlo87sySnmsAg05XwjjmBiodfkLhaOcMEiPjNgBLblSg3jU362dMLbJrXGfdyP5m6QFg6Fh7eDglA5RTiZmFFMhn7VmwtDMl/dxGzS+bilV5WFdW2lxq8es4YPwJJpGo5+OZdpzKF/qEYRjpeIRCTJMhaw6CMrEKPU5polfVDDzwzvpCYDEcByWbvl0rzouITNkaFCdBOb/N7MuwP2c8eL76pA3Z1HhA0a3iWWwKwd3XoCFyO2Il9l9P2hlSCI32lCvjHeEX7NNQp9KtGtCNbFQFonfwZ/OPXdnJDlPxlUjgXh8a9Qs8QkDaFkjKg3pP/JXOPQ+SqlDOXsho3Er0+PeK4H3wjqTEOX1IJ/IgYNH95We6uj7Aqh+9jvZapMfY=;w40j8CLxJrhf9T8FSLTM8A=="
 ---
 

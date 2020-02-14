@@ -76,6 +76,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "MJCdhSxNtrNBTbZnEE5veWA16Y9kTAEXXNdWL8k0Qv+vc7x4fqnpmqEgHLTyWFENAXvMObidw0tfOJh7xPrsw4asCUcvQi9PZ0on1QIGKa/maiyRqHV39VfSZ9UMuom7/ECCFQQXbu7Kh12QLmIc4DJ/c57ec/qjHD2uoPZTnxLz2p5g6Y3rfHefBazhAD25hvZWqA7H7vzPsupd+XGBXnj4pVV2/ysxeGFDXnQJBEt0WdedpBsef49YDAvnUgMXt2GlIZoGpQD1Jjz/AkcBaElviAn5xlLdUDZKoLl6AjHMB22StlhSX+ilgzuC16xJ;c8O1aEBo6Bx1r+6Uy1N0Hg=="
+secured: "l78mdRRAfkMHIMJgam1yPuwa6XfS4mJdcEVBrMwrxiDSnFO8HLzl6xUbYnk4MnBmhba3cHQ1fbe9n2eGHce3U7a1Vp5Th/LgbWZ1Guuh78JI5TP/+DEfUMH6eeLbrm2lJLxOMANyyQOInhrorEN1QAPEPGZ/TeqjklnVHEyaMSnC37msSBRMbVr86EFoJHKyLFpk6bra+cdK6ipW/4ei1CUFbpy236bkyZM1UkIdevcq9aX7j8yRJ1eVcy5tZThrzd8fHoXtA6/mvc/Jg9qq2NtXYv0Yta0xw/jA6ESQNfxliYhaUw21RxCozI0PbGNx;kVTw/q5qjgRyEy7cjMv8KQ=="
 ---
 

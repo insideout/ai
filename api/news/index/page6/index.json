@@ -2,42 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-11-meet-ella-new-zealand-police-unveil-first-artificial-intelligence-officer.md",
-      "title": "Meet Ella: New Zealand Police unveil first artificial intelligence officer",
-      "excerpt": "The police have unveiled their first AI officer, with hopes she'll soon be smiling and blinking out of screens in stations all around New Zealand. Ella, the Māori artificial intelligence cop at the centre of the police's new digital services, was revealed at the police national headquarters in Wellington this morning. Ella, which stands for ...",
-      "heat": 135,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12307902",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nzherald.co.nz/resizer/E5V-a96jpTiF5t4mMHUgW5umkyU=/1200x0/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/UYPVACGFG5ANNLPOYQ6G2IUFKM.jpg",
-          "width": 1200,
-          "height": 752,
-          "title": "Meet Ella: New Zealand Police unveil first artificial intelligence officer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-microsoft-builds-the-worlds-largest-transformer-based-language-generation-model.md",
       "title": "Microsoft builds the world's largest transformer-based language generation model",
       "excerpt": "that outperforms the state of the art models available today on many downstream natural language processing (NLP) applications. To train the model, researchers at Microsoft trained their model on an NVIDIA DGX-2 system housing multiple NVIDIA V100 GPUs that were interconnected with InfiniBand. The type of training data used was similar to the ...",
@@ -2152,6 +2116,52 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
+      "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
+      "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
+      "publishedDateTime": "2020-02-12T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/fiddler_images.png?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/14/class-action-suit-against-clearvie
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 684
     title: "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M"
 
-secured: "C90NjOdie9EkunD3bu75UizKx8dsNJ8XePTV/5B0L9Zu2hOi6GhUHdOExmw5Ni/trYxJcdohFE7MO3rA3NF+hEZOc2mKCapQ2Juk9CdTdPhMikrYByphrxuNvYJgU6SI8KAOqH87a4aLfnkXS34irxlTObm8C9vFzs+geHAsnHZLI0WEBKYcU2k1OjaEibmx1xsg44zNyvL8SgPHtJreW2mTAqbi6rq6cg+hIR/4q8+nNGav6iJFLbUyBJW11xRqXhHTanhQ1Lijk4CNLkRHqLlxeqMhudqFjQOhjb3H1CC+qqrztnJd6WCt5ZrNZfxh;OKKcvyIH2gHrqfmWZuaJEQ=="
+secured: "bQGgPcLr8a6IJQdT3KN8nlD+ZT0IU19JzCEBXHBbd6ZTMhYPD8CvXAwzcpKGJlZanZHc+uj/NEaATYumiU2BCQ65rpJW96CHSAqvTb3BYnZIgeHGlMRcjjzSY5I3nv5XcTtwy1oiBS4mEH/nvasqskmLSgK+AulCd6c7bK0+tFY/ZAzIUOeB7MtM6bgLfavDLDi+WZDT2egVEtUGsoGBA/VzcpHDGEZ5SPvO+BojIF/qork4lTbBeOvELk+Cw8lM79+XUPO/44B/sY2SpWPljVynGHJv70pcHMKBb+7BlypBBR2PKM1gWuYM5Dep/kNEFQKcAXq8vjQt/Sfp7xULKukECUs5vleAnBNNLfruDQkyFJW+syYPYlqOajd76HA6BY1sanrWAK6C91s3YvBUvHgNNul2iC6PsYycKCpabxvVVSjhUmxwZZQVM2QisQz1sUEZCk/vkjaLGnwUP/MYuf9tGWbYoD8uF+L3/hGGTnk=;dJ2pZbm0tb0tgmvWQwcnEA=="
 ---
 

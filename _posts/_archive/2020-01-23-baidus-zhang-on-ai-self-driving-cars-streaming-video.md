@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T00:00:00Z
 webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ topics:
   - AI
   - AI in Autos
 
-secured: "tDjyulfZoLelhrIceVdEcUIjeMbPZsPPx1AU1eSr2Tt4UoTgMMWSq2c5OZqFhp+1Ct6up3t8uFxN1Pc0sig9+fUlfSOsxB74YYulYzCYrXUZ5QWetF9Jkn5oTBCO+5EqonIW2JP3hiVDXp3au+RbAeEVLyg5zuOv3yIg12NG1alR7X45itScG7mfVpVsj/euGQ3snMocd0qHtfyyTF5aVaH8ModLtwfrvMekkEN02oPhK7dwWOqBdh/Nk2JIdlH2kd+ILAXPy2jxy0ImUEsTWdI0bqUO68ShRBfsxvTG7AAsrzlK4+eKWvvhQQyMy7rP;KY7M1nwuvhlwE8gnG//dLQ=="
+related:
+  - title: "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars"
+    excerpt: "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)"
+    publishedDateTime: 2020-01-20T00:00:00Z
+    webUrl: "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 36
+
+secured: "U+6Rx6l2tcFfTQkr+ANP52VREI6KJ/ieagM+E9X8uPe7whSa+jtnSkdMXR0yoHAauPabkwKbTNBQvWFDLwMLHCsTgXK2f6EPWjOrfZWTfkjBihBsVKluxcVnON5a240WU6NLTFgAguw8t0+happk1Xb4cFH4v/csBB8ixGJVMh+YnEjoGssXPo3jn8ZnY7nZFyMLOTsKZJv68AaHOLToEgjSzHXEjjaoHW409jRQ87Jya/eHi10uiQ/Qo0ArIrf92NsNDD2vOKfdRrrJWAb+KrR11N1CeiRMc0+HCdHNGjQBGScV0cw0bOtlt6h5r+lR;53/xpr4UTVbbBa67altjLA=="
 ---
 

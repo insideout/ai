@@ -1,12 +1,12 @@
 ---
 category: news
 title: "New Linley Group Study Finds Edge Fueling Next Wave in AI Chip Market"
-excerpt: "Deep-learning accelerator (DLA) chips, also known as artificial intelligence (AI) processors, continue to proliferate to meet rising demand. Adoption of deep-learning applications in data centers and automotive markets has been substantial, but the past ..."
+excerpt: "Deep-learning accelerator (DLA) chips, also known as artificial intelligence (AI) processors, continue to proliferate to meet rising demand. Adoption of deep-learning applications in data centers and automotive markets has been substantial, but the past year has seen more robust growth in edge devices and embedded (IoT) systems. With new ..."
 publishedDateTime: 2020-02-11T14:21:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/11/9095863.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-new-linley-group-study-finds-edge-fueling-next-/2020/02/11/9095863.htm"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI Hardware
 
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "New Linley Group Study Finds Edge Fueling Next Wave in AI Chip Market"
-
-secured: "ceGuAHm/qkRk3YPV/3GeWVU9BErsIjq6Mur2YJJjWoDsECeMuhMgYBzOGu9aH8esK+KxQM3vhpZAKUi1Ud80tmdonmyd/x352IUfHzkVRW4hslRPsboauD6Hs2EZPCIUvDUuEAywGyxDWH7hDvYZfgKMuToBczCoGyKS+jV7Wy80Gftobh8FxtABzojEoGfPqBZJxauy6/ZCxEHbqAnRlQSoOFboAETVRgNzfdomF6ltIDtMN0v55WX9odZkGvcyA7pAxkorM04Lf54HAGwG6EGPZyoP8XdaYXHQ+Q5n8RJDPgouyG5DXfsfXvp8rKLS;4Mf4yT8D4Dm6Rx1f8BqLHQ=="
+secured: "Eejaf4nktdGT5OgONRfT/y7WHFV//PiyCTh2jOtgg+rn/EI52NufbotFD2sNGbY/dQ0HN2wEySUPUaYnQZE9aMwVLFJNwhKn+nQD5JPP7Zqmzj6p2LAFdkUx2FDBiN345qSydwRL7mNDd77WxgFkpkt4rLtowULng+hHbYKBUxv3St6ImiliX+kosyQj31WP7zKPC8nPhxUigIftIfCgN/Qk79aSfRiQKHno2O6QvoSMr+hI1IG1+08iWwV51gjMh+LNu2RGShsLSJWj8a9B9jDBp9XJ3FneFKX88ipo0jaIM7//ttvYdanOt1Fsi/Vy;r9UChsbrn91yWZKIoqS23A=="
 ---
 

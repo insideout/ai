@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-05-googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions.md",
-      "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
-      "excerpt": "Determining whether an AI system is maintaining fairness in its predictions requires an understanding of models’ short- and long-term effects, which might be informed by disparities in error metrics on a number of static data sets. In some cases, it’s necessary to consider the context in which the AI system operates in addition to the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
-      "publishedDateTime": "2020-02-05T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-how-microsoft-runs-its-40m-ai-for-health-initiative.md",
       "title": "How Microsoft runs its $40M ‘AI for Health’ initiative",
       "excerpt": "Last week, Microsoft announced the latest news in its ongoing “AI for Good” program: a $40M effort to apply data science and AI to difficult and comparatively under-studied conditions like tuberculosis, SIDS and leprosy. How does one responsibly parachute into such complex ecosystems as a tech provider, and what is the process for vetting ...",
@@ -2095,6 +2051,50 @@
           "width": 1200,
           "height": 675,
           "title": "Exclusive: Reuters Uses AI To Prototype First Ever Automated Video Reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering.md",
+      "title": "Finding The Cracks In Public Data: Keeping Our AI Safe From Tampering",
+      "excerpt": "To safely incorporate AI into the world of the future, it’s paramount that agencies pay attention to the source of their data.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering/amp/",
+      "publishedDateTime": "2020-02-06T19:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/515444720/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Finding The Cracks In Public Data: Keeping Our AI Safe From Tampering",
           "attribution": null
         }
       ],

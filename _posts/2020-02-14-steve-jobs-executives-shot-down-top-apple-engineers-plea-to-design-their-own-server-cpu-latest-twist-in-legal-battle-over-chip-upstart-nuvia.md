@@ -25,6 +25,6 @@ images:
     height: 429
     title: "Steve Jobs, executives shot down top Apple engineers' plea to design their own server CPU – latest twist in legal battle over chip upstart Nuvia"
 
-secured: "4F81B0njzEx2Ziwd4YQ7r5st5Kk5V8SdkzBoFn+p9xEw7NuZCgRXcMHc6mUGZJ1t/1QTMBK/9FQMSRpi4MOBzXjKSyCS+4eUuR9BACJ84oAlP4XS6K1w+LBit1d7WWM5IpRfOKepMzhpZz845xkYeeCCGVA+RRjkg73AuXcxXbAO1yMiEdLB13fnacu7LsKvmazAWA31tGkdIsiIMXu7z5rM9L0YZpXXTfVa/Rw7V/SNF1VGRjKPT5/UtD/pmOszFkWXKGk+wvl9YHBICAIncSKjMxss53BgUYd+khfmvFHw2J6oGIUzflo9SHZ715C+;YH02WoyFzEebov7843CF1A=="
+secured: "7BYMP02Q8sjYA65js5Y8O8RgL5j4eHk3i7ginXhg8Va9ZJY86Qvfgwyzr5z9nBCQQ9T7hrQDEhwZVhuuwNol0HTs1xbO+tHOJqanPsKIKx7zbdrie3kmVYvWWD4HdPdd8EJj7yLbHw8RFIAL8/b0N3EDBx201phr6WxkqNXBGzRn7W8tSSmoXHNEIr698RAyKMOfeFroxCEjEamc+AUSaPob7zhVwgJYDTHfgMCt/sDIVpg/2nL3a0t7xZG78DDgR0JiBocPbRQ3nilq2WOCoObOx0LovJAOoTmcnnedQ98Dw5zHrv7E5Ma9u9XFS7xqqideBdD5+ObaPOlIV8ioDss8nuLZa+U7kDBxpD9gbKTfY2iiZ13UwjeGrBnRW6xnzgIkryH7+BbmxfiYgagGwFDHyTWxDbCxPYYiimhLV4hrnH0a3cvdUVcFzhsGHxu+foTmeFSiM8iI7ErdfXOTV7V7AS4dy8C96ePC3xvhotY=;petNg3IfvHhMjZ/WT+5zXw=="
 ---
 

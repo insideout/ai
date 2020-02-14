@@ -49,24 +49,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Accounting Market 2020 Global Insights and Technology Advancement - Microsoft, AWS, Intuit, IBM, Google, Deloitte"
-    excerpt: "Global �??Artificial Intelligence In Accounting Market Report 2020-2026 provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs."
-    publishedDateTime: 2020-01-31T05:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-global-insights-and-technology-advancement---microsoft-aws-intuit-ibm-google-deloitte-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+    quality: 39
   - title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
     excerpt: "Excellence Market Research has recently published a very complete analysis of the Image Recognition market based on comprehensive secondary and primary research. The report titled \"Global Image Recognition Market 2020 Industry Research Report\" offers the most precise analysis of the Image Recognition industry for the last five years and forecast until 2025."
     publishedDateTime: 2020-01-31T08:08:00Z

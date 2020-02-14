@@ -5,8 +5,8 @@ excerpt: "“Think of Connect as the sun, and Earth, Venus and Mars are like Lex
 publishedDateTime: 2020-01-29T20:32:00Z
 webUrl: "https://www.crn.com/news/cloud/amazon-connect-helps-aws-partner-improve-annoying-customer-service-calls"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: -1
 published: false
 
 provider:
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: "https://www.crn.com/resources/0259-0e94f355479c-492ac67e6a1d-1000/amazon-connect-1.jpg"
-    width: 610
-    height: 457
-    title: "Amazon Connect Helps AWS Partner Improve Annoying Customer Service Calls"
 
 related:
   - title: "Verizon boosts customer service with NLP"
@@ -38,6 +32,6 @@ related:
         width: 1200
         height: 800
 
-secured: "1q3mCxb5BDobydxNLTaJbuC6XfZ4GkjDjJ2RYT7xXWhVKhb1FgI83+/Be0XXQwssHsSH5K4d+Dt8yfV64BZdAkjCPDwkiogmZPC/ZnjsKph2sM0h4L5TZfetlW3ikpBnYdOooINx8zh8roWWu0/3lBAYrhgxXroNxUoHHjF4fx1XT2wYuhtmRWNC7ictna2QshFUOujtfMyvtIEv66ftx/Vs/+DGuFKhrJ2WGncHA+La+pXNS7akwwoxFn6uQIr5O/6AAG10JwGMNHLqeFdKbLOLFRfj2gybSgDcjtpKiHH/YbeahgmCUAn78K3C6Z7G;SSxQ8/blVsPo2s6MfW41DA=="
+secured: "qlt0bpES9wTQ+KXwipd1rk+KM50V2rMrciieowrRFDnpGgZoUUDogLejGrjBkk7zJiGt3fPPh47JSyeCnK3Fp9VsCyxwexablTlb/j+S1ovvnh6GgZQawrP2Ormn2lH4Y5qmr6Y5YtDawVBdkZA95e4n/+CQezo31rkkRv9FMxhk/y9BtEnOMCKGROTZTBAkeDOdaw4NSGfDdHaEDDcuAQ8bnCBWFpBOWmX56hRgggYLgfEzXJsEScs5MJ87toJiLMWZbKXy9tQp5a7UtbYLXQHqwzyLcng39BupMi237Zk6LPXT1/tjvaeKY5GuKU1QXUviVvBp93yZkVsVrLC+w4vm3aWZuqO0BQW4mG6TCKo7mYBU1syUW8I0Cw79s161X6jhcKnBX/69+8+f1A3Rgd77NDja/t637ChwrnaurBwI87GYPkpEwhbopzCh22qzonBID0JFq9jnfmu2MVESq64iQ3XrNlUnR20l71sf+aU=;79JtdawZtoYB7Y68eutOvw=="
 ---
 
