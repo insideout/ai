@@ -8,8 +8,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-d
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: moneycontrol.com
@@ -26,19 +26,6 @@ images:
     title: "How AWS is delivering innovation in a box for startups"
 
 related:
-  - title: "Kashyap Kompella, CFA: Delivering Innovative and Sustainable Business Growth Through Enterprise Automation and AI"
-    excerpt: "RPA2AI also serves as an on-demand Chief AI Officer for large organizations and advises on their enterprise AI strategy, AI ethics, implementation roadmap, technology selection, and change management. The company also started working with national and regional governments and industry bodies to create AI policies that sustain business growth ..."
-    publishedDateTime: 2020-01-30T10:47:00Z
-    webUrl: "https://www.analyticsinsight.net/kashyap-kompella-cfa-delivering-innovative-sustainable-business-growth-enterprise-automation-ai/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 20
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/GlobalAI-Rectangle4.jpg"
-        width: 5000
-        height: 2500
   - title: "How Amazon is delivering innovation in a box for startups"
     excerpt: "Textract eliminated all of those cumbersome processes in one fell swoop and drastically reduced the manual intervention at Karza,” elaborates Manaktala. Karza also uses Amazon Rekognition, an image and scene identification service, to improve the efficiency of the due-diligence process. All of these pre-tuned services, says Manaktala ..."
     publishedDateTime: 2020-01-30T14:51:00Z

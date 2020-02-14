@@ -27,21 +27,6 @@ images:
     title: "PETA wants to replace Punxsutawney Phil with an animatronic AI"
 
 related:
-  - title: "Punxsutawney Phil should be replaced with AI groundhog, says PETA"
-    excerpt: "Instead, says the organization, Punxsutawney Phil should be replaced with an animatronic groundhog that uses AI to actually predict the weather. “Times change. Traditions evolve. It’s long overdue for Phil to be retired,” PETA president and founder Ingrid Newkirk, wrote in a letter to the The Punxsutawney Groundhog Club. “By creating an ..."
-    publishedDateTime: 2020-01-30T10:37:00Z
-    webUrl: "https://www.theverge.com/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/9HNbKTpxEfhl6QnFewwKN7aJ2Ug=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66218730/1092678740.jpg.0.jpg"
-        width: 1400
-        height: 933
   - title: "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot"
     excerpt: "The organization suggests \"an animatronic groundhog with artificial intelligence\" to predict the end of winter. PETA is calling for Punxsutawney Phil to be retired and replaced by a robot ahead of Groundhogs Day on Sunday. The animal rights organization wrote a letter to the Punxsutawney Groundhog Club urging the the small town in Pennsylvania ..."
     publishedDateTime: 2020-01-30T16:42:00Z
@@ -156,6 +141,15 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "PETA Wants An AI Robot to Be the Star of Groundhog Day"
+    excerpt: "What about Punxsutawney Phil, the groundhog we’ve all come to know and love?"
+    publishedDateTime: 2020-01-30T19:03:00Z
+    webUrl: "https://weather.com/news/news/2020-01-30-peta-wants-a-robot-to-be-the-star-of-groundhog-day"
+    type: article
+    provider:
+      name: The Weather Channel
+      domain: weather.com
+    quality: 34
 
 secured: "VcVH64mFOr0qczD9RH4b4GvZtkIKroJivvebJQ9S68aA9cRACZtZbxXUvGAl//N0O7zeSERN74pl4GvfwHNY7GD+GlVbcjpS+RFNkWwmigIiMYPCyJyuIR3bEfumznOK6Sp1LA/p5xdUgk9HR/Z3hkpcOGeZFsvqm5K5BtDoquVItWk9JEUs7PlS+x9UAAxMQOmDHxBLTJ3WLzRwg7K0tGJyRPMnl68viYrjg9FVhinvGLaCWNLC4CcGjVLwdil7CAqCKSIRpZcCJfqlKpwyqPfpFO2zRi+I3vLQ02cD7lT95K0w/wTYMKzRMQTzyPg9mNRec7vYlPi+m1R9XhL4Gzy+lWZMvhj2GsuQWNNTvwCHRWEJFErw/fuTTfmyvSnWOT5YWkDneHzjkE10nrWE4iknrjF5hhQsiJmIXH6Dc+7wvWWM/vdpzRbq0ZYU4d6dahjNcsPM83vUsIlMm6WecRQX/nPDnC9K+WBp1PGWM3k=;H/lXgVxFNZA2V71v7iNrJw=="
 ---

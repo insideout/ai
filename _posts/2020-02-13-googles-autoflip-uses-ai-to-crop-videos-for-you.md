@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-cr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Google’s AutoFlip uses AI to crop videos for you"
 
-secured: "UzggC77c+jNlyf6fG8UC5Uyy22cYQK1GzpZFRz9Vtkn9gPjUwR9uiquY9CaRpU9fFkmymIpa1XNzoiqcTQoEUWCCkOoasP6cBsdtIKoxNqzfMw9nj6Z4UG4dHAyXpRqLjPsltzUQ51YB4lXjBy4nhH1CSgwTMGDbf3ACyymOwd9EhaP/e9B20v/+GSf4iYtOOjAGsLAGxgyz5HkXaNIL4LIJzddGAALbRRpQ8VMpp44GmE3QK06cKQGCqh8+4+khhyx4PCYfTeckrRqr6cGM7rJgRvtk4ZilQ6uioqW9KfSdG4EGmxcluOjWF8FQSihUndzKC1VBxbu9XXvnJT2ZcUXXTqFKrre9TS3rskrWwGWtw4VoERb9xi9wsmvk+WNCdifx/2Pj9tE4TGM3XU+xK1gKqTARn5gIYZxIXkhCT2+VK7Q4Dcuiw2RHfwVR/6gY+LWXm8TaA2kszGlCNnhBFUVeAKoqJ41dFqk6+YbR7ZY=;BD4RFxY0c6Cnr0daA9XoJA=="
+secured: "+dLiV4MJU6rrqYzggTJG9OV15c7KHyx1pFP0UZcDC2bO/GYbNljrfVu8tn2ru3FYCYAyzGU1lglF5KopXr1HEZwqp+mcw7uMib0Mo6s1UN6J9+GV+WjHRa3OmIpXDaKFoLDwgaWaNwmVjIm7grHRmf8AEw/A6+wchhXgpg/8/cV2a+8Q8vR4AQfjlAzkiSCXsxzWvi49iVHGvAc3HZ9ugmUUhKZergnjCFyyKZjGwi5ZLOUrnvXcT4ZVlcQCvzzonWx0EWTZNyJD/uUnQeCR3PlS8oJDasYzy9UoRcRfxdXF38ko8c9O3rvaW6HgkKTdoz7KvGt+KTnMTWUreaB0LblSr0Rckl94M6sd7zPFDbtF9MUEZ1fF4zrxB/tQqiq8+kS9+ErfnN3Wcfz2EM4IQDWqxlOnfFnKH9OTFe11GxuYXTWOx+cR9PNxhqzELjskvHN3BwenvTIpgTV7VjdR/ooWQKucksZj4MWOKj0ooYk=;vBGv7BezujaFkH34iS1ZVw=="
 ---
 

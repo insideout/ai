@@ -8,7 +8,7 @@ ampWebUrl: "https://jezebel.com/peta-wants-a-robot-groundhog-to-predict-the-weat
 cdnAmpWebUrl: "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/peta-wants-a-robot-groundhog-to-predict-the-weather-1841352376/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 800
     height: 449
     title: "PETA Wants a Robot Groundhog to Predict the Weather"
-
-related:
-  - title: "PETA Wants An AI Robot to Be the Star of Groundhog Day"
-    excerpt: "What about Punxsutawney Phil, the groundhog we’ve all come to know and love?"
-    publishedDateTime: 2020-01-30T19:03:00Z
-    webUrl: "https://weather.com/news/news/2020-01-30-peta-wants-a-robot-to-be-the-star-of-groundhog-day"
-    type: article
-    provider:
-      name: The Weather Channel
-      domain: weather.com
-    quality: 34
 
 secured: "vGDroCS4LXSCtZWZEQI93NiCim3nJ3gQKsEbNYb6Kqq73PKw10nC+Ti+fqNmA6LmL+x2wMSFQ+UVpLcbqKWxOx4e1VVPxX6T/TMaTeJjVRSACMe23yjaIT4oxvDMDZABjU9CRse6A6glWiVmIWLxsd0sMGOYkIB8ZNkhUww6DSYeaIqQ9y1n1lNlUHZW3sj0XO2IAYd47QvU8qgepH4ykifffa8NVxgGzQdOLs9J/EgcArv9uHJhaa+XVPxvHPwBPK/JHtLWlgf93i43W3F21vm8AiLxt2h/yn+8+b66Uc5cACWXObBITO9et2Sa5Kmx;EjKmMvzZBlpNCjVqHaq0RQ=="
 ---

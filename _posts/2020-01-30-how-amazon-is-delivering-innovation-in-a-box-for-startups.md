@@ -33,19 +33,6 @@ related:
       - url: "https://static-news.moneycontrol.com/static-mcnews/2019/04/digital-payment-technology-fintech-banking-tech-online-payment-shopping-378x213.jpg"
         width: 378
         height: 213
-  - title: "Kashyap Kompella, CFA: Delivering Innovative and Sustainable Business Growth Through Enterprise Automation and AI"
-    excerpt: "RPA2AI also serves as an on-demand Chief AI Officer for large organizations and advises on their enterprise AI strategy, AI ethics, implementation roadmap, technology selection, and change management. The company also started working with national and regional governments and industry bodies to create AI policies that sustain business growth ..."
-    publishedDateTime: 2020-01-30T10:47:00Z
-    webUrl: "https://www.analyticsinsight.net/kashyap-kompella-cfa-delivering-innovative-sustainable-business-growth-enterprise-automation-ai/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 20
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/GlobalAI-Rectangle4.jpg"
-        width: 5000
-        height: 2500
 
 secured: "1zEp1rCItEc9grLhgjzhHJ/2zVOtpTyYuEKQl1Wv3PG3b1Mw8aDF0k8uRHR80k8/tVspYvZY/C0c9jl4FggRF1G1xDH5aah3GaHWojhNBMfTohzDkGHIhwaSqicjaaFIXLJA02tuBFxyeanmV8OmOg9L0lBkbtbOKcPfcIFlm/x8b6SLI/xOsxtMIqqcHFz2sGBZgRtdhMyF1aLl5Uw4HspFYa3FkwWdpaCE0DI4ZFE15atNW+AcaS4SKehKE0sE8MStomlz2gUmXRWeW/i65fzbzvU+zlT2+wn8pwpuxgwYbq+UlH9IQQ7pdnLSmSGGPy6gQk6tjGpzqTfFiQ09abASkPaWDgQVc2a4+B81rr9SW9fa06t3diq14nfu86kOwQuS6wXKBa1PC93OkScY/p22xoGVvVHPdR+NZcF1nCR0G8Q2KE4CQEUojkdIZEd6JxytLgqLqWBTfRaxJiLZaCo/IwW8sFyQf3Agf7zkLWM=;CTvKYoe3EGRnbc66cmeP0w=="
 ---

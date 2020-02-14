@@ -39,15 +39,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1147429610/960x0.jpg?fit=scale"
         width: 711
         height: 474
-  - title: "Artificial Intelligence in Healthcare"
-    excerpt: "WMR published report on Artificial Intelligence in Healthcare Market 2027: Delivering key insights and providing a competitive advantage to clients through a detailed report. Artificial Intelligence in Healthcare Industry Size, Market Share Value, Competitors Research, Industry Outlook as well Analysis covers various factors like Regional ..."
-    publishedDateTime: 2020-01-30T10:45:00Z
-    webUrl: "https://www.openpr.com/news/1914020/artificial-intelligence-in-healthcare-market-global-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "5oghcNa1ZKROOFHCxa2HxWhImeai2lrllFKBgdfpT/H2NCNTMYvED/ZHMlNRBBW9Oh6Moz6A8v7/x3EXUC1PBLo6gzSqSfUcz1+Zuf5fX35VRzfxadu1nmRP6uSUtQQs5x2M+Bi2dJ3RO+UByQvuukYQjWIT71dqT1NqQ1/B1uejsp/HA/rb/Qum7qd65Ch6QoZBqiu/FcZMCFBy0gxfT0oI9W9KShkjdR48Rs8SsSIEsYX99WN7RuA6VskMik/di/Rnsgvw3E6yuq0oKoACDJu64sefC0J/142UwmoX29JAJ4I7X8YYXxh71BG6x76c;bCUl2Ws6fE1MzxpNRvhwHQ=="
 ---
