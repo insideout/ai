@@ -25,6 +25,6 @@ images:
     height: 630
     title: "Why most self-driving car companies use these 3 models"
 
-secured: "vhb013+wz+GHdQYP94QdmbLWMkIYe8yYGcPHXfCeXOQSacf3vLCkSLdWSEgLhZ2nt69oNkvn/2+ellzbD2V2suIvLFrPgHvCKZ0CTBEWMeK6l/9xOt29WNs1u6C0mtDA7hrtAfGGB5Wm6zvyk5u1mmxFxuMYmMFGTp1wHQDUJK3ngqyvvNQ7Pqsd+MCh06QfDNmyzMFS8K5D+x/y2ZI2ifNVN5sVb/hzOCPmvzhRI6S+oOfBFh2Z+yKEKSoLZsOAjUcLks3G6IXZEjF+WdurHcU8beDbkn8ugbxMfehczylSwO9IZCE1KAwwJmDlAxui;Ey00rUtES2bKkOuB70nS7A=="
+secured: "+Yf7pxLXP4alYZWPDOEqkMTIctRO9gT8v1k1ZSaQF5sl0StPVUui/5eXlh3cky+ZxLrqDuC6zX6Td8wM84+pAWG+8KUXP1cb2oa4aQBbLnzchJ5STkYHUXq4OsBrfiEN1AosTNsziDcx0FHWLX09buAdamNih/revhPE4Q8UA5b2y+kjXdfymOJVRzLQuC2idmNcbQPmHkGQkQohYR+TBnxdwDuTeETBZVcZVwXQ7s6bmHcMMGWaRNV1pRH7a4OoLtsIuUVCh/dIR4dUYfG2xQfNGT6VjnHBoK7XaaKzJt11/rLs7m3esoiKa2Ub9G/c;A1lcQ2PcmAfPpRrFIli4VA=="
 ---
 

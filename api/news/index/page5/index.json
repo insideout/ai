@@ -2,248 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-09-why-the-race-for-ai-dominance-is-more-global-than-you-think.md",
-      "title": "Why The Race For AI Dominance Is More Global Than You Think",
-      "excerpt": "When people hear about the race for Artificial Intelligence dominance, they often think that the main competition is between the US and China. But, many countries have AI efforts, funding, technologies,",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/",
-      "publishedDateTime": "2020-02-08T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1144319087%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Why The Race For AI Dominance Is More Global Than You Think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Ethics",
-        "Microsoft AI",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-8-powerful-examples-of-ai-for-good.md",
-      "title": "8 Powerful Examples Of AI For Good",
-      "excerpt": "Many of the headlines about artificial intelligence warn of its dangers. However, artificial intelligence (AI) can be and is being used for good in many ways from improving the accessibility for people with disabilities to building our resilience to natural disasters.",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/amp/",
-      "publishedDateTime": "2020-02-09T21:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40e666a854780006b0e11d%2F0x0.jpg",
-          "width": 1200,
-          "height": 754,
-          "title": "8 Powerful Examples Of AI For Good",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-adobe-launches-experience-platform-out-of-azure-in-australia.md",
-      "title": "Adobe launches Experience Platform out of Azure in Australia",
-      "excerpt": "According to Adobe, the Microsoft Azure local data centre will enable Australia and New Zealand businesses to ... See also: Adobe's Experience Cloud now incorporates AI and machine learning (TechRepublic) Adobe has touted the new data centre as \"simplifying data governance\", by not only bringing data together from siloed applications ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "publishedDateTime": "2020-02-10T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-ai-app-helps-tailor-mental-health-treatment.md",
-      "title": "AI app helps tailor mental health treatment",
-      "excerpt": "“We don’t want doctors or patients to pay for it, this should be something that’s available to pay for at a network level.” One of the main concerns with any artificial intelligence project is what ethics are guiding it. Aifred’s ethics page says that it was determined by a jurist, ethicists, physicians, a machine learning developer ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://leaderpost.com/science/ai-app-helps-tailor-mental-health-treatment/wcm/a676da4d-b77d-42ac-8153-98dab96c5a61",
-      "ampWebUrl": "https://leaderpost.com/science/ai-app-helps-tailor-mental-health-treatment/wcm/a676da4d-b77d-42ac-8153-98dab96c5a61/amp",
-      "cdnAmpWebUrl": "https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/science/ai-app-helps-tailor-mental-health-treatment/wcm/a676da4d-b77d-42ac-8153-98dab96c5a61/amp",
-      "publishedDateTime": "2020-02-10T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leader-Post",
-        "domain": "leaderpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.healthing.ca/wp-content/uploads/2020/02/Marina-portrait-full-size1-scaled-2560.jpeg",
-          "width": 1707,
-          "height": 2560,
-          "title": "AI app helps tailor mental health treatment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-ai-in-public-service-must-be-accountable.md",
-      "title": "AI in public service must be accountable",
-      "excerpt": "A new report from the Committee for Standards in Public life looking at the risks of artificial inteligence (AI) has recommended that ethics is embedded in AI governance frameworks. According to the Artificial intelligence and public standards report, automated decision-making will revolutionise many human-centric administrative tasks in the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.computerweekly.com/news/252478163/AI-in-public-service-must-be-accountable",
-      "ampWebUrl": "https://www.computerweekly.com/news/252478163/AI-in-public-service-must-be-accountable?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478163/AI-in-public-service-must-be-accountable?amp=1",
-      "publishedDateTime": "2020-02-10T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/ai-platforms/searchEnterpriseAI_023.png",
-          "width": 1200,
-          "height": 400,
-          "title": "AI in public service must be accountable",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-ai-may-help-patients-determine-most-effective-antidepressant.md",
-      "title": "AI may help patients determine most effective antidepressant",
-      "excerpt": "Researchers input information from electrical signals in the brain into a computer program that learns as it goes. Based on brain activity, the AI technology helped predict whether or not an antidepressant will help treat a particular person's depression. So far, the new technology has only been tested on one type of antidepressant ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.upi.com/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
-      "publishedDateTime": "2020-02-10T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/1171581366434/2020/1/7986d4db507d8fe67a269e40fbed16ee/v1.5/AI-may-help-patients-determine-most-effective-antidepressant.jpg",
-          "width": 800,
-          "height": 533,
-          "title": "AI may help patients determine most effective antidepressant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-and-lecun.md",
       "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
       "excerpt": "Hinton joined his compatriots, Yann LeCun of Facebook and Yoshua Bengio of Canada's MILA institute, fellow deep learning pioneers, in an upstairs meeting room of the Hilton Hotel on the sidelines of the 34th annual conference on AI by the Association for the Advancement of Artificial Intelligence. They spoke for 45 minutes to a small group of ...",
@@ -2171,6 +1929,260 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-artificial-intelligence-for-machine-tool-maintenance.md",
+      "title": "Artificial intelligence for machine tool maintenance",
+      "excerpt": "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-02/kift-aif021120.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/223953_web.jpg",
+          "width": 720,
+          "height": 652,
+          "title": "Artificial intelligence for machine tool maintenance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-caption-health-received-de-novo-clearance-from-the-fda-for-its-ai-assisted-cardiac-ultrasound-software.md",
+      "title": "Caption Health received De Novo clearance from the FDA for its AI-assisted cardiac ultrasound software",
+      "excerpt": "Caption Health received De Novo clearance from the FDA for its AI-powered tool that guides medical professionals as they perform echocardiogram tests.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/caption-health-cardiac-ultrasound-software-receives-fda-clearance-2020-2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e42b9522dae5c3e3c424764?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Caption Health received De Novo clearance from the FDA for its AI-assisted cardiac ultrasound software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-china-tech-giants-chip-in-to-combat-coronavirus-global-events-impacted.md",
+      "title": "China tech giants chip in to combat coronavirus, global events impacted",
+      "excerpt": "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
+      "publishedDateTime": "2020-02-11T00:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/10/04/d918c155-4bf8-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/8160da71d46f35e6b7f8af8058103971/ftc-thumb.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": "China tech giants chip in to combat coronavirus, global events impacted",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-chinese-subways-are-using-artificial-intelligence-facial-recognition-scanners-to-help-detect-whether-people-have-coronavirus.md",
+      "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
+      "excerpt": "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
+      "publishedDateTime": "2020-02-11T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-computer-vision-and-robotics-expand-industrial-capabilities.md",
+      "title": "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES",
+      "excerpt": "One way to increase robotic abilities in a safe and efficient manner is to use an innovative new technology: computer vision. Computer vision technology enables a robot to use a camera or scanner to transform multidimensional inputs into data it can process, “perceiving” its surroundings and mimicking sight. Computer vision coupled with ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.roboticstomorrow.com/article/2020/02/computer-vision-and-robotics-expand-industrial-capabilities/14749",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.roboticstomorrow.com/images/articles/14749.jpg",
+          "width": 680,
+          "height": 295,
+          "title": "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-deepfakes-and-deep-media-a-new-security-battleground.md",
+      "title": "Deepfakes and deep media: A new security battleground",
+      "excerpt": "“Deepfakes [produced by] generative [systems] learn a data set of actual images in videos, to which you add new images and then generate a new video with the new images,” Ishai Rosenberg, head of the deep learning group at cybersecurity company Deep Instinct, told VentureBeat via email. “The result is that the output video has subtle ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/deepfake-media-and-detection-methods/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/deepfake-media-and-detection-methods/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/deepfake-media-and-detection-methods/amp/",
+      "publishedDateTime": "2020-02-11T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/3-Deepfake-illustration-e1580975661512.jpg?fit=1202%2C600&strip=all",
+          "width": 1202,
+          "height": 600,
+          "title": "Deepfakes and deep media: A new security battleground",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

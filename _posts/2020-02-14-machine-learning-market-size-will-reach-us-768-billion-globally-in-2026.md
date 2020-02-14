@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
-excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 6% during the forecast era and is expected to achieve a market value above US$ 7 Bn in 2026. This Acumen research report examines the 2015-2026 Global Artificial Intelligence In Construction Market."
-publishedDateTime: 2020-02-12T07:54:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-is-continues-to-grow-us-21-bn-till-2026-2020-02-12"
+title: "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026"
+excerpt: "The global Machine Learning Market will increase by a CAGR of approximately 40.1% from 2019 to 2026 and is expected to achieve a market value above US$ 76.8 Billion in 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,"
+publishedDateTime: 2020-02-14T08:13:00Z
+webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-us-768-billion-globally-in-2026-2020-02-14"
 type: article
-quality: 58
-heat: -1
-published: false
+quality: 67
+heat: 117
+published: true
 
 provider:
   name: MarketWatch
@@ -19,28 +19,15 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
-    title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
+    title: "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026"
 
 related:
-  - title: "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026"
-    excerpt: "The global Machine Learning Market will increase by a CAGR of approximately 40.1% from 2019 to 2026 and is expected to achieve a market value above US$ 76.8 Billion in 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,"
-    publishedDateTime: 2020-02-14T08:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-us-768-billion-globally-in-2026-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026"
     excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market."
     publishedDateTime: 2020-02-12T08:00:00Z
@@ -50,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
+    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 6% during the forecast era and is expected to achieve a market value above US$ 7 Bn in 2026. This Acumen research report examines the 2015-2026 Global Artificial Intelligence In Construction Market."
+    publishedDateTime: 2020-02-12T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-is-continues-to-grow-us-21-bn-till-2026-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -90,6 +90,6 @@ related:
         width: 643
         height: 337
 
-secured: "+VQuA4Dystr25q8TQSzSRTizxeD13kSEBSLz+45TQ1uqje3ZGR2B9VvuKu/aEj3hKndLd0DYpGqVHn4uIdjCTnx4nCGJ3cG0iKyhdndR9jbjby8TAOs++HcYIRcyL8PlIoQeuQIXrgzu4QK8zlOjuzE9oJVvFdKy3X1mgFJ7gRsylFYPQ69RJ/ppB+xgEuH7JTjTa5IEGSW6MR2IjQii13CA8mM0IrG9kIq/sD9+zDB9oMXuhG4whDR9HOkzUxsjGsypQRBkC+I/YsIKPiugSpn6LVWUSw8nUIR2mE5IjGw9NsjSwvSeUUW95w89tyXN;1QSLRrdXGKEyrn9FbTkoYA=="
+secured: "m+iEMEGsr5RBSet6hCV3DHbx30ONkvejOLVFS1rZxMYEoSjIkw7fiuVKbMU07JPGIzuYDyahqiATxuWtN8FNrcbDAZVF9ebc+hr5DMi5xx7iruyhDTNepXCVI2i0X/Z1JxpkytQgYcxSA9MYbEOr9PjZp1gHW+ag8QtyBBWhbrzGqXUulG58aUiGsbAGGgBiWMekKTJ0B3n7j4WpjuI9326KmK2L4OkZNaDF1tiKnnSiuOdzoW+QaELaBBEA4CeP+Cn6vp8jSV9v2U8SPlpla/CG1jzvLg19RRVaPw45oQzrWk0+fLFDgStf+T0FchOC;Pzfb8RXIO06vMqrgAUnhYA=="
 ---
 

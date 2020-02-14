@@ -23,6 +23,6 @@ images:
     height: 512
     title: "Facebook claims AI navigation milestone after models achieve 99.99% accuracy"
 
-secured: "spCJ6oeiWzHicbNSPwUC9J9wB/QxVWjtqR1IJp+5QoRqWB6YQJK2uBnYW0sUFBI87r0efSH+Byvth92uEuZTP3PT/1dSkzR6v6cspuTxAklPPDRf5DwhQWUK0dX9XCXlMeDYXSBoOwkFz9oMxOlKmgxvuUIWTz+NIPZyrLcNGxkXARx1QgyiV/dK9CFkHLX7x7duNX1xmUfkLygM9ztSeeXUo8CIteK1uwtnWVN327TSISAa+qkJCFrTqmFu6TA88JTje3qPzmKgVuQN+lYwQRHO50Cgmg8sdwS4py9uO1yt/rHKmNX0/w2aM4SFciVP;E/9xpEaeerhfR33yb6Xz8A=="
+secured: "E/gGZ3JOQ+xRR0QK7lIGgj3y+oWgc6FBvT2j00rivmfyys/uqsRJWZ9aGo/2HtjNf/7xF4cqlZvyYljLD3ICSYAv6RxBS4tb3r+RyQfiG9qfOZF8Tvc0VzPE8xojc0FJ5Mt5Puvgzo4yItAyiSk1kI3lLqFzr2q7lsHX2rtohzr85ebkGzHaATdYqWsr33Od9pJSPsUWr/h5Q1HBmXg2lMZC8o2KFGkoS+Xrj9OybwAvEcYuMqarNN9ZA5yHBsLY1jVvIuIsu34ObYTXJq5p6ab6ZodJGjduTovzSVj9vSBmIVnkTWqzuHDMJ86A5Ccy;Sw29wvYjMANV/+NbpPkUPg=="
 ---
 

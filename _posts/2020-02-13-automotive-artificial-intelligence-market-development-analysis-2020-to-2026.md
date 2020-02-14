@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-13T11:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-development-analysis-2020-to-2026-2020-02-13"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -21,41 +21,24 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026"
-    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market."
-    publishedDateTime: 2020-02-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12"
+  - title: "AI in the Auto Market to Eclipse $12B by 2026"
+    excerpt: "In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip that features 8 million neural networks and can reach up to 10,000X faster computing speeds compared to traditional CPUs. Furthermore, the increased use of sensors, including high-resolution cameras, LiDARs, and ultrasonic sensors for vehicle situational awareness, is fueling the ..."
+    publishedDateTime: 2020-02-10T16:24:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21122595/ai-in-the-auto-market-to-eclipse-12b-by-2026"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 19
+  - title: "Trending News For Automotive Voice Recognition Market 2020 Analysis, Forecast Of Business Revenue, Size, Leading Competitors And Growth Trends"
+    excerpt: "Automotive Voice Recognition Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-11T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-automotive-voice-recognition-market-2020-analysis-forecast-of-business-revenue-size-leading-competitors-and-growth-trends-2020-02-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
-    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 6% during the forecast era and is expected to achieve a market value above US$ 7 Bn in 2026. This Acumen research report examines the 2015-2026 Global Artificial Intelligence In Construction Market."
-    publishedDateTime: 2020-02-12T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-is-continues-to-grow-us-21-bn-till-2026-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
-    excerpt: "LOS ANGELES, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The global machine learning market is anticipated to grow at a CAGR of around 40.1% over the forecast period 2019 to 2026 and reach the market value of around US$ 76."
-    publishedDateTime: 2020-02-05T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-around-us-768-bn-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+    quality: 0
 
 secured: "aItPkrHAFGd9HvtT29C0LvGyXSOcdBuoOaY3ujVFTx8sRSFl6d0kkpxEo3tuz22zH8XHKMFGUncSpwz+wfeL1njm5rPSzUQzmEd3pZCkqBS5LCxqn5aknN0yX4dPJxbxRSnqJSQSHYwy0aivE/TIKt75UAoCeIPQSO7jlClRgsEOJhRB/E/8RR8l4/KtKdMjh44BjXk4Y/04qkNXnvPQur4Wg26b+CRNW+5Cw9ae5byqgS2bdpISJZE1nIEwx163ht94IPAse9nZkDIdbPH4365FerdHzmyEMvuyuTQpP6okwHEImpiR2Ch36tAg9dQ3;YqrtoW1wUuT0gpQS/O1+cA=="
 ---

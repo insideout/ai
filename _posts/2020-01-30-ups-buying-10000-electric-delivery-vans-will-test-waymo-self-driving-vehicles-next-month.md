@@ -8,7 +8,7 @@ ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
 cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
 type: article
 quality: 79
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -73,21 +73,6 @@ related:
       - url: "https://media.consumeraffairs.com/files/cache/news/Waymo_self-driving_vehicle_front_view_Andrei_Stanescu_Getty_Images_large.jpg"
         width: 700
         height: 467
-  - title: "Today's Pickup: UPS Partners With Self-Driving Startup Waymo To Deliver Parcels"
-    excerpt: "Good day, Autonomous driving startup Waymo has struck a partnership with UPS to commence parcel delivery on its self-driving Chrysler Pacifica minivans across the Phoenix"
-    publishedDateTime: 2020-01-30T15:53:00Z
-    webUrl: "https://www.benzinga.com/news/20/01/15218297/todays-pickup-ups-partners-with-self-driving-startup-waymo-to-deliver-parcels"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15218297"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15218297"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/tyre-1714669_1920_62.jpg"
-        width: 1920
-        height: 1078
   - title: "UPS and Waymo partner on self-driving parcel pickup"
     excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
     publishedDateTime: 2020-01-30T17:34:00Z

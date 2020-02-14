@@ -41,6 +41,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "puY3szsCR94YNdb+YjC9w9pcMU66w4m4vlX3XSwoV47r+cef4YBzicakF62xw+nnPyioENcztEc+XiIdjl6liG4XTlptaryRKimE5g+FcaJicsVaovTU8+jlm6dTqe6E0xRvu/vvY8IH488lTWOh14x0qgVukLsQuHsENbZAOoZYb1RtTT82kz5Wty5KncQCqq9OAbOnYnskT2Iexy9krq8QNcF5BNhh2nImccKvOYp1iDS7JQDG6Ca7rFExz4FpJ0kTOqi+V4S3QMsDQfOEu2kelKlSDr7frHEqh2McDpLoRe1RzEzbHG/v/FbZ3IYr;oP8B/iiHTMCewH1Gk2uw+g=="
+secured: "GmKVpBC6xtKbwx5NezePi3n8JyUejVS1vCmLfVb3bKzPhctzs//U5OVlHgrMx5QvVOIqfox+Spx0WZw1pVuQwxtwAEcUSpyl8Trd8i1dskarWY7c2/Gdj3ts90Cu9SSNHxEro9B53tsdEO8guba8iGgTG0C6qnggx/EyEzhKtlgYwJco/KvgBpRorPmy6rkbQIDYpwfBjD/XPfl/OlNbarQ2xYQkfbZpAZ2v1V1tTIFhjwP4Kkl98LO8H4luFrz5U1pDDJ9eqJnEiqZkeTPu55QEmE/yeeA6k5faHe3TZfvuM69V9YgdVvlkAQ7w0u86;bsQrrQyTcNwVDEhCgKJXVg=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -20,20 +20,22 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI could kickstart early radiation therapy for cancer patients"
-    excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
-    publishedDateTime: 2020-01-28T13:01:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
+  - title: "AI can help cancer patients start radiation therapy sooner"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
+    publishedDateTime: 2020-01-27T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
+      name: News Medical
+      domain: news-medical.net
+    quality: 74
     images:
-      - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
-        width: 1200
-        height: 450
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
 
-secured: "75he6DUTjRSUkLDP+ngWHaRZpvZ2ooOoMV6osrd2YAFZjFAEsmYFrqHgnOl7+HuYvNVocL1hf4yMHOpxBG68cYZbRkyomszgo8jGg4T51BITV9gewCJLdHSrnFDEQVys6PgOMc/LMJFDnEiJXFt7ozlt+2CeQTB0MojKAJZMXc0oHu67vk2I0yZrU7MujWF4MyytK17qpmWkC4IRIP7D9eu7dQh4ycYzmhXQBdVSj8bbe6ng6QzbnNaT3Tis7VBwe4P7OXZG1seyq5triwIGkfP0HE5bMH+5Hp3kO9VSOe7fgoz05WeQ+5oeEyVu3ujo;HFsU2303TuC895EBoByLTg=="
+secured: "FfqPE1cmuj1o+NlVLs1ru2S5R0Zu1Bha++SDWWJsFphSBrXp2ACjB2GpHISF8bttxme+d99SRnrKa0s01/jQyvh5YSmW2gAAEZyOA8u6ISOmylfTf+9sZPuKr/YdcFWFT2FsJWqJvFAttNE+bdhIDeKWcUoVDcSQ+oEMcXuR5btRdpEB32hfCwm0mNxJDftj2o18MxyTEnA+gKCaqaG6J8mHTHLtRBSRm4rg4sZiqeSJV8Ns2Gz113Ey2VgEp+eMT4KZDAw/UyiDbzbL1Am5BA7KYslA3hLCcXnQdh61F3A3WqUUhc4sLiEQvbN4iVcy;SqvDmh49vwXJPg35vsFsXw=="
 ---
 

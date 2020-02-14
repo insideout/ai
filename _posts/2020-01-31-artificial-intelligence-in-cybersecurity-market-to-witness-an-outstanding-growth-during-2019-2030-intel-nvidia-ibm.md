@@ -24,15 +24,6 @@ images:
     title: "Artificial Intelligence in Cybersecurity Market to Witness an Outstanding Growth during 2019-2030 | Intel, NVIDIA, IBM,"
 
 related:
-  - title: "Deep Learning Software Market Will Reflect Significant Growth Prospects during 2019 to 2026"
-    excerpt: "Ameco Research announced the latest market research report on \"Global Deep Learning Software Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Deep Learning Software Market,"
-    publishedDateTime: 2020-02-05T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-will-reflect-significant-growth-prospects-during-2019-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Robotics Market size Witness Growth Acceleration During 2025"
     excerpt: "Venture capitalists have opened up to funding companies designing and manufacturing industrial robots. Advancements in artificial intelligence and development of sophisticated sensors are projected to augment the development of self-programming robots. Make an Inquiry before Buying: https://www.trendsmarketresearch.com/checkout/3132/Single In ..."
     publishedDateTime: 2020-02-05T08:23:00Z
@@ -42,37 +33,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Neural Network Software Markets, 2025"
-    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"Neural Network Software Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Neural Network Software Market was valued at USD 8."
-    publishedDateTime: 2020-01-31T11:16:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1978041/0/en/Neural-Network-Software-Markets-2025.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 19
-  - title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application, Geographical Outlook - Global Industry Analysis and Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's ..."
-    publishedDateTime: 2020-02-05T09:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005339/en/Global-Artificial-Intelligence-Agriculture-Market-Expected-Grow"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-    images:
-      - url: "https://mms.businesswire.com/media/20200205005339/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
-    publishedDateTime: 2020-02-05T12:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "5Ws/eqSQgBBw+QcJV6PmxcVZDrqe+ogLuoVdDQueiaWM718Ea+iqzRO3VrzN2zbvVEEjhnJRASpJxR9ERwUY77zjk50lYdUyJC4pM76OZ7A5JgkPt8c1EqhAUl2TI64eZ+ssDPyFNfn41vPm6jUj80KTsByiwEcrtvQTXFKQdyoGNvO0WrMo+VfyBfHZRJRImANP9M+7AQsnBZ9ipmjDpoJkfr+gQ2LfoD+zKltekVlFNMZmc1B9NvATiSrwOpFxj9xJFZY6Bb+wJi55pVxymgsqR0b60MrtreRCQut4PMsppr2sQH7Bd2EPm/1EMEAs;FRf9iOVTpZpjeZjYMNY/9w=="
 ---

@@ -82,21 +82,6 @@ related:
       - url: "https://media.consumeraffairs.com/files/cache/news/Waymo_self-driving_vehicle_front_view_Andrei_Stanescu_Getty_Images_large.jpg"
         width: 700
         height: 467
-  - title: "Today's Pickup: UPS Partners With Self-Driving Startup Waymo To Deliver Parcels"
-    excerpt: "Good day, Autonomous driving startup Waymo has struck a partnership with UPS to commence parcel delivery on its self-driving Chrysler Pacifica minivans across the Phoenix"
-    publishedDateTime: 2020-01-30T15:53:00Z
-    webUrl: "https://www.benzinga.com/news/20/01/15218297/todays-pickup-ups-partners-with-self-driving-startup-waymo-to-deliver-parcels"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15218297"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15218297"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/tyre-1714669_1920_62.jpg"
-        width: 1920
-        height: 1078
   - title: "UPS, Waymo partner to start self-driving package pickup"
     excerpt: "In the Arizona pilot, the vehicle will drive autonomously with a Waymo-trained driver on board to monitor operations. UPS invests in technologies that bolster its tightly integrated smart global logistics network. Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone ..."
     publishedDateTime: 2020-02-06T03:22:00Z

@@ -40,6 +40,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "kZSKVE1k/qmpTlLZYRI+YEeW9p3jqdkNQzNfwqM1IWeQ70Y5xYNieAPmFts2lXbK1Lc7mBBlBp6DVjklOeQzeAiFaWXe8YiiNGEDUwTjkDzbawaOP/dtBSc+OssSXR/FK9Zr/hFFGeIxdbEAbrcJWUCUnNcy7TeSsZGkENQD6z7MoAluih3Jwq/L0x63QR2yHvsE956NeMA6xHJ0rVax9qWIjQcTjUr/oauEwtcAJja/wPz5HgAg19sQbIL6HfpGqzawQ3oUwzvm9y7W/oa5Ir1YnF1xxUUz6yJj4BIdcamtcs/a9qtjRfx0qIGKSklQ;Gkmr1CDDh8nLe7DN+cGrfw=="
+secured: "ZAphW9hSfE/hDjjmKDvbhPMJHImkyeCrRUW/rE2RCtLJumO52hkDIhnm8v+mza1HUt8G0T1sDV8ldWqtkLR9fWvgXNeeXcd2VCG1xcoG77z555eD76H5by5RMB+BqOTkbJF6uraMtQeSadGqrUtU9NJLONLLjW1MjW0hkIvFgZR5yiIzBx6ZODxoXZLWo/COWgrnePcGKbKldnwwiR3PP15UilSyFKR1UrVh/t2r57cs53GpEqtyl+1ITR1tZfRm8Gctulve1Ygi8CuZkTy7K+0IzjYrUK7nPLDzgm/mO/skn+t+1sBiu6KqnfBlVCzm;RGIGcZfPqpdSuycrFAFt6w=="
 ---
 

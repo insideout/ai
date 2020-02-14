@@ -91,17 +91,6 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
-  - title: "Facebook pays $550M to settle facial recognition privacy lawsuit"
-    excerpt: "The settlement came after Facebook was sued for collecting facial recognition data to use in tagging photos, which allegedly violated the Illinois Biometric Information Privacy Act. Illinois is the only state to have biometric privacy laws that allow people to sue for damages if their rights are violated."
-    publishedDateTime: 2020-01-30T15:58:00Z
-    webUrl: "https://www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/"
-    ampWebUrl: "https://www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/?amp=1"
-    cdnAmpWebUrl: "https://www-christianforums-com.cdn.ampproject.org/c/s/www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/?amp=1"
-    type: article
-    provider:
-      name: Christian Forums
-      domain: christianforums.com
-    quality: 39
   - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
     excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
     publishedDateTime: 2020-02-04T11:29:00Z

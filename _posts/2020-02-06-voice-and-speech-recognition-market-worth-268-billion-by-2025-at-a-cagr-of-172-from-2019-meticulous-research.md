@@ -86,19 +86,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
-    excerpt: "/PRNewswire/ -- Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards"
-    publishedDateTime: 2020-02-11T08:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/installed-base-of-machine-vision-systems-in-industrial-manufacturing-to-reach-near-100-million-by-2025-301002034.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/276887/abi_research_logo.jpg?p=facebook"
-        width: 643
-        height: 337
 
 secured: "d1Bjg/f5aUQPOrZi3Ws1xMzR7ODY7RjhP9yl511lGF3vuiK2Hx2WDVQUdoXPWvGXyHvxiFN/qIZrHX48oD7W43t+rjHuEmpsbf9nM66j9O/1jzXj3IZvk9Yc5jqAbqu7yPNSl2fUDV3gBaTQUXAi/JEIjiU53sz9uAIi2PwV1UHLHOOS7RXIpz7pBaUxaZJgsczUZrwUFljeauoNCFrNWIguFG5SOMb73K9dX7lu3q4t0OgylYqL0yzvL6UlQovqb6rtrxec6s/XzMyWs4lfRxJOpRgrb3OzwUjnIbUilJojdAbjIFyGemxHKDd4HxFC;zdITyNq2F6y7pz75VW2ubg=="
 ---
