@@ -37,6 +37,19 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "What to expect from Cerner's partnership with Amazon this year + 3 other questions"
+    excerpt: "\"Leveraging the powerful combination of Cerner technology, the AWS infrastructure, their artificial intelligence and machine learning capabilities, we expect to create next-generation user experiences and innovations to deliver more predictive patient-centered care,\" said Mr. Shafer. Cerner is now moving almost all of its non-federal ..."
+    publishedDateTime: 2020-02-05T22:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/what-to-expect-from-cerner-s-partnership-with-amazon-this-year-3-other-questions.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 18
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/6.jpg"
+        width: 400
+        height: 300
 
 secured: "LsqyKsbjzQ10OtuUIJnERDw/Oz4X9Eo4Gw7/wunkAs79ZDth4HBnVm8M5PBK/n3WpcnCqz0wDtoREbJ8cvQUhC/y4UZAV6tam/sV++BZuuDs30ebFOQNm784ByVl6dIVPu1S0xoFFZL5QFbXkUBtcdDsQRg2srqGlaE20OkgOi2Q8KBSlL7w396xd76dU2ezQTPzPcJ9p0kxdYhdPBmrEi0zfwtk7FsHyhsaPuClM0OY/c9GiNoKbYMRCdtUzg4BcTaa0iIt4UYaNaoecsREpx4MobqCQBUTUv56IliEORSjAMqlSxOe8vND7o2U1aif3o6RltrwH3OQbBbJ1GnMtMvSymAt6sSEY5+twgCa5fN+cPPWBIfuCdyzHoE02AcDXFn4BVHL7WlHpRWfxSJ0PHVYPJ37ZK65d9MGdritecAXtIFNjlaHLcwg1UTCXFspeO12E7/ggP6UYyYbkLxZv2dQzi2YVdAzi7x+woo3vAU=;Dj5pozbAs6Xi3xYZTpF9mQ=="
 ---

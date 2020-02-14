@@ -57,7 +57,7 @@ related:
         width: 1400
         height: 933
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
     publishedDateTime: 2020-01-27T09:55:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -288,21 +288,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "Facebook will pay $550 million in facial recognition lawsuit settlement"
-    excerpt: "Facebook has agreed to pay $550 million as part of a settlement stemming from a facial recognition class-action lawsuit brought up in Illinois. The social media giant was sued by Illinois residents, alleging that it broke the Illinois Biometric Information Privacy Act with its use of facial recognition technology to suggest people to be tagged ..."
-    publishedDateTime: 2020-01-30T13:49:00Z
-    webUrl: "https://www.dailydot.com/layer8/facebook-facial-recognition-settlement/"
-    ampWebUrl: "https://www.dailydot.com/layer8/facebook-facial-recognition-settlement/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facebook-facial-recognition-settlement/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facebook-Facial-Recognition-Lawsuit-Settlement-1024x512.jpg"
-        width: 1024
-        height: 512
   - title: "Volusia County Sheriff's Office now using facial recognition software"
     excerpt: "WESH 2 News looked into controversial technology that could help catch criminals: facial recognition software is being used in Volusia County. WESH 2 News got answers on how it works and why Orlando police decided against using facial recognition permanently."
     publishedDateTime: 2020-02-01T03:30:00Z
@@ -683,19 +668,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
         width: 636
         height: 382
-  - title: "PopCom’s Interactive Retail Kiosk Incorporates Facial Recognition, Data Collection"
-    excerpt: "PopShop is designed to allow e-commerce retailers to have a physical self-serve presence in the form of an interactive kiosk that uses facial recognition. The kiosk’s management software collects customer demographic information at the point of sale, along with monitoring inventory, capturing sales data and generating insights for lead ..."
-    publishedDateTime: 2020-01-30T13:48:00Z
-    webUrl: "https://www.dealerscope.com/article/popcoms-interactive-retail-kiosk-incorporates-facial-recognition-data-collection/"
-    type: article
-    provider:
-      name: Dealerscope
-      domain: dealerscope.com
-    quality: 48
-    images:
-      - url: "https://www.dealerscope.com/thumb/?src=/wp-content/uploads/sites/5/2020/01/PopCom-MachinePhoto-3.jpg&w=750"
-        width: 750
-        height: 894
   - title: "“Coded Bias”: New Film Looks at Fight Against Racial Bias in Facial Recognition & AI Technology"
     excerpt: "So, this can be around perceiving the world, so computer vision, giving computers eyes. It can be voice recognition. It can also be about communication. So, think about chatbots, right? Or think about talking to Siri or Alexa. And then, another component to artificial intelligence is about discernment or making judgments. And this can become ..."
     publishedDateTime: 2020-01-31T13:15:00Z
@@ -1075,15 +1047,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
         width: 770
         height: 400
-  - title: "Facebook settles facial recognition dispute"
-    excerpt: "Facebook has settled a long-running legal dispute about the way it scans and tags people's photos. It will pay $550m (£421m) to a group of users in Illinois, who argued that its facial recognition tool was in violation of the state's privacy laws. The case has been ongoing since 2015, and the settlement was announced in its quarterly earnings."
-    publishedDateTime: 2020-01-30T13:22:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51309186"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 19
   - title: "Facebook Settles $550 Million Facial Recognition Lawsuit"
     excerpt: "100% of the fees we collect are used to support our nonprofit mission. Learn more. Facebook has agreed to pay $550 million to settle a class-action lawsuit that alleged the company’s use of facial recognition technology violated the Illinois Biometric Information Privacy Act. The case marks one of the largest cash settlements ever reached in ..."
     publishedDateTime: 2020-01-31T00:05:00Z

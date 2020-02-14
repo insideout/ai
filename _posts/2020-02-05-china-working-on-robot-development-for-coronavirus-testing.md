@@ -78,15 +78,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/01/30/17/24093280-0-image-a-92_1580406667591.jpg"
         width: 636
         height: 382
-  - title: "Combating the coronavirus with Twitter, data mining, and machine learning"
-    excerpt: "The coronavirus illness (nCoV) is now an international public health emergency, bigger than the SARS outbreak of 2003. Unlike SARS, this time around scientists have better genome sequencing, machine learning, and predictive analysis tools to understand and monitor the outbreak. During the SARS outbreak, it took five months for scientists to ..."
-    publishedDateTime: 2020-01-30T13:58:00Z
-    webUrl: "https://www.techrepublic.com/article/how-twitter-data-mining-and-machine-learning-can-combat-the-coronavirus/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 48
   - title: "AI used in the battle against the novel coronavirus outbreak"
     excerpt: "SenseTime, a Chinese AI pioneer, for instance, is using its super computing power resources to assist professors with research on the novel coronavirus. After receiving a request for more super computing resources, SenseTime has allocated 20 GPU server nodes for free to help Luo Haibin, a professor at the school of pharmaceutical sciences of ..."
     publishedDateTime: 2020-02-07T18:39:00Z

@@ -56,21 +56,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg"
         width: 620
         height: 250
-  - title: "Two major security flaws detected in Microsoft Azure Cloud, reveals report"
-    excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
-    publishedDateTime: 2020-01-30T13:45:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report-11580389929853.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report/amp-11580389929853.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report/amp-11580389929853.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 72
-    images:
-      - url: "https://images.livemint.com/img/2020/01/30/600x338/micro-kDJG--621x414@LiveMint_1580391521648.JPG"
-        width: 600
-        height: 337
   - title: "Microsoft's Azure Strategy Pays Off"
     excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
     publishedDateTime: 2020-02-02T17:39:00Z

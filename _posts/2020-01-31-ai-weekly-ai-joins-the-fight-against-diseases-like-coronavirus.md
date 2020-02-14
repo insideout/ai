@@ -72,15 +72,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/01/30/17/24093280-0-image-a-92_1580406667591.jpg"
         width: 636
         height: 382
-  - title: "Combating the coronavirus with Twitter, data mining, and machine learning"
-    excerpt: "The coronavirus illness (nCoV) is now an international public health emergency, bigger than the SARS outbreak of 2003. Unlike SARS, this time around scientists have better genome sequencing, machine learning, and predictive analysis tools to understand and monitor the outbreak. During the SARS outbreak, it took five months for scientists to ..."
-    publishedDateTime: 2020-01-30T13:58:00Z
-    webUrl: "https://www.techrepublic.com/article/how-twitter-data-mining-and-machine-learning-can-combat-the-coronavirus/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 48
   - title: "China working on robot development for coronavirus testing"
     excerpt: "according to Siasun Robot and Automation Co.Ltd. Based in Shenyang, capital of northeast China’s Liaoning Province, Siasun was founded in 2000 and listed on the Growth Enterprise Market in 2009. China has also called on the country’s artificial intelligence (AI) sector to lend their technological hands to help battle the epidemic."
     publishedDateTime: 2020-02-05T17:47:00Z
