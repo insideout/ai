@@ -136,15 +136,6 @@ related:
       - url: "https://peopledotcom.files.wordpress.com/2019/02/groundhog-c.jpg?crop=0px%2C0px%2C2000px%2C1050px&resize=1200%2C630"
         width: 1200
         height: 630
-  - title: "PETA Wants Punxsutawney Phil Replaced With AI Groundhog"
-    excerpt: "John Griffiths and Groundhog Phil (Photo by Christina Horsten/picture alliance via Getty Images) Animal rights organization PETA (People for the Ethical Treatment of Animals) wants the famed groundhog Punxsutawney Phil, who is used each year to predict the ..."
-    publishedDateTime: 2020-01-30T15:04:00Z
-    webUrl: "https://www.pcmag.com/news/peta-wants-punxsutawney-phil-replaced-with-ai-groundhog"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "dPRmT75CMTtGvZciyzEMeOTBnVBhsytUQM8wScF6O1THzf1H4WiyCrnpSTwqoNqDd0CDJvyikhWXIqONPi+hXfOgXKje3YAZlrVmFoax9zHEpEiYbbqnxhrqVT7NDRNRZ3LW1PMxX4OsZAX2VA8N8fKhnaij5WV170tfX7naUS7ceIXH7yyvxOKEjLDwcSrxgl7Py6z7Er7z3pJTcQRNRai6iTzSwz42f6MqvL7JxTVQ4M4vVuDJyOGFExFTMhdgtmwvxP5jE8Haz6M13ucjTwyfiSIyzfgmUrvqAZuUOfxpQuN9qtBaffWSIlBBWrCiQ+/cuByFQuRv+xDxOs57pE5HjGwyhIWQDr/2fZlD8eLb/HJskpCAm8ZcUoYWDgZVSN50nmFFoVt0A8jp9omr6vQ1TlkasdRKvXFxNLJNlKl3eU7M31HWSOhqjZsXFLjrFmw+pj94W4QAFVuEXRDv44aq5xJAVG06VE3LCJRFIQ4=;xNk3RjuVO4rqagDKzgasYw=="
 ---

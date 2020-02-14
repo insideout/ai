@@ -29,6 +29,6 @@ images:
     height: 450
     title: "AWS: Your complete guide to Amazon Web Services & features"
 
-secured: "/I1bBjqkj7ZkZciCOKRFPN7x8o6XroqJfgmojCb2NHmgJzZqxHCDgCu4eajT29cmeN68+OKz3BJmFN/szWdgxU/yZThfh5gHXtLl9TsZGMXdG9ZjoMd28ZStEAVFTW1a3giuzFxxPNEVt/CbHE6zBTDM9XUFgZ7gSioE10RJqpGlL59KiQAcvEg4wPGCQKiwM4EtNN3l8KR0c3Sd7LlJqgYleYQzjl7mmT9ZjXM7XFh/wN32vTfLO1qlb+BwEFY/c6oGM/GGYYPJJMnfqJQxUxlDpCgFKYWTpCr8K296JyuDIB6huYtCzPd3xRIYb4yT;2QS8YOI1EQL2EOrwTG6bww=="
+secured: "SQah7OZEn2yuLBdHhaaSQ1U4omyIliUPE2/OKPd83IE9vr4KewLX061rE4JOBrVkdhAP1Co+Pqrvjr9x6Q/mBig75HQCt3lnq0afp4VvYSi0QQ/bwJX6rHK4qrT/oTTbejyFREuLah0nkyxFBw75ZSs5ET/90nlo54egfz1z86mleL+PlziEfS9B0FvwGxyQ/Zna8amoRqYu7y2QfeSV5KX33UJIIdXj3aF/A7w/6MBpwovrnPhhyFMbBtJvqW6jDjUdCe9abmw1fXE9HUgWpZxK8nDPuj/9E9sTEKpYO/DBgr+EjxkifrdrhqfdC8wn;/2/ERHR1+fzHfW5s78upXQ=="
 ---
 

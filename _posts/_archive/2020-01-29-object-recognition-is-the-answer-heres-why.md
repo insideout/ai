@@ -40,6 +40,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "/W3ubyXQfiCBuaDh4J+x/TFQVbRBQmekAGzpwijo1RwdogGF9oHYlchRpsB2vlepKhF5pdDxgg/Nc7zgZbjh2E5xPLeNOC3MwQqhsHWftWZ4tx+fhOb98uR/61ZoSk4ejG5Xc/Vmi/Wz6tvOnOI/RxRlg210xrR52YFNF6fBtOWiNgcPE6YuEKc2W8Z0WHaNoJOwlz9pDmVmOt5TRtDMZa5uL+a5V2faDZ42oZRtSRslM7LzNIT5ZQJoI4XFR43RTuehHZU0puO4MuSy3b16S8fljklzScgJDIAZ+y5ygTZlw/Sv7HNdQxEdoq3y2YKN;QjqwFSlTnq1jkGLdkwE6gg=="
+secured: "kZSKVE1k/qmpTlLZYRI+YEeW9p3jqdkNQzNfwqM1IWeQ70Y5xYNieAPmFts2lXbK1Lc7mBBlBp6DVjklOeQzeAiFaWXe8YiiNGEDUwTjkDzbawaOP/dtBSc+OssSXR/FK9Zr/hFFGeIxdbEAbrcJWUCUnNcy7TeSsZGkENQD6z7MoAluih3Jwq/L0x63QR2yHvsE956NeMA6xHJ0rVax9qWIjQcTjUr/oauEwtcAJja/wPz5HgAg19sQbIL6HfpGqzawQ3oUwzvm9y7W/oa5Ir1YnF1xxUUz6yJj4BIdcamtcs/a9qtjRfx0qIGKSklQ;Gkmr1CDDh8nLe7DN+cGrfw=="
 ---
 

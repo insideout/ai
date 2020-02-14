@@ -128,15 +128,6 @@ related:
       name: Snopes.com
       domain: snopes.com
     quality: 19
-  - title: "Waymo self-driving minivans to deliver UPS packages during pilot in Phoenix"
-    excerpt: "Waymo's self-driving Chrysler Pacifica minivans will shuttle packages from UPS Stores in the Metro Phoenix area to the UPS Tempe hub as part of a pilot that will explore customer and operational benefits and illustrate the ways in which the Waymo Driver can deliver on behalf of clients safely, efficiently, and, eventually, at scale. The pilot ..."
-    publishedDateTime: 2020-01-30T14:55:00Z
-    webUrl: "https://www.telecompaper.com/news/waymo-to-deliver-ups-packages-during-pilot--1324639"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "+hQ9YV6rxNeRumjifqKzC+XqZlhCbWSOq+XsOxQo/ys5l1y2ocdFUOa25Bw3b9ZC8/xZVgt/RKDJxrR3hYelD7Hhw5gQfjpm20HrbsAmkNbrCll9ge0RuHF/T7783Hwebc1Wqk5MNiqsLqkfFU/hKzDQ8i3hQFJNTjlFYS2oa31lkGUA29lBP24UdTb5IInbiCTjJVTlHn/nVQtD3rfG+k4PZzsp5p7mBbe4ueeQPtmdiajdfVoLWf/Gz0w+OXMng2o0pNLZ/h+tco0pYQ1p/hl0RcU2pawxMO+r0qSupyN36yNJmS5Ox/hzm9u63mEa;om4bBBZjYa45lHTLsDgoEg=="
 ---

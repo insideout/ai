@@ -26,6 +26,19 @@ images:
     title: "An engineering student is helping envision a self-driving future for people with disabilities"
 
 related:
+  - title: "The Future of Sensors for Self-Driving Cars: All Roads, All Conditions"
+    excerpt: "But as ADAS and eventually self-driving systems become more advanced, it will be essential for vehicle cameras to perform well in all situations. Camera benchmarking firm DXOMARK has done a lot of work in accurately characterizing camera image quality challenges that are unique to automotive, which its VP of marketing Nicolas Touchard shared ..."
+    publishedDateTime: 2020-02-04T14:14:00Z
+    webUrl: "https://www.extremetech.com/computing/305691-the-future-of-sensors-for-self-driving-cars-all-roads-all-conditions"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/02/GettyImages-1148108337.jpg"
+        width: 1344
+        height: 756
   - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
     excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
     publishedDateTime: 2020-02-03T13:55:00Z

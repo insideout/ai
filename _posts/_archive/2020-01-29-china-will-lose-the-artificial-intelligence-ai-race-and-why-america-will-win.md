@@ -23,6 +23,6 @@ images:
     height: 870
     title: "China Will Lose the Artificial Intelligence (AI) Race (And Why America Will Win)"
 
-secured: "m9WReqe1KkXDjs2L4UhPy5okvREDoD59ROffKyqxJPjUHx+mtEtI2ZK8URzX/tYRW/0HuXNIOzwqOeO6k1MiOSADfTfTV3ndaHlCadohMjZIMl28fD8JH16/zcoZv1cYpl5KQVv5Egwi6H2xd6xzNhPG0niDFRZpQ30HzClmm0jUS/KwzGOWVxutrr6WMoa92QFJzFUnzG7vYuSyo/tae83kWUNcSbHS6J6AVcE5P/sRLxjuIe/nFEZEkSNSfN3KDIor8emDnWfwWz/NkwA8bDxMHJurScOQ7BpzDDOQh0XCxTDiuwtbCBD+7tWfqTlX;NOVgCOQ+lM2iLfk+ViqdRA=="
+secured: "ZyoMh1IpnKWfz4MRstf5WevmGCmlJyueL9H5SsE+7xqBC/MV3oEkKMRjHI+P4qnrptOcC0QlUxE3PvsP/FhZBYBKZY33WIs/tJl9VXOQgipLlt1DSpRylTJZ0Vp1uw0iFzV37hvK0Qtzp/gz5h7m06iRZ0jEsRSlofzd38V85sbKi4F0CzWr7KQvtzRo8gHAUkPuouTyNTgEU5t+FWLpNY1oPv+6GlP/VfkhtLiVe8z5giKLuql5aM04smJkajzEJ5Vz04vSuhC+0lVBNasWmIrhzjC13mGBUd0CUNB9z3FkwSkipc9ZpHONXt2H9Hrm;gyBAwUFX+GW1rkKSwa0LvQ=="
 ---
 

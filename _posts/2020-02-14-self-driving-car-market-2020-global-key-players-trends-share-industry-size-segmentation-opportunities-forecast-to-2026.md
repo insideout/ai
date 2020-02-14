@@ -1,13 +1,13 @@
 ---
 category: news
-title: "AI in Telecommunication Market Outlook: Big Expectations to Watch For"
-excerpt: "The Latest research study released by HTF MI \"Global AI in Telecommunication Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
-publishedDateTime: 2020-02-13T15:19:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-outlook-big-expectations-to-watch-for-2020-02-13"
+title: "Self-Driving Car Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026"
+excerpt: "Introduction Self-Driving Car Market The market research Self-Driving Car report offers an in-depth analysis of"
+publishedDateTime: 2020-02-14T06:47:00Z
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026-2020-02-14"
 type: article
-quality: 69
-heat: 109
-published: true
+quality: 27
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,15 +19,28 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
-    title: "AI in Telecommunication Market Outlook: Big Expectations to Watch For"
+    title: "Self-Driving Car Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026"
 
 related:
+  - title: "AI in Telecommunication Market Outlook: Big Expectations to Watch For"
+    excerpt: "The Latest research study released by HTF MI \"Global AI in Telecommunication Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
+    publishedDateTime: 2020-02-13T15:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-outlook-big-expectations-to-watch-for-2020-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "AI In Education Market 2020 Strategic Assessment - Google, IBM, Pearson, Microsoft, AWS, Nuance Communications, Cognizant"
     excerpt: "The AI In Education Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
     publishedDateTime: 2020-02-10T06:23:00Z
@@ -37,19 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Self-Driving Car Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026"
-    excerpt: "Introduction Self-Driving Car Market The market research Self-Driving Car report offers an in-depth analysis of"
-    publishedDateTime: 2020-02-14T06:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -77,6 +77,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "qp5Bam43bbykx47V3yivDjVjDlKzSNG2SrDXmTOpYfMwA1OKfwI7lowmjM5Fj+Na4PzYNyOj3roQKSiKe0o/z5EMolXV1KD91DmfIOSoBdqcNegkD81iFVPCV3QjMrsIW2z2HUMygpVxSSO2t7jI7htEnOGsdithI0XGczfK7r11lqdxa49YkGYo8rOIbTbDz+k3nLMeEI75Lv+6V/j46w/K/ztLCFe6xS50HQHN9cYY0MYLlkjriYkCm03aaEWeCn4ADib+LHNMRINbW8QrZ/pzCbc8d5zNjJY69LPx1i/2IPnvt0mbJmEjcN0eWyTc;GvHAXhPya1h740YOJNHKKg=="
+secured: "cNq6pwXCP1FE9g6Tsr5Kdk3LouTv9B0wmbHDeXuettxsUAlsO6Qucm7kb1BFqu1zLT/Z0k8cvy9Qhbs6uIEAD+gfFAiEuZH2gGt+QIxzbitDttLhyPB3xKD2y+9ZZkUU8Ce7zx+nqoRwrThe908FvywyfwwkHtIr8WmG1FzicQpr+3WegfKOZTDGSoAbE4ZBi84eP6pYScTddRQrQjA/xY1KrAWOOoLDW/pKGorJCwGOXmvetsv6IVdC92UoK03MZDoqGd6Q6/cc9zw/SjQrjEzfPXxU/yIAe0BUTIZqOtIPTNNSYscGHPpeKTgcV87+;TDh+npkTgZ7Af2TDkM3RJQ=="
 ---
 

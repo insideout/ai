@@ -1,32 +1,31 @@
 ---
 category: news
 title: "How is your company managing its AI and ML initiatives?"
-excerpt: "SEE: Managing AI and ML in the enterprise 2019: Tech leaders expect more difficulty than previous ... Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
-publishedDateTime: 2020-02-13T16:01:00Z
-webUrl: "https://www.techrepublic.com/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+excerpt: "When it comes to artificial intelligence (AI) and machine learning (ML) projects, the biggest challenge for CXOs isn't necessarily deployment, but rather, managing these initiatives. For example, what do you anticipate your AI/ML budget will look like? What business areas are you applying AI/ML in? How knowledgeable is your upper management ..."
+publishedDateTime: 2020-02-13T16:05:00Z
+webUrl: "https://www.zdnet.com/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
 type: article
-quality: 89
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "/assets/images/organizations/techrepublic.com-50x50.jpg"
+    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - Microsoft AI
 
 images:
-  - url: "https://tr4.cbsistatic.com/hub/i/r/2020/02/13/f81f1846-84ce-494a-9a0e-c7159a67b93d/resize/1200x/d0bec0400c685055c101739b762f68cb/ai-ml-1.jpg"
-    width: 1200
-    height: 887
+  - url: "https://zdnet3.cbsistatic.com/hub/i/2020/02/13/fa57ec7a-30b9-4d0b-8986-c3019b3c20db/ai-ml-2.jpg"
+    width: 800
+    height: 534
     title: "How is your company managing its AI and ML initiatives?"
 
 related:
@@ -77,6 +76,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "BeD/BrzhVtZXp1lKGAt7BZBg6mlNS0Zs6PKEOsTRxBpV/g1eLFeDI2+CeVJsI+MKW/f5qHEG+DStaGkpLqZWs8DGa54wc3IXuzsxRvj7TCDjgSGXkxXxTxcM9eCqWhFNccfqtqrfCAxPrUIl2iXtmdxM8YkKUI77NyhBFR4yn0AFO0y9rCXEXS7h2cP23VHkfbDHofGUDuO1r+L44HswTmERBew4MJ7ADZ/m6MW9ZzOUlAe8o0PJF8VPLvCQXNheeS0pRCP76ocdyEObheEAgrDdrEECKeiB3tLz12eoEN6TX8yOk1MhzJsKQMXf3wWa;KQog8AtIcwuQXAWhbnYBzQ=="
+secured: "QJOXz66/3vjU7Un07Tz6C58RMhOst2ib8ykjCbWKjCL+hTvF0bm+pcnfPyWE9sjbKhCBJ+XlxLsMUxaFNLKmmfjJNEqQK6ms090wvxu8YkJ8rkvuoH+C7dvbP6pqMvqUN39hl/U45KQNSavL0NLs76yokyjbVPayBzkW7L4LYu4gl9kOhVChsLoR0aAo2WbTlk3lA5eASxcPGUUupQJBFpZg7Eou6wTNl8narrYSFxm1VY32uN81C2/JSYHJrufwnYazI6j6i4+D5xnrbYg5JOCRB9+6vDcPTWNrA/AXD4HSqWUlAVlEyr3Q7ApQxs83;xshitjg1xyq5uVPaTswMcA=="
 ---
 
