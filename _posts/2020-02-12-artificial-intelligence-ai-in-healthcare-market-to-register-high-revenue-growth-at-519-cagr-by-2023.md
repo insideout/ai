@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T20:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
     excerpt: "An extensive elaboration of the Global Computer Vision in Healthcare market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
     publishedDateTime: 2020-02-08T07:36:00Z
     webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-to-enjoy-explosive-growth-xilinx-ibm-google-2020-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Healthcare Market 2020 Global Growth, Trends, Revenue, Share and Demands Research Report 2026"
+    excerpt: "Feb 14, 2020 (The Expresswire) -- Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N.V., iCarbonX, Next IT Corp., Welltok, Inc., General Vision, Inc., Recursion Pharmaceuticals ..."
+    publishedDateTime: 2020-02-14T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-growth-trends-revenue-share-and-demands-research-report-2026-2020-02-14"
     type: article
     provider:
       name: MarketWatch

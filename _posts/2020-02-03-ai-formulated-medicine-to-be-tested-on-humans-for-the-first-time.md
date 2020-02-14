@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/03/ai-formulated-medicine-teste
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg?itok=cVucXcjV"
         width: 918
         height: 506
-  - title: "Artificial intelligence-created medicine to be used on humans for first time"
-    excerpt: "A drug molecule \"invented\" by artificial intelligence (AI) will be used in human trials in a world first for machine learning in medicine. It was created by British start-up Exscientia and Japanese pharmaceutical firm Sumitomo Dainippon Pharma. The drug will be used to treat patients who have obsessive-compulsive disorder (OCD). Typically ..."
-    publishedDateTime: 2020-01-30T17:40:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51315462"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 34
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11559/production/_110710017_aidrug.gif"
-        width: 1024
-        height: 576
 
 secured: "sm2PQihypERSturHMev8C9fjDFsuV227jprHyKJYTMphOm9I1PQhPz8umufSzzigr8koo/Y/TFu28msDiBX0cihy/qijW4PiXv9nJEFr6Cn7HXeiKzVv0CRpvLS186/fyQLap7fzD80P7JjO6qtefvd+/EdAPV3KBzjJzeD4NE+o5VN86Mr+hSjp4UlkcnlpfnLb2Ycnitmd+tOpLMgba22CLIeJg5/cv9ygAvbV/xxquSCyRkJax1F4nL3XSBL1ErBzO197AgvXR7lM8CLrUktMFdZEUFsoffaVrRnpcWam+c6bEV9YCHL7sqW/CNdhSInZJoYK9fOCQvA2kfAC6PQao+evSjDDEAGkyiQN0ri+Knn+FHWzUaII1iuwdrddl/udecb1+hlYST0UPmtyfkNXKREkIz7vfrj3ua1oquM9m2TOAwmFDpG6oVjaJ4EUAWWCJ8bXX0dksMqlmmYG/6Md7WJtDB7JLFVOU0OQLe8=;/NLjSG/1tSMHHfV8K88e/w=="
 ---

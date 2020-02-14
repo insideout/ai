@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: TechCrunch
@@ -30,21 +30,6 @@ images:
     title: "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020"
 
 related:
-  - title: "One day left for early-bird tickets to TC Sessions: Robotics + AI 2020"
-    excerpt: "So if you love robots and machine learning, why spend more on your ticket to TC Sessions: Robotics + AI 2020? Prices go up on January 31, which means you have just one day left to buy an early-bird ticket. You’ll save a tidy $150 in the process. Sweet! On March 3, roughly 1,500 attendees will spend the day delving into the future of robots ..."
-    publishedDateTime: 2020-01-30T17:10:00Z
-    webUrl: "https://techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/"
-    ampWebUrl: "https://techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/1day_countdown.png?w=1024"
-        width: 1024
-        height: 562
   - title: "CrunchMatch simplifies networking @ TC Sessions: Robotics + AI 2020"
     excerpt: "With just about 1 month until go-time, TC Sessions: Robotics + AI 2020 (March 3 in Berkeley, Calif.) looks to be a true powerhouse event. Prepare to spend the day engaging with the leading innovators, makers and investors bent on shaping the future of these two game-changing technologies. Don’t have a ticket yet? Crikey, mate, beat the price ..."
     publishedDateTime: 2020-02-05T19:21:00Z

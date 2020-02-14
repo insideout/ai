@@ -41,17 +41,6 @@ related:
       - url: "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png"
         width: 1280
         height: 720
-  - title: "Facial Recognition Sparks Warning From EU Privacy Panel"
-    excerpt: "European Union data protection authorities sounded the alarm over the unfettered use of biometric data and controversial facial-recognition technology, urging companies and agencies to consider “less intrusive” tools."
-    publishedDateTime: 2020-01-30T17:23:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-30/facial-recognition-sparks-warning-from-eu-privacy-panel"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-30/facial-recognition-sparks-warning-from-eu-privacy-panel"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-30/facial-recognition-sparks-warning-from-eu-privacy-panel"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
   - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
     excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
     publishedDateTime: 2020-02-04T11:36:00Z

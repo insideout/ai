@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_posts/2020-02-07-ai-weekly-announcing-our-ai-and-security-special-issue.md",
+      "title": "AI Weekly: Announcing our AI and security special issue",
+      "excerpt": "VentureBeat’s second special issue is nigh. Following our first special issue, Power in AI, this next one focuses on AI and security. Each special issue is a package of articles that explores a central topic from a variety of angles, from voices in industry, academia, and our newsroom. Whether we’re aware of it or not, both AI and ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/amp/",
+      "publishedDateTime": "2020-02-07T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/AI-and-Security-header.png?fit=4842%2C2421&strip=all",
+          "width": 4842,
+          "height": 2421,
+          "title": "AI Weekly: Announcing our AI and security special issue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-07-amazon-personalize-can-now-use-10x-more-item-attributes-to-improve-relevance-of-recommendations.md",
       "title": "Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations",
       "excerpt": "Amazon Personalize is a machine learning service which enables you to personalize your website, app, ads, emails, and more, with custom machine learning models which can be created in Amazon Personalize, with no prior machine learning experience. AWS is pleased to announce that Amazon Personalize now",
@@ -581,7 +625,7 @@
       "path": "_posts/2020-02-07-nuros-r2-vehicle-has-been-granted-the-nhtsas-first-regulatory-exemption-for-a-custom-self-driving-car.md",
       "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
       "excerpt": "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ...",
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
@@ -1756,7 +1800,7 @@
       "path": "_posts/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
       "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
       "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/",
@@ -2130,51 +2174,6 @@
         "Facebook AI",
         "AI Hardware",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu.md",
-      "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
-      "excerpt": "“But the next thing or the next step is even more exciting to me: to get AI everywhere. And here we are talking about bringing the benefits of AI down to the IoT endpoints, including microcontrollers and therefore to a much larger scale of users and applications — literally billions more.” That’s very much what this combination of ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/amp/",
-      "publishedDateTime": "2020-02-10T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1146397412.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

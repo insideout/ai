@@ -2,6 +2,133 @@
   "page": 21,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-30-the-robots-are-coming-prepare-for-trouble.md",
+      "title": "The Robots Are Coming. Prepare for Trouble.",
+      "excerpt": "Artificial intelligence won’t eliminate every retail job, an economist says, but the future could be grim unless we start planning now.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
+      "publishedDateTime": "2020-01-30T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/31/business/31VIEW_GIF/31VIEW_GIF-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "The Robots Are Coming. Prepare for Trouble.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-two-sundance-docs-sound-the-alarm-on-the-dangers-of-modern-ai.md",
+      "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
+      "excerpt": "Cautionary tales about AI were all over Sundance screens this year, and not as sci-fi flights of fancy. Two new documentaries, The Social Dilemma and Coded Bias, dig into the pitfalls of artificial intelligence as it currently exists — manipulating our social-media feeds, determining our financial or professional futures, surveilling us on ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review/",
+      "ampWebUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
+      "publishedDateTime": "2020-01-30T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F30%252F2b%252F197609c9e4b0492b9aad0d764ab4085e.746b6.jpg%252F1200x630.jpg?signature=NmOmlZmtuGjdTlPu2UY9_ACFzbc=",
+          "width": 1200,
+          "height": 630,
+          "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month.md",
+      "title": "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month",
+      "excerpt": "LOS ANGELES (Reuters) - United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages. The UPS/Arrival partnership includes a minority investment from the world’s ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://uk.reuters.com/article/us-ups-investment/ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month-idUKKBN1ZS2ZC",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC",
+      "publishedDateTime": "2020-01-30T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483128662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0S1ZS",
+          "width": 817,
+          "height": 545,
+          "title": "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-30-ups-teams-up-with-self-driving-company-waymo-for-package-delivery.md",
       "title": "UPS Teams Up With Self-driving Company Waymo For Package Delivery",
       "excerpt": "(RTTNews) - UPS (UPS) said that it has partnered with Waymo, the self-driving arm of Google's parent company Alphabet, to pilot autonomous vehicle package pickup in the Metro Phoenix area. Starting in the coming weeks,",

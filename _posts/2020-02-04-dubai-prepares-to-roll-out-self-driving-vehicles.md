@@ -26,73 +26,51 @@ images:
     title: "Dubai prepares to roll out self-driving vehicles"
 
 related:
-  - title: "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month"
-    excerpt: "LOS ANGELES (Reuters) - United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages. The UPS/Arrival partnership includes a minority investment from the world’s ..."
-    publishedDateTime: 2020-01-30T17:30:00Z
-    webUrl: "https://uk.reuters.com/article/us-ups-investment/ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month-idUKKBN1ZS2ZC"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
+  - title: "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits"
+    excerpt: "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\""
+    publishedDateTime: 2020-02-05T22:17:00Z
+    webUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 79
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483128662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0S1ZS"
-        width: 817
-        height: 545
-  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
-    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
-    publishedDateTime: 2020-01-31T11:52:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
+      - url: "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg"
+        width: 800
+        height: 400
+  - title: "China is betting on slow but steady to win the self-driving car race"
+    excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
+    publishedDateTime: 2020-02-10T20:43:00Z
+    webUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/"
+    ampWebUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 59
+      name: Quartz
+      domain: qz.com
+    quality: 74
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+      - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 788
+  - title: "Hypodermic Needles Leftover In AI Self-Driving Cars By Despicable Passengers Is An Ominous Harbinger Of What’s Yet To Come"
+    excerpt: "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse."
+    publishedDateTime: 2020-02-12T16:08:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
         width: 1200
-        height: 630
-  - title: "UPS and Waymo partner on self-driving parcel pickup"
-    excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
-    publishedDateTime: 2020-01-30T17:34:00Z
-    webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 39
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
-        width: 770
-        height: 364
-  - title: "UPS, Waymo partner to start self-driving package pickup"
-    excerpt: "In the Arizona pilot, the vehicle will drive autonomously with a Waymo-trained driver on board to monitor operations. UPS invests in technologies that bolster its tightly integrated smart global logistics network. Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone ..."
-    publishedDateTime: 2020-02-06T03:22:00Z
-    webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
-    type: article
-    provider:
-      name: Fibre2Fashion
-      domain: fibre2fashion.com
-    quality: 39
-    images:
-      - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
-        width: 710
-        height: 450
-  - title: "Uber is trying to bring its self-driving vehicles to the District"
-    excerpt: "This month, Uber announced plans to bring its self-driving vehicles to D.C. The transportation company began collecting data in the District on Jan. 24 to do so. Exciting times ahead in Washington, DC where we'll officially kick-off manual data collection with three self-driving vehicles, starting tomorrow (weather permitting)! Learn more about ..."
-    publishedDateTime: 2020-01-30T18:08:00Z
-    webUrl: "https://technical.ly/dc/2020/01/30/uber-bringing-self-driving-vehicles-district-dc-data-collection/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 24
-    images:
-      - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2020/01/Uber-ATG-self-driving-cars.jpg"
-        width: 680
-        height: 453
+        height: 800
   - title: "Autonomous and Self-Driving Vehicle News"
     excerpt: "As a member of the Consortium, Synopsys will actively contribute to the development of a set of recommendations for system architectures and computing platforms that will be used to address the challenges of deploying self-driving vehicles at scale. Waymo announced it will be driving its Chrysler Pacificas and long-haul trucks in Texas and New ..."
     publishedDateTime: 2020-02-03T02:18:00Z
@@ -119,32 +97,6 @@ related:
       - url: "http://d14e0irai0gcaa.cloudfront.net/www.marshallindependent.com/images/2016/11/28153330/fblike.jpg"
         width: 1200
         height: 630
-  - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
-    excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet, in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed. UPS has been ..."
-    publishedDateTime: 2020-01-30T18:45:00Z
-    webUrl: "https://www.wsbtv.com/news/local/atlanta/ups-orders-10000-electric-delivery-trucks-plans-test-self-driving-vans/MYTOAPEMGRDB7GQCNGUNPUIPM4/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 22
-    images:
-      - url: "https://www.wsbtv.com/resizer/lf5q3ED7r8oQLkykvs0S_mPqlwI=/1200x628/arc-anglerfish-arc2-prod-cmg.s3.amazonaws.com/public/YTMIY4NHCZDOJD6DMFC3MYIFNA.jpg"
-        width: 1200
-        height: 628
-  - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
-    excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet Inc., in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed."
-    publishedDateTime: 2020-01-31T18:50:00Z
-    webUrl: "https://www.courant.com/classified/automotive/sns-ups-orders-electric-delivery-trucks-self-driving-vans-20200131-o3uytm44cncgfmgebfdbjiceke-story.html"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 22
-    images:
-      - url: "https://www.courant.com/resizer/nFagBGbxdgNzvUq8c01L1JdgE2w=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MIH6KZTAZZH6HF7PMHFFTRGMV4.JPG"
-        width: 1200
-        height: 675
 
 secured: "kdb+ObrIsSYhVUA1u1KlRm1gcBe9IjkJL6Lcqte6akv5vTU8jKES/qqcdhIT29FHUC/lWkOaKZxgN9hKoZ0EXsekZvFbsGtLTMpCV+qcvJ3AAbVAaQdEYKt1n6s5kvGMjDNbNpaofb06zt1LMwzDlxSIKPBWc0AFyUQf1lhyrKUQZKLScrd5kd01d13/Q0GScSzZSv3G7SVdR2nKQDVF0aI0lafuvZHdN2UWmznmdNUCCgUSb/Y13iGdRU6OawGL2rG4Ne1izbNFcSDzcXgzYdtCYp6vbNlFZa2tDpQ5rtOjlhksrlG7MN34a+gyYkWD6Iq4hMokx/OmSQGAA++qkAg2SyfrMQGcprn2HtogyXpH3g+j61G5E92aGlUOINuvPMJENnjbX2frdh1FPj0gdbcwOvwpSL1lxAd1VzKwrsTogKqZqp2bNUD7dvBCzRsViXu99VY0j3dXKvLvmFuV1R5uHIsjGLUlKA0pZGEja7E=;ZsUaIkolDjUzqXRmPSctjA=="
 ---

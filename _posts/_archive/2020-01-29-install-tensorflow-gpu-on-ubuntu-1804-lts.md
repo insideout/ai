@@ -27,6 +27,6 @@ images:
     height: 413
     title: "Install TensorFlow GPU on Ubuntu 18.04 LTS"
 
-secured: "mentPOxbD+AtwOnFShNyyU+NHYZskt76oKXnyaVNpbAleHU7iakEuXy1Y5EOAa6IoqMQd8n1r4k1wRrSwMVLqkg3CK34sAoBBKYVWjS+zNbcdJOSYtefdwxr/dAMf5jo3t1/coRMd1KIe6vro5q1olO85HF2s3seJFYyEftpjlHRMRX8xxeoO58WWfgsLTtT0nOdsHp1oO7RVVslmtGE6ZIQhLUTFYNjz27L4o4j2r7cNe3Zmm/5gC/aXNOFgUveyVgOWEzy4VkTQBTIamKhhZ2bQq2iFdOqUBhEIQUuf4FUUgfhJQSBBlfeeWqrbsD4;5POT2sFEmbo+P58MIFqlvA=="
+secured: "0qUTbEmMIKhxoQFc/johxyTb/cAr9tLC9MsPorx2VnNr6bdZDdAMWL0qL2bRLrf/6u/1TilSHeKR5ASHzM6JoHijE/P7fVyVgGmZS1seI9f7UH5tGBlHojsvu/bhtFK1A2W/XrvOQ1W2zy+3oWb5+k4a+Ka+FGjBEBrifC6VjdqCtiU0jdn1eSuW47atsC5BiukjN9DQStyuLI6ZtcU6E/RxMJNfeFB+jL91zTgIfnm4AB3/eVY0EePaI0jv6827LKk6gt3iPA2rd1bZXx05tKRoGiN/pJOKki6UQLyACyyNhuWmtZ682OKOxDPEu+oP;8DNR1PNd/P5vGPisni29bw=="
 ---
 

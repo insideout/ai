@@ -24,80 +24,60 @@ images:
     title: "When can we buy self-driving vehicles? No one knows"
 
 related:
-  - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
-    excerpt: "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ..."
-    publishedDateTime: 2020-02-07T22:57:00Z
-    webUrl: "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
+  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
+    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
+    publishedDateTime: 2020-01-31T11:52:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
+      name: New York Times
+      domain: nytimes.com
+    quality: 59
     images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
-        width: 800
-        height: 560
-  - title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
-    excerpt: "CALIFORNIA — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or ..."
-    publishedDateTime: 2020-02-07T19:34:00Z
-    webUrl: "https://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/"
-    ampWebUrl: "http://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    type: article
-    provider:
-      name: WREG
-      domain: wreg.com
-    quality: 39
-    images:
-      - url: "https://localtvwreg.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
-        height: 800
-  - title: "The feds just blessed a custom self-driving vehicle for the first time"
-    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
-    publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
+        height: 630
+  - title: "GM's Super Cruise Self-Driving Tech Will Be on 22 Vehicles by 2023"
+    excerpt: "GM is finally expanding its hands-free Super Cruise driver-assist system beyond the Cadillac brand. According to GM president Mark Reuss, the feature will be available as an option on 22 vehicles by 2023, with seven vehicles getting the feature next year and 12 more in 2022 and 2023. This, it goes without saying, is a huge expansion of the ..."
+    publishedDateTime: 2020-02-06T18:42:00Z
+    webUrl: "https://www.caranddriver.com/news/a30795396/gm-super-cruise-self-driving-2023/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
-  - title: "Self-driving vehicle law hits a speed bump"
-    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
-    publishedDateTime: 2020-02-11T11:08:00Z
-    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
     images:
-      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
-        width: 1920
-        height: 1080
-  - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
-    excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
-    publishedDateTime: 2020-02-07T18:06:00Z
-    webUrl: "https://cbs58.com/news/us-clears-the-way-for-self-driving-vehicle-with-no-steering-wheel-or-pedals"
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0127-super-cruise-lane-change-photo-final-1580163336.jpg?crop=1.00xw:0.747xh;0,0.165xh&resize=1200:*"
+        width: 1200
+        height: 601
+  - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
+    excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet, in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed. UPS has been ..."
+    publishedDateTime: 2020-01-30T18:45:00Z
+    webUrl: "https://www.wsbtv.com/news/local/atlanta/ups-orders-10000-electric-delivery-trucks-plans-test-self-driving-vans/MYTOAPEMGRDB7GQCNGUNPUIPM4/"
     type: article
     provider:
-      name: CBS 58
-      domain: cbs58.com
+      name: WSB-TV
+      domain: wsbtv.com
     quality: 22
     images:
-      - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
-        width: 3000
-        height: 2000
-  - title: "US lets self-driving vehicle bypass human-driver safety rules"
-    excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-    publishedDateTime: 2020-02-06T18:08:00Z
-    webUrl: "https://www.pennlive.com/news/2020/02/us-lets-self-driving-vehicle-bypass-human-driver-safety-rules.html"
+      - url: "https://www.wsbtv.com/resizer/lf5q3ED7r8oQLkykvs0S_mPqlwI=/1200x628/arc-anglerfish-arc2-prod-cmg.s3.amazonaws.com/public/YTMIY4NHCZDOJD6DMFC3MYIFNA.jpg"
+        width: 1200
+        height: 628
+  - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
+    excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet Inc., in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed."
+    publishedDateTime: 2020-01-31T18:50:00Z
+    webUrl: "https://www.courant.com/classified/automotive/sns-ups-orders-electric-delivery-trucks-self-driving-vans-20200131-o3uytm44cncgfmgebfdbjiceke-story.html"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 4
+      name: Hartford Courant
+      domain: courant.com
+    quality: 22
+    images:
+      - url: "https://www.courant.com/resizer/nFagBGbxdgNzvUq8c01L1JdgE2w=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MIH6KZTAZZH6HF7PMHFFTRGMV4.JPG"
+        width: 1200
+        height: 675
 
 secured: "tQHmnUGOsAuPDxvz9J6SCNC0fMDFATQS/U3VRcF5BWGVBiv3Djd7vl6pc6RFsVImaUDYKkFuWa5pEnww9qNXvKcbQkEu/K8c4f85BTi1Y15HJI3DFbi8trvsIXpeHc1Nt/d0FvLZJ5JLX7tPfbgl3SY4CTdX1s6sGGQCHOsThaadDB7HQrBvFEBu7w3hNuEFSrncZ8e+Q6QMjuJs+eBb7zrA861fxcL6O2PxQV6gkUcW5oDtF0AQZwkh9FqYqnnEJLneeCc4Cn3uypJD4eVMWCmr4o2Cr2ibBekJuvVf8cIxkgTIV9V1I4mm0IUHFqMv3dXVceGS/lLZxLGSmicQP8acYGSNXJyXrGbs2UNIwlVztSAMm9fZb8awpHFksnADShWuDTY856ZG3NM7LUHcckGY9vbZIXwnSR+Pz6k6AtVDIJf50eC86aI2tNbnQFHVlMLKHDV/v5k65NUPW54Wq6XE4fZaEat+Aamp7SKZLGo=;A3GgFScTkf0Ypr0SxX9seg=="
 ---

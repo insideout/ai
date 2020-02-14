@@ -29,21 +29,6 @@ images:
     title: "CrunchMatch simplifies networking @ TC Sessions: Robotics + AI 2020"
 
 related:
-  - title: "One day left for early-bird tickets to TC Sessions: Robotics + AI 2020"
-    excerpt: "So if you love robots and machine learning, why spend more on your ticket to TC Sessions: Robotics + AI 2020? Prices go up on January 31, which means you have just one day left to buy an early-bird ticket. You’ll save a tidy $150 in the process. Sweet! On March 3, roughly 1,500 attendees will spend the day delving into the future of robots ..."
-    publishedDateTime: 2020-01-30T17:10:00Z
-    webUrl: "https://techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/"
-    ampWebUrl: "https://techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/1day_countdown.png?w=1024"
-        width: 1024
-        height: 562
   - title: "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020"
     excerpt: "Today’s your last day to score early-bird pricing on tickets to TC Sessions: Robotics + AI 2020, which takes place on March 3. If you want to keep $150 in your wallet, beat the deadline and buy your ticket here before the clock strikes 11:59 p.m. (PT) tonight! Our one-day conference dedicated to robotics and AI — the good, the bad and the ..."
     publishedDateTime: 2020-01-31T17:10:00Z

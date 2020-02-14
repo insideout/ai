@@ -35,15 +35,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/ceb60455-dec4-4a4b-9359-2712746d6986/gartner-cloud-spend-2020.png"
         width: 823
         height: 557
-  - title: "2 major security flaws detected in Microsoft Azure Cloud"
-    excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
-    publishedDateTime: 2020-01-30T17:57:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200130/3497798.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "9CRl+ugNjPjiNfFqTlvVBpxtdCZBRIWwcA7uFjhelh3OLMk2Hx2ZdzWcmLX13G+ms1TH4VmM0zDqhCA59Buvr+B2EYSBwPD9ZT3YFtdgwCHl4FKHaRPS66ngnvmVEzm+ybF+6+57le8WOPU9G3JmCOlLcrkDTVdZ0SIthz7toc2Tajd50vJWHK6nIceKuRv0OOyndN5vhb8gs/wmedCxsNxlSGFtJfOzntTqltghAxuVuCoOXKhmUgCeU2lrXwydERYtbG62ojhTnI3riAN5s2j51XdR0ocRzLRn3xnuq8kin5BdGviXwZUsfV2IqImmlpWKCKyIOEQMVLI1vVyh0l10jxO+QxIKqTrrKYJ8qSFv5Rjz3OaucyNCN3H42ucXucF5AMkG+o/aTk+SlxDzs0OGWy+TIQ3Y+ncddw7E5WbSTXPaqI8Tim7KBSDDrXNiP4axq9H1hHODb4y3+F4evqNeegydqM/uVUj61QaMvow=;xRmE54b+3qzx+uL8Vr2QzQ=="
 ---

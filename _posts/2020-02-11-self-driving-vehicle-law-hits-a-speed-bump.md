@@ -63,19 +63,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
-  - title: "When can we buy self-driving vehicles? No one knows"
-    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 24
-    images:
-      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
-        width: 540
-        height: 420
   - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
     excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
     publishedDateTime: 2020-02-07T18:06:00Z

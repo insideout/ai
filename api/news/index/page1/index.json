@@ -139,50 +139,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-30-peta-wants-to-replace-punxsutawney-phil-with-an-animatronic-ai.md",
-      "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
-      "excerpt": "When we imagine the future of artificial intelligence, we tend to think of the technology making most human jobs obsolete. But if PETA has its way, an AI could also take over for the world's most famous groundhog, Punxsutawney Phil. In a letter signed by PETA founder and president Ingrid Newkirk, the organization calls on the Punxsutawney ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/30/peta-replace-punxsutawney-phil-with-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f4006f0-438b-11ea-bdef-51a7d251189a%26client%3Da1acac3e1b3290917d92%26signature%3D37fd7a74081041878e390c3019f83230b1221166&client=amp-blogside-v2&signature=9048b5352ceee474a101d8f7c499c40859254e35",
-          "width": 1200,
-          "height": 630,
-          "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-30-waymos-head-of-design-explains-the-challenges-of-creating-an-autonomous-robot-driver.md",
       "title": "Waymo's head of design explains the challenges of creating an autonomous robot 'driver'",
       "excerpt": "YooJung Ahn oversees the design of the Waymo \"driver,\" a complicated merger of hardware, software, and user experiences.",
@@ -322,7 +278,7 @@
       "path": "_posts/2020-01-31-can-we-keep-facial-recognition-from-enabling-a-surveillance-state.md",
       "title": "Can we keep facial recognition from enabling a surveillance state?",
       "excerpt": "Researchers have been pursuing facial recognition technologies since the 1960s but its only been in the last few years that these systems have become so alarmingly capable. Neural networks able to match faces across thousands of features with better than 98 percent accuracy as well as an explosion of available training data sets have fueled the ...",
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
@@ -367,7 +323,7 @@
       "path": "_posts/2020-01-31-chicago-police-facial-recognition-adds-jet-fuel-for-criminal-investigations.md",
       "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
       "excerpt": "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ...",
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/",
@@ -713,6 +669,51 @@
       ]
     },
     {
+      "path": "_posts/2020-01-31-last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020.md",
+      "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
+      "excerpt": "Today’s your last day to score early-bird pricing on tickets to TC Sessions: Robotics + AI 2020, which takes place on March 3. If you want to keep $150 in your wallet, beat the deadline and buy your ticket here before the clock strikes 11:59 p.m. (PT) tonight! Our one-day conference dedicated to robotics and AI — the good, the bad and the ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "publishedDateTime": "2020-01-31T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/lastday_countdown.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_posts/2020-01-31-laszlo-bock-thinks-machine-learning-can-make-work-better.md",
       "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
       "excerpt": "A Google veteran’s new firm uses artificial intelligence to send employees ‘nudges’ to prod them toward changes likely to produce a happier workforce",
@@ -960,7 +961,7 @@
       "path": "_posts/2020-01-31-top-cloud-providers-in-2020-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
       "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
       "excerpt": "At AWS re:Invent 2019, CEO Andy Jassy outlined a vision for the cloud service provider, including its artificial intelligence service, a stack made for analytics and a bevy of purpose-built databases. The broader message from Jassy, however, was that AWS will be relentlessly innovating. Jassy also took a few thinly veiled jabs at rivals like ...",
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
@@ -1000,6 +1001,51 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month.md",
+      "title": "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month",
+      "excerpt": "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -2012,7 +2058,7 @@
       "path": "_posts/2020-02-03-ai-formulated-medicine-to-be-tested-on-humans-for-the-first-time.md",
       "title": "AI-formulated medicine to be tested on humans for the first time",
       "excerpt": "A drug designed entirely by artificial intelligence is about to enter clinical human trials for the first time. The drug, which is intended to treat obsessive-compulsive disorder, was discovered using AI systems from Oxford-based biotech company Exscientia. While it would usually take around four and a half years to get a drug to this stage of ...",
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/",
@@ -2094,51 +2140,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-03-apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers.md",
-      "title": "Apple details AI to help voice assistants recognize hotwords and multilingual speakers",
-      "excerpt": "Speech recognition is an acute area of interest for Apple, whose cross-platform Siri virtual assistant is used by over 500 million customers worldwide. This past week, the tech giant published a series of preprint research papers investigating techniques to improve voice trigger detection and speaker verification, as well as language ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/amp/",
-      "publishedDateTime": "2020-02-03T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/apple-siri.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Apple details AI to help voice assistants recognize hotwords and multilingual speakers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

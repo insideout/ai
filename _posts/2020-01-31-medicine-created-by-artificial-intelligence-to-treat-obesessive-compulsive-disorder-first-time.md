@@ -41,19 +41,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6294%252C3923%252C639%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C997%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252F27840430-f413-11e9-bdfc-1e60bbd37912%26client%3Da1acac3e1b3290917d92%26signature%3D79d1e8cd28bb5cdf1601ea05d7226f489d22eb6c&client=amp-blogside-v2&signature=5c83968906b4c6d0967bda40cb3845b8a7ec6b23"
         width: 600
         height: 350
-  - title: "Artificial intelligence-created medicine to be used on humans for first time"
-    excerpt: "A drug molecule \"invented\" by artificial intelligence (AI) will be used in human trials in a world first for machine learning in medicine. It was created by British start-up Exscientia and Japanese pharmaceutical firm Sumitomo Dainippon Pharma. The drug will be used to treat patients who have obsessive-compulsive disorder (OCD). Typically ..."
-    publishedDateTime: 2020-01-30T17:40:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51315462"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 34
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11559/production/_110710017_aidrug.gif"
-        width: 1024
-        height: 576
 
 secured: "vGqvsS5JFNTumqn+aIfAWNO4rSPyn/7bB4wGOZK4A/DyiGPWg58zpHKF4zRMCpBv0LrEJ2WeyqcLilPG+QTczXIGHdINsNQxG6aCVN5lWhR8r+iaHEDvQGK7Kuuh7myV06f198sJDkiBR21ISifHoiNgQaklWo2BWuQMxJIJxrrIh8blVI38nPpWxxASDai6wB+VHn3RXNYw+s7/1ecA+GUI/gI7GJzb2sTyfpYyCd0BFc1jmcYOwAsVcwIxZruUfBBSIbI8at3yGdMRK3tbdlvhJMz8Q4a74HZwerZBt1HG7UoFYV27kgUlK7/mc1UsGiKXaB14m3IL6fe5Tq7TfKzFB0JhFGKDDybGA6HmDLsZqZoQA6BgHksUA+H80QM+NbwlQBSpXSPLOD/sSgQY/4BMdDhTFgllcqWSk4b+DvgNo7DlswYzDVMyzNHDSXoJo9rS7fmzzjI+778kmCszPDccIhxPCrzK0gqYpWhjDxI=;n4yGi8JIVZbJTPapgvvVUw=="
 ---

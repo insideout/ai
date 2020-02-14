@@ -56,6 +56,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare Market 2020 Global Growth, Trends, Revenue, Share and Demands Research Report 2026"
+    excerpt: "Feb 14, 2020 (The Expresswire) -- Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N.V., iCarbonX, Next IT Corp., Welltok, Inc., General Vision, Inc., Recursion Pharmaceuticals ..."
+    publishedDateTime: 2020-02-14T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-growth-trends-revenue-share-and-demands-research-report-2026-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Medical Robotics Market to register a 23.21% CAGR by 2025: Key Findings, Regional Study, Trends, Growth, Top Key Players Profiles and Future Prospects"
     excerpt: "and artificial intelligence (AI) has changed the healthcare industry significantly. Thanks to these technologies, medical robotics are proven to be a more safe and useful process for performing surgeries. Increase in the adoption of the medical robots to perform minimally invasive surgeries by lowering the complications is propelling growth of ..."
     publishedDateTime: 2020-02-11T10:11:00Z

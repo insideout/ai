@@ -198,6 +198,19 @@ related:
       - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTcwNDMzNTM4MzY0MDI0NjA0/facialrecog.png"
         width: 620
         height: 343
+  - title: "AI and facial recognition in 2020: where’s the line?"
+    excerpt: "security and AI ethics to be at the forefront of the conversation. As regulations continue to be made at a city, state or federal level, they will shape the extent to which we can use AI, and how we will approach the “AI race” in this decade."
+    publishedDateTime: 2020-02-14T10:08:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/ai-and-facial-recognition-in-2020-wheres-the-line/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 56
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/jason_carolan_flexential_mono.2e16d0ba.fill-1200x630.jpg"
+        width: 900
+        height: 474
   - title: "Facial Recognition Has Its Eye on the U.K."
     excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
     publishedDateTime: 2020-02-07T13:41:00Z

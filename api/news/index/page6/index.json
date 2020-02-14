@@ -2,6 +2,42 @@
   "page": 6,
   "value": [
     {
+      "path": "_posts/2020-02-11-first-time-ever-artificial-intelligence-develops-drug-candidate.md",
+      "title": "First Time Ever, Artificial Intelligence Develops Drug Candidate",
+      "excerpt": "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/",
+      "ampWebUrl": "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/",
+      "publishedDateTime": "2020-02-11T14:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-11-googles-machine-learning-is-making-you-more-effective-in-2020.md",
       "title": "Google’s Machine Learning Is Making You More Effective In 2020",
       "excerpt": "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function.",
@@ -708,7 +744,7 @@
       "path": "_posts/2020-02-11-the-aclu-slammed-a-facial-recognition-company-that-scrapes-photos-from-instagram-and-facebook.md",
       "title": "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook",
       "excerpt": "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ...",
-      "heat": 410,
+      "heat": 420,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
@@ -1238,7 +1274,7 @@
       "path": "_posts/2020-02-12-artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
       "excerpt": "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51.",
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12",
@@ -2126,50 +2162,6 @@
           "width": 770,
           "height": 578,
           "title": "AI makes it easy for HR to identify at-risk employees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-ai-tool-can-now-update-outdated-wikipedia-content.md",
-      "title": "AI tool can now update outdated Wikipedia content",
-      "excerpt": "Researchers at MIT have developed a system that can automatically update outdated and factually inconsistent data in Wikipedia articles. The automated tool ... structured sentences and relevant Wikipedia sentences, to train the AI system. As a result, it is now able to identify the redundant information then rewrite it without much human ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/ai-tool-can-now-update-outdated-wikipedia-content",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content",
-      "publishedDateTime": "2020-02-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/wfYVuuRm4LZTk8h6thKDYN-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "AI tool can now update outdated Wikipedia content",
           "attribution": null
         }
       ],

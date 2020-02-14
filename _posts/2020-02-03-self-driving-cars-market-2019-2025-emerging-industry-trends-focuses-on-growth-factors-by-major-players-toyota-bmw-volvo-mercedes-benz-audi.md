@@ -43,6 +43,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563"
         width: 1000
         height: 563
+  - title: "UPS, Waymo partner to start self-driving package pickup"
+    excerpt: "In the Arizona pilot, the vehicle will drive autonomously with a Waymo-trained driver on board to monitor operations. UPS invests in technologies that bolster its tightly integrated smart global logistics network. Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone ..."
+    publishedDateTime: 2020-02-06T03:22:00Z
+    webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
+    type: article
+    provider:
+      name: Fibre2Fashion
+      domain: fibre2fashion.com
+    quality: 39
+    images:
+      - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
+        width: 710
+        height: 450
 
 secured: "mqMnT+1VGXOkZ1A2dSMXIn9rVYJTkkcluw66GotzHjkgBbATTyMLFB1k8QjG3wYJMgM5RbKiw6hTEt1gWM0reObMwD12hJNNsIQKXWQumyxclNQ92RrgH0Rl3QLktTwXdKPfEbMOwx+HfGNiAhqfmJmxEE4kD9ba3sbAkq6QsRV5fFcTdL2jOzA4kDXt49HU7fVzKdxAWiidtgdkZ5oL5/RcgZlZTW4CGLepu5157rXxPdKVoo/rRpiyRfzNcQGdwS75dETQ050tQoRW30mEIpd+lCNzskfk10qwyXRJtKPx3tQ4pnI0QVKR33DgiLld;DiESd8q2JZaNzHeDZpPsJg=="
 ---

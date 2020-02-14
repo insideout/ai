@@ -50,19 +50,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
-  - title: "When can we buy self-driving vehicles? No one knows"
-    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 24
-    images:
-      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
-        width: 540
-        height: 420
   - title: "Self-driving vehicle law hits a speed bump"
     excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
     publishedDateTime: 2020-02-11T11:08:00Z

@@ -41,17 +41,6 @@ related:
       - url: "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png"
         width: 1280
         height: 720
-  - title: "Facial Recognition Sparks Warning From EU Privacy Panel"
-    excerpt: "European Union data protection authorities sounded the alarm over the unfettered use of biometric data and controversial facial-recognition technology, urging companies and agencies to consider “less intrusive” tools."
-    publishedDateTime: 2020-01-30T17:23:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-30/facial-recognition-sparks-warning-from-eu-privacy-panel"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-30/facial-recognition-sparks-warning-from-eu-privacy-panel"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-30/facial-recognition-sparks-warning-from-eu-privacy-panel"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
   - title: "Facing facts: Reject a blanket ban on face recognition"
     excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
     publishedDateTime: 2020-02-04T09:00:00Z
