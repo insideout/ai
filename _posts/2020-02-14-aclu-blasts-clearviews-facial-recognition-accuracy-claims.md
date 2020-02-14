@@ -1,36 +1,44 @@
 ---
 category: news
-title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
-excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ..."
-publishedDateTime: 2020-02-11T02:44:00Z
-webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
+excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
+publishedDateTime: 2020-02-14T12:00:00Z
+webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
 type: article
-quality: 180
-heat: 430
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: BuzzFeed News
-  domain: buzzfeednews.com
-  images:
-    - url: "/assets/images/organizations/buzzfeednews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TechNewsWorld
+  domain: technewsworld.com
 
 topics:
   - AI
   - Computer Vision
-  - Facebook AI
 
 images:
-  - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-    width: 640
-    height: 440
-    title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
+  - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
+    width: 620
+    height: 350
+    title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
 
 related:
+  - title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
+    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ..."
+    publishedDateTime: 2020-02-11T02:44:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 180
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
+        width: 640
+        height: 440
   - title: "ACLU Said Clearview AI’s Facial Recognition Accuracy Study Is “Absurd”"
     excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and forced Clearview to remove it last month. Clearview AI, the facial ..."
     publishedDateTime: 2020-02-10T16:25:00Z
@@ -203,19 +211,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/jason_carolan_flexential_mono.2e16d0ba.fill-1200x630.jpg"
         width: 900
         height: 474
-  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
-    publishedDateTime: 2020-02-14T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 54
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
-        width: 620
-        height: 350
   - title: "Is facial recognition technology worth the privacy trade-off?"
     excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
     publishedDateTime: 2020-02-04T09:05:00Z
@@ -355,6 +350,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "Aw/fVwB8LgOZBRb0gg5sk3PqLo27/IU9lVtUhNfXJiauRl4BYxh1h90dZk7M+401ueFFlOpIPvwMAU0V9Pc8lModznshWa8WJ1/ZEFhqAvU5vVkT6lrdImK+Vg9KSjznxtBksU6SvWq0ZbZ0ki7iqsAqDpAmMUMY+TThtK7BlH7KcK0q9uCAYBl3hjZ9PpLlDVRUMFUDAVNiv1kUjVOAiZXSFDnzwUVCeAhj5eB9MvhJStEjp2KTGlW8rm4B8r/e2q19n7Whfn9AW3piSYrOk/6/R7ulxp5hLsJaGcUUz7EI+2i6Md7IyecU1fzKG9QCaW4mpW0OzTZvZXrjcxSrXNHjh6KItCCDojmdDJ+8ncBphioItMqawEz0ihreZjb4pcP6IG8GhpUT7b4BcLpX7O0ytgrxo/c7A7xiB6f+tW3UWDTN7mLxT+76EmKVOpsP9miSTGUyt6RdrzDQgE65fM2slrzY/YYzGruG/7M3bnGeXBwW9hCo+wQHEqv6O+gW;CylL9THe+xLh7an/CmQ4dg=="
+secured: "evt4FBj8dVDGhU6U7eSs4ZWQMsxAi/HgQYTt4MhQNVnO60rCKWkQJzL6gkwHMC7N/ONbzQPjM42BrpziqDpsZIr9QNv/anWdiEbcxZpVAzHvc/D7a+zwsKtt1pf7ba9cu5EdrBAGIsIFGWcP0iw+dMML8PLFaL0OB5pQYD+RqNXOehgzaSingT7mkfgsFWDQECs3JoNmPMF/mgHaIRTTDrVVjE/AoJhRRtpebOZJ16Vhnftl4rz+s72hKDYD2AZvwIAXDlhjnikozEJTONcdlF1kNukPzm/HK/xUJXX906Em82VPQCEOuSKtldfKi7nU;EZkKOjXmKy7aGQJl/Dv6DA=="
 ---
 

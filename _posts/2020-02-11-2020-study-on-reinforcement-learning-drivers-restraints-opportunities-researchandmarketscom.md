@@ -76,6 +76,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200213005340/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
+    publishedDateTime: 2020-02-05T12:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Ymkqj/9hNaNVaqnSUJYT2y5TWawGynYbxiOa2gYbqTq2sikaRRoZ+sg2BqAfdT/rV56mw0/JNMZ3uJtLPSO0yaIsyALsCEx795DW8oj6A9U5mPLbCIaK9kronx3g3uOj8rjvsg217qN+rJ2ooJxbT7VmszxRtavotMqOZrCSfzh4famk7U6iYZ45sKDZLHCrCEKEqCNajtbzIb0a7td/iwzN12Fxsa7exXd3YT5vcutR5aa1s/9oj59dOBmrQinEfYCOHN74qj2DOkOyoi2DFn7OYKC+3SJ86faf7zzxs4ZilnkHr+oFk8yWPKe72pvM1KHAWYAjG2TpNDR97PZzA3YRcUhg5r0sTv/YVI+c7nmq9ZJ+HB57Lt3flAK0G07IKYJPlW7wgHim00o0B1DsPrHhMkvUgmuI9vIXmSKNdSfuNBMJE6hVYykafsyrTSehOQzlXXFKQlzuOPfUpwyrp9ApfjvYus2nHvwg8igodv8=;041VF0TOggfZbgoICHMyTQ=="
 ---

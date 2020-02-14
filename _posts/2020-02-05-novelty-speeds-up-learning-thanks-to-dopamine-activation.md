@@ -33,19 +33,6 @@ related:
       - url: "https://sciencebulletin.org/wp-content/uploads/2020/02/Machine-learning-technique-speeds-up-crystal-structure-determination.jpg"
         width: 975
         height: 732
-  - title: "Machine learning automates identification of crystal structures in new materials"
-    excerpt: "Providing a method for eliminating some of the guesswork from crystal structure determination, a machine learning-based approach to determining crystal symmetry and structure from unknown samples may greatly improve the speed and accuracy of this process. The new method brings crystallography into the high-throughput world of artificial ..."
-    publishedDateTime: 2020-01-30T19:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/aaft-mla012720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
 
 secured: "LfkEL5V/eKgyaaYRf8imBfb9DSCbRCMXcl9hrca9RPkPQGaCNYIBfDFbsFLwzGRJH6vu5hPwfpwq+U2DT/g5djCM7A7sDLeHHUJ4WodRCSpCXJffdau2APUJqYW0Gmkj5bgJC4r2OkZp25zkeEuxxmky6l3gWicnWdeMwjmYt4p0CG3DGi1kZC9AghUTj+lGfDWIUKBiWaMApyPrkH6Dma0FxdXjIw6XANbJqmnFoWWFz2IXD2FWJFIul2ZJirvJGYfjwnaFnJyOeuXxWfNhbt6i3kJj6aQhdbeSfdzFMDg7d/NEVHKQkzpQBQYEvqTnUrKDFxK1Ng7AppnOnOv7Ju1e+uM1fKC2WSJ8L9PnGfz1nmxUaFg9Dg3njzVUasIAbnEPuHdf67RDp6gyd8AYO/OYSLEBqKi61fbeJNdxbEX9cqrGmRf6siWzTuDzTfHP+0PzACGEJriKplrLf+xPbk9WWzLHeMKLwNAuEBZl18g=;avHPIHkgDK7jZi9TL1kFlA=="
 ---

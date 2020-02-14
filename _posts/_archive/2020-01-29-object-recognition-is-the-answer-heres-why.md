@@ -40,6 +40,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "TZsaFt0Y5eOTMCUG/0wWOYH1XqMYJ8SPzSf5feo1VwHfPTT+xJojCqXC/FiJJIGgCWZhhJVKBh+kWJqYhBGYjxkaKbdKrx0Ewa9khIXi9R/41VhkLJFmLcMBNogeTGW3kv5ZxcaZLRc/X2PZBNEIqsJfX2Xl0bvDUbL9VRbZoF7XV6pRBQZDeJivmcQ+VbuufkqOT3l2mW2DH/vbM3ILJFeuI3eCGauVv47pRWqlliMsqZ2SNGeey5pz19j5kxTuN2M+Py13L1AG7vpDHlrhGWEUGRedcPRzmutvVZuJKfk08u+YJQ8kq2ZGYU8shlev;rvnNovgotwiV/S1IptT6bw=="
+secured: "Awb6vgaIqhl06p/xATBhS7QzzFkLTi/UcDntZ782yGpOxy8PSSxBnjs1NflaUnbfiJl5/vbz+fCSyddPhc54hoQBvvnO9PJtzUvrph7VxlYFD86VP6kz9DqrJYMkx1FlCHd+/q4TshBsWzZSnySBlbVFGu99ACegin0AoTK5a/O01CMkxLdPK952zAMDjE8UBy+VBB9npNgy33U0xd1ypU4BJauI2lPIxGdgLg+WlphugAeiROUaZa9n7c7ZDFzwfWLySUXZAl/16NpGa0yLvc+USYyA4QsgmSpqfXL5uNPI+UMgzpgX7m7Yl7ORVPRD;bbBmYKZA+SQ/HyxS7eMNwA=="
 ---
 

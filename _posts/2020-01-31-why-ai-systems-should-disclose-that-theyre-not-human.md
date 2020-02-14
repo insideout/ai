@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Why AI systems should disclose that they’re not human"
-excerpt: "We are nearing a new age of ubiquitous AI. Between your smartphone, computer, car, smart home, and social media, you might interact with some sort of automated, intelligent system dozens of times every day. For most of your interactions with AI, it will be obviously and intentionally clear that the text you read, the voice you hear, or the face ..."
-publishedDateTime: 2020-01-31T13:00:00Z
-webUrl: "https://www.fastcompany.com/90458448/why-ai-systems-should-disclose-that-theyre-not-human"
+excerpt: "The believability of these systems is driven by AI models of human language, which are rapidly improving. This is a boon for applications that benefit society, such as automated closed-captioning and language translation. Unfortunately, corporations and ..."
+publishedDateTime: 2020-01-31T20:26:00Z
+webUrl: "https://www.fastcompany.com/90458448/why-ai-systems-should-disclose-that-theyre-not-human?partner=rss"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Why AI systems should disclose that they’re not human"
 
-secured: "INxgaOWoy13y6qouA2Kb+0DtcV6NUCT5n0Jtnb8IBGOcJx4zmduTccRwGh9Ao7lNUUv9/pgJeezMaNd+1mmYeB+vzxMOJZQen8oWcjjfPHACo/Btjh7+0D9TWDe+n8DtiCzpBNPgIUqjeVoV1KkLMdlGeebt5hQYY2MQtbY+CXSRXW8lMyPKUcfGNcpPDxeZstL69MkmciTs4CP1/bE2zNrkQnOQoUiqDCrlC9r2/se2kkZPemEYcqRRQ0RD9LC7KvGRbWZOE9QBxnuvnnNcI2zcBnxCbBAjUc/hygVG5jr5KgL5mWjKPFMKIweciMPeUUl/dMyDZ2Vg6gfjOCPeK153WSxeLlH9Hu/n3HN/lgtRg8L5wfML4CUTQ9fOpFeIlhyqlP6h4pVSYgqQ+jR3l9wfmi1zVniXeEAeqglj7l/A3hVos/l2AesKdzsrvTK1tf15Bq74aySUujwW/0hCowm/7eUqBWyaRVfX4wMBb1Y=;dW4w1UeXKVU11b9ES/S1Rg=="
+secured: "/RehNG9usP+9zIgbr6jbjlplGPf1KGoA+w+kt5btDE5sdTkSH+leAZur87AYIdSSjTCTx3R+yV11sLAh5n3UnQi4wIeBsZr00RrPy02RlULcWZWiPk0KKMOPpZQWKzb2b/vUb88Fiu7900JpYyHc5d2K6d2mm1G/ZLF+l3XP+66fdkZ469DA0FXvwHd9st/KocI8GFWTeI+khzVCnW8ClQhudSKU+LvM5MZ5s0CW8xxQZw8dwtvaMbCT7BveacpssFZDqYPiwW5ZDBCeu6Dbk0Vn+0yvlxlko7gjZ0JfV2ITpksw8ot5XWf9lrKhDGmG;w71Jsp0HL06uT3rQB3szMA=="
 ---
 

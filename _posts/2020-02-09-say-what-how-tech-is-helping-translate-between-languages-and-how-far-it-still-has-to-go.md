@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/gadgets/article/3049362/say-what-how-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3049362/say-what-how-tech-helping-translate-between-languages-and-how-far"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,23 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+related:
+  - title: "Translate this: How real-time translation breaks down barriers when you don't speak the language"
+    excerpt: "Half of the internet's content is in English, says Google AI director of product Barak Turovsky,, but only 20% of the global population have any English skills whatsoever. And while Microsoft's text translation technology now supports up to 70 languages and its speech translation can decipher around 40, says Microsoft technical fellow and ..."
+    publishedDateTime: 2020-02-05T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/02/05/translation-tech-solutions-language-barriers-google-translate-interpreter/4596091002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4596091002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4596091002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 31
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/0ac4d43446bf371f6ef33a823905ed947c4a607a/c=5-0-787-440/local/-/media/2019/12/27/USATODAY/usatsports/Reviewed.com-RvEW-23982-echo_amazon.png?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
 
 secured: "NECrVSssruYZTz5Uh5YS4ljbLbUVJKhrIXQ6LPNsw0pSLrJzfipIiFntixGe6x+3WA9fVxsFvJzwvjT5nI0SWHlq/jJYUbusY8dq4Gz7QMxS9p2Gm6yWh04LuCXTP7EqChky0QPM86nWXNew0wQeqGAGsGwehcGz8g2vqFzxbSJ6+O6FNL7Uw7QjfG04lS+WgsjcxoU2MNsQ/JR/Jn/M6ROUDycDB9zWYCoxcvAxpFWgOil/cNzgZpidwC4NaQ6SC6yCtfsdDf5IgkufL2szmCgihiHA5tZmLaXZcX/lqMO588wxapzIR/RgeU+Q8WwSoS48DoMnq+puChRM8QJi9ap4gDQB6vw7TSGk0ZOzL83n8Dy0nanoz0rYPuj2MFWNeYNfMGDyOcgwTuWgMtLOTjStaolL3kjXWp4LOyJoWv/KkrNnta2x0Kd0g4VGBdYcEDdOL4QmLoqcncUqfbBaVt1WN/qzKo4vVe+RQOXwbFc=;fBlE42Fk3ivpN3kc1p5rbg=="
 ---

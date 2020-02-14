@@ -353,15 +353,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Automotive Artificial Intelligence (AI) Market Growing Rapidly In Automotives Sector: Analysis By Key Players will reach CAGR of 37.32% in 2023"
-    excerpt: "Automotive Artificial Intelligence (AI) Industry 2020 Global Market research report presents you analysis of market size, share, and growth, trends, and cost structure, statistical and comprehensive data of the global market."
-    publishedDateTime: 2020-01-30T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-growing-rapidly-in-automotives-sector-analysis-by-key-players-will-reach-cagr-of-3732-in-2023-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
     excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
     publishedDateTime: 2020-01-29T12:11:00Z

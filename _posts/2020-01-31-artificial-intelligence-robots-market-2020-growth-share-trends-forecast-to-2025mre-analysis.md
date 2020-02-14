@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T06:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31"
 type: article
 quality: 73
-heat: 423
+heat: 413
 published: true
 
 provider:
@@ -351,15 +351,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Automotive Artificial Intelligence (AI) Market Growing Rapidly In Automotives Sector: Analysis By Key Players will reach CAGR of 37.32% in 2023"
-    excerpt: "Automotive Artificial Intelligence (AI) Industry 2020 Global Market research report presents you analysis of market size, share, and growth, trends, and cost structure, statistical and comprehensive data of the global market."
-    publishedDateTime: 2020-01-30T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-growing-rapidly-in-automotives-sector-analysis-by-key-players-will-reach-cagr-of-3732-in-2023-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
     excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
     publishedDateTime: 2020-02-04T12:24:00Z

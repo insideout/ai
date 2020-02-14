@@ -353,15 +353,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Automotive Artificial Intelligence (AI) Market Growing Rapidly In Automotives Sector: Analysis By Key Players will reach CAGR of 37.32% in 2023"
-    excerpt: "Automotive Artificial Intelligence (AI) Industry 2020 Global Market research report presents you analysis of market size, share, and growth, trends, and cost structure, statistical and comprehensive data of the global market."
-    publishedDateTime: 2020-01-30T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-growing-rapidly-in-automotives-sector-analysis-by-key-players-will-reach-cagr-of-3732-in-2023-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
     excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
     publishedDateTime: 2020-02-04T12:24:00Z
@@ -426,6 +417,6 @@ related:
       domain: marketwatch.com
     quality: 0
 
-secured: "Gg168ezCP7Xscgzh7LZSmnCniSkFfXtokbLDxbVIjauheEAOsIIdjML7fZ0kq4I0Yu5ZyHRWgbrgqU4m1hp2+YsKJ5c34nw69C5bJuq43H6JPQJ78qY0iByX2be3AK3vVTntgs8BPqpyKeCtlzX5+BYKSldNsDdZtodH99joTenq+HhGUAr+tDIp7EVTVB2Efn3s0DwrI7cVLITDymWssQaPE/JEpRXm3+dBJw88I2VQ/ORlC5tPS39k+I4VR5nalmA0BanfTxUjHJJttW6IVQ9fd4SuQLViXjpPWpMiA211EAhOqR5iMlsxC9N6NGKB;wx/qgSH6RLXO4umGbk1rRg=="
+secured: "x3bqCsl2XHVcA7K6PA37KlDvoz0l7W7YFtLhUWCp+NwNkTTqb/WjbtfiKAvXiMn6qXzFTjBFC74uucZjti+YiJMncWHRJ35M1EraSsh1ccWsqxi4ssJ5/fWkG/nvIPMrljU2WJ4/10DSzYU40X2bWEC6iqkt1Defeh5jVFaFqmpKEG3xCJZB3OHjXzcmZhYbdj2x32IqzmoRwMsBXdXvuzbSfXd3FJd3Rp0XprgCnn6opOsPRJnpXQm2npkV/12PKi8lXtOcKmnUP/2KrwFUjUJOcMCbffWYT/gielIOHyu3+Nocm4Nqg3VnECPJtGbG;/T4TM0LEdDEGJsgQdBQpLA=="
 ---
 

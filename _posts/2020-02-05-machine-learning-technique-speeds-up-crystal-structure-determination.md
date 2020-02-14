@@ -24,19 +24,6 @@ images:
     title: "Machine learning technique speeds up crystal structure determination"
 
 related:
-  - title: "Machine learning automates identification of crystal structures in new materials"
-    excerpt: "Providing a method for eliminating some of the guesswork from crystal structure determination, a machine learning-based approach to determining crystal symmetry and structure from unknown samples may greatly improve the speed and accuracy of this process. The new method brings crystallography into the high-throughput world of artificial ..."
-    publishedDateTime: 2020-01-30T19:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/aaft-mla012720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
   - title: "Novelty speeds up learning thanks to dopamine activation"
     excerpt: "Novelty directly activates the dopamine system, which is responsible for associative learning. The findings have implications for improving learning strategies and for the design of machine learning algorithms. A fundamental type of learning, known as associative learning, is commonly observed in animals and humans. It involves the association ..."
     publishedDateTime: 2020-02-05T17:09:00Z

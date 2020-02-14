@@ -29,6 +29,6 @@ images:
     height: 800
     title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
 
-secured: "cGXxB1+JdsOJa9is1fh9ln0jXIXtcX8mAq9urMdV/JlByYd3+e3bsKxfktRbIbyKLh+eu3aLtwOBCGM1sHt/wLhIdm4j1ahOJrH5IUAcY+OGvh2NvcFhE9k4X+U3OrixUfcWbXLKy0f8E96M4gdgIWsBN5+uoFqQoE1h/WvVUmGmI48WxV8ydfGtQjxmrF3OlUXFTYuoVZoL4tkiaL2I+B1zOkwUz0UXs1j23MsvbOmFhdje360T01bFjiL0D7HY3bEEi6xF4N2PAN59KsEWEDQuTwr6TkOCR8UjhQ0JoN5Zh6eJoa7Hpz6t3/9YkKGL;3pAYjckIEMBO0Y/9X3wVjg=="
+secured: "383V7pc6Nmqh+U8etrPCtsh2qZPadiSu6bvp0NWNy3wnZNBUDCVdzbQLK/Qb8VJtUnCLytuhkSBvbOtkkq3O7uUONsnGouaOiZeYdqGRy4ncsfCaXxQDRsE/E+KVWiE9reJbjCMv7lG9KVSyhe2G+ZwYwhJ1cScqh1mdQMmiJjVeY0zlnux26JoMKUfDlue+uzsMk7ZB0IaN2mBgqMOBK1EEFJ4xEhMz8cq4cQe+wnAiQ0oSISzhPP+vSmqU3pMCU69fp2IyVa1tMCKOIh5sAUD24SQmX0T+wAeJtipfuQJQrNVml71a7NKYq/ByHhxG;KJJnByzJWh8c9DJsqvCVww=="
 ---
 

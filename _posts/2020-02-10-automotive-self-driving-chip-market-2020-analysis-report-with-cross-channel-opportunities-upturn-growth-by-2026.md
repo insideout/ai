@@ -28,19 +28,37 @@ images:
     title: "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
 
 related:
-  - title: "Autonomous Vehicle Market Analysis (Report 2019-2027): Growing CAGR 35.6%"
-    excerpt: "The global autonomous vehicle market is expected to expand at a CAGR of 35.6% during the forecast period from 2019 to 2027. Market Insights: An Autonomous Vehicle, sometimes referred to as a self-driving vehicle (SDV),"
-    publishedDateTime: 2020-02-06T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-analysis-report-2019-2027-growing-cagr-356-2020-02-06"
+  - title: "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026"
+    excerpt: "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
+    publishedDateTime: 2020-02-14T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market Development Analysis 2020 to 2026"
+    excerpt: "Latest Trends Report On Global Automotive Artificial Intelligence Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists."
+    publishedDateTime: 2020-02-13T11:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-development-analysis-2020-to-2026-2020-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+  - title: "Trending News For Automotive Voice Recognition Market 2020 Analysis, Forecast Of Business Revenue, Size, Leading Competitors And Growth Trends"
+    excerpt: "Automotive Voice Recognition Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-11T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-automotive-voice-recognition-market-2020-analysis-forecast-of-business-revenue-size-leading-competitors-and-growth-trends-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "fOHku34fdBQx3Q86TLEYz79VhO+E1nASRtUtsH6hs4LWP6LxurWl0zAr5mvR47BxfiC4aPKtrrCn9KC1zKr4GKVV0hwBQe9dNEuUNBzaXTdMHlssuTddvffNUFduuea8J16ibFhL7NwGi195dewsZtVWMvQTn/d/ylMh0qRSHv3eA2A37snhnmh/BJvR+6pIvPZfZQNvGA8IgNmyZlTWb9rJseF2ZIUFtrDWcy3XF1rty1pC2GVA05Q0r43vlXkABTdMJaIUkV+goxJF1salBbFBsRRfTZsqgxqcurz2sFe4hcWR5TRwkbkYThhnDf25;Ko/cR+amZswUrECAHWTa6g=="
 ---

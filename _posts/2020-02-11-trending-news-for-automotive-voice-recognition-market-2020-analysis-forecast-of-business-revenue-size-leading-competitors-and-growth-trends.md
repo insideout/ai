@@ -22,6 +22,19 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026"
+    excerpt: "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
+    publishedDateTime: 2020-02-14T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence Market Development Analysis 2020 to 2026"
     excerpt: "Latest Trends Report On Global Automotive Artificial Intelligence Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists."
     publishedDateTime: 2020-02-13T11:27:00Z
@@ -31,15 +44,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "AI in the Auto Market to Eclipse $12B by 2026"
-    excerpt: "In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip that features 8 million neural networks and can reach up to 10,000X faster computing speeds compared to traditional CPUs. Furthermore, the increased use of sensors, including high-resolution cameras, LiDARs, and ultrasonic sensors for vehicle situational awareness, is fueling the ..."
-    publishedDateTime: 2020-02-10T16:24:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21122595/ai-in-the-auto-market-to-eclipse-12b-by-2026"
+  - title: "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Self-driving Chip Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of the Automotive Self-driving Chip market."
+    publishedDateTime: 2020-02-10T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-02-10"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "eCL5AD8/3rUzTIBzm8nOjSXjQQvsUYsrh9yed4tDXydVpOvNsA1I9hNgYSp876t4YpinYqVM5pP0qCFQVn8yi6JspWmGq8esGSlgpxg+rUoVZDXwk0GzKA9CC19lnwAQN5zJWadYNAHqzQ4E0sPgEsObBq/OkXdLI8yPi9iKeHBAuk2vQfxNy9URQOvYxCcE7R84VTYvHdjXuga7mTRv5hKibe9NsgWx/nUAnvZm2xtqWyHVDZGqYW7ZKp9dJ26wOuUsaqAMH+mB5TTa1AILPH7/e0Jqw2QIhYFyif1WD6DvZk6nLkc90YIJ3ZVLnRLF;/n3eItG4nYbrW4zItpVvyg=="
 ---

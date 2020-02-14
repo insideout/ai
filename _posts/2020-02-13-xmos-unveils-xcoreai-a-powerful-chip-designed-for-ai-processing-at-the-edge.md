@@ -79,6 +79,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "G024AAQONgvKTJxeBouMDal0PMRr5QrfDUCMNShZ0eZcdnz47490UOWzU70ufZGtzBXi+/EeYbHSmvjVA598+YteCgVdsvdAVu4HSmuEnsVCblSYzjRio/ow1STaCtQD9+hp9wBn+/afuDATfSigIqtUL/kK0+LA+XjGlrS0rdv4/Rl02xdjHXdVq3jWaGMpKsijlib+dq4aPKljtJn0dgEX5hK+tFhjRbEwawWO3v35SXf1mW8YuH6QBHcHPRd/HJFL6Md9Zv1iUY8tploToRkV2D+cSZ0t3h/ko03mJfTRwWia4Bot42Uc2jaY5qIG;KCOF2P9HKtb8NvHFtG0I7g=="
+secured: "YYWefdZRkndaMJp/aby6ZCKBE5kCYrEEUWzydfAxiEG0sNZTYwuZFxDhCwQCflJN4jILTSF1eVqHdZH60UvZgIuGgLTA0ozra7WWhmw83EnpidKHxD8MTvBqWsFPR6CjaJxe5PGnUxBZuv2IJ1LCr8qBW4MzPV4BK2j0GBJUQb7Hi7jT8KNwauNXlZSbQ+Abk0tI6W6fpbMP5qxY5igH22VLYno9TOSUdCA/+w7kLjD0a4Y2wat3zr9Zl7dWqLfc1pIr0DO2ZH/HVoaUcTdae8Y/VWy+RGrv+jBtBI8weLf+lYdLZzOfepOBQiFWMN96;UryZ3tuBT6dpdRJmZ8FBsQ=="
 ---
 
