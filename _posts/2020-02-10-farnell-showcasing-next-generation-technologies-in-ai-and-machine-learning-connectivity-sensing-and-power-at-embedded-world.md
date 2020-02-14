@@ -64,6 +64,15 @@ related:
       - url: "https://avatars3.githubusercontent.com/u/16797137?s=400&v=4"
         width: 400
         height: 400
+  - title: "Codeword Selection for Concurrent Transmissions in UAV Networks: A Machine Learning Approach"
+    excerpt: "Fortunately, machine learning (ML) is suitable for decreasing complexity in codeword selection, because ML could extract features from the data samples acquired in real environments. In this paper, we propose an ML approach to achieve an efficient and low complexity codeword selection for UAV networks. Specifically, we first derive the ..."
+    publishedDateTime: 2020-02-14T03:17:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/8964365"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 8
 
 secured: "0QecKAF20kMInTFuRYpcO+HiA/JeRxBK60W0Oq8WAfVZKhASjfRo3Zmrk4mv2558PU30xpjy/fRD4KjgZuhf3yamM57AJwsg4W1mNzCsHOrR0h+canbLgtVUpmca15Fr9Z+5T1z/v2GE52Z0R+AOlg9rZoPwwc34kp5yhmn8vM8Jzms0VcGJ3Juumyn94qIl/815qcsSlfhlELKCOONPSS62A12miAxnOiNzFeqI2Ht3YMk0gME99d5lcBg84p0O5/biXJ9h8MBi0BtCQmktLkaiRqgBAsUjVVWWD4Rv2pkE8xvpoHF8H0iXZMR4ivOm4ZhLbCuy/sXbUT+gbu3MSmQWUryv17DCVXC3rhkRcym5XB6qaD+WvgVO4Tv5wEcVFlFaDlcCaMq9gWXW0E19hDAmUzorINiWbGESor/ZW3xi++YfW+H3U83lkjKDXbAyDzL7mWzqDYmiHKHPLajPks9i1q+h69cmlU3vRT11BoQ=;PXoHX6yHOUq5LPG9ZNlGAg=="
 ---

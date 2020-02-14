@@ -37,19 +37,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/NEXC_INFORGRAPHIC.2e16d0ba.fill-1200x630.png"
         width: 1200
         height: 630
-  - title: "How Oregon Works: AI evolution is changing work for humans and machines"
-    excerpt: "The field of artificial intelligence has evolved as computing and storage prices have come down and the amount of data created by smart devices has gone up. Infrastructure from Google Cloud and Amazon Web Services and other tech giants mean more people now have access."
-    publishedDateTime: 2020-01-30T22:09:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2020/01/30/how-oregon-works-ai-evolution-is-changing-work-for.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/10755766/gettyimages-802851578*1200xx5000-2813-0-290.jpg"
-        width: 1200
-        height: 675
 
 secured: "s9Muo49602DDY1uAXQ2xOEaBbmmAOO5a7KcdHfJ9D8hrFnhwx821ouDugsz8tGW4agSn+NLIrd9nGu5krDUAUb78tKmegts1YgSKBfksvSJUSfIjgl+9DIadbYFqxu3neuawdZ6lnaqAEAS9nljxH3rEzr3fVah1D3GYviXuohKajr9MsSwSdJN1FspfzErqtF2iLpQD5FdMU0vBleGODDCX7oTPqsTmTPdKKSDeTqAnVDdi2hPBmK9DX+KtBoaP4NDEMa02NEVpMF0dVXuvC3mH6UPCKbas4NDIj2f4bWhanie5vjRVcvJa4ccrfshlDu1JrT45y666hIk3a9C6EUT6LDa+6BfkbYvZy5XPipswXSkqrWOxcb7uwzqVlV39c1QvZ1tQwpOSnpYDDZhTVgkiXzVJau4STEKkNLfRUF3t+LCbgSakEAlidqWTra38E0Wd7SfkuxCYQ0PfU/y2fLixMYJFGHCVp+6Ut613gqg=;G5OuFbjB4QU4jsj5o0IxWA=="
 ---

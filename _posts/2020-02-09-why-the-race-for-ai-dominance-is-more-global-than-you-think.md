@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -34,6 +34,21 @@ images:
     title: "Why The Race For AI Dominance Is More Global Than You Think"
 
 related:
+  - title: "Android facial recognition is more secure than you think"
+    excerpt: "After running real-world tests of Android's facial recognition on a Pixel 4, Jack Wallen shares his theory of why some people are so concerned about facial recognition. My TechRepublic article How to enable facial recognition in the BitWarden mobile password manager wound up receiving feedback about Android facial recognition--not BitWarden."
+    publishedDateTime: 2020-02-14T15:11:00Z
+    webUrl: "https://www.techrepublic.com/article/android-facial-recognition-is-more-secure-than-you-think/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/android-facial-recognition-is-more-secure-than-you-think/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/android-facial-recognition-is-more-secure-than-you-think/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/02/14/7d318858-3655-4511-abd6-0b3f89d03303/resize/1200x/dd6b6e59edbabf3fe55af7ed24c5343a/facial-recognition.jpg"
+        width: 1200
+        height: 633
   - title: "Explained: The Artificial Intelligence Race is an Arms Race"
     excerpt: "Graham Allison alerts us to artificial intelligence being the epicenter of today’s superpower arms race. Drawing heavily on Kai-Fu Lee’s basic thesis, Allison draws the battlelines: the United States vs. China, across the domains of human talent, big data, and government commitment. Allison further points to the absence of controls ..."
     publishedDateTime: 2020-02-02T17:18:00Z

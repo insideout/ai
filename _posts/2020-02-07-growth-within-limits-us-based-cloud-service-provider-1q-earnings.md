@@ -44,12 +44,12 @@ related:
   - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
     excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
     publishedDateTime: 2020-02-14T14:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200214005074/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200214005074/en/Spectrum-Selects-AWS-Preferred-Cloud-Machine-Learning"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 11
+    quality: 28
     images:
       - url: "https://mms.businesswire.com/media/20200214005074/en/773548/23/AWS_logo_new.jpg"
         width: 1200

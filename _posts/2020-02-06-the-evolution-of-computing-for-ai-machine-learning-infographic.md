@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-06T14:16:00Z
 webUrl: "https://www.datacenterdynamics.com/en/whitepapers/evolution-computing-ai-machine-learning-infographic/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Datacenter Dynamics
@@ -24,19 +24,6 @@ images:
     title: "The evolution of computing for AI & machine learning - Infographic"
 
 related:
-  - title: "How Oregon Works: AI evolution is changing work for humans and machines"
-    excerpt: "The field of artificial intelligence has evolved as computing and storage prices have come down and the amount of data created by smart devices has gone up. Infrastructure from Google Cloud and Amazon Web Services and other tech giants mean more people now have access."
-    publishedDateTime: 2020-01-30T22:09:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2020/01/30/how-oregon-works-ai-evolution-is-changing-work-for.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/10755766/gettyimages-802851578*1200xx5000-2813-0-290.jpg"
-        width: 1200
-        height: 675
   - title: "Deep Learning for Predicting Severe Weather"
     excerpt: "Researchers from Rice University have introduced a data-driven framework that formulates extreme weather prediction as a pattern recognition problem, employing state-of-the-art deep learning techniques. Their findings were published in the February 2020 edition of the American Geophysical Union’s Journal of Advances in Modeling Earth Systems."
     publishedDateTime: 2020-02-06T15:25:00Z

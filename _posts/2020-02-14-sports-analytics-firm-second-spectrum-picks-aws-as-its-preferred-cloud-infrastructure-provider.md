@@ -23,6 +23,6 @@ images:
     height: 312
     title: "Sports analytics firm Second Spectrum picks AWS as its preferred cloud infrastructure provider"
 
-secured: "i7+sa/tL83gP4Zmh2AfiNr6gjxZgVwdR7f6LpaVIH+a0BbxZ0kLeihIzy4hu26Nk7Z9zNuLjCXmTbr9hSiymsiBiIxOCe3YcIN8V0hJMQxZAmopw5+CB+BG0shbxQ7YmzTcI9OyfLKNvZ/Vv9EDs77TI/8gU/pl6Jjh7VX47oyg5BfnFRYOUq+MyiTDNRCruvNS3+cYpR02osz5LzinQxJv+GGkD2h4+5w+5bKgQcXa/wWcg6gcd+Ii8pxvd8yRwcAHYuqmGt/e9wEHc2AEym1+Po26P3Xki4+niTCY3luUi9tMlMlILjTw3TIjE1R8W;Mh6UrT4YPeB/cxzDB5Z70A=="
+secured: "baw83q46edPqDOV86fp84aqZEWallhqGI3qCLo/f5Tl+Uq2o9ENIjv6JsVb90Eb+oltbqFfUJEKVfahRIM3iizQ7K0lt81Ul6IZNbDM97SVTzRU3mWSo2htdDIZc+g4w6qTvOVeoY9+dlwjSteuxlbmtvO8cJcj0tEw3inIDl4+NGEP0HRyS2Nn3mJAXwuuEgFIt0d+4D+OUDO9cJKo3cAOlgDzjUHVHXCT9bVM+QnNuB8kpGWDki96xEy2nIjVul+qTp4KYJ2VBh5aeBiI/htVOg55CSgpW1zQi2i+GjEZS0jb2CDPOW/NsG0/hm5MimrnvlXQoKmGeACWr31By3FBxryYQat4vV0Sn+2iqwZ/ipl3PEw072pYxIgLvF49+yGYF42DfJ0QbN2Ksjk/ZLP2SSijC247/HaCOjVEOvBvM9h0OvPZE9Evv1i/m08fVYmznYsNc38/kVru1YHA1fBbFE/HnjEv8T+cOTCf2zQo=;bw61eqRrt06QJTgeR+a93g=="
 ---
 

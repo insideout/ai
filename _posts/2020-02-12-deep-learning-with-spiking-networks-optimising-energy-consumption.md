@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T22:58:00Z
 webUrl: "https://medium.com/@martino.sorbaro/deep-learning-with-spiking-networks-optimising-energy-consumption-50588b4435fd"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/576485291/76219803_800_2049611-embedded-world-eu-q2-fy20-gigaframe.png"
         width: 380
         height: 500
+  - title: "Codeword Selection for Concurrent Transmissions in UAV Networks: A Machine Learning Approach"
+    excerpt: "Fortunately, machine learning (ML) is suitable for decreasing complexity in codeword selection, because ML could extract features from the data samples acquired in real environments. In this paper, we propose an ML approach to achieve an efficient and low complexity codeword selection for UAV networks. Specifically, we first derive the ..."
+    publishedDateTime: 2020-02-14T03:17:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/8964365"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 8
 
 secured: "K+vmaHQFRz7KIKZiSE0BJ+/8qPCtqxc6H3wLpcwZOli3HfVqSRR0lyhWNen/XjnVX/lshEQSLDjI3X+D4RGn0D4tVaTzkZKe2xJTj7f0I4A+0viURN9PXKYx0ef0gH11vcXYW3GOmObZRqBvMAvtc03R7dj+fvbk6r8UYzaAmPRaxsDHgVk/cAbuDUy5fuk2RPoDT9HomxTTGu8hWyyNXNqjmd+8iOX+JjWYU/zL6lsVhFRaabFzxel5uC1jXC6Tw+fD17eHpfwo66VcqbYUecwvrYnCry2YxscQqzF5m63GV3i0EXlHkag6/SkAZIBr;MSlMh/45EQ2zbL2nN6n1uw=="
 ---

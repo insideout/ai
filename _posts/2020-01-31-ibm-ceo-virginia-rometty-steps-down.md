@@ -26,19 +26,6 @@ images:
     title: "IBM CEO Virginia Rometty steps down"
 
 related:
-  - title: "Rometty To Step Down As IBM CEO In April"
-    excerpt: "IBM announced Thursday that Ginni Rometty will step down as chief executive and be replaced by Arvind Krishna, a senior executive who has led cloud and cognitive software. One of the most high-profile women CEOs,"
-    publishedDateTime: 2020-01-30T22:08:00Z
-    webUrl: "https://www.ibtimes.com/rometty-step-down-ibm-ceo-april-2912878"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/30/ibm-ceo-ginni-rometty-is-seen-in-may.jpg"
-        width: 1024
-        height: 682
   - title: "IBM CEO Ginni Rometty to step down: Analysing the cloud strategy and in-tray for the new boss"
     excerpt: "“He is a brilliant technologist who has played a significant role in developing our key technologies such as artificial intelligence, cloud ... As we have already seen, turning a ship the size of IBM around is no easy feat. For Mew, the fact that SoftLayer and Watson were opportunities which fell by the wayside exemplifies that virtually ..."
     publishedDateTime: 2020-01-31T18:21:00Z

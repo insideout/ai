@@ -40,7 +40,7 @@ related:
         width: 600
         height: 338
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
+    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
     webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
     ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
@@ -55,6 +55,6 @@ related:
         width: 1200
         height: 628
 
-secured: "yLSlcjuA+d/6n2sMOWWN2KISl2rOgoUQUaEVCfnOcXuVULeSyw4xbns6uaDmCee4TwnI1Pq+lHrvCo9sI0XpAadmTHC2qhsyqfYymXAWJEZTjvNZu9dE6azuBbsm/3Hi29geavym4nAclbfxM9GKViA/uoZ/ZUyNJwl7nvxBvMHqApSRpmkU9c/sk47Ch+LQ0tlemyRcPzaKMi1rmfGWL29UQjzaFgS148gkswCmdPiMYsNKhRWchEmrDGV7vkQ8qWTtYIKne9yGIbNbjL2u40tf37qi/UD+A9QVQnLdPvcw7cYCECehELXX1R1fDJGh;5HkmEIP903BriS/LiVQZGQ=="
+secured: "UGKfpQnC6gtF0xv0UU8EhJ0J+RXe22x5t1aydkYNYU17XgIjVhpZ4lWb0rwcH2ead+xc5Udg1FB7DcE8bxZ1nAZwzq4lfcGMGkNypjsq/2VO2YFGz8jIDoQsAY9QvpXTqTyh4dASqRTNWTErEXGFvI0UXEhwf4yiFPjIWVHG2QGZmcYL9ck9PnVhD8epp3BH4N8a791IUnFlVQN/l10eRAOwIkpsmJZzfLMU9VPH/mAD9/jpfVr/eUJVYOa2nTp9yaCyrO/mt6WSxM8+T34gMNcyaS2E25iWWsCwdN9sdjq5GDCNht+4+df2YXhOHkcc;zKAQBkhqK14PhkEba//sAg=="
 ---
 
