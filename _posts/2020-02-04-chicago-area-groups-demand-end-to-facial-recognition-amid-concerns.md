@@ -34,7 +34,7 @@ related:
         width: 1024
         height: 576
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
     publishedDateTime: 2020-01-27T09:55:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -1039,15 +1039,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
         width: 770
         height: 400
-  - title: "Facebook Settles $550 Million Facial Recognition Lawsuit"
-    excerpt: "100% of the fees we collect are used to support our nonprofit mission. Learn more. Facebook has agreed to pay $550 million to settle a class-action lawsuit that alleged the company’s use of facial recognition technology violated the Illinois Biometric Information Privacy Act. The case marks one of the largest cash settlements ever reached in ..."
-    publishedDateTime: 2020-01-31T00:05:00Z
-    webUrl: "https://www.consumerreports.org/lawsuits-settlements/facebook-settles-facial-recognition-lawsuit/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 19
   - title: "Will we see operators using facial recognition software soon?"
     excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
     publishedDateTime: 2020-02-06T15:53:00Z

@@ -71,21 +71,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/4a27481b1e21d71baa0753942711dc546cb02e12/c=0-21-4379-2495/local/-/media/2017/02/02/USATODAY/USATODAY/636216233907056760-AP-Groundhog-Day.3.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-  - title: "PETA Calls for Punxsutawney Phil to Be Replaced By Robot Groundhog for Groundhog Day Duties"
-    excerpt: "The group is proposing that instead of a live groundhog, the animal should be swapped out for an animatronic version that would be equipped with artificial intelligence capable of more accurately predicting the weather. Such technology already exists, Crary says, pointing to such creatures as Aibo, a robot dog. RELATED: 5 Burning (Burrowing?)"
-    publishedDateTime: 2020-01-30T23:13:00Z
-    webUrl: "https://people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/"
-    ampWebUrl: "https://people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/amp/"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/amp/"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 49
-    images:
-      - url: "https://peopledotcom.files.wordpress.com/2019/02/groundhog-c.jpg?crop=0px%2C0px%2C2000px%2C1050px&resize=1200%2C630"
-        width: 1200
-        height: 630
 
 secured: "l3CgksWeOgKuEqwXf6ESTQakEnmIU3bESuB8l+d/m/FPMaycjsY1+6TcUxBMdFgE7PH74HNsT5TfrMsszwzQYNoZLm5Q9yMYqOyo98AEYd8tXhqFAMn2ig3v7LcY9WQNjnbcMATJCNiZrokO8GEFWv1fi4TvOfUK1//xqjcZNidBA2jDsUWSIlB9s8+4Vr6n92JRqh37XHi0RvblwWu5rmnAhCyEQ84qVCMH0Fm0At0dB31PPhJMt9tzoT5ujS45s3uAP2XBePxhHL6YwP5xsCKjNrOMGu6KHvSmMauZAsvtjnMfH8M50lLpnBUCKenQKQeBZtv3QNRxvZtnyIyx7TuWZnd6OhtpW1HU2BkQT2PyAO+QW/naMAd0gcWGIr+3vEudgP/yGat8RnypU/QThHtJzukfR9e6mXUcfpbTE6u1m1gpOB5zxumGcAbs7miKZSzZ+wNK0cOr3FHXk0OPuMzW7oddZWZy4si/B7YGG2A=;udo1n3CPDi7Qy8fLDdX10g=="
 ---

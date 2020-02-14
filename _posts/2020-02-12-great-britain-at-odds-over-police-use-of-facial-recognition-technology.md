@@ -379,6 +379,19 @@ related:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/12/rk_facialrecognition_120220.jpg?itok=HoPHK8e9"
         width: 763
         height: 509
+  - title: "Senators Call for a Moratorium on Government’s Use of Facial Recognition"
+    excerpt: "Two Democratic senators want to stop the federal government from using facial recognition technology until Congress passes legislation to properly regulate it—and they’ve produced their own legislation to do exactly that. Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., introduced the Ethical Use of Facial Recognition Act Wednesday ..."
+    publishedDateTime: 2020-02-14T16:13:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/senators-call-moratorium-governments-use-facial-recognition/163131/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 38
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/14/NGfacialscan20200214/open-graph.jpg"
+        width: 400
+        height: 400
   - title: "Utahns approve of law enforcement’s use of facial recognition technology, poll says"
     excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
     publishedDateTime: 2020-02-13T22:32:00Z

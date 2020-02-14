@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thedenverchannel.com/news/national/peta-requests-punxsut
 cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot?_amp=true"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -71,21 +71,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/4a27481b1e21d71baa0753942711dc546cb02e12/c=0-21-4379-2495/local/-/media/2017/02/02/USATODAY/USATODAY/636216233907056760-AP-Groundhog-Day.3.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-  - title: "PETA Calls for Punxsutawney Phil to Be Replaced By Robot Groundhog for Groundhog Day Duties"
-    excerpt: "The group is proposing that instead of a live groundhog, the animal should be swapped out for an animatronic version that would be equipped with artificial intelligence capable of more accurately predicting the weather. Such technology already exists, Crary says, pointing to such creatures as Aibo, a robot dog. RELATED: 5 Burning (Burrowing?)"
-    publishedDateTime: 2020-01-30T23:13:00Z
-    webUrl: "https://people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/"
-    ampWebUrl: "https://people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/amp/"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/amp/"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 49
-    images:
-      - url: "https://peopledotcom.files.wordpress.com/2019/02/groundhog-c.jpg?crop=0px%2C0px%2C2000px%2C1050px&resize=1200%2C630"
-        width: 1200
-        height: 630
 
 secured: "/f8Lxra9HGXgyorx43BZqPW46Zr7JfUMsvb5Vm0sl8ueEPreLuI1GIJX+Lgb0NvccG6VKGD7eAR/qQWFOAfY+wcDwQfzdjQJUOuU+lrprtCUDI+WfL1pnI2n5Rw3Krm+nEql3qCYk0Bd1m24lf5m6VNuVn83HyBHKaky2LcLLnI3A0t5POyPr2rBXHghHjHXd296LFqrkXsZfXIPdrmFkapil+MoEXlsj43Gk4v2/oDDO/+hMRgsyZmJAHEPh55jNeJfQgIfR3it3iTDJcVfFxpIbqw/M5iDFWixkRvLeY/Qi8LuUwV3xuRh9FSTxuUc;+wtpaK0LCusofXVdCLj2jw=="
 ---

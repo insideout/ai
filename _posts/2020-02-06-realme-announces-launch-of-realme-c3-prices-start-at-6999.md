@@ -40,17 +40,6 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/02/Office.com-experience.jpg"
         width: 1026
         height: 564
-  - title: "Porting.com Announces Industry-First Microsoft Azure NPAC Certified SOA"
-    excerpt: "Porting.com has announced the successful deployment of their NPAC Certified Local Number Porting solution on Microsoft Azure - Telecom's first and only Azure hosted, NPAC Certified SOA. After receiving the United States' first cloud NPAC certification in October of 2017,"
-    publishedDateTime: 2020-01-30T23:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/p15223790/porting-com-announces-industry-first-microsoft-azure-npac-certified-soa"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15223790"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15223790"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
 
 secured: "28/A2VbALEL4LrcHOPH9wcbIJ2Yp+HEYBr6179qI+0nwRiQpOh7WCKmb/j9tBgh1KmkC7+S8gv+BuuSky966U+TlazNupPscMs5gMDKkr/Lm8/k+kzpkhUfi+EaI2AOhM9d8UVrtcNe7Dt8xh7PRQYuz/4aralBG56HI3vJFkxHjaKBsZ7f2GLh8OSkfYOF89hiUj9bDzmHMx76IaYZhMJ+KUqQbWPrW3JgilbBhLRNj5ycfJBALwyZHItowXxuplcC45RUEQGXV3Ebd6P8TDtSIxtzj4xU1+t3LGtnhYdp8RNs30xq2DKJ3Iq1Dz1BH;uFqY9XOI/IKL9H1JbEzr6w=="
 ---

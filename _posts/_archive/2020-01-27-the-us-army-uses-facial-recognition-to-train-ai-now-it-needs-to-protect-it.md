@@ -1,7 +1,7 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -1036,15 +1036,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
         width: 770
         height: 400
-  - title: "Facebook Settles $550 Million Facial Recognition Lawsuit"
-    excerpt: "100% of the fees we collect are used to support our nonprofit mission. Learn more. Facebook has agreed to pay $550 million to settle a class-action lawsuit that alleged the company’s use of facial recognition technology violated the Illinois Biometric Information Privacy Act. The case marks one of the largest cash settlements ever reached in ..."
-    publishedDateTime: 2020-01-31T00:05:00Z
-    webUrl: "https://www.consumerreports.org/lawsuits-settlements/facebook-settles-facial-recognition-lawsuit/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 19
   - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
     excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
     publishedDateTime: 2020-02-04T23:36:00Z
@@ -1084,6 +1075,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "BKY3BsME7PBNeS8eFkB82B3/phRUnuK74OC8iJT1du+SI1K9DOgGBnxWC5TK6mxp+xPuufORQRXYFh9hH5p8XTxh61cMKToII58eZZI01ZOZkvoVJsm0AvrzsVti3rEEBtsctB9crSnYA/AXg4haDigongnnmufIt/k2GrqHAgk3/OHtKBOSf5bAbl0um+QrR22sFBCdbuwV4lBRGdyBFWy4WUrmd1/8iZTp8CDVQztybb5gfrKlXql4hqmTRozTdZqegnjxh1dDftg5JNwmYFlu01tpnPNf2YbNugpv1pvlVwqW3Vzjia0SoCbTqHOx;9hNntKmvbLJa1Fs/whfpDg=="
+secured: "1glPZU/QZb73qSWH1il/p69GgLZiCHodQyQOvuIiy54r8cJonm1fu3UaGbUJYxq1Xvw7v0ynMBE9oIAJCBG67qGkriTU6EoNrwWkNuj9MEnbN5JXAnI7Bcr8rf5vq/lkZLTuoe7uSheU/pG0ccjaOlhzcKTL2v0I5CVE6By3XnwwfcJcrn7vaEt7mmhwLa2gotAptugZC0e9B6v1sIIzqpnVhRaImA+j+O813+b/wZplRiS/Y7ZNJ169xo/uUMis/6cU9feBhecCboaUvjXH+BGJ3fVjAV6aKKe3VXekwxIL9DF4DeBWBA6rCNDG8LfJ;IW8qtsLhzbc7ePmyDiX6FQ=="
 ---
 

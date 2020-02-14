@@ -370,6 +370,19 @@ related:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/12/rk_facialrecognition_120220.jpg?itok=HoPHK8e9"
         width: 763
         height: 509
+  - title: "Senators Call for a Moratorium on Government’s Use of Facial Recognition"
+    excerpt: "Two Democratic senators want to stop the federal government from using facial recognition technology until Congress passes legislation to properly regulate it—and they’ve produced their own legislation to do exactly that. Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., introduced the Ethical Use of Facial Recognition Act Wednesday ..."
+    publishedDateTime: 2020-02-14T16:13:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/senators-call-moratorium-governments-use-facial-recognition/163131/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 38
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/14/NGfacialscan20200214/open-graph.jpg"
+        width: 400
+        height: 400
   - title: "Great Britain at Odds over Police Use of Facial Recognition Technology"
     excerpt: "Great Britain's three nations are not in agreement over the use of facial recognition technology by police forces. The technology, which can be legally used by police in Wales, was officially introduced by England's Metropolitan Police Service in East London yesterday, amid a peaceful protest by Big Brother Watch. Use of the technology by ..."
     publishedDateTime: 2020-02-12T16:20:00Z
