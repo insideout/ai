@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The Global Emotion Detection & Recognition Market is projected to grow from US$ 21.6 billion in 2019 to US$ 56 billion by 2024, at a CAGR of ..."
-publishedDateTime: 2020-02-12T00:38:00Z
-webUrl: "https://www.oilandgas360.com/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artificial-agents/"
+title: "Clearview AI facial recognition company faces another lawsuit"
+excerpt: "The technology is \"Orwellian,\" a new class action alleges. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is facing another lawsuit."
+publishedDateTime: 2020-02-14T00:27:00Z
+webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
 type: article
-quality: 2
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Range
-  domain: oilandgas360.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Natural Language Processing
+  - Computer Vision
 
 images:
-  - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
-    width: 300
-    height: 250
-    title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+  - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
+    width: 756
+    height: 567
+    title: "Clearview AI facial recognition company faces another lawsuit"
 
 related:
   - title: "Facial recognition could be temporarily banned for law enforcement use"
@@ -54,21 +60,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/02/07/business/07CLEARVIEW-01/07CLEARVIEW-01-facebookJumbo.jpg"
         width: 1050
         height: 550
-  - title: "Clearview AI facial recognition company faces another lawsuit"
-    excerpt: "The technology is \"Orwellian,\" a new class action alleges. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is facing another lawsuit."
-    publishedDateTime: 2020-02-14T00:27:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
-        width: 756
-        height: 567
   - title: "Paper Masks Are Fooling Facial Recognition Software"
     excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
     publishedDateTime: 2020-02-07T16:44:00Z
@@ -471,7 +462,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 2
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The Global Emotion Detection & Recognition Market is projected to grow from US$ 21.6 billion in 2019 to US$ 56 billion by 2024, at a CAGR of ..."
+    publishedDateTime: 2020-02-12T00:38:00Z
+    webUrl: "https://www.oilandgas360.com/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artificial-agents/"
+    type: article
+    provider:
+      name: Range
+      domain: oilandgas360.com
+    quality: 2
+    images:
+      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
+        width: 300
+        height: 250
 
-secured: "Bh61ifAXj8+AtJohVO5yLLuLr6nw6GnzGGB9F0oOzUOTbTG8KWd5mexwz3PxueU5UbBDIWdX1VwC0kanuMYCupIfmcbpeMmZF35hvLdQn5/CAQVdr1HIqmQvMh0OglEhCHAmna9o/Ta05t77lpkCRsQ4Nd9HgmGwgkmXk5s+rqnuzZuJsy1dshmQtAtK7Qc9VpM30cvremOu0p+GaqCSa1nhz4F8rr/SnF4DppiwmpYvEaOrVrY27KMEFKx9NyZcLnQQYY8sgaXefBk63fsNt9Iv3DJaSaY6RD3EsGPj07LEN3aVM2tjw0ItzK9ILHHd;/ElgVrxcoCCaWD8WoKGkFQ=="
+secured: "47dUq72nRra2WNpwm+7bE1dAowQ3p9ozs68pRWQhoI9pq2vgE5/+7d/XeajxHZAm7oN2tIfTxXyeH8Imcj23cfBsLx3VSX84TtZL/WwEKVp6lQun+0/8A1LHDEa2nrVkXVGGOVolJPVZ+0cRIr6Xy/gsPJWeOZVX0KKRPT3BgJQ5sD6S4Td8Di9UJYE9iHmhZ0st5tuDxz06Z4eTYTGnFQbryU71RIRUteJ+j3oL17xkiG1ixqSAkH7zzzfmkE+5zUUQkAyTW7sAeMCXwKHZ4c9wd+Nq3RF67PrIWJ+qIiAk1f9ws8OICdIGGedmDkFA;aPtfWMwP/Leiyj2iuEsGqg=="
 ---
 

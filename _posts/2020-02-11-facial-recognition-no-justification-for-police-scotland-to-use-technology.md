@@ -2,18 +2,22 @@
 category: news
 title: "Facial recognition: 'No justification' for Police Scotland to use technology"
 excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
-publishedDateTime: 2020-02-11T00:06:00Z
-webUrl: "https://www.bbc.co.uk/news/uk-scotland-51449166"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-51449166"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166"
+publishedDateTime: 2020-02-11T10:33:00Z
+webUrl: "https://www.bbc.com/news/uk-scotland-51449166"
+ampWebUrl: "https://www.bbc.com/news/amp/uk-scotland-51449166"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-51449166"
 type: article
-quality: 56
+quality: 86
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -56,6 +60,21 @@ related:
       - url: "https://static01.nyt.com/images/2020/02/07/business/07CLEARVIEW-01/07CLEARVIEW-01-facebookJumbo.jpg"
         width: 1050
         height: 550
+  - title: "Clearview AI facial recognition company faces another lawsuit"
+    excerpt: "The technology is \"Orwellian,\" a new class action alleges. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is facing another lawsuit."
+    publishedDateTime: 2020-02-14T00:27:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
+        width: 756
+        height: 567
   - title: "Paper Masks Are Fooling Facial Recognition Software"
     excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
     publishedDateTime: 2020-02-07T16:44:00Z
@@ -457,6 +476,6 @@ related:
         width: 300
         height: 250
 
-secured: "zuRRHo4DbGzxn1omLbRHvcHjHnXiW/2nE/hfPpmLpE2YUES7WPEwO/AWGJutrtgZqvbrKVodXbuptCo20fp76SjE/XEratUfol32NNbqUVNBdt/mCyny4O/TaivQVUHs8WRJIwv3P31Lgk0lkW7g7uGgNQ+d48uNc/L5HNqMyZw5FrqAgvSftbQfP8zioBmC6VRFWn//4/JAs9Z/ZURJqGkihmEL8xhLrpPwAXyDPP/I8KynjeTNezn7MHtvejgBGX5iyX7EYHlMsVElSS0tDBJW5ErdM9nBd5HXw4+HwJWu50XF49KrwwuC0JKwEyyyY2KFQ3clr/Vxa1Q0TnjAa4RMOd+qRk/g167WqJ3+2+CKIcRAk9Q+LiKQ0jTDB8AF5/bFHpfORiNZojy5o/1LUF8Tyq9Y6ycekQMW+Xf22AotQN++anVrPyqVB+Ca0qWj+YlydP0mE2vcjolTfAzuIe+qQYiPt0BF3aNxwztEjtg=;Tv5GlADUVec4OmlJEMtWYg=="
+secured: "JZTF/NCN0I0VkqfvcYiewGJIcVAEMqp68Kgrfbz0QXCSTXm8qxZYwU6P5eQYKbbMeAp76MPsz6BBNikTOOX2898ZS7Nc67+b8nLEVwRUto/FR1ssTnEmn3SUaOUsEcqnjaJNcEHs2Q+RPjlLig00wrHfjzDSPVwTaWzJiKW1nuOtfa78azCdP2x/X8INaoaAyHWtGCZhzoyWc9FGW4dtLv/kBTbCSdVMz5KNKM/ZXeci6p8Ra4Cl+c6WVtoGczermc+Bt0uvc2K0mkgTkIkTVl3esNwpRRMZki9neOq+OeEHrU4LJM9XDWMNjjLzWGwE;emTBsszlj83zvCXPo7JcFQ=="
 ---
 

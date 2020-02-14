@@ -21,21 +21,21 @@ topics:
 
 related:
   - title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
-    excerpt: "Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML models powered by multi-layer neural networks. Silicon-valley based global lifelong learning ..."
+    excerpt: "The new program offers practitioner level skills in new-generation Machine Learning through hands-on projects. Silicon-valley based global lifelong learning platform Udacity recently announced the ..."
     publishedDateTime: 2020-01-25T10:00:00Z
-    webUrl: "https://www.asianage.com/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.html"
-    ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.html"
-    cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.html"
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
     type: article
     provider:
-      name: The Asian Age
-      domain: asianage.com
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
     quality: 54
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095630.Medi.jpeg"
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095642.Medi.jpeg"
         width: 800
         height: 448
 
-secured: "7LaIZt5/LuypLl6+Fzo/5AUIsUKDP7KY8DMNkJv+o3MBQX4/m3DrDQ2JZbSQq69fnOd9e8xOyCKye1dLnBkSg+q7MU/prYK2IOtfETF4L6a/Fopt8Cri6Z78KE4xLCJv9uH9Hk6U6+JmktwTd87njxnCO4hKivrNODk8N68txDYBv/BCHxNhwkHNe/jyOxnVVywQd8GL1yZRiWaUL0Vc0yFvCrQJej9LxVINfBRwEaUtxZ+7SpAv3YT3BJv6x36n9/nSKC1nnpkQCPWuEUyM7yQP+IE4XblVHivYMqZU4MwRJM1O8+hJgmFHgLHj7gvo;2UFeHvTYGmWWIevinhKSYQ=="
+secured: "XaWHa/HgjWZ5yiL2AzLj6JVq832w6forXC2UQDfRkhmu9mHOf06E38Yl9zw+3/T9+5YNOMkz6FfBvrXyL21Dv97za2lkWPnCYmKmwNVS2GKf2bWh7jmtM2KxN00KYEkJxm5VAfe9EU1ttbeMnwQYAX+gFfb7Ak+3xeZzaZrYfCgM2tZfA2UHAPFwiM7aKXPauje9FqCm/ZduRSxtCxH1pgBiqBLvfoBZbDio9gffE4q7aPcdSzpWFDrVXXh2r8JOtxd8D7Uctc7d/1m65U2cHOgEeo0yeMrwBsus8oVN8amH9tOTrV0ff+mCW9zUrJSQ;Vz/jKMLdXzr61YeUWbYbDw=="
 ---
 

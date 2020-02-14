@@ -1120,15 +1120,6 @@ related:
       name: Racing Post
       domain: racingpost.com
     quality: 19
-  - title: "Editorial: Implementing facial recognition tech would be a violation of students’ privacy"
-    excerpt: "That is, UCLA is watching you. New policies for the implementation of facial recognition technology were introduced in drafted revisions to UCLA Interim Policy 133, which governs the university’s management and use of security camera systems. The Campus Safety Alliance, which first received the draft from campus administrators in December ..."
-    publishedDateTime: 2020-01-30T07:08:00Z
-    webUrl: "https://dailybruin.com/2020/01/29/editorial-implementing-facial-recognition-tech-would-be-a-violation-of-students-privacy/"
-    type: article
-    provider:
-      name: Daily Bruin
-      domain: dailybruin.com
-    quality: 10
   - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
     excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
     publishedDateTime: 2020-02-02T11:38:00Z

@@ -2,8 +2,8 @@
 category: news
 title: "Regulators Need To Keep A Close Eye On AI In Finance"
 excerpt: "While there was no bill under debate at the hearing, Henry-Nickie pointed to the CFPB's no-action letter secured by fintech lender Upstart as an example of how regulators could allow for the use of AI and machine learning in lending algorithms, while also keeping a close eye to ensure compliance with various laws. \"We have to be careful about ..."
-publishedDateTime: 2020-02-13T16:01:00Z
-webUrl: "https://www.law360.com/technology/articles/1243061/regulators-need-to-keep-a-close-eye-on-ai-in-finance"
+publishedDateTime: 2020-02-13T16:06:00Z
+webUrl: "https://www.law360.com/articles/1243061/regulators-need-to-keep-a-close-eye-on-ai-in-finance"
 ampWebUrl: "https://www.law360.com/amp/articles/1243061"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1243061"
 type: article
@@ -32,6 +32,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "B9A/c+B/ie0MTkaIFciOdTfxXFLOrpzfHqN0NpPzagEuTJkHhW0m45O/Kkiu0q7Ty86F/LQGgXTFFLpcxisB9MZa1Oap4fsafqkWyA2XiNy8GeP7mPLVCLftnwNSNx1txsp2urenZ7oELglGWE6n4ZWiGSwHqZBnf7lOYvWp4GsgG5AIZ4SbUUQuYfnEcVCVjOvJgpmn6mzIKiW1IQ1QsYBDAmKjugxE6EMKWCB0mb4wMNkDFGWZDnnG8M6UnsmDTH2s1k9Xr4o9lSX831rIWaR3BxCaQ4DGB+B9tCps2PZK09+pF+8lSrW1JqrxQeDm;fmpdZDcJsvkmX/rOmkjVQA=="
+secured: "J5CHyhmCUrIyzML2nvlJV4yEjUv00Cm18tQjAn1UI406gLPiLeiNmmShDUO5zj4n1Kmxfn5w9g8eG2J5iSyNGqpQbL5LF0gqr0Yn1zq+Dl2ehBLaGGQsOIvuM4xQliJjC+TjwV4Hx3lKL5pu/6PdrvZa/q9pUoP1q/wrt2/6nWloCoT+HGws10jWGmQb7h8aeJm7NRAy51h0Y6zjTe1DJvQR8IB0cBkhtdrjJ4HYA3uRLqOEbmKurpsGkOp15PZ/xBLC1jbWXtTejG6XheiaFSQ2xlMyivRpJKjM2rqkAer1pamncfvEmumAt7RAUGiv;z9MwOXz65ZoDSelgPFSxyg=="
 ---
 

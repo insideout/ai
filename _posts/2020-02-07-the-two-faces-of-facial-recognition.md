@@ -60,6 +60,21 @@ related:
       - url: "https://static01.nyt.com/images/2020/02/07/business/07CLEARVIEW-01/07CLEARVIEW-01-facebookJumbo.jpg"
         width: 1050
         height: 550
+  - title: "Clearview AI facial recognition company faces another lawsuit"
+    excerpt: "The technology is \"Orwellian,\" a new class action alleges. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is facing another lawsuit."
+    publishedDateTime: 2020-02-14T00:27:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
+        width: 756
+        height: 567
   - title: "Paper Masks Are Fooling Facial Recognition Software"
     excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
     publishedDateTime: 2020-02-07T16:44:00Z
@@ -135,6 +150,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/alex-knight-B0-kMa8BgU-unsplash.jpg?fit=1600%2C800&strip=all"
         width: 1600
         height: 800
+  - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
+    excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
+    publishedDateTime: 2020-02-11T10:33:00Z
+    webUrl: "https://www.bbc.com/news/uk-scotland-51449166"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-scotland-51449166"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-51449166"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 86
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
+        width: 1024
+        height: 576
   - title: "Concerns Surround Facial Recognition App in Florida"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T20:41:00Z
@@ -225,21 +255,6 @@ related:
       - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
         width: 445
         height: 600
-  - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
-    excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
-    publishedDateTime: 2020-02-11T00:06:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-scotland-51449166"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-51449166"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 56
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
-        width: 1024
-        height: 576
   - title: "Florida cops use this facial recognition tech that could be pulling your pics"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T10:08:00Z

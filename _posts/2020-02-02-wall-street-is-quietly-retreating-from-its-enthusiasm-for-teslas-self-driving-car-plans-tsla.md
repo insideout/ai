@@ -37,21 +37,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/algorithms-1580508501.jpeg?crop=1.00xw:0.802xh;0,0.120xh&resize=1200:*"
         width: 800
         height: 401
-  - title: "Israel lifts ban on Tesla Autopilot after Ministry's clearer understanding of Full Self-Driving features"
-    excerpt: "Tesla’s Autopilot and Full Self-Driving suite has been given the green light for use in Israel by the country’s Ministry of Transport and Road Safety unit. The decision comes on the heels of the Ministry’s decision from earlier this month to ban the use of Tesla’s driving-assist feature. Members of the Ministry initially banned Tesla ..."
-    publishedDateTime: 2020-01-30T08:06:00Z
-    webUrl: "https://www.teslarati.com/tesla-autopilot-fsd-israel-approval/"
-    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-fsd-israel-approval/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-fsd-israel-approval/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 42
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/01/Tesla-China-2020.4-Software-Update-4-300x222.jpg"
-        width: 300
-        height: 222
 
 secured: "X47rGr0yNsahsjaXWSQ92nkcUA28uC2dzsePM17L+oHds08L8/nCx7uKurnwKlfo0Lcenga53BmyPd4QHP/sise43Apz1bf7aSrRy6eKuGLnkQFBHghUumnkpoZEvQNY8T/mGhT4tCRWP33Gn7LHs2G0e7mAMvR9N0S+S25sh7SuK4waWc7qq1juromHW1tlpYTnbpBUFx71pGES4eIBnknzIooPGeHqKv9bUlBxbJSyI3XdWAP8GFD1F1YCPEX1gxuR0IhEMuePRrU0rE23g45fw9gELjCGn9GoUZBI9sjtJ59whAP2ka6O9hIbjNkVD5gbmZKHn1dCmqfK3mKb/a1s5GUmYQGDwtrv29tCJzm2XNUZ88zJclqJszxh/stVEHZ1Cb0tuRDHdO5KwtYSx7WWreXya4YGyhsu/mByrVKwbafolzEYhRjhxBUmH4TV3v83MhCAEuJrB//W8mRbQR5YHTHY+F+W+z/AcSfZNDE=;WsD3GI/06ZF2grz1vvwi5g=="
 ---

@@ -1126,15 +1126,6 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 16
-  - title: "Editorial: Implementing facial recognition tech would be a violation of students’ privacy"
-    excerpt: "That is, UCLA is watching you. New policies for the implementation of facial recognition technology were introduced in drafted revisions to UCLA Interim Policy 133, which governs the university’s management and use of security camera systems. The Campus Safety Alliance, which first received the draft from campus administrators in December ..."
-    publishedDateTime: 2020-01-30T07:08:00Z
-    webUrl: "https://dailybruin.com/2020/01/29/editorial-implementing-facial-recognition-tech-would-be-a-violation-of-students-privacy/"
-    type: article
-    provider:
-      name: Daily Bruin
-      domain: dailybruin.com
-    quality: 10
   - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
     excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
     publishedDateTime: 2020-02-02T11:38:00Z
@@ -1145,6 +1136,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "grtpR+XCRQeeQbc7O8y6r5A2Qo2uvVr69WCLrt5THaOkvcKRfdGzOXwCR5+hhBJC5lBR1oYuIY5YKV3ExLQdgWzLdGHFJSawDGn7DS0x6u9qzElfCs9+HZAFxnHBsMIjCKVr2vVqIqhZgdT120MSqmm1HXVVkkaAfAHSS6wQ1vCcZooQOeHqxIzyBNaAVG+24704vwiHm+dRLB/1lZOd+GQZRkQMKh3JzfN9lfSFYWQRaRp/NXc5yPLBM8w8TEePO2OTODR82dm4GUfSyah4xSsYKv0ZoYMwvphQYTba8WyvjAxWrhhOVO1114hsqVXF;alkxWSji2odGNN8Z52SMcg=="
+secured: "53Qwb7R2S4S+Ngzo1sWyYB1O2LrmX4HZWXPn8gOkRr+YJEBQT8QTXFmGevzls62aQCcwFq92nJDx1E89JOYFfZjBmbHrc3dwS9US36/Epm8fsKmaLrhPvixo1qrZj7NsYHrOkr7fVy8W8YuEV8q92Kptw3PpKqssK+9aQYF0QlXqnQQA/t1+yS7IiSRPTGMx2uvLgjtjDzH6M2lV9sqHyA60z90foABbIBGweHF5TD2JV7w8YAyOglewFUy6C+j8HYfq79BBlkWr1h60bqSs1/pCQvlCOxuqu5THxyytF8Oi9U7xIrdfPfsKAiecH70p;mps6Aq00InC+jbrFy/Je6g=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -36,6 +36,17 @@ related:
     webUrl: "https://www.psychologytoday.com/us/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness"
     ampWebUrl: "https://www.psychologytoday.com/us/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp"
     cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 22
+  - title: "The Future of Artificial Emotional Awareness"
+    excerpt: "Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions themselves. Even the computer’s interpretations of what we express are limited to programmatic responses. An ..."
+    publishedDateTime: 2020-02-14T00:42:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-future-artificial-emotional-awareness"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-future-artificial-emotional-awareness?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-future-artificial-emotional-awareness?amp"
     type: article
     provider:
       name: Psychology Today

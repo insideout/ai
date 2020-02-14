@@ -23,15 +23,21 @@ images:
     title: "Artificial Intelligence Is Transforming the Legal Industry"
 
 related:
-  - title: "This Woman Is Changing The Therapy Industry With VR And AI"
-    excerpt: "In the US, it is estimated that the wait time for a physical therapy appointment is close to 30 days. When you finally arrive at the appointment, you will often see patients queued up to visit with a handful of physical therapists."
-    publishedDateTime: 2020-01-30T08:51:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/30/this-woman-is-changing-the-therapy-industry-with-vr-and-ai/"
+  - title: "Hitch’s autonomous Farming Robot is the answer to the declining agricultural industry"
+    excerpt: "Hitch’s fully-autonomous product will assist in the harvesting of crops and plants through a fully-computerized method of navigation. The robot will use Artificial Intelligence, High Precision GPS systems, various cameras and sensors to navigate through any crop field it is meant to be utilized for. The robot also has three different ..."
+    publishedDateTime: 2020-02-01T17:28:00Z
+    webUrl: "https://www.teslarati.com/hitch-solar-powered-autonomous-farming-robot/"
+    ampWebUrl: "https://www.teslarati.com/hitch-solar-powered-autonomous-farming-robot/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/hitch-solar-powered-autonomous-farming-robot/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Tesla News
+      domain: teslarati.com
+    quality: 52
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/01/hitch-autonomous-farming-robot-1024x574.jpg"
+        width: 1024
+        height: 574
 
 secured: "40UluPEtB9hX05qZUzTQTvYzixd8jOhnOAafbSo6BpeW9HWGMgj0lHrcl5CiVlC5ZTgdchKTdobc+HAeee06QDC0unbZqiwkXwUeHU8BREZ0fO9/qpMna1Wd5fJzEEl5BkSSPb0NLPgLErIEVtn/lE9nMoGXgX3aQsYH5dEHVmuIY8Foa6bq6nEMa8ZodGRm5m1Bi8pQbO2ffoA0DrVyNoT36ya/JwicUkLbNMe5TPZkhQAQxwkkQR0IdCwS22yZ8ZszqlEf7KlYXiD6wMvACFKzfnmg8mcefX+B31oZWaPUcTA2Z5qZmTJ2EV3QnXZQTiEdEPZpRN2ZlFJE+m/nyXEcen6xevtcswZRQwn1giJle/lszNhQOMiUyX5fgVPUrRPlC3i0s38IF+roX/QZ1cSI5wXGlDNv/b8qPqm+9dmEoW3j+h08EDSpGG6MxDIQ82OZBFHMjlgDoyYqXZXmFBjxvVni9E+nfRhvjvxl/mI=;vOaP+3kASC7mHSYKEi0iEQ=="
 ---

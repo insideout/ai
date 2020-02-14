@@ -29,13 +29,13 @@ images:
 
 related:
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
-    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements ..."
-    publishedDateTime: 2020-01-22T11:00:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
+    publishedDateTime: 2020-01-22T10:53:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 12
   - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
     excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
@@ -47,6 +47,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "vSmXJVlJT0O7jgtV9tQitDqzoECZY/Z52CLqR4ppgBsf2d99Ixgnw2x0Pgb7sWzM1B6NPyssXmAImpiCkGNfpm65N7nXpBJLeBw9KhA+ISVS3r2cjrX5Q/5IESoYgs+VpCcQ3MpyxacdIyg5QyQJhUiI45sJaAjItGeAIAnuTD3hzwqepPo2tBLxAPDciH5V6jGxtuYEqsvxtc+06KL8tszMrEjdmr4SCf36qKQFwTlkIX88jqpjbik3LwsDGG4EiuV2OZWFtXGp4rs0haYL4Pj2gNlIf4jOokpIW+KsUExnAMOkocitv43ZmcwkG8YN;smdplT4MVeNRoTd/DwVD5A=="
+secured: "nayfmJicRvM+ZvfglwoDwrhJRC8cqi+fKFiHe3V0yO09YOQrX3DA5QmlF29gtiSVJPipwAA8VLuQ+HeYYBA3agfxaoCfjqZl7eLkNCeFpsHMU074ydS6zBL0C5TfwzDYNAczr7tOEXovot90TVF3Xj2WQ60/0FfjLyPtTncqwtCYkUTpH08j8OFSaTNXNBpsuipxxSExLxgf13zzhF39bdMIVkQA+XpKNTutU972NcmeNDjugmu1d7218A2is4s9W8iw42rmC+SBFt3Tvb588X4Qz61Mqk8ld7b4Bm7PEMJsO70VPsAeaCxol18eTuzp;b/DwVP34lsNsXVXnf6S+0w=="
 ---
 
