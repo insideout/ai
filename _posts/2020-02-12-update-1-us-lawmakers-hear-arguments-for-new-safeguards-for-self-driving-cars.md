@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-law
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 90
+published: true
 
 provider:
   name: CNBC
@@ -30,21 +30,6 @@ images:
     title: "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars"
 
 related:
-  - title: "U.S. lawmakers hear arguments for new safeguards for self-driving cars"
-    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,"
-    publishedDateTime: 2020-02-11T23:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
-    images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
-        width: 640
-        height: 419
   - title: "US lawmakers, trial lawyers clash over self-driving rules"
     excerpt: "US lawmakers, trial lawyers clash over self-driving rules Trial lawyers objected to a lack of protections in a 2018 Senate bill that would ensure the right to sue carmakers after autonomous-vehicle crashes Check out this story on detroitnews.com ..."
     publishedDateTime: 2020-02-11T22:55:00Z
@@ -75,41 +60,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
         width: 950
         height: 629
-  - title: "Self-driving car company Nuro wins federal safety approval"
-    excerpt: "WASHINGTON - Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
-    publishedDateTime: 2020-02-08T14:07:00Z
-    webUrl: "https://www.postguam.com/business/technology/self-driving-car-company-nuro-wins-federal-safety-approval/article_1c34c964-4960-11ea-8ad5-17b7d62b54d5.html"
-    type: article
-    provider:
-      name: The Guam Daily Post
-      domain: postguam.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
-        width: 800
-        height: 448
-  - title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
-    excerpt: "A team of engineers at the University of Waterloo has made it its mission to Canadianize self-driving vehicles. It's the first group in the world to create a data set for winter driving. In other words, it has compiled 10,000 video frames and 56,000 images to better teach self-driving vehicles how to navigate snow and ice. \"We're basically ..."
-    publishedDateTime: 2020-02-11T15:08:00Z
-    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/self-driving-car-university-waterloo-winter-driving-1.5459331"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 24
-    images:
-      - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
-        width: 620
-        height: 349
-  - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
-    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
-    publishedDateTime: 2020-02-13T22:40:00Z
-    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 19
 
 secured: "QctpAl2/qIbaA8GcKI3H6j8rGnO9CBkmirQiGdka7T7dH7cv29ouhx8L8Jsz+zia7+cTHbfXZ+ww/ZGjbFDIVN0O+Yp4LpmXNEABRvfarzbftHJH0Brc3ZrbaMqkJ/eJmapyKMA0Ug0Ni0683nAETKYJ9ig8LZY6Y3jb9lUngb7gNFfubedN31Z1CL7S9l6BBQQPuoFZUA/PK+Tjvyk/vHvSTh13QVpRZYoxoy99iS8uCnkH+ABbAp70lw61hLS25NiA06N8wO+seix+sejqhL3Ix8EdJmf/Ynk1SvyYTETZAhDYiJHbu6yvd9Gf/pdZ;Lm19f+lseyLxJOTYoO4b9A=="
 ---

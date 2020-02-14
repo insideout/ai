@@ -644,15 +644,6 @@ related:
       - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Facebook will cough up $550 million to settle facial recognition case"
-    excerpt: "Remember the time when Facebook used to automatically tag you in photos uploaded by your friends using facial recognition? Now the company has agreed to pay $550 million to settle a class-action lawsuit for using the technology in Illinois. A report by the New York Times noted that the suit alleged Facebook of violating Illinois biometric ..."
-    publishedDateTime: 2020-01-30T06:38:00Z
-    webUrl: "https://thenextweb.com/facebook/2020/01/30/facebook-will-cough-up-550-million-to-settle-facial-recognition-case/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 49
   - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
     excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
     publishedDateTime: 2020-02-01T22:22:00Z
@@ -1154,6 +1145,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "5gvb6N/v/gwSXma+cin2S2by82x9BflanvSaWC3Y5w8F/4+pIUyGRzks/92QtzHPGQHhafoHNCKz8KGPEoWkiSGcYhZOmcxzJCG+yLav7xPnGq2i1ry/0VfK7PL8lhWOCdQVeQ4aYeOqJS+1jjZN/If5rjCgM5EeqqR/LtsK1JJ3Ttc47tPYduO0y9yXhwbrqE8GWkAn/ENf2JBlmBBwK5v/kHh/WXnglc6ueXD8j0Z6xrnPKGE1R9tAm6xr8piK6GcuHnu0n0lStRNw58DLiKFG2r/wFWGrbxm6S3tKNO2FnQ6GfrguEbTVjJqsNE3+;/n3jfCf/8DWwgl9vnt29mg=="
+secured: "grtpR+XCRQeeQbc7O8y6r5A2Qo2uvVr69WCLrt5THaOkvcKRfdGzOXwCR5+hhBJC5lBR1oYuIY5YKV3ExLQdgWzLdGHFJSawDGn7DS0x6u9qzElfCs9+HZAFxnHBsMIjCKVr2vVqIqhZgdT120MSqmm1HXVVkkaAfAHSS6wQ1vCcZooQOeHqxIzyBNaAVG+24704vwiHm+dRLB/1lZOd+GQZRkQMKh3JzfN9lfSFYWQRaRp/NXc5yPLBM8w8TEePO2OTODR82dm4GUfSyah4xSsYKv0ZoYMwvphQYTba8WyvjAxWrhhOVO1114hsqVXF;alkxWSji2odGNN8Z52SMcg=="
 ---
 

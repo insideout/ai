@@ -24,84 +24,37 @@ images:
     title: "The road ahead for digital signage in self-driving cars"
 
 related:
-  - title: "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars"
-    excerpt: "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind."
-    publishedDateTime: 2020-02-08T12:42:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
+  - title: "How to Build a Morally Ethical Self-Driving Car"
+    excerpt: "A road hazard appears in front of your autonomous taxi. Will it make a choice that saves you but kills others? Or will it decide to save others at the price of its passenger?"
+    publishedDateTime: 2020-02-06T14:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2020-02-06/morally-ethical-self-driving-cars-are-the-next-real-challenge"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x507/https://specials-images.forbesimg.com/imageserve/1150260060/960x0.jpg?fit=scale"
-        width: 711
-        height: 507
-  - title: "House lawmakers close to draft bill on self-driving cars"
-    excerpt: "House lawmakers on Tuesday touted progress toward bipartisan legislation on self-driving cars, with plans to release draft language soon."
-    publishedDateTime: 2020-02-11T21:46:00Z
-    webUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars"
-    ampWebUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
+  - title: "Australians Slow to Embrace New Technologies but Want Self-driving Cars"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-02-10T23:02:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-02-10/australians-slow-to-embrace-new-technologies-but-want-self-driving-cars"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
-        width: 980
-        height: 551
-  - title: "Will self-driving cars create more distracted drivers?"
-    excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
-    publishedDateTime: 2020-02-07T16:42:00Z
-    webUrl: "https://techaeris.com/2020/02/07/will-self-driving-cars-create-more-distracted-drivers/"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
+  - title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
+    excerpt: "A team of engineers at the University of Waterloo has made it its mission to Canadianize self-driving vehicles. It's the first group in the world to create a data set for winter driving. In other words, it has compiled 10,000 video frames and 56,000 images to better teach self-driving vehicles how to navigate snow and ice. \"We're basically ..."
+    publishedDateTime: 2020-02-11T15:08:00Z
+    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/self-driving-car-university-waterloo-winter-driving-1.5459331"
     type: article
     provider:
-      name: Techaeris
-      domain: techaeris.com
+      name: CBC.ca
+      domain: www.cbc.ca
     quality: 24
     images:
-      - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
-        width: 1000
-        height: 543
-  - title: "Congress looks to revive self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-12T12:19:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
-        width: 938
-        height: 483
-  - title: "This Is What A Self-Driving Car 'Sees' Versus What You See"
-    excerpt: "This is something that I’ve been lucky enough to see on some prototypes, but it’s more than a little valuable for the public to get a sense of what a self-driving car “sees” when driving down the road. In this case, we have one of Waymo’s test cars predicting the path of a cyclist before a crash might even happen. Waymo sent us two ..."
-    publishedDateTime: 2020-02-12T00:30:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/02/this-is-what-a-state-of-the-art-self-driving-car-sees-versus-what-you-see/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/gvhymwj5q8azlfbrg6g6.jpg"
-        width: 800
-        height: 450
-  - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
-    excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
-    publishedDateTime: 2020-02-11T19:56:00Z
-    webUrl: "https://www.i4u.com/2020/02/133109/will-self-driving-cars-increase-or-decrease-drunk-driving"
-    type: article
-    provider:
-      name: i4u.com
-      domain: i4u.com
-    quality: 4
+      - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
+        width: 620
+        height: 349
 
 secured: "qwFmLuirgMpmkbiRcTzS/oXs5TqI2PQBM/0QJfnVJdYoo8w8PXwKG67ggCbn86i9XCc9WJhiPZsvOog8lbdkeQc+pBVdcoDh/z7ZaSpEVxCMAzRN4YJFpqqv7n5xqR5LIfAX3QScsRHPuStfWzQV7h5+Gr1jwJY3OrXjT1lUxLZgXJroZU209w7B7zqZzw+4i91wY2+uCv9Qr7zhLLZKC6pgykEa3/9aRdFYyiYK7vRC3ssRlAjZwZhXACMNGT3mC5IlrMdt9AMjdpi6UbTuY9bUYyYydd0cL2KS5dsMhao0oB7CC3Nf16AMBKt1feqaoHsL0dnxnvYt5gaHAniTPFduaOpGnegYcqlDYfrNZf/FE6MQlYO5IEagSnneEuZoW2ZSgb8fJ9aGhjrd1GZTZq4kJn8ZJbGKWkxg0Bn9NhSz7SIRUqGysiRq7lZT2RH143Ya9YzaYFHpHp2OgZz+na5JzPMV8sip6j9gS5idsGQ=;G8bFcBwmC7UR6kERfiPgsQ=="
 ---

@@ -22,93 +22,147 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
-    excerpt: "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ..."
-    publishedDateTime: 2020-02-07T22:57:00Z
-    webUrl: "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
+  - title: "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash"
+    excerpt: "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ..."
+    publishedDateTime: 2020-02-13T22:27:00Z
+    webUrl: "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
+      name: The Verge
+      domain: theverge.com
+    quality: 83
     images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
-        width: 800
-        height: 560
-  - title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
-    excerpt: "CALIFORNIA — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or ..."
-    publishedDateTime: 2020-02-07T19:34:00Z
-    webUrl: "https://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/"
-    ampWebUrl: "http://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
+      - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
+        width: 1400
+        height: 933
+  - title: "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars"
+    excerpt: "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind."
+    publishedDateTime: 2020-02-08T12:42:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: WREG
-      domain: wreg.com
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x507/https://specials-images.forbesimg.com/imageserve/1150260060/960x0.jpg?fit=scale"
+        width: 711
+        height: 507
+  - title: "U.S. lawmakers hear arguments for new safeguards for self-driving cars"
+    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,"
+    publishedDateTime: 2020-02-11T23:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
+        width: 640
+        height: 419
+  - title: "Former Waymo employee arrested on suspicion of causing Tempe crash with self-driving car"
+    excerpt: "Raymond Tang, 31, was reportedly fired from Waymo before he intentionally caused a crash with one of their vehicles, according to court records."
+    publishedDateTime: 2020-02-13T21:10:00Z
+    webUrl: "https://www.azcentral.com/story/news/local/tempe-breaking/2020/02/13/former-waymo-employee-arrested-after-tempe-crash-self-driving-car/4751518002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4751518002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4751518002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 50
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/13/PPHX/20a18807-923a-49da-b9dc-7404b2750590-Raymond_Tang_mugshot.jpg?auto=webp&crop=479,269,x1,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+  - title: "Waymo: Self-driving vehicle in manual mode at time of crash"
+    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was operating in manual mode when it was involved in a rear-end collision in a Phoenix suburb and that the crash was caused by reckless driving of the other vehicle,"
+    publishedDateTime: 2020-02-08T11:39:00Z
+    webUrl: "https://www.herald-dispatch.com/ap/ap_nation/waymo-self-driving-vehicle-in-manual-mode-at-time-of/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
+    type: article
+    provider:
+      name: The Herald-Dispatch
+      domain: herald-dispatch.com
     quality: 39
     images:
-      - url: "https://localtvwreg.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 800
-  - title: "The feds just blessed a custom self-driving vehicle for the first time"
-    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
-    publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
+      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
+        width: 600
+        height: 600
+  - title: "Rules eased for self-driving vehicle"
+    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
+    publishedDateTime: 2020-02-07T06:44:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
-  - title: "When can we buy self-driving vehicles? No one knows"
-    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 24
     images:
-      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
-        width: 540
-        height: 420
-  - title: "Self-driving vehicle law hits a speed bump"
-    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
-    publishedDateTime: 2020-02-11T11:08:00Z
-    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
+      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+  - title: "Will self-driving cars create more distracted drivers?"
+    excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
+    publishedDateTime: 2020-02-07T16:42:00Z
+    webUrl: "https://techaeris.com/2020/02/07/will-self-driving-cars-create-more-distracted-drivers/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: Techaeris
+      domain: techaeris.com
     quality: 24
     images:
-      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
-        width: 1920
-        height: 1080
-  - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
-    excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
-    publishedDateTime: 2020-02-07T18:06:00Z
-    webUrl: "https://cbs58.com/news/us-clears-the-way-for-self-driving-vehicle-with-no-steering-wheel-or-pedals"
+      - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
+        width: 1000
+        height: 543
+  - title: "Self-driving car company Nuro wins federal safety approval"
+    excerpt: "WASHINGTON - Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
+    publishedDateTime: 2020-02-08T14:07:00Z
+    webUrl: "https://www.postguam.com/business/technology/self-driving-car-company-nuro-wins-federal-safety-approval/article_1c34c964-4960-11ea-8ad5-17b7d62b54d5.html"
     type: article
     provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 22
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 24
     images:
-      - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
-        width: 3000
-        height: 2000
-  - title: "US lets self-driving vehicle bypass human-driver safety rules"
-    excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-    publishedDateTime: 2020-02-06T18:08:00Z
-    webUrl: "https://www.pennlive.com/news/2020/02/us-lets-self-driving-vehicle-bypass-human-driver-safety-rules.html"
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
+        width: 800
+        height: 448
+  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
+    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
+    publishedDateTime: 2020-02-12T01:57:00Z
+    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
+    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 4
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
+    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
+    publishedDateTime: 2020-02-13T22:40:00Z
+    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
+  - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
+    excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."
+    publishedDateTime: 2020-02-11T13:56:00Z
+    webUrl: "https://www.openpr.com/news/1927864/self-driving-car-market-outlook-world-approaching-demand"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "NoQcuaQ04VnWY4g3uAgsJMp7qQMalpy+IOxADxf0TZ1q2fUycH3w7F+8TJpmh7LoUFJDXTZ0MmBqre2eqXUwRjWCSjVo5UhLwfgheRJAQy5/hI0zIVeLmvrPMkkQYqNI7M+IldRCKjbtO96ZvT4F34hSgSEQY6Ebk5nfhexzayQg8ra7jo29bulD5MakTjP+h3iof0D8UQmRrJlhK/Xm/DNTnNU5kXG8sMoFkgstxFzaa7aDkF3ea/R/F5p6FdImoS0ounzN0wlBS5M9pbj+MfouYd8yj1KQSPJB60eOmhtx6R7iWzrISVTXhBNvLRO0;TgK+lT/IOeoD2lUK64p7kQ=="
 ---

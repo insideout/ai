@@ -24,6 +24,21 @@ images:
     title: "Will self-driving cars create more distracted drivers?"
 
 related:
+  - title: "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash"
+    excerpt: "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ..."
+    publishedDateTime: 2020-02-13T22:27:00Z
+    webUrl: "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 83
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
+        width: 1400
+        height: 933
   - title: "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars"
     excerpt: "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind."
     publishedDateTime: 2020-02-08T12:42:00Z
@@ -39,69 +54,113 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x507/https://specials-images.forbesimg.com/imageserve/1150260060/960x0.jpg?fit=scale"
         width: 711
         height: 507
-  - title: "House lawmakers close to draft bill on self-driving cars"
-    excerpt: "House lawmakers on Tuesday touted progress toward bipartisan legislation on self-driving cars, with plans to release draft language soon."
-    publishedDateTime: 2020-02-11T21:46:00Z
-    webUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars"
-    ampWebUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
+  - title: "U.S. lawmakers hear arguments for new safeguards for self-driving cars"
+    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,"
+    publishedDateTime: 2020-02-11T23:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
     images:
-      - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
-        width: 980
-        height: 551
-  - title: "The road ahead for digital signage in self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
-    publishedDateTime: 2020-02-04T15:59:00Z
-    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
-    type: article
-    provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
-    quality: 24
-    images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
         width: 640
-        height: 360
-  - title: "Congress looks to revive self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-12T12:19:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
+        height: 419
+  - title: "Former Waymo employee arrested on suspicion of causing Tempe crash with self-driving car"
+    excerpt: "Raymond Tang, 31, was reportedly fired from Waymo before he intentionally caused a crash with one of their vehicles, according to court records."
+    publishedDateTime: 2020-02-13T21:10:00Z
+    webUrl: "https://www.azcentral.com/story/news/local/tempe-breaking/2020/02/13/former-waymo-employee-arrested-after-tempe-crash-self-driving-car/4751518002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4751518002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4751518002"
     type: article
     provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 50
     images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
-        width: 938
-        height: 483
-  - title: "This Is What A Self-Driving Car 'Sees' Versus What You See"
-    excerpt: "This is something that I’ve been lucky enough to see on some prototypes, but it’s more than a little valuable for the public to get a sense of what a self-driving car “sees” when driving down the road. In this case, we have one of Waymo’s test cars predicting the path of a cyclist before a crash might even happen. Waymo sent us two ..."
-    publishedDateTime: 2020-02-12T00:30:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/02/this-is-what-a-state-of-the-art-self-driving-car-sees-versus-what-you-see/"
+      - url: "https://www.gannett-cdn.com/presto/2020/02/13/PPHX/20a18807-923a-49da-b9dc-7404b2750590-Raymond_Tang_mugshot.jpg?auto=webp&crop=479,269,x1,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+  - title: "Waymo: Self-driving vehicle in manual mode at time of crash"
+    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was operating in manual mode when it was involved in a rear-end collision in a Phoenix suburb and that the crash was caused by reckless driving of the other vehicle,"
+    publishedDateTime: 2020-02-08T11:39:00Z
+    webUrl: "https://www.herald-dispatch.com/ap/ap_nation/waymo-self-driving-vehicle-in-manual-mode-at-time-of/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
+      name: The Herald-Dispatch
+      domain: herald-dispatch.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
+        width: 600
+        height: 600
+  - title: "Nuro Self-Driving Car Scores Federal Regulator Approval(Radio)"
+    excerpt: "Self-driving robot start-up Nuro Inc. has been granted regulatory permission to deploy its grocery delivery vehicles on the nation’s roads, making the company’s autonomous vehicles the first approved to temporarily sidestep car-safety standards."
+    publishedDateTime: 2020-02-07T16:03:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2020-02-07/nuro-self-driving-car-scores-federal-regulator-approval-radio"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
+  - title: "Rules eased for self-driving vehicle"
+    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
+    publishedDateTime: 2020-02-07T06:44:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 24
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/gvhymwj5q8azlfbrg6g6.jpg"
+      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+  - title: "Self-driving car company Nuro wins federal safety approval"
+    excerpt: "WASHINGTON - Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
+    publishedDateTime: 2020-02-08T14:07:00Z
+    webUrl: "https://www.postguam.com/business/technology/self-driving-car-company-nuro-wins-federal-safety-approval/article_1c34c964-4960-11ea-8ad5-17b7d62b54d5.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
         width: 800
-        height: 450
-  - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
-    excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
-    publishedDateTime: 2020-02-11T19:56:00Z
-    webUrl: "https://www.i4u.com/2020/02/133109/will-self-driving-cars-increase-or-decrease-drunk-driving"
+        height: 448
+  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
+    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
+    publishedDateTime: 2020-02-12T01:57:00Z
+    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
+    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
     type: article
     provider:
-      name: i4u.com
-      domain: i4u.com
-    quality: 4
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
+    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
+    publishedDateTime: 2020-02-13T22:40:00Z
+    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
+  - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
+    excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."
+    publishedDateTime: 2020-02-11T13:56:00Z
+    webUrl: "https://www.openpr.com/news/1927864/self-driving-car-market-outlook-world-approaching-demand"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "k5nzfeLJeIYMKClyqM0POEaETPXJtopKEU1vm7JC61WnVYFQJVXPMggqZzQC4XNYGMxxQH6sL5D8jjd1mawJz9lGloMa0BzL/vzKFS1QhYG36ZNGj5LhNnbz64EZrdETsWq9g9q/iJ0Nv0ts4zuOOKmKM4wCAPK+3Uo5LAkMA9DGyQW2VXMT76n+cfgzrgBq3vtsGGzUFKzC1RHvgWBWLdtraEUNZ+pObw47+gmMBqJSqfhOGDJfj2ueTll1Xo0XRPJgc+zVOO/ULr7FRYwckk7P2vVa5MwhlVG9f4cmLShO733c6D6K/xmv32dIqXpIc1WPypxDZ2B69W+j0ivO9WgbaVxu5JkpXOry5zXhV3xmQzbgdniAS4KmceyyZuTQGxBgckL5dKwBNwcPXKNJlAEcntIE824Zs+Aw34idM+NKc/JWQZUWEBtwYEsxyyN8juYLWjv+RKo7vHvenMKi8Aiils+WaMxpl0neGyV3+yM=;1/7G7+9UEEtUKXCJ6+jYEA=="
 ---

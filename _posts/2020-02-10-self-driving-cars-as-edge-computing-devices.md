@@ -46,6 +46,21 @@ related:
       - url: "https://images.wsj.net/im-153483/social"
         width: 1280
         height: 640
+  - title: "House lawmakers close to draft bill on self-driving cars"
+    excerpt: "House lawmakers on Tuesday touted progress toward bipartisan legislation on self-driving cars, with plans to release draft language soon."
+    publishedDateTime: 2020-02-11T21:46:00Z
+    webUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars"
+    ampWebUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 44
+    images:
+      - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
+        width: 980
+        height: 551
   - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
     excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
     publishedDateTime: 2020-02-10T14:44:00Z
@@ -59,17 +74,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2013/09/Congress-580x386.jpg"
         width: 580
         height: 386
-  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
-    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
-    publishedDateTime: 2020-02-12T01:57:00Z
-    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
-    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "Prediction: Market for Artificial Intelligence in Cars Will Grow 1,200% in Next Six Years"
     excerpt: "The market for artificial intelligence in the automotive industry will go from $1 billion today to ... for more assistive and autonomous features for improved driving comfort and safety, as well as realizing the goal of self-driving cars and trucks. AI-powered features are already being developed, tested and offered on consumer vehicles."
     publishedDateTime: 2020-02-07T19:07:00Z
@@ -79,6 +83,15 @@ related:
       name: Machine Design
       domain: machinedesign.com
     quality: 10
+  - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
+    excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
+    publishedDateTime: 2020-02-11T19:56:00Z
+    webUrl: "https://www.i4u.com/2020/02/133109/will-self-driving-cars-increase-or-decrease-drunk-driving"
+    type: article
+    provider:
+      name: i4u.com
+      domain: i4u.com
+    quality: 4
 
 secured: "GR0t3bsQ2bMJbMqZ6SRaKCIvYud2h4N0VoQd1I6Tl5uy3/wkdVTjR3zKBoUr17albg2EqvZzoyhRTfdbfcCLeCugCPz5MCaOQP17ktrqDsOLKPYk0AUxoFfVsGojE+iDek8fTofkbBkyFqeOQXH49VpoWS4aN5QO3jHbxxDwwOwxtJpPK8Y787JS/T2K1m8fcFiRLSYiaKC8HSuLCauKu7fysrTGmKoglsCzx0Qgi2TXf1UQbA/u5qoMcli//muBihETnjmZKQ7Cj9fdHyVTxBQ25kPwtKfkUI6ioWXjsRUqVa4HaYlvZ9lyf1YhnEZCLec6qlSCfA9VO8Jdoa27IzfyGCPjYSX3j6IQvgOv2XD+NeB2YtzPDXF2A4cScQWxVTPHRTBfdRiATrn6IqpmTesLysGSTp0KUu8hiyjZ5BNWq/pMwR2dpwB1gH6yBAUVv5FnwDlSMlk1MbXL6iB/rfGB8yBS2sFXMi6G4/Ur5Zo=;4Fx55bJQDGjEWaSxTifaPQ=="
 ---

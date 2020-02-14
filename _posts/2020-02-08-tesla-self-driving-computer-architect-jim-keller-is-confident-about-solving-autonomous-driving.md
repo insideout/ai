@@ -58,6 +58,21 @@ related:
       - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
+    excerpt: "Former Waymo contractor accused of causing crash with self-driving vehicle Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles. Check out this story on app.com: https://www.usatoday ..."
+    publishedDateTime: 2020-02-13T23:58:00Z
+    webUrl: "https://www.app.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
+    ampWebUrl: "https://amp.app.com/amp/4755099002"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/4755099002"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
 
 secured: "uDuUdBXATmsDxbcBgRR7/S4EsiYeUyQ7olonkZwiM9wTgqjFuXbEh/SgQaoVDBPchVpPHhuEWfGWz+n4AgFcmj84QdV6MhUMFWweMg5gXN8iYw1xCdJZa7I9/NT9ACiukkDw7yQEPRjLeZHTistpCDEADfXllXqOzalpVVJC46OkBL1edgYzjnqC31twft0VMw1r1y6tq9l0KP0pdL+ykOqoHCV3V2br6eTi/a4mfLNAvcXEsIk3XC1UTIRN4kzVYTdd2Mo5H8OhfGBwi37WRpy0KT8DpWxJlixzFNr0WZEJiNTbwZKQ+rvsff1ACGFDn7J8hkiJwky51ikdnGw8tdzJrYnOPlrjYugOlBPZ4SO7fiOy6t2VNMRhmyltqoAIWv2hH6vij8WER2Fl12mGXv/x/qxI4UPGHsrgMngPFpZ6guoH8n1P7qiyxqDogWIviMQa9o5bDoYMerbAgmtAL8lZOQES0ujZG3qhbLcu5MY=;FkJ7U/b/I7xolOOL/EnCrA=="
 ---

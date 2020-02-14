@@ -24,84 +24,61 @@ images:
     title: "This Is What A Self-Driving Car 'Sees' Versus What You See"
 
 related:
-  - title: "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars"
-    excerpt: "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind."
-    publishedDateTime: 2020-02-08T12:42:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
+  - title: "Who Is Responsible In A Crash With A Self-Driving Car?"
+    excerpt: "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless."
+    publishedDateTime: 2020-02-06T17:06:00Z
+    webUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 76
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x507/https://specials-images.forbesimg.com/imageserve/1150260060/960x0.jpg?fit=scale"
+      - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
         width: 711
-        height: 507
-  - title: "House lawmakers close to draft bill on self-driving cars"
-    excerpt: "House lawmakers on Tuesday touted progress toward bipartisan legislation on self-driving cars, with plans to release draft language soon."
-    publishedDateTime: 2020-02-11T21:46:00Z
-    webUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars"
-    ampWebUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
+        height: 459
+  - title: "First Lexus with self-driving system arrives in 2020"
+    excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
+    publishedDateTime: 2020-02-11T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127062_first-lexus-with-self-driving-system-arrives-in-2020"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
-        width: 980
-        height: 551
-  - title: "The road ahead for digital signage in self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
-    publishedDateTime: 2020-02-04T15:59:00Z
-    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
-    type: article
-    provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
-        width: 640
-        height: 360
-  - title: "Will self-driving cars create more distracted drivers?"
-    excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
-    publishedDateTime: 2020-02-07T16:42:00Z
-    webUrl: "https://techaeris.com/2020/02/07/will-self-driving-cars-create-more-distracted-drivers/"
+      - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
+        width: 1920
+        height: 1204
+  - title: "The man who invented the self-driving car (in 1986)"
+    excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
+    publishedDateTime: 2020-02-02T17:32:00Z
+    webUrl: "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/"
     type: article
     provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 24
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
-        width: 1000
-        height: 543
-  - title: "Congress looks to revive self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-12T12:19:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
-        width: 938
-        height: 483
-  - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
-    excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
-    publishedDateTime: 2020-02-11T19:56:00Z
-    webUrl: "https://www.i4u.com/2020/02/133109/will-self-driving-cars-increase-or-decrease-drunk-driving"
-    type: article
-    provider:
-      name: i4u.com
-      domain: i4u.com
+      name: POLITICO
+      domain: politico.eu
     quality: 4
+  - title: "Can self-driving cars handle Canadian winters?"
+    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
+    publishedDateTime: 2020-02-11T16:22:00Z
+    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 4
+  - title: "The Man Behind the 1990s' Hottest Supercar Is Coming Out with a Self-Driving Pod"
+    excerpt: "The Motiv is similarly quite small, very lightweight, and runs on electric power. It has an aluminum suspension, ultra-lightweight high-strength extruded aluminum in the chassis, and composite body panels and doors that hold its weight below 992 pounds (sans batteries, at least). Measuring just 100 inches long and 52 inches wide, the compact ..."
+    publishedDateTime: 2020-02-10T21:54:00Z
+    webUrl: "https://www.motortrend.com/news/motiv-mclaren-f1-designer-autonomous-pod/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 0
 
 secured: "ltmpyuzetl9knsnFPMeBZQPzXEmQccZ/eDSy0RydGGBc1Qo1MGVEZKp8XOwVMdKtRHEs5cMmxu18h9gUD9iW+cJwHGNCljjDVA5dxUh0vqNB3uR6XG0milzeYVdV8G5zxsvOwpve2eL3Pd0EtMwEV8xxmyy9mp9mqO3xmzcFlCh5MvxNdzs3MZvIcR/tuYlH+2PEynn+lfBLCYPGtgO12MF6tD7vMTc1mYFsGbM5450RburwYiTYYGcIolsKJQ7hXTYFGo/ydDnKA+3tD5eZNEbCxLeFjDIEmN5iknOaDoycwYskEkbdIqXtO5Vq9Ov+yMcRx0MXojniGrSIUpDIuIX7QaRPZLFe9dKo1cP4YwOKTHcZipjVi0mkKjHvBFDylr40kBESJq4r12kAJZ1qZXmRgpURXDEFHlVIgFf3uJrFDYmx6m7UC2Fnap186gFTjFfZMSZMYZZS+XCDMAJLiqON8HcpRKbByB8LzuPkdXY=;0js9znkGBywSfSNwiOHLNw=="
 ---

@@ -655,15 +655,6 @@ related:
       - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Facebook will cough up $550 million to settle facial recognition case"
-    excerpt: "Remember the time when Facebook used to automatically tag you in photos uploaded by your friends using facial recognition? Now the company has agreed to pay $550 million to settle a class-action lawsuit for using the technology in Illinois. A report by the New York Times noted that the suit alleged Facebook of violating Illinois biometric ..."
-    publishedDateTime: 2020-01-30T06:38:00Z
-    webUrl: "https://thenextweb.com/facebook/2020/01/30/facebook-will-cough-up-550-million-to-settle-facial-recognition-case/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 49
   - title: "Facial recognition can ID you in a crowd. But NJ wonders who's using it, how to regulate it"
     excerpt: "Facial recognition can ID you in a crowd. But NJ wonders who's using it, how to regulate it With more questions than answers about how facial recognition technology is used by police and private companies, New Jersey considers a moratorium. Check out this story on northjersey.com: https://www.northjersey.com/story/news/2020/02/06/facial ..."
     publishedDateTime: 2020-02-07T08:21:00Z

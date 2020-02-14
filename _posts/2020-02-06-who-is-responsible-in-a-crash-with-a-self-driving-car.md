@@ -30,19 +30,6 @@ images:
     title: "Who Is Responsible In A Crash With A Self-Driving Car?"
 
 related:
-  - title: "Waymo: Self-driving vehicle in manual mode at time of crash"
-    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was operating in manual mode when it was involved in a rear-end collision in a Phoenix suburb and that the crash was caused by reckless driving of the other vehicle,"
-    publishedDateTime: 2020-02-08T11:39:00Z
-    webUrl: "https://www.herald-dispatch.com/ap/ap_nation/waymo-self-driving-vehicle-in-manual-mode-at-time-of/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
-    type: article
-    provider:
-      name: The Herald-Dispatch
-      domain: herald-dispatch.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
-        width: 600
-        height: 600
   - title: "First Lexus with self-driving system arrives in 2020"
     excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
     publishedDateTime: 2020-02-11T15:00:00Z
@@ -56,6 +43,19 @@ related:
       - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
         width: 1920
         height: 1204
+  - title: "This Is What A Self-Driving Car 'Sees' Versus What You See"
+    excerpt: "This is something that I’ve been lucky enough to see on some prototypes, but it’s more than a little valuable for the public to get a sense of what a self-driving car “sees” when driving down the road. In this case, we have one of Waymo’s test cars predicting the path of a cyclist before a crash might even happen. Waymo sent us two ..."
+    publishedDateTime: 2020-02-12T00:30:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/this-is-what-a-state-of-the-art-self-driving-car-sees-versus-what-you-see/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/gvhymwj5q8azlfbrg6g6.jpg"
+        width: 800
+        height: 450
   - title: "The man who invented the self-driving car (in 1986)"
     excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
     publishedDateTime: 2020-02-02T17:32:00Z

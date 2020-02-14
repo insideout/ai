@@ -72,15 +72,6 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/pallone.jpg?itok=zhaIX2_q"
         width: 470
         height: 246
-  - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
-    excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."
-    publishedDateTime: 2020-02-11T13:56:00Z
-    webUrl: "https://www.openpr.com/news/1927864/self-driving-car-market-outlook-world-approaching-demand"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "p8Chf4XrFiB/BIfFG2vx81D3KtdwgsCgP2UaoLVv6GqdjVQxNc3VkKPrbBIUbmdX5/21k/i8DEJ7yLA5U7ZNmuLNNLJCHN3+ZxYZ2d8346hWANwz8k1EPQwipDAb2KyVEixbQnxbSzF8znrYWW/IJsPJkEXYpAGy68Z8/5ICHTY6+d1tKIN11ypB1WW0LLkN/qE1cDT2CixYYjoXENsT9XuDdMx4dDNhxom8Mvoc9DTxz+C3PMeu5rD50qYqTU/TJyQoJJUP16clkaWu96yyzrtZvoRi9o+y7bq50hTojBeibaTjepDm+kpfzPtQv9G/;LHI8MUsGbV45pHZDtw4zxQ=="
 ---

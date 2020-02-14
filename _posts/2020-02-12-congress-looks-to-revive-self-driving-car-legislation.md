@@ -24,84 +24,93 @@ images:
     title: "Congress looks to revive self-driving car legislation"
 
 related:
-  - title: "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars"
-    excerpt: "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind."
-    publishedDateTime: 2020-02-08T12:42:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
+  - title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
+    excerpt: "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market."
+    publishedDateTime: 2020-02-13T01:21:00Z
+    webUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 76
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x507/https://specials-images.forbesimg.com/imageserve/1150260060/960x0.jpg?fit=scale"
-        width: 711
-        height: 507
-  - title: "House lawmakers close to draft bill on self-driving cars"
-    excerpt: "House lawmakers on Tuesday touted progress toward bipartisan legislation on self-driving cars, with plans to release draft language soon."
-    publishedDateTime: 2020-02-11T21:46:00Z
-    webUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars"
-    ampWebUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
+        width: 960
+        height: 541
+  - title: "Deep Learning(Computer Vision): Object Detection & Infection Classification on Malaria Images using Mask-Region Based Convolutional Neural Network"
+    excerpt: "I am going use Keras, with a Tensorflow backend to create models for Object Detection. Deep Learning is a sub-field of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. Deep learning (also known as deep structured learning or differential programming) is part of a ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/analytics-vidhya/deep-learning-computer-vision-object-detection-infection-classification-on-malaria-images-3769b4f51de9"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
+      name: Medium
+      domain: medium.com
+    quality: 67
     images:
-      - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
-        width: 980
-        height: 551
-  - title: "The road ahead for digital signage in self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
-    publishedDateTime: 2020-02-04T15:59:00Z
-    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
+      - url: "https://miro.medium.com/max/811/1*TOubTYal5304uIdNHhNrJg.png"
+        width: 811
+        height: 665
+  - title: "AVs are getting their own rules"
+    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
+    publishedDateTime: 2020-02-07T17:37:00Z
+    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
     type: article
     provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
+      name: Axios
+      domain: axios.com
     quality: 24
     images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
-        width: 640
-        height: 360
-  - title: "Will self-driving cars create more distracted drivers?"
-    excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
-    publishedDateTime: 2020-02-07T16:42:00Z
-    webUrl: "https://techaeris.com/2020/02/07/will-self-driving-cars-create-more-distracted-drivers/"
+      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
+        width: 1920
+        height: 1080
+  - title: "Fintech 2020 and Beyond: The Decade of Regulatory Collaboration"
+    excerpt: "In 2008, while bank and nonbank institution fintech and innovation were flourishing ... automated investment advice and artificial intelligence (AI) and machine learning. The website provides pertinent regulations, investor information, opportunities for comment and empirical data. SEC Chairman Jay Clayton is quoted as saying, “the SEC ..."
+    publishedDateTime: 2020-02-07T17:57:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2020/02/07/fintech-2020-and-beyond-the-decade-of-regulatory-collaboration/"
     type: article
     provider:
-      name: Techaeris
-      domain: techaeris.com
+      name: Law
+      domain: law.com
     quality: 24
     images:
-      - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
-        width: 1000
-        height: 543
-  - title: "This Is What A Self-Driving Car 'Sees' Versus What You See"
-    excerpt: "This is something that I’ve been lucky enough to see on some prototypes, but it’s more than a little valuable for the public to get a sense of what a self-driving car “sees” when driving down the road. In this case, we have one of Waymo’s test cars predicting the path of a cyclist before a crash might even happen. Waymo sent us two ..."
-    publishedDateTime: 2020-02-12T00:30:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/02/this-is-what-a-state-of-the-art-self-driving-car-sees-versus-what-you-see/"
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2020/02/Joanne-Needleman-Article-202002061606.jpg"
+        width: 620
+        height: 372
+  - title: "10 Rules Entrepreneurs Need To Know Before Adopting AI"
+    excerpt: "Rocio Wu offers insights into how entrepreneurs can start riding the wave. Although adoption of artificial intelligence (AI) and machine learning (ML) for the enterprise is still in the early days, the technology has matured enough for entrepreneurs to start gathering inspiration and evaluating opportunities for potential applications."
+    publishedDateTime: 2020-02-11T16:03:00Z
+    webUrl: "https://hbswk.hbs.edu/item/10-rules-entrepreneurs-need-to-know-before-adopting-ai"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
+      name: Harvard Business School
+      domain: hbs.edu
+    quality: 17
+  - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
+    excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. The United States is considered as the major hub for companies in autonomous vehicle development,"
+    publishedDateTime: 2020-02-12T12:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15309208/self-driving-car-market-trends-report-2019-2027-by-level-of-automation-type-end-user-and-region"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15309208"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15309208"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
+  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
+    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
+    publishedDateTime: 2020-02-07T03:43:00Z
+    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/gvhymwj5q8azlfbrg6g6.jpg"
-        width: 800
-        height: 450
-  - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
-    excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
-    publishedDateTime: 2020-02-11T19:56:00Z
-    webUrl: "https://www.i4u.com/2020/02/133109/will-self-driving-cars-increase-or-decrease-drunk-driving"
-    type: article
-    provider:
-      name: i4u.com
-      domain: i4u.com
-    quality: 4
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
+        width: 4000
+        height: 2666
 
 secured: "v9rkDziKUQw/IpRIdYhcdeTyd6e76zzyh5HeLy9B55OjWUqFKJL7f2UgD2GCxxIRhTj8ZoWyaIuPyN9FCrI/+3dlXNslRl+smF2m0rYTV23p1sdEY+5I+1VT3B1jXTJuYhLN0HWDw408fHRsUmHhRwuOo1juDz3lBNLxFgVQny3kZGj5WGYiLMup3+qjqlvhFB5Pd3Z7WZQ4rcn9BfrExw5bStmN5c+gAjbPzGebC9CF2G8Ojz+4c9FY2vaFT2PkHWLPe1SDOHNMZn0aqtelpoLxQNu/gE13sqDdbtpXVvqnMnIY2yOlKWuSu1lnXrVgPq676b3cf1NQT6z4EaD6KCRo9Zqf0ZqL0u+fbiqrj+uqr6iVc76TS0YGOX+FfdP8ltUX6Q1c166UpCUuCDgMrt8/rRpQfzy+cl33cXfuvMZqcYtLedtrKx3YWSjV+fPD+j0vsM031kUBF0dUOt9oiM5qjRUO2wPwBrtrPDr4K4A=;JPrCPvzhnF5QGxVF9To9XQ=="
 ---

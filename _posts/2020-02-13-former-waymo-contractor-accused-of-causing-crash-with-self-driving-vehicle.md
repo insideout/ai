@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
-excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
-publishedDateTime: 2020-02-02T08:58:00Z
-webUrl: "https://www.businessinsider.com/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1"
+title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
+excerpt: "Former Waymo contractor accused of causing crash with self-driving vehicle Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles. Check out this story on app.com: https://www.usatoday ..."
+publishedDateTime: 2020-02-13T23:58:00Z
+webUrl: "https://www.app.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
+ampWebUrl: "https://amp.app.com/amp/4755099002"
+cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/4755099002"
 type: article
-quality: 60
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: app.com
+  domain: app.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
+  - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
     width: 1200
-    height: 600
-    title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
+    height: 675
+    title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
 
 related:
   - title: "Tesla accused of abruptly pulling self-driving from a used Model S"
@@ -58,22 +56,20 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-chip-designer-Jim-keller.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 484
-  - title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
-    excerpt: "Former Waymo contractor accused of causing crash with self-driving vehicle Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles. Check out this story on app.com: https://www.usatoday ..."
-    publishedDateTime: 2020-02-13T23:58:00Z
-    webUrl: "https://www.app.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
-    ampWebUrl: "https://amp.app.com/amp/4755099002"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/4755099002"
+  - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
+    excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
+    publishedDateTime: 2020-02-02T08:58:00Z
+    webUrl: "https://www.businessinsider.com/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1"
     type: article
     provider:
-      name: app.com
-      domain: app.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
 
-secured: "9VNRkMqIcIuCUzp1i9LZSybuqsjgW2JHsFna8OKwh4wFontoCngSL4jcn66cgg7Bch2PIEc4i/srn+p1hlggJv6T6zR4zkDs8FG6ncmQQG3rD74EctboO/LY1Z6KOmwWJ2SiCR3oLSU65E7l9K6aIFljsmuubHYXIPqmUjWhlygqCB2fYKcpP4IWQ2a6eHLEjj1uhPUyXLmFRyew5t6OGIvkmg+DykYtcWjOwDD6X7tc7rrbKL+37vZIIDkKgiX4N24C3rM3ybFe2pQrpTyDobmxqKPwjW//lJy5mWH5ZnQSGtntKYkgO5vl/aosWbrpR1abIKMJ62Lm2486IgCIka4mQcm9l0Kuec0MiYtvqKGDnJdlOXa9WZP3WLfmL2rLd5K7dPT9hI/AECRWjW/TMOe598mDLD6B37b8n5zBGmlUs5TzYeEUxoDa3mC+4yvT1NVcnsu6PhngnxzPFcX0dX0pM4TnPcC+L3hgouhlb/U=;G9hLR0e5UpcUIq2DdvFFMw=="
+secured: "pVh8reN5gfC7WSYWtiNFldodvbJmFCjWpe99wZMo++GBoAy1CQnBZscXX3QKy6mf3FiQrnJWYDpAH/0BFa0G4bRg5ZlT6KC7pyPofBhCzXMP/lj3AU/K4wNcOteeLJ6TBU0HPgyoFCRRubKMI28NmJINykwiUJmjMw+Xqahj34XPQ7Sy/dqvZKdMKLZ3g8NZFpnLZB/P9c9ql+XlLcmZlmUtD5TbesBVo0sCPflONyquuuhCsThZCJo6jJJBFlrC9A40S6BMoHT0+AFoIulV8xEgX3g4/r9iQb9xOTS4JFhlTgN6RiDv7TD4imkH51bS;73OZjstLZy2EtG3Kp9NAog=="
 ---
 

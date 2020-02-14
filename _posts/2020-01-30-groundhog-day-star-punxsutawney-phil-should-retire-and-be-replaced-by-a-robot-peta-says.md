@@ -73,21 +73,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f4006f0-438b-11ea-bdef-51a7d251189a%26client%3Da1acac3e1b3290917d92%26signature%3D37fd7a74081041878e390c3019f83230b1221166&client=amp-blogside-v2&signature=9048b5352ceee474a101d8f7c499c40859254e35"
         width: 1200
         height: 630
-  - title: "PETA calls for Punxsutawney Phil to retire, be replaced with AI robot for Groundhog Day"
-    excerpt: "PETA suggested that instead of live animals, the Punxsutawney Groundhog Club use “technologically advanced electromechanical devices such as animatronics” with artificial intelligence could reliably predict the weather. “An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony’s robot dog ‘aibo ..."
-    publishedDateTime: 2020-01-30T06:37:00Z
-    webUrl: "https://www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day"
-    ampWebUrl: "https://www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day.amp"
-    type: article
-    provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 66
-    images:
-      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/01/932/470/Punxsutawney-Phil-GETTY.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
   - title: "PETA calls for Punxsutawney Phil to retire from Groundhog's Day, be replaced with AI robot"
     excerpt: "this week called for Punxsutawney Phil to be retired from his annual Groundhog’s Day tradition and be replaced with an artificially intelligent robot that could actually predict the weather."
     publishedDateTime: 2020-01-30T16:44:00Z

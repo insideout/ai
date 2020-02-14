@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-10-this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning.md",
-      "title": "This AI model improves and colorizes old videos and the results are stunning",
-      "excerpt": "While this was a great short watch, it made me wonder about using AI to restore and enhance old videos ... weekend that aims to improve and colorize these videos. The model uses Temporal Neural ...",
-      "heat": 184,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/amp/",
-      "publishedDateTime": "2020-02-10T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/AI-video-restoration.png",
-          "width": 736,
-          "height": 390,
-          "title": "This AI model improves and colorizes old videos and the results are stunning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
       "title": "Top 5 companies using Machine Learning in 2020",
       "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
@@ -2028,43 +1984,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
-      "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
-      "excerpt": "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11",
-      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
-      "publishedDateTime": "2020-02-11T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG",
-          "width": 640,
-          "height": 419,
-          "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-why-we-need-to-focus-on-the-positives-of-ai.md",
       "title": "Why We Need To Focus On The Positives Of AI",
       "excerpt": "Many people tend to think of AI as purely an automation technology, but that just skims the surface of what these tools and techniques can do for us.",
@@ -2152,6 +2071,96 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-6-ways-to-boost-your-marketing-with-natural-language-processing.md",
+      "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+      "excerpt": "Given that marketing is heavily reliant on words to convey messages about people and products, it’s not surprising that NLP has carved out a large niche in marketing technology.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/",
+      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1134222543%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D1750%26cropY2%3D4000",
+          "width": 1200,
+          "height": 675,
+          "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-8-great-python-libraries-for-natural-language-processing.md",
+      "title": "8 great Python libraries for natural language processing",
+      "excerpt": "Natural language processing, or NLP for short, is best described as “AI for speech and text.” The magic behind voice commands, speech and text translation, sentiment analysis, text summarization, and many other linguistic applications and analyses, natural language processing has been improved dramatically through deep learning.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/05/communication_language_translation_global_foreign_countries_country_flags_by_alexsl_gettyimages-673314454_1200x800-100757311-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "8 great Python libraries for natural language processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

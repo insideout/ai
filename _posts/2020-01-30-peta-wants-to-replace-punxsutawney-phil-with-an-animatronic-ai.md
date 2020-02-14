@@ -72,21 +72,6 @@ related:
       - url: "https://toofab.akamaized.net/2020/01/30/groundhog-day-main-getty-1200x630.jpg"
         width: 1200
         height: 630
-  - title: "PETA calls for Punxsutawney Phil to retire, be replaced with AI robot for Groundhog Day"
-    excerpt: "PETA suggested that instead of live animals, the Punxsutawney Groundhog Club use “technologically advanced electromechanical devices such as animatronics” with artificial intelligence could reliably predict the weather. “An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony’s robot dog ‘aibo ..."
-    publishedDateTime: 2020-01-30T06:37:00Z
-    webUrl: "https://www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day"
-    ampWebUrl: "https://www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day.amp"
-    type: article
-    provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 66
-    images:
-      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/01/932/470/Punxsutawney-Phil-GETTY.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
   - title: "PETA calls for Punxsutawney Phil to retire from Groundhog's Day, be replaced with AI robot"
     excerpt: "this week called for Punxsutawney Phil to be retired from his annual Groundhog’s Day tradition and be replaced with an artificially intelligent robot that could actually predict the weather."
     publishedDateTime: 2020-01-30T16:44:00Z

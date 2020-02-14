@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,21 @@ related:
       - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
+    excerpt: "Former Waymo contractor accused of causing crash with self-driving vehicle Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles. Check out this story on app.com: https://www.usatoday ..."
+    publishedDateTime: 2020-02-13T23:58:00Z
+    webUrl: "https://www.app.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
+    ampWebUrl: "https://amp.app.com/amp/4755099002"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/4755099002"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
 
 secured: "wBJY8g4Flk6oJrBwEpBjhT6/qmQDimQ8Dlj8MgXZc7/wN0C9WjEA9nFeL4NzuSbIdzo3zW/cOxPQwj3S9AJObAdRXHhITxbEJPELHDCURke34cxxohiO/e3jbEgm75U94K9V5jqHY2CUJKa9ZNoFqZDmnNr+IxltX71laRQJneE4kTD1cs8aKcR9qBTvFQ69qa1JQ4oOrtWiAZbp2deZB+BQMDWZbdCss64bFwMtYoO9Yk5/iVomuLjNojbME6dN6v5f2Lu80pH5NPVpF7047yeJHAAu7ZWdbJXj4XJLoKcmNOb5MpTc4caJ5BsExfOWhzKO6c2bLBqtaydyqsfizcBFVmV7IRmtkLZNLErDrenlTzuU2tjTLNaplLR7T7TYuQEoDxggIrzJrNv0i7cIiweXYdxxAt7UE9DkHT5x61xLU3gtRRa8GAjUmL7hPjSQfwsx1jvYyaWcKHtLhKuNWndnuXFmVQIrzbVPPrBKMkU=;mIYdlcNjP5GhSXFEkE0k7g=="
 ---

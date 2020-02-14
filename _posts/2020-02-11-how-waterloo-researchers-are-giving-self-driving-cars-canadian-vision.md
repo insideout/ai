@@ -24,88 +24,37 @@ images:
     title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
 
 related:
-  - title: "U.S. lawmakers hear arguments for new safeguards for self-driving cars"
-    excerpt: "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,"
-    publishedDateTime: 2020-02-11T23:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
+  - title: "How to Build a Morally Ethical Self-Driving Car"
+    excerpt: "A road hazard appears in front of your autonomous taxi. Will it make a choice that saves you but kills others? Or will it decide to save others at the price of its passenger?"
+    publishedDateTime: 2020-02-06T14:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2020-02-06/morally-ethical-self-driving-cars-are-the-next-real-challenge"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
-    images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
-        width: 640
-        height: 419
-  - title: "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars"
-    excerpt: "WASHINGTON, Feb 11- A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
-    publishedDateTime: 2020-02-12T04:03:00Z
-    webUrl: "https://www.cnbc.com/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
+  - title: "Australians Slow to Embrace New Technologies but Want Self-driving Cars"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-02-10T23:02:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-02-10/australians-slow-to-embrace-new-technologies-but-want-self-driving-cars"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
-        width: 1200
-        height: 630
-  - title: "US lawmakers, trial lawyers clash over self-driving rules"
-    excerpt: "US lawmakers, trial lawyers clash over self-driving rules Trial lawyers objected to a lack of protections in a 2018 Senate bill that would ensure the right to sue carmakers after autonomous-vehicle crashes Check out this story on detroitnews.com ..."
-    publishedDateTime: 2020-02-11T22:55:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/02/11/lawmakers-trial-lawyers-clash-over-self-driving-rules/4726567002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/4726567002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4726567002"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
+  - title: "The road ahead for digital signage in self-driving cars"
+    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
+    publishedDateTime: 2020-02-04T15:59:00Z
+    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/11/PDTN/bfd3cbac-2c60-49f8-bec8-325637799aec-dtncent02-796k6oa3zeracqe94qt_original.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-  - title: "Lawmakers, Trial Lawyers Clash Over Self-Driving Car Rules"
-    excerpt: "(TNS) — Lawmakers in the U.S. House on Tuesday took to task a trial lawyers' lobby group that helped kill a bill setting regulations for self-driving cars. The Washington-based American Association for Justice, which lobbies for trial lawyers who typically represent plaintiffs, had objected to a lack of concrete protections that would ensure ..."
-    publishedDateTime: 2020-02-12T18:09:00Z
-    webUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html"
-    ampWebUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
-        width: 950
-        height: 629
-  - title: "Self-driving car company Nuro wins federal safety approval"
-    excerpt: "WASHINGTON - Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
-    publishedDateTime: 2020-02-08T14:07:00Z
-    webUrl: "https://www.postguam.com/business/technology/self-driving-car-company-nuro-wins-federal-safety-approval/article_1c34c964-4960-11ea-8ad5-17b7d62b54d5.html"
-    type: article
-    provider:
-      name: The Guam Daily Post
-      domain: postguam.com
+      name: Digital Signage
+      domain: digitalsignagetoday.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
-        width: 800
-        height: 448
-  - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
-    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
-    publishedDateTime: 2020-02-13T22:40:00Z
-    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 19
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
+        width: 640
+        height: 360
 
 secured: "Tt3RdEfA1Wocce69V8ToLE0xsgK3Bbd6QLU8wM2a5Zdr87zD+99n43W5yOlrXaI4Vh/2lwIhA5t6BmAqjknxjDsFJfKtYL4JbvpVfX9olDKxIQENjKggE58mqA3bePKiwVzZh26NMRkKDtwREsKB+wFCW/H8qYu8LMo9RQvsz05NoCYIQ+TCw43oG9ugkztb5j+qtwQQuE0WDa9d1oVtXRG5ADhrfOwP/M3YkW+Wc/wpJWaL18nDHA8/7Lvqv8wQJStNOWhQEcscV5S7ks6hBmCOK+6YxGqeue+W1SQeVkEvAbMDe7H+NrEkwjGfYMD5RHk7V1tBN+YFTmr6KZOwiNsnbk9FhOI7H/mE5alqpJ35rv6TFtrANkca3C5NoKSKX+GZWwT0Hblgq+zkhhtsRDYACpOj1UoTvv05PrdadrP/xJ9BawF/jn9e7patKC4oiHhfM2lkhkW0RiscEMSK/9hgaEe329gS7AzChHImp6A=;DIPqDkQfo1ZY67/PiKveIQ=="
 ---

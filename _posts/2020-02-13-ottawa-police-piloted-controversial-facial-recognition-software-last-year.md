@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Raleigh police abruptly end use of controversial facial recognition tech"
-excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
-publishedDateTime: 2020-02-11T18:11:00Z
-webUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/"
-ampWebUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
-cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
+title: "Ottawa police piloted controversial facial recognition software last year"
+excerpt: "Ottawa police quietly tested facial recognition software for three months last year, this newspaper has learned. The pilot, which ended in March of 2019, came before a public dialogue on the use of CCTV cameras in spaces like the ByWard Market after a string of fatal shootings in the tourist hub. Though Ottawa police at the time spoke of the ..."
+publishedDateTime: 2020-02-13T23:12:00Z
+webUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year"
+ampWebUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
+cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: WRAL
-  domain: wral.com
+  name: Ottawa Citizen
+  domain: ottawacitizen.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://wwwcache.wral.com/asset/news/local/2020/02/10/18945112/clearview_cap-DMID1-5lstc1qbi-1920x1080.jpg"
-    width: 1920
-    height: 1080
-    title: "Raleigh police abruptly end use of controversial facial recognition tech"
+  - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
+    width: 1000
+    height: 750
+    title: "Ottawa police piloted controversial facial recognition software last year"
 
 related:
   - title: "Met Police try to calm tensions as live facial recognition hits London"
@@ -41,21 +41,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Ottawa police piloted controversial facial recognition software last year"
-    excerpt: "Ottawa police quietly tested facial recognition software for three months last year, this newspaper has learned. The pilot, which ended in March of 2019, came before a public dialogue on the use of CCTV cameras in spaces like the ByWard Market after a string of fatal shootings in the tourist hub. Though Ottawa police at the time spoke of the ..."
-    publishedDateTime: 2020-02-13T23:12:00Z
-    webUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year"
-    ampWebUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
+  - title: "Raleigh police abruptly end use of controversial facial recognition tech"
+    excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
+    publishedDateTime: 2020-02-11T18:11:00Z
+    webUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/"
+    ampWebUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
     type: article
     provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
+      name: WRAL
+      domain: wral.com
     quality: 58
     images:
-      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
-        width: 1000
-        height: 750
+      - url: "https://wwwcache.wral.com/asset/news/local/2020/02/10/18945112/clearview_cap-DMID1-5lstc1qbi-1920x1080.jpg"
+        width: 1920
+        height: 1080
   - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
     excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
     publishedDateTime: 2020-02-11T05:28:00Z
@@ -112,6 +112,6 @@ related:
       domain: linkedin.com
     quality: 16
 
-secured: "3UDui69t198KYRxFNFFbWfo4NCNcXapMhyAQIq7dPowbeqcCeZlscZUXveZC+JylNaslxTv+mAOBJC6qCfm786crGg8zyGP7IksMHHnHLgKLD2Uk8TY6/3AnO3TV/eBM7Jo3U2hCQkJoJ88lGBxdNdzqDxBHt9nNm3KDDW0Fdp3Zo25uMXbT/ptw3r4pRP7zJ84OZryA/ekrX3HOsS7tgdE8R6vglhX4nLo6ruH5kiIXLacNoa/lTRvZ0nycLrE5vrZJLEfYfGKZhqN1Tc75yXNVAt0mL0LNdyCvwfgE7qT8UfKEiv453kbWrLNgMkAt/S/UymzxGmyBGt/NZusnzX9IRFhW/A+YYnmOJZp+YNevrxDbma+HMIHLZ6Kg6aWBSuTg147NXLulqZunIFwR+ptbn5DQlfreZehfuEIKt3vkmZe5M/rFX1yto3Um/yp5dnIGPXtqrVePRKa+YHow9VXD2DoCnGRewIBL8hxSEdI=;y0XGhTE9Szfd1k75mIjCmg=="
+secured: "VHcOOIVhkgz7SpwC/cgYUmIxzi1q3fE3bmoaSkIrh569dzFlQvzUXtdAMWDsMnunNcpo+/GUkJH03mWpWAvO0QKQUY14biI6FcBY5oyn7HUBjBhR2HuILWXY/YaUNrIlhOdnLASuaE8kXL3ifzfzOEWJhUC1sp3IgAxWiSSbBp1iMdw2bsAqBEPoo9QhnSMVr9YSu9iJreeUSI9Yy2tmOogSbPZ1SrjEh+jNaJStgTNyNXYGwztgye3mWyyZzZLR933ol+1mgzh2Sd2p8RqNmEOFVh17uo6VbS5ZFQMyJiSVKGXFZwDaToW0hUpJOuCO;9u3VcdF/gm3FqRsTE8uTAw=="
 ---
 

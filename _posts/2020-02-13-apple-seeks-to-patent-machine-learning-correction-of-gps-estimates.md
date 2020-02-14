@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-lea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-learning-correction-of-gps-estimates/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 1305
         height: 728
 
-secured: "sFpPVT9R7HR8CSOAbAVtl1lrkBOfSFgXbHNcPyzQLmxG+54+CkcvwkmKTCkFAEI4X7IReLbQuX+2PjDk2UlQy+pMWNfqn8mQMqb8Q+EV7kCnRRlAMKcXAslMls6fRz4r+JSoO4aNVYSft6FUrS8S3qbMGsLRTymb4Isj9GTb8l430571vFIcQErMnlq2vP4EBtW+Y14qehGUZlxMgjgC80nvestHL8yaWVjO3zC80Jzkla0xtb3PZsG+TVegWiSG0bR5hmCVr6swiJb0ZOVFUeOmO7afNIlCIbwZQ0jhlSD+gJIizPWuVfmYIBP11c5PCeFrzHXdzf+D1sAtTZ2daXjtuIaFq9M0294h0Xnf5TRC8uMH43FHxkDTcKVLM/oPioUC7uibF9vVZsp2wNbJJWfEw7D4n4MZgxDrw0Xfa0FPB0vk96ex8KESXafcGqFY20bQPq1taDTDnBAreNGlwmxekfcskZa/RXER6xkDwl8=;307pFVa2iH3boQHoQtmONw=="
+secured: "wOoeEh4HOp18ghU/owbJFum+bpc94nAKllDKxyirgZdWYUFEWX2BIUkXh9jTQpVQ0G+38YA/zQ2fJ8QFOg2uIFSrF8YbU32t3lszsAInf7uOd4VIpQ4ts0Eq0f+ChmOG8+aBcC/Z4cBLjq4u5/Q5vcRFW0gUuz4zKveeuKzarhEaVJ12AirvO9dciI62tKpXXB/Q4KtaqnT8nGsD+A0fRtUn9X+1l0WGJNC9Aqm8XwUFJGt3aGUj2Yrt+trm83ck6OqehhQzIC+MNzOyhsAthTvMnrvd9JtQnNzUG5ozA7ro2ElhJ1+y9olYvpgjWzQSOToWEBp7ePk868ksAcNiOjXKc2JBriuwkzEOp32AoqHknHfl8s9fym0jHhKGh91QK7som/4Zi1I3Z1RKjseeLNsUP/6D8YgzbshVrrSwXivJNPiX+nb4dJVuw5fQUhcoYeWwRvzbB4vdVl3CcnWI2G/K/MpW0+KHVG73L3MmKb4=;m6pL5N8nifZ4ccyr2cYIyQ=="
 ---
 

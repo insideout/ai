@@ -63,19 +63,6 @@ related:
       - url: "https://www.standardmedia.co.ke/images/saturday/how_artificial_intel5e3593e117b93.jpg"
         width: 800
         height: 500
-  - title: "How Augmented Intelligence Will Change the Face of AI Adoption in 2020?"
-    excerpt: "When it comes to leadership, the new challenge for CIOs adopting AI technologies comes down to one thing: ethics. It has now become paramount that CIOs know what uses of AI could cause problems – whether bad, biased or unethical – and what they can do to make sure their business remains on the right side. In 2020, the industry will see CIOs ..."
-    publishedDateTime: 2020-01-30T06:40:00Z
-    webUrl: "https://www.analyticsinsight.net/augmented-intelligence-will-change-face-ai-adoption-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/augin.jpg"
-        width: 960
-        height: 640
   - title: "How the “Artificial Intelligence of Things” Will Change the World as We Know It"
     excerpt: "Alongside the growth of the IoT, artificial intelligence (AI) has emerged as the next technology phenomenon ... Where latency means inefficiency, and inefficiency costs money, voice interfaces must be built on the AIoT, not the cloud. Domestic healthcare is another sector that could benefit significantly from AIoT. AIoT-enabled devices ..."
     publishedDateTime: 2020-02-06T21:33:00Z

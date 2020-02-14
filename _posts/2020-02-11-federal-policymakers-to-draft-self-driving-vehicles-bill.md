@@ -72,15 +72,6 @@ related:
       - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
         width: 1140
         height: 712
-  - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
-    excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."
-    publishedDateTime: 2020-02-11T13:56:00Z
-    webUrl: "https://www.openpr.com/news/1927864/self-driving-car-market-outlook-world-approaching-demand"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "s1XAMW3t6VM9vxbN0sEyPcUVeVwaUe0g6QHbUHdsEQiUB11uzlMQU8SD/HKmSn9DCH3LFvIO8Cw3IMlIBC+iLL4C70yByxS2JUKI5DlA6RxMl5IQYCet1JXJmcSwI5kg9rEFgk8GTXaM/pESBR6SMhrFHq2nDyjygbF8StJ6oIQ96qvthHnktvKRwk2VluL7hGDbBBApSjLuCnNbDHe89jCifAhkUWQcuahV1k2zUrxTahuHJPlstLXCnSam8GP2QX1/Rp2U95SqJCONYChTYrXD1TZOF7YmahrvkhTBKi6NAdUyIT1g35fW85AOIRnC;OSMfbadgBet32CdCpIPJ4g=="
 ---

@@ -2,7 +2,7 @@
 category: news
 title: "Facebook taught its AI to speak math"
 excerpt: "My numerical idiocy aside, Facebook has trained an AI to solve ... Essentially the research team taught the AI to unpack mathematical equations much in the same way that we do for complex phrases ..."
-publishedDateTime: 2020-01-14T17:16:00Z
+publishedDateTime: 2020-01-14T17:15:00Z
 webUrl: "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 ampWebUrl: "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
@@ -29,6 +29,6 @@ images:
     height: 350
     title: "Facebook taught its AI to speak math"
 
-secured: "DxmZw28WvlupjIbQjpjoLU/oDkhoxEA31LoI91R0DsA+p5VJWPEznQZ9XKAkkgJwQCNHuhqwxCgDfwbmIw8HInTDrQ9pxs7VPnIfUgV25B00y5EEKmyMKbq3wvUfHLmVLTTKaRc95xuV0tY6pD3/ZNfhyI6F+gDxguqQsGExuQoB3GcgLGtURpoxpnw5tarnkn5FNptqLOn9XREtdX1dk9uRyCvCkQYrq0L+8k8LkdEE8Ju0nkALVjU1DZ3+AHzWzdbjIkan5qYWPKD2prqsi+Oyvs4TT1zAJaP75XfQb++3BlkgL+z6dkBQnUqGTy6s;koF+Ez+Bju0Qy6tIfRACbA=="
+secured: "y2LMJeT8toOxODkthmF/4a+bzBOu/xT8PMsbmdNe+hRAce7/GRELmNu1JwTzTVNAozNFXCIahTCsV3AA49fBCOniNWhJv9pBxPY4mlMKxkED0Iabg3Xfd6xhjwiFSXlvRwyM/isf8x57/67eN9X19xL/P7NCWRUHuDjqdoFXewVnYL+2mBKMyo1dX9vyCfH9z9Hx5EshROa6sUXkLKDBwaaslxJCiRzzwnEak16rHa6El6thyeW8smQjz8ANl8Eox8TIMeC1GtxgjIoLOAsFpazC5+go40Q7mYzfzBd0591QGcTnxmN4tc2HfIH3lPGq;o8NH13DTv21M4qglAnEHgQ=="
 ---
 

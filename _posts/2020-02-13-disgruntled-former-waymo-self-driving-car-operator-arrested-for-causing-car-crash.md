@@ -1,44 +1,35 @@
 ---
 category: news
-title: "Waymo: Self-driving vehicle in manual mode at time of crash"
-excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was operating in manual mode when it was involved in a rear-end collision in a Phoenix suburb and that the crash was caused by reckless driving of the other vehicle,"
-publishedDateTime: 2020-02-08T11:39:00Z
-webUrl: "https://www.herald-dispatch.com/ap/ap_nation/waymo-self-driving-vehicle-in-manual-mode-at-time-of/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
+title: "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash"
+excerpt: "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ..."
+publishedDateTime: 2020-02-13T22:27:00Z
+webUrl: "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 83
+heat: 193
+published: true
 
 provider:
-  name: The Herald-Dispatch
-  domain: herald-dispatch.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: "/assets/images/organizations/theverge.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
-    width: 600
-    height: 600
-    title: "Waymo: Self-driving vehicle in manual mode at time of crash"
+  - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
+    width: 1400
+    height: 933
+    title: "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash"
 
 related:
-  - title: "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash"
-    excerpt: "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ..."
-    publishedDateTime: 2020-02-13T22:27:00Z
-    webUrl: "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 83
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
-        width: 1400
-        height: 933
   - title: "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars"
     excerpt: "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind."
     publishedDateTime: 2020-02-08T12:42:00Z
@@ -84,6 +75,19 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/13/PPHX/20a18807-923a-49da-b9dc-7404b2750590-Raymond_Tang_mugshot.jpg?auto=webp&crop=479,269,x1,y167&format=pjpg&width=1200"
         width: 1200
         height: 674
+  - title: "Waymo: Self-driving vehicle in manual mode at time of crash"
+    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was operating in manual mode when it was involved in a rear-end collision in a Phoenix suburb and that the crash was caused by reckless driving of the other vehicle,"
+    publishedDateTime: 2020-02-08T11:39:00Z
+    webUrl: "https://www.herald-dispatch.com/ap/ap_nation/waymo-self-driving-vehicle-in-manual-mode-at-time-of/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
+    type: article
+    provider:
+      name: The Herald-Dispatch
+      domain: herald-dispatch.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
+        width: 600
+        height: 600
   - title: "Nuro Self-Driving Car Scores Federal Regulator Approval(Radio)"
     excerpt: "Self-driving robot start-up Nuro Inc. has been granted regulatory permission to deploy its grocery delivery vehicles on the nation’s roads, making the company’s autonomous vehicles the first approved to temporarily sidestep car-safety standards."
     publishedDateTime: 2020-02-07T16:03:00Z
@@ -162,6 +166,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "SbX2pHL/JMQDBFeFj1cScrqJwjIL0z91A4/XpFM0eiaANQsRNACnVVjOHS+3ilE1aH2qPd/3vknmz0PZOWD2Zz9TnLRG8X23g4Kw2+Ag1tVFUXi8Lw6V4TeNEe05Copklp+A3Pu0p6RvWNiF/iO/YfaN0JCEUJt9f1JEjNIWZ2P/mg8Qdks1g34HwaYqniC3GaA1Oh/OokKc1Kvd6QV0bksyMwb4R/5JfSUI5bOIYZx02zxfeqZ1N/BOrcPn836bo2iBuK29t4fpY0zcml3m9H+/K+bY2cRv+48gh/hH/tB95W3eAGW0ZUfJhVlsikKt;Uuvo1AB6ztHTbUUs3tKOsA=="
+secured: "xLSCPQ3WEiqmcp7Kxdc/f8mQ090sMc874ffWjFFIzBJXUgJ9qiOYbUIY8dpZtGUUHqb83Ip2GZds2mRE1qgvQttB46uy+hlgf6MAf80+SlPNDqRbiCuS7HKlywf9hr69ASPxvq+u9sJaunXEYW52l3vysHA+YpqXj0N7rWLvlPW6P8j45blGJHYmYxNDMRW/G3UxIjZ/FPX1rpFh4WUqKYPjtPV/2DhzyciUN/yzDqu/q4uGzDxi1B62gpTBD8f+QKD8jfv9lTILMWvnmQhBLhcVwhuw/v4MY/blcjNZIxrjsI5zmzaXq0OHsclPO3w0;iQIXc4mHQdVyZHMDmvVFVw=="
 ---
 

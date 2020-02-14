@@ -21,21 +21,21 @@ topics:
 
 related:
   - title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
-    excerpt: "The new program offers practitioner level skills in new-generation Machine Learning through hands-on projects. Silicon-valley based global lifelong learning platform Udacity recently announced the ..."
+    excerpt: "Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML models powered by multi-layer neural networks. Silicon-valley based global lifelong learning ..."
     publishedDateTime: 2020-01-25T10:00:00Z
-    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
+    webUrl: "https://www.asianage.com/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.html"
+    ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.html"
+    cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.html"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
+      name: The Asian Age
+      domain: asianage.com
     quality: 54
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095642.Medi.jpeg"
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095630.Medi.jpeg"
         width: 800
         height: 448
 
-secured: "TEPwlRhvS0+PeEGkLit432miBygLDcRXcBeW2/B5yJjcaK8ijNxPj+GTI6qP55aUhMt294cCMGaavkNGqwoVFiFlHJH8DG2E6MFFGflx5eL306ClvsQcQ+8p135nW1eKkyUBJ1n3MWKSqkdQWfsC24LoBEEf98+FtBzJyvOFHN0xa+SFWuXu67NR5bbWzP94FRouLvvqUN6AZxb87XI7DANMhsoI/COZfE21Pz28vgVMkelSaPKOc4In9aIrXpfaxa5b2j6wQaE5GFiRfL6xwda1bmsD4vEnanaJAvK9hGj4AT+QWLoBWpozJJx6x8WG;TqmoZKWuZu9QgrifznR4sg=="
+secured: "7LaIZt5/LuypLl6+Fzo/5AUIsUKDP7KY8DMNkJv+o3MBQX4/m3DrDQ2JZbSQq69fnOd9e8xOyCKye1dLnBkSg+q7MU/prYK2IOtfETF4L6a/Fopt8Cri6Z78KE4xLCJv9uH9Hk6U6+JmktwTd87njxnCO4hKivrNODk8N68txDYBv/BCHxNhwkHNe/jyOxnVVywQd8GL1yZRiWaUL0Vc0yFvCrQJej9LxVINfBRwEaUtxZ+7SpAv3YT3BJv6x36n9/nSKC1nnpkQCPWuEUyM7yQP+IE4XblVHivYMqZU4MwRJM1O8+hJgmFHgLHj7gvo;2UFeHvTYGmWWIevinhKSYQ=="
 ---
 
