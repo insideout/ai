@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T00:00:00Z
 webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     height: 565
     title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
 
-related:
-  - title: "Speech and Voice Recognition Market"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
-    publishedDateTime: 2020-01-16T03:17:00Z
-    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-
-secured: "3GV3VsE1veaL+g42glPYUoxesFZ4PHjrcFXOSdudp0O6r1NFv4VgdH9UuV+NE4+yZKS6MeyeL3MxF048cmVQ4NXKaKYK4VvavbrBbX49IlgfoyGmpIX571ajx13W08tAn94+uwddXp6WQnnQqLyYJWbdDouQs/tjYO/3iwPEXPL/XC/1tccuJFLqx3gTBR8If2cy2PM2tdIsgAyH7cUKUUQu16gOMXfq3GVIFcUo7W3ZTCiy3fn9rnztC0tNYhwxgbcdw/N/whFl15wdkmTvNAgRNY/5x0uAFNs95tPjcnQ7rmnzG8ONKtlZtpR74LPz;N9TjU6HhJDZeOlvSVTPX7A=="
+secured: "DsjpzaoauQ506mK7u8ghDgM/moUE/EYETRF8uOfvukSanlmlF7CM6Vkayb4ehBLw0UgqW5136iC9BfQ6ZbxtQJExPp3ncHqOJirkUtpgmHMrieljeCHkP1lt8pjv9VdVjiFxeHc6fv3yI+6I/cdqa2LGihwvkuwNSoJC96ZUpgtmlw4pzZdXFccnrwxYA/lzn55b86cYOWWl5w+8mI4djrdlo7vGiNu3hQqYJ0sFNKwwrEinoGOKiAjNPWYA07v0oxdoZ1bY2IUkM+waJWXvwZIrRASu4hcAbLST5NJb4pHzC5DoXZjCT/DoI+p6LmKi;DBaApUIkrVx6Z1yRbwOXbg=="
 ---
 

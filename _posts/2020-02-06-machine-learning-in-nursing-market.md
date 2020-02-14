@@ -45,19 +45,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
         width: 1200
         height: 675
-  - title: "Machine-Learning Studies on Spin Models"
-    excerpt: "With the recent developments in machine learning, Carrasquilla and Melko have proposed a paradigm that is complementary to the conventional approach for the study of spin models. As an alternative to investigating the thermal average of macroscopic physical quantities, they have used the spin configurations for the classification of the ..."
-    publishedDateTime: 2020-02-07T18:26:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-58263-5"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58263-5/MediaObjects/41598_2020_58263_Fig1_HTML.png"
-        width: 685
-        height: 647
   - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
     excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
     publishedDateTime: 2020-02-14T04:57:00Z

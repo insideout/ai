@@ -19,21 +19,6 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "Two Paths Converge in the Cloud: Realizing Value from Legacy Migrations and Native Cloud Development"
-    excerpt: "And more than two-thirds (68%) continue to characterize cloud’s expected impact as high or extreme over the coming decade, joined by such cloud-dependent, cloud-enabling, or cloud-friendly technologies as artificial intelligence (79%), machine ... TCS is today working with AWS – which runs 80% of all cloud containers currently in use ..."
-    publishedDateTime: 2020-01-30T21:03:00Z
-    webUrl: "https://www.cio.com/article/3518610/two-paths-converge-in-the-cloud-realizing-value-from-legacy-migrations-and-native-cloud-development.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 9
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/01/istock-1160479733-100828343-large.3x2.jpg"
-        width: 1200
-        height: 800
-
-secured: "Q0mUT0OAWnypN9HCHd9PRnUaIbPupz46faiFJatPyTCeG09IclYcYioac2CtYZpTdOX5dTcRZjOYiMoISDmldMcU4lfWN1d662C7Ipd4exZgMZAr1Mpln1n9IeYQScnJX6z7ydxljGr5Hk4KN30uF0cHPRpKQ7sILH5vSL7/h//xgzBvs+Kz6ZswvvkvxpmS8Syuz8EBVlnuctt5cagh/clfGV+5Je+99w9W1Qqtn/ulx09dcUCefq2t4zALtVO+WfjA3lhNpLg7vu+Swn00lKttTBF/Cuh6dymXG7yp592QbX76bQX4mHSphaNDGzZK;LEmzzGD6GRwQQxjLcSkxEQ=="
+secured: "LM+Lf6Iv73gpNo/5ofXF0mmwipD9xlvLr8EOfUp7a5FD+gTG50m7FWEnqImMwUnZ3LPcwQXq9Q8ux/V71IYqSElRyyWBXq+6TiZN1qOmkTX9L679xyz49fqbv4XEkKwy156me0oH95Zbcba5OS3B4y5GFj2h3CYyAY3M/r/f3bomNO+PHuik2DQPyYssdWvPTx6Uroa7aUhGLJwzQHuehxk4IJVkIV7eN40s5IGtFd06X/HY+YRvB3lofWhcLKiwhGEI8R+os40eqw4nfl/zzH+32Y1g0oEi016slXkF47uF0J/XxxCfz9UZlJao3zP0;ls2/n4FwHiIlyABzVSJgdA=="
 ---
 

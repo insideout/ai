@@ -29,6 +29,6 @@ images:
     height: 450
     title: "AWS: Your complete guide to Amazon Web Services & features"
 
-secured: "sZ00wvItP3qFCLyfZFXqsObyfJrJHRiKezIE/90+WpTHY0eK+TWcrItZ7Rl/hGpfN0BhM5yO7Iur2o9EpwAtFzoeG8bzoCL1fvnQcXU1cItRaUn5hUQWFSJTzBbi55LFffZWhproLUPF6GtveAS7ZUeJHTGPUft1R2T2AacFrRdqE2tNgC/q1sScUFEbz/jKoXst/Ja0mLz5Z4DxA8nbQKc9cnRrs8PeLRE5ie7zD0AE5qWhX81G++sonhs1UpqIDtRt8AriF3RUcWJteQi0fqT/uUJv+FObbvmOTy+oINsuqufx6NKCQzmgx4RX2zdu;9SMhukJxVwWuQPvFTemMAw=="
+secured: "eO407/R40fQHAujOsoKJrh6loZ9hi0Bq859jXa1k3ASpPLE9hLZoqlqUhisqJQGqo74e13Q8S+0GE8S/z8k7foe2MDufb9yQmU0tmlU9BpH0sMUiignmP1PSiyiq5GvmlNrpUpviVpVwV/skNPjHmJkRcdo3Au6hRaX46ZseYMVVUA3CYoX9tESau284ltNn3Fx7RwtpDJzP0tnPRu80dd3s60/VzdxyGJXtDaim5JlDQPjDf94B3/boV9qUi6YtfKY34ZDQ1OO252cEqdpIXSkydrWGdXlXAUbe9NZ8Ea7Wh3fSypkswQlcWl+vRNa+;mjq+eXO9GbhpTfT5oEqbpA=="
 ---
 

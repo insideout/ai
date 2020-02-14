@@ -1,7 +1,7 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
+excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -24,9 +24,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/25/1fda6b43-2ef8-4a70-83be-780cd80b7f8c/resize/1200x900/ae17d77a0f9c782c6bd35acf140d0d93/1.jpg"
     width: 1200
-    height: 763
+    height: 764
     title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
@@ -1084,6 +1084,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "HRVvSianc9Qsjsb0P1h8VpPl3WNpyT8aLL1j7+HG15MxkPw/rZ+ivCE7P0n1Fw6Vm3WyEzalYwOKk4xEY2DdRc6J656uRzsi7IZuI6uhaN/42yY92ikOfvlnFcVW39GbsGeWv4u+t/5htKBFk068SmpMiNbZQ9PgJRP3HB4xSpFXmxQn6kc6V9htMePD5czMeTJxUDDS2B3abAl6kPonOGEooG/ctyJT6xclQfVjWx2NiEh+V4oWGQEDAX6WTKcLuiMyDni3jHk6bLJxPzg2l4QgYGjIT9zCycIKB2DT32/3dfn08+A7ZKnKMycKqxWK;103Ttitz99MoclYvDI790w=="
+secured: "y/77TQMqt1FOf6AUIvp2USTYHaBuw9NKiHs3nog1zkodK2weZ3kg1SREtxp335mA0Y8ekfkass9gXLAwdKaclF7A765IEyy1WA0JI2hEIMJVm27rG4T9y1L1vAjo3Xp2UU/VRQS4Rq5W2F/PpHIup8GiO3Ufvj3CBarllZtCGeO5MR7VRUm1Soq3RxGLi2h/azE/O1dB8QFjAaIVFoAXyigTwVX9BjkEE0hnFOsl35iVLHCmQgEG7PsmILF2LNaR9meXZ259WwGxfinWCY1oNtbg4TR+5hcBaYYwQkhK64zpDaxLlpzq7EiRqDPMvPeO;/3ItQMCxCrIbFExdpJrW3A=="
 ---
 

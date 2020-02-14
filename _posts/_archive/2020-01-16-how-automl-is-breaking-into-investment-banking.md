@@ -3,7 +3,7 @@ category: news
 title: "How autoML is breaking into investment banking"
 excerpt: "Though TC Capital relied on these methodologies in 2002 when it was first founded, it now seeks to build its own valuation methodology with automated machine learning (autoML): the process of ..."
 publishedDateTime: 2020-01-16T06:30:00Z
-webUrl: "https://www.techinasia.com/automl-breaking-investment-banking"
+webUrl: "https://www.techinasia.com/automl-breaking-investment-banking#!"
 type: article
 quality: 49
 heat: 49
@@ -21,6 +21,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "AcvS/mRl0JYPVbz0MdrbJmZdaOnoqLiHrZwT1vJDOJE8uoeb6imWqTVqufAB+/T5cpcdwE0az+SS2ZohArHZpNW4b8qQL15CXyeq/NYe5wRaeXtS9FVk8KrjlEgcq/1PEzzNqJbx+NyPF1u3U8pACShpT2esgLnL0STSt7aTHJkbNjyGPthDFniPuYv9EEkiPJo2cKDyyBt+SagdB9kFQhBXlWbT3sdHjeMjmj5TDc0Qv428TqZB2QDDazYJH/lwn3jT4vSsCymLNjrA8d9dIdGHwjavFRDVdwpiTyUfdm192wxp2pzlm9hDIrWxZRMz;sE+AhoYQXgIadSYZiG4wgg=="
+secured: "xwVFSMQZkppLZ5a3EfWR3tVK4ZDHf2AuCNniPiqwUXDIwzISnAPxVZP+RqyEK7B1aFF9cYEmXxo711gahw4e93v5HJD03g3BrcR/nJ+CZXQ8NUd2iwuDPQUfu+n1iSwCfuy8LnNaXMN78JOJ8fG0eXuYZb4M3mUGB5xktYHhJhTgbaOjnAh2JrpJgofsynMXz1fnQIUU1Rp7oSpLrk8NTZWm2VRfkQaaAJHxaVVuPc2dTlRYaxe+v98sWVufiiWzEK0JUOFBYvwpXDaEA9Dt1PoRE4qsV0pQGato3ZTO55t58j4+uJMqiaw1w6zYmHp/;ufx3J0C1VA0A7YCkBMwFDQ=="
 ---
 

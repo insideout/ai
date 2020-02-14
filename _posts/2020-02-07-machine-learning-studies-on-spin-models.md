@@ -24,54 +24,21 @@ images:
     title: "Machine-Learning Studies on Spin Models"
 
 related:
-  - title: "The Role of Machine Learning in Marketing"
-    excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2"
+  - title: "Nvidia shares surge on signs of machine learning boom"
+    excerpt: "Shares of Nvidia Corp (NVDA.O) rose 6% on Friday after the chipmaker stunned analysts with strong quarterly results and joined rivals Intel Corp (INTC.O) and Advanced Micro Devices Inc (AMD.O) in predicting strong demand for chips used in the latest generation of data centers and AI."
+    publishedDateTime: 2020-02-14T13:40:00Z
+    webUrl: "https://www.reuters.com/article/us-nvidia-stocks-idUSKBN2081OI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2081OI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2081OI"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 71
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
-        width: 1200
-        height: 672
-  - title: "Artificial Intelligence and the Future of Sales and Marketing"
-    excerpt: "Artificial intelligence (AI) has the potential to significantly improve businesses’ sales and marketing efforts, and thus their fortunes overall. In fact, it may be hard for companies to move forward without it. Two-thirds of the 615 respondents to a recent survey from Harvard Business Review Analytic Services agree that AI in marketing and ..."
-    publishedDateTime: 2020-02-07T09:43:00Z
-    webUrl: "https://hbr.org/sponsored/2020/02/artificial-intelligence-and-the-future-of-sales-and-marketing"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
-        width: 1200
-        height: 675
-  - title: "Machine Learning in Nursing Market"
-    excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
-    publishedDateTime: 2020-02-06T11:30:00Z
-    webUrl: "https://www.openpr.com/news/1921686/machine-learning-in-nursing-market-report-business-strategy"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
-  - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
-    excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
-    publishedDateTime: 2020-02-14T04:57:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/38383/north-america-is-the-leading-machine-translation/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 0
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490266651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1D14K"
+        width: 817
+        height: 545
 
 secured: "sDerhod4UMdQYN4OWLmtduSH1N4+krQY/ZNb3jHfLuHn1a0mzNXENztXltsjFidTBhsIrLHKvmD9944AptAtVE3tBjV+9FEB7l6o4Z8C/JUv9QKSdyqVTM+5DHvYkm31MpAVFJuHvyWs3QVY5R4gtPaJuHfHLbHyv0qtGEGBT45NRAN0ji13LqTqVF0ZAI+szlM3L2z+cv3cfe6dHpgffIxvIjaTf7ItI12t1rjiuY74XjIqeGjqnRT1OOTWgTKzlyGhXKrC+Pi6Jv7/lqazzHmr+ESho5WSg9fLkSMRNTu5kYY2/jGlsU1eK9rwYk34;nlu9kZEHQenwpmEISDnUrg=="
 ---

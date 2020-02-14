@@ -41,21 +41,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg"
         width: 1200
         height: 771
-  - title: "2 Major Security Flaws Discovered In Microsoft Azure Cloud"
-    excerpt: "“Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,” he explained. “Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
-    publishedDateTime: 2020-01-30T20:09:00Z
-    webUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/"
-    ampWebUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
-    cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 74
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2020/01/satya-nadella.jpg"
-        width: 720
-        height: 480
   - title: "Microsoft's Azure Strategy Pays Off"
     excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
     publishedDateTime: 2020-02-02T17:39:00Z

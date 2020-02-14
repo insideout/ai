@@ -5,8 +5,8 @@ excerpt: "“Our teams are leveraging natural language processing, artificial in
 publishedDateTime: 2020-02-12T20:50:00Z
 webUrl: "https://apnews.com/6424f22489ad45cca050683cfcc9bd12"
 type: article
-quality: 12
-heat: 12
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

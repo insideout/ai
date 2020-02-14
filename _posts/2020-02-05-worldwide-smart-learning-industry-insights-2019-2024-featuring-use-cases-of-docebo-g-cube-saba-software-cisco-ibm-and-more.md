@@ -86,6 +86,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Machine Vision Market Types, Application and Global Outlook 2019 to 2025; Cognex Corp.(nas:CGNX), Basler, OMRON Corp.OMRNF"
+    excerpt: "The Machine Vision Market research report 2019 includes analysis of factual data that provides research results, vital recommendations, conclusions, and other important information to the readers, who in turn bases clients decision making on the content of the report."
+    publishedDateTime: 2020-02-14T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-types-application-and-global-outlook-2019-to-2025-cognex-corpnascgnx-basler-omron-corpotcomrnf-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
     excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
     publishedDateTime: 2020-02-04T11:36:00Z

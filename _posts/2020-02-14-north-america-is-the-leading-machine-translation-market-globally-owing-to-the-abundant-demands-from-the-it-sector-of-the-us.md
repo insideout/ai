@@ -50,19 +50,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
         width: 1200
         height: 675
-  - title: "Machine-Learning Studies on Spin Models"
-    excerpt: "With the recent developments in machine learning, Carrasquilla and Melko have proposed a paradigm that is complementary to the conventional approach for the study of spin models. As an alternative to investigating the thermal average of macroscopic physical quantities, they have used the spin configurations for the classification of the ..."
-    publishedDateTime: 2020-02-07T18:26:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-58263-5"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58263-5/MediaObjects/41598_2020_58263_Fig1_HTML.png"
-        width: 685
-        height: 647
   - title: "Machine Learning in Nursing Market"
     excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
     publishedDateTime: 2020-02-06T11:30:00Z

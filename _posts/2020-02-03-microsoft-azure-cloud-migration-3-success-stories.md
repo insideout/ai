@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migr
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Microsoft Azure cloud migration: 3 success stories"
 
 related:
-  - title: "2 Major Security Flaws Discovered In Microsoft Azure Cloud"
-    excerpt: "“Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,” he explained. “Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
-    publishedDateTime: 2020-01-30T20:09:00Z
-    webUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/"
-    ampWebUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
-    cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 74
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2020/01/satya-nadella.jpg"
-        width: 720
-        height: 480
   - title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
     excerpt: "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ..."
     publishedDateTime: 2020-02-03T20:07:00Z
