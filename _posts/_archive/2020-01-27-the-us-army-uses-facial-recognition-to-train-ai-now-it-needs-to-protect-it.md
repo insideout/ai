@@ -599,19 +599,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-        width: 620
-        height: 465
   - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
     excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
     publishedDateTime: 2020-02-02T02:35:00Z
@@ -1149,6 +1136,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "8CRruxB8NWB2gaHstCihsuLKC9ztwT/uS1wQrFMz4P52m14odPydY8dTw0cjoOp4p37hpi/Uq8ULBMOOhc/o2yBsGy7nL4VW1RRlU42IbYqNF2HB/H9JXvKQD08SyLAxc9r2pnJQLSfoO3mbvEJDOz/h1EW0ks+XbbjsyQ29MFUhdvyEiAjfF88g5saD1xbfQ6oHy8X/AUnJ3saHiwW9MCHqYN07bAaN+AXcd8ueOK69+VkBg9pWoFK9Hc78xnG8i2fS2VFVdATBXaQItmKCR9o9yKk2UsZ78ipBiOiwVuULGa5wVj2DBQcmNxqr5mjf;sNVdz8/rHdTPMDAeOa0oUQ=="
+secured: "b42SIvsczDNNbMvavednu+vGsyDMbVUyHjbYpoyF7mjtOdWJkXchaRkiGQMprJtTyzw9VrkOhB0CXa82KaALdEyq3ArQIw7cqSKBFyAKLbXCzg4u8D7m/1+zJTaji9sw9BkFWdHiI8ZNOdtNzJlyDcVpfFLArIhphaOxpM8WnSBc2q02pCV8AuxRBn2l4iOQh0vuQJ6cmnrywvEGi8zdCDo883jIBOR9EEAZQyQJ2mnrPuDL0xfWBTWU9MVj8ND2Mc3lkau5QhN1GZwBz339yHcxKYa39k5m9EwnyHNJ2JnLjvBd1ALqhnRcqV0JIcf6;hICDzwuEWofnbHVd+kCzzA=="
 ---
 

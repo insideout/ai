@@ -1,26 +1,26 @@
 ---
 category: news
 title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
-excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection ARM will not be manufacturing the new designs. (Photo: The Verge) Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM ..."
+excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which ..."
 publishedDateTime: 2020-02-13T03:13:00Z
-webUrl: "https://www.asianage.com/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.html"
-ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.html"
-cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.html"
+webUrl: "https://www.deccanchronicle.com/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
+ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
+cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Asian Age
-  domain: asianage.com
+  name: Deccan Chronicle
+  domain: deccanchronicle.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084119.Medi.jpeg"
+  - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084133.Medi.jpeg"
     width: 800
     height: 448
     title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
@@ -139,6 +139,6 @@ related:
         width: 648
         height: 365
 
-secured: "XZfmvWQJj9YnhVEoTIvHS4JixEHwyhoVqLFsyUlxXZ5qpuIQVJKNOiGzKgwYrvguYbVcepKKSVLzF+zY3lNiN63TTgQYmmG/gZiscNYA+gpdC1w7rndWYc7Hzg5AByq272byGRmcHAsYZ2uBarv42/A1EZYycprEGDU33eRioPhdJMf43Li1kW7mZvFCYjhWNsWBuJSHnuvi0N7Abzl+YjEsnnUHWwz+D5+sJQD+HrxdfvLtWTKL2TVRBjCyoL6TsLC2dHD4gOZS51nEbM62l4uzPIoHOFXtN+1AZSTDk7ox5GmFp/gr5fuOsMHMlFCjKavSgGyhLaiYqCZjp4g4mdmj8GEMuh4HFtUZaueIfUW5WCZMGepFavbSRBWGftyoAIgeIEv6O5gQtgryaKd9HlhV3K++RY7h0kdqkHk1/UtLY0nSWE+XFb6CRJfNfxQfAZ7FwuxPtITAtQa0b9+5WKmi8hwylmtMBK9n//djqVM=;MBhZiTXWguz1Cvd9z9fyYg=="
+secured: "1VuRHgZB8CsgY1ie2RZ5Jmr2IPZy6Jm2vcT6iWGyR/6ohkBdPam1IKd7iGsas0pEvkKBr+7qLBrEco3q5z/iFrdUXwNNxL2QCmU5rVQSbW0FK8cXVMA2cOdE5enRd1LcMZtJy7wu1y7bJ4Q8zsmuplFT5W9vokG/mf0appHjNiI+6Afdxt5tXUUnt2Lk7ZHxutsWEdQcaX6eS4vN/stKr1Q3qdTshrZxV44TBa0CHDDzokQWvQ23Xb0eMWLyDb8NSBs2UT68FKPa9s4RTy9R11Hwaer1WPqGN9HywDNP86K5m6NDuZx/IicXzBfpLTds;a0nUcDsVKiDdHeM9qn1ShA=="
 ---
 

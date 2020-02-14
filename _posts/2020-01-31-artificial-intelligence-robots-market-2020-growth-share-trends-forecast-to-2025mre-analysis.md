@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T06:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31"
 type: article
 quality: 73
-heat: 393
+heat: 423
 published: true
 
 provider:
@@ -107,6 +107,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare Market Growth, Segmentation, Share, Trends, Insights and Analysis Forecast to 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
+    publishedDateTime: 2020-02-05T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-segmentation-share-trends-insights-and-analysis-forecast-to-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Natural language processing (NLP) Market With Flourish CAGR in Forecast Period 2020 to 2027"
     excerpt: "Ameco Research announced the latest market research report on \"Global Natural language processing (NLP) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Natural language processing (NLP) Market,"
     publishedDateTime: 2020-02-05T08:59:00Z
@@ -150,6 +163,19 @@ related:
     excerpt: "Global Artificial Intelligence (AI) in Cyber Security Market is expanding at a healthy CAGR between 2020-2025. On the basis of component, the segment is expected to emerge as the leading one in the forecast period."
     publishedDateTime: 2020-01-31T12:40:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market---global-industry-analysis-by-size-share-growth-trends-and-forecast-2020---2025-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in Automotive Market Share – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "MarketStudyReport.com present the report on global Artificial Intelligence (AI) in Automotive Market report evaluates the growth trends of the industry through historical study and estimates future prospects based on comprehensive research."
+    publishedDateTime: 2020-02-03T12:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-share-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-02-03"
     type: article
     provider:
       name: MarketWatch
@@ -343,6 +369,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
+  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
+    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
+    publishedDateTime: 2020-01-29T12:11:00Z
+    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
   - title: "Global Artificial Intelligence in Medicine Market Size, Share & Forecast 2020-2023 | Global Industry Overview and Latest Trend and Growth Analysis"
     excerpt: "Global \"Artificial Intelligence in Medicine\" Market report 2020 intends to give inside and out data about Artificial Intelligence in Medicine industry with market outlook, trends, business strategies and future prospects of industry. It includes the present market status with some changing size and trends that can affect the market growth rate."
     publishedDateTime: 2020-01-31T11:30:00Z

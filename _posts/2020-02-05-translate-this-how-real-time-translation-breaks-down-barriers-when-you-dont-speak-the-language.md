@@ -41,19 +41,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2018/11/Google-Translate-AH-new.jpg"
         width: 1920
         height: 1080
-  - title: "Google Will Soon Translate And Transcribe Languages In Real Time"
-    excerpt: "Google has shown off an upcoming feature for its Android Google Translate app that will allow for real-time transcription and translation of one language into another at an AI event in San Fransisco. According to CNET, the feature is still in the prototyping stage, so don't expect the functional equivalent of a Hitchhiker's Babel Fish to be on ..."
-    publishedDateTime: 2020-01-30T09:24:00Z
-    webUrl: "https://www.gizmodo.co.uk/2020/01/google-will-soon-translate-and-transcribe-languages-in-real-time/"
-    type: article
-    provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 24
-    images:
-      - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/01/file-20191211-95125-r0n3lh.jpg"
-        width: 2479
-        height: 1653
 
 secured: "r/ZB5U6z7BNKLR95500Kk0pGPPzRachdoa6ItQj4h712qJPFsOkjHWYgG2STFHW4N9+QGvRumtBktSggF1yuI10i3DE1m/EKVtoV8P1cZXJ/tRHnCliVSXj/J+tgfSargcEjfiToSnIqn7mB5qgdPaE9vDLeTThMuBgrxS6khjay3WFjFvHCZw8cqWjuvFqjoi//+Bgmc1kxxnYkHQb1mUMqZcSr1lxUg4dnoE34BQsKjagT3CXlTB+iQ7Mjcg6CHU4uI6KDJY35sMcNsn0/99BGiSYJWUxYggCwNOdVitX6NV2L3EKphD8SOa4bmj2sP8w5dx1zItOf0jmIvw7ZX+i3fG69AK7coVC6KX91X70P/2bgNBJdlE22UoypKK3F3rbXDcpJ/tRNrceLqPe1icQ4n9oboLgOwTxC/5frAD6HGWTR2Hk9lykqZQkm2GgmT3+G4EQ9lQW1EA2OhFMWXHD83gXP7gSXtkLNbx5QTNc=;qjG2wJWmWublLhUcajJA3g=="
 ---

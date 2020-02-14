@@ -47,6 +47,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "beCHO7BWOVNrFcesI0ET21ZbbNQoqZ9B/VmrHUVqa7QXykkLYBgy9gRG1DPjozZ+t07t193cqKSPwi5qED1u77gdkfrGHyyV2UaZin3o68Q0bwtXdi7djsZE+/7natv0A/0L8zJNWX/7VF+gv43g0JvQfYxM8GjPYNJf14AinAUuqYa0bwtIrzbcrKisv+DOxg7OgNBimpzOaYsBmAQ3nQf3qUMmj8/LxMissACJk6WYUNiugLbRDZrQ83YRyYufEbytyELAm0KUGuzHR+5qPG6y0tbWNDyskgiFE6StCEyszEB0Mg91ksYwLouRsYSV;hobGGacdtsNRdiG1+Ac/fw=="
+secured: "5Bp9eGtmMVhn23k/3j32wHgIz2bfhhhrvNzOpRhnSo3JSJiOyRfN9aWK9QDnd/Ce0XbBl/wfpvWrivXhgaLDQOiZNKz1lYipV3eNnV6xT+2h6MGMrYyxfnLF0o8zsy9bdMjx60IBoIE60qe7qRgq8M48fUVNNG14YQHaU1Gklmd5imMcmgizqHrw6lOo0v+wOm+WB0+f4frGUkrQTT4XcJOiGqTGYUzlCifp/YMjNEI3Ihgw1Fe4lc4YkdUcEuT1CYUOE7Af1UK2P6VVxTwOtg+e2t+Nn5jBzrFA70psWnwOw8JSw3SSpA6DAvPWo9As;EZu12+gnPdRljsGw0XCnWA=="
 ---
 

@@ -3,7 +3,7 @@ category: news
 title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 excerpt: "Banking, Financial Services, and Insurance industry vertical to hold the largest market ... With the help of data science platform, companies can train machine learning models on thousands of customer profiles with hundreds of data entries for each customer. North America to hold the largest market size during the forecast period ..."
 publishedDateTime: 2020-02-12T15:34:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/12/9096953.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-data-science-platform-market-worth-1409-billion-2024-/2020/02/12/9096953.htm"
 type: article
 quality: 10
 heat: -1
@@ -77,6 +77,6 @@ related:
         width: 1200
         height: 627
 
-secured: "VyFmbKLb/GHOoonqta+5CHddsVS0bT+79+39l7XX3+cUMkNtv2FPgfG/u630NaO9s1RSti38g5tn5ywb0icEm6hy3sNDD0/0lyyo4oWHbhckLaSkAlB/m6xfRw6B4ZXDPhjmrhJqqSmPVBSNMrTbokamK7Ft0lnGoLYT9qHX/8tFxOt4zCoYwzgA4xOkFo3HnVPPegcyqtBH5n9fUzSDqhxNEm+AOCyZe0JJyyUWSrAlKlJ6pXMG9pqO7JhV9QMcHwtnC7jBgi34upk2Tus01gqeBp2ZDpt8IU2Mlwp5IS5sP2iJtPbLxNdGdEF70sTo;OhNZu7ZmKx+h/2xoS04clg=="
+secured: "gLO9x0yaE03JlARMixtyW6OrU+OYDN3PYXChuvxdzENzIYhn6NZUzydJGhYpxGnJ7MnUTxlHUxfcXruiZ+hpg2bn+BTkU+Tun6Qp1JQLaUYnfEkV901ItUWmjImJkjsYNiXx8xgoVgRw8rXJn1cq1aZh6jCJvfNHnp8uWElzj7WX3GVp6aBjYtcANz3NCLfWu1f9cv7jMMoXU5qhEDBcThFp09iWCe1QjgFqqlCWZm6qGQLAcxXTacocdV0PIo5NgQYBZtIVI28Jvh4VNfIav4xLqFiVUPMD+kcL2GR0poB/iS9NeUmYIXwKDCJw5Wor;6s/QDUbBd3SrHZ2/WfTJ1Q=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawne
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Punxsutawney Phil should be replaced with AI groundhog, says PETA"
 
 related:
-  - title: "Groundhog Day star Punxsutawney Phil should retire and be replaced by a robot, PETA says"
-    excerpt: "Newkirk suggests an \"animatronic groundhog\" with artificial intelligence could replace Phil. The techno-savvy \"Phil\" would actually be able to predict the weather, she says. \"An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony's robot dog 'aibo,' which walks, plays, misbehaves, and responds to ..."
-    publishedDateTime: 2020-01-30T09:41:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/groundhog-day-star-punxsutawney-phil-may-retire-and-be-replaced-with-a-robot-after-peta-campaign"
-    ampWebUrl: "https://www.foxnews.com/lifestyle/groundhog-day-star-punxsutawney-phil-may-retire-and-be-replaced-with-a-robot-after-peta-campaign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/groundhog-day-star-punxsutawney-phil-may-retire-and-be-replaced-with-a-robot-after-peta-campaign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 80
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/ap_17033474931044.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
   - title: "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot"
     excerpt: "The organization suggests \"an animatronic groundhog with artificial intelligence\" to predict the end of winter. PETA is calling for Punxsutawney Phil to be retired and replaced by a robot ahead of Groundhogs Day on Sunday. The animal rights organization wrote a letter to the Punxsutawney Groundhog Club urging the the small town in Pennsylvania ..."
     publishedDateTime: 2020-01-30T16:42:00Z

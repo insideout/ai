@@ -76,6 +76,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "V9kS7vJvCvih/q8epukTA91DXrQg0JXt+VwbkdcX158zfszQyUyCxSCMSBdNtPd64rPDePUHLNQ5O64Ospl8ALpS3skB5IRGuQruwiUsMO/khpx0MkxLEVtdYRO13O12AYp9YNWi1NqA3ftXQjQiHeVLdWyQEZ1ev1QdT4XDqRrybCdaFTj7UkX5cSBM0LddLs5JTQrq0ho6j5Nk/os6yw0YcW7urXsZVcEVqBMWLjChx8tyvi25m8W9wuP2cWGPdJtFZ9WAeTxjzxaebV9DhGmp8rgFcG8nDBRXBsiqt7Q/zTRLV6KZFk9kC9A/tUu/;JWswr4qMQnVkOMVFxXmw4g=="
+secured: "uVHMkP/X1tPe6/8txvLIf75uChjycUS0KlbvHc+Rry7sm+Uu358knw7LBeXh+7X+HJ0C/qTdSifZQ3Ukj+7hCvrJS2XHYaNbXf64bpLPQY2sJ85KXc7AgWu46x5ExTzfKd3X377Oj3xOZjbMD+r6i3jwcb/5HdKpCf/beIOmRgwfoAerZ8TzfL2HZzlUgmcXxmHSFlv7akM+aUr8RAB4Rz9N188AUWswZJohOe9IPt4rNd8n5eLdLN3Indcgce2XYtp5FtICZUG1nr2stuh0Ugjz3N5SeB/QbKe73pQ0dtvyLkyflz3hFlcxc+iWu77g;SSUNg5zPao8WorUsGNw8aw=="
 ---
 

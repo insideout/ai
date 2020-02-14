@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Construction Market 2020 Strategic Assessment - IBM, Microsoft, Oracle, SAP, Autodesk"
+    excerpt: "The Artificial Intelligence In Construction Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
+    publishedDateTime: 2020-02-03T10:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment---ibm-microsoft-oracle-sap-autodesk-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Machine Learning Market 2020 Global Insights and Strategic Assessment - Microsoft, Sap, Sas Institute, Amazon Web Services"
     excerpt: "The Machine Learning Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
     publishedDateTime: 2020-02-11T10:02:00Z

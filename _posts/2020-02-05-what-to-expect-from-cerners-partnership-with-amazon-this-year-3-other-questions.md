@@ -39,17 +39,6 @@ related:
       - url: "https://www.paymentsjournal.com/wp-content/uploads/2020/01/financial-technology-isometric-set_1284-23498.jpg"
         width: 626
         height: 558
-  - title: "Budget 2020: Fintech sector expects this key reform to speed up digital payments in India"
-    excerpt: "The fintech players are altogether redefining the status quo of the financial services ... to customers in remote locations aiding in cutting down the costs significantly with the use of face-matching software and AI. India is fast becoming a digital economy. The need of the hour is awareness of digital payments in every nook and corner of ..."
-    publishedDateTime: 2020-01-30T09:36:00Z
-    webUrl: "https://www.financialexpress.com/budget/budget-2020-fintech-sector-expects-this-key-reform-to-speed-up-digital-payments-in-india/1839195/"
-    ampWebUrl: "https://www.financialexpress.com/budget/budget-2020-fintech-sector-expects-this-key-reform-to-speed-up-digital-payments-in-india/1839195/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/budget/budget-2020-fintech-sector-expects-this-key-reform-to-speed-up-digital-payments-in-india/1839195/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 15
 
 secured: "1XZbV8AQfOEyhnmdh66rT1qp57QiFlebVFCPu3thT5O71GHvCVrAaqyxhIWUin5pMSqAizxG0xD33vYWPEaEQDsDx+i4Rtew5vii+3AotPlESle1kmF+dME7mkPfy4SGCCJMmVh4VTY9ZB20YQ6DrB6ccImvH+TgEPkVIn1D9XR3cASbjzHaqOChiJlkJEooSTIPTsbCyga9Q6qyF6GzpzmNQTKwzwL47et1Vc/gSBAdzm1oqWoHQIDg1MRhpBe17ivmqB1Px+0CL08mHo5BZgrhuuyuGUKJ+JHHU8K1UH23IF/uCsJK4BBN4e/pQDRj;b6fJ6sqlBy/Q5awcrsls+Q=="
 ---

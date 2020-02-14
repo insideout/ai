@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T09:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-precise-outlook---apple-dolbey-systems-google-microsof-verint-2020-02-07"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint"
 
 related:
+  - title: "Artificial Intelligence In Construction Market 2020 Strategic Assessment - IBM, Microsoft, Oracle, SAP, Autodesk"
+    excerpt: "The Artificial Intelligence In Construction Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
+    publishedDateTime: 2020-02-03T10:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment---ibm-microsoft-oracle-sap-autodesk-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Natural Language Processing Market Future Innovation Strategies by 2029 | Apple Incorporation, Dolbey Systems, Google"
     excerpt: "Global News of Natural Language Processing Market Study 2020-2029, by Segment (Rule-Based, Statistical, Hybrid), Playing a Pivotal Role in Expanding by (Web Search, Language Translation, Customer Service),"
     publishedDateTime: 2020-02-12T10:25:00Z
