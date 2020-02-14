@@ -56,21 +56,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/4/fe/4fecad13-567f-581f-9389-6488fe28e0ae/5e3444ac8df28.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-  - title: "A robot rodent instead of Groundhog Day’s Phil? Club organizers reply to PETA's request"
-    excerpt: "It's mere days before Groundhog Day, and PETA is calling upon the Punxsutawney Groundhog Club to stop using a live groundhog and begin using a robot to predict the weather instead ... in an animatronic rodent that would predict the weather using artificial intelligence. But despite PETA's best efforts, it looks like the Groundhog Club ..."
-    publishedDateTime: 2020-01-31T00:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/01/30/groundhog-day-2020-peta-wants-a-robot-to-replace-punxsutawney-phil/2858910001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/2858910001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2858910001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/4a27481b1e21d71baa0753942711dc546cb02e12/c=0-21-4379-2495/local/-/media/2017/02/02/USATODAY/USATODAY/636216233907056760-AP-Groundhog-Day.3.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
 
 secured: "l3CgksWeOgKuEqwXf6ESTQakEnmIU3bESuB8l+d/m/FPMaycjsY1+6TcUxBMdFgE7PH74HNsT5TfrMsszwzQYNoZLm5Q9yMYqOyo98AEYd8tXhqFAMn2ig3v7LcY9WQNjnbcMATJCNiZrokO8GEFWv1fi4TvOfUK1//xqjcZNidBA2jDsUWSIlB9s8+4Vr6n92JRqh37XHi0RvblwWu5rmnAhCyEQ84qVCMH0Fm0At0dB31PPhJMt9tzoT5ujS45s3uAP2XBePxhHL6YwP5xsCKjNrOMGu6KHvSmMauZAsvtjnMfH8M50lLpnBUCKenQKQeBZtv3QNRxvZtnyIyx7TuWZnd6OhtpW1HU2BkQT2PyAO+QW/naMAd0gcWGIr+3vEudgP/yGat8RnypU/QThHtJzukfR9e6mXUcfpbTE6u1m1gpOB5zxumGcAbs7miKZSzZ+wNK0cOr3FHXk0OPuMzW7oddZWZy4si/B7YGG2A=;udo1n3CPDi7Qy8fLDdX10g=="
 ---

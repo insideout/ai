@@ -98,6 +98,17 @@ related:
       name: dailyrecord
       domain: dailyrecord.co.uk
     quality: 16
+  - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
+    excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
+    publishedDateTime: 2020-02-14T17:55:00Z
+    webUrl: "https://www.theglobeandmail.com/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 8
 
 secured: "4TqDDOWjdc2agbic6iW0PVhI1QdZ5Oi3QvEO4osq2CzE0ncpczMVvtvhBS+mVLNQKfqMF+IrNtZNZhHUI8kllqht4HM06o2llDLUNOJFJWBA1Vu541BgMON83vfwt6VIsy0KJOXbnnv3ZAZ66EjZDwvDK60W3dyWmyaV8x3J3QWSCPc5NOckJ85uL031qsvBHpXwh4XAIuJ+cq3AeoQCKxk8JEaGv5oFXFjyCC9LjgbgpY7Ye+t+YYhIE2tjWS2prmDsN59b8honcvsrmrTyq3wdn9oDW6Exu6EQU6bO0Cu2mjbNKoppwFm3M0v7Dyof;nyf9h+feAqcW//zQsHtU0g=="
 ---

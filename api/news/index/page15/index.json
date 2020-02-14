@@ -2,6 +2,51 @@
   "page": 15,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-20-top-vc-deals-john-chambers-starts-a-fund-and-ex-baidu-exec-scores-funding-for-self-driving-cars.md",
+      "title": "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars",
+      "excerpt": "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "publishedDateTime": "2020-01-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104874500-GettyImages-647709384-pony-ma.jpg?v=1532563719",
+          "width": 2004,
+          "height": 1336,
+          "title": "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-21-3-big-takeaways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store.md",
       "title": "3 Big Takeaways From NRF 2020: Omnichannel Holidays, AI And The Measured Store",
       "excerpt": "It’s important to gauge retailers’ moods at NRF not least because it’s usually the first warning you have as to what holiday results are going to be like.",
@@ -2077,50 +2122,6 @@
           "width": 3000,
           "height": 2000,
           "title": "Cramer: 'I love the clarity of vision' from Netflix CEO Reed Hastings on AI and avoiding ads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-disruption-20-how-iot-and-ai-are-breaking-up-the-business-world.md",
-      "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
-      "excerpt": "Once again, businesses are under attack. We are in the midst of \"Disruption 2.0,\" and this time, the attack comes from within. Previously, in the age of Disruption 1.0, startups were spearheading the battle against established businesses.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/",
-      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
-      "publishedDateTime": "2020-01-22T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192770754%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D177%26cropY2%3D2147",
-          "width": 1200,
-          "height": 676,
-          "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
           "attribution": null
         }
       ],

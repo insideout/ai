@@ -40,6 +40,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "MFc4AQH4wLjouePAlVwWgY0jEzXpngjQyyf2NHiuKSpDAIt9HkO/t2t3G9EBw8JxanxS21XythMeBiuuA8ujAJ4Xfs3IXHBB0hy9UzWusGwZntBjTihG1+KxMSpUnf1CwUyf0JTNhMhzL4SBbWUkDUMhumScTf4pJG+PHBdmoSYLw8hS/yv0/FU2GP4m+Y23mrzvMFebGRtiHmnYW7JhmcnjrOK/RnjAYAWIqMqqU6aJwkIHkl9YW5ykM52+xyMNkdgWBLjuLf+wYrwNMcz+YUw6BFOVH10Z8/Kg2DYgP1R3tcoCkAp2KMqwEIMaJua6;T4L2H6i4LTHCFvqFg8ulKA=="
+secured: "Xf7/fPO43K5Lo1yDieWnnEzWq1SmnuNiNbzozEXAlGR1vYC7WRhLREW+jNcz/Sr7yynTJzDUOlV1gMxC8xrPF458oLe5IH5gd1tBzZofcRX4czA3Dn3ZFr610Gay3py8Pzf1iFpflDVJysrDTFPyvxj477OeZxz3h7ZPvUACBpQirbZkNoA1NBYnVD+OwJOFObSZN051B8od96Srmk0+xG9hgu8APr1+S859uXBq2AvG3fxA3AybQObOxZw+xIfEPafJkpJfgAlMFIDJae/FP5g7hkF/4dkuIs9pANOGwsR2mOg+hQwfcL9OzzXRpefP;KkY8CRpRz4xOiUulpNgc0Q=="
 ---
 

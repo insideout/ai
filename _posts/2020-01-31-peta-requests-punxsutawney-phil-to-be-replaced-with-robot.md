@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thedenverchannel.com/news/national/peta-requests-punxsut
 cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot?_amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,21 +56,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/4/fe/4fecad13-567f-581f-9389-6488fe28e0ae/5e3444ac8df28.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-  - title: "A robot rodent instead of Groundhog Day’s Phil? Club organizers reply to PETA's request"
-    excerpt: "It's mere days before Groundhog Day, and PETA is calling upon the Punxsutawney Groundhog Club to stop using a live groundhog and begin using a robot to predict the weather instead ... in an animatronic rodent that would predict the weather using artificial intelligence. But despite PETA's best efforts, it looks like the Groundhog Club ..."
-    publishedDateTime: 2020-01-31T00:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/01/30/groundhog-day-2020-peta-wants-a-robot-to-replace-punxsutawney-phil/2858910001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/2858910001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2858910001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/4a27481b1e21d71baa0753942711dc546cb02e12/c=0-21-4379-2495/local/-/media/2017/02/02/USATODAY/USATODAY/636216233907056760-AP-Groundhog-Day.3.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
 
 secured: "/f8Lxra9HGXgyorx43BZqPW46Zr7JfUMsvb5Vm0sl8ueEPreLuI1GIJX+Lgb0NvccG6VKGD7eAR/qQWFOAfY+wcDwQfzdjQJUOuU+lrprtCUDI+WfL1pnI2n5Rw3Krm+nEql3qCYk0Bd1m24lf5m6VNuVn83HyBHKaky2LcLLnI3A0t5POyPr2rBXHghHjHXd296LFqrkXsZfXIPdrmFkapil+MoEXlsj43Gk4v2/oDDO/+hMRgsyZmJAHEPh55jNeJfQgIfR3it3iTDJcVfFxpIbqw/M5iDFWixkRvLeY/Qi8LuUwV3xuRh9FSTxuUc;+wtpaK0LCusofXVdCLj2jw=="
 ---

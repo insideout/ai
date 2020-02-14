@@ -79,6 +79,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "YEXANHgh63MEPB6rGSUlYXeXvss8taYT7dGL5rBbSR/veDLtpPqeTqhx1pebDsDlCgzhKqq+9jV8uGvj/DkzS6cShh/Z1fhxxA4vuQlrhRNU1HUbAbkUg2T29LC7Tz1xR7AVhNv3JMcbOzCmb31OiMR3sp05rhGThIslUVtREMDCzauCYpWBXKyl65XDcZ7ekgpytw2XuD/irt0D0JxgYCLW2tN9lGZr7+2KEKDZBk2qI/FlQu7lcT+DsuYkeQkvd9G17Q93ahXmb3dqvKa2YIvXgEn92zaG//y4y5PM+N4Vssu2h3w0Nn/Ff7BmV06B;bWdgQtFwna+aICg8dUML3g=="
+secured: "IbqVG6pne8E1a1FMDgQWiESYhf+rghE4ayGMrjGBkRNpPTlhpPaz8pCF/fgZAHiINBGLFi46li2dVnzMaYVVxeveyHr/FwOKnIRldJCsoVR6NhWTG6tcleXBESTX/B3RTgFB+z7FDAjrjveTSBC5zidwFr4FEU/ixKrHwiuFyQrOUE7fBaywOfE5J4dPpwBywEleYN5FEqz1m3BbfT6UXcBoW3654ZQgYNA2PKztl2qkwiyPH3tfFByZBRS3DrtY8auznpZj+Fbrvpef+vZ+vl1aZ9MlqWwxRS2ksVZ3C8umVEr7vct989cvMlbGn1bL;x4McFrgB4hnBfiQ/L/g9mw=="
 ---
 

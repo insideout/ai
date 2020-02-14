@@ -2,6 +2,51 @@
   "page": 17,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-23-google-deepminds-sideways-takes-a-page-from-computer-architecture.md",
+      "title": "Google DeepMind’s ‘Sideways’ takes a page from computer architecture",
+      "excerpt": "The authors of sideways, Mateusz Malinowski, Grzegorz Świrszcz, João Carreira, and Viorica Pătrăucean, all with the DeepMind unit of Google, noticed that a deep learning neural net is doing ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/",
+      "publishedDateTime": "2020-01-23T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/22/bb4eab38-d3e2-4df2-97b1-00c89187ee5d/thumbnail/1200x675/a215d738dcece5fd36b570b0e7ef01a3/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google DeepMind’s ‘Sideways’ takes a page from computer architecture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-23-grammys-go-high-tech-with-ibm-and-artificial-intelligence.md",
       "title": "Grammys go high-tech with IBM and artificial intelligence",
       "excerpt": "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ...",
@@ -676,51 +721,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-the-latest-market-research-trends-and-landscape-in-the-growing-ai-chatbot-industry.md",
-      "title": "The latest market research, trends, and landscape in the growing AI chatbot industry",
-      "excerpt": "In addition to being revenue generators, chatbots can also serve as research ... through Facebook Messenger. Bot building companies are typically third-party companies that employ AI technology ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-23T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "The latest market research, trends, and landscape in the growing AI chatbot industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     },
     {

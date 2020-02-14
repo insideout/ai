@@ -2,6 +2,44 @@
   "page": 11,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-13-tealium-launches-predict-solution-powered-by-machine-learning.md",
+      "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+      "excerpt": "Integrated into Tealium AudienceStream, a data-first customer data platform that is designed to create highly granular, unified customer profiles from every touchpoint, Tealium Predict aims to create and activate trustworthy machine learning insights using cross-channel customer behavior data. Visitors are scored based on the likelihood to ...",
+      "heat": 61,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning",
+      "ampWebUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "publishedDateTime": "2020-01-13T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Demand Gen Report",
+        "domain": "demandgenreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.demandgenreport.com/media/k2/items/cache/2d88ab916503b4690740bdbf348148be_XL.jpg",
+          "width": 1280,
+          "height": 766,
+          "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-13-the-emerging-meta-learning-oligopoly.md",
       "title": "The Emerging Meta-Learning Oligopoly",
       "excerpt": "Meta-learning — special cases of which have lately been called AutoML (automatic machine learning) — is, simply put, learning how to learn. A major aspect of the transition from today's narrow ...",
@@ -2070,50 +2108,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health.md",
-      "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-      "excerpt": "A new IEEE study shows millennial parents would embrace self-driving school busses, 3D-printed organs and AI-powered assistants. TechRepublic's Karen Roby interviewed Dr. Karen Panetta, dean of engineering at Tufts University, about the tech organization IEEE and a recent study concerning AI and healthcare. The following is an edited transcript ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "publishedDateTime": "2020-01-15T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/15/0474ddc4-0751-4943-ba45-8001b2a71c49/thumbnail/1200x675/d7a62e7ff462af441cef021bc9ac5d6c/20191212-panetta-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

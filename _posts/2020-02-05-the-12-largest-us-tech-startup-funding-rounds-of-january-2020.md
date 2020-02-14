@@ -100,6 +100,21 @@ related:
       - url: "https://media.bizj.us/view/img/725821/fundingstartupistockphoto*600xx3454-2303-0-182.jpg"
         width: 600
         height: 400
+  - title: "How Fintech Startups Are Bridging the Digital Gap in Rural India"
+    excerpt: "There are a set of fintech firms that are specifically targeting this segment of consumers. Credible India, for instance, focuses on agricultural entrepreneurs by identifying financing gaps. It also designed AI-driven crop monitoring and local market demand forecasting tools. A socio-fintech startup, Gurugram-based FIA Technology, is taking ..."
+    publishedDateTime: 2020-02-14T17:23:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/fintech-how-fintech-startups-are-bridging-the-digital-gap-in-rural-india-4947441.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-how-fintech-startups-are-bridging-the-digital-gap-in-rural-india-4947441.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-how-fintech-startups-are-bridging-the-digital-gap-in-rural-india-4947441.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://static-news.moneycontrol.com/static-mcnews/2019/06/HDFC-Credit-Card-378x213.jpg"
+        width: 378
+        height: 213
   - title: "Fintech Firm Ramp, which Offers Corporate Credit Cards, Secures $25 Million in Funding"
     excerpt: "Ramp’s team has a diverse background from companies in the Fintech sector, such as Affirm’s former vice president of engineering, executives from Plaid and Atrium, and product engineers from Facebook’s AI research team. Ramp’s team members also come from the Google research division, Capital One, Goldman Sachs, Apple, and Lyft."
     publishedDateTime: 2020-02-14T04:46:00Z

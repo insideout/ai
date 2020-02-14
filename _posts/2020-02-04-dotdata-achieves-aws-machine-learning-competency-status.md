@@ -1,7 +1,7 @@
 ---
 category: news
 title: "dotData Achieves AWS Machine Learning Competency Status"
-excerpt: "The certification recognizes dotData as an APN Partner that accelerates the full-cycle ML and data science process and provides validation that dotData has deep expertise in artificial intelligence (AI) and ML on AWS and can deliver their organization's ..."
+excerpt: "... ML Competency status only eight months after joining the AWS Partner Network (APN). The certification recognizes dotData as an APN Partner that accelerates the full-cycle ML and data science process and provides validation that dotData has deep expertise in artificial intelligence (AI) and ML on AWS and can deliver their organization's ..."
 publishedDateTime: 2020-02-04T13:11:00Z
 webUrl: "https://www.tmcnet.com/usubmit/-dotdata-achieves-aws-machine-learning-competency-status-/2020/02/04/9091610.htm"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 335
     title: "dotData Achieves AWS Machine Learning Competency Status"
 
-secured: "wW0eF6PBNl29w625aifkjkj1MmRax0PMXq5BcJ4Yv/XiwNdal2ExxTj+RghKlqTCbsmt1r7i14z2HLLCX13YxS7Sm2FU6fgptjxJ8/9ntgjRmF/JfErAbj5NQ63TfI4x9nceUVEOUI4AkkJZEn2lxIUUrk7f3xlLXEzxXwrM0T2qcqKH7L+yH+v8Sx8syVEaXrA8ZuVpYH4qWqjCurEZWTuOoDWjOXhKf24RSM8WLgNWxGKke2mQh3UV7xpL8nMUvhql4Zu7fzZoBgMa5tGmWgN4BA8w0Oazsr4pukkQUBHeSPbr7xmn5tqDfw3HqmOQ;aUCvUOmFlPt+YjiZMTS7Sg=="
+secured: "Y1qjazjp3d6/rPliHwRgqr2gtSAoVE8ItIpYgP8mqWXoJpLDdSpUoPDfgzwDrioPyaL5KDio9lscbg+92a5gwhbkqWFpjDF8ubSiU/JR9YkE4WF26VU23QanV4tP9LXekg3VhUW/CbUqulkmlGk/elxqyF904PjTcKpZ9MHd8ANsh/5+ckOu2wDAF5bc8IbC9syXfLq2DBTJ/V3SeRGhbiy73XQdNJxVtJO5bqqJmh7fVIyG0awB6U9zQT0+cvp9ZGwuKakYYgrhZ+rOvNf0R5I43Q3rNtIWad955gp8C0ns0r0ly+HnkhMtxh8mGZfe;Do7VG3I3IRVM2PflV5YD8g=="
 ---
 
