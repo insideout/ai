@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 907
     title: "IBM Is Replacing Ginni Rometty After 8 Years of Rocky Results"
-
-related:
-  - title: "IITian Arvind Krishna to be new IBM CEO, replacing Ginni Rometty"
-    excerpt: "She divested unprofitable businesses and bet big on an AI data-analytics tool called Watson. Yet the efforts were stymied by the emergence of a new competitor in the delivery of computing over the internet: Amazon.com Inc. During one particularly painful several-year stretch, IBM’s sales declined for 17 quarters in a row. For its part ..."
-    publishedDateTime: 2020-01-31T01:33:00Z
-    webUrl: "https://www.livemint.com/companies/people/iitian-arvind-krishna-to-be-new-ibm-ceo-replacing-ginni-rometty-11580433012738.html"
-    ampWebUrl: "https://www.livemint.com/companies/people/iitian-arvind-krishna-to-be-new-ibm-ceo-replacing-ginni-rometty/amp-11580433012738.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/iitian-arvind-krishna-to-be-new-ibm-ceo-replacing-ginni-rometty/amp-11580433012738.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2020/01/31/600x338/Arvind_Krishna_134_1580434051152.jpg"
-        width: 600
-        height: 337
 
 secured: "UjpR7g9MYjB7YS9BXDV4mlK+bDi/CXiNvOmCU5qPjcx/u9vxM6ZAqawBTAtou1Ml6Tl4pi/GorpwQ8IgcvG0tnFpgSw7eXdX2FjhbcqMuEHu3hUfb4ho9KbjzPCXumcUF0ZzzWc1cPWSgykFeKoxNhQWbG1/uWrvhurtm8gnHwWsdX5lgA3tK/B4ZjZZ6UMhnMRCR/ZwdUFz12T5bnUHOGL5TeLe3eNl6Q6MeLCgNOSj0VI17Q1zPN9CB8MCzh3MUiyVDomohg//WgIuI1YNTjJIuqoDiO93mC3Dszw9YKWgnhsUTLpcrkkRPMpTkDAueC5s9m0JfzyJ0pGqC0mXgp6oMAxBLW73bvKZIiXMSCQVYQZiYuYrzAVTlBnLKAHisMnKuLC9Qhnp+e3flmcNE6zSOl3KEqVy9ICJWOV8GZ1KlmahPykGFAKPFphJrPb7LUGA1l56wWufyveHQHAYNrMzYsTt8nouvQIzRO6YIno=;DVhzAELU3eZ3Axxq0Yv5rw=="
 ---

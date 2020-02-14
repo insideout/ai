@@ -39,6 +39,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/07/still_002.png?fit=1270%2C748&strip=all"
         width: 1270
         height: 748
+  - title: "Intuition Robotics raises $36M for its empathetic digital companion"
+    excerpt: "Toyota previously said that it wanted to bring an empathetic AI assistant to the LQ that could create a bond between driver and car. Intuition Robotics’s Q platform helps power this assistant ... “We assume people will start doing similar things. There’s a lot more work to do. […] A big part of the work is to increase our research ..."
+    publishedDateTime: 2020-02-13T12:03:00Z
+    webUrl: "https://techcrunch.com/2020/02/13/intuition-robotics-raises-36m-for-its-empathetic-digital-companion/"
+    ampWebUrl: "https://techcrunch.com/2020/02/13/intuition-robotics-raises-36m-for-its-empathetic-digital-companion/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/13/intuition-robotics-raises-36m-for-its-empathetic-digital-companion/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/ElliQ6.jpg?w=1024"
+        width: 1024
+        height: 683
   - title: "CybelAngel raises $36 million to fight data breaches with AI"
     excerpt: "It’s a lot to juggle, but as Keraudy explains, a combination of AI-imbued scanning tech and human analysis enables CybelAngel to analyze upwards of thousands of files, hundreds of potential ..."
     publishedDateTime: 2020-02-12T14:00:00Z

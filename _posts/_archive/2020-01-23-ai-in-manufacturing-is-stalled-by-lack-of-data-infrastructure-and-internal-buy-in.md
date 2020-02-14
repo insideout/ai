@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
-excerpt: "According to Gartner, artificial intelligence is still in the early phases of the hype cycle. Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a ..."
+excerpt: "Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a rut ..."
 publishedDateTime: 2020-01-23T14:34:00Z
 webUrl: "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
 
-secured: "kEDG8/Q8x2JUgs6731Zlhi0VlPulu/dEaSYBc+yCJ6CLj3gmGzhPemEwSC9WUsEpQ7yLLZGdIATJ9ERtWvtTG7D+0ztZnKLj4Sz3diI7wx4bCk+rCNDUvVD8IGbSu3RG/Ps+yEkiPbjuCQ8GkZlcoGLxKFbdGwTI0oT9DfG6w/oIE5SNnngT4fK4m/wGSijoZYgMaIT+6tesHDgzLFZIDn8vTpeRHEYQabJFNhuubYMALU6NJ2mKVHrJqClYqbXeHedJIUo6z0L9gu+6p0QBtyFyBI+rPJLNJyT2bb5v09oMBThbQsD3bbGpwe1yLSn5;BWDhKxTCg/f97V6IyJybqg=="
+secured: "Zchtd/S6WpLrFLHC/Uztnralgokz2iYkPsB1DeZCoHQZVADesUtGFkVcFwtZB6F4qI7VQ/0dUq8B9TyizS3Ui0o6bCkzqsDZSniF/oh3r/G0Y4RwzoJW+iPOlWCKRV83/ilzE9K68mTreArUUhtrr7R2tkOnGIJgh4Vh+grMYCa+TgMtMhm852vMLBby7nx90sxOd4z5Mia+ir53+VxArggICkJsXwlWwL6PywrdDvNJt4t++r1+nko6svtiaM0wWBm7uYa1/G1YoSIq8C3z3l7r6dXf7gStxoLB4BeBjDCnhgrGgc0pPkHeSAJfT8am;vNr3W8QbMykBhIeZ02pFEg=="
 ---
 

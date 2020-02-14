@@ -50,6 +50,19 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/223953_web.jpg"
         width: 720
         height: 652
+  - title: "Oracle Unveils New Cloud-Based Platform for Machine Learning Models"
+    excerpt: "The new platform actually comprises seven services, including: Oracle Cloud Infrastructure Data Science: This is the virtual, AI-assisted workbench at the center of the platform, which gives users the ability to build, train, and manage new ML models on Oracle Cloud using Python and such open-source tools and libraries as TensorFlow ..."
+    publishedDateTime: 2020-02-14T19:07:00Z
+    webUrl: "https://adtmag.com/articles/2020/02/14/oracle-machine-learning-platform.aspx"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 41
+    images:
+      - url: "https://adtmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/RailroadTracksClouds.jpg"
+        width: 647
+        height: 450
 
 secured: "fbVwePz+I4pEvZazk4m7enEpRBCO5W97NF0wx8EZShU4yvNabdrbE8LkQDuiN8O4D1tTbq11VWOX++WWr9wfr3VZOhmI6urSLnFoT297rCwxNFdUwYkwhfeipfHt8f/2y1HOAnFhkmMrqiF+oYQr5/APDHYVQiTRYaTucttsxREomFRN/l4Sju7FmRbG2+dBCwB68tNbYD6rN3SA1caCE4FSp23ly+INngL0p5czDSVH+zlA4B1XmIiT1Ejvz6P7xklWz3k5BPdLhdaGxEDq5+29H8RCOfXYxcheSvuiooiyRv5p8m7JaSY+/iGx8E8z1XDytiW8AF6n+cyBPDhPHbLDIgZgyBVxpapIBBHfA35Om/yANmI5mJvdeMpSj3pM7mrDiBmInhp7cPf9r6HUiIJneH8nkEo7q8EK/+beB01e9hue3FsX88ZeljBhLFy9VPCtMUp9615mjzFQ1u+DBMJ0mWtGnQkGQfGfiG9IeJs=;PRsSzeyuHO99DU/408E9AQ=="
 ---

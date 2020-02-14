@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T20:16:17Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/29/labeling-efficiency-sagemaker-gt-2.gif"
         width: 500
         height: 202
+  - title: "Amazon Sagemaker: A Short Guide"
+    excerpt: "So, I was intrigued by how the latest offering from Amazon called Sagemaker could help me get to the model building, testing, and deployment stages faster. Please read through this excellent ..."
+    publishedDateTime: 2020-02-10T18:42:00Z
+    webUrl: "https://medium.com/@krishna.yerramsetty/amazon-sagemaker-a-short-guide-c4040d85b54c"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/803/1*Hr0Pfq6crJsKVShDh5ZCzQ.png"
+        width: 803
+        height: 1318
 
 secured: "ky6m/7LWA8U5weTkNGoRJvaNwtLdy/o0EMdUWCVcwxb1u7Pq8rQha217H/udPIjieyhFocjpFf2UfFwWxiFvA1BIbvATjU+Fc/Yyd9rmY0Zdx7r0N9/496esJEy3AGbgaqKu0ayXXjVMZgNMbd+pzFNVpIjCyF5ZqNw8Z832ccKo+CpyH3X7KEMXSMmYBAzTGnUn/M4Eb+cOfMBQKGznSOyxpM+SPaJrpGpFtvwZI0Q0wtJ2FZXoHxGf4ZWz5O4fA6GCQZxDRUO6fUcbsuHfIxuaBbOo2pv6gwwagDI+hv+EF+ZDy/L/njYwxvipawhd;MaZq7JhyvlmZNtMyoSI39w=="
 ---

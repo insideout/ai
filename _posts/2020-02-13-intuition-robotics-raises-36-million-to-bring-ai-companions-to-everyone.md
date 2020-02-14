@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-mill
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/"
 type: article
 quality: 218
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Intuition Robotics raises $36 million to bring AI companions to everyone"
 
 related:
+  - title: "Intuition Robotics raises $36M for its empathetic digital companion"
+    excerpt: "Toyota previously said that it wanted to bring an empathetic AI assistant to the LQ that could create a bond between driver and car. Intuition Robotics’s Q platform helps power this assistant ... “We assume people will start doing similar things. There’s a lot more work to do. […] A big part of the work is to increase our research ..."
+    publishedDateTime: 2020-02-13T12:03:00Z
+    webUrl: "https://techcrunch.com/2020/02/13/intuition-robotics-raises-36m-for-its-empathetic-digital-companion/"
+    ampWebUrl: "https://techcrunch.com/2020/02/13/intuition-robotics-raises-36m-for-its-empathetic-digital-companion/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/13/intuition-robotics-raises-36m-for-its-empathetic-digital-companion/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/ElliQ6.jpg?w=1024"
+        width: 1024
+        height: 683
   - title: "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles"
     excerpt: "Intuition Robotics Ltd., which has been developing cognitive agents to interact with ... as well as socially engaged. The company’s “Q” cognitive artificial intelligence product, which powers EllliQ, is available to third parties, starting with automakers. “This investment will fuel the evolution of agents from utilitarian digital ..."
     publishedDateTime: 2020-02-13T14:05:00Z
@@ -72,6 +87,6 @@ related:
         width: 252
         height: 335
 
-secured: "SEA5CmaXel0g0mNo17awWnNjHxpn87girKos7kKtcJjtE70NVnLQbgG0zlNNWE32OhZ3gr7VUGZgB+VVDphnF0bA8/35NwJWv1VZjMVFw9IyZPChzyl7tEAseH4oXorw8UkWMDm75Hh9G3Os911P7+H/zsHWalh2iGbJPwKU9eRyfBzsXjvLRJf+JxY3gsB8wYeCF32ewhdpvmYKrarIsEblfkmV09UAnz1N5a3WxRNvydUR/rqjAvGgRjIh0ZbNGp/76QY3x5KyrU/9DMjBf1HzExoJ0+PRq+BywXKdWIvxA4vWZR7ESgDL1anlo6rC305T5GmURjkSWilU9L9lBuSqL+/F/+24248h34W21alHG7SeQNQJo2Z4buW2Em2tJCtLUcsywz6H9pyMVx0AVgSHOouRBwNMB2cAPmY6wohE1r6d/uhfS7iXS2Mjh56Ms9Yv1GRy60W1igzwdQxPnZit2PCc8T+ZMj+dfOpg/PwHa/afn9iKO+fL2/VpDw7a;asef700DFK6zr/lDInZ+dQ=="
+secured: "vTsLRwBeEsjw3BS+2wG5ovE1m621iorCcblvjOKgLrHtZYw5IyJ4gO4V0E7WBbKMgexbPRLJ1ht4ly+ZJfgwu46H/fLBUBTr++UyviRPN4UEnPsZR8fjprNKLaavVxUUKoFC+JfYI2k1lH9+QRYsHLF6hslZN+Fe/pfzaSP8KVMS0I1bp8wPdB2t+8xM3L4FGKuHVesLeqWSNcsgETzkHVqmjTHskJfllplZMTUhNW854NYVk/aLuup4FaQMkKuSqqbJXK2Cx7uqcS/hz4aN9IE1T9SwJIo+e/ynROUkptInWBGtBd7rXZ+/jn/ihBkAbPmSQK30dsBi5XdjeDq1/Dp5yyT11vPu2/C0hWElDnfvLu0eclVsqrQA433IWKY321x04tTlQwCR4aBxiVm23143xf2cGoGHGTdR05NFl7R22LeueAC+nwP5QOvy3y+NXJU7hQ7qs1ZGWU8P87tSc8drdPlDcqrTar4AQtw+VN8/u6MWt3+Z6Evl3SRaPvbU;meWlS6glOEGSgVg52BFEWQ=="
 ---
 

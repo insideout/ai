@@ -57,6 +57,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market"
+    excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
+    publishedDateTime: 2020-02-12T00:00:00Z
+    webUrl: "https://www.openpr.com/news/1929108/automotive-artificial-intelligence-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "eCL5AD8/3rUzTIBzm8nOjSXjQQvsUYsrh9yed4tDXydVpOvNsA1I9hNgYSp876t4YpinYqVM5pP0qCFQVn8yi6JspWmGq8esGSlgpxg+rUoVZDXwk0GzKA9CC19lnwAQN5zJWadYNAHqzQ4E0sPgEsObBq/OkXdLI8yPi9iKeHBAuk2vQfxNy9URQOvYxCcE7R84VTYvHdjXuga7mTRv5hKibe9NsgWx/nUAnvZm2xtqWyHVDZGqYW7ZKp9dJ26wOuUsaqAMH+mB5TTa1AILPH7/e0Jqw2QIhYFyif1WD6DvZk6nLkc90YIJ3ZVLnRLF;/n3eItG4nYbrW4zItpVvyg=="
 ---

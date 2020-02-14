@@ -41,6 +41,19 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/millenium-sagemaker-1.gif"
         width: 900
         height: 473
+  - title: "Amazon Sagemaker: A Short Guide"
+    excerpt: "So, I was intrigued by how the latest offering from Amazon called Sagemaker could help me get to the model building, testing, and deployment stages faster. Please read through this excellent ..."
+    publishedDateTime: 2020-02-10T18:42:00Z
+    webUrl: "https://medium.com/@krishna.yerramsetty/amazon-sagemaker-a-short-guide-c4040d85b54c"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/803/1*Hr0Pfq6crJsKVShDh5ZCzQ.png"
+        width: 803
+        height: 1318
 
 secured: "/XzpEXbXl9tFLWrqjR/vdb7Dj9O0GGWAnkvOBRw87zXAqMm1jI9nSDgTvS5z9DKaV1YiNmBUmE7hAKFd9/iis13jBE++DzYb1QkzfpEprJ38HbH6DG8HZpYdQsg+I4M/0SWWUDGkRaiLV0qHYKq3BUlbjlUEtBBsCllPSc2cfjwT312ZtXDH26v4PeDky0OJSVSm3vfGQs7C5VRbKKyqfu5Sm0Q7hqP2LNDubs4Lrm0edi94Q5Bo8YWl/exyDT+iLh6K9NWS4l80lPTFUrQnewiLgbNfJeB4NglB2dnt1YHP1ud0Ndj8HkBcfhAIjrOD9Fjxt9Ve1mWpkh6E1AQ8KQ==;c3Af41hNdXOZyNof/bfpJw=="
 ---

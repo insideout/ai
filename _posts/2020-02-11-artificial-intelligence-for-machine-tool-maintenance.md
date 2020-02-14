@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T15:12:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-02/kift-aif021120.php"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/223953_web.jpg"
         width: 720
         height: 652
+  - title: "Oracle Unveils New Cloud-Based Platform for Machine Learning Models"
+    excerpt: "The new platform actually comprises seven services, including: Oracle Cloud Infrastructure Data Science: This is the virtual, AI-assisted workbench at the center of the platform, which gives users the ability to build, train, and manage new ML models on Oracle Cloud using Python and such open-source tools and libraries as TensorFlow ..."
+    publishedDateTime: 2020-02-14T19:07:00Z
+    webUrl: "https://adtmag.com/articles/2020/02/14/oracle-machine-learning-platform.aspx"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 41
+    images:
+      - url: "https://adtmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/RailroadTracksClouds.jpg"
+        width: 647
+        height: 450
   - title: "Splice Machine Wins SBIR Phase 1 Award from the United States Air Force to Modernize Application for Air Force Mission Planning"
     excerpt: "Splice Machine enables enterprises to unify analytics and machine learning that used to be on separate platforms to be native to the application thereby reducing ETL latency and infrastructure costs. The Splice Machine data platform can be deployed on-premise or as a fully-managed cloud service. Splice Machine is a trademark of Splice Machine ..."
     publishedDateTime: 2020-02-12T00:58:00Z

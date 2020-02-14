@@ -74,6 +74,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 35
+  - title: "This Week In AI: Facebook Acquires Scape Technologies, Square Acquires Dessa, Carbon Relay Raises $63M"
+    excerpt: "Last month, we released our quarterly AI in Numbers report. This quarter’s report highlights AI investment activity, partnerships, and M&A in 2019. You can check it out in CB Insights Stories format here. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here."
+    publishedDateTime: 2020-02-14T18:37:00Z
+    webUrl: "https://www.cbinsights.com/research/this-week-in-artificial-intelligence-facebook-scape-uipath-sisense-carbon-relay/"
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 23
+    images:
+      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/14101729/SELSER-572x364.png"
+        width: 572
+        height: 364
   - title: "Facebook takes control of London computer vision start-up Scape Technologies"
     excerpt: "Facebook has acquired majority control of London-based computer vision start-up company Scape Technologies, TechCrunch reported. A regulatory filing with Companies House shows that Facebook now controls more than 75 percent of the company. Scape Technologies is developing hyper-accurate location recognition technology for augmented reality (AR ..."
     publishedDateTime: 2020-02-10T12:10:00Z

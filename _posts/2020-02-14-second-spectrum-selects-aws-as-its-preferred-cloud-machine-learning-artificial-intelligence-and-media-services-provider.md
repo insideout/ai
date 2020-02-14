@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
-excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
+excerpt: "SEATTLE--(BUSINESS WIRE)--Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning ..."
 publishedDateTime: 2020-02-14T14:35:00Z
 webUrl: "https://www.businesswire.com/news/home/20200214005074/en/Spectrum-Selects-AWS-Preferred-Cloud-Machine-Learning"
 type: article
@@ -24,33 +24,46 @@ images:
     title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
 
 related:
-  - title: "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings"
-    excerpt: "Evaluating Amazon AWS, Microsoft Azure, Alphabet GCP, IBM Cloud and Oracle OCI earnings from an IaaS perspective to understand how these cloud giants are managing and growing their infrastructure."
-    publishedDateTime: 2020-02-07T15:08:00Z
-    webUrl: "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/"
-    ampWebUrl: "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/"
+  - title: "The AI Eye: Second Spectrum Chooses AWS for Cloud, ML and AI and NVIDIA Posts Q4 Results"
+    excerpt: "Point Roberts, WA and Vancouver, BC - February 14, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-02-14T18:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-second-spectrum-chooses-aws-for-cloud-ml-and-ai-and-nvidia-posts-q4-results-2020-02-14"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d7b0d3738f500063f272c%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1142%26cropY1%3D0%26cropY2%3D640"
-        width: 1137
-        height: 640
-  - title: "Top Machine Learning Services in the Cloud"
-    excerpt: "GPU accelerated machine learning training on IBM Cloud supports the Keras, PyTorch, Tensorflow and Caffe frameworks. Value proposition for potential buyers: For organizations that have already bought into Microsoft Azure cloud, Azure Machine Learning is good fit, providing a cloud environment to train, deploy and manage machine learning models."
-    publishedDateTime: 2020-02-08T09:16:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
-    ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
-    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "The AI Eye: Second Spectrum Chooses AWS (Nasdaq: AMZN) for Cloud, ML and AI and NVIDIA (Nasdaq: NVDA) Posts Q4 Results"
+    excerpt: "Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues like the NBA and England's Premier League, has selected Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), as its preferred cloud, machine learning (ML), and artificial intelligence (AI) provider. Rajiv Maheswaran, CEO of Second Spectrum ..."
+    publishedDateTime: 2020-02-14T17:59:00Z
+    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/02141AIEye-AMZN-ML-NVDA.asp"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 43
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 30
+    images:
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
+  - title: "Sports analytics firm Second Spectrum picks AWS as its preferred cloud infrastructure provider"
+    excerpt: "Amazon Web Services Inc. unveiled its latest marquee customer today: sports analytics provider Second Spectrum Inc., which has selected AWS as its preferred cloud, machine learning and artificial intelligence technology provider. Second Spectrum should be a familiar name for sports fans because it’s the official Optical Tracking and ..."
+    publishedDateTime: 2020-02-14T14:01:00Z
+    webUrl: "https://siliconangle.com/2020/02/14/sports-analytics-provider-second-spectrum-chooses-aws-preferred-cloud-infrastructure-provider/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/71500375_2621006007939026_4334469282747383808_n.png"
+        width: 820
+        height: 312
 
-secured: "zoTe0jfpMy5Qx+3jSMUXiS+GwPmXrMT8kU+sju3sON0Lbue4yjNTp0JTldT79J1iz/NMXJBfAYr+laOE0IMmYVsT2syxALMKbu/qDlaGYgVbVSxfvtugn3SvLaNKa0M6IrJ1QpZV5etyMAhYDH8RvPgIWlqqM1h/6VY/OIN0kr9vrQexSf5Pdezqfn5UfWH/OHzDWiAZ/ZBFIri19WPGanWXpXYS7J+5LTHNbDtjsZFEXB3RGCZ6JWbifLZ5CQB37JuLMzbTx5bVI90Wo7s0So+RlVpCJgEu/cssRD504CtppYysxgpmTAGhUhbQs8SU;eQjIcd82p8fxZfmpVZrz7A=="
+secured: "59/N3JTY3lqrM4tyGZPrnr5WJakMffZGUKAcMYQZ9/KB6+shv/f4qYYGzp2A1+MdszXmjAoibya/EyPpvxuSbC/sUewZSXuYbQtlOhRDkJ8qKM5o278k6UH5jBcz20p5h1IA8Xq1nN1ML/zFbPPFz8qlaNN0y3w4P1FyuGrjQ9WIdlQJZpSpNbYsXI2kUwvSM4/Pklo7pvKEOzCHfxC8azfzWX5AFBjWf2E4frFFfrNARU6ADc6PL1Gvwxwy+2Fd8OoLx34xRuR7empI4HGuxvw3I6QqwlxTCFM7QfbynCD9hwagm5nBByUo47YI+Ggm;SX7Lb1trD4x1GniGqJTSPA=="
 ---
 
