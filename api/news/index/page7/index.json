@@ -2,208 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-12-how-to-teach-artificial-intelligence.md",
-      "title": "How To Teach Artificial Intelligence",
-      "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-12T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x572/https://specials-images.forbesimg.com/imageserve/5e4280f7298c2a00065f7857/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 572,
-          "title": "How To Teach Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
-      "title": "India can benefit from AI, machine learning: Chandra",
-      "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/articleshow/74103826.cms",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
-      "publishedDateTime": "2020-02-12T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "India can benefit from AI, machine learning: Chandra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects.md",
-      "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
-      "excerpt": "Autonomous cars will prove critical to the future of cities, according to Raj Kapoor, Lyft’s chief strategy officer and head of business for self-driving. But he added that riders may need to adjust their expectations and warned of unintended “second order” effects of the burgeoning driverless car industry. Kapoor was speaking at the Move ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
-      "publishedDateTime": "2020-02-12T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Raj.jpg?fit=2286%2C1247&strip=all",
-          "width": 2286,
-          "height": 1247,
-          "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-memcomputing-introduces-superior-method-for-training-neural-networks.md",
-      "title": "MemComputing Introduces Superior Method for Training Neural Networks",
-      "excerpt": "Although MemComputing has been focusing on solving combinatorial optimization problems, John Beane, CEO of MemComputing commented, \"This opens a whole new door for our technology; when you look at the Artificial Intelligence market, we have been using the same methods to train our neural networks for over 3 decades. Even ignoring our superior ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/memcomputing-introduces-superior-method-for-training-neural-networks-301003522.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/556898/MemComputing_Logo.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": "MemComputing Introduces Superior Method for Training Neural Networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-met-police-try-to-calm-tensions-as-live-facial-recognition-hits-london.md",
-      "title": "Met Police try to calm tensions as live facial recognition hits London",
-      "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "ampWebUrl": "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "publishedDateTime": "2020-02-11T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Met Police try to calm tensions as live facial recognition hits London",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-milestone-systems-hosts-the-2020-milestone-integration-platform-symposium-mips-texas.md",
       "title": "Milestone Systems hosts the 2020 Milestone Integration Platform Symposium (MIPS), Texas",
       "excerpt": "“Each year we hear from an array of speakers that challenge our thinking about today’s technology and the new frontiers of tomorrow ... Canscan’s idea is the next-level shipping container checking system, powered by artificial intelligence (AI) called Virtual Checker. “Jennifer and her team have come up with an innovation that addresses ...",
@@ -237,51 +35,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-natural-language-processing-market-industry-development-scenario-and-forecast-to-2029.md",
-      "title": "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029",
-      "excerpt": "Global Natural Language Processing Market, revenue was xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2029, with a CAGR of x.x% during 2019-2029. The report published by Prophecy Market Insights covers detailed segmentation as mentioned below - By Type: – Rule-Based – Statistical – Hybrid By Technologies: – Recognition – IVR – OCR – Speech Recognition – Text Processing – Pattern & Image Recognition Download Sample of This Strategic Report: https://www.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-development-scenario-and-forecast-to-2029-2020-02-12",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -972,7 +725,7 @@
       "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
       "title": "Facial recognition could be temporarily banned for law enforcement use",
       "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 519,
+      "heat": 529,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
@@ -1592,6 +1345,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-14-natural-language-processing-market-key-and-forecast-predictions-presented-until-2029.md",
+      "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
+      "excerpt": "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/2020-02-14-nvidias-earnings-crush-expectations-and-outlook-shines-stock-pops.md",
       "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
       "excerpt": "On the earnings call, CEO Jensen Huang attributed the data center's amazing performance to the rapid adoption of AI for an increasing number of applications, calling out natural language processing and internet recommender systems several times. NVIDIA said in its earnings release that it's still in discussions with China's regulatory agency ...",
@@ -1634,6 +1432,50 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-use-ai-ethically-to-build-relationships-not-data-warehouses.md",
+      "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
+      "excerpt": "Capitalist societies risk the commoditization of personal data at the expense of the individual. But greater, more long-term and beneficial economic success can be created by looking beyond the blinders of shareholder profit.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/?ss=cio-network",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
+      "publishedDateTime": "2020-02-13T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e461695f133f4000628c188%2F0x0.jpg",
+          "width": 1200,
+          "height": 1058,
+          "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -2109,6 +1951,161 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-18-why-some-cities-states-and-lawmakers-want-to-curb-facial-recognition-technology.md",
+      "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
+      "excerpt": "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of ...",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/2680483001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001",
+      "publishedDateTime": "2019-12-17T16:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/11/19/USAT/4673ca8f-44ed-4dcf-99a0-2c54536bf6fc-AFP_AFP_1LW6JF.JPG?crop=3104,2328,x175,y0&quality=50&width=640",
+          "width": 640,
+          "height": 480,
+          "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-19-12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks.md",
+      "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
+      "excerpt": "However, previous research in visually-grounded language understanding have been mostly task-specific. Researchers from the Facebook AI Research, Georgia Institute of Technology, and Oregon State University found that the skills required for different V&L ...",
+      "heat": 65,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/syncedreview/12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks-e4553d91599d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*0vHYTrZBDprt8NP4KByFkg.png",
+          "width": 1200,
+          "height": 419,
+          "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-19-tiny-robotic-insect-can-withstand-multiple-heavy-hits-from-a-fly-swatter.md",
+      "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
+      "excerpt": "Scientists have pulled inspiration from insects in order to create a tiny ... It might sound like science fiction, but it's actually more plausible than you might think.' It is also designed ...",
+      "heat": 141,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
+      "publishedDateTime": "2019-12-19T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2019/12/19/17/22463342-0-image-a-30_1576777846491.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-ai-accelerator-card-offers-face-object-recognition-applications.md",
+      "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
+      "excerpt": "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ...",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecuriMetrics HIIDE",
+        "domain": "findbiometrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://findbiometrics.com/wp-content/uploads/computervision.jpeg",
+          "width": 400,
+          "height": 258,
+          "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

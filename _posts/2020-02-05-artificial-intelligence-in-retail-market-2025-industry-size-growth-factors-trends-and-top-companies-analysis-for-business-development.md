@@ -58,17 +58,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Open banking to AutoML: Top trends driving technology innovation investments in 2020"
-    excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level, helping non-tech firms access the capabilities to build ML applications quickly. This democratisation of machine learning will also make AI experts and data ..."
-    publishedDateTime: 2020-01-30T12:37:00Z
-    webUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156"
-    ampWebUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 32
 
 secured: "n5v3Z0TLdNP8xqo5g6SQ57J435140eCbhWRpjoJWHNP6UUX+HPvUgM4eZVgzVgHO36TokSbBflbCp/77ADA7KACqOlgewQyGbKB6xIJ16Uf8nhMDZIrITPH3bWj1kmZ3RzYINGl0HceVIWQdk9cllXbQxfZeX8V2X6ptkMVhqCvvg0k/yZezGgf0QKdjVL9vq4M5fJnSCwW7ImSRYb2J3DSfGRZt2u+b2flwYIuv24oalLrwCZWrUdjhMMBCqglaxFzKdKGWov8yoCNbzlmq9Bb2/1eLACIorg0JxMd1edBTcXiNSlUVaYCortiKxNwt;zA1y6hp+vm+g755TJOYSFg=="
 ---

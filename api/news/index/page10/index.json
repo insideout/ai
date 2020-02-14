@@ -2,178 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-08-the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of.md",
-      "title": "The hottest thing in robotics is an open source project you've never heard of",
-      "excerpt": "While the open source projects behind the rise of data science are reasonably well known (e.g., TensorFlow and Keras, among others), most people aren't aware that robotics is also heavily influenced by open source and, in particular, by the Robot Operating System (ROS). Given the importance of ROS to the swelling open source robotics community ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/",
-      "publishedDateTime": "2020-01-08T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/21/6a5a10a3-8789-4a91-9f3f-ba7b503e08dc/resize/1200x/ba19e2b5ae134b95fc156867f97ea074/your-robot-coworker-just-wants-to-help.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The hottest thing in robotics is an open source project you've never heard of",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-08-toyota-is-building-a-smart-city-to-test-ai-robots-and-self-driving-cars.md",
-      "title": "Toyota is building a 'smart' city to test AI, robots and self-driving cars",
-      "excerpt": "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html",
-      "publishedDateTime": "2020-01-08T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200108111821-woven-city-toyota-big-1-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Toyota is building a 'smart' city to test AI, robots and self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-08-will-ambarella-stock-get-out-of-the-dog-house-in-2020.md",
-      "title": "Will Ambarella Stock Get Out of the Dog House In 2020?",
-      "excerpt": "Ambarella turned a corner in Q3, though. Management has reported that more than 50 customers were in pre-production planning using computer vision chips, leading to another rosy outlook for Q4 ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/08/will-ambarella-stock-get-out-of-dog-house-in-2020.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/08/will-ambarella-stock-get-out-of-dog-house-in-2020.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/will-ambarella-stock-get-out-of-dog-house-in-2020.aspx",
-      "publishedDateTime": "2020-01-08T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552764%2Fcamera-lens-focus-zoom-aperture.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 839,
-          "title": "Will Ambarella Stock Get Out of the Dog House In 2020?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-09-ai-for-ai-evaluating-the-opportunity-for-embedded-ai-in-data-productivity-tools.md",
-      "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
-      "excerpt": "This is the only comment that mentions ethics; otherwise, it has nothing to do with the topic. I just wanted to point out fifty-nine out of sixty prognosticators overlooked the one thing is going to be red-hot in 2020. Yaffa Cohen-Ifrah, CMO and Head of Corporate Communications, Sapiens: AI enables insurers to better utilize the troves of data ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools",
-      "ampWebUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
-      "publishedDateTime": "2020-01-09T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2014-11/magnifying-glass.jpg",
-          "width": 1694,
-          "height": 1122,
-          "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-09-amazons-autogluon-produces-ai-models-with-as-little-as-3-lines-of-code.md",
       "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
       "excerpt": "AutoGluon’s debut follows on the heels of major upgrades to Amazon Web Services’ (AWS’) SageMaker, a toolkit for continuously training and deploying machine learning models to cloud and edge environments. AWS SageMaker Studio is a model training and workflow management tool that collects all the code, notebooks, and folders for machine ...",
@@ -2153,6 +1981,185 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-13-comma-ai-continues-to-impress-with-its-aftermarket-driver-assistance-tech.md",
+      "title": "Comma Ai continues to impress with its aftermarket driver assistance tech",
+      "excerpt": "Now with more driver monitoring. Way back in 2016 I flew out to Las Vegas to check out Comma Ai's driver's assistance system crammed into an Acura. At the time, it was being developed as a self-driving add-on for vehicles. But times have changed and nearly every automaker and startup has since dialed down their autonomous expectations.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/13/comma-two-openpilot-hands-on/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/",
+      "publishedDateTime": "2020-01-13T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2020-01/09/5e177c92e98ab569015410c0/5e17819c8db54a0dd03b6477_o_U_v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Comma Ai continues to impress with its aftermarket driver assistance tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-13-facebook-releases-low-latency-online-speech-recognition-framework.md",
+      "title": "Facebook releases low-latency online speech recognition framework",
+      "excerpt": "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "publishedDateTime": "2020-01-13T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook releases low-latency online speech recognition framework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-13-leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control.md",
+      "title": "Leading AI Luminary Has An Idea To Ensure Humans Remain In Control",
+      "excerpt": "Professor of Computer Science at the University of California, Berkeley and an Adjunct Professor of Neurological Surgery at the University of California, San Francisco, Stuart Russell, has written the most read text book on AI.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/",
+      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/amp/",
+      "publishedDateTime": "2020-01-13T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1ba133da6d380006296aa7%2F0x0.jpg",
+          "width": 1199,
+          "height": 654,
+          "title": "Leading AI Luminary Has An Idea To Ensure Humans Remain In Control",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-13-linkedin-blockchain-beats-ai-and-cloud-computing-for-hottest-skill-in-2020.md",
+      "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
+      "excerpt": "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/",
+      "ampWebUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
+      "publishedDateTime": "2020-01-13T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg",
+          "width": 796,
+          "height": 450,
+          "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -100,6 +100,21 @@ related:
       - url: "https://media.bizj.us/view/img/725821/fundingstartupistockphoto*600xx3454-2303-0-182.jpg"
         width: 600
         height: 400
+  - title: "Fintech Firm Ramp, which Offers Corporate Credit Cards, Secures $25 Million in Funding"
+    excerpt: "Ramp’s team has a diverse background from companies in the Fintech sector, such as Affirm’s former vice president of engineering, executives from Plaid and Atrium, and product engineers from Facebook’s AI research team. Ramp’s team members also come from the Google research division, Capital One, Goldman Sachs, Apple, and Lyft."
+    publishedDateTime: 2020-02-14T04:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157459-fintech-firm-ramp-which-offers-corporate-credit-cards-secures-25-million-in-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157459-fintech-firm-ramp-which-offers-corporate-credit-cards-secures-25-million-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157459-fintech-firm-ramp-which-offers-corporate-credit-cards-secures-25-million-in-funding/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Credit-Card-600x578.jpg"
+        width: 600
+        height: 578
   - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
     excerpt: "former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary computing, and Steve DeRose, a renowned expert in natural language processing, computational linguistics, and standards related to document processing. The company’s business ..."
     publishedDateTime: 2020-02-11T15:04:00Z

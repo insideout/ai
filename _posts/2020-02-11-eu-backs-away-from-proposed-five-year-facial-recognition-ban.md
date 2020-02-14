@@ -383,6 +383,19 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 34
+  - title: "Utahns approve of law enforcement’s use of facial recognition technology, poll says"
+    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
+    publishedDateTime: 2020-02-13T22:32:00Z
+    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
+    type: article
+    provider:
+      name: The Salt Lake Tribune
+      domain: sltrib.com
+    quality: 33
+    images:
+      - url: "https://www.sltrib.com/resizer/iFmO0DFWKR3zMKsiE5alRNtjthU=/1200x630/filters:quality(85)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/2OK3GJJIGBH5HLSXCGLHZNE4LI.jpg"
+        width: 1200
+        height: 630
   - title: "Clearview AI: why the controversial facial recognition technology should be a concern for the UK, according to experts"
     excerpt: "A controversial US facial recognition company is raising concerns over privacy after it created a database using nearly three billion public photos of people from sites such as Facebook, Twitter and YouTube. Clearview AI, until recently a relatively unknown tech startup, has made its facial recognition software available to law enforcement ..."
     publishedDateTime: 2020-02-12T10:30:00Z

@@ -31,6 +31,19 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg"
         width: 796
         height: 420
+  - title: "Facebook Will Pay $550 Million Over Facial Recognition Privacy Violations"
+    excerpt: "The feature especially raised concerns by privacy advocates who point out that the technology used photos that were never intended for that purpose in order to enhance Facebook's facial recognition capabilities. They also point out that Facebook never sought consent for the use of peoples' photos in that way. Facebook had even been forced to ..."
+    publishedDateTime: 2020-01-30T17:41:00Z
+    webUrl: "https://www.inc.com/facebook-facial-recognition-class-action-lawsuit-illinois-settlement.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 38
+    images:
+      - url: "https://www.incimages.com/uploaded_files/image/970x450/getty_936177628_2000133320009280405_411864.jpg"
+        width: 970
+        height: 450
   - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
     excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
     publishedDateTime: 2020-02-04T11:47:00Z

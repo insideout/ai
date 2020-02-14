@@ -86,6 +86,17 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
         width: 792
         height: 528
+  - title: "Facebook forced to pay $550 million settlement over facial recognition lawsuit"
+    excerpt: "Facebook is going to have to pay quite a few people money as part of a facial recognition settlement. The catch is, however, you have to live in Illinois. Since Illinois has some of the strictest biometric privacy laws, a 2015 lawsuit alleges that the social network violated these laws in Illinois through the use of facial recognition ..."
+    publishedDateTime: 2020-01-30T15:39:00Z
+    webUrl: "https://www.digitaltrends.com/news/facebook-forced-to-pay-550-million-settlement-over-facial-recognition/"
+    ampWebUrl: "https://www.digitaltrends.com/news/facebook-forced-to-pay-550-million-settlement-over-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-forced-to-pay-550-million-settlement-over-facial-recognition/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 65
 
 secured: "tbSHVlWQrUMw1z0XeBxsxQXhOXljkV+h9KeLTgFYZFk/HBmBQmcZ8tZngDhGC2KlYJOfoLKwEd4sSGqXS8WctWyWCsLMP83odv88H76Regeu4VFW23yszjmCEHnt3GMzhfSbwBrclLIOWDlkHEUEkJyvZqbt8FVCszljcaLEk19jimg4Kvi1q7QKCumsw7dWDYFpneGEK/g2Vz+nSGV4+cNxFCBqqx2FO5SgO3gpO93BiuTw98HYiWAVUTGFTAyvyVCyaNnJ2QOAnSC/Fr4465VdF9/DDq1cW+Z1rqEtiiMRuCXf/mJgyZa6kV+pMSSiQTeGERtSGSLGwM9rYs0cwezwOPH5/VD1X+GhI1LJ7YTUrVW7l6/t27rXQFFTshX+EkUDHkAXHfQnoKSp8Ce2VJYpJZtl+agengiD4fS2+9MyITSRjZCBEBbsSET8PKwxIpbdnpYAR50ws1b8FY6L1OfCaOF0MQXuJ7jjSj1sFjM=;F6DnPNGnoaqi0spX0zOAog=="
 ---

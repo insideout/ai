@@ -18,32 +18,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029"
-    excerpt: "Global Natural Language Processing Market, revenue was xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2029, with a CAGR of x.x% during 2019-2029. The report published by Prophecy Market Insights covers detailed segmentation as mentioned below - By Type: – Rule-Based – Statistical – Hybrid By Technologies: – Recognition – IVR – OCR – Speech Recognition – Text Processing – Pattern & Image Recognition Download Sample of This Strategic Report: https://www."
-    publishedDateTime: 2020-02-12T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-development-scenario-and-forecast-to-2029-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
-    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9."
-    publishedDateTime: 2020-02-13T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"
     excerpt: "Segmentation by Technology: Acoustic digital video fingerprinting, Digital audio, video image watermarking, Optical character recognition, Speech recognition. Segmentation by Industry Vertical: Avionics, E-Commerce, Consumer Electronics, Media and Entertainment, Transportation and Logistics, Banking, Financial Services, and Insurance ..."
     publishedDateTime: 2020-02-12T21:40:00Z
@@ -57,14 +31,14 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
-    publishedDateTime: 2020-02-05T12:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
+  - title: "Trending News For Automotive Voice Recognition Market 2020 Analysis, Forecast Of Business Revenue, Size, Leading Competitors And Growth Trends"
+    excerpt: "Automotive Voice Recognition Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-11T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-automotive-voice-recognition-market-2020-analysis-forecast-of-business-revenue-size-leading-competitors-and-growth-trends-2020-02-11"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 0
 
 secured: "M+kSRXEU02aLm5GBTWrUEO85w8/i8kVCAcCBY4psOs6Y7s5CoHUSuB2CXgB5c5jMcIvl8UcexzqHJ/oZ1QI7M2dY4ebwYfBKYvEhq4ac089dS+zMZvLn0PAyMH4GkkXWmqPrXpiSuKSvPSJhkLn9B+PO0O4dyB+M5dCq4nW0hraaf9+dKOf6admLy+exAq3sjIIntALIrEl316WY1mAAcoFVv/mR40SGPyxgVYJ34wg5iAET6vKignqnDNIlJq7WG7RaRXfwesDu5HPhNHn5JUl/2i1hJ0hJpbpfQZEVqTWPhi+f7e+X8M69/2IjL/71;aPpoXSFzbTgB+cSt6wtTMA=="

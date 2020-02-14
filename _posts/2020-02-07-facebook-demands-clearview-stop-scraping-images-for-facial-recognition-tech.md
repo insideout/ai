@@ -69,6 +69,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3240%252C0%252C495%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3Dde699115449a716bcec325db3e7903662dbd4881&client=amp-blogside-v2&signature=3eefa1557daf961b15de1298ae8254f93b9244fb"
         width: 600
         height: 350
+  - title: "Facebook sends cease-and-desist to facial recognition startup Clearview AI over photo scraping"
+    excerpt: "Facial recognition software startup Clearview AI has been under fire over revelations it's been training its machine learning algorithm on billions of publicly available photos, including public personal images scraped from social media without permission. Now Facebook has become the latest tech giant to tell the controversial company to quit it."
+    publishedDateTime: 2020-02-06T03:48:00Z
+    webUrl: "https://mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos/"
+    ampWebUrl: "https://mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 94
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F06%252Fc6%252F5335378eb82744b8b802e7bfae6244aa.18786.jpg%252F1200x630.jpg?signature=83PU2mA_LKCXx5zQ3q2x6kyFAW4="
+        width: 1200
+        height: 630
   - title: "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World"
     excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 5, 2020, at 6:09 p.m. ET As legal pressures and US lawmaker scrutiny mounts, Clearview AI, the facial recognition company that claims to have a database of more than 3 billion photos scraped from websites and social media, is looking to grow around the world. A document ..."
     publishedDateTime: 2020-02-05T23:16:00Z
@@ -84,6 +99,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
         width: 625
         height: 415
+  - title: "Controversial facial recognition company claims it has a First Amendment right to your public photos"
+    excerpt: "Hoan Ton-That, CEO of creepy facial recognition company Clearview AI, made the bold claim on Tuesday that his company has the right to publicly posted photos on Twitter and wielded the First Amendment as his reason. Clearview AI faced heat after it was discovered they had mined billions of publicly accessible images from Facebook and Ton-That ..."
+    publishedDateTime: 2020-02-05T16:49:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-ceo-first-amendment-right-facial-recognition-data-scraping/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-ceo-first-amendment-right-facial-recognition-data-scraping.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-ceo-first-amendment-right-facial-recognition-data-scraping.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F10%252F4aaadf8a926d46b39e4d6356ddcdf6e0.18786.jpg%252F1200x630.jpg?signature=agz3Wv8-4-Yn4EO3NpvjhHOw8ng="
+        width: 1200
+        height: 630
   - title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
     excerpt: "Facebook has demanded that Clearview stop accessing or using information from its platforms after it scraped billions of images without permission."
     publishedDateTime: 2020-02-06T17:51:00Z
@@ -99,6 +129,36 @@ related:
       - url: "https://i.insider.com/5e3bff71d9db1d368665e4b5?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Facebook Has Sent Facial Recognition Startup 'Clearview AI' Cease And Desist Letters"
+    excerpt: "Facial recognition software startup Clearview AI has been under fire over revelations it's been training its machine learning algorithm on billions of publicly available photos, including public personal images scraped from social media without permission. Now Facebook has become the latest tech giant to tell the controversial company to quit it."
+    publishedDateTime: 2020-02-06T06:21:00Z
+    webUrl: "https://in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters"
+    ampWebUrl: "https://in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 80
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/news/f/facebook-s/facebook-sends-cease-and-desist-to-facial-recognition-startu_aamw.620.jpg"
+        width: 620
+        height: 441
+  - title: "Facebook and LinkedIn are latest to demand Clearview stop scraping images for facial recognition tech"
+    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company said, “Which is why we’ve demanded that Clearview stop accessing or using information f ..."
+    publishedDateTime: 2020-02-06T11:56:00Z
+    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/7l1HObT4uIVko8_sSo6v9vlNURg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg"
+        width: 1400
+        height: 933
   - title: "Google tells facial recognition startup Clearview AI to stop scraping photos"
     excerpt: "Following Twitter, Google and YouTube have become the latest companies to send a cease-and-desist letter to Clearview AI, the startup behind a controversial facial recognition program that more than 600 police departments across North American use. Clearview came under scrutiny earlier this year when The New York Times showed that the company ..."
     publishedDateTime: 2020-02-05T19:13:00Z
@@ -138,6 +198,19 @@ related:
       - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTcwNDMzNTM4MzY0MDI0NjA0/facialrecog.png"
         width: 620
         height: 343
+  - title: "Is facial recognition technology worth the privacy trade-off?"
+    excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
+    publishedDateTime: 2020-02-04T09:05:00Z
+    webUrl: "https://nj1015.com/is-facial-recognition-technology-worth-the-privacy-trade-off/"
+    type: article
+    provider:
+      name: WKXW
+      domain: nj1015.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/385/files/2020/02/GettyImages-1198303844.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1200
+        height: 833
   - title: "Facial Recognition Has Its Eye on the U.K."
     excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
     publishedDateTime: 2020-02-07T13:41:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Baltimore Sun
@@ -26,19 +26,6 @@ images:
     title: "A warehouse robot learns to sort out the tricky stuff"
 
 related:
-  - title: "A warehouse robot learns to sort out the tricky stuff"
-    excerpt: "At the facility near Berlin, the new kind of robot is automating tasks that until recently had been out of the reach of machines."
-    publishedDateTime: 2020-01-30T12:48:00Z
-    webUrl: "https://www.bizjournals.com/buffalo/news/2020/01/30/a-warehouse-robot-learns-to-sort-out-the-tricky.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/11591970/robot-warehouse-sorting-4-7*1200xx3600-2025-0-338.jpg"
-        width: 1200
-        height: 675
   - title: "New kind of robot learns on the job at warehouse in Germany"
     excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb bin after bin of random stuff -- from clothes and shoes to ..."
     publishedDateTime: 2020-02-02T06:00:00Z

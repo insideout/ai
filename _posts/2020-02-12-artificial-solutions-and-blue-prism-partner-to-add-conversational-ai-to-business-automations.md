@@ -38,6 +38,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg"
         width: 1200
         height: 801
+  - title: "From Process Automation To Autonomous Process"
+    excerpt: "The big idea of AI and cognitive technologies is to address and tackle problems that require human cognitive capabilities. Organizations looking to pursue the path need to have the desired end state in mind: full autonomous business process."
+    publishedDateTime: 2020-02-14T05:23:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f554a78b3f4000623f36b%2F0x0.jpg"
+        width: 1200
+        height: 742
 
 secured: "Ly9OmnvZ5Nxt96IM9iNjPFDDYoQscQJSBXQERF8oHonabR9ARhWl0lOq1UAM53gai8LUXTlFOX+U/ter76HWlm9xMLDl0Cw8+YMCXSmZ4qXR93pAbNh41vXflFRRZdD+FXyqxPM3+uC051h7+TWu3MgGYXKKhOEaq63s/VSmVQdT++WKcVsoAhBqGWTPAM3HQpyeJvdAgSpAjHdCPDY03ZyiwW+PWU2HPtpzVTibeJkw73LAY1FpSVn38kcSqpjFdFrZn2mJB9rnnu95O6/fSbeourDouWVaAROe0UnyhOkoajPBnFBuDqXaPDFg7Hml;fsGNhtnjWIMWkMMbKOykAQ=="
 ---

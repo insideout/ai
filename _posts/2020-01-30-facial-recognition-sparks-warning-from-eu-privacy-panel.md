@@ -54,6 +54,21 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
         width: 960
         height: 640
+  - title: "Facing facts: Reject a blanket ban on face recognition"
+    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
+        width: 1200
+        height: 799
   - title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
     excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
     publishedDateTime: 2020-01-31T15:00:00Z
@@ -67,6 +82,26 @@ related:
       - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
         width: 3135
         height: 2008
+  - title: "Facial-recognition tech may have value, but real-time surveillance goes too far"
+    excerpt: "If you stroll through some parts of London, facial-recognition systems linked to street cameras analyze whether you look like someone wanted for a crime. This technology isn’t very accurate — it often makes false matches — and warrantless surveillance that can identify people in public in real time corrodes individual rights that ought to ..."
+    publishedDateTime: 2020-02-04T09:29:00Z
+    webUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 20
+  - title: "NY Senate bill would ban police facial recognition technology"
+    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
+    publishedDateTime: 2020-02-06T00:26:00Z
+    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
+    type: article
+    provider:
+      name: The Daily News Online
+      domain: thedailynewsonline.com
+    quality: 19
 
 secured: "YYApf+YghGTtytDHAyWoaqjPIKLTKQ3a/4XPzj8xXxxgmG+R3dAdYNi4ljkyb0p4jsJLF0MzIK6eQgMjfXpzkBXJ+ajPWlzl6xHS6/7OmuKHV4uJqiFnUyeB6gKoDJHsOb6xxzHSWh6SM/11JOrTRE8BUGjpowxzIHufQjTx8vxZ5h/xSvwuFT7cnVo7X+evbdD7vndmWjcqgsUF4xtCw4onl3EPRRJHWWCgfcXJQBGlMpipo7fMJEfJXITIoe/Tx9BvJA7rOJwY0t3erVVNib8IHMaXPMGGNpdFOjmWK4dTHDch7/IbMee3b1mptxuh;v3dN1a2b7CLyCOZuBkfHCw=="
 ---

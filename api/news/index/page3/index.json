@@ -2,259 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-04-nomagics-pick-and-place-warehouse-robots-raise-86m.md",
-      "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
-      "excerpt": "Since automation can relieve human warehouse workers of tedious tasks, Nomagic claimed that its smart pick-and-place robots offer high flexibility and that they can help reduce the cost per pick. The company added that its artificial intelligence and cloud platform enable its robotic arms to handle millions of different products. Magicloader is ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/nomagic-pick-place-warehouse-robots-86m/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-04T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/Nomagic_0-1024x563-1.jpeg",
-          "width": 1024,
-          "height": 563,
-          "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests.md",
-      "title": "Online targeting needs tighter controls, UK data ethics body suggests",
-      "excerpt": "A UK government advisory body on AI and data ethics has recommended tighter controls on how platform giants can use ad targeting and content personalization. Concerns about the largely unregulated eyeball-grabbing targeting tactics of online platforms — be it via serving ‘personalized content’ or ‘microtargeted ads’ to individuals or ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/",
-      "publishedDateTime": "2020-02-04T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/02/3115110964_142191363f_b.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Online targeting needs tighter controls, UK data ethics body suggests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-robot-bartender-begins-serving-drinks-in-tokyo-pub.md",
-      "title": "Robot bartender begins serving drinks in Tokyo pub",
-      "excerpt": "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyse their expressions with artificial intelligence software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada, a restaurant ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.html",
-      "ampWebUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
-      "publishedDateTime": "2020-02-04T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub/_jcr_content/par/image.dynimg.768.q75.jpg/v1580834704692/reuters-PUB-ROBOT-1120.jpg",
-          "width": 768,
-          "height": 438,
-          "title": "Robot bartender begins serving drinks in Tokyo pub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-robot-nutrition-ai-drug-discovery-and-neuro-rehabilitation-11-of-the-most-exciting-healthcare-startups-in-europe.md",
-      "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
-      "excerpt": "From robot chefs to smart patches that analyze your sleeping habits, here are 11 of the most exciting health tech companies in Europe.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1",
-      "ampWebUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
-      "publishedDateTime": "2020-02-04T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e32f5e524306a1e385a2fb7?width=1200&format=jpeg",
-          "width": 1000,
-          "height": 500,
-          "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-smart-marketing-how-corporate-marketers-deploy-ai.md",
-      "title": "Smart Marketing: How Corporate Marketers Deploy AI",
-      "excerpt": "Marketers report a 27% increase in the use of AI and machine learning in marketing toolkits over 6 months prior. Top uses include AI for content personalization, targeting, predictive analytics. Organizational challenges to maximize the impact of AI in marketing are discussed.",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/",
-      "publishedDateTime": "2020-02-04T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinemoorman%2Ffiles%2F2020%2F02%2FAI-F1.png",
-          "width": 1200,
-          "height": 588,
-          "title": "Smart Marketing: How Corporate Marketers Deploy AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin.md",
-      "title": "This new AI model will badmouth you for putting trash in the wrong bin",
-      "excerpt": "When I’m at airports, I often get confused as to which trash and recycling bin I should throw my rubbish into. A new solution from a Canadian AI company, Initutaive AI, might come in handy. The firm has developed Oscar, an image-detection based AI, that recognizes objects in your hand and guides you to put things in correct bins.",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/amp/",
-      "publishedDateTime": "2020-02-03T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Garbage-badmouth-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": "This new AI model will badmouth you for putting trash in the wrong bin",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-tropical-breezes-pristine-beaches-and-a-domain-name-to-die-for.md",
       "title": "Tropical Breezes, Pristine Beaches and a Domain Name to Die For",
       "excerpt": "Start-ups want unusual internet addresses to help stand out. One winner: The island of Anguilla, whose “.ai” domain is a favorite of A.I. start-ups. The luxury resorts along serene white-sand beaches have long propped up the economy of Anguilla,",
@@ -341,6 +88,43 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-veridium-brings-facial-recognition-to-all-phones-in-password-less-push.md",
+      "title": "Veridium brings facial recognition to all phones in password-less push",
+      "excerpt": "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/",
+      "publishedDateTime": "2020-02-03T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg",
+          "width": 2880,
+          "height": 1800,
+          "title": "Veridium brings facial recognition to all phones in password-less push",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -804,7 +588,7 @@
       "path": "_posts/2020-02-05-five-emerging-trends-in-retail-technology.md",
       "title": "Five Emerging Trends In Retail Technology",
       "excerpt": "Consumers want shopping experiences that feel personal to them, whether they are shopping online or in-store. Retailers are in a race to use technology to match consumer expectations and win more business.",
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/",
@@ -1965,7 +1749,7 @@
       "path": "_posts/2020-02-06-facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites.md",
       "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
       "excerpt": "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ...",
-      "heat": 367,
+      "heat": 387,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/",
@@ -2084,6 +1868,209 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-intel-drops-work-on-one-of-its-ai-chip-lines-in-favor-of-an-other.md",
+      "title": "Intel drops work on one of its AI-chip lines in favor of an other",
+      "excerpt": "[Get regularly scheduled insights by signing up for Network World newsletters.] Intel acquired Nervana in 2016 and issued its first NNP chip one year later. After the $408 million acquisition by Intel, Nervana co-founder Naveen Rao was placed in charge of the AI platforms group, which is part of Intel's data platforms group. The Nervana chips ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.html",
+      "ampWebUrl": "https://www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.amp.html",
+      "publishedDateTime": "2020-02-05T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Intel drops work on one of its AI-chip lines in favor of an other",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
+      "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
+      "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
+      "publishedDateTime": "2020-02-06T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-microsoft-announces-changes-to-officecom-and-office-365-app-launcher.md",
+      "title": "Microsoft announces changes to Office.com and Office 365 app launcher",
+      "excerpt": "The Recommended section displays the files which are most likely to their your attention using the power of AI. And the Discover section allows users to see the files ... Microsoft now offers controls in the Azure Active Directory portal that enable admins to pin up to three apps to Office.com and the app launcher. Any app added by an admin ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/microsoft-announces-changes-to-office-com-and-office-365-app-launcher/",
+      "ampWebUrl": "https://mspoweruser.com/microsoft-announces-changes-to-office-com-and-office-365-app-launcher/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-announces-changes-to-office-com-and-office-365-app-launcher/amp/",
+      "publishedDateTime": "2020-02-06T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2020/02/Office.com-experience.jpg",
+          "width": 1026,
+          "height": 564,
+          "title": "Microsoft announces changes to Office.com and Office 365 app launcher",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots.md",
+      "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
+      "excerpt": "The tech startup created by two former Google engineers will deploy battery-powered R2 driverless delivery vehicles on public streets–little vans without steering wheels, pedals or side-mirrors",
+      "heat": 141,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/",
+      "publishedDateTime": "2020-02-06T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c413ba854780006b0a8ad%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-robotics-investments-recap-january-2020.md",
+      "title": "Robotics investments recap: January 2020",
+      "excerpt": "In January 2020, reported transactions among robotics, drone, autonomous vehicles, and artificial intelligence companies totaled $1.16 billion. There were fewer deals around self-driving vehicles than in the past several months, but investors still supported supply chain, surgical systems, and agricultural automation. At the same time ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/january-2020-robotics-investments-recap/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2019/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order1200xx3840-2160-0-0.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Robotics investments recap: January 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

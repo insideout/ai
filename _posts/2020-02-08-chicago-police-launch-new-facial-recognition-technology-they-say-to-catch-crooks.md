@@ -89,6 +89,19 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
         width: 1280
         height: 720
+  - title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
+    excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
+    publishedDateTime: 2020-02-04T19:15:00Z
+    webUrl: "https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
+        width: 660
+        height: 300
   - title: "Met Police begins deploying live facial recognition cameras in Stratford"
     excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
     publishedDateTime: 2020-02-11T11:37:00Z

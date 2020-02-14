@@ -2,185 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-13-comma-ai-continues-to-impress-with-its-aftermarket-driver-assistance-tech.md",
-      "title": "Comma Ai continues to impress with its aftermarket driver assistance tech",
-      "excerpt": "Now with more driver monitoring. Way back in 2016 I flew out to Las Vegas to check out Comma Ai's driver's assistance system crammed into an Acura. At the time, it was being developed as a self-driving add-on for vehicles. But times have changed and nearly every automaker and startup has since dialed down their autonomous expectations.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/13/comma-two-openpilot-hands-on/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/",
-      "publishedDateTime": "2020-01-13T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2020-01/09/5e177c92e98ab569015410c0/5e17819c8db54a0dd03b6477_o_U_v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Comma Ai continues to impress with its aftermarket driver assistance tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-13-facebook-releases-low-latency-online-speech-recognition-framework.md",
-      "title": "Facebook releases low-latency online speech recognition framework",
-      "excerpt": "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
-      "publishedDateTime": "2020-01-13T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook releases low-latency online speech recognition framework",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-13-leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control.md",
-      "title": "Leading AI Luminary Has An Idea To Ensure Humans Remain In Control",
-      "excerpt": "Professor of Computer Science at the University of California, Berkeley and an Adjunct Professor of Neurological Surgery at the University of California, San Francisco, Stuart Russell, has written the most read text book on AI.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/",
-      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/amp/",
-      "publishedDateTime": "2020-01-13T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1ba133da6d380006296aa7%2F0x0.jpg",
-          "width": 1199,
-          "height": 654,
-          "title": "Leading AI Luminary Has An Idea To Ensure Humans Remain In Control",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-13-linkedin-blockchain-beats-ai-and-cloud-computing-for-hottest-skill-in-2020.md",
-      "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
-      "excerpt": "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/",
-      "ampWebUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
-      "publishedDateTime": "2020-01-13T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg",
-          "width": 796,
-          "height": 450,
-          "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-13-raytheon-tapped-for-self-evaluating-machine-learning-system.md",
       "title": "Raytheon tapped for self-evaluating machine learning system",
       "excerpt": "Jan. 13 (UPI) --Raytheon Co. announced on Monday it has begun work on a machine-learning technology allowing machines to teach machines through artificial intelligence use. The $6 million contract is one of four, valued at a total of $20.9 million, between the U.S. Defense Research Projects Agency and Raytheon BBN Technologies, SRI ...",
@@ -2106,6 +1927,178 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-15-machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026.md",
+      "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+      "excerpt": "Big Market Research has added a report, titled, \"Machine Translation (MT) Market\" The report not only provides a comprehensive analysis of market overview and dynamics for the historical period, 2019-2026,",
+      "heat": 168,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-15-marscat-robot-is-more-project-than-pet.md",
+      "title": "MarsCat robot is more project than pet",
+      "excerpt": "There's a growing fear that artificial intelligence combined with robotics will displace the value of humans in many contexts. But could these trends also apply to our traditional four-legged canine and feline companions? After its splash at CES 2020, I had an opportunity to get up close this week with two prototypes of the MarsCat robot ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/marscat-robot-is-more-project-than-pet/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
+      "publishedDateTime": "2020-01-15T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-15-new-research-shows-what-ai-can-teach-us-about-the-human-brain.md",
+      "title": "New research shows what AI can teach us about the human brain",
+      "excerpt": "Finding the best ways to do good. Google’s DeepMind research group has a lot of flashy AI accomplishments to its name. Among the biggest are AlphaGo, its game-playing algorithm that stunned many ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vox.com/future-perfect/2020/1/15/21067228/ai-brain-protein-folding-google-deepmind",
+      "ampWebUrl": "https://www.vox.com/platform/amp/future-perfect/2020/1/15/21067228/ai-brain-protein-folding-google-deepmind",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/2020/1/15/21067228/ai-brain-protein-folding-google-deepmind",
+      "publishedDateTime": "2020-01-15T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/fwYvALR-b2obQB-jzin3iQ6R680=/0x0:5100x5100/1400x1050/filters:focal(2142x2142:2958x2958):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66109355/614083772.jpg.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": "New research shows what AI can teach us about the human brain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-15-qualcomms-self-driving-car-made-me-never-want-to-touch-a-steering-wheel-again.md",
+      "title": "Qualcomm’s self-driving car made me never want to touch a steering wheel again",
+      "excerpt": "A couple of days earlier at the giant Consumer Electronics Show, Qualcomm announced a new platform for self-driving cars called Snapdragon Ride — and to showcase its powers, Qualcomm gave me a ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp",
+      "publishedDateTime": "2020-01-15T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Qualcomm’s self-driving car made me never want to touch a steering wheel again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

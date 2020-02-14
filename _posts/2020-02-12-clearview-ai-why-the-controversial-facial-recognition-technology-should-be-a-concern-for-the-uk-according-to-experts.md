@@ -394,6 +394,19 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 34
+  - title: "Utahns approve of law enforcement’s use of facial recognition technology, poll says"
+    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
+    publishedDateTime: 2020-02-13T22:32:00Z
+    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
+    type: article
+    provider:
+      name: The Salt Lake Tribune
+      domain: sltrib.com
+    quality: 33
+    images:
+      - url: "https://www.sltrib.com/resizer/iFmO0DFWKR3zMKsiE5alRNtjthU=/1200x630/filters:quality(85)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/2OK3GJJIGBH5HLSXCGLHZNE4LI.jpg"
+        width: 1200
+        height: 630
   - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
     excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
     publishedDateTime: 2020-02-06T20:54:00Z

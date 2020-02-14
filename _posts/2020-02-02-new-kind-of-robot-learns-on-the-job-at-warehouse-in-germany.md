@@ -39,19 +39,6 @@ related:
       - url: "https://www.baltimoresun.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg"
         width: 1200
         height: 900
-  - title: "A warehouse robot learns to sort out the tricky stuff"
-    excerpt: "At the facility near Berlin, the new kind of robot is automating tasks that until recently had been out of the reach of machines."
-    publishedDateTime: 2020-01-30T12:48:00Z
-    webUrl: "https://www.bizjournals.com/buffalo/news/2020/01/30/a-warehouse-robot-learns-to-sort-out-the-tricky.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/11591970/robot-warehouse-sorting-4-7*1200xx3600-2025-0-338.jpg"
-        width: 1200
-        height: 675
 
 secured: "JV6Np2jwZ1aED3f0ngr4+tKN1TFQoCEm+sZZckRC+fBcrxxyl+eT5WkNkT9B6upvffjXTUs9dkU2LjbGELxRhlCMOXrE1DhcHkORnKbdg1TVMDOPWcfcmno2cmCekj/LjLUuR5BsD8+g6leu9JfxXz1UVnszvKz52JgSTDImIQCNk4g+9il9TNbURzvkFbVAGNbo9aVG1KUTATJamzTkOacncaXI5z7sHbUf3WOzWgx73NFnsWArOuc/IycaDNFnE0vf6dGm9AVvlyjpcmHwb/tCs3S/ZqU2BlNZwHd8Y8P9oVT0e22l/+/izpCuzPnB;BeR5G7hGlNhWZ4LTp5i/RQ=="
 ---

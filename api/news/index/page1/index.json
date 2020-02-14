@@ -2,43 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-01-30-2-major-security-flaws-detected-in-microsoft-azure-cloud-know-what-they-are.md",
-      "title": "2 major security flaws detected in Microsoft Azure Cloud: Know what they are",
-      "excerpt": "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.indiatvnews.com/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
-      "publishedDateTime": "2020-01-30T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/satya-nadella-1580390767.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "2 major security flaws detected in Microsoft Azure Cloud: Know what they are",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-30-ai-finds-square-structure-inside-triangle-on-ceres-failing-experiment-to-see-if-it-could-be-used-to-find-aliens.md",
       "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
       "excerpt": "In an experiment designed to see if artificial intelligence could be used to discover extraterrestrials, it detected an unusual \"square structure\" inside a \"triangle\" on Ceres, a dwarf planet that sits in the asteroid belt between Mars and Jupiter.",
@@ -71,50 +34,6 @@
           "width": 720,
           "height": 400,
           "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated.md",
-      "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
-      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of the progress of AI highlight anxiety about AI eliminating jobs, the competition for AI talent, questions about employees AI preparedness,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
-      "publishedDateTime": "2020-01-30T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855180%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
           "attribution": null
         }
       ],
@@ -169,87 +88,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-aquant-raises-30-million-for-ai-that-gives-customer-service-agents-mission-critical-data.md",
-      "title": "Aquant raises $30 million for AI that gives customer service agents mission-critical data",
-      "excerpt": "Assaf Melochna and Shahar Chen, former colleagues at workforce management and service optimization company ClickSoftware, advocate an AI- and machine learning-based solution. The two cofounded Aquant, which algorithmically mines and analyzes data from various sources to learn manufacturing, utilities, and telecom companies’ unique service ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/",
-      "publishedDateTime": "2020-01-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Aquant raises $30 million for AI that gives customer service agents mission-critical data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regulation.md",
-      "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-      "excerpt": "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -425,50 +263,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-30-google-ai-chief-the-promise-of-multi-modal-learning.md",
-      "title": "Google AI chief: The promise of multi-modal learning",
-      "excerpt": "Google's Jeff Dean explains multi-modal learning and why it's the next big challenge for AI researchers. Read more: https://zd.net/2RWOWVq",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/google-ai-chief-the-promise-of-multi-modal-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/982ecb2e-09ab-44ee-a2e9-a132a038b050/thumbnail/770x578/79de21a8c75b1f253e83a6992a2be950/20200129-dean-steph.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Google AI chief: The promise of multi-modal learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-30-government-releases-guide-for-ai-use-in-the-public-sector.md",
       "title": "Government releases guide for AI use in the public sector",
       "excerpt": "to managing the implementation of planned AI deployment and exploring the safety and ethics to using AI systems in the public sector. As AI is already being deployed in the public sector, the guide contains case studies for other public sector workers and organisations to draw inspiration from. For example, it notes how the National Grid uses ...",
@@ -601,6 +395,43 @@
         "AI",
         "Machine Learning",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.md",
+      "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
+      "excerpt": "ST. PAUL, Minn. (FOX 9) - Minnesota lawmakers will debate Thursday whether to limit how law enforcement uses facial recognition technology. Police are already using facial recognition to scan mug shots and even security footage for suspects, but it is also causing concerns over digital privacy. A Senate committee is holding a hearing ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology",
+      "ampWebUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-01-30T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 9",
+        "domain": "fox9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/01/932/470/facial-recognition-technology.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -767,42 +598,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-two-sundance-docs-sound-the-alarm-on-the-dangers-of-modern-ai.md",
-      "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
-      "excerpt": "Cautionary tales about AI were all over Sundance screens this year, and not as sci-fi flights of fancy. Two new documentaries, The Social Dilemma and Coded Bias, dig into the pitfalls of artificial intelligence as it currently exists — manipulating our social-media feeds, determining our financial or professional futures, surveilling us on ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review/",
-      "ampWebUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
-      "publishedDateTime": "2020-01-30T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F30%252F2b%252F197609c9e4b0492b9aad0d764ab4085e.746b6.jpg%252F1200x630.jpg?signature=NmOmlZmtuGjdTlPu2UY9_ACFzbc=",
-          "width": 1200,
-          "height": 630,
-          "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -990,7 +785,7 @@
       "path": "_posts/2020-01-31-can-we-keep-facial-recognition-from-enabling-a-surveillance-state.md",
       "title": "Can we keep facial recognition from enabling a surveillance state?",
       "excerpt": "Researchers have been pursuing facial recognition technologies since the 1960s but its only been in the last few years that these systems have become so alarmingly capable. Neural networks able to match faces across thousands of features with better than 98 percent accuracy as well as an explosion of available training data sets have fueled the ...",
-      "heat": 119,
+      "heat": 149,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
@@ -1035,7 +830,7 @@
       "path": "_posts/2020-01-31-chicago-police-facial-recognition-adds-jet-fuel-for-criminal-investigations.md",
       "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
       "excerpt": "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ...",
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/",
@@ -1064,6 +859,43 @@
           "width": 796,
           "height": 420,
           "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-facebook-will-need-to-pay-550-million-over-face-recognition-issue.md",
+      "title": "Facebook will need to pay $550 million over face recognition issue",
+      "excerpt": "Remember back in 2010 when Facebook started tagging you on photos? That was the starting year of the company’s facial recognition software. However, the feature came without anyone’s consent. Shortly after, a case against Facebook was set in motion and the legal dispute officially started in 2015. Join GizChina on Telegram In 2018 the case ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/",
+      "ampWebUrl": "https://www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/amp/",
+      "publishedDateTime": "2020-01-31T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/01/105135707-GettyImages-944827400.jpg",
+          "width": 678,
+          "height": 381,
+          "title": "Facebook will need to pay $550 million over face recognition issue",
           "attribution": null
         }
       ],
@@ -1591,7 +1423,7 @@
       "path": "_posts/2020-01-31-top-cloud-providers-in-2020-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
       "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
       "excerpt": "At AWS re:Invent 2019, CEO Andy Jassy outlined a vision for the cloud service provider, including its artificial intelligence service, a stack made for analytics and a bevy of purpose-built databases. The broader message from Jassy, however, was that AWS will be relentlessly innovating. Jassy also took a few thinly veiled jabs at rivals like ...",
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
@@ -1904,43 +1736,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-01-a-warehouse-robot-learns-to-sort-out-the-tricky-stuff.md",
-      "title": "A warehouse robot learns to sort out the tricky stuff",
-      "excerpt": "Standing nearby at the Obeta warehouse, the California engineers who made the robot snapped pictures with their smartphones. They spent more than two years designing the system at a startup called Covariant.AI, building on their research at the University of California, Berkeley. Their technology is an indication that, in the coming years ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html",
-      "ampWebUrl": "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp",
-      "publishedDateTime": "2020-02-01T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "A warehouse robot learns to sort out the tricky stuff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-01-aws-your-complete-guide-to-amazon-web-services-features.md",
       "title": "AWS: Your complete guide to Amazon Web Services & features",
       "excerpt": "In the current age of cloud computing, there is now a multitude of mature services available -- offering security, scalability, and reliability for many business computing needs. What was once a ...",
@@ -2130,6 +1925,221 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-01-hyper-intelligent-ai-hive-mind-claims-to-predict-super-bowl-winner.md",
+      "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
+      "excerpt": "But if you’re looking for a really educated guess on the game’s outcome, you’ll want to ask Stanford computer scientist Louis Rosenberg, the founder of Unanimous A.I., a startup that combines the opinions of a lot of humans with artificial intelligence to make remarkably accurate predictions. In nature, many species exhibit something ...",
+      "heat": 157,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://futurism.com/the-byte/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner",
+      "ampWebUrl": "https://futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
+      "publishedDateTime": "2020-02-01T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/01/hyper-intelligent-hive-mind-predicts-super-bowl-liv-winner-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-01-indias-plans-for-data-centre-parks-may-finally-force-facebook-and-twitter-to-localise.md",
+      "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
+      "excerpt": "The proposed policy directly takes on a highly-debated clause in India’s personal data protection bill, which suggests that data collected by foreign companies such as Facebook, TikTok ... for tech advancements by setting up a national portal for artificial intelligence (AI) research and development. “We appreciate the government’s ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/",
+      "ampWebUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
+      "publishedDateTime": "2020-02-01T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/AP_20032244386981-e1580546856302.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-01-the-future-of-fintech-ai-blockchain.md",
+      "title": "The Future of Fintech: AI & Blockchain",
+      "excerpt": "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.businessinsider.com/image/5e305ac224306a476129d512",
+          "width": 400,
+          "height": 224,
+          "title": "The Future of Fintech: AI & Blockchain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-01-what-if-ai-could-anticipate-our-wants-and-needs.md",
+      "title": "What If AI Could Anticipate Our Wants and Needs?",
+      "excerpt": "The lines of code that animate these machines will inevitably lack nuance, forget to spell out caveats, and end up giving AI systems goals and incentives that don’t align with our true preferences. A now-classic thought experiment illustrating this problem was posed by the Oxford philosopher Nick Bostrom in 2003. Bostrom imagined a ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theatlantic.com/technology/archive/2020/02/real-danger-artificial-intelligence/605914/",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/605914/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/605914/",
+      "publishedDateTime": "2020-02-01T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/assets/media/img/mt/2020/01/AI_Genie_3K_Lede/lead.jpg?mod=1580505331",
+          "width": 570,
+          "height": 321,
+          "title": "What If AI Could Anticipate Our Wants and Needs?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-01-why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced.md",
+      "title": "Why we’re failing to regulate the most powerful tech we’ve ever faced",
+      "excerpt": "It’s clear the AI revolution will impact society drastically, both for good and bad. Recently, using natural-language processing and machine-learning techniques, Canadian company BluDot sifted through global news reports, airline data, and reports of animal disease outbreaks to issue an alert about the current Coronavirus outbreak ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/01/why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/01/why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/01/why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced/amp/",
+      "publishedDateTime": "2020-02-01T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=3840%2C2160&strip=all",
+          "width": 3840,
+          "height": 2160,
+          "title": "Why we’re failing to regulate the most powerful tech we’ve ever faced",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

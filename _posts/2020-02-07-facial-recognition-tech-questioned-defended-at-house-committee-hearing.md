@@ -91,19 +91,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Doha Bank integrates facial, voice recognition into app"
-    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
-    publishedDateTime: 2020-02-02T19:02:00Z
-    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 26
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
-        width: 620
-        height: 355
   - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
     excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
     publishedDateTime: 2020-02-12T15:40:00Z

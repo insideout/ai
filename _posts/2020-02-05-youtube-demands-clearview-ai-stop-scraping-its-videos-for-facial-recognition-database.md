@@ -46,6 +46,15 @@ related:
       - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
         width: 800
         height: 452
+  - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
+    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, a facial recognition app that scraps images from the websites and social media platforms, CBS News has learned. The tech companies join Twitter, which sent a similar letter in January, in trying to block the app from taking pictures from their platforms. The app is only ..."
+    publishedDateTime: 2020-02-05T11:25:00Z
+    webUrl: "https://www.cbsnews.com/news/clearview-ai-google-youtube-send-cease-and-desist-letter-to-facial-recognition-app/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
   - title: "Facebook buys startup using AI vision to find your location (updated)"
     excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
     publishedDateTime: 2020-02-08T17:28:00Z
@@ -245,6 +254,15 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
+    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
+    publishedDateTime: 2020-02-06T11:57:00Z
+    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 36
   - title: "Facebook, YouTube, Twitter warn Clearview face-recognition service to stop harvesting images"
     excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
     publishedDateTime: 2020-02-06T19:37:00Z

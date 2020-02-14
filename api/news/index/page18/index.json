@@ -2,185 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-24-samsung-and-ge-are-cooking-up-the-kitchen-smarts-ive-been-waiting-for.md",
-      "title": "Samsung and GE are cooking up the kitchen smarts I've been waiting for",
-      "excerpt": "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. The newest version of Samsung's Family Hub smart refrigerator ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/",
-      "publishedDateTime": "2020-01-24T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Samsung and GE are cooking up the kitchen smarts I've been waiting for",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-24-seeing-a-better-future-for-ai.md",
-      "title": "Seeing A Better Future For AI",
-      "excerpt": "I grew up during the 80s and 90s, the kind of kid who built his own computers late into the night and heard the dial-up modem’s tones as my personal anthem. During this time of great promise in mankind’s technological potential I remember watching early documentaries on artificial intelligence (AI).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/",
-      "publishedDateTime": "2020-01-24T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2b46f58b6cf300071ce1d0%2F0x0.jpg%3FcropX1%3D54%26cropX2%3D4933%26cropY1%3D0%26cropY2%3D2744",
-          "width": 1200,
-          "height": 675,
-          "title": "Seeing A Better Future For AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-24-the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-ibm-launches-policy-lab-with-ai-policy-imperatives.md",
-      "title": "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives",
-      "excerpt": "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft's Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" IBM (NYSE ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-nyse-ibm-launches-policy-lab-with-ai-policy-imperatives-2020-01-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-24T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-24-the-fake-finger-that-could-save-fortunes-mit-spin-out-raises-10m-for-touch-inspired-measurement-tech.md",
-      "title": "The Fake Finger That Could Save Fortunes: MIT Spin-Out Raises $10M For Touch-Inspired Measurement Tech",
-      "excerpt": "The startup Gelsight is commercializing unique technology that's provided a new way to create accurate 3D measurements of everything from fish scales to facial wrinkles to toothpaste. Its breakthrough application could be in aerospace.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
-      "publishedDateTime": "2020-01-24T11:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e29cf2ff133f400076a7e73%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": "The Fake Finger That Could Save Fortunes: MIT Spin-Out Raises $10M For Touch-Inspired Measurement Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-24-the-impact-of-ai-bay-area-experts-discuss-the-meaning-of-artificial-intelligence-and-how-it-will-affect-the-economy-and-society.md",
       "title": "The impact of AI: Bay Area experts discuss the meaning of Artificial Intelligence and how it will affect the economy and society",
       "excerpt": "At a Dec. 9 forum hosted by the San Francisco Business Times, three panelists discussed how businesses can leverage AI to drive innovation, the impact AI will have on the economy and on society, and the meaning of artificial intelligence itself.",
@@ -2179,6 +2000,170 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-3-chinese-stocks-poised-to-benefit-from-the-phase-one-trade-deal.md",
+      "title": "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal",
+      "excerpt": "Also helping Baidu's stock in 2020 is wins in the artificial intelligence market and progress with its efforts related to self-driving vehicles. Shares of Baidu got a good boost on news of phase one of the trade deal but since then have slumped. Year-to-date, the stock is down 2%, which could present a buying opportunity. Wall Street has a $144 ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx",
+      "publishedDateTime": "2020-01-28T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554783%2Ftrade-war-stocks-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-advantages-of-machine-learning-and-data-analytics-courses.md",
+      "title": "Advantages of Machine Learning and Data Analytics Courses",
+      "excerpt": "Advantages of Machine Learning and Data Analytics Courses: Considering that the data enormity is consistently on the rise, the urgent need to figure out such methods that can help to gain valuable insights on the same can be felt. As a result, the demand for professionals with adequate data science skills cannot be neglected. There is no ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/",
+      "ampWebUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "cdnAmpWebUrl": "https://www-newznew-com.cdn.ampproject.org/c/s/www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "publishedDateTime": "2020-01-27T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seat",
+        "domain": "newznew.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newznew.com/wp-content/uploads/2020/01/892730_f4e5_3.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Advantages of Machine Learning and Data Analytics Courses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-ai-and-disinformation-join-nukes-in-the-race-for-armageddon.md",
+      "title": "AI and disinformation join nukes in the race for armageddon",
+      "excerpt": "Some analysts say China is surging ahead with the development of artificial intelligence (AI), and perhaps even dominating the field. Huawei's founder Ren Zhengfei would beg to differ. The US government has yet to figure out the implications of AI, but China hasn't even started thinking about it, Ren told the World Economic Forum in Davos last ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "publishedDateTime": "2020-01-27T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and disinformation join nukes in the race for armageddon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-ai-can-boost-radiation-therapy-for-cancer-patients.md",
+      "title": "AI can Boost Radiation Therapy for Cancer Patients",
+      "excerpt": "Artificial intelligence (AI) can now instantly translate complex clinical data into an optimal plan of attack which can help cancer patients start their radiation therapy sooner and thereby decrease the odds of the cancer spreading, reports a new study.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.medindia.net/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm",
+      "ampWebUrl": "https://www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm",
+      "publishedDateTime": "2020-01-27T23:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/zika-virus-kills-brain-cancer-cells.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": "AI can Boost Radiation Therapy for Cancer Patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

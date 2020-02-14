@@ -114,6 +114,21 @@ related:
       - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/02/January-2020-us-top-startup-fundings.jpg"
         width: 1000
         height: 525
+  - title: "Fintech Firm Ramp, which Offers Corporate Credit Cards, Secures $25 Million in Funding"
+    excerpt: "Ramp’s team has a diverse background from companies in the Fintech sector, such as Affirm’s former vice president of engineering, executives from Plaid and Atrium, and product engineers from Facebook’s AI research team. Ramp’s team members also come from the Google research division, Capital One, Goldman Sachs, Apple, and Lyft."
+    publishedDateTime: 2020-02-14T04:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157459-fintech-firm-ramp-which-offers-corporate-credit-cards-secures-25-million-in-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157459-fintech-firm-ramp-which-offers-corporate-credit-cards-secures-25-million-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157459-fintech-firm-ramp-which-offers-corporate-credit-cards-secures-25-million-in-funding/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Credit-Card-600x578.jpg"
+        width: 600
+        height: 578
 
 secured: "UGkuO6f+RND+xUVispJaL5nLBpryPMdgizrUuYKlIGDJOcUVc4DG5dbf/TzgaMJ2lA3CZfUt0wAuxK77gw6pe2+fMVwDtiYxlvyrkGkDK2AS1PyJKMfyquO5FY73MUGhw1RTaqzl3bFjBlAOuI+X1PqT+RsV3xkV4uILBriSCRSrhogxs1rb6yimpY3Ckj5VM0l2e6LDipOMDNLJFplYo41/kCghqBiJPTu/pIZlmt1Qfr4es2T3v7LLMjS5IWI0eW6XSJv7cRM4XSsxA95EBTt4lCL6hpmoDSpXntpF4WSe5JR3xrv8u8iTMSasJJc5zXZhrTpWmMPBTOReF4OQnUC094sAQBH5gN4HFUEtoEnRqFqkvFWc/MACE/HCgRmjLbHryLWg50IJp4hMGVVW5IrUh62MDokQZwCggPWJlYM/ebBib0QUdK64RJGulSvI9aHPkMS8fLb7ToLksQXD140vYXLJWNt8XR/cZZUQkdY=;0M2TUhzWrV0sBKpiY3LxkA=="
 ---

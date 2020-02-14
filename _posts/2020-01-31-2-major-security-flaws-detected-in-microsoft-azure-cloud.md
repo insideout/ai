@@ -35,17 +35,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/ceb60455-dec4-4a4b-9359-2712746d6986/gartner-cloud-spend-2020.png"
         width: 823
         height: 557
-  - title: "Security researchers discover 2 major security flaws in Microsoft Azure Cloud"
-    excerpt: "Researchers at Check Point were able to prove that a hacker could compromise tenant applications, data, and accounts by creating a free user in Azure Cloud and running malicious Azure functions."
-    publishedDateTime: 2020-01-30T12:50:00Z
-    webUrl: "https://www.hindustantimes.com/tech/security-researchers-discover-2-major-security-flaws-in-microsoft-azure-cloud/story-1ub2n4B8B2RBxvWeZxACKM.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/security-researchers-discover-2-major-security-flaws-in-microsoft-azure-cloud/story-1ub2n4B8B2RBxvWeZxACKM_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/security-researchers-discover-2-major-security-flaws-in-microsoft-azure-cloud/story-1ub2n4B8B2RBxvWeZxACKM_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 51
   - title: "2 major security flaws detected in Microsoft Azure Cloud"
     excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
     publishedDateTime: 2020-01-30T17:57:00Z

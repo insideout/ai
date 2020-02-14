@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-auto
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "AI And Automation: Together Forever?"
 
 related:
+  - title: "From Process Automation To Autonomous Process"
+    excerpt: "The big idea of AI and cognitive technologies is to address and tackle problems that require human cognitive capabilities. Organizations looking to pursue the path need to have the desired end state in mind: full autonomous business process."
+    publishedDateTime: 2020-02-14T05:23:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f554a78b3f4000623f36b%2F0x0.jpg"
+        width: 1200
+        height: 742
   - title: "Artificial Solutions and Blue Prism Partner to Add Conversational AI to Business Automations"
     excerpt: "About Artificial Solutions Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise ..."
     publishedDateTime: 2020-02-12T07:42:00Z

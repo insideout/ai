@@ -2,161 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/_archive/2019-12-18-why-some-cities-states-and-lawmakers-want-to-curb-facial-recognition-technology.md",
-      "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
-      "excerpt": "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/",
-      "ampWebUrl": "https://amp.usatoday.com/amp/2680483001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001",
-      "publishedDateTime": "2019-12-17T16:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/11/19/USAT/4673ca8f-44ed-4dcf-99a0-2c54536bf6fc-AFP_AFP_1LW6JF.JPG?crop=3104,2328,x175,y0&quality=50&width=640",
-          "width": 640,
-          "height": 480,
-          "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-19-12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks.md",
-      "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
-      "excerpt": "However, previous research in visually-grounded language understanding have been mostly task-specific. Researchers from the Facebook AI Research, Georgia Institute of Technology, and Oregon State University found that the skills required for different V&L ...",
-      "heat": 65,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/syncedreview/12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks-e4553d91599d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*0vHYTrZBDprt8NP4KByFkg.png",
-          "width": 1200,
-          "height": 419,
-          "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-19-tiny-robotic-insect-can-withstand-multiple-heavy-hits-from-a-fly-swatter.md",
-      "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-      "excerpt": "Scientists have pulled inspiration from insects in order to create a tiny ... It might sound like science fiction, but it's actually more plausible than you might think.' It is also designed ...",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "publishedDateTime": "2019-12-19T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2019/12/19/17/22463342-0-image-a-30_1576777846491.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-ai-accelerator-card-offers-face-object-recognition-applications.md",
-      "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
-      "excerpt": "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/computervision.jpeg",
-          "width": 400,
-          "height": 258,
-          "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
       "title": "Computer Vision and the CCPA: What You Need to Know",
       "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
@@ -2117,6 +1962,186 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-03-how-maria-brodskaya-uses-virtual-reality-for-art-therapy.md",
+      "title": "How Maria Brodskaya Uses Virtual Reality For Art Therapy",
+      "excerpt": "Artist, educator, and entrepreneur Maria Brodskaya merges classical performance, neuroscience, holistic body practices into one-of-a-kind virtual reality art aimed to heal the viewer.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stephanrabimov/2020/01/03/how-maria-brodskaya-uses-virtual-reality-for-art-therapy/",
+      "ampWebUrl": "https://www.forbes.com/sites/stephanrabimov/2020/01/03/how-maria-brodskaya-uses-virtual-reality-for-art-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephanrabimov/2020/01/03/how-maria-brodskaya-uses-virtual-reality-for-art-therapy/amp/",
+      "publishedDateTime": "2020-01-03T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x401/https://specials-images.forbesimg.com/imageserve/5e0eddb94e291700061a5f4e/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 401,
+          "title": "How Maria Brodskaya Uses Virtual Reality For Art Therapy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-03-seismic-horizons-detection-using-computer-vision.md",
+      "title": "Seismic horizons detection using computer vision",
+      "excerpt": "The complexity of seismic data interpretation and analysis is mainly connected with the fact that for each task requires an individual approach, since each dataset is unique. Manual processing requires significant labor costs, and the result often contains ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/seismic-data-analysis-using-ai/seismic-data-analysis-using-ai-3ce18a18fbb?source=---------2------------------",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-03T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/0*qrI00-KHLcVXzTbq",
+          "width": 800,
+          "height": 581,
+          "title": "Seismic horizons detection using computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-03-snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m.md",
+      "title": "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M",
+      "excerpt": "The company has acquired AI Factory, a computer vision startup that Snap had worked with to create Snapchat’s new Cameos animated selfie-based video feature, for a price believed to be in the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/amp/",
+      "publishedDateTime": "2020-01-03T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Snapchat-Cameos.png?w=1024",
+          "width": 1024,
+          "height": 553,
+          "title": "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-03-why-baidu-is-a-better-ai-stock-than-google.md",
+      "title": "Why Baidu Is a Better AI Stock Than Google",
+      "excerpt": "It assigned Baidu to the development of self-driving cars, Alibaba to smart cities, Tencent to digital healthcare, and iFlyTek to voice recognition. Baidu also launched a state-backed engineering laboratory for deep learning technologies like computer vision, machine hearing, biometric identification, and human-computer interactions.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
+      "publishedDateTime": "2020-01-03T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552239%2Fgettyimages-664246660.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 525,
+          "title": "Why Baidu Is a Better AI Stock Than Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

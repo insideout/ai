@@ -44,17 +44,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 54
-  - title: "Security researchers discover 2 major security flaws in Microsoft Azure Cloud"
-    excerpt: "Researchers at Check Point were able to prove that a hacker could compromise tenant applications, data, and accounts by creating a free user in Azure Cloud and running malicious Azure functions."
-    publishedDateTime: 2020-01-30T12:50:00Z
-    webUrl: "https://www.hindustantimes.com/tech/security-researchers-discover-2-major-security-flaws-in-microsoft-azure-cloud/story-1ub2n4B8B2RBxvWeZxACKM.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/security-researchers-discover-2-major-security-flaws-in-microsoft-azure-cloud/story-1ub2n4B8B2RBxvWeZxACKM_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/security-researchers-discover-2-major-security-flaws-in-microsoft-azure-cloud/story-1ub2n4B8B2RBxvWeZxACKM_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 51
 
 secured: "hEqpWoApweky7miQNFNtKLcbvQafKUGFIVkj+zs4+nVySwHC2dIsjau8Emo3pbJZDLLnzJgDZ1mEj7KbNBR1luGbxIJCt0UYzdiIJNBowL9MSe4MCNuSAQdtLrX3sqHubCBunOdgic3tAuoOfkCv5i3xLDgyHv+cUxOBvHVskJRV6kys7/yLUa0VKd6VvEVTtXnS2p4kWHTMwJBKRlq/kIZHXkqU3CamBeHS06xi0tLFrTtffiyGsqcooBUwgHyxdMD600uYK9UPA5xHfeIlSdBQUx0fPfB1Avf1k9ijHYe9viacJ976AhP2exn9q/gg;fe8r9yC426X92GCOdXg1Jg=="
 ---

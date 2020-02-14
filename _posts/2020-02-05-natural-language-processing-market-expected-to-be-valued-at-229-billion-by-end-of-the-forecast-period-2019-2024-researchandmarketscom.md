@@ -18,54 +18,59 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029"
-    excerpt: "Global Natural Language Processing Market, revenue was xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2029, with a CAGR of x.x% during 2019-2029. The report published by Prophecy Market Insights covers detailed segmentation as mentioned below - By Type: – Rule-Based – Statistical – Hybrid By Technologies: – Recognition – IVR – OCR – Speech Recognition – Text Processing – Pattern & Image Recognition Download Sample of This Strategic Report: https://www."
-    publishedDateTime: 2020-02-12T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-development-scenario-and-forecast-to-2029-2020-02-12"
+  - title: "Deep Learning Software Market Will Reflect Significant Growth Prospects during 2019 to 2026"
+    excerpt: "Ameco Research announced the latest market research report on \"Global Deep Learning Software Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Deep Learning Software Market,"
+    publishedDateTime: 2020-02-05T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-will-reflect-significant-growth-prospects-during-2019-to-2026-2020-02-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 39
+  - title: "Robotics Market size Witness Growth Acceleration During 2025"
+    excerpt: "Venture capitalists have opened up to funding companies designing and manufacturing industrial robots. Advancements in artificial intelligence and development of sophisticated sensors are projected to augment the development of self-programming robots. Make an Inquiry before Buying: https://www.trendsmarketresearch.com/checkout/3132/Single In ..."
+    publishedDateTime: 2020-02-05T08:23:00Z
+    webUrl: "https://www.openpr.com/news/1919614/robotics-market-size-witness-growth-acceleration-during-2025"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Neural Network Software Markets, 2025"
+    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"Neural Network Software Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Neural Network Software Market was valued at USD 8."
+    publishedDateTime: 2020-01-31T11:16:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1978041/0/en/Neural-Network-Software-Markets-2025.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 19
+  - title: "Artificial Intelligence in Cybersecurity Market to Witness an Outstanding Growth during 2019-2030 | Intel, NVIDIA, IBM,"
+    excerpt: "Latest research report on ‘Global Artificial Intelligence in Cybersecurity Market’ delivers essential information ... IoT devices are used extensively by the healthcare, finance, and infrastructure sectors. The increasing number of connected devices and the growing need for the IoT have significantly contributed to the growing demand ..."
+    publishedDateTime: 2020-01-31T12:28:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38123/artificial-intelligence-in-cybersecurity-market/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 15
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
+  - title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application, Geographical Outlook - Global Industry Analysis and Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's ..."
+    publishedDateTime: 2020-02-05T09:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005339/en/Global-Artificial-Intelligence-Agriculture-Market-Expected-Grow"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20200205005339/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
-    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9."
-    publishedDateTime: 2020-02-13T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"
-    excerpt: "Segmentation by Technology: Acoustic digital video fingerprinting, Digital audio, video image watermarking, Optical character recognition, Speech recognition. Segmentation by Industry Vertical: Avionics, E-Commerce, Consumer Electronics, Media and Entertainment, Transportation and Logistics, Banking, Financial Services, and Insurance ..."
-    publishedDateTime: 2020-02-12T21:40:00Z
-    webUrl: "https://apnews.com/9d4f89708f92d191e5c9a10e51f0fd86"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "Voice Assistant Market Innovations, And Top Companies – Forecast To 2029| Amazon Inc, Google Inc, Apple Inc"
-    excerpt: "Segmentation by Technology:, Speech Recognition, Speech Recognition System, Speaker Dependent Systems, Speaker Independent Systems, Natural Language Processing (NLP), Text-to-Speech Recognition, Voice Recognition. Segmentation by Application: Messenger Bots, Websites, Contact Centers. Segmentation by End User: Individual Users, SMEs ..."
-    publishedDateTime: 2020-02-12T20:18:00Z
-    webUrl: "https://apnews.com/Wired Release/f77df562f1ed5f919f28a22f80c01d58"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+        height: 627
 
 secured: "K4pEQ3VoOt1JNsf8hNKiOkvKWo20XRuM8zai2YurqmTtn2FTfKNJogFzbY/IFFgHz5CJhiGFoUWY6CxjK6+vcWhqfJo9mlO4O1dV77fdZ4buaizU2zujocdQczgvcfbK5doW6BlmCFkOhO8xO1JN3O8BrVfUDvflnVVyH4avkCQPLFhFjmnVNAUwjNQfQc2lzADbTfovYkFlRvB4t6OPxVPAK+4KdDmqwJi+yGjNirIB8+AVN3CL+9Yxpk0qtRfxsMSMswujxmdTw/tVAZ/Z9sgUP4YYVoF0CZ4nA3FbR+DSoCb+8SzYtISEnoWWbOixSBFb6VYUii/onnM+I3KABR5XlFWyoKffIE60VOslx4iMqbb2mmwQ9HRZx71p2h6o1wB2GaVG7nPR9r6RZe9RaC+YHBg7PgWRlmAu7hfcrG9UGypB4Tf3Xdit3tUrSUSvj/QsszJI/84ECAVJT4oU7Y5H2WQR/I4ggKHN4kuxJlE=;uHzxZJ3LZbW6SR130JCnEw=="
 ---

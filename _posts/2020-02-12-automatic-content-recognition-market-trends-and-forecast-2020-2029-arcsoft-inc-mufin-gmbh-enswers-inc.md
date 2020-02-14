@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T21:40:00Z
 webUrl: "https://apnews.com/9d4f89708f92d191e5c9a10e51f0fd86"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -24,40 +24,14 @@ images:
     title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"
 
 related:
-  - title: "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029"
-    excerpt: "Global Natural Language Processing Market, revenue was xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2029, with a CAGR of x.x% during 2019-2029. The report published by Prophecy Market Insights covers detailed segmentation as mentioned below - By Type: – Rule-Based – Statistical – Hybrid By Technologies: – Recognition – IVR – OCR – Speech Recognition – Text Processing – Pattern & Image Recognition Download Sample of This Strategic Report: https://www."
-    publishedDateTime: 2020-02-12T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-development-scenario-and-forecast-to-2029-2020-02-12"
+  - title: "Trending News For Automotive Voice Recognition Market 2020 Analysis, Forecast Of Business Revenue, Size, Leading Competitors And Growth Trends"
+    excerpt: "Automotive Voice Recognition Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-11T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-automotive-voice-recognition-market-2020-analysis-forecast-of-business-revenue-size-leading-competitors-and-growth-trends-2020-02-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
-    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9."
-    publishedDateTime: 2020-02-13T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
-    publishedDateTime: 2020-02-05T12:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
     quality: 0
   - title: "Voice Assistant Market Innovations, And Top Companies – Forecast To 2029| Amazon Inc, Google Inc, Apple Inc"
     excerpt: "Segmentation by Technology:, Speech Recognition, Speech Recognition System, Speaker Dependent Systems, Speaker Independent Systems, Natural Language Processing (NLP), Text-to-Speech Recognition, Voice Recognition. Segmentation by Application: Messenger Bots, Websites, Contact Centers. Segmentation by End User: Individual Users, SMEs ..."

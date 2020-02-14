@@ -65,6 +65,41 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
         width: 960
         height: 640
+  - title: "Facing facts: Reject a blanket ban on face recognition"
+    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
+        width: 1200
+        height: 799
+  - title: "Facial-recognition tech may have value, but real-time surveillance goes too far"
+    excerpt: "If you stroll through some parts of London, facial-recognition systems linked to street cameras analyze whether you look like someone wanted for a crime. This technology isn’t very accurate — it often makes false matches — and warrantless surveillance that can identify people in public in real time corrodes individual rights that ought to ..."
+    publishedDateTime: 2020-02-04T09:29:00Z
+    webUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 20
+  - title: "NY Senate bill would ban police facial recognition technology"
+    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
+    publishedDateTime: 2020-02-06T00:26:00Z
+    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
+    type: article
+    provider:
+      name: The Daily News Online
+      domain: thedailynewsonline.com
+    quality: 19
 
 secured: "MjwqSxBjJxnxhRjPw2hJA7ck1GCWZgtEaKvjBYGxgkZidluyHSueMpXux/y3e6rnGO1eIZcmfXvZwCiXvTFby3RukM60gAaIrlzTRmsbjmyiMY3HlS+yG8dUtFqzcooyj98cjAKLAbWLJcfZRcN7/1gspm/rIkpb1rhHpASX+pvmvpZqY657ylI4E4D/KMW0+agdQ7b/cKll4YUfPtqN5vKXgpvAYO5+FOpgjGVxLCRWvipi8yEtvGnUPEx1nFhZqKmoam/P2+KW5j8liW7hlRPBPDPr227BQS2JRF1k5KlakbHAXGvVNOJ7RxNzriDQsth6dAuxybX+Z2jaO2XH7LQLDLDdvnEAvMAcGdKQBV979wj+sDumO6pmb+D5kuIbAWdt1+ffGJzmIME6p39zEUEHnCgKAAYpuJGqdaoQFfR8hjW5enBldPEPBwH+z2GKH0KJ369g+uM6hCXBTuI10SjkrbXlabkPfanT7KhIABc=;s69ZBXWvmOIRngtSJWorSg=="
 ---

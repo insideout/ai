@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recogniti
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
 type: article
 quality: 89
-heat: 119
+heat: 149
 published: true
 
 provider:
@@ -56,6 +56,21 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
         width: 960
         height: 640
+  - title: "Facing facts: Reject a blanket ban on face recognition"
+    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
+        width: 1200
+        height: 799
   - title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
     excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
     publishedDateTime: 2020-01-31T15:00:00Z
@@ -69,6 +84,26 @@ related:
       - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
         width: 3135
         height: 2008
+  - title: "Facial-recognition tech may have value, but real-time surveillance goes too far"
+    excerpt: "If you stroll through some parts of London, facial-recognition systems linked to street cameras analyze whether you look like someone wanted for a crime. This technology isn’t very accurate — it often makes false matches — and warrantless surveillance that can identify people in public in real time corrodes individual rights that ought to ..."
+    publishedDateTime: 2020-02-04T09:29:00Z
+    webUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 20
+  - title: "NY Senate bill would ban police facial recognition technology"
+    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
+    publishedDateTime: 2020-02-06T00:26:00Z
+    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
+    type: article
+    provider:
+      name: The Daily News Online
+      domain: thedailynewsonline.com
+    quality: 19
 
 secured: "2LM6L5+5R/OIMr9Xiz8Q8eU+c1XToDiPn8RNaMvR0/CBwAlzfXoeo4kO3DUtoRy2HESygFYurHJ4GKRU0IgdOASYOSJmP+bmH2sodFOmu/1alaYzvcQkIigkKjukGk8efHM3zvk+0v2SJq+Y/Ogz4NOu7DV50oba+JN6es44WVON+pgQ+UDIM0kiWxBWS88YxAKO/IsMVk4jdt378fEZ2gyGQMd6vG3+Z2eO/B/tpAizuW21dbliXmy/JH1/Moga0h/MSRp93tNpPv6jD5ehz8jZKZYIV0HwwZ4gJD9YA6MSaEqbRNFOasS3206V6+AueCesmAmttOwWWpmn457gDddGCZy6ZAUFcl1iIwzjKe7vt9gIKNqqRs+j3XpgfX1nJMyu+vtLT1RZaQ8ffCp2RTBCXTK8FkCi627ATBDTZzzTcDJvwGe5WqWNcagZrKL6vAvs397reAYPrhk6h35a8z9EnNo0nhH6Hf8TyFaJVM4=;hacR1dq0zkrYIez46mxX7w=="
 ---
