@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1920
     height: 1080
     title: "Government releases guide for AI use in the public sector"
-
-related:
-  - title: "Tech leaders issue calls for AI oversight. Where should government begin?"
-    excerpt: "In absence of regulation, business has sought to regulate itself. Some larger organizations are appointing a chief AI ethics officer or other similar oversight positions to focus on overseeing the ethical dimensions of AI, with a sharp focus on reducing bias and harm. Others, such as IBM, have internal teams working on an AI regulatory ..."
-    publishedDateTime: 2020-01-30T16:49:00Z
-    webUrl: "https://www.ciodive.com/news/tech-leaders-ai-oversight-government/571234/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 38
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/0f/91/0f91bf6beaed19556f0d09271f5c61e8.jpg"
-        width: 770
-        height: 364
 
 secured: "XekaRAMgZlSDyZsNsUk8zflnNvgGES+/ulfWXDzVso9hFikavSFzzYe08lgf5kYa6ubHPy7+TZufVTNiJ3CHN0qxKm7PLnBR4iPejQ4qmMNqBogyvdbtkUWPYqXT0xqzeOX1wM4nMJqWFHBeQ8nSqeZqwouGDp+2dtH5aUTq/5+0E51d66Z/BJ10otohzC0VFaGvNku1bMmAUAYsLdg8qaRr9ww8PJDrN8eyEBiaysFqP9lgY8pAJRb96bgku6gKqRUMr8ZO0cg1eD7d/l2GnhIO6E/pgqL8Vttgv4qLkJ2Zv002NjkVtfOQlgZEB75W;3fyoq4EjdbhWDgu+p09gdg=="
 ---

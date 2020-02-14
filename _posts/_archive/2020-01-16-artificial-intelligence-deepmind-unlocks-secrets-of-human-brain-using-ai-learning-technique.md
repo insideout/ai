@@ -38,6 +38,6 @@ related:
       domain: newscientist.com
     quality: 54
 
-secured: "ttK7lsGZJeQ7QMMFwBIrVImxqqZDgShIEfhox/QsmwrYuLepxG4S2SHoUu/RbxALOfUJQhg+exYaJaed3dC/tmAmAi3/IBHKPOxNTRfXAtA8iWVANDdyOnhHF3J6VBCw94dY7huRRCan3j+cd6Cu6uxOEu5569EHNF8GVPmh/YtHziXA1aAUiCx/uPUkvRmDl4l5857V6I8dCG/pXyU/JzXjLP5SPTTc2Dsn0XRFw1oQJMXwfew3HmC8u6H38tgrb7ikeU4n9xl/2r1r5tddhRy9j/l/y6R1rLTp3dxLZ2qolPzC1kYxHxl72Jt1cxH3;M4DAZoN8ze1qMPhqlv4YLA=="
+secured: "wy9VsO6SEgrad5s+9i96K58CohU90Yn0T+jvK9YR6Ii0vcu4HT1dQBFeLBfyqsOr/cquBSV00fi3aN3khgs0kCtK7Dsln8IphxXmd+UtF+jZlCsv0oBifss+dthoB/Vv/ytoZAGWqqJdYZ0Kd2KOPPV8zvyYnCW91MBFu4OO9o8T1CGJTX6ek23fPo6I/vsu+wBsxoryG2wlOTwfEQw/ptVwHaifwE4AJrmiooEFOMn3hmeGy/syOVOuUZVEzj5YpksZUvDD47CfbNIOqYd1lVSogILvchsbrIx9XMyZiR9a6F5BlmzLnMoTYqUgGLoT;HSWsFp2HAppSVkN/oVV5Lg=="
 ---
 

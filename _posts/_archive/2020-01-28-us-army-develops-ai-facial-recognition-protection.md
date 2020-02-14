@@ -39,21 +39,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif"
         width: 1024
         height: 576
-  - title: "Moscow rolls out live facial recognition system with an app to alert police"
-    excerpt: "Moscow is the latest major city to introduce live facial recognition cameras to its streets, with Mayor Sergei Sobyanin announcing that the technology is operating “on a mass scale” earlier this month, according to a report from Russian business paper Vedomosti. It follows news earlier this week that London is integrating live facial ..."
-    publishedDateTime: 2020-01-30T16:13:00Z
-    webUrl: "https://www.theverge.com/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 187
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
-        width: 1400
-        height: 933
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
     excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
     publishedDateTime: 2020-01-27T09:55:00Z
@@ -1095,6 +1080,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "4XR5XTRONuJqcgDZqrjozlTXEFvpYZmDtuTMTam6WzE+393Z9YHj9fdFjhunMPbTeowMlOfV2hGSMcjEiaDWn7W7PlyNwEiqVG8mUSpHPAUM1/eD3C2ZTp4Rq3x/dH49Xs7gtC7jZu5EbQ6hAlzDxP8KkgxJM4NMheFMs/jaQfz/iKcO4O1zKvt5zOlxBdSheW5Vk0Tzm4Qw2kSViDUL3BgYt7dhUStzn5o7l0nNwWZRsStEELWedR2Q4g/WtBzSK6iPUZUBGoOv+A5Ib9BsbDSC0v0hvojYras1xLyJaimTZTE3QzQ5/X9AFAxAloL2;DrZSYk0yR3NIeExQMfQ5sQ=="
+secured: "O1MhMIda63dWkXZr6xsWNovrUEpxNyqkjJfqeQgWcU+G0asExXVeacSdzww+gVnlLXzQ+lgxl0Oi60taPZBHLoOXCJMmuZwn1IV5cAc8kO6856bJDo0Afa8zoPlMx0eRFNMaDJFlx2aUbeR0sb5qqnMps6U7sqFDTgs6xeaV8Gqd4Taa3JTMow2tVQgstzs4x1faDjNImSEK7H5D+tWJJt6wWcokARYDMT/RnCfC0jkouxh517nJB+LgGZVr/E1ODaATBL5PekD5FjGnwTgRrS9IrXxE6rJhSoIDQoFcrkYpsyqV3JoHAvQrEHzgS6Ho;Onioj20Qf4e+AcsKlBAYlQ=="
 ---
 

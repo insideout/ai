@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/03/ai-formulated-medicine-teste
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Engadget
@@ -29,34 +29,6 @@ images:
     title: "AI-formulated medicine to be tested on humans for the first time"
 
 related:
-  - title: "Drug designed by AI to enter human trials for first time"
-    excerpt: "Exscientia's system automatically analyses patients' genetic data and finds molecules that could be used in new medication Credit: Andriy Onufriyenko The first drug designed entirely using artificial intelligence is entering clinical human trials ... Rock Health for The Financial Times earlier this month suggested that AI, machine learning ..."
-    publishedDateTime: 2020-01-30T16:28:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 157
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg"
-        width: 1960
-        height: 1225
-  - title: "Now AI - The First Snowboard Binding Designed by Artificial Intelligence"
-    excerpt: "Now Bindings have teamed up with Addit-ion to produce the world's first rideable snowboarding binding designed by Artificial Intelligence. It may look straight out of sci-fi but we're told this thing is 25% lighter than a regular binding and built to charge fast. Get a first look above. ___ Since the magazine first started in 1995, Whitelines ..."
-    publishedDateTime: 2020-01-31T15:22:00Z
-    webUrl: "https://www.aol.co.uk/video/view/now-ai-the-first-snowboard-binding-designed-by-artificial-intelligence/5e343f9c27f25f1c0840da29/"
-    type: article
-    provider:
-      name: AOL.co.uk
-      domain: aol.co.uk
-    quality: 51
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C338&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2020-01%2F31%2F5e343f9c27f25f1c0840da29%2F5e343f9ce7b1d700015d1362_o_F_v1.jpg&client=amp-blogside-v2&signature=dfe66689ffb9ca16b2298052fd8a3df8e07d6285"
-        width: 600
-        height: 338
   - title: "Medicine created by artificial intelligence to treat obesessive-compulsive disorder first time"
     excerpt: "It has been created by a British start-up called Exscientia and Japanese pharmaceutical firm called Sumitomo Dainippon Pharma. Artificial intelligence has invented a drug molecule that will be used to treat patients who have obsessive-compulsive disorder (OCD) for the first time. It has been created by a British start-up called Exscientia and ..."
     publishedDateTime: 2020-01-31T08:41:00Z
@@ -72,19 +44,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg?itok=cVucXcjV"
         width: 918
         height: 506
-  - title: "First entirely AI developed drug green lit for clinical trial"
-    excerpt: "The drug candidate was created through the joint research of Japanese pharma company Sumitomo Dainippon Pharma and Exscientia, with the latter providing the Centaur Chemist AI platform for discovery. Andrew Hopkins, CEO of Exscientia, stated: \"We believe that this entry of DSP-1181, created using AI, into clinical studies is a key milestone in ..."
-    publishedDateTime: 2020-01-30T16:33:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2020/01/30/AI-developed-drug-goes-to-trial"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/ai-developed-drug-goes-to-trial/10654223-1-eng-GB/AI-developed-drug-goes-to-trial.jpg"
-        width: 788
-        height: 443
   - title: "Artificial intelligence-created medicine to be used on humans for first time"
     excerpt: "A drug molecule \"invented\" by artificial intelligence (AI) will be used in human trials in a world first for machine learning in medicine. It was created by British start-up Exscientia and Japanese pharmaceutical firm Sumitomo Dainippon Pharma. The drug will be used to treat patients who have obsessive-compulsive disorder (OCD). Typically ..."
     publishedDateTime: 2020-01-30T17:40:00Z

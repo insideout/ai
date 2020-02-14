@@ -20,6 +20,19 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
+    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
+    publishedDateTime: 2020-02-03T22:34:00Z
+    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 28
+    images:
+      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
+        width: 700
+        height: 394
   - title: "Poor resolution at the back of the tongue is the bottleneck for spatial pattern recognition"
     excerpt: "In daily usage, users should be able to recognize objects through mere bottom-up processing. Yet, to the best of our knowledge, there are no studies demonstrating bottom-up object recognition using tactile SSD which we would predict to yield worse recognition performance than those reported in the literature so far."
     publishedDateTime: 2020-02-12T10:11:00Z

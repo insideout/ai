@@ -1,35 +1,44 @@
 ---
 category: news
-title: "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month"
-excerpt: "LOS ANGELES (Reuters) - United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages. The UPS/Arrival partnership includes a minority investment from the world’s ..."
-publishedDateTime: 2020-01-30T17:30:00Z
-webUrl: "https://uk.reuters.com/article/us-ups-investment/ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month-idUKKBN1ZS2ZC"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
+title: "UPS and Waymo partner on self-driving parcel pickup"
+excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
+publishedDateTime: 2020-01-30T17:34:00Z
+webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
 type: article
-quality: 79
-heat: 179
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Retail Dive
+  domain: retaildive.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483128662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0S1ZS"
-    width: 817
-    height: 545
-    title: "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month"
+  - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
+    width: 770
+    height: 364
+    title: "UPS and Waymo partner on self-driving parcel pickup"
 
 related:
+  - title: "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month"
+    excerpt: "LOS ANGELES (Reuters) - United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages. The UPS/Arrival partnership includes a minority investment from the world’s ..."
+    publishedDateTime: 2020-01-30T17:30:00Z
+    webUrl: "https://uk.reuters.com/article/us-ups-investment/ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month-idUKKBN1ZS2ZC"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 79
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483128662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0S1ZS"
+        width: 817
+        height: 545
   - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
     excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
     publishedDateTime: 2020-01-31T11:52:00Z
@@ -58,34 +67,6 @@ related:
       - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
         width: 750
         height: 500
-  - title: "Waymo strikes deal with UPS to deliver parcels with self-driving vehicles"
-    excerpt: "Waymo, the self-driving technology developer, has announced that it’s partnering with UPS to start delivering parcels. Taking the opportunity to broaden its alliance with UPS, the company will start the beta test in Phoenix, AZ where its self-driving vehicles are already on the streets, much to the chagrin of the locals. Consumers aren’t ..."
-    publishedDateTime: 2020-01-30T16:54:00Z
-    webUrl: "https://www.consumeraffairs.com/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 58
-    images:
-      - url: "https://media.consumeraffairs.com/files/cache/news/Waymo_self-driving_vehicle_front_view_Andrei_Stanescu_Getty_Images_large.jpg"
-        width: 700
-        height: 467
-  - title: "UPS and Waymo partner on self-driving parcel pickup"
-    excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
-    publishedDateTime: 2020-01-30T17:34:00Z
-    webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 39
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
-        width: 770
-        height: 364
   - title: "UPS, Waymo partner to start self-driving package pickup"
     excerpt: "In the Arizona pilot, the vehicle will drive autonomously with a Waymo-trained driver on board to monitor operations. UPS invests in technologies that bolster its tightly integrated smart global logistics network. Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone ..."
     publishedDateTime: 2020-02-06T03:22:00Z
@@ -165,6 +146,6 @@ related:
         width: 1200
         height: 675
 
-secured: "jVgFVMV7SoJZQW8T40vLZ7MDDJa1///6guiuFdeQmR9THpjTDSBCYASPZb0/R2SDxi/ybK78cEFVdvtz4ifQsH5/VbiupDiRnGGIGjoDIOF9u7ITrrwxTlO1kaJ+OVR109egkQf5dHMsjOXQU/ArCEsj9n80kh9OkxWPUUpa43URsuDXoBVhXpZo0JvMTyfeFOj/z9Rgd6xnv2biXtSZx1Pows0OVgLcYAYoLxBNGmHL14/NJm15q00zk3I7ZFWirZ4Aug4DadRBf23ljcrebkoJPlOsSI7e4SmgVJVmZKQj0uWl+HOrWf5adM3ubVgQ;UsnoqP8HB2LV0f50hTUhuw=="
+secured: "pMgXweY0RXzQulKfIq6czsRYfLuyFYvWtLdurMeUeVDYenfBYTZaeyBsl2RsGw4Fm8yMLpkW74HK21TgCn4y5MAFjHXuC5iCU/O02tEi+1Z1Yu9Pprxs/Sk8dvmcJqQEow7SxwSIlTSM4amCiNRMHgnuPir7zuoW8DFgpBuqOHGQWln2u9/mvjO0Tm7nj4+V0vb3WQ5+tJtwJ2szXwsTJIRkJLEw5H/WbfsnFdYbx+y2o2d17QVYkn8eAncF1qbSeyDnNwi3O3YImEGCI5zto3nY0xwNCXtUJE9Wb6mdPn4GYYgNwIE1BeMzdPpPnxPa;AbySDrsOvStJSQP3cCTlBw=="
 ---
 

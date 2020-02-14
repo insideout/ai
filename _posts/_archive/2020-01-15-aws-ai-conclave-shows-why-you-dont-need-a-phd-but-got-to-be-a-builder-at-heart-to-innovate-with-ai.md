@@ -25,6 +25,6 @@ images:
     height: 300
     title: "AWS AI Conclave shows why you don’t need a PhD but got to be a builder at heart to innovate with AI"
 
-secured: "CaAJjMqnQi22FX/DMgWZz26NZH7EKYgDNma8PEYu9w5YymBA9BySz65jcRdb++GtuNRrSM7ZNZ8TJ+FhnrP2PRDEN2dTBJKlYUuHEDZlvXhWUcUyQGk1MLsCHFhmK1TCT7dpfrOByUFMFBotlfra8lOIhCLzBv5JqifBmkRLO8sDho9gcwb2AwbzLV9Wum2QUh/7KvCReFnwZjfzvLUIRFgCkI2EZSzRZZ2ivCJycCql+hfj6tqrUZWHAyXv18KmtAwa+XW3Ubmhpt3CYmSb8S/Z5F+EeCnFZzMvm2H2Lls1ontQy5od3n3tAm2dPhn/;rZPsQWu2BODM7S3FMIcyTw=="
+secured: "WoHT0bCzELVekeaPy/LlF1vtmQCX0mtC+JbZ0d+WgwrL5ZUd6tAS14+sI3YnwtAOaB9LR7IM48wdt4QvwSYgemWBfxJveO6vtehTDR/gMQ2lsYiMi5CWhwiDDFor9/XDSL7Qn/UmqmL1FYK5ZBYhhVX7Of556HyXSdt7eLiL498USaQiCdMtUexuUF+sAHmr9TF+IfmLXAmXX6EkrLfLXgQCHDG9PtvzUYDD88MS1d0UFCkgzM5NBNG3qcJeQefLSUDL7IyKdnQsqoWdHeEp4GCKBoD+h2HNpt0YFg6V9mOeIGP5s+RTVdhmSVIX/Awd;TWmVwM8fDLJOCfncDSRpQA=="
 ---
 

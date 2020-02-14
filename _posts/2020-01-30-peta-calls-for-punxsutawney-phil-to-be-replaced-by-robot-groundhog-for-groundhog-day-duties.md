@@ -26,21 +26,6 @@ images:
     title: "PETA Calls for Punxsutawney Phil to Be Replaced By Robot Groundhog for Groundhog Day Duties"
 
 related:
-  - title: "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot"
-    excerpt: "The organization suggests \"an animatronic groundhog with artificial intelligence\" to predict the end of winter. PETA is calling for Punxsutawney Phil to be retired and replaced by a robot ahead of Groundhogs Day on Sunday. The animal rights organization wrote a letter to the Punxsutawney Groundhog Club urging the the small town in Pennsylvania ..."
-    publishedDateTime: 2020-01-30T16:42:00Z
-    webUrl: "https://toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/"
-    ampWebUrl: "https://amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/"
-    cdnAmpWebUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/"
-    type: article
-    provider:
-      name: TooFab
-      domain: toofab.com
-    quality: 74
-    images:
-      - url: "https://toofab.akamaized.net/2020/01/30/groundhog-day-main-getty-1200x630.jpg"
-        width: 1200
-        height: 630
   - title: "PETA wants to replace Punxsutawney Phil with an animatronic AI"
     excerpt: "When we imagine the future of artificial intelligence, we tend to think of the technology making most human jobs obsolete. But if PETA has its way, an AI could also take over for the world's most famous groundhog, Punxsutawney Phil. In a letter signed by PETA founder and president Ingrid Newkirk, the organization calls on the Punxsutawney ..."
     publishedDateTime: 2020-01-30T18:41:00Z
@@ -54,21 +39,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f4006f0-438b-11ea-bdef-51a7d251189a%26client%3Da1acac3e1b3290917d92%26signature%3D37fd7a74081041878e390c3019f83230b1221166&client=amp-blogside-v2&signature=9048b5352ceee474a101d8f7c499c40859254e35"
         width: 1200
         height: 630
-  - title: "PETA calls for Punxsutawney Phil to retire from Groundhog's Day, be replaced with AI robot"
-    excerpt: "this week called for Punxsutawney Phil to be retired from his annual Groundhog’s Day tradition and be replaced with an artificially intelligent robot that could actually predict the weather."
-    publishedDateTime: 2020-01-30T16:44:00Z
-    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/480684-peta-calls-for-punxsutawney-phil-to-retire-from-groundhogs-day"
-    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/480684-peta-calls-for-punxsutawney-phil-to-retire-from-groundhogs-day?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/480684-peta-calls-for-punxsutawney-phil-to-retire-from-groundhogs-day?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 64
-    images:
-      - url: "https://thehill.com/sites/default/files/punxsutawneyphil_groundhogsday_getty01302020.jpg"
-        width: 980
-        height: 551
   - title: "PETA requests Punxsutawney Phil to be replaced with robot"
     excerpt: "The People for the Ethical Treatment of Animals (PETA) sent a letter to the Punxsutawney Groundhog Club requesting that the groundhog should be replaced with a robot. The letter signed by PETA President ... \"We even have the technology to create an animatronic groundhog with artificial intelligence (AI) that could actually predict the weather."
     publishedDateTime: 2020-01-31T04:04:00Z
@@ -114,30 +84,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/4/fe/4fecad13-567f-581f-9389-6488fe28e0ae/5e3444ac8df28.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-  - title: "A robot rodent instead of Groundhog Day’s Phil? Club organizers reply to PETA's request"
-    excerpt: "It's mere days before Groundhog Day, and PETA is calling upon the Punxsutawney Groundhog Club to stop using a live groundhog and begin using a robot to predict the weather instead ... in an animatronic rodent that would predict the weather using artificial intelligence. But despite PETA's best efforts, it looks like the Groundhog Club ..."
-    publishedDateTime: 2020-01-31T00:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/01/30/groundhog-day-2020-peta-wants-a-robot-to-replace-punxsutawney-phil/2858910001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/2858910001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2858910001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/4a27481b1e21d71baa0753942711dc546cb02e12/c=0-21-4379-2495/local/-/media/2017/02/02/USATODAY/USATODAY/636216233907056760-AP-Groundhog-Day.3.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-  - title: "PETA Wants An AI Robot to Be the Star of Groundhog Day"
-    excerpt: "What about Punxsutawney Phil, the groundhog we’ve all come to know and love?"
-    publishedDateTime: 2020-01-30T19:03:00Z
-    webUrl: "https://weather.com/news/news/2020-01-30-peta-wants-a-robot-to-be-the-star-of-groundhog-day"
-    type: article
-    provider:
-      name: The Weather Channel
-      domain: weather.com
-    quality: 34
 
 secured: "vw9+Wsq3kC+/1yRhXTlLD1eqXGQAyHideo8KrVqgED1ri33zERkbZ7/aqPUKEuc+0bV2cmNCiuXgrvJZHIBsMqoHMFURlZoNZcFtXy+eM14DRhaRsBqTKKccG3Hfbb7zfNrmNscVNPg9ZBm6IprTX6bmUnIpaKnFJZd+wLhbF6zFtXG1jbPLak9XClIYq+V1zmTt04rhujoUY9e2YJ7PzOMcOg6KFJdu1xsKy0QhVh+6CymWzKI86LzaSiPjs/UH04/dvkpM8zEhkNxLuPKElx81eJG7yQ0aTEH2o6osySj8wN1/Ux96mSH7rCsSbkwQeVWRF2RCrwdjx24/CKuHQVF6oGX8gS9nhOyAjnTnKuRxLozB2cxgQJJ+xP8067h//nCdXp4E5h418bW1hFZPUy1AVAodtoyEKfvgG8heK9SeH/U5yxqpWyh5+qFXKGTSBbvN4U6VcvpQkB1H8J4a+ZV6J9gmvvJQaCXwRw5vmag=;OSNXaRAqZ3lkSyJWMJSncg=="
 ---

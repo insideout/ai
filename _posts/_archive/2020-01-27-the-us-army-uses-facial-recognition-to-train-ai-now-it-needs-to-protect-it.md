@@ -45,21 +45,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif"
         width: 1024
         height: 576
-  - title: "Moscow rolls out live facial recognition system with an app to alert police"
-    excerpt: "Moscow is the latest major city to introduce live facial recognition cameras to its streets, with Mayor Sergei Sobyanin announcing that the technology is operating “on a mass scale” earlier this month, according to a report from Russian business paper Vedomosti. It follows news earlier this week that London is integrating live facial ..."
-    publishedDateTime: 2020-01-30T16:13:00Z
-    webUrl: "https://www.theverge.com/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 187
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
-        width: 1400
-        height: 933
   - title: "Frustration grows in China as face masks compromise facial recognition"
     excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
     publishedDateTime: 2020-02-05T18:51:00Z
@@ -1099,6 +1084,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "rH3ZoDLIo2e4c65UPJQlYehBUJrhZW2z8nQDLmthMF1gXANAZAZP5JxyKwUkJactzoluLXEJMGv4rAPXzsQw8/n36c+xyRTWXCOFBvH1JxdDuSoGlPIJ/gQwR7vhjpN+UIpqjgyDUl3Nq9yatIEA1grv+iysvMjsHLGZDGHphnXa843w9Bk6mMZzKDDvfA5C3bB7MvwetoLOA5LdWYrJWOzaMTxmVbjVzaAAQNgkn8MW/VxguiKPlT7Mx/n9nAISasPeMOLW+Ku6aol9ZWGjS7elOqFpnvhzaJJ6ulg1ov74tfCSHjHjHa9vMNxH4hGT;c9Z1/XdXFIfucx/F+f/JjA=="
+secured: "SzQqi36f65Yp8PDxmqwwiI4hHHuazr+T669uCRPXjFEhx8DBHGhVTPPsKdtV4BxkYSAuE3jbruDlH1xBChL0M4jrAtnQ26siiF8TVrUXU76DuIL2r5wEC/8xKshN4FknKuP5A3yQYGj4kwxCJXccKap3q+j2k3wGjNcjQoXR/HKDUd+VfggHDlH/SHwcIETcRXGYAeIYpwsMcBqJWLtVIFMt73mOKCzUzV8WwxcEw9mvCQI2cKdZKbRgeW5PXhYRHsyHvwKnyOVLp64SCwVvjUXf4CJXX+LoCY+Pjpnaayt1vQ65QKaWkrTVKZNkzNac;KbUson2nv5culLCekf972w=="
 ---
 

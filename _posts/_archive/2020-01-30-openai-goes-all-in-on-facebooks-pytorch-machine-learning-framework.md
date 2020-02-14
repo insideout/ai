@@ -1,15 +1,15 @@
 ---
 category: news
 title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
-excerpt: "In what might only be perceived as a win for Facebook, OpenAI today announced that it will migrate to the social network’s PyTorch machine learning framework in future projects, eschewing Google’s long-in-the-tooth TensorFlow platform. OpenAI is the San Francisco-based AI research firm cofounded by CTO Greg Brockman, chief scientist Ilya ..."
-publishedDateTime: 2020-01-30T17:00:00Z
+excerpt: "As of March 2018, it incorporates Caffe2, a deep learning toolset pioneered by University of California, Berkeley researchers and further developed by Facebook’s AI Research lab. While ..."
+publishedDateTime: 2020-01-30T17:01:00Z
 webUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/"
 ampWebUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
 type: article
-quality: 223
-heat: 233
-published: true
+quality: 104
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -21,9 +21,7 @@ provider:
 
 topics:
   - AI
-  - Google AI
   - Facebook AI
-  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?fit=1200%2C600&strip=all"
@@ -47,7 +45,31 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/pytorch3D-1.png?fit=2472%2C1314&strip=all"
         width: 2472
         height: 1314
+  - title: "How to learn PyTorch: A resources guide for developers"
+    excerpt: "Developed by Facebook, PyTorch is similar to Google's TensorFlow in that it runs on tensors, but instead of using static computation graphs like TensorFlow, it utilizes dynamic computation graphs. If you are interested in learning PyTorch, the following list of resources can help you get started. SEE: Hiring kit: Python developer ..."
+    publishedDateTime: 2020-02-07T19:08:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-learn-pytorch-a-resources-guide-for-developers/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg"
+        width: 1200
+        height: 718
+  - title: "Facebook acquires UK machine learning AI start-up Deeptide"
+    excerpt: "A regulatory filing at Companies House shows that Facebook now controls 75 percent or more of shares in Deeptide, which controls Atlas ML, the company behind the 'Papers with Code' resource for machine learning. According to unnamed sources from London's ..."
+    publishedDateTime: 2020-02-11T10:11:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-acquires-uk-machine-learning-ai-start-up-deeptide--1326126"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
-secured: "VELAZoW5+ZE+MPAmlHbIGKHEFEZYqL7G44CSXSfokZbdCYmt+PZjc24+kDkwLqtG5y9+0nWVY35WRvNOVrsA58Jk/lJ299biWRXtB25FS/1Xul8+pdcKq/yt26gzhvV3iyfL+UW69ffSklgy+Z5O31C/ilzfe5rJ/y7M357wE+9VILw4cn1Bf+XG6ycRyRs8wUJndc7DjIrUZS8w3yaFTkwdlMNRwajQjbP2hMbCEEONf8lDHcW5xG1rc6tfpbPjqzJ6/eM+fYjOkNGfeVSs7HJSF+taAzgpF0cZNwnVXQiaVfx6K6pnfb+9lORB6sAxb0MZKqwtXU4HEN7sCswlCXOkoO3E1ucZsYeV+Ehp2O98pffPiz+eoRtceLV1BYdeUg7oKjxvDYlfkD9kw6PLIwr1P2Cob9N2WyFtdY1Eebr3kqan5W8jt+TOppeqlijAy2sbfpvTHBs0I4/ANt8wKl8LQP6FurjHEzW/Vy4DAzewf9ydMDa3IBox0frUSG3W;BYeDRinnHflTNnjJiBeEzw=="
+secured: "JeRVyj7aUseGo3k6T8EL9f9BLE+P8KCmNudDjYnuSvL+XgrL3Z2LIpbc7GNgRV+HF8CO9rwXTRY1s/3TBSqAGtfat6GrZugVSoi6O17EgIwCmj/CI4IwhKg7SFnhLaHysB2glum+EufzIDPUmp+pKYPraBE8yHDJCiR0R3F4c9HfhY6bvKMRNAq8fEAhR2sH+hscR1KBCZ6si7U18sHZ2MUNjmRktjHPm0ZI6WKtHW1eu6WpoC3dOR44sf6+y0f6M6wJgNqFh8oZxqAw8oAqofGn8Nlg+9XrDjfEhg7IXi5WGjAwRYhV0MOI8JJE0Glo;6oVkna2JriE7PE0O88Y+qQ=="
 ---
 
