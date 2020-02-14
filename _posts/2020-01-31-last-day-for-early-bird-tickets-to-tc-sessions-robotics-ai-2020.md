@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/networking_header.png?w=1024"
         width: 1024
         height: 562
-  - title: "Stanford’s Doggo quadrupedal robot and siblings Pupper and Woofer are coming to TC Sessions: Robotics + AI"
-    excerpt: "Doggo’s creators will bring the diminutive robot, plus its smaller and larger siblings Pupper and Woofer, to TC Sessions: Robotics + AI on March 3. P.S. Early-bird ticket sales end this Friday — book your tickets today and save $150. We first heard of Doggo last year when the Stanford Robotics Club showed off the highly capable design ..."
-    publishedDateTime: 2020-01-30T18:32:00Z
-    webUrl: "https://techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/"
-    ampWebUrl: "https://techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/doggo_pupper.jpg?w=1024"
-        width: 1024
-        height: 484
 
 secured: "1RsZ9TygzfIDlaexUV2IFpUR1rR0Dj+rqV59RG+JZhwjxFBoeC2CHLOpvQYTrRmZyLCImwHaOJWleSexDggsuIENAwiZVy2VnnDI01GVUg0zfbbwtAVhSp+2WAm6gZIv6vPhENRLpppm3QkdHN9sMC8FAXW0WhyA3ZtC1nB4hW31FvZYSO9n4FRwuNb71k4NUyhteGQQ6dSYKmUIJtG5+qNH/xalDcc0hKar79v8JrwByd+Z8iiTjGt4WWiwTVYwZI1QZNZVfeIEFgsc2vdGnKcX4URECO+xTAbow92JeErudRxutpnEbfHI/FNYNW7TjHdxIU1AH2igsEpseypMIIxLfb5UQLe7RaBXo7xqGP56+dWzVGygeeyl6i3/cpbbDOAFbZhpcYiycnsFKRvJHSuWkmIU/xFDmtZyUnaTtkvOX1dHTWfmrzkBgF4voS/XJqVc1azDvN7lBiRBdQE+1VtoMA8MV0ApDZjLIsXdUkI=;Nklc5+HLevk0KOfbv2DFMg=="
 ---

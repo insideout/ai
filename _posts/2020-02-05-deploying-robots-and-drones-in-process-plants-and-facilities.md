@@ -37,6 +37,19 @@ related:
       - url: "https://www.roboticstomorrow.com/images/articles/14749.jpg"
         width: 680
         height: 295
+  - title: "Kitchener-based self-driving industrial robot maker Otto Motors expands into Japan"
+    excerpt: "Based in Kitchener, Otto Motors produces self-driving technology and vehicles that move materials within manufacturing and warehousing facilities. Altech is a trading company that imports advanced machinery and equipment from Europe and the United States (US) to support Japanese industrial companies. “Our innovative self-driving vehicles have ..."
+    publishedDateTime: 2020-02-14T11:02:00Z
+    webUrl: "https://betakit.com/kitchener-based-self-driving-industrial-robot-maker-otto-motors-expands-into-japan/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 18
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/otto-motors-via-twitter-1024x670.jpeg"
+        width: 1024
+        height: 670
 
 secured: "88AH/nI/6R2u9ZATQCvemnxbwDINFJKRBASJL9bUQnurjpjedr8jMSS7T5CPChUUw+gI0zbiQPk4rdVZp7a39/PouyE7SrV9Disitmnqt2I8taOLzfS3zrmeFKn80UdjuECaka+TliGTGirxRQa87mBZ9ZsInTVk0UQgquevRLwsCSoH8DNy+MTfFxgsCJz2xHgVJlysbZmJoVFbWC4F3nXCvlpcEqwjHXSAFwD0i3287eZrX8Yjn42VlNdnfmrztCuVuT/c0ppSqyz2f/Ue+ZfbT7E7Dh02QdeUFKwy9PDw+G1aU6so3hJ21iQlIxKr;OzMJwcclG46t5Mrxzwo5Nw=="
 ---

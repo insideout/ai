@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -31,6 +31,19 @@ images:
     title: "How AI Is Tracking the Coronavirus Outbreak"
 
 related:
+  - title: "AI Helps Diagnose Coronavirus"
+    excerpt: "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work."
+    publishedDateTime: 2020-02-14T11:36:00Z
+    webUrl: "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-154475/social"
+        width: 1280
+        height: 640
   - title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
     excerpt: "The combination of human expert and artificial intelligence can efficiently eradicate the spread of coronavirus ... Since the usage of AI in several areas of healthcare, like recognizing brain tumors and enhancing treatments, has been successful. Therefore if the technology is used in the case of coronavirus, also there are chances that ..."
     publishedDateTime: 2020-02-06T08:46:00Z

@@ -34,6 +34,19 @@ related:
       - url: "https://media.wired.com/photos/5e3dfca7e601630009b7e800/master/pass/Tracking-the-coronavirus-with-AI_1153872548.jpg"
         width: 2400
         height: 1350
+  - title: "AI Helps Diagnose Coronavirus"
+    excerpt: "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work."
+    publishedDateTime: 2020-02-14T11:36:00Z
+    webUrl: "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-154475/social"
+        width: 1280
+        height: 640
   - title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
     excerpt: "The combination of human expert and artificial intelligence can efficiently eradicate the spread of coronavirus ... Since the usage of AI in several areas of healthcare, like recognizing brain tumors and enhancing treatments, has been successful. Therefore if the technology is used in the case of coronavirus, also there are chances that ..."
     publishedDateTime: 2020-02-06T08:46:00Z

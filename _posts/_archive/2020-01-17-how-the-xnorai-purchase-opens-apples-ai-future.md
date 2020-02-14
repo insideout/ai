@@ -1,7 +1,7 @@
 ---
 category: news
 title: "How the Xnor.ai purchase opens Apple’s AI future"
-excerpt: "smarter person and object identification in Photos and smart object recognition in ARKit. Another place where Apple may be able to make a difference is in CCTV video, improving playback and person recognition systems in these. Wyze delivered this using ..."
+excerpt: "smarter person and object identification in Photos and smart object recognition in ARKit. Another place where Apple may be able to make a difference is in CCTV video, improving playback and person recognition systems in these. Wyze delivered this using Xnor.ai. Apple’s interest in HomeKit Secure Video and its focus on HomeKit, along with its ..."
 publishedDateTime: 2020-01-17T16:20:00Z
 webUrl: "https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.html"
 ampWebUrl: "https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.amp.html"
@@ -25,6 +25,6 @@ images:
     height: 800
     title: "How the Xnor.ai purchase opens Apple’s AI future"
 
-secured: "V58MFvtOhRUCrfEqMVL4HzL06LoQUy29iUv8lJU49hMlYq5aaVc97ukMK5620q4MMk7dlZaA9CjGkcKjK4nNDzdNMtKKJILStynF5vfSGqlBy5pBSwXHxQims15qImg6EE+NPImAXtG1qUW67gMNySpEjxpVfEBXQvUXiwHQk9rotrYV5HoNHxiHcOXRK8mlldg2Yd4zqjHZdrnbIRoqxV4p7Nei+D2RLKX7vL7Htif4twgLaFwHot3gaklJunPboZq3WKfQPuT6rZYQK8Nt45tCQdJhN/q0Pxd/LY0Oa+ieAUmqkDHzT1yIJeOSdjJ8;5879BowWJFsEgiV8ykUJvw=="
+secured: "Rw5IDoJAqn41jdAtHkAgAF274NUMXfXo1F0GqSZpHRedJfSazzC36PRPlrTTW1H0IPT4TWk3KktluDcOHT6sjnsmjv0Kw5EMQvkiEGCuPvQrgeFIZfdYKtVz0Z5cq195ceMbiccLMwJrCXn0kp2TJ7RLsB79u8focz22P29LxBzSH07UhGi7S1ojphQ0q8Ptmy1O1umaTa+V2xLMDHDCtVMX9jiGs5T3UFk/EH0/CCy427uCnpaEEIp0ft29v1cHrKHrQy+XBQGpzmKGMlVXQl2aXjEKXfrev8PTMTtwFnQ+iXbDfs563gHBmL6Zj8Em;fGpia45dMbB+AHMrRVdPMg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T11:52:00Z
 webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,19 +56,6 @@ related:
       - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
         width: 540
         height: 420
-  - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
-    excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet, in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed. UPS has been ..."
-    publishedDateTime: 2020-01-30T18:45:00Z
-    webUrl: "https://www.wsbtv.com/news/local/atlanta/ups-orders-10000-electric-delivery-trucks-plans-test-self-driving-vans/MYTOAPEMGRDB7GQCNGUNPUIPM4/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 22
-    images:
-      - url: "https://www.wsbtv.com/resizer/lf5q3ED7r8oQLkykvs0S_mPqlwI=/1200x628/arc-anglerfish-arc2-prod-cmg.s3.amazonaws.com/public/YTMIY4NHCZDOJD6DMFC3MYIFNA.jpg"
-        width: 1200
-        height: 628
   - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
     excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet Inc., in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed."
     publishedDateTime: 2020-01-31T18:50:00Z

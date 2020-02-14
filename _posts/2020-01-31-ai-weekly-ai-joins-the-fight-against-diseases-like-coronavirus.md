@@ -57,21 +57,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
         width: 600
         height: 390
-  - title: "Chinese hospitals start to use AI-powered robots to treat coronavirus patients"
-    excerpt: "A Chinese hospital has started to use two robots powered by artificial intelligence and capable of disinfecting themselves to help treat coronavirus patients. The pair of droids began to deliver medicine and food to sufferers as well as collecting bed sheets and medical rubbish yesterday in the province of Guangdong, said the local health ..."
-    publishedDateTime: 2020-01-30T18:29:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7948181/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 70
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/01/30/17/24093280-0-image-a-92_1580406667591.jpg"
-        width: 636
-        height: 382
   - title: "China working on robot development for coronavirus testing"
     excerpt: "according to Siasun Robot and Automation Co.Ltd. Based in Shenyang, capital of northeast China’s Liaoning Province, Siasun was founded in 2000 and listed on the Growth Enterprise Market in 2009. China has also called on the country’s artificial intelligence (AI) sector to lend their technological hands to help battle the epidemic."
     publishedDateTime: 2020-02-05T17:47:00Z

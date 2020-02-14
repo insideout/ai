@@ -40,6 +40,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "6YzYEL30OrtJI98FLboW4kPrOckPu4R8LFVTI5TI74goj7HyMir/owuNrhgTzKrH2gZL4FHwXdra4gqSVLhlCxTKqoev3RikwUShpJsEqSvB8sdFJeipAlJPByeNOwAjE/4//UbWF5s2F14fq7zklHThF41XyHCdj4SThe/edqtX7a0wkLV5DLDjZ59XgBshNVp/HkdcOW7VlyU4c+WhGnz8flPSdoZStEsFcf2KmjB5Tr4gQNZ+6jIWjsHaqPJPhDe1LTug5I+7rowDfGqzkPfGPLSFB1Ftfp9xjsVJ0eO0P/BmpxwmftK2V3PkKMF8;TU2GgjbdJ3SkduhfNEhipQ=="
+secured: "TZsaFt0Y5eOTMCUG/0wWOYH1XqMYJ8SPzSf5feo1VwHfPTT+xJojCqXC/FiJJIGgCWZhhJVKBh+kWJqYhBGYjxkaKbdKrx0Ewa9khIXi9R/41VhkLJFmLcMBNogeTGW3kv5ZxcaZLRc/X2PZBNEIqsJfX2Xl0bvDUbL9VRbZoF7XV6pRBQZDeJivmcQ+VbuufkqOT3l2mW2DH/vbM3ILJFeuI3eCGauVv47pRWqlliMsqZ2SNGeey5pz19j5kxTuN2M+Py13L1AG7vpDHlrhGWEUGRedcPRzmutvVZuJKfk08u+YJQ8kq2ZGYU8shlev;rvnNovgotwiV/S1IptT6bw=="
 ---
 

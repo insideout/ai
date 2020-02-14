@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T16:15:00Z
 webUrl: "https://sciencebulletin.org/machine-learning-technique-speeds-up-crystal-structure-determination/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,30 +24,6 @@ images:
     title: "Machine learning technique speeds up crystal structure determination"
 
 related:
-  - title: "Machine learning technique speeds up crystal structure determination"
-    excerpt: "The method uses a machine learning algorithm, similar to the type used in facial recognition and self-driving cars, to independently analyze electron diffraction patterns, and do so with at least 95% accuracy. However, the drawback of commercial EBSD systems is the software's inability to determine the atomic structure of the crystalline ..."
-    publishedDateTime: 2020-01-30T19:04:00Z
-    webUrl: "https://phys.org/news/2020-01-machine-technique-crystal.html"
-    ampWebUrl: "https://phys.org/news/2020-01-machine-technique-crystal.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-machine-technique-crystal.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
-  - title: "Crystal symmetry determination in electron diffraction using machine learning"
-    excerpt: "Automated phase identification is the first step in making EBSD into a high-throughput technique. We used a machine learning–based approach and developed a general methodology for rapid and autonomous identification of the crystal symmetry from EBSD patterns. We evaluated our algorithm with diffraction patterns from materials outside the ..."
-    publishedDateTime: 2020-01-30T18:55:00Z
-    webUrl: "https://science.sciencemag.org/content/367/6477/564.full"
-    type: article
-    provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 36
-    images:
-      - url: "https://science.sciencemag.org/sites/default/files/highwire/sci/367/6477.cover-source.gif"
-        width: 346
-        height: 440
   - title: "Machine learning automates identification of crystal structures in new materials"
     excerpt: "Providing a method for eliminating some of the guesswork from crystal structure determination, a machine learning-based approach to determining crystal symmetry and structure from unknown samples may greatly improve the speed and accuracy of this process. The new method brings crystallography into the high-throughput world of artificial ..."
     publishedDateTime: 2020-01-30T19:08:00Z

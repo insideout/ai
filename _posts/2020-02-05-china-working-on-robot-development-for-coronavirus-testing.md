@@ -63,21 +63,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
         width: 600
         height: 390
-  - title: "Chinese hospitals start to use AI-powered robots to treat coronavirus patients"
-    excerpt: "A Chinese hospital has started to use two robots powered by artificial intelligence and capable of disinfecting themselves to help treat coronavirus patients. The pair of droids began to deliver medicine and food to sufferers as well as collecting bed sheets and medical rubbish yesterday in the province of Guangdong, said the local health ..."
-    publishedDateTime: 2020-01-30T18:29:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7948181/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 70
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/01/30/17/24093280-0-image-a-92_1580406667591.jpg"
-        width: 636
-        height: 382
   - title: "AI used in the battle against the novel coronavirus outbreak"
     excerpt: "SenseTime, a Chinese AI pioneer, for instance, is using its super computing power resources to assist professors with research on the novel coronavirus. After receiving a request for more super computing resources, SenseTime has allocated 20 GPU server nodes for free to help Luo Haibin, a professor at the school of pharmaceutical sciences of ..."
     publishedDateTime: 2020-02-07T18:39:00Z

@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
-excerpt: "The combination of human expert and artificial intelligence can efficiently eradicate the spread of coronavirus ... Since the usage of AI in several areas of healthcare, like recognizing brain tumors and enhancing treatments, has been successful. Therefore if the technology is used in the case of coronavirus, also there are chances that ..."
-publishedDateTime: 2020-02-06T08:46:00Z
-webUrl: "https://www.cioreview.com/news/can-artificial-intelligence-prevent-coronavirus-from-spreading-nid-31151-cid-31.html"
+title: "AI Helps Diagnose Coronavirus"
+excerpt: "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work."
+publishedDateTime: 2020-02-14T11:36:00Z
+webUrl: "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202"
 type: article
-quality: 39
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://www.cioreview.com/news_new/sliderimage/3rido.25.jpg"
-    width: 300
-    height: 350
-    title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
+  - url: "https://images.wsj.net/im-154475/social"
+    width: 1280
+    height: 640
+    title: "AI Helps Diagnose Coronavirus"
 
 related:
   - title: "How AI Is Tracking the Coronavirus Outbreak"
@@ -39,19 +42,19 @@ related:
       - url: "https://media.wired.com/photos/5e3dfca7e601630009b7e800/master/pass/Tracking-the-coronavirus-with-AI_1153872548.jpg"
         width: 2400
         height: 1350
-  - title: "AI Helps Diagnose Coronavirus"
-    excerpt: "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work."
-    publishedDateTime: 2020-02-14T11:36:00Z
-    webUrl: "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202"
+  - title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
+    excerpt: "The combination of human expert and artificial intelligence can efficiently eradicate the spread of coronavirus ... Since the usage of AI in several areas of healthcare, like recognizing brain tumors and enhancing treatments, has been successful. Therefore if the technology is used in the case of coronavirus, also there are chances that ..."
+    publishedDateTime: 2020-02-06T08:46:00Z
+    webUrl: "https://www.cioreview.com/news/can-artificial-intelligence-prevent-coronavirus-from-spreading-nid-31151-cid-31.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
     images:
-      - url: "https://images.wsj.net/im-154475/social"
-        width: 1280
-        height: 640
+      - url: "https://www.cioreview.com/news_new/sliderimage/3rido.25.jpg"
+        width: 300
+        height: 350
   - title: "How Artificial Intelligence Is Transforming Businesses"
     excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
     publishedDateTime: 2020-02-11T17:21:00Z
@@ -101,6 +104,6 @@ related:
       domain: scmp.com
     quality: 19
 
-secured: "c35wR+SCqKuv7BGr0ah4YwczpjXk1X7IlSa1vwz7KEmnfRziMblRenEe8OqaX02KYXd+2ur0VCJ8VlidB6+yBzEWZPnuNxhDwe8pTPAy5SIvngLiWdpNVArtDv9t5sDzOmbcMqhaZ7K5tuvvYKcBPDVqYR/pAHVfAF9D/Y1OLDboaHA+/C6eSQvnt/XPB3tR3y9VOY05m0klkAUo5bINONsMLzjz+vNgmuYwj63o7ufYSNf8yi81hKXz454uy+Iou4wpNZIyhem9RudiH+nRq2ZFw9+v2ZY5c/pQ5/SnFevUpgRWjqjMkJmhHnOFUUpI;gykvd6IxlvGCzK0EaLOoMw=="
+secured: "G9hsvJQiqtUwomVvovh/Z38YZ2xj9wqGvz+RhvhsYfBCwDo510RF3BTuFt5d0Uuj3cwDGkFfbW4YhACheuGYqH7prgFASccN9l/foSDZmZZsfMA/1pkutfiMf6DAf7RD3079ZPf+JXl0ZsmhrnEny/ySkdBJSrMKr0IwO2YM/bGF0Ej4X19swViqUg9czA/SmLbRk/MHXnOKhmVhDLksVePiaxswQjORzUaDJAvX1VymJLQgtNqD7DBW3ZO/TrCVEyNiEt+BN+UaQ9YAi7/oXWmQXyMAdtrlVTzzNibCZVX+bVw38fZ4bthXKyMPIQdr;ufwkcc1Rq9kDMxHcvMWgNQ=="
 ---
 
