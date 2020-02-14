@@ -5,9 +5,9 @@ excerpt: "Why we care: The robots are coming for your playlists again, and they�
 publishedDateTime: 2020-02-14T16:26:00Z
 webUrl: "https://www.fastcompany.com/90464062/meet-travis-bott-the-travis-scott-twin-whose-music-and-lyrics-were-created-with-ai?partner=feedburner"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 137
+heat: 147
+published: true
 
 provider:
   name: Fast Company
@@ -22,6 +22,19 @@ images:
     height: 720
     title: "Travis Bott makes Travis Scott-like music, lyrics with AI"
 
-secured: "52By7d+LHrBoPNd7PSlpHCsMAJFogjosbpFna57NLVDFzJ28oDvx6Gtu0nm/yvpQOnX/Q8KrXRbFmQJ5cA5JimpnX1+ja1Eli2yL0V7Bjzp4OX32ARuUkZ8MCbpBLYv5v7o+CPQb4EgTBYi4TXas/dUxy+smUpCxoiTg0wYmpVqqyPGxdYkB2f3Tz+qLqOBOItlYxqAiSnMm1S5uYvw/YvnLizqX5PEb8VbpX+KWucZrPQ/k2m9NQp4tnlfrqNEMi3yqb/Z6Yjx6BTRZHuROv0J2LBGM7aLUf9t6hANiyuFX/QGR5aSqt2CDfdnneFlU+5FJrty545xiEWsSrIlMzl3Y+TNmMzIyY0+6UZgNNPkIZZMuaOuiB4y0d7Ps8INFFTJyPrweGUj3/0kyjqJ++2xeXjQxg+u0K+pI2a/dc3GoaQ0Cl8sSb4ZhUP1goAUYpehHE1jK1JRLkSgR1FHgFSL7VLLIIxaXh6d50NlaqZg=;R1cN/lHF+ndY2AB85Z19Hg=="
+related:
+  - title: "Artificial Intelligence Created a Travis Scott Song by Machine-Learning His Lyrics"
+    excerpt: "Travis Scott has shaped trends and has been a major driving force in the music industry for well-over a half decade — now his music is influencing artificial intelligence. Tech-driven creative hub agency space150‘s latest project created a bot entirely dedicated to mimicking Travis, producing the new song “Jack Park Canny Dope Man ..."
+    publishedDateTime: 2020-02-13T00:00:00Z
+    webUrl: "https://hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics"
+    ampWebUrl: "https://hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 33
+
+secured: "kpAr61CJq6WuPfd+3Wb7bN/DGBHTrjsfJ0+jVC+utDaFOLHN/3shouoCrG6BtP7tK9tVtej0c+7GXwSz2sl30URr6SKCvqS5GlZCr27RpcTSiRQIxTBI14ummKvOD5xiNRVBvrR6HfAxpLp+bcyafkHm3FFWQgjaugv7JKZyxoWwQ7mG1OON+zLXDJq6hr97YrLdsqdiBrHBHhNfnYGpHfIxlZxmGYdQdbWJx1+ltZbtBn7tylZUPmiKPhWJzSFQxnyH4UDp59pqqdpGQ6Pv/0clIslFut3Xz1RzXLAmDBeGy8UZlq3h81hQJZuYy4EA9MhUOYAqKE6YVzVaJykUtvWcFRPbiPl8+6JoIqvWMkoFDHd8zan3Ld/4bGlZ6iA2dQXcS7k9KBUfiuK2R7IiAu5d/XiRoDF1snPTZ+ujI63rXwZDncUhoQOZz6uTvg2k9TewyLvQsu0+JBvHvNGJ1GZcFxPvEH7e7SFCDnvQU/sGL1zhg+c+1nP/GoJm4fUR;5KqTcOapQ8xadqNd3f2rxw=="
 ---
 

@@ -76,17 +76,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Created a Travis Scott Song by Machine-Learning His Lyrics"
-    excerpt: "Travis Scott has shaped trends and has been a major driving force in the music industry for well-over a half decade — now his music is influencing artificial intelligence. Tech-driven creative hub agency space150‘s latest project created a bot entirely dedicated to mimicking Travis, producing the new song “Jack Park Canny Dope Man ..."
-    publishedDateTime: 2020-02-13T00:00:00Z
-    webUrl: "https://hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics"
-    ampWebUrl: "https://hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 33
 
 secured: "h3V5lyPQF8CUS5WbxFHrAx/LtgQKFLI8azxxqOigqueaJFLjtq4fErxCZNdli2v4F9YIl+xsdjQkzBOsooRdbuQF4pawZtUVMuJyuz2W7uirPVcimRjA9OZe3daFFgfbIzQvnzkc+R5ipck4bU2pBRE49DUS8Ylv0Tyx8Bfkd0LVd4kefwI2JYyqhWqKU+OQUa8/MEs7uxodO/rXcQmPxm0O/j1ajL8LqnBCRW9h7ACNW26UGy4do1gkG/+6Dg6ryjGVQ3jvE0Al3k2L2kGCH46Feo9Bs858KmzYfS/xEMtRLMPHrqB0XbxWu3mRZ1TE;h8dB8ougYC0CZ//CFZTcvA=="
 ---

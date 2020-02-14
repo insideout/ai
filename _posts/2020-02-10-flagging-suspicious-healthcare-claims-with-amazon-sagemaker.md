@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T17:12:07Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 897
     height: 514
     title: "Flagging suspicious healthcare claims with Amazon SageMaker"
+
+related:
+  - title: "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators"
+    excerpt: "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through"
+    publishedDateTime: 2020-02-14T20:18:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png"
+        width: 800
+        height: 400
 
 secured: "cHSDKM1+ftpZkGqs3kAb9kfG5aLZ0rEOnSeVyEMN/+K9jtx5U4S0CdvmwbsSelUr2HGPzaUKED8a4AyWGFGE+rRl55qhNU4UDC/rZRZPjQpKCOfpBE+j4pAhwCJPjglnCXQmazQ0fvnbyKbgvhmb0nRbRFteLD2apf6+RlgQwmDSloyGbMNCVp+DmurATXLpgEKqcbmRDUhtqVOXKKA7RazOaHoHdm3C9xACN2bcoOcPqUoQOV2UjDrMdny4ivSaICi2xmLCvQLf9SpiAAPqhDXL1HvK0AsbfIkiDGsmN/r4pSYRx1XCVeT/hLyeEuZqxt9eh9qpuWtCcnRadlyZCA==;CQg599ujlyU/z0kV1M1pug=="
 ---

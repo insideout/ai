@@ -23,17 +23,6 @@ images:
     height: 405
     title: "Patches For Your DeepMind 12"
 
-related:
-  - title: "Behringer DeepMind 12 Polyphonic Analog Synth w/3 banks of GEOSYNTH patches"
-    excerpt: "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message."
-    publishedDateTime: 2020-01-31T03:20:00Z
-    webUrl: "https://reverb.com/item/31816943-behringer-deepmind-12-polyphonic-analog-synth-w-3-banks-of-geosynth-patches"
-    type: article
-    provider:
-      name: Reverb.com
-      domain: reverb.com
-    quality: 17
-
 secured: "nbRPdy1aB40PlnE1znZnTU2noxJRp95s+eZGVThn0Of4HM+0LHn0FZibxr+sNZWNprEPmI9D+IA5ltzucBtegmy6FbZWN6A5f5Vs8l3foTmwZXW2BRHl8qauYfFytC2XBSra99CmLw8HXdxH9vyZSil+XnAeohnNOjXwIEEti/0M94JQnjduOyjNcFnhTKOXjRap9JVRfS8Hs2csJ55WCSLJIqtKUxO8uOTbnvRiru/81RFvkdprLyokkBhk0PRLJa4ygQKthP2cSMOFHQg9ZtoF7MAFf3wAkXOs4Hm/h3DRjE7/h6Qw7QZigukUZuCa;jshOAfAqRru/TX8P5FPM3Q=="
 ---
 

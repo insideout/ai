@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 type: article
 quality: 112
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 823
     height: 557
     title: "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
-
-related:
-  - title: "2 major security flaws detected in Microsoft Azure Cloud"
-    excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
-    publishedDateTime: 2020-01-31T03:14:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/digital-security/2-major-security-flaws-detected-in-microsoft-azure-cloud/73789818"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/digital-security/2-major-security-flaws-detected-in-microsoft-azure-cloud/73789818"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/2-major-security-flaws-detected-in-microsoft-azure-cloud/73789818"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
 
 secured: "vzwd0KKz7jACo/OMmssVgwxJ6cKcPGnFZeBhcZP8VW9s47ZRCdcDcnnmyG+JXnhPGxEWWJzKKaQ1ot03aIRGQ9k1OThlurndv+J+hri8Lp8IEMUaMeaAk1BrKvLBGDdxqwpJocQsGlDY4ao3OLhEAA1u/fEzOSAW/VKE72H4qwk4nMx0hpNGn2LKn49pqOsQSrKYvJGuvdFZ32Ho6aVOpzMV6YNnX+DMBhk83poqxkYzdhbnPjqvLAXJ4ZfcTZ0kgYux2wBEBDtghUTMjKx4OosE0/0iy3hqc5OIX2qRFRb5euwwFDQ++LCaEYWdre4NGiFFbcUauL/FhMbLIJABpMNq+w669JfbiIioPyWUq87SWAo75NJhJd4fD4uQiyegrmxx7e0u5/Ih8wAPixqejsTWCPbTDq5VTnrK/K+1SkONV5MCBUTY8gXt/HlOgaMFvntxYvROuqxZ+RMHp7DvlbgfHna/s4PDeTN7EeANE/I=;3G2jfCXwhHwl8eF4OKjQrg=="
 ---

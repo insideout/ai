@@ -8,8 +8,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-a
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -40,7 +40,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 88
+    quality: 188
     images:
       - url: "https://images.wsj.net/im-154203/social"
         width: 1280

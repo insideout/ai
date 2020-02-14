@@ -372,6 +372,19 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
+  - title: "Senate bill would put a moratorium on federal facial recognition use"
+    excerpt: "A new bill introduced in the Senate would put a moratorium on the use of facial recognition by federal agencies, at least until Congress can figure out how to regulate the technology. The Ethical Use of Facial Recognition Act is a partnership between Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., that would also create a congressional ..."
+    publishedDateTime: 2020-02-14T20:53:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-federal-moratorium-bill/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
+        width: 2309
+        height: 1299
   - title: "Basic rules required for facial recognition usage: Statesman contributor"
     excerpt: "In his article, the author says that the use of facial recognition technology, in its present form, is not in conformity with the right of privacy. KK Paul NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) - In spite of several advantages of the latest technology of facial recognition, doubts continue to prevail in view of its very thin legal base."
     publishedDateTime: 2020-02-12T03:46:00Z

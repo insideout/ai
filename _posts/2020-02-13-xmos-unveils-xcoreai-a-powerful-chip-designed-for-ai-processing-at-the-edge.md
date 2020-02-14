@@ -79,6 +79,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "Cpkmi0TY3XPEcXsBEJ9d67Tigq6oes8/MxnriUrimeFU56IY2CrTRcwQcdONKLqmaLyhhX/hVT3J027doCPsEpvR3isu/IfVbVEDlGS+IhCiUUNBgy2Fg43EDHngNMBYE/3J8u2LjBHRKoAbZhEw8RLTYzmzBPorCnd0oIcMNclYJzJB/aDrzeJvijKBGEYu/xQjWRhWtoeAIL4FMpxEn8x/COo0f+GMxvnsoBUbbzidZ/MbPvYt+hXdYjlhPu8o200QJAJXckeDaRqkXrA0tHzjG3a4fBeXtWI1etNhgBaEjKAMYASwyRZessUdA0DY;9i8vE4xpf9gQhUAwKxfibQ=="
+secured: "MOSIZHTkvbMxNuiJRtLlFVCwggTMz3PoyXM/L5U5jdPh9Rk+2htxX7uVj4k40q+86dTxOot+Fjhu94//99psnXYadvAKrgIhKbJQujjGO0dsONXH3kD1xz/y1tJxVCU5O6P50ZaAKbCDVCk3Q673H9oG9CxyE9iwdrOI7SCPYpinKP3ormsxCNXBXbGx3yvW8BQ5FhNrHJzbZvf7GdYKLWQ081p0x/Kwn68jjwTxNzRNihCoUVKpwg0qah1dnE9PM332NWC9VcayXc19nhxR6QIEF3UFQCEx2Xer2kgmYCNs0nY1xsr/+FdZhXnDLCl9;lTaBudkzBRU/Q3MD+CpPSg=="
 ---
 
