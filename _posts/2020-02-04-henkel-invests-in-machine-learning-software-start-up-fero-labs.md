@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T14:25:00Z
 webUrl: "https://www.eppm.com/industry-news/henkel-invests-in-machine-learning-software-start-up-fero-la/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 1000
     height: 544
     title: "Henkel invests in machine learning software start-up Fero Labs"
-
-related:
-  - title: "Mastercard Invests in AI-Based Startup Trust Stamp"
-    excerpt: "Meanwhile, the payments giant is intensely getting involved in modern technologies including AI and blockchain. It was a part of the Facebook-led Libra Association but pulled out from the consortium to save itself from regulatory backlash. The company also tied with R3 last year to develop a blockchain-based cross-border payments system."
-    publishedDateTime: 2020-01-31T12:13:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2016/01/m246689.jpeg-copy.jpg"
-        width: 880
-        height: 400
 
 secured: "8VgiFj4/Edb5Dx3qJUE5E0exhK1slrBQB0HsJBidD9LLZQqCDOuxHVKBHxzfydymr932o8FbJphi8uqrDnPHbWBL9koXOtdEaYVPnwIpXjaA3hieGqu93mdv3v5kRWXZ1pSHFo8rhodFOkCqGg/JeL2KsEaX0+cTpanFTOoZpI0302tyX1fqwpirzAkcqRzLP9H/Tg/s6BBdZHBGBWm0czBVWa4+OVAc1Wd9E+6+sDGMnC0PVa7469RczV7N6q1Di5fCRyRFGEGVFFRHdpuvD7fYo0mL/cwgARFw0aFPNM9Sr9uKaacEtIGReAMt3rGGi+WGLHQGeJyotBmZu5dkZ4JsmFaNRaKSXrOvbLtyf4nIIrso8WAN4LSqrHYXXnxG54uHlpcRsB+zTN0Dz4DByrZsftpfKoEwDMzO4autFysiN1yFlf8NqwUeWmNC7d37Jp2QlwQAb5ng6jw9Vo8DDE9TXWdc212Z9FaUR0IKECg=;4vq+NtTO3IC6tf3gshiFEQ=="
 ---

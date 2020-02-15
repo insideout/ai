@@ -2,184 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-11-microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae.md",
-      "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
-      "excerpt": "Migrate is moving applications to Azure, he said, while innovate is all about advanced workloads such as blockchain, AI, IoT and cloud-born workloads. There is a big skills gap in the industry due to the emerging technologies such as AI, blockchain, big data but Ozyucel believes that holding a two-day workshop will bridge the skills gap.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
-      "publishedDateTime": "2020-02-11T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rmPaHMzsrrTyXPeTskDQRN-1200-80.jpg",
-          "width": 1058,
-          "height": 596,
-          "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-microsofts-ai-automatically-comments-on-video-clips.md",
-      "title": "Microsoft’s AI automatically comments on video clips",
-      "excerpt": "Generating live video captions with AI could bolster engagement on social media, or serve as a benchmark for the task of translating video to text. Preliminary work to this end has employed encoder-decoder models to generate comments, but they haven’t modeled the interaction between videos and comments explicitly, so they’ve tended to ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/amp/",
-      "publishedDateTime": "2020-02-11T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/64fd83ec-3df8-42dd-9bdd-c5cc97989216-e1581438914191.png?fit=1192%2C598&strip=all",
-          "width": 1192,
-          "height": 598,
-          "title": "Microsoft’s AI automatically comments on video clips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-mps-claim-ai-doesnt-need-a-new-regulator.md",
-      "title": "MPs claim AI 'doesn't need' a new regulator",
-      "excerpt": "There was more optimism for the work of the Office for AI, the Alan Turing Institute, the Centre for Data Ethics and Innovation (CDEI), and the Information Commissioner's Office (ICO) which he said were all \"commendable\". But on transparency and data bias, he called for practical guidance and enforceable regulation. \"We conclude that the UK ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
-      "publishedDateTime": "2020-02-11T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1581416015/itpro/2020/AiPublicSector.jpg",
-          "width": 1000,
-          "height": 528,
-          "title": "MPs claim AI 'doesn't need' a new regulator",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.md",
-      "title": "NBA using artificial intelligence for highlight clips this All-Star game",
-      "excerpt": "The NBA says they are using machine learning to create more highlights than ever before this All-Star weekend.",
-      "heat": 186,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
-      "publishedDateTime": "2020-02-11T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106384981-1581436693869gettyimages-1196398279.jpeg?v=1581436778",
-          "width": 5231,
-          "height": 3487,
-          "title": "NBA using artificial intelligence for highlight clips this All-Star game",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-robot-with-coronavirus-advice-hits-times-square.md",
       "title": "Robot with coronavirus advice hits Times Square",
       "excerpt": "Worried about the spread of coronavirus? A five-foot tall (1.5 meter) Promobot might have your answer. The robot with a friendly face rolled into Times Square on Monday to help provide information about the new virus.",
@@ -1014,6 +836,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-fintech-startup-tribal-credit-secures-us55-million-in-funding-round.md",
+      "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
+      "excerpt": "The founding team consists of serial entrepreneurs, data scientists, and fintech execs who have had experiences in banking, risk and compliance, regulations, and scaling in emerging markets. Shady points out that the startup’s main advantage in the market is its proprietary AI algorithm, which they originally conceived based off their researc ...",
+      "heat": 154,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346215",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346215",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346215",
+      "publishedDateTime": "2020-02-11T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -2160,6 +2027,141 @@
       ],
       "topics": [
         "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-itsm-what-is-demanded-for-an-ai-service-desk.md",
+      "title": "ITSM+: What Is Demanded For An AI Service Desk",
+      "excerpt": "Any enterprise can embrace the ITSM+ transformational journey irrespective of their size, level of deployed automation and personnel on staff.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/amp/",
+      "publishedDateTime": "2020-02-13T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152157066/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "ITSM+: What Is Demanded For An AI Service Desk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-training.md",
+      "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
+      "excerpt": "The oil company is expanding an online program that teaches its employees artificial-intelligence skills, part of an effort to cut costs, improve business processes and generate revenue.",
+      "heat": 198,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "publishedDateTime": "2020-02-13T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-154203/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-sony-envisions-an-ai-fueled-world-from-kitchen-bots-to-games.md",
+      "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
+      "excerpt": "“I told him it started five minutes ago!” he says with a laugh. Such was the state of AI and robotics at the time. It took a machine minutes to interpret its situation and work out what to do next. But much has changed, with AI increasingly helping machines, from self-driving cars to surveillance cameras, perceive and behave in clever way",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/",
+      "ampWebUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
+      "publishedDateTime": "2020-02-13T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e44656433fa920008cbf86d/master/pass/Biz-sonydogs-1145503656.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
         "AI in Robotics"
       ]
     }

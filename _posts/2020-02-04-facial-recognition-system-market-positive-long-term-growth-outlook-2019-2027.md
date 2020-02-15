@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T18:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
 type: article
 quality: 66
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -50,19 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning Market 2019 CAGR, Production, Revenue, Industry Share, Rising Trends and Manufacturers Growth Outlook 2025"
-    excerpt: "Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025. Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025."
-    publishedDateTime: 2020-01-31T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2019-cagr-production-revenue-industry-share-rising-trends-and-manufacturers-growth-outlook-2025-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

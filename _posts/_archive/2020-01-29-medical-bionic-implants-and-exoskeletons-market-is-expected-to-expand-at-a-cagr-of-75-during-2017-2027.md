@@ -28,15 +28,6 @@ images:
     title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
 
 related:
-  - title: "Exoskeletons and Exo-suits: Exploring the Scope of Wearable Robots"
-    excerpt: "Better and refined versions of this technology are surfacing every passing day; today, even mind-controlled exoskeletons are available, which were unimaginable until a few years back. Studies have suggested that, in the future, humanoid robotic technologies and exoskeletons may present possibilities for humans to function even in unstructured ..."
-    publishedDateTime: 2020-01-31T12:36:00Z
-    webUrl: "https://www.roboticstomorrow.com/story/2020/01/exoskeletons-and-exo-suits-exploring-the-scope-of-wearable-robots/14716/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 19
   - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
     excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
     publishedDateTime: 2020-02-04T16:49:00Z
@@ -47,6 +38,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "YgHLZ59x9utI80mnZX/odGLdJJZPGU0lhpxHjeVauphWbd07JmDWQrKHHv/CdZUG6RbSEUTV5HuI8sp/+6ogsZTO3bN3qNs1bIZWQMWlw2jyIdVAPTN7xbj0+72vHNj+EKUtKjcvsRZRhMgfY82aEE/b3p9AANMP2LpmCqHMIeS/Zjrki15t1adzdUf8y9VaEomcNO7UjKW2JAjuj04MwMCVyDuAFBMyKd1GcK/Uwd5RiE6SbMlPdmi7VaCO/UitsFUagjlX6U5oo/EQW2RR7RBpp1YLMAcAZxB8vuCPhlAXWWTOqHGy6Qr+8DFq33Bn;nWbT+L45UOQam5aSwXWEjw=="
+secured: "zAhgVP+KgOw9tTK95MPi1xB5DlTlc+seBoiV/O4A6fhFtun8aidh3zuL6zzxoqefxcIQY9Th4S0RRuJEvX+O1DEq1a1Axn0etjxznkv8oOv9VGDqgqH/EyRGtnsE6nT/HSZsy350Ig2nEbQKHbeo6fFSvuPdTUDalSg4tTiUbXqhy+8r1djaGowY0sfVDsSMbRMaOhgpiJ+A5Lhx8CWoAXA/qqKBcgJsUsC8X7XSFVasxiS68vamMrT6Cn1fUms6CzF8gfUl40JQLJcBgLg1joqqFPtW/LqL1bKVfgB2zHONhKpZE7dqHfeDS6e8QBf2;Mt0MpfpV8DgOj42OeDKG2g=="
 ---
 

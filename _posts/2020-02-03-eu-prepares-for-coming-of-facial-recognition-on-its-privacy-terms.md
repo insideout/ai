@@ -39,21 +39,6 @@ related:
       - url: "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png"
         width: 1280
         height: 720
-  - title: "Privacy Groups Hail Facebook Facial Recognition Settlement"
-    excerpt: "Facial recognition critics are weighing in on Facebook's revelation--in its financial reports this week--that it had paid $550 million to settle a class action suit alleging it had violated an Illinois law by using the biometric technology without user's ..."
-    publishedDateTime: 2020-01-31T12:25:00Z
-    webUrl: "https://www.multichannel.com/news/privacy-groups-hail-facebook-facial-recognition-settlement"
-    ampWebUrl: "https://www.multichannel.com/.amp/news/privacy-groups-hail-facebook-facial-recognition-settlement"
-    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/privacy-groups-hail-facebook-facial-recognition-settlement"
-    type: article
-    provider:
-      name: Multichannel News
-      domain: multichannel.com
-    quality: 74
-    images:
-      - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU2OTM5MDA1MzI4MzY4NzQ3/facebook_hqsign_16x9.jpg"
-        width: 620
-        height: 349
   - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
     excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
     publishedDateTime: 2020-02-04T11:36:00Z

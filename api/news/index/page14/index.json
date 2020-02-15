@@ -2,125 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-17-new-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.md",
-      "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
-      "excerpt": "Researchers of the ICAI Group -Computational Intelligence and Image Analysis- of the University of Malaga (UMA) have designed an unprecedented method that is capable of improving brain images obtained through magnetic resonance imaging using artificial intelligence. This new model manages to increase image quality from low resolution to high ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
-      "publishedDateTime": "2020-01-17T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-patent-dominance-top-5-companies-leading-the-charge.md",
-      "title": "Patent Dominance: Top 5 Companies Leading the Charge",
-      "excerpt": "P atents are considered one of the best representations of a company’s inventive activity. Patenting an innovation is a crucial step to secure and convert research and development (R&D) efforts into potential economic gains.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17",
-      "ampWebUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
-      "publishedDateTime": "2020-01-17T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-07/ibm2.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": "Patent Dominance: Top 5 Companies Leading the Charge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-pfizer-has-tied-up-with-a-biotech-startup-to-leverage-its-ai-tools-to-identify-drug-targets.md",
-      "title": "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets",
-      "excerpt": "Pfizer teamed up with AI biotech firm Insilico Medicine to leverage Insilico's technology to identify drug targets for a variety of diseases",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/pfizer-insilico-medicine-partner-to-identify-drug-targets-2020-1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e21c48162fa8132960b1932?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-sensetimes-ai-generates-realistic-deepfake-videos.md",
       "title": "SenseTime’s AI generates realistic deepfake videos",
       "excerpt": "Typically only a scarce number of videos are available to train an AI system, and any method has to cope with large audio-video variations among subjects and the absence of knowledge about scene geometry, materials, lighting, and dynamics, To overcome these challenges, the team’s approach uses the expression parameter space, or the values ...",
@@ -644,51 +525,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-18-heres-what-bosch-hopes-to-learn-from-deploying-autonomous-cars-in-san-jose.md",
-      "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
-      "excerpt": "That’s where artificial intelligence comes to the rescue ... and you could hail a lounge-like driverless cab to go pick it up.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
-      "publishedDateTime": "2020-01-18T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/bosch-daimler-autonomous-s-class-1-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -2125,6 +1961,184 @@
           "width": 589,
           "height": 393,
           "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon.md",
+      "title": "The World Economic Forum Jumps On the Artificial Intelligence Bandwagon",
+      "excerpt": "It’s great to see the WEF taking a strong look at AI and then presenting what looks like a very good, introductory, toolkit for boards of directors, but the need for strong ethical positions means that more is needed.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/",
+      "publishedDateTime": "2020-01-20T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24dd7e8b6cf300071c77b9%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": "The World Economic Forum Jumps On the Artificial Intelligence Bandwagon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-this-ai-powered-cockpit-knows-when-to-cut-off-the-driver.md",
+      "title": "This AI-Powered Cockpit Knows When To Cut Off The Driver",
+      "excerpt": "A Taiwanese startup has developed a car cockpit that knows when the computer should take back the wheel from tired, sick or incompetent human drivers.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/20/this-ai-powered-cockpit-knows-when-to-cut-off-the-driver/",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/20/this-ai-powered-cockpit-knows-when-to-cut-off-the-driver/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/01/20/this-ai-powered-cockpit-knows-when-to-cut-off-the-driver/amp/",
+      "publishedDateTime": "2020-01-19T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F40953368%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "This AI-Powered Cockpit Knows When To Cut Off The Driver",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-top-vc-deals-john-chambers-starts-a-fund-and-ex-baidu-exec-scores-funding-for-self-driving-cars.md",
+      "title": "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars",
+      "excerpt": "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "publishedDateTime": "2020-01-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104874500-GettyImages-647709384-pony-ma.jpg?v=1532563719",
+          "width": 2004,
+          "height": 1336,
+          "title": "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-3-big-takeaways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store.md",
+      "title": "3 Big Takeaways From NRF 2020: Omnichannel Holidays, AI And The Measured Store",
+      "excerpt": "It’s important to gauge retailers’ moods at NRF not least because it’s usually the first warning you have as to what holiday results are going to be like.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/",
+      "ampWebUrl": "https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/",
+      "publishedDateTime": "2020-01-20T18:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1193597438%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "3 Big Takeaways From NRF 2020: Omnichannel Holidays, AI And The Measured Store",
           "attribution": null
         }
       ],

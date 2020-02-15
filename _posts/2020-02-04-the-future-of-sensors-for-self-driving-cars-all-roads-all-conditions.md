@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T14:14:00Z
 webUrl: "https://www.extremetech.com/computing/305691-the-future-of-sensors-for-self-driving-cars-all-roads-all-conditions"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,30 +24,19 @@ images:
     title: "The Future of Sensors for Self-Driving Cars: All Roads, All Conditions"
 
 related:
-  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
-    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around. The Ohio State University engineering student had opted for a rolling walker over the wheelchair she sometimes uses, but nonetheless she was late."
-    publishedDateTime: 2020-01-31T13:10:00Z
-    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
+  - title: "Are self-driving cars a solution for transit? A Providence test shows their promise and challenges"
+    excerpt: "“You won’t see them on the road for many, many years to come, because they don’t visualize what’s ahead as well as human drivers do.” She predicted completely self-driving vans will arrive in 2021, in Jacksonville, Fla., replacing a worn-out monorail corridor. As AVs develop, there may be an interim phase of driverless cars that halt ..."
+    publishedDateTime: 2020-02-01T05:09:00Z
+    webUrl: "https://www.theday.com/article/20200201/BIZ07/200209995"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 33
+      name: The Day
+      domain: theday.com
+    quality: 10
     images:
-      - url: "https://www.washingtonpost.com/resizer/qxjWQ-jXwV-C9osVN4wWU0S_SLI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QUAWFCR4PUI6VL7CBEHLG63AWE.jpg"
-        width: 1440
-        height: 960
-  - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
-    excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
-    publishedDateTime: 2020-02-03T13:55:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21121622/us-patchwork-of-selfdriving-laws-is-limiting-autonomous-truck-innovations"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 4
+      - url: "https://www.theday.com/storyimage/NL/20200201/BIZ07/200209995/AR/0/AR-200209995.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
 
 secured: "rsIF1PvtwFJf05u8Ms6/zJG54WyC/srLTT9ld+Wrh5WK7GBOolQu8dNClkptAw/fHk2YS3oNO8MUEx1cLkSrNETF/28BZnyTss7pc4xxmTmjichKfx+yLA4SuXUCg1+9fJu/SfYI35vapXY1jrLXMHoHXTB/cMQMQmlsHi2sqBSDeTbbI+wDNXVaOdjIy9qLBwhqL42xI/6C/JRVnbrVqXM5H6FthjpeWYwd1whgJA+b1g4ZBlEXh35zZg5Ly53EdedVLJWzRz0YshQxnu89uHnsXOpMrbClQMHe262l2rBBNPSh+MOGpXrF00A1qc50+4l2XFfJBwwQl2wcaku6u0B1kWMWphOvCZ2iurhLeWGPNHDG4L9zRmSerlcH2p3mBKWPLR1hvnheYvUGAVIc0555T12zMZECLZC10YiZ1Zfw/iu2ULXMDvfyI0Lx1Og2mRCsxfqrANm/ffmfQmemm/8pp2OyJ43GPgvnD6t5BYg=;EZ3UMd2Rl4kzxqsG+e8L4A=="
 ---

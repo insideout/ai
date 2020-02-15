@@ -2,125 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-10-flighthub-justfly-on-robots-and-travel.md",
-      "title": "FlightHub & JustFly on robots and travel",
-      "excerpt": "Once programmed, some robots function autonomously. Still, many robots require more guidance, especially when used with third-party software for voice recognition, accident detection, virtual reality applications, and others. When combined with artificial intelligence (AI), robots become far more sophisticated. AI’s ability to record and ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/10/flighthub-justfly-on-robots-and-travel/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/10/flighthub-justfly-on-robots-and-travel/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/flighthub-justfly-on-robots-and-travel/amp/",
-      "publishedDateTime": "2020-02-10T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-9.55.03-AM.png?fit=1628%2C803&strip=all",
-          "width": 1628,
-          "height": 803,
-          "title": "FlightHub & JustFly on robots and travel",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift.md",
-      "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
-      "excerpt": "Seems like friendships are faltering, but there's hope that via AI self-driving cars a friendship uplift will occur.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/amp/",
-      "publishedDateTime": "2020-02-10T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/trim/301x0:5190x3667/fit-in/711x533/smart/https://specials-images.forbesimg.com/imageserve/1124494417/0x0.jpg",
-          "width": 711,
-          "height": 533,
-          "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-hello-new-member-here.md",
-      "title": "Hello, new member here",
-      "excerpt": "Hi, I had joined many years ago on another account but just got back on the site so made a new one. I’m on iPad and was wondering how we create a album or change themes, colors on our profile? I can’t seem to find out how. I just have a plain white ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.christianforums.com/threads/hello-new-member-here.8148658/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-09T17:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Christian Forums",
-        "domain": "christianforums.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-how-the-expansion-of-artificial-neural-networks-can-drive-your-business.md",
       "title": "How The Expansion Of Artificial Neural Networks Can Drive Your Business",
       "excerpt": "ANN is basically the framework for letting many different machine learning algorithms work together to process very complex operations.",
@@ -1708,51 +1589,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-docugami-announces-10-million-seed-funding-round-led-by-signalfire.md",
-      "title": "Docugami Announces $10 Million Seed Funding Round Led by SignalFire",
-      "excerpt": "former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary computing, and Steve DeRose, a renowned expert in natural language processing, computational linguistics, and standards related to document processing. The company’s business ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/amp/",
-      "publishedDateTime": "2020-02-11T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2.wp.com/mms.businesswire.com/media/20200211005446/en/772660/4/Docugami_Team_Offsite_February_2020.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 346,
-          "title": "Docugami Announces $10 Million Seed Funding Round Led by SignalFire",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-first-time-ever-artificial-intelligence-develops-drug-candidate.md",
       "title": "First Time Ever, Artificial Intelligence Develops Drug Candidate",
       "excerpt": "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last.",
@@ -2139,6 +1975,184 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae.md",
+      "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
+      "excerpt": "Migrate is moving applications to Azure, he said, while innovate is all about advanced workloads such as blockchain, AI, IoT and cloud-born workloads. There is a big skills gap in the industry due to the emerging technologies such as AI, blockchain, big data but Ozyucel believes that holding a two-day workshop will bridge the skills gap.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
+      "publishedDateTime": "2020-02-11T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rmPaHMzsrrTyXPeTskDQRN-1200-80.jpg",
+          "width": 1058,
+          "height": 596,
+          "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-microsofts-ai-automatically-comments-on-video-clips.md",
+      "title": "Microsoft’s AI automatically comments on video clips",
+      "excerpt": "Generating live video captions with AI could bolster engagement on social media, or serve as a benchmark for the task of translating video to text. Preliminary work to this end has employed encoder-decoder models to generate comments, but they haven’t modeled the interaction between videos and comments explicitly, so they’ve tended to ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/amp/",
+      "publishedDateTime": "2020-02-11T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/64fd83ec-3df8-42dd-9bdd-c5cc97989216-e1581438914191.png?fit=1192%2C598&strip=all",
+          "width": 1192,
+          "height": 598,
+          "title": "Microsoft’s AI automatically comments on video clips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-mps-claim-ai-doesnt-need-a-new-regulator.md",
+      "title": "MPs claim AI 'doesn't need' a new regulator",
+      "excerpt": "There was more optimism for the work of the Office for AI, the Alan Turing Institute, the Centre for Data Ethics and Innovation (CDEI), and the Information Commissioner's Office (ICO) which he said were all \"commendable\". But on transparency and data bias, he called for practical guidance and enforceable regulation. \"We conclude that the UK ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
+      "publishedDateTime": "2020-02-11T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1581416015/itpro/2020/AiPublicSector.jpg",
+          "width": 1000,
+          "height": 528,
+          "title": "MPs claim AI 'doesn't need' a new regulator",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.md",
+      "title": "NBA using artificial intelligence for highlight clips this All-Star game",
+      "excerpt": "The NBA says they are using machine learning to create more highlights than ever before this All-Star weekend.",
+      "heat": 186,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
+      "publishedDateTime": "2020-02-11T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106384981-1581436693869gettyimages-1196398279.jpeg?v=1581436778",
+          "width": 5231,
+          "height": 3487,
+          "title": "NBA using artificial intelligence for highlight clips this All-Star game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

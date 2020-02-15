@@ -57,19 +57,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Machine Learning Market 2019 CAGR, Production, Revenue, Industry Share, Rising Trends and Manufacturers Growth Outlook 2025"
-    excerpt: "Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025. Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025."
-    publishedDateTime: 2020-01-31T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2019-cagr-production-revenue-industry-share-rising-trends-and-manufacturers-growth-outlook-2025-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
     excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
     publishedDateTime: 2020-02-04T10:00:00Z
@@ -106,6 +93,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "JABteE7H5DZfYYKdxQgqXGCD5HMIr6J1TwKfIF/w+edz40GOYy+3KLlCznsbYSF1WRf81j2/JWeFupFNJy4p4VKkAhFc5FsXme4gOjVQx/ySJuV5kO+YycNk+mVNkgWcAeHzF8TPRmrLXmaQ34/+rHx37WcJ1KzuMFnVxMQGYVh+vgaw1kfz4FxHXW3A1kg81wrJ/+XzB7bIzYzVA0eYzjKpfM8jFhs8mCaACikgnygQpJ8hREsrWFY5SMep6KS8A2YFVdKG3T81lonF92CRDeaz+RKEdEHODq4Eq7PlT93nNtCCUaaFSGKuig8xaSla;Mk03a5MNftM/1XLmnfyVEw=="
+secured: "XxKSkfwxSXmPERIwZjFA7MD+qvrNSGbgOFmmcrqWpMTx1yklbI8G4b4TVI6PdGKVArbgKiRGXYlhtXfpsE+B5sF3Odpena5HqxxVhiElJOFgo2ODlxtaHS9lCl3m9oVQG4UF6/iMSjmcsH2LQ1MkHyjoiOVyeFh2gltq+0pF54CIfGVLzGTU56ZFkLtqKOOVdVBlOvZruUOO7/5jGwYAm9yQFO/bFdXRaGVKLpPxby1sMvhA3j/HGPVIFWOylN/5t2fcWCpgsJthdxamwk/WJ8P/y1PhnPiObKVFoTmsRfbTBFPYmLRtrXLSOY+YfylW;VPAp8Ff9OTIv7yawXmQ2Og=="
 ---
 

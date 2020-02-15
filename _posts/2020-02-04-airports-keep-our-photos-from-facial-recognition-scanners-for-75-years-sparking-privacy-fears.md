@@ -41,21 +41,6 @@ related:
       - url: "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png"
         width: 1280
         height: 720
-  - title: "Privacy Groups Hail Facebook Facial Recognition Settlement"
-    excerpt: "Facial recognition critics are weighing in on Facebook's revelation--in its financial reports this week--that it had paid $550 million to settle a class action suit alleging it had violated an Illinois law by using the biometric technology without user's ..."
-    publishedDateTime: 2020-01-31T12:25:00Z
-    webUrl: "https://www.multichannel.com/news/privacy-groups-hail-facebook-facial-recognition-settlement"
-    ampWebUrl: "https://www.multichannel.com/.amp/news/privacy-groups-hail-facebook-facial-recognition-settlement"
-    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/privacy-groups-hail-facebook-facial-recognition-settlement"
-    type: article
-    provider:
-      name: Multichannel News
-      domain: multichannel.com
-    quality: 74
-    images:
-      - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU2OTM5MDA1MzI4MzY4NzQ3/facebook_hqsign_16x9.jpg"
-        width: 620
-        height: 349
   - title: "Could Ontario police start using facial recognition cameras?"
     excerpt: "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ..."
     publishedDateTime: 2020-02-02T18:19:00Z

@@ -2,96 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-03-moscow-court-case-challenges-citys-facial-recognition-use-after-launch.md",
-      "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
-      "excerpt": "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-03-tesla-is-holding-a-super-fun-ai-partyhackathon-at-elon-musks-house.md",
-      "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
-      "excerpt": "Tesla has been known to have a presence at some AI conferences and throw parties to ... also looking for world-class chip designers to join our team, based in both Palo Alto & Austin.",
-      "heat": 229,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/",
-      "ampWebUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
-      "publishedDateTime": "2020-02-03T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/07/elon-musk-nga-2017.png?w=1600",
-          "width": 1600,
-          "height": 803,
-          "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-03-victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls.md",
       "title": "Victoria to use AI to detect heart attacks on emergency calls",
       "excerpt": "Triple zero call operators could soon have artificial intelligence (AI) alert them to callers who suffer from a heart attack. The Victorian government announced on Sunday it was kicking in AU$1.36 million towards the Artificial Intelligence in Cardiac Arrest project, which will be developed by Monash University and Ambulance Victoria.",
@@ -828,7 +738,7 @@
       "path": "_posts/2020-02-04-facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027.md",
       "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
       "excerpt": "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,",
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04",
@@ -1629,7 +1539,7 @@
       "path": "_posts/2020-02-05-analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth.md",
       "title": "Analyst : Artificial Intelligence (AI) in Cyber Security Market Companies Have Room for Growth",
       "excerpt": "Latest launched research document on Global Artificial Intelligence (AI) in Cyber Security Market study of 95 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,",
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth-2020-02-05",
@@ -1709,7 +1619,7 @@
       "path": "_posts/2020-02-05-artificial-intelligence-software-market-to-witness-huge-growth-by-2025.md",
       "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
       "excerpt": "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data.",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05",
@@ -2141,6 +2051,79 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one.md",
+      "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
+      "excerpt": "Bernie Sanders and Elizabeth Warren. Pete Buttigieg, who proposes the less radical “Medicare for all who want it,” can point to Trump’s rant as a reason for Democrats to support him. But all the Democratic candidates should come away from this speech with a recognition that Trump will be a formidable opponent.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one",
+      "ampWebUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
+      "publishedDateTime": "2020-02-05T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/4bc5b3c/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F37%2F4e8a13c64254b008d334ca3f9f93%2Ftrump-impeachment-54621.jpg",
+          "width": 320,
+          "height": 209,
+          "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-powerful-new-tool-helps-journalists-identify-manipulated-photos.md",
+      "title": "Powerful New Tool Helps Journalists Identify Manipulated Photos",
+      "excerpt": "“Assembler is an early stage experimental platform advancing new detection technology to help fact-checkers and journalists identify manipulated media.” Assembler works by combining several “manipulation detectors” into a single tool. Each individual detector—some brand new and created by Jigsaw, some created by academics at various ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://petapixel.com/2020/02/05/powerful-new-tool-helps-journalists-identify-manipulated-photos/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PetaPixel",
+        "domain": "petapixel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://petapixel.com/assets/uploads/2020/02/manipulation_feat.jpg",
+          "width": 1600,
+          "height": 840,
+          "title": "Powerful New Tool Helps Journalists Identify Manipulated Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

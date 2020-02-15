@@ -7,9 +7,9 @@ webUrl: "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-202
 ampWebUrl: "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Digital Trends
@@ -23,12 +23,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/bosch-daimler-autonomous-s-class-1-2-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    title: "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose"
-
-secured: "yAc+K1Sm2rB7Dp6KEYnMhbn6zgpTShmG55w/NytoPjZCb9TvOa/iX1jNT9W2XLWVN2p3CRaBt7kbY+Wi4BdKZF7VzsrDYbsDV/GY80NZULa7MmztVOp2GGTQx2D4E3cLamp4/dCmVFylhvi7raiYZQvHV92PzHq0cEnwy230UbM/T/m8ESqxTfYDORcwhBj5PxZHF/e+PYaMV2Ix5EIhAF2ol5bm/VWsB3x6m5ps9Ftay460oFobJ2sBP9a+sWnkw332OgHo0ryDyDNXZrc1fEnsSfFyhDW/dxrriwmwXM2j8HqTKq2iBLxDsdlTF4SX;Pd7o0XX4oL+FxJq0+5eydg=="
+secured: "kq1PgNXVFq7Wa+sAGq41jkUttAyywukB31aUMiuwwKOFbc//2x1bPh2vPEK8KkBG3Ei1MXhwZpShPrJKL7klfjWyNOIaif0cghmxgfRmxDWlBp7sx7tXu/oPwNzUOH9pzwjcyVeog/GSBuzDLDf/W+ZzBA8rk1VXZAj1tWqEaIAp5FMqqnOR/41V6wdqLj2eXqQe2Zs91HQi9UB9etngVWndjh18ewdnXhbL0aQKwM8CALJ3+OnLDN3i4YWuY/6+Rt+fTD8mDHnLFTeTciSUaKme7iBfjuFZoBq6G5J1Ir26w6pbmhUGFUAh3TmExM9y;I4436XEva7Txt2OEqpq8tw=="
 ---
 

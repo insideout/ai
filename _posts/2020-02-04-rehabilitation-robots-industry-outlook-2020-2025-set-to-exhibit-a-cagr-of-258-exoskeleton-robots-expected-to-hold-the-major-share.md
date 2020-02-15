@@ -31,15 +31,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Exoskeletons and Exo-suits: Exploring the Scope of Wearable Robots"
-    excerpt: "Better and refined versions of this technology are surfacing every passing day; today, even mind-controlled exoskeletons are available, which were unimaginable until a few years back. Studies have suggested that, in the future, humanoid robotic technologies and exoskeletons may present possibilities for humans to function even in unstructured ..."
-    publishedDateTime: 2020-01-31T12:36:00Z
-    webUrl: "https://www.roboticstomorrow.com/story/2020/01/exoskeletons-and-exo-suits-exploring-the-scope-of-wearable-robots/14716/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 19
 
 secured: "g5nRz9cR3JEC2UeEAn53j3PXBTIGpBDgzAdmOE1lt6eX0KKVyFP42HdA0r1ymGSMcAO/vB+074wEm6roCpRwPYdHz3A4ochRLryvZ1CCGcQiqOi+D09s5WQrHZLdWmkOr4AR69IN+RUuKvv7SP8RGPT+fYcHx09VoDrgao1VhfXi3Gf9HwdY/v95lozz8Kt/spSOOQLDUZfAixisyTPBPk2Q39J2GvhQnwTTxU/c0hW8SFCIkU7idRyrrxARsgp9U0gbe6+1I9Ia5FzqLjmAGh63YrxG4t8di2ISPa1U2Q5ArPLrV82X38XA4RFFKYfM;yphsZygbO4DRZYh85U4j8g=="
 ---
