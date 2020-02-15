@@ -5,7 +5,7 @@ excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at stre
 publishedDateTime: 2020-01-22T10:12:00Z
 webUrl: "https://sea.mashable.com/tech/8744/why-most-self-driving-car-companies-use-these-3-models"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,17 +17,29 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://sm.mashable.com/t/mashable_sea/feature/w/why-most-s/why-most-self-driving-car-companies-use-these-3-models_358k.1200.jpg"
+    width: 1200
+    height: 799
+    title: "Why most self-driving car companies use these 3 models"
+
 related:
   - title: "Why most self-driving car companies use these 3 models"
     excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
     publishedDateTime: 2020-01-21T21:09:00Z
     webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
+    ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
     type: article
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 34
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
+        width: 1200
+        height: 630
 
-secured: "HERxjbF2Afd1xNdjIVXyhjPDP9VPEFVAungOKBdgOku5I5wEI7khfAdVj9BPto32ZFph+F+piu355uxANIJIm3S6NEGYzzOrEMeBU7chW4ALUnftyNw8tZTiXm1O7MM0Vdm9PrRe9B2uJIrii33Aqw/OA+5y85uNiqzc26tMoBkgQWrIAN1/7wAUhVJ9XMmy1Oe0ful4r63OKOVTpwWspnT5uPfoYtSmBP32zls/vorUGfQCSB7RC3Dm5CTuDMi1mC2QlaBqwxTaj3zWdK91pMmyU4Futg8TeNoiTDfkmboZI5GNN26aGdqektmRHOWgX7+K7hair9cydzoo6cJiSZh9Ij3TfdeeomuZSGNyIp5e74dhrlpvXId7wgq3O8ebTWtWK6HqP0IYE6IjsK5n5ipl60XfBOm5YJ2hvE3Mu7pKMtg5xlXWDrUyRcdRVMtXz+LwwrHF3gd0prte76h0GiRb2/dgeTxqlnEieuudMiM=;mkjck3GlsVyrwZQ9CZ2fMw=="
+secured: "UbyYFVjKQzykOPWU/FIjJoT5/z69z7fggkm9l/ngnN2TKrqP6fGG1DRmHRS2cxEvQYkI2xIvaeIJz+wueXzRgBYbLqree8mAh5F3BxJcoODnl8FhEYRYgFf4NB3L3ji9q1FAv234FHA76q1eGoe10x71oAWqYMlGNTuMKWf8CQlui9grq8tIg8qIOOx9STJg1fxtzQuoEuUoE5dP6RLOFYIoDhAWf80cul6NRCVtEX1lUQ7GtWhmHKfm1VxcUycRj0FI6zxjuZ9Mhxd4Alh1C1WKQPAUTDFithbNYKcg/YWFZAVy45LMgsynJBLsZTzi;3LD3PeOki/QF1lT1F1LbsA=="
 ---
 

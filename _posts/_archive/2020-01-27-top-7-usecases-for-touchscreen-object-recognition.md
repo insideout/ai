@@ -22,12 +22,31 @@ related:
     excerpt: "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ..."
     publishedDateTime: 2020-01-29T19:32:00Z
     webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "The rise of facial recognition technology: where we are and what to expect"
+    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
+    publishedDateTime: 2020-02-04T12:04:00Z
+    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-where-we-are-and-what-to-expect"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
+        width: 1640
+        height: 800
 
-secured: "7uSBioghsnLXFigBqyBj7DxjW4VrO1h3gXR2srynuztpEvzmyN4a4Wql/4KtiB3SokFD1zWalNFoJeg6Pjv1FrsySapJJ8y0SawgbwYvIrmU6/m+iNop2rWNU48Y1wkxeFkz1SPKdjcTWcqe5js+N6+D4Lw0DyFAOUfkHr+YpBW/A9xlLktTeP/fMU9YCg9eerxqZpV6stlCPy7Sl56mPK9RUIlviJtHKSV3Wy9M/X+MbKpsaGgSXCp/vGsmVpbOfbZFJVs2J8ecpcqR6KMji9qzlRNyHCAsPfadnbn0/nayGeV4Ba+7P9JXEZ1Mth9K;5GjflsO+ljnYCPLAYaL84Q=="
+secured: "SiKNCN1tGR/esGERoxFj6ykjmO0DLhmZpMD+Cz3Qz1aJ1YaqA4bOhD2ovK1yulduOUBdJfVTsMUmJekpETd4Rro+4DS+syOWom6/oswQzeNLeMpTM8HWjfD/HF03rc/nfUdHcZ5YhamMpQelyDNR6EMoOU9NCEfMc1laDEnZ7vNVeq0+Y9eRv8xpVtFe8sphnwfsvxAA0AnolA8P1MztRvf7shqkWiswnYe7r43mwcMu21UbrVZF4zJ9WUocns3UXr/lIENvlw2Y/tFKqj2LPwHuzNYM5SQHU2ol0qatWEy48auCjF0FkEiG1ddwSuta;M8zGSqUDqnb1/5S/V9kvjg=="
 ---
 

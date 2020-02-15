@@ -4,10 +4,12 @@ title: "7 Observations About AI In 2019"
 excerpt: "Facebook turned 15 in 2019 ... the sequel to her seminal history of the early years of AI research, Machines Who Think (first published in 1979 and then updated in 1984). It is a fascinating ..."
 publishedDateTime: 2020-01-29T14:01:00Z
 webUrl: "https://www.forbes.com/sites/gilpress/2020/01/29/7-observations-about-ai-in-2019/"
+ampWebUrl: "https://www.forbes.com/sites/gilpress/2020/01/29/7-observations-about-ai-in-2019/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/29/7-observations-about-ai-in-2019/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "ps8uSL1ggyVTYIB8Bx24+9ilGEhpD9LwoNUp9+KFYsH+e4iGbsFDAnU/vjxqs5MoYoKDPRndIta2Qx5KgKWvcg+re+3bz1D0IUyZrmceaYL+zyfRr7fycyS7X74tMLzpp7DfcSzLF2dHGTwoGPmgX9Ach420plK/JWPmm2D+ry32hr2t7jpPe1uR6X4nrRxI+2sCqvLMG2SYJ5XVGnq4m8wJH4NhC4B5SpN5hDiVltU+qYMW4eE9cLWOziag5qzZBiB4ZX6sjCsrTs/Dxyf7aIZUwA3Hjmtlpr4XQ9dIPD8gKD/rnBmgMXjiOkP62vLZ;Rkb2uPz+P6b5uMd/45V0Cw=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30df0aa854780006afcc64%2F0x0.jpg"
+    width: 1096
+    height: 768
+    title: "7 Observations About AI In 2019"
+
+secured: "nqGTnOB8XtCRKdgDatQXQdScabcSKPRiPBghtJj5uUkfBYxuuIwvmiotbkBwKXtvSYlEulogr35owgE72IPNrEEiqX+kBZDyiXwc8sV+xokNwpVmvqlgtvPD0punNlG3Z5k9AFWcIoK3vPFrZN5fAYuzeDiFB7qJszYmSbiAJpDX+VznzaK3giTuVIwFvB3oypZT+jqn42TZxcHIUyXwrrBDhBz5PiN5jIV5rRDeOryPCAfcyJ1JNzbSjMAzWUxEp9mQ5rrL8Qr3DDsKWalVRge+ozu5JSF+yiDdf089qgJljW0r3hLPmOpTac9QjCKC;Gs7tQU2ie8dxAqjxKCMphA=="
 ---
 

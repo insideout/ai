@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-way
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will"
 
 related:
-  - title: "Police: Waymo self-driving vehicle involved in Tempe crash"
-    excerpt: "TEMPE, Ariz. (AP) - A Waymo self-driving vehicle was involved in a collision in which one person was injured, police in a Phoenix suburb said Friday. It wasn't immediately known whether the Waymo vehicle was in self-driving mode when the collision occurred in Tempe late Thursday night."
-    publishedDateTime: 2020-01-31T22:38:00Z
-    webUrl: "https://www.sfgate.com/news/article/Police-Waymo-self-driving-vehicle-involved-in-15019509.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/Police-Waymo-self-driving-vehicle-involved-in-15019509.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Police-Waymo-self-driving-vehicle-involved-in-15019509.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
   - title: "Police: Waymo Self-Driving Vehicle Involved in Tempe Crash"
     excerpt: "Police in a Phoenix suburb are investigating an injury collision involving a Waymo self-driving vehicle carrying a driver and a passenger."
     publishedDateTime: 2020-02-02T11:35:00Z

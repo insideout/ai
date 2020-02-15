@@ -37,21 +37,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e34b4b5f133f400076b58b1%2F0x0.jpg"
         width: 1199
         height: 763
-  - title: "Police: Waymo self-driving vehicle involved in Tempe crash"
-    excerpt: "TEMPE, Ariz. (AP) - A Waymo self-driving vehicle was involved in a collision in which one person was injured, police in a Phoenix suburb said Friday. It wasn't immediately known whether the Waymo vehicle was in self-driving mode when the collision occurred in Tempe late Thursday night."
-    publishedDateTime: 2020-01-31T22:38:00Z
-    webUrl: "https://www.sfgate.com/news/article/Police-Waymo-self-driving-vehicle-involved-in-15019509.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/Police-Waymo-self-driving-vehicle-involved-in-15019509.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Police-Waymo-self-driving-vehicle-involved-in-15019509.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
   - title: "Waymo to begin self-driving deliveries for UPS in Arizona"
     excerpt: "Waymo, the self-driving wing of Google, and package delivery giant UPS are partnering in a pilot project to use Waymo’s self-driving Chrysler Pacifica minivans to shuttle packages from UPS Store locations to local UPS sorting facilities in the metro area of Phoenix, Arizona. The goal is to explore how autonomous vehicles can improve the ..."
     publishedDateTime: 2020-02-03T13:31:00Z

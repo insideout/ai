@@ -5,8 +5,8 @@ excerpt: "Similarly, competitions like AWS DeepRacer and Kaggle’s Connect X ar
 publishedDateTime: 2020-01-22T00:00:00Z
 webUrl: "https://medium.com/datadriveninvestor/whats-the-difference-between-ai-and-machine-learning-94eb2454f176"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "GCJ6OEfHwjq3ejUaAdGrTNAiCuHQPW7H65qwveQhSAbhoiT33UfW94Kw8sMyx/VV9kyfV2GfSJGIGhBrGf8IC+7MfSKCd497gYIfh1UlLSHFotQtiZdpMotF8YBg/c5xN0A2BUoUHZufnhXUqOeIKcABpOOdAN+uYg0K3HuX2mOZxabcP4cAgVIALzpYf598IOmfabCvy0qQtzARex29wbNI0PbYe4fEspzf1Jp/+5aG8mXil0Ilpo6klAFYm94iUzyF4YdJRxGvIXUYs2CKuhqfET6k8h2yAI1XQ0jyO54PlYigCByzJux67ZCxt/ZO;+Dk1mTcLwfnjgdvzzjmF+A=="
+images:
+  - url: "https://miro.medium.com/max/696/0*-1cSv9E5CiJ2IA96"
+    width: 696
+    height: 328
+    title: "What’s the Difference Between AI and Machine Learning?"
+
+secured: "/IbuKP1W64pC0eX7zqzBuihTA61FOSvU59oqLiLJE3dUJPld3WvLSIAS9xkrs0UpvNMsoTobYqEHAc0+5vfeGgfTM2quCgMpryMuLKtUR0+TkCmclYXS7E8D2B3MkKv7XybgYVH11DVlgMkP4PFU4yClcfP5rszRPIJZKUP8BmIjpKk68xN3cGSTlutea61a8kRxBW/WLdUYtxqZ9aXMnmnLZnP0XhhsKUpZzXe1rZFAswErbsSr8Rp7jg9JfIFFKUAGQOmIMrptnic17lJXttLe4+mFfmwVfkaVtxx7NVMYfXiic8InQ1w/SZTnPqIy;1LOc2eJBLRnWRwZgqgZMWw=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "GigaSpaces In-Memory Analytics Platform Now a Managed Google Cloud Service"
 excerpt: "\"Using our single data platform, you can execute machine learning models in production using Spark, TensorFlow, and other frameworks, as well as fast analytics, BI and visualization. Not to mention, the platform allows for data discovery and interactive visualization, as well as a 360 real-time view of your data across any data source."
 publishedDateTime: 2020-02-14T18:55:00Z
-webUrl: "https://virtualizationreview.com/articles/2020/02/14/gcp-gigaspaces.aspx?m=1"
+webUrl: "https://virtualizationreview.com/articles/2020/02/14/gcp-gigaspaces.aspx"
 type: article
-quality: 2
-heat: 2
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
-secured: "jeZnx3r6pgb0zKpgvdNMN/hr6lulU6+yrh5YvMCKtJWPkmGAvEa7R6Ssy4/ZRU8gZAx8tsO3AkLaKAjmDHTT1Py6p7Krd/pRpQ1LBDmOrfqA2fNlgFpFR0P/SpHv3+REwdfB46qHKILc2dwvr5jTFArNfLNzJcDICl/03a+BmSofx7EOuJzxE5NDF8zJmmWnP22NlunfaZSJFCytbgB4EsxbRfEyLqmVDnT7ff4mbCvZPGShT6qAbtd6pRYCSEzH+NcfSz/ptA5mNuNBeRh0wxp+ZS/aA0T7oh4Osaa0wDHpI2azT0VLidScKhd6EA1eOdHyxpH6p+9bWlg84Vf4lPW3OwNq5bK0dWC2vAPMEFEh4wAeIHskV1GpgN8IK294jwPYoQ06hiWeOcpi1ssiN96ozxDNz0If+f2NOtpZpYpJXVWA5QbbF7m7b28vfNty+Vka+9F//1/R4juN/qNYxRfIjbcWq5BC9OGRNSunG84=;fY5QN+UYDvg9n1GofmNyhg=="
+images:
+  - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/RocksStacked.jpg"
+    width: 647
+    height: 450
+    title: "GigaSpaces In-Memory Analytics Platform Now a Managed Google Cloud Service"
+
+secured: "6+qiR7jE+IuRBkO7jOPoXgIJUcecO+1toIWy3u6r54xEI/OFhhsJtTkboZENE+mVyKZ/O71KWyinuFQJ3IfHlvG0xLxh8NwekGKnqYugY0NBXKqb1xddVR1EPQS+i6UHE8XynJ+4tYnTjX5LdpcwW+e5f7j79PcTfTaCykh8t8GYXSbpkLiTIDuFK5TKxyya+BAZf9RcGD6BrjFllOmqe6C3KLsNux9Ouoj+4vYHd+Viub+S9ExXwEv/L0GJNAihoNuRxL1BW1AQ1AA37zI2E9vLKxsyhzODc39tfBfEFi4XJaj/LmXdGuY3OMzaXeHP;8gk2/OlqW56/bfVXpiYWCg=="
 ---
 

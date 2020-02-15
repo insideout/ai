@@ -5,9 +5,9 @@ excerpt: "Benefits of automotive artificial intelligence include - driverless ca
 publishedDateTime: 2020-01-22T05:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-01-22?mod=mw_quote_news"
 type: article
-quality: 40
-heat: 40
-published: false
+quality: 60
+heat: 80
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025"
 
 related:
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
@@ -41,6 +47,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "B1SqKOr6tR2VbDt5zLE7ySw1WFKpW0JBIy1bEfMrYvGvaoCdlT50RwZkcpcKQUyL8Wa3xfb/N9VGZmCsjIEIGSc1aPBqjy2CFYAFJ43yOFqYWF3ymIC8gH5wOsBqAQLswhslRJCYbfuVRGnYG7mZo4rrX6pzNoowPx8tGU95NbtqRkRq1/cPHjcyEHyGkCc0sF5IBhE1J4WDsgaNwWptBK22xez+U0Jql0q+bvfgHw0yxU7d313gaf1K7Q8Bkx3koaIFByeofGeizK0yrEtjWMWurtkN9Ru3FNaSyATu8/eVE378x/oCFyDW5Zcskv9O;rQgBbfThPctICIlX8Aq7QQ=="
+secured: "OTtbknPq1anrUWoyZ/vuUpXT/Z006F8+B6OB7T2CnSf/0VezFFUPT8RF3xIkZjBH9mIPSPHO+OnsquIn9hl7jx4TT+m2H10E7PZj19UZnlcDYWXIidc3W+VbcypcziChSErTmxMYD/ggcroVSQ9CFW+CgVrXY+ZkU4khWGnj4rSxIdMhls6UP82R0bJzHgzyhjkkcpPdFqyn16S8h1dyajaBFPSBcm1rl//hBdKmcgPfiVKI2uVmOxouoU3qDZjZITUtURFK0SKklASqTDUX7K8aGDkXsG+5xnxDgfwjX5C+dCY/vmvSzrtMlJBWyV93;HsAtMYCAHwfjkv/dQtSgug=="
 ---
 

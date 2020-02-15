@@ -5,8 +5,8 @@ excerpt: "Raspberry Pi enthusiasts interested in setting up off-line speech reco
 publishedDateTime: 2020-01-23T14:01:00Z
 webUrl: "https://www.geeky-gadgets.com/raspberry-pi-offline-speech-recognition-system-using-mozillas-deepspeech-engine-23-01-2020/"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "EzlZMybePZD/Qmkj1XNhGDTbTdztYqeK1hAL4xC5y9js/x+Dfp+TfhcI0r9W0oRfgAmyyU6uIciuSH3kwMnHA3/UO11fUmzDZI9WZk+2RXV2r5aIAnD+JzbygScPU7UQ/CrKADzOk+v/QYnGUKVlSrTFzh4ZcF2i3HIw7g/kXzn44p4LFG0GXzotu1NXIn+R7kBumtVQvKdmNDKWIuJ6GcOoYOqN0Q0tMC9L/EHByXcsc71WVMO7aQE6qHQcKyHsqK5zx/1SwPanmgWnKgLAyfMys66KHstIWiRnVjrVnuRTV2FBy9Jv0OLTMEd3x1LJ;YEzAMyaCugMlcJU30Cl2/g=="
+images:
+  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/01/Raspberry-Pi-offline-speech-recognition.jpg"
+    width: 700
+    height: 500
+    title: "Raspberry Pi offline speech recognition system using Mozilla’s Deepspeech Engine"
+
+secured: "bsUvQ06fnvUkLCWo/aN/z4nASpxaTI7zZT3OS1QKpK0e8X0zLmTP4hDEtqcwvbJqcBQy3b8tOac+ofmBZvPCqI0dIaHZhyPXpIS6fZ39LW0rZ0zvmbLkEwjEjG/9k8n92qtqSmUFwzcYm9IW126OytHkBIP6kYdMpL3Q4Qt8V0ex2WCxwYuoW1syla5wMvV1xj4501oOGvUDpsvKjTOcNDqI6q9Kksbg3InrvQT3Huypva/PRM8v5lTjy7trScywaDFQNOTYLgoMvz5W7jTeo4DCUMsxg1ltZcO4rcBaf3b0gsYSu9BsutC6DpyLA7kR;pM6ZnmEfZ0swIvXiilpd+g=="
 ---
 

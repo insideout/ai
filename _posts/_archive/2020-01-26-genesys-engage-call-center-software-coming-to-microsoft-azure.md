@@ -5,8 +5,8 @@ excerpt: "Microsoft and Genesys expanded their partnership to provide a new clou
 publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,17 +17,12 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "Microsoft Sees Azure Sales Surge 62 Percent"
-    excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
-    publishedDateTime: 2020-01-30T09:13:00Z
-    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 34
+images:
+  - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+    width: 320
+    height: 210
+    title: "Genesys Engage call center software coming to Microsoft Azure"
 
-secured: "Rlvjs1ehkmRH/f91HHdO89BZyA37UYWZBEToE0XIXrJ2iT7NhaGts/UbKzHjSKZMurXj+fUnQQRCbE0ENa6MGb2ETciz1QEGT37uGVwY/y1bVRTcakMNM4TwtcICvvPmYru2sT31Qw56r8UXaqfxFLZjz/Pk6zVbmSHqvm7U5g7FUP/71/NoFmZcig/99SAp0ClC5nT+G1sKmsAmZg168ClvRhvLQ/r9FKspg6D+qgYT9AmkqXvxjOH1Ekr6keipClK8DpGgeFN0/zUXzuB+6nsOlj8kbvlfwQln2Kezr+6FAJSNRMwi1BqFwNG+GGGu;f20ovJmCOKB/sbO5IPQRbQ=="
+secured: "3IF6DAfDfTfKmkF//2em1mOx804QwWHO1C93nrab8LHOMWOcr3K5APHx9J6vavF2DOMDuNVJn1FXV2udko07p48WYL8a+RZr+gI/h5+FphFXB2LPeW4VZdZ+NHhv4/Ji5+yW42wP/RBi8nkF67rUleAljNQ2gxtF1zZWGKs+LEYkM8Am7C1GSxMzWQD7qO5Uoo9M0xhmhY3DEm1oPCWJ1HyMws45Z2TvLjr86UfOJSgIv6fT2fhxrt33R5O5g1N1kXwti8013/HLzOpUk/5JMOUTQ/tOtHGUQmqD41RsJBzl2tUVIrTggO8S+KNS6ftU;v81H1rmBkgwYRrCwAOLC9A=="
 ---
 

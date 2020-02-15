@@ -4,9 +4,11 @@ title: "SkyWay: UAE's driverless pods, cable car project takes shape"
 excerpt: "Driverless pods on cable cars could soon be the answer ... The unicars, which run on batteries and a “dynamo system”, also have artificial intelligence capabilities that ensure the safety of passengers. The unicars are able to autonomously detect ..."
 publishedDateTime: 2020-01-26T07:49:00Z
 webUrl: "https://www.arabianbusiness.com/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
+ampWebUrl: "https://amp.arabianbusiness.com/amp/article_listing/aben/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
+cdnAmpWebUrl: "https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "HvK9i4Le9jwhy5xuPMATKRXFnWemsS65zjimrn7RCnNR5ZZUdwm2MiA/Z5/XH/6DuUuIkYq9xyUCrJemg2WAdLFzr0ubFRW7pjz2kTdgHKPacZe4YY/ewDWFan4DZCVt4YYl/fKNYrpGdDHY2p+j5mdu1BTtNTSLHj3WhdU8QSqA4Fv5/m4bxxzBv1hEkxqxE7597+PJdo7WOnTGkvucMt9CVVoh62+Aw5HHBJ7LfUBym8ryQBnLHFKLun6PZfWjoL7ec1EhElvVFtvKhbzFNPNC8AwJT4D+ksCwrMHkUx9XSeLCXmL2a+Oa1gfc4k/m;+TukPckooCjNmZZdeLNQrQ=="
+images:
+  - url: "https://www.arabianbusiness.com/public/styles/fb_share_style_image/public/images/2019/10/27/SkyWay-Sharjah-SRTIP-2.jpg?itok=ahrx_pak"
+    width: 1200
+    height: 630
+    title: "SkyWay: UAE's driverless pods, cable car project takes shape"
+
+secured: "0NIZVi1+zloISJkqGUjTvFMfVcllIzRG3k/rgI4c+aPcfMwikihvyLVSX5Vf2axlKqYwZs7gQHMXi2esdlVnQc9ZBuJUtEtUoRR2axLQiEpsOCpPtIlwP2Lx9sSTsP06NyvyLfR/wHZivkg/pNZMW7+nzflmWs4fgUwQOhc1+1zebTFt58VtqvKUhagMzzmmjw6zJi5Us8yUH0p01R/CK4FcHspEpUlQdFn9GRKii6eesZC/GJ3/UvQSJes6k28LWSACioqd+l/7rIBqLifpDJOLxMP5yXRB7yl+tnCOzUEJDoAUXAzWfI6DBs/59RTZ;vHnDPQaaDv9pY8Lve/2UtA=="
 ---
 
