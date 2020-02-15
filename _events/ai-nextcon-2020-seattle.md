@@ -4,7 +4,7 @@ excerpt: "AI NEXTCon Developers Conference is AI developers-driven event hosted 
 type: conference
 startDateTime: 2020-02-12T08:00:00-08:00
 endDateTime: 2020-02-15T17:00:00-08:00
-location: Bellevue, WA
+location: Seattle, WA
 price: $$$
 
 website: http://aisea20.xnextcon.com/
