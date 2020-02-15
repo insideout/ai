@@ -8,7 +8,7 @@ ampWebUrl: "https://www.androidheadlines.com/2020/02/the-future-of-android-integ
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,19 +26,47 @@ images:
     title: "The Future Of Android Integration In The Fintech industry"
 
 related:
-  - title: "The Future of Fintech: AI & Blockchain"
-    excerpt: "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services."
-    publishedDateTime: 2020-02-01T03:19:00Z
-    webUrl: "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech"
+  - title: "Vertical Integration Is Eating The Datacenter, Part Three"
+    excerpt: "Azure Stack HCI (previously called Microsoft Windows Server Software Defined ... AWS Local Zones are intended to provide very low latency for high performance applications in media and entertainment, ad-tech and machine learning – aiming at the center of LA’s content production and advertising industries. These applications are adjacent ..."
+    publishedDateTime: 2020-02-10T18:57:00Z
+    webUrl: "https://www.nextplatform.com/2020/02/10/vertical-integration-is-eating-the-datacenter-part-three/"
+    ampWebUrl: "https://www.nextplatform.com/2020/02/10/vertical-integration-is-eating-the-datacenter-part-three/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/02/10/vertical-integration-is-eating-the-datacenter-part-three/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
     images:
-      - url: "https://static.businessinsider.com/image/5e305ac224306a476129d512"
-        width: 400
-        height: 224
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/skyscraper-cloud-looking-up-vertical-1024x1024.jpg"
+        width: 1024
+        height: 1024
+  - title: "Artificial Intelligence in Fiction, Fact, and Our Dreams for the Future"
+    excerpt: "To celebrate the launch of Machina, a new story about the race to build the robots and AI that will take us to Mars ... The first is the actual shape “artificial intelligence” has taken so far—neural network based reinforcement learning as in AlphaGo, for example, or deepfakes. These tools let us point complex computer systems at a ..."
+    publishedDateTime: 2020-02-03T13:00:00Z
+    webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/"
+    type: article
+    provider:
+      name: Tor.com
+      domain: tor.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.tor.com/wp-content/uploads/2020/01/Artificial_Neural_Network_with_Chip.jpg?fit=1200%2C+9999&crop=0%2C0%2C100%2C686px&quality=100&ssl=1"
+        width: 1200
+        height: 686
+  - title: "Artificial intelligence in the real estate industry"
+    excerpt: "While it was once considered an advanced technology of the future, artificial intelligence is very much a present-day reality. Thanks to inventions like self-driving cars, home assistant devices, automatic vacuum cleaners and remote home security solutions, Artificial Intelligence is on everyone’s lips. Since AI seems to affect both the ..."
+    publishedDateTime: 2020-02-03T09:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/02/03/artificial-intelligence-in-the-real-estate-industry/29447/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 39
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/joevren-brandon-griggs.jpg"
+        width: 750
+        height: 500
   - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
     excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
     publishedDateTime: 2020-02-04T17:39:00Z
@@ -52,6 +80,26 @@ related:
       - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
         width: 1199
         height: 628
+  - title: "Uber Creates Uber Money Team In India With FinTech Focus"
+    excerpt: "The Uber Money team will be geared toward putting into place new payment methods, harnessing smart routing technologies for payment gateways, using Uber artificial intelligence (AI) models for intelligent risk decisions ... “The Uber Hyderabad Tech Centre has the best in class fintech talent specializing in risk, payments, financial reporting ..."
+    publishedDateTime: 2020-02-11T18:02:00Z
+    webUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/"
+    ampWebUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
+  - title: "SAP Achieves First-Place Rankings in Internationally Recognized CeFPro Fintech Leaders 2020 Report"
+    excerpt: "“In essence, this is an endorsement by the industry of SAP’s position within the fintech space.” CeFPro (cefpro.com) also includes research on industry trends, priorities and challenges. Key findings highlight advanced analytics and AI as leading opportunities. These takeaways underscore the importance of making technology the backbone of ..."
+    publishedDateTime: 2020-02-06T22:53:00Z
+    webUrl: "https://www.newswiretoday.com/news/172295/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
 
 secured: "lwQ0QwpT86qn4sJrT9SHsWmun8dcVF8S3XsANoRTmZwGphP8aLJY/uYOKbPrG1iA36fmDvTQyMplTuNLWJdCsmbpgvRBOboA5XUWe6jhTyefWrcRGIME9oocGDi+wDlmdKnTOZXa60cdYK1Cc5QTYvVUo7s5jUaeahYy5OPh1O0VT+mGvVil2qZnOZARBtSa//FD2669ujMOgyU18fQKqtKcH3Ni0rMrmiQim8egiLOTG41TXJFBhIg41/rixcuuFD7VziyFDws5tiiVwgnVQT2au8uZ+wpkbswZtY93183BoYK2eAEPmROgoqkgHYoDWDdYsJJIxiBhNSPh6xcZGRL3M1C5pp5N/OE+tvvHRWWaQr7iicnrcYYWne27fsuBlFVP3lFZyg1TxnwnydOMk83kkeUlNoVDrdyIx0M3grU2+HEEj/PLHVErFyHmjISlkrxyqSN3sgE6Xbt8gI9yJJMG3n1w+PLssw8/pI3Tv8Y=;gVSYl9ukrvR/23k4rdmkaA=="
 ---

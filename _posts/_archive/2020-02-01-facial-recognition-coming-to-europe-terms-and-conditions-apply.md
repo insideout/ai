@@ -1,29 +1,27 @@
 ---
 category: news
-title: "NYPD pushes back against facial recognition ban"
-excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
-publishedDateTime: 2020-02-02T07:20:00Z
-webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
-ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
+title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
+excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
+publishedDateTime: 2020-02-01T05:00:00Z
+webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
 type: article
-quality: 74
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
-    title: "NYPD pushes back against facial recognition ban"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -41,17 +39,21 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
-    publishedDateTime: 2020-02-01T05:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+  - title: "NYPD pushes back against facial recognition ban"
+    excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
+    publishedDateTime: 2020-02-02T07:20:00Z
+    webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
+    ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
@@ -159,6 +161,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "2qNhBlRYUOm4hJw0zdE2coxjTppXfaf4mgw64TIeWaxyqBJEvS11b/W0HLlzIhWIviedzL1Mp4z7KYkakVuLwYnietQc5iX7unL9pVdQDMYWlwothOx6loX4/2CbXYV4Mk37HfHJaopIGy1nY/WTg63zSG3YkRI+K7k2H1Z/ZiOUooFnriDAIrKKNeGeWGZrKGjCzOBBBX1pKtFRQPw8QMcY2v9hTPRuf2radtQJ0R+MxSnOeTc7Z61TozXg6SA0aRoBwoT099rsLDelWZIZcFMXRAeoMlGWCb/6nrhq8Z79sEnT7dy5Y55RDYpbbASDHy/7p39re5iul7v8PnEp+V8N7z1SJSyNwAdtVtDIKXc5f5NP3zYly5bsGzabqB42LNTj50wekO9GPMmdwADrBTklIcS+kOXd/Xq7ScbJeSsq8skmht5SsVyGWhl2mPUKHt3bz6RjgDjdGSnCix86UVzixk6TftwO8uI+OQnxZzw=;tlNO3rlU4nBJ9lDPcm+SBw=="
+secured: "lBaEHKJq4DT0TvaeeiFqVuSYJk7xXN2bMZnKhyiJbw0hKCd++6/gEx4N87az7GCYZJVQcNepXYn7KeMrhpcyB0s++ceSrlchvIsstbD7sq3Erm9D9qA/rRPshydRDnaVCK6TyOJE6hZQfj3nDpvhUH5W4wqEvFLUbZjLKRUBDnZzPqIhFC3eU7YXt/cF83uihGWcuCEAmJMSmJr4mnTr0I6Cj5XhAxj7tMMKWlO3SeuarN4voUBqiumctqJKjjpP18+q2X512AVLyNOdOsgu+zi5ZXoX7HaB9A7Qe1H9r1AWx26auuuQ11UZm7UTydcz0/bolvi8FF2OaEb+hLkk7o2TuPIQnfZ3sve+65a95pidiZr6YrSFl4AT2VxRqwc65wVIz/UXquzJCtTUBmzEVfbeLsAubrLJHbInfTm2Vv9GkKN+kilxCb7nzadqk/RiqfeFIrZdnwhQQWzUfvkG9YQ0BwuK7oTBscu0Y3xifAg=;XHbFwsLYRuuyz+aOhtiKcA=="
 ---
 

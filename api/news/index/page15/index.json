@@ -2,6 +2,51 @@
   "page": 15,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-21-google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition.md",
+      "title": "Google and Microsoft spar over EU plan to ban facial recognition",
+      "excerpt": "(Reuters) — The EU’s proposal for a temporary ban on facial recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/",
+      "publishedDateTime": "2020-01-20T21:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/sundar-pichai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google and Microsoft spar over EU plan to ban facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-21-google-ceo-backs-temporary-ban-on-facial-recognition.md",
       "title": "Google CEO backs temporary ban on facial recognition",
       "excerpt": "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ...",
@@ -2075,50 +2120,6 @@
           "width": 1200,
           "height": 675,
           "title": "IBM announces partnership with will.i.am's AI startup at Davos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-ibm-chief-calls-for-precision-regulation-on-ai-that-weighs-privacy-against-benefits-to-society.md",
-      "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
-      "excerpt": "\"You want to have innovation flourish and you've got to balance that with security,\" IBM CEO Ginni Rometty said in a CNBC interview from Davos.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
-      "publishedDateTime": "2020-01-22T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106348968-1579704741780dp40l17y.jpg?v=1579704990",
-          "width": 5424,
-          "height": 3724,
-          "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
           "attribution": null
         }
       ],
