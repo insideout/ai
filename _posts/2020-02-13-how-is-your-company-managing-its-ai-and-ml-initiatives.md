@@ -76,6 +76,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "nIka6j2UzY3iuWVgYIdBCY/fYG23rG0WFyP/92EkYOKcIdrc7TihYrSj3Vrtl0eGIA9+SUPo482+eMKanwQML0QlvHKDpDHCCfocoaZ1HfJLZe/ItLnNIjNL54as5rGwk4Rh9q/a5XCTupt8ESRyAJ4tRPePLSp/bHjgenViM2WKjmX0Xm0XU7o8v9dxkx1EHTESzDaKpG/9hPwCcjdEAsPQb3spVTOZ0aRBgnmzoVcOYiPSOW7Teu7Yn2Ar4giS9P8zlNccYRbEfiZl5S1LPdu9In+htcN+XIqlv7DKzmbj7CGCyKujGoiDJi5gkKJU;0eez3XgHJOgXuk+oIcxoNQ=="
+secured: "g4Ym/DmmrAuW64hi27IDDB0p1y8QimyWTKt3spfA4Ind4wm9Ug9B1B7gWqqPnWrZLufF9uKpVnhB6sETckJHiMlivc+HecEeuKQqY74sLMTxZoieTtvACWbWZ7PaaNQ0ZkbA1yEXSIE3fLS85DFzD1w59qgiEDXPhweVmTVNOzCxIUTM+F+2dq+Annz1SNmGNqdF2mXGbUmr2PQOpktBouZTxnHyOn14Fh/jnjHxI7jFWEmtlrFBLww+7MisUVSGdSx5AZDgn0Yp2OMS76Nzc4Hb6q131kSGCmNaMDziMG8jazC0/AK3aTJd7sarAtsa;L3Kx0DeEd+CfIOprHfLyWQ=="
 ---
 

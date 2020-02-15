@@ -54,19 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
-    excerpt: "Excellence Market Research has recently published a very complete analysis of the Image Recognition market based on comprehensive secondary and primary research. The report titled \"Global Image Recognition Market 2020 Industry Research Report\" offers the most precise analysis of the Image Recognition industry for the last five years and forecast until 2025."
-    publishedDateTime: 2020-01-31T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-2020--qualcomm-nec-google-ltu-technologies-catchoom-technologies-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Voice And Speech Recognition Software Market Technology Growth and Development 2020 to 2026"
     excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
     publishedDateTime: 2020-02-07T09:10:00Z
@@ -130,6 +117,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "SBrXMNGtnpPhilxThB5zZW24tj6QD7JWs1S0SPgXxB/iyvfssuLEC6gYwuSLEP2z5bcWbLn5ZHqXeb58ng7fzIekIvlUy/WBoOzBRon2sygWJ8QpcCkcJbbhBC/jiterp7GIw98TCToaeFceJo6W5z4Oq7e869somaRiAOcQDZZbZElZBOjIRSGYauNTyyyRsenM+NifOd2zqBPnRAuYKclS6uAJHJQjP5hw/s2wGROGGv846X20ruMHw2MkgBZ1c/fhbyLuXRE4O+zSSTh6VG6MVtdYtNDqtgqiZ1EoEnzr8c/C3CmxzVAVh8NWKqr4;Cr4FTHmhbBgFR/nT+ZKTCA=="
+secured: "UgzT7YN+IvMuf49Gbjd7b6CToSNSi/VBOMKEWOXUfougutglzfUuVUAuIhCmk3lFBZ57j2wtXRDqVymGhbj3ibzFH2E/WzmF6baUlrsQZPztkQmGsjNSnLSasZoacWxipU4aUB9Q2feLtmG4VQN/arANd6feWNDmXYV8jCEi3C8adN2dGqQb8NXa8Pj4zle4GLc16IvWsvWXaaxulUWq17ecOuq4riVqPYa7od/AsA4EQ8NDLr2LzApOsj3yNP3j0za2lPaVtnhfLzVfoVgLU6XeE3t1wS4SH6n9Qr+ZCB/2ZCx6x1FgrLThj5gjmZk1;YkSxfeI7pD2xlWuf4n58JA=="
 ---
 

@@ -24,19 +24,21 @@ images:
     title: "New kind of robot learns on the job at warehouse in Germany"
 
 related:
-  - title: "Nike launches robot-assisted warehouse in Japan"
-    excerpt: "The Chiba center's 215 retrieval robots scoot around to bring stacked shelves of inventory to workstations. Staffers take shoes and clothing for each order so that others can pack them for shipping. Artificial intelligence is employed to assign more work to the speedy. The robots track their own locations via QR codes on the floor. Through ..."
-    publishedDateTime: 2020-01-31T20:49:00Z
-    webUrl: "https://asia.nikkei.com/Business/Companies/Nike-launches-robot-assisted-warehouse-in-Japan"
+  - title: "A warehouse robot learns to sort out the tricky stuff"
+    excerpt: "Standing nearby at the Obeta warehouse, the California engineers who made the robot snapped pictures with their smartphones. They spent more than two years designing the system at a startup called Covariant.AI, building on their research at the University of California, Berkeley. Their technology is an indication that, in the coming years ..."
+    publishedDateTime: 2020-02-01T15:25:00Z
+    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F5%2F3%2F0%2F1%2F24741035-1-eng-GB%2F20200131N%20Automated%20warehouse.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
-        width: 1024
-        height: 512
+      - url: "https://www.baltimoresun.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg"
+        width: 1200
+        height: 900
 
 secured: "JV6Np2jwZ1aED3f0ngr4+tKN1TFQoCEm+sZZckRC+fBcrxxyl+eT5WkNkT9B6upvffjXTUs9dkU2LjbGELxRhlCMOXrE1DhcHkORnKbdg1TVMDOPWcfcmno2cmCekj/LjLUuR5BsD8+g6leu9JfxXz1UVnszvKz52JgSTDImIQCNk4g+9il9TNbURzvkFbVAGNbo9aVG1KUTATJamzTkOacncaXI5z7sHbUf3WOzWgx73NFnsWArOuc/IycaDNFnE0vf6dGm9AVvlyjpcmHwb/tCs3S/ZqU2BlNZwHd8Y8P9oVT0e22l/+/izpCuzPnB;BeR5G7hGlNhWZ4LTp5i/RQ=="
 ---

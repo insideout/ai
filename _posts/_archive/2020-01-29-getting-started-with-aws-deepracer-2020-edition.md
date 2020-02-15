@@ -27,6 +27,6 @@ images:
     height: 450
     title: "Getting Started with AWS Deepracer (2020 edition)"
 
-secured: "Cb1hnDY3WgIko2w17gh9r8kMvbMUajK3/UdIJm09PRjtTVDlmpZtXtEEDtk18euTmnLUA/3BVOlPzrI6ROwgSkq/mjgGOtNA1jJORzwkUX2zJeLFWmvXUlkOT4N5p/OR9TX0fma3LRLAXegbCgoQ6KSf/CovCBGfubB/+bYq4gGZ8+W4dw3dArGo2luXOoJMZYngz3+dtecknwTHyQhFNo4HUxD+wRR5cXtPNRg9lxTmqQl5zSM6ricNbBRJcAkP2AUAy03RK0sjEWGVzevY7p3cLtmYsA/v20ek+EOCm8reCw7OQbLDHtIHIxv6/vtZ;rE/OI4oxBB2NsMOSCIO31w=="
+secured: "telyOhhpDR9MZiUR9WdgnxGPRHMKQnCCwe+hIv/k3KsmIEGLBDIUnKxRGmW21tj6aFFZhg/ALEfhspAz4/czUyRtn2zyXAXWhfWWTswwjk2Ay7YMbYbA3tHWvsO6j5RiLgeNoJpdzTZ4tWXGnHBHCMdHoAPDHVpCKxDWvqlUb3tLfrComhv4LMRwR8TZuUGyq9tM886lGojOWzzVulsflTD/BdiwpgTNyeA5mNSKXbM8poOqTo2ERYrrXEsWHS4Ju/NcEvbg1dzjE3aGqiKYynXu+aQllrmL5fuxIDrS6XafKgywOXF9rhtyoyA7wgcv;rnvrPI/Ike+jfeToksf6bQ=="
 ---
 

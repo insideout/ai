@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
-excerpt: "\"The algorithm could also be adapted to predict therapy response for many other eye diseases, including neovascular age-related macular degeneration.\" Predicting treatment response The algorithm developed by the researchers is based on a novel convolutional neural network (CNN) architecture, a type of artificial intelligence that can analyze ..."
-publishedDateTime: 2020-01-28T16:45:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-01/tos-aip012820.php"
+excerpt: "A new approach that uses artificial intelligence to analyze retinal images ... agents are widely used as the first line of therapy for diabetic macular edema, but they don't work for everyone."
+publishedDateTime: 2020-01-28T18:14:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/01/200128115419.htm"
 type: article
-quality: 33
-heat: 33
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/222735_web.jpg"
-    width: 720
-    height: 266
-    title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
-
-secured: "bWMbScq26iM5Ih1lYVRvMSzKFUFLKYcSUTt8wA2okxt8fynvavu2G1QPWjl1psqf2KddRjqeaOsmKsgi3PQkB6G+2j/pfegUltrNWJdmLFFYJaTLczj+ri+xi3/kirqezkL8fSbuvlUNcCHjxA/JdHA5KPEhuhazbc7LsdtKCsjxWmrQqIFOZwUyP1i99XD19oz9Whjjnei4xzkqyS70Hvd+fzwtGTttSNjDFzi9WfMPbelzMG3ugHG1VsY/Jkk/NbcufbGdeShgTdOzEgXIwVziKhGSeG1C3Ke+ttEevp+XEjWdxzaYWOMoZQSayZs0;iizsP4wiAocwlD1PlmD+nA=="
+secured: "+DszpgVGFkv3yQjh4gaoe/pXfVwEsnYkipu1N6mShY3/MHADBgUZQnpklgiur652g/mK9rqbIQnlUDAf8MrmgcMG44xpJ54BNVI2wAUgJnE9hDso7ivJfwsJYqvdvLAchvt5dYjVH65coisuArUqZtGMoaxmMKxrgb0B5dDPXsJDFXxCnz05KQBer004MsM3bhb01DCYslELtxCZ1odcVTH/wI6PtxIbZxltzSxiATruABl4IwnLtckUF1wPLB97Xy8TBTT0O6wKXbNASO6IHO8vgmi1RG3DP84krv1lj+H2dohhzYSst8PGzDjuWeRQ;A9mL8pMzpmlo/jdLsTzckA=="
 ---
 

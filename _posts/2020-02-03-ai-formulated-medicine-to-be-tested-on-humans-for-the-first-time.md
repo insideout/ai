@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/03/ai-formulated-medicine-teste
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 600
     height: 350
     title: "AI-formulated medicine to be tested on humans for the first time"
-
-related:
-  - title: "Medicine created by artificial intelligence to treat obesessive-compulsive disorder first time"
-    excerpt: "It has been created by a British start-up called Exscientia and Japanese pharmaceutical firm called Sumitomo Dainippon Pharma. Artificial intelligence has invented a drug molecule that will be used to treat patients who have obsessive-compulsive disorder (OCD) for the first time. It has been created by a British start-up called Exscientia and ..."
-    publishedDateTime: 2020-01-31T08:41:00Z
-    webUrl: "https://www.wionews.com/world/latest-world-news-medicine-created-by-artificial-intelligence-to-treat-obesessive-compulsive-disorder-first-time-277753"
-    ampWebUrl: "https://www.wionews.com/world/latest-world-news-medicine-created-by-artificial-intelligence-to-treat-obesessive-compulsive-disorder-first-time-277753/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/latest-world-news-medicine-created-by-artificial-intelligence-to-treat-obesessive-compulsive-disorder-first-time-277753/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 47
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg?itok=cVucXcjV"
-        width: 918
-        height: 506
 
 secured: "sm2PQihypERSturHMev8C9fjDFsuV227jprHyKJYTMphOm9I1PQhPz8umufSzzigr8koo/Y/TFu28msDiBX0cihy/qijW4PiXv9nJEFr6Cn7HXeiKzVv0CRpvLS186/fyQLap7fzD80P7JjO6qtefvd+/EdAPV3KBzjJzeD4NE+o5VN86Mr+hSjp4UlkcnlpfnLb2Ycnitmd+tOpLMgba22CLIeJg5/cv9ygAvbV/xxquSCyRkJax1F4nL3XSBL1ErBzO197AgvXR7lM8CLrUktMFdZEUFsoffaVrRnpcWam+c6bEV9YCHL7sqW/CNdhSInZJoYK9fOCQvA2kfAC6PQao+evSjDDEAGkyiQN0ri+Knn+FHWzUaII1iuwdrddl/udecb1+hlYST0UPmtyfkNXKREkIz7vfrj3ua1oquM9m2TOAwmFDpG6oVjaJ4EUAWWCJ8bXX0dksMqlmmYG/6Md7WJtDB7JLFVOU0OQLe8=;/NLjSG/1tSMHHfV8K88e/w=="
 ---
