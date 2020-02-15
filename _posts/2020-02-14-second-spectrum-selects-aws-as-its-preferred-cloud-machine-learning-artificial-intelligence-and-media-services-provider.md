@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
-excerpt: "SEATTLE--(BUSINESS WIRE)--Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning ..."
-publishedDateTime: 2020-02-14T14:35:00Z
-webUrl: "https://www.businesswire.com/news/home/20200214005074/en/Spectrum-Selects-AWS-Preferred-Cloud-Machine-Learning"
+excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning (ML), and artificial ..."
+publishedDateTime: 2020-02-14T14:00:00Z
+webUrl: "https://www.financialbuzz.com/second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider/"
 type: article
-quality: 28
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI
-  - Machine Learning
-
-images:
-  - url: "https://mms.businesswire.com/media/20200214005074/en/773548/23/AWS_logo_new.jpg"
-    width: 1200
-    height: 627
-    title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
+  - AI in Finance
 
 related:
   - title: "The AI Eye: Second Spectrum Chooses AWS for Cloud, ML and AI and NVIDIA Posts Q4 Results"
@@ -64,6 +58,6 @@ related:
         width: 820
         height: 312
 
-secured: "oYj0dsYQAxSsvRM0c81mxLI2z76dY+v8gGWKyHm4xlsF52JMeWh3By46eUi89EwTZxeQ3GaCOn4JMjYlK0KyWLjMFwsCV1/KnkySlZfwSOmsqWwjgzlZFaRCZQ4mgJAzY+eyzxYxJys+sr/nVh1itY4edUJNWQql7zb/jm8oeZvve4dP0qz+C9+8ZbIXgb97wnNGoiU2pwyGQEOIgdB3SyCDYuagkubXMFsvaT3knaWfV5Kjg/fU2pXZ4jxL+l/87YV/ZEMXejgP3D8A9YGdt997Dv5OgSRQ+mPMloxtDuSYxCs10QXkMrDRpce1G2Xu;dgJUWLnSDdpiVeSQc/nnxA=="
+secured: "8UkYF1EbdJw1GyKuJvczOwEYw+AG2ArVFMctGmPUwMFmMBC+3wBFaz8fv8MozkupT7mSWfAUj5IF0yJqVJ3lTZ1swwyY0XOV8JQifn/fwEpShQpOdpzknB8q0GNvWyPEdDpeJjNXJFUP+jbUOkpyko6amk/Wu69Rs9XFdepmFD/3kjru8LIcM+g+oVCwbhnQj94abOKpLPnW+hLmjILxpEG2TMKdRRPDHsc53pfp8+cNh2/w73YD8HVNfk54teKIy1yk+JJhKIfLhG8joUor6P8dZq5jTFlm1fonHIyJ7mZb4YsHu6aFLw+ssiGg4aSf;3KeR1/fXHZlL05gYhAk1zg=="
 ---
 

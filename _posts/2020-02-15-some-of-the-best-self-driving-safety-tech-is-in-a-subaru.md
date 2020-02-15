@@ -23,6 +23,6 @@ images:
     height: 603
     title: "Some of the Best Self-Driving Safety Tech Is in… a Subaru?"
 
-secured: "aEefRnNdO2VX3YHTV9NOMYxOLFIwAL24FDacgHrkAYM10+upi1nTsD3uduvLEaMJ+K8sRUzU6vUxQ0+YaMOoqs0TAJ9k3/kuQgl6A+OquYyeIpcV/d8lZ1+AfzhYDUmi1iuygQJh2DyjEAybT1QS8AZZTNz8zQ94J6a7HFl/INv7f2oDONZD+OESpWPQmkGkQfXhZeSW+ujaBrSqCCLoJy1lRIuDEllvHOIO+S4MvJ2R63aSA77Wr5ORm8H1ZKR13EYmvFijPPqQ5n9ybCJGLN+xuIbZBxi8V/xkifsgD8jQGk7GRhqnywLQcSaJh5qr;JWOgYTwdjT6Bw92WokUvNg=="
+secured: "fTjXUh4Ts0paH1NELloHkbjqgbHXpPXQl4/fVmsDpSxK44X4S03vJJoke8a4s0SewIHO4V6daYxnckzW9gLgDVpW4pbmjx4me4qxmJb5O3OYII4UUYlbMTM8apqa6IeJcShhVmtuGE++Km9uLcBJRu4/Jdr0eVwxpzoXpQyeyJynMl0gySWZKGNJ0UxtLQoBrJ2B3LZafv6D/tP1At4kU0x8mKiq1xJWamewTsmASki5ilcflFxd20hchyRebj0GLJCEguESYYi8JLQN/lv8eqPlCqycNo1+pl1la+WqGysGSbqizMB99F7sG9qBQ6Z7gm051hayLbkUq1cZbRw4MI0+rri3dI0V8OIRqV1o/bUv75AhVtEkKulXrLmlrNbJ6X3Gf4HKtE/h5ZE4Rd6F1QoHRADPpgL7Jw32wDP1Cag4vJdqyhcvXM9ij+lVO7bTki6cZR/m5/V6UgUw1QcAZPWKvGHWU790xByY+fjbmX4=;lwMTRH5JwGv6ZgnMARjuHg=="
 ---
 

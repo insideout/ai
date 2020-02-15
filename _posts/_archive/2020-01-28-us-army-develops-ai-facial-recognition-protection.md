@@ -54,17 +54,6 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
-    publishedDateTime: 2020-02-01T05:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
@@ -159,6 +148,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "PpGx5DJe6T4slV2HzAoKNj17l+zVEf6JY+f739wlpuP4Lpn/+uTYq9OuOLCEHhWWJZg+Wj6RaiiZ/RTnEExzlq+KBnOIFmM+uKaQb181r/CRkhejgOdsn+6tg1NggRXVGwywA+SdafYEIYlosyK5CzydQjXyje/3NaFeSTJ31vEQyYcs/E/H/qhGp7gcnuqC8JpFQp8gffx/ZsQVscoBiP1VpiyxuGW/rFmaQTGlaQxl2sL9WfQ2KQTGrFhvVaVaPHNUjvM4rrQkrF12yvp93rHlb9H8+6uvJdonSWITVKqAYJ68VKrIZLh7ElNXIkV7;R8bDVriQze4SJFkW09ZzSw=="
+secured: "bAZYefkLdNGlEa0U2ZxUuN+5Q/R2kQWUcfF5RxrzY4OEz689FJKnieQwcYxiTjYS4dJdmaUP0JIsoy76+h33b5Ltr4kpo13quU1jYIRaUbxNuR/K455pLkkLYyAcOBJNA2TPWCk7Mm1fBZFKNFFLe3Sw+n77/yrVnqg8x2wq+rGQiEce2GmYMQM1Wze3o6p4ecYDavbWFc4o2AbpWJzjcLzWh8smXJORvvFhjUbO0RmOmTZTCjLL0gfhCKg4iVqGhPqEcGElbybTrKxYebIiHuSMqmE/+jYAIhVMuLrYmcqdZXCMQCgu7mJqpyazmY46;CDIyabAX86NTeGAPqp0hVA=="
 ---
 

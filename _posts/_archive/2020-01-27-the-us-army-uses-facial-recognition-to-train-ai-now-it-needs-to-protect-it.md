@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
-    publishedDateTime: 2020-02-01T05:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
@@ -163,6 +152,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "Tw324gxv1P4aYVFtPM71gu5GHPQE7MvnNyDbixHWgr8wAT2ckYjJqOi0l5WiUhMca+vPvTTgBLP4m3cWNTxE+4ZW/SIFW619aUZ8+dUzgo2YAOZ6BKBWDzl+ECx8DFURLk12w57AFzFOzH78IrF7h2Cp3peM021xxJMTmWD1E0ie3TN3jKngg1NtQlcEBeZxC3MYFLKIOhD7eoeXEQrkphjSq9ZKoPiIZBZ7uyNs1S2N+IltNiH7b9AdPBVtsbbegksfx4/ox2OaE1UDaLktHdz+6ZcsI7QBgxXHxNm/ZQWs4D5QeVvAl9zfoxyMpodO;X7MqFOVu9YOANVIA/oLX1w=="
+secured: "faQWGboUXTO+uG/Y4/9IWolXcSPes2GlsnDkfwGNoY03DBdYZ4317bc4/W9XVi/cQ+eU+Vb8/vcm+ePZRTUzeAr5AZO7C6s5hFKi9ZooVFJEwC1v440qRRS7QLNOkxD7+puUiEowaGp80/yeY2cFcAHMOKR3qWYt/DrwforkRDGXaT0zid7/5oXdX9kgm1tQlHvytzEv0NE8t9/e5JnHdsPk4DJTqXsdzFWsLB8Bw7cX2FlZz2CEaJL1TtlE0ziEoyJEExgtqeQi8q66f+nujSOZR3+vFDYcdp9dDqUn6PDy2c/HdAb4J/uRrvz749+g;Fl+HdkpBCGxMtiD5w4sNYw=="
 ---
 

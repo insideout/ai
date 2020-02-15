@@ -38,6 +38,6 @@ related:
       domain: dqindia.com
     quality: 36
 
-secured: "QHjMYB5f9Cgshn1c0DAI8XeIpri7+RyQbJN9uREzau9fowmd/OWQgnv34aTuIVtrdlYH9tOP9EhjprfMcb76T0He16zxa1T8BXp/BMvDoFJjs6LydR7HB0MtrYv1NI4VprdaePG/6lYHAcBe0WRPBWH94Nua50juL2I/KD3kb1MASbh4DfM2umbKGVmvRiWegCLiVPuWAGawm+M4xScHTTeyrpchB3FffrwWg93BEHRXXqjF5ktDxmf0tjUFiM89sWtk0KdhW0LG7YHOsN2mS7Vqa8hgzY8hXlQ0v08Kspm+KiYfFJHpBsWLwnSow2HU;Obud2i/rDfwlOZhinwYBxQ=="
+secured: "LwT1XT+MTJgfPJ5Udftx5WVzNDjRb9dWrOJoGlvjfkvLqelAmAkW/8T4QIn1d0P6PRm0yooloN0guf+dRwFp5ZI8RegvPaNEEOjYLjQhtbnTjs/h+OfcjNzZXg5EAZ7xBBjEjGLDybHnVIo1vt/KqxvvbhoWy373WoahPJrCd6qvBUGEDboTp3obSi7i2zXBnf8vGL/g7aC+Gh+2nbqyMp2Tp00eG5Bc1dzRNCPKfoT3KpS5sYnKjTxf+mYrL0HfzS9upPYzr73w2adweObR8qmJYdVTL/vQMfzb0u6IpUCxI5Haf/NDjcYriOvfwk+i;JjjeTnyVhGAvl8lGoUXmhA=="
 ---
 

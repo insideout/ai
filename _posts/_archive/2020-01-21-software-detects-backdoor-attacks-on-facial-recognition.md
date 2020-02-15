@@ -56,17 +56,6 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
-    publishedDateTime: 2020-02-01T05:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
   - title: "City police eye use of facial recognition technology to fight crime"
     excerpt: "City police are assessing the potential to use facial recognition technology to battle crime — and the privacy and security implications of such a move. The Edmonton Police Service is currently in the process of “project assessing” the potential of using facial recognition to help with existing cases, police spokeswoman Cheryl Sheppard ..."
     publishedDateTime: 2020-02-02T11:06:00Z
@@ -159,6 +148,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "B/1Vi/oJK8EtLDd3axex5nGpwMwqWbb0qopBP3aPHOjlNFwhxTrL6L2x2dWc0/I6BXo5ikbzSxwzkULVIcN26uzcgRgvLlatEzjg9kMxkW5OFxY6FHaaNZ8pPy9eiPh0TReovvqGC9otLSMYidwxd7Igk4AhayEGb9DGBy9SjHqfZTVQMGYNi1uwiZgFJi6obNccdR6WbkMUtcdDbCKYZiQ/aqK91Vb46H2hlGyosueIDHVi9Etk/rTpDfkQEYvhSqsKHPSkUH/znHx7grDED3ClzLKI6DYEkOQ0ZqZEZ/9JlwQj24dkvhD76I8c85a4;Qgv8a0n3demYppMWivFp5g=="
+secured: "/awNV86EFIy9OrHWXDKFAC5V3yIRdQpyKzfR2qUKGhTKccwFEraC+SVOTuVP48evL14uFAGOscZ0Vas/Qkda+XfOSmJrMV2Ntka5Hl2H80pvLG53zvJJcu6BlQ5IHhgMT+smLqTck2dZTwCKjuQikKe8Ey3Mzzy77RVSRhiukC8NfHo4Z5vFykEIDlzVdQvTmRNvk3Vf1bvsFsth1pEZ51SmTlDm5jmFpXsgD8QHdh77WxO3uJ5mI27RPb9FbczBeJTEUeVIH/tTFMAPjBlLj3XxjIg2/nCAjoEep7U22dH2OVpISk08DZQoZilNRaRm;sx9gtkP/1FjWow98dEoJ+A=="
 ---
 

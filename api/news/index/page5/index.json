@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_posts/2020-02-10-this-ai-could-reunite-families-after-an-earthquake.md",
+      "title": "This AI could reunite families after an earthquake",
+      "excerpt": "A new AI prototype could transform how earthquake aftermaths are managed, by predicting the safest routes that families can take to find their loved ones ... predict and verify safe routes that parents and children could take to find one another after an earthquake — and the dangerous areas they should avoid. “In the urban environment ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-could-reunite-families-after-an-earthquake/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-could-reunite-families-after-an-earthquake/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/10/this-ai-could-reunite-families-after-an-earthquake/amp/",
+      "publishedDateTime": "2020-02-10T11:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-2-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI could reunite families after an earthquake",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning.md",
       "title": "This AI model improves and colorizes old videos and the results are stunning",
       "excerpt": "While this was a great short watch, it made me wonder about using AI to restore and enhance old videos ... weekend that aims to improve and colorize these videos. The model uses Temporal Neural ...",
@@ -2115,51 +2159,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-6-ways-to-boost-your-marketing-with-natural-language-processing.md",
-      "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
-      "excerpt": "Given that marketing is heavily reliant on words to convey messages about people and products, it’s not surprising that NLP has carved out a large niche in marketing technology.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/",
-      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
-      "publishedDateTime": "2020-02-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1134222543%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D1750%26cropY2%3D4000",
-          "width": 1200,
-          "height": 675,
-          "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
