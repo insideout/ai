@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T09:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
 type: article
 quality: 70
-heat: 490
+heat: 480
 published: true
 
 provider:
@@ -405,19 +405,6 @@ related:
     quality: 20
     images:
       - url: "https://mms.businesswire.com/media/20200212005352/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-  - title: "Global Educational Robots Market 2020-2024 | Evolving Opportunities with BLUE FROG ROBOTICS & BUDDY and fischerwerke GmbH & Co. KG | Technavio"
-    excerpt: "especially among robotics industry players in the educational robotics industry. For instance, an artificial intelligence firm, UBTECH Robotics, which develops educational and entertainment robots, raised about USD 820 million in May 2018. Thus ..."
-    publishedDateTime: 2020-01-31T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200131005232/en/Global-Educational-Robots-Market-2020-2024-Evolving-Opportunities"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 18
-    images:
-      - url: "https://mms.businesswire.com/media/20200131005232/en/770583/23/Global_Educational_Robots_Market_2020-2024.jpg"
         width: 1200
         height: 627
   - title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"

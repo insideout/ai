@@ -21,7 +21,7 @@ topics:
 
 related:
   - title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
-    excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works."
+    excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science ..."
     publishedDateTime: 2020-01-16T20:54:00Z
     webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
     ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
@@ -36,6 +36,6 @@ related:
         width: 2500
         height: 1875
 
-secured: "anS66nUmBD3cXCzO/C2eNuXwlXNt51DVDsnlW+bT1Lt0xfbHVe6/wAOJLFcBvqnraZhaN/1pH5/Hs2ltGVn/9SMUK9qggVrx0pJRUg8Iv9gawfXT6ei2gesss+Uzc5uyfc4FCz8ha+Ugqsf+XF0l6Wln6HBu49lQrfp5kWetB5/Xfl1I3oDJhGy882fSi/YSgTChjBZjVkvgiN1UAk2WMP/jM771B7i4zM4tVg9ZP6Vf71VF97elFVRhrem3sohjcI4vQiPUmK2EeEFtI5C7V3684q67iyh0Ny0MczYcmHnd+9pt7KHMLtERYeXHGdVu;OTrwTWTqu8pokFG/DkZmaA=="
+secured: "WUcUGVtwS9i3LwDYdNyy6t331BFZXTFr6dRF2xXz7VTuWbEwjIRObKakPnKCF6Q2hzijvMW3VbsFZb0jYilAOkKaqGBZLumr1HOjAQ5XeLmG8pBChLU8OYSGQxpOyvEmBhkdj+rg+rdSger9gbd0pAsyNXpS7iHxAGLJr312feWaLMdNraceoKx8xKUiNg+b2MW09xMPlYwgxYRHtpGzMcXWO8KTIh7HUuFlZ5lh0KfBadhw2OYfAc56zGa0AGrRJoQ+Kpsb11hWwRd17uhfM5qQnbFpmY4rkeeol/Ivf12SaZASR7qemgpLd6PkK2c0;5rIXyrzpQcIjMzBINcwnJw=="
 ---
 

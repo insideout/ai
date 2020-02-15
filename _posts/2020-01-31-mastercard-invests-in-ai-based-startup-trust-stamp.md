@@ -8,8 +8,8 @@ ampWebUrl: "https://www.financemagnates.com/fintech/news/mastercard-invests-in-a
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Finance Magnates
@@ -39,15 +39,6 @@ related:
       - url: "https://www.eppm.com/downloads/8390/download/henkle.png?cb=e29b89ee4151f41252c4cb03076f26b6&w=1200"
         width: 1000
         height: 544
-  - title: "Mastercard invests in online and offline identity startup Trust Stamp"
-    excerpt: "Mastercard has made a strategic investment in AI-generated identity authentication company Trust Stamp. Trust Stamp is a graduate of the 2018 Mastercard Start Path accelerator programme. The two companies introduced their first collaboration with a secure non-PII authentication network for both online and offline environments at the June 2019 ..."
-    publishedDateTime: 2020-01-31T10:50:00Z
-    webUrl: "https://www.finextra.com/newsarticle/35205/mastercard-invests-in-online-and-offline-identity-startup-trust-stamp"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 2
 
 secured: "rC8GB0CDoyoibXCOnu0js3KJX7yX+TVj+UCK/dH8Ph9/366P52jS3Zk7uD7ZW3JwQ4HBrLZr1fObtBI8FzBtOG+n204ShVAZ+up8UeL5Fxs26zRPGRnqj70AHesHtwcVD5k5ZRsVJDnhNeUdvDsJmZ3n1tcA1AMYYQDn+Jikxx8OCmn/5s/cd1Noo2YiC1KUuinc1ueJvBYkALZw2d/F+W4U5TAlGgI+IAHZz9YcbyIb0H2cTTsqRu15ctYZqFX3LMsm2utGTheTWPHy8FTIH2NY3zQNGFTLnMwyYUt51d4r3YTnkyAsMVqkkiD6tV7OfS8WD9vovBQhDSXxhgh0DANCZ5wh/xY8KwEJR4zudYOacBYY89haZzFVKus23jD1sw6H1JCFEMeo3PrhfEgqR6bHukrlfV50REQ/qYA4U7WraFHHj+moM7ouAz0hcrtBBFLM0cbSl2eb/W3uWeQkS6bG2IWOAL7fF+SoyrQEv8M=;Et+LYyvR6hMim+E0BT1azA=="
 ---

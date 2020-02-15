@@ -23,6 +23,21 @@ images:
     height: 512
     title: "Nike launches robot-assisted warehouse in Japan"
 
+related:
+  - title: "New kind of robot learns on the job at warehouse in Germany"
+    excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb bin after bin of random stuff -- from clothes and shoes to ..."
+    publishedDateTime: 2020-02-02T06:00:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/02/new-kind-of-robot-learns-on-the-job-at-/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
+
 secured: "UXx6D2M5s+1nJYQJXQ6UHdMiXNl3ihQkiGXj4iqN6ok5/OAvetndls8CnyBVaJWeAIvlTlMLGAjR/PhceG4f5iVDcz90FJXgsMH68xRKJsSglbg+D+V8FmYEcUCPEqLkXMDlFTQl1IbUMia5UEXhMkj0L2EnT+sTyEJjZNKE03VnrPbQERm6Sia0ltlLXr3NaAPTbnKj7J7vrlZgrmXfHLJoD8ugtjFRMSjcb+amCyhovwXPOJ2tN/9WY1wCCwp+usvjKZGtJs016dLrHR/ut8CZ5RhEKJHcqcuUq56yeQQvb5LX5IN0IaxDhFvieTBk;Kl1FAICGy29HeapL4dhL7g=="
 ---
 

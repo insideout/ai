@@ -415,19 +415,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200212005352/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
-  - title: "Global Educational Robots Market 2020-2024 | Evolving Opportunities with BLUE FROG ROBOTICS & BUDDY and fischerwerke GmbH & Co. KG | Technavio"
-    excerpt: "especially among robotics industry players in the educational robotics industry. For instance, an artificial intelligence firm, UBTECH Robotics, which develops educational and entertainment robots, raised about USD 820 million in May 2018. Thus ..."
-    publishedDateTime: 2020-01-31T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200131005232/en/Global-Educational-Robots-Market-2020-2024-Evolving-Opportunities"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 18
-    images:
-      - url: "https://mms.businesswire.com/media/20200131005232/en/770583/23/Global_Educational_Robots_Market_2020-2024.jpg"
-        width: 1200
-        height: 627
   - title: "Global Robo Taxi Market 2026 Information Procurement and Data Analysis"
     excerpt: "A Robo-Taxi, also known as a Robo-Cab, is a driverless taxi or a self-driving taxi. Its primary purpose is to eliminate the need for human ... Companies such as Lyft, DiDi, Uber, and Baidu are the major ride-hailing service providers. These players are the major potential customers for Robo -Taxi. Nowadays, most companies are focusing on ..."
     publishedDateTime: 2020-02-06T12:43:00Z

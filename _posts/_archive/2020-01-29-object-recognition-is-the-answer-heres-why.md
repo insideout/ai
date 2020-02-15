@@ -40,6 +40,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "/FEC4iXX64qKSb9SO7RDpddRlnU7YZ32eO0pSDZvDnFURvSZ+Wc+flVjnUjXVw8UdA9kxME/PX3WR1gzf3w5Tmbaqqy9JXh0w2h52IWNsaYJ9VfZtgN9whxDhEo0bfPUCtD7Nt8GWmT+QGQgIMkhFIHBgN29P6qRdEUHM+BMnIeO2NR/EMW7yjePvVChcfYhPvardat/GzoqNmEBk7zyTNXTj4Dil/caSm++DdxAQ2wYLXFRIQz23Wv8OaY9PQPuxNp53FGaPlfOqa8lzRqSXgDG/0gs2lUDazrzE9gnKyhBOpd8G8wkczzYuzTFogs6;ddnCajCxWabzI5fFcD60xw=="
+secured: "4V3xkl5JttTRc1GzTFpdkeomB9xBUPTqIVeOpKecvOrcONsXWZdPMTmnAAg19DDkYg0zbEejIuDtevrDWz57c/EEAYb0jT9etO81O4NyYIJkjT/OMfElTfpYteCjH3d6xGh1MQOwQ1yB6VKcz5i/LsbvvQy3Y27dmA3JzDHAN61+kQyE9tuZZXesP7rXxiCeD0zqeTHaW29EC8ZGXth42H906cgaJ+wIf8XJuE9piT0Jf5AOmrAYijd1U6IWuBpWBOMEHYpm+aJTpicU/ILr5p980EWC/+MjSsqHsgC+Q+3J6HtF0YRIaPq/you5tURG;AScIbpCTqjokkMO33o6rdQ=="
 ---
 

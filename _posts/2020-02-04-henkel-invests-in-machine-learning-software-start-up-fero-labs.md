@@ -39,15 +39,6 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2016/01/m246689.jpeg-copy.jpg"
         width: 880
         height: 400
-  - title: "Mastercard invests in online and offline identity startup Trust Stamp"
-    excerpt: "Mastercard has made a strategic investment in AI-generated identity authentication company Trust Stamp. Trust Stamp is a graduate of the 2018 Mastercard Start Path accelerator programme. The two companies introduced their first collaboration with a secure non-PII authentication network for both online and offline environments at the June 2019 ..."
-    publishedDateTime: 2020-01-31T10:50:00Z
-    webUrl: "https://www.finextra.com/newsarticle/35205/mastercard-invests-in-online-and-offline-identity-startup-trust-stamp"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 2
 
 secured: "8VgiFj4/Edb5Dx3qJUE5E0exhK1slrBQB0HsJBidD9LLZQqCDOuxHVKBHxzfydymr932o8FbJphi8uqrDnPHbWBL9koXOtdEaYVPnwIpXjaA3hieGqu93mdv3v5kRWXZ1pSHFo8rhodFOkCqGg/JeL2KsEaX0+cTpanFTOoZpI0302tyX1fqwpirzAkcqRzLP9H/Tg/s6BBdZHBGBWm0czBVWa4+OVAc1Wd9E+6+sDGMnC0PVa7469RczV7N6q1Di5fCRyRFGEGVFFRHdpuvD7fYo0mL/cwgARFw0aFPNM9Sr9uKaacEtIGReAMt3rGGi+WGLHQGeJyotBmZu5dkZ4JsmFaNRaKSXrOvbLtyf4nIIrso8WAN4LSqrHYXXnxG54uHlpcRsB+zTN0Dz4DByrZsftpfKoEwDMzO4autFysiN1yFlf8NqwUeWmNC7d37Jp2QlwQAb5ng6jw9Vo8DDE9TXWdc212Z9FaUR0IKECg=;4vq+NtTO3IC6tf3gshiFEQ=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
-excerpt: "\"The algorithm could also be adapted to predict therapy response for many other eye diseases, including neovascular age-related macular degeneration.\" Predicting treatment response The algorithm developed by the researchers is based on a novel convolutional neural network (CNN) architecture, a type of artificial intelligence that can analyze ..."
-publishedDateTime: 2020-01-28T16:45:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-01/tos-aip012820.php"
+excerpt: "A new approach that uses artificial intelligence to analyze retinal images ... agents are widely used as the first line of therapy for diabetic macular edema, but they don't work for everyone."
+publishedDateTime: 2020-01-28T18:14:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/01/200128115419.htm"
 type: article
-quality: 33
-heat: 33
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/222735_web.jpg"
-    width: 720
-    height: 266
-    title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
-
-secured: "rbRx1VT+eQCQ7NQc7bvQ9xQvY3j5tBljOI9g7oOM7tVeSGmnf4wESO2KdNbvGM9GY+hg0nJ8tSdfzwGQEPFHtXfAwsTdDwQXL+f/wgDZe6/9Zt69U3lN2a7tU6YvGsvf4lSE1GQdZQBwiWioRAGkCoNrlKTaJJk79J70o3w0652TYdHcBHRQ3MaMgHtyUvGkPAJVPzIl24ezGC7zSASNDu3WbPq3fIECBIB11RJ7T0GTuKpHlSolCmM76cugloydw9P/pLw3zrV1XEK+lou6a9VDqb+3Gp/DpEczVNddTnuM4vmKLKd+ur9a+Fr/KKxo;borgMtnhIDY+0oh1mJKkCA=="
+secured: "9dP5q4neQGLeQkeL24j67mV5vLLI/7by6zOOGsjy6Yc3JO/JY6BjlYwCBjpcnxBmwomf2yP2kq5/Z1SOuYYWTltPYsSXDb5vjIIExpdhxXKhM1YXUESvH1MLia3T3eK8GJzRSCpU4nTd4JWWL9krJeldY0V1giB99BkvHMj5RP24baD9voORrBMHCjT6zGlS/ScjJ7iJ6xbq9Hirq5jZfSpDChpNdSDB3McN9SQEZ6FwV9g+jFhvUZPQT4EIpEkg1vBFRbZYe9PUfgeikBvPfJDE+2rXkV7EJ4SFUvb4fh+zzw//qXWOryIT3ksAYcLB;8Lw57VgKl3nJ617N9rH7cA=="
 ---
 
