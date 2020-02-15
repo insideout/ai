@@ -205,15 +205,6 @@ related:
       - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
         width: 1254
         height: 836
-  - title: "The Robots Are Coming for Fund Management Jobs"
-    excerpt: "Remember Aibo, the computerized dog Sony Corp. started selling in 1999 as the first personal robot? Hiro Mizuno, the chief investment officer of Japan’s Government Pension Investment Fund, does. So he asked Sony’s computer science lab unit to build him a cyberhound using artificial intelligence to help oversee the external fund managers who ..."
-    publishedDateTime: 2020-01-31T07:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/the-robots-are-coming-for-fund-management-jobs/2020/01/31/68cc62dc-43f7-11ea-99c7-1dfd4241a2fe_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
   - title: "How Increasing Power and Advanced Cooling Techniques Are Converging for AI, Supercomputing and Cloud Data Centers"
     excerpt: "This is driving innovation from companies like Cerebras, whose recently announced Wafer Scale Engine (WSE) is widely regarded as the most powerful processor in AI today. Comprised of 84 processing cells that span an entire wafer and yet function as a single chip, the WSE dramatically reduces the latency associated with a traditional singulated ..."
     publishedDateTime: 2020-02-10T21:44:00Z

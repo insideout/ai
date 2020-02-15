@@ -28,15 +28,15 @@ images:
     title: "Artificial Intelligence In Construction Market 2020 Strategic Assessment - IBM, Microsoft, Oracle, SAP, Autodesk"
 
 related:
-  - title: "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint"
-    excerpt: "The Natural Language Processing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
-    publishedDateTime: 2020-02-07T09:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-precise-outlook---apple-dolbey-systems-google-microsof-verint-2020-02-07"
+  - title: "Enterprise AI Market Statistics and Growth Prediction 2020 to 2025 | IBM Corporation, Oracle, HP"
+    excerpt: "Artificial Intelligence in recent years has moved on to become a key component for enterprise applications and has posed as an important factor for successful business strategies. With AI, enterprises are now able to achieve far more in quite less time."
+    publishedDateTime: 2020-02-06T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -54,32 +54,28 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Machine Learning Market 2020 Global Insights and Strategic Assessment - Microsoft, Sap, Sas Institute, Amazon Web Services"
-    excerpt: "The Machine Learning Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
-    publishedDateTime: 2020-02-11T10:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-global-insights-and-strategic-assessment---microsoft-sap-sas-institute-amazon-web-services-2020-02-11"
+  - title: "Artificial Intelligence in Life Sciences Market to Flourish With An Impressive CAGR BY 2020-2025 : IBM Corporation, NuMedii Inc"
+    excerpt: "Artificial Intelligence in Life Sciences Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques."
+    publishedDateTime: 2020-02-04T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-to-flourish-with-an-impressive-cagr-by-2020-2025-ibm-corporation-numedii-inc-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Edge Artificial Intelligence Hardware Market 2020|by Top Key Players- Apple Inc, Xilinx Inc, Alphabet Inc"
-    excerpt: "Ltd. The Global Edge Artificial Intelligence Hardware Market Research Report is expected to display ... and SoC accelerators.). Segmentation by End-User Industry: Industrial, Healthcare, Government, Smart Home, Consumer Electronics, Aerospace Defense, Automotive Transportation, Others (Retail, Construction, Manufacturing, Education, Etc ..."
-    publishedDateTime: 2020-02-12T20:20:00Z
-    webUrl: "https://apnews.com/Wired Release/e7593db4ef23ab8e0a529a9919ca3ab2"
+  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application and Geography 2018 – 2027"
+    excerpt: "The report analyzes and forecasts the Machine Learning as a Service (MLaaS) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
+    publishedDateTime: 2020-02-06T10:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-and-geography-2018-2027-2020-02-06"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
 
 secured: "chfJpjAdE/jRWeojTqhEVxsHTFrU157D+QAIbidIl+DbJvmOxti5Lv/vkUwv256Snw0AIvjBXiERDVdmXspZ5MhcDoOgiqIcBx+iRwNWxfHyEfY4XjzqslELb1hQkNYinfxplyf1EvT477Blnyk1Q7TfcflzZVd+9jE1vwl2IkMjmpb5pxT1K43nuHjcjPnhgKmIJTjWE+77wBD8VWl5Tyg3kQ03isaAP0uSDcC3SPnRzQJEPpz1+Uvn6P6PzxwQH0mgb3NU+am+NXqPZSCOHZDqjaaoYOvABz0Aa3Z0aSChcvbmJ/0CYj1EJxhYQY1u;col87t9H4Zm9mrktR6ix8Q=="
 ---

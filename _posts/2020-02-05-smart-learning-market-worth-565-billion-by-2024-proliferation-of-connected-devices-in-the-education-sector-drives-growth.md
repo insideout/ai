@@ -19,128 +19,78 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Machine Learning Operationalization Software Market 2019-2025 Global Industry Analysis"
-    excerpt: "The Global Machine Learning Operationalization Software Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application,"
-    publishedDateTime: 2020-02-08T09:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operationalization-software-market-2019-2025-global-industry-analysis-2020-02-08"
+  - title: "Artificial Intelligence (AI) in Medicine Market, 2025- Global Market Projected to Reach USD18,119 million by 2025, Growing at a CAGR of 49.6%"
+    excerpt: "Artificial Intelligence in Medicine Market by Product Type (Hardware, Software, and Services), Technology (Deep Learning, Querying Method, Natural Language Processing, and Context Aware Processing), and Application (Drug Discovery & Repurposing,"
+    publishedDateTime: 2020-02-05T02:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medicine-market-2025--global-market-projected-to-reach-usd18119-million-by-2025-growing-at-a-cagr-of-496-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027"
-    excerpt: "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-02-04T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04"
+  - title: "The Global Deep Learning Market is expected to grow by USD 7.2 bn during 2020-2024, progressing at a CAGR of 45% during the forecast period"
+    excerpt: "New York, Feb. 04, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Deep Learning Market 2020-2024\" - https://www.reportlinker.com/p04391092/?utm_source=GNW Our reports on global deep learning market provides a holistic analysis,"
+    publishedDateTime: 2020-02-04T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-deep-learning-market-is-expected-to-grow-by-usd-72-bn-during-2020-2024-progressing-at-a-cagr-of-45-during-the-forecast-period-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Deep Learning Industry"
-    excerpt: "/PRNewswire/ -- Deep Learning market worldwide is projected to grow by US$31 Billion, driven by a compounded growth of 41%.Hardware, one of the"
-    publishedDateTime: 2020-02-07T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-industry-301000864.html"
+  - title: "North American $30+ Billion Artificial Intelligence (AI) Chip Market Outlook to 2027: Projecting a CAGR of 32%"
+    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"North America Artificial Intelligence Chip Market to 2027 - Regional Analysis and Forecasts"
+    publishedDateTime: 2020-01-31T09:18:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1977988/0/en/North-American-30-Billion-Artificial-Intelligence-AI-Chip-Market-Outlook-to-2027-Projecting-a-CAGR-of-32.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "Artificial Intelligence In Military Market: Size, Production, Prospects, Consumption, Cost Structure, Competitive Landscape 2019-2024"
-    excerpt: "The Global Artificial Intelligence In Military Market report provides information by Key Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share,"
-    publishedDateTime: 2020-02-03T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-production-prospects-consumption-cost-structure-competitive-landscape-2019-2024-2020-02-03"
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 31
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research(R)"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth in the speech and voice recognition market can be attributed to the rising acceptance of advanced technology together with increasing consumer demand for smart devices,"
+    publishedDateTime: 2020-02-06T11:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-worth-268-billion-by-2025-at-a-cagr-of-172-from-2019--meticulous-researchr-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application and Geography 2018 – 2027"
-    excerpt: "The report analyzes and forecasts the Machine Learning as a Service (MLaaS) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
-    publishedDateTime: 2020-02-06T10:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-and-geography-2018-2027-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-  - title: "Machine Vision Market Types, Application and Global Outlook 2019 to 2025; Cognex Corp.(nas:CGNX), Basler, OMRON Corp.OMRNF"
-    excerpt: "The Machine Vision Market research report 2019 includes analysis of factual data that provides research results, vital recommendations, conclusions, and other important information to the readers, who in turn bases clients decision making on the content of the report."
-    publishedDateTime: 2020-02-14T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-types-application-and-global-outlook-2019-to-2025-cognex-corpnascgnx-basler-omron-corpotcomrnf-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
-    excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
-    publishedDateTime: 2020-02-04T11:36:00Z
-    webUrl: "https://www.nature.com/articles/s41524-020-0276-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig1_HTML.png"
-        width: 685
-        height: 536
-  - title: "Global Robo Taxi Market 2026 Information Procurement and Data Analysis"
-    excerpt: "A Robo-Taxi, also known as a Robo-Cab, is a driverless taxi or a self-driving taxi. Its primary purpose is to eliminate the need for human ... Companies such as Lyft, DiDi, Uber, and Baidu are the major ride-hailing service providers. These players are the major potential customers for Robo -Taxi. Nowadays, most companies are focusing on ..."
-    publishedDateTime: 2020-02-06T12:43:00Z
-    webUrl: "https://www.openpr.com/news/1921960/global-robo-taxi-market-2026-information-procurement-and-data"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-  - title: "Worldwide Smart Learning Industry Insights, 2019-2024 - Featuring Use Cases of Docebo, G-Cube, Saba Software, Cisco, IBM, and More"
-    excerpt: "The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to grow at the highest CAGR during the forecast period Based on ..."
-    publishedDateTime: 2020-02-05T20:10:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-worldwide-smart-learning-industry-insights-2019-2024-featuring-/2020/02/05/9092923.htm"
+    quality: 26
+  - title: "Global LegalTech Artificial Intelligence Market is Expected to Grow at a CAGR of More Than 37.7% Over"
+    excerpt: "PUNE, India, Feb. 4, 2020 /PRNewswire/ -- The digital reforms in the legal industry have transformed the traditional courtrooms and law practices, thus strengthening the prevalence of Artificial Intelligence (AI) in legal technology or legaltech. The increasing burden of legal activities, carried out around the globe, over a limited number of ..."
+    publishedDateTime: 2020-02-04T15:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/04/9091877.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 22
     images:
-      - url: "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg"
-        width: 336
-        height: 280
-  - title: "Artificial Neural Network Market- Global Analysis, Latest Trends, Industry Growth, Technology Innovation and Regional Forecast"
-    excerpt: "The artificial neural network market globally has been segmented into component, type, and application. By type, the market has been segmented into feedforward artificial neural network, feedback artificial neural network, and others. The market segmentation by component has been segmented into services, software, and platform. By application ..."
-    publishedDateTime: 2020-02-06T12:30:00Z
-    webUrl: "https://www.openpr.com/news/1921905/artificial-neural-network-market-global-analysis-latest"
+      - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
+        width: 400
+        height: 400
+  - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
+    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+    publishedDateTime: 2020-02-03T10:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Global In Flight Voice Recognition Market, 2014-2019 & 2020-2024 - Analysis by Technology, Aircraft Type, Application and Region"
-    excerpt: "Dublin, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The \"Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application (Commercial Aviation, Military Aviation), By Region, Competition,"
-    publishedDateTime: 2020-02-06T12:19:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980975/0/en/Global-In-Flight-Voice-Recognition-Market-2014-2019-2020-2024-Analysis-by-Technology-Aircraft-Type-Application-and-Region.html"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
+    publishedDateTime: 2020-02-06T12:07:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
     type: article
     provider:
       name: GlobeNewswire

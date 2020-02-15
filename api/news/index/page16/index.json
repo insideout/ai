@@ -2,6 +2,518 @@
   "page": 16,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-22-at-davos-alphabets-ceo-calls-healthcare-the-major-ai-opportunity.md",
+      "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
+      "excerpt": "shared some upbeat thoughts on how AI and healthcare could intersect. \"Cancer [is] often missed and the difference in outcome is profound,\" he said, according to Reuters. \"In lung cancer, for example, five experts agree this way and five agree the other way. We know we can use artificial intelligence to make it better.\" Two years ago at ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
+      "publishedDateTime": "2020-01-22T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554275%2Fgettyimages-1132912559.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 420,
+          "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025.md",
+      "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
+      "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-01-22?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre-still-attracting-less-money-than-the-us.md",
+      "title": "China’s AI start-ups are closing more funding deals, yet they’re still attracting less money than the US",
+      "excerpt": "“We haven't seen many AI applications that are beyond imagination, most are used in surveillance cameras.” become a world leader in the field by 2030 . Beijing-based chip designer Horizon Robotics, for example, was one of 24 AI startups worldwide to reach unicorn status last year, joining the ranks of privately held companies valued at over ...",
+      "heat": 152,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre",
+      "ampWebUrl": "https://amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre",
+      "publishedDateTime": "2020-01-22T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-clearview-ais-facial-recognition-app-is-a-nightmare-for-stalking-victims.md",
+      "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
+      "excerpt": "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
+      "publishedDateTime": "2020-01-22T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-cramer-i-love-the-clarity-of-vision-from-netflix-ceo-reed-hastings-on-ai-and-avoiding-ads.md",
+      "title": "Cramer: 'I love the clarity of vision' from Netflix CEO Reed Hastings on AI and avoiding ads",
+      "excerpt": "CNBC's Jim Cramer said Netflix's earnings call fostered optimism about a company he once called \"an open sore on the market.\"",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/22/cramer-loves-vision-from-netflix-ceo-reed-hastings-on-ai-and-ads.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/22/cramer-loves-vision-from-netflix-ceo-reed-hastings-on-ai-and-ads.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/cramer-loves-vision-from-netflix-ceo-reed-hastings-on-ai-and-ads.html",
+      "publishedDateTime": "2020-01-22T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106193847-1571685003084img_3993r.jpg?v=1571685072",
+          "width": 3000,
+          "height": 2000,
+          "title": "Cramer: 'I love the clarity of vision' from Netflix CEO Reed Hastings on AI and avoiding ads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-disruption-20-how-iot-and-ai-are-breaking-up-the-business-world.md",
+      "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
+      "excerpt": "Once again, businesses are under attack. We are in the midst of \"Disruption 2.0,\" and this time, the attack comes from within. Previously, in the age of Disruption 1.0, startups were spearheading the battle against established businesses.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/",
+      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
+      "publishedDateTime": "2020-01-22T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192770754%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D177%26cropY2%3D2147",
+          "width": 1200,
+          "height": 676,
+          "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-exclusive-look-at-cruises-first-driverless-car-without-a-steering-wheel-or-pedals.md",
+      "title": "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals",
+      "excerpt": "The hard drive, stored in the trunk and housing the vehicle’s artificial intelligence and perception software ... GM submitted a petition for permission to deploy a fully driverless Chevy Bolt in 2018, but it has yet to receive a response. And it will most likely need another exemption before the Origin is allowed to hit the road, too.",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look",
+      "publishedDateTime": "2020-01-21T17:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_Cq8RBeDpZ0BOd8CsPhQ7orclbI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66141735/vpavic_200121_3874_0010.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-facebook-has-trained-an-ai-to-navigate-without-needing-a-map.md",
+      "title": "Facebook has trained an AI to navigate without needing a map",
+      "excerpt": "The news: A team at Facebook AI has created a reinforcement learning algorithm that lets a robot find its way in an unfamiliar environment without using a map. Using just a depth-sensing camera ... Two billion steps and counting: Facebook trained bots for three days inside AI Habitat, a photorealistic virtual mock-up of the interior of a ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615078/facebook-has-trained-an-ai-to-navigate-without-needing-a-map/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/russia-953111920.jpg?sw=1200&cx=0&cy=58&cw=1920&ch=1080",
+          "width": 1200,
+          "height": 675,
+          "title": "Facebook has trained an AI to navigate without needing a map",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-facial-recognition-technology-doesnt-have-to-destroy-privacy.md",
+      "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+      "excerpt": "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy",
+      "ampWebUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "publishedDateTime": "2020-01-22T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg",
+          "width": 1028,
+          "height": 578,
+          "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-five-methods-for-marketing-your-bespoke-cloud-service-to-developers.md",
+      "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+      "excerpt": "By focusing on what your audience needs, you can craft a marketing approach that is just as tailored as your product. Give developers the confidence that you have something that is built just for them,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "publishedDateTime": "2020-01-22T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x515/https://specials-images.forbesimg.com/dam/imageserve/645973085/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 515,
+          "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-github-now-uses-ai-to-recommend-open-issues-in-project-repositories.md",
+      "title": "GitHub now uses AI to recommend open issues in project repositories",
+      "excerpt": "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "publishedDateTime": "2020-01-22T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "GitHub now uses AI to recommend open issues in project repositories",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-gm-cruise-unveils-self-driving-electric-car-for-ride-sharing.md",
+      "title": "GM Cruise unveils self-driving electric car for ride-sharing",
+      "excerpt": "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ...",
+      "heat": 344,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/",
+      "ampWebUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
+      "publishedDateTime": "2020-01-21T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 470,
+          "title": "GM Cruise unveils self-driving electric car for ride-sharing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-22-googles-collections-feature-now-pushes-people-to-save-recipes-products-using-ai.md",
       "title": "Google’s Collections feature now pushes people to save recipes & products, using AI",
       "excerpt": "Google is giving an AI upgrade to its Collections feature — basically, Google’s own take on Pinterest, but built into Google Search. Originally a name given to organizing images, the Collections feature that launched in 2018 let you save for later perusal any type of search result — images, bookmarks or map locations — into groups ...",
@@ -1604,529 +2116,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-digitizing-the-finger-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work.md",
-      "title": "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work",
-      "excerpt": "Using computer vision techniques, the system “turns touch into an image,” says Johnson, allowing it to measure surface features down to the single-digit micron level. The company is starting ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
-      "publishedDateTime": "2020-01-23T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e29cf2ff133f400076a7e73%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-five-ways-companies-can-adopt-ethical-ai.md",
-      "title": "Five Ways Companies Can Adopt Ethical AI",
-      "excerpt": "By Kay Firth-Butterfield, Head of Artificial Intelligence and Machine Learning, World Economic Forum In 2014, Stephen Hawking said that AI would be humankind’s best or last invention. Six years later,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/amp/",
-      "publishedDateTime": "2020-01-23T04:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e295968a854780006af471e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Five Ways Companies Can Adopt Ethical AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-forget-smart-fridges-the-smart-kitchen-needs-a-brain.md",
-      "title": "Forget smart fridges, the smart kitchen needs a brain",
-      "excerpt": "Progression like that might happen faster than you'd expect. LG recently announced a new AI chip focused on object recognition, and Amazon won a patent for a fridge that can sense spoiled food, but neither one has made it to market yet. There's a bit of the loop still left to close when it comes to recommending recipes with only the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/what-the-smart-kitchen-still-needs/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/what-the-smart-kitchen-still-needs/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/what-the-smart-kitchen-still-needs/",
-      "publishedDateTime": "2020-01-23T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Mb1T_A1nojotPmouMiXVy-XE-Uk=/756x567/2019/09/26/92d3bd4a-f29c-4f0b-b377-73cd69143b39/amazon-event-092519-0163.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Forget smart fridges, the smart kitchen needs a brain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-grammys-go-high-tech-with-ibm-and-artificial-intelligence.md",
-      "title": "Grammys go high-tech with IBM and artificial intelligence",
-      "excerpt": "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ...",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
-      "publishedDateTime": "2020-01-23T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg",
-          "width": 1200,
-          "height": 862,
-          "title": "Grammys go high-tech with IBM and artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-health-catalyst-becomes-1st-healthcare-member-of-partnership-on-ai.md",
-      "title": "Health Catalyst becomes 1st healthcare member of Partnership on AI",
-      "excerpt": "The Partnership on Artificial Intelligence to Benefit People and Society, founded by Amazon, Google, Microsoft and other tech giants to research and distribute best practices on the responsible use of AI, welcomed Health Catalyst as a partner on Jan. 22. The startup's addition to the coalition makes it the first solely healthcare-focused member ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/health-catalyst-becomes-1st-healthcare-member-of-partnership-on-ai.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-23T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "Health Catalyst becomes 1st healthcare member of Partnership on AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app.md",
-      "title": "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App",
-      "excerpt": "Taco Bell announced a partnership with artificial intelligence company Certona last week to create a more personalized experience for its mobile app users, of which there are 5 million.",
-      "heat": 183,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/",
-      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/",
-      "publishedDateTime": "2020-01-23T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F923115808%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-hypergiant-is-using-ai-and-algae-to-take-on-climate-change.md",
-      "title": "Hypergiant Is Using AI And Algae To Take on Climate Change",
-      "excerpt": "Hypergiant, an AI products and solutions company, is harnessing this unique power of algae in its latest technology, the EOS bio-reactor which uses AI to optimize algae growth and carbon sequestration.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/23/hypergiant-ai-algae-climate-change/?ss=ai",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/23/hypergiant-ai-algae-climate-change/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/23/hypergiant-ai-algae-climate-change/amp/",
-      "publishedDateTime": "2020-01-23T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e29dbab0d31ae0006face4d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3300%26cropY1%3D167%26cropY2%3D2023",
-          "width": 1200,
-          "height": 675,
-          "title": "Hypergiant Is Using AI And Algae To Take on Climate Change",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision.md",
-      "title": "In black and white: Counting penguins gets easier with AI, computer vision",
-      "excerpt": "Antarctica’s immensely popular penguins, whose numbers are declining alarmingly, could soon count on artificial intelligence (AI) and computer vision to come to their rescue. Microsoft and ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece/amp/",
-      "publishedDateTime": "2020-01-22T21:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech",
-          "width": 615,
-          "height": 384,
-          "title": "In black and white: Counting penguins gets easier with AI, computer vision",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-kneron-raises-40-million-to-grow-edge-ai-chip-design-operations.md",
-      "title": "Kneron raises $40 million to grow edge AI chip design operations",
-      "excerpt": "Edge AI startup Kneron today said it’s raised $40 million led by Horizon Ventures. The funding will be used to grow Kneron’s algorithms made especially for on-device machine learning and semiconductor design operations. Kneron released the KL520, a chip made especially for deployment of AI on devices like smart home or IoT devices last year ...",
-      "heat": 264,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/",
-      "publishedDateTime": "2020-01-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Kneron_KL520.jpg?fit=1618%2C909&strip=all",
-          "width": 1618,
-          "height": 909,
-          "title": "Kneron raises $40 million to grow edge AI chip design operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker.md",
-      "title": "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker",
-      "excerpt": "The field of Natural Language Processing (NLP) has had many remarkable breakthroughs in the past two years. Advanced deep learning models are raising the state-of-the-art performance standards for NLP tasks. To benefit from newly published NLP models, the best approach is to apply a pre-trained language",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-23T08:25:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/nlp-model-tuning-3.gif",
-          "width": 800,
-          "height": 297,
-          "title": "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs.md",
-      "title": "Messy data is slowing down machine learning projects and driving up costs",
-      "excerpt": "A new survey from Trifacta quantified the impact of bad data on machine learning (ML) projects with a third of respondents stating that poor data quality causes ML projects to take longer, cost more and fail to hit the anticipated results. About a third of ...",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
-      "publishedDateTime": "2020-01-23T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Messy data is slowing down machine learning projects and driving up costs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime.md",
-      "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
-      "excerpt": "With the integration of BERT with ONNX, developers can train a model, export it to ONNX format and use it for inferencing across multiple hardware platforms.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
-      "publishedDateTime": "2020-01-23T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

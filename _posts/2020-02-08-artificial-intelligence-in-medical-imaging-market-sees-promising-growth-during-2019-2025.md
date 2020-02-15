@@ -53,6 +53,19 @@ related:
       - url: "https://miro.medium.com/max/1200/1*S3as9DvE-54fw9_q6JXAhQ.jpeg"
         width: 1200
         height: 627
+  - title: "Artificial Intelligence In Aviation Market Trend And Top Growing Companies 2026"
+    excerpt: "Global Artificial Intelligence In Aviation Market Insights, Forecast to 2026 The report discusses many vital industry facets that influence \"Global Artificial Intelligence In Aviation Market\" industry acutely which includes extensive study of competitive edge,"
+    publishedDateTime: 2020-02-07T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-trend-and-top-growing-companies-2026-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence In Security Market Booming By Size, Revenue, Trend And Top Growing Companies 2026"
     excerpt: "The Artificial Intelligence In Security Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Security Market study provides comprehensive data on aspects of competitive intelligence,"
     publishedDateTime: 2020-02-05T05:10:00Z

@@ -5,7 +5,7 @@ excerpt: "New Jersey, United States, - The report on the Cognitive Services Mark
 publishedDateTime: 2020-01-27T11:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
 
 related:
   - title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
@@ -124,6 +130,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "HjMBpLE9EylA9vc3sJGoOpQH6N8NlelFwrRd23ktdE7TxF1dxo0ygzXYtTcKZhbCV8X7MyPyFsLK9vIlOvyvpR9I8FMj9OfNrlqlCP/MqmtdoN5Z65N1DEruQY98fdGp1iRykvbr4U4Vnbi3/o3F1Dsetu9g8erWjIglwvLEG3LxmEie28TXZh9zo6knPQ1Kou+0pLiJsp2IzbrsJHSxQSS4+QUudfTgRUSCShSkbfvanZ0hfW4TxCSDeZhtGPKhOCSLifnYMelHQtxWyy7ihYrh5MOFz20kWXh6ZmTCTtNs+kk4l+MCz7Is4egFzKVf;aPASGeAKB5xVebX9g+yt+w=="
+secured: "qe9n+1YBYQQzmhJS3UfP2jr+e+B6z7zaOaEMf4HpcPwCxJrpm1ScCQoo6tUrUckYHGXpqb7tyHHzpRi0F3xAfHkGvVXmwrPQjhSWI2ZnxgXKfvdRVjmFKrmHapDuxVanS/fPeFQZ31Zosi6nxT2rCiJUMa12XFtcOpysV85ZFwgvl7UGc4ELoQn6QI8xuDcyuEg8JSNezvcdXpFnBfgK7gqPYmQe+edjvBIVm9DGfSUH+WQriYzbOxcrjwAKRzhiiOCYoiyroJ3ssS9o2u+jjaBEy8oZP/AFIfejBJQ42q7DJnYVM9ZkLXNpPbuS7jQT;m2MaYmVRLgax+j1+EsL6Bw=="
 ---
 

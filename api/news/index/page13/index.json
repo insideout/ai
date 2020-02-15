@@ -2,6 +2,176 @@
   "page": 13,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-16-heres-why-apple-paid-200-million-for-an-ai-startup.md",
+      "title": "Here's Why Apple Paid $200 Million for an AI Startup",
+      "excerpt": "Apple has reportedly acquired AI start-up Xnor.ai for about $200 million, according to a report from GeekWire, citing \"sources with knowledge of the deal.\" Xnor specializes in developing complex ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx",
+      "publishedDateTime": "2020-01-16T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553780%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": "Here's Why Apple Paid $200 Million for an AI Startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-how-ai-technology-will-change-the-way-we-treat-advertising-in-2020.md",
+      "title": "How AI Technology Will Change The Way We Treat Advertising In 2020",
+      "excerpt": "Very soon, marketing personalization strategies will largely depend on smart automation technologies to make each customer part of a fascinating branding experience.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/",
+      "publishedDateTime": "2020-01-16T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/973718316/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How AI Technology Will Change The Way We Treat Advertising In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-how-deepmind-is-unlocking-the-secrets-of-dopamine-and-protein-folding-with-ai.md",
+      "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
+      "excerpt": "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition ...",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
+      "publishedDateTime": "2020-01-15T16:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-how-nigeria-can-earn-forex-from-robotics-ai-expert-politics-nairaland.md",
+      "title": "How Nigeria Can Earn Forex From Robotics, AI ― Expert - Politics - Nairaland",
+      "excerpt": "Training Nigeria’s youth in robotics and artificial intelligence (AI) will eventually give Nigeria forex earnings. This is because companies in the Western world have a demand for affordable robotics and AI products and Nigeria is in a good position to provide such. This is the position of Dr Olusola Ayoola, a robotics and AI expert ...",
+      "heat": 66,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nairaland.com/5635671/how-nigeria-earn-forex-robotics",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nairaland",
+        "domain": "nairaland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://331746-1018445-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Ayoola-Olusola-1.jpg",
+          "width": 350,
+          "height": 419,
+          "title": "How Nigeria Can Earn Forex From Robotics, AI ― Expert - Politics - Nairaland",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-16-huawei-has-established-its-cloud-and-ai-unit-as-a-core-business-group.md",
       "title": "Huawei has established its cloud and AI unit as a core business group",
       "excerpt": "Huawei established a core cloud and artificial intelligence business group, signaling a focused effort to hone its AI and build up its cloud business.",
@@ -1510,6 +1680,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-17-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
+      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "publishedDateTime": "2020-01-17T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
+          "width": 640,
+          "height": 358,
+          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-17-facial-recognition-scanners-are-coming-to-philadelphias-airport-starting-tuesday.md",
       "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
       "excerpt": "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ...",
@@ -1626,6 +1841,51 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
+      "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
+      "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
+      "publishedDateTime": "2020-01-17T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578",
+          "width": 3970,
+          "height": 2652,
+          "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1894,259 +2154,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026.md",
-      "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
-      "excerpt": "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,",
-      "heat": 125,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T00:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-moodys-analytics-wins-an-artificial-intelligence-award.md",
-      "title": "Moody’s Analytics Wins an Artificial Intelligence Award",
-      "excerpt": "Moody’s Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution,",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-an-artificial-intelligence-award-2020-01-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Moody’s Analytics Wins an Artificial Intelligence Award",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars.md",
-      "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
-      "excerpt": "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "publishedDateTime": "2020-01-17T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-new-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.md",
-      "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
-      "excerpt": "Researchers of the ICAI Group -Computational Intelligence and Image Analysis- of the University of Malaga (UMA) have designed an unprecedented method that is capable of improving brain images obtained through magnetic resonance imaging using artificial intelligence. This new model manages to increase image quality from low resolution to high ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
-      "publishedDateTime": "2020-01-17T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-patent-dominance-top-5-companies-leading-the-charge.md",
-      "title": "Patent Dominance: Top 5 Companies Leading the Charge",
-      "excerpt": "P atents are considered one of the best representations of a company’s inventive activity. Patenting an innovation is a crucial step to secure and convert research and development (R&D) efforts into potential economic gains.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17",
-      "ampWebUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
-      "publishedDateTime": "2020-01-17T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-07/ibm2.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": "Patent Dominance: Top 5 Companies Leading the Charge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-pfizer-has-tied-up-with-a-biotech-startup-to-leverage-its-ai-tools-to-identify-drug-targets.md",
-      "title": "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets",
-      "excerpt": "Pfizer teamed up with AI biotech firm Insilico Medicine to leverage Insilico's technology to identify drug targets for a variety of diseases",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/pfizer-insilico-medicine-partner-to-identify-drug-targets-2020-1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e21c48162fa8132960b1932?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

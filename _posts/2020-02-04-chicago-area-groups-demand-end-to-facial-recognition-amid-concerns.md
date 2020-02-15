@@ -33,6 +33,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif"
         width: 1024
         height: 576
+  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    publishedDateTime: 2020-01-27T09:55:00Z
+    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+        width: 1200
+        height: 763
   - title: "Frustration grows in China as face masks compromise facial recognition"
     excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
     publishedDateTime: 2020-02-05T18:51:00Z
@@ -250,15 +265,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 61
   - title: "Volusia County Sheriff's Office now using facial recognition software"
     excerpt: "WESH 2 News looked into controversial technology that could help catch criminals: facial recognition software is being used in Volusia County. WESH 2 News got answers on how it works and why Orlando police decided against using facial recognition permanently."
     publishedDateTime: 2020-02-01T03:30:00Z
@@ -566,6 +572,19 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
   - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
     excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
     publishedDateTime: 2020-02-02T02:35:00Z
@@ -916,15 +935,6 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 34
   - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
     excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
     publishedDateTime: 2020-02-04T11:05:00Z

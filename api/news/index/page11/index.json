@@ -2,6 +2,96 @@
   "page": 11,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-13-facebook-releases-low-latency-online-speech-recognition-framework.md",
+      "title": "Facebook releases low-latency online speech recognition framework",
+      "excerpt": "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "publishedDateTime": "2020-01-13T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook releases low-latency online speech recognition framework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-13-leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control.md",
+      "title": "Leading AI Luminary Has An Idea To Ensure Humans Remain In Control",
+      "excerpt": "Professor of Computer Science at the University of California, Berkeley and an Adjunct Professor of Neurological Surgery at the University of California, San Francisco, Stuart Russell, has written the most read text book on AI.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/",
+      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/amp/",
+      "publishedDateTime": "2020-01-13T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1ba133da6d380006296aa7%2F0x0.jpg",
+          "width": 1199,
+          "height": 654,
+          "title": "Leading AI Luminary Has An Idea To Ensure Humans Remain In Control",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-13-linkedin-blockchain-beats-ai-and-cloud-computing-for-hottest-skill-in-2020.md",
       "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
       "excerpt": "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ...",
@@ -2017,88 +2107,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-marscat-robot-is-more-project-than-pet.md",
-      "title": "MarsCat robot is more project than pet",
-      "excerpt": "There's a growing fear that artificial intelligence combined with robotics will displace the value of humans in many contexts. But could these trends also apply to our traditional four-legged canine and feline companions? After its splash at CES 2020, I had an opportunity to get up close this week with two prototypes of the MarsCat robot ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/marscat-robot-is-more-project-than-pet/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
-      "publishedDateTime": "2020-01-15T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-qualcomms-self-driving-car-made-me-never-want-to-touch-a-steering-wheel-again.md",
-      "title": "Qualcomm’s self-driving car made me never want to touch a steering wheel again",
-      "excerpt": "A couple of days earlier at the giant Consumer Electronics Show, Qualcomm announced a new platform for self-driving cars called Snapdragon Ride — and to showcase its powers, Qualcomm gave me a ...",
-      "heat": 135,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp",
-      "publishedDateTime": "2020-01-15T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Qualcomm’s self-driving car made me never want to touch a steering wheel again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

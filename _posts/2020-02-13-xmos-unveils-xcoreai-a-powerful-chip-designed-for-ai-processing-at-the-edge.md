@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
 type: article
 quality: 105
-heat: 146
+heat: 145
 published: true
 
 provider:

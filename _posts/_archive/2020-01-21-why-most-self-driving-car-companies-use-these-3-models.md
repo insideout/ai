@@ -4,10 +4,12 @@ title: "Why most self-driving car companies use these 3 models"
 excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
 publishedDateTime: 2020-01-21T20:54:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
+ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Mashable
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "5isL1mA2pW7AltS4z2uQt/QT7glchxcu2cPA1i8Ffu87hyJo627YMVI5fn4kvMA9edzi97aYS2M8Ivgzv6wKz9BtNuFLTwcMXLOb0oxRzrKTOBs+b6+XJxroCWBe6ypnhUKznsYE1Ymm3fiVEza1VZqsLkyQ+Wz8AAy61wUhWWuolcoUzieZ283jh/so1ZjgHJ2woP06DpWphGjoKubLYt5L6eEY/7TeUwqLAxuXOy5j45Btx6szMvJlLP0l3ETGuVCijtGpMGfhuC17AZ2J5u9WwayDOysHL3TZysWWsQN6wU2p7PVgNwotSftT6RK0BjQ/2lGU0gVEqiqaoF+uehOJi4jtQZFI2jd04Pp6D+a6k/ofnUlEdRX4fBcxKg0sa6m5mdVHc4crW7jk4T1zGqX/NeTRbymrQFYHv7lzOMc6cc6yQ/8LlUjoTrm+lYAsAmC4n06Tk2Z+TSELck7VXj9qOLngRPs+ek/oKqAqN6k=;1DpavOaR9Sl9RqfOUKra/g=="
+images:
+  - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
+    width: 1200
+    height: 630
+    title: "Why most self-driving car companies use these 3 models"
+
+secured: "Lvuu7V5o8LFwXm8OwGZQEN9cXkkOY4Tb/6XZ8y9YWRsrF0lUHf8z2izSJ7SPYgj9Wbt9h9NHTnqqhNwY59qi0gkUwMr2P6MjXI67uRRt/qbgeGzADUyGdjJ41862NNo55OrKPqkaaeTGuPukBF5WeROEedECYqVsl1LgwV9uFI/dC+WGv7WRhuhu7cItAC7I0osdnFd9R1ghSXCZcHh7hd3GEWwL4wKVHoCaN/ZCrTk6I4UF/CC7SA0nU3NNE43kETg+1EJmHAkvzq0yX/nBNqySXfQ/A+UJzBXjVIkuaUZNQFrpIiiNBcVkuH2HVn9u;n4Dc99IopFpWiPptbIgUjA=="
 ---
 

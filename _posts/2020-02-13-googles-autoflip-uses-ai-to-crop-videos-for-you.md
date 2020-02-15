@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-cr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

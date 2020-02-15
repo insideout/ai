@@ -2,6 +2,130 @@
   "page": 4,
   "value": [
     {
+      "path": "_posts/2020-02-07-et-prime-introduces-market-first-subscribe-with-google-partnership.md",
+      "title": "ET Prime introduces market-first ‘subscribe with Google’ partnership",
+      "excerpt": "NEW DELHI: The Economic Times’ subscription-based premium ... the ability to seamlessly pay for subscriptions or read premium articles across a dedicated mobile app, web browser or search results. ET Prime has now become India’s first premium business news publisher to offer the ‘Subscribe with Google’ option that allows users to ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/articleshow/74013039.cms",
+      "ampWebUrl": "https://m.timesofindia.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/amp_articleshow/74013039.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/amp_articleshow/74013039.cms",
+      "publishedDateTime": "2020-02-07T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "ET Prime introduces market-first ‘subscribe with Google’ partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-exclusive-reuters-uses-ai-to-prototype-first-ever-automated-video-reports.md",
+      "title": "Exclusive: Reuters Uses AI To Prototype First Ever Automated Video Reports",
+      "excerpt": "Developed in collaboration with London-based AI startup Synthesia, the new system harnesses AI in order to synthesize pre-recorded footage of a news presenter into entirely new reports.",
+      "heat": 185,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/amp/",
+      "publishedDateTime": "2020-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d307e8b6cf300071e2376%2F0x0.jpg%3FcropX1%3D1%26cropX2%3D1760%26cropY1%3D0%26cropY2%3D990",
+          "width": 1200,
+          "height": 675,
+          "title": "Exclusive: Reuters Uses AI To Prototype First Ever Automated Video Reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering.md",
+      "title": "Finding The Cracks In Public Data: Keeping Our AI Safe From Tampering",
+      "excerpt": "To safely incorporate AI into the world of the future, it’s paramount that agencies pay attention to the source of their data.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering/amp/",
+      "publishedDateTime": "2020-02-06T19:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/515444720/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Finding The Cracks In Public Data: Keeping Our AI Safe From Tampering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-07-geek-of-the-week-trupanions-david-jaw-uses-machine-learning-to-help-facilitate-better-pet-care.md",
       "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
       "excerpt": "As the leader of the data science department at Trupanion in Seattle, David Jaw’s projects are actually around pets. Jaw, GeekWire’s latest Geek of the Week, uses artificial intelligence and machine learning to help automate medical insurance claims for pets, streamlining the process and removing the worry about what’s covered and what ...",
@@ -187,7 +311,7 @@
       "path": "_posts/2020-02-07-natural-language-processing-market-2020-precise-outlook-apple-dolbey-systems-google-microsof-verint.md",
       "title": "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint",
       "excerpt": "The Natural Language Processing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain.",
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-precise-outlook---apple-dolbey-systems-google-microsof-verint-2020-02-07",
@@ -1022,51 +1146,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-08-machine-learning-operationalization-software-market-2019-2025-global-industry-analysis.md",
-      "title": "Machine Learning Operationalization Software Market 2019-2025 Global Industry Analysis",
-      "excerpt": "The Global Machine Learning Operationalization Software Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application,",
-      "heat": 171,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operationalization-software-market-2019-2025-global-industry-analysis-2020-02-08",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-08T01:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Operationalization Software Market 2019-2025 Global Industry Analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -2096,97 +2175,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-facebook-quietly-acquired-another-uk-ai-startup-and-almost-no-one-noticed.md",
-      "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
-      "excerpt": "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ...",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
-      "publishedDateTime": "2020-02-10T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-fiat-chrysler-and-autox-confirm-plans-to-work-on-robotaxis.md",
-      "title": "Fiat Chrysler and AutoX confirm plans to work on robotaxis",
-      "excerpt": "FCA will face plenty of competition in China, where self-driving car tests have been permitted on public roads since 2017. Alibaba, Baidu, Chinese ridesharing company Didi Chuxingare and Tencent are all working on autonomous vehicle platforms. Volvo and Ford are both involved with Baidu. Meanwhile, Volkswagen's autonomous driving subsidiary ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/10/fiat-chrysler-autox-robotaxis-china/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/10/fiat-chrysler-autox-robotaxis-china/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/fiat-chrysler-autox-robotaxis-china/",
-      "publishedDateTime": "2020-02-10T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4000%252C2499%252C0%252C168%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1000%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fd4964650-4c34-11ea-a374-cfaa3a243dce%26client%3Da1acac3e1b3290917d92%26signature%3Da8fc029f8045afc06de7644470a82b686457cff2&client=amp-blogside-v2&signature=9fe2063928992a00bf65af16b4d39b2a6b5c5b19",
-          "width": 600,
-          "height": 350,
-          "title": "Fiat Chrysler and AutoX confirm plans to work on robotaxis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

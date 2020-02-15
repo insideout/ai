@@ -18,49 +18,10 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 31, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
-    publishedDateTime: 2020-01-31T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-    publishedDateTime: 2020-02-06T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Software Market to Witness Huge Growth by 2025"
-    excerpt: "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data."
-    publishedDateTime: 2020-02-05T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Share, Growth, Trends And Forecast To 2026"
-    excerpt: "Feb 05, 2020 (Xherald via COMTEX) -- The Natural Language Processing Market 2020-2026 is a valuable source of insightful data for business strategists. This Natural Language Processing Market study provides comprehensive data on aspects of competitive intelligence, market research, strategy, planning, pricing and forecasting that enhances the ..."
-    publishedDateTime: 2020-02-05T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-share-growth-trends-and-forecast-to-2026-2020-02-05"
+  - title: "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027"
+    excerpt: "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,"
+    publishedDateTime: 2020-02-04T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
     type: article
     provider:
       name: MarketWatch
@@ -70,75 +31,10 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Aviation Market Trend And Top Growing Companies 2026"
-    excerpt: "Global Artificial Intelligence In Aviation Market Insights, Forecast to 2026 The report discusses many vital industry facets that influence \"Global Artificial Intelligence In Aviation Market\" industry acutely which includes extensive study of competitive edge,"
-    publishedDateTime: 2020-02-07T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-trend-and-top-growing-companies-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 31, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
-    publishedDateTime: 2020-01-31T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Robots Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, February 05, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
-    publishedDateTime: 2020-02-05T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare Market Growth, Segmentation, Share, Trends, Insights and Analysis Forecast to 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-    publishedDateTime: 2020-02-05T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-segmentation-share-trends-insights-and-analysis-forecast-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural language processing (NLP) Market With Flourish CAGR in Forecast Period 2020 to 2027"
-    excerpt: "Ameco Research announced the latest market research report on \"Global Natural language processing (NLP) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Natural language processing (NLP) Market,"
-    publishedDateTime: 2020-02-05T08:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-with-flourish-cagr-in-forecast-period-2020-to-2027-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Platform Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-    excerpt: "Artificial Intelligence Platform Industry Description This report studies the Artificial Intelligence Platform market, Artificial intelligence (AI, also machine intelligence, MI) is intelligence displayed by machines,"
-    publishedDateTime: 2020-02-06T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-02-06"
+  - title: "Image Recognition Market Worth $81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-05T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
     type: article
     provider:
       name: MarketWatch
@@ -148,80 +44,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Aviation Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 31, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
-    publishedDateTime: 2020-01-31T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31"
+  - title: "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof"
+    excerpt: "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,"
+    publishedDateTime: 2020-02-06T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Cyber Security Market - Global Industry Analysis by Size Share Growth Trends and Forecast 2020 - 2025"
-    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Market is expanding at a healthy CAGR between 2020-2025. On the basis of component, the segment is expected to emerge as the leading one in the forecast period."
-    publishedDateTime: 2020-01-31T12:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market---global-industry-analysis-by-size-share-growth-trends-and-forecast-2020---2025-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Automotive Market Share – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "MarketStudyReport.com present the report on global Artificial Intelligence (AI) in Automotive Market report evaluates the growth trends of the industry through historical study and estimates future prospects based on comprehensive research."
-    publishedDateTime: 2020-02-03T12:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-share-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Cloud Natural Language Processing Market: Global Industry Trends, Share, Size and 2024 Future Opportunities"
-    excerpt: "Global Cloud Natural Language Processing Market reports provide in-depth analysis of Top Players, Geography, End users, Applications, Competitor analysis, Revenue, Price, Gross Margin, Market Share, Import-Export data,"
-    publishedDateTime: 2020-02-03T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-trends-share-size-and-2024-future-opportunities-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, February 05, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
-    publishedDateTime: 2020-02-05T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Healthcare Natural Language Processing (NLP) Market: Global Industry Analysis, Opportunity and Forecast 2019 to 2024"
-    excerpt: "The report provides an exhaustive calculation of the Healthcare Natural Language Processing (NLP) comprising of industry chain structure, market drivers, opportunities, future roadmap, industry news analysis,"
-    publishedDateTime: 2020-02-03T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-global-industry-analysis-opportunity-and-forecast-2019-to-2024-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -239,171 +70,42 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Medical Imaging Market Current And Future Trends 2020-2026"
-    excerpt: "The Artificial Intelligence In Medical Imaging Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Medical Imaging Market study provides comprehensive data on aspects of competitive intelligence,"
-    publishedDateTime: 2020-02-05T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-current-and-future-trends-2020-2026-2020-02-05"
+  - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
+    publishedDateTime: 2020-02-04T10:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200204005427/en/Global-Deep-Learning-Market 2020-2024-Growing-Application-Deep"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-  - title: "Computer Vision Software Market Rising Trends and Technology Advancements 2020 to 2026"
-    excerpt: "The report presents an in-depth assessment of the Computer Vision Software Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
-    publishedDateTime: 2020-02-04T04:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-rising-trends-and-technology-advancements-2020-to-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-  - title: "Artificial Intelligence in Aviation Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, February 05, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
-    publishedDateTime: 2020-02-05T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200204005427/en/771085/23/Global_Deep_Learning_Market_2020-2024.jpg"
         width: 1200
-        height: 630
-  - title: "Trending News For Artificial Intelligence in Aviation Market Emerging Opportunities with Current Trends and Forecast to 2029"
-    excerpt: "Artificial Intelligence in Aviation Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
-    publishedDateTime: 2020-02-06T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-in-aviation-market-emerging-opportunities-with-current-trends-and-forecast-to-2029-2020-02-06"
+        height: 627
+  - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
+    publishedDateTime: 2020-02-07T11:27:00Z
+    webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Automated Material Handling Equipment Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 31, 2020: Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence,"
-    publishedDateTime: 2020-01-31T06:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Automotive Market Opportunities, Share And Forecast 2020-2026"
-    excerpt: "The Artificial Intelligence (AI) In Automotive Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence (AI) In Automotive Market study provides comprehensive data on aspects of competitive intelligence,"
-    publishedDateTime: 2020-02-05T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-opportunities-share-and-forecast-2020-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-31T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
-    excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
-    publishedDateTime: 2020-02-06T16:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-by-level-of-automation-and-component-global-opportunity-analysis-and-industry-forecast-2020-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, February 05, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
-    publishedDateTime: 2020-02-05T04:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-  - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
-    excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
-    publishedDateTime: 2020-02-04T12:24:00Z
-    webUrl: "https://www.openpr.com/news/1918469/self-driving-bus-market-size-share-trend-growth-forecast"
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
+    publishedDateTime: 2020-02-11T11:51:00Z
+    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 4
-  - title: "Global Artificial Intelligence in Medicine Market Size, Share & Forecast 2020-2023 | Global Industry Overview and Latest Trend and Growth Analysis"
-    excerpt: "Global \"Artificial Intelligence in Medicine\" Market report 2020 intends to give inside and out data about Artificial Intelligence in Medicine industry with market outlook, trends, business strategies and future prospects of industry. It includes the present market status with some changing size and trends that can affect the market growth rate."
-    publishedDateTime: 2020-01-31T11:30:00Z
-    webUrl: "https://www.openpr.com/news/1915648/global-artificial-intelligence-in-medicine-market-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Continuous Positive Airway Pressure (CPAP) Humidifiers Market Growth Prospects, Trends and Forecast up to 2027"
-    excerpt: "Continuous positive airway pressure (CPAP) humidifiers are vital accessories in sleep apnea therapy. Using a humidifier a patient can alleviate symptoms ... However, new developments in medical device technology such as development of CPAP hot humidifiers and artificial intelligence allow to image the new future of devices at higher level ..."
-    publishedDateTime: 2020-02-03T12:52:00Z
-    webUrl: "https://www.openpr.com/news/1916850/continuous-positive-airway-pressure-cpap-humidifiers-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Medical Robots Market Industry Analysis By Future Demand, Top Players, Size, Share, Opportunities, Revenue till 2026"
-    excerpt: "and Geography Forecast till 2026,\" the market is likely to grow in the coming years due to recent product innovations using concepts such as artificial intelligence (AI) and the internet of things (IoT). The report covers: o Global Medical Robots Market trends, with detailed analysis on consumer trends & manufacturer trends. o Overview on ..."
-    publishedDateTime: 2020-02-04T13:13:00Z
-    webUrl: "https://www.openpr.com/news/1918695/medical-robots-market-industry-analysis-by-future-demand-top"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Artificial Intelligence in Energy Market Growth Trends 2019 | ABB, General Electric, Siemens, Grid4C, IBM"
-    excerpt: "Global Artificial Intelligence in Energy Market Growth (Status and Outlook) 2019-2024 is systematic research that delivers an expert and comprehensively analyzes recent key business trends and upcoming market growth outlooks. The report covers major drivers and constraints, accounts of crucial market participants, splitting analysis and ..."
-    publishedDateTime: 2020-02-05T06:32:00Z
-    webUrl: "https://www.openpr.com/news/1919332/artificial-intelligence-in-energy-market-growth-trends-2019"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology, By End Use And Segment Forecasts, 2019 - 2025"
-    excerpt: "/PRNewswire/ -- Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology (Deep Learning, Machine Learning), By End"
-    publishedDateTime: 2020-02-05T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-share--trends-analysis-report-by-solution-by-technology-by-end-use-and-segment-forecasts-2019---2025-300999317.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-  - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
-    excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
-    publishedDateTime: 2020-02-05T02:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
     quality: 0
 
-secured: "156ki8eL7oDJfGGMJGvYk82Ord55EpzNvaNSNPgCU5+s9TOl5GyUPnIqs1bcW710VPcOI29a6JeN3+sQPp+Gip5Cl2nMZlBAMff7T8Z6SD2YeO9BYrxWsoVg2ZvDfej5np7zvJ9Pcx20BUE4mslJUlWH3LaUr2oPC9jBpmOUorUYyTVkRhEJ30E8M3a98pF4kCRC0lcynlz59eRc5O1TNtqj754fNc07OusuS7vFsm8VG3HqJ9VKe/JY7rf9loXRyxXcS3Jo3wAKuHGMRSpR1TUx8oPmPxAkawabzS2qbTI/JuA2t3hMozBLb1hxz1FF;fmElu/rrgK7n/+HzDPnouQ=="
+secured: "puLgHIF/y8QdKrIQY+vJ/bt/Rkm6KrBARrxRb3F5cLeNHt+PCBkmfDYY8Oz3X8TpIunGCMVch0z5sN9+YfyY0nU0NMK2AdlVvrXYMrIhZEhymbWpKroYzW9FDKR6xumB5CzHtEVSRL6NfWc2blKDDNhd0FipWIXm1W0ecB3ZE5krzO4n5IE3oUqoeD8MSQxiwvLXYgTL49he0S4vtuxpgZFaAr88eZxv4tiajWHzZekzSohbA1alRGNoIVZUxaKjtS5UuufmJLrTxiimKU9U4vD5dFAM3V6Ytwa7fPsXX2+D7HX1sezrOknrNVCpY5Rb;6PvrJTY7fFJxsP7ZU3CYkw=="
 ---
 

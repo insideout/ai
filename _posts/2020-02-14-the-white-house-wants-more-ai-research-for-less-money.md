@@ -1,22 +1,30 @@
 ---
 category: news
-title: "White House earmarks new money for AI and quantum computing"
-excerpt: "The funding, part of the Trump administration’s $4.8 trillion budget proposal, would direct more money for AI research to the Defense Department and the National Science Foundation. The administration also wants to spend $25 million on what it calls a national “quantum internet,” a network of machines designed to make it much harder to ..."
-publishedDateTime: 2020-02-10T23:56:00Z
-webUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/"
-ampWebUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
+title: "The White House wants more AI research for less money"
+excerpt: "AI is upending companies, industries, and humanity. The White House released a budget proposal this week that at first glance, looks like a big win for the fields of artificial intelligence and machine learning. The budget for fiscal year 2021 (which begins in October) would ramp up spending for AI research at DARPA (the Pentagon’s research ..."
+publishedDateTime: 2020-02-14T23:05:00Z
+webUrl: "https://qz.com/1803033/the-white-house-wants-more-ai-research-for-less-money/"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Quartz
+  domain: qz.com
+  images:
+    - url: "/assets/images/organizations/qz.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTSE2HG-e1581718030973.jpg?quality=75&strip=all&w=1400"
+    width: 1400
+    height: 787
+    title: "The White House wants more AI research for less money"
 
 related:
   - title: "The White House wants to spend hundreds of millions more on AI research"
@@ -47,19 +55,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1139876920.jpg?w=1024"
         width: 1024
         height: 664
-  - title: "The White House wants more AI research for less money"
-    excerpt: "AI is upending companies, industries, and humanity. The White House released a budget proposal this week that at first glance, looks like a big win for the fields of artificial intelligence and machine learning. The budget for fiscal year 2021 (which begins in October) would ramp up spending for AI research at DARPA (the Pentagon’s research ..."
-    publishedDateTime: 2020-02-14T23:05:00Z
-    webUrl: "https://qz.com/1803033/the-white-house-wants-more-ai-research-for-less-money/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 67
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTSE2HG-e1581718030973.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 787
   - title: "Trump admin wants funding doubled to make US an AI powerhouse"
     excerpt: "FACEBOOK'S FACIAL-RECOGNITION SETTLEMENT AMOUNT BREAKS RECORD The White ... The budget proposal on Monday will include a 70% increase for National Science Foundation (NSF) for AI-related grants and interdisciplinary research institutes, rising to more than $850 million, sources said, as well as a significant jump in funding at NSF for quantum ..."
     publishedDateTime: 2020-02-08T00:57:00Z
@@ -75,6 +70,17 @@ related:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/1906/854081161001_6129875769001_6129874072001-vs.jpg"
         width: 1280
         height: 720
+  - title: "White House earmarks new money for AI and quantum computing"
+    excerpt: "The funding, part of the Trump administration’s $4.8 trillion budget proposal, would direct more money for AI research to the Defense Department and the National Science Foundation. The administration also wants to spend $25 million on what it calls a national “quantum internet,” a network of machines designed to make it much harder to ..."
+    publishedDateTime: 2020-02-10T23:56:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Trump splashes out on $4.8 trillion artificial intelligence plan"
     excerpt: "For several years, technologists have urged the Trump administration to back research on artificial intelligence -- which could affect things as diverse as weapons and transportation -- and ..."
     publishedDateTime: 2020-02-11T22:54:00Z
@@ -89,6 +95,6 @@ related:
         width: 620
         height: 464
 
-secured: "6DoZvZLW5fDbVAafyT9suCtA2bU3Tz3oSIH0z04DUnSTXkpKulgTOuOF7Hn8MSOkKcmKcxjrHVEWGpsySfbgscwXiD2jRVK5B0jqytR7kaYRHHkVoAD7k274oY5ofPdzebKYxdY1dSi6RqO7OpZPt3lwRq7hCgzs4XuJC/qnKVwetFtAQic7skthUW6BvynSAflKyD9t0PWCzPBQdEui5StWVsMPe7CIRKzUB0zJpYaZfuOtW5qS/666dYgEXoq/sTL8ryZIQYViDDo3vli8rZBf+166SnTfSGgM5+i+1+z3xTMo6laIulzUV1FgtjxBSRKFSdo4Tz87GVjJNwslC2RCZ8i6yRkI4+lzMw/uHsxx2i/We7eA+izBokS9IhNAqpjseI0Vr8IzEuUJL6xOhBRjjAXSUrefA0Y2Zg1zLQgc5rUTVB94lYTYfTkDYKlhTNPPAQfHhmBEJJANYNqfct5y0EDbxJILU0NmICWZFkQ=;uiVbZJ8ncz7HJe61SZ5k/A=="
+secured: "JjdouFv12/z2dAWNw6D9vAajRrtSqsnsYwZFyxFDFUyyraJa9ClEiZobG9DJ34uZ3kw7TBRHpQxw+1asARDg2gnTrJ/ye0TQFG0f9zd8XgtXRiC6sG9wvWlHgnmrETp8P67007S+DpifWeGSahRtlybwa7b39lhNgtJs26QQHqx8tHEWGYRRkmf8677DaKjXLF+nzEDYJbtkZz5aQNuNOT2xgNYOlRie+NFuyhM/6jbh3wkBTBxmSlwveKL10bOBhuyHmXdYSwq2DCa/t24M3r43dcb9BeLOlzYWue/7/rZ3DN73AdEMHRdcSOckL1CC;u3lJ+qT50z+P1vM/iCzRXg=="
 ---
 

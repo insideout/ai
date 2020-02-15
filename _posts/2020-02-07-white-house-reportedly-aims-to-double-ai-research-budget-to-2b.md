@@ -43,6 +43,19 @@ related:
       - url: "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688"
         width: 1200
         height: 675
+  - title: "The White House wants more AI research for less money"
+    excerpt: "AI is upending companies, industries, and humanity. The White House released a budget proposal this week that at first glance, looks like a big win for the fields of artificial intelligence and machine learning. The budget for fiscal year 2021 (which begins in October) would ramp up spending for AI research at DARPA (the Pentagon’s research ..."
+    publishedDateTime: 2020-02-14T23:05:00Z
+    webUrl: "https://qz.com/1803033/the-white-house-wants-more-ai-research-for-less-money/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 67
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTSE2HG-e1581718030973.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 787
   - title: "Trump admin wants funding doubled to make US an AI powerhouse"
     excerpt: "FACEBOOK'S FACIAL-RECOGNITION SETTLEMENT AMOUNT BREAKS RECORD The White ... The budget proposal on Monday will include a 70% increase for National Science Foundation (NSF) for AI-related grants and interdisciplinary research institutes, rising to more than $850 million, sources said, as well as a significant jump in funding at NSF for quantum ..."
     publishedDateTime: 2020-02-08T00:57:00Z

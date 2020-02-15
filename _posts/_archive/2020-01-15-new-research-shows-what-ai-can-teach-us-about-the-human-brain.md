@@ -4,10 +4,12 @@ title: "New research shows what AI can teach us about the human brain"
 excerpt: "Finding the best ways to do good. Google’s DeepMind research group has a lot of flashy AI accomplishments to its name. Among the biggest are AlphaGo, its game-playing algorithm that stunned many ..."
 publishedDateTime: 2020-01-15T20:47:00Z
 webUrl: "https://www.vox.com/future-perfect/2020/1/15/21067228/ai-brain-protein-folding-google-deepmind"
+ampWebUrl: "https://www.vox.com/platform/amp/future-perfect/2020/1/15/21067228/ai-brain-protein-folding-google-deepmind"
+cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/2020/1/15/21067228/ai-brain-protein-folding-google-deepmind"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Vox
@@ -21,6 +23,12 @@ topics:
   - AI
   - Google AI
 
-secured: "TqeExRaUqvd+PeDZ67Zm4WpW9QLpgeQoCV0Rcg5DolQnSOXM85CLL9IyEXSE8c2bTPkYdSyz7Ifr7wRNvv7e22feUIrY2F1abhvH2GJMg6lJoaWnUUMJplw9S9n/xeZkjA8fexpjrncycBsWpiGU+Fq+p+clpvliknmuVJ+qqqfY7kirrtfqAr9anerR07fhoskHPEF6X/Bl3IsZhYniG7NiZ+LGfQ6MQNhpRYsvIFFXfgy+N4yAn7AODSdNu/iT8zSH0MYjCgnyEOBTth3o+18DTnnO8viYXEXZHl72AqAsGCwqF+GdVNQ8MgjtoaYA;hGFrkFB65ITmF5RzuCNr+g=="
+images:
+  - url: "https://cdn.vox-cdn.com/thumbor/fwYvALR-b2obQB-jzin3iQ6R680=/0x0:5100x5100/1400x1050/filters:focal(2142x2142:2958x2958):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66109355/614083772.jpg.0.jpg"
+    width: 1400
+    height: 1050
+    title: "New research shows what AI can teach us about the human brain"
+
+secured: "coIeZSbdlPDYKTIl7+Ytr90UHhaJO41hBaUxdkM0/kgcwGsarXBs/63XzGu1HxMH4aXqdj8j5OhOmKxnvabBRFZVkzrVMlZYZuH2lEiQeVdBWXmMbxZ+v8sxe0n0oPQLNFPN/CR1dEfbuMMD7NKdHNbc7XN5kPo+ld/3Ywiovbgo3YZXqOWp1tUoDD2ccpCIQr2dzKN+IXyyLDlgB5brAmIoXzdOAXgwgZd7gF98RQT/UfcWLpiU+GUedAW/2sbaomcuNf4z1cD6dORVoqbTsXtN4ZnmU650fNfISGspIk4H07S5uEJAKtFUS4H41kps;KAFot+8NVyRBKWCwN/BvYQ=="
 ---
 

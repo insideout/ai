@@ -27,15 +27,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Deep Learning Software Market Will Reflect Significant Growth Prospects during 2019 to 2026"
-    excerpt: "Ameco Research announced the latest market research report on \"Global Deep Learning Software Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Deep Learning Software Market,"
-    publishedDateTime: 2020-02-05T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-will-reflect-significant-growth-prospects-during-2019-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Artificial Intelligence Market Size Worth $390.9 Billion by 2025: Grand View Research, Inc."
     excerpt: "Improved image recognition technology is critical in enhanced drones, self-driving cars, and robotics. Key suggestions from the report ... Inc.; Zebra Medical Vision, Inc.; Baidu, Inc.; H2O ai; IBM Watson Health; NVIDIA; Enlitic, Inc.; Google, Inc.; Intel Corporation; and Microsoft Corporation. Read 100 page research report with ToC on ..."
     publishedDateTime: 2020-02-05T08:40:00Z

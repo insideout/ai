@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T18:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
 type: article
 quality: 66
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -41,6 +41,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof"
+    excerpt: "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,"
+    publishedDateTime: 2020-02-06T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning Market 2019 CAGR, Production, Revenue, Industry Share, Rising Trends and Manufacturers Growth Outlook 2025"
+    excerpt: "Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025. Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025."
+    publishedDateTime: 2020-01-31T12:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2019-cagr-production-revenue-industry-share-rising-trends-and-manufacturers-growth-outlook-2025-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
     excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
     publishedDateTime: 2020-02-04T10:00:00Z
@@ -67,10 +93,10 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-  - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
-    excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
-    publishedDateTime: 2020-02-07T11:00:00Z
-    webUrl: "https://www.openpr.com/news/1923215/voice-recognition-for-automotive-market-trends"
+  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
+    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
+    publishedDateTime: 2020-01-29T12:11:00Z
+    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
     type: article
     provider:
       name: openpr.com

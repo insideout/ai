@@ -4,8 +4,10 @@ title: "The US Army uses facial recognition to train AI. Now, it needs to protec
 excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 61
+quality: 101
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+    width: 1200
+    height: 763
+    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -561,6 +569,19 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
   - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
     excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
     publishedDateTime: 2020-02-02T02:35:00Z
@@ -911,15 +932,6 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 34
   - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
     excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
     publishedDateTime: 2020-02-04T11:05:00Z
@@ -1063,6 +1075,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "hTkUU+pR2v7252WSnnT9d8F6c1MHHap6tQv5B4OSXyI9wnFdvmJGJMD34z4tVWmvosLNokhpDHKjwDBu2EMrahzox9SrPkbVMdrABYy8sm23vaEtNTVRuZUl9Lh8flb6WWx4D3yldnp/9z+eILm/XIPFKgrF3sA1Myi/oZPTfDEqRs/uBaBVp8zQSgNhFFsqwtM++B8MTgMcp7CV2Cd8lslsKIERVxdeEkv6UmdRZW+LJsCUlys/iFDJHLFFPloQrBF+2Kh6xUew88U+W8UF9f2IO7gYnXNYYrbUYTxVG8GnGQH/sPiYN6NtkymGlUjiPqNNXlXw/jOu7jK1x5EVBTPT44kXBg0aXdiPRZeGW2ez0doGXf7V3D0iwGt74Vg6mHV+Ev62RZUlpThSi0Q8N8Gr9X8LHDVvF/T+bfEWvVQIZUVSKydHgeLaBTpc0ZV258Q92X1I5XyqzO3A8/I+wOX7S/0o4OMhwnVrUIeMHDU=;LGvmNNrVn1FBK+G53WH2aA=="
+secured: "74N7aNXWLnHkthue53wKRIAhLvDWZdysnoE9OvUv/I1ct3x3GKaAU5lxAbhqjIAA+d9iqYpQPHeD5nAKgJCV/uvMJwAHUBDxaS4EYzMDdHkE9yRTNHE9/BdTgwOKXleWqITWeBlud0G8suFqYCBSP3BD5mTAHYZ320o6aIPwsjOMnnt7bd4dEpaLJVpRv681AthJv3XXQXiOiy2mPlo3o0VOa4YLfP2ANtu5AfMxNJ5YfzUdwH1OFOxNhhPa2SFNSqrVYFj9ynicWGY0ydCCv+vFcR5pDM+KI0N3RsFb3ftzWZjTGQEyI/6l1YJBndhe;Mtk/yzq2uh0YzgN+9qhccQ=="
 ---
 

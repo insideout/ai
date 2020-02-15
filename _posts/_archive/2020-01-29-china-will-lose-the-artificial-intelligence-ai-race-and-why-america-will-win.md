@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence (AI) is increasingly embedded ... Google's Alp
 publishedDateTime: 2020-01-29T20:04:00Z
 webUrl: "https://nationalinterest.org/blog/buzz/china-will-lose-artificial-intelligence-ai-race-and-why-america-will-win-118191"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "yO49QpHem/7oC82EGPiTdUN15QDlB/T/oK6RxcXMQTbs7gHYEXwg2UPpqTtKOIWJSAIowzzQKxc5CUykfa7+M2b/gqu1hcsYBZ/QLDUO1PkqwpQkmPi6P3q/AxxvaMKPUPSO6LPhFm+jJvcnzySjApp080AjmSeobTUCO/ntO1y9CGCnOnRru2rPafYx0vcxyrY+AbFRtcAP6XiDGxhyuAlJD7qWoFOQLAacBpPS4563ReZjRKmA8UxLr77hFs/BaEqAGSYJE08VbADraZurnMHAFzpyYqDLZC4NtTTL6SXMauovVm5xwA7hXQL05G8V;33xwHoaSMj3hvLO9FfWaLA=="
+images:
+  - url: "https://nationalinterest.org/sites/default/files/main_images/rgerg_0.jpg"
+    width: 1305
+    height: 870
+    title: "China Will Lose the Artificial Intelligence (AI) Race (And Why America Will Win)"
+
+secured: "btn8r6YgVm2tCp7aMDJQRw4/xVn+zWj68Q3ApvEfy0YHR+P/XUP2Iq2Ztr3KEjflQpzac3/Z2tRin3yYCa00UHwYFo/nVsuFlM9tXsm6llAYRmZovAt9Uu4+OqX3JJJbSTVY/E9GVLo4VLZlaPIQRQxzCEsiqgrgaTacBikHU1mbvkvDgi5liXK7HO7fQrAp9+k6zqcBgHhXpgEyx03Tyl+TKY502Uudvygdbxri+uGUgV1mTIa1Orc73wshEHil032ZxAlGmGJDvzeJkU7nnuNqxgJAmf2kKepSqdhJwnzn0ytH3T5DkwwJS0BvJlej;JKPrdpM4mXNtQ/C3EHHO9w=="
 ---
 

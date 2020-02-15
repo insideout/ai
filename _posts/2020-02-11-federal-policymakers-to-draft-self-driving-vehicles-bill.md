@@ -72,6 +72,15 @@ related:
       - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
         width: 1140
         height: 712
+  - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
+    excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
+    publishedDateTime: 2020-02-04T12:24:00Z
+    webUrl: "https://www.openpr.com/news/1918469/self-driving-bus-market-size-share-trend-growth-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "s1XAMW3t6VM9vxbN0sEyPcUVeVwaUe0g6QHbUHdsEQiUB11uzlMQU8SD/HKmSn9DCH3LFvIO8Cw3IMlIBC+iLL4C70yByxS2JUKI5DlA6RxMl5IQYCet1JXJmcSwI5kg9rEFgk8GTXaM/pESBR6SMhrFHq2nDyjygbF8StJ6oIQ96qvthHnktvKRwk2VluL7hGDbBBApSjLuCnNbDHe89jCifAhkUWQcuahV1k2zUrxTahuHJPlstLXCnSam8GP2QX1/Rp2U95SqJCONYChTYrXD1TZOF7YmahrvkhTBKi6NAdUyIT1g35fW85AOIRnC;OSMfbadgBet32CdCpIPJ4g=="
 ---

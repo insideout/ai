@@ -5,7 +5,7 @@ excerpt: "The US Army uses facial and object recognition technologies to train a
 publishedDateTime: 2020-01-28T09:26:00Z
 webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+    width: 620
+    height: 465
+    title: "US Army develops AI facial recognition protection"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -33,6 +39,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif"
         width: 1024
         height: 576
+  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    publishedDateTime: 2020-01-27T09:55:00Z
+    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+        width: 1200
+        height: 763
   - title: "Frustration grows in China as face masks compromise facial recognition"
     excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
     publishedDateTime: 2020-02-05T18:51:00Z
@@ -250,15 +271,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 61
   - title: "Volusia County Sheriff's Office now using facial recognition software"
     excerpt: "WESH 2 News looked into controversial technology that could help catch criminals: facial recognition software is being used in Volusia County. WESH 2 News got answers on how it works and why Orlando police decided against using facial recognition permanently."
     publishedDateTime: 2020-02-01T03:30:00Z
@@ -1059,6 +1071,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "1BQSUlxPYQ6gXt3M8owT733C99nAeHzO8YqVmo4df0SQubf7+F8eMxR/IL8chntxrsdHpLRUtyZT8DJkMZiml9sUFJDG2xDdur797M9m9/CF6oUz/mp00S1m6SDUhCeiVLhe0sozzC9j7zBqpmMJA3ZRo912W0X2Vc8gETMML19JLGrqH2tiDGBPdhPeSoqtQpfJqWxuyFct8s67qQeEWRrSUiRAvnGJ2hTe5BXqYLuq5VjRC5Xt3BtH+fETuI72ECqgKvfYc9ycKBgWtNziwCt2swpfE1WwZy/duepg8cioOYGLGIy4A4Df10CKgfQE;/JXHc4BpJ06T9fspQsrH/A=="
+secured: "kYUMRCbiiN9wynjbtZU2p9N4oLe8EXxRCCaK/aQzwN8zZW1Cyy4BygsRHPkAXWjLMQExFypH3+J2lIJWjRRqhaPuBr3iSz2nIqsLWx/hKk8ykJzG1B3d4mE36xjgRfUgSDudwb6xDzRD6YjPZ4rvYZP1kQASZ0AwY0I5hfzLYLMy56ziExJgj1IAnybkU+OGhkzJ41vIxILkANzmE/YhMtHB2wV3cyn4ML+pO7FQhzs53UJX6FU4rvUYtCtpA0+QPCcgDN/4Kt4p8bgtvJz8ZEEiFrv/QgnXera65MQ+ntQC8Ud8FrT4TQ5SA8zRSxwn;jt9kKGWKM73IcMrDZzFKPg=="
 ---
 

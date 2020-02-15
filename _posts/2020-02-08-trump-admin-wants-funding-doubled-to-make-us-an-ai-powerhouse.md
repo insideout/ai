@@ -54,6 +54,19 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1139876920.jpg?w=1024"
         width: 1024
         height: 664
+  - title: "The White House wants more AI research for less money"
+    excerpt: "AI is upending companies, industries, and humanity. The White House released a budget proposal this week that at first glance, looks like a big win for the fields of artificial intelligence and machine learning. The budget for fiscal year 2021 (which begins in October) would ramp up spending for AI research at DARPA (the Pentagon’s research ..."
+    publishedDateTime: 2020-02-14T23:05:00Z
+    webUrl: "https://qz.com/1803033/the-white-house-wants-more-ai-research-for-less-money/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 67
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTSE2HG-e1581718030973.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 787
   - title: "White House earmarks new money for AI and quantum computing"
     excerpt: "The funding, part of the Trump administration’s $4.8 trillion budget proposal, would direct more money for AI research to the Defense Department and the National Science Foundation. The administration also wants to spend $25 million on what it calls a national “quantum internet,” a network of machines designed to make it much harder to ..."
     publishedDateTime: 2020-02-10T23:56:00Z

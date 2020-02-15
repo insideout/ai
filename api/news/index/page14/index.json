@@ -2,6 +2,259 @@
   "page": 14,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-17-machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026.md",
+      "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
+      "excerpt": "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-moodys-analytics-wins-an-artificial-intelligence-award.md",
+      "title": "Moody’s Analytics Wins an Artificial Intelligence Award",
+      "excerpt": "Moody’s Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution,",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-an-artificial-intelligence-award-2020-01-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Moody’s Analytics Wins an Artificial Intelligence Award",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars.md",
+      "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
+      "excerpt": "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZG151",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151",
+      "publishedDateTime": "2020-01-17T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-new-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.md",
+      "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
+      "excerpt": "Researchers of the ICAI Group -Computational Intelligence and Image Analysis- of the University of Malaga (UMA) have designed an unprecedented method that is capable of improving brain images obtained through magnetic resonance imaging using artificial intelligence. This new model manages to increase image quality from low resolution to high ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
+      "publishedDateTime": "2020-01-17T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-patent-dominance-top-5-companies-leading-the-charge.md",
+      "title": "Patent Dominance: Top 5 Companies Leading the Charge",
+      "excerpt": "P atents are considered one of the best representations of a company’s inventive activity. Patenting an innovation is a crucial step to secure and convert research and development (R&D) efforts into potential economic gains.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17",
+      "ampWebUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
+      "publishedDateTime": "2020-01-17T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-07/ibm2.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": "Patent Dominance: Top 5 Companies Leading the Charge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-pfizer-has-tied-up-with-a-biotech-startup-to-leverage-its-ai-tools-to-identify-drug-targets.md",
+      "title": "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets",
+      "excerpt": "Pfizer teamed up with AI biotech firm Insilico Medicine to leverage Insilico's technology to identify drug targets for a variety of diseases",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/pfizer-insilico-medicine-partner-to-identify-drug-targets-2020-1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e21c48162fa8132960b1932?width=1200&format=jpeg",
+          "width": 800,
+          "height": 400,
+          "title": "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-17-sensetimes-ai-generates-realistic-deepfake-videos.md",
       "title": "SenseTime’s AI generates realistic deepfake videos",
       "excerpt": "Typically only a scarce number of videos are available to train an AI system, and any method has to cope with large audio-video variations among subjects and the absence of knowledge about scene geometry, materials, lighting, and dynamics, To overcome these challenges, the team’s approach uses the expression parameter space, or the values ...",
@@ -525,6 +778,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-heres-what-bosch-hopes-to-learn-from-deploying-autonomous-cars-in-san-jose.md",
+      "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+      "excerpt": "That’s where artificial intelligence comes to the rescue ... and you could hail a lounge-like driverless cab to go pick it up.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "publishedDateTime": "2020-01-18T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/bosch-daimler-autonomous-s-class-1-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1373,6 +1671,43 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-20-artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai.md",
+      "title": "Artificial intelligence needs to be regulated: Alphabet CEO Pichai",
+      "excerpt": "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html",
+      "publishedDateTime": "2020-01-20T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG",
+          "width": 600,
+          "height": 338,
+          "title": "Artificial intelligence needs to be regulated: Alphabet CEO Pichai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-20-can-ai-systems-be-unethical-the-answer-is-yes.md",
       "title": "Can AI Systems Be Unethical? The Answer Is Yes",
       "excerpt": "To avoid biased outcomes, data sets need to be neutralized in a manner that these biases disappear, or are at least minimised as much as possible. Tony Fish, visiting lecturer for AI and Ethics at LSE, said, “if we teach our kids morality then why not teach the machines? However there is a problem here—we are trying to build the moral ...",
@@ -1800,362 +2135,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-interpreting-3d-seismic-data-automatically-using-amazon-sagemaker.md",
-      "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
-      "excerpt": "Interpreting 3D seismic data correctly helps identify geological features that may hold or trap oil and gas deposits. Amazon SageMaker and Apache MXNet on AWS can automate horizon picking using deep learning techniques. In this post, I use these services to build and train a custom deep-learning model",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interpreting-3d-seismic-data-automatically-using-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-20T09:49:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/12/seismic-1.gif",
-          "width": 600,
-          "height": 424,
-          "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai.md",
-      "title": "Scoutbee raises $60 million to expedite supplier discovery with AI",
-      "excerpt": "That’s why in 2015, four German entrepreneurs — Christian Heinrich, Fabian Heinrich, Gregor Stühler, and Lee Galbraith — founded Scoutbee, which develops and sells access to an AI-driven supplier discovery platform. After raising $12 million in June 2019 to lay the runway for future growth, the company this week closed a $60 million ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/",
-      "publishedDateTime": "2020-01-20T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/logo-orange-small-e1579119365676.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Scoutbee raises $60 million to expedite supplier discovery with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn.md",
-      "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
-      "excerpt": "Although thеrе are several factors driving thе adoption оf artificial іntеllіgеnсе, thе mоѕt іmроrtаnt оnе іѕ іtѕ capability to make real and аutоmаtеd decisions. This is driven by the 3A’s of AI: Aѕѕіѕtеd,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
-      "publishedDateTime": "2020-01-20T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2567f28b6cf300071c7af7%2F0x0.jpg",
-          "width": 589,
-          "height": 393,
-          "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon.md",
-      "title": "The World Economic Forum Jumps On the Artificial Intelligence Bandwagon",
-      "excerpt": "It’s great to see the WEF taking a strong look at AI and then presenting what looks like a very good, introductory, toolkit for boards of directors, but the need for strong ethical positions means that more is needed.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/",
-      "publishedDateTime": "2020-01-20T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24dd7e8b6cf300071c77b9%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": "The World Economic Forum Jumps On the Artificial Intelligence Bandwagon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-this-ai-powered-cockpit-knows-when-to-cut-off-the-driver.md",
-      "title": "This AI-Powered Cockpit Knows When To Cut Off The Driver",
-      "excerpt": "A Taiwanese startup has developed a car cockpit that knows when the computer should take back the wheel from tired, sick or incompetent human drivers.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/20/this-ai-powered-cockpit-knows-when-to-cut-off-the-driver/",
-      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/20/this-ai-powered-cockpit-knows-when-to-cut-off-the-driver/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/01/20/this-ai-powered-cockpit-knows-when-to-cut-off-the-driver/amp/",
-      "publishedDateTime": "2020-01-19T23:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F40953368%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "This AI-Powered Cockpit Knows When To Cut Off The Driver",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-3-big-takeaways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store.md",
-      "title": "3 Big Takeaways From NRF 2020: Omnichannel Holidays, AI And The Measured Store",
-      "excerpt": "It’s important to gauge retailers’ moods at NRF not least because it’s usually the first warning you have as to what holiday results are going to be like.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/",
-      "ampWebUrl": "https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/",
-      "publishedDateTime": "2020-01-20T18:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1193597438%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "3 Big Takeaways From NRF 2020: Omnichannel Holidays, AI And The Measured Store",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips.md",
-      "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
-      "excerpt": "The Snapdragon 662 supports triple camera configurations, a first for the company's 6-series chips. It will also have Qualcomm's third-generation AI engine to let phone makers add things like avatars, night photography and face and voice authentication to cheaper phones. The processor comes integrated with the new X11 LTE modem that can ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "publishedDateTime": "2020-01-20T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/uTtvRMBczx9c-gHi594-X_c3hdY=/756x567/2019/12/17/7be74ffd-64e9-4938-aa31-3f17084d1fae/xiaomi-redmi-note-8-8.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020.md",
-      "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-      "excerpt": "The 720G (the G stands for gaming) is an octa-core chipset aimed at higher-end smartphones. Features include on-device AI (a privacy-focused priority for handsets from Samsung and others) and display resolution up to 2,520 x 1,080, along with 800Mbps top down speeds - still a respectable number, especially compared to the lower-band 5G networks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "ampWebUrl": "https://www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "publishedDateTime": "2020-01-21T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/uiwrFz8a2mmzeGUNyGgShg-1200-80.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

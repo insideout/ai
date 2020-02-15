@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-mill
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/"
 type: article
 quality: 218
-heat: 259
+heat: 258
 published: true
 
 provider:

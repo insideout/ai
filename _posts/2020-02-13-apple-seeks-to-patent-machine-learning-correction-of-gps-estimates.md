@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-lea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-learning-correction-of-gps-estimates/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

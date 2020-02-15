@@ -72,6 +72,15 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/pallone.jpg?itok=zhaIX2_q"
         width: 470
         height: 246
+  - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
+    excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
+    publishedDateTime: 2020-02-04T12:24:00Z
+    webUrl: "https://www.openpr.com/news/1918469/self-driving-bus-market-size-share-trend-growth-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "yxF3V/T5oKbkgohByFkS/eBifpCWwJHygXvCBiY+qIy2SF928NM9ogGdK73lYQAXfHkdf19DT1dhEfvTNA9ZYjbrO1o3EPfOx3s3RFwIUtwQuY4huGvcQYxmo40HXm3e/jr/BmfP4/SOc0YJo537IyU/RcRWgLwRJuwr8FyTqAwd9f+ns91BKdtPX/DNz9OynlTBiA2C7LK4iq30q6RaDs2ghFB+01xaXXj2r2S0jr6jfZtO/uA2m7nq3M77JhhSI1eGrSEdvg7J5uH30X7RbTezIO99AjPhUWEP33+2SfWU76+gvEkcq+WV5sQEQPr2MOfcgaU94snZtUpAZzY0McwjAub134DqnNT340z7K+k7hCEZYhwJH/xteuWBfAuOstnInn7jtfz/buafr785e2ELrzje32DFwo9Y5ph1KndjHK7s1zEGaGwer1i5nxWL1C5jDtzZ9qXUpJ36rXVkgMatFD79NVdpqvBZvbm54yw=;UJ8Dwwc8Rml2rGacAKYHDw=="
 ---

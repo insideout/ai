@@ -22,15 +22,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Deep Learning Software Market Will Reflect Significant Growth Prospects during 2019 to 2026"
-    excerpt: "Ameco Research announced the latest market research report on \"Global Deep Learning Software Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Deep Learning Software Market,"
-    publishedDateTime: 2020-02-05T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-will-reflect-significant-growth-prospects-during-2019-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Machine Learning Market Garner Valuation US$ 76.8 Bn by 2026"
     excerpt: "The global machine learning market value is expected to reach around US$ 76.8 Bn by 2026 and growing at a CAGR of around 40.1% over the forecast period 2019 to 2026. Machine learning is a subset of artificial intelligence. The concept has evolved from computational learning and pattern recognition in artificial intelligence. It explores the ..."
     publishedDateTime: 2020-02-05T05:54:00Z

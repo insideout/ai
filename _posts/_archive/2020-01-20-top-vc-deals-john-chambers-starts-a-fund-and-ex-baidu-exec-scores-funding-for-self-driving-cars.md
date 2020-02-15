@@ -4,10 +4,12 @@ title: "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores fund
 excerpt: "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)"
 publishedDateTime: 2020-01-20T00:00:00Z
 webUrl: "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
+ampWebUrl: "https://www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
 type: article
-quality: 36
-heat: 36
-published: false
+quality: 76
+heat: 86
+published: true
 
 provider:
   name: CNBC
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/104874500-GettyImages-647709384-pony-ma.jpg?v=1532563719"
+    width: 2004
+    height: 1336
+    title: "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars"
+
 related:
   - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
     excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
@@ -32,6 +40,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "hmYRoz3cMAGStXNFBfKoyPTHgRfB3FHhIa1MtrpjNwov0rS57Jmi6McTV3v1DaC3C7lQltKG8xCZ5xPrQs4Rgm2Yv3da2I2AhScFHx1eZLVsx5AdF0wLV/Y/6MnQpETL39Q4ILVxUlb/8o0I9v9+lghoDCNs9YzR96QbXgKUjl2qXobLr7autN+RtKcSeyuZFjW5fMFtBayAo/bmPYpxkexKT69XxEwJ7ic4u9CC/vVIy4uMXANIg/+G1XGPUe5yqC1jAxNrvP6iRvuUchLGebXabRzx3ijnE/pUPeJd12/e0ATUxfXQQDcV/f7+b1Bp;KXWI2aHRQXeChKVAhVU4+g=="
+secured: "5M9u/gYVxhAtaIV3R+F6bzlr9EkT6bFZIvyQ2XDhfUaC6goPnneOG/Z4vKntzW+HM21aQJEWxxYYGkErypXJPd3GMVlbQ6qqui1REBF7YNWPhD7iAQZRPspNqO/IwqLUtgpap17PBOLTS6EzJacA+On/oaoPoiZQs0fds+4jxK6nmXCCG7tGJWn7lfKA7vCvQBH714ge6hXOyREBRYFBite67hU4erM5qQyfGM4HxaVKqlbxVjuWNl8TN8mZLVjDFgaRYZQ8RLUl7qpZfB3cA49FkP9yLQlP9WDZFi48kbBAQEXSGa489RbxGQ5iCaR0;ZDMXOpEdss5UO6cbh+/dZQ=="
 ---
 
