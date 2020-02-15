@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T20:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Here’s How: Cloud Machine Learning Market is Booming Worldwide with Oracle, Google, IBM, Alibaba, Microsoft"
-    excerpt: "Advance Market Analytics released the research report ofGlobal Cloud Machine Learning Market, offers a detailed overview of the factors influencing the global business scope. A detailed study accumulated to offerLatest insights about acute features of the Cloud Machine Learning market."
-    publishedDateTime: 2020-01-31T15:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/heres-how-cloud-machine-learning-market-is-booming-worldwide-with-oracle-google-ibm-alibaba-microsoft-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

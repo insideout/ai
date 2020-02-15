@@ -33,6 +33,17 @@ related:
       - url: "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png"
         width: 1280
         height: 720
+  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
+    publishedDateTime: 2020-02-01T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
     excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
     publishedDateTime: 2020-02-04T11:36:00Z

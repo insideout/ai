@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-way
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/amp/"
 type: article
 quality: 81
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will"
 
 related:
-  - title: "Waymo Self-Driving Vehicle in Collision in Phoenix Suburb"
-    excerpt: "A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries, police said Friday."
-    publishedDateTime: 2020-01-31T16:12:00Z
-    webUrl: "https://www.nytimes.com/aponline/2020/01/31/business/bc-us-self-driving-vehicle-collision-2nd-ld-writethru.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "Police: Waymo self-driving vehicle involved in Tempe crash"
     excerpt: "TEMPE, Ariz. (AP) - A Waymo self-driving vehicle was involved in a collision in which one person was injured, police in a Phoenix suburb said Friday. It wasn't immediately known whether the Waymo vehicle was in self-driving mode when the collision occurred in Tempe late Thursday night."
     publishedDateTime: 2020-01-31T22:38:00Z

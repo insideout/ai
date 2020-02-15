@@ -2,223 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-13-the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond.md",
-      "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
-      "excerpt": "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market.",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/",
-      "ampWebUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/",
-      "publishedDateTime": "2020-02-12T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588",
-          "width": 960,
-          "height": 541,
-          "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
-      "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-      "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "publishedDateTime": "2020-02-13T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Face-to-face-title.png",
-          "width": 600,
-          "height": 315,
-          "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-this-emoji-could-mean-your-suicide-risk-is-high-according-to-ai.md",
-      "title": "This emoji could mean your suicide risk is high, according to AI",
-      "excerpt": "Compared to the general population, Crisis Text Line users skew young, low-income, and high-risk, but the AI-generated insights are promising. Lindsey C. McKernan, an assistant professor in the department of psychiatry and behavioral sciences at Vanderbilt University Medical Center who has written about using artificial intelligence in ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence/",
-      "ampWebUrl": "https://mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence.amp",
-      "publishedDateTime": "2020-02-12T16:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F02%252F13%252F72%252F17435b513b8a4c138a89d0224c67fa15.26cbf.jpg%252F1200x630.jpg?signature=mTpF80X4nYynlZY7jNCPPH4nBRk=",
-          "width": 1200,
-          "height": 630,
-          "title": "This emoji could mean your suicide risk is high, according to AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-to-pedestrians.md",
-      "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
-      "excerpt": "An intriguing solution emerged last year from Viziblezone, a startup within the Jerusalem-based investment platform OurCrowd’s Labs/02 incubator program. Using a combination of AI and machine learning models, smartphones, and commodity car hardware, it’s capable of alerting drivers about potential nearby hazards while helping them to avoid ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
-      "publishedDateTime": "2020-02-13T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-3-e1581578338376.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
-      "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
-      "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
-      "heat": 145,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/",
-      "publishedDateTime": "2020-02-12T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-asu-researchers-debut-viwi-bt-an-aicomputer-vision-mmwave-beam-guide.md",
       "title": "ASU researchers debut ViWi-BT, an AI/computer vision mmWave beam guide",
       "excerpt": "ViWi-BT’s goal is to use AI and a device’s cameras or lidar capabilities to identify physical impediments and advantages for the beam targeting process, enabling “vision-aided wireless communications.” In short, a system with ViWi-BT capabilities will learn about its 3D environment using a database of previously transmitted millimeter ...",
@@ -2127,6 +1910,207 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-artificial-intelligence-can-help-detect-blood-cancer-study.md",
+      "title": "Artificial Intelligence can help detect blood cancer: Study",
+      "excerpt": "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze.",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/",
+      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
+      "publishedDateTime": "2019-12-22T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg",
+          "width": 675,
+          "height": 365,
+          "title": "Artificial Intelligence can help detect blood cancer: Study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages.md",
+      "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
+      "excerpt": "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
+      "publishedDateTime": "2019-12-22T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG",
+          "width": 600,
+          "height": 337,
+          "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach.md",
+      "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
+      "excerpt": "This article, introduces to the multiple AutoML tools for a real life problem. Different than the other articles about AutoML, we will use multiple AutoML tool for the same project or multiple ...",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@sadievrenseker/real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach-96edcdc70932",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*B7sxpiEDrzG1YH09fMeH_w.png",
+          "width": 1200,
+          "height": 634,
+          "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-top-25-ai-startups-who-raised-the-most-money-in-2019.md",
+      "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+      "excerpt": "Its Cognito platform accelerates threat detection and investigation using artificial intelligence to collect ... and robotics teams at companies like Waymo, OpenAI, Lyft, Zoox, Pinterest, and Airbnb focus on building differentiated models vs.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "publishedDateTime": "2019-12-22T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
+      "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+      "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "publishedDateTime": "2019-12-23T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

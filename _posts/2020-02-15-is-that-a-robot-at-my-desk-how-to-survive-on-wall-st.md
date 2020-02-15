@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Is That a Robot at My Desk? How to Survive on Wall St"
-excerpt: "Robots have arrived on Wall Street, and humans need to learn how to work with them. JPMorgan Chase & Co. is rolling out virtual assistants to maintain help desks, track errors and route inquiries. A Bank of America corporate client made a $1."
-publishedDateTime: 2020-02-15T05:01:00Z
-webUrl: "https://www.bloomberg.com/news/articles/2020-02-15/is-that-a-robot-at-my-desk-how-to-survive-on-wall-st-quicktake"
+excerpt: "1. What makes robots qualified for Wall Street work? Artificial intelligence, a branch of computer science that aims to imbue machines with aspects of reasoning. Today, the term includes machine learning, which is the ability for computers to learn by ingesting data, and natural language processing, the ability to read or produce text."
+publishedDateTime: 2020-02-15T08:14:00Z
+webUrl: "https://www.washingtonpost.com/business/is-that-a-robot-at-my-desk-how-to-survive-on-wall-st/2020/02/15/2ca827dc-4fb9-11ea-967b-e074d302c7d4_story.html"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
   - AI in Robotics
 
-secured: "3VXPaFPppklfZ50dqhdBAqwk2mFsPF8O3CxaDtg6PYjaVuV3oUwKf/uNQ6qewTz4slgz1WnqvFqJaUYagP32q4DXCbKMtpcXKz3n3SgV2fuVTVhn+J2LBCdpUiTi3GInvVEK1UJYJvHkBIV7DUUjRzdETdbMnu/9RfvH5RytXRzA9L6xtBjX2WVAgqGlXyKoDAAcd7PvuSzuLrsKgSGi2JIeM+ol6J3/8RBOck2HIh3a5D5saoEuM/ncPe6Bb+AoCe3Og+0iS1EWcyjYUpJvk/Z4pEChO0KZb5iHnofdotRSr+i3kEQldNv+tR6GOLAJM5u8MXxoKMrNIHcslLX7d2r11jcqBHmL18ABf3U7T/2U7JFIJ+BLqmozRYJvuAvaVEvmtbKVQFTIMnp05YElyH/UAFOFcFfqcTRFNSQVIx8tuR1C6L/PLskrAbAl4+/v8yyHXCtOqpj66r7M0qzu+eW0UpH6uN+Nj9n4IPCmAY0=;/8oSv2vpuiE6es2oboqIEQ=="
+secured: "qbbOdJyzT5Q4lnZOjX7cpr/2g1E/gAUaa5zlJjSbc58nNqZOEGWc/xNxzR09jZqpuVNUPGaAXJDriq6/H16/jV5gI6U9DRtP/QGFsjZ38p0W+OYFryzHf0YRJQfpqeZmFT38f3M+uh8LcOdpaubDZlNG37G6jNHjNX+Q88GyNlasied0kck67GURG3LnLYBzqPl7NCbMIUcTxE1GT2mAJkFxa3u56KZYopEBOSqQDiHWFyslMvpi1ukn8pU+5JW47xbuxGxZQzbGrMhuuCxrghETE0OL+1h91EmXZrwB81fKrggww768XdWd3XzFWKD5SOKqKpJC1uka1v04PqQksEL4mig+C9R6Zvj6G2wGCJ+ZCeBp+WuKULsB9ISa0MhZBckvm2pvQYSdMLBf8HYvirbtqM4zzRum9GiU8hFeG/CV/nOkA36d/uCUKO+NfnYqCfDrySucBt42uGFacTxK0NroP10WVjGfbQGPHI0YxCA=;Oo3RJU2E1ZPkS1fj+NJjaA=="
 ---
 

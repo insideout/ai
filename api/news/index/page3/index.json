@@ -2,213 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-05-the-ai-eye-vsblty-and-energetika-propel-safety-in-mexican-municipalities-and-hvac-giant-carrier-selects-aws-for-digital-transformation.md",
-      "title": "The AI Eye: VSBLTY and Energetika Propel Safety in Mexican Municipalities and HVAC Giant Carrier Selects AWS for Digital Transformation",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - February 5, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-vsblty-and-energetika-propel-safety-in-mexican-municipalities-and-hvac-giant-carrier-selects-aws-for-digital-transformation-2020-02-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T09:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: VSBLTY and Energetika Propel Safety in Mexican Municipalities and HVAC Giant Carrier Selects AWS for Digital Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-the-growing-robot-workforce-means-well-need-a-robot-hr-department-too.md",
-      "title": "The growing robot workforce means we'll need a robot HR department, too",
-      "excerpt": "Retailers are increasingly adopting artificial intelligence and robotics, both in brick-and-mortar shops and in warehouses, and with a new robot workforce comes the need for new management methods. That's right: in the near future, HR departments won't focus only on human employees, but also include a robot resources department to look after ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
-      "publishedDateTime": "2020-02-05T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/02/01/596ef522-cb01-4678-afc7-54371d47cc24/thumbnail/1200x675/dc20cdf8ec64b5bd2f6ecbecbdfd70df/istock-513630810.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The growing robot workforce means we'll need a robot HR department, too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-waymos-self-driving-car-workers-reportedly-complain-about-finding-leftover-needles-in-the-vehicles-and-a-cut-to-their-benefits.md",
-      "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
-      "excerpt": "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\"",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
-      "publishedDateTime": "2020-02-05T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-welfare-surveillance-system-violates-human-rights-dutch-court-rules.md",
-      "title": "Welfare surveillance system violates human rights, Dutch court rules",
-      "excerpt": "Government told to halt use of AI to detect fraud in decision hailed by privacy campaigners",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-what-role-will-or-does-artificial-intelligence-play-in-your-life.md",
-      "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
-      "excerpt": "It doesn’t seem too long ago that artificial intelligence (AI) was mostly the stuff of science fiction. Today it seems to be everywhere: in our home appliances, in our cars, in the workplace, even on our wrists. To some extent, our use of AI is still a matter of personal choice. But because AI is becoming increasing ubiquitous, we need to ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/",
-      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/amp/",
-      "publishedDateTime": "2020-02-05T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e17a49da854780006e83185%2F0x0.jpg",
-          "width": 640,
-          "height": 426,
-          "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine.md",
       "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
       "excerpt": "Once that was figured out, doctors quickly brought him back around, and he was fine. But what if, through groundbreaking mixtures of compute, database, and AI technologies, a quick round of analyses on his blood and genome could have revealed his potential for such a reaction before it became a critical issue? What if it were possible to devise ...",
@@ -597,7 +390,7 @@
       "path": "_posts/2020-02-06-cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon.md",
       "title": "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon",
       "excerpt": "The Latest research study released by HTF MI \"Global Cloud Natural Language Processing Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06",
@@ -1099,7 +892,7 @@
       "path": "_posts/2020-02-06-lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns.md",
       "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
       "excerpt": "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer.",
-      "heat": 328,
+      "heat": 348,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
@@ -2144,6 +1937,223 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-nuros-r2-vehicle-has-been-granted-the-nhtsas-first-regulatory-exemption-for-a-custom-self-driving-car.md",
+      "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
+      "excerpt": "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
+      "publishedDateTime": "2020-02-07T14:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-six-data-points-you-should-know-about-federated-machine-learning.md",
+      "title": "Six Data Points You Should Know about Federated Machine Learning",
+      "excerpt": "How early attempts to deploy machine learning inside real-world use cases have led to a new approach called Federated Machine Learning. Download the authoritative guide: Leading Big Data Vendors: Solutions to Power Your Business IT decision-makers are using artificial intelligence (AI) and machine learning (ML) in big data projects and state-of ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2019/05/eweek.logo.DataPoints-UPDATE_2.jpg?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "Six Data Points You Should Know about Federated Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-smart-cities-how-artificial-intelligence-could-change-london.md",
+      "title": "Smart cities: How artificial intelligence could change London",
+      "excerpt": "Computers are scanning London's roads, with a 98% accuracy rate in identifying vehicles and people. And they are are learning all the time. The new system can run 24/7 and is part of the \"smart city\" revolution. Using data from the scanners, planners can change streets and target investment.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/av/uk-england-london-51415491/smart-cities-how-artificial-intelligence-could-change-london",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T15:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F0A1/production/_110810616_p082lg33.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Smart cities: How artificial intelligence could change London",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri.md",
+      "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
+      "excerpt": "But the tweaks made an AI interpret the sentences completely differently. Why it matters: We have seen many examples of such adversarial attacks, most often with image recognition systems, where tiny alterations to the input can flummox an AI and make it misclassify what it sees. TextFooler shows that this style of attack also breaks NLP ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615158/software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/40507772191411d162do.jpg?sw=1200&cx=478&cy=0&cw=2350&ch=1322",
+          "width": 1200,
+          "height": 675,
+          "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-tesla-accused-of-abruptly-pulling-self-driving-from-a-used-model-s.md",
+      "title": "Tesla accused of abruptly pulling self-driving from a used Model S",
+      "excerpt": "An extensive Jalopnik report details an (anonymous) person who bought a second-hand Model S 75D with both Enhanced Autopilot and Full Self Driving (FSD) as listed features. Except, somehow, those features were remotely removed, without notice from Tesla, as part of a software update. Last November, a California secondhand dealer picked up the ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/07/tesla-model-s-fsd-issues/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/",
+      "publishedDateTime": "2020-02-07T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5615%252C3744%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F573a2860-4997-11ea-b8ff-def49bb616f0%26client%3Da1acac3e1b3290917d92%26signature%3Dbc650a616fa7b08a85ec932a5a5f8db81960ac55&client=amp-blogside-v2&signature=55e283838481287341c2ce50730f8e43eb0dd682",
+          "width": 600,
+          "height": 350,
+          "title": "Tesla accused of abruptly pulling self-driving from a used Model S",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

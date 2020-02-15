@@ -67,6 +67,19 @@ related:
       - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
         width: 1000
         height: 750
+  - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
+    excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
+    publishedDateTime: 2020-02-11T05:28:00Z
+    webUrl: "https://www.heraldscotland.com/news/18225186.police-warned-not-adopt-unjustifiable-live-facial-recognition-technology/"
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 36
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/10955630/"
+        width: 800
+        height: 600
   - title: "London police deploy live facial recognition technology, stirring privacy fears"
     excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
     publishedDateTime: 2020-02-11T18:47:00Z
@@ -80,6 +93,32 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/5WPDfcRoZsIEZzSuFgW7EurnGtA=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/52R5YBRIHZBEHP5HNAANYUWTEE.jpg"
         width: 1200
         height: 675
+  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue thousands of children in India"
+    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
+    publishedDateTime: 2020-02-06T22:09:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-thousands-of-children-in-india"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue of thousands of children in India"
+    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
+    publishedDateTime: 2020-02-06T22:05:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-of-thousands-of-children-in-india"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
   - title: "Met police deploy live facial recognition technology"
     excerpt: "Cameras used at east London shopping centre despite experts warning against them"
     publishedDateTime: 2020-02-11T19:20:00Z
@@ -98,6 +137,15 @@ related:
       name: Portland Press Herald
       domain: pressherald.com
     quality: 17
+  - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
+    excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
+    publishedDateTime: 2020-02-11T09:23:00Z
+    webUrl: "https://www.dailyrecord.co.uk/news/politics/facial-recognition-technology-unfit-use-21469810"
+    type: article
+    provider:
+      name: dailyrecord
+      domain: dailyrecord.co.uk
+    quality: 16
   - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
     excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
     publishedDateTime: 2020-02-14T17:55:00Z

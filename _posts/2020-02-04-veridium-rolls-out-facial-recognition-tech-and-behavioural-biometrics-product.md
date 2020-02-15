@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T11:26:00Z
 webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,67 @@ images:
     title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
 
 related:
-  - title: "MediaTek introduces new smartphone chip system supporting biometric facial recognition"
-    excerpt: "MediaTek has developed a new chip called Helio G80, which is part of its mid-range System on Chip (SoC) product line and close in performance to the G70, with image processing capable of object recognition and facial biometrics, writes xda developers. The G-series assures enhanced performance in mobile games, while keeping prices low for consumers."
-    publishedDateTime: 2020-02-05T19:42:00Z
-    webUrl: "https://www.biometricupdate.com/202002/mediatek-introduces-new-smartphone-chip-system-supporting-biometric-facial-recognition"
+  - title: "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society"
+    excerpt: "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ..."
+    publishedDateTime: 2020-01-31T22:41:00Z
+    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 58
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/05143300/MediaTek-smartphone-chip-system-supporting-biometric-facial-recognition.jpg"
-        width: 840
-        height: 500
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
+        width: 796
+        height: 419
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 39
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
+  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
+    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
+    publishedDateTime: 2020-02-04T11:05:00Z
+    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
+    type: article
+    provider:
+      name: WYMT
+      domain: wymt.com
+    quality: 33
+    images:
+      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
+        width: 690
+        height: 388
+  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
+    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
+    publishedDateTime: 2020-02-03T21:46:00Z
+    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
+  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
+    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
+    publishedDateTime: 2020-02-03T14:21:00Z
+    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 18
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
+        width: 640
+        height: 461
 
 secured: "VrTSZVi+LDKYNjFjv9tWRtoJys0zE6tREix+dZfyRY5kUwuWOjPFo3WwozUPYmi9UpiP+neru1W7J4EPjS19y4Lbvc+9q/zqBTmGTEwAa2eiAm2vCW4CSCVPIX3RhFkqqvZ1kXTofRQqXPgbvrkx0R8r/RLRr6kk7Ys04nheNXZ11rlAyih+MezMu50Rsplg10oiBJO3hCxA8/hZRxpS1FEvDzGEEBPy/VF7Zm06U5ZglO+MbQqwkCp7n6F01RtBkfqfM0Imom0CFMsUuFYaU8gtbQtnlb/KJ3EB89e5eCvkxeceI31qtDKL/47wKWhW;S+u5dHKwbbApM/Rvx/bZ6A=="
 ---

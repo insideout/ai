@@ -93,6 +93,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "LFrJyoBwd8RTBircu7Z5/G14MdFbxkSdekVvU119GkNdLpZ1MyioS262c6d8azUcd2Gij9PYcWoEnrF+3aWyC5i79F5pdWNhnC/cQxg5nnuMJC5WBAOaVpFzzJaLAbe2VgK/8cCub79KW9rwSQxtSy1dSI8oqjvyiUTvMnIls5aqnQFEwCKGjV6d0ELdT5V8dt5WHcf0FT9iImbOO862uu/rsPtNXNkSR9//0uU+fqujaE5EvOEe4YyTOpB2DAXHCLDl1dijDjMsVLDZUWH+Bvl6R5sO63WVzgmjx7wUn9UkvYXIoxQR9bi/goFyauZX;sWSiIceVEXlf+MgEdnkNEQ=="
+secured: "DdZQLg7pPlcC1vnuf8/KA9k4gFu9+5K7bNvA0jXC3mtpkjdMQ8+nSOwrI+a4LKwbpmi+n9rzygNNMemYQQ5Wu5XBQfSqAyJQS1U8PTf0IRcSvgh4i2uQHTheXktooOyMCyPBP6+4YSbZtsQbfd1Iv6loYJOWzipSA9BldO2bkUEP15ZE+9T11vWbJEFfp0Fwc02Y68tIeOpe7JL38+Xe/CWUP714O9HzxG+0XheTFNXnNtAA5nm0z4QSMmhZ9jJQgb3iCUInW0JnJlqCurXbhLlYS85NG9mOrzcvTAdfah/6zEKj1sXLj+nyWd6Lmd5O;GquaqPRYDnGwPgCzvCy1nw=="
 ---
 

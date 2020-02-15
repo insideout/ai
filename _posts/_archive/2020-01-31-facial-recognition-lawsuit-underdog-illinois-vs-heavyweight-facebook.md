@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
-excerpt: "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ..."
-publishedDateTime: 2020-01-31T20:56:00Z
-webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/"
+title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
+excerpt: "Facial recognition software is on the rise, so it’s no wonder why Facebook wanted to include this tech in their platform, starting in 2010. The use case here was to aid in photo tagging. By using facial recognition software, Facebook users were being prompted to tag various people it thinks are your friends. Now, Facebook does give the ..."
+publishedDateTime: 2020-01-31T17:44:00Z
+webUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/"
+ampWebUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
+cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
 type: article
-quality: 65
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
-  images:
-    - url: "/assets/images/organizations/thenextweb.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The American Genius
+  domain: theamericangenius.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg"
-    width: 796
-    height: 420
-    title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
+  - url: "https://theamericangenius.com/wp-content/uploads/2020/01/illinois-31500_1280-1-1000x600.png"
+    width: 1000
+    height: 600
+    title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
 
 related:
   - title: "NYPD pushes back against facial recognition ban"
@@ -58,6 +56,19 @@ related:
       - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 675
+  - title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
+    excerpt: "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ..."
+    publishedDateTime: 2020-01-31T20:56:00Z
+    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg"
+        width: 796
+        height: 420
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
     excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
@@ -67,21 +78,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 61
-  - title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
-    excerpt: "Facial recognition software is on the rise, so it’s no wonder why Facebook wanted to include this tech in their platform, starting in 2010. The use case here was to aid in photo tagging. By using facial recognition software, Facebook users were being prompted to tag various people it thinks are your friends. Now, Facebook does give the ..."
-    publishedDateTime: 2020-01-31T17:44:00Z
-    webUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/"
-    ampWebUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
-    type: article
-    provider:
-      name: The American Genius
-      domain: theamericangenius.com
-    quality: 59
-    images:
-      - url: "https://theamericangenius.com/wp-content/uploads/2020/01/illinois-31500_1280-1-1000x600.png"
-        width: 1000
-        height: 600
   - title: "Lightfoot urged to pull the plug on facial recognition technology"
     excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
     publishedDateTime: 2020-02-04T11:33:00Z
@@ -189,6 +185,6 @@ related:
       domain: hauteliving.com
     quality: 19
 
-secured: "rmprjo/CfXcCDb7CecFo8G5b55KidXy+8MH61QA9pnDY2zjSR9meWzIaad9STdXpf/+fNQHPqYsR+N5tT7rtxc5+YejBj7OOhtfsfxFhPNXhW0thZ1F/lr3w7BuItcbJe/J9Xri8fliNIkYGrEOvBBBtbPMV6tZufhBGxc1QVT238kAzyJpdKrjiZEJVAKK4AZQ49ChTF4k/KKc7dToC9Rv8Po9Ld3qSPMWxUH3CCO3R2RwzfIHg4X4Qz/eWM4O9WgP7lT6nSBIAx+qsczo9EOdY+GVhIVbYpBwdjijFO9yjrII6Bmzd6ydP0gA3h43kNWku4NNbA8AZ1CX8bna9Jsx0AYwa/XfVW7XZJrR812N/Z0WAtIJLrGf4+U5SeJsahWinZqHwfTsHt+UDmU78bmwlh6BFrU7Ayue0VbLFELd8BhKl1sYTuF0620F2EKPkzxdWjuw1KKPVc5qnL1I4a0Dv532zCf5mUGqUTyHisrE=;dmHwhlWTppMnmPE2miOqFw=="
+secured: "442eIV55Jgy1hkJ8YmqKPzYx+gzPBmZQU2+7rDw+elv+aDymhbQ5eeGKb/rF0txZMOzLEPGvrn/uugtdDx6D7yWMdd4YOaYVbqaoFNCdT1AWCBc02q2fo2qZWOGv9Mn2mnFwLeeKk5UMiAiAoXHq/Brv6OwjXucdbxjjrT5uUzUsCAVfIdAAJKMtd4aq1M2FvgpItPtPY9s7om8vfDSxhAkxTxSpu5DQwOCyue2c05oJp6nQckR2bSD8BSATuB/J84GNUxQ4iQ0SmnfPEzSb4BYhH1e8idScxMp4c/og/W6XL1k0GUBQK60V/6loL1+reW+nETGujdml5458OZtXD4Znxn0N2OwCYMGR2RNypP2O3J3adMSB8YDemFdqhR2jtHZI73Aj69ZE8BwJvPHeN+Jp38hmnkXuPrBPtPbztw68qmXkGte9ElQMJ9ZTzzV+crKHPoWUBKXCSOb40W1i7CLarAIj+F8FCSc2xhrTi6U=;/8K0qHnI1JWhlSkvPxfdQg=="
 ---
 

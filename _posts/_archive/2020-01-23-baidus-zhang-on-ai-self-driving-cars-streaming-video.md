@@ -22,18 +22,12 @@ related:
     excerpt: "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)"
     publishedDateTime: 2020-01-20T00:00:00Z
     webUrl: "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 76
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104874500-GettyImages-647709384-pony-ma.jpg?v=1532563719"
-        width: 2004
-        height: 1336
+    quality: 36
 
-secured: "d49hdIjRzFW95slqPIEEWseSfO1rxdHOKmMOZnHKnWUBq5cZG/b2lFwTycy5sg13CjI6P5SnbogYTWaTk1EFatXRZ3bxenRI7WclXSsdFhfPpXpVjP7rmPgiU6eDgjGbPiUEZxIuMqNATLymMiYfOuMFllrpMf7WQvLnMDRlOGOLBYWRUoMSp2ySoIi0+q16jRaYh+oI3Niq1Tt3Emcx3hHpzJwX/k+K1YOnf7BI3xzB7aP035gEnjMePP40Vsqesl5UioJVAiDlGkRa6ubZgsjhofLbQZYX4ndpu/5YmmcqTpcgvtvJx8jQzM1dMLEl;WoaufxWUuaULXMZ4WIE1Zg=="
+secured: "K7DBUvw70GUorVRe8ZNKOwu0ghDhccN9Wpm+q2cgzpC4O4o6c8dkdtJHNU93ogrCoPrAFpowU0KHW2+lNs7VyPyJTKAoab/mGdUFA59tDXSV5+joLXoVsKqaJdfrxDk/b1d+zqu26xSxQAn81XwhDN9YHLL2pKz1GpLbDY1/EEi4siJwu6TkRGnv1NFHBM7q/onv2hLPDNMfdWUE4/0uj4KxqVx5sXaosIp1QV0ctRk7JlN/Mkzji6knZY7KEJiqSkvsYcapIUfGXeTQR0XfNYVg88BV5PCyuB/xi9CC4L4rpXt4Bnqthj6FFRYjaiRg;txUMBE6Cxykk8O1+weRgPw=="
 ---
 

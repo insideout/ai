@@ -26,36 +26,81 @@ images:
     title: "Facial recognition helps Volusia County Sheriff's Office solve crimes"
 
 related:
-  - title: "Lawsuit filed against facial recognition company CPD works with"
-    excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
-    publishedDateTime: 2020-02-04T00:24:00Z
-    webUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/"
-    ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
+  - title: "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI"
+    excerpt: "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ..."
+    publishedDateTime: 2020-02-03T23:42:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/?outputType=amp"
     type: article
     provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 74
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 69
     images:
-      - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 675
-  - title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
-    excerpt: "Facial recognition software is on the rise, so it’s no wonder why Facebook wanted to include this tech in their platform, starting in 2010. The use case here was to aid in photo tagging. By using facial recognition software, Facebook users were being prompted to tag various people it thinks are your friends. Now, Facebook does give the ..."
-    publishedDateTime: 2020-01-31T17:44:00Z
-    webUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/"
-    ampWebUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
+      - url: "https://www.clickorlando.com/resizer/PcJi2Ag6SraUM_iwCJL7aX2vp7Y=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-03-2020/t_8fba58e202f84dd7aafc4f5ebe91544b_name_image.jpg"
+        width: 1280
+        height: 720
+  - title: "Volusia County Sheriff's Office now using facial recognition software"
+    excerpt: "WESH 2 News looked into controversial technology that could help catch criminals: facial recognition software is being used in Volusia County. WESH 2 News got answers on how it works and why Orlando police decided against using facial recognition permanently."
+    publishedDateTime: 2020-02-01T03:30:00Z
+    webUrl: "https://www.wesh.com/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
+    ampWebUrl: "https://www.wesh.com/amp/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
     type: article
     provider:
-      name: The American Genius
-      domain: theamericangenius.com
+      name: WESH
+      domain: wesh.com
     quality: 59
     images:
-      - url: "https://theamericangenius.com/wp-content/uploads/2020/01/illinois-31500_1280-1-1000x600.png"
+      - url: "https://kubrick.htvapps.com/vidthumb/c053f844-28fb-4ff3-b897-d13cc9cf6a2a/c053f844-28fb-4ff3-b897-d13cc9cf6a2a_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+  - title: "City police eye use of facial recognition technology to fight crime"
+    excerpt: "City police are assessing the potential to use facial recognition technology to battle crime — and the privacy and security implications of such a move. The Edmonton Police Service is currently in the process of “project assessing” the potential of using facial recognition to help with existing cases, police spokeswoman Cheryl Sheppard ..."
+    publishedDateTime: 2020-02-02T11:06:00Z
+    webUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime"
+    ampWebUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
+    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 59
+    images:
+      - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
         width: 1000
-        height: 600
+        height: 750
+  - title: "European parliament insists it will not use facial recognition tech"
+    excerpt: "Statement comes after leaked memo on use of technology in security provoked outcry"
+    publishedDateTime: 2020-02-05T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
+        width: 600
+        height: 360
+  - title: "European parliament says it will not use facial recognition tech"
+    excerpt: "Statement comes after leaked memo on use of technology in security provoked outcry"
+    publishedDateTime: 2020-02-05T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
+        width: 600
+        height: 360
   - title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
     excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
     publishedDateTime: 2020-02-05T17:43:00Z
@@ -71,45 +116,21 @@ related:
       - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
         width: 1280
         height: 720
-  - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
-    excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
-    publishedDateTime: 2020-02-05T22:16:00Z
-    webUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting"
-    ampWebUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
+  - title: "Hardin County animal shelter using facial recognition technology for lost pets"
+    excerpt: "Users will be able to search the shelter and surrounding areas to find missing pets, locate the family of a found pet or search for adoptable pets."
+    publishedDateTime: 2020-02-04T02:03:00Z
+    webUrl: "https://www.wlky.com/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    ampWebUrl: "https://www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 51
+      name: WLKY
+      domain: wlky.com
+    quality: 55
     images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
-        width: 980
-        height: 551
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:00:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    type: article
-    provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 46
-    images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
-  - title: "Facebook Shares Drop After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook has settled a lawsuit over its facial recognition practices for $550 million. Originally filed in an Illinois federal court 2015, the lawsuit’s plaintiffs were represented in the class-action by the Edelson, Labaton Sucharow, and Robbins Geller Rudman & Dowd law firms. The suit against the social media giant accused it of violating ..."
-    publishedDateTime: 2020-02-01T01:24:00Z
-    webUrl: "https://hauteliving.com/hautelawyer/635121/facebook-shares-drop-550-million-facial-recognition/"
-    type: article
-    provider:
-      name: Haute Living
-      domain: hauteliving.com
-    quality: 19
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
 
 secured: "qPy0NuysUFOh2pJgxRZlBwZXuqrvU25ZPRY7pykfb8wGIk9O6gni24ci3qwhgSCot7a+gzkEpJL/pGYyUuRRv+gILiU6enql8TPiViqBJMewINNbFWWovn4/5h+3aUH/hHhLUupx4MxXv/kf5iRxHtbN5MI1MUEiapAcY3N6nBM3J/q5r/Y7dMCBwmNy0ZhI+s7evqg4LpL2FqgsLMPxBdoHAWfYZm9SZb7ZtYcp2ANDY2+zHxgc8t1aafhFCnswiHARHkVR4L0zY/2oFinN6znT1aXpdANcmzAZzogb8pCY5Gczwe7Fyd+SH+oM/eY3;ValrHM7uwzz8odmMFyaQ3Q=="
 ---

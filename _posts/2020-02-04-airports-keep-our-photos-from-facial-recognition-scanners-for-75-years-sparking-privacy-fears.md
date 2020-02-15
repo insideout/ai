@@ -41,6 +41,17 @@ related:
       - url: "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png"
         width: 1280
         height: 720
+  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
+    publishedDateTime: 2020-02-01T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "Could Ontario police start using facial recognition cameras?"
     excerpt: "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ..."
     publishedDateTime: 2020-02-02T18:19:00Z

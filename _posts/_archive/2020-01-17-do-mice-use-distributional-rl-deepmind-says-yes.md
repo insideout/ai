@@ -5,8 +5,8 @@ excerpt: "DeepMind researchers have uncovered parallels between how brains react
 publishedDateTime: 2020-01-17T21:49:00Z
 webUrl: "https://medium.com/syncedreview/do-mice-use-distributional-rl-deepmind-says-yes-d6d32aece5d1"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*ZcgX7qJFCRUwRCBS6plORA.jpeg"
-    width: 1200
-    height: 800
-    title: "Do Mice Use Distributional RL? DeepMind Says Yes"
-
-secured: "/S77lsKtqAmhkggsy2u3KRoORxRnoWXlCcUSs2b+MIOx4oZ0Cnu3uddhV4i6yEdkkzAqjuaTxkvK/lBeEhbL9Hfkl5Yn1GvNzQHYA4Y2ztPDvJd9A5Ur6bQs82cK+Igi7ocqr9L1wGvwpbN5y8pQPTHKNQpfRWn/yTtT5pNQ3dFDMoShxAIXXw1WM4qlsrkOU5rYL1Xdel4+QOsaPJnjEnQUxwdtK5nmF2Z+B5EukjSwq3VXSMphhfG6xBvgWz81EC9iONXlM4B2gUI3di9zH9bbnxzSHAygTt2nsYlUryZICVwDBSoQ8Gl/s0gR8Lhr;J/MUfzD0AJDsWWRBwmITGA=="
+secured: "d9LVYgF4wwj33UFTeaLlE+P6xT3pqhOVBvfTbEsLQkKVmIHD+0+G4Vv3O8/Mh6yBM3y/RTW5h002NtZS91GFly2ipvZC2xHqKhtrOt0GLZKO7+WeIlH8T7TY3ue3lg2mN8x9DGwOeTOu/WW6EvDF1q6y+QHlFD0g/1MnXWekQ1Wn+dqdOntkTRhzagG6q5wYVpI2P4ULh78w9Nl538q/WRyu0MMNbIkO3MO3zORXuEo+aqXwTma0wpODUxYRNkxOt+FmJ697LPj/oMGYpKo868Bd/HHIRiUnf6qyw4MZEYifESr+PnjCb6IafdRseTS/;PH62pgC7u7q5dPDpBm++1A=="
 ---
 

@@ -24,157 +24,127 @@ topics:
   - Computer Vision
 
 related:
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+  - title: "Can we keep facial recognition from enabling a surveillance state?"
+    excerpt: "Researchers have been pursuing facial recognition technologies since the 1960s but its only been in the last few years that these systems have become so alarmingly capable. Neural networks able to match faces across thousands of features with better than 98 percent accuracy as well as an explosion of available training data sets have fueled the ..."
+    publishedDateTime: 2020-01-31T16:30:00Z
+    webUrl: "https://www.engadget.com/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-        width: 1200
-        height: 763
-  - title: "NYPD pushes back against facial recognition ban"
-    excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
-    publishedDateTime: 2020-02-02T07:20:00Z
-    webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
-    ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
+      - url: "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png"
+        width: 1280
+        height: 720
+  - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
+    excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
+    publishedDateTime: 2020-02-04T11:36:00Z
+    webUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/"
+    ampWebUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 62
     images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-21T00:00:00Z
-    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 640
+  - title: "Could Ontario police start using facial recognition cameras?"
+    excerpt: "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ..."
+    publishedDateTime: 2020-02-02T18:19:00Z
+    webUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras"
+    ampWebUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
+    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
     type: article
     provider:
-      name: United States Army
-      domain: army.mil
+      name: Toronto Sun
+      domain: torontosun.com
     quality: 59
     images:
-      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
-        width: 446
-        height: 300
-  - title: "Volusia County Sheriff's Office now using facial recognition software"
-    excerpt: "WESH 2 News looked into controversial technology that could help catch criminals: facial recognition software is being used in Volusia County. WESH 2 News got answers on how it works and why Orlando police decided against using facial recognition permanently."
-    publishedDateTime: 2020-02-01T03:30:00Z
-    webUrl: "https://www.wesh.com/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
-    ampWebUrl: "https://www.wesh.com/amp/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
-    type: article
-    provider:
-      name: WESH
-      domain: wesh.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/c053f844-28fb-4ff3-b897-d13cc9cf6a2a/c053f844-28fb-4ff3-b897-d13cc9cf6a2a_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-  - title: "City police eye use of facial recognition technology to fight crime"
-    excerpt: "City police are assessing the potential to use facial recognition technology to battle crime — and the privacy and security implications of such a move. The Edmonton Police Service is currently in the process of “project assessing” the potential of using facial recognition to help with existing cases, police spokeswoman Cheryl Sheppard ..."
-    publishedDateTime: 2020-02-02T11:06:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime"
-    ampWebUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
-    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 59
-    images:
-      - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
+      - url: "https://postmediatorontosun.files.wordpress.com/2020/01/surveillance1000.jpg"
         width: 1000
         height: 750
-  - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
-    publishedDateTime: 2020-02-01T20:13:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/01/business/30reuters-facebook-privacy.html"
+  - title: "Proposed bill would ban police from using facial recognition technology"
+    excerpt: "ALBANY — A state senator is calling on New York to ban the use of facial recognition technology by police agencies, following reports that its use is much more widespread than previously known. Sen. Brad Hoylman (D-Manhattan) said recent news reports reveal companies have been “scraping” Facebook, YouTube and other online and public ..."
+    publishedDateTime: 2020-02-02T10:00:00Z
+    webUrl: "https://www.newsday.com/news/region-state/facial-recognition-ban-1.41284069"
+    ampWebUrl: "https://www.newsday.com/amp/news/region-state/facial-recognition-ban-1.41284069"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/facial-recognition-ban-1.41284069"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 55
+      name: Newsday
+      domain: newsday.com
+    quality: 59
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+      - url: "https://cdn.newsday.com/polopoly_fs/1.41286231.1580616519!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+  - title: "Facing facts: Reject a blanket ban on face recognition"
+    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
         width: 1200
-        height: 630
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+        height: 799
+  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
+    publishedDateTime: 2020-02-03T12:59:00Z
+    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-        width: 620
-        height: 465
-  - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
-    excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
-    publishedDateTime: 2020-02-01T22:22:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7956535/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 49
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
-        width: 636
-        height: 382
-  - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
-    excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
-    publishedDateTime: 2020-02-03T00:02:00Z
-    webUrl: "https://www.law360.com/articles/1239238/will-others-follow-nj-s-lead-in-banning-facial-recognition-app"
-    ampWebUrl: "https://www.law360.com/amp/articles/1239238"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1239238"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
+      name: Insurance Journal
+      domain: insurancejournal.com
     quality: 39
-  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
-    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-02T15:07:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 25
     images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
-        width: 2233
-        height: 1675
-  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
-    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-02T11:38:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
+        width: 900
+        height: 598
+  - title: "EU Ponders Temporary Facial Recognition Ban"
+    excerpt: "A facial recognition ban of up to five years is currently being considered by the European Union (EU) amid growing concerns about the potential misuse of the new technology. According to a draft white paper, first obtained by news website EURACTIV on 17 January, the European Commission (the executive arm of the EU) is in the midst of ..."
+    publishedDateTime: 2020-02-04T11:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/eu-ponders-temporary-facial-recognition-ban/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 0
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 39
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/eu-ponders-temporary-facial-recognition-ban_1500.jpg"
+        width: 1500
+        height: 860
+  - title: "Facial-recognition tech may have value, but real-time surveillance goes too far"
+    excerpt: "If you stroll through some parts of London, facial-recognition systems linked to street cameras analyze whether you look like someone wanted for a crime. This technology isn’t very accurate — it often makes false matches — and warrantless surveillance that can identify people in public in real time corrodes individual rights that ought to ..."
+    publishedDateTime: 2020-02-04T09:29:00Z
+    webUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 20
+  - title: "NY Senate bill would ban police facial recognition technology"
+    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
+    publishedDateTime: 2020-02-06T00:26:00Z
+    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
+    type: article
+    provider:
+      name: The Daily News Online
+      domain: thedailynewsonline.com
+    quality: 19
 
 secured: "lBaEHKJq4DT0TvaeeiFqVuSYJk7xXN2bMZnKhyiJbw0hKCd++6/gEx4N87az7GCYZJVQcNepXYn7KeMrhpcyB0s++ceSrlchvIsstbD7sq3Erm9D9qA/rRPshydRDnaVCK6TyOJE6hZQfj3nDpvhUH5W4wqEvFLUbZjLKRUBDnZzPqIhFC3eU7YXt/cF83uihGWcuCEAmJMSmJr4mnTr0I6Cj5XhAxj7tMMKWlO3SeuarN4voUBqiumctqJKjjpP18+q2X512AVLyNOdOsgu+zi5ZXoX7HaB9A7Qe1H9r1AWx26auuuQ11UZm7UTydcz0/bolvi8FF2OaEb+hLkk7o2TuPIQnfZ3sve+65a95pidiZr6YrSFl4AT2VxRqwc65wVIz/UXquzJCtTUBmzEVfbeLsAubrLJHbInfTm2Vv9GkKN+kilxCb7nzadqk/RiqfeFIrZdnwhQQWzUfvkG9YQ0BwuK7oTBscu0Y3xifAg=;XHbFwsLYRuuyz+aOhtiKcA=="
 ---

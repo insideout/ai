@@ -39,19 +39,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e34b4b5f133f400076b58b1%2F0x0.jpg"
         width: 1199
         height: 763
-  - title: "Waymo Self-Driving Vehicle in Collision in Phoenix Suburb"
-    excerpt: "A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries, police said Friday."
-    publishedDateTime: 2020-01-31T16:12:00Z
-    webUrl: "https://www.nytimes.com/aponline/2020/01/31/business/bc-us-self-driving-vehicle-collision-2nd-ld-writethru.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "Police: Waymo self-driving vehicle involved in Tempe crash"
     excerpt: "TEMPE, Ariz. (AP) - A Waymo self-driving vehicle was involved in a collision in which one person was injured, police in a Phoenix suburb said Friday. It wasn't immediately known whether the Waymo vehicle was in self-driving mode when the collision occurred in Tempe late Thursday night."
     publishedDateTime: 2020-01-31T22:38:00Z

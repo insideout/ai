@@ -41,6 +41,34 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
+  - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
+    excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
+    publishedDateTime: 2020-02-01T22:22:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7956535/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 49
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
+        width: 636
+        height: 382
+  - title: "The rise of facial recognition technology: where we are and what to expect"
+    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
+    publishedDateTime: 2020-02-04T12:04:00Z
+    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-where-we-are-and-what-to-expect"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
+        width: 1640
+        height: 800
   - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
     excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
     publishedDateTime: 2020-02-03T22:34:00Z
@@ -54,6 +82,21 @@ related:
       - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
         width: 700
         height: 394
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 25
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
   - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
     excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
     publishedDateTime: 2020-02-08T04:26:00Z
@@ -63,6 +106,15 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 13
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
 secured: "LXRnx2oHeZnyyClMvaTRDaFjBHCsdtecuAtWgd3VWjSSyaxESRfrW2Nuiz3nqcbuoiq3JaAYWk5BE8Pn0UTSmVbt0h/oYYwyFb1tKSaQ/ik57oTBUjl3tiPoFjWTh8Zhn6EROeNXsHJ8Wr2GXpZYIyg1RGWpla2lobdZ3/xaXI5k4X7z2a2wVJ61hE8tYSvVyP5QACKPgTzsjw3GthKpTVV0nZsRseaN6pVM7uIUtdyBuaVW7ihvLfRlQkCJH0pPeDD2XNBTwtwMXM/3d4RWw+HnN2HuCav/c1rb0HAPHnxpYmOjG37TzQXnBAeJbs7pxo7b+RPQcd7ZQqncpr0FNBT0PeRHS+h/DkFLAWANYf7eMIs0HPaR3IFVc4q0VTz2Gg+lukIwMU4BH01ZnsnLD0Djnt4gWxa5mAN6FsbXD4OmDtFcuvQH5F8IXWEImabaSTCaDeuRVDuqRf3Vf/24przl0E810d/RlwFQHkO6KEw=;akfxKAXt8M3MytQcBygkOg=="
 ---

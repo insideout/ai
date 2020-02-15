@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-re
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
 type: article
 quality: 88
-heat: 328
+heat: 348
 published: true
 
 provider:
@@ -101,6 +101,19 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
         width: 1280
         height: 720
+  - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
+    excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
+    publishedDateTime: 2020-02-01T20:13:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/01/business/30reuters-facebook-privacy.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 55
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "Facial recognition scanners at US airports under more scrutiny"
     excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
     publishedDateTime: 2020-02-03T23:58:00Z
@@ -153,6 +166,17 @@ related:
       - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
         width: 1920
         height: 1080
+  - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
+    excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
+    publishedDateTime: 2020-02-03T00:02:00Z
+    webUrl: "https://www.law360.com/articles/1239238/will-others-follow-nj-s-lead-in-banning-facial-recognition-app"
+    ampWebUrl: "https://www.law360.com/amp/articles/1239238"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1239238"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Met Police begins deploying live facial recognition cameras in Stratford"
     excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
     publishedDateTime: 2020-02-11T11:37:00Z

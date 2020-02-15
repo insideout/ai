@@ -8,8 +8,8 @@ ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognitio
 cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
 type: article
 quality: 74
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: WGN-TV
@@ -26,6 +26,43 @@ images:
     title: "Lawsuit filed against facial recognition company CPD works with"
 
 related:
+  - title: "NYPD pushes back against facial recognition ban"
+    excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
+    publishedDateTime: 2020-02-02T07:20:00Z
+    webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
+    ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+  - title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
+    excerpt: "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ..."
+    publishedDateTime: 2020-01-31T20:56:00Z
+    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg"
+        width: 796
+        height: 420
+  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    publishedDateTime: 2020-01-27T09:55:00Z
+    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 61
   - title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
     excerpt: "Facial recognition software is on the rise, so it’s no wonder why Facebook wanted to include this tech in their platform, starting in 2010. The use case here was to aid in photo tagging. By using facial recognition software, Facebook users were being prompted to tag various people it thinks are your friends. Now, Facebook does give the ..."
     publishedDateTime: 2020-01-31T17:44:00Z
@@ -41,66 +78,103 @@ related:
       - url: "https://theamericangenius.com/wp-content/uploads/2020/01/illinois-31500_1280-1-1000x600.png"
         width: 1000
         height: 600
-  - title: "Facial recognition helps Volusia County Sheriff's Office solve crimes"
-    excerpt: "VOLUSIA COUNTY, Fla. - The Volusia County Sheriff's Office is using a new facial recognition program to help catch criminals. The new technology, called Clearview AI, looks through social media to help law enforcement find someone based on a photo. Deputies can input a picture into the Clearview AI system. The technology will compare it to ..."
-    publishedDateTime: 2020-02-04T02:20:00Z
-    webUrl: "https://www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes"
-    ampWebUrl: "https://www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes.amp"
-    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes.amp"
+  - title: "Lightfoot urged to pull the plug on facial recognition technology"
+    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
+    publishedDateTime: 2020-02-04T11:33:00Z
+    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
     type: article
     provider:
-      name: WOFL
-      domain: fox35orlando.com
+      name: Chicago Sun-Times
+      domain: suntimes.com
     quality: 59
     images:
-      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/02/932/470/facial-recognition.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-  - title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
-    excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
-    publishedDateTime: 2020-02-05T17:43:00Z
-    webUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/"
-    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
+      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
+        width: 640
+        height: 480
+  - title: "Veridium brings facial recognition to all phones in password-less push"
+    excerpt: "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ..."
+    publishedDateTime: 2020-02-04T06:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
     type: article
     provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 57
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
     images:
-      - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
-        width: 1280
-        height: 720
-  - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
-    excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
-    publishedDateTime: 2020-02-05T22:16:00Z
-    webUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting"
-    ampWebUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
+        width: 2880
+        height: 1800
+  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
+    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
+    publishedDateTime: 2020-02-06T19:08:00Z
+    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 51
+    quality: 54
     images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
+      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
         width: 980
         height: 551
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:00:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+  - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
+    excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
+    publishedDateTime: 2020-02-01T14:42:00Z
+    webUrl: "https://patch.com/new-york/yorktown-somers/police-use-facial-recognition-app-comes-under-fire-poll"
+    ampWebUrl: "https://patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
     type: article
     provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 46
+      name: Patch
+      domain: patch.com
+    quality: 44
     images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
+      - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
+        width: 708
+        height: 531
+  - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
+    excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
+    publishedDateTime: 2020-02-04T02:51:00Z
+    webUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 44
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
+        width: 2016
+        height: 1512
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 34
+  - title: "Doha Bank integrates facial, voice recognition into app"
+    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
+    publishedDateTime: 2020-02-02T19:02:00Z
+    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 26
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
+        width: 620
+        height: 355
   - title: "Facebook Shares Drop After $550 Million Facial Recognition Settlement"
     excerpt: "Facebook has settled a lawsuit over its facial recognition practices for $550 million. Originally filed in an Illinois federal court 2015, the lawsuit’s plaintiffs were represented in the class-action by the Edelson, Labaton Sucharow, and Robbins Geller Rudman & Dowd law firms. The suit against the social media giant accused it of violating ..."
     publishedDateTime: 2020-02-01T01:24:00Z

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "3M M*Modal Earns #1 Best in KLAS for Speech Recognition: Front-End EMR"
-excerpt: "SALT LAKE CITY--(BUSINESS WIRE)--3M M*Modal Fluency Direct™, the healthcare industry’s leading cloud-based speech recognition system, has been recognized for the fourth year in a row with the #1 ranking in Speech Recognition: Front-End EMR by KLAS, an independent healthcare research firm. The annual 2020 Best in KLAS: Software and Services ..."
+excerpt: "SALT LAKE CITY--(BUSINESS WIRE)--3M M*Modal Fluency Direct™, the healthcare industry’s leading cloud-based speech recognition system, has been recognized for the fourth year in a row with the #1 ranking in Speech Recognition: Front-End EMR by KLAS ..."
 publishedDateTime: 2020-01-31T12:10:00Z
 webUrl: "https://www.businesswire.com/news/home/20200131005113/en/3M-M*Modal-Earns-1-KLAS-Speech-Recognition"
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "u80PodYFsvaj/YEbtc7I6TMEXqXk51ZuMTPDHMvHXXcDq/oQqT1cLK0bAqfRZxX+hlTiAhgJl+pHq8XcLnBi0wm6sPW6VOom4bQlu/WRYzxabwxWGu1Sa5SKupINc3iuLHMr6oLanAo0OfQoXyZzL1XbhvdVj5o4HNrr4pkmZb1ShT1YbF5J4R8d1ngaTAX/rIQU1V3Wbux4PNnz5aMWCU0ZXW/oq/1YDW83isKb5w2MM/t6INuFi7DMhmZRRwxctOuOB0Ef0wLprYpupl0bWMCcoaH+P8pN0d3bNzHXmIhfMzAgz5X2/l9G3ECKriwbAQCgRJh6Dolqy53gZ0K+YvqsF6jecklnwhehwP2g5qqHEHmlGraF6YsJOUzWSZ+uHF+K0KSGapAYTXsvtpiUQj2M5TX4bBQdnwG278Ni72I57LR1A+cgCZxzIBhCORc4kt/4s3+ftjF+hyKJaTBxvdl2Cw/Wp664MATmMEu8pag=;xom8YsEc6iL2LYY7O/zfjg=="
+secured: "CkL5Rr/j6qv6stxWnYKPr1nJGUGm77MkIgX9xyw9dtwMAC4JNIBTQLvA5/SuVkUzw+pQqZwZXaSsZ/QBLOUucZRyn6K6rHMSkUYsYWd6/YXdlfVQSTDZUzpdWNO7oNIscTdDXGAuoC+Cmqlp5M8BJN5n09paj4yIAQrGOiFy2XAiFUchWhx06KEZCCGlLWA4NIWPlcr/aL1banyrbB7zaPGEp5vZ1pBoc/gdm2d1igVMVtslt3u9tRH4z0bCf15KfpX0M+E3F7oILDAAIFTjcGbNM8BfmmDoq/9TQJZquHU5ULsptCP7lf9MREchujo+wV6o+h9blma0uuzFJ2OS0C9jksc+hjGDk32KDF2RaAsUe+bfOXnxIOa1sf9rr8dyGhxVPKhBb9JxiafwprBvnwS/LDKgDbgnfWJ6iMVU2VBUgbr4rkchw9nWXg+/8oUUrSw6tkbyD2cQ5tVnt4ElD/5nzP76SYm+WyXStcXZ1f8=;TIldKGwG2jOeJvsks+axCw=="
 ---
 

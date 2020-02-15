@@ -2,96 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-01-31-can-we-keep-facial-recognition-from-enabling-a-surveillance-state.md",
-      "title": "Can we keep facial recognition from enabling a surveillance state?",
-      "excerpt": "Researchers have been pursuing facial recognition technologies since the 1960s but its only been in the last few years that these systems have become so alarmingly capable. Neural networks able to match faces across thousands of features with better than 98 percent accuracy as well as an explosion of available training data sets have fueled the ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
-      "publishedDateTime": "2020-01-31T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Can we keep facial recognition from enabling a surveillance state?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-31-chicago-police-facial-recognition-adds-jet-fuel-for-criminal-investigations.md",
-      "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
-      "excerpt": "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg",
-          "width": 796,
-          "height": 420,
-          "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-01-31-google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation.md",
       "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
       "excerpt": "Sequence-to-sequence AI models, which were introduced by Google in 2014, aim to map fixed-length input (usually text) with a fixed-length output where the length of the input and output might differ. They’re used in text-generating tasks including summarization, grammatical error correction, and sentence fusion, and recent architectural ...",
@@ -133,141 +43,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-31-ibms-big-bet-on-cloud-computing-ai-and-open-source.md",
-      "title": "IBM's big bet on cloud computing, AI and open source",
-      "excerpt": "the company's stock price dropped over 25% and while the company has been keen to trumpet its artificial intelligence work (in the form of IBM Watson) and its reinvention as a cloud company (thanks to Red Hat) there is still plenty of work to do if IBM is to every approach its former glories. Sure, the latest earnings published by IBM earlier ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
-      "publishedDateTime": "2020-01-31T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM's big bet on cloud computing, AI and open source",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-31-last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020.md",
-      "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
-      "excerpt": "Today’s your last day to score early-bird pricing on tickets to TC Sessions: Robotics + AI 2020, which takes place on March 3. If you want to keep $150 in your wallet, beat the deadline and buy your ticket here before the clock strikes 11:59 p.m. (PT) tonight! Our one-day conference dedicated to robotics and AI — the good, the bad and the ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-01-31T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/lastday_countdown.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-31-laszlo-bock-thinks-machine-learning-can-make-work-better.md",
-      "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
-      "excerpt": "A Google veteran’s new firm uses artificial intelligence to send employees ‘nudges’ to prod them toward changes likely to produce a happier workforce",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
-      "publishedDateTime": "2020-01-31T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://si.wsj.net/public/resources/images/B3-FZ452_BOCK_SOC_20200128171741.jpg",
-          "width": 900,
-          "height": 471,
-          "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -352,6 +127,51 @@
       ]
     },
     {
+      "path": "_posts/2020-01-31-why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society.md",
+      "title": "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society",
+      "excerpt": "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ...",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-01-31-with-googles-meena-are-ai-assistants-about-to-get-a-lot-smarter.md",
       "title": "With Google’s Meena, are AI assistants about to get a lot smarter?",
       "excerpt": "Last year, we got to see coherent, multi-paragraph text generated by OpenAI’s GPT-2 model. This week, a new paper from Google AI showed that a chatbot based on a gigantic neural network and huge amounts of data can hold coherent conversations, maintaining context over multiple turns and conversing on just about any topic. The chatbot is ...",
@@ -400,7 +220,7 @@
       "path": "_posts/2020-01-31-yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will.md",
       "title": "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will",
       "excerpt": "On Jan 30, a crash was reported between a Waymo Chrysler Pacifica minivan and another vehicle, causing minor injuries to the safety driver. Reports suggest the other car acted erratically and cut quickly in front of the Waymo vehicle,",
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/",
@@ -536,7 +356,7 @@
       "path": "_posts/2020-02-01-big-brother-facial-recognition-cameras-are-watching-you-more-than-ever-right-across-britain.md",
       "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
       "excerpt": "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ...",
-      "heat": 94,
+      "heat": 134,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
@@ -1101,6 +921,43 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-02-nypd-pushes-back-against-facial-recognition-ban.md",
+      "title": "NYPD pushes back against facial recognition ban",
+      "excerpt": "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ...",
+      "heat": 194,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/",
+      "ampWebUrl": "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/",
+      "publishedDateTime": "2020-02-01T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": "NYPD pushes back against facial recognition ban",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1838,7 +1695,7 @@
       "path": "_posts/2020-02-03-how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai.md",
       "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
       "excerpt": "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ...",
-      "heat": 99,
+      "heat": 139,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/",
@@ -2131,6 +1988,141 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-03-what-robotics-biggest-raises-tell-us-about-the-industrys-future.md",
+      "title": "What robotics’ biggest raises tell us about the industry’s future",
+      "excerpt": "It is, perhaps, an arbitrary distinction that has more to do with the way we categorize technologies — placing them in automotive or mobility, as opposed to robotics. Artificial intelligence ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/03/what-robotics-biggest-raises-tell-us-about-the-industrys-future/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-459796142.jpg?w=601",
+          "width": 601,
+          "height": 399,
+          "title": "What robotics’ biggest raises tell us about the industry’s future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-5-reasons-why-ai-may-dazzle-only-to-disappoint.md",
+      "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
+      "excerpt": "In my experience of advising and consulting with several companies on AI strategy, I have observed five reasons that prevent AI initiatives from delivering the desired business outcomes.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/",
+      "ampWebUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
+      "publishedDateTime": "2020-02-04T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177116437%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you.md",
+      "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
+      "excerpt": "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ...",
+      "heat": 259,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
+      "publishedDateTime": "2020-02-04T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/01/15/cede3a51-32c8-47dc-8928-b8c18295dde9/resize/1200x/9f06c8112c21a809abb2fc0b6a7e4b11/retail-ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
       ]
     }
   ],
