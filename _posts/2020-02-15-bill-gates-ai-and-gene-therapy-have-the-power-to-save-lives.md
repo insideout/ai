@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,23 @@ images:
     height: 567
     title: "Bill Gates: AI and gene therapy have the power to save lives"
 
-secured: "IxvNbWuRU60Uyxu5QpfJHvTkK/e/DxSQ4aWazNQ+SDA8PnHdNAEmKAQ6FZTO8bIegAgFsi4f+drpHiyjGCq6XkkwgX+0mphay5va0E0Q6eoyhU4+rkOaq5mv5yEK73jgY911L3uAlblMi0dKYFvNdaEwi41hQeUW2UcYZ7pFqO1YucGmJyK6es9JGRAnV8VC8xTwPPmwYXWvH5Hv+NximGZw8nxR/fK+qepBMrlef/A79pwNifpDx7xCSzDv2K6VgHzpVtMXdwDU+cnKu3abO/czFBnCm5LPGepBfzRZ5Hy7HKNnzv0tE/2ezC05dmfP;p2sa9vSun3qQq3iGxRwwhQ=="
+related:
+  - title: "Why Bill Gates thinks gene editing and artificial intelligence could save the world"
+    excerpt: "(GeekWire Photo / Alan Boyle) Microsoft co-founder Bill Gates has been working to improve the state of global health through his nonprofit foundation for 20 years, and today he told the nation’s premier scientific gathering that advances in artificial intelligence and gene editing could accelerate those improvements exponentially in the years ..."
+    publishedDateTime: 2020-02-15T02:23:00Z
+    webUrl: "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/"
+    ampWebUrl: "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 83
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/200214-gates1-630x420.jpg"
+        width: 630
+        height: 420
+
+secured: "v9tGMajJ4ZuCA/q8eVKfNuhLlr0fJdsKr/SYY2FUE/+vgS3+MMFxTDyAYt0Z48r3Eq0wnvBNQc0RDX7Hoq0sM2M58a0HDQ2hsm6k+uiQICPahh5BuyaUfEk9BeQ/0VwluHKBFqrhAwN/ddl2oujB1FaFu2cAGR7v9Wxh7r0qV5OqVo1HDipwlvD8ywm0HK8cNwMgaSLzUB0E7g5BV7H6QfjXebcCc+ZdL66l7dS2UuKibNOirl7dIG8YVuBF5mvWgAbbpzkVo9gp+hQXgUKIJoa6/m8QXCEAZcetBATEzJn2oGBGZ/cFPLCd7v3i0heXbfLWjM3W1q70RSitWniodhqvgTlC9g7kAMn+jwYX88Mm5GWie9nyGYedp0EYIZ5bEZl7YXy46/7Tet6JsmLNkEkhnHpcFMAcuQnnfQw62fHpjQmN5Z33Xp3qGNMwn03TSmcjS4kqK8smWbwTLfU5WaJ5DkiZ1JSuRvOxaHSiBog=;dRJWSshq+D20Tf1RNegCJQ=="
 ---
 

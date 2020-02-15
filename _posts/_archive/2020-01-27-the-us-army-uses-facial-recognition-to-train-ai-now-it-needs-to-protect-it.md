@@ -193,21 +193,6 @@ related:
       - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 675
-  - title: "Facebook will pay $550 million to settle an Illinois lawsuit about it use of facial recognition and user photos"
-    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent."
-    publishedDateTime: 2020-01-31T09:41:00Z
-    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
-    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
-        width: 1200
-        height: 900
   - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
     excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
     publishedDateTime: 2020-02-01T05:00:00Z
@@ -1075,6 +1060,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "pHm7TSHjqqgQHYo19yiyyAIEAkfQ/iX1uw+Mq/NT5JdszMFuMbPfcR3WfqxMryOE4DSi4CJLsHFJGQYqW0mOs3QBCVrDT4ddh4dxluuN/nbBQK20LKuzbUP2h+10blTmZxlR/6k3HiK80LBQC+iJaV2iuZjK1dGF5bfGft5n+7KCz1gA213AswVBoAHV3jTwDQqA/0kovlKZoheDC1ukhSHaJcCXz163GzzXvI/Vq6rnyZvC2dO4NZJdyXLsjLiwNMFASLrtc3GfgJ+RJiylLCPKgfSJkuJSQuNqKVjm4pP4SThOKhRZLEBiv2XkUvdQ;nu8vux0a4IckGOV+E7lwOw=="
+secured: "186FWQxRreUsFL7xmH3LTSj6f2oVWjpboVdovkDM2ZeDpwa+Apk5g/GcyaannuxV6Ia7EsZBaYqNt35fg6CgukkYHoDF/WfFJYHsy1ao1XVZt60QtzFA3u88Mqb2IuFjB0WsUDiChBSG/fW7uPuUL4O7n7FKxnWrpFNl5ochLUbp6jI0yxIYH9FWejHSyA5CA+wGoaDHh8EsuGO2ED2rCf0Wbf6xWihqgyJSI6vBThxRgm6limgZOz0pK5TM0kirE7A/44OC0oZ73JajHj+O/ZDZCO1YvuJXEVmlKelrN6lF2/rMr0LrLNHQr8czoZnj;Yseuxo/GEpvQpe+ABf8RBQ=="
 ---
 

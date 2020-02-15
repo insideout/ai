@@ -25,6 +25,6 @@ images:
     height: 695
     title: "Oracle staff say Larry Ellison's fundraiser for Trump is against 'company ethics' Oracle, ethics... what dimension have we fallen into?"
 
-secured: "BgqYIruCMQXDH4eMqpCWL2f/1c7dXflzpClpF7yvdWEzccV5rXhYuN25GLHqTy61T5udxKFmZd7hdHkmgdSFQbaHdPDMZq49XWMrxvBQyBhEHimjjTf0B4F9urnFqcgsNwkBxKRx/TPW52v98cWRg8zJNQ/LELpcfBu+EKNlG3i1qhpOOO6hW+kWa5pcRXX64eUDzwMc+b/R9t4E4JoHJrgX+kLqCHIMyK/RYsMyQ8nXkHL5ryN+FaASb/44EnnIwRmcAhAE6tSJntBrWreKBcQweQ+eCVMTLM7bVdZZwCRuHCVS4afWyqoOHBZanHki;sPzrmHHl98dQhsC4w35Gzw=="
+secured: "yr3ieoUuDXnvA8t/HE186JhUArpQe33pLjB1/K7GhwJOku9Sye6BAFMCWhQ//e4wSODPgBe+8SDCVT15vJJgPfgP1f0mahdJEhyi88/K8BdyVO+V5b99Vcg+/8McKK3wmeHx2T5xJ9PujLpDm81IcnTOqCwTZZsZ1LhoVVR6FIjmkWs6zgiLQwyo709ekWN2t+FFGT9snnHHKu8ipVTdarNQ127oD/l+a7jXH9jCp4x4Nn+goO7/j0uh+vtPTfTHjYgOPfvpbUYjR0y6I0O4d/Wv1oc3OnHX4QD88AXgs7x+qzLG1U1c0UiB4lwa8oiBGMhdLo27e6TjJQy0haOFW89TZbSOvs/QVGWb5VYbkCKrjZjD3TbKFg4LYtCrVn/kOoH6EQ22jTKtEGEPJJH6EY2lww1YA7eK8+R7KM77C4c5aB4F8q+1IA0cSl+/6Di6VAtAE9wjLLEHRjynPYbwRYb6Y/bQNgF1D7Ac3zH0cGE=;3kdY9eV2r7q3nL7eMsNOwg=="
 ---
 

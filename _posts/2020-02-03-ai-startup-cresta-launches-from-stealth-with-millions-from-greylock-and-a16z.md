@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-st
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "AI startup Cresta launches from stealth with millions from Greylock and a16z"
 
 related:
-  - title: "Skymind Global Ventures launches $800M fund and London office to back AI startups"
-    excerpt: "Skymind Global Ventures (SGV) appeared last year in Asia/US as a vehicle for the previous founders of a YC-backed open-source AI platform to invest in companies that used the platform. Today it announces the launch of an $800 million fund to back promising new AI companies and academic research. It will consequently be opening a London office ..."
-    publishedDateTime: 2020-01-31T09:34:00Z
-    webUrl: "https://techcrunch.com/2020/01/31/skymind-global-ventures-launches-800m-fund-and-london-office-to-back-ai-startups/"
-    ampWebUrl: "https://techcrunch.com/2020/01/31/skymind-global-ventures-launches-800m-fund-and-london-office-to-back-ai-startups/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/skymind-global-ventures-launches-800m-fund-and-london-office-to-back-ai-startups/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/SVG.jpg?w=605"
-        width: 605
-        height: 454
   - title: "Dave Copps’ stealthy AI startup emerges with $10 million in backing"
     excerpt: "“As the number of IoT devices continues to grow, so will the need for AI and machine learning solutions to help manage the massive influx of data these devices will create.” Worlds’ funding round continues the fast start this year for Dallas-based ..."
     publishedDateTime: 2020-02-07T13:58:00Z
