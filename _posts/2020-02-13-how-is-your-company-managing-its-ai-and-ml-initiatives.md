@@ -76,6 +76,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "atCGYA8UpVMbSyA0CVIorFWDvqeMSbIP66ZkoaPOYINCf0syAbrWVowMsKvQpJPnul/dtApUQ+CF/ssA1MFJjU2DQRjSiRXNjUSRwq49/ZiMJ17s+IgYyQPKCW8u/XpjqxHYKYFbixpSGqCfcVnNYbze1j7Y9/lq47/wwzobqY6wUpqXSeOXOvD8qPQ+zr8zhczVVoMnoWnpShuvoj2zXKwN3kYDOlzcYF0HR2LFZ3PYE7xVNkHdRXkcMz7ejHnmuRitfFnYgubXZX10BuUzNowZi90f9K8FXAjadeva2ahjHCohh1CCGH6o0DCE1FBm;x+OmXpH6e31MrELg6zJYAA=="
+secured: "9/3HFjYqCBkCiSfWn3YuBb1hxgLT5VIvtggJHGlyXd2eQ9ndzATSyoVR/deevbFzlVi/rmRxwuhwsuEvuzgQJtjQo3G+O5OLpXeHejWaUu4M159YG9i7IKki96cSwdebGRpgfSGLJamAjSZqtfp+ZsPme12CFLLEbhKuO6QCONlk52Rw/UwJXwzm50dPxnyxAgwoDb3Wgyoh8+dl0WjTLIUOxaGs2ViAQQM3SsycXmM4xbaC36n7Dgz2OhUoBmHoijuXU+CYVf9uTXnoJ52kOW54RAnhca0noBmHL+6qbgKELBQOpKPyh5NxfxXOGGzN;oefXhEjPa13PC+nUPkYvMw=="
 ---
 

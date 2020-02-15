@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marke
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Smart Marketing: How Corporate Marketers Deploy AI"
 
 related:
-  - title: "AI Chip Market is Booming"
-    excerpt: "AI processors are reinvigorating the global semiconductor industry, prompting at least one market tracker to predict a three-fold increase in AI chip applications over the next five years. In a survey of AI adoption released this week, IHS Markit predicts AI applications will explode to $128.9 billion by 2025, up from about $42.8 billion in 2019."
-    publishedDateTime: 2020-01-31T17:14:00Z
-    webUrl: "https://www.hpcwire.com/2020/01/31/ai-chip-market-is-booming/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/AI-silicon-shutterstock-675x380.jpg"
-        width: 675
-        height: 380
   - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
     excerpt: "/PRNewswire/ -- According to the new market research report \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
     publishedDateTime: 2020-02-04T14:30:00Z

@@ -22,15 +22,15 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "The AI Eye: ALCF Expand HPC Storage Capacity Ahead of HPE and Intel Powered Exascale Supercomputer"
-    excerpt: "Point Roberts, WA and Vancouver, BC - January 31, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
-    publishedDateTime: 2020-01-31T17:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-alcf-expand-hpc-storage-capacity-ahead-of-hpe-and-intel-powered-exascale-supercomputer-2020-01-31"
+  - title: "The AI Eye: NICE Ltd. Launching NEVA Unlimited Automation Package and BrainChip to Showcase Akida Neuromorphic System-on-Chip at tinyML Summit"
+    excerpt: "Point Roberts, WA and Vancouver, BC - February 7, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-02-07T18:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-nice-ltd-launching-neva-unlimited-automation-package-and-brainchip-to-showcase-akida-neuromorphic-system-on-chip-at-tinyml-summit-2020-02-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

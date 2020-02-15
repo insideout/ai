@@ -45,21 +45,6 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2019/01/15/cede3a51-32c8-47dc-8928-b8c18295dde9/resize/1200x/9f06c8112c21a809abb2fc0b6a7e4b11/retail-ai.jpg"
         width: 1200
         height: 900
-  - title: "Inside the future of online dating: AI swiping and concierge bots"
-    excerpt: "Once it knows what you want, it can essentially use the apps for you. They’re posted on Github; here is the exact one that Winters used, but there are many more — such as the Bernie AI. These facts alone have led some people to wring their hands and mourn the ways of olde, like meeting through at church or through friends at work."
-    publishedDateTime: 2020-01-31T16:53:00Z
-    webUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating/"
-    ampWebUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tinder-hack-bot-ai-dating.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F31%252F78%252F2cf65c6ab12943cb81d1691f4bb64888.ea787.png%252F1200x630.png?signature=y2owegQIwA9L6yfJDveE8u36QJI="
-        width: 1200
-        height: 630
   - title: "Learning Automated Trading Can Give You a Major Investing Advantage"
     excerpt: "From there, you'll learn how to use machine learning tools like Python to automate your trading to limit your losses and maximize your gains. You'll even get access to an Interactive brokers platform to practice automating your trading and learn momentum trading skills for forex markets. By the end of the training, you'll be fully ready to ..."
     publishedDateTime: 2020-02-02T18:00:00Z

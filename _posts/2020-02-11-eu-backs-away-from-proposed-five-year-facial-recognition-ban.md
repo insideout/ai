@@ -542,6 +542,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "OPS tested facial recognition software, but doesn't use it"
+    excerpt: "The Ottawa Police Service (OPS) has tested facial recognition technology but hasn't used it, according to the force's deputy chief. Deputy Chief Steve Bell confirmed Ottawa police concluded a three-month pilot with NeoFace Reveal in March 2019."
+    publishedDateTime: 2020-02-15T09:09:00Z
+    webUrl: "https://www.cbc.ca/news/canada/ottawa/ottawa-police-facial-recognition-1.5464964"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 19
   - title: "MSPs warn Police Scotland about use of live facial recognition technology"
     excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."
     publishedDateTime: 2020-02-11T10:26:00Z

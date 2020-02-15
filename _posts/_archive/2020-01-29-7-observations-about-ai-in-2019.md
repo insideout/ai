@@ -1,15 +1,13 @@
 ---
 category: news
 title: "7 Observations About AI In 2019"
-excerpt: "Turing Award for Deep Learning, NLP becomes the New New Thing, and other highlights of the search for intelligence in 2019"
-publishedDateTime: 2020-01-29T14:03:00Z
+excerpt: "Facebook turned 15 in 2019 ... the sequel to her seminal history of the early years of AI research, Machines Who Think (first published in 1979 and then updated in 1984). It is a fascinating ..."
+publishedDateTime: 2020-01-29T14:01:00Z
 webUrl: "https://www.forbes.com/sites/gilpress/2020/01/29/7-observations-about-ai-in-2019/"
-ampWebUrl: "https://www.forbes.com/sites/gilpress/2020/01/29/7-observations-about-ai-in-2019/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/29/7-observations-about-ai-in-2019/amp/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes
@@ -23,12 +21,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/711x498/https://specials-images.forbesimg.com/imageserve/5e30df0aa854780006afcc64/960x0.jpg?fit=scale"
-    width: 711
-    height: 498
-    title: "7 Observations About AI In 2019"
-
-secured: "o/cJfJKGAYcV/CvTEQn4BEd963axVjQaMo98yDf5RxBigcrJLgjSWDM7HXwgZPSntvAHv0HfGyYteYwyZfJgq9LmrOAuizSlErjWhz9VqkdiirBv7UKPBid8HwHEghgkrEW4r3w+ievit82RCUBm3bw152kb4OYGoGyMnz5vpt6U+32pQH+4jgsXVl4N/MavXggDr1uitALhCL3TpK0oYzmpllaIFW0S1YWfL50LerNf1NAOTOh4HH6Qg5ldfXbiFL4H3sewwPgRP6WauAt6bPmpP06Ovnsvkz4xZD4P5sFqBBiNRC5heQoSiKK4cQHAX1U1jntUXKPApZrW4KhnSHCpjQnVsnvwZgJ+s3FkbMrMiUjQcKgoseQgLRWYd7gwcZ7bMnQxbvURJjwyzqmsOeHr+JKPG+kiKtZdok/gNxJgkeGtdp3OWbBzXYx0Gsno8HhigVqKzThcldWg8H4hNlmys58/PXyJr0Z9XGGCdEQ=;jKDd892o0v6Eu04Y5huTCQ=="
+secured: "FLjWD2vLybvMjBgn1yOmBNr9LHZuo4bGDc4HHbV7WSdu5pLf4r/xqlXrxV4JAihbsdk7hFKL0t23YjlRvn15IwIJUO0jbWTmGKEVaHnF3g/zZJPmaY2nS5b32rWhkLyXeJNXeza6pxLZu9clBViY+tiRDunRyRg1MmRgcT5Yp0Q4OP91FQvq9xXX4Is6syshaDgUwYecfqGNhheVOhccwWThqX5qb60ifPhcBOVYW0WQ1bwS6Z9Qu+MhudPNeGrk1TGlIHC28zJ6XU8R6XTeME8Gpm21qcCxr3H3HuOeb+qe0UYRXRYmJjnuvhFCXjli;vnYHnSsVgX4KeNUSO8I4WQ=="
 ---
 

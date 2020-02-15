@@ -54,21 +54,6 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
-  - title: "Waymo self-driving vehicle involved in Tempe crash; 1 person injured"
-    excerpt: "A Waymo self-driving vehicle was involved in a collision in Tempe in which one person was injured, police said Friday. It wasn't immediately known whether the Waymo vehicle was in self-driving mode when the collision occurred late Thursday night."
-    publishedDateTime: 2020-01-31T16:18:00Z
-    webUrl: "https://www.azcentral.com/story/news/local/tempe-traffic/2020/01/31/waymo-self-driving-vehicle-involved-tempe-crash/4621847002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4621847002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4621847002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
   - title: "Police: Waymo Self-Driving Vehicle Involved in Tempe Crash"
     excerpt: "Police in a Phoenix suburb are investigating an injury collision involving a Waymo self-driving vehicle carrying a driver and a passenger."
     publishedDateTime: 2020-02-02T11:35:00Z

@@ -18,28 +18,21 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Artificial Intelligence Software Market to Witness Huge Growth by 2025"
-    excerpt: "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data."
-    publishedDateTime: 2020-02-05T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05"
+  - title: "CrunchMatch simplifies networking @ TC Sessions: Robotics + AI 2020"
+    excerpt: "With just about 1 month until go-time, TC Sessions: Robotics + AI 2020 (March 3 in Berkeley, Calif.) looks to be a true powerhouse event. Prepare to spend the day engaging with the leading innovators, makers and investors bent on shaping the future of these two game-changing technologies. Don’t have a ticket yet? Crikey, mate, beat the price ..."
+    publishedDateTime: 2020-02-05T19:21:00Z
+    webUrl: "https://techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/"
+    ampWebUrl: "https://techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Deep Learning Software Market Will Reflect Significant Growth Prospects during 2019 to 2026"
-    excerpt: "Ameco Research announced the latest market research report on \"Global Deep Learning Software Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Deep Learning Software Market,"
-    publishedDateTime: 2020-02-05T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-will-reflect-significant-growth-prospects-during-2019-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/networking_header.png?w=1024"
+        width: 1024
+        height: 562
 
 secured: "03wT1raILQZlc7aQzRe28iP7B8YUsHPS2FWE3JN8/RIgPocL7KQ5pyN/p/7kscpVGg2Pd/NZtbodP1hzV+jBFbuDtccsa4IdO6Cut06TwmJ+dbzIhh84xVfI7EZIOm5XJfKA6IMwxWgty09tLG28wIf63bweFIRvaA4k8B04MkpOMJCw66k0aOftXeylR8tR21ubEdOFDtZm1tt3ZKsBkrfEPFgtWszDmF7wQ1pQPNalccJP/FApWLMPsI7JzjocTtGQ/NNwsBaKXzxkmMDB8S4cPku/tuazljWMTxKa9YwTk5qsr0NN9gjUDC+eRUbw;UcgciMPmV2W3CJ4i6pqaVQ=="
 ---

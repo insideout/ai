@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-machine-learning-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
 type: article
 quality: 119
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "AI, machine learning, robots, and marketing tech coming to a store near you"
 
 related:
-  - title: "Inside the future of online dating: AI swiping and concierge bots"
-    excerpt: "Once it knows what you want, it can essentially use the apps for you. They’re posted on Github; here is the exact one that Winters used, but there are many more — such as the Bernie AI. These facts alone have led some people to wring their hands and mourn the ways of olde, like meeting through at church or through friends at work."
-    publishedDateTime: 2020-01-31T16:53:00Z
-    webUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating/"
-    ampWebUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tinder-hack-bot-ai-dating.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F31%252F78%252F2cf65c6ab12943cb81d1691f4bb64888.ea787.png%252F1200x630.png?signature=y2owegQIwA9L6yfJDveE8u36QJI="
-        width: 1200
-        height: 630
   - title: "Talking to Robots With David Ewing Duncan"
     excerpt: "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ..."
     publishedDateTime: 2020-02-10T21:22:00Z

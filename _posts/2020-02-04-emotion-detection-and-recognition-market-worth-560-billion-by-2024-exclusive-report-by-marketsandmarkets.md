@@ -40,19 +40,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinemoorman%2Ffiles%2F2020%2F02%2FAI-F1.png"
         width: 1200
         height: 588
-  - title: "AI Chip Market is Booming"
-    excerpt: "AI processors are reinvigorating the global semiconductor industry, prompting at least one market tracker to predict a three-fold increase in AI chip applications over the next five years. In a survey of AI adoption released this week, IHS Markit predicts AI applications will explode to $128.9 billion by 2025, up from about $42.8 billion in 2019."
-    publishedDateTime: 2020-01-31T17:14:00Z
-    webUrl: "https://www.hpcwire.com/2020/01/31/ai-chip-market-is-booming/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/AI-silicon-shutterstock-675x380.jpg"
-        width: 675
-        height: 380
   - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 – Exclusive Report by MarketsandMarkets(TM)"
     excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\", published by MarketsandMarkets™, the global Emotion Detection and Recognition Market size is projected to grow from USD 21.6 billion in 2019 to USD 56.0 billion by 2024, at a Compound Annual Growth ..."
     publishedDateTime: 2020-02-04T21:49:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T08:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "Robotics Market size Witness Growth Acceleration During 2025"
-    excerpt: "Venture capitalists have opened up to funding companies designing and manufacturing industrial robots. Advancements in artificial intelligence and development of sophisticated sensors are projected to augment the development of self-programming robots. Make an Inquiry before Buying: https://www.trendsmarketresearch.com/checkout/3132/Single In ..."
-    publishedDateTime: 2020-02-05T08:23:00Z
-    webUrl: "https://www.openpr.com/news/1919614/robotics-market-size-witness-growth-acceleration-during-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "5/FTkR9hTTIG4jLeKmpdrE1RAmKbzoNeM91nLFGr2hXAF48dtliEURl7BhHnmarFMve9umxdz5OriwyJeHgKo29bwDVNtctY6hs0heoReNeSj4m34GZn3hNKKclQnuWAdhBqWf9DfgXBQCEQuzaJ5er/R2S3253lFkIs5hpAHKqecisFU70xmWE8V/Izpx6x3J7drxwZ1obI08ETGzxT5QJjd8cD94wkSH4xJ/e3phYLMZV8A82Hkwsza+6Ozx7mMrYfSD8GbpdzX236iHUsalfnbadXxxG4x0ezzxSCswhkzBYSZD5R3Y5R4CHRrO8b;+i9FvMfDDGjUEoXWYohMsQ=="
 ---

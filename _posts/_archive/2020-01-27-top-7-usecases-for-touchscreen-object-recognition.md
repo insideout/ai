@@ -28,6 +28,6 @@ related:
       domain: forbes.com
     quality: 49
 
-secured: "u/UYJ2fW2M218fTwn7XvB6hx4hJz+aMOo9r7710VzlptvzsR2fWm4r/OsMq6T+hUJowC5N1LYGPrnjCdoUlzaKcoe0nTvIGLAFIBLq9Sb3EArdZkmxtM2suzb6LEG+pyoeJuVsm/2+Ed2tY/Hi1QymYSMDUx2pZyCMCyBSTxRFp0V+jf6j62onvByDHRuC4dVPljHvD9pLM1uYjQdooJ0GoKbm5EIZLOeHS/ZQV28wqsg3k3dur3AnVnNDSlR2pkGKcb61xdo1iYNfjKe7113UDdStyJ6KINk4EzFh2XTRZ5Zeey1rEcTrAWp0JxB3XS;SpP9mMmNWCyncmGKvEVRhw=="
+secured: "r1we1Axa/e4cTvaQax7dFL4Zk1pdsmzBPGlzFsDg/rDwWvxf3DumyjeLxcIiynYM6XLmJoInUTFnVzZzTh+T5WsUUfgC4JsiGgWklFMHYQ6zz41drheVZqbvUWhS1Yz/l+8ip2yldUEbv/haPreRDPmW7HOuBST98nXykA9vZwliRVYGgilejOCQ5fxG/Vgdz4VL7KXZ8JKcmPUki3aBYRefR9t6RgvGpZi9ggkkaCN5KkiCsDJmG/DF7IgtxH30GXYHPhGtrXZzOM4szKj8SAkUy5lAE9q1bT7OI+os7iYlZ+pk8o1gkOXBXe9roSxT;75YCt1sEaaZbuMngUhECgg=="
 ---
 

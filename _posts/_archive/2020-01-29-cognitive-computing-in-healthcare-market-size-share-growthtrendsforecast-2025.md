@@ -93,6 +93,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "DdZQLg7pPlcC1vnuf8/KA9k4gFu9+5K7bNvA0jXC3mtpkjdMQ8+nSOwrI+a4LKwbpmi+n9rzygNNMemYQQ5Wu5XBQfSqAyJQS1U8PTf0IRcSvgh4i2uQHTheXktooOyMCyPBP6+4YSbZtsQbfd1Iv6loYJOWzipSA9BldO2bkUEP15ZE+9T11vWbJEFfp0Fwc02Y68tIeOpe7JL38+Xe/CWUP714O9HzxG+0XheTFNXnNtAA5nm0z4QSMmhZ9jJQgb3iCUInW0JnJlqCurXbhLlYS85NG9mOrzcvTAdfah/6zEKj1sXLj+nyWd6Lmd5O;GquaqPRYDnGwPgCzvCy1nw=="
+secured: "WzHo/7U9ARFOXAXK/Oh13Mg6Abxv+AkQVPVXx/VI4ayrxCZr/P+xAwvbLGE0aE3MoNbxcNFK+G+jc9zw1HHbJkDHvinJylimZQazZdqLeHVk2+MXise3TqkMTMakGxn3rrDVF5UDoJLtFalIZ6wz72WPDT8hI2suXhH/gHSWMjyspdIV/HEfthN85d6qdSTgRimQ+VbCNXi+UyIr4N1FFJ/BMa9pM8fESZDGAwcT0YJxbxeg03wI51LJdl3zaQN1jN8pTDd7iM8g59vyZnTZCux9XjKZX0j571wTGQYxR4IkzMHQQeTR56Bbsp/JcMey;wOeYype18L2kOqC+vop6Tw=="
 ---
 

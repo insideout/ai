@@ -35,15 +35,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Robotics Market size Witness Growth Acceleration During 2025"
-    excerpt: "Venture capitalists have opened up to funding companies designing and manufacturing industrial robots. Advancements in artificial intelligence and development of sophisticated sensors are projected to augment the development of self-programming robots. Make an Inquiry before Buying: https://www.trendsmarketresearch.com/checkout/3132/Single In ..."
-    publishedDateTime: 2020-02-05T08:23:00Z
-    webUrl: "https://www.openpr.com/news/1919614/robotics-market-size-witness-growth-acceleration-during-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "sDg9wRLCG0h6nNika6mDjPfYVQ6KTrc9oGegkVOFHLwx0oID24rm+Ipmj3dM4C/x1mWt1MQQTSYnt+MD5E4bRXF11SkaC+fQRWuHeWINVb9939rFCkn01EQX1+I6vv0EIq2y6IFnhEMGLD22/xp3dR+R0rEDr8lRfT6yq0qbZ0/bYaDi5SojME3IV1cDr1e4M97Y9P/t8toOTD++uDN1TT5GQvUX6XfhMGqndt36AsBm+ZE19zqVw+lMmJUEfGD2dusGryJD6YzYHsIJj18CTf3BkK1Ifq79zAPnPIZV1hqYG34kZD4d59FbThXp++Wi;cND9sVRwHJ+w1x2wH5h12w=="
 ---
