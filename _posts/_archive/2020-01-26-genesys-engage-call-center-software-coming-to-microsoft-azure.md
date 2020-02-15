@@ -36,6 +36,6 @@ related:
       domain: pymnts.com
     quality: 54
 
-secured: "+HwMZyKo2izG1bdAndJnZ/jIT+bsQXlKI+k6vkk7guSiDX0+NU6mhtldr0nOJpp53M1sbiPxQe9dkP4IUEoZzOKtKkGohBjathtPILzbWuXHQ+ZsgNDKghwyakBJOK8OtX/UW9f+GA9N7xWh2cmH9Ev+1heaE9ZnEjHYyOE0H3+BqsBZNIdouEFcq8eyEqOf+8pN71O42ugYsn5Om0l8+rmBBl0QguH42ExLk5MJ1zLcJynbTXYRzyutlUeaD+IGa1ZXwtLxL7BqNqeti2iu0YkeCKiAnajbhTFPWwn7TRPqy4A1K85Wg7uc2v8eouU+;vkhwggxldSHbUAslWfzsQA=="
+secured: "XP95YnKhXvW21T8LBqo+UvnZaXxUgNpSbkpMiDmAcuDzkqmdP4cCnut5JD1+oRijVwugr40gzN1BoMAQzPsw2hO7zbDDt89XyaRDjviiyzU1HwpER4xrQbOb/Ne+RjNAT+LPPjIJrkFt8rbu5odlDrg1moYPMbrS6Blkmyy2Lt+EZZCXnfnKXhR8scXRxV+svleZ+d0mDFePa+oSez29S/na2ZaCsUEtyD581/c9wFZql3a/MLBdxADhkIt1SlA67LWm3qFlo+OJ1Nlg1Hc41T20rwTiNUDzbBfH1CsXN4zUSpEdnM+IgTEJAxa+fFMY;RSMP9QSFa95Lit3QqL4T8A=="
 ---
 

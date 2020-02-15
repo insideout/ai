@@ -23,6 +23,6 @@ images:
     height: 565
     title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
 
-secured: "pwg3tfvo5J2AyyU77DUBD40kElIsvX+VZ5acfke9o00esEpCMq6iOIADPlbTky1+eh58I6K+DUpAN6qKBFNg9rVnmDsl/ufC/yODdTzujRfSuh+M4UalIs2GvBrPWc6nHCyQkANAnLjB6i1wLzepgG4GjW6EdllfZxW7TF+Q2wuDkcMnuFqH1q8B3xOxeLU7UKeE2iTUKzfeetfphlGEqaNwGsP6isDsPvjpvUWxh5+0NqSdBZWtKY4d9/wjGF4v7/MtAzg9xpyoEWf+apo8geSeXraK3aRW2GjhSdcr1yQZuYoc0ufKnbwaEqaZJRuv;zuf+iCTTf5CsGKcdzYmynw=="
+secured: "j2iUemf4ni2eW/TipSFu4DuxqTPr9aqFJiKAb8KARO7g4hvTbKJ4M9bH1SzcPc6ZQ4LQ4eBn4ZmwuhhtT0EiJfySaV8VY5Hj9CBiKDO7fVcnIky9wWlH70qIJnxv2brZwVW60iswFF/51hBXen4lFn4jxkYTYIuejKs/Dk09xC7PmVyGNDtT+91J94eIETwFEgTGC3+B6733gDS55rEv4rCzbxEPxPF7laB17jiU9tt+1k7gsD89Dg+qgY5D7VprZawtLzQC2mx+Rt6eMNhrDoRB7Y0NwTZKw0TZ7KAqlGlnTgMDBQn9YwUaBoSuQMTL;7XrS1XS2lZwfnQn2uH68tg=="
 ---
 

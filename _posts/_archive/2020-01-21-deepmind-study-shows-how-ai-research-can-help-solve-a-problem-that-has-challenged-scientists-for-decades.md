@@ -1,8 +1,8 @@
 ---
 category: news
 title: "DeepMind study shows how AI research can help solve a problem that has challenged scientists for decades"
-excerpt: "The AlphaFold system uses large genomic datasets to generate 3D models of protein structure more accurately than ever before. This is a companion discussion topic for the original entry at https://www.mobihealthnews.com/news/europe/deepmind-study-shows-how-ai-research-can-help-solve-problem-has-challenged-scientists"
-publishedDateTime: 2020-01-21T10:11:00Z
+excerpt: "The AlphaFold system uses large genomic datasets to generate 3D models of protein structure more accurately than ever before. This is a companion discussion topic for ..."
+publishedDateTime: 2020-01-21T11:14:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/deepmind-study-shows-how-ai-research-can-help-solve-a-problem-that-has-challenged-scientists-for-decades/238948"
 type: article
 quality: 37
@@ -23,6 +23,6 @@ images:
     height: 512
     title: "DeepMind study shows how AI research can help solve a problem that has challenged scientists for decades"
 
-secured: "S7y06vyCJ+TzblvPnKd/OlddPoyZoopeVooWM4u1A0qYKKjTfjNUnRk/7wIZcViGZtJdjIZHJkskJyAmiD52sZdfV5vll8t9K6AAE5mpUSo5LC++EsIztOu33R5gCsuZPhawjlw0lu51AZOKaWR0IMrV7ocoUTNYgKyDU5TgG0pJethcSx/MLG7xKobAuuJMBxPunpmXz70Zj4nZSXUdSqnf3j7LcQq/2pWJkK7VgLv704D5dSGRO7UaLdNBdzvuPSgFoghSYAQSdAR4vdGcbGKEmVVnrEpB2p7uGguAIas=;y6lxsczmukwzUKM4hJ48dg=="
+secured: "HuikUiXRieugSrhW6iLknhWvNEXUa0kPOLl/sYYRlXXOsvi6pOuTxEB6RUH/uSJ0Wj7d1aC+Se9/F2YaQpbGMDAvl1u3SoxPxZdkxgdWZAEM2Oe7l94uRtv//89W7GdRdyusHfmtpe3+JGW44Bu0tYWrFfVHELuA/W5QxNKgqmG5nto5tjpk51UMNhMnqWP+2oP8PEdGZsIG3BbLC330Uz1xc5bZ/eSdiXZgZo1Ng9DzcytUaqmUypLZv2kYXqx67j0KgWkrs6XNm9C/oldTU+RoYJ4hRvR7HTIMkpXH2q2Uhp0QWp7nGbuq9Oe+qIzp;Tu0lJcTf/ZIVaixi3x+YmA=="
 ---
 

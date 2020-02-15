@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
-excerpt: "WASHINGTON -- A new approach that uses artificial intelligence to analyze retinal images could ... agents are widely used as the first line of therapy for diabetic macular edema, but they don't work for everyone. There's a need to identify who would ..."
+excerpt: "\"The algorithm could also be adapted to predict therapy response for many other eye diseases, including neovascular age-related macular degeneration.\" Predicting treatment response The algorithm developed by the researchers is based on a novel convolutional neural network (CNN) architecture, a type of artificial intelligence that can analyze ..."
 publishedDateTime: 2020-01-28T16:45:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-01/tos-aip012820.php"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 266
     title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
 
-secured: "zx5qeayQZnnp04zZ0EqieP3KbOFOJjP2lbvnw1HFjIuAD6RA/+2y9H9YLl6LcKGK8Vfv2/cD+KkVHG4VZHB9M9wwkAcwX7ZVA+3nuM+SQJrGoIjf81RiLC+ayu0c62uGvINIIAvYX2Ubg971WIDcvfGfFrfyFVNoyvrtdAEFwyZVMPoorEdmTKguQekypU6qDH9JJmFahC/1pYxn50gtoM4mci9yAbKdcfY0KpzH/oIvS0bESG3g95n+MJUL0nQg3aNX7j4A7naZZHsQ0EYWBS2ZVATc1Jro3i31DiOJUoHZaevE7G29f4cRDQs0A51O;pWn88WZW7Z77X9wrEE7hvA=="
+secured: "1WSy22LBXiRxelISEe6dnUpmBYyjtD4ftfoZq09FFNLyp0oQ2Bka7NuUXNVe2oHDVpdyu3WyMuXYRv6QE7hQls7FXMvOheyFIU58bciWdGhE1Gy0xjE8HS5Vbc8RMcpkCZVI9C115HDoSvJIyjb72vYXSWG+1lkfjrbo5+z+tTs5I2B2oX51ewR7CpQl9dzFrb4MhxJb9IbPoSckgXWb8zXIUURqWOe25ZwpyvzqblvgWXSY3ED9GER7xaFn0rXhqfMDzzVF06Qo+2PJAWUON4EV4a09Shd2ClhpQmn7O4iICLRuUJOndviwYqlRD+8u;PZ9CkA0++Vh7yJ51QRb3qA=="
 ---
 
