@@ -100,19 +100,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
-    publishedDateTime: 2020-01-31T15:06:00Z
-    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
-        width: 1024
-        height: 512
   - title: "Deep learning of circulating tumour cells"
     excerpt: "Moreover, our network excelled in identifying different important subclasses of objects. Deep learning was faster and superior to classical image analysis approaches and enabled the identification of new biological phenomena. Fig. 1: Overview of the analysis workflow used. Fig. 2: Comparison of the t-SNE maps of the latent space for a standard ..."
     publishedDateTime: 2020-02-10T19:12:00Z

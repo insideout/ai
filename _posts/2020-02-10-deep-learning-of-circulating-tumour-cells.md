@@ -110,19 +110,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg"
         width: 1200
         height: 628
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
-    publishedDateTime: 2020-01-31T15:06:00Z
-    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
-        width: 1024
-        height: 512
   - title: "Evolving L&D: Before artificial intelligence, master adaptive learning"
     excerpt: "Machine Learning Natural Language Processing Deep Learning Neural Networks “Artificially intelligent systems have to not only analyze activities and predict outcomes - they also need to learn from those predictions over time.” He also points out that even in our attempt to understand AI, a lack of a highly precise and universally embraced ..."
     publishedDateTime: 2020-02-11T14:32:00Z

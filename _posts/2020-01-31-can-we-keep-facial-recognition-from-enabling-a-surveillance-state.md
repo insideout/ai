@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recogniti
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -116,19 +116,6 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/eu-ponders-temporary-facial-recognition-ban_1500.jpg"
         width: 1500
         height: 860
-  - title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
-    excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
-    publishedDateTime: 2020-01-31T15:00:00Z
-    webUrl: "https://www.miaminewtimes.com/news/fight-for-the-future-warns-about-facial-recognition-on-florida-college-campuses-11473208"
-    type: article
-    provider:
-      name: Miami New Times
-      domain: miaminewtimes.com
-    quality: 22
-    images:
-      - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
-        width: 3135
-        height: 2008
   - title: "Facial-recognition tech may have value, but real-time surveillance goes too far"
     excerpt: "If you stroll through some parts of London, facial-recognition systems linked to street cameras analyze whether you look like someone wanted for a crime. This technology isn’t very accurate — it often makes false matches — and warrantless surveillance that can identify people in public in real time corrodes individual rights that ought to ..."
     publishedDateTime: 2020-02-04T09:29:00Z

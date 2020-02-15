@@ -38,6 +38,6 @@ related:
       domain: dqindia.com
     quality: 36
 
-secured: "pc69c8gZlotvGYD+/OLZliirJ90+YdC/TJKC4V6HChYOxUhfYONykaT7PRE71BJFze40CGs4yop/QHy0w1CFdxvz+HDurFgck30I4UUzWEtHWVZ2C5H1n4ll4SUJKR1sfEtUyGYZYImntFyIrHgSIztjWNoQ5AkqhS0RCEuHacQ19VzTddBK6QMWXnzHbYDNUc6MLJUlrxadK9leGNFxFTXDP+LcIjaLRmWo0fAVv3hPad19w76UcsMtFshnA3DEC3/5uXPubWDEZBDfGAUnBZYNnWP2ogzCY9iCBEoJvlP1VWxEdqt+6RVebFR6KJTN;zKJrF90upYgLajnxrid6vQ=="
+secured: "C2pvDoeqCMzphoFebpGgnputVWlB+qlQH+wIGo6z9/sCDtiKbV08hZhkUS/p2JzIi+UvZXlupcfeklTlOxDdvdNTkd9DwElNBzfysym0DDQ6ui4fOxkX/FfiNaEtJFWOtKgSGv43gU1huZ8pA3vzQHd1+x1UavN/QUlLApth/axfVY9hNdqNWv9E2WICEdByP93oH0febOID2dn4WZXwT2p7nuknC+frQn+u5Wp3DYbYLO1kiVmd8GrClNqoAENFPL9GddY5twlMnNrSXDHiWQ4hT552PnLA0Mcvj1hYETHNqOgFf5xUvu5bRKMAVeCA;WuMPPnHY4osPVStl3fGBkQ=="
 ---
 

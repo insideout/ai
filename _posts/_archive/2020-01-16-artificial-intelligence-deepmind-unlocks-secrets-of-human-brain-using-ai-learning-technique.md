@@ -8,7 +8,7 @@ ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artif
 cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     height: 1875
     title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
 
-related:
-  - title: "DeepMind found an AI learning technique also works in human brains"
-    excerpt: "Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new explanation ..."
-    publishedDateTime: 2020-01-15T18:40:00Z
-    webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
-    ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-
-secured: "n6VTfd6k7PaleP8eVm/LH/YnC6iODIqojEtIWO+eQN6xNabAilOgOCHuDr9n8UNdYdNlj45NHEgO6KS/L983kycUX3LgsiBZJ/3CP8kxMeVlxVkSxpK8KCEYchkr9FP0uMmYpkNr9bafQy1wc/l3k0wkVDwjVkSOJTPso/ITc866lc0JIlwdOfr5MS0axKmwUM116wMQBPcEvEXe0hEu1PvYJEkZxHdbv+TQ/6vO1Sgnn2m6QfBJotcQBRymk2KOolrnGm1pf6too7Pa7npBnatd4JBXzLkXy7zRo4dEndUgtA07FGa/wF+bxYfTazbM;OD1845/s2UyYDvv58pDOWw=="
+secured: "Ewjoq1D2ap1n9fmyNZg7dm7/gd8ze1uAqGqUCft2S/JvjmQuLH+l3gI2H1rHntDJUjrxlaIP148ttoULbKDnxciK710Xex3BA4CbpcBASIJiZW1N8T1Apy+PZJFXWSKUzXsi0J5Z0s7AZkLaPpLdEysB5ydVXay1zvRCTiGq0VU7WdHsYc8iCxinfeRBIgEmRCS/uBz86WR/Dmc6RUbFeH0Cgfh/RzGRTABeQRbHNPeT3r2IH+JhNus7tnmVYWfr+BtdwhNdhN1o9ppOYnmMY+wYJf1edXM8/5Y9ojViQScSW4f7GvExmno+AO/yzQbW;M5NnPXfF0YI+GJ7pcQz27w=="
 ---
 

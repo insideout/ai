@@ -91,15 +91,15 @@ related:
         width: 1200
         height: 674
   - title: "‘Disgruntled’ ex-Waymo driver accused of deliberately causing crash with self-driving vehicle"
-    excerpt: "PHOENIX — A man described as a disgruntled former Waymo driver has been arrested on suspicion of deliberately crashing a passenger car into one of the company’s vans with self-driving capabilities near Phoenix, authorities said Thursday. This undated ..."
-    publishedDateTime: 2020-02-14T15:06:00Z
-    webUrl: "https://www.siliconvalley.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/"
-    ampWebUrl: "https://www.siliconvalley.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
-    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
+    excerpt: "A man described as a disgruntled former Waymo driver has been arrested on suspicion of deliberately crashing a passenger car into one of the company’s vans with self-driving capabilities"
+    publishedDateTime: 2020-02-14T14:40:00Z
+    webUrl: "https://www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/"
+    ampWebUrl: "https://www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
     type: article
     provider:
-      name: Silicon Valley
-      domain: siliconvalley.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 48
     images:
       - url: "https://i1.wp.com/www.mercurynews.com/wp-content/uploads/2020/02/Self-Driving_Vehicle-Collision_Arrest_65344.jpg?fit=620%2C9999px&ssl=1"

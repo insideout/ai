@@ -42,17 +42,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 34
-  - title: "This self-driving car has no steering wheel or pedals"
-    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
-    publishedDateTime: 2020-01-31T14:41:00Z
-    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.html"
-    ampWebUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
-    cdnAmpWebUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
-    type: article
-    provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 24
   - title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
     excerpt: "A team of engineers at the University of Waterloo has made it its mission to Canadianize self-driving vehicles. It's the first group in the world to create a data set for winter driving. In other words, it has compiled 10,000 video frames and 56,000 images to better teach self-driving vehicles how to navigate snow and ice. \"We're basically ..."
     publishedDateTime: 2020-02-11T15:08:00Z
