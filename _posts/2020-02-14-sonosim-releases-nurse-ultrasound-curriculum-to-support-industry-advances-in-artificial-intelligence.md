@@ -1,0 +1,42 @@
+---
+category: news
+title: "SonoSim Releases Nurse Ultrasound Curriculum to Support Industry Advances in Artificial Intelligence"
+excerpt: "SANTA MONICA, Calif., Feb. 13, 2020 /PRNewswire/ -- SonoSim, Inc., the world's leading provider of ultrasound education and training, has officially announced the launch of a comprehensive nurse ultrasound training curriculum designed to support artificial intelligence (AI) guided ultrasound training needs. The curriculum is designed to assist ..."
+publishedDateTime: 2020-02-14T20:44:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/sonosim-releases-nurse-ultrasound-curriculum-to-support-industry-advances-in/article_1a29d598-df92-50a3-9527-b5e90e929fbf.html"
+type: article
+quality: 22
+heat: -1
+published: false
+
+provider:
+  name: WFMZ-TV
+  domain: wfmz.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/91/a9136af8-909d-549c-9e6f-db1b9f9a2cda/5e460dfe7d9f8.image.jpg?resize=400%2C300"
+    width: 400
+    height: 300
+    title: "SonoSim Releases Nurse Ultrasound Curriculum to Support Industry Advances in Artificial Intelligence"
+
+related:
+  - title: "SonoSim Releases Nurse Ultrasound Curriculum to Support Industry Advances in Artificial Intelligence"
+    excerpt: "/PRNewswire/ -- SonoSim, Inc., the world's leading provider of ultrasound education and training, has officially announced the launch of a comprehensive"
+    publishedDateTime: 2020-02-13T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sonosim-releases-nurse-ultrasound-curriculum-to-support-industry-advances-in-artificial-intelligence-301004113.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1089831/Ultrasound_Guided_Peripheral_Venous_Cannulation.jpg?p=facebook"
+        width: 640
+        height: 335
+
+secured: "Iz4aj6XKlLZlIbOCipYPYqbgo2R1VncFjF+icL1dHoZsFhMwSeUZqSOAKIRmLGSkqLZZlp/Qnx0LYD9f+v9cHJs9rp+30qWY2pmZSaBa9+BbK+AqmGwnuHRaWeOityA87sw4MMKFUIYY5wEYp6hchVcPmnCE27WxQvIreSkuYEzf+whYphQ+EyOO6Hhp1jdw+OsijFvPWzAWkxSsXMhQ+MPJq8oUVuO7J/PtidQRz4JCChdG6RPM0j8BaCTdBRvqBRUDY8E17b4mld6pgrYz4XVmdvPUGXYjd6Oax4zMPQl5PrOX2R9sKRcb2AECQ3Na;4cr1HEVOSfTpWeGLTnb62w=="
+---
+

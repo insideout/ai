@@ -1614,6 +1614,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-23-ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in.md",
+      "title": "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in",
+      "excerpt": "According to Gartner, artificial intelligence is still in the early phases of the hype cycle. Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/",
+      "publishedDateTime": "2020-01-23T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/04/16/cc5d2e5c-2d75-433f-a9a7-034a858b46e6/resize/1200x/8e5aaa1afe23fa7488ee8e296e79d3e3/istock-861189644ai.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-23-ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo.md",
       "title": "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO",
       "excerpt": "The Mountain View, Calif.-based startup last week named Celia Poon as its finance chief.",
@@ -2079,43 +2124,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-dem-senator-presses-facial-recognition-company-after-reports-of-law-enforcement-collaboration.md",
-      "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
-      "excerpt": "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement.",
-      "heat": 248,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law",
-      "ampWebUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
-      "publishedDateTime": "2020-01-23T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

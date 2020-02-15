@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
-      "title": "Facial recognition could be temporarily banned for law enforcement use",
-      "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 549,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "publishedDateTime": "2020-02-12T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Facial recognition could be temporarily banned for law enforcement use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
       "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
       "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
@@ -1588,6 +1543,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-15-sex-robots-may-cause-psychological-damage.md",
+      "title": "Sex robots may cause psychological damage",
+      "excerpt": "US researchers have warned that the availability of sex robots with artificial intelligence (AI) poses a growing psychological and moral threat to individuals and society. They say the technology is escaping oversight because agencies are too embarrassed to investigate it. The scientists want action to prevent the unregulated use of such robots.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/science-environment-51330261",
+      "ampWebUrl": "https://www.bbc.com/news/amp/science-environment-51330261",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-51330261",
+      "publishedDateTime": "2020-02-14T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/098A/production/_110724420_harmony.png",
+          "width": 1024,
+          "height": 576,
+          "title": "Sex robots may cause psychological damage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

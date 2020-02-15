@@ -130,6 +130,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "qe9n+1YBYQQzmhJS3UfP2jr+e+B6z7zaOaEMf4HpcPwCxJrpm1ScCQoo6tUrUckYHGXpqb7tyHHzpRi0F3xAfHkGvVXmwrPQjhSWI2ZnxgXKfvdRVjmFKrmHapDuxVanS/fPeFQZ31Zosi6nxT2rCiJUMa12XFtcOpysV85ZFwgvl7UGc4ELoQn6QI8xuDcyuEg8JSNezvcdXpFnBfgK7gqPYmQe+edjvBIVm9DGfSUH+WQriYzbOxcrjwAKRzhiiOCYoiyroJ3ssS9o2u+jjaBEy8oZP/AFIfejBJQ42q7DJnYVM9ZkLXNpPbuS7jQT;m2MaYmVRLgax+j1+EsL6Bw=="
+secured: "SBrXMNGtnpPhilxThB5zZW24tj6QD7JWs1S0SPgXxB/iyvfssuLEC6gYwuSLEP2z5bcWbLn5ZHqXeb58ng7fzIekIvlUy/WBoOzBRon2sygWJ8QpcCkcJbbhBC/jiterp7GIw98TCToaeFceJo6W5z4Oq7e869somaRiAOcQDZZbZElZBOjIRSGYauNTyyyRsenM+NifOd2zqBPnRAuYKclS6uAJHJQjP5hw/s2wGROGGv846X20ruMHw2MkgBZ1c/fhbyLuXRE4O+zSSTh6VG6MVtdYtNDqtgqiZ1EoEnzr8c/C3CmxzVAVh8NWKqr4;Cr4FTHmhbBgFR/nT+ZKTCA=="
 ---
 

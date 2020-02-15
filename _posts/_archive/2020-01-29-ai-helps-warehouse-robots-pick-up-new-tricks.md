@@ -1,13 +1,15 @@
 ---
 category: news
 title: "AI Helps Warehouse Robots Pick Up New Tricks"
-excerpt: "Geoffrey Hinton and Yann Lecunn, who shared this year’s Turing Prize with Yoshua Bengio for their work on deep learning, are among the AI luminaries who have invested in Covariant.ai, a startup developing AI technology for warehouse bin-picking bots. Covariant.ai has developed a platform that consists of off-the-shelf robot arms equipped with ..."
-publishedDateTime: 2020-01-29T04:00:00Z
+excerpt: "a startup developing AI technology for warehouse bin-picking bots. Covariant.ai has developed a platform that consists of off-the-shelf robot arms equipped with cameras, a special gripper, and plenty of computer power for figuring out how to grasp objects tossed into warehouse bins. The company, emerging from stealth Wednesday, announced the ..."
+publishedDateTime: 2020-01-29T09:00:00Z
 webUrl: "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/"
+ampWebUrl: "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/amp"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 104
+heat: 154
+published: true
 
 provider:
   name: Wired
@@ -22,27 +24,40 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media.wired.com/photos/5e2f1b2fad484f0008ab9102/191:100/w_1280,c_limit/Biz-A%2520Covariant%2520robot%2520at%2520a%2520KNAPP-powered%2520warehouse%2520Obeta%2520outside%2520Berlin_.jpg"
-    width: 1280
-    height: 670
+  - url: "https://media.wired.com/photos/5e2f1b2fad484f0008ab9102/master/pass/Biz-A%20Covariant%20robot%20at%20a%20KNAPP-powered%20warehouse%20Obeta%20outside%20Berlin_.jpg"
+    width: 2400
+    height: 1600
     title: "AI Helps Warehouse Robots Pick Up New Tricks"
 
 related:
-  - title: "A Warehouse Robot Learns to Sort Out the Tricky Stuff"
-    excerpt: "At a facility near Berlin, a new kind of robot is automating tasks that until recently had been out of the reach of machines. LUDWIGSFELDE, Germany — Inside a warehouse on the outskirts of Berlin, a long line of blue crates moved down a conveyor belt,"
-    publishedDateTime: 2020-01-29T09:00:00Z
-    webUrl: "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html"
-    ampWebUrl: "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html"
+  - title: "Nomagic’s pick-and-place warehouse robots raise $8.6M"
+    excerpt: "Since automation can relieve human warehouse workers of tedious tasks, Nomagic claimed that its smart pick-and-place robots offer high flexibility and that they can help reduce the cost per pick. The company added that its artificial intelligence and cloud platform enable its robotic arms to handle millions of different products. Magicloader is ..."
+    publishedDateTime: 2020-02-04T15:58:00Z
+    webUrl: "https://www.therobotreport.com/nomagic-pick-place-warehouse-robots-86m/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
     images:
-      - url: "https://static01.nyt.com/images/2020/01/29/autossell/29robopicker-video1/29robopicker-video1-facebookJumbo-v3.jpg"
-        width: 1050
-        height: 550
+      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/Nomagic_0-1024x563-1.jpeg"
+        width: 1024
+        height: 563
+  - title: "Nomagic, a startup out of Poland, picks up $8.6M for its pick-and-place warehouse robots"
+    excerpt: "Now, a startup out of Poland that is widening the scope of what those robots can do ... While some of the earliest implementations of the principles of AI were indeed on robots, these days a lot of robotic hardware seems clunky and even outmoded, while much more of the focus of AI has shifted to software and “non-physical” systems aimed ..."
+    publishedDateTime: 2020-02-04T12:20:00Z
+    webUrl: "https://techcrunch.com/2020/02/04/nomagic-a-startup-out-of-poland-picks-up-8-6m-for-its-pick-and-place-warehouse-robots/"
+    ampWebUrl: "https://techcrunch.com/2020/02/04/nomagic-a-startup-out-of-poland-picks-up-8-6m-for-its-pick-and-place-warehouse-robots/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/04/nomagic-a-startup-out-of-poland-picks-up-8-6m-for-its-pick-and-place-warehouse-robots/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screenshot-2020-02-04-at-12.06.08.png?w=1024"
+        width: 1024
+        height: 691
   - title: "A warehouse robot learns to sort out the tricky stuff"
     excerpt: "Standing nearby at the Obeta warehouse, the California engineers who made the robot snapped pictures with their smartphones. They spent more than two years designing the system at a startup called Covariant.AI, building on their research at the University of California, Berkeley. Their technology is an indication that, in the coming years ..."
     publishedDateTime: 2020-02-01T15:25:00Z
@@ -88,33 +103,7 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/b708d2f7-0d57-45a4-a611-2452c073d53b-300x225.jpg"
         width: 300
         height: 225
-  - title: "A warehouse robot learns to sort out the tricky stuff"
-    excerpt: "At the facility near Berlin, the new kind of robot is automating tasks that until recently had been out of the reach of machines."
-    publishedDateTime: 2020-01-30T12:48:00Z
-    webUrl: "https://www.bizjournals.com/buffalo/news/2020/01/30/a-warehouse-robot-learns-to-sort-out-the-tricky.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/11591970/robot-warehouse-sorting-4-7*1200xx3600-2025-0-338.jpg"
-        width: 1200
-        height: 675
-  - title: "New kind of robot learns on the job at warehouse in Germany"
-    excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb bin after bin of random stuff -- from clothes and shoes to ..."
-    publishedDateTime: 2020-02-02T06:00:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/02/new-kind-of-robot-learns-on-the-job-at-/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
-    images:
-      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
-        width: 340
-        height: 246
 
-secured: "Kn5jU4fnXQJPUf2bLZhp+39ymXKOFTYQX+vG839XUF9YPnxjfMvlOpwEXuqqTa0VR/xOla/VJv09Vqll1/RjfNV2wh33ftjTeWhvRqXbpeVr2Fv46YdGxpyw0w45/O4UOhM3OwJ4sjl+Mh2kawaHXZo4gKtwJQxvr1wnFnbyoE0yRP+jza1D+QJJQdG3ktmmjCsF4PXjpwZK+F+9uSNYn26rMe+2oOZ56gFQdMjUzJGobO2AZhJGuvC4oPPlLJ1rw2CHJtZ98Hx8OPRdGpa7a8B7Euv2eO4K34aoAVkhyPmZBBBMr4THJkuwKYyReah9xUgGlkDhHPEjGtlaDuI7d//0hI0XWcvI622fkljbBYAtWRSAoNbdjSIxJEexRef6Anx9oASXdaV56+NA+xhv/sHbgMUvFz6G6a5Y127NaJOz/SgjtxKVZMWQBk3WgD2Vml5pcIRWkGvTmR7Eh6epWMcRRziqiwWIgFK4EkneNAw=;/B6HUsf8RRBwM9E8CB2ZYw=="
+secured: "ZS8MN4nhzJ5OnGEfLeEjZbjb5WmDfFAJBgNfjPixGZRRQyU7a6pLyIn9Ehdr2lWBM1IqTNgzVvlhDNW74118jEgY+8zdYFCoicXdZGn6v5JEKBFhOX0jFSmPpjYmo4BNGJv7A/JKxyfOGXBgo/IBRD7Y/PV/jvaVsunRqAHtOPscMyAWXKmSrasHtElcqndtcCDsNGYZWNUDvRC/UDqG7wOQ4Bd8HtSmlY4ZCrLOLApt1EJ2SlkdqOcHEPazr/2z9UquZSewOoP9MMZf7xopEze2+A8L30QCwBjpKteRUqmCS3JouJEIcngRPDSkA83f;k3sqGGpkz9PKX1/t+u44RQ=="
 ---
 

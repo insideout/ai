@@ -29,6 +29,6 @@ images:
     height: 1334
     title: "Facebook hires the scientist who helped build IBM Watson to lead A.I. expansion"
 
-secured: "zXLiM4S5PDCGxPsDo/c4MiBtekWA/+kVQHifHnGIkJ+JpAdgOg9mBEYOJI9vwfKeWaJVlT88ECjSc8XNyM3w78c5uKheLGtHxc+whT0CAx3/Mo6OmvgcUZ8nOC30htf84l0G93Z7E4Xcz8bC3U48i3D/PmFiiQIqa1xgbrtCf+xkQLflFvY1I/JxTIZ/NA4XGNONIbRx59vDy0uBoOqi7zQo3/3uHVNPGUc8XkV0O9nd3kDtyN1s0gs9hulaSja8d5jqzdyCxVBZ349MJXEvnvkOnJCJKvGfL8y9RnJZfqsBE+89wekaIv+2teI04e6D;jpbYt5sWqNZcsVLqv1QYaA=="
+secured: "iUym6LJKcr7HZ1/0uaP7VC8+YBfP42092mIpNqlPkJvrO5cQuUl9uwiC0YoCX/wMOpvwKuixPQGSafLC8hITOeg2q33A+TETvx+W2tghpN3Wf8UJIfzWRy9Dv6mV8pcMzjdHg48hK9tomyKDk3hl2kTdN5ykeqgpFho16W10p+HLFpG5XcG4MO5u2rshq+shXtoni9zmAuAdd95+X3TSg0ONUZtN+U/2K1KuY9obkQujVm10TijlC8YWd7nw+f7XoihvSMCk9jsWM9tksjZV0/aYK4/U4/5kxn/TXk2SFqLdMB+IUwdrayXDVj60zR/V;WtTMVBo35q33KZiuTRddcw=="
 ---
 

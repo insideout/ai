@@ -2,6 +2,51 @@
   "page": 19,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-28-ai-and-disinformation-join-nukes-in-the-race-for-armageddon.md",
+      "title": "AI and disinformation join nukes in the race for armageddon",
+      "excerpt": "Some analysts say China is surging ahead with the development of artificial intelligence (AI), and perhaps even dominating the field. Huawei's founder Ren Zhengfei would beg to differ. The US government has yet to figure out the implications of AI, but China hasn't even started thinking about it, Ren told the World Economic Forum in Davos last ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "publishedDateTime": "2020-01-27T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and disinformation join nukes in the race for armageddon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-ai-can-boost-radiation-therapy-for-cancer-patients.md",
       "title": "AI can Boost Radiation Therapy for Cancer Patients",
       "excerpt": "Artificial intelligence (AI) can now instantly translate complex clinical data into an optimal plan of attack which can help cancer patients start their radiation therapy sooner and thereby decrease the odds of the cancer spreading, reports a new study.",
@@ -1817,6 +1862,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-29-ai-helps-warehouse-robots-pick-up-new-tricks.md",
+      "title": "AI Helps Warehouse Robots Pick Up New Tricks",
+      "excerpt": "a startup developing AI technology for warehouse bin-picking bots. Covariant.ai has developed a platform that consists of off-the-shelf robot arms equipped with cameras, a special gripper, and plenty of computer power for figuring out how to grasp objects tossed into warehouse bins. The company, emerging from stealth Wednesday, announced the ...",
+      "heat": 154,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/",
+      "ampWebUrl": "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/amp",
+      "publishedDateTime": "2020-01-29T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e2f1b2fad484f0008ab9102/master/pass/Biz-A%20Covariant%20robot%20at%20a%20KNAPP-powered%20warehouse%20Obeta%20outside%20Berlin_.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "AI Helps Warehouse Robots Pick Up New Tricks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-29-ai-powered-robot-pickers-will-be-the-next-big-work-revolution-in-warehouses.md",
       "title": "AI-powered robot pickers will be the next big work revolution in warehouses",
       "excerpt": "As it comes out of stealth today, Covariant has announced a raft of private backers, including some of the most high-profile names in AI research. They include Google’s head of AI, Jeff Dean; Facebook’s head of AI research, Yann LeCun, and one of the “godfathers of AI,” Geoffrey Hinton. As Abbeel says, the involvement of these ...",
@@ -2015,96 +2105,6 @@
           "width": 1200,
           "height": 600,
           "title": "Apple researchers train AI drivers to merge lanes in a simulated environment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis.md",
-      "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
-      "excerpt": "New York, January 29, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
-      "heat": 353,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-29",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations.md",
-      "title": "Assessing Google CEO Sundar Pichai's call for fair AI regulations",
-      "excerpt": "Google CEO Sundar Pichai and other AI researchers say limited regulation is needed to protect people from irresponsible use cases. Google CEO Sundar Pichai and other executives working on artificial intelligence are now calling for limited government regulation as the European Union mulls potential five-year bans of facial recognition software.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/",
-      "publishedDateTime": "2020-01-29T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Assessing Google CEO Sundar Pichai's call for fair AI regulations",
           "attribution": null
         }
       ],

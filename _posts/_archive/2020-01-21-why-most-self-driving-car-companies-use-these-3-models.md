@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Why most self-driving car companies use these 3 models"
-excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
-publishedDateTime: 2020-01-21T20:54:00Z
+excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
+publishedDateTime: 2020-01-21T21:09:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
 ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,21 @@ images:
     height: 630
     title: "Why most self-driving car companies use these 3 models"
 
-secured: "Lvuu7V5o8LFwXm8OwGZQEN9cXkkOY4Tb/6XZ8y9YWRsrF0lUHf8z2izSJ7SPYgj9Wbt9h9NHTnqqhNwY59qi0gkUwMr2P6MjXI67uRRt/qbgeGzADUyGdjJ41862NNo55OrKPqkaaeTGuPukBF5WeROEedECYqVsl1LgwV9uFI/dC+WGv7WRhuhu7cItAC7I0osdnFd9R1ghSXCZcHh7hd3GEWwL4wKVHoCaN/ZCrTk6I4UF/CC7SA0nU3NNE43kETg+1EJmHAkvzq0yX/nBNqySXfQ/A+UJzBXjVIkuaUZNQFrpIiiNBcVkuH2HVn9u;n4Dc99IopFpWiPptbIgUjA=="
+related:
+  - title: "Why most self-driving car companies use these 3 models"
+    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
+    publishedDateTime: 2020-01-22T10:12:00Z
+    webUrl: "https://sea.mashable.com/tech/8744/why-most-self-driving-car-companies-use-these-3-models"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 54
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/feature/w/why-most-s/why-most-self-driving-car-companies-use-these-3-models_358k.1200.jpg"
+        width: 1200
+        height: 799
+
+secured: "5yi92ruxovvecIEXeXRzdzDfx2a8cogACh3NOf0mObGDWyYPbQMrnjBbJSoVCnGKmaaTJe2OUB9OnwxCpT+KM8MfQLOqATIvfbRwyukDhlQb8LL0TFHSp9f1tzvEGUSqmnatkJ8PdRbGHKjsQ8lvOw4AQUc4xqhMcjq1mnez8kQbnncmTlCZZwg9J0H8h4mH5FrNQxACCwKfiJfsxTCAPspuuAm2dNlYhB+XxypkXMDnaW4jnKyG4qn4ZG0kgwpYrAVpjVgXS6bHvX4SvQ+k39E9i18AohANweMJ7ds4rch3IAq+QWaa0jWY6a2h6hgr;JQdcG8q6BnDjAKn0LOyhow=="
 ---
 
