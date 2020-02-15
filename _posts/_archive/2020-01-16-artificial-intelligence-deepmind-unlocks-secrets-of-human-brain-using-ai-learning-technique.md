@@ -25,6 +25,6 @@ images:
     height: 1875
     title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
 
-secured: "AsNdNW/gFUx4vxnINk7qcSe8VFGEpc+MN9BFpGEFUawInbQ7/e2WXW7OWRa8//WIX6ttWo2v80tITV0htaXXz6O0E5BX3vOhMF7B+lEhPj8RdQtE0oKLSiig5+iOjedJ2FNJLNdX1YWLC276yGNIixqvFPQbaOOCDV0ZdzyizvzgC+4RG2GzgubAlTwUp5yNaYTxlalGYeyzK2DOHSlj66RTKQgqV3qIhWxjeyYjbIabp/irHpPXAtBKo2L+cjh3Ks/mdrz3j30QyFvDaHOFizgElfcDWZRnityXkH2ZrgRIg4da45z8hnqRUN4U3Kx9;WCG2b30Fy5Lb3MoGN8lsqQ=="
+secured: "qwzpsS22vaaFEjG+CH/+4urNd7XWT+EiWGAbwdasClDBNl29fPLexp4vlD5ZwEQrEu7t+VWE0BB7pJFXexW6POVp/6rUFklzbW+28KgrtGorEzGKhN0y1wQkQeZa5CcBCqry/sjwwoi5b02fnBwrOZhEujOsZ3t6jeXOciBaeAEUH2rd/s/R9XTGdlO81KZrVRrw7C3UvzumBu8qFteVy26upNGdzWw28kM0JfHZezvd0iN+CmmVg3/03R8SrEFpjGh7ZlCmqjauZ/ycu8G0n7p1E1AcPpmaNqvqnZLS2f6Qr0njbAfZAkWMrleUEL8f;VCb64KjVn4O0ugf2T9QOog=="
 ---
 

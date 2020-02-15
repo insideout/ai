@@ -91,6 +91,30 @@ related:
       - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
         width: 700
         height: 394
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
 secured: "drljDwvjwGXopSzUTm+aubX8EqR/DfLXZkC5UFBr3+xOnJhTv8/oVyMWYoHQtreycrIaHgS21KCOOaXicg8pZt+nv31AuFqusP0XJBgClGNyvZizRGopboDywKJfPZBXGooh4L/LA8rg4RtoIJ/HUdDjWBgo0vFDYyFgzEDflhWudP+VRZSINjcmECUKKdvkWMN+LQkIhnhrWDpG7pZbP6ai3nD04lSJ13WPH4abvcXa/LfWsUJhcYV/Y/24DD0VYi+1xXjiAoiHwlORJQYzj+QtnQZm9pKZt5aLkYG/Sp6abc4jgaaDwO1t9RlNmw8bk+qGsqBAfjbEr7HD5hiMNKgosDWJrsweihS7nmoWFk+L7UysQZpaU2IzJzDVEibE5XrLS7EktiHs//lhtjrqTSXfQKr5o3m58wkFS72VtZkLei04EMxbovjjvH56M+tRa7ysAMF2+1dBJBtcY8C+zYxFx9E4Xg5FIbSTNeLo/eE=;9dFCiImajm2WHnqWw1m+3A=="
 ---

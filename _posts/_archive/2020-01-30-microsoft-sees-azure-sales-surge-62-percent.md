@@ -4,8 +4,10 @@ title: "Microsoft Sees Azure Sales Surge 62 Percent"
 excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
 publishedDateTime: 2020-01-30T09:13:00Z
 webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
+ampWebUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -26,8 +28,12 @@ related:
     provider:
       name: BCW
       domain: businesscomputingworld.co.uk
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+        width: 320
+        height: 210
 
-secured: "zxwFAogyk5wxPDK9y/yDNy1SsHqQA34cqudWTQC8ex6AcxE6hSQ0ywbyOQ7NWVHaVe09M906IbRRLl3d+/NgMha3jYWJ0e5itQ9GqzoO3p6l1TZYARrcuh11PiG5JrjU0JdGiBZIES4w4adxsv8HgZvH/gF8f/Ghikue/rGAKdr6utnkGsvFJG7BWYpc7kGZzrq/nPtDmhCBYs8GSSasJfiKUUiFK1zqzD2cT26SUCIlIcaRn8D89wme7sFZL1dlCeIMSXNoi6dMZqpRsGrxbYSwTdFHrqYqQK2D7HeIflvQLLJAvLZg5sIkzlUJVRQ7;8I71vqlW5M/sOHQNSo5vOg=="
+secured: "3R458tQvqcNDwGJuyW2qx/tWYtPn6MvXBJiAxzK6pkNuEBfFrDjQ/PW9iOHXTtKBBENJwZk2uBTxNaWaB0IXJ++rZBVb39ya15XGmSQZfH51cqIlG2elUseTWWppqwAe9hX4qG4zUUfU0ThtskYci4j321dr/QLAtEN5R8YLgVJPC80vIT6BAV77tX13xsMTafk8+ASNVuN0FWDsBm7cm2S5hfYD/yh481o0JE+x2AX5tAqWV6iV1Fit9D1FdtoIWLso/JLZJ8bY+KsjGz/dDWZXpjjgdjZe4PAM4L0LI5aBl2Ddayz24bB/Nbi7Fn+d;r9ds31BDOwoCRv6ZBOBWmQ=="
 ---
 

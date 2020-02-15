@@ -76,6 +76,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "3yghODWtFPA9ZYDrsGyTlGcxlpOHEm0KhlLCBBnK2iP/rL02Re+vF7lXqlfJOUm3amNHatl78N22Yq/JCZQpbkot7UsemuHQ98NG+58MN3dacWz6//EEFIEvo2U4WWCGQLDbsgGJ4+CegHXxfYrQbV2gOW+f71fWBlB2LwGFg/bHvb0NL82GBQ1lg8ezxZNRco351mTeqfX2YDzatoNmxsUKlwAhusgS4b3J/fRts8sCFqDR6orKjJzq6TLN1h20Qkfa79UhoKVDrHJx9hL5qZUhXU1qnbnxGBUXz+NdNF/Ld7RJI5cLEeCjgmxR/7jJ;xBgWYPfn0NLCpUVlbx3qtQ=="
+secured: "PaGXcqq53qQBp+R6RSPYtzNwVEz4IX+hEHIEYihCWpnePB4iBSgr3HmnQi7NA4xJFOA6FH4D1TNdJ6uTMmVGfO5nHNRbb0cXYbeAkpe4r/ya3IiFf1pLYFBhk9F8nnuQTuTwp1oO21xZonwS29h6wHwwrlKHwZ0mUTZBdFIQbr6fYyp7mbjVdTRQJI9bLVpCgyGpcnCMcgY6wgJt6u9Js/u5QaHU1XMhEIbHlxY1+BVln0DNvwa7NkBgIa05XMhT1VfSK0D3fmj5mcirhi6HOh/OgQ3XsdrtQTCawebh+kMEN/3pZl066rkVh/F/wNS6;cT9a+DFgCoMeL6muFCOOTw=="
 ---
 

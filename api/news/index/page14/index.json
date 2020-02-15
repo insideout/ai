@@ -2,87 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-18-geekwire-podcast-apple-acquires-xnorai-microsofts-bold-climate-plan-seattle-startup-trivia.md",
-      "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
-      "excerpt": "This week on the GeekWire Podcast: Apple doubled down on artificial intelligence and boosted its presence in Seattle with the acquisition of Xnor.ai, an Allen Institute for Artificial Intelligence ... but it’s also an example of an ambitious startup selling to a tech giant before it has the chance to become one itself. So how should we ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/",
-      "ampWebUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
-      "publishedDateTime": "2020-01-18T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/geekwirelogo121518-1260x1260.png",
-          "width": 1260,
-          "height": 1260,
-          "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-18-how-fractals-trial-run-uses-aws-to-power-ai-based-decision-making.md",
-      "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
-      "excerpt": "Akhil Behl, VP, Artificial Intelligence and Machine Learning at ... When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making",
-      "ampWebUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
-      "publishedDateTime": "2020-01-17T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1579263492635.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-18-how-to-build-ethical-ai.md",
       "title": "How to build ethical AI",
       "excerpt": "There are serious ethical and societal issues we must confront quickly.",
@@ -2150,6 +2069,96 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage.md",
+      "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
+      "excerpt": "That’s why a team of researchers from the University of Texas and Facebook AI Research investigated in a paper Ego-Topo, a technique that decomposes a space captured in a video into a ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/",
+      "publishedDateTime": "2020-01-21T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/df0f4b81-fa76-42d4-bee8-2b4c4e8cd50d-e1579627646898.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition.md",
+      "title": "Google and Microsoft spar over EU plan to ban facial recognition",
+      "excerpt": "(Reuters) — The EU’s proposal for a temporary ban on facial recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/",
+      "publishedDateTime": "2020-01-20T21:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/sundar-pichai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google and Microsoft spar over EU plan to ban facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

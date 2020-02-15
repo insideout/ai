@@ -50,7 +50,7 @@
       "path": "_posts/2020-02-01-big-brother-facial-recognition-cameras-are-watching-you-more-than-ever-right-across-britain.md",
       "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
       "excerpt": "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ...",
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
@@ -309,51 +309,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-01-the-future-of-fintech-ai-blockchain.md",
-      "title": "The Future of Fintech: AI & Blockchain",
-      "excerpt": "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.businessinsider.com/image/5e305ac224306a476129d512",
-          "width": 400,
-          "height": 224,
-          "title": "The Future of Fintech: AI & Blockchain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -1352,7 +1307,7 @@
       "path": "_posts/2020-02-03-how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai.md",
       "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
       "excerpt": "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ...",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/",
@@ -2118,6 +2073,50 @@
           "width": 1024,
           "height": 576,
           "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-camcon-explores-diesel-and-ai-calibration-for-its-digital-valve-train.md",
+      "title": "Camcon explores diesel and AI calibration for its digital valve train",
+      "excerpt": "The company is working in three directions to push things forward: it's building plug and play valve train kits for a range of common single-cylinder research engines, it's opening up to the heavy-duty diesel (HDD) market, and it's assembling a machine learning team to start applying artificial intelligence to the complex task of calibrating ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/",
+      "ampWebUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
+      "publishedDateTime": "2020-02-03T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/257812a/2147483647/strip/true/crop/1619x1080+0+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Fcamcon-digital-iva-valve-system-4.jpg",
+          "width": 1160,
+          "height": 774,
+          "title": "Camcon explores diesel and AI calibration for its digital valve train",
           "attribution": null
         }
       ],
