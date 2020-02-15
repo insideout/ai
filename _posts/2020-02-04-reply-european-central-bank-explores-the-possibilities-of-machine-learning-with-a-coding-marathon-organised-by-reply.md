@@ -2,26 +2,20 @@
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-publishedDateTime: 2020-02-04T10:24:00Z
-webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
+publishedDateTime: 2020-02-04T10:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200204005137/en/REPLY-European-Central-Bank-Explores-Possibilities-Machine"
 type: article
-quality: 16
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
 related:
   - title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
@@ -66,6 +60,6 @@ related:
         width: 400
         height: 225
 
-secured: "KwPtUvZai7n/pHM6tSP8cOfT9NUmGHZhDB3WV5Oc542Kg7nXjD493tWHwQldSgOuVt60CdSgzoXhj6OzjJ41ceC3kclNDLiPlkNEo8DY8NE31XbDJS4eoSCb1il4itCvwoRL5xBL1L3NFuKkb7yyd0L6rZuCDupuxsr6hU7faUYSoETx7K0vjN4mMDN1dzIgHRyaM6ZeE+9pKgX2ncDY37LEA94xTSGl6hUbEd7cDhQvX0w+CBdGyFPTnfsaXCzEzLP5sFPSxMi6f0waeNpy73xXLwL80WILLMRYwpHzyt44S3WF+gtS6QqfhBVu2OHA;CJZ/1PdZqaTrWpKsXxtbUQ=="
+secured: "kZFnC8eISrUqjpv4LfXR0FlLt3Gq3RgrUWhbTa1QXz1WDoYMBed96WLgPQ/oIRWk+Dhx0f6s/h3U7EVoPGCr+5PqyEHlCdJ/tU1X05rtCsBFH4ZWD1q2BPL/u4A1/sx4mZT6BINWX4ZlPcCs/T7wrC4E7MAOpud+3E/lAkugEpR1C3gOXicI+L6nEMETRBXOAAy90/b/2+RURXVIgBK9HWMKv2Y5wqv1oYCJY57oqbXS6XzxEjrv3JBvsbLML4uwDnGmp4HqeP6/UmkmBIp6xmUrzB3FFwedHtf+LdjeU0Uh0Dod6a06d/L2+ce93l3C;kOnee+gFmgZmvyiW9BlgVQ=="
 ---
 

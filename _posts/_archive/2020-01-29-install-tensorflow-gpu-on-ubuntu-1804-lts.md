@@ -27,6 +27,6 @@ images:
     height: 413
     title: "Install TensorFlow GPU on Ubuntu 18.04 LTS"
 
-secured: "z+cBpbLm0Mi40AQZnxyVP9dTU9LXok5pP68CDgI/PPptICRColiZ55mBY0SSOY4NTBkRLaNyE+l5w9I7Gz9lh9pypM6U8KKXR9Mbjfhh+eZVhk0YxGrvSc+KifULn7NS/or37lkvFurwAWZsEeXHeQiOabk296BeGCy5MPCZLtlBcAvtvsPH7VsEfrzT9JJIERDdMoAmpc5KkYzD/t/Om+AhgigTu60w6gYy6+HDgi1zTDF5KfJsYlxBff9g2exW4AWX5+vJnZIXKpk1gNNereRXerK6EE4PwJpLffOYAF+G9i8AzX8U2sKXidHo4zSt;xU7yTHpu95O+izDYbNTyaw=="
+secured: "V+JpmORxu6t0hgOa7a8vYlYf3gSwlHDL/hjv46xCsc4Tr5Mpka+ZjwjuF1RbbOCpo4doxF+9HCbOJRBiy81kfPsnKNuP86vXGecU+dUMBaCTwO3oqfIifjQcieXz6HCCK0ROn5GAHlLGg6XrTfUR38qQ7rxFziaE9356Eubky7xNqyzOMwITtiga0MEXZDnYh84FvlXrqX0yO6nVYtQmsUEzyV23TSi+f7mGn4Qt8fUPTp8hs5SOaDUV3xIVHjaxL8TbVJqYYFGfsbSCMXGyxcncg196MTrqPFDfOI0OeHOnlESgt6reoAFfbfwoh3rY;zvx54+WdAVY7SCJWyZJphQ=="
 ---
 

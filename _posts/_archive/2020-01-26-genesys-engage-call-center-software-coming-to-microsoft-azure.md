@@ -23,6 +23,6 @@ images:
     height: 210
     title: "Genesys Engage call center software coming to Microsoft Azure"
 
-secured: "kqpaHi1S1cuWxwbdv5D0D9Lug/sFQIPYZueEhwmNi+ZGJVZ7ENmk9nlXr/Nel2c0/BKIj4WPO1uEPUPXGRUEByEW+mSTEEGVorbl4CE150TOmdulmNBgZPu7v7ooOk0Kp7UkB5RoTuzzlKA+rwbfOofg3pY5+rEwr9oJlnZ8+oHfCa8asyOHef8YWVILmiMXSbDXGWg8Y6H+Nyu4UJGTV9n9/5lWz4ZMkDz1pyOHhfaxyUM7GaumpHJfVrHCM7bAPgKL0zBD3O1og8sNNeF9y8BdO+DBaTmX/spOXE/TYao74BcsvdN9FofmH5Wf4Us7;2d2jAvE4nYR+MVVmV8e/hQ=="
+secured: "F4r3/+LsbsJBeaXwu4cafeCkXHUVAUentdAqDzFcFpq5DTyyi5ZN6K36Yg6kjxVKv+s6ZexNr94scBjRLbqx86GYtodTGmcwYo/37UXaRDkale87PGpYm4/eGTRiJ78gZxZWHKs+rDYyJKV7aTWJA5rWnCrAxvwaeOIa1Oey7sVofnhEOFbC1x/8RmaTq9LfXtiV9SCuN3tLom5HRRpT6S5RAE397fG/59cBkbADx5FTRyBkEt58o7kfrYtcPTmiPzl1YsHubBHUlENe/LcB9O7F+4ALl2Q8FJ1j8/VnFBNQAQRoDa4I3CmmZPc2aaZl;xsa4zdXQFd7GtL3Q00sl7Q=="
 ---
 

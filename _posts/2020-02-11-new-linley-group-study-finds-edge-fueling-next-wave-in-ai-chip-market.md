@@ -1,12 +1,12 @@
 ---
 category: news
 title: "New Linley Group Study Finds Edge Fueling Next Wave in AI Chip Market"
-excerpt: "Deep-learning accelerator (DLA) chips, also known as artificial intelligence (AI) processors, continue to proliferate to meet rising demand. Adoption of deep-learning applications in data centers and automotive markets has been substantial, but the past ..."
+excerpt: "Deep-learning accelerator (DLA) chips, also known as artificial intelligence (AI) processors, continue to proliferate to meet rising demand. Adoption of deep-learning applications in data centers and automotive markets has been substantial, but the past year has seen more robust growth in edge devices and embedded (IoT) systems. With new ..."
 publishedDateTime: 2020-02-11T14:21:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/11/9095863.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-new-linley-group-study-finds-edge-fueling-next-/2020/02/11/9095863.htm"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI Hardware
 
-secured: "MW5YToDR4ZsR1IufYNhUvnhq22SfzDlHDdhXu8SS8zC5M68+MoFBi05tvgsdNwV9RivX4iFfwaUss2dWOSBeZfGgzxbZRLXAfEeS1KV6MIWULIKU7t026aCNdgLnnqT/WSw49rbJju2APfDKeh5Fs0c9CCwef7caHBz0k3w9nbDJc4RK+XI7AFv93ta9BEWuwpj2jV/FduAcpncao7VGDCxLzlDXC01ltUtAptiPaDKNvI2mweAF9vhT5pq1d/f3x4o77+szQoLr7t0Bnkp6xzFTk8XPzuR81PTYzAW46fkWReTzRicY4tz7kj7FWVa+;uBRWn5qWA+5AS0UsrgQEVQ=="
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "New Linley Group Study Finds Edge Fueling Next Wave in AI Chip Market"
+
+secured: "mRh+/0NE5NmG7IaGwsfYSgc/3lLETOIZkmuE2JzbUsv8hPhUUao0v5zER3MZsYrI4KO5Q4+Oeh7cjeNgAm4yWsCG4T2FYzlrwtVWHm0q6izNJ4wWaktUB70Szb+j9RG5AgRB2RWYeEHNlNmAclXDFj/0t2VeycaZV0rqaDlVCBTsXuTxKDfiEFRqrqT9wMTC+q/sSohF7QX3wenM9FLvP0U7725AchPutXiLf8JFNWT4+FTiBI9wrSs/RoWNdRNvm3VszePZmwCKeQtxMVLxJQnI2jPXjF833v4+BNLPK4VLo5efyN2PTo5KxxqZEXsY;2CYU1Yj2B3oY24vAWMNYSw=="
 ---
 

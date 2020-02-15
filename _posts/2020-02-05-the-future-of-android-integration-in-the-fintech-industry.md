@@ -52,15 +52,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
         width: 1199
         height: 628
-  - title: "The Future of Financial Services: 3 Technologies Poised to Change Your Experience"
-    excerpt: "But financial services companies today are already well on their way to changing this experience, and three technologies are key to this transformation: APIs, adaptive intelligence (AI)/machine learning, and blockchain. These key strategies involve leveraging large troughs of data so banks can become an integral part of the consumers’ journey ..."
-    publishedDateTime: 2020-02-01T02:16:00Z
-    webUrl: "https://www.finextra.com/blogposting/18394/the-future-of-financial-services-3-technologies-poised-to-change-your-experience"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 0
 
 secured: "lwQ0QwpT86qn4sJrT9SHsWmun8dcVF8S3XsANoRTmZwGphP8aLJY/uYOKbPrG1iA36fmDvTQyMplTuNLWJdCsmbpgvRBOboA5XUWe6jhTyefWrcRGIME9oocGDi+wDlmdKnTOZXa60cdYK1Cc5QTYvVUo7s5jUaeahYy5OPh1O0VT+mGvVil2qZnOZARBtSa//FD2669ujMOgyU18fQKqtKcH3Ni0rMrmiQim8egiLOTG41TXJFBhIg41/rixcuuFD7VziyFDws5tiiVwgnVQT2au8uZ+wpkbswZtY93183BoYK2eAEPmROgoqkgHYoDWDdYsJJIxiBhNSPh6xcZGRL3M1C5pp5N/OE+tvvHRWWaQr7iicnrcYYWne27fsuBlFVP3lFZyg1TxnwnydOMk83kkeUlNoVDrdyIx0M3grU2+HEEj/PLHVErFyHmjISlkrxyqSN3sgE6Xbt8gI9yJJMG3n1w+PLssw8/pI3Tv8Y=;gVSYl9ukrvR/23k4rdmkaA=="
 ---

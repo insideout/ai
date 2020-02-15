@@ -101,15 +101,6 @@ related:
       - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
         width: 980
         height: 551
-  - title: "Facebook Shares Drop After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook has settled a lawsuit over its facial recognition practices for $550 million. Originally filed in an Illinois federal court 2015, the lawsuit’s plaintiffs were represented in the class-action by the Edelson, Labaton Sucharow, and Robbins Geller Rudman & Dowd law firms. The suit against the social media giant accused it of violating ..."
-    publishedDateTime: 2020-02-01T01:24:00Z
-    webUrl: "https://hauteliving.com/hautelawyer/635121/facebook-shares-drop-550-million-facial-recognition/"
-    type: article
-    provider:
-      name: Haute Living
-      domain: hauteliving.com
-    quality: 19
   - title: "NY Senate bill would ban police facial recognition technology"
     excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
     publishedDateTime: 2020-02-06T00:26:00Z
