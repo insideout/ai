@@ -24,121 +24,34 @@ images:
     title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
 
 related:
-  - title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
-    excerpt: "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ..."
-    publishedDateTime: 2020-02-11T13:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
+  - title: "GEMS Dubai American Academy launches center of excellence for robotics and AI"
+    excerpt: "Dubai American Academy has announced the launch of its new Centre of Excellence for Artificial Intelligence and Robotics. The vision of the Centre of Excellence is to promote educational and research activities in the field of AI and Robotics. GEMS ..."
+    publishedDateTime: 2020-02-01T23:53:00Z
+    webUrl: "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai"
+    ampWebUrl: "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
+      name: GDPR fines
+      domain: itp.net
+    quality: 86
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/1w7EjZRDn4rDOY8DsJ_aggz42gg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66290964/jbareham_170417_1617_0001.0.jpg"
-        width: 1400
-        height: 933
-  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
-    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2020-02-07T18:22:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
-    ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
-    cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+      - url: "https://www.itp.net/sites/default/files/itpdotnet/images/2020/02/01/PRL--GEMS-Dubai-American-Academy-launches-Artificial-Intelligence-and-Robotics-Centre-of-Excellence1.JPG"
+        width: 2550
+        height: 1663
+  - title: "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration"
+    excerpt: "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ..."
+    publishedDateTime: 2020-02-07T21:42:00Z
+    webUrl: "https://www.therobotreport.com/center-robotics-biosystems-northwestern-human-robot-collaboration/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 77
     images:
-      - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-  - title: "Chinese firm working on facial recognition that can identify you under a mask"
-    excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
-    publishedDateTime: 2020-02-11T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/"
-    ampWebUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 66
-  - title: "London police deploy facial recognition tech, stirring privacy fears"
-    excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
-    publishedDateTime: 2020-02-11T18:01:00Z
-    webUrl: "https://www.dawn.com/news/1533822"
-    ampWebUrl: "https://www.dawn.com/news/amp/1533822"
-    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1533822"
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 59
-    images:
-      - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
-        width: 800
-        height: 480
-  - title: "Raleigh police stop using controversial facial recognition technology"
-    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
-    publishedDateTime: 2020-02-12T17:54:00Z
-    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-  - title: "Met Police begins deploying live facial recognition cameras in Stratford"
-    excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
-    publishedDateTime: 2020-02-11T11:37:00Z
-    webUrl: "https://www.computing.co.uk/news/4010475/met-police-live-facial-recognition"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 38
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
-        width: 370
-        height: 229
-  - title: "London police deploy live facial recognition technology, stirring privacy fears"
-    excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
-    publishedDateTime: 2020-02-11T18:47:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2020/02/11/london-police-deploy-live-facial-recognition-technology-stirring-privacy-fears/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 35
-    images:
-      - url: "https://www.hawaiinewsnow.com/resizer/5WPDfcRoZsIEZzSuFgW7EurnGtA=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/52R5YBRIHZBEHP5HNAANYUWTEE.jpg"
-        width: 1200
-        height: 675
-  - title: "London police deploy facial recognition technology, stirring privacy fears"
-    excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in east London."
-    publishedDateTime: 2020-02-12T01:13:00Z
-    webUrl: "https://www.pressherald.com/2020/02/11/london-police-deploy-facial-recognition-technology-stirring-privacy-fears/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 17
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
+      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/cooperative-mobile-manipulators-1024x683.jpg"
+        width: 1024
+        height: 683
 
 secured: "8U6xeUy3qEbpC4zNTIHeL6E7g5Sg9QJEmOfhUFWzqqrYuXz6VDltub6V0k+7jUK9J1gi+HDusLnOJp9dyfMv40Ltc8hHHIFnNG5uB7b/aKI7ZKHQvh+xyWB3zi1SRoJAKOhwucP7zi52ygzUeEe7jb8Da+pgN5GV4WjT0zRSOEmeFWU6V2ophDh2e9IUHB6e9gkpmSfHVPMmu1crPKf+BNX/F76HICkumG28+VOUz/hEZI1DJ53rDi+yvEaVlNAQW2quVxAPzykT+Pv0QpacD63Fd0tZ0t7dahVePnSFrjkcAfQAjHZ8Rd6jyVaY/QjJrPt0ao69m76nCGFC0f8tnTyGEXomarRyTqjJQ8ldEuz3nLyxVVDapJNfzgou74FtNJB15WsomuidCJJaZVmUfhO/8nsWBTtHEtLZcBtCx9sPDavUvQCihwtLCLY88bu3ebwwVXd871m/INeS97Xggy6BvomQx4rUQcxCH67wpeQ=;mOBPe+9bnwMjEtvqH1/0cw=="
 ---

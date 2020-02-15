@@ -38,18 +38,18 @@ related:
       - url: "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
-    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
-    publishedDateTime: 2020-02-13T18:50:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
+  - title: "How smart kiosks are using facial recognition to bring a dose of humanity and hospitality to restaurant tech"
+    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience."
+    publishedDateTime: 2020-02-06T17:27:00Z
+    webUrl: "https://www.nrn.com/fast-casual/how-smart-kiosks-are-using-facial-recognition-bring-dose-humanity-and-hospitality"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 20
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
-        width: 400
+      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
+        width: 770
         height: 400
 
 secured: "pD8+THHvAB5325e2nP7pN+hGJ4m9GpSrbg21zeV25F9oorPsZZ6yydPku9L+8J87sijlrhslRjbQIm1b8q65CbxbJA+UB6KAcpU3WDLO4NU8ON2N0cGt2mPlVbmaL4DWOW2b6EtaEUIswCE1WeMDam9WysupUeSdopPm6PveiUEWRXDM1U+Ra6zdwg0UbJ/2PRA3cxGdXC3oh/zsd9Kux8JfbK6VnnP0BpbBRHV+vi5KBA7M4d4p4ilKP/wknbFtMp00/QyT/kNolWqNEwbPw0WgfMZUTYtmmpOKIcEDH7bdoU8maqazFIjlvowpmTfe;QHPgQCvoM+q7J0CO+d0pBQ=="

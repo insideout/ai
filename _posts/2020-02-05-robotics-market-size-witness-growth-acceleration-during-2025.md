@@ -40,15 +40,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "Neural Network Software Markets, 2025"
-    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"Neural Network Software Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Neural Network Software Market was valued at USD 8."
-    publishedDateTime: 2020-01-31T11:16:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1978041/0/en/Neural-Network-Software-Markets-2025.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 19
   - title: "Artificial Intelligence in Cybersecurity Market to Witness an Outstanding Growth during 2019-2030 | Intel, NVIDIA, IBM,"
     excerpt: "Latest research report on ‘Global Artificial Intelligence in Cybersecurity Market’ delivers essential information ... IoT devices are used extensively by the healthcare, finance, and infrastructure sectors. The increasing number of connected devices and the growing need for the IoT have significantly contributed to the growing demand ..."
     publishedDateTime: 2020-01-31T12:28:00Z

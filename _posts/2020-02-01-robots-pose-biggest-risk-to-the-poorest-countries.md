@@ -39,19 +39,6 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2020/02/Gavin-Els-2020-IIN.jpg"
         width: 816
         height: 459
-  - title: "Robots Pose the Biggest Risk to Poorest Countries"
-    excerpt: "Consider the effect of new technologies. More jobs have been automated because of advances in computing, robotics, and artificial intelligence. One consequence has been the hollowing out of clerical jobs. Displaced employees end up competing for positions that might have been considered below their pay grade. That depresses wages more generally."
-    publishedDateTime: 2020-01-31T11:10:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/30797-robots-pose-biggest-risk-to-the-poorest-countries"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0131_RobotsPoseBiggestRisk.jpg?height=635&t=1580447222&width=1200"
-        width: 847
-        height: 635
 
 secured: "YXJpEVmtrwCnEHJ769CPf7yg/zE4wEBSFl1s5fS8INLpyZbZa4+LbwYJZ8kmWpE/s6Qrw1LrhDuLTEW6+2O6eNZ7cTT9w6rUz+ioLXpa4pLaMR5UBc2C/FXPy4V90PHRSZNzPZ6NwDN0KudEzwMEdpvgLa6tgwGidTZXdTTnxQwTKCuDQqvcgmQqy9MaOy+UE830LjEKrZk3NKLha/zxAA790YCfpw1tBy4Zf3Ep0tBBMl732ltKSotUWBaagcIJrMEr5QAn+PDYOto4Jd6bLzOR8Q0X2PG1ORAE2yFU3fIDJClRCschkskCx5DH0qWf;iiOc+Nnz0im/r38pVpCiqg=="
 ---

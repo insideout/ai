@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-04T15:58:00Z
 webUrl: "https://www.therobotreport.com/nomagic-pick-place-warehouse-robots-86m/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: The Robot Report
@@ -24,21 +24,6 @@ images:
     title: "Nomagic’s pick-and-place warehouse robots raise $8.6M"
 
 related:
-  - title: "AI Helps Warehouse Robots Pick Up New Tricks"
-    excerpt: "a startup developing AI technology for warehouse bin-picking bots. Covariant.ai has developed a platform that consists of off-the-shelf robot arms equipped with cameras, a special gripper, and plenty of computer power for figuring out how to grasp objects tossed into warehouse bins. The company, emerging from stealth Wednesday, announced the ..."
-    publishedDateTime: 2020-01-29T09:00:00Z
-    webUrl: "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/"
-    ampWebUrl: "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
-    images:
-      - url: "https://media.wired.com/photos/5e2f1b2fad484f0008ab9102/master/pass/Biz-A%20Covariant%20robot%20at%20a%20KNAPP-powered%20warehouse%20Obeta%20outside%20Berlin_.jpg"
-        width: 2400
-        height: 1600
   - title: "Nomagic, a startup out of Poland, picks up $8.6M for its pick-and-place warehouse robots"
     excerpt: "Now, a startup out of Poland that is widening the scope of what those robots can do ... While some of the earliest implementations of the principles of AI were indeed on robots, these days a lot of robotic hardware seems clunky and even outmoded, while much more of the focus of AI has shifted to software and “non-physical” systems aimed ..."
     publishedDateTime: 2020-02-04T12:20:00Z
@@ -54,21 +39,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screenshot-2020-02-04-at-12.06.08.png?w=1024"
         width: 1024
         height: 691
-  - title: "A warehouse robot learns to sort out the tricky stuff"
-    excerpt: "Standing nearby at the Obeta warehouse, the California engineers who made the robot snapped pictures with their smartphones. They spent more than two years designing the system at a startup called Covariant.AI, building on their research at the University of California, Berkeley. Their technology is an indication that, in the coming years ..."
-    publishedDateTime: 2020-02-01T15:25:00Z
-    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 59
-    images:
-      - url: "https://www.baltimoresun.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg"
-        width: 1200
-        height: 900
   - title: "A warehouse robot learns to sort out the tricky stuff"
     excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — from clothes and shoes to ..."
     publishedDateTime: 2020-02-02T00:08:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
         width: 1280
         height: 640
-  - title: "Internet giants reject controversial facial-recognition start-up"
-    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
-    publishedDateTime: 2020-02-06T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
 
 secured: "brL+7Qpe6AyB8Al9NiQrlo/qgl/P36EUtm9MBT75IqwPwPqHH6YeXyXTlOebHpBl25oTOXgTb4cEywsGJR6Fof+Uqk+3ElLb65Be8g2mnqyJfvnPQzQmr/iit1YUuA/NUVh7wtN/VkfsOjhEbFJFf4kUKfa3DeDSryHaExqrF44eFWRacVMFaJoWSxaDwiTuGhyuxrHNfUyuF7yPN9Lbxo/hctnch9c9/J2QTW0MIf+shigasmjnj2MbtlwMzP8AeqARN6ef+w3YZmqCnzG5z0gAZ0KHrsrHDngjmW3bW5KLPVfFezkNL+IRhYDxCFoh4VH21SYZldB3baFmuPSKXarj9ymzjDv4gpYvvOhYiVyYrjBBGaa6KaEgj7qs7CIJJIyDbYhP9hT7ViWVy+gGg0AtRPPAcrgWg/99woykTbLV5LwEFyCknOldCETjYxGIGTn5eeM+c26sc7a2iwQqimvwlSV6lJk/s6XCX5m1qTk=;HNaTQG4KReOScK/RCeoEvA=="
 ---

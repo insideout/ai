@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: Forbes
@@ -29,21 +29,30 @@ images:
     title: "Executives Report AI Investment Up, But Implementations Lag Expectations"
 
 related:
-  - title: "AI: from experimentation to adoption"
-    excerpt: "has adopted IBM Watson and IBM Cloud to develop Ava, a new AI virtual Help-to-Buy mortgage adviser. Ava helps first time home buyers onto the property ladder by offering round the clock support ..."
-    publishedDateTime: 2020-01-31T11:48:00Z
-    webUrl: "https://www.techradar.com/news/ai-from-experimentation-to-adoption"
-    ampWebUrl: "https://www.techradar.com/amp/news/ai-from-experimentation-to-adoption"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-from-experimentation-to-adoption"
+  - title: "Fintech's Consolidation Creates Investment Opportunities"
+    excerpt: "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,"
+    publishedDateTime: 2020-02-05T17:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05"
+    ampWebUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg"
-        width: 970
-        height: 646
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1823106049"
+        width: 1024
+        height: 512
+  - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
+    excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
+    publishedDateTime: 2020-02-06T09:44:00Z
+    webUrl: "https://www.openpr.com/news/1920717/just-ai-a-conversational-ai-solutions-provider-receives"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 3
 
 secured: "QjUBStbVaQPy5ShglcCIVP8XlQ1gI+2JTa0b1WffTlBfTN2BYaqUC+SQ+KSDsTA1aCQqkcbIDAg09EdGcczp4D0ymNVQu6MgjUYZTKDM6v+Q8MMlyiKiNPAVVHNdReM7TgiJSTjn27wsdpDO8P+B8MxPBdyLxGsOAXXo0BMNx20m5yfRjXqYwbEFdZF7FwnKp35iasZsZmaKtIVCwKRXakyn19uA4quKc/DHCnLJ72vgcGcypVboGCevLyOOfFfs22CRnfLtyOYveAFGWEcHGhrG/tgr6WObSw40hMJ3LY14gJlgfYaAx83BLtjgalb3UtNoAa4Ja0ykaOOZAkU/PbGHyvj46gEMSxdJYJAYm0737uuoPKiQXI/3/cQOVqDtW+US5Y3UeWXT1fYXfQTvOCdURxqOlx+t9GVPOVQz4xjtg89BO11OFwzqbvBiApJkuwuYfhVZo9xT92yJ7TCltHz/+7xWXgrbjqCfMKRzvQk=;bIeCPNFM3RDOQeha2s2Tuw=="
 ---

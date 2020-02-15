@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Army developing binoculars that can identify far-off faces in the dark"
-excerpt: "But as the Army develops increasingly advanced technology, its enemies are also getting better at hacking into these systems, researchers said. Hackers can cripple facial and object recognition systems during development, said MaryAnne Fields, program manager for intelligent systems at the Army Research Office. The Army recently funded work by ..."
-publishedDateTime: 2020-01-31T11:53:00Z
+excerpt: "Hackers can cripple facial and object recognition systems during development, said MaryAnne Fields, program manager for intelligent systems at the Army Research Office. The Army recently funded ..."
+publishedDateTime: 2020-01-31T11:49:00Z
 webUrl: "https://www.stripes.com/news/army-developing-binoculars-that-can-identify-far-off-faces-in-the-dark-1.617023"
 type: article
 quality: 24
@@ -23,6 +23,6 @@ images:
     height: 506
     title: "Army developing binoculars that can identify far-off faces in the dark"
 
-secured: "TmgjwUXHpAlqzcPwNkqizfE/08kqoysJYK5haiJonR+z8hLJ/twLx1SR6DY+zkbdLhOTQY/1nkM8fuYEPRm3w+D3tX/L+N+L/9Rj2q0xjXq1uTGG5qm2ialIHv3nwzv7nX3fzhKee/gnraa/n4oKNcH53/QkvAAqxGsI7QaEqh7J/V5vG1jYoFQ4hIsfRAYQ7SS1XJIb9WJe5rUdUDsmNz4kClfTUpWqKPc9WMv3YEdHC7zQ/YBmYqTe+PhZCxkF/cjZndkW/wwr434nXMjLa+4MFh43/g5ppXRkopXPcTNadfVQw8jPyXS/R919ZwgBVo3TpRnjr3R3fwYARdIyth2mmUNBTLnSM6PxayMLQ31myvVbgptPPl20vo00zLSTwEO5kNvIudTIqhlQg8ni5ua5qz47jBFUi1XvxnB13neL0pb0nKe7aN2MCIP30Eo+soucPKgnGX5yL2PP8+MGUe0esFkKgHXAkFEngHQb50U=;Ml6IJhrb8epwVdIqPxmPIg=="
+secured: "J2pCbQcHu+z+Iodc0gYM1XHm7UEZjlLQtmzg37vt2P3AOcD0H/p7e0rk2Drrf/7Feo1IIWsgCW7tC9bkd2bfa7gJeeLaezC5q8cWEKVMNeypnpNIf6fTRa8NIjBskv8gA9TKkF3ih2bP8AGc/5huIY4GMv592bEDtmPR3zAyBa2nHROlEK/Xmqqwg4DrV7vtfRhf4pVr1VSZw8WqyCen4f1xYvYkmxLae+Q/ZdmtSQhAWvwalkoOd4OsfIWCK3AFuPr8VTMB8zL7ktsKZegPUq6qcXDntsBk16CuJXUxgYU7OC6WHn3Af8F/rWNXDp9C;VN42ylOuHTFz6Yt9a7bEww=="
 ---
 

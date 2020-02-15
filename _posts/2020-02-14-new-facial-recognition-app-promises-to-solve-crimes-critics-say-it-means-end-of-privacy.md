@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-so
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
 type: article
 quality: 80
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -30,19 +30,21 @@ images:
     title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
 
 related:
-  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
-    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
-    publishedDateTime: 2020-02-10T14:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
+  - title: "London police deploy facial recognition tech, stirring privacy fears"
+    excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
+    publishedDateTime: 2020-02-11T18:01:00Z
+    webUrl: "https://www.dawn.com/news/1533822"
+    ampWebUrl: "https://www.dawn.com/news/amp/1533822"
+    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1533822"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
+      name: Dawn
+      domain: dawn.com
+    quality: 59
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
+        width: 800
+        height: 480
   - title: "Brazil takes a page from China, taps facial recognition to solve crime"
     excerpt: "In much of the world citizens are speaking out against facial recognition technology. Brazil appears poised to embrace it in the name of security."
     publishedDateTime: 2020-02-11T14:44:00Z
@@ -65,21 +67,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
-  - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
-    excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
-    publishedDateTime: 2020-02-13T19:29:00Z
-    webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
-    ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 34
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
-        width: 625
-        height: 305
 
 secured: "08eyrW0xX8S7zJMrWWywMfIrKdYYhjoqoDmfcPI0TFUlm98LlbfQT+IkMZsYaCFHahvqwCPPdiVRIMfCybeK94NsaXhWXo1TP8bZwn/D+wJXTWoogMccYjx5R/PtgGXSlw0IVtgCv3CKwsezr91yyWFDxbYNWLyuhHNmZNS9VQfS2HNx3v9dbA/rdOvjHBVKF+NCaNamQIYnugnFgvQX50Z1jtbTfwTJPIXhImtzMqd7Hj8zLLo14vsOeAkcDHvGDD8ITsYq8KDPVWFp4imBM5jGMqU3N4c6st+ascQsRWPtkLgBS0T8AqY2rpKEz253U9izPJ7KTHpbsdjtvf2fByJ57TPkMkRQYwhmKFmVJzjdOlLNaPiE/3RjAcXO7Vf1/Gf9lp7frTkSB7l6mv7j04n0/CJlZr70gGTDOEqsXOZualAEDXcj9N1xBDWrIRg9OSNW8sDI965anGPadjlPv7Wa4/GVghMab3jeuZg+SCE=;Kf9Hq9ii2Vut7IgUlgiZ8A=="
 ---

@@ -35,19 +35,21 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
         width: 810
         height: 456
-  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
-    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
-    publishedDateTime: 2020-02-10T14:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
+  - title: "London police deploy facial recognition tech, stirring privacy fears"
+    excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
+    publishedDateTime: 2020-02-11T18:01:00Z
+    webUrl: "https://www.dawn.com/news/1533822"
+    ampWebUrl: "https://www.dawn.com/news/amp/1533822"
+    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1533822"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
+      name: Dawn
+      domain: dawn.com
+    quality: 59
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
+        width: 800
+        height: 480
   - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
     excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
     publishedDateTime: 2020-02-12T07:33:00Z
@@ -59,21 +61,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
-  - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
-    excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
-    publishedDateTime: 2020-02-13T19:29:00Z
-    webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
-    ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 34
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
-        width: 625
-        height: 305
 
 secured: "T9Iskof5J7aAUNfQIPv6FzOeteH2k6RaR3A7THA+7bBWd7v/p8hRJiZzEYYB7Tjqnqkrs2J6EW/NnzVZJ+tZ+w38c0VbEwZOp89sbq1fpgBEg4ts7miMYZ/wZa4E+cP9FJHV8mI9yaXQGSOr80qukEtrLhXdAyh0IgMta02oNciWiFBYaNpIr3X/I3kpdfGCCTIH4Eu6hPb4Xic5kTZXTDfVKZS8r/qIY3giTwyw/kZh/Z8YsPZ8vCl+ErlGYAngQ7D7M5BA0n78kLJ4NbZ4QExtYSq2jaIFYSOdHOS6u7sECxZHhulMlxSzwJtrwgQR675xZNLBiCGBQ6p7F9s07/XJOwKBtZSNR/I2LuwtG3tp+WE0VM5iKJrsHhkLGpY+GeLwQ+S1AOP1C2Cn4IyhRsbCeSWsDPovhytyXjhuAz9wBHp+Hu0IzFA7Ok/oOHYKY2FDI3/DIfjRm6GEIzfRzFmG9q2Aj1HOiuPcnFwY0/o=;1Ogi/+SCBOSjYYJ41P91oQ=="
 ---

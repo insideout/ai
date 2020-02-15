@@ -344,6 +344,71 @@ related:
       - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
         width: 1024
         height: 578
+  - title: "Banks allowed to use facial recognition"
+    excerpt: "The Bank of Thailand has allowed six commercial banks to offer facial recognition for electronic Know Your Customer (e-KYC) technology to verify the identity of new customers under the regulatory sandbox when opening online deposit accounts. The six banks are Kasikornbank, Bangkok Bank, Siam Commercial Bank, Bank of Ayudhya, TMB Bank and CIMB ..."
+    publishedDateTime: 2020-02-06T10:46:00Z
+    webUrl: "https://www.bangkokpost.com/business/1851949/banks-allowed-to-use-facial-recognition"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20200206/c1_1851949_200206161720_700.jpg"
+        width: 700
+        height: 467
+  - title: "DHS to be grilled on facial recognition"
+    excerpt: "Another) facial recognition hearing: House lawmakers will press the Department of Homeland Security on its use of facial surveillance as the technology remains under fire on the federal level and has been banned in several cities. — The moment telecom’s been waiting for: FCC Chairman Ajit Pai will unveil his C-Band auction plan for 5G today ..."
+    publishedDateTime: 2020-02-06T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/02/06/dhs-to-be-grilled-on-facial-recognition-785115"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+  - title: "Facial Recognition app could be a threat to privacy"
+    excerpt: "U.S. — A facial recognition software used by more than 600 law enforcement agencies across the country is proving to be controversial and a threat to privacy. The Clearview app can take a person’s photograph and potentially match it using a database of billions of pictures taken from the internet including social media sites. “Right now ..."
+    publishedDateTime: 2020-02-06T06:49:00Z
+    webUrl: "https://www.actionnewsjax.com/news/local/duval-county/facial-recognition-app-could-be-threat-privacy/JLJMHU55TZDTBI5VD27GWSDKOA/"
+    type: article
+    provider:
+      name: Action News Jax
+      domain: actionnewsjax.com
+    quality: 39
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/02-06-2020/t_6b8a407e593d4132b60e39783d84274f_name_328EAE6F609D4EC69F4DE76964CD220E.jpg"
+        width: 1280
+        height: 720
+  - title: "Facial recognition company CEO speaks out"
+    excerpt: "Watch \"CEO of controversial facial recognition company speaks out about privacy concerns\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-02-06T17:07:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200206152942-ceo-of-controversial-facial-recognition-company-speaks-out-about-privacy-concerns/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 39
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/02/06/story_03953211_1581003003.jpg"
+        width: 480
+        height: 270
+  - title: "Groups Call For Chicago PD To Stop Using Facial Recognition Technology"
+    excerpt: "A coalition of groups in Chicago is calling on the city's police department to end its use of facial recognition technology, citing racial bias and privacy concerns. The Chicago Sun-Times recently published reports detailing the city's use of the ..."
+    publishedDateTime: 2020-02-06T14:43:00Z
+    webUrl: "https://www.newsy.com/stories/groups-want-chicago-pd-to-stop-using-facial-recognition/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
+    quality: 39
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1580993170_OND4F3.jpg"
+        width: 640
+        height: 360
   - title: "Zwicker Wants to Regulate Facial Recognition Technology"
     excerpt: "TRENTON, NJ – Just recently, the New Jersey Attorney General prohibited law enforcement in all 21 counties from using Clearview AI’s facial recognition software after a New York Times article revealed the start-up had built its database by scrubbing ..."
     publishedDateTime: 2020-02-07T09:00:00Z
@@ -418,6 +483,17 @@ related:
       - url: "https://www.sltrib.com/resizer/iFmO0DFWKR3zMKsiE5alRNtjthU=/1200x630/filters:quality(85)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/2OK3GJJIGBH5HLSXCGLHZNE4LI.jpg"
         width: 1200
         height: 630
+  - title: "Should cities and towns ban their government's use of facial recognition technology?"
+    excerpt: "Facial recognition is the most dangerous surveillance technology ever invented. The world has never seen anything like it. It makes snooping and stalking easy and cheap. Left unabated, governments, companies, and individuals will use it to watch us everywhere we go. Dystopian as these outcomes are, that’s not all. Facial recognition also has ..."
+    publishedDateTime: 2020-02-06T22:41:00Z
+    webUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 32
   - title: "Clearview AI: why the controversial facial recognition technology should be a concern for the UK, according to experts"
     excerpt: "A controversial US facial recognition company is raising concerns over privacy after it created a database using nearly three billion public photos of people from sites such as Facebook, Twitter and YouTube. Clearview AI, until recently a relatively unknown tech startup, has made its facial recognition software available to law enforcement ..."
     publishedDateTime: 2020-02-12T10:30:00Z

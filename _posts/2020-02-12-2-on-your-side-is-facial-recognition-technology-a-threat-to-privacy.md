@@ -35,19 +35,21 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
         width: 810
         height: 456
-  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
-    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
-    publishedDateTime: 2020-02-10T14:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
+  - title: "London police deploy facial recognition tech, stirring privacy fears"
+    excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
+    publishedDateTime: 2020-02-11T18:01:00Z
+    webUrl: "https://www.dawn.com/news/1533822"
+    ampWebUrl: "https://www.dawn.com/news/amp/1533822"
+    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1533822"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
+      name: Dawn
+      domain: dawn.com
+    quality: 59
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
+        width: 800
+        height: 480
   - title: "Brazil takes a page from China, taps facial recognition to solve crime"
     excerpt: "In much of the world citizens are speaking out against facial recognition technology. Brazil appears poised to embrace it in the name of security."
     publishedDateTime: 2020-02-11T14:44:00Z
@@ -59,21 +61,6 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 39
-  - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
-    excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
-    publishedDateTime: 2020-02-13T19:29:00Z
-    webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
-    ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 34
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
-        width: 625
-        height: 305
 
 secured: "pBmJIdypDdVktNfVvyXEPT7xG5M2B2RtZMc07cBNlhpZISgwyg9xr50v+pzF6B5c3HRIUN5+G4e+dqlmEb8Km3e3Ty1dRXMcewfq0+BAUGg9oSr3MXMPoqoPtP0q0AGz6p6jkph6P4EXfH8L+ZbStIIQ122ox6iRdnZjI9hwS05qAfSV4a6Va/T6cj+oRlVI3d1ImzoAf0t0moEon6C/ANGdzBeRC7L25iKPup7EsL+esj+IEeelvbPINlI6D6hxHFFtw2W//ny/ZKDMog9PQwJwkMIgJzMtTuAcWBajOzEBGsOhVD1HXDNqRmCU02te01Z2Ck+4Sg9S4n8NL2Tq+W5wZV75fWvlVq72ffus75jAa+X/ylv69tAXfkFB5zHiZ7HI5cz2BIFedVCIggVaFr2F79Fhg+bFrSPChfFWmodXTDoAtJ8PC9Sc0KVhE65SrqD/tE4WNnxXWCfjvmPa9yNAjTFF2HJwLsb9P+ZyAok=;n9lWP45LRVA2IHr/yw6oHA=="
 ---

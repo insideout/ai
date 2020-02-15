@@ -30,19 +30,6 @@ images:
     title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
 
 related:
-  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
-    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
-    publishedDateTime: 2020-02-13T18:50:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
-        width: 400
-        height: 400
   - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
     excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
     publishedDateTime: 2020-02-05T03:35:00Z
@@ -56,6 +43,19 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
         width: 500
         height: 300
+  - title: "How smart kiosks are using facial recognition to bring a dose of humanity and hospitality to restaurant tech"
+    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience."
+    publishedDateTime: 2020-02-06T17:27:00Z
+    webUrl: "https://www.nrn.com/fast-casual/how-smart-kiosks-are-using-facial-recognition-bring-dose-humanity-and-hospitality"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 20
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
+        width: 770
+        height: 400
 
 secured: "Xjdq0CSvQqf8POHNYgVH4C2V5mmzbElFFuke3Biwpl21S5uvfCYQK89xeD2+quZlSIGRNoPUiwFPqIzh1J1z32lXdrgvwbfgKy+IA5rGz1fR9ako20u9psXAR7b23/4Sf+HJQ4Tox0c8UHg6CzrRVJRiVJ2+ddjSVRCKZgZwMYFOYlNmHLXq9FefELPKppmBioRtI1K3VCbipMuK6fWEfHKudJd80SfHSiTE5erbXavmD3OaIcZ94XI/Mm/X0KlUPo0FP/17z5wYnU9q8YOO/LFpF0i/8vcSXOdChyiIDf9+GBkFeioEtHqIe5wVr73v;JRTXq8IWqX9c41uvyRVGVw=="
 ---

@@ -2,6 +2,95 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-24-washington-state-wants-to-regulate-artificial-intelligence-as-microsoft-lobbies-for-new-rules.md",
+      "title": "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules",
+      "excerpt": "Washington state could become a pioneer in regulating artificial intelligence if lawmakers, and homegrown tech giant Microsoft, get their way. A series of bills introduced this legislative session seek to blaze a trail for this new frontier of technological innovation. The legislation focuses on biometric screening and digital profiling.",
+      "heat": 205,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/",
+      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/",
+      "publishedDateTime": "2020-01-24T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/03/statecapitol-630x417.jpg",
+          "width": 630,
+          "height": 417,
+          "title": "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-24-waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states.md",
+      "title": "Waymo’s self-driving minivans and big rigs arrive in two more states",
+      "excerpt": "Waymo, one of the leaders in autonomous-vehicle technology, is taking its self-driving cars and trucks to more states for testing on public roads. From this week, its driverless vehicles will be heading to Texas and New Mexico for the first time as Waymo ...",
+      "heat": 299,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp",
+      "publishedDateTime": "2020-01-23T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/waymo-autonomous-truck-2-1200x630-c-ar1.91.jpg",
+          "width": 720,
+          "height": 376,
+          "title": "Waymo’s self-driving minivans and big rigs arrive in two more states",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-24-with-3d-printed-custom-shoes-and-butler-robots-technology-is-reshaping-hospitality.md",
       "title": "With 3D-printed custom shoes and butler robots, technology is reshaping hospitality",
       "excerpt": "At an Aloft hotel in Cupertino, you might be served tea by a robot butler quaintly named Botlr ... “Companies that don’t embrace technology as an enabler will disappear,” said Dilip Puri. Artificial Intelligence will allow guest experience to become so much better. Chatbots are already making the booking experience easier.",
@@ -1661,6 +1750,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
+      "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
+      "excerpt": "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ...",
+      "heat": 211,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
+      "publishedDateTime": "2020-01-27T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png",
+          "width": 1200,
+          "height": 763,
+          "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-27-this-entrepreneur-is-helping-smbs-embrace-technology.md",
       "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
       "excerpt": "“We are an expert Azure managed services partner, driving the cloud transformation for over ... analysis services, artificial intelligence, bots and machine learning,” Richard said. Founded in 2012, G7CR Technologies counts brands such as Alibaba.com, Amazon, Digicert, Microsoft and Softlayer as its global technology partners.",
@@ -2037,133 +2171,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
-      "title": "AI can help cancer patients start radiation therapy sooner",
-      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "publishedDateTime": "2020-01-27T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "AI can help cancer patients start radiation therapy sooner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-ai-driven-biomarkers-of-aging.md",
-      "title": "AI Driven Biomarkers Of Aging",
-      "excerpt": "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "publishedDateTime": "2020-01-28T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30aae6f133f400076af2dd%2F0x0.jpg",
-          "width": 1200,
-          "height": 585,
-          "title": "AI Driven Biomarkers Of Aging",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential.md",
-      "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
-      "excerpt": "Unlock new opportunities in Artificial Intelligence (AI) in Agriculture Market; the latest release from HTF MI highlights the key market trends significant to the growth prospects, Let us know if any specific players or list of players needs to consider to ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

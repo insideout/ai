@@ -331,6 +331,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
+    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
+    publishedDateTime: 2020-02-04T04:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Artificial Intelligence In Automotive Market Opportunities, Share And Forecast 2020-2026"
     excerpt: "The Artificial Intelligence (AI) In Automotive Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence (AI) In Automotive Market study provides comprehensive data on aspects of competitive intelligence,"
     publishedDateTime: 2020-02-05T04:47:00Z
@@ -423,15 +432,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
-  - title: "Global Artificial Intelligence in Medicine Market Size, Share & Forecast 2020-2023 | Global Industry Overview and Latest Trend and Growth Analysis"
-    excerpt: "Global \"Artificial Intelligence in Medicine\" Market report 2020 intends to give inside and out data about Artificial Intelligence in Medicine industry with market outlook, trends, business strategies and future prospects of industry. It includes the present market status with some changing size and trends that can affect the market growth rate."
-    publishedDateTime: 2020-01-31T11:30:00Z
-    webUrl: "https://www.openpr.com/news/1915648/global-artificial-intelligence-in-medicine-market-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Medical Robots Market Industry Analysis By Future Demand, Top Players, Size, Share, Opportunities, Revenue till 2026"
     excerpt: "and Geography Forecast till 2026,\" the market is likely to grow in the coming years due to recent product innovations using concepts such as artificial intelligence (AI) and the internet of things (IoT). The report covers: o Global Medical Robots Market trends, with detailed analysis on consumer trends & manufacturer trends. o Overview on ..."
     publishedDateTime: 2020-02-04T13:13:00Z

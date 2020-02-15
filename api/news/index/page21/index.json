@@ -2,6 +2,139 @@
   "page": 21,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-30-google-ai-chief-the-promise-of-multi-modal-learning.md",
+      "title": "Google AI chief: The promise of multi-modal learning",
+      "excerpt": "Google's Jeff Dean explains multi-modal learning and why it's the next big challenge for AI researchers. Read more: https://zd.net/2RWOWVq",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/google-ai-chief-the-promise-of-multi-modal-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/982ecb2e-09ab-44ee-a2e9-a132a038b050/thumbnail/770x578/79de21a8c75b1f253e83a6992a2be950/20200129-dean-steph.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Google AI chief: The promise of multi-modal learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-government-releases-guide-for-ai-use-in-the-public-sector.md",
+      "title": "Government releases guide for AI use in the public sector",
+      "excerpt": "to managing the implementation of planned AI deployment and exploring the safety and ethics to using AI systems in the public sector. As AI is already being deployed in the public sector, the guide contains case studies for other public sector workers and organisations to draw inspiration from. For example, it notes how the National Grid uses ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
+      "publishedDateTime": "2020-01-30T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570816530/itpro/2019/02/ai_shutterstock_767827225.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Government releases guide for AI use in the public sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-ibms-new-ai-powered-tool-will-automatically-label-images-for-developers.md",
+      "title": "IBM’s new AI-powered tool will automatically label images for developers",
+      "excerpt": "Developers building machine learning or object detection models have to manually label hundreds to thousands of images to train them. To make the task easier, IBM has introduced a new auto-labeling tool. The new feature is available for everyone through Cloud Annotations GUI, IBM’s online tool for labeling images. If you’re a developer ...",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/30/ibms-new-ai-powered-tool-will-automatically-label-images-for-developers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/IBM-tool-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": "IBM’s new AI-powered tool will automatically label images for developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-30-interested-in-machine-learning-better-learn-pytorch.md",
       "title": "Interested in machine learning? Better learn PyTorch",
       "excerpt": "Building on the rampant popularity of Python was always going to be a good idea for the Facebook-born PyTorch, an open source machine learning framework. Just how good of an idea, however, few could have guessed. That’s because no matter how many things you get right when launching an open source project (great docs, solid technical ...",
@@ -709,6 +842,133 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-how-artificial-intelligence-is-improving-the-pharma-supply-chain.md",
+      "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
+      "excerpt": "When coupled with machine learning and predictive analytics, the AI transformation goes much deeper than smarter search functions.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
+      "publishedDateTime": "2020-01-31T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/807443170/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-local-speech-recognition-tech-company-partners-with-global-call-center-company.md",
+      "title": "Local speech recognition tech company partners with global call center company",
+      "excerpt": "A Pittsburgh-based tech company has partnered with a call center company that serves clients around the world.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html",
+      "ampWebUrl": "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html",
+      "publishedDateTime": "2020-01-31T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Local speech recognition tech company partners with global call center company",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology.md",
+      "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
+      "excerpt": "The first step, which is the most important, is to view the enterprise AI challenge as a business problem instead of a technical problem.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
+      "publishedDateTime": "2020-01-31T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/921518908/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {

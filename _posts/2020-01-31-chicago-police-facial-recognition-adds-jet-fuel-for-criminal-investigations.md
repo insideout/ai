@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T20:56:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,15 +28,32 @@ images:
     title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
 
 related:
-  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
-    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
-    publishedDateTime: 2020-02-04T11:47:00Z
-    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
+  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue thousands of children in India"
+    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
+    publishedDateTime: 2020-02-06T22:09:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-thousands-of-children-in-india"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 1
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue of thousands of children in India"
+    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
+    publishedDateTime: 2020-02-06T22:05:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-of-thousands-of-children-in-india"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
 
 secured: "rmprjo/CfXcCDb7CecFo8G5b55KidXy+8MH61QA9pnDY2zjSR9meWzIaad9STdXpf/+fNQHPqYsR+N5tT7rtxc5+YejBj7OOhtfsfxFhPNXhW0thZ1F/lr3w7BuItcbJe/J9Xri8fliNIkYGrEOvBBBtbPMV6tZufhBGxc1QVT238kAzyJpdKrjiZEJVAKK4AZQ49ChTF4k/KKc7dToC9Rv8Po9Ld3qSPMWxUH3CCO3R2RwzfIHg4X4Qz/eWM4O9WgP7lT6nSBIAx+qsczo9EOdY+GVhIVbYpBwdjijFO9yjrII6Bmzd6ydP0gA3h43kNWku4NNbA8AZ1CX8bna9Jsx0AYwa/XfVW7XZJrR812N/Z0WAtIJLrGf4+U5SeJsahWinZqHwfTsHt+UDmU78bmwlh6BFrU7Ayue0VbLFELd8BhKl1sYTuF0620F2EKPkzxdWjuw1KKPVc5qnL1I4a0Dv532zCf5mUGqUTyHisrE=;dmHwhlWTppMnmPE2miOqFw=="
 ---

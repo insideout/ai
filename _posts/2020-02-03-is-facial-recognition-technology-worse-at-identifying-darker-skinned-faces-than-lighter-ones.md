@@ -24,30 +24,45 @@ images:
     title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
 
 related:
-  - title: "eConnect Presents on Facial Recognition at the Western Indian Gaming Conference 2020"
-    excerpt: "eConnect, Inc., a Las Vegas-based software company which provides hospitality companies with a platform for actionable information, reinforced by video, will be speaking at the Western Indian Gaming Conference and Trade Show."
-    publishedDateTime: 2020-02-10T00:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/p15286237/econnect-presents-on-facial-recognition-at-the-western-indian-gaming-conference-2020"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15286237"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15286237"
+  - title: "Big Brother facial recognition cameras are watching YOU more than ever right across Britain"
+    excerpt: "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ..."
+    publishedDateTime: 2020-02-01T22:33:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-  - title: "Poor resolution at the back of the tongue is the bottleneck for spatial pattern recognition"
-    excerpt: "In daily usage, users should be able to recognize objects through mere bottom-up processing. Yet, to the best of our knowledge, there are no studies demonstrating bottom-up object recognition using tactile SSD which we would predict to yield worse recognition performance than those reported in the literature so far."
-    publishedDateTime: 2020-02-12T10:11:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-59102-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 14
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 64
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59102-3/MediaObjects/41598_2020_59102_Fig1_HTML.png"
-        width: 559
-        height: 685
+      - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
+        width: 636
+        height: 382
+  - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
+    excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
+    publishedDateTime: 2020-02-02T02:35:00Z
+    webUrl: "https://lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325"
+    ampWebUrl: "https://lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325/amp"
+    cdnAmpWebUrl: "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325/amp"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 53
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--1cJFuGHm--/c_scale,f_auto,fl_progressive,q_80,w_800/pm2nsbcl6nmsxpirnyv9.jpg"
+        width: 800
+        height: 449
+  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
+    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
+    publishedDateTime: 2020-02-08T04:26:00Z
+    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 13
 
 secured: "j0XIbaVt+6RCTxelcB4TCVvIEobvXr/Bn5cuROKWShicCWqyk0JZED0bo1aCNkTzVesVV7mQX7kzwwuN7mKqUX7f+VULpMAHvFSRp7koDjEjgvgZ3gxxWcY7sFCqz3x6yzF/OatNLTmB3e4fwzryuZsAWPrvJBEZwj4Ff6XFm+j/Zd7JHl0rIlgW9YEO4l9OIiKFzmmdRgIyVhHklRZH7QDNYbcUYLjbcfUlO85pmOtDlr/uTetmVuMpXyFMXkcZ2guYo5oBpQHql5GsNzmjjzViWXkOBYo7jikin+1J2L/XDZMPCCj2q4MgmvwdEXJFXoaOm06rIFO9x5EpKti38tQ42Ya+yH8LbunoH7oy+VgnxXhhs0yZP+SGLyNupupAGPi/lDemPk7we3/IERGQNy2BceEN+h7N9ePSQ4qbZQdi8sS5MAcVxP08MVW20GGrx+5tLlKE2Vf3G271dPmXjtDzDKTjzLWr7lH+Uul8y78=;89Clc/8g/gsJqIxnWBA7lw=="
 ---

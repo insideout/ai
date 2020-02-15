@@ -8,7 +8,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-f
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
 type: article
 quality: 180
-heat: 430
+heat: 490
 published: true
 
 provider:
@@ -106,6 +106,51 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F10%252F4aaadf8a926d46b39e4d6356ddcdf6e0.18786.jpg%252F1200x630.jpg?signature=agz3Wv8-4-Yn4EO3NpvjhHOw8ng="
         width: 1200
         height: 630
+  - title: "Frustration grows in China as face masks compromise facial recognition"
+    excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
+    publishedDateTime: 2020-02-05T18:51:00Z
+    webUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/"
+    ampWebUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 89
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 789
+  - title: "Facial recognition company CEO says he doesn’t need permission to use your face"
+    excerpt: "The CEO of facial recognition company Clearview AI, Hoan Ton-That, today gave his first network television interview on “CBS This Morning.” During the brief conversation Ton-That told news-anchor Errol Burnett that he believed he had a First Amendment right to access, scrape, and store billions of files containing images of people’s faces."
+    publishedDateTime: 2020-02-05T22:25:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/05/facial-recognition-company-ceo-says-he-doesnt-need-permission-to-use-your-face/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/05/facial-recognition-company-ceo-says-he-doesnt-need-permission-to-use-your-face/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/05/facial-recognition-company-ceo-says-he-doesnt-need-permission-to-use-your-face/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 85
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/07/surveil-796x399.jpg"
+        width: 796
+        height: 399
+  - title: "Facebook, YouTube demand facial recognition company stop scraping faces from sites"
+    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
+    publishedDateTime: 2020-02-06T19:05:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/facebook-youtube-demand-facial-recognition-company-stop-scraping-faces-sites-n1131786"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1131786"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1131786"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 83
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_06/2878756/190531-facebook-mc-1420_f639f66c650025e6a1878b44481e1754.JPG"
+        width: 2500
+        height: 1668
   - title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
     excerpt: "Facebook has demanded that Clearview stop accessing or using information from its platforms after it scraped billions of images without permission."
     publishedDateTime: 2020-02-06T17:51:00Z
@@ -160,6 +205,36 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 61
+  - title: "Facial recognition moves into a new front: schools"
+    excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
+    publishedDateTime: 2020-02-06T13:00:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/FACIAL-RECOGNITION-EDUC-2-1-300x450.jpg"
+        width: 300
+        height: 450
+  - title: "Facial recognition moves into a new front: Schools"
+    excerpt: "Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent of the district ..."
+    publishedDateTime: 2020-02-07T00:02:00Z
+    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
+        width: 1200
+        height: 800
   - title: "Police Facial Recognition Tech Snags Pics from Social Sites"
     excerpt: "Clearview AI stands apart from other facial recognition companies because it pulls photos from commercial sites, like Facebook and Twitter, for its image database. Some are concerned by the company’s access. (TNS) — Surveillance footage showed a man suspected of fleeing officers during a traffic stop. Still, after several days, Pinellas ..."
     publishedDateTime: 2020-02-11T21:55:00Z
@@ -268,6 +343,19 @@ related:
       - url: "https://static.axios.com/img/axios-icon.png"
         width: 400
         height: 400
+  - title: "ACLU criticizes facial recognition company using photos without permission"
+    excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
+    publishedDateTime: 2020-02-06T05:25:00Z
+    webUrl: "https://www.wftv.com/news/local/volusia-county/american-civil-liberties-union-criticizes-facial-recognition-company-using-photos-without-permission/ONZWHDR5XVDQVJAZ7L6UQBG2A4/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 37
+    images:
+      - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
+        width: 1200
+        height: 628
   - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
     excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
     publishedDateTime: 2020-02-07T12:48:00Z

@@ -55,15 +55,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Neural Network Software Markets, 2025"
-    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"Neural Network Software Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Neural Network Software Market was valued at USD 8."
-    publishedDateTime: 2020-01-31T11:16:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1978041/0/en/Neural-Network-Software-Markets-2025.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 19
 
 secured: "5Ws/eqSQgBBw+QcJV6PmxcVZDrqe+ogLuoVdDQueiaWM718Ea+iqzRO3VrzN2zbvVEEjhnJRASpJxR9ERwUY77zjk50lYdUyJC4pM76OZ7A5JgkPt8c1EqhAUl2TI64eZ+ssDPyFNfn41vPm6jUj80KTsByiwEcrtvQTXFKQdyoGNvO0WrMo+VfyBfHZRJRImANP9M+7AQsnBZ9ipmjDpoJkfr+gQ2LfoD+zKltekVlFNMZmc1B9NvATiSrwOpFxj9xJFZY6Bb+wJi55pVxymgsqR0b60MrtreRCQut4PMsppr2sQH7Bd2EPm/1EMEAs;FRf9iOVTpZpjeZjYMNY/9w=="
 ---

@@ -2,6 +2,124 @@
   "page": 3,
   "value": [
     {
+      "path": "_posts/2020-02-05-opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one.md",
+      "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
+      "excerpt": "Bernie Sanders and Elizabeth Warren. Pete Buttigieg, who proposes the less radical “Medicare for all who want it,” can point to Trump’s rant as a reason for Democrats to support him. But all the Democratic candidates should come away from this speech with a recognition that Trump will be a formidable opponent.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one",
+      "ampWebUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
+      "publishedDateTime": "2020-02-05T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/4bc5b3c/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F37%2F4e8a13c64254b008d334ca3f9f93%2Ftrump-impeachment-54621.jpg",
+          "width": 320,
+          "height": 209,
+          "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-powerful-new-tool-helps-journalists-identify-manipulated-photos.md",
+      "title": "Powerful New Tool Helps Journalists Identify Manipulated Photos",
+      "excerpt": "“Assembler is an early stage experimental platform advancing new detection technology to help fact-checkers and journalists identify manipulated media.” Assembler works by combining several “manipulation detectors” into a single tool. Each individual detector—some brand new and created by Jigsaw, some created by academics at various ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://petapixel.com/2020/02/05/powerful-new-tool-helps-journalists-identify-manipulated-photos/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PetaPixel",
+        "domain": "petapixel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://petapixel.com/assets/uploads/2020/02/manipulation_feat.jpg",
+          "width": 1600,
+          "height": 840,
+          "title": "Powerful New Tool Helps Journalists Identify Manipulated Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle.md",
+      "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
+      "excerpt": "... Prospects by Gearing Yourself with the In-Demand Azure Cloud Skills Machine Learning in the Cloud with Azure Machine Learning Process Real-World Datasets Using Sophisticated Machine Learning Models in the Cloud Azure Project-Based Hands-on Training",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329629_azure-6_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-05-the-ai-eye-vsblty-and-energetika-propel-safety-in-mexican-municipalities-and-hvac-giant-carrier-selects-aws-for-digital-transformation.md",
       "title": "The AI Eye: VSBLTY and Energetika Propel Safety in Mexican Municipalities and HVAC Giant Carrier Selects AWS for Digital Transformation",
       "excerpt": "Point Roberts, WA and Vancouver, BC - February 5, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
@@ -550,30 +668,38 @@
       ]
     },
     {
-      "path": "_posts/2020-02-06-chatbots-are-big-news-but-robots-are-set-to-be-bigger.md",
-      "title": "Chatbots are big news, but robots are set to be bigger",
-      "excerpt": "Robotic process automation is an application technology leveraging artificial intelligence (AI) and machine learning (ML ... Today, RPA is a compelling proposition in that it allows businesses to create their own software robots to automate business processes, quickly giving the business an efficient digital workforce that dramatically reduces ...",
-      "heat": 79,
+      "path": "_posts/2020-02-06-check-out-the-pitch-deck-this-london-fintech-used-to-raise-15-million-from-silicon-valley-bank-and-eight-road-ventures.md",
+      "title": "Check out the pitch deck this London fintech used to raise $15 million from Silicon Valley Bank and Eight Road Ventures",
+      "excerpt": "\"This funding helps us build out and take advantage of a market opportunity to scale,\" Rimilia CEO Kevin Kimber told Business Insider in an interview.",
+      "heat": 70,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/LPp6V7r4Y2NqDKQz",
-      "ampWebUrl": "https://amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz",
-      "publishedDateTime": "2020-02-05T23:27:00-08:00",
+      "webUrl": "https://www.businessinsider.com/rimilia-london-fintech-raises-from-top-vcs-to-serve-major-markets-2020-2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T01:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.itweb.co.za/static/pictures/2020/02/Gavin-Els-2020-IIN.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "Chatbots are big news, but robots are set to be bigger",
+          "url": "https://i.insider.com/5e3c0172e35bab3c0a396aa2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Check out the pitch deck this London fintech used to raise $15 million from Silicon Valley Bank and Eight Road Ventures",
           "attribution": null
         }
       ],
@@ -583,7 +709,7 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Finance"
       ]
     },
     {
@@ -1090,7 +1216,7 @@
       "path": "_posts/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
       "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
       "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
-      "heat": 145,
+      "heat": 215,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/",
@@ -1129,6 +1255,51 @@
       "topics": [
         "AI",
         "AI Ethics",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns.md",
+      "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
+      "excerpt": "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer.",
+      "heat": 328,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
+      "publishedDateTime": "2020-02-06T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-151698/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Computer Vision"
       ]
     },
@@ -1256,43 +1427,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-top-homeland-security-democrat-voices-opposition-to-facial-recognition-moratorium.md",
-      "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
-      "excerpt": "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition",
-      "ampWebUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
-      "publishedDateTime": "2020-02-06T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1992,142 +2126,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-growth-within-limits-us-based-cloud-service-provider-1q-earnings.md",
-      "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
-      "excerpt": "Evaluating Amazon AWS, Microsoft Azure, Alphabet GCP, IBM Cloud and Oracle OCI earnings from an IaaS perspective to understand how these cloud giants are managing and growing their infrastructure.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/",
-      "ampWebUrl": "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/",
-      "publishedDateTime": "2020-02-07T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d7b0d3738f500063f272c%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1142%26cropY1%3D0%26cropY2%3D640",
-          "width": 1137,
-          "height": 640,
-          "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-how-is-artificial-intelligence-and-machine-learning-used-in-engineering.md",
-      "title": "How Is Artificial Intelligence And Machine Learning Used In Engineering?",
-      "excerpt": "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness.",
-      "heat": 145,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/",
-      "publishedDateTime": "2020-02-07T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 290,
-          "title": "How Is Artificial Intelligence And Machine Learning Used In Engineering?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-machine-learning-infrastructure-terraforming-sagemaker-part-1.md",
-      "title": "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~",
-      "excerpt": "The MLOps cover these areas mainly: Amazon SageMaker is AWS based machine learning platform that enables developers to build machine learning models, train data, deploy an inference point on the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@yuyasugano/machine-learning-infrastructure-terraforming-sagemaker-part-1-e5e22e368248",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/765/1*ZdKHNcpoyZaePOlGoy4Qlg.png",
-          "width": 765,
-          "height": 436,
-          "title": "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

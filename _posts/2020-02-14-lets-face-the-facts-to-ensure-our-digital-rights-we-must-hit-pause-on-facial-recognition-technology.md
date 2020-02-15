@@ -65,19 +65,19 @@ related:
       - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
         width: 1000
         height: 750
-  - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
-    excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
-    publishedDateTime: 2020-02-11T05:28:00Z
-    webUrl: "https://www.heraldscotland.com/news/18225186.police-warned-not-adopt-unjustifiable-live-facial-recognition-technology/"
+  - title: "London police deploy live facial recognition technology, stirring privacy fears"
+    excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
+    publishedDateTime: 2020-02-11T18:47:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2020/02/11/london-police-deploy-live-facial-recognition-technology-stirring-privacy-fears/"
     type: article
     provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 36
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 35
     images:
-      - url: "https://www.heraldscotland.com/resources/images/10955630/"
-        width: 800
-        height: 600
+      - url: "https://www.hawaiinewsnow.com/resizer/5WPDfcRoZsIEZzSuFgW7EurnGtA=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/52R5YBRIHZBEHP5HNAANYUWTEE.jpg"
+        width: 1200
+        height: 675
   - title: "Met police deploy live facial recognition technology"
     excerpt: "Cameras used at east London shopping centre despite experts warning against them"
     publishedDateTime: 2020-02-11T19:20:00Z
@@ -87,15 +87,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
-  - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
-    excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
-    publishedDateTime: 2020-02-11T09:23:00Z
-    webUrl: "https://www.dailyrecord.co.uk/news/politics/facial-recognition-technology-unfit-use-21469810"
+  - title: "London police deploy facial recognition technology, stirring privacy fears"
+    excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in east London."
+    publishedDateTime: 2020-02-12T01:13:00Z
+    webUrl: "https://www.pressherald.com/2020/02/11/london-police-deploy-facial-recognition-technology-stirring-privacy-fears/"
     type: article
     provider:
-      name: dailyrecord
-      domain: dailyrecord.co.uk
-    quality: 16
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 17
   - title: "Public Perception of Facial Recognition Technologies - a four countries study"
     excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
     publishedDateTime: 2020-02-12T19:35:00Z

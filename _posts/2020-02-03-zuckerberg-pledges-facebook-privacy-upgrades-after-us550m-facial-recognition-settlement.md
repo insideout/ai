@@ -26,84 +26,56 @@ images:
     title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
 
 related:
-  - title: "Facebook will need to pay $550 million over face recognition issue"
-    excerpt: "Remember back in 2010 when Facebook started tagging you on photos? That was the starting year of the company’s facial recognition software. However, the feature came without anyone’s consent. Shortly after, a case against Facebook was set in motion and the legal dispute officially started in 2015. Join GizChina on Telegram In 2018 the case ..."
-    publishedDateTime: 2020-01-31T19:11:00Z
-    webUrl: "https://www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/"
-    ampWebUrl: "https://www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/01/105135707-GettyImages-944827400.jpg"
-        width: 678
-        height: 381
-  - title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
-    excerpt: "Facial recognition software is on the rise, so it’s no wonder why Facebook wanted to include this tech in their platform, starting in 2010. The use case here was to aid in photo tagging. By using facial recognition software, Facebook users were being prompted to tag various people it thinks are your friends. Now, Facebook does give the ..."
-    publishedDateTime: 2020-01-31T17:44:00Z
-    webUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/"
-    ampWebUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
-    type: article
-    provider:
-      name: The American Genius
-      domain: theamericangenius.com
-    quality: 59
-    images:
-      - url: "https://theamericangenius.com/wp-content/uploads/2020/01/illinois-31500_1280-1-1000x600.png"
-        width: 1000
-        height: 600
-  - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
-    publishedDateTime: 2020-02-01T20:13:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/01/business/30reuters-facebook-privacy.html"
+  - title: "Moscow Court Case Challenges City's Facial Recognition Use After Launch"
+    excerpt: "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month."
+    publishedDateTime: 2020-02-03T15:07:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 55
+    quality: 69
     images:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:00:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+  - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
+    excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
+    publishedDateTime: 2020-02-04T02:51:00Z
+    webUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
     type: article
     provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 46
+      name: MassLive
+      domain: masslive.com
+    quality: 44
     images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
-  - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
-    excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
-    publishedDateTime: 2020-02-04T11:29:00Z
-    webUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/"
-    ampWebUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
+        width: 2016
+        height: 1512
+  - title: "UPDATE 1-Moscow court case challenges city's facial recognition use after launch"
+    excerpt: "A Russian court on Friday heard a legal challenge to Moscow’s rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month."
+    publishedDateTime: 2020-02-08T10:21:00Z
+    webUrl: "https://www.reuters.com/article/russia-technology-facialrecognition-idUSL8N2A055X"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 26
-  - title: "Facebook Shares Drop After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook has settled a lawsuit over its facial recognition practices for $550 million. Originally filed in an Illinois federal court 2015, the lawsuit’s plaintiffs were represented in the class-action by the Edelson, Labaton Sucharow, and Robbins Geller Rudman & Dowd law firms. The suit against the social media giant accused it of violating ..."
-    publishedDateTime: 2020-02-01T01:24:00Z
-    webUrl: "https://hauteliving.com/hautelawyer/635121/facebook-shares-drop-550-million-facial-recognition/"
+      name: Reuters
+      domain: reuters.com
+    quality: 44
+  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
+    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
+    publishedDateTime: 2020-02-04T14:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
     type: article
     provider:
-      name: Haute Living
-      domain: hauteliving.com
-    quality: 19
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "Vz/VMXR6qCyjlsbOW+NaZnwaW2kjB4Mbkg9/pbaJwSmu5nOaM6M7e7NB6lVHJyeTfEWs4Mgqc46UnWNWnSgy8s4QEY7jdynIXMY4dQse0vFM5aqN38CYtJXnQ0Nh5LefLQ3+EgOPHR30uxIMC3r+BgPzFxb1giZo5mqCoFRfTgencaOoDo+A0DnlMgHffHfjnfT0rj/Hw9ihzKvJUEA5OjNfV6rt7s6GLqO4OHXOKpbB5vBcq6auSkXBdy7vGPe0LaGkO9KwI25cN3c8BmyLcJN/UEcBFyww7Vg45ftVGl+gVGirBZdx/4E7G1ltyIeN;yfShum4J4wspF5zyT0psVg=="
 ---

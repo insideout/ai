@@ -8,7 +8,7 @@ ampWebUrl: "https://www.caranddriver.com/news/amp30795396/gm-super-cruise-self-d
 cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,45 +26,30 @@ images:
     title: "GM's Super Cruise Self-Driving Tech Will Be on 22 Vehicles by 2023"
 
 related:
-  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
-    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
-    publishedDateTime: 2020-01-31T11:52:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
+  - title: "Waymo self-driving vehicle in collision in Phoenix suburb"
+    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries,"
+    publishedDateTime: 2020-02-09T03:32:00Z
+    webUrl: "https://www.herald-dispatch.com/ap/ap_business/waymo-self-driving-vehicle-in-collision-in-phoenix-suburb/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 59
+      name: The Herald-Dispatch
+      domain: herald-dispatch.com
+    quality: 39
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "When can we buy self-driving vehicles? No one knows"
-    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
+      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
+        width: 600
+        height: 600
+  - title: "GM Rolling Out Super Cruise Self-Driving Tech To 22 Models Across The Board By 2023"
+    excerpt: "An enhanced version will be introduced later this year and feature a new automated lane change function. When the self-driving tech is activated, users simply need to tap the turn signal to indicate that they want to change lanes. When an appropriate opening has been found, the vehicle will automatically switch lanes. Besides the new lane ..."
+    publishedDateTime: 2020-02-06T22:31:00Z
+    webUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/"
+    ampWebUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
     type: article
     provider:
-      name: Land Line
-      domain: landline.media
-    quality: 24
-    images:
-      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
-        width: 540
-        height: 420
-  - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
-    excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet Inc., in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed."
-    publishedDateTime: 2020-01-31T18:50:00Z
-    webUrl: "https://www.courant.com/classified/automotive/sns-ups-orders-electric-delivery-trucks-self-driving-vans-20200131-o3uytm44cncgfmgebfdbjiceke-story.html"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 22
-    images:
-      - url: "https://www.courant.com/resizer/nFagBGbxdgNzvUq8c01L1JdgE2w=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MIH6KZTAZZH6HF7PMHFFTRGMV4.JPG"
-        width: 1200
-        height: 675
+      name: Carscoops
+      domain: carscoops.com
+    quality: 18
 
 secured: "ixVS1sNv+tOY4MSgn9zsk0+fzM2icmMLv5FYZizuu99oOHhfy2vskkDM8rl0beOI4BMkKIr3F6r000FDAgeuhuc9PV/E9jNQ1MfT8I/iIQ4ooEhhtdpL088i/gY4tcEE1+bDh0sAOFan2AGUoi/vjBO31qS5PxHVgd5axUidecTwiW7Jb9kztrm+x/KdggzRs4Rl9pnXMDjKVHm7T2zHmkgLWzKZvlLS+7a8kqGXha0axtT4l2LtcDBjsSrAAnK/pSbgn/8o/8prai3L9yDEN5LGk045KkF/UHYhCyfELEXrDxR8nIVcQKQqb487Jfgh;U4yxj49E2fZsUx7L15xYTg=="
 ---

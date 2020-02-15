@@ -2,6 +2,133 @@
   "page": 19,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
+      "title": "AI can help cancer patients start radiation therapy sooner",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "publishedDateTime": "2020-01-27T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI can help cancer patients start radiation therapy sooner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-ai-driven-biomarkers-of-aging.md",
+      "title": "AI Driven Biomarkers Of Aging",
+      "excerpt": "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
+      "publishedDateTime": "2020-01-28T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30aae6f133f400076af2dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 585,
+          "title": "AI Driven Biomarkers Of Aging",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential.md",
+      "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
+      "excerpt": "Unlock new opportunities in Artificial Intelligence (AI) in Agriculture Market; the latest release from HTF MI highlights the key market trends significant to the growth prospects, Let us know if any specific players or list of players needs to consider to ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-artificial-intelligence-is-still-a-science-project-in-most-companies.md",
       "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
       "excerpt": "Will AI remain in the labs while the industry moves on to the next technology trend, or will it become the revolutionary force some are predicting?",
@@ -1986,131 +2113,6 @@
           "width": 1200,
           "height": 800,
           "title": "Assessing Google CEO Sundar Pichai's call for fair AI regulations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-aurora-can-now-give-the-public-rides-in-its-self-driving-cars.md",
-      "title": "Aurora can now give the public rides in its self-driving cars",
-      "excerpt": "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/",
-      "publishedDateTime": "2020-01-29T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024",
-          "width": 1024,
-          "height": 661,
-          "title": "Aurora can now give the public rides in its self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-concentric-raises-75-million-to-identify-and-protect-sensitive-enterprise-data-with-ai.md",
-      "title": "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI",
-      "excerpt": "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/",
-      "publishedDateTime": "2020-01-29T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/8a91385a-4630-4ae0-a791-1dbe7d1f8780-e1580153727148.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-deepak-chopra-gives-jimmy-fallon-a-sneak-peek-at-the-digital-ai-version-of-himself.md",
-      "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
-      "excerpt": "Deepak Chopra's digital AI version of himself is almost in beta, and Jimmy Fallon got to take it for a quick spin. The author, who announced the 'Digital Deepak' project in December, gave Jimmy Fallon a sneak preview on The Tonight Show Tuesday, taking the host, The Roots, and the audience through a very swift meditation (it's only a few seconds).",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon/",
-      "ampWebUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
-      "publishedDateTime": "2020-01-29T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F29%252Fb2%252F973b166d53074d139f63b2d872c3a497.a04a7.png%252F1200x630.png?signature=AcyQ4VQYvny-pagLhgr44499WAM=",
-          "width": 1200,
-          "height": 630,
-          "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
           "attribution": null
         }
       ],

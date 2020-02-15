@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ITWeb
@@ -26,19 +26,6 @@ images:
     title: "Chatbots are big news, but robots are set to be bigger"
 
 related:
-  - title: "Robots Pose the Biggest Risk to Poorest Countries"
-    excerpt: "Consider the effect of new technologies. More jobs have been automated because of advances in computing, robotics, and artificial intelligence. One consequence has been the hollowing out of clerical jobs. Displaced employees end up competing for positions that might have been considered below their pay grade. That depresses wages more generally."
-    publishedDateTime: 2020-01-31T11:10:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/30797-robots-pose-biggest-risk-to-the-poorest-countries"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0131_RobotsPoseBiggestRisk.jpg?height=635&t=1580447222&width=1200"
-        width: 847
-        height: 635
   - title: "Robots pose biggest Risk to the poorest countries"
     excerpt: "Consider the effect of new technologies. More jobs have been automated because of advances in computing, robotics, and artificial intelligence. One consequence has been the hollowing out of clerical jobs. Displaced employees end up competing for positions that might have been considered below their pay grade. That depresses wages more generally."
     publishedDateTime: 2020-02-01T10:09:00Z

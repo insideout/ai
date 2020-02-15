@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_posts/2020-02-03-moscow-court-case-challenges-citys-facial-recognition-use-after-launch.md",
+      "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
+      "excerpt": "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-03-tesla-is-holding-a-super-fun-ai-partyhackathon-at-elon-musks-house.md",
       "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
       "excerpt": "Tesla has been known to have a presence at some AI conferences and throw parties to ... also looking for world-class chip designers to join our team, based in both Palo Alto & Austin.",
@@ -743,6 +788,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-04-face-recognition-app-yielded-80-accuracy-in-polls-officials.md",
+      "title": "Face recognition app yielded 80% accuracy in polls: Officials",
+      "excerpt": "The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an accuracy of 80 per cent, officials have claimed. However, AIMIM chief Asaduddin Owaisi objected to using the technology alleging that it was dangerous and would invade privacy. \"The result (of face recognition app) was encouraging.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.html",
+      "ampWebUrl": "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html",
+      "publishedDateTime": "2020-02-04T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2018/4/17/face-recognition.jpg",
+          "width": 760,
+          "height": 443,
+          "title": "Face recognition app yielded 80% accuracy in polls: Officials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-04-facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027.md",
       "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
       "excerpt": "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,",
@@ -921,6 +1003,80 @@
       ]
     },
     {
+      "path": "_posts/2020-02-04-lawsuit-filed-against-facial-recognition-company-cpd-works-with.md",
+      "title": "Lawsuit filed against facial recognition company CPD works with",
+      "excerpt": "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ...",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/",
+      "ampWebUrl": "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/",
+      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/",
+      "publishedDateTime": "2020-02-03T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Lawsuit filed against facial recognition company CPD works with",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-lightfoot-urged-to-pull-the-plug-on-facial-recognition-technology.md",
+      "title": "Lightfoot urged to pull the plug on facial recognition technology",
+      "excerpt": "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\"",
+      "heat": 179,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
+      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
+      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
+      "publishedDateTime": "2020-02-04T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Lightfoot urged to pull the plug on facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-04-new-deep-learning-model-identifies-sleep-stages.md",
       "title": "New deep learning model identifies sleep stages",
       "excerpt": "Researchers at the University of Eastern Finland have developed a new deep learning model that can identify sleep stages as accurately as an experienced physician. Sleep is manually classified into five stages, which are wake, rapid eye movement (REM) sleep and three stages of non-REM sleep. It is estimated that up to one billion people ...",
@@ -955,6 +1111,43 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-nomagics-pick-and-place-warehouse-robots-raise-86m.md",
+      "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
+      "excerpt": "Since automation can relieve human warehouse workers of tedious tasks, Nomagic claimed that its smart pick-and-place robots offer high flexibility and that they can help reduce the cost per pick. The company added that its artificial intelligence and cloud platform enable its robotic arms to handle millions of different products. Magicloader is ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/nomagic-pick-place-warehouse-robots-86m/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/Nomagic_0-1024x563-1.jpeg",
+          "width": 1024,
+          "height": 563,
+          "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1263,43 +1456,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-04-veridium-brings-facial-recognition-to-all-phones-in-password-less-push.md",
-      "title": "Veridium brings facial recognition to all phones in password-less push",
-      "excerpt": "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/",
-      "publishedDateTime": "2020-02-03T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg",
-          "width": 2880,
-          "height": 1800,
-          "title": "Veridium brings facial recognition to all phones in password-less push",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-what-cybersecurity-operations-can-learn-from-self-driving-trucks.md",
       "title": "What Cybersecurity Operations Can Learn From Self-Driving Trucks",
       "excerpt": "It might not be the first comparison you’d think of, but there’s a significant parallel between long-haul drivers and front-line cybersecurity analysts. Both sets of people sit before screens – either glass windshields or computer monitors — for hours at a time,",
@@ -1553,7 +1709,7 @@
       "path": "_posts/2020-02-05-artificial-intelligence-software-market-to-witness-huge-growth-by-2025.md",
       "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
       "excerpt": "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data.",
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05",
@@ -1725,43 +1881,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-fintechs-consolidation-creates-investment-opportunities.md",
-      "title": "Fintech's Consolidation Creates Investment Opportunities",
-      "excerpt": "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05",
-      "ampWebUrl": "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp",
-      "publishedDateTime": "2020-02-05T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1823106049",
-          "width": 1024,
-          "height": 512,
-          "title": "Fintech's Consolidation Creates Investment Opportunities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -2022,124 +2141,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one.md",
-      "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
-      "excerpt": "Bernie Sanders and Elizabeth Warren. Pete Buttigieg, who proposes the less radical “Medicare for all who want it,” can point to Trump’s rant as a reason for Democrats to support him. But all the Democratic candidates should come away from this speech with a recognition that Trump will be a formidable opponent.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one",
-      "ampWebUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
-      "publishedDateTime": "2020-02-05T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/4bc5b3c/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F37%2F4e8a13c64254b008d334ca3f9f93%2Ftrump-impeachment-54621.jpg",
-          "width": 320,
-          "height": 209,
-          "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-powerful-new-tool-helps-journalists-identify-manipulated-photos.md",
-      "title": "Powerful New Tool Helps Journalists Identify Manipulated Photos",
-      "excerpt": "“Assembler is an early stage experimental platform advancing new detection technology to help fact-checkers and journalists identify manipulated media.” Assembler works by combining several “manipulation detectors” into a single tool. Each individual detector—some brand new and created by Jigsaw, some created by academics at various ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://petapixel.com/2020/02/05/powerful-new-tool-helps-journalists-identify-manipulated-photos/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PetaPixel",
-        "domain": "petapixel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://petapixel.com/assets/uploads/2020/02/manipulation_feat.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": "Powerful New Tool Helps Journalists Identify Manipulated Photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle.md",
-      "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
-      "excerpt": "... Prospects by Gearing Yourself with the In-Demand Azure Cloud Skills Machine Learning in the Cloud with Azure Machine Learning Process Real-World Datasets Using Sophisticated Machine Learning Models in the Cloud Azure Project-Based Hands-on Training",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329629_azure-6_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

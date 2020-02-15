@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Business Journals
@@ -26,6 +26,19 @@ images:
     title: "Local speech recognition tech company partners with global call center company"
 
 related:
+  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
+    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
+    publishedDateTime: 2020-02-04T11:05:00Z
+    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
+    type: article
+    provider:
+      name: WYMT
+      domain: wymt.com
+    quality: 33
+    images:
+      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
+        width: 690
+        height: 388
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
     excerpt: "The AI-algorithm that powers SpeechX is based on proprietary evaluation parameters of Mercer | Mettl and grading mechanism of its technology partner CarnegieSpeech that in turn leverages state-of-the-art and patented speech recognition and pinpointing technology licensed by the Carnegie Mellon University. SpeechX assessments can be taken from ..."
     publishedDateTime: 2020-02-06T02:31:00Z

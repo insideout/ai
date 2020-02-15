@@ -1,19 +1,19 @@
 ---
 category: news
 title: "‘Disgruntled’ ex-Waymo driver accused of deliberately causing crash with self-driving vehicle"
-excerpt: "PHOENIX — A man described as a disgruntled former Waymo driver has been arrested on suspicion of deliberately crashing a passenger car into one of the company’s vans with self-driving capabilities near Phoenix, authorities said Thursday. This undated booking photo provided by the Tempe Police Department shows Raymond Tang. Tang, described ..."
-publishedDateTime: 2020-02-14T15:06:00Z
-webUrl: "https://www.siliconvalley.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/"
-ampWebUrl: "https://www.siliconvalley.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
-cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
+excerpt: "A man described as a disgruntled former Waymo driver has been arrested on suspicion of deliberately crashing a passenger car into one of the company’s vans with self-driving capabilities"
+publishedDateTime: 2020-02-14T14:40:00Z
+webUrl: "https://www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/"
+ampWebUrl: "https://www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Silicon Valley
-  domain: siliconvalley.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - AI
@@ -201,6 +201,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "OyobgAxEERl0p7VpI8teE7ZliyW61raNiaaWdtU85n7KLOm44St1G8M6Mw2cmww1qkjeFOdLgheaNqXvg8mY/IYSLiOZucKo54+gH2m6WENcsapbQTaEFDIY+6Uw3p7q/LS1ustzuMRnckdSalMQKt38rf+G7FXIMwGj5xldfe1AAcMV+wlEAFzjGUt3mN/AbGv5qk1e1q6bDDyMvhuEOQufZRTh+GPfZSBmfg9BZmkD4emzhDIxlnUkf3DsTC7toQB3ciSyygZxRjbVmDhlM97MZvmEjJMOB26efx5+upGHPuDe2m/7NdJCIubBAPny;/PGzNKuesYaWUjoifE6lrw=="
+secured: "pJyxYk06qUDXLMIBOPuP3NnBB0khS2PwbDNs796qoCZnO8CL6pKx8FqDNRGyUW0HWrqGkVb+EIox72a17s9CwPMaOV3vny1k8lGNI9ltFMpd0HS/WOW+XAEiewRbIpWzk5ljtFr/BRvKaZYsS42HGFJ1foDEIJXtgMFuz7YCQPmay10wk9lu/O3wn137P3FTqQeo2JWrUK9ICF3ptdbc7z3GM+TWzOkCb1sXIF3axh7H2L3v8RlUx7GKZ1VtLK7YWaufp997QvOk8BUdjYY9mK53fi0ut6atRxr82O6nqICr/CvH2fWmmHrHoKZ9R+VU;RaU8o0yWMH/ww72Wv4m74g=="
 ---
 

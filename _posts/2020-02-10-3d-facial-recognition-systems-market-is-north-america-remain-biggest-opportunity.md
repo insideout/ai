@@ -52,15 +52,6 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
         width: 1280
         height: 640
-  - title: "Internet giants reject controversial facial-recognition start-up"
-    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
-    publishedDateTime: 2020-02-06T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
 
 secured: "MFiiSO/SqJG1/xyKeDqYaKzxo2SmZELF6HN23jyTgtRWuVQHoqhaqg/yTSHlzVNaNG45uEaPHyvhAeSE0gabbfRqxsb4tPQ3pLjBauQ2Dy+Zi3IKFcOzh118o3pG6Ib4fRAOmGVJ8rUsfJCiOxgyjlIDpFikc8lS9JXmqilVZLh8DorQXz9eYKCwY0XX39wZw/1ihCTd4uO0paQW8d583b2U/vCpJLW9wrlrInYotaUGsJeDJ+gdSWTL4QbTyrjBX4XLScA9/CkXO/qQK3mvz0cOTWd7+BgCpeBkGW2//3k541T0WrjScnkoKjjS2glW;L8t4Lsgj5MnfZVut3qI4cw=="
 ---

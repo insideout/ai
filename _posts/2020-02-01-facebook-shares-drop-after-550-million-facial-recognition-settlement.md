@@ -18,21 +18,21 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facebook will need to pay $550 million over face recognition issue"
-    excerpt: "Remember back in 2010 when Facebook started tagging you on photos? That was the starting year of the company’s facial recognition software. However, the feature came without anyone’s consent. Shortly after, a case against Facebook was set in motion and the legal dispute officially started in 2015. Join GizChina on Telegram In 2018 the case ..."
-    publishedDateTime: 2020-01-31T19:11:00Z
-    webUrl: "https://www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/"
-    ampWebUrl: "https://www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/amp/"
+  - title: "Lawsuit filed against facial recognition company CPD works with"
+    excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
+    publishedDateTime: 2020-02-04T00:24:00Z
+    webUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/"
+    ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 74
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/01/105135707-GettyImages-944827400.jpg"
-        width: 678
-        height: 381
+      - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
+        width: 1200
+        height: 675
   - title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
     excerpt: "Facial recognition software is on the rise, so it’s no wonder why Facebook wanted to include this tech in their platform, starting in 2010. The use case here was to aid in photo tagging. By using facial recognition software, Facebook users were being prompted to tag various people it thinks are your friends. Now, Facebook does give the ..."
     publishedDateTime: 2020-01-31T17:44:00Z
@@ -48,34 +48,51 @@ related:
       - url: "https://theamericangenius.com/wp-content/uploads/2020/01/illinois-31500_1280-1-1000x600.png"
         width: 1000
         height: 600
-  - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
-    publishedDateTime: 2020-02-01T20:13:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/01/business/30reuters-facebook-privacy.html"
+  - title: "Facial recognition helps Volusia County Sheriff's Office solve crimes"
+    excerpt: "VOLUSIA COUNTY, Fla. - The Volusia County Sheriff's Office is using a new facial recognition program to help catch criminals. The new technology, called Clearview AI, looks through social media to help law enforcement find someone based on a photo. Deputies can input a picture into the Clearview AI system. The technology will compare it to ..."
+    publishedDateTime: 2020-02-04T02:20:00Z
+    webUrl: "https://www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes"
+    ampWebUrl: "https://www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes.amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 55
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 59
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:02:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/02/932/470/facial-recognition.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+  - title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
+    excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
+    publishedDateTime: 2020-02-05T17:43:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
     type: article
     provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 50
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 57
     images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
+      - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
+        width: 1280
+        height: 720
+  - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
+    excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
+    publishedDateTime: 2020-02-05T22:16:00Z
+    webUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting"
+    ampWebUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 51
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
+        width: 980
+        height: 551
   - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
     excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
     publishedDateTime: 2020-02-03T23:00:00Z
@@ -91,17 +108,19 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
-  - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
-    excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
-    publishedDateTime: 2020-02-04T11:29:00Z
-    webUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/"
-    ampWebUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
+  - title: "“Coded Bias”: New Film Looks at Fight Against Racial Bias in Facial Recognition & AI Technology"
+    excerpt: "So, this can be around perceiving the world, so computer vision, giving computers eyes. It can be voice recognition. It can also be about communication. So, think about chatbots, right? Or think about talking to Siri or Alexa. And then, another component to artificial intelligence is about discernment or making judgments. And this can become ..."
+    publishedDateTime: 2020-01-31T13:15:00Z
+    webUrl: "https://www.democracynow.org/2020/1/30/coded_bias_shalini_kantayya_joy_buolamwini"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 26
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 44
+    images:
+      - url: "https://www.democracynow.org/images/story/25/51025/full_hd/SEG2-AI.jpg"
+        width: 1920
+        height: 1080
 
 secured: "JFShEPQ8R/O37leJseceMPUmOJFJALLC15UwUkleiqOkt4JjCT44yyZ5uZMbM8+qobygVCTJUqQdrnW1o7rngp5t5lfpP5srYTBIgu9IfGyFSXiGKmHwR/zUgcbC8HAWHRWPINBKIgjP9e98KycpM98jQlRuiuawk2B9cFZLHL4A/e6wMywUrMlw/DrmQDCWFMFbnSaYkE8yoV2sbxKEjdFTlfRzav3P9yTc/tE4fmFQGIT7/CfDn6uihEiDa4ggrgTWhsTDT/f88OQ1nZkDCTPkamNwuaV5BZ0MsyIRQQzIEualvCsr3atFEV+/dc+UuTwu1WA6QJ7AX2tx5iwg+wyFwPePhP+AuDiNWBZPXV1nMV3wDMCWbOTJT4B/sr3HMACQF9sNWHZyCSnTxdAMRopRJ1bXd51IWbkmyqdg0nRCPA+5/zSbl3Wxr+L6vN4To635nwx6eBIPd2ZzXAXSwhLpL0pdt621JcqHfUJxcq0=;5SDnl4RHcaAE2c7EnDLhkQ=="
 ---
