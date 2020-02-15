@@ -31,21 +31,6 @@ images:
     title: "Facebook launches 3D deep learning library for PyTorch"
 
 related:
-  - title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
-    excerpt: "As of March 2018, it incorporates Caffe2, a deep learning toolset pioneered by University of California, Berkeley researchers and further developed by Facebook’s AI Research lab. While ..."
-    publishedDateTime: 2020-01-30T17:01:00Z
-    webUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/"
-    ampWebUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "How to learn PyTorch: A resources guide for developers"
     excerpt: "Developed by Facebook, PyTorch is similar to Google's TensorFlow in that it runs on tensors, but instead of using static computation graphs like TensorFlow, it utilizes dynamic computation graphs. If you are interested in learning PyTorch, the following list of resources can help you get started. SEE: Hiring kit: Python developer ..."
     publishedDateTime: 2020-02-07T19:08:00Z
@@ -61,6 +46,15 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg"
         width: 1200
         height: 718
+  - title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
+    excerpt: "As of March 2018, it incorporates Caffe2, a deep learning toolset pioneered by University of California, Berkeley researchers and further developed by Facebook’s AI Research lab. While ..."
+    publishedDateTime: 2020-01-30T17:01:00Z
+    webUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Facebook acquires UK machine learning AI start-up Deeptide"
     excerpt: "A regulatory filing at Companies House shows that Facebook now controls 75 percent or more of shares in Deeptide, which controls Atlas ML, the company behind the 'Papers with Code' resource for machine learning. According to unnamed sources from London's ..."
     publishedDateTime: 2020-02-11T10:11:00Z

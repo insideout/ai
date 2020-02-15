@@ -24,6 +24,6 @@ images:
     height: 771
     title: "An Open Source Alternative to AWS SageMaker"
 
-secured: "x57333cmp3S7zoibzmKINzojDYM4DWBq2oPVpvnh8TGBBENWkmWdgOSqXCpcAoCubdiNza9kfGNS4DgPDtQHXPQNxJmUCoe5cj0xANBxll2OK0hCYK2MEAGxtxK0/SpMXUVBAvqPRPOUSaHvEj64hdAgiGbOGv60EpKe5uIIDyZ4DK+yUHjLQjGZ1+sw/Ccl+PGblfCBhXvFU2jZvLMESRncVwm93wuDqdtYXt19xmQbunyt6d8P1fYv4u5o4GqifON5NGXPLqqdTmgDNmjx5LkMsQo16HliecM/Z+1M7vSIaYM2FoMFLMg9aXgkVLO1;6XIhtTAwSv9Q6ZeyKZSVmQ=="
+secured: "c9/N5oppAFNqldCKvK7Ld/AKuVm8awT/nU45uRZ0cdd6b5wrgrKuclXHCux3xeSJaCVryQFdxgIJb8jDuDTh2eeTTct+9V0LDee66D/RNGob+uBBvl80gtOQ8WTRyFWAUjLizUIQyITSAvrDuz85NR6vAwCTV46g+/LPM7XL/3lZdw6AUlpaxhCCfE/Zi7spHffJPluShSWB7XJjqdtp11xuIIgbzFNeKuh/mlOM0gIntrCTyBbX8qrs/oA24LwL4B34QN6CbFcZ7s+bKxSC/UD6q5LkTPzFewXB6YPPYrliAnyU9HPTZujj4TTN7IhP;2tcqz/5oK5CYixdoQj1m5g=="
 ---
 

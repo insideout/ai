@@ -5,8 +5,8 @@ excerpt: "Designed with developers in mind, Media3 Cognitive Services utilizes t
 publishedDateTime: 2020-01-28T13:41:00Z
 webUrl: "https://www.prnewswire.com/news-releases/media3-adds-full-suite-of-ai-cognitive-services-300993605.html"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1082349/Media3.jpg?p=facebook"
-    width: 720
-    height: 381
-    title: "Media3 Adds Full Suite of AI Cognitive Services"
-
-secured: "aBC2/1Rwb97ueyt9nZD9Ir8jagaWK3b/0wt+/2zJdrTdkzsqhfTCXFve5vTdPjVunYOlzsKbLjDpqyOC1u+OkgXaVS365TDLp3ycdkXabz94G6c0gK1CvpAwi2j6crq87tCMjNJM5tASs1qGxZ53dry92CqtX4Xs+X9dP1CZ/wnT8fgr0hz4DF93kCCczExgrExe+nVhYK+4gpHV15iU0oPwqpT1ucMsERpoVFW5pq2WYLZRBodWwjypDd7DMRanmOl5PcUQFhhBv5XBL1dYzIOIbI55b1RU6oDFnAVprhdU+iqz9X+Tl7n7kypeKAEX;6ulGny0krz3gHFHVloqzKg=="
+secured: "5mkahCbxo5Pt0t+OaAf5mMEbRRNRPP5U4yjb3dcsOf19cglw+IiWmzbl81jvRmn6SO57B7z8UZ9qeAxSv5z+ULIGIc0FaKWd/lvV+gA2jMjKzVcumk1YDssEvY0xpURWYH3CgOhCTaGZe0OW02VBUT8t6fX6zYdE4salzGe94bhklQCilGo0fymUvvNQseiblMZSS0Yui/p/3kVh1O0VCgJlJDZLE8DUj6dbiX8I7KX8beNBf6tcc348DPQQVI6t/BlVhb5D/PMToSG+uHcigKwKmU7vSYpbwzrN/d2kXvgVLGqE03N8mVzWQx1mUz0N;FeSzUXUpQuop+LF6g3X6hA=="
 ---
 

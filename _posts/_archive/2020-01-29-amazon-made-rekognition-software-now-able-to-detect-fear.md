@@ -4,12 +4,10 @@ title: "Amazon-made Rekognition software now able to detect fear"
 excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
 publishedDateTime: 2020-01-29T19:06:00Z
 webUrl: "https://mashable.com/video/amazon-rekognition-adds-fear/"
-ampWebUrl: "https://mashable.com/video/amazon-rekognition-adds-fear.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Mashable
@@ -19,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU="
-    width: 1200
-    height: 630
-    title: "Amazon-made Rekognition software now able to detect fear"
-
-secured: "luIEKrToBUOyZ//P4UxIBG4SHXWMaQYmvgxewKIYtjMudgdAXai3Tcf7tkJwa0CCnEPsfuGVxi91905LFOBMAzAaNKVq1fHUgp7FpvQqJCX4/2cQiBRWe7T3w4IfRjjgngZ13LtzGu+kkDFkmNrpIPDiM/U/oUmTYtZWn533jpbU75UfCpulIXm2mTkc9JcNrMRTsgbXxyOF2c6xTjpezgMCVZvXTeWBRU8gicrouHUwP8AcOAGjVNbkcwn6x3LkQ1vOIviTxUKwFalJXK0MdM/Yvb4/GTif5dlPRRYBiaWroVyk9LJW6S/ZiJZ1JYhi;wt+S5sNsuZV3rvvHu5A+jw=="
+secured: "PnnzMTvUXvG9YsrOvcgt63tAr7JebFIlNthxAy/JkduW8fGi/9LWNC0CIGyaNdwcXQCGLzm2UHJUfSmXFq7XNIcKmntQkM7KTJSpZm/3OI5hDhA83YhuFWhy5yUu/i5wD6LsnSZeGbIr37YNJ5ItaSI72IMxBmFgpwawxKYCbFNtfgGpgEeeRScXekHOwbtmqW+ZeuG/45Dv9ZFRSZLox6AQSJuL+eh7kiFRHiLwL3rGL6Gj3J+IDy6CMvI70x67P71L57tiiu/A61eOQYwEYgL9/46dGqlsIKYmMCshOSILoTTGK2lHAictg7yCtO/p;QrCA0l9eSVtTApY3+X7YxQ=="
 ---
 

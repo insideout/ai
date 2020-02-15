@@ -5,8 +5,8 @@ excerpt: "Machine learning unlocks a universe of new possibilities – in medica
 publishedDateTime: 2020-01-30T18:24:00Z
 webUrl: "https://www.datacenterknowledge.com/microsoft/azure-s-new-hardware-security-feature-takes-cues-xbox"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/xbox%20one%20controller%202014%20getty.jpg"
-    width: 1024
-    height: 655
-    title: "Azure’s New Hardware Security Feature Takes Cues from the Xbox"
-
-secured: "CbdDoX7FO8rPZJ+97N2F+8GvkEfjv88Vun4r3vy8yu3JnBqkGEpbrGt7jQjJF4rd3Q++HTlix4LoQT2iVthqo4FOmlyYCwOz7AKHl/eKHdrGiN6zoqjieKzLOmJIbJRfDRbNd6wGxBPidFmepb4YbU0tMvST87hLwG+zmanXzlVWaZ5HGwHGe5kd1+nq9edGoj2dNiEdHBM5cL6+NOOhZ2lwNdL79MMmZy/dKsQRhL+4DRJC/P+Fsrk5PZQgDxqJZZ4CxzGmRIMj+l7sRYmis91Awjnjlqn7WcOLrbwecZVLWFCOkNJ9S0LCtsIZOZgL15tp/PPSP46DMJwpfuH7XzQTtIJzrgabGDAtw+4ZTtO8BLGbmeHRI0NGVWjO7XN2Gk9C5n2Edre7cNHGJ8r0D9LcGDIR5yG4p3qsJvjQLehl7HBHAdkLWtEpztLlST1IotFNOX7hZe6z4kYTCYF6F2qJ1QJlmBgurihjhqKYNrw=;Ip+3PRz4QjKLMYbuWOTJFw=="
+secured: "P9VB4vZFgCd1AvmlDM1INca1+JAg/E0FeDMWsImvfamz0PBwH2PR38e1Cfm6OTKfg2YqyglIyPrSncor9WzSpvokGXpn1wGeh8dBSH5XE7zmjFpA5YHumvsDN+R6VBZ03YUoBhK9bhrF9T3mdPqRvN4izE09fcX5WmQkpGZPGZfBo7G8x9e7igLLL0R+kqzg2jnjTbkZPSdN+qX8qhaeo0AUmLQssjLNSQ3Q+6BwG6Ybv2FKaQ6gBfTDIBMxZxWaNc9jQpHHqFI/IG7ycshJpOI7wsfLcyyDQh9Y/cEgYoqDUu53krEfXzld+Aw0g16T0IBd2P9U8LWbS4Tk9IZyWzrfobZN1VgXxHtkmcnE5SoFCaSTdie1qwYKmmm7EX445utDehLRYYbi15Q3zflHh+SnAm48fo0uI8/1BTBo+KZ1/BE/XUd4bBQNhoQfFgRvvxPrS9Jwpln+HOrdyovqglLpd4jFxCkiT1bpnwLgKg0=;ZmW99trDUZOh0Xo5lIq5yw=="
 ---
 

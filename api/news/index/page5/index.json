@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-10-robots-arent-taking-over-and-other-lessons-learned-from-2-decades-in-the-logistics-tech-industry.md",
-      "title": "Robots aren’t taking over, and other lessons learned from 2 decades in the logistics tech industry",
-      "excerpt": "Editor’s note: The following is a guest post written by David Glick, CTO at Flexe, a Seattle logistics startup. I’ve spent a lot of time in warehouses ... You may have seen videos of robots zipping around the warehouse and heard the rumors of AI and automation replacing jobs. I don’t agree. Logistics is a $1.6 trillion industry; a ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/",
-      "ampWebUrl": "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/",
-      "publishedDateTime": "2020-02-09T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/Glick-Guest-Post-Pic-630x387.png",
-          "width": 630,
-          "height": 387,
-          "title": "Robots aren’t taking over, and other lessons learned from 2 decades in the logistics tech industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
       "title": "SoftBank-owned Arm to launch new AI chip for small devices",
       "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
@@ -2154,6 +2109,51 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-to-protect-people-we-need-a-different-type-of-machine-learning.md",
+      "title": "To protect people, we need a different type of machine learning",
+      "excerpt": "But these measures haven’t solved the biggest security problem — an organization’s own people. Traditional machine learning methods that are used to detect threats at the machine layer aren’t equipped to account for the complexities of human relationships and behaviors across businesses over time. There is no concept of “state ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/amp/",
+      "publishedDateTime": "2020-02-11T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/7-ML-learning.jpg?fit=2160%2C1078&strip=all",
+          "width": 2160,
+          "height": 1078,
+          "title": "To protect people, we need a different type of machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

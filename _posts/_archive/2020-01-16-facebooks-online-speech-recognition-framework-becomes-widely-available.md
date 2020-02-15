@@ -5,8 +5,8 @@ excerpt: "Facebook has announced that it will be making its wav2letter@anywhere 
 publishedDateTime: 2020-01-16T00:00:00Z
 webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-    width: 849
-    height: 565
-    title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-
-secured: "Z9JKJ40uCCVAyYMkuwFyQhXnP5SQ7rizDKlRkss2vAe+C5uNTNOGb9XQci/ht3EaZrbNHVUVBps02eCTTDVNHbaQe435GbCxLKhooMm9ofnuIhe7EN3VFgZskY7qcDEGt2XrsPm+lf9Jy10Cw6WTASrMnbp4R+aIQ73FeS4PUFHMcDkDcLLwvh7GWzi2+zmqGBMQRsse74dNiJC4jXxpzBHcal9d1srShvTvYaC2j+4/j8m9ePubGIiJ1Vncl2+AlgXyXfqHj2tGkWK6aQ1kghY10w0qgVtUEE+l72w/1vuAoodVCLWsAQuMNjc3003D;TK+uO9AdrnkTF6WOcVdpEA=="
+secured: "Ire3BQqT42vtt5Q5BAeEIqmHUYQLDBVPv+ds6tuZoho+aOJTUXyFRNjhGK2C6/NefORqNYVrqDYDAkBn1sUWUZzALzD8jmXuBjVWVoVs+VDAKAcgNaeQOzT2dHcm2G+D9sQ/3Md3hQ5uDIcBzIxd+X0MuB4HzY6bmT0Q/bZBQd18QRxdDNOjQMngXXHMbYGR/9VMLwgQLKzG3dI8nKxUjEsYwBADVPOYTe4jeUBMmwv1cLsgkhOd1ok4VUpb6OffdcRvvw4+rxQw2oBMZ6EJi02g5skaH05N/qjDWoPeehjRcKZp79tY960ArYFFYhwh;DpRHRWMSN0zfEt4qe0BfYA=="
 ---
 

@@ -52,21 +52,21 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
-  - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
-    excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
-    publishedDateTime: 2020-02-04T02:51:00Z
-    webUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
+  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
+    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
+    publishedDateTime: 2020-02-03T23:00:00Z
+    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
+    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 44
+      name: Canoe.com
+      domain: canoe.com
+    quality: 46
     images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
-        width: 2016
-        height: 1512
+      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
+        width: 1000
+        height: 750
   - title: "UPDATE 1-Moscow court case challenges city's facial recognition use after launch"
     excerpt: "A Russian court on Friday heard a legal challenge to Moscow’s rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month."
     publishedDateTime: 2020-02-08T10:21:00Z

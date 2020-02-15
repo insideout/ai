@@ -24,30 +24,67 @@ images:
     title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
 
 related:
-  - title: "Local speech recognition tech company partners with global call center company"
-    excerpt: "A Pittsburgh-based tech company has partnered with a call center company that serves clients around the world."
-    publishedDateTime: 2020-01-31T13:07:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html"
-    ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
+  - title: "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society"
+    excerpt: "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ..."
+    publishedDateTime: 2020-01-31T22:41:00Z
+    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 55
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 58
     images:
-      - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
-        width: 600
-        height: 400
-  - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
-    excerpt: "The AI-algorithm that powers SpeechX is based on proprietary evaluation parameters of Mercer | Mettl and grading mechanism of its technology partner CarnegieSpeech that in turn leverages state-of-the-art and patented speech recognition and pinpointing technology licensed by the Carnegie Mellon University. SpeechX assessments can be taken from ..."
-    publishedDateTime: 2020-02-06T02:31:00Z
-    webUrl: "https://indiaeducationdiary.in/mercer-mettl-partners-with-carnegie-speech-for-english-language-assessments/"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
+        width: 796
+        height: 419
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 1
+      name: C-SPAN
+      domain: c-span.org
+    quality: 39
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
+  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
+    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
+    publishedDateTime: 2020-02-04T11:26:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
+    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
+    publishedDateTime: 2020-02-03T21:46:00Z
+    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
+  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
+    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
+    publishedDateTime: 2020-02-03T14:21:00Z
+    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 18
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
+        width: 640
+        height: 461
 
 secured: "dAPVXFss6x9dEoZHhhT2PObCN0gfAYoINJUM+fMKLqFMfvUqFUKe39BS+1eVuD1UouHaF6No+QEArB1el6vk9VHrkXL/0Bjk+k88tVk9Nr2k+aTK8ZXJaJLF7nukUhVvp6poIY6svWJzpwY4XvJvUABPDc9S3vePfCLT4tECQRTy7ZvaLdPBylOFze3Ar+VN5xTFdA6VFWhiu1BbWpe54qS29ewNgulX0no8gsDJoA50fg80Sxn5upaIJYT5lTXXmZ9RLwOZfLhlHvuTURFUAQhVoo1PK5WfHl8EmamYncnecMvUA460jH8ZWZWTfpvc;uXugx97mmq6zEzQvoaD0FA=="
 ---
