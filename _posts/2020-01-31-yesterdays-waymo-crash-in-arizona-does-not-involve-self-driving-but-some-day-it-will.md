@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-way
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/amp/"
 type: article
 quality: 81
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2020/01/Waymo-autonomous-vehicle-city2-580x372.jpg"
         width: 580
         height: 372
-  - title: "Waymo: Self-Driving Vehicle in Manual Mode at Time of Crash"
-    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb caused by a sedan’s reckless driving, the company said. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved” in front of the Waymo vehicle, “braking aggressively and ..."
-    publishedDateTime: 2020-01-31T19:42:00Z
-    webUrl: "https://www.snopes.com/ap/2020/01/31/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 19
 
 secured: "VXm6L83f9+nBFwbNWEodVRcnQa9vTBwCLJnQKW0XjnUUKXfqfKUgSxafyH4oEJwrfhLSQRx3ECqOBgsvC9QbB7lS5PwmkrW5oYuekGNbc7kOwZhHHlxaWEyn7TlRhEKFv+DluvMr0YBF4b7x/0oqjtbYB8cPV8b4AG/al46JvxTsrb1C4U5eLo/6UovkfoZAxrPH/GcCzGuz0NffotBPw3bD70bJgNETKGcr79GN5Bud0udKL+U3himGYAXDaTxtkUrok9YFLD3a4KhRLOyD0CSOxl23lUPACqPlIWmcGdxWBJSWX1W0ucqL2GKeKGegmv8hMO6QPbgg//3XoQqdERVao+SaQsmdPuoB3R/z0Psuawbvj9nRjLBUdqI2Z5F1qTa89qArQOz88W4SRQL+iXpjFMRdtyuI0JbLxGtBpnzQ52Hd5awBW9KZyfTAksmMwXFp8EtpvG59kzWeAGHqG1V4rb9+soEDw7cNXGHwyLo=;rtVjtHjGjuInIzC1Hc/tFQ=="
 ---

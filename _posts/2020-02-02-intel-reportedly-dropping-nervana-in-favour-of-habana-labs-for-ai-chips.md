@@ -39,21 +39,6 @@ related:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-02-ts3_thumbs-dcf.jpg"
         width: 800
         height: 560
-  - title: "Intel Lays Out Strategy For AI: It’s Habana"
-    excerpt: "Last month, Intel announced that it would acquire Israeli AI chip startup Habana Labs for $2B. At the time, I opined that this probably spelled the end for chips from the 2016 Nervana acquisition. Intel planned to bring out both the inference and the training versions of Nervana’s second attempt to out-perform NVIDIA by the end of 2019."
-    publishedDateTime: 2020-01-31T18:55:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3474dcf133f400076b4e60%2F0x0.jpg"
-        width: 899
-        height: 568
 
 secured: "hT6I5Ww3WUSYTxyh3kR/OUuPbwWx+s5p9iWtuvrx3WSegCM2r5N2dQLzXddG7Dw5wTrSymRnQgYdkJOFz/Reclic+s0sQeXZNA6s+pAE5NJ3rUjERjMRuYmkBFUfGfdUvTOcsqvSKYmolllnJlJ0bbx8mTSac+boQ04t/8f1wtAhG0iQCPPAeIOSSo4uHTDdRBUiYbyHih6hjxPIrOlyOi+v+OIKCb2j7kuK0RKNZGZJPXzra0GDyJW/UowRHJeDKKbPjR5VfTGhI2xXCvcGIwdDovR0YMfTg7e6SUXCiXWPEt0cfxN61VQXnxp1eLUgwPjwMKgggmAaSBvSrelBZoyI0ao0unFZd3uHxkL8ZQiaq1GiUpFpWEU6jL6TS5rBd0Uzcq9ZQuoZh+dWz0lg0avMW6FmbPDBoTQDkGMj3IZVGsaoRsWoo8Hzuioz7kGehekkSQQLgw8mMVjbcT0jH2r9/PwmXKz9r61nQswic2w=;ZPazL1POak5NMex5H/9Jug=="
 ---

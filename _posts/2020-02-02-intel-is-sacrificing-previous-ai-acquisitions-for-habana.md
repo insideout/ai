@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/83826-intel-sacrificing-their-prev
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html"
 type: article
 quality: 189
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Intel is sacrificing previous AI acquisitions for Habana"
 
 related:
-  - title: "Intel Lays Out Strategy For AI: It’s Habana"
-    excerpt: "Last month, Intel announced that it would acquire Israeli AI chip startup Habana Labs for $2B. At the time, I opined that this probably spelled the end for chips from the 2016 Nervana acquisition. Intel planned to bring out both the inference and the training versions of Nervana’s second attempt to out-perform NVIDIA by the end of 2019."
-    publishedDateTime: 2020-01-31T18:55:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3474dcf133f400076b4e60%2F0x0.jpg"
-        width: 899
-        height: 568
   - title: "Intel reportedly dropping Nervana in favour of Habana Labs for AI chips"
     excerpt: "Intel has been looking to pin its flag in the AI market for years now, with efforts to create AI chips kicking off with the purchase of Nervana in 2016 and extending to a huge $2 billion acquisition of Israeli firm, Habana Labs. While Intel only just announced new Nervana Neural Network processors a few months ago, it looks like the company’s ..."
     publishedDateTime: 2020-02-02T19:00:00Z

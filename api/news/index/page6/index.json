@@ -2,51 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-11-three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes.md",
-      "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-      "excerpt": "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience.",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "publishedDateTime": "2020-02-10T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-to-protect-people-we-need-a-different-type-of-machine-learning.md",
       "title": "To protect people, we need a different type of machine learning",
       "excerpt": "But these measures haven’t solved the biggest security problem — an organization’s own people. Traditional machine learning methods that are used to detect threats at the machine layer aren’t equipped to account for the complexities of human relationships and behaviors across businesses over time. There is no concept of “state ...",
@@ -753,7 +708,7 @@
       "path": "_posts/2020-02-12-met-police-try-to-calm-tensions-as-live-facial-recognition-hits-london.md",
       "title": "Met Police try to calm tensions as live facial recognition hits London",
       "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
-      "heat": 169,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
@@ -2172,6 +2127,50 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026.md",
+      "title": "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026",
+      "excerpt": "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

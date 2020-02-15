@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-01-31-google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation.md",
-      "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
-      "excerpt": "Sequence-to-sequence AI models, which were introduced by Google in 2014, aim to map fixed-length input (usually text) with a fixed-length output where the length of the input and output might differ. They’re used in text-generating tasks including summarization, grammatical error correction, and sentence fusion, and recent architectural ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
-      "publishedDateTime": "2020-01-31T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-31-what-differentiates-ai-leaders-according-to-a-founder-of-globant.md",
       "title": "What Differentiates AI Leaders, According To A Founder Of Globant",
       "excerpt": "I recently sat down with Guibert Englebienne, CTO and co-founder of Globant, a digitally-native technology services company committed to leveraging the latest technologies and methodologies to help organizations thrive in their digital transformations.",
@@ -90,55 +46,10 @@
       ]
     },
     {
-      "path": "_posts/2020-01-31-why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society.md",
-      "title": "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society",
-      "excerpt": "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ...",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg",
-          "width": 796,
-          "height": 419,
-          "title": "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-01-31-yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will.md",
       "title": "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will",
       "excerpt": "On Jan 30, a crash was reported between a Waymo Chrysler Pacifica minivan and another vehicle, causing minor injuries to the safety driver. Reports suggest the other car acted erratically and cut quickly in front of the Waymo vehicle,",
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/",
@@ -274,7 +185,7 @@
       "path": "_posts/2020-02-01-big-brother-facial-recognition-cameras-are-watching-you-more-than-ever-right-across-britain.md",
       "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
       "excerpt": "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ...",
-      "heat": 144,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
@@ -413,7 +324,7 @@
       "path": "_posts/2020-02-01-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
       "title": "How AWS is making the Six Nations 2020 the most immersive yet",
       "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techradar.com/sg/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
@@ -800,7 +711,7 @@
       "path": "_posts/2020-02-02-intel-is-sacrificing-previous-ai-acquisitions-for-habana.md",
       "title": "Intel is sacrificing previous AI acquisitions for Habana",
       "excerpt": "The big picture: Intel is keen to break new ground in the AI space, but playing hard and fast often results in casualties. Today that’s Nervana, an AI chip startup that Intel acquired in 2016 for roundabouts $400 million. Existing agreements will be honored, but from now on, all AI research efforts will be directed by Habana Labs. Intel ...",
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techspot.com/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
@@ -839,43 +750,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-02-nypd-pushes-back-against-facial-recognition-ban.md",
-      "title": "NYPD pushes back against facial recognition ban",
-      "excerpt": "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ...",
-      "heat": 214,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/",
-      "ampWebUrl": "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/",
-      "publishedDateTime": "2020-02-01T23:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": "NYPD pushes back against facial recognition ban",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1525,7 +1399,7 @@
       "path": "_posts/2020-02-03-how-chinese-tech-giants-are-assisting-in-the-battle-against-coronavirus-with-ai.md",
       "title": "How Chinese tech giants are assisting in the battle against coronavirus with AI",
       "excerpt": "Chinese tech giants Baidu and Alibaba have opened up their gene sequencing AI tools to help them find a solution. Alibaba said last week it had partnered with The Global Health Drug Discovery Institute from Beijing, to develop an open-sourced data platform to track coronavirus using AI. The company has also offered its tools to other ...",
-      "heat": 223,
+      "heat": 213,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/",
@@ -1613,7 +1487,7 @@
       "path": "_posts/2020-02-03-how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai.md",
       "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
       "excerpt": "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ...",
-      "heat": 139,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/",
@@ -2122,6 +1996,139 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-amazon-pollys-brand-voice-taps-ai-to-generate-custom-spokespeople.md",
+      "title": "Amazon Polly’s Brand Voice taps AI to generate custom spokespeople",
+      "excerpt": "It has another rival in Microsoft, which offers three AI-generated voices in preview and 75 standard voices via its Azure Speech Service API. Amazon’s Brand Voice also competes with offerings from startups like Voicery, which delivers customized digital voices that sound impressively human-like. Text-to-speech tech startup iSpeech boasts ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/",
+      "publishedDateTime": "2020-02-04T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon Polly’s Brand Voice taps AI to generate custom spokespeople",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations.md",
+      "title": "ArbiLex, A Harvard Law School Legal Tech Startup, Uses AI To Settle Arbitrations",
+      "excerpt": "With international arbitration cases resolved through international arbitration, the outcomes are on the order of millions and billions of dollars. Isabel Yang and her team have created ArbiLex to settle these claims faster for all parties involved.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/?ss=under30",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/amp/",
+      "publishedDateTime": "2020-02-04T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3736e4f133f400076b718f%2F0x0.jpg",
+          "width": 750,
+          "height": 496,
+          "title": "ArbiLex, A Harvard Law School Legal Tech Startup, Uses AI To Settle Arbitrations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-artificial-intelligence-in-computer-networks-market-competitive-dynamics-global-outlook-2026.md",
+      "title": "Artificial Intelligence in Computer Networks Market: Competitive Dynamics & Global Outlook 2026",
+      "excerpt": "ReportsnReports released a new research report of 128 pages on title 'Global Artificial Intelligence in Computer Networks Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2026' with detailed analysis,",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-competitive-dynamics-global-outlook-2026-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T01:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Computer Networks Market: Competitive Dynamics & Global Outlook 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

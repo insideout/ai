@@ -76,15 +76,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2020/01/Waymo-autonomous-vehicle-city2-580x372.jpg"
         width: 580
         height: 372
-  - title: "Waymo: Self-Driving Vehicle in Manual Mode at Time of Crash"
-    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb caused by a sedan’s reckless driving, the company said. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved” in front of the Waymo vehicle, “braking aggressively and ..."
-    publishedDateTime: 2020-01-31T19:42:00Z
-    webUrl: "https://www.snopes.com/ap/2020/01/31/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 19
 
 secured: "+hQ9YV6rxNeRumjifqKzC+XqZlhCbWSOq+XsOxQo/ys5l1y2ocdFUOa25Bw3b9ZC8/xZVgt/RKDJxrR3hYelD7Hhw5gQfjpm20HrbsAmkNbrCll9ge0RuHF/T7783Hwebc1Wqk5MNiqsLqkfFU/hKzDQ8i3hQFJNTjlFYS2oa31lkGUA29lBP24UdTb5IInbiCTjJVTlHn/nVQtD3rfG+k4PZzsp5p7mBbe4ueeQPtmdiajdfVoLWf/Gz0w+OXMng2o0pNLZ/h+tco0pYQ1p/hl0RcU2pawxMO+r0qSupyN36yNJmS5Ox/hzm9u63mEa;om4bBBZjYa45lHTLsDgoEg=="
 ---

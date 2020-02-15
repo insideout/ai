@@ -23,17 +23,6 @@ images:
     height: 800
     title: "Verizon boosts customer service with NLP"
 
-related:
-  - title: "Amazon Connect Helps AWS Partner Improve Annoying Customer Service Calls"
-    excerpt: "“Think of Connect as the sun, and Earth, Venus and Mars are like Lex and Polly and Lambda and SageMaker and other things that make the whole experience more impactful,” VoiceFoundry CEO John Marino said, referring to AWS services for building conversation bots, text-to-speech, serverless compute and machine learning services. “But Connect ..."
-    publishedDateTime: 2020-01-29T20:32:00Z
-    webUrl: "https://www.crn.com/news/cloud/amazon-connect-helps-aws-partner-improve-annoying-customer-service-calls"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 18
-
 secured: "rrKZI1EgkkNlBp3qI2VMiu/Kf1sfk0ZdT9XpAPbyE//ATfN2jYHs0en7NeGU7BAvux8RMWPiA/3ssCttOokkNtT8IH58PUQvDqgICrKmhxgDXjhfhEacyM9zPsi3++DcuYUxnHH2dncQh8X3Rooub6bt00THWGzqgiqPJYNY/TjLnrhxR5Vovkn/ecJgEEZiLPIUY55ju9S92qHC9Q9l2vIFPJ91Ad3OYK01co9U2zfTZ3NU5+Q6vl4ysToDxHDzGbNEY0UhddA/75FIwvEZANmz4xdi3H47JuJpxC6iU0aK9mN3DMvBa/ALml7ZRuOFzPXYdv0AXXkHUQlL61m5J3qH4I4cmI8BqykbmlFCWWeWrVDivHZOkBxYqq1cFFlaZMgdXGwwVwccn8OkL3uVKq00kwC2OEkWGP620JUr4ia8aylFmMzUEP7w/FpiIcRRZFc7DcXTygM73mjAAJ1+eqLHhs4jpkqO7Xs54OdfHVA=;nGWxTpYqxfzxehiUEKebmA=="
 ---
 

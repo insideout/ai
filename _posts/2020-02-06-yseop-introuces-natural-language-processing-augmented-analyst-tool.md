@@ -18,21 +18,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Assisted Intelligence vs. Augmented Intelligence and Autonomous Intelligence"
-    excerpt: "Among the models included under this umbrella are machine learning, natural language processing, image recognition and neural networks. The main difference between assisted and augmented intelligence is that augmented intelligence can combine existing data and information to suggest new solutions rather than simply identifying patterns and ..."
-    publishedDateTime: 2020-01-31T18:05:00Z
-    webUrl: "https://fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon"
-    ampWebUrl: "https://fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon?amp"
-    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon?amp"
-    type: article
-    provider:
-      name: fedtechmagazine.com
-      domain: fedtechmagazine.com
-    quality: 43
-    images:
-      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202001/GettyImages-1148091277.jpg?itok=MD1pYBMo"
-        width: 1440
-        height: 500
   - title: "Yseop introduces natural language processing augmented analyst tool"
     excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented Analyst, a new enterprise-wide NLG automated report generation platform. Augmented Analyst is designed to help financial companies accelerate their digital transformation. Stemming from the imperative to move ..."
     publishedDateTime: 2020-02-06T12:07:00Z

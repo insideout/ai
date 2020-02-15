@@ -26,21 +26,47 @@ images:
     title: "Volusia County Sheriff's Office now using facial recognition software"
 
 related:
-  - title: "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI"
-    excerpt: "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ..."
-    publishedDateTime: 2020-02-03T23:42:00Z
-    webUrl: "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/"
-    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/?outputType=amp"
+  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    publishedDateTime: 2020-01-27T09:55:00Z
+    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     type: article
     provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
     images:
-      - url: "https://www.clickorlando.com/resizer/PcJi2Ag6SraUM_iwCJL7aX2vp7Y=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-03-2020/t_8fba58e202f84dd7aafc4f5ebe91544b_name_image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+        width: 1200
+        height: 763
+  - title: "NYPD pushes back against facial recognition ban"
+    excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
+    publishedDateTime: 2020-02-02T07:20:00Z
+    webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
+    ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
+    publishedDateTime: 2020-02-01T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "City police eye use of facial recognition technology to fight crime"
     excerpt: "City police are assessing the potential to use facial recognition technology to battle crime — and the privacy and security implications of such a move. The Edmonton Police Service is currently in the process of “project assessing” the potential of using facial recognition to help with existing cases, police spokeswoman Cheryl Sheppard ..."
     publishedDateTime: 2020-02-02T11:06:00Z
@@ -56,81 +82,82 @@ related:
       - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
         width: 1000
         height: 750
-  - title: "Facial recognition helps Volusia County Sheriff's Office solve crimes"
-    excerpt: "VOLUSIA COUNTY, Fla. - The Volusia County Sheriff's Office is using a new facial recognition program to help catch criminals. The new technology, called Clearview AI, looks through social media to help law enforcement find someone based on a photo. Deputies can input a picture into the Clearview AI system. The technology will compare it to ..."
-    publishedDateTime: 2020-02-04T02:20:00Z
-    webUrl: "https://www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes"
-    ampWebUrl: "https://www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes.amp"
-    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes.amp"
+  - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
+    excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
+    publishedDateTime: 2020-02-01T20:13:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/01/business/30reuters-facebook-privacy.html"
     type: article
     provider:
-      name: WOFL
-      domain: fox35orlando.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/02/932/470/facial-recognition.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-  - title: "European parliament insists it will not use facial recognition tech"
-    excerpt: "Statement comes after leaked memo on use of technology in security provoked outcry"
-    publishedDateTime: 2020-02-05T16:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
-        width: 600
-        height: 360
-  - title: "European parliament says it will not use facial recognition tech"
-    excerpt: "Statement comes after leaked memo on use of technology in security provoked outcry"
-    publishedDateTime: 2020-02-05T16:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
-        width: 600
-        height: 360
-  - title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
-    excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
-    publishedDateTime: 2020-02-05T17:43:00Z
-    webUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/"
-    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 57
-    images:
-      - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
-        width: 1280
-        height: 720
-  - title: "Hardin County animal shelter using facial recognition technology for lost pets"
-    excerpt: "Users will be able to search the shelter and surrounding areas to find missing pets, locate the family of a found pet or search for adoptable pets."
-    publishedDateTime: 2020-02-04T02:03:00Z
-    webUrl: "https://www.wlky.com/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    ampWebUrl: "https://www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    type: article
-    provider:
-      name: WLKY
-      domain: wlky.com
+      name: New York Times
+      domain: nytimes.com
     quality: 55
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
-        height: 675
+        height: 630
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
+  - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
+    excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
+    publishedDateTime: 2020-02-01T22:22:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7956535/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 49
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
+        width: 636
+        height: 382
+  - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
+    excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
+    publishedDateTime: 2020-02-03T00:02:00Z
+    webUrl: "https://www.law360.com/articles/1239238/will-others-follow-nj-s-lead-in-banning-facial-recognition-app"
+    ampWebUrl: "https://www.law360.com/amp/articles/1239238"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1239238"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
 secured: "GcZzMLAJ80rTEQ/cvTVFn4dDRE9R+z0DzsGersq/cf1B+iL875Mg4pQXkzPLD1LD1n7LIBQgP9LZ3LoTLSW7Ud1yTgzFwtoSsQ5P9i//8/zGlcAcwWhsRfWX+WW5nu7B1mNQhjcnAMzyyPxymTimSC3ap+wyWQiUhHkdzr3ZT3tio58lzQ6okS2b3/Ud8vngpH8yeTFaW/QVuwoMrnNE9nAWNuIAQyumtROzh3/rYVzqKXwfzYtS1tQzf37quRKcuDoQhZE9lIyBS/PGniV/o2DKFHnkAu2N8KwBY0a0cMo3SctMF5CRjsF9m5IIZMdPUqt88qE7PTvCU59nVPPgR9add5uTK+sVjOWF576M07cDwzifYoTyAfwpIEhVpVAF/0M7xmxQne9kvIOxTO6AEKEuUX2GNWR2Bma9Xf4PLm5TZeWdQ2kXad8AmK62AGiaJNgxMj1oiOz7Eu+Ac2JrC4s2VOQwHwZubgn8mLdGuGo=;zL6lmxp1k/JQtwluEkLVEg=="
 ---

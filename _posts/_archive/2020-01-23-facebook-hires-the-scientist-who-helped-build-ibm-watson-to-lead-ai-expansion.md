@@ -4,10 +4,12 @@ title: "Facebook hires the scientist who helped build IBM Watson to lead A.I. ex
 excerpt: "Yann LeCun, who has been head of artificial intelligence research at Facebook since joining in late 2013, is becoming the company's chief artificial intelligence scientist. Facebook has hired a ..."
 publishedDateTime: 2020-01-23T00:00:00Z
 webUrl: "https://www.cnbc.com/2018/01/23/facebook-hires-jerome-pesenti-as-new-vp-of-ai.html"
+ampWebUrl: "https://www.cnbc.com/amp/2018/01/23/facebook-hires-jerome-pesenti-as-new-vp-of-ai.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/23/facebook-hires-jerome-pesenti-as-new-vp-of-ai.html"
 type: article
-quality: 30
-heat: 30
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: CNBC
@@ -21,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "uqGZ/rYxqcRkQoB10D4jurGdRsLx4HYWLsLxmCIe895u8+WapXqG0eWps2pjcw+VzHMq1/g+dLYSk4RkX3np5+T/HEUAJ9jbjaIoPkO/R2pUVTtSRv3mcBo3aq/zAbTLVwFTPCXoVb44rZSLRywnLfSbQp8ynZ4iD2aB37I/u0qtt8IAETo0Xa5qUWYQ0aWiQwN3ILfxpqiinDPstWFka0+ZlfVyqPTBLKF2wO0w0+a7Juyq4Zesn+ukQ8DbxXdZXFHCS/lktMZJzUDHiPqmqHYN/yAU2XNIZRcbfNRuDxCmWakgQQ+raRJWDXxvFMd/;NJRyB0BtO+kAa0ZFUowLVQ=="
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/103646092-GettyImages-467504926r.jpg?v=1532564114"
+    width: 2000
+    height: 1334
+    title: "Facebook hires the scientist who helped build IBM Watson to lead A.I. expansion"
+
+secured: "9kN5KkisXruWbIYyuqf48LUZbdnO+/DEFWA6ELsldI8Us7E1RlDE7g7mSLH/Aee0c6+q4cMyImQ11gUKJTee2M9sYHcTyT/rznmgCi50kCbTeVy8R4QVI1ocCiYB/oGRZf0yBwk6XQieVxpDoxspIaXRsNN+Zh0TCLWETIwPJqEQcWe+7wYtoa1nvCH0HCQ6acMg2LQxmIDmyVlXB3+poHuROzBzF27EZVhig/ow6eAQvAgumTFKCHlWh6zKDV7b1arI2+zBflDnhoSIhwmUHpsW2Z++mrkRKZKpeMzGGEeiWGx2a8Y+7Z21t5kfpERk;nlXNZ7UAINXiY83hkRcn6g=="
 ---
 

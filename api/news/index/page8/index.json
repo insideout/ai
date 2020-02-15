@@ -2,51 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/_archive/2019-12-24-getting-started-with-azureml-notebook-vms.md",
-      "title": "Getting Started With AzureML Notebook VMs",
-      "excerpt": "TLDR; Azure Machine Learning (AML), a cloud-based environment you can use to train, deploy, automate, manage, and track ML models. In the following tutorial we will walk through how to set up an ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/microsoftazure/getting-started-with-azureml-notebook-vms-f637b6e09ed4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*r9E_9IOr95ZxpA_2nOzC_g.png",
-          "width": 1200,
-          "height": 589,
-          "title": "Getting Started With AzureML Notebook VMs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2019-12-26-artificial-intelligence-can-now-track-down-blood-cancer.md",
       "title": "Artificial intelligence can now track down blood cancer",
       "excerpt": "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ...",
@@ -2133,6 +2088,51 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-06-bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise.md",
+      "title": "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise",
+      "excerpt": "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity,",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/",
+      "ampWebUrl": "https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/",
+      "publishedDateTime": "2020-01-06T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg",
+          "width": 1181,
+          "height": 663,
+          "title": "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

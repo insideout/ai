@@ -38,21 +38,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FCornavirus.jpg&signature=8530299390c2e6d973c88fd717d125ae"
         width: 1200
         height: 600
-  - title: "AI Weekly: AI joins the fight against diseases like coronavirus"
-    excerpt: "In light of the rising death toll from the coronavirus, which this week spread to the U.S. and was declared a health emergency by the World Health Organization (WHO), it’s worth looking at AI’s role in curbing the spread of other diseases. Algorithms have not only informed superior intervention and prevention strategies, they’ve helped ..."
-    publishedDateTime: 2020-01-31T18:40:00Z
-    webUrl: "https://venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/"
-    ampWebUrl: "https://venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/02/globe-tech-e1580494461811.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "China working on robot development for coronavirus testing"
     excerpt: "according to Siasun Robot and Automation Co.Ltd. Based in Shenyang, capital of northeast China’s Liaoning Province, Siasun was founded in 2000 and listed on the Growth Enterprise Market in 2009. China has also called on the country’s artificial intelligence (AI) sector to lend their technological hands to help battle the epidemic."
     publishedDateTime: 2020-02-05T17:47:00Z

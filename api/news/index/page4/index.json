@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-07-the-straight-line-from-google-maps-to-clearview-ai.md",
-      "title": "The straight line from Google Maps to Clearview AI",
-      "excerpt": "It’s worse than showing nothing.” People walking around and finding themselves subject to ubiquitous computing — whether they like it or not — is a subject that has been in the news constantly of late, as we debate the rise of for-profit facial recognition and tools like Clearview AI. It’s a story that, to my mind, starts with the ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai",
-      "publishedDateTime": "2020-02-07T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/o4YgD9JkSTTTNLwOzs4_EZONwOs=/0x0:1280x800/1400x933/filters:focal(538x298:742x502):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66270774/googlemaps.0.png",
-          "width": 1280,
-          "height": 800,
-          "title": "The straight line from Google Maps to Clearview AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-this-girls-only-app-uses-ai-to-screen-a-users-gender-what-could-go-wrong.md",
       "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
       "excerpt": "But in an era of ever-expanding surveillance, with companies like Clearview AI identifying people’s faces without their knowledge or consent, an app built on dubious biometric screening and extensive data collection should be cause for concern. While Giggle’s website says the app is “designed to give girls choice, control and connection ...",
@@ -540,7 +496,7 @@
       "path": "_posts/2020-02-08-rutgers-robot-draws-blood-better-than-humans-in-first-trials.md",
       "title": "Rutgers robot draws blood better than humans in first trials",
       "excerpt": "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the healthcare robot to improve its performance.",
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.therobotreport.com/rutgers-robot-draws-blood-better-humans-first-trial/",
@@ -2160,6 +2116,51 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security.md",
+      "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
+      "excerpt": "In the midst of an unprecedented stock market rally and record-low unemployment, many Americans still struggle to meet their financial needs. Neel Yerneni and Tucker Haas have created Quo to provide Americans with the financial security they need in today's economy.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
+      "publishedDateTime": "2020-02-10T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e3f539b8b6cf300071e3b09/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

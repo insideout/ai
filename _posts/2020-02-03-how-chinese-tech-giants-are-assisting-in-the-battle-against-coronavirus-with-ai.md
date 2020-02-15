@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T06:33:00Z
 webUrl: "https://thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/"
 type: article
 quality: 163
-heat: 223
+heat: 213
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     title: "How Chinese tech giants are assisting in the battle against coronavirus with AI"
 
 related:
-  - title: "AI Weekly: AI joins the fight against diseases like coronavirus"
-    excerpt: "In light of the rising death toll from the coronavirus, which this week spread to the U.S. and was declared a health emergency by the World Health Organization (WHO), it’s worth looking at AI’s role in curbing the spread of other diseases. Algorithms have not only informed superior intervention and prevention strategies, they’ve helped ..."
-    publishedDateTime: 2020-01-31T18:40:00Z
-    webUrl: "https://venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/"
-    ampWebUrl: "https://venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/02/globe-tech-e1580494461811.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "China turns to artificial intelligence, data in fight against coronavirus"
     excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 34,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
     publishedDateTime: 2020-02-08T12:05:00Z

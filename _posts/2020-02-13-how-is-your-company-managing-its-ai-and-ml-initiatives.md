@@ -76,6 +76,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "9/3HFjYqCBkCiSfWn3YuBb1hxgLT5VIvtggJHGlyXd2eQ9ndzATSyoVR/deevbFzlVi/rmRxwuhwsuEvuzgQJtjQo3G+O5OLpXeHejWaUu4M159YG9i7IKki96cSwdebGRpgfSGLJamAjSZqtfp+ZsPme12CFLLEbhKuO6QCONlk52Rw/UwJXwzm50dPxnyxAgwoDb3Wgyoh8+dl0WjTLIUOxaGs2ViAQQM3SsycXmM4xbaC36n7Dgz2OhUoBmHoijuXU+CYVf9uTXnoJ52kOW54RAnhca0noBmHL+6qbgKELBQOpKPyh5NxfxXOGGzN;oefXhEjPa13PC+nUPkYvMw=="
+secured: "QoQwleKOjXH3SgpLct30w9bRabB+gkj9RhYk5bv15wQd6Bo6WWarTvSp60gVywDD2Fl+lpoVoik9aKKL0YYBxWUQKTmLTvfJ2URvJA88OhJtEKshFvkkJSpiaYxxyZw7bPwngH/rOqqhDKIg93Jccma3A564Gr6TiofWyMtqXREhDF7NDGBXb1le/wddIch9f+/NFvo84asHg66gw+4Xmwvm5WQyPIfaWOVi2n/k0UOcctzl+VTGPqxBFJXRtKpTfPhynGV13t8IJhiG/w/IJzWSf186uQHL879rIf+1OnmBIUkDYeb5+v73pTAbCC24;67XuDvm6venNjJM0hN/4uA=="
 ---
 
