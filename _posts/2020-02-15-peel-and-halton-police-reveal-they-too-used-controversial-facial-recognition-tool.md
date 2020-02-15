@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Facebook and LinkedIn are latest to demand Clearview stop scraping images for facial recognition tech"
-excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company said, “Which is why we’ve demanded that Clearview stop accessing or using information f ..."
-publishedDateTime: 2020-02-06T11:56:00Z
-webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+title: "Peel and Halton police reveal they too used controversial facial recognition tool"
+excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
+publishedDateTime: 2020-02-15T17:58:00Z
+webUrl: "https://www.thespec.com/news-story/9855138-peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: "/assets/images/organizations/theverge.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Hamilton Spectator
+  domain: thespec.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/7l1HObT4uIVko8_sSo6v9vlNURg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg"
-    width: 1400
-    height: 933
-    title: "Facebook and LinkedIn are latest to demand Clearview stop scraping images for facial recognition tech"
+  - url: "https://dynamicmedia.zuza.com/zz/m/original_/9/7/975158cf-3edd-4563-84e5-abfde056b374/B881046758Z.1_20200215125209_000_GSASQ903.5-0_Super_Portrait.jpg"
+    width: 625
+    height: 417
+    title: "Peel and Halton police reveal they too used controversial facial recognition tool"
 
 related:
   - title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
@@ -195,6 +189,21 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/news/f/facebook-s/facebook-sends-cease-and-desist-to-facial-recognition-startu_aamw.620.jpg"
         width: 620
         height: 441
+  - title: "Facebook and LinkedIn are latest to demand Clearview stop scraping images for facial recognition tech"
+    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company said, “Which is why we’ve demanded that Clearview stop accessing or using information f ..."
+    publishedDateTime: 2020-02-06T11:56:00Z
+    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/7l1HObT4uIVko8_sSo6v9vlNURg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg"
+        width: 1400
+        height: 933
   - title: "Google tells facial recognition startup Clearview AI to stop scraping photos"
     excerpt: "Following Twitter, Google and YouTube have become the latest companies to send a cease-and-desist letter to Clearview AI, the startup behind a controversial facial recognition program that more than 600 police departments across North American use. Clearview came under scrutiny earlier this year when The New York Times showed that the company ..."
     publishedDateTime: 2020-02-05T19:13:00Z
@@ -368,19 +377,6 @@ related:
       - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
         width: 5379
         height: 3551
-  - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
-    excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
-    publishedDateTime: 2020-02-15T17:58:00Z
-    webUrl: "https://www.thespec.com/news-story/9855138-peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/"
-    type: article
-    provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 34
-    images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/9/7/975158cf-3edd-4563-84e5-abfde056b374/B881046758Z.1_20200215125209_000_GSASQ903.5-0_Super_Portrait.jpg"
-        width: 625
-        height: 417
   - title: "Google Photos allegedly violated Illinois’ facial recognition laws, according to suit filed after Facebook settles class-action over same law"
     excerpt: "The suit was filed about a week after Facebook agreed to pay $550 million to Illinois users to settle allegations that its facial tagging feature violated the same state law protecting biometric information, which can include data from facial, fingerprint and iris scans. Illinois has one of the strictest biometric privacy laws in the nation."
     publishedDateTime: 2020-02-11T23:07:00Z
@@ -455,6 +451,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "ICBqWeyKH7y1ho7AR2wfiIM17zA+PyfHLyAEwIzZ+rXA7vIQKwymnWTpXyZBFZN0R8+58TYRgXld7k/q0KpGG+lONLhOPYZh/9wIGHl6sv1vQJxNqkHMxOWb+Pbv473BY/BV3yz4Ox0VvamXA1FgLJgTRnUk+uzioKvqx/Fh7nhi/S8k2FcqEvKZt9s9XS0Hlo85iqrlutlCtOXpqh72mvNtQWe93g6kDNrin2tWNWPXDEpHFP7Rrht/qQvRrophDRE4hI/qIG4UAxcOM4NuQ1D/x9MDPVTFF1tLal71gacZGLAb37hIeD+Ip4IQv/SP00WWzUePQl7X0oGmqOybqoE0NlyR1ZTAQcfISkmtpuVrVaOeYL/1yV0Ir9wJS4TtZhlipPeWHaVzVWDB6DRLyPtduhm2LqmpFGuVc+vsgpna1nQXyjoYHy7P0j8dFrP8kgBvjyy+BaGXeUUw3kSv9r6KNhjCHp2BK95YwB00kcA=;apQrRYtq8cMHYlwko04O5Q=="
+secured: "U7qRlMpZgWKDRkl21ESSmzOQxASWSeYtx3LsVo2g7IUxH5RLIi1LNtbjwreRo8ghVt9ZaqRlLkSu++RQRqM/fImKFH2YeBkEtr+K/0lOb3gSm1PNpJLle19XkEQSCIPZYddp4L+g8sAyzjRtzCnmzoyTP8cTirvT8gUEfBKzJriXIrRX9aaprhYtPoyNP3ioeMgg5k0+f1Rx45x6Eevz54SyKubjisbn4C8ejHHj4aSpzsETHpHykfW02n+IoDlt1MxpsrrBaENallS+GpGznYiP+k5JlVo66a4BsBfMq0uCNSATSmv65LR9BZ5jzuy9;EV/ViLdWcx2rdZAGt5WbNg=="
 ---
 

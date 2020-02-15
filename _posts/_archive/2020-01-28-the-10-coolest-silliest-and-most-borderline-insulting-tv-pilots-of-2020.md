@@ -29,6 +29,6 @@ images:
     height: 449
     title: "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020"
 
-secured: "zI/EHj4ht1JvVwcSJyd3B7ofrS5Y2zp96nyyonIespDzNSyypGyAIFJ5l7E1ojIQlcuINEqM/B9mF3dRM6GfjRHdB3QKHN5Z1WBblWxiNg5ryDmOErhBrQsy88/sFnyAlj4Sd7LI55cnPyCY2Sd+RrWLGwWGHXBJPpvTPeo3+WMi4MG5UwZjvfWjZZRjIK6mpscvUCfhprulRDct8nVv9RyZjrrnZ4dEjoOeA9xE+8ZndwREuyq+aK0zbVvJz96yoqKO8d/uWNrcKr8Gyg4S0zjvCSL9sm31GaGlWG21SbIwmuNr8US2iqQMe9l3n/NJ;vBE49iM8vyX2s62jxiCqiA=="
+secured: "1U852ZBmsfFRa5C62tWaf16ccPjhnRMoWbmBW0pVs95fchI3oWuAD9ag221QtY2Pvf9ZcCnNAA6aMGoiMhrC7ctdq0N5F1r+DIcK3MA0kNXtOn1hMbvVlf8Y02P9JXVt+6B+m2kPHfh1f+rP/2GE58QTPAtudhIWprO+oDqKP7j6JIVx3PnquzxnCOAw4PD+yNrL0Lfi2QboptOR6eHEeJUTL/fI0cjP33B2BhdYVbPke55Bn5lZvrZxPLRxBfCXUeNi30cwfwtU1zKXMvgOEFLFzk5NU+JTv6kJEk2ewGqhkias9tDyjatJUy4fnfYv;Ga3QL0A0yMyK21Ed0A3Q+Q=="
 ---
 

@@ -379,6 +379,19 @@ related:
       - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
         width: 5379
         height: 3551
+  - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
+    excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
+    publishedDateTime: 2020-02-15T17:58:00Z
+    webUrl: "https://www.thespec.com/news-story/9855138-peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/"
+    type: article
+    provider:
+      name: The Hamilton Spectator
+      domain: thespec.com
+    quality: 34
+    images:
+      - url: "https://dynamicmedia.zuza.com/zz/m/original_/9/7/975158cf-3edd-4563-84e5-abfde056b374/B881046758Z.1_20200215125209_000_GSASQ903.5-0_Super_Portrait.jpg"
+        width: 625
+        height: 417
   - title: "Venmo, YouTube and Twitter demand company stop ‘scraping’ photos for facial recognition work with police"
     excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part … This item is available in full to subscribers."
     publishedDateTime: 2020-02-06T15:54:00Z

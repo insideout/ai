@@ -2,50 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-14-ces-2020-older-adults-embrace-ai-with-transparency.md",
-      "title": "CES 2020: Older adults embrace AI with transparency",
-      "excerpt": "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-14T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/14/8d8ebb00-3f91-4110-adc1-769ce1d616d0/thumbnail/770x578/8cdde30d9fe62b9ee966452220fe3f7f/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "CES 2020: Older adults embrace AI with transparency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-14-coral-is-googles-quiet-initiative-to-enable-ai-without-the-cloud.md",
       "title": "Coral is Google’s quiet initiative to enable AI without the cloud",
       "excerpt": "Market analysts predict that more than 750 million edge AI chips and computers will be sold in 2020, rising to 1.5 billion by 2024. And while most of these will be installed in consumer devices like phones, a great deal are destined for enterprise customers in industries like automotive and health care. To meet customers’ needs Coral offers ...",
@@ -2144,6 +2100,50 @@
           "width": 1200,
           "height": 630,
           "title": "AI and robots could be the future of agriculture — Strictly Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-ai-for-good-starts-with-collaboration.md",
+      "title": "AI For Good Starts With Collaboration",
+      "excerpt": "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
+      "publishedDateTime": "2020-01-16T02:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale",
+          "width": 500,
+          "height": 279,
+          "title": "AI For Good Starts With Collaboration",
           "attribution": null
         }
       ],

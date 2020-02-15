@@ -2,50 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-ai-for-good-starts-with-collaboration.md",
-      "title": "AI For Good Starts With Collaboration",
-      "excerpt": "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
-      "publishedDateTime": "2020-01-16T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale",
-          "width": 500,
-          "height": 279,
-          "title": "AI For Good Starts With Collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-ai-in-fintech-market-big-changes-to-have-big-impact.md",
       "title": "AI in Fintech Market - Big Changes to Have Big Impact",
       "excerpt": "Advance Market Analytics recently introduced AI in Fintech Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. AI in Fintech Market explores effective study on varied sections of Industry like opportunities,",
@@ -2146,6 +2102,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-the-defining-moments-of-ibm-watson-last-decade.md",
+      "title": "The defining moments of IBM Watson last decade",
+      "excerpt": "Unveiled to the world just under a decade ago, today, IBM Watson is being used by millions of people in thousands of different ways to unlock the value of data in new and profound ways. Across countless industries, Watson is helping businesses around the world harness their data, increase productivity,",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/01/the-defining-moments-of-ibm-watson-last-decade/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T11:18:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/01/Year-In-Review_Image-Header_1.16.2020-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "The defining moments of IBM Watson last decade",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],
