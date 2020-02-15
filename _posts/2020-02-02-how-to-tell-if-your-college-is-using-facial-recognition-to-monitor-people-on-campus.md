@@ -84,6 +84,21 @@ related:
       - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
         width: 700
         height: 394
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
   - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
     excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
     publishedDateTime: 2020-02-08T04:26:00Z
@@ -93,6 +108,15 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 13
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
 secured: "LXRnx2oHeZnyyClMvaTRDaFjBHCsdtecuAtWgd3VWjSSyaxESRfrW2Nuiz3nqcbuoiq3JaAYWk5BE8Pn0UTSmVbt0h/oYYwyFb1tKSaQ/ik57oTBUjl3tiPoFjWTh8Zhn6EROeNXsHJ8Wr2GXpZYIyg1RGWpla2lobdZ3/xaXI5k4X7z2a2wVJ61hE8tYSvVyP5QACKPgTzsjw3GthKpTVV0nZsRseaN6pVM7uIUtdyBuaVW7ihvLfRlQkCJH0pPeDD2XNBTwtwMXM/3d4RWw+HnN2HuCav/c1rb0HAPHnxpYmOjG37TzQXnBAeJbs7pxo7b+RPQcd7ZQqncpr0FNBT0PeRHS+h/DkFLAWANYf7eMIs0HPaR3IFVc4q0VTz2Gg+lukIwMU4BH01ZnsnLD0Djnt4gWxa5mAN6FsbXD4OmDtFcuvQH5F8IXWEImabaSTCaDeuRVDuqRf3Vf/24przl0E810d/RlwFQHkO6KEw=;akfxKAXt8M3MytQcBygkOg=="
 ---

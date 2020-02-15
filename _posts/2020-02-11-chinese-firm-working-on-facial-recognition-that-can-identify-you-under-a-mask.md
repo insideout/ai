@@ -84,6 +84,17 @@ related:
       - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
+  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
+    publishedDateTime: 2020-02-01T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "Raleigh police stop using controversial facial recognition technology"
     excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
     publishedDateTime: 2020-02-12T17:54:00Z

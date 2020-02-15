@@ -2,50 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-27-ai-accurately-predicts-billie-eilish-bad-guy-grammy-win.md",
-      "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
-      "excerpt": "Lil Nas X was nominated six times and walked away with two wins, according to CBS. Taylor Larkin, a data scientist with the company, used the DataRobot enterprise AI platform to predict the winners for song and record of the year. DataRobot leverages machine-learning models to learn from the past to predict the future. \"For Grammy ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "publishedDateTime": "2020-01-27T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/35f461af-b2cc-4f4f-8dee-22ac1ed6bb35/resize/1200x/24932119221d74ceb8807e3600f33dc0/billie-eilish-and-finneas-oconnell.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
       "title": "AI can help cancer patients start radiation therapy sooner",
       "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ...",
@@ -1150,8 +1106,8 @@
     {
       "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
       "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-      "excerpt": "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ...",
-      "heat": 201,
+      "excerpt": "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ...",
+      "heat": 161,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
@@ -2163,6 +2119,51 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-google-translate-will-transcribe-translations-in-real-time-on-android.md",
+      "title": "Google Translate will transcribe translations in real time on Android",
+      "excerpt": "The feature will likely require an internet connection at launch, Google says, which means it will differ from the AI-based and on-device translation features that are in Google Translate today. The company says this is because real-time multilingual transcription is more complicated than simply translating written text from one language to ...",
+      "heat": 244,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
+      "publishedDateTime": "2020-01-28T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/Io0Xl3TweW-02htkun4nckwTH-Y=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66207626/acastro_180427_1777_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google Translate will transcribe translations in real time on Android",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

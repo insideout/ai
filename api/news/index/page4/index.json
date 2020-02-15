@@ -2,96 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-07-what-do-we-teach-when-we-teach-tech-ai-ethics.md",
-      "title": "What do we teach when we teach tech & AI ethics?",
-      "excerpt": "With this in mind, my students and I decided to conduct some research to uncover patterns. Ethics in the context of technology (particularly emerging areas like data science and AI) is such an important topic, and curriculum coverage is increasing at universities in computer science and beyond. So our question was: what are we teaching when we ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@cfiesler/what-do-we-teach-when-we-teach-tech-ai-ethics-81059b710e11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*sJQ2hrt7-pn4boq3QgSXqQ.jpeg",
-          "width": 1200,
-          "height": 478,
-          "title": "What do we teach when we teach tech & AI ethics?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-what-is-machine-learning-exploring-its-impact-on-customer-experience.md",
-      "title": "What is machine learning? Exploring its impact on customer experience",
-      "excerpt": "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@mahiprashanth866/what-is-machine-learning-exploring-its-impact-on-customer-experience-350bf3115497",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/844/0*bbnXzCvTKv0Wl7uc.png",
-          "width": 844,
-          "height": 422,
-          "title": "What is machine learning? Exploring its impact on customer experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-08-ai-for-a-competitive-advantage.md",
       "title": "AI For A Competitive Advantage",
       "excerpt": "If implemented gradually and accompanied by training for employees to maximize the technology’s impact, AI can promise to unlock many new doors for any organization.",
@@ -2162,6 +2072,89 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-ten-steps-to-ethics-based-governance-of-ai-in-healthcare.md",
+      "title": "Ten steps to ethics-based governance of AI in healthcare",
+      "excerpt": "A data governance framework based on the following ten steps can assist large healthcare systems embrace AI applications in a way that reduces ethical risks to patients, providers, and payors. Additionally, it enhances public trust, transforms patient experiences, and provides effective ethics-based oversight. 1) Establish ethics-based ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.healthdatamanagement.com/opinion/ten-steps-to-ethics-based-governance-of-ai-in-healthcare",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Health Data Management",
+        "domain": "healthdatamanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Ten steps to ethics-based governance of AI in healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
+      "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
+      "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-152543/social",
+          "width": 1280,
+          "height": 640,
+          "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

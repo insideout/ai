@@ -2,52 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-02-01-5-soon-to-be-trends-in-artificial-intelligence-and-deep-learning.md",
-      "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
-      "excerpt": "AI’s major headwind is the cost of the investment, which will skew returns in the short-term. When the turnaround occurs, however, companies who are making the investment can expect to be rewarded disproportionately with a wide performance gap and up to double the cash flow.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
-      "publishedDateTime": "2020-01-31T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e34ccbef133f400076b5a6a/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-01-aws-your-complete-guide-to-amazon-web-services-features.md",
       "title": "AWS: Your complete guide to Amazon Web Services & features",
       "excerpt": "In the current age of cloud computing, there is now a multitude of mature services available -- offering security, scalability, and reliability for many business computing needs. What was once a ...",
@@ -96,7 +50,7 @@
       "path": "_posts/2020-02-01-big-brother-facial-recognition-cameras-are-watching-you-more-than-ever-right-across-britain.md",
       "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
       "excerpt": "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ...",
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
@@ -1398,7 +1352,7 @@
       "path": "_posts/2020-02-03-how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai.md",
       "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
       "excerpt": "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ...",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/",
@@ -1435,7 +1389,7 @@
       "path": "_posts/2020-02-03-intel-dumps-its-nervana-neural-network-processors-for-habanas-ai-chips.md",
       "title": "Intel dumps its Nervana neural network processors for Habana’s AI chips",
       "excerpt": "... told him it had decided to end its work on both the Nervana NNP-T training chips and the Nervana NNP-I inference chips, though it said it will still deliver on customer commitments for the latter. Habana has developed two AI chips of its own, namely the Habana Gaudi and the Habana Goya (pictured). The former is a highly specialized neural ...",
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "type": "article",
       "webUrl": "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/",
@@ -2120,6 +2074,50 @@
           "width": 1258,
           "height": 600,
           "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-blackpool-pothole-fixing-artificial-intelligence-saves-1m.md",
+      "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
+      "excerpt": "An innovative pilot scheme using artificial intelligence to assess potholes has saved more than £1m of taxpayers' cash, a council has said. Blackpool Council said it was the first local authority to use AI technology to detect damage to roads. It uses satellite images to inspect roads in seconds rather than sending engineers, and was trialled ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/uk-england-lancashire-51356855",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-england-lancashire-51356855",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-england-lancashire-51356855",
+      "publishedDateTime": "2020-02-03T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2BF7/production/_110755211_pothole.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
           "attribution": null
         }
       ],

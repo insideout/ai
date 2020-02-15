@@ -39,6 +39,15 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
         width: 711
         height: 459
+  - title: "Police: Waymo Self-Driving Vehicle Involved in Tempe Crash"
+    excerpt: "Police in a Phoenix suburb are investigating an injury collision involving a Waymo self-driving vehicle carrying a driver and a passenger."
+    publishedDateTime: 2020-02-02T11:35:00Z
+    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2020-01-31/police-waymo-self-driving-vehicle-involved-in-tempe-crash"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "First Lexus with self-driving system arrives in 2020"
     excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
     publishedDateTime: 2020-02-11T15:00:00Z

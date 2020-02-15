@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-05T19:49:00Z
 webUrl: "https://techcrunch.com/2020/02/05/how-microsoft-runs-its-40m-ai-for-health-initiative/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: TechCrunch
@@ -25,21 +25,6 @@ images:
     width: 600
     height: 400
     title: "How Microsoft runs its $40M ‘AI for Health’ initiative"
-
-related:
-  - title: "Microsoft launches $40 million artificial intelligence initiative to advance global health research"
-    excerpt: "will help advance global health initiatives, with two cash grants going to medical research at Seattle -based organizations. As part of the tech giant's $165 million AI for Good initiative, this new public health branch will focus on three main areas: accelerating medical research around prevention and diagnosis of diseases,"
-    publishedDateTime: 2020-01-31T23:26:00Z
-    webUrl: "https://www.seattlepi.com/business/tech/article/Microsoft-launches-artificial-intelligence-tech-15017738.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 23
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/25/71/18964076/3/rawImage.jpg"
-        width: 1024
-        height: 683
 
 secured: "n5yVFm8G+6lmwtHxiZLz0k/+A+Ilt2Ub0mmvRUG3saQ62BAUP7zBka3Okf2CHYGxEJiWEzFaCldTFQKu67DPqOSwHMvYJRuZFEVvOEsXVp1PoenonNqPBBuvvDhTKqYNO3SXjVtxZiJIA6zea2EDbT52YsCmrI6XGp3qAxnNWOMAnUd1LPkBciIfYV4Kvu0pqF/3N+FAxFJ8JDomWXN8MgUuzniKQGEN8sgvATmJAs3ZIHY6DM9hd5D84x7DghzIEpuDqZz6NxCd7GzifWYaBCVBBFXku4Rl944bWl5Zjp3uqZ2H79yjpr2r916VcaQ85p853iFSYisx+yGMOE1B1Cxf7kPZlbX33pdNEG3Cp+K2LD9Xdm4jfeH+rEa4SFjwTnnmC+tgvzueWCvcbi1R/RRM8BHLNDFh1amhMonFKq/LeILpSpyP8ZjZlSri+fU0DDzU+KgiPAULC/vYIl5DvDRAeDEuXfS+bzMNWZZywOU=;os6XwjWd34UCLFCVFwPt4w=="
 ---

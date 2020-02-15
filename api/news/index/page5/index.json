@@ -2,89 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-10-ten-steps-to-ethics-based-governance-of-ai-in-healthcare.md",
-      "title": "Ten steps to ethics-based governance of AI in healthcare",
-      "excerpt": "A data governance framework based on the following ten steps can assist large healthcare systems embrace AI applications in a way that reduces ethical risks to patients, providers, and payors. Additionally, it enhances public trust, transforms patient experiences, and provides effective ethics-based oversight. 1) Establish ethics-based ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.healthdatamanagement.com/opinion/ten-steps-to-ethics-based-governance-of-ai-in-healthcare",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Health Data Management",
-        "domain": "healthdatamanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Ten steps to ethics-based governance of AI in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
-      "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-      "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-152543/social",
-          "width": 1280,
-          "height": 640,
-          "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-the-role-of-machine-learning-in-marketing.md",
       "title": "The Role of Machine Learning in Marketing",
       "excerpt": "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ...",
@@ -2153,6 +2070,96 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-why-we-need-to-focus-on-the-positives-of-ai.md",
+      "title": "Why We Need To Focus On The Positives Of AI",
+      "excerpt": "Many people tend to think of AI as purely an automation technology, but that just skims the surface of what these tools and techniques can do for us.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
+      "publishedDateTime": "2020-02-10T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c807a8b6cf300071e1c86%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375",
+          "width": 1200,
+          "height": 675,
+          "title": "Why We Need To Focus On The Positives Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-2020-and-the-dawn-of-ai-learning-at-the-edge.md",
+      "title": "2020 And The Dawn Of AI Learning At The Edge",
+      "excerpt": "AI that learns at the edge is a paradigm-shifting technology that will finally empower AI to truly serve its purpose.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/",
+      "publishedDateTime": "2020-02-12T08:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/593333566/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 473,
+          "title": "2020 And The Dawn Of AI Learning At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

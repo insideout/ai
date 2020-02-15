@@ -27,6 +27,6 @@ images:
     height: 585
     title: "Building Tensorflow from source. Step by step guide."
 
-secured: "xSkTIVgUu/80elzVQNolauhXyR4c/vb4hir/lcm/wB7rQU9qaJHk9iLBJ0Ix9soVRMJrcEYwx1CLp6dqaWU4a3Nb5x5krgF4tHvwPAcfFS0pfnnF5KmeuKitTSrQ3lA0JIIYrADIf4OCsuCS1s3pwEP9Ou7pFNG8Gnil919r+vPiwA2IiSqZQ2ED/TeQKPRvTHqe9Rer7flaNSRY0X4v0bxNX4B0AJ/9t/n4nWDGL34nX38NwfEum5UY5MZRP48OXJNEyeF4nYCLdyZQutW/uI9nE1p0XFVQkxga34gAGyRmnUFhWAXEHR15bRMLOOcm;OD48/sHWgbpemnOXGLcJMQ=="
+secured: "Sm5Xg+gDqmv/CAaeN+4vGHIwKAihHXqTvWAHlc9h8NAhqcVa7ZiqF/Kz0iHTGhcu4ayvTKCLdh4LXPebbDVeXM7oi3pIGK4uUxubZxJU0VZitak/EoPpDAJKfna0NW/rwvGUFpkhq8dmMSjjfW39UVGbUJRwfSrr3sMQbOaBQoRu93Pyq1E3tIodQvTBDXs1LkabO2xvdcrSesJdoBR8rMB0g+aBOJNbU6QmQYobD1ZnHlZHzpH6fP+sNrNXkaDE0soEFT+mjb0MpPjN9MwQsUSp+GQhAme/2hG62jhHzE7xa+ZOhRxALP+P35BomAdA;zxxZB+P63UoJBc7EDf9bNQ=="
 ---
 

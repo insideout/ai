@@ -2,96 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-11-why-we-need-to-focus-on-the-positives-of-ai.md",
-      "title": "Why We Need To Focus On The Positives Of AI",
-      "excerpt": "Many people tend to think of AI as purely an automation technology, but that just skims the surface of what these tools and techniques can do for us.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
-      "publishedDateTime": "2020-02-10T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c807a8b6cf300071e1c86%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375",
-          "width": 1200,
-          "height": 675,
-          "title": "Why We Need To Focus On The Positives Of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-2020-and-the-dawn-of-ai-learning-at-the-edge.md",
-      "title": "2020 And The Dawn Of AI Learning At The Edge",
-      "excerpt": "AI that learns at the edge is a paradigm-shifting technology that will finally empower AI to truly serve its purpose.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/",
-      "publishedDateTime": "2020-02-12T08:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/593333566/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 473,
-          "title": "2020 And The Dawn Of AI Learning At The Edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-6-ways-to-boost-your-marketing-with-natural-language-processing.md",
       "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
       "excerpt": "Given that marketing is heavily reliant on words to convey messages about people and products, it’s not surprising that NLP has carved out a large niche in marketing technology.",
@@ -2154,6 +2064,94 @@
           "width": 1024,
           "height": 684,
           "title": "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-how-ai-can-predict-heart-attacks-and-strokes.md",
+      "title": "How AI Can Predict Heart Attacks and Strokes",
+      "excerpt": "Artificial intelligence is making its way into health care, and one of its first stops is making sense of all of those scans that doctors order. Already, studies have shown that AI-based tools can, in some cases, pick out abnormal growths that could be cancerous tumors better than doctors can, mainly because digesting and synthesizing huge ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://time.com/5784090/ai-heart-attack-stroke/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/02/GettyImages-1071551122.jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "How AI Can Predict Heart Attacks and Strokes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-how-ai-is-stopping-the-next-great-flu-before-it-starts.md",
+      "title": "How AI is stopping the next great flu before it starts",
+      "excerpt": "But in the near future, AI-augmented drug development could help produce vaccines and treatments fast enough to halt the spread of deadly viruses before they mutate into global pandemics. Conventional methods for drug and vaccine development are wildly inefficient. Researchers can spend nearly a decade laboriously vetting candidate molecule ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
+      "publishedDateTime": "2020-02-14T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7500%252C5000%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Ffd29d5e0-4ea1-11ea-b6dd-e3d6fe4cba04%26client%3Da1acac3e1b3290917d92%26signature%3D0964e8ac968f39002df536bc4bf24d3679a31fb6&client=amp-blogside-v2&signature=b353e5af5b3a5277d2ae3d8528aa33207e1df384",
+          "width": 600,
+          "height": 350,
+          "title": "How AI is stopping the next great flu before it starts",
           "attribution": null
         }
       ],

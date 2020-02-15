@@ -39,6 +39,15 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
         width: 711
         height: 459
+  - title: "Police: Waymo Self-Driving Vehicle Involved in Tempe Crash"
+    excerpt: "Police in a Phoenix suburb are investigating an injury collision involving a Waymo self-driving vehicle carrying a driver and a passenger."
+    publishedDateTime: 2020-02-02T11:35:00Z
+    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2020-01-31/police-waymo-self-driving-vehicle-involved-in-tempe-crash"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "This Is What A Self-Driving Car 'Sees' Versus What You See"
     excerpt: "This is something that I’ve been lucky enough to see on some prototypes, but it’s more than a little valuable for the public to get a sense of what a self-driving car “sees” when driving down the road. In this case, we have one of Waymo’s test cars predicting the path of a cyclist before a crash might even happen. Waymo sent us two ..."
     publishedDateTime: 2020-02-12T00:30:00Z

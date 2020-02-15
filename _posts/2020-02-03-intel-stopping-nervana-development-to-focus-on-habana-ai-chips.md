@@ -52,21 +52,6 @@ related:
       - url: "https://images.axios.com/9bRgEba5i8Rs-Tcjytj9Iudko0s=/0x0:2954x1662/1920x1080/2020/02/03/1580742164538.jpg"
         width: 1920
         height: 1080
-  - title: "Two startups enter, one leaves: Intel kills off much-delayed Nervana AI training chip, pushes on with Habana"
-    excerpt: "The burglary charges have been dropped China's Winnti hackers (apparently): Forget the money, let's get political and start targeting Hong Kong students for protest info Intel has axed Nervana's in-development NNP-T AI training chip, code-named Spring Crest, to go full-steam ahead with Habana's technology. The decision is, no doubt, a blow for ..."
-    publishedDateTime: 2020-01-31T23:32:00Z
-    webUrl: "https://www.theregister.co.uk/2020/01/31/intel_kills_spring_crest/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/01/31/intel_kills_spring_crest/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/31/intel_kills_spring_crest/"
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 57
-    images:
-      - url: "https://regmedia.co.uk/2020/01/31/fire_money.jpg"
-        width: 1000
-        height: 759
   - title: "Intel Nervana Neural Network AI Processor Cancelled In Favor Of Habana Labs Solutions?"
     excerpt: "A mere two months after Intel acquired Habana Labs for $2 Billion, the former has axed its own Nervana Neural Network Processor project intended for the Artificial Intelligence training line. Incidentally, it is not surprising that Intel scrapped the same. This is because it was rather redundant and counterproductive to keep investing in two ..."
     publishedDateTime: 2020-02-04T08:33:00Z

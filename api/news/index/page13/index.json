@@ -2,50 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers.md",
-      "title": "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers",
-      "excerpt": "These technologies touch on a variety of legal and ethical concerns that the business community should take notice of.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/",
-      "publishedDateTime": "2020-01-16T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://blogs-images.forbes.com/forbesbusinesscouncil/files/2020/01/erik-lucatero-VcOwZMahmCQ-unsplash-1200x800.jpg?width=960",
-          "width": 711,
-          "height": 474,
-          "title": "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-the-defining-moments-of-ibm-watson-last-decade.md",
       "title": "The defining moments of IBM Watson last decade",
       "excerpt": "Unveiled to the world just under a decade ago, today, IBM Watson is being used by millions of people in thousands of different ways to unlock the value of data in new and profound ways. Across countless industries, Watson is helping businesses around the world harness their data, increase productivity,",
@@ -2156,6 +2112,51 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now.md",
+      "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+      "excerpt": "The reason: they both invest in so-called deep tech, and they meet routinely with startups whose central focus is ... Siraj Khaliq is a partner at the global venture firm Atomico, where he tries to find world-changing startups that are enabled by machine learning, AI, and computer vision. He has strong experience in the area, having cofounded ...",
+      "heat": 66,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "publishedDateTime": "2020-01-17T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/space.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

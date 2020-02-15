@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T01:25:00Z
 webUrl: "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -40,21 +40,6 @@ related:
       - url: "https://images.axios.com/9bRgEba5i8Rs-Tcjytj9Iudko0s=/0x0:2954x1662/1920x1080/2020/02/03/1580742164538.jpg"
         width: 1920
         height: 1080
-  - title: "Two startups enter, one leaves: Intel kills off much-delayed Nervana AI training chip, pushes on with Habana"
-    excerpt: "The burglary charges have been dropped China's Winnti hackers (apparently): Forget the money, let's get political and start targeting Hong Kong students for protest info Intel has axed Nervana's in-development NNP-T AI training chip, code-named Spring Crest, to go full-steam ahead with Habana's technology. The decision is, no doubt, a blow for ..."
-    publishedDateTime: 2020-01-31T23:32:00Z
-    webUrl: "https://www.theregister.co.uk/2020/01/31/intel_kills_spring_crest/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/01/31/intel_kills_spring_crest/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/31/intel_kills_spring_crest/"
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 57
-    images:
-      - url: "https://regmedia.co.uk/2020/01/31/fire_money.jpg"
-        width: 1000
-        height: 759
   - title: "Intel Stopping Nervana Development to Focus on Habana AI Chips"
     excerpt: "Just two months after acquiring Israeli AI chip start-up Habana Labs for $2 billion, Intel is stopping development of its existing Nervana neural network processor line. Instead, Intel will focus on technology from Habana whose inference (Goya) chip and training chip (Gaudi) are in the market and have gained traction. Intel had purchased ..."
     publishedDateTime: 2020-02-03T23:37:00Z

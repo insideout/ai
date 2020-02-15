@@ -2,96 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-06-amazon-researchers-distill-knowledge-from-a-large-ai-model-to-a-simplified-version.md",
-      "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
-      "excerpt": "In AI and machine learning systems, knowledge is typically distilled by training a small model — a student — to mimic a large and cumbersome model — a teacher. The idea is to compress the teacher’s knowledge by using its outputs as labels to optimize the student, but there’s no guarantee knowledge will be transferred to the student ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/amp/",
-      "publishedDateTime": "2020-02-06T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026",
-      "excerpt": "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N.",
-      "heat": 480,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-artificial-intelligence-tool-created-to-predict-the-structure-of-the-universe-and-unlock-the-mysteries-of-dark-energy.md",
       "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
       "excerpt": "The AI tool could play a role in studying the nature of dark energy and dark matter, which seems to make up a large amount of the universe but remains an enigma, researchers said.",
@@ -730,7 +640,7 @@
       "path": "_posts/2020-02-06-lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns.md",
       "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
       "excerpt": "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer.",
-      "heat": 348,
+      "heat": 358,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
@@ -982,7 +892,7 @@
       "path": "_posts/2020-02-06-who-is-responsible-in-a-crash-with-a-self-driving-car.md",
       "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
       "excerpt": "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless.",
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/",
@@ -2169,6 +2079,96 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-what-do-we-teach-when-we-teach-tech-ai-ethics.md",
+      "title": "What do we teach when we teach tech & AI ethics?",
+      "excerpt": "With this in mind, my students and I decided to conduct some research to uncover patterns. Ethics in the context of technology (particularly emerging areas like data science and AI) is such an important topic, and curriculum coverage is increasing at universities in computer science and beyond. So our question was: what are we teaching when we ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@cfiesler/what-do-we-teach-when-we-teach-tech-ai-ethics-81059b710e11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*sJQ2hrt7-pn4boq3QgSXqQ.jpeg",
+          "width": 1200,
+          "height": 478,
+          "title": "What do we teach when we teach tech & AI ethics?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-what-is-machine-learning-exploring-its-impact-on-customer-experience.md",
+      "title": "What is machine learning? Exploring its impact on customer experience",
+      "excerpt": "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@mahiprashanth866/what-is-machine-learning-exploring-its-impact-on-customer-experience-350bf3115497",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/844/0*bbnXzCvTKv0Wl7uc.png",
+          "width": 844,
+          "height": 422,
+          "title": "What is machine learning? Exploring its impact on customer experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

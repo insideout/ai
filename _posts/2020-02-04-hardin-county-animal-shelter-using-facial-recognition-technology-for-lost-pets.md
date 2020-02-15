@@ -41,6 +41,21 @@ related:
       - url: "https://www.clickorlando.com/resizer/PcJi2Ag6SraUM_iwCJL7aX2vp7Y=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-03-2020/t_8fba58e202f84dd7aafc4f5ebe91544b_name_image.jpg"
         width: 1280
         height: 720
+  - title: "Volusia County Sheriff's Office now using facial recognition software"
+    excerpt: "WESH 2 News looked into controversial technology that could help catch criminals: facial recognition software is being used in Volusia County. WESH 2 News got answers on how it works and why Orlando police decided against using facial recognition permanently."
+    publishedDateTime: 2020-02-01T03:30:00Z
+    webUrl: "https://www.wesh.com/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
+    ampWebUrl: "https://www.wesh.com/amp/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
+    type: article
+    provider:
+      name: WESH
+      domain: wesh.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/c053f844-28fb-4ff3-b897-d13cc9cf6a2a/c053f844-28fb-4ff3-b897-d13cc9cf6a2a_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
   - title: "European parliament insists it will not use facial recognition tech"
     excerpt: "Statement comes after leaked memo on use of technology in security provoked outcry"
     publishedDateTime: 2020-02-05T16:08:00Z

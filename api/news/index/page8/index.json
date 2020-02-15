@@ -2,43 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/_archive/2019-12-26-aws-ceo-claims-alibaba-cloud-isnt-a-threat.md",
-      "title": "AWS CEO claims Alibaba Cloud isn't a threat",
-      "excerpt": "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/articleshow/72974967.cms",
-      "ampWebUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
-      "publishedDateTime": "2019-12-25T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-72975031,height-275,width-412,imgsize-563589/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/aws-andy-jassy.jpg",
-          "width": 412,
-          "height": 275,
-          "title": "AWS CEO claims Alibaba Cloud isn't a threat",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2019-12-26-data-science-vs-artificial-intelligence-eliminate-your-doubts.md",
       "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
       "excerpt": "While Data Science makes use of Artificial Intelligence in its operations, it does not completely represent AI. In this article, we will understand the concept of Data Science vs Artificial ...",
@@ -2133,6 +2096,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-06-deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems.md",
+      "title": "DeepMind researchers introduce hybrid solution to robot control problems",
+      "excerpt": "They’re often difficult to tackle, because it’s not always obvious which algorithms or control policies might best fit. That’s why researchers at Google parent company Alphabet’s DeepMind recently proposed a technique — continuous-discrete hybrid learning — that optimizes for discrete and continuous actions simultaneously ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/amp/",
+      "publishedDateTime": "2020-01-06T12:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/deepmind_robotics-e1578341793570.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind researchers introduce hybrid solution to robot control problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

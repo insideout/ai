@@ -2,51 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
-      "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
-      "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
-      "publishedDateTime": "2020-01-22T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 494,
-          "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-22-ibm-announces-partnership-with-williams-ai-startup-at-davos.md",
       "title": "IBM announces partnership with will.i.am's AI startup at Davos",
       "excerpt": "will.i.am's tech company, I.AM+, and IBM have created a global partnership to ensure enterprise-level security for customer data as AI adoption speeds up and pushes further into the mainstream. Human-like conversational experiences are at the forefront of I.AM's Omega AI platform, and speed and security are priorities for its worldwide ...",
@@ -2128,6 +2083,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-mumbai-based-salaam-bombay-foundation-is-introducing-robotics-to-underprivileged-children-across-india.md",
+      "title": "Mumbai-based Salaam Bombay Foundation is introducing robotics to underprivileged children across India",
+      "excerpt": "Be it movies like Star Wars and Star Trek or Marvel and DC characters, we all have grown up watching them. And in the process, we loved the futuristic plot lines that were riddled with subjects like artificial intelligence, robotics, automation, quantum physics, and many more, that explained the existence of the universe. While many are ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics",
+      "ampWebUrl": "https://yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics/amp",
+      "publishedDateTime": "2020-01-22T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/5/4e0288202dda11e9b78a8b7eb69eb573/Untitleddesign-2020-01-22T201110-1579704162630.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Mumbai-based Salaam Bombay Foundation is introducing robotics to underprivileged children across India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

@@ -2,43 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-14-bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.md",
-      "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
-      "excerpt": "Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html",
-      "ampWebUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
-      "publishedDateTime": "2020-01-13T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg",
-          "width": 788,
-          "height": 337,
-          "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-14-ces-2020-older-adults-embrace-ai-with-transparency.md",
       "title": "CES 2020: Older adults embrace AI with transparency",
       "excerpt": "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI.",
@@ -2154,6 +2117,42 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-ai-and-robots-could-be-the-future-of-agriculture-strictly-robots.md",
+      "title": "AI and robots could be the future of agriculture — Strictly Robots",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/farmwise-ai-robots-farming/",
+      "ampWebUrl": "https://mashable.com/video/farmwise-ai-robots-farming.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp",
+      "publishedDateTime": "2020-01-16T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F16%252Ffb%252F4ce1af61f56d418791bd1943a0e241bf.d3358.png%252F1200x630.png?signature=2_OfVvw_btp4UlWKx25cVJvrcxI=",
+          "width": 1200,
+          "height": 630,
+          "title": "AI and robots could be the future of agriculture — Strictly Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],
