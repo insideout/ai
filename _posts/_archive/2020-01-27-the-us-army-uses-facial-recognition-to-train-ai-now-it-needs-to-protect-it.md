@@ -1,14 +1,14 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
+excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 171
+heat: 201
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
+    publishedDateTime: 2020-02-01T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
@@ -127,7 +138,31 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
-secured: "bfWI0Fu52ilZRhPuGsAMv65QYqkc96hWz0OlzWYPGP5edT3OEDfg3FVaCQ6b5aNBLcNKXq8wQPPzFk7rbxkQhr0veqSo0Q0Lh1Xy5cgRTjPRMLe6LpAPetG3uO6Q81n4oTb009xAdVuEO/G32xidZ7NyPPheTWuUIk/z01FmEnBYXAFbBiTm0XNbB8SH/8L17x01R+dpXEGjDyAnN9L/WVsWpCaEY25grzpidLglQmn9bcrwEEkc1emnQV2tN64ImEKTpY4Dt9hN5UiMDdzswHnJLal+Db6XYPkAjQnRj/rqInRqPijeddLdW91EDKi8;VTqPqWlZrg5g90IyNhKH7A=="
+secured: "Tw324gxv1P4aYVFtPM71gu5GHPQE7MvnNyDbixHWgr8wAT2ckYjJqOi0l5WiUhMca+vPvTTgBLP4m3cWNTxE+4ZW/SIFW619aUZ8+dUzgo2YAOZ6BKBWDzl+ECx8DFURLk12w57AFzFOzH78IrF7h2Cp3peM021xxJMTmWD1E0ie3TN3jKngg1NtQlcEBeZxC3MYFLKIOhD7eoeXEQrkphjSq9ZKoPiIZBZ7uyNs1S2N+IltNiH7b9AdPBVtsbbegksfx4/ox2OaE1UDaLktHdz+6ZcsI7QBgxXHxNm/ZQWs4D5QeVvAl9zfoxyMpodO;X7MqFOVu9YOANVIA/oLX1w=="
 ---
 
