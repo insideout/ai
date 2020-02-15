@@ -108,19 +108,6 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
-  - title: "“Coded Bias”: New Film Looks at Fight Against Racial Bias in Facial Recognition & AI Technology"
-    excerpt: "So, this can be around perceiving the world, so computer vision, giving computers eyes. It can be voice recognition. It can also be about communication. So, think about chatbots, right? Or think about talking to Siri or Alexa. And then, another component to artificial intelligence is about discernment or making judgments. And this can become ..."
-    publishedDateTime: 2020-01-31T13:15:00Z
-    webUrl: "https://www.democracynow.org/2020/1/30/coded_bias_shalini_kantayya_joy_buolamwini"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 44
-    images:
-      - url: "https://www.democracynow.org/images/story/25/51025/full_hd/SEG2-AI.jpg"
-        width: 1920
-        height: 1080
 
 secured: "JFShEPQ8R/O37leJseceMPUmOJFJALLC15UwUkleiqOkt4JjCT44yyZ5uZMbM8+qobygVCTJUqQdrnW1o7rngp5t5lfpP5srYTBIgu9IfGyFSXiGKmHwR/zUgcbC8HAWHRWPINBKIgjP9e98KycpM98jQlRuiuawk2B9cFZLHL4A/e6wMywUrMlw/DrmQDCWFMFbnSaYkE8yoV2sbxKEjdFTlfRzav3P9yTc/tE4fmFQGIT7/CfDn6uihEiDa4ggrgTWhsTDT/f88OQ1nZkDCTPkamNwuaV5BZ0MsyIRQQzIEualvCsr3atFEV+/dc+UuTwu1WA6QJ7AX2tx5iwg+wyFwPePhP+AuDiNWBZPXV1nMV3wDMCWbOTJT4B/sr3HMACQF9sNWHZyCSnTxdAMRopRJ1bXd51IWbkmyqdg0nRCPA+5/zSbl3Wxr+L6vN4To635nwx6eBIPd2ZzXAXSwhLpL0pdt621JcqHfUJxcq0=;5SDnl4RHcaAE2c7EnDLhkQ=="
 ---

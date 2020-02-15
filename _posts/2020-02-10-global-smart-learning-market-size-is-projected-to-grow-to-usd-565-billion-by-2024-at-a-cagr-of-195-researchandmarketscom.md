@@ -78,15 +78,6 @@ related:
       - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
         width: 300
         height: 250
-  - title: "Artificial intelligence in BFSI Market: Industry Trends, Market Size, Competitive Analysis and Forecast - 2019-2025"
-    excerpt: "Orion Market Reports Recently published report on titled \"Artificial intelligence AI in BFSI Market - Global Industry Trends, Market Size, Competitive Analysis and Forecast - 2019 to 2025\", studies the global markets for Artificial intelligence AI in BFSI in terms of product type, technology type, application type, end-user and regional ..."
-    publishedDateTime: 2020-01-31T13:50:00Z
-    webUrl: "https://www.openpr.com/news/1915939/artificial-intelligence-in-bfsi-market-industry-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "1ZR7K9kxZP3BWbxrUA0EU/zrDc+U5chnxL/yrHRWLqmJfl3miLBentzAdldOR1UldgyNcg32phCjcUIT3gMLAVRO0a5xyqNHAbHGlHmkVRptS9LnYQv1SWoDaDQX3hG61pwEbERny2g4+GzmAqB9b+UJDtlq7gTeXLnVVjDMcKEnyg5GznmGJK2Dd1GZse+NzfFru2rPLb/w7X09wWHNiQjabSK8bf1plSWJpwp1WLEpnidg+EOUmi8BeYVNBbatdaI6x2YXWfNUsIvaFeb7wUWfjT4iHtykel+Bh2u/G9OpYWIoHGnzTEnMIfifjnMdjhNpZJvk3wKbksz8HuU5IM3SKQwfShnxa3NAArciYaYyApGd9cAA+fVG5rJ8iYQEQ6ZAXTtYg4rSCAn7av2nG+VTx5UneEljnk+dymsGWF7ppvukL4RmiYXcmg1ssNOweN12cjXrE3fXf7Wuwqtz/pBVU6KsFGxOpeP1mRuchPg=;lSNc09VmdYQOHKqkM0SaFg=="
 ---

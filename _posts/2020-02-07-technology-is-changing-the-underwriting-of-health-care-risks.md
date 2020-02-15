@@ -25,17 +25,6 @@ images:
     height: 372
     title: "Technology is changing the underwriting of health care risks"
 
-related:
-  - title: "3 ways artificial intelligence is impacting health care"
-    excerpt: "to transform the health care industry by improving patient outcomes and lowering costs is immense. From radiation to early sepsis warning, to drug design and telemedicine, AI holds the power to create vast industry efficiencies and improve people's lives around the globe."
-    publishedDateTime: 2020-02-06T12:49:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2020/02/06/3-ways-artificial-intelligence-is-impacting-health.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-
 secured: "B6FILrkwJN29AakKytz2GT6VKMX3Imse5TBnhQmVqgiuTHYTB0LGNNiodS1cDYIec4xfJiLQZXZXjxC2XYM5k99uRwoozEqTwZyCgDF7eL7+b2pBx7zyXDgtR4x5i/NnyV90OZ8yfU/hhMvuAz315bzTxsMzqx9EaU3AJ1ahwxS0N7Tnaj4ok8CRcSp4mprD11094t0dMA0xC5Uvb8x3MGW3xt3wOdd/M6rP0s20QJ+A5H/s9eaknHQ8ngoYs0dxRRoMXVB5LLuVFNm40H+RnIQeayGI5JEnE6OudaJXpwB88A0dLsfqlWzYU0Y79ZH8vpCL+hi2uzUyX1q4y/hdxqQCIbw8PMprKplgYy7QN9LLdq85yKMJ1sz2Keyc8rSHpXgyBZlsEmGHR9cKY9LOA1k5d8HlutwpXBqLtllTIOMn1eDfpbdXUekIKvpQoSB169hP/UjNf89xH0+e9LrP1PR9+n7v2tRWP8nlL1Lu9+c=;0vWv7BX8eTd0xtO6LPBhBA=="
 ---
 

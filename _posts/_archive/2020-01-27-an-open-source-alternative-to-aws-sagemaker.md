@@ -24,6 +24,6 @@ images:
     height: 771
     title: "An Open Source Alternative to AWS SageMaker"
 
-secured: "Eu+bwYg4RwpxDpUysKS4SzIt2eEefeg+l+hTTvnb/ZwMfkNJ+pl/D/rpqKM6Y22065KEaaOZCEJlkpitm2Ppz9negTzjrUoG6G2+Uqi29V/7OPDfWxiTtUKunPnbBxr+ExjSAWZpnPMnXhnZKN0xsO18D6WLCfCX4ro/VRxXxlY3u/r9FOf/ncCl1oc2Gt160UuqmlpUFxfGc6d0GBE+6CZNIrc5WM1s7c7qaVEKdqcRqtxhoB1sc2wKHdx5BqsefnhcsJk/DajuMXewAYzwFWSPqQUJ2rWKY9k00mkFPAH21qNFP1AFRsSBq2wIJwto;a1Mi8JRtrkJk/0Kg9hVF4Q=="
+secured: "gOXroI/yOESCIjKuY0VgGQvFRlGFQ4X6DOb9arOQI+vvZvQsuFYv77ARJOyHwgj1j4sp7dAPkM8F4jSkXMkTSEPIAvfoZ2E85Yjx7zGFz1y4/KUD3hepKtwPgpfuGzkKpNPSKhWLnZAed4rOtXuF6pOYwzeub2SmU0Fz2A2XxAnITqHRXfRp9AEaS0hYEjxNM/WRSgg8QcpUpu/3t+zIBa++65QSHWqf5uzVcg9WAQ4/Nl4yV6DA3Z3e/LwYfQdSwxO4sH1SCoe70cypdmoGTKRjx9Beqmtr5q9wiThAKn3IFmrYgAc+TWP+tpvBG8nN;RhWD40C81EKuv2anMh6X4g=="
 ---
 

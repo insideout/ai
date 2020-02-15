@@ -101,19 +101,6 @@ related:
       - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
         width: 980
         height: 551
-  - title: "“Coded Bias”: New Film Looks at Fight Against Racial Bias in Facial Recognition & AI Technology"
-    excerpt: "So, this can be around perceiving the world, so computer vision, giving computers eyes. It can be voice recognition. It can also be about communication. So, think about chatbots, right? Or think about talking to Siri or Alexa. And then, another component to artificial intelligence is about discernment or making judgments. And this can become ..."
-    publishedDateTime: 2020-01-31T13:15:00Z
-    webUrl: "https://www.democracynow.org/2020/1/30/coded_bias_shalini_kantayya_joy_buolamwini"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 44
-    images:
-      - url: "https://www.democracynow.org/images/story/25/51025/full_hd/SEG2-AI.jpg"
-        width: 1920
-        height: 1080
   - title: "Facebook Shares Drop After $550 Million Facial Recognition Settlement"
     excerpt: "Facebook has settled a lawsuit over its facial recognition practices for $550 million. Originally filed in an Illinois federal court 2015, the lawsuit’s plaintiffs were represented in the class-action by the Edelson, Labaton Sucharow, and Robbins Geller Rudman & Dowd law firms. The suit against the social media giant accused it of violating ..."
     publishedDateTime: 2020-02-01T01:24:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marke
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
         width: 300
         height: 250
-  - title: "Artificial intelligence in BFSI Market: Industry Trends, Market Size, Competitive Analysis and Forecast - 2019-2025"
-    excerpt: "Orion Market Reports Recently published report on titled \"Artificial intelligence AI in BFSI Market - Global Industry Trends, Market Size, Competitive Analysis and Forecast - 2019 to 2025\", studies the global markets for Artificial intelligence AI in BFSI in terms of product type, technology type, application type, end-user and regional ..."
-    publishedDateTime: 2020-01-31T13:50:00Z
-    webUrl: "https://www.openpr.com/news/1915939/artificial-intelligence-in-bfsi-market-industry-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Smart Learning Market by Component (Hardware ... Enterprise users include organizations catering to various verticals, such as retail; government; healthcare; and Banking, Financial Services and Insurance (BFSI). Corporate users implement these solutions as a tool to train and assess employees for providing ..."
     publishedDateTime: 2020-02-10T11:56:00Z

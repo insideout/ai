@@ -8,7 +8,7 @@ ampWebUrl: "https://wtvr.com/2020/01/31/peta-requests-punxsutawney-phil-to-be-re
 cdnAmpWebUrl: "https://wtvr-com.cdn.ampproject.org/c/s/wtvr.com/2020/01/31/peta-requests-punxsutawney-phil-to-be-replaced-with-robot-due-to-stress/amp/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1200
     height: 675
     title: "PETA requests Punxsutawney Phil to be replaced with robot due to ‘stress’"
-
-related:
-  - title: "Groundhog Club responds to PETA's request to replace Punxsutawney Phil with a robot"
-    excerpt: "(Meredith/CNN) -- Animal rights group PETA wants to use a robot instead of a live groundhog to predict the weather on Groundhog ... PETA suggests that instead, the Punxsutawney Groundhog Club get hip to existing technologies and create a groundhog with artificial intelligence that could reliably predict the weather. \"By creating an AI Phil ..."
-    publishedDateTime: 2020-01-31T13:50:00Z
-    webUrl: "https://www.cbs46.com/groundhog-club-responds-to-peta-s-request-to-replace-punxsutawney/article_0c00a7e6-4d20-5e02-8da6-d6efc32433f4.html"
-    ampWebUrl: "https://www.cbs46.com/groundhog-club-responds-to-peta-s-request-to-replace-punxsutawney/article_0c00a7e6-4d20-5e02-8da6-d6efc32433f4.amp.html"
-    cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/groundhog-club-responds-to-peta-s-request-to-replace-punxsutawney/article_0c00a7e6-4d20-5e02-8da6-d6efc32433f4.amp.html"
-    type: article
-    provider:
-      name: CBS Atlanta
-      domain: cbs46.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/4/fe/4fecad13-567f-581f-9389-6488fe28e0ae/5e3444ac8df28.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
 
 secured: "l3CgksWeOgKuEqwXf6ESTQakEnmIU3bESuB8l+d/m/FPMaycjsY1+6TcUxBMdFgE7PH74HNsT5TfrMsszwzQYNoZLm5Q9yMYqOyo98AEYd8tXhqFAMn2ig3v7LcY9WQNjnbcMATJCNiZrokO8GEFWv1fi4TvOfUK1//xqjcZNidBA2jDsUWSIlB9s8+4Vr6n92JRqh37XHi0RvblwWu5rmnAhCyEQ84qVCMH0Fm0At0dB31PPhJMt9tzoT5ujS45s3uAP2XBePxhHL6YwP5xsCKjNrOMGu6KHvSmMauZAsvtjnMfH8M50lLpnBUCKenQKQeBZtv3QNRxvZtnyIyx7TuWZnd6OhtpW1HU2BkQT2PyAO+QW/naMAd0gcWGIr+3vEudgP/yGat8RnypU/QThHtJzukfR9e6mXUcfpbTE6u1m1gpOB5zxumGcAbs7miKZSzZ+wNK0cOr3FHXk0OPuMzW7oddZWZy4si/B7YGG2A=;udo1n3CPDi7Qy8fLDdX10g=="
 ---
