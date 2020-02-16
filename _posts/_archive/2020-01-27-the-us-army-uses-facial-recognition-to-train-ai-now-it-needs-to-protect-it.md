@@ -1,14 +1,14 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
+excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -127,7 +127,31 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
-secured: "W6hQ1exp6YCfryN18gVb24hUfGA9H4+Obna7DDOst3VT+g0Ubl0Tu/9SDuw7Xxh/XsIfB5iHN120mrEWEO+CJK46/O77HfLWssUp4JqrIvnAgYRRVE+9hYhKkfQR24pZd6DPIiitXpPoxLJkjbXJGuX20adQl8WMf9Bho74QI9mhmTGLb/y9a1oNHkVjbARQ1IajprFFdQ+pvS38chN+r8XIgcyD1ZURCkDKtKo0k9vMsXupr7HCtS30Ubx6/IRdjtVa5vJPXuJvQ/x+Mn9MZ+RA44LedjRFpTO1Vqm3rru4PtG6b3X6SEFeES/4sgcD;jDo/AjIBj9kl3M85d2Q16g=="
+secured: "QtM5475XDZybmshDTB5VTwseX9LqkmmlB3TRlDLdvD+85h4zB1NdjzOh+Erdr1hY9Eu7eKKnbPk7sc59cSVD6p4xmmfjhS1J9+Z0bhhOSZO/IlFRplMwEvu0qUKz+yGMSSx163WU9FsxhfkMbU/PHP9O3kO77Mp/L7Pp0vCV/caHjDIoI/cEMJLFfcxCEy/wxifs7iNl5R/45F1o4EkjuTFQbWrBpk53bQ3jnuEO2v2LgYhGyEPyr/JJNX1qrNEiY7cUYfLlkhpGAogZpUXI6VqchPmTAveWuuWedai//i2y6goLwcUq54oYN0miyNzJ;pDiiSzfzAtI1iK+7YH7GcA=="
 ---
 

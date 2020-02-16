@@ -1,24 +1,27 @@
 ---
 category: news
-title: "AI May Help Guide Patients to the Most Effective Antidepressant"
-excerpt: "AI May Help Guide Patients to the Most Effective Antidepressant By Serena Gordon HealthDay Reporter MONDAY, Feb. 10, 2020 (HealthDay News) -- Choosing the right antidepressant for someone who is depressed can be hit or miss."
-publishedDateTime: 2020-02-10T19:54:00Z
-webUrl: "https://www.usnews.com/news/health-news/articles/2020-02-10/ai-may-help-guide-patients-to-the-most-effective-antidepressant"
+title: "AI and brain scans may strongly improve depression treatment"
+excerpt: "In a new study, researchers found that artificial intelligence (AI) may soon play a critical role in choosing which depression therapy is best for patients. They found a computer can accurately predict whether an antidepressant will work based on a patient’s brain activity. The new research is the latest among several studies from the trial ..."
+publishedDateTime: 2020-02-16T11:07:00Z
+webUrl: "https://knowridge.com/2020/02/ai-and-brain-scans-may-strongly-improve-depression-treatment/"
 type: article
-quality: 47
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Knowridge
+  domain: knowridge.com
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://knowridge.com/wp-content/uploads/2020/02/AI-and-brain-scans-may-strongly-improve-depression-treatment-.jpg"
+    width: 640
+    height: 428
+    title: "AI and brain scans may strongly improve depression treatment"
 
 related:
   - title: "AI may help patients determine most effective antidepressant"
@@ -51,20 +54,16 @@ related:
       - url: "https://media.nbcdfw.com/2019/09/Brain-scan-1.jpg?resize=1200%2C675"
         width: 1200
         height: 675
-  - title: "AI and brain scans may strongly improve depression treatment"
-    excerpt: "In a new study, researchers found that artificial intelligence (AI) may soon play a critical role in choosing which depression therapy is best for patients. They found a computer can accurately predict whether an antidepressant will work based on a patient’s brain activity. The new research is the latest among several studies from the trial ..."
-    publishedDateTime: 2020-02-16T11:07:00Z
-    webUrl: "https://knowridge.com/2020/02/ai-and-brain-scans-may-strongly-improve-depression-treatment/"
+  - title: "AI May Help Guide Patients to the Most Effective Antidepressant"
+    excerpt: "AI May Help Guide Patients to the Most Effective Antidepressant By Serena Gordon HealthDay Reporter MONDAY, Feb. 10, 2020 (HealthDay News) -- Choosing the right antidepressant for someone who is depressed can be hit or miss."
+    publishedDateTime: 2020-02-10T19:54:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-02-10/ai-may-help-guide-patients-to-the-most-effective-antidepressant"
     type: article
     provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 39
-    images:
-      - url: "https://knowridge.com/wp-content/uploads/2020/02/AI-and-brain-scans-may-strongly-improve-depression-treatment-.jpg"
-        width: 640
-        height: 428
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
-secured: "yXXZ+nG0lrboNElS10BRHdXrKK8zk+arq1Yshbj7IJB+zqSAsdEy5zjIDCI6TwSxBb/fhk6usLH9qJCEt0s26pPuSELZqQVFwQFoLNDvVEn3RVNIrDI+kJzAO2Wq/bJGER2m2TDUSUCvbKyJLswC++9i56j/eUqOntwBgrAi3wkjGmxCN95k/yXJ+iodW+BZPxgS1RsEbVanmYxaczSfFM13QQaSMGG59G/MGtRrITrtRME4oIa5+EXUnv1uDf2McOdyhlW7y4pMFoT0/k64cAXmIoHbAhygni1n7yVMR0JRMD4i56ZgUg6zvIVMaDPT0dziVG3pJvsqExGrtBX+KgrcRHcMrf1Bk4dkSm8PsnfEcENhm1whZ5E3iwfKUPVGNliCdNTwu6iI0wkuNU/t6gLEc++RmEAoSbynzf506MKqNNn3+JonaJjXi8rIfY1u7vMFNxJhey9U6s1cY/S0tkIhWyE8qdTMHAf2ei3dIZg=;WeX8x9snmF6LTAoRRFfdNw=="
+secured: "erJUQlWQ5rrD6Gq2IR5Xgi1Wd9T+jmB5FFQq+mdK4T0Q+pH9ovZMyOQprNcWnqiL3X7CBxpf2KR+859bkAti89TrXtdcT7k9+G3pf1GLuMdvGNh2IG9iIIeZeylhG3oB+IEyAiyFUk/nL1xD/ZeZ5ONwxTZcNxvmDe/wzqy3B2qYqH3n3JKzI7lS/y8og2dEX5/qfL8z+gjwznt+DOlIXQR9SOi/UfS7YLtPwDRfzxR3FgSLYENWZ1jDMTxH11QuU0QGgf50V7eIe9wx0OvO4cL3UHkS2LrbEt487oM0d9Ts8pH6OclgWsSf0qj29Nn3;/V7NWdpjc8ma7j41+jjOog=="
 ---
 

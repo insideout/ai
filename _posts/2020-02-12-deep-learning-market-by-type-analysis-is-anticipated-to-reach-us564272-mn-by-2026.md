@@ -79,7 +79,7 @@ related:
   - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
     excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to ..."
     publishedDateTime: 2020-02-11T09:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-installed-base-machine-vision-systems-industrial-manufacturing-reach-/2020/02/11/9095302.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/11/9095302.htm"
     type: article
     provider:
       name: TMCnet

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T21:33:00Z
 webUrl: "https://www.electronicdesign.com/technologies/iot/article/21122431/how-the-artificial-intelligence-of-things-will-change-the-world-as-we-know-it"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -16,47 +16,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "How Artificial Intelligence Will Change Medicine"
-    excerpt: "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ..."
-    publishedDateTime: 2020-02-01T19:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 139
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg"
-        width: 790
-        height: 497
-  - title: "How far will Artificial Intelligence go?"
-    excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
-    publishedDateTime: 2020-02-07T16:50:00Z
-    webUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/"
-    ampWebUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
-    cdnAmpWebUrl: "https://www-courierherald-com.cdn.ampproject.org/c/s/www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
-    type: article
-    provider:
-      name: Enumclaw Courier-Herald
-      domain: courierherald.com
-    quality: 59
-    images:
-      - url: "https://www.courierherald.com/wp-content/uploads/2020/02/20393828_web1_Opinion-Elfers-ECH-200205-Elfers-Mug_1.jpg"
-        width: 1024
-        height: 683
-  - title: "How far will Artificial Intelligence go?"
-    excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
-    publishedDateTime: 2020-02-08T08:30:00Z
-    webUrl: "https://www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/"
-    ampWebUrl: "https://www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/?amp"
-    cdnAmpWebUrl: "https://www-rentonreporter-com.cdn.ampproject.org/c/s/www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/?amp"
-    type: article
-    provider:
-      name: Renton Reporter
-      domain: rentonreporter.com
-    quality: 39
 
 secured: "nb4t2+or5c72x9kGKRZqYFX+vD3MMCq29B39xuC3yuXT0sWQuXMB7z+IAmsCaqPasBIjYHpDBWyFhZkXauHYyHOITUE89uPhRz8y/1CigYVwRJG0TPQQkztkhh0h0DVBAtJQ1SAkJK7uY+EqNy2QN556AIz3st5sRMsHW6UvZkIpjJBX3nxL/tJnYzSKwzpRHLJfvHC+zgG06g4grW/PZguuMBODUVqASyBeu8WKkhOwepFdzaQE/+cBB6641gVDsDEtpjmuZZ21OItcQakUVOcUJzkeCW7ovR0AvlsTIsoKZTGIKTHniGj6E0+uQIa41q3kqTiIZau3wq2cMl69eD9pKnBy5Xa4Wdp0LhZuUA7qK/XRaYGyCVzaE+jT0lv5llBSxsc9U2fXKvARZpo56ry0XsrFqPlU0Z4pDZ/JmsNXj90wqmWJeoyp3IDVTRKRYktlaGJbTSjrbkk7sU1qH2VWwEg8uk9WyQu6Tsfd3yQ=;3MowdJr1qH2ivWDjhbK2xA=="
 ---

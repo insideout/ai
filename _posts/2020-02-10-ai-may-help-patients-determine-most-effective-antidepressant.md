@@ -8,7 +8,7 @@ ampWebUrl: "https://www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "AI and brain scans may strongly improve depression treatment"
+    excerpt: "In a new study, researchers found that artificial intelligence (AI) may soon play a critical role in choosing which depression therapy is best for patients. They found a computer can accurately predict whether an antidepressant will work based on a patient’s brain activity. The new research is the latest among several studies from the trial ..."
+    publishedDateTime: 2020-02-16T11:07:00Z
+    webUrl: "https://knowridge.com/2020/02/ai-and-brain-scans-may-strongly-improve-depression-treatment/"
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 39
+    images:
+      - url: "https://knowridge.com/wp-content/uploads/2020/02/AI-and-brain-scans-may-strongly-improve-depression-treatment-.jpg"
+        width: 640
+        height: 428
 
 secured: "tcJ9q31t/e4HBH3/gfLuLjh+p2eUKkSBSxxfCur0IrIp8hzN3+HsfIcBw/Ye0xl/Oaj4a3dom9Jn3KMaoD8gYrk+lf1jnOvylDdavGVulDocuRmx+Wi4sb2kPHXWJnyXD3CGbkJ9pjZF8wcIRf19vuzJbThTUb0CmqYEN3OXzfSsTSb7RTKJAYsprzo4U2iIyMEIMiOCcfjaAzykNg8UzRjcrbU9Gpvg1s+HalnV5YM6LKn1zLYeHALyFs5iVfcxDYIuQ/9Fljs0i5AAXB3DwpRQhsvNclltmAtlRF0fS5fi4oGsk7hEiyQFOH9cEzgMmT0vM43WRpbE0353nu3LIedNlJOC/QGJbQAIezEzhtQus3U3uSxQwQnae96+zRjVAEm+5RGMeRRhX90X34XyIXvlqVIsz3Bb/JwtZ1eFvHBDqP1JCIiN6PJRaabe0fzeX6mD2eV0eMFjm4KKt+G8I1WbALmXStbp8wEnfygk1i8=;Dg5U3NAdD/2hgZCWrJfS7g=="
 ---

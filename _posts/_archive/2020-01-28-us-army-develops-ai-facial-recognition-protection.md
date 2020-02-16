@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -123,7 +123,31 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
-secured: "b+NV6tGEZgj/1QUOUv01sfCSwz63Fm/3cv6HVhunEov3q1NGl5O6essAMddqaN5MD3wje7y1yDFcXkG3uYNowPFJVPmUx7+nWrmuSPFd23TzFLrecm+R8qiwqsOP33PGJ4wJ/JTqBDNRnZezhFbIgeILQRQIYjpk4guQGRtUm7xndokL6wrxTck6Qz96BDzHJgcDxE7FiaFlvg4xd6nE3VO921LGwl7BTUNM7dd2dkGnPqFPRWL8gJ/ouKeNfKNPjDfF7E1dEbo1lbaL/eHUTYy/oN2JPrgRxaSA8aO69Z69BydWCPkd4v+4A0ufN8aG;P0Ft3BIYoz5NGLsLeyjCGw=="
+secured: "mm1caREd91s0KblrVSbR454gur4DaPQwauKEw2ffg6qFNaS6SHTmohrvxIcdd65BY7QYIfjJ94ImYfW0l9X5pgcvsAVyZpiLUTfs2zw3e34m01OB0awzRLTeGIjSvSbrY9bAoPSKTil4ODEWIomVtWYzC/f0HJxZx9VrxWaOl2U0KZ8GN7kY/oo/3duGNHEMMUQF6duOVOZ5dOEsPIWicE7jF3NwKkLYig8AGoB+Fd3EqjKNEf9tuGNH//1B1aHErGIIYAreGce83AWkowgEa7hI5GoZfV7DtOoeRPcLpx+MbpSM86Q4iDYcVfFHjWTL;/dKlPiQvsmQLKcMvgJKXbA=="
 ---
 

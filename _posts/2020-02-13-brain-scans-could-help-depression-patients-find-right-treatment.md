@@ -50,6 +50,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "AI and brain scans may strongly improve depression treatment"
+    excerpt: "In a new study, researchers found that artificial intelligence (AI) may soon play a critical role in choosing which depression therapy is best for patients. They found a computer can accurately predict whether an antidepressant will work based on a patient’s brain activity. The new research is the latest among several studies from the trial ..."
+    publishedDateTime: 2020-02-16T11:07:00Z
+    webUrl: "https://knowridge.com/2020/02/ai-and-brain-scans-may-strongly-improve-depression-treatment/"
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 39
+    images:
+      - url: "https://knowridge.com/wp-content/uploads/2020/02/AI-and-brain-scans-may-strongly-improve-depression-treatment-.jpg"
+        width: 640
+        height: 428
 
 secured: "+Bx1smMpTMjpmpoN6Yl4hTbcIB3McpZWPvLr0nOKDuOhebUB2fjMIYNMOce/80vgMESQo06rLyGFiP2Hci1UdPOQ9CXCJWZf1oHbV0LUwDVGJ70BKBiTYo3SoiX5UhwnDEx7FWHroZXzZS75+UAB1o4SvHJGxjAPQQdcUyXD+hdsM2kQcc9FAO7jp69N5lIe6jY166nwCkyfTiJVLvHR/VXqMgoDTxlW1YJLTgc2WvTSiwRFceC9H5gbikG9QqMC05Js7dYDWVlCvRX2rWhIW7Qr6rwKwPF7Y3uo3IrJvu3Z9abHH8aXh9/cdwXVLLNPxI5xnqwqledtEEel6R2N8OoOp3DB81G+f05+p9Tm63vLUCJjc/eBNwwQcmrM2x/A0jR/XiTtTVceNI2whqR3Ef4Drg5A6FIGRuZpqAJAnIaNdqvrRRg6oi5fGndRhVBHSyA/uPIFQetTBTe4/eqWgZfu3bxNc6FMyFXsZVx9TyU=;58L/HzbKxx1vRDui9vcYGg=="
 ---
