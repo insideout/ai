@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-14-nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand.md",
-      "title": "NVIDIA Posts Killer Q4 Earnings Driven By Profitable Data Center GPU Demand",
-      "excerpt": "Shares of Silicon Valley machine learning and gaming chip giant NVIDIA have spiked in early morning trading, as the company posted stellar fiscal Q4 results for the period ending in January 2020 after the bell yesterday.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/02/14/nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand/",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/02/14/nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/02/14/nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand/amp/",
-      "publishedDateTime": "2020-02-14T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e46c0c3a854780006b15b3f%2F0x0.jpg",
-          "width": 900,
-          "height": 500,
-          "title": "NVIDIA Posts Killer Q4 Earnings Driven By Profitable Data Center GPU Demand",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-nvidia-shares-surge-on-signs-of-a-machine-learning-boom.md",
       "title": "Nvidia shares surge on signs of a machine learning boom",
       "excerpt": "Nvidia stunned analysts with strong quarterly results and joined rivals Intel and Advanced Micro Devices in predicting strong demand for chips used in data centers and A.I.",
@@ -593,6 +548,50 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-with-the-development-of-generalized-ai-whats-the-meaning-of-a-person.md",
+      "title": "With the development of generalized AI, what’s the meaning of a person?",
+      "excerpt": "Centered in a future world where virtual worlds and generalized AI have become commonplace, it’s a fantastic example of speculative fiction that forces us to confront all kinds of fundamental questions. If you’ve missed the earlier parts in this book club series, be sure to check out: This is a much more sprawling story than the earlier ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/16/with-the-development-of-generalized-ai-whats-the-meaning-of-a-person/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/16/with-the-development-of-generalized-ai-whats-the-meaning-of-a-person/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/16/with-the-development-of-generalized-ai-whats-the-meaning-of-a-person/amp/",
+      "publishedDateTime": "2020-02-16T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1130889793.jpg?w=1024",
+          "width": 1024,
+          "height": 654,
+          "title": "With the development of generalized AI, what’s the meaning of a person?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {

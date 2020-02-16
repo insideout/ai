@@ -2,44 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-02-02-bristols-graphcore-taps-investors-for-75m-to-gain-edge-on-ai-chips.md",
-      "title": "Bristol’s Graphcore taps investors for $75m to gain edge on AI chips",
-      "excerpt": "The start-up’s chips are designed for unpredictable decision-making tasks, such as providing the brains of a driverless car Credit: Graphcore A Bristol start-up building artificial intelligence microchips has tapped investors for $75m (£57m) to accelerate its growth. Graphcore, a start-up valued at $1.7bn that is backed by BMW and Microsoft ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/amp/",
-      "publishedDateTime": "2020-02-01T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png",
-          "width": 1402,
-          "height": 876,
-          "title": "Bristol’s Graphcore taps investors for $75m to gain edge on AI chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-02-could-ontario-police-start-using-facial-recognition-cameras.md",
       "title": "Could Ontario police start using facial recognition cameras?",
       "excerpt": "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ...",
@@ -2142,6 +2104,43 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-nomagics-pick-and-place-warehouse-robots-raise-86m.md",
+      "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
+      "excerpt": "Since automation can relieve human warehouse workers of tedious tasks, Nomagic claimed that its smart pick-and-place robots offer high flexibility and that they can help reduce the cost per pick. The company added that its artificial intelligence and cloud platform enable its robotic arms to handle millions of different products. Magicloader is ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/nomagic-pick-place-warehouse-robots-86m/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/Nomagic_0-1024x563-1.jpeg",
+          "width": 1024,
+          "height": 563,
+          "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],
