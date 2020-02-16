@@ -2,43 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-18-how-to-build-ethical-ai.md",
-      "title": "How to build ethical AI",
-      "excerpt": "There are serious ethical and societal issues we must confront quickly.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence",
-      "ampWebUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
-      "publishedDateTime": "2020-01-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/humanoid_robot_07272018_1_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "How to build ethical AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-18-secure-technologies-and-artificial-intelligence-in-focus-for-airbus-at-intersec-2020.md",
       "title": "Secure Technologies and Artificial Intelligence in Focus for Airbus at Intersec 2020",
       "excerpt": "In addition, the company will also be showcasing various projects around the use of Artificial Intelligence for mission-critical application. The latter include facial, license plate, and object recognition, which run on the Tactilon Agnet mission-critical collaborative platform integrated with other systems through Application Programming ...",
@@ -2149,6 +2112,51 @@
           "width": 1200,
           "height": 600,
           "title": "Google and Microsoft spar over EU plan to ban facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-google-ceo-backs-temporary-ban-on-facial-recognition.md",
+      "title": "Google CEO backs temporary ban on facial recognition",
+      "excerpt": "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar",
+      "ampWebUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
+      "publishedDateTime": "2020-01-21T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": "Google CEO backs temporary ban on facial recognition",
           "attribution": null
         }
       ],

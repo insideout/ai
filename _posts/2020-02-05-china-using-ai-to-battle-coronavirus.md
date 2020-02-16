@@ -70,19 +70,6 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202002/06/5e3be150a310128206500b73.png"
         width: 608
         height: 405
-  - title: "How Darwin meets AI in a Scottish study doing battle with the superbugs"
-    excerpt: "Antibiotic resistance is billed as the greatest global threat to humanity in the 21st century. Now, the battle against superbugs is being waged in Scottish computer laboratories, with ground-breaking experiments using artificial intelligence and the theories of Charles Darwin. The tests are tackling a menace that is exacting a high price in ..."
-    publishedDateTime: 2020-02-01T11:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/how-darwin-meets-ai-in-a-scottish-study-doing-battle-with-the-superbugs-wb6mk0dsp"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 37
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fcb89f91c-451d-11ea-bb8c-d0d9130b9ea4.jpg?crop=2667%2C1500%2C0%2C0"
-        width: 2667
-        height: 1500
 
 secured: "LDXSw+9d9iuV035CxEF2YavqPSCbGUenTltQiE8clfFFMprQ7d7oj1L2apFBeNPHhNrJPSx+eWy+30+wnjGLfQYDuZ/nHJYajVQ7AKpOtt3C+tA88hWEI95jQdP5rk6xdlGJ9K9QGE4dkE8u6+5lgbNS+vUJ+Cjy3mUIJOzJ4EtmDU+u08NmG+eyzknvxCypY5S/i6oLDq5x8ZsZohhdZEMBew9AcrsgOpxW+hQF/Cjim5xVsOX++zq+4V58Gy33Fy0MbTHE1fn+UYgjNHASHAugTJ69BHKKVgrMl4kztSpsIzWoJhG3AUJj49R8Jni61gYdiDZOLR8IbVIimgiyq33ij1e8bwOt83wMtwMy9yi9g4FXvShg/wafS+flBIfrBV8VPa33ZCxfz7p7M7NWWpGzvQ14i8ahheJpgrAki9fx0pAQJAlQZJhFl687Wmeqq4Uvl4fDzKU3HWQfvdcMsIvxuGOpq+jTsxXXmVIvcds=;MWPTWiEjYnFbRWtXZIvy4g=="
 ---

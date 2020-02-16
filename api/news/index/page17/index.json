@@ -2,43 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-23-pichai-hails-ai-potential-in-healthcare.md",
-      "title": "Pichai hails AI potential in healthcare",
-      "excerpt": "We know we can use artificial intelligence to make it better”, he stated ... In June 2018 Pichai highlighted the company’s aim to focus on areas beneficial to society, including healthcare, energy and transportation, and advised the tech giant will ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/",
-      "publishedDateTime": "2020-01-23T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2017/05/Pichai-IO-e1572348398144.png?fit=648%2C399&ssl=1",
-          "width": 648,
-          "height": 399,
-          "title": "Pichai hails AI potential in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-23-sebi-eyes-ai-machine-learning-to-fix-market-manipulation.md",
       "title": "SEBI eyes AI, machine learning to fix market manipulation",
       "excerpt": "Meanwhile, the capital markets regulator has also planned a ‘data lake’ project using tools like machine learning, artificial intelligence and big data analysis among other things. Data lake refers to a repository of data that is stored in a very raw or unstructured manner. “Use of advanced technological tools such as artificial ...",
@@ -2118,6 +2081,52 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
+      "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
+      "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/",
+      "ampWebUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
+      "publishedDateTime": "2020-01-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e2b52d1097df7000896da19/master/pass/Transpo-licenseplates-502111737.jpg",
+          "width": 2400,
+          "height": 1594,
+          "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI Ethics"
       ]
     }
   ],

@@ -2,43 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-22-making-siri-smarter-is-that-why-apple-bought-xnorai-9to5mac.md",
-      "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
-      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
-      "heat": 159,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
-      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "publishedDateTime": "2020-01-21T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-22-oakland-startup-nets-221m-to-build-out-whats-no-longer-science-fiction.md",
       "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
       "excerpt": "When Sean Byrnes started his automated data analytics company, Outlier, in 2015 the idea of using artificial intelligence to boil down the massive amounts of data businesses collect into a few valuable insights sounded like science fiction.",
@@ -2121,6 +2084,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-pichai-hails-ai-potential-in-healthcare.md",
+      "title": "Pichai hails AI potential in healthcare",
+      "excerpt": "We know we can use artificial intelligence to make it better”, he stated ... In June 2018 Pichai highlighted the company’s aim to focus on areas beneficial to society, including healthcare, energy and transportation, and advised the tech giant will ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/",
+      "publishedDateTime": "2020-01-23T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2017/05/Pichai-IO-e1572348398144.png?fit=648%2C399&ssl=1",
+          "width": 648,
+          "height": 399,
+          "title": "Pichai hails AI potential in healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -47,6 +47,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "hk9ANEAjr9kSEPOICxSEz3TfTtPD/ygefgUHexhfOPM+UPcMnNen404wWZIy6N4QJnIOxq0vl62av8iaVftZ0zx2gYfj/+3NN8h/bNQlnfDKx7K30EcXtBrZBPXsbhNWS00lmecuh/dVk5BzNi/FgxCnDpVqkCTvIL8lstsAJTMoTcjLVy0F4CMzSy8AxH/RzVc7sKmBBpEmB7oL/cStgqpQ3lzGKEOzmk/apDEWZAcggnzoval3JHSJqaW6PAtWZXNKTZQxjDQrK43KYDBA4TQvypzOURk0Z8+P9dHIDYHAg854bv4XGmfNFBgXy3ei;8VxNRy/eq77m8m0AMbJA5g=="
+secured: "kxyYLwaBoj7dBHhfGc+03mj1JyI3fZULlM3/VLqeG8xPjFVM6zxIgn9PrW+FU9Dz7Yo8eUbj3kOeAZ8WcqVS8QCEGF4uH3UmIISCjPbgeIEUTnfreBWnKEeKMOTlE8f57cgnUgOdgIgE6SqbO1kiqMewj61NVXxLJtHEeh1V8kepjcORn0L0+/Gj1iKPuS5UGVfQGrxJt2yRPj+lEbSTpJchSqQb6NLefr8/1i9qI85WFkqS/qlVcJTNKNtPrE9gY1+nv29yBkafcb3hOVdl9CQDBC+1GLnviP4vOJKufiIpGskITP/xJZJ1GIM89GMQ;m3iZGu5CFSvLzv6lEfPvEg=="
 ---
 

@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-10-this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning.md",
-      "title": "This AI model improves and colorizes old videos and the results are stunning",
-      "excerpt": "While this was a great short watch, it made me wonder about using AI to restore and enhance old videos ... weekend that aims to improve and colorize these videos. The model uses Temporal Neural ...",
-      "heat": 184,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/amp/",
-      "publishedDateTime": "2020-02-10T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/AI-video-restoration.png",
-          "width": 736,
-          "height": 390,
-          "title": "This AI model improves and colorizes old videos and the results are stunning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
       "title": "Top 5 companies using Machine Learning in 2020",
       "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
@@ -2150,6 +2106,51 @@
           "width": 1200,
           "height": 675,
           "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-8-great-python-libraries-for-natural-language-processing.md",
+      "title": "8 great Python libraries for natural language processing",
+      "excerpt": "Natural language processing, or NLP for short, is best described as “AI for speech and text.” The magic behind voice commands, speech and text translation, sentiment analysis, text summarization, and many other linguistic applications and analyses, natural language processing has been improved dramatically through deep learning.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/05/communication_language_translation_global_foreign_countries_country_flags_by_alexsl_gettyimages-673314454_1200x800-100757311-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "8 great Python libraries for natural language processing",
           "attribution": null
         }
       ],

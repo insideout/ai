@@ -2,51 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-the-us-military-wants-long-range-in-the-dark-facial-recognition.md",
-      "title": "The US Military Wants Long-Range in the Dark Facial Recognition",
-      "excerpt": "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition",
-      "ampWebUrl": "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1",
-      "publishedDateTime": "2020-01-16T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "The US Military Wants Long-Range in the Dark Facial Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline.md",
       "title": "Want optimized AI? Rethink your storage infrastructure and data pipeline",
       "excerpt": "This article is part of the Technology Insight series, made possible with funding from Intel. Most discussions of AI infrastructure start and end with compute hardware — the GPUs, general-purpose CPUs, FPGAs, and tensor processing units responsible for training complex algorithms and making predictions based on those models. But AI also ...",
@@ -2149,6 +2104,43 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-how-to-build-ethical-ai.md",
+      "title": "How to build ethical AI",
+      "excerpt": "There are serious ethical and societal issues we must confront quickly.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence",
+      "ampWebUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
+      "publishedDateTime": "2020-01-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/humanoid_robot_07272018_1_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "How to build ethical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

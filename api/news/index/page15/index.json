@@ -2,51 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-21-google-ceo-backs-temporary-ban-on-facial-recognition.md",
-      "title": "Google CEO backs temporary ban on facial recognition",
-      "excerpt": "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar",
-      "ampWebUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
-      "publishedDateTime": "2020-01-21T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": "Google CEO backs temporary ban on facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-21-google-temporary-ban-on-facial-recognition-tech-might-be-necessary.md",
       "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
       "excerpt": "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology.",
@@ -2128,6 +2083,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-making-siri-smarter-is-that-why-apple-bought-xnorai-9to5mac.md",
+      "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
+      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
+      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "publishedDateTime": "2020-01-21T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

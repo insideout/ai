@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Google says its latest chatbot is the most human-like ever – trained on our species' best works: 341GB of social media"
-excerpt: "The software, dubbed Meena, has at its heart a Tensorflow seq2seq model containing conversations encoded as streams of vectors that are transformed back into text to form replies when the thing is spoken to by a person. You give it a prompt as input, it says stuff back that, hopefully, is relevant. The fact it's trained on human discussions and ..."
-publishedDateTime: 2020-01-30T07:13:00Z
-webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/30/google_meena_chatbot/"
+excerpt: "The software, dubbed Meena, has at its heart a Tensorflow seq2seq model containing conversations encoded as streams of vectors that are transformed back into text to form replies when the thing is ..."
+publishedDateTime: 2020-01-30T07:10:00Z
+webUrl: "https://www.theregister.co.uk/2020/01/30/google_meena_chatbot/"
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/01/30/google_meena_chatbot/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/30/google_meena_chatbot/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 429
     title: "Google says its latest chatbot is the most human-like ever – trained on our species' best works: 341GB of social media"
 
-secured: "SvvtTR5w5gCbp4mFqQFXlrOQghxCf4XEGI1VA/Nm1ELd/r2h7uFrImAPLtIyrefC1HKfk8Wwc/85z419rozxtsHlkGZIecxpphTqhU/BJq1cDki3trgo5j+o+QMnxAiKadxQJO/t+B9rkkltwytlAsHO3bkcLxfTmh5fBpnmcxlLmdjbLyuuon1nWAI+ObRQG03xGAwmZwPmJD3y+puCnk6XlxgFkpfMwgo3bi3/5qd3q5uhVrBB5fTffwDb1ALmuCPG4kwJr+Cdtd38aDpSp+/delOsgUS6oKT7L7hnbCFuVvSuDWQohxm32XNigAjkoKsX4WjoBeWeXHgLefivhGXLa07hnLvFbBB2mqhGscau8ssjyLNUzNYfDJ+Dr8/smW4mI3flqVHLVKAmqcX/BuPwDqyqlw+5iFGMwJqdQqH9UgpUjBMIbW3sVoTlOnOzKsqwuxR0i1iREBVZBCy1RnBJbhH52DoGuAFEB1JJUqo=;36Qomzqe0gcL3EHqs5ZbBA=="
+secured: "IndQY5d5tCI0LdoawMc7rS+Kk7AT0sOCnVAwb9RrCEwztzet7+qiM6GKqJwhX+szjMgjAmunmuTHj1PF9qBqeOyVKN3YmzNvP1F69RhJgaNYzii2VW72Xk759M5UMwQpi/r+gZAakUL2istnHfGk72LT8eouHhA6OzQA7j5cdsYmXgyjovuqwE1UqedwJOUFfokoda2mU1ltxYGuBtiDXjqn1cnvqcvymLy/ubdpqcLke0hvqhlDv369F2fgxXw/Fqf+OLS1u002f1J0HjAm3qC+1jmlKeZ3tCBrDY7NGA5+TuReRX6WTY+AzW7P9Syg;Ynp3HLyFFvUCAKzr56ARgg=="
 ---
 

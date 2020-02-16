@@ -2,43 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-30-ups-teams-up-with-self-driving-company-waymo-for-package-delivery.md",
-      "title": "UPS Teams Up With Self-driving Company Waymo For Package Delivery",
-      "excerpt": "(RTTNews) - UPS (UPS) said that it has partnered with Waymo, the self-driving arm of Google's parent company Alphabet, to pilot autonomous vehicle package pickup in the Metro Phoenix area. Starting in the coming weeks,",
-      "heat": 199,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp",
-      "publishedDateTime": "2020-01-29T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "UPS Teams Up With Self-driving Company Waymo For Package Delivery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-30-waymos-head-of-design-explains-the-challenges-of-creating-an-autonomous-robot-driver.md",
       "title": "Waymo's head of design explains the challenges of creating an autonomous robot 'driver'",
       "excerpt": "YooJung Ahn oversees the design of the Waymo \"driver,\" a complicated merger of hardware, software, and user experiences.",
@@ -1343,6 +1306,42 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-01-hyper-intelligent-ai-hive-mind-claims-to-predict-super-bowl-winner.md",
+      "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
+      "excerpt": "But if you’re looking for a really educated guess on the game’s outcome, you’ll want to ask Stanford computer scientist Louis Rosenberg, the founder of Unanimous A.I., a startup that combines the opinions of a lot of humans with artificial intelligence to make remarkably accurate predictions. In nature, many species exhibit something ...",
+      "heat": 157,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://futurism.com/the-byte/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner",
+      "ampWebUrl": "https://futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
+      "publishedDateTime": "2020-02-01T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/01/hyper-intelligent-hive-mind-predicts-super-bowl-liv-winner-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {

@@ -186,42 +186,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-01-hyper-intelligent-ai-hive-mind-claims-to-predict-super-bowl-winner.md",
-      "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
-      "excerpt": "But if you’re looking for a really educated guess on the game’s outcome, you’ll want to ask Stanford computer scientist Louis Rosenberg, the founder of Unanimous A.I., a startup that combines the opinions of a lot of humans with artificial intelligence to make remarkably accurate predictions. In nature, many species exhibit something ...",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://futurism.com/the-byte/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner",
-      "ampWebUrl": "https://futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
-      "publishedDateTime": "2020-02-01T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/01/hyper-intelligent-hive-mind-predicts-super-bowl-liv-winner-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-01-what-if-ai-could-anticipate-our-wants-and-needs.md",
       "title": "What If AI Could Anticipate Our Wants and Needs?",
       "excerpt": "The lines of code that animate these machines will inevitably lack nuance, forget to spell out caveats, and end up giving AI systems goals and incentives that don’t align with our true preferences. A now-classic thought experiment illustrating this problem was posed by the Oxford philosopher Nick Bostrom in 2003. Bostrom imagined a ...",
@@ -1174,7 +1138,7 @@
       "path": "_posts/2020-02-03-how-chinese-tech-giants-are-assisting-in-the-battle-against-coronavirus-with-ai.md",
       "title": "How Chinese tech giants are assisting in the battle against coronavirus with AI",
       "excerpt": "Chinese tech giants Baidu and Alibaba have opened up their gene sequencing AI tools to help them find a solution. Alibaba said last week it had partnered with The Global Health Drug Discovery Institute from Beijing, to develop an open-sourced data platform to track coronavirus using AI. The company has also offered its tools to other ...",
-      "heat": 213,
+      "heat": 203,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/",
@@ -2117,6 +2081,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-epic-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings.md",
+      "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
+      "excerpt": "has charged that HireVue, a leading provider of artificial intelligence-based pre-employment screenings, is flouting national and international standards of transparency, fairness and accountability.",
+      "heat": 171,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/?ss=diversity",
+      "ampWebUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
+      "publishedDateTime": "2020-02-03T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/trim/365x308:5585x4045/fit-in/711x509/smart/https://specials-images.forbesimg.com/imageserve/1091526904/0x0.jpg",
+          "width": 711,
+          "height": 509,
+          "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],
