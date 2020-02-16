@@ -5,8 +5,8 @@ excerpt: "An artificial intelligence learning technique has been used to make a 
 publishedDateTime: 2020-01-16T20:54:00Z
 webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
 type: article
-quality: 58
-heat: 58
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/16/14/deepmind-artificial-intelligence-brain.jpg"
-    width: 2500
-    height: 1875
-    title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
-
-secured: "1yLfFryHtDghuDrXmesfEfKM8xnCXB5liNXNoHav6mREvEUMC885tP6oLPlQoQptDCMRfLYfuRZRWZFfN/ec+kz3a93dBj+15cfflc4N9VMJiztoka0FbskXdjhZePj76MlYX/L1yRrWgErhOyd/LN+7EHwvpn+eGFKDWPHckVLd6OWm4FHJXiAviBKAwBsihnUgEHdHi4imB8nORlTRoIIHDzmWzP6m7GWZDiaSoqzdewyHyRTyUsWjD6Go1nfq7ftygs8mHSABOOMnVvSJPzNDbElAeiCWOPb0FnHgVELDipjRvHN8jN+6y16WYKCW;Pw/UaP7DLQH3L8Ve9mX9pg=="
+secured: "qmCTKZijqBvLjvIKStN05KqtXTjj//KTpAUjL1Khj8kFyhyj7QboSuPFaQ2wFJinUOk9UFUJ4jch8Sa+JjwlpwwQD4K+kn3k2cBRHGzYtPGUgWKMNIfnPOvxnuzddxxY20RMVv0mZgfTQKRPsRo4zQYgQEwGHlK4OZWK96HBb8+Qf0bV0p0y6JIwkxuFn0QM1LIS+F7W2xKAHWVmfcUjds/x/oY7q1D0kuDyr78JgXUM2YnOCQdIZ3IjR7vlQkX+kA6/2mkmtbYxlabPKx5L3BJP7bLoxKz72Egw+V3c1PsJfwqw9nvz5i9UdXTnHTtioaZGjIfR4Wcl3lNrUSvGkkucL6yNnU4QIOB0H/uEGmsNMQNjTXNYgGTigKmxsbuMT3HxQVRoEY8VUmNrkeIQMkoAgI0XJHOwi1kCl+jEDXJCUaWuA9jGthCHExx1Hudwy7dR/faDN3MfLggzQ1jbTPM7crGE8dGdTgf2N29R5mo=;UePm79CnznCLZXzBstGTsg=="
 ---
 

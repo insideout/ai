@@ -23,6 +23,6 @@ images:
     height: 750
     title: "Nvidia Jetson Developer Days offers comprehensive insights into robotics and more"
 
-secured: "FsIO41NQkAOAadR5AY/f+qZc+sPizeO9is6TuZDUSPaVvSm6sLixZ9Ifom+VeNFWzQwCmHlMt23BBMj9tB2qtuGsszWpK6p6BkBGRvOine5Ic9i2Uwu52vzeZFHEb5M66/ZTQpTe+CHhqMtdfzR5U1eoSn0HgaaVuOtglHsuzHk9gpJgh8lTpGqV3NFIN+bxTu/sSSSL/oqxrTt8Zpf0I7k0QcNIKa8CBT7NL/Aip3ReFqXEyp00BVqqOZquQtqZeysoRWEqBhP+TS4nNydPiTP28BAxPb/QMMuXIDvFfoLsHwoYYScULf82ZV02Z2N7;Mg/URIHyDsXqBIKl+2U7Xg=="
+secured: "BOR+giU86lWU2z/RdGQkEMJ8oxDZ//YPnRbrO0asd0mfofUJ2jLjViIDMCc22khV3L0bZxm/AmDkr56pJN04DkOqaiYx+WuNJms+PYwQEDGAA4OQ/UcjB+bIgmokQNQYrL0Yh+Ect3U46SBjE7KIJhC/wtRKhgBy40BflgGxgYip+Nemr0ulps2JoHy2ZOKNsTpmif0e+dsGPwyAXcXcx2Qa1TV+flM6fZqPUW88zjCDzTsUTtlRWkIxR0DAIOZT+pSSZegw19zjpen0T/+buGAiRY+xm5jXPLOnzxxPmOaWEl/+q1x64ubNL2MlPCyin96NLZaAuePvTLA+UrzNNsKO8w/3SOnKeUqtcXHOfExdooCRgwRgc9+4+DSNnk1jE20ahmPEQtyRCggaHhDvdbhusWDEFivF15Z1jSZoJo6AQDe2ahBu00cSmbDgPpV5522r6BMsA3Axf56WjLEtKWhy5DGpl6K7xvHwSZniiv0=;eswkKvmU21oVMbak96ieRA=="
 ---
 

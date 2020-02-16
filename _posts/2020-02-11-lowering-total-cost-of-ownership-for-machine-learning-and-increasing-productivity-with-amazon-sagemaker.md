@@ -152,6 +152,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+  - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
+    excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
+    publishedDateTime: 2020-02-16T00:03:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/using-transfer-learning-to-overcome-the-barriers-facing-machine-learning-in-materials-science/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 8
   - title: "Landis+Gyr’s Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
     excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not “smart.” Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
     publishedDateTime: 2020-02-12T19:42:00Z

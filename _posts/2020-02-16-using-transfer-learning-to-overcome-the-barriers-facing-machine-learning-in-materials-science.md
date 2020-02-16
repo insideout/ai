@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Landis+Gyr’s Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
-excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not “smart.” Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
-publishedDateTime: 2020-02-12T19:42:00Z
-webUrl: "https://apnews.com/d923b7ce5d7a593a2bf7b165d872b81c"
+title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
+excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
+publishedDateTime: 2020-02-16T00:03:00Z
+webUrl: "https://www.allaboutcircuits.com/news/using-transfer-learning-to-overcome-the-barriers-facing-machine-learning-in-materials-science/"
 type: article
-quality: 0
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: All About Circuits
+  domain: allaboutcircuits.com
 
 topics:
   - AI
-  - Natural Language Processing
+  - Machine Learning
 
 related:
   - title: "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker"
@@ -155,16 +155,16 @@ related:
       - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
-  - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
-    excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
-    publishedDateTime: 2020-02-16T00:03:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/using-transfer-learning-to-overcome-the-barriers-facing-machine-learning-in-materials-science/"
+  - title: "Landis+Gyr’s Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
+    excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not “smart.” Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
+    publishedDateTime: 2020-02-12T19:42:00Z
+    webUrl: "https://apnews.com/d923b7ce5d7a593a2bf7b165d872b81c"
     type: article
     provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 8
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
-secured: "/yloRRejiSx5nqdAirBHy6BEbqkDgLJrSfi18nJxWeNUaPmnNX8n8BPAdqseHItnOcgtO+agn96gDxHTFu2y9E4dzT/hZkr+DmwQe8Iz9gFKdX1LYwAjLrDyPj2jqdoWREE/yGMSnfPaBQgDTdqpZy7Fr5iqLfGSWUeIKxnAtK7/vXhpWHKOnnrs6gmQn8y8dqt/sfqNhDHm19IZjWQVG3Hy3JvETiGDA0FnPdp19elM8ENMdK5b+mYDhGGlvJNB30R+ld0pA35EZnp48tF3SJLnGG2Q1VOwLDyuiahLm63yaQm+bYGsTtBGF8weEONZ;2bedmtgd+4annutIjhi+YQ=="
+secured: "l0gV67wG19dOgeEhAD7Xwv+KQZnBcJA3Z3GmYAQ9wmAoiogPaKuhvU9IN2fldnp32kG8UlT7xFfm+oOFrtnfsc/onO7mo1GMppkWxB97yEj0yAK/Kncg5EMnZXW4S4XKUMEdtsy9ohiTD8CbHmw9bBuHPWzz5ebuI1kPbhSyujPF2BBJJzeZedi98GFlEa3eIItnDHfMicQjEmExU9QLCoacH8EzbSIuH3eTa8D10XVZJ73s8PLkE/wF+fRxRvHvVeLcAQCt+Fp4ZivbHKDPAJ4tsqGM7U3OEx0ooGZiSLgTTs+sQTPfHEy1SU/eZvIehiEI7efno1IlHbiYLE96bm46YWw4zogsPAuYOHKv1t0qLBWLRWZxZGTMPY+vxS+Kw306a1m7lzapYSP4422WYTbrZT3ngsHgJcXd6U4XXFs/3o10Kiz6tRIFVc/7yHYwcWfroBvuWXCBk8siQz7ihHvuD8US1lhd8JeHRzjRaJc=;P5K6BdEymooJJXPpy6JxFg=="
 ---
 

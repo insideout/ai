@@ -1,14 +1,12 @@
 ---
 category: news
 title: "How AWS is delivering innovation in a box for startups"
-excerpt: "Textract eliminated all of those cumbersome processes in one fell swoop and drastically reduced the manual intervention at Karza,” elaborates Manaktala. Karza also uses Amazon Rekognition, an image and scene identification service, to improve the efficiency of the due-diligence process. All of these pre-tuned services, says Manaktala ..."
-publishedDateTime: 2020-02-01T04:28:00Z
+excerpt: "Karza also uses Amazon Rekognition, an image and scene identification service, to improve the efficiency of the due-diligence process. All of these pre-tuned services, says Manaktala, is hugely ..."
+publishedDateTime: 2020-02-01T09:58:00Z
 webUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html"
-ampWebUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2019/06/HDFC-Credit-Card-378x213.jpg"
-    width: 378
-    height: 213
-    title: "How AWS is delivering innovation in a box for startups"
-
-secured: "lEw5oqwmlAncGVCxVwuNKP1hyloY8kaG9pomhy8WGsIzzI+J9Uioas/vHLMqwbHk1A4iaQ2zsrvi+lNGRbKcwFt4S3qhveprPbrjvclk2UCURw4IXgOkjhR/0d3G4dYP0iXXirBy7++5I3zSJH3EC1myI4LG9sFFCDxdoojguI/rx7sQy0K3mviQQpPzU51XLR3v0jgNPsj9fWZSQ/soxl8Z5dgTCG/M3r4i3bEh/PSfMswOYw1gAajv9kEJAQn8lK/CFmYkv46x9GxgYy7z5g22UfbKsPxM2vkezkrwJrgYwmvua8YOJnD6fw5q75o5;CrP2qFxOGOhYq5n0sME9UA=="
+secured: "fWeqvULc3qKcc7e4UAKRI1YmXQqUog482tRI92JUiDcVDq4QquvMtNs4wZPcE9NQgJrdIfbsBasysWaULzBMA07CaUUvFvAol7za27nvcyMEX50uLOO2m5nufJlOjUaQFSk2pi8FGHtuQLmbUlk5z3+vAKnkAkPcom5JawMXDLa0Mo0c80BTrrm7MozhM+FzHS4UMorG1Dvi/t7CWSq3YA7JgkaUN9Xo3A4BIegsoGI3kxJ/GfM9UdDuyXqBAyPpvP1ueTj4yyFbRt5bSf7avQOu4BXsBWtphXveu2yCcgluSYXolPyP6PTsnvDy94Qx;VwpH6PUzSraaAAc7OV7jNA=="
 ---
 

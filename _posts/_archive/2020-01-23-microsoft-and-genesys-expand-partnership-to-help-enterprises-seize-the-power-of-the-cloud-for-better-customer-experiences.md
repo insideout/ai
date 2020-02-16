@@ -23,34 +23,17 @@ topics:
 
 related:
   - title: "Genesys Engage call center software coming to Microsoft Azure"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services ![|320x210](upload://l8VPxe2KNadH6qDHIMwvoo2OX3S.png)Genesys is a leading provider of call center solutions. The company delivers more than 70 billion customer interactions per year for ..."
+    excerpt: "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ..."
     publishedDateTime: 2020-01-26T21:00:00Z
     webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
     type: article
     provider:
       name: BCW
       domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-        width: 320
-        height: 210
-  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
-    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
-    publishedDateTime: 2020-01-28T17:16:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 40
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-        width: 1400
-        height: 789
+    quality: 34
   - title: "Microsoft Sees Azure Sales Surge 62 Percent"
-    excerpt: "“we are seeing rapid adoption across a comprehensive portfolio of AI tools, infrastructure and services.” He said that there are 6 billion transactions on Azure Cognitive services each month, 7 billion documents processed daily with Azure cognitive search. There are a further 2 billion predictions a month using Azure machine learning ..."
-    publishedDateTime: 2020-01-30T04:21:00Z
+    excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
+    publishedDateTime: 2020-01-30T09:13:00Z
     webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
     type: article
     provider:
@@ -58,6 +41,6 @@ related:
       domain: pymnts.com
     quality: 34
 
-secured: "Qs3psyM9s22tRsJH59zdjKL3UkHWy676NdB5heWplm5DscuAxgVc2p+qGsERf1cZBBbvSut0fNPeDyD9gCyqDl8vvd4UPEWFiHt1rVtEMZzBx/edUwDfkPno2qk++Y+1Kk86A3GofC0ydinYSxLOc10swvnpZ4DibaT1QjXhaergeF/0kbenTtY62u/3WCsfKG6oBWR26Ll/sty/VouLh8x0wb3EoTSW6v2bm2QDli6QydZhom6de/5ASvykwAWxt4lCU4nkFegk0Jfyce07KO/MSAgthcaJFnhgzHqZZ73bA3qekDRbaxb6EqTq7RVz;K8gyK63DhFc37mBkyyBRrw=="
+secured: "m1hD9PePVPojXnudrTPujOUO7d7DkK3VEBkB4ju6KPAacDTI0pqwis69BTkTS1kgbeUZH8V/fKOoBQQQxH+0dOQedNBDCqfTlBFRO8G2MeMVe9mT5AgEFlC4wtaQJ2uvVwAB10OUvDPnirX9srPfjJjzSBba9AQqHV+ywc5XyxRjjvgsNDjP/nP7ocV3K3//NmM9Zbb6OxCsszyyzQ44DOIDI/IfEv8AI9vQf9cwZYOAKj1kWP4en1eo1vUnNYLOQ1ghJxPuwzOrjsNEUNsnAibFUmKZTecBcCIsX5f7B6QZubMURPNYHMiPnx58qtmr;Lu/habj5QvulS7UNL/ZkUA=="
 ---
 

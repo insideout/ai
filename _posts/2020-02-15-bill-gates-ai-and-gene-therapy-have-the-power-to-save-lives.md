@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/"
 type: article
 quality: 104
-heat: 115
+heat: 116
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 630
         height: 420
 
-secured: "QhVAQWVbWKeo+Rl/9jIDxJMktowXAbGKFHczc62jCTRalNGmF9LKG9lecHEKX/gclp97uj6F5EFZjZPw0JfV1QofkNf8T6FoqV0Tci3UgpJb4dnC1PQQa1Dd8krs+j0jYmw649y5xvjjwG2duuQduATGtt2ro6kPaMr+d/yWddCmBwCt6MAEvGEDIhiZ1iwD21iFfS1B3f0/wPTnvuCcKXsujz5DhJUMLvgY7pITLZooeLl/MTyYL6hkaGOkVz/Honwq68ujGw3JZMGP54Aps432XUdttyXeQnvEkHb9EXmy+TZya5A3jBavb7eypIm4cO2vhorzzbaWlTQUr/TYOkgw+BCo5UmQSFnJdgWh9O/FIK9F9GSv6cjbwu+6Rgf71u8g+2TEkqLpznnDPw6n/W/N2KfvuRZHJeYFFqJzFb3NPEA2tXCD4jD+DpkUzFbZzZKAGra1A/OsXqLeBxqTIQrwt1vPwpywnngospHrhqw=;O47atdsABK2aZwGRWKuMfA=="
+secured: "IuuKRqdaHLzRPazwgbxRTPuLe/oGG93jTeofEh/1baUVmwHRjk1VHPidqFB7tLsOROWVjB5vfcWFeoU2A4OBsmsgYmhjJ5x5oF0X6eQxopgOgwvz8z20bTG6GhUILmN0D4RP1XBnC1j8yhr7UsZk6/7PK6NCqI2r4iZPYS3TO7SdAYWlCdrytlnb3Ex+mYLzvzvIqC9N8abS5aAm1a/qvMCyXPxfSR1tWs0tP6cU8KY0WmdvdHMynd0692l9mBnhls2wFzZA75LtSWG+Cwu4Cp9VRLkkTajRITzqJLgWVh0Q0E2QNyXoySYacPnNPu5s3p7NVW1VcDxmZcXDyAq2TcuyfZE1KBPkgfR2rsjpMNoQJoFr/symLHXNYPKGn+Ak1UiuBHS7OhSnQPRs6Pv+JcLdQAJFc/f6VVEEJtyIgQa1DJdwURmL4AmamqPR/XO4p8PmbMeU7OfXxlSaglUecRHuY4nEgfOp0WbNmK3aHTc=;pSVPHgFm9DjDASLggfyznA=="
 ---
 
