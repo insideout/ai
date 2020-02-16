@@ -63,15 +63,6 @@ related:
       name: Medium
       domain: medium.com
     quality: 49
-  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
-    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around."
-    publishedDateTime: 2020-02-01T06:41:00Z
-    webUrl: "https://www.sfgate.com/news/article/An-engineering-student-is-helping-envision-a-15021017.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 0
 
 secured: "2Gjfz5pwnZz/2XAcs3B/yAtobaPHX//OKKtS0BgUdMyGc6/qHJ7nDUawlMUDPL3+SEvWOiJGE6PJj8cuJ8utbKWfBqMuIACNZ2XlIH3M8zJZnlw7GEgheolUAmRr6kOZzw3ugg9GUJe5bv1NozIkoqKjxp2t5zE/SXovuImz9+DONHNURzS2g+t7+e9vJxD4U30h6zZBburgIn/wdPILCP0jQqSXOQZDmSHgXAQWStS/JzJO5MMvRJXeOtSoBuyILAlWMv2ig6MsQAs/gT4+oDiVULAnFi1qdCtGIpAWAEKdip052s++o1Djf2GYn5SNyCx5huiN3zYevEUukLSAdz2SOP6pLaihJ1raMCDmXbivaJpdKrLEtSYrWxjjgPe7W5ngUenBdJPGA9B2F9rttyzs5V9YOlGARZgd03df4IT/sHtEG0uSv3FNJhm8vlHhnDxjEU2cpp7l/w5KiHjRTKbGk/Qp4TXdxXQKunmRRds=;6K54l2Xypa7hDxXHDTsDgA=="
 ---

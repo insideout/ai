@@ -93,6 +93,17 @@ related:
       - url: "https://www.accesswire.com/users/newswire/images/575314/1.png"
         width: 1760
         height: 786
+  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
+    excerpt: "SINGAPORE, Feb. 11, 2020 /PRNewswire/ -- Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards are bringing deep learning innovation into the machine vision sector."
+    publishedDateTime: 2020-02-11T08:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/n15296502/installed-base-of-machine-vision-systems-in-industrial-manufacturing-to-reach-near-100-million-by-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15296502"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15296502"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "vgugJTm+WQQ8+FmsiMv7i84e/pWATELkTxtwsOBoDlWvpw8ngw/rhyqR+eW+5bPMlMcXmmNLCqI2GHtBbMZqgLIHln6C/Osv4Y9QCGdkOM2D52zdpx1vVHePypFEHzxqoc0dWEATQ4DxA3wmROcj6sSlcc2j7YuumYEZAKewQoQ6Qjd4kEQ/vEExuTzoImL01faZp6W1mxjYD31n79S44jg1pRZl288AhdxONu0wOY2D1rS4y+GbySkb0XR6ntNJn6mU96gNbJ/f4l86KSpv9rN5TsERQHy7LlvUYiH3QVL5ufLKL2sDsdLjcfUo52Uq;cyiCrDVcANw0XQ4UxtWrlg=="
 ---

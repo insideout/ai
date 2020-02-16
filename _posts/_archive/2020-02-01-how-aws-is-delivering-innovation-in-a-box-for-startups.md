@@ -1,7 +1,7 @@
 ---
 category: news
 title: "How AWS is delivering innovation in a box for startups"
-excerpt: "Karza also uses Amazon Rekognition, an image and scene identification service, to improve the efficiency of the due-diligence process. All of these pre-tuned services, says Manaktala, is hugely popular among startups. “If a company doesn’t have access ..."
+excerpt: "Textract eliminated all of those cumbersome processes in one fell swoop and drastically reduced the manual intervention at Karza,” elaborates Manaktala. Karza also uses Amazon Rekognition, an image and scene identification service, to improve the efficiency of the due-diligence process. All of these pre-tuned services, says Manaktala ..."
 publishedDateTime: 2020-02-01T04:28:00Z
 webUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html"
 ampWebUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp"
@@ -25,6 +25,6 @@ images:
     height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "2RZuAWZl83x4QovJYAMrZjowzl2N0OzpTwEgGrRFh7Wnx2Tt8AwWSME5PWRJN1u4k2WrWPwjKitT5hZffwghKgcaBlVSU5/xuBdM6wFrdDrgfwUZLlSsuC1bL7rbz+AvQKHBLzhnBLj2USu05Le6RJQpzduj1souAoMdByjv7zX37NzY3VSNjzXPmXKt/wZFdy+80Nm9qrW/APsFWJj9r73e4NK0Zben4Gvu2m05s8vXc08sVzW4wfTj9UPPHzdjO1iLXgJz/kW8OhHHEMS/X6v68MLYnRCs1S9vpFj970YQBVDCF/dCf0Im7hV30+EQ;E/dICIZM6fbvMAqdCWgIoA=="
+secured: "lEw5oqwmlAncGVCxVwuNKP1hyloY8kaG9pomhy8WGsIzzI+J9Uioas/vHLMqwbHk1A4iaQ2zsrvi+lNGRbKcwFt4S3qhveprPbrjvclk2UCURw4IXgOkjhR/0d3G4dYP0iXXirBy7++5I3zSJH3EC1myI4LG9sFFCDxdoojguI/rx7sQy0K3mviQQpPzU51XLR3v0jgNPsj9fWZSQ/soxl8Z5dgTCG/M3r4i3bEh/PSfMswOYw1gAajv9kEJAQn8lK/CFmYkv46x9GxgYy7z5g22UfbKsPxM2vkezkrwJrgYwmvua8YOJnD6fw5q75o5;CrP2qFxOGOhYq5n0sME9UA=="
 ---
 

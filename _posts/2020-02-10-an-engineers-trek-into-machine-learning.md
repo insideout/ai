@@ -65,15 +65,6 @@ related:
       - url: "https://www.crainscleveland.com/s3/files/styles/800x600/public/Hyland_Software_Logo_i.jpg"
         width: 800
         height: 600
-  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
-    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around."
-    publishedDateTime: 2020-02-01T06:41:00Z
-    webUrl: "https://www.sfgate.com/news/article/An-engineering-student-is-helping-envision-a-15021017.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 0
 
 secured: "xoUqkZ8tz8lIYlwLm5QfzHQT/lQpYNN8ZoAb5N5ZCSPqWzC/dTAXa7ZIXA2yJrcktBUuofjD3XptgXwu7tJmAIFy4ojScqH6A2Ozv8UTkaANThTWA5E+Yf5t1Zh+EQeLEP5btafSVir565aEC7phu4NzvY3e7atENXob5AUzDjog9eez21CD6EWMf7RTSYQkVkJ9rgcVOsagQTBUy08d0rf5BWjpTOIoWowxcKQwrr2zjbS+LoeN9KIO5EFGn70NQQ7ct9Kl/0W20kPyaXHGAUNd5JOqyXmA9Iwo5VgCQg8JIDVCEpkQhAyDXOhl0rBK;hPW692pctNls1tNIXiXS6w=="
 ---

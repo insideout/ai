@@ -186,51 +186,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-01-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
-      "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-      "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "publishedDateTime": "2020-02-01T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BXJa3tZu4oKtEXuFash5oE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-01-hyper-intelligent-ai-hive-mind-claims-to-predict-super-bowl-winner.md",
       "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
       "excerpt": "But if you’re looking for a really educated guess on the game’s outcome, you’ll want to ask Stanford computer scientist Louis Rosenberg, the founder of Unanimous A.I., a startup that combines the opinions of a lot of humans with artificial intelligence to make remarkably accurate predictions. In nature, many species exhibit something ...",
@@ -2117,6 +2072,42 @@
           "width": 1160,
           "height": 774,
           "title": "Camcon explores diesel and AI calibration for its digital valve train",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-elon-musk-says-he-doesnt-care-if-tesla-ai-dept-applicants-finished-high-school.md",
+      "title": "Elon Musk Says He Doesn’t Care If Tesla AI Dept. Applicants Finished High School",
+      "excerpt": "The CEO of SpaceX said Sunday that he's looking to hire folks for Tesla’s artificial intelligence team. \"Join AI at Tesla!\" he tweeted. The artificial intelligence team “reports directly to me & we meet/email/text almost every day.\" “At Tesla, using AI to solve self-driving isn’t just icing on the cake, it the cake” - @lexfridman Join ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school",
+      "ampWebUrl": "https://amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school",
+      "cdnAmpWebUrl": "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school",
+      "publishedDateTime": "2020-02-04T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Complex",
+        "domain": "complex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/p4fyc4mivqueblaqzjfm.jpg",
+          "width": 394,
+          "height": 222,
+          "title": "Elon Musk Says He Doesn’t Care If Tesla AI Dept. Applicants Finished High School",
           "attribution": null
         }
       ],

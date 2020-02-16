@@ -2,42 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-04-elon-musk-says-he-doesnt-care-if-tesla-ai-dept-applicants-finished-high-school.md",
-      "title": "Elon Musk Says He Doesn’t Care If Tesla AI Dept. Applicants Finished High School",
-      "excerpt": "The CEO of SpaceX said Sunday that he's looking to hire folks for Tesla’s artificial intelligence team. \"Join AI at Tesla!\" he tweeted. The artificial intelligence team “reports directly to me & we meet/email/text almost every day.\" “At Tesla, using AI to solve self-driving isn’t just icing on the cake, it the cake” - @lexfridman Join ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school",
-      "ampWebUrl": "https://amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school",
-      "cdnAmpWebUrl": "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school",
-      "publishedDateTime": "2020-02-04T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Complex",
-        "domain": "complex.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/p4fyc4mivqueblaqzjfm.jpg",
-          "width": 394,
-          "height": 222,
-          "title": "Elon Musk Says He Doesn’t Care If Tesla AI Dept. Applicants Finished High School",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-epic-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings.md",
       "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
       "excerpt": "has charged that HireVue, a leading provider of artificial intelligence-based pre-employment screenings, is flouting national and international standards of transparency, fairness and accountability.",
@@ -2102,6 +2066,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-capturing-and-validating-alphanumeric-identifiers-in-amazon-lex.md",
+      "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
+      "excerpt": "Enterprises often rely on unique identifiers to look up information on accounts or events. For example, airlines use confirmation codes to locate itineraries, and insurance companies use policy IDs to retrieve policy details. In customer support, these identifiers are the first level of information necessary",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/capturing-and-validating-alphanumeric-identifiers-in-amazon-lex/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T15:40:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/04/alphanumeric-lex-1.gif",
+          "width": 800,
+          "height": 605,
+          "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],
