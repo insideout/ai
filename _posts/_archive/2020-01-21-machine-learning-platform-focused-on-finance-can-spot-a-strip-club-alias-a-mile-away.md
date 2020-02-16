@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
-excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... not paying for goods and services that fall outside ..."
-publishedDateTime: 2020-01-21T17:20:00Z
+excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... and expenses to make sure companies are not paying for goods and services that fall outside company policies. Kale said the process is the ..."
+publishedDateTime: 2020-01-21T19:46:00Z
 webUrl: "https://www.techrepublic.com/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 type: article
-quality: 27
-heat: 27
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Finance
 
-secured: "kzPj9JGYm+WV8OqXQp1EQ038DBZLbfREq/r6FBO3AL7oWJCIxdLFaqkZjAq6ZOt0d9JILjsvc6RY25uy1crrUhRi9kNZ2VJA3c5gjrT0rpjY/ML5hU8qPBLuJh9LTOspJLgwe7aLBszJc2ch2fJ6nd0L2HxCjx9yvtjpozniQGLCcK4VEy8O7nRLQI80zh4m6/0EIF5kvYIurhCHRFVZf3fPMPf4Toz0N6is7d7EtigkqHT5IvxfgZLVhlgm+/WmgDShedMP5+pZBxFgVdmbyadD6qsFdU8qF2FG2CXbxNUXRTW4ZlfGGZCw8lEZrmMbe17JEMKAnvJ/ZGy4PqECPh68BHZUPMfVNiZJlPHYaVt76b+NBR9m0tNBg+C4WvENjWLcnzYAXb96o6nuZxSTNrNzV+cScZlZptenTJiw4NfuM2K9ssxOTyQRNYM/HykHgakzX8AaE+iFV8uhEZicnLM0r+c2aOH9hXRhL5hmv3g=;/N+9MDUHYgEbKYnIVrMtAA=="
+images:
+  - url: "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg"
+    width: 1200
+    height: 675
+    title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
+
+secured: "gHnrnFr1lhqdwMCjlWTLg/YqvUf6/S2gF8p2DOfMc9H8n2wbNe/52CvA/Sek4b2QzXzA5g5geyWnzeEFX2SjtoL3r1vgRcDJmWE/+HWqsapilpsIlNLuNX14kUi11iEOe0+eNQnQkGL9O9ZLkfI8EGlfWsxJAPWoffOqppehtycN6adqALiFZ8WxyK1wyf1svcvmEPzHVIlWyLtiD41yPtoTcnV9L5lvbYe1Mgrgg8pZgmafkQ3PZovIEGZvXWE6OoM/+L8Qf5o1QSVc1Z3sZJRoslg6ZepOlYyFqCz4x2oXrDCb40a7/NdFHgkvMHcJ;U4p3BfkWEmAOwF1h0vXxhA=="
 ---
 

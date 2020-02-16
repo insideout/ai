@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
-excerpt: "/PRNewswire/ -- Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards"
-publishedDateTime: 2020-02-11T08:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/installed-base-of-machine-vision-systems-in-industrial-manufacturing-to-reach-near-100-million-by-2025-301002034.html"
+excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to ..."
+publishedDateTime: 2020-02-11T09:11:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-installed-base-machine-vision-systems-industrial-manufacturing-reach-/2020/02/11/9095302.htm"
 type: article
-quality: 0
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
 
 related:
   - title: "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026"
@@ -80,6 +86,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "XB2HTV80H0V5Spb7BfqR4KMgKCk3wn2hte3rcKvIc61rgtyidw8e9YkVqZM+GcZGfgh14365QTfbZttlcVool19h9xWivQRlGeQMuLYDYNXgeDFxnaIr4c8sIdcReumiYScc5GJesQ0GlpQt8S7SGE9MDGHanYvZ60fH5N8KQbF8D+l4Z8n2nBb2UtoJ7BheWSLEN3K2Z0p5n2aK/hCRPnfdk793yEjj7hGjGntQy2EPCUxLiBF6yX7mmhwnFJJBOLro/tzjAGlOr7L9pSUy7sujlogUXhh0ffT0FTfte/iGgFiTUqkGH7FCovvIbs97KIJiFNIzvJZsr7Gu4MZ+U/d9ypsSCu4glKW9IRuM8KYdv24ikX08evO+XbuJJf/Vk7J661DVgn6MY1HjkOw6a18MV3iC6jcrGk5y/pIpgz3yofXLiFEHcmJiSTikMZDep8Be3SpxX1r32B2iMGydjO1f+z11UfezoHpfesB+k0A=;RoRiYyew7+2wTl92oM34mw=="
+secured: "JKhOPCsPVECmTsmh1EziWpRI5FgXy7D2GeYBCduCoNN4WV+uZufomuDtEi45rcgZEVBV8E53yallEILPz5d6Y5ipWS/KzWXa2VvWx+hnvI+fiKGBOS2Ed19EbEMRp7sTrmIPdgJG4H6iQOlAtLWiOy1AGHpHBWhFtacerQkSJobP6bgxy2/1MEAVbqxD1U4yeUAF0to3JfaV2Z86EnrRh2H7R2m3C2ULMUSlI7SQ7BNJSFnJORna26Fx0kz8H+Zaa1syAUK4vYvw9NtGCkjmPGAiVjo1gm2DD9M0Vp/OEQOfQ5w6LvDWWPDpIKqBXqCx;AypFGYmmsVqMrsikes+45A=="
 ---
 

@@ -56,34 +56,21 @@ related:
       - url: "https://postmediatorontosun.files.wordpress.com/2020/01/surveillance1000.jpg"
         width: 1000
         height: 750
-  - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
-    excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
-    publishedDateTime: 2020-02-01T22:22:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7956535/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+  - title: "Facing facts: Reject a blanket ban on face recognition"
+    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 49
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
-        width: 636
-        height: 382
-  - title: "The rise of facial recognition technology: where we are and what to expect"
-    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
-    publishedDateTime: 2020-02-04T12:04:00Z
-    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-where-we-are-and-what-to-expect"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
-        width: 1640
-        height: 800
+      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
+        width: 1200
+        height: 799
   - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
     excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
     publishedDateTime: 2020-02-03T22:34:00Z

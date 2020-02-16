@@ -7,7 +7,7 @@ webUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery
 ampWebUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"

@@ -2,44 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-06-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon.md",
-      "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
-      "excerpt": "The European Central Bank (ECB) has partnered with Reply, a platform focused on digital innovation, in order to offer a 48-hour coding marathon, which will focus on teaching participants how to apply the latest artificial intelligence (AI) and machine learning (ML) algorithms. The marathon is scheduled to take place during the final days of ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
-      "publishedDateTime": "2020-02-06T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Euro-Money-Europe-20-bright-300x216.jpeg",
-          "width": 300,
-          "height": 216,
-          "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites.md",
       "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
       "excerpt": "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ...",
@@ -298,7 +260,7 @@
       "path": "_posts/2020-02-06-lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns.md",
       "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
       "excerpt": "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer.",
-      "heat": 368,
+      "heat": 348,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
@@ -2176,6 +2138,51 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-scape-technologies-the-london-based-computer-vision-startup-has-been-acquired-by-facebook.md",
+      "title": "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook",
+      "excerpt": "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%).",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/08/scapebook/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/08/scapebook/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/",
+      "publishedDateTime": "2020-02-08T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024",
+          "width": 1024,
+          "height": 767,
+          "title": "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

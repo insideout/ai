@@ -4,9 +4,11 @@ title: "GM's Cruise unveils its first driverless vehicle"
 excerpt: "This is not Cruise's first foray into driverless cars ... are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back ..."
 publishedDateTime: 2020-01-22T04:24:00Z
 webUrl: "https://www.bbc.co.uk/news/technology-51171398"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51171398"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51171398"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "r0nqrSCJhdAucHvzz6d+wZTCeKsj+4y4omUIVc4+wPZpGDmkRwfRnhd8QRb5GLZkmXmmmQaD0ngg150kAd1qx7+UCW/s8jzwPRxlw05h8IyAp+W4QpTyla3g6z82BCTN108sh0ZA4kUSVdg/+y/D21Ltp/J1HNBT3jARRmTblPANy14oPZaX0lOwIy9ZCJnImxwecsOaRdsp41O3/Mt774k6MsTnFVpYSELRfFJOR1y4zvD55pXUKdW4zM5/EhDdLrRa7FI5OrgL7UIQkgDyjf5xQ3yr2J8MXo7BQP31kGl9nD5N24emMSp6snueERJS;HYFGpmZX1aPsutSiuQIwow=="
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B3CE/production/_110603064_03063.jpg"
+    width: 1024
+    height: 576
+    title: "GM's Cruise unveils its first driverless vehicle"
+
+secured: "mTS02YKdU0dMO5g3Bec6nKaoF0h6S8bQk9yHhOUPxjeMG/G8xFwfaDu5hclbkZ+fkFNEgu4M2ESqgyTn7FfFMRT0UVMNhDQ8RD/GSY3CYd5Uf85PVHQmaN8yfnOjIAayVdrBWLp7+vN+LgWCg1JgEo5L6IpPBS3RwG+hrg1LVmjm06O8sVv0j/RLBrmtrVaPnp3012kGTWYVE36jE6KdYA5gWOOqUFShxlFC8WeXZovovwjgelX5zSYsM0PX0yBLYnfTgnTrGHn0hUu7HWgeAahfYUMN2hP/4eoXBvVqWYwxhfb/6dvseVJWTz28P57B;QXoXvq9pCKsJhhw/9pVnCg=="
 ---
 

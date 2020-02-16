@@ -24,32 +24,30 @@ images:
     title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
 
 related:
-  - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
-    excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
-    publishedDateTime: 2020-02-05T22:16:00Z
-    webUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting"
-    ampWebUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
+  - title: "Local speech recognition tech company partners with global call center company"
+    excerpt: "Voci Technologies, a Pittsburgh-based company that provides automated speech recognition technologies, announced Thursday that it had entered into a partnership with a global provider of call centers."
+    publishedDateTime: 2020-01-31T13:10:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html"
+    ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 51
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 55
     images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
-        width: 980
-        height: 551
-  - title: "Facial recognition coming to Europe, but terms and conditions applied"
-    excerpt: "Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next month."
-    publishedDateTime: 2020-02-02T11:57:00Z
-    webUrl: "https://www.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
+      - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
+        width: 600
+        height: 400
+  - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
+    excerpt: "The AI-algorithm that powers SpeechX is based on proprietary evaluation parameters of Mercer | Mettl and grading mechanism of its technology partner CarnegieSpeech that in turn leverages state-of-the-art and patented speech recognition and pinpointing technology licensed by the Carnegie Mellon University. SpeechX assessments can be taken from ..."
+    publishedDateTime: 2020-02-06T02:31:00Z
+    webUrl: "https://indiaeducationdiary.in/mercer-mettl-partners-with-carnegie-speech-for-english-language-assessments/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 1
 
 secured: "dAPVXFss6x9dEoZHhhT2PObCN0gfAYoINJUM+fMKLqFMfvUqFUKe39BS+1eVuD1UouHaF6No+QEArB1el6vk9VHrkXL/0Bjk+k88tVk9Nr2k+aTK8ZXJaJLF7nukUhVvp6poIY6svWJzpwY4XvJvUABPDc9S3vePfCLT4tECQRTy7ZvaLdPBylOFze3Ar+VN5xTFdA6VFWhiu1BbWpe54qS29ewNgulX0no8gsDJoA50fg80Sxn5upaIJYT5lTXXmZ9RLwOZfLhlHvuTURFUAQhVoo1PK5WfHl8EmamYncnecMvUA460jH8ZWZWTfpvc;uXugx97mmq6zEzQvoaD0FA=="
 ---

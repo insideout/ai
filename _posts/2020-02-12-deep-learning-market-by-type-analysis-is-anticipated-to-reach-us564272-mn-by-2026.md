@@ -77,14 +77,18 @@ related:
       domain: benzinga.com
     quality: 17
   - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
-    excerpt: "/PRNewswire/ -- Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards"
-    publishedDateTime: 2020-02-11T08:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/installed-base-of-machine-vision-systems-in-industrial-manufacturing-to-reach-near-100-million-by-2025-301002034.html"
+    excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to ..."
+    publishedDateTime: 2020-02-11T09:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-installed-base-machine-vision-systems-industrial-manufacturing-reach-/2020/02/11/9095302.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "Qpgu1fWR5+mBRIx9fzdWN580mCMwORdFQnqAWotlbmZ4G69KknXfZclJMGtmr4lIQ6Z4kRi24mnnIGonLwilkcj1aGGxCC1tz0+ZShroKsICLSuzKsJokF6ZnqmvXN7Vrd/cjAd6Be5URAeqKGDqtJoepGkWOO6ky2SWD+blD4GV85DXdEyD+eZH9gI4vTJajdtJjoCtSF1/U+lfPU9arlbt1+ikJy3u4hQKRNZHFSNebBkorjOxyXaiMD0V8ZrAkMM59E4DJgUOdHnVF1hXcrhI24uTdvrYdDQjRlTkOlK0bnbseRtOd3b7ezBb4OiA;uMVZ/rlcYSjCdTgejzZcpw=="
 ---

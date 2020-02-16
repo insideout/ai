@@ -26,151 +26,56 @@ images:
     title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
 
 related:
-  - title: "NYPD pushes back against facial recognition ban"
-    excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
-    publishedDateTime: 2020-02-02T07:20:00Z
-    webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
-    ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
+  - title: "Moscow Court Case Challenges City's Facial Recognition Use After Launch"
+    excerpt: "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month."
+    publishedDateTime: 2020-02-03T15:07:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
+      name: New York Times
+      domain: nytimes.com
+    quality: 69
     images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
-        height: 800
-  - title: "Lawsuit filed against facial recognition company CPD works with"
-    excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
-    publishedDateTime: 2020-02-04T00:24:00Z
-    webUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/"
-    ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
+        height: 630
+  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
+    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
+    publishedDateTime: 2020-02-03T23:02:00Z
+    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
+    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
     type: article
     provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 74
+      name: Canoe.com
+      domain: canoe.com
+    quality: 50
     images:
-      - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 675
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
+        width: 1000
+        height: 750
+  - title: "UPDATE 1-Moscow court case challenges city's facial recognition use after launch"
+    excerpt: "A Russian court on Friday heard a legal challenge to Moscow’s rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month."
+    publishedDateTime: 2020-02-08T10:21:00Z
+    webUrl: "https://www.reuters.com/article/russia-technology-facialrecognition-idUSL8N2A055X"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 61
-  - title: "Proposed bill would ban police from using facial recognition technology"
-    excerpt: "ALBANY — A state senator is calling on New York to ban the use of facial recognition technology by police agencies, following reports that its use is much more widespread than previously known. Sen. Brad Hoylman (D-Manhattan) said recent news reports reveal companies have been “scraping” Facebook, YouTube and other online and public ..."
-    publishedDateTime: 2020-02-02T10:00:00Z
-    webUrl: "https://www.newsday.com/news/region-state/facial-recognition-ban-1.41284069"
-    ampWebUrl: "https://www.newsday.com/amp/news/region-state/facial-recognition-ban-1.41284069"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/facial-recognition-ban-1.41284069"
+      name: Reuters
+      domain: reuters.com
+    quality: 44
+  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
+    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
+    publishedDateTime: 2020-02-04T14:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
     type: article
     provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
     images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.41286231.1580616519!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-  - title: "Facing facts: Reject a blanket ban on face recognition"
-    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
-    publishedDateTime: 2020-02-04T09:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 59
-    images:
-      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
-        width: 1200
-        height: 799
-  - title: "Lightfoot urged to pull the plug on facial recognition technology"
-    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
-    publishedDateTime: 2020-02-04T11:33:00Z
-    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 59
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
-        width: 640
-        height: 480
-  - title: "Veridium brings facial recognition to all phones in password-less push"
-    excerpt: "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ..."
-    publishedDateTime: 2020-02-04T06:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
-        width: 2880
-        height: 1800
-  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
-    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
-    publishedDateTime: 2020-02-06T19:08:00Z
-    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
-    images:
-      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
-        width: 980
-        height: 551
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 34
-  - title: "Doha Bank integrates facial, voice recognition into app"
-    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
-    publishedDateTime: 2020-02-02T19:02:00Z
-    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 26
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
-        width: 620
-        height: 355
-  - title: "NY Senate bill would ban police facial recognition technology"
-    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
-    publishedDateTime: 2020-02-06T00:26:00Z
-    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
-    type: article
-    provider:
-      name: The Daily News Online
-      domain: thedailynewsonline.com
-    quality: 19
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "pAW0cHjEhH634nY6KEOvD2NCy2Z4sW43Hbvls2Y3NAnJSRHtouvqYaQLG8lJkbpN0TqPDSw0a0KaNvtXn8uvkWfj+xDlQI+mt6ItNQanQaXgJflbNM31uGLSInB/zotNBqBQofAHtbsjQYIXGejL4lZN9ivT8bm7DCQ+UR5X/n5+FttZ1O09/i+wEd3Znpj63vS3OgXpKqTF/i+hR/9s8RDZSqZUjDeWKB1e6CJfbLO7Gr41vPAdMDyS2yIrBDeZcamy18AS5B0b0c2USsMhkAcZXUXEorOJGBATXqNULMPiMnfiXrnllDDjjXBfa31DI8Dkj9Teng62yKToTAn8BRdjUaGZiBRO9r/uLdmbBNC/jcqME0DIdOGrDGzYch3hLazDt1QpJ1jbA1i0oz+ffS7ZaBAXX8liG0qxPDW2vnOhpI8JN0+Uo/r2pCXrBwKWM1XEtV5n2lWLp3+xFaPbeZBaWATkfJgbwPu4igP6xbw=;HbYwZ0B7v5tux43P2wvLOw=="
 ---
