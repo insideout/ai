@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Azure’s New Hardware Security Feature Takes Cues from the Xbox"
-excerpt: "Machine learning unlocks a universe of new possibilities – in medical research ... In November, Microsoft announced it was bringing confidential computing to Kubernetes clusters in Azure. Related: Microsoft Security Splash: What It Means for the Tech Giant Its open-source Open Enclave SDK lets you create trusted execution environments ..."
+excerpt: "Machine learning unlocks a universe of new possibilities – in medical ... In November, Microsoft announced it was bringing confidential computing to Kubernetes clusters in Azure. Related: Microsoft Security Splash: What It Means for the Tech Giant ..."
 publishedDateTime: 2020-01-30T18:24:00Z
 webUrl: "https://www.datacenterknowledge.com/microsoft/azure-s-new-hardware-security-feature-takes-cues-xbox"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 655
     title: "Azure’s New Hardware Security Feature Takes Cues from the Xbox"
 
-secured: "TxFKgOisyAEcebhB8YZyyje3xA9RLLYT9QvmM7mvyCyoCsuzARpMYvBQh5JS/kl1OGpki86096imFsnyPLg/6WLPdF72xVHELHDWWg7C2qheT7Y1zkcX++FyH+C7bAjQjFcJf25zREee96egOnjkDABCE0hi8g/gqC8wisfOwVDS+d/VFVPX/wKrqmhs5F0Tu25ROriuTNTklujG6T3UoPIf6xLeVrTYoKWAQQtq9XQxfdVqQrN79jYQgyX9jBm2yv8OslYyP3us5tAYGugDvJJw0fP6eHZ0v6ZYooRHkYaRCobQJ1PB+v/YwkjHp8lY;uFMfNJ2nvSMPnXNZ5fZ1fw=="
+secured: "mvDG9cwP7s2hOwooe0JMaMdrBVveDqDEY9mmwbYTtxV1YLbj7Min9vh6OcKPKH8O+kLf1tjmO8/gwfTNIUYKRzsj8vZVRfe1zH6qhlE0hIZWF/i2VyOdkH7pWacugq/6LlaXirfrBY03a97M+X1GhBtgpaecjim8Kccm4ZZRsZQYMDiPJ1k3aaP3YLgyIZEKf6ZAhhBiC/HYqz+hCQvcxZ662X5EKn0UAU+/IB/S1OFcdkzccAv9k9v2R3nceIhg/zUYy+9LNS+/wiEYFj6PXV0EIba8odyz/0fqpoSeWiho/N2h+GMWBOtdZ3uCiFHj;KUzggcU9eGf3x2gMV8+UzA=="
 ---
 

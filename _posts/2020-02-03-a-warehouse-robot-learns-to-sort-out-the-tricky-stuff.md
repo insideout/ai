@@ -54,21 +54,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screenshot-2020-02-04-at-12.06.08.png?w=1024"
         width: 1024
         height: 691
-  - title: "A warehouse robot learns to sort out the tricky stuff"
-    excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — from clothes and shoes to ..."
-    publishedDateTime: 2020-02-02T00:08:00Z
-    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 59
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg"
-        width: 1200
-        height: 900
 
 secured: "KWKUcvMPq2ti7ecB7CppvyEmbJzZHnf5nZ09mi6p7sIk7AcOLxveBQijEnEWJYo7YBSW6VzeyWi0U27ekGZ/WSucUg7t7pYNvOINMsbBRk9DHRQoNjCfh5jq+J0cn7CufmlhN5NqiBYL/p16bK1sB4RIB9Vw4BfMgbfCBMoAXnd13vieWG2WR6bU6yyB1T/feHmvNpXv0RxfnUSMWcM5Kk7ulLfW/ei6TbuQieSfFs1NwD2REDjjMWTDj0JJCqh8m5B5UTQ2kWFU/WciRAjl+qNpcQ34D0A6ue4FqmQ1EAlkh4wrRITSeQvy25x4wGLJDhetYO48RkuZTdmy9Ug+XoegeOe4TUGiNa0E7ty+l/VhIhK0veu1P0L95ZnArpfgJrtu/4nczuP2MXPIpDRdFNUjHMEnXQZaiQGm0dyhqk57Uxd6FlZmhU/YNwncUlMoAfaeBwlp8EDGOaglwbRckjqFRiIGOIOz8wjVohLb7Bo=;8SLEmMZ4HWq3m++Eds7RAw=="
 ---

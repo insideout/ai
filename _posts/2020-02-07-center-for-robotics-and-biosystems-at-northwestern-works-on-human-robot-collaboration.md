@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-07T21:42:00Z
 webUrl: "https://www.therobotreport.com/center-robotics-biosystems-northwestern-human-robot-collaboration/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: The Robot Report
@@ -24,33 +24,20 @@ images:
     title: "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration"
 
 related:
-  - title: "GEMS Dubai American Academy launches center of excellence for robotics and AI"
-    excerpt: "Dubai American Academy has announced the launch of its new Centre of Excellence for Artificial Intelligence and Robotics. The vision of the Centre of Excellence is to promote educational and research activities in the field of AI and Robotics. GEMS ..."
-    publishedDateTime: 2020-02-01T23:53:00Z
-    webUrl: "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai"
-    ampWebUrl: "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp"
+  - title: "Aker BP to Test Robots and Drones at Skarv"
+    excerpt: "Aker BP said it plans to trial robots and drones for autonomous inspection, data capture and automatic report generation on its operated Skarv installation in the Norwegian Sea during 2020. The Norwegian focused exploration and production firm announced Tuesday it is working with industrial artificial intelligence (AI) software-as-a-service ..."
+    publishedDateTime: 2020-02-11T14:38:00Z
+    webUrl: "https://www.oedigital.com/news/475520-aker-bp-to-test-robots-and-drones-at-skarv"
+    ampWebUrl: "https://www.oedigital.com/amp/news/475520-aker-bp-to-test-robots-and-drones-at-skarv"
+    cdnAmpWebUrl: "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/475520-aker-bp-to-test-robots-and-drones-at-skarv"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 86
+      name: oedigital.com
+      domain: oedigital.com
+    quality: 59
     images:
-      - url: "https://www.itp.net/sites/default/files/itpdotnet/images/2020/02/01/PRL--GEMS-Dubai-American-Academy-launches-Artificial-Intelligence-and-Robotics-Centre-of-Excellence1.JPG"
-        width: 2550
-        height: 1663
-  - title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
-    excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
-    publishedDateTime: 2020-02-04T19:15:00Z
-    webUrl: "https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 50
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
-        width: 660
+      - url: "https://images.oedigital.com/images/maritime/w537h300pad/quadruped-robot-developed-boston-dynamics-109826.png"
+        width: 537
         height: 300
 
 secured: "6fsa2ph2nWcbKfZuU8dxYTVCYr5OqHbkRI5zgfSTev939I0/EVv2gwL3HwyGgAQ+pdRwmx1GD2JfYR3+YunA8qGcrhLAAqAbBiVvzYneH7qWVhyVElvmgB/vt/xR9YM2YaO+rxiHukxccYzw1CLtz0Rx1BiacuMHnuxJEO2FlP3iUN5GhWZpm/hyWBQJhfYK1gh/KBEHbFyeub+YSlXBdfMEE+k1RYQ6+A920kctBDtC7FgasraBYu9R+8/3t2Th13zkFpzjfvGm8Q01nXXEdXVA+TG7dMorscdLA11iwlPKYU4GmtPEqXOAan8xpTE9tSqFjjU8xX+0pHVOOuNMrDO01ZTYkEmZQeES4SFlVvH0RqcyATLt21tDco2yniY+ioFCE0O6l+gB3fFkuf3TOyI46yAT/3g0+FzpTyVCD4jQEf3kkf3tiZX95LxF2NwentQgMnGznYqlY5r+YtbVBQx7Gp94i8WigMClLGHry9U=;H2eHi0pSPUo4if21rZDcYA=="

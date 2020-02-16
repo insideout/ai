@@ -4,9 +4,11 @@ title: "Local speech recognition tech company partners with global call center c
 excerpt: "Voci Technologies, a Pittsburgh-based company that provides automated speech recognition technologies, announced Thursday that it had entered into a partnership with a global provider of call centers."
 publishedDateTime: 2020-01-31T13:10:00Z
 webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html"
+ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
-quality: 15
-heat: 15
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
+    width: 600
+    height: 400
+    title: "Local speech recognition tech company partners with global call center company"
 
 related:
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
@@ -28,6 +36,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "H3BxrNPuVKf0lpQXc5LYH7Prm/DPpN02eEM64GD3livtp76m2D+FjtZ6pf0Q3qrzf+l3ac3PG2/bNs+awolidd5gUOYNkQ76HiULLK6BgOnIa80g+iCq61cDhyVltqH/hMr1q+WOcZCjmfuZwIl/VEbSsfSB5Ysv63H5tFhFsFHFkS+UQZ5VJg2xzAHVIXcZBJ59lCmTUikBC9rNZDAHaZp9Tu5eqhJUwY9xnnzNVG6AslKDpjY+v6FcKgdDVEyg+hr/GHyD5rheM1NLstMwFz9b2Q2KEG8eAk8o9k/9AZJzllcNtY7Xob+zNpkVYp35;Pk3q7JdfaxnrnKpkkEBCvg=="
+secured: "Mt7qXorZDo1zU6zYBl/8y5Y+vtv+ZMCEGhDzVCJDpSno5YXaRnyMqaVeOr+IumUCNZyDErswJGeJtsp0vAeAY6irRY34Si9/B4CaI3kbDig0PmMDse8Ubd21vIXb5nYubn4j4O7QaZheWTDiQv0eqKZy+o2GrcNmNyDszhu1C7vG9agbv2TSStn9X51r3Y+gpCkoOzfhnqem02eG0WhySBZKSnvVAWvflHzLA1gkWjVLQtmUv3HzzPgTD2LeeV8XH01Y7L/67Nle3fVzNhHxWMG8fGqVJU1hOFyJQtsTjwOCK7YeGTSi9zeRjk1zd1NO;3jh/wBfRTuhpmC22RJZpdA=="
 ---
 

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "New Linley Group Study Finds Edge Fueling Next Wave in AI Chip Market"
-excerpt: "Deep-learning accelerator (DLA) chips, also known as artificial intelligence (AI) processors, continue to proliferate to meet rising demand. Adoption of deep-learning applications in data centers and automotive markets has been substantial, but the past year has seen more robust growth in edge devices and embedded (IoT) systems. With new ..."
+excerpt: "Deep-learning accelerator (DLA) chips, also known as artificial intelligence (AI) processors, continue to proliferate to meet rising demand. Adoption of deep-learning applications in data centers and automotive markets has been substantial, but the past ..."
 publishedDateTime: 2020-02-11T14:21:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-new-linley-group-study-finds-edge-fueling-next-/2020/02/11/9095863.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2020/02/11/9095863.htm"
 type: article
 quality: 54
 heat: 54
@@ -23,6 +23,6 @@ images:
     height: 335
     title: "New Linley Group Study Finds Edge Fueling Next Wave in AI Chip Market"
 
-secured: "dalVpfDWGdcWhDjcb2SNoOT/fV0kGLIE1ZwGNayZxT136ho6oaWy+l8txxV929jXq8b9oriXjMLWtXcUkbQvRYzqJU/5EpFN9vH56vZFk37Zbtli7SyPVsEVXMgKeW72YlNxOaY8DS1fAoC6kmCgisxxlAuN60XBzoFu98ErJGmkbbBDAPSMQofwV4FhmWeoqqWdbHAsRL1foGzZkiPfLWy4O8hucpIyWV4OsQXNT2a3W8M6AHEBeFLK101VrSnsc9FPN7L+E994ArS9IN+UiBQ/ebiYUl0w+tGB5ARZYNoGu2zJ7LXneKhqjCbm2Q73;h9H0hgucN7xIFTj2z03X1w=="
+secured: "n0IT98wXvy0WDu3/wR2qPiQsPOSb0fDxurxqOvhXkr25qTTWhZggkrjormHmFug1b723tiyvkaBNYA+rw5TH5o3daNSuu4xYfXcWuT70Pu7AfExKnTK7afb0AXJiqF/Ob3r3+MrqZNH2szSY97CYL6aH1F/Cqq6DrUnbvsN6mh0RHa8PcMcOK2GcyWwa1Y75Q8wQC6kJg6ugV+HJy66U8Zy0JB6PvT/hsS9cjpLJNAzgyvxhiNZ9yeomBYG9qW4LJsH7TLE9VQhI1Ti0V8g7XXXFxT9K4FEB8ckvLG1s8N9PCNQ1N8AQyNlRFQmSR/Bt;L92sIQitZ0yuT1+nwET6Hg=="
 ---
 

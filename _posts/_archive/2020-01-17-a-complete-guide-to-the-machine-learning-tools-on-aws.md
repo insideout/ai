@@ -5,8 +5,8 @@ excerpt: "Amazon Rekognition is a computer vision solution from AWS that helps d
 publishedDateTime: 2020-01-17T20:13:00Z
 webUrl: "https://medium.com/awstutor/a-complete-guide-to-the-machine-learning-tools-on-aws-76dbf4e5aca3"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "UsAW4DEcqvvgc4yfmUNvjmW1bxl2Nt+xPIX+ubP6t00wxiTY/alvGGTSnVGNTjCbF/ghSnQBTvt/jhMxQM5JWz9ZfeNUTWsgKXjVnRtUCBiOypEBO7CtPcZ2fJ6XI7Fe7hpG6hwmQoieJH8rLGx2lN2XfwIDD2W8gcTPi1Ie8g8XjSXNEmwvb1rNAv+b/KucbsWsiFdgQZ38nghXwdvfHdrLrCUA5lKP4ybYfAarUygSXLhhBRYMntrvob3k2h9Kk3qbTOJQlhz+vpCRIZICnWIgg9xJShdcwsgKynG9bzu2S2TUIlo4d7uI09fDaayV;Iv7ok7gBfeivlA+cM/MdyQ=="
+images:
+  - url: "https://miro.medium.com/max/1024/1*OCIfTJ34MiOVNUB4yaFAHQ.png"
+    width: 1024
+    height: 512
+    title: "A Complete Guide to the Machine Learning Tools on AWS"
+
+secured: "1J4uQlV46Co1hop/AbSjHaSIopYS48wvmNCGsS9YZP+OXfcaMKz0eXfrrpG23WXIheiKjaH2RiM4DbbZX5o82iKyHAu009fbNaacpKMe7ZehKcYF7UIEFgdz7ZSN2bKXGegrM/y3xiPvk3EUzuO2sLwdIqje0O2XWU0cy41TAwMq+ooFpD/WAkHZA2BHBLcJMEPeAeixtCHLc/EqfdOUl2KVgvdHIhPL4asrAqNyue9YmlwDQjfBe+/gXp8A5GbutxOzFbHBhZDGQS7NnIaNySIxwtddwVKfZN+iDKKPKyZVoEXWTBzi/Qk2kmLdKPFs;GPb4WekolUIcxY1WY0zPfQ=="
 ---
 

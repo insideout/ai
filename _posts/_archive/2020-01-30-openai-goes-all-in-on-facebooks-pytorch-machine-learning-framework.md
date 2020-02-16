@@ -4,8 +4,10 @@ title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
 excerpt: "As of March 2018, it incorporates Caffe2, a deep learning toolset pioneered by University of California, Berkeley researchers and further developed by Facebook’s AI Research lab. While ..."
 publishedDateTime: 2020-01-30T17:01:00Z
 webUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/"
+ampWebUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
 type: article
-quality: 64
+quality: 104
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Facebook AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
 
 related:
   - title: "Facebook launches 3D deep learning library for PyTorch"
@@ -62,6 +70,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "TjTBrjSsAtPCqaZ6f2LDhfh4hnoPVXdWpxGwLF6SKvtd8o51DL0cTcfXdUwgl+nHcRMflRrWBUqEq8Xh9Zd/NrsrOxJNXLrB7mm5FxpCX17GVrOvNhviPvaB7igPC4G84z8QBjy34+VjHTX9a13WWx6AD9MUSHLqfYM6uH3K/lPn/gfDAhau0RzbqR7c+1evoPS62EtBRVz+sxTt30gnmYyy2tUBAr9Ac2mugEQs78am1RfNTiJLwhKipX2TZLiQX1NjyMFm8OT4MvYGsv4eP+mZvnLVNX/aKcT8sL8AWwt2MBAuTWnzh9ex3JjAesvb;xvo1x5sRD1wfhzMTTBoSQg=="
+secured: "icsJKm1CmORvMYiihv/KdmCKqWpMCR3qM5sudHtnmGz8H8jmSsCJHNVV3aWcLrNcG6fBL/B2RLmgfka2f3cOdAEq1sTZ3OYVnCP054eJM0FfPqcjykpX2Vo7JiGeZ0DhAk93F27IX1cGRzWhF6MJJucXN8WQoKsNrHaMJv2yAc7pwNpFzqQwh1gQLC9CETn8aIqH2Ykz+OB589mq7/OdjxaZEa7sKhSjuiM7bt/1YQGFf9GNlncQ7Ct+9kWGcn/0iC8u7CZ6mPxXIJ1xYKFC7P+7E6U9cf2xGZWew1+vqjpn6dDcevEXKTJciyU8oYqo;v1McbcHv/ofDDR6jsUWEGQ=="
 ---
 

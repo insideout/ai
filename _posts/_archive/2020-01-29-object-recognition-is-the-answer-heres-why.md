@@ -4,10 +4,12 @@ title: "Object Recognition Is The Answer, Here’s Why"
 excerpt: "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ..."
 publishedDateTime: 2020-01-29T19:32:00Z
 webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
+ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
   name: Forbes
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+    width: 1200
+    height: 800
+    title: "Object Recognition Is The Answer, Here’s Why"
 
 related:
   - title: "The rise of facial recognition technology: where we are and what to expect"
@@ -45,6 +53,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "80VCHFziCrIcT1SyJ7ywz0Lou71MYG0+/IGJYjfwtLW4N9CXrJNSTjGGNqgoCC0GCNfnMmvULAwJocTXHky5jCfphulqZV+1stOBZzKzMHT0n0sRJfwz5jL65I5LE0pApP5KtpQGIuCOnPwWL+9aZSh/zZhOtbSOyIcLECIsT6bANtYJdWBbuveW6tlun7rxN5fRS2xeQcVXmvwj6ty+taRqwHbU9nuS8a8rtmFwBucM9UBoDkQg/jflbG2cSPyzQ2HfVnA/k9pQLjgUH+iaytBxq0ldWFAkrMIr0iPetFrNZB0doxfbeaejhS8pVXRm;AgF3b9v4M/0YLwSKdLBsUQ=="
+secured: "j8S1c4yAUIk4R4yYaJ2EyEYUVwYG/pRkRJslWcmAvu6V5TdX+FlBDHleT1Y8SZwEsuNIQ+K9vNazmeGxBzaZZqnYdpwrUAetyDFERhv2qqYBttXhxmYoi6im47AgBAY8VzagXFCHAFVmnrikt4VqOz58kktSFhnOvZtZQafTTotpbPz47nniCEdzQBCASHFnzJT1HiKuRJLmUH0tGnv39bVyivS1UUKq4dWQuB7rVyGuB12ZMHOV1N3QdbXEiwThMJtw4160W9v8IDszeO2v3iSPMY7/JE3LLeU2qebB+7giEpL9ui0YEsCNNGcKnac4;Y762B1IscwNLKN6T64woNw=="
 ---
 

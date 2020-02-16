@@ -44,21 +44,6 @@ related:
         width: 1024
         height: 563
   - title: "A warehouse robot learns to sort out the tricky stuff"
-    excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — from clothes and shoes to ..."
-    publishedDateTime: 2020-02-02T00:08:00Z
-    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 59
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg"
-        width: 1200
-        height: 900
-  - title: "A warehouse robot learns to sort out the tricky stuff"
     excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — clothes, shoes ..."
     publishedDateTime: 2020-02-03T13:31:00Z
     webUrl: "https://www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/"
