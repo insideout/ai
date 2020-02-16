@@ -23,6 +23,6 @@ images:
     height: 266
     title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
 
-secured: "VOP31PL/CJom+FQ8bhVVWYp5Lr6MXcikvVybJAX8p0zXuv6AiUm/I3DKhtBWi3saENHp/FwqpmJRGBRDoLQmQgETzm43L3WAMtKzfBwncozZ0uQ5nwGfNWwHx7x/Y4FdUt5fQBb25+Q6T07Y/pjVeC78TlTNWuhhUFiujcKt4lgYtosUdM0+9v4wYZW62s4pywd+T3iJwhOIn4xWlOz4xgfFlID70/vxgRXfrQRrsQ4ieXRk37RyoaLWyQtKguGj+Gt60ia7/6ij0mUn8DlOop/NG7lNrjvLI8m3KxuakNwx86/S2eJoC9BSHStYGAkh;6okUivZCHzoG4wgQD+Ix2w=="
+secured: "ZN3Ej6P2y901Yyo8hQsIHxzlwWbJXEBmvC1TPqGd5Y36YlKJIVRFsoqiv4gDT9hAJpKAsniPtF4/FDiFPXW3ljuIH5Ob/zcQqciqruddG8xRhEU5Ne1TOXwQvYrZ22M2AOqdZznPHdeH7Cgtb6ugTOIY8oTTAsdeoTYoHav2LRB2XcOU5VJ5ZsyIwvNWDtoWflg3fTQUo3sMzpEqpXQuSNyM2KCAU7o6cFMtloqpaNePIRG6KEYW0VVDgK6nuL0S+Ag8spjOhJyIjMKGecRa0n74cHuT3g1A1DZ6pK8mI7ZgM1+AWD6NpS1PlyYokmuA;HrZ6djS3KpAWWG3pp9z0GA=="
 ---
 

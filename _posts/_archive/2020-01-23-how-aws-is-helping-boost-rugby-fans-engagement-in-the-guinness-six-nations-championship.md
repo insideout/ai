@@ -1,7 +1,7 @@
 ---
 category: news
 title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Nations championship"
-excerpt: "The Six Nations digital team created these capabilities using the AWS managed machine learning service, Amazon SageMaker, to build, train and deploy the models. The 2020 Six Nations will see the cloud services giant provide fans with an expanded range of ..."
+excerpt: "The Six Nations digital team created these capabilities using the AWS managed machine learning service, Amazon SageMaker, to build, train and deploy the models. The 2020 Six Nations will see the cloud services giant provide fans with an expanded range of real-time, in-game rugby statistics as they follow all the action from the tournament ..."
 publishedDateTime: 2020-01-23T15:57:00Z
 webUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship"
 ampWebUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
@@ -25,6 +25,6 @@ images:
     height: 400
     title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Nations championship"
 
-secured: "qpMN8DI04sbWvtMvdJPSGyXpCwUgrMPUxmu2QSZdlPqo171CHM/Is6gm2MM74vy38aYYhDV6ABN1NAed2H/CLDeA74xooqT0GmwwrHokV/YK3BJH96kbkCgEQ6fm8vjLkVeEU8/1XumHc9xGn7OPWykQ6GQd+XwUnlDj6Ky7dCPNbb8lzS7HPQIue5Vct/FMSMx9xodanNKm0V/S8PAf7zaeN/Th+TdOYR7mNK90fNV0tTmEkzKueZiTSLnewmJg39X0dOY64OVgaEC06aWg1vUWkuNmHOgCUGK3FX20hzTM9h3XLnyKM6+pX7uCQh+g;i+KGGRog6P5Ji0dVKa73dg=="
+secured: "uJPEyeMFxIzjGNPk/KH4dMptDLgiZTGyz7CCnxsfSECB5mnbvNwEQ6RBcTqxeDtNFdX9g+ePMdqgtG3UwXr64wewfeUE/39MsvzZv8kMLNAszuHEAm5GwQVZ34JOD/Y1eyBw7g83xy2lNZ5ehKEC/L1fH6XTRFYEbDmOa2u8hlpf4d+X16zjq2EmNGWiDx9WLO5Ha9dLKC79CQHPfCCXwNq4jBdSxTHL+nDRqAmUd60W+dCessITnaC6JW9PcSoxqDIJuQqugYWAJBzXvsh4NWxh7dfU9ga4nqlfofyBTFpcWpYeOJ7TuPiu2OsrvCzK;ZnKeyq85n+jCRWWA5XeMcw=="
 ---
 
