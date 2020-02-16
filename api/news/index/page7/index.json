@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-14-microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning.md",
-      "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
-      "excerpt": "That’s why researchers from Pittsburgh and Microsoft Researcher’s Future Social Experiences (FUSE) lab, which focuses on real-time and media-rich experiences, developed an AI system that pays close attention to the beginning of documents it’s summarizing. They say that this improved its experimental performance particularly in the case of ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
-      "publishedDateTime": "2020-02-14T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-natural-language-processing-market-key-and-forecast-predictions-presented-until-2029.md",
       "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
       "excerpt": "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,",
@@ -2096,6 +2052,51 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-27-tesla-patents-data-pipeline-and-deep-learning-system-for-autonomous-driving.md",
+      "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
+      "excerpt": "As Tesla is working toward deploying an autonomous driving system as soon as next year, the automaker is patenting a data pipeline and deep learning system that could help them develop it faster. The system has been revealed in a new patent application by ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/",
+      "ampWebUrl": "https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/",
+      "publishedDateTime": "2019-12-27T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -1,53 +1,68 @@
 ---
 category: news
 title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
-excerpt: "/PRNewswire/ -- Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards"
+excerpt: "SINGAPORE, Feb. 11, 2020 /PRNewswire/ -- Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards are bringing deep learning innovation into the machine vision sector."
 publishedDateTime: 2020-02-11T08:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/installed-base-of-machine-vision-systems-in-industrial-manufacturing-to-reach-near-100-million-by-2025-301002034.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/n15296502/installed-base-of-machine-vision-systems-in-industrial-manufacturing-to-reach-near-100-million-by-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15296502"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15296502"
 type: article
-quality: 0
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - Computer Vision
 
 related:
-  - title: "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026"
-    excerpt: "The global Machine Learning Market will increase by a CAGR of approximately 40.1% from 2019 to 2026 and is expected to achieve a market value above US$ 76.8 Billion in 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,"
-    publishedDateTime: 2020-02-14T08:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-us-768-billion-globally-in-2026-2020-02-14"
+  - title: "Top 5 companies using Machine Learning in 2020"
+    excerpt: "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 71
+    images:
+      - url: "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png"
+        width: 800
+        height: 445
+  - title: "Using Artificial Intelligence in Trading"
+    excerpt: "Artificial intelligence (AI), which is also called machine intelligence ... This advanced technology has been used to power self-driving cars, voice-activated assistants and, now, trading. Traditional trading strategies use technical analysis conducted by humans, to assess investments and detect trading opportunities. This is done by analysing ..."
+    publishedDateTime: 2020-02-07T20:07:00Z
+    webUrl: "https://medium.com/@rfexchange08/using-artificial-intelligence-in-trading-6a09a6b4ed50"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*S3as9DvE-54fw9_q6JXAhQ.jpeg"
+        width: 1200
+        height: 627
+  - title: "Artificial Intelligence In Aviation Market Trend And Top Growing Companies 2026"
+    excerpt: "Global Artificial Intelligence In Aviation Market Insights, Forecast to 2026 The report discusses many vital industry facets that influence \"Global Artificial Intelligence In Aviation Market\" industry acutely which includes extensive study of competitive edge,"
+    publishedDateTime: 2020-02-07T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-trend-and-top-growing-companies-2026-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026"
-    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market."
-    publishedDateTime: 2020-02-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
-    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 6% during the forecast era and is expected to achieve a market value above US$ 7 Bn in 2026. This Acumen research report examines the 2015-2026 Global Artificial Intelligence In Construction Market."
-    publishedDateTime: 2020-02-12T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-is-continues-to-grow-us-21-bn-till-2026-2020-02-12"
+  - title: "Artificial Intelligence in Medical Imaging Market Sees Promising Growth during 2019-2025"
+    excerpt: "An extensive elaboration of the Global Artificial Intelligence in Medical Imaging market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
+    publishedDateTime: 2020-02-08T02:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-sees-promising-growth-during-2019-2025-2020-02-07"
     type: article
     provider:
       name: MarketWatch
@@ -57,29 +72,33 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "The Global Sales Intelligence Market size is..."
-    excerpt: "New York, Feb. 13, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Sales Intelligence Market (2019-2025)\" - https://www.reportlinker.com/p05862278/?utm_source=GNW Sales intelligence software is designed specifically for organizations involving the government as well as the private sector to improve brand value and sales and to provide a competitive advantage over rivals in terms of their daily operations."
-    publishedDateTime: 2020-02-14T04:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15332603/the-global-sales-intelligence-market-size-is-expected-to-reach-3-8-billion-by-2025-rising-at-a-mar"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15332603"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15332603"
+  - title: "Artificial Intelligence In Security Market Booming By Size, Revenue, Trend And Top Growing Companies 2026"
+    excerpt: "The Artificial Intelligence In Security Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Security Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T05:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-booming-by-size-revenue-trend-and-top-growing-companies-2026-2020-02-05"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
-  - title: "Artificial Intelligence in Supply Chain Market is Expected to Grow at a CAGR of 39.4% from 2019 to reach $21.8 billion by 2027: Meticulous Research®"
-    excerpt: "Meticulous Research – leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms,"
-    publishedDateTime: 2020-02-12T08:17:00Z
-    webUrl: "https://www.benzinga.com/press-releases/20/02/wr15307444/artificial-intelligence-in-supply-chain-market-is-expected-to-grow-at-a-cagr-of-39-4-from-2019-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15307444"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15307444"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Growing Optimism in Emerging Markets, Fintech Company CGTRADE Expands Its Business in Asia Pacific"
+    excerpt: "This includes United States fintech investment advisory company CGQuant and its subsidiary CGTrade. CGTrade has set up operation centres across Asia Pacific regions including Malaysia, Singapore, Taiwan, Hong Kong. The company, utilizing powerful internal and external resources of CGQuant including AI big data algorithms, provides top-level ..."
+    publishedDateTime: 2020-02-05T11:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48776422-growing-optimism-in-emerging-markets-fintech-company-cgtrade-expands-its-business-in-asia-pacific-200.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 10
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/575314/1.png"
+        width: 1760
+        height: 786
 
-secured: "swUAtTg204kkDK4mfaHCGrHRkL1f5bC6kvnV7kMDIgicyzYOnnAMgOityr59V1kk6+7mWqaVrppYMdb49TG8gjvAnagbRjmvVopMWGuPWU6f/WywTgJVUCLLWsOLUDT0eb4YPZCGw9Oof+z0cfANJZncnfuYAR5oU/oJj6iDlFdctGGU5X/Sq7p+3LdRJGYklJgIo7/z6roKxbv6a2EyKV5l2SHuuV6EP8cUL7mCoxbWq5rtkkyhDgZeG0C5RLnLBsKTarHTFlzfb/Fi35kzwpwdu1WXv9aiTkda1j/bxZL+efCB5VqcbC5iJJvOtXVFRFQBhQDKwjSKWcPu5L7zJlIUJ6li8vWE9ZSEQFP7f7CvXYH2DtiKQpW8b8bqxvd9pOMsHsc1tqGRQk53iV6x3P1VCV9IuI6JsjVdb5gzqtnjjBzrPAiwPj9x8UEDzj994OSa5cQToVt6yDBuH1hBBya+14Rmu3wpyfJkBqtGpgk=;WWzfvLcOZSk8Ru3iQbYsNg=="
+secured: "CO+iR9aAm6d7rmst3WDN0aGo6QxDLQuMzRXPQCQtSc80kFCJiGa6tej7izc3f5EGk3vQ7p3ZpQZss8UM2xf0vnl9HJ0eDNIFNxRTNn+1vtHEqHu33I796P+SbS/Y3TlC0EfmV9IQXENZHWJi7tHF9aaRVz16B/VTwljuOVevtV7tLXPPX2ITkX43dXPMNU9JOqZ2a98a5N2oRDooFSwRFor2QBVy8O6qFLAHFEI807FdV34xXlBjVn3bitijKQ5GTuHY0P/SZkwBnTeK7Y76N7DUqjTnPuJRccqLX+v0VrBah3YNbPgQen0Y3JSUD87U;9n/46ArtMuV9q0vR8zgimg=="
 ---
 

@@ -2,51 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-10-neons-artificial-human-is-a-scary-glimpse-of-the-future-thats-mostly-still-hype.md",
-      "title": "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype",
-      "excerpt": "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html",
-      "publishedDateTime": "2020-01-10T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200108142447-samsung-neon-ai-avatars-ces-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-10-robotaxis-will-be-available-as-soon-as-2022-self-driving-tech-supplier-mobileye-ceo-says.md",
       "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
       "excerpt": "We are targeting early 2022,\" Mobileye CEO Amnon Shashua told CNBC. Self-driving cars will start with fleet operators before general use due to regulatory and cost constraints \"that you cannot put ...",
@@ -2143,6 +2098,51 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data.md",
+      "title": "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data",
+      "excerpt": "Cartesian Robots Market Research Report and Forecast to 2019-2024 Report provide extensive research on the fast-evolving Cartesian Robots Market. It also gives the competitive landscape of the leading companies with regional and Global analysis of the market till 2027.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-14T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

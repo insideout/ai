@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T18:43:00Z
 webUrl: "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -94,6 +94,17 @@ related:
       - url: "https://www.accesswire.com/users/newswire/images/575314/1.png"
         width: 1760
         height: 786
+  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
+    excerpt: "SINGAPORE, Feb. 11, 2020 /PRNewswire/ -- Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards are bringing deep learning innovation into the machine vision sector."
+    publishedDateTime: 2020-02-11T08:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/n15296502/installed-base-of-machine-vision-systems-in-industrial-manufacturing-to-reach-near-100-million-by-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15296502"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15296502"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "4WDbfdXPWGzFS+WazpKWs9o4Pcy/hTsf7cdKoD8wKeGsOZhzTAlEnORTLIEfUMqmkYXhv8Zu8n8kbU8Qmj+PggdrduySQ0nE/eOozfa5KtopU6WdJNOTsgMddm4G9WfHu8vHDTJvgtfH7WdpvTOGXVnU4olG3T+Og5THbrkabCk56o+RiE2fwcUZ5jg4e13Y/Dpct9nvO3iDfzSUzM0j+sC+shaUpVhx5DW3M1sM6+tvu18T0uyM+G/Rxg3fI5KMI1OpyHg5PVwl2Y5FEtGRdTxm4jbtwil0HErzdAAacR+jqYWGosy/EeSu7YGJQJ2Q2qpzvnjV9lyTkMy49gaQh+SGJ3QCRL67mKHEfDady1Abc7HStE7rkgwIgQjXLamSqGugS53bGZ8t8i6J1bF2zYIO4D6HfFZpu6eGQm7KLV2bbnW1K4GgmC7IX+7aybDIK/yhNGSLjpHGA7R/hCDoXyxYr+YmsjRJ/drR0QvTbnw=;O5Xn6i5qyBwTnJVPtINzBQ=="
 ---

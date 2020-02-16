@@ -46,21 +46,6 @@ related:
       - url: "https://www.courierherald.com/wp-content/uploads/2020/02/20393828_web1_Opinion-Elfers-ECH-200205-Elfers-Mug_1.jpg"
         width: 1024
         height: 683
-  - title: "How Artificial Intelligence will change media"
-    excerpt: "For More of This and Other Stories, Grab Your Copy of the Standard Newspaper. Subscribe Now »"
-    publishedDateTime: 2020-02-01T15:03:00Z
-    webUrl: "https://www.standardmedia.co.ke/article/2001358827/how-artificial-intelligence-will-change-media"
-    ampWebUrl: "https://www.standardmedia.co.ke/mobile/amp/article/2001358827/how-artificial-intelligence-will-change-media"
-    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/mobile/amp/article/2001358827/how-artificial-intelligence-will-change-media"
-    type: article
-    provider:
-      name: The Standard Digital
-      domain: standardmedia.co.ke
-    quality: 57
-    images:
-      - url: "https://www.standardmedia.co.ke/images/saturday/how_artificial_intel5e3593e117b93.jpg"
-        width: 800
-        height: 500
   - title: "How far will Artificial Intelligence go?"
     excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
     publishedDateTime: 2020-02-08T08:30:00Z

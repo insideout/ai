@@ -18,17 +18,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "More data center parks, develop AI talent: Union Budget 2020"
-    excerpt: "The budget has also given a massive push to the digital economy recognizing how AI, IoT, 3D printing, drones, data storage ... This coupled with easy access to credit from banks & NBFCs should bring down credit costs in the medium term. For start-ups, considering the fact that in the initial years, one may not have adequate profit to avail ..."
-    publishedDateTime: 2020-02-01T14:32:00Z
-    webUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/"
-    ampWebUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
   - title: "Artificial Intelligence for Data Center Management"
     excerpt: "When it comes to data, IT professional are always concerned with knowing: How much do they have? What are the best methods to collect data? What is the absolute value? How can you leverage it to improve customer experiences? And what are the best methods to analyze it for operational visibility? When it comes to data center operations, these ..."
     publishedDateTime: 2020-02-04T11:34:00Z
@@ -42,19 +31,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Artificial_Intelligence_for_Data_.2e16d0ba.fill-1200x630.png"
         width: 815
         height: 429
-  - title: "Technology Budget 2020 : Will India’s Proposed Data Centre Parks Boost AI Industry?"
-    excerpt: "During the budget speech, the finance minister of India said, “It is now a cliche—data is the new oil—and, indeed, analytics, AI, fintech and the internet of things (IoT) are quickly transforming the way we deal with our lives,” Sitharaman stated."
-    publishedDateTime: 2020-02-04T22:48:00Z
-    webUrl: "https://analyticsindiamag.com/budget-2020-will-indias-proposed-data-centre-hubs-add-strength-to-the-ai-industry/"
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 35
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/budget-2020-india-tech-ai-1.jpg"
-        width: 1006
-        height: 608
 
 secured: "2zHpxJFSphm2S9ajg2GYz9Dtu1gw+hBr5IPnFDe0dpmsB3vkYeYC422iwR+KoHBfDWbfXIJDQgOjlbVdKLBaHTJUcK2n40TaZHAtpLvoya9mdMqv4+/xrh1DpxS3JKJLXX/7BNpeI21IKt7hr48KZiizrq8g5CiasFqDMeAORcvhnpQd7pv51ZHMET3WivuU8wHyJwggC7Q2cm1p2M78+x5i8NSuRC1T944mU0yrLHOkQCOAzQSz9YN5Xux2g1tRhbYRtVv0hIY5dbOPq7jWietqd8TmKtadq1g4MEEiIMsjDsVsEBQAXQ0P4/KAhmVKJU4wPJO5yQ9OYGUoQCy2cevQwbZC9l9JVesSEi9eP5qQKqpI7A3V4m15q9hbqI1mmtGhwj6ftOvcbY2bL1AT8jwa2W+YC1BhoZzAnKNG3kBG+Mi1gqQ8ou3OT17aQ0hHhtTusMqzRmJhHctb8EN1NmUzkD+WWKMqFYQqO6OnOmM=;Pr2hnDI0dZZ8kLb0sAWOJA=="
 ---

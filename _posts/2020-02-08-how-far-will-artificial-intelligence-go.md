@@ -48,21 +48,6 @@ related:
       - url: "https://www.courierherald.com/wp-content/uploads/2020/02/20393828_web1_Opinion-Elfers-ECH-200205-Elfers-Mug_1.jpg"
         width: 1024
         height: 683
-  - title: "How Artificial Intelligence will change media"
-    excerpt: "For More of This and Other Stories, Grab Your Copy of the Standard Newspaper. Subscribe Now »"
-    publishedDateTime: 2020-02-01T15:03:00Z
-    webUrl: "https://www.standardmedia.co.ke/article/2001358827/how-artificial-intelligence-will-change-media"
-    ampWebUrl: "https://www.standardmedia.co.ke/mobile/amp/article/2001358827/how-artificial-intelligence-will-change-media"
-    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/mobile/amp/article/2001358827/how-artificial-intelligence-will-change-media"
-    type: article
-    provider:
-      name: The Standard Digital
-      domain: standardmedia.co.ke
-    quality: 57
-    images:
-      - url: "https://www.standardmedia.co.ke/images/saturday/how_artificial_intel5e3593e117b93.jpg"
-        width: 800
-        height: 500
   - title: "How the “Artificial Intelligence of Things” Will Change the World as We Know It"
     excerpt: "Alongside the growth of the IoT, artificial intelligence (AI) has emerged as the next technology phenomenon ... Where latency means inefficiency, and inefficiency costs money, voice interfaces must be built on the AIoT, not the cloud. Domestic healthcare is another sector that could benefit significantly from AIoT. AIoT-enabled devices ..."
     publishedDateTime: 2020-02-06T21:33:00Z

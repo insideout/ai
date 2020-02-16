@@ -97,19 +97,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
-  - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
-    publishedDateTime: 2020-02-01T20:13:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/01/business/30reuters-facebook-privacy.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 55
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "Facial recognition scanners at US airports under more scrutiny"
     excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
     publishedDateTime: 2020-02-03T23:58:00Z
@@ -175,17 +162,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
         width: 900
         height: 598
-  - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
-    excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
-    publishedDateTime: 2020-02-03T00:02:00Z
-    webUrl: "https://www.law360.com/articles/1239238/will-others-follow-nj-s-lead-in-banning-facial-recognition-app"
-    ampWebUrl: "https://www.law360.com/amp/articles/1239238"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1239238"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "EU Ponders Temporary Facial Recognition Ban"
     excerpt: "A facial recognition ban of up to five years is currently being considered by the European Union (EU) amid growing concerns about the potential misuse of the new technology. According to a draft white paper, first obtained by news website EURACTIV on 17 January, the European Commission (the executive arm of the EU) is in the midst of ..."
     publishedDateTime: 2020-02-04T11:00:00Z

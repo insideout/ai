@@ -4,10 +4,12 @@ title: "Google DeepMind’s ‘Sideways’ takes a page from computer architectu
 excerpt: "The authors of sideways, Mateusz Malinowski, Grzegorz Świrszcz, João Carreira, and Viorica Pătrăucean, all with the DeepMind unit of Google, noticed that a deep learning neural net is doing ..."
 publishedDateTime: 2020-01-23T20:31:00Z
 webUrl: "https://www.zdnet.com/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: ZDNet
@@ -21,6 +23,12 @@ topics:
   - AI
   - Google AI
 
-secured: "0wEAwkATibsVWpianxdXOiHzxVHwszdweSTQA/0pp5YcnafEn2JqHOKHBmOOjMXWMZzuBBK8Gqw4ePuElaLAwdqF7+M7xvl3OtFoLsqR3j902/6Yw2MdHhGAajuXuio6PNOXZDCjoVxNbD3ORmQ3RJ95vo/vfUgtRJRV//Y8wlJtyei1+8RGV0g5i3/QtTDJ9irWevblg7Pq1GOFT5TO9Y1neyX7SZO4yRrDpUckkrErFUNGMzfOWQxXeq7C2zlJuF8lYVkQOflkgCLJSG6VUGaMJxmwmvx5y4fuNg/rhyqIBHqp4fBh05rWsJJKPtIr;TJyCxOYa5qjFkGh1+xu6Rg=="
+images:
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/22/bb4eab38-d3e2-4df2-97b1-00c89187ee5d/thumbnail/1200x675/a215d738dcece5fd36b570b0e7ef01a3/thumb.jpg"
+    width: 1200
+    height: 675
+    title: "Google DeepMind’s ‘Sideways’ takes a page from computer architecture"
+
+secured: "7WDiSNeqzj8Wfez9Da2JdYzBFa1gw1J1lC5T+Eb/RjShdedXxvlLgXPYJa0tAWaBKTvuTHlndyj7lt9i+UgG3a9tteznQ2PGXvQGD+2O96kzhryp1e8bvDLYE03WII45NCEMZRbk3wA0RD57CpR4fef8INFbki/XjQ5dCxsiV9+1jBvY6dbZaxwqIbuK485DORP73p6ftSRkdwgzqVi3QbFYdCGdXJWYPte+SfaL3VXd7Of06D/cq+7BSQcNaze33cInmxNN2BN0QCqGDc0zZX/DfLlrdz7k+PypQBb3Nz0Veb4yzvbL9fiy7xLoRDnI;+hbXXV7+zbcn+2Eh1POnCQ=="
 ---
 

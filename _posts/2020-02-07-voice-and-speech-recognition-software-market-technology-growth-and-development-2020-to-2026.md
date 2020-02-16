@@ -35,6 +35,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
+    excerpt: "New Jersey, United States, - The report on the Cognitive Services Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
+    publishedDateTime: 2020-01-27T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
     excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
     publishedDateTime: 2020-02-03T11:24:00Z
@@ -48,15 +61,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
-    excerpt: "New Jersey, United States, - The report on the Cognitive Services Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
-    publishedDateTime: 2020-01-27T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
     excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
     publishedDateTime: 2020-02-03T12:36:00Z
