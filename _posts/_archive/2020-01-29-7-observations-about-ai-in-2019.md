@@ -29,6 +29,6 @@ images:
     height: 768
     title: "7 Observations About AI In 2019"
 
-secured: "6Q/S2jbsiwV/5TOMYcfAByw8BhaTCV7BwNvi2gcgvHClIDd4+P2Fvry9L4aanUiZoAFb7dyh8kO7V1HgHAYCOYHNX9d8V+8c/PYOOfoEWh2/xYLXoMXo+XPp4hNhi7touoTgFx0BJxZaI1awv/gexm1L2t/vezE4RMaZfDxAyuuYqpXaWM+GLKzp6DkfdK8QUzoMIpA1cKPm5TNxm8Ewa6UQKt0raKBF/DBtq5PzUOp3OVXyioXAqrngXjVSnTqxvHDcYCSdkqGUEYvRrNuavl5SdQoYZolWDflieClavEc/0i5yLkzZO7Wjv0dZ+xrD;l+/zyCMD8JcUQKrokSP1Zw=="
+secured: "S0UiVeljmaepib9UOTaJLkyVFJqEfKgl60Je2B83kBNWQF3mSijOJNyPn8e6iPvGtskcIoWPfnev0wTd6mj2fpbvNz5imdn+t/fCEG1z9Y5yGE4nvjZc7jeSCawXTec+U80Wy/7hujClROxtb6doVRI94AfEdfEgJ8ipJA4zo0zZICDUPJf5q9MNAMdotGHZyZUcFubZoAoI/7Lyy5/tmM5M+aqjvJhx8gwCYzPaWxSM3wgd7FSMDeEtkhMCgvfry35tHpkZDEyMTAMDz7/pJA6iR68lfI+XyOfbcllFkB+UFWhQlMKCE+94lLxu6kOC;ZMy1+By84r2Q3+AgcOxIOw=="
 ---
 

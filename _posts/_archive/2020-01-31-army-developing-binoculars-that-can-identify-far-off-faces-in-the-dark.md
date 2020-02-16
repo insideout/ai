@@ -37,6 +37,21 @@ related:
       - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
         width: 700
         height: 394
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
   - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
     excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
     publishedDateTime: 2020-02-03T21:46:00Z
@@ -59,7 +74,16 @@ related:
       - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
         width: 640
         height: 461
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
-secured: "+4u9/Rd1PS1sB/jmFZl+40eNeI3100yVBjLQeaKqB1zDyXv0t1qgdN04juaz4aGkLKOGAqkM6ppMbBF2CHNFvJTb32D9nboDjut1w74CKO2j43Cko0mN/lLlVysizh5TGgs7HvT62hpY0MP/naphzIDlN12wpCkXBDdAyO4NAOamjW8qT//A5zq+8zcOCauByb8v/eyGeCkaAP+TquiLt+eqLrcTegKUaIcZtPa8IQWn7ckLk8qduxKn5DXOU1bhb1wRFD4TBh1dch2/j9O+NZoIpB7N5M21wpIdUEj1a/ulpLPLGikI11lpBiCVK8iD;nW+1JtdT5nzLQ0auD8JOQg=="
+secured: "wF8MnVATNYsRaSr3P1jWYfMjl2vnpVTcoPoaRXUuLaBcxb7U22LOEGnzuoFrDbDeS3HOjQhRQgjDeANdbgqgImYmfCSKoB0pExbRZPI6dflYlvQupOeBi7vyJ2rDqcZUQdK+f87mFQyWLVyOf2iC4I+b5CpIFGNvrzB6nxNvS7WXN9lEA1RIUmccutseGxMgmHqPO1VbhKxqx/AiwrYZTuBsU/r1D8D0uiIq94Hp71/g6NicXwpLCQXpu1CMjLuPKIMJqIAouNyc0LujR+lPHwN7yYHl3oywnxScy6044K9DIpW1+sNk5/twe6kYrmJo;o5QIreaEXhIskhxVGo7peg=="
 ---
 

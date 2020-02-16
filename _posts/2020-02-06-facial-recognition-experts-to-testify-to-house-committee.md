@@ -231,15 +231,6 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
-  - title: "Indian police use facial recognition app to reunite families with lost children"
-    excerpt: "Indian police have reunited thousands of missing and trafficked children with their families using a new facial recognition app that campaigners said was a \"game changer\" in tackling the problem. Tens of thousands of children go missing every year in India and many are trafficked to work in eateries, handicraft industries, brick kilns ..."
-    publishedDateTime: 2020-02-14T16:33:00Z
-    webUrl: "https://www.dhakatribune.com/world/south-asia/2020/02/14/indian-police-use-facial-recognition-app-to-reunite-families-with-lost-children"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 15
 
 secured: "ZeDznezcnllQsjPfnU/1XkWh7DUlW4WHg2RSKq38PPrnOsZwjaKqxPA1qkMA6bF6D9uu5HA3yf8SRKrOnoaEEDYUnD/OcG9UOSUh7ThHSIWMPKOe7xTtAuYRUd5dkPBq3gD/WgBqhnTHGtgrW+pGLtQmOdrb3jFybddlPWTROPU7y5aKmd4gDrqG2yfmMBHDNQ4Ig1tZESJ7/dAz/9k9Xna9b5jPSd5NPW0L/UY3rBu1+kSOpljWNmYH6Ut2lRx8vJEWNs9vcmKY8ixsdt/nlE+1SALi1ItINhgFYWy0zvuSdSOmBgt9fFl6Aeb8P5Di;iKIRhBDtBIN73jF2I0kX8Q=="
 ---

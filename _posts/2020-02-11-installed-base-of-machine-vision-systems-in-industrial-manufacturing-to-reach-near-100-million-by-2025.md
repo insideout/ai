@@ -3,7 +3,7 @@ category: news
 title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
 excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to facilitate the iplementation of deep learning-based machine vision. Xilinx, a Field ..."
 publishedDateTime: 2020-02-11T09:11:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/11/9095302.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-installed-base-machine-vision-systems-industrial-manufacturing-reach-/2020/02/11/9095302.htm"
 type: article
 quality: 8
 heat: -1
@@ -86,6 +86,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "C0DSRWSE2+B7pd2iS4gFfJL/oE4FX3GPfaZHZM4km0d0CergVUyc6JThG/Zh2WDHNmJdySCjSrCqXsal+accStottzI+NXTm0WKEswLMeinWxNmu0ozBOEOqMSan8fucFZodWz8aG5UnBpl5ZOVQ3QpTYXokEoMa6rN/Mu7lbAs0It7LaFFoxIci2GqZpu+ZrUE7Q9u5QlAOTMz6n7ER4nLFQGV//L/DVoGfMBsjuaG7GNHZWGw+fJQbWiO/+5Ylybe2AkllGrJ6hgu9hNBET8cJH4UVib0bIjNEcIPuTkGgqnICfqAgPduEl+SmaTrL;keyBmCr1uyorBkZE91QyDA=="
+secured: "rADnGtDsihBhmJWEZgRAPS3tD0JZJH5IZCpUo6milNkayKEISAuePmOlbVOXMyHrbXthltAn9IDwjb2poA6Xz8yMx6m9PLBGT6qrAYySmEYEytGKiVUosqx4chdn9AwDj5c4X0XEDpLgjEeXYwBGMiUNEer6akqHUT0jjnsMzZvzI3WcFjH7Zl+dQGdsnv5V7z/HJAYsxKxfQWXr/KmIlJUE/3rB+80YDJfh19+fmVaFj2+nkRJIcJoIbxbE2tPhsooKGDTnL4c9VI//f1ke7XiGu2kut00yd9cK4ivUAMU2oA44+hv1J1Y77fSZ8oKG;p6O/XSpEHd9Q1Vdz4a+C+Q=="
 ---
 

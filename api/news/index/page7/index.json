@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-14-nvidia-shares-surge-on-signs-of-a-machine-learning-boom.md",
-      "title": "Nvidia shares surge on signs of a machine learning boom",
-      "excerpt": "Nvidia stunned analysts with strong quarterly results and joined rivals Intel and Advanced Micro Devices in predicting strong demand for chips used in data centers and A.I.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
-      "publishedDateTime": "2020-02-14T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453",
-          "width": 3846,
-          "height": 2564,
-          "title": "Nvidia shares surge on signs of a machine learning boom",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications.md",
       "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
       "excerpt": "Thursday night, the graphics chip company posted better-than-expected fourth quarter results ... “Cloud vendors should see a step up in spend and clearly Nvidia has a combination of AI drivers layering in on top of this market improvement,” he writes. “On the competitive front, there still appears little competition.”",
@@ -501,6 +456,43 @@
           "width": 1024,
           "height": 576,
           "title": "Built Robotics to unveil autonomous construction equipment at trade show",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-linking-sense-of-touch-to-facial-movement-inches-robots-toward-feeling-pain.md",
+      "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
+      "excerpt": "Such touchy-feely robots are still far off, but advances in robotic touch-sensing are bringing that possibility closer to reality. Sensors embedded in soft, artificial skin that can detect both a gentle touch and a painful thump have been hooked up to a robot that can then signal emotions, Minoru Asada reported February 15 at the annual meeting ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence",
+      "ampWebUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-16T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2020/02/021420_ls_robot_feat.jpg",
+          "width": 1030,
+          "height": 580,
+          "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
           "attribution": null
         }
       ],

@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-06-ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai.md",
-      "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
-      "excerpt": "The white paper encapsulates change underway at the IEEE in line with AI ethics principles released in spring 2019 after years of work, according to IEEE Global Initiative on Ethics of Autonomous & Intelligent Systems John Havens. It also follows last fall’s declaration by IEEE leadership to recognize “the global scale of the human-made and ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2020-02-06T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?fit=1200%2C850&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-intel-drops-work-on-one-of-its-ai-chip-lines-in-favor-of-an-other.md",
       "title": "Intel drops work on one of its AI-chip lines in favor of an other",
       "excerpt": "[Get regularly scheduled insights by signing up for Network World newsletters.] Intel acquired Nervana in 2016 and issued its first NNP chip one year later. After the $408 million acquisition by Intel, Nervana co-founder Naveen Rao was placed in charge of the AI platforms group, which is part of Intel's data platforms group. The Nervana chips ...",
@@ -2176,6 +2131,51 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-us-house-panel-will-discuss-self-driving-cars-next-week.md",
+      "title": "US House panel will discuss self-driving cars next week",
+      "excerpt": "Witnesses include officials from automotive, tech and transportation trade groups. On February 11th, a House panel will hold a hearing that could help shape the future of self-driving vehicles in the US. The Consumer Protection and Commerce Subcommittee ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/08/us-house-panel-self-driving-cars-hearing/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/",
+      "publishedDateTime": "2020-02-07T22:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6",
+          "width": 600,
+          "height": 350,
+          "title": "US House panel will discuss self-driving cars next week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

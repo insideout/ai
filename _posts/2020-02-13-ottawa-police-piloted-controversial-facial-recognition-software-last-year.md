@@ -56,6 +56,21 @@ related:
       - url: "https://wwwcache.wral.com/asset/news/local/2020/02/10/18945112/clearview_cap-DMID1-5lstc1qbi-1920x1080.jpg"
         width: 1920
         height: 1080
+  - title: "Editorial: Facial-recognition software takes personal invasion into a new dimension"
+    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
+    publishedDateTime: 2020-02-16T22:00:00Z
+    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.html"
+    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 38
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/8b/d8bc824d-a430-5a4c-a7d5-3c24d9712733/5e46e82107203.image.jpg"
+        width: 436
+        height: 512
   - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
     excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
     publishedDateTime: 2020-02-11T05:28:00Z

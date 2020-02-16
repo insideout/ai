@@ -2,51 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-08-us-house-panel-will-discuss-self-driving-cars-next-week.md",
-      "title": "US House panel will discuss self-driving cars next week",
-      "excerpt": "Witnesses include officials from automotive, tech and transportation trade groups. On February 11th, a House panel will hold a hearing that could help shape the future of self-driving vehicles in the US. The Consumer Protection and Commerce Subcommittee ...",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/08/us-house-panel-self-driving-cars-hearing/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/",
-      "publishedDateTime": "2020-02-07T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6",
-          "width": 600,
-          "height": 350,
-          "title": "US House panel will discuss self-driving cars next week",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-09-artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology.md",
       "title": "Artificial Intelligence Is Not Ready For The Intricacies Of Radiology",
       "excerpt": "The use of radiology in clinical medicine is exponentially growing. Many issues need to be resolved prior to integrating artificial intelligence into this field.",
@@ -1768,7 +1723,7 @@
       "path": "_posts/2020-02-10-this-ai-could-reunite-families-after-an-earthquake.md",
       "title": "This AI could reunite families after an earthquake",
       "excerpt": "A new AI prototype could transform how earthquake aftermaths are managed, by predicting the safest routes that families can take to find their loved ones ... predict and verify safe routes that parents and children could take to find one another after an earthquake — and the dangerous areas they should avoid. “In the urban environment ...",
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-could-reunite-families-after-an-earthquake/",
@@ -2165,6 +2120,50 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game.md",
+      "title": "We are still playing catch up with AI, and it's a dangerous game",
+      "excerpt": "\"This review found that the government is failing on openness.\" The very first issue highlighted by the organisation, in effect, is that no one knows exactly where the government currently uses AI. Academics, civil society groups and public officials alike said that they were unable to find out which government departments were using the ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game/",
+      "publishedDateTime": "2020-02-10T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/97edf97a-b310-4039-9187-a171b3f4f42b/thumbnail/1200x675/b7184f33d5c3dbaa6df56d95e8bbd35b/screen-shot-2020-01-27-at-12-40-12-pm.png",
+          "width": 1200,
+          "height": 675,
+          "title": "We are still playing catch up with AI, and it's a dangerous game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

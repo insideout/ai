@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T17:17:00Z
 webUrl: "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/"
 type: article
 quality: 154
-heat: 314
+heat: 304
 published: true
 
 provider:
@@ -231,15 +231,6 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
-  - title: "Indian police use facial recognition app to reunite families with lost children"
-    excerpt: "Indian police have reunited thousands of missing and trafficked children with their families using a new facial recognition app that campaigners said was a \"game changer\" in tackling the problem. Tens of thousands of children go missing every year in India and many are trafficked to work in eateries, handicraft industries, brick kilns ..."
-    publishedDateTime: 2020-02-14T16:33:00Z
-    webUrl: "https://www.dhakatribune.com/world/south-asia/2020/02/14/indian-police-use-facial-recognition-app-to-reunite-families-with-lost-children"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 15
 
 secured: "LfCcviAPd24pLznlCC+z4HsN4lrp8fpmRoYz2kyNs0PIdwVmSKlPLPlWZ+oyV/GqtYu/ub0hjXu0QPYI/dYtp1SuxgRJmmHGqKfIcAvGSSt4FoycYtlWqPJ3ccDD42FmRLyzumrYpU/WhEiExavFJIwckXlNeGnXTEHuKWphX5msqDtqnDQJIoI0PQ/Vcn4IdiURfdZ1EhcqtvR76F6sgHef1DQvKlMOGXqheOeJl0CTTat+VxV843pZgHkwiSz/FPTqpyzzLno8F7tr2IRwVUFF8iQvlJ08DpTiwgrORvekND1//4f32hmo8KWTE8Y8eSeComAMyXNrtlUI04S+M9wByUTGpP++MjcGpvI0JQWFoSoDK8Z5fp/w6WAkG78uWJ6SdxSpq/clAKpUI6oAQX7ZYiEBP9scMF46sCpTzO6fchrQEe16cFx1mHU21ZsDJ0/p1n7ax5g+H0Ai9qsk0sN5A+DqYWcMSOvbcdkuLlQB7loPRGm4ksAzjB4HTtOs;XDNGKQof1ZhmI71KNKP1NA=="
 ---

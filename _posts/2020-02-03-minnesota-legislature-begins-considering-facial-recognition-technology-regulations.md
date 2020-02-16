@@ -37,6 +37,21 @@ related:
       - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
         width: 700
         height: 394
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
   - title: "Army developing binoculars that can identify far-off faces in the dark"
     excerpt: "Hackers can cripple facial and object recognition systems during development, said MaryAnne Fields, program manager for intelligent systems at the Army Research Office. The Army recently funded ..."
     publishedDateTime: 2020-01-31T11:49:00Z
@@ -59,6 +74,15 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 19
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
 secured: "UWEbAosLnA8FkkxgXbSplCVtQrQH81fMYsjLAul/fd3IIJ4nMSbelGmhnvAbX3TDJrC/6QA2eV9f5V+wm3WBfpKBCXLPdRROWoqPHeUTJk7AsoraAW4zZsWUhmF23pnRXsSjhnvdyUSo5TljZuCEvYTzrO1OjqfbvCmZee/+adCZmLNMk01huhsTpSAG+/9RArJ7C5GNuXTmSkIhc+V2VRZsYUFSquMiGZBI97Aa2iU+Bp42U60yxyLPWZncDBgqb+Vwjln+/7C6iTSm24dsDC4f8yvWKYwpRxZ1zR1pBT3zRw/eWFh5jw8W8oC0Bb6nBQFmmTYvziLGHPC2U1BqwCAZQTodB6gGZwFXYI9v7Xa30GFftUX1qqyPVRTyzfEqLT5eVCK2+mmq93eX8/PiZivKCk5uOqBelhR1HDQXBpwUYO6Rj3rV6DLCPFrs4RnekxQaixSeCcS892QM3GHerznbpSsX5p/wN/QecXUz3Vw=;8815OwF3VObJ+hlcG12T/A=="
 ---
