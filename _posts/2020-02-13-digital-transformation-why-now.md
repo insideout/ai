@@ -27,6 +27,17 @@ images:
     title: "Digital Transformation – Why Now?"
 
 related:
+  - title: "Digital Leap: Betting big on AI to transform businesses"
+    excerpt: "For example, Siemens recently launched the S7-1500 TM NPU module that is equipped with the AI-capable MyriadX Vision processing unit chip from Intel Movidius which, among other things, enables the efficient processing of neural networks. The module can be seamlessly integrated into the SIMATIC automation system, this way permitting a simple and ..."
+    publishedDateTime: 2020-02-16T19:52:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 39
   - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
     excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
     publishedDateTime: 2020-02-06T20:12:00Z

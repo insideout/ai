@@ -71,21 +71,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
         width: 640
         height: 480
-  - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
-    excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
-    publishedDateTime: 2020-02-02T02:35:00Z
-    webUrl: "https://lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325"
-    ampWebUrl: "https://lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325/amp"
-    cdnAmpWebUrl: "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325/amp"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 53
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--1cJFuGHm--/c_scale,f_auto,fl_progressive,q_80,w_800/pm2nsbcl6nmsxpirnyv9.jpg"
-        width: 800
-        height: 449
   - title: "Springfield Mayor Domenic Sarno vows veto if City Council bans police use of facial recognition technology"
     excerpt: "SPRINGFIELD — Mayor Domenic J. Sarno said Monday he is poised with a veto if the City Council votes to block the Police Department from using facial recognition technology. Sarno said the technology, which is not used in Springfield yet, could someday aid in the arrest of criminals and enhance public safety. Citing the recent abduction of an ..."
     publishedDateTime: 2020-02-03T19:05:00Z

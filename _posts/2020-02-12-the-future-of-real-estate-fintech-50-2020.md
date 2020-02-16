@@ -90,6 +90,17 @@ related:
       - url: "https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2020/02/Untitled-design-2020-02-04T012522.531.jpg?fit=1200%2C628&#038;ssl=1"
         width: 1200
         height: 628
+  - title: "The Future of Fintech: AI & Blockchain"
+    excerpt: "Sweeping global regulations, the growing penetration of digital devices, and a slew of investor interest are catapulting the fintech industry to new highs. Of the many emerging technologies poised to transform financial services, two of the most promising and mature are artificial intelligence (AI) and blockchain. 74% of banking executives ..."
+    publishedDateTime: 2020-02-16T19:28:00Z
+    webUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/articleshow/74050801.cms"
+    ampWebUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 39
 
 secured: "OCWH3/d8Yi38pJ8gGlv0ahYaqjhI+YrNalIXGkPNKTxBEl5vjz+ueuxo7JOwHHx9vJ16wcvAR/ohvrCMK5qLajYYimNA0BPHXHA+xN1lniw+uo3CwWMbql8t9CbmDFS+vJHEBeo8j5PyfoeyxQwGL2M7qYtDoT3aCCGOJJ4RYfVl61BivEmbaRk6lMNirB2ZazccT9UxQzEN8aozSezYpBfWLHLrgMgjbo8RuvwrMwb2ezCugQf+fOVMuke3jVG9sf03/HBiSfVwfoT33I171GSnZaRmhHzVidw3mmKZ59952UjkxwRTNkidi+IpoUS7H1lKJIBbTC7dSSf63q+B5psrh3ybdqiirtf8Kle9f6kvKl0waeMGfWoqezyDLa7ccOOtIcuE7OdJqQviMo6wu6todxeqmR/tbMkTV1L0zH1NJUZlyDbsbt8GF7bZ6X0PpyYSEJooXO/Y9vmBorFkhafXalP1oSfzjvGLtRT+QGY=;K0s87l+Keid+IieO2ZdsQQ=="
 ---

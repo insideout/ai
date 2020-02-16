@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-futur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/"
 type: article
 quality: 187
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -89,6 +89,17 @@ related:
       - url: "https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2020/02/Untitled-design-2020-02-04T012522.531.jpg?fit=1200%2C628&#038;ssl=1"
         width: 1200
         height: 628
+  - title: "The Future of Fintech: AI & Blockchain"
+    excerpt: "Sweeping global regulations, the growing penetration of digital devices, and a slew of investor interest are catapulting the fintech industry to new highs. Of the many emerging technologies poised to transform financial services, two of the most promising and mature are artificial intelligence (AI) and blockchain. 74% of banking executives ..."
+    publishedDateTime: 2020-02-16T19:28:00Z
+    webUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/articleshow/74050801.cms"
+    ampWebUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 39
 
 secured: "GDRYEowzCCOauNWng0TI9N/3Y3LrvaNBz+aWHDfOamrp3xR7QYuSkCnosU6p56OyCikgHWfWzfQIdhq9Pp4QtMQfBcI8AugviXT3O0lwRKQbYhPqzEgKhyjlK3tmVntWjrmkS8gZVJPekCTYLUBegFUMgQTxiMCJIr2C8RRfEujcz3sw+MiMZtZSj6wRhwTORIrboSowuKiLhwq07PeaC2n0ZZv2RTm9tGIa2HVazN8kfy2NRjlnY8ANyBCC3kek+7ITXjFxsDmBsXmdspwOdtltYy7iZmoGEUNhiRkJIYruRvzPMZh2jpzukj/WA8oq1T41Tq0tlWNEhOVoq1Kzbw==;gVQneUVsdamVXLiQNcWqxg=="
 ---

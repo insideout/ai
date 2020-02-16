@@ -1,33 +1,23 @@
 ---
 category: news
-title: "The Future Of Insurance: Fintech 50 2020"
-excerpt: "With tailored products and easy access, Insurtech companies make shopping for insurance faster and often cheaper."
-publishedDateTime: 2020-02-12T14:26:00Z
-webUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/"
-ampWebUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
+title: "The Future of Fintech: AI & Blockchain"
+excerpt: "Sweeping global regulations, the growing penetration of digital devices, and a slew of investor interest are catapulting the fintech industry to new highs. Of the many emerging technologies poised to transform financial services, two of the most promising and mature are artificial intelligence (AI) and blockchain. 74% of banking executives ..."
+publishedDateTime: 2020-02-16T19:28:00Z
+webUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/articleshow/74050801.cms"
+ampWebUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
 type: article
-quality: 74
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Insider India
+  domain: businessinsider.in
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42de658b6cf300071e6f2b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2688%26cropY1%3D133%26cropY2%3D1645"
-    width: 1199
-    height: 675
-    title: "The Future Of Insurance: Fintech 50 2020"
 
 related:
   - title: "The Future Of Blockchain: Fintech 50 2020"
@@ -60,6 +50,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42ee49f133f400076c2e55%2F0x0.jpg"
         width: 1200
         height: 783
+  - title: "The Future Of Insurance: Fintech 50 2020"
+    excerpt: "With tailored products and easy access, Insurtech companies make shopping for insurance faster and often cheaper."
+    publishedDateTime: 2020-02-12T14:26:00Z
+    webUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42de658b6cf300071e6f2b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2688%26cropY1%3D133%26cropY2%3D1645"
+        width: 1199
+        height: 675
   - title: "The Future Of Real Estate: Fintech 50 2020"
     excerpt: "Better Mortgage Headquarters: New York Online mortgage lender provides home shoppers with pre-approvals in as little as three minutes."
     publishedDateTime: 2020-02-12T14:42:00Z
@@ -90,18 +95,7 @@ related:
       - url: "https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2020/02/Untitled-design-2020-02-04T012522.531.jpg?fit=1200%2C628&#038;ssl=1"
         width: 1200
         height: 628
-  - title: "The Future of Fintech: AI & Blockchain"
-    excerpt: "Sweeping global regulations, the growing penetration of digital devices, and a slew of investor interest are catapulting the fintech industry to new highs. Of the many emerging technologies poised to transform financial services, two of the most promising and mature are artificial intelligence (AI) and blockchain. 74% of banking executives ..."
-    publishedDateTime: 2020-02-16T19:28:00Z
-    webUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/articleshow/74050801.cms"
-    ampWebUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 39
 
-secured: "vVAc0oh/J9pcy60Y7oM2JO2DLDkf4FjA/Wg4xIo7lW2POb41Gcabyt/K4yC0BB1nj6skgqot2ixNVId86jUWeoXJQF9NQpL0wdq04XfNVC6wwhi9t/lfptnfOQDGE0PQfNWt0HxMdDRFoN/Ge5UYPHofYTwG7/TjuFhSZFW1QG7EuQDoLwe+Gu/sAm9Dj1FAgctSjT6q8j3A8+nL6R43T+AjGQ59H/gwICRamke/nC0sEtF1B/csnYDa5IJ5vUkkd+kkbsgQIfJ+XjncGK5TpkOd7URLflfQF187EoTmj0UIYF8ZaCX5EwG9J9bFMHT/1JxX89w/dMRqy2Y9oJxS6Ejn4q/IcCnAPQTVTJvKkJVtOYK6JgAw/MauwAt4qogicRlKnaqfYJPMwInRjjLxPZQrbmGQPuZtCqRZIXoalYMRN9LJPjeqKWwPaM1QNWEumc66vht6eTYxu9w/mnesU9Fnvhfh/Qr3fe2yRGCdzTE=;Qs7/W2IcyRJjcMIDY5pZdA=="
+secured: "/CLegiDrtx1/sbhviLe7JMyxEzyAlnfNHDKo4uvB41TSc2HKU24UTYDmkjSPTh2lJVqYAes+uZMq0z9eTwOxVW42Hp76JsVzPDxdgMBS6G34BQRiKt8ixNcYuiqHcK79k42T/bdIt/Hu06my/uYUFlW5DNQopikJVQ10TDVeBPUJEnHObnuXNM1Da+gyPk69tk9Y7qEiDHqUxAVIZo6nqiz7dafSnHpyOt+SiHJLqFm6krH76rLvYt6o7EhUUyRn2RyvuhUt/F957j0rGCkmnsDrJGwn96YLdjthymLwwUE9+LVFweceUiwu/wqncCTc3xaIhcWvf6ITh9NEl8Lche9uEHyLaoYdm/Hqo/5WD0wOp2tnEdPFJz/FgcTkch9fyUg90ZxdRT2ac0WAoc6SmLKyJzKCtzGBzSxUymXHGrCCEAVE9O2aumiZcoPIeMgtm3jn0BpnoSPe1EiWYAFyLAAzfWjMJ8wF2oLOciuZotY=;X9h0Q44dfI62z+KUkBlWKg=="
 ---
 
