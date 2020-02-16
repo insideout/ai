@@ -325,19 +325,6 @@ related:
       - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
         width: 757
         height: 667
-  - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
-    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
-    publishedDateTime: 2020-02-02T05:08:00Z
-    webUrl: "https://www.sunjournal.com/2020/02/02/christopher-elliott-facial-recognition-technology-stokes-privacy-concerns/"
-    type: article
-    provider:
-      name: Sun Journal
-      domain: sunjournal.com
-    quality: 22
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
-        width: 450
-        height: 366
   - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
     excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
     publishedDateTime: 2020-02-04T23:36:00Z

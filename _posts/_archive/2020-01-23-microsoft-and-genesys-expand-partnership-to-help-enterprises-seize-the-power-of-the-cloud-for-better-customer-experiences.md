@@ -27,6 +27,6 @@ images:
     height: 803
     title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
 
-secured: "kpAp6lU6uJA8wR+QNPTqVQCskXRTkx2AaFAmkg5RgkBL6qykekBqZBD992IpElbXfYLGEM6FpGmiJZ1i2eaIjavzsJoHjjKjtNVIpeAX/otBkIWRTa9dPC0P0ZXju8gaPHmbq4zj6cEHYm4cOWGhBHRQOYqFlrZx0DNbizjoXHlq5FEUEncSu45yb11JcZD+h8LDi0xftWFmWwidmmZHhecgLGW23QybnHDi8B2DWq+r1fi2FtIcWMM0qNnBZr1/5vKdsm/Su2dWJeWdQvROKIpERJus0K2WASWs4DfzJgX+Mzn3eVNSwQcGWqJgrzKN;3iqQYiEag0F8oD4/+7qgqQ=="
+secured: "hmMjIpu1XVlTGQalRCtUUqTvbMechCq2YxMscix9JjxUvu6XbN0Cg96E653lA40XCIdWiW0y2c2ycPnibPxAwK1RpRffUX6x0NFN4QoTX7FBGzujSIpQUgCQchgM/xIe3ERO02BNLGOL2mDN88i29Ak+RF4ebTiKfZjeM/qM/IXI6N8AJ2ypWsX4T6IuQnsVmNgCgHi7xcW9Wv22d2CtMybW+6t7KetyO8j5ABrZPUXCSG/St+BSSnqS/eeZCOao4+n1P6GhZev9VxSqVBpG0iLmdqDezqWn0zItHL3YLD+lKN1f8Hy/QvNdvEXvRGQa;dzZrN9zPfIdnw5JCtppv7A=="
 ---
 

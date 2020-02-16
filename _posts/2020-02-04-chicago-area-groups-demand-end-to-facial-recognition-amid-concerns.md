@@ -325,19 +325,6 @@ related:
       - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
         width: 757
         height: 667
-  - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
-    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
-    publishedDateTime: 2020-02-02T05:08:00Z
-    webUrl: "https://www.sunjournal.com/2020/02/02/christopher-elliott-facial-recognition-technology-stokes-privacy-concerns/"
-    type: article
-    provider:
-      name: Sun Journal
-      domain: sunjournal.com
-    quality: 22
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
-        width: 450
-        height: 366
   - title: "Internet giants reject controversial facial-recognition start-up"
     excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
     publishedDateTime: 2020-02-06T12:46:00Z

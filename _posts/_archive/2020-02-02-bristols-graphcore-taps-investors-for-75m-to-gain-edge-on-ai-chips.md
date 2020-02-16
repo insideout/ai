@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Bristol’s Graphcore taps investors for $75m to gain edge on AI chips"
-excerpt: "The start-up’s chips are designed for unpredictable decision-making tasks, such as providing the brains of a driverless car Credit: Graphcore A Bristol start-up building artificial intelligence microchips has tapped investors for $75m (£57m) to accelerate its growth. Graphcore, a start-up valued at $1.7bn that is backed by BMW and Microsoft ..."
-publishedDateTime: 2020-02-02T05:00:00Z
+excerpt: "The start-up’s chips are designed for unpredictable decision-making tasks, such as providing the brains of a driverless car Credit: Graphcore A Bristol start-up building artificial intelligence ..."
+publishedDateTime: 2020-02-02T05:03:00Z
 webUrl: "https://www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/"
 ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/amp/"
 type: article
-quality: 76
-heat: 76
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: The Daily Telegraph
@@ -18,14 +18,13 @@ provider:
 topics:
   - AI
   - AI in Autos
-  - AI Hardware
 
 images:
-  - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png"
-    width: 1402
-    height: 876
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2016/04/19/citymapper_trans_NvBQzQNjv4Bq2oUEflmHZZHjcYuvN_Gr-bVmXC2g6irFbtWDjolSHWg.jpg"
+    width: 718
+    height: 449
     title: "Bristol’s Graphcore taps investors for $75m to gain edge on AI chips"
 
-secured: "OEXzBeKm02HYe49BInQnVmG/q2O2gtiFO/6JUfFlQrukRLryDDNLHALme4N9xYDPGB0JmRlzSsmiy233nY60DXHiVAQFBEuxzoDaosS/69R9RkAEWJWgd+clw6H1N+2bEFl6hoougNJKRDdfewqcXrYddlj2PCVfdSWEdu8MW7YVlRDNATzEcjrOrpJHNOv5+3zathSN06UvxXCd5/ijpGe8VuVUJ1i+eTqbURikTrXlUHOobYXdgPwzRZLVjBWpzedAS7KNCEwzHyoQj8bfShrIDDP2aoS82h/16Bq/1VZuG3NSMmb0+J92rkLOF2EbOb48iXrAuk1MG2jRbioN+chHRSc4IRoxuZ+7CbwLSVUfaFJwi5iVm0CeMH+MSupMMuVz8566xWTUo1EnHrU9IsXVmi7vyNcRfyB/6nVmEC/5a0l7WYQ9jXwcdnuovtNp2WTyUlRtfOqL6qlsvSB6pbOVAs4cJt0v79yDwwKtOLg=;oIQ8GjmwaljeE2hm5W5qrg=="
+secured: "N3iiC895V0/lT6DqoNi3ctMSHVXu/zTJW/Z4WLf86Vl6+BC/voto/a1tIUlMdz1WUufBB3vbuXOXRAQEzRFs0/dCOZW0t9MHLALiB6cjESo5lfDHOF2BC0M/saHezLTyx5uJE9NJAqpc8IvJ6sh/Rlp1m59J6MFibD+1zDakT6CALjo+W4kY9haFgQoItfQP8mVh7B/8+fZFenPayymQwxn0SlisRHpup648gNTw5pd+/KfoFF0RX9lWmcbbiL9KJDjbGceG5dsy0cWspMx6ZCLd3DPbjDNnsOT6mOi2sG5GO/oTFd5Rsu/6eOZMbb1X;EoQWA8OLh0/zm9nQAeUx5A=="
 ---
 
