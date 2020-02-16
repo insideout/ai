@@ -29,6 +29,19 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 39
+  - title: "Artificial Intelligence for Data Center Management"
+    excerpt: "When it comes to data, IT professional are always concerned with knowing: How much do they have? What are the best methods to collect data? What is the absolute value? How can you leverage it to improve customer experiences? And what are the best methods to analyze it for operational visibility? When it comes to data center operations, these ..."
+    publishedDateTime: 2020-02-04T11:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/artificial-intelligence-data-center-management/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Artificial_Intelligence_for_Data_.2e16d0ba.fill-1200x630.png"
+        width: 815
+        height: 429
   - title: "Technology Budget 2020 : Will India’s Proposed Data Centre Parks Boost AI Industry?"
     excerpt: "During the budget speech, the finance minister of India said, “It is now a cliche—data is the new oil—and, indeed, analytics, AI, fintech and the internet of things (IoT) are quickly transforming the way we deal with our lives,” Sitharaman stated."
     publishedDateTime: 2020-02-04T22:48:00Z

@@ -23,21 +23,39 @@ images:
     title: "Artificial Intelligence for Data Center Management"
 
 related:
-  - title: "India’s plans for data centre parks may finally force Facebook and Twitter to localise"
-    excerpt: "The proposed policy directly takes on a highly-debated clause in India’s personal data protection bill, which suggests that data collected by foreign companies such as Facebook, TikTok ... for tech advancements by setting up a national portal for artificial intelligence (AI) research and development. “We appreciate the government’s ..."
-    publishedDateTime: 2020-02-01T10:02:00Z
-    webUrl: "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/"
-    ampWebUrl: "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/"
+  - title: "More data center parks, develop AI talent: Union Budget 2020"
+    excerpt: "The budget has also given a massive push to the digital economy recognizing how AI, IoT, 3D printing, drones, data storage ... This coupled with easy access to credit from banks & NBFCs should bring down credit costs in the medium term. For start-ups, considering the fact that in the initial years, one may not have adequate profit to avail ..."
+    publishedDateTime: 2020-02-01T14:32:00Z
+    webUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/"
+    ampWebUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 66
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
+  - title: "Technology Budget 2020 : Will India’s Proposed Data Centre Parks Boost AI Industry?"
+    excerpt: "During the budget speech, the finance minister of India said, “It is now a cliche—data is the new oil—and, indeed, analytics, AI, fintech and the internet of things (IoT) are quickly transforming the way we deal with our lives,” Sitharaman stated."
+    publishedDateTime: 2020-02-04T22:48:00Z
+    webUrl: "https://analyticsindiamag.com/budget-2020-will-indias-proposed-data-centre-hubs-add-strength-to-the-ai-industry/"
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 35
     images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20032244386981-e1580546856302.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 787
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/budget-2020-india-tech-ai-1.jpg"
+        width: 1006
+        height: 608
+  - title: "The Evolving Data Center, Part 2: AI in 2020"
+    excerpt: "Prediction #1: In 2020, we will see a proliferation of customized AI chips hitting the market. As a result, almost every vertical will begin to tap into the power of AI/ML. Billions of dollars have been spent over the past few years to develop AI chips ..."
+    publishedDateTime: 2020-02-03T18:31:00Z
+    webUrl: "https://www.networkworld.com/article/3518821/the-evolving-data-center-part-2-ai-in-2020.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
 
 secured: "vB0XWo2SbFzW2HEu25msf1HCzUUHZehGlYjHzW8r7ehp5r4Y6ZXhPK/bnhZL3U1fSEMKJLbrfNB8UHbUErnADYeMKRcxIbWUmL01bJ3Vbl5pCxBZOexLtQTFNum6ethlyQwYJqM8SlL/ytjmrUJDEPTVnnwAtPTInS+0rsuNGBHJq6H3/K+6q/4muoTP7UnmIDjvToQn/cLdA1ssr3ppXdMrdrRTgcVMpw75gq9D7+zrRNXdszx9OY5r3zjv/+hi2Aw5hf3rNohZq+2nmNIkIf48Gz/RueBLQq7aJPuqz3wtBH6HuG9nNDylxVmP5X1vUjPx6pdFyDgn2ze3U142GhJwy4SLzYhlDW+ngFA/ZAD0sxfU8HDzb/FgPv16nQznAOtlGBxaICXDvt0aBl85xGr7Cx/zbTNEmyJhSAw1QAx58V/3is5Cd+5j7WGFr0nwrirPDQWH1adK9kp4OXLRityxMMbT+fAHwvhVwAvz8ko=;JpgklgA38u5eQJi+r2I12Q=="
 ---

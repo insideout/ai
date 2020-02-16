@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T20:06:00Z
 webUrl: "https://www.biometricupdate.com/202002/north-korea-smartphones-feature-ai-fingerprint-face-and-voice-biometrics"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -18,19 +18,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "MediaTek introduces new smartphone chip system supporting biometric facial recognition"
-    excerpt: "MediaTek has developed a new chip called Helio G80, which is part of its mid-range System on Chip (SoC) product line and close in performance to the G70, with image processing capable of object recognition and facial biometrics, writes xda developers. The G-series assures enhanced performance in mobile games, while keeping prices low for consumers."
-    publishedDateTime: 2020-02-05T19:42:00Z
-    webUrl: "https://www.biometricupdate.com/202002/mediatek-introduces-new-smartphone-chip-system-supporting-biometric-facial-recognition"
+  - title: "Siri users consent before enrolling voice biometrics, Apple argues seeking BIPA suit dismissal"
+    excerpt: "The complaint by Deborah Zaluda also does not make specific allegations of disclosures or dissemination violating BIPA, the company said, acknowledging media reports that contractors are given access to recordings to evaluate the performance of voice recognition software. Informed written consent is also part of the profile creation process ..."
+    publishedDateTime: 2020-02-04T22:08:00Z
+    webUrl: "https://www.biometricupdate.com/202002/siri-users-consent-before-enrolling-voice-biometrics-apple-argues-seeking-bipa-suit-dismissal"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 31
+    quality: 12
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/05143300/MediaTek-smartphone-chip-system-supporting-biometric-facial-recognition.jpg"
-        width: 840
-        height: 500
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
 
 secured: "O0f+OZAh95ZKa+UmmyTCe+2OxmXhEw6t+qPkCeo1VxuGJOh8S0ufpaQmv4PckPQEzVtEHZYkGgrBePJm+Cr0AS9WNOCaBYPpBw1FemY6rwoci1jF+o2pOwKDBSBli6VGYz71bWfC2EQKLDRXoLcN8bg+PVbwgdaFzVfa3KVIzw/9UABhdFWLyF48X+i4OIe1M4UAgT9CfZM09bxviep74+CiqGukKfI56o7rmwzwbkHxR8odoMgClBHYtUEkd+w8+Z89EZb4gMRFus8NvyNqumsyl+mTgt91AkqULmOfaw8pK+TNil7ZgpzKbLXMMKj5;VlwnUC+7ZthMGpFocH8frg=="
 ---

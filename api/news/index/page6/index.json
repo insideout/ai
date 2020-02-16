@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_posts/2020-02-12-8-great-python-libraries-for-natural-language-processing.md",
+      "title": "8 great Python libraries for natural language processing",
+      "excerpt": "Natural language processing, or NLP for short, is best described as “AI for speech and text.” The magic behind voice commands, speech and text translation, sentiment analysis, text summarization, and many other linguistic applications and analyses, natural language processing has been improved dramatically through deep learning.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/05/communication_language_translation_global_foreign_countries_country_flags_by_alexsl_gettyimages-673314454_1200x800-100757311-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "8 great Python libraries for natural language processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/2020-02-12-andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race.md",
       "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
       "excerpt": "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ...",
@@ -439,7 +484,7 @@
       "path": "_posts/2020-02-12-met-police-try-to-calm-tensions-as-live-facial-recognition-hits-london.md",
       "title": "Met Police try to calm tensions as live facial recognition hits London",
       "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
-      "heat": 169,
+      "heat": 149,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
@@ -2116,51 +2161,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020.md",
-      "title": "Humanity In Focus: Five Predictions For The Healthcare Industry In 2020",
-      "excerpt": "In 2020, the pendulum will swing back and put the emphasis where it belongs: on using technology to improve the lives of others.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/amp/",
-      "publishedDateTime": "2020-02-14T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/941446382/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Humanity In Focus: Five Predictions For The Healthcare Industry In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
