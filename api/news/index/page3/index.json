@@ -2,42 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-06-facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites.md",
-      "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
-      "excerpt": "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ...",
-      "heat": 387,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/",
-      "ampWebUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
-      "cdnAmpWebUrl": "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
-      "publishedDateTime": "2020-02-05T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Snopes.com",
-        "domain": "snopes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452",
-          "width": 800,
-          "height": 452,
-          "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
       "title": "Facebook launches 3D deep learning library for PyTorch",
       "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
@@ -2183,6 +2147,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-this-new-memory-chip-could-end-up-in-an-iphone-5g.md",
+      "title": "This new memory chip could end up in an iPhone 5G",
+      "excerpt": "The new chip is likely to make its way into the next iPhone ... The rising popularity of high pixel cameras (like the 108 million pixel sensor set on the Xiaomi CC9 Pro), concurrent apps demanding huge bandwidth and AI means that LPDDR5 is likely to become the defacto memory tech for flagship smartphones in 2020. It remains to be seen whether ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "publishedDateTime": "2020-02-07T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/n5GsBjxkGK8epc7bMzP4ug-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "This new memory chip could end up in an iPhone 5G",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

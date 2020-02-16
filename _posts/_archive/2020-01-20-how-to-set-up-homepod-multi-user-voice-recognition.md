@@ -25,6 +25,6 @@ images:
     height: 450
     title: "How to Set Up HomePod Multi-User Voice Recognition"
 
-secured: "eWPfuIkG/POp+QeQzDDyv+SrLxTcT6yzjtIKOM0a1hp08FxbwcqEpUiFeGvO/b9NHbr3xWuZOHdX2iaflVDrj5FQHMWEoBQhyjK61OWU9+nALw7jPri/9kSoq4l/RTYY1czwmzqyd5vfWuX4n1S5mXCUUIT6BfvyClEwBC32aJcJAqqJwcS31SyLAv80bS8Htu2oMqP7Ib1L4Rg5mhxw8gxv3TrFwD8EmCmCDchlQa73jWAFMypa1m0RguhY1c/R3ti7YmFLdICGfeS13GedjidO5LL9Ege/Qke+YYtt0Hy7a6mXc0pJeIB5Qq2yu3Yl;/Jbnh9fJWZYVDKz7UuRP3A=="
+secured: "GooPELKyuKi0YrM4qMrssc8XTVJokFy6gQgMYUKui0fQ/5varrkmuu5XILWr9LuOJFOEF6rqXSDLmMG4f+4tTC5qgXMqPo6Xb83kUOKsrKVa9SstIXuPUQn0n1YDMPoBGXb3b9iNFtp8qG02q573S5sp6tDIdo0OE2t/Z8l9kUPZYlITzs26iJrOOpE6jHCte8SqWc/Ph37Pq4vaHZe8JD8UGDnphleEp5IM5lDgPoAxpett4FqkfY2bLXV6U/sSgFpWo/thAVz/H7/+z68SAxYK7Y8TCWe6vdC5jIhGT4r+R8p6HJviiufkSYo0dFfo;CKjstn3P/9Tx76aBpmDTKA=="
 ---
 

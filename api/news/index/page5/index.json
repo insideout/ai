@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-10-virie-and-the-upgrading-financial-globalization.md",
-      "title": "Virie and the Upgrading Financial Globalization",
-      "excerpt": "Digital platforms, blockchain, and machine learning are generating new channels and innovating financial systems. The new league of markets like Virie is ... Virie lets you transact in your choice of fiat or virtual currency, or even other goods or services in exchange. The Virie Market keeps the user in the spotlight and works around this ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@goddessathena051/virie-and-the-upgrading-financial-globalization-d9d3ff60a37d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/480/1*ltzTsd0__NMjb1gH4Js6EA.gif",
-          "width": 480,
-          "height": 270,
-          "title": "Virie and the Upgrading Financial Globalization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game.md",
       "title": "We are still playing catch up with AI, and it's a dangerous game",
       "excerpt": "\"This review found that the government is failing on openness.\" The very first issue highlighted by the organisation, in effect, is that no one knows exactly where the government currently uses AI. Academics, civil society groups and public officials alike said that they were unable to find out which government departments were using the ...",
@@ -2160,6 +2115,52 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-how-to-teach-artificial-intelligence.md",
+      "title": "How To Teach Artificial Intelligence",
+      "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-02-12T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x572/https://specials-images.forbesimg.com/imageserve/5e4280f7298c2a00065f7857/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 572,
+          "title": "How To Teach Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
       ]
     }
   ],
