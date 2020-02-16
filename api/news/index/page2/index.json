@@ -2,30 +2,38 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-04-face-recognition-app-yielded-80-accuracy-in-polls-officials.md",
-      "title": "Face recognition app yielded 80% accuracy in polls: Officials",
-      "excerpt": "The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an accuracy of 80 per cent, officials have claimed. However, AIMIM chief Asaduddin Owaisi objected to using the technology alleging that it was dangerous and would invade privacy. \"The result (of face recognition app) was encouraging.",
-      "heat": 79,
+      "path": "_posts/2020-02-04-ex-google-cloud-engineers-raise-8m-for-seattle-machine-learning-startup-kaskada.md",
+      "title": "Ex-Google Cloud engineers raise $8M for Seattle machine learning startup Kaskada",
+      "excerpt": "Kaskada CEO Davor Bonaci, CTO Ben Chambers and VP of Product Emily Kruger. (Kaskada Photo) Machine learning is all the rage in big tech, but still largely unavailable to most companies that don’t have the resources or the knowhow to build it. Seattle startup Kaskada wants to change that. The company just raised a $8 million Series A round to ...",
+      "heat": 109,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.html",
-      "ampWebUrl": "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html",
-      "publishedDateTime": "2020-02-04T02:37:00-08:00",
+      "webUrl": "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/",
+      "publishedDateTime": "2020-02-04T09:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2018/4/17/face-recognition.jpg",
-          "width": 760,
-          "height": 443,
-          "title": "Face recognition app yielded 80% accuracy in polls: Officials",
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/Kaskada_Leadership_team-630x504.jpg",
+          "width": 630,
+          "height": 504,
+          "title": "Ex-Google Cloud engineers raise $8M for Seattle machine learning startup Kaskada",
           "attribution": null
         }
       ],
@@ -35,7 +43,7 @@
       ],
       "topics": [
         "AI",
-        "Computer Vision"
+        "Machine Learning"
       ]
     },
     {
@@ -214,80 +222,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-lawsuit-filed-against-facial-recognition-company-cpd-works-with.md",
-      "title": "Lawsuit filed against facial recognition company CPD works with",
-      "excerpt": "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ...",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/",
-      "ampWebUrl": "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/",
-      "publishedDateTime": "2020-02-03T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Lawsuit filed against facial recognition company CPD works with",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-lightfoot-urged-to-pull-the-plug-on-facial-recognition-technology.md",
-      "title": "Lightfoot urged to pull the plug on facial recognition technology",
-      "excerpt": "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\"",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
-      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
-      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
-      "publishedDateTime": "2020-02-04T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Sun-Times",
-        "domain": "suntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg",
-          "width": 640,
-          "height": 480,
-          "title": "Lightfoot urged to pull the plug on facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1683,6 +1617,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-05-youtube-tells-controversial-facial-recognition-company-to-stop-collecting-its-user-data.md",
+      "title": "YouTube tells controversial facial recognition company to stop collecting its user data",
+      "excerpt": "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting",
+      "ampWebUrl": "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp",
+      "publishedDateTime": "2020-02-05T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "YouTube tells controversial facial recognition company to stop collecting its user data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-06-ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine.md",
       "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
       "excerpt": "Once that was figured out, doctors quickly brought him back around, and he was fine. But what if, through groundbreaking mixtures of compute, database, and AI technologies, a quick round of analyses on his blood and genome could have revealed his potential for such a reaction before it became a critical issue? What if it were possible to devise ...",
@@ -2110,6 +2081,50 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-coronavirus-fears-will-leave-empty-seats-at-a-top-ai-conference.md",
+      "title": "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference",
+      "excerpt": "Yang was due to present an award-winning paper describing a way for an AI algorithm to perform image recognition by drawing from different datasets without ever revealing their contents. He decided to cancel his trip due to the global health emergency triggered by the coronavirus in China. Yang estimates that around 800 attendees from mainland ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/",
+      "ampWebUrl": "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/amp",
+      "publishedDateTime": "2020-02-05T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e3b32fd281efd000882f15d/master/pass/Biz-emptyplane-86146996.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

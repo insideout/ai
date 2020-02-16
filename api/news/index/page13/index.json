@@ -2,50 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-wefs-global-risk-report-warns-of-dark-side-of-iot-ai-quantum-computing.md",
-      "title": "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing",
-      "excerpt": "World Economic Forum report once again lists cyberattacks as one of the top threats facing the world in 2020 - alongside climate change, extreme weather and natural disasters.",
-      "heat": 66,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/the-dark-side-of-iot-ai-and-quantum-computing-hacking-data-breaches-and-existential-threat/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T13:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/16/5ea6ba0a-4030-49b7-a3f9-dbf447ba670f/thumbnail/770x578/a5b4b36b32be1fcd06abadda16803865/the-dark-side-of-iot-ai-and-quantum-comp-5e20988d4435920001905e9d-1-jan-16-2020-17-10-41-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-what-is-machine-learning-why-its-matters-and-how-does-it-works.md",
       "title": "What is Machine Learning? Why its Matters and how does it works?",
       "excerpt": "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. The process of learning begins with ...",
@@ -88,51 +44,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-ab-inbev-taps-machine-learning-to-root-out-corruption.md",
-      "title": "AB InBev Taps Machine Learning to Root Out Corruption",
-      "excerpt": "The company that stands out for taking a data-driven approach to preventing bribery and corruption isn’t part of the tech sector. In fact, its product predates the wheel.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
-      "publishedDateTime": "2020-01-17T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-144949/social",
-          "width": 1280,
-          "height": 640,
-          "title": "AB InBev Taps Machine Learning to Root Out Corruption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -769,51 +680,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-17-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
-      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "publishedDateTime": "2020-01-17T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
-          "width": 640,
-          "height": 358,
-          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-facial-recognition-scanners-are-coming-to-philadelphias-airport-starting-tuesday.md",
       "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
       "excerpt": "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ...",
@@ -930,51 +796,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
-      "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
-      "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
-      "publishedDateTime": "2020-01-17T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578",
-          "width": 3970,
-          "height": 2652,
-          "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -2123,6 +1944,185 @@
           "width": 1200,
           "height": 878,
           "title": "Secure Technologies and Artificial Intelligence in Focus for Airbus at Intersec 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars.md",
+      "title": "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars",
+      "excerpt": "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,",
+      "heat": 314,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-01-18T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415",
+          "width": 1200,
+          "height": 799,
+          "title": "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-the-3-best-artificial-intelligence-stocks-to-buy-now-for-your-portfolio.md",
+      "title": "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio",
+      "excerpt": "Artificial intelligence (AI) is probably today's hottest tech growth trend. Spending on AI systems will soar from $37.5 billion in 2019 to $97.9 billion in 2023 -- that's a 28.4% compound annual growth rate -- according to estimates by research firm IDC. And that's a conservative projection. So it makes great sense for investors to want some ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx",
+      "publishedDateTime": "2020-01-18T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553710%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-nvda-stock-nvidia-stock-mu-stock-micron-stock-crm-stock-salesforce-stock.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 466,
+          "title": "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-the-secretive-company-that-might-end-privacy-as-we-know-it.md",
+      "title": "The Secretive Company That Might End Privacy as We Know It",
+      "excerpt": "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person, along with links to where ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
+      "publishedDateTime": "2020-01-18T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/26/business/19clearview/19clearview-facebookJumbo-v4.png",
+          "width": 1050,
+          "height": 549,
+          "title": "The Secretive Company That Might End Privacy as We Know It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-2020-the-year-of-artificial-intelligence-for-your-business.md",
+      "title": "2020: The Year Of Artificial Intelligence For Your Business",
+      "excerpt": "Close to 40% of businesses use artificial intelligence (AI). This number was estimated at 5% to 10%, but a survey by IBM showed that we grossly underestimated the scale of AI’s existence. Most importantly, this number is set to grow to 80% to 90% over the next 18-24 months. Furthermore, AI specialists are the number one job role for 2020.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/345112",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345112",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112",
+      "publishedDateTime": "2020-01-18T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "2020: The Year Of Artificial Intelligence For Your Business",
           "attribution": null
         }
       ],

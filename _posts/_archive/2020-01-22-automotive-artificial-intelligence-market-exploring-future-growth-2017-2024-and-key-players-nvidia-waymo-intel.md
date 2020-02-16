@@ -26,11 +26,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+    quality: 40
   - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
     excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
     publishedDateTime: 2020-01-20T09:52:00Z
@@ -41,6 +37,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "3OmzzAdrglsltlfm+s5I0il1jANdQp8ArKoMELC78s4C+aRxkqkE7dYG5G1n+AVnQj8kajzWyqGvKOBMcXipF/fGi4N/HAxEbheXxV3p3CPA8gFWlIn4synT4wjEw36huzClZmvLMOzZvdIoWxNlu4mmwQGzknLT3Yy7xG0aE/fqMfh/uwob8U/96DFoQA7bqoFOvR8QjTzjInB7TxFizBFNiQmtYVBjTnr+4xXbLnKhXfabt401y14vX63lF9cwcNSWpPiukC5m91Bm8n/A/qJZXwAaUgH8jgn8Yd0+Vv4ijz7cYTCInfJc3/Oao3Un;7v1po7uQslKE1Ut4yod8bw=="
+secured: "8nH78IWTVwVGZM+a/OUU4aZCTYqbjR1hf68v2etNJiWx/wcyH2p4vafVmzB8K2ZMdf+uO4Hk2bxJK4675zw4BCEKT+XhFPZpwGb98EraAhAfHRquLpCkcWCDZt7QDogr2cA2/0NtGMsRGRW1AJk7rslk6BdyOpQi0jE7YTifJk9BNvIW77CMloER/K35MWw5CBqMZVx3b8zdY1Byn5QGtFJuTEMg13PJgJCaYAqFGLfkPIq3qj9yT+q7NBysUNqWVSlv74Vq5CVuPTeaFresApGdmkTMe6nrL1/Hy60iphLrO02cyblRJN23cDwxAUgL;/D/qpMO8W5vQ3/jiXJgxfg=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Lightfoot urged to pull the plug on facial recognition technology"
-excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
-publishedDateTime: 2020-02-04T11:33:00Z
-webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
+excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
+publishedDateTime: 2020-02-01T14:42:00Z
+webUrl: "https://patch.com/new-york/yorktown-somers/police-use-facial-recognition-app-comes-under-fire-poll"
+ampWebUrl: "https://patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
 type: article
-quality: 59
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Chicago Sun-Times
-  domain: suntimes.com
+  name: Patch
+  domain: patch.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
-    width: 640
-    height: 480
-    title: "Lightfoot urged to pull the plug on facial recognition technology"
+  - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
+    width: 708
+    height: 531
+    title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
 
 related:
   - title: "NYPD pushes back against facial recognition ban"
@@ -95,6 +95,21 @@ related:
       - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
         width: 1200
         height: 799
+  - title: "Lightfoot urged to pull the plug on facial recognition technology"
+    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
+    publishedDateTime: 2020-02-04T11:33:00Z
+    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 59
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
+        width: 640
+        height: 480
   - title: "Veridium brings facial recognition to all phones in password-less push"
     excerpt: "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ..."
     publishedDateTime: 2020-02-04T06:00:00Z
@@ -125,21 +140,6 @@ related:
       - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
         width: 980
         height: 551
-  - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
-    excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
-    publishedDateTime: 2020-02-01T14:42:00Z
-    webUrl: "https://patch.com/new-york/yorktown-somers/police-use-facial-recognition-app-comes-under-fire-poll"
-    ampWebUrl: "https://patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
-        width: 708
-        height: 531
   - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
     excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
     publishedDateTime: 2020-02-04T02:51:00Z
@@ -187,6 +187,6 @@ related:
       domain: thedailynewsonline.com
     quality: 19
 
-secured: "VCkLtMGHDnqx1h+svAsBPlPkSmC6XMFRIykrOWEsc4vn7ZDyrJhhIVKSnRGQzSB9WHlZ036mHe2xMvACfSL/5gR/9mp8HAJfYK8VDb22jjf7cVN05ajSOYBhs9Pc+7aKQs/FljAYwAyOfsBIBpusctZAF/Td2STXG1oGW6VZMkM4ltdUoin5i3TfqjXvozxR6krElDy7YAyWJ4HdzhsyYpMFdsfwghieiQvugx4O9nmxPPqxKZyhMITkiTHeUTjAO4ECCk9kTXLTA9o+hz/XdbDLGLvLNg3ZHOD7o5s67vAWg8H1D2OX/eHJGn/QeUhTt7pcwvYQxnZ+VUh2w6yKcAlzbqMhfIE4drrD6GhJXl+MYQbrA2UeDauxC7MikVuagDBLmvW8O6+MH7L6bJPOwO8OD7532kg8sEp+/PqiSyKUEMWW1zpZ3+CX22GP3e8vatYiul2+DO2/E3gzQZO7dOPCqydRqD5y+gla0FEHdQg=;7rwoiCeoT5+HQ67n5Ss1kg=="
+secured: "9uj6+WhZEyX1x0akvQSXjlBW2c4jyaHkEhXLUswX842mTj8QcXnQKi07SKQ+QoLGsDkX/3O1Q3Ao18Tzp9mtjvy9qGCPgJyny/VZdjLVPPcUsoVfrHzF/4aTd2SfBB5xYKkzuQjSqegpUlLwBSsaP8ZSeGtOFTu4+9RswTBeTWEE4Ci8OXFyWsS2PiA0LVtQydLP0NWHqUXX7B524cqM26rWoMweYMjiazF7bCuhtwH4RWg7fTLzcbmL7xPEaoqQ2tGQziunZtiiRxO8h4nTtyorM1TFpNRC4ABnhIEE9ttbOQwrpJ3H3szmfzHlOViDWGMQZDsW/r7Y3JI414aQWzl8DdQdpZkPX6z97iJtLPKaBzkSbINgU1F/CfzlmOG2H5Yt1UWVR29FemOg1VjSXHZcTRaEu3wEZ2Aijz3HTKlrBymxy1eVDQ8sl9rru52E9+pPiqJxhRiKxWQxBMfGxJyyNkATDxqvWiGZRgrUv7s=;R4lhNWQaMVddnC5XmuVVJg=="
 ---
 

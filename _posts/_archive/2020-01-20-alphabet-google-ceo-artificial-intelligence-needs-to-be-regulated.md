@@ -4,10 +4,8 @@ title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
 publishedDateTime: 2020-01-20T12:36:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -19,40 +17,26 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-    width: 1200
-    height: 628
-    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-
 related:
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
   - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:18:00Z
     webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
     type: article
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 69
+    quality: 49
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 34
 
-secured: "EwmFn8cZYNIYifuyDvMb6pE6eSLfRHIFdd/S9XzccwuA6NiXLBTuTyVNSJSSlFYDT9ooS1h9vDL8lS0S8NXGUpEYWLbGNAEur+i+H1ewf0m9cGY3Ry5qURncZZ0nXmBJPJCd/GWlAZOg65GvXM/2P0XoQrQTIJRvdImILGDXg+n6C66jpIts93ROVciZOGaFieLW4o3WTml5xJ7PMFGSKlJvVYZ9qUS2xP+yA/UmIRc6NgsXIuXvUn617ENxKGEcFOq3bszMNs/W18cceOlGedHegv/8sawL5iS1nKL613tqWMd1j7ByV+zDcZpW7msZ;frjgTwhyOOTMe9RZ3RNUKQ=="
+secured: "NIiZEW0N8xjIrgABs91+kq9P+VWq2GtIfSmYLmoU7+EZKYwGo0/g1cMfULilTESldrQ44RpG1vCcsd/8HdMlWdwrI6HjyO4fygKH3mzab3B+mfwuwPS3Rl65dcoaFLDV7tBVit/gwMdD7+jqFZWJpj66Xz6QEBFbjmeK4Ba8I0Xany/q5qn0CkTEu1ayvzkvkV4k3dJMv+CTOMGUfT1bmf5g+e3OKredvzK6mkeMZ6jT31g3ULOJAMazFyna0rjbjdRFARtbP9dpVztN89xsa2Q4WNA567oeBs57Mb4kkTc++F9gC+dgYi+Ta8HcamtnwlPN0/E+R+GdFqPqWkkwhgM9iBGefw2fFcv5KzHJb/apkoIALhltYm5T+U9hpUIPzD11uMfVAUbcIrCdkRfBPJRZ0sw9KIbq8krDOQy8SM6w0/ugxVIyL3kh4qx2tbLNcpZC4QhaqegR/849w7Iif8L2Gjbe7jSaiyS8sIISFlM=;wT5GpSOHpg24lWHZL97KUg=="
 ---
 

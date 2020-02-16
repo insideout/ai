@@ -4,12 +4,10 @@ title: "AB InBev Taps Machine Learning to Root Out Corruption"
 excerpt: "The company that stands out for taking a data-driven approach to preventing bribery and corruption isn’t part of the tech sector. In fact, its product predates the wheel."
 publishedDateTime: 2020-01-17T15:30:00Z
 webUrl: "https://www.wsj.com/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001"
-ampWebUrl: "https://www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Wall Street Journal
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://images.wsj.net/im-144949/social"
-    width: 1280
-    height: 640
-    title: "AB InBev Taps Machine Learning to Root Out Corruption"
-
-secured: "lEB5FE1wXWsMF0g56M820ZKue4+4F0lm7NHaDUraGd1p/N+KPh8+6mMA/gSNc/4zGYFKn+XnjO/6IP8EdLZjoqQ1PTzu/adGJN777UhAqW1RbFTz5jiMTBk5nneFpzuf80RXNfFkZ9d5swQz+0mzUs0YRQBg00jTtjYgFjenOwX/v0LhbgW0qcp3xQYONlu0FjAvoe2ZG4BhYLZDI4/8URbpqqBRcg7Pf3H+Mf4NnyRE5Qy+8jiRpzqbPZWure1olPpRjqBI0UI2/ESlL2d4knjpscoi3YB7ruUsZ9dNN9nFhSBHZFnK4h90e+WTrY9R;4DjZXvq3ynfrNNDh0GcvpA=="
+secured: "MEPX+VPqo5lka4o11zZPrur8g3gUCQFuoQ+cno/Y3ATqYAy+hr3scTEoCqtecEr6UtOpbqY6rsvLHn9s4CvyvYP2Y48c2x9c6yufiavn4fORYEyZADMe/NAkjMzR7QTz+/tJrusSy5UpBqFUVpw1cUfHejnWLRJUBe3RprNN46+cw7dQV3f3y2Mv+Rv20uLUVZZJgYOGprOb/4J4A+fPCYaBr3UFxIf9KC6Dx4akCoOH9G7QAYvK8oi1fiYo2wdcf2Afh1zs9Hc5eTwSuBavL44crmJeuX4lme4EmskjhBaTMqAPAlwEJ1rBLS5AdLonNZSQX5XosXZsGNjnTf87LnkiqCiwfELIMG61MU5mf/zVAhZ72CTf/enZ5xFJiKVk0dIqfnNNmXJYEMJy6+bGjjXprWBrbjNTZU1qBe4gsVjNJSGtZxEckgvRvvwzPATAg2IP00stw67iHWcQZ4VpAIzvGCQIUCNQMTFdEg9w0ck=;qAVFiKPtmIjqiAWIENu37A=="
 ---
 
