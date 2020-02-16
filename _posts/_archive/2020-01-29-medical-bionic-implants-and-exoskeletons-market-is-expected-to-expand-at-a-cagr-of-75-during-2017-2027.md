@@ -5,8 +5,8 @@ excerpt: "Advancement in new robotics technology (mind-controlled bionic limbs &
 publishedDateTime: 2020-01-29T06:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/medical-bionic-implants-and-exoskeletons-market-is-expected-to-expand-at-a-cagr-of-75-during-2017-2027-2020-01-29?dist=bigcharts"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
-
 related:
   - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
     excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
@@ -38,6 +32,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "25ZAe3C8mUwPsBZy3jZpQrDcC6t3mCndDXcBpz6/PPryGjmr/WBci58P5Vdf1mRnCx0NuM1CbKD9+YMT/vZjkt+6uApydddwDDNIuMvxSFdnXOQ9bfx4vldz/zOYp4H4cevwnsXXP6LmBj2qQrz7OX2ToVMVbO1zp+k3qmrL5cbMOr6763SMheiVc0kIJv//Pi4r3HilM/q3XN3ozcVhPF6SeXfyA4i3ER1MCWnyjRCPu8SJiA6AKYdCUSo0EHbO5yLhNp5AXS5iFU4U7owDWUfiWJeX7PPkln2FpiZn/PLcvQ5Um08VK590N3rb4ufK;vRQnNV63sfjwtXs1UaYVZQ=="
+secured: "JOUrS4Y29Jc5tKBOhW00gKZePCJJ4Fn1dRRWNhLfhUAHzxNDYXEgrYudaQ1VC8IaF5a2i5W5Txd8K7yW99+gfqwiHgXgzkKYR5fRHAORYx29cK+jw/DPmI4BaWiBbyWhnCZ58VfPDGXqOeMKtoC29TGvJKvZ+C6tpiRXWvK4exi/BllvqhKCvpPQgVxJ7aoQOxE1z2jmvnhlN6sxJtyl78+USes1MhwmUAkVuwiZVoNCKA45KvAdd6ekTQWccTuY9RDPLybhhlKmmoesZ7A2iviJOBQK6GJAvFeE/RBDqpzB0eUeG5D1AWznoxZwdLmm;CZ6zDEwjX6wohre1UTxBLg=="
 ---
 

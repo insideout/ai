@@ -4,11 +4,9 @@ title: "Machine learning platform focused on finance can spot a strip club alias
 excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... and expenses to make sure companies are not paying for goods and services that fall outside company policies. Kale said the process is the ..."
 publishedDateTime: 2020-01-21T17:20:00Z
 webUrl: "https://www.techrepublic.com/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 type: article
-quality: 67
-heat: 67
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png"
-    width: 1200
-    height: 907
-    title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
-
-secured: "iyNkOunhZUyNEIgG0d95TKHfUdCv60NEbB4/1TahcDJatGPb4VEujyUMjP/N0m5vlzDsO1wc2Lw5QQLWBjrak4MZBJfnhrpLNDm/1GpCjUpmC3lKM7ZiG3UawZg7yx5FgL9sJ05M21IIQfs2fKAXCpENvWSeTVNiQrYfgqFWcWecDQYQQMoG7KWH/HolJrv9WhDxq24ZY1QL+onMa2wuy9etSaD13zKTannl6xqT0s14gHEUTMMPKqZkkzq9lXhCb/iSuOttqv4emmrs31xRHnsxk44q4N4zPqDGkYnwhgHBwguEUpySuezi4rLqFN9i;q+Zi6tEVVj3qssKQbzy/aw=="
+secured: "sp39Qkm8s+7ADyYiSocFW0PPRMX5Yh+OU2C2dd7hiGtLD3xmPjk0CPj5avAlSjY1PK7TrgAQ+SrHh1ID/cD+hhFWxAvzNvG5okgJqrlBTgjn3HzYpOYv29yX17uTdH8H5bmBNqFc/CPFKUPyxTq6awm5FLWdgvIqds44d5nIaFpQ8RaxhBYduZm0yyTZtu3GPauPzKqf3+45RlqpOW+BHY5uzGcFX3SZ3Qsr3RHidnHqjinc5gMi1jkR9KpjkYMZL3Mb9kxfBB7Xygv43uFymSr8qaPmqGDI3SL7VDi1atOMKeEuI/z6aDfnq4HL8t+QmyGTMvxnYG8uazA9lbP4L01wFeKh8v9+Yd6j4RBv+phWY99Jj9GsQMbsdTkP7oz0JCVeGzb5nqSBJXOf5ymn75rvlBYGydp3JeUG1s2cAdm+xM14tLpcw1aywOUxeo637D+MisgETqejmpXaAthPZrZVWN84mYCjPFb16czUOds=;Ch3HmN7a7XqfSUkjXcF7yg=="
 ---
 
