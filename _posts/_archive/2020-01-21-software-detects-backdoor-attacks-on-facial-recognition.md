@@ -71,19 +71,6 @@ related:
       - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
         width: 1000
         height: 750
-  - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
-    publishedDateTime: 2020-02-01T20:13:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/01/business/30reuters-facebook-privacy.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 55
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "US Army develops AI facial recognition protection"
     excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
     publishedDateTime: 2020-01-28T09:26:00Z
@@ -148,6 +135,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "4lGAaS5j3MkBycNH2+f6ewyDoa3kbfTwxZohenxAgZWH0/rAm4iKU0UKH6iwp0Zs5ACvXK3Kd2KHQRCb0vo8DmwU8wv9bI7Cxhk6GV6qMtWwz5hUtIEmHHferg9i5Fb7rHVCEoq5NPd11Z8AUrFIK6dOJH3wqYgE8t0IFbcnOd4HKafNSsSJ8rWjUtpIpPi422Cd8C75WbxHhXIDZUfC7pZDkfEw5Pwz4hDxpUkzckiILKMT8j2jwEMhBLHfQIjVwn88rsyI+Th19ZcpT8nSYZs7xUu0iA56N8RKc1vo9SL6ZU3bbjhuVukfF3YkmmH4;OyB63/+xhg8xwSLoxe16yA=="
+secured: "LpHRLS/OFX3Ok7ale5luop1UK1VZJbDyycwLucpXV2upD6iNVtlAfvYlv7Sjx+xS1dkzI/yW5VXIlbPgF7PChssc7pr/REez4iM2O+CNkDM2TJrOVndAoISvFHMP+MGd1MjZYDqsuoeO7u+v5sJdwPWekmfmp/QAI4jdmgJH/1/pALn817NcwSg5OESli5jyxJfIWMYTjvc8MV+xOMtJdrUoHT2f23QNQk0i1hcNPYldF/pNRKtw0NT3LXBFbJ7JRwFSRG68z9InW9og4yeqjH9yE6+ZpF6x/o43PS4wTBZLIw7At7VX7Am1bJu4ARjN;5i3F9qVY2NjD/lvfWwNRig=="
 ---
 

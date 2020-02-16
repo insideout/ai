@@ -1,12 +1,12 @@
 ---
 category: news
 title: "An Open Source Alternative to AWS SageMaker"
-excerpt: "But when it comes to putting those algorithms into production for inference, outside of AWS’s popular SageMaker, there’s not a lot to choose from. Now a startup called Cortex Labs is looking to seize the opportunity with an open source tool designed to ..."
+excerpt: "“There’s the theoretical data science side, where people talk about neural networks and hidden layers and back propagation and PyTorch and TensorFlow. And then you have the actual system side of things, which is Kubernetes and Docker and Nvidia and ..."
 publishedDateTime: 2020-01-27T20:44:00Z
 webUrl: "https://www.datanami.com/2020/01/27/an-open-source-alternative-to-aws-sagemaker/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
   - AWS AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 771
     title: "An Open Source Alternative to AWS SageMaker"
 
-secured: "mTVgcyuSYsF7KIiwMI9JUnfYp331Xa2wda1DjsWfpQ1vU7YM6hSKpFiI7EypaarC+QrTe27PgVLDim/wJWb64OyPkxHYTzQKq7jwp/wSTW4oIKYJnmMH1xa1rZM/kHCPVr6NBFrr3HHhjQUJtERlUzr3qoIEOXXBJLjSDcG+6+PQYlAXFpb+LS+SEWrBO9bsDfEV29fEP77Uava9gnwBkzdkkyTaouDtqgD6TdcnWh9wRwETD/wLntzM5smhygjjDucGVn6IxvfK3+KfjXMTn22x9PE9syG1J8jAJM8GViL5R9IfMGQBOKS7Q62LkKl7;FTfIyMIf4cA0lClOy+OlyA=="
+secured: "6NI9d7H4/CRCken1deAXEvM3PyNVpTYzqdVsNppsWDB0vjnBVmcTvMYx7R14NkdrUzZatLoKnFzjC9/MTQmHA9nvCUziaYo3L/tSuc3fp1GzyO0ehyEKrRyrc2yXwGsBhEExxTnmQ5JmU+iIJJyCNtrMDRbtzGKznzHKOw0HI0krDVdF9Ft2/npcTQl5IyGdpUKl5J2l6+96V69mrnnTopOQjwhUMBjqnuNQwBS+3pJjkhYorGKBzAJvoNCd6jfWfisEKjiOetPaUNptMuL+PpvGIOSf6HRJSCi1MKY6YYNKih15S3GfSjBqjeJmxKEF;Jp8DKiQNA/gE9ImFGhA5jA=="
 ---
 

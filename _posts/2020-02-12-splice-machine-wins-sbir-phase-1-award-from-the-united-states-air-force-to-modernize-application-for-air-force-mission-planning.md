@@ -63,6 +63,19 @@ related:
       - url: "https://adtmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/RailroadTracksClouds.jpg"
         width: 647
         height: 450
+  - title: "Machine learning for active matter"
+    excerpt: "The availability of large datasets has boosted the application of machine learning in many fields and is now starting to shape active-matter research as well. Machine learning techniques have already been successfully applied to active-matter data—for example, deep neural networks to analyse images and track objects, and recurrent nets and ..."
+    publishedDateTime: 2020-02-16T13:17:00Z
+    webUrl: "https://www.nature.com/articles/s42256-020-0146-9"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-0146-9/MediaObjects/42256_2020_146_Fig1_HTML.png"
+        width: 685
+        height: 478
 
 secured: "fbVwePz+I4pEvZazk4m7enEpRBCO5W97NF0wx8EZShU4yvNabdrbE8LkQDuiN8O4D1tTbq11VWOX++WWr9wfr3VZOhmI6urSLnFoT297rCwxNFdUwYkwhfeipfHt8f/2y1HOAnFhkmMrqiF+oYQr5/APDHYVQiTRYaTucttsxREomFRN/l4Sju7FmRbG2+dBCwB68tNbYD6rN3SA1caCE4FSp23ly+INngL0p5czDSVH+zlA4B1XmIiT1Ejvz6P7xklWz3k5BPdLhdaGxEDq5+29H8RCOfXYxcheSvuiooiyRv5p8m7JaSY+/iGx8E8z1XDytiW8AF6n+cyBPDhPHbLDIgZgyBVxpapIBBHfA35Om/yANmI5mJvdeMpSj3pM7mrDiBmInhp7cPf9r6HUiIJneH8nkEo7q8EK/+beB01e9hue3FsX88ZeljBhLFy9VPCtMUp9615mjzFQ1u+DBMJ0mWtGnQkGQfGfiG9IeJs=;PRsSzeyuHO99DU/408E9AQ=="
 ---

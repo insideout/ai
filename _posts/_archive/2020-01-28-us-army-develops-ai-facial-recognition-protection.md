@@ -84,19 +84,6 @@ related:
       - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
         width: 1000
         height: 750
-  - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
-    publishedDateTime: 2020-02-01T20:13:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/01/business/30reuters-facebook-privacy.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 55
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
     excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
     publishedDateTime: 2020-02-01T22:22:00Z
@@ -148,6 +135,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "mm1caREd91s0KblrVSbR454gur4DaPQwauKEw2ffg6qFNaS6SHTmohrvxIcdd65BY7QYIfjJ94ImYfW0l9X5pgcvsAVyZpiLUTfs2zw3e34m01OB0awzRLTeGIjSvSbrY9bAoPSKTil4ODEWIomVtWYzC/f0HJxZx9VrxWaOl2U0KZ8GN7kY/oo/3duGNHEMMUQF6duOVOZ5dOEsPIWicE7jF3NwKkLYig8AGoB+Fd3EqjKNEf9tuGNH//1B1aHErGIIYAreGce83AWkowgEa7hI5GoZfV7DtOoeRPcLpx+MbpSM86Q4iDYcVfFHjWTL;/dKlPiQvsmQLKcMvgJKXbA=="
+secured: "c+U54HUXJz9aGwl9VeexIPNPvU/3ymx3ExFW/I7MEeNokoUFZRo6LPKtbZJgXxjbO1sYY2lGSA7IO9EGnLTJhdShKv0Jgc9dlNfi8+rSh+pwE1Mij11v3PHKxC2Xmsrtf38ShZge1sreSEP22OztMQ2b56hUu9CR9GVi3GI8En+YzPjnWkdjj4pNANC6vP7azNxW8gh/JNnpD9i4W75GYGfh8i6aDFwLe2Tgowvn5FMno8Rt5nMfNV4rFpcQ5qqc2ph/9TfXv4U25jUtrruYKbnU4AQj0Tiheg1lj4jn3wq5B+fZ/FW2U9VqsDvD5y8o;29pRoh9QCuyQ51y5wl1Qdg=="
 ---
 

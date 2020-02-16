@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -75,19 +75,6 @@ related:
       - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
         width: 1000
         height: 750
-  - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
-    excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
-    publishedDateTime: 2020-02-01T20:13:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/01/business/30reuters-facebook-privacy.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 55
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "US Army develops AI facial recognition protection"
     excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
     publishedDateTime: 2020-01-28T09:26:00Z
@@ -152,6 +139,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "QtM5475XDZybmshDTB5VTwseX9LqkmmlB3TRlDLdvD+85h4zB1NdjzOh+Erdr1hY9Eu7eKKnbPk7sc59cSVD6p4xmmfjhS1J9+Z0bhhOSZO/IlFRplMwEvu0qUKz+yGMSSx163WU9FsxhfkMbU/PHP9O3kO77Mp/L7Pp0vCV/caHjDIoI/cEMJLFfcxCEy/wxifs7iNl5R/45F1o4EkjuTFQbWrBpk53bQ3jnuEO2v2LgYhGyEPyr/JJNX1qrNEiY7cUYfLlkhpGAogZpUXI6VqchPmTAveWuuWedai//i2y6goLwcUq54oYN0miyNzJ;pDiiSzfzAtI1iK+7YH7GcA=="
+secured: "4ZhPxmsxN3r6+QxlSqE/lwxk7v3JlLQaGF1jXBaSpsla+abqG4U97qi/FdsUURsc9r18O6bPko5oVtJJDawnWvJ0RB7RlH2J2qTm91ibjuqBHeO84DA+CmnyuXXtLb2lQjr1MgYJzqBdgpboAH/23U/GL0K0i0ojL0bmgxFGPNGvQqpUKf7bGzFzU1pcSjRQMcj+QJ4/2vXZBOksn/I+jX8AVxbqE3lLQKb14gY03MfdIpNrHsVYm6p8IsjjzPZWM2Flz886G1Fd3ctayYbaznQt3bFZ9c7ZL2T7z7OVr12TamfuVuBWxLFeYkwnktpV;nB/pOGcDQngJrUeqRU+Cpg=="
 ---
 

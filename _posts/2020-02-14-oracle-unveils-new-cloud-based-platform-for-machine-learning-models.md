@@ -51,6 +51,19 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/223953_web.jpg"
         width: 720
         height: 652
+  - title: "Machine learning for active matter"
+    excerpt: "The availability of large datasets has boosted the application of machine learning in many fields and is now starting to shape active-matter research as well. Machine learning techniques have already been successfully applied to active-matter data—for example, deep neural networks to analyse images and track objects, and recurrent nets and ..."
+    publishedDateTime: 2020-02-16T13:17:00Z
+    webUrl: "https://www.nature.com/articles/s42256-020-0146-9"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-0146-9/MediaObjects/42256_2020_146_Fig1_HTML.png"
+        width: 685
+        height: 478
   - title: "Splice Machine Wins SBIR Phase 1 Award from the United States Air Force to Modernize Application for Air Force Mission Planning"
     excerpt: "Splice Machine enables enterprises to unify analytics and machine learning that used to be on separate platforms to be native to the application thereby reducing ETL latency and infrastructure costs. The Splice Machine data platform can be deployed on-premise or as a fully-managed cloud service. Splice Machine is a trademark of Splice Machine ..."
     publishedDateTime: 2020-02-12T00:58:00Z

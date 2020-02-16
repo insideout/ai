@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence for machine tool maintenance"
-excerpt: "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ..."
-publishedDateTime: 2020-02-12T15:39:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-02/kift-aif021120.php"
+title: "Machine learning for active matter"
+excerpt: "The availability of large datasets has boosted the application of machine learning in many fields and is now starting to shape active-matter research as well. Machine learning techniques have already been successfully applied to active-matter data—for example, deep neural networks to analyse images and track objects, and recurrent nets and ..."
+publishedDateTime: 2020-02-16T13:17:00Z
+webUrl: "https://www.nature.com/articles/s42256-020-0146-9"
 type: article
-quality: 52
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Nature
+  domain: nature.com
 
 topics:
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://eurekalert.org/multimedia/pub/web/223953_web.jpg"
-    width: 720
-    height: 652
-    title: "Artificial intelligence for machine tool maintenance"
+  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-0146-9/MediaObjects/42256_2020_146_Fig1_HTML.png"
+    width: 685
+    height: 478
+    title: "Machine learning for active matter"
 
 related:
   - title: "Artificial intelligence for machine tool maintenance"
@@ -32,6 +33,19 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 54
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/223953_web.jpg"
+        width: 720
+        height: 652
+  - title: "Artificial intelligence for machine tool maintenance"
+    excerpt: "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ..."
+    publishedDateTime: 2020-02-12T15:39:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-02/kift-aif021120.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 52
     images:
       - url: "https://eurekalert.org/multimedia/pub/web/223953_web.jpg"
         width: 720
@@ -49,19 +63,6 @@ related:
       - url: "https://adtmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/RailroadTracksClouds.jpg"
         width: 647
         height: 450
-  - title: "Machine learning for active matter"
-    excerpt: "The availability of large datasets has boosted the application of machine learning in many fields and is now starting to shape active-matter research as well. Machine learning techniques have already been successfully applied to active-matter data—for example, deep neural networks to analyse images and track objects, and recurrent nets and ..."
-    publishedDateTime: 2020-02-16T13:17:00Z
-    webUrl: "https://www.nature.com/articles/s42256-020-0146-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-0146-9/MediaObjects/42256_2020_146_Fig1_HTML.png"
-        width: 685
-        height: 478
   - title: "Splice Machine Wins SBIR Phase 1 Award from the United States Air Force to Modernize Application for Air Force Mission Planning"
     excerpt: "Splice Machine enables enterprises to unify analytics and machine learning that used to be on separate platforms to be native to the application thereby reducing ETL latency and infrastructure costs. The Splice Machine data platform can be deployed on-premise or as a fully-managed cloud service. Splice Machine is a trademark of Splice Machine ..."
     publishedDateTime: 2020-02-12T00:58:00Z
@@ -76,6 +77,6 @@ related:
         width: 400
         height: 209
 
-secured: "AgI95t0+abVgNW1cRXzNktpAsg/vOB5R69TNnoMGRDbg3/fgUuDMIa/xAN/S3JMCDw5LEcAV8Zx/E6+SkWkgq9WG9WoMgm1YS+B00WPG89WDvdtNbST/JtkpQv422cnN0pbCKXwPfGg7YHIEXzr2Byl6GurrHl5JqqMFW9FN0x2RtJ2GJoytUWAX+IvK7zpDpRCHStT/x71G1Rf/HmGF+3NvQneskIigAl5XWFCBh/Ala6v+2Oe6AZkBl2UR274pMHkXV6n/a/wHsNyv37ie5PjARbtJc1vfHgjitHtiUrs7kt5guSxt15O732EX3krBQg0PmEdCKIo/A7RAv+vyi30VdsrZS8AsUfSLZJz844VJX7ynHqKk8BnxOn4kGIBVfMZHVHHmLzYN+NEvBhky5P+VHq3cQzY7v2Ly6jcSbt0frJl3c9bKkNnMqoVLFoi9EKGCVai3x6Dp+B7Cywa/b8OoFW1PG8oMGUEUrW8PHds=;RWkJpw6FieNdnZVIRm3xTg=="
+secured: "qW8BxWc4AKWO7di7FNdgNF2WFfnHKHQnXiaX2qrWRw29MVOF0vty07ILFwC+v2GkApqeUVh66RXMb4KWX0sIhHgsUsYnQBpm4sj3IsE8YS5980e6xSHUpb+iL+PrMHMXf2KntGY51bXLe9HlTmTX0B9hFaVgv1YYKsWnsky4An22m8/Y5eHC1yEonMW61T+ooFDZHMkf+p0EldbWDrwxAbD6KvLAhzwXl+9dT/kUTqedet01UaXT8VEqiOkG20iIZsjUz8Vxlrj0jUo/4GrRxwH9Hoj6I6JJ6vLwlFeuq/60Hw/gdHG/+MSd35peTXHD;qGysmPM3kwqxVaV+2RwSEQ=="
 ---
 

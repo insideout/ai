@@ -49,6 +49,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "ChxbTCAc5IsN3M9CAivH8LO78xH+tSRgPUC+6CFJo/ZwLa1i6gMtsQm92zet8Hmfsvvl0CGGKBslRo3WeEJ8/G2yYSOpO04It74DKwVneXNokPxkLnIRZXUx6VXZsnOAH+Yl+a9J381/BMlmonddUzFEK7nc3p6p1/XnUK9WMjbabMHOD8XlmyhG8+536Ehdh1DX3UAsur1mpuw2VPKzEPb0oPSIcBDTEyXI3rKGWenxDytGpLlgrbo1jpmISgupulqzKqitWoq+hc/6qVM4jMNCDW/Pjm9nOOzPnwhciWGlY2HsSxFMsYwYJGQcuVd0;bno8AaqQhU5gQUObLNSAog=="
+secured: "g7XTvLFZDbDJ/DhxJ8957dNn7Si4YqMjwbZKeki0z014ilaGa0D+i6O1TEllyxb3nqvEuDh8Lx7PovIKn/Q2ROrUZkPPWXrI0Nux3HoSD6t0SF1aPfzdusWE8y61eEDTMqIB9iZOPhL9fxh5Q+uu7KZ9rZDW40uTvGl76qk4iR1cL+TI6+F/S65quTo2RGUpPIXdJZJcO93cwMySkqsyvNAP27aV/vjknGCR04YEUtIoCL3S70mB/PAzlaOPclg+dldkN5pK0PRWltnwhBwxYeBwP5VNFGGqGrFfkT9qSmX8GwvYb3WShRgJmj8u2nu6;hkSopqOOgpLpF/ekcukrag=="
 ---
 

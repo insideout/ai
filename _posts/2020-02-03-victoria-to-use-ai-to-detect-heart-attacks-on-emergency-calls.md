@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/"
 type: article
 quality: 187
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 2048
     height: 1536
     title: "Victoria to use AI to detect heart attacks on emergency calls"
-
-related:
-  - title: "Groundbreaking artificial intelligence technology will be able to detect cardiac distress over the phone"
-    excerpt: "Groundbreaking artificial intelligence technology being developed for Ambulance Victoria is designed to pick up on key symptoms and immediately identify a potential heart attack. The $1.36 million Artificial Intelligence in Cardiac Arrest system will run in the background of incoming emergency calls to detect key words, language and sound ..."
-    publishedDateTime: 2020-02-01T21:06:00Z
-    webUrl: "https://www.heraldsun.com.au/news/victoria/groundbreaking-artificial-intelligence-technology-will-be-able-to-detect-cardiac-distress-over-the-phone/news-story/f33a93b8a23142c4fdaa4100f2457e16"
-    ampWebUrl: "https://amp.heraldsun.com.au/news/victoria/groundbreaking-artificial-intelligence-technology-will-be-able-to-detect-cardiac-distress-over-the-phone/news-story/f33a93b8a23142c4fdaa4100f2457e16"
-    cdnAmpWebUrl: "https://amp-heraldsun-com-au.cdn.ampproject.org/c/s/amp.heraldsun.com.au/news/victoria/groundbreaking-artificial-intelligence-technology-will-be-able-to-detect-cardiac-distress-over-the-phone/news-story/f33a93b8a23142c4fdaa4100f2457e16"
-    type: article
-    provider:
-      name: heraldsun.com.au
-      domain: heraldsun.com.au
-    quality: 22
 
 secured: "f09NNVvSxRvxDPCnmLs2oQD8RcmN8VR4hLquFD2QAjv+hJmHHqIDuHtCaFIwi43DbNAG9JVoiXVGsY7Mi2yCLIyGL7rySv56clnRKIYtNbJdsAAkDcuS5aC5WEobVqymr+lPvRECtTg7CFGD44uR5PAY45hFEkLaVcBN0lOWu91/AsUd7fJsprKCoUCJS/D8gZAufr86yggSa+2LV3vOZKjsA15nOW8Yw7XqHZuAMNjGNXbDqhXNw3MGXCqFX7e3alLmw2yMo1dGUSPOgA8Pc7xIbAtly+N0KgjzKHrsMus813X8Ke6Cva7jUSAe3NqcR2FBGuGoWorGsqZMNqmah0AcuNVgLlUlj96YUrXba9LHefydzz5kFk1+3XrIVoRSmjnVm2LpOEIJtC3R8z3cd9HMLv5GQYX5IKKfCIgbILyqKT1QzAFooDbHwooXQeJjdrK7WjNgvvJiw5VEkLR/eid7pzaYauDgb2mL/s3P03/5e6t5nHqVsjCN70kHGWYZ;7URXy0C2/ffMw0vq+1H1Qg=="
 ---
