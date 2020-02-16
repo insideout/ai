@@ -27,6 +27,6 @@ images:
     height: 880
     title: "A look at what’s coming in TensorFlow 2.0"
 
-secured: "Ok5Ko3g5jb5U7xAmXz25q0F/I9Rn8h9VU4uMNUJXWTy3UPoMuZsrq192JipOlZuWt8PZcXGUKI8eQ5zu6yTktAckG+PCWZi6ioDYPOSRXrwqnjWrNaz0ZRuNufLMa4KyfvD23VsQq5aVn5H/k2h3PLJnBg3+I236SSRifw4HW+l+yyovuNdlgSmkc4bHrTSGIW9Vk1xrYdhzqysa9ViaWjXL9uFdQXm+JzcRpCLcWwNR/UAKJExegCVOduk0qrjmvaLGLCSaOoCEHo7gD7PtxTV13oqguLAMhxIQ+cfjt2uVvPWPUT+rnRUnsJapoegI;cns33EQ+MoXOD5QR5q2DfQ=="
+secured: "JjV8zMUCyhfhDiw2Z8PRJVpdvkedBU1am9IHMDpSDJpnbX1kh9d1bJQ8zd9WysdF/blwtcHwIE57p1XBgYmhWpjkLjGFVYGHVWUybNjSN2hVAe1Y+3rSNB480Ab49JM5Qv9HvmFj4equtL8oJN1G0VlNSs6tho4EQwYHidnKLyPfFMwBZUZW6xNprn60OcAEl3y756pZR1APYWGSMPw6TOLormx3k2tk1iTA4V+yXj/dLCfz8irwTtWVacZ56GqEcRzn3FprxDKGWE9//fhysQ+Wk3KBbUQLeXoK0vG01M2XrUF9zLva2eTQt/E7DvnF;lhExsaFP55h6G1FeBzwY1g=="
 ---
 

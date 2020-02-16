@@ -559,6 +559,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-16-researchers-describe-a-brainy-approach-to-leverage-noise-for-better-neural-networks.md",
+      "title": "Researchers Describe a Brainy Approach to Leverage Noise For Better Neural Networks",
+      "excerpt": "Those who design deep neural networks for artificial intelligence often find inspiration in the human brain. One of the brain’s more important characteristics is that it is a “noisy” system: not every neuron contains perfect information that gets carried across a synapse with perfect clarity. Sometimes partial or conflicting information ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.noozhawk.com/article/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "ampWebUrl": "https://www.noozhawk.com/amp/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "cdnAmpWebUrl": "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "publishedDateTime": "2020-02-16T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Noozhawk",
+        "domain": "noozhawk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.noozhawk.com/images/made/images/uploads/021520-seaurchins-630_426_320_s.jpg",
+          "width": 426,
+          "height": 320,
+          "title": "Researchers Describe a Brainy Approach to Leverage Noise For Better Neural Networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/_archive/2013-07-04-from-chess-to-ping-pong-how-pegasystems-is-capturing-the-fortune-500.md",
       "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
       "excerpt": "And Cisco is using the technology to centralise its business processes in a company-wide rules engine that will help it respond ... and refine and develop them until they meet the needs of the ...",
@@ -2034,51 +2071,6 @@
           "width": 1000,
           "height": 500,
           "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-28-whats-in-a-name-the-deep-learning-debate.md",
-      "title": "What’s in a name? The ‘deep learning’ debate",
-      "excerpt": "The history of the term deep learning shows that the use of it has been opportunistic at times but has had little to do in the way of advancing the science of artificial intelligence. Hence ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/whats-in-a-name-the-deep-learning-debate/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/",
-      "publishedDateTime": "2019-12-28T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2019/12/28/50dde239-b04b-4b84-91b3-b811dff91a53/bengio-and-marcus.png",
-          "width": 1177,
-          "height": 621,
-          "title": "What’s in a name? The ‘deep learning’ debate",
           "attribution": null
         }
       ],
