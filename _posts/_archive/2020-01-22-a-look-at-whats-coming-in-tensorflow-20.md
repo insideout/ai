@@ -5,8 +5,8 @@ excerpt: "Leading up to the release of TensorFlow 2.0, the team behind the libra
 publishedDateTime: 2020-01-22T00:00:00Z
 webUrl: "https://sdtimes.com/ai/a-look-at-whats-coming-in-tensorflow-2-0/"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://sdtimes.com/wp-content/uploads/2019/01/0_fJ5u2WE51Oz44dr_.png"
-    width: 1586
-    height: 880
-    title: "A look at what’s coming in TensorFlow 2.0"
-
-secured: "3PQ0NgF6v8X0d/DfedRlyNfVghehIQ3LkHq6QQrcKEoRApcvYrQAQP2ZSO+OQma7aV57WELIqHjQupDBP3RNE6Bn+4jSzErgOLSFDZ146aPK4/DqYQ7N3vPtc1B041poPMgee+zmW8Vrm6vXUtbdstFBTWcSKKfsQxqJm9LLT8QlQR+Dkq/YnGRqbw88dCmpp4vh1slOqwx6FwlPa3VnwptqDFvmQS/ZSsvuo9B7Lr+DkmPHLepQ5l7FQXaH1BjcWbNtnymE/CNOrSgxseTVunQP2lan0fnz+HQRHRu1y4RPnwj832urNlPCI3AobQcT;gSujIUShHRt8L5+7LVzBrQ=="
+secured: "cnWUZHlcfkndNGXLzP/GLcYjq9qPoZopayQj22ivmCB6RQZPPFpO08JhJaqrjP0M6NKf+8T9waMpV6ol5w8xugRW8cyzdLNZTS+7CSW3v37u0wRSFcHmQeCKAmiOCmQGnvp0VWWcJaO8/bmOskX/7sBCqhl22aM9dJ2vupaLtKGLotnvNSZvTgtChgycqS1hppIk/IuJtgwB4DONqJaVFnwIW2CZwYG9wTpipLUsie7KsT+MhdKP7qOkkidFHJvlVaI+EvG3+OwvjoGUGhhDPE3q5G6rD+TumJRaGacakFWQ061bKNq4PV5NrzZx80Ys;BlbCu679mOqJ5Hc93De8tw=="
 ---
 

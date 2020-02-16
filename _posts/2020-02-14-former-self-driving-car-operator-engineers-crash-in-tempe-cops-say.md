@@ -189,6 +189,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 19
+  - title: "Insight: How to make an ethical self-driving car"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-16T09:31:00Z
+    webUrl: "https://www.pressherald.com/2020/02/16/insight-how-to-make-an-ethical-self-driving-car/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 4
   - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
     excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."
     publishedDateTime: 2020-02-11T13:56:00Z

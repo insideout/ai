@@ -2,454 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-27-bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home.md",
-      "title": "Bzigo Uses AI And Lasers To Locate Mosquitoes In Your Home",
-      "excerpt": "It can detect mosquitoes within seconds of when they enter a room, at a distance of up to 8 meters (26 feet), even in the dark. Once detected, the system trains a laser pointer on the bug and sends a smartphone notification to the system owner.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/01/27/bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home/",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/01/27/bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/01/27/bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home/amp/",
-      "publishedDateTime": "2020-01-27T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f20f18b6cf300071d10bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Bzigo Uses AI And Lasers To Locate Mosquitoes In Your Home",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027.md",
-      "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27-7197455",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-deep-learning-market-size-worth-us-564272-mn-by-2026.md",
-      "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
-      "excerpt": "LOS ANGELES, Jan. 27, 2020 (GLOBE NEWSWIRE) -- The global deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026 and reach the market value of over US$ 56,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-worth-us-564272-mn-by-2026-2020-01-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020.md",
-      "title": "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020",
-      "excerpt": "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure.",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-26T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-fueling-intelligent-energy-with-iot.md",
-      "title": "Fueling intelligent energy with IoT",
-      "excerpt": "At Microsoft, building a future that we can all thrive in is at the center of everything we do. On January 16, as part of the announcement that Microsoft will be carbon negative by 2030, we discussed how advances in human prosperity, as measured by GDP growth, are inextricably tied to the use of energy.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T00:00:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e97a92db-78b6-4875-bc47-04160885964b.png",
-          "width": 837,
-          "height": 593,
-          "title": "Fueling intelligent energy with IoT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-in-detroit.md",
-      "title": "General Motors to build Cruise Origin electric self-driving shuttle in Detroit",
-      "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit",
-      "ampWebUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
-      "publishedDateTime": "2020-01-27T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "General Motors to build Cruise Origin electric self-driving shuttle in Detroit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-googles-ai-proves-better-at-detecting-breast-cancer-than-doctors.md",
-      "title": "Google's AI Proves Better at Detecting Breast Cancer Than Doctors",
-      "excerpt": "In a Google-funded study, a team of independent researchers from various hospitals and universities, researchers from Google Health, and engineers from DeepMind (a Google-owned UK-based AI company) compared analyses of nearly 29,000 mammograms from UK and U.S.-sourced datasets. The study reports that they found 9.7% and 2.7% reductions in false ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871",
-      "ampWebUrl": "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp",
-      "publishedDateTime": "2020-01-27T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--_hVs12nR--/c_scale,f_auto,fl_progressive,q_80,w_800/qekkgajclhpxym2z6td1.png",
-          "width": 800,
-          "height": 448,
-          "title": "Google's AI Proves Better at Detecting Breast Cancer Than Doctors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-gravyty-raises-21-million-for-ai-fundraising-platform.md",
-      "title": "Gravyty raises $21 million for AI fundraising platform",
-      "excerpt": "To help bolster their efforts, Adam Martel and Rich Palmer founded Gravyty in 2016, a Newton, Massachusetts-based startup leveraging AI and machine learning to help nonprofits reach their fundraising goals. In a vote of confidence this week in the startup’s efforts, investment firm K1 Investment Management announced a $21 million investment ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/",
-      "publishedDateTime": "2020-01-27T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/stewardship-mac2.png?fit=1200%2C697&strip=all",
-          "width": 1200,
-          "height": 697,
-          "title": "Gravyty raises $21 million for AI fundraising platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-how-artificial-intelligence-and-machine-learning-produced-robots-we-can-talk-to.md",
-      "title": "How artificial intelligence and machine learning produced robots we can talk to",
-      "excerpt": "You have probably already talked to a robot without even knowing it. But what are chatbots and how do they work? Business Insider explores this growing market.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chatbots-talking-ai-robot-chat-machine",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5dfcd92d855cc25a74213a12?width=1200&format=jpeg",
-          "width": 650,
-          "height": 325,
-          "title": "How artificial intelligence and machine learning produced robots we can talk to",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-ibm-uses-ai-to-predict-progress-of-huntingtons-disease-symptoms.md",
-      "title": "IBM uses AI to predict progress of Huntington's disease symptoms",
-      "excerpt": "It could help with patient care and, hopefully, treatment. IBM is using its AI-based health prediction skills to help tackle the challenge of Huntington's disease. The tech firm has teamed up with CHDI Foundation on an artificial intelligence model that can predict when patients will experience Huntington's symptoms and, crucially, determine ...",
-      "heat": 217,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/",
-      "publishedDateTime": "2020-01-27T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5650%252C3993%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1131%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252Fbb8db680-412a-11ea-af7c-8cd9ae0fdc0c%26client%3Da1acac3e1b3290917d92%26signature%3Dc206e2ec62c0d6552fd703fc0d803d344403e1cb&client=amp-blogside-v2&signature=6f5b99c9084bd61fc8e4b93c1e3b30dbf4c3f5dd",
-          "width": 600,
-          "height": 350,
-          "title": "IBM uses AI to predict progress of Huntington's disease symptoms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-iguazio-raises-24-million-for-ai-development-and-management-tools.md",
       "title": "Iguazio raises $24 million for AI development and management tools",
       "excerpt": "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides.",
@@ -845,51 +397,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
-      "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-      "excerpt": "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ...",
-      "heat": 191,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "publishedDateTime": "2020-01-27T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png",
-          "width": 1200,
-          "height": 763,
-          "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-this-entrepreneur-is-helping-smbs-embrace-technology.md",
       "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
       "excerpt": "“We are an expert Azure managed services partner, driving the cloud transformation for over ... analysis services, artificial intelligence, bots and machine learning,” Richard said. Founded in 2012, G7CR Technologies counts brands such as Alibaba.com, Amazon, Digicert, Microsoft and Softlayer as its global technology partners.",
@@ -1102,51 +609,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-3-chinese-stocks-poised-to-benefit-from-the-phase-one-trade-deal.md",
-      "title": "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal",
-      "excerpt": "Also helping Baidu's stock in 2020 is wins in the artificial intelligence market and progress with its efforts related to self-driving vehicles. Shares of Baidu got a good boost on news of phase one of the trade deal but since then have slumped. Year-to-date, the stock is down 2%, which could present a buying opportunity. Wall Street has a $144 ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx",
-      "publishedDateTime": "2020-01-28T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554783%2Ftrade-war-stocks-mf.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -2156,6 +1618,499 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-miso-robotics-unveils-its-next-gen-robot-kitchen-assistant.md",
+      "title": "Miso Robotics unveils its next-gen robot kitchen assistant",
+      "excerpt": "This might seem like cause for alarm, but Miso Robotics, a startup developing automation products for fast-food and quick-service ... On the software side, it benefits from improvements to Miso AI (Miso’s eponymous cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken ...",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/amp/",
+      "publishedDateTime": "2020-01-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Miso Robotics unveils its next-gen robot kitchen assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-new-ai-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.md",
+      "title": "New AI tool predicts disease progression and evolution in neurodegenerative disorders",
+      "excerpt": "Researchers at the Montreal Neurological Institute, Canada have found that testing blood using an artificial intelligence (AI) algorithm successfully predicted disease progression in neurodegenerative disorders, as well as identifying underlying molecular pathways that were predictive of disease evolution. The findings have important ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx",
+      "publishedDateTime": "2020-01-28T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1181851309_9d7d8e56f4574ebfaffa83f8825898fa-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New AI tool predicts disease progression and evolution in neurodegenerative disorders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-new-dog-in-town-a-k9-robot-for-construction-and-more.md",
+      "title": "New dog in town? A K9 robot for construction and more",
+      "excerpt": "\"What we wanted to do was find a way of bringing intelligence into the real world, so [we're] aiming to build a robotics body for the artificial intelligence revolution that we've all seen coming,\" said Dr. Charles Galambos, CTO and co-founder at React Robotics. \"DogBot is about opening the way to robots that really understand the world and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/new-dog-in-town-a-k9-robot-for-construction-and-more/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/",
+      "publishedDateTime": "2020-01-28T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/28/bc6eb458-84b2-472e-a0d2-0d9ce8088096/dogbot.jpg",
+          "width": 3936,
+          "height": 2624,
+          "title": "New dog in town? A K9 robot for construction and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence.md",
+      "title": "Pope meets with Microsoft and IBM to push for ethics in Artificial Intelligence",
+      "excerpt": "A year ago in the Vatican, the pope met with Brad Smith, president of Microsoft. Both believe Artificial Intelligence research should be based on firm ethical foundations. As a result, they will meet again at the end of February to sign the “Call for Ethics.” John Kelly III, executive vice-president of IBM, will also participate.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.romereports.com/en/2020/01/28/pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence/",
+      "ampWebUrl": "https://www.romereports.com/en/amp/2020/01/28/pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-romereports-com.cdn.ampproject.org/c/s/www.romereports.com/en/amp/2020/01/28/pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence/",
+      "publishedDateTime": "2020-01-28T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ROME REPORTS",
+        "domain": "romereports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.romereports.com/media/cache/small/images/captura2020-01-03-13h26m09s335.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Pope meets with Microsoft and IBM to push for ethics in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai.md",
+      "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
+      "excerpt": "They make use of a mish-mash of technology such as \"AutoML,\" of varying sophistication and quality. The Reality Engines offering goes up a level above simple program functions like those to more substantial corporate applications. They include such apps as how to optimize a company's spend on cloud computing services fees; financial metrics ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
+      "publishedDateTime": "2020-01-28T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/28/c09d9ffd-7104-467f-a7bd-207a377162ca/crop/2114x1588+89+0/df2670fd400eaf01050ef3a769fc3c10/reality-engines-dagan-training-outline-jan-2020.png",
+          "width": 2114,
+          "height": 1588,
+          "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-realityengines-launches-its-autonomous-ai-service.md",
+      "title": "RealityEngines launches its autonomous AI service",
+      "excerpt": "RealityEngines.AI, an AI and machine learning startup founded by a number of former Google executives and engineers, is coming out of stealth today and announcing its first set of products. When the company first announced its $5.25 million seed round last year, CEO Bindu Reddy wasn’t quite ready to disclose RealityEngines’ mission beyond ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/realityengines-launches-its-autonomous-ai-service/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/realityengines-launches-its-autonomous-ai-service/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/realityengines-launches-its-autonomous-ai-service/amp/",
+      "publishedDateTime": "2020-01-28T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Model-Workflow.png?w=705",
+          "width": 705,
+          "height": 565,
+          "title": "RealityEngines launches its autonomous AI service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-replace-punxsutawney-phil-with-robot-animal-rights-group-says.md",
+      "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+      "excerpt": "People for the Ethical Treatment of Animals are advocating a radical change in how Groundhog Day is celebrated.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "ampWebUrl": "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "publishedDateTime": "2020-01-28T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22920172/20200128/033110/styles/patch_image/public/phil2-getty___28150658187.jpg?width=984",
+          "width": 897,
+          "height": 673,
+          "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware.md",
+      "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
+      "excerpt": "\"The way we look at it is as an expert system,\" says Mukkamala, using a traditional term from the AI literature for software programs that include a great deal of domain expertise. \"What are my signals?\" he asks, rhetorically. \"First, a strong signal would be end-point vendors detecting it and blocking it, a second is Microsoft paying attention ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "publishedDateTime": "2020-01-28T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/9c16f4ed-c84d-4107-98b1-bd33cfbcd800/risksense-ransomware-dashboard-jan-2020.png",
+          "width": 2424,
+          "height": 1735,
+          "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-securitiai-scores-50m-series-b-to-modernize-data-governance.md",
+      "title": "Securiti.ai scores $50M Series B to modernize data governance",
+      "excerpt": "Securiti.ai, a San Jose startup, is working to bring a modern twist to data governance and security. Today the company announced a $50 million Series B led by General Catalyst with participation from Mayfield. The company, which only launched in 2018, reports it has already raised $81 million. What is attracting all of this investment in such a ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/",
+      "publishedDateTime": "2020-01-28T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/PrivacyOps-Center.jpg?w=680",
+          "width": 680,
+          "height": 564,
+          "title": "Securiti.ai scores $50M Series B to modernize data governance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-servicenow-acquires-conversational-ai-startup-passage-ai.md",
+      "title": "ServiceNow acquires conversational AI startup Passage AI",
+      "excerpt": "ServiceNow announced this morning that it has acquired Passage AI, a startup that helps customers build chatbots, something that should come in handy as ServiceNow continues to modernize its digital service platform. The companies did not share terms of the deal. With Passage AI, ServiceNow gets a bushel of AI talent, which in itself has value ...",
+      "heat": 247,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/",
+      "publishedDateTime": "2020-01-28T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1156805372.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "ServiceNow acquires conversational AI startup Passage AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-servicenow-to-acquire-small-conversational-ai-startup-in-mountain-view.md",
+      "title": "ServiceNow to acquire small conversational AI startup in Mountain View",
+      "excerpt": "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html",
+      "publishedDateTime": "2020-01-28T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/10466072/servicenowhq*600xx1080-720-100-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "ServiceNow to acquire small conversational AI startup in Mountain View",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-this-chicago-software-firm-hired-300-people-last-year-it-just-raised-100-million-and-plans-to-hire-more.md",
+      "title": "This Chicago software firm hired 300 people last year. It just raised $100 million and plans to hire more.",
+      "excerpt": "Software firm ActiveCampaign raised $100 million in venture capital funding and plans to continue a hiring spree that added 300 people in the past year. “We’re not slowing down,” said CEO and founder Jason VandeBoom. The Chicago company makes software for targeted marketing and managing customer data. Demand for those types of tools is ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html",
+      "ampWebUrl": "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp",
+      "publishedDateTime": "2020-01-28T03:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/pLXUUaKhyPqMSfI_wcdjQdC9An8=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/YP7LCJEF7JBGNGKYYZ5CZAMOLY.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": "This Chicago software firm hired 300 people last year. It just raised $100 million and plans to hire more.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

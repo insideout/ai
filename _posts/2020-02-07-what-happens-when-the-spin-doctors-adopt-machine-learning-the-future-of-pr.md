@@ -44,6 +44,19 @@ related:
       - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
         width: 1200
         height: 799
+  - title: "DeepMind, artificial intelligence and the future of the NHS"
+    excerpt: "One morning a few weeks ago Stephen Foot, a warehouseman from Enfield, woke up in a London hospital to discover the unlikely harbinger of a coming medical revolution. This Ghost of Healthcare to ..."
+    publishedDateTime: 2020-02-14T00:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-artificial-intelligence-and-the-future-of-the-nhs-r8c28v3j6?ref=patrick.net"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F567205e8-d3b7-11e9-aa6d-16cb9f989e55.jpg?crop=6194%2C3484%2C0%2C323&resize=685"
+        width: 685
+        height: 385
   - title: "Making Kynisys: how we're building the future of AI"
     excerpt: "The company is world-renowned for its GPU IP and more recently neural network accelerators and ray tracing and I ... After the initial learning-shock, I started to see how edge AI and inference on the edge is most likely going to be the future. The benefits of edge AI are about to make the world smarter: it provides speed, efficient data ..."
     publishedDateTime: 2020-02-05T07:08:00Z

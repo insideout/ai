@@ -24,96 +24,6 @@ images:
     title: "The rise of facial recognition technology: best practices to maximize effectiveness and minimize liability risk"
 
 related:
-  - title: "Lightfoot urged to pull the plug on facial recognition technology"
-    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
-    publishedDateTime: 2020-02-04T11:33:00Z
-    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 59
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
-        width: 640
-        height: 480
-  - title: "Veridium brings facial recognition to all phones in password-less push"
-    excerpt: "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ..."
-    publishedDateTime: 2020-02-04T06:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
-        width: 2880
-        height: 1800
-  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
-    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
-    publishedDateTime: 2020-02-06T19:08:00Z
-    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
-    images:
-      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
-        width: 980
-        height: 551
-  - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
-    excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
-    publishedDateTime: 2020-02-09T07:00:00Z
-    webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 51
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
-        width: 1400
-        height: 1050
-  - title: "Springfield City Council: Moratorium on facial recognition will protect residents rights"
-    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council took second steps on the moratorium on facial recognition technology at Monday night’s meeting. Facial recognition technology has been discussed for months and has been a polarizing topic between the City Council and Mayor Domenic Sarno and the Springfield Police Department."
-    publishedDateTime: 2020-02-04T01:38:00Z
-    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/"
-    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
-    type: article
-    provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 50
-    images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-  - title: "Springfield Mayor Domenic Sarno vows veto if City Council bans police use of facial recognition technology"
-    excerpt: "SPRINGFIELD — Mayor Domenic J. Sarno said Monday he is poised with a veto if the City Council votes to block the Police Department from using facial recognition technology. Sarno said the technology, which is not used in Springfield yet, could someday aid in the arrest of criminals and enhance public safety. Citing the recent abduction of an ..."
-    publishedDateTime: 2020-02-03T19:05:00Z
-    webUrl: "https://www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 41
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
-        width: 2127
-        height: 2072
   - title: "Facial Recognition Technology Uses at Homeland Security Department"
     excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
     publishedDateTime: 2020-02-07T12:41:00Z
@@ -127,19 +37,19 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
-    excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
-    publishedDateTime: 2020-02-11T05:28:00Z
-    webUrl: "https://www.heraldscotland.com/news/18225186.police-warned-not-adopt-unjustifiable-live-facial-recognition-technology/"
+  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
+    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
+    publishedDateTime: 2020-02-04T11:26:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
     type: article
     provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
+      name: Finextra
+      domain: finextra.com
     quality: 36
     images:
-      - url: "https://www.heraldscotland.com/resources/images/10955630/"
-        width: 800
-        height: 600
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
   - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
     excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
     publishedDateTime: 2020-02-03T21:46:00Z
@@ -162,15 +72,32 @@ related:
       - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
         width: 640
         height: 461
-  - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
-    excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
-    publishedDateTime: 2020-02-11T09:23:00Z
-    webUrl: "https://www.dailyrecord.co.uk/news/politics/facial-recognition-technology-unfit-use-21469810"
+  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
+    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
+    publishedDateTime: 2020-02-12T15:40:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/herta-security-lauded-by-frost--sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-301003793.html"
     type: article
     provider:
-      name: dailyrecord
-      domain: dailyrecord.co.uk
-    quality: 16
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
+        width: 1500
+        height: 784
+  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
+    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
+    publishedDateTime: 2020-02-13T02:52:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/herta-security-lauded-by-frost-amp-sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-879892037.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
+        width: 1500
+        height: 784
 
 secured: "ZL7TkDoQ5AlU393QkWKkk4I/khNZ5S6paCcmcbZHpJI1vVZwTAhseuqpY1MJ5dOC4pP2QUY2KpgwLQ6pvFLDJQb0Mg+197c5jQcLPqf2/2dXSjvODyL0oIruHOzdwPdiiMEqAvI0c16ZfJGyB/cvx+9f9dm9oaFH/zgBsuhZW/mybkActLwwKaN9RmMU/wFO7Q6JemuhnYcVcasUlMEOh0KIBOGvm6b1QrzclA9w4/gXSGR5j31JhmKyBXO24QBEWMlbsJ/qYqniHnp0UFn++j4/lw1KpXeG+0CzdCYRCdkft9kHDtJyZKpGKzZxbGZm;5Yc1VW55Idq9rgnXpTtAgw=="
 ---

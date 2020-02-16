@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/uber-gets-green-light-to-test-s
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/"
 type: article
 quality: 89
-heat: 409
+heat: 399
 published: true
 
 provider:
@@ -159,21 +159,6 @@ related:
       - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
         width: 600
         height: 315
-  - title: "That California Story About A Daughter In The Backseat With A Sign Saying ‘Not My Mom’ Stirs Valuable Lessons For AI Self-Driving Cars"
-    excerpt: "The phrase “Not My Mom” created quite a commotion the other day. Here’s the 411 about it. A recent news story indicated that a girl in the backseat of a moving car displayed a hand-scrawled sign that said “Not My Mom,"
-    publishedDateTime: 2020-02-01T16:41:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F626535545%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5594%26cropY1%3D275%26cropY2%3D3421"
-        width: 1200
-        height: 675
   - title: "Uber cleared to restart self-driving car testing in California"
     excerpt: "Uber is the latest company that California has granted a permit to test self-driving vehicles — with a trained human driver still present. Reuters reports that California’s Department of Motor Vehicles issued Uber the permit on Wednesday, February 5. The permit was issued to Uber Advanced Technologies Group (ATG), which is tasked with ..."
     publishedDateTime: 2020-02-06T21:27:00Z

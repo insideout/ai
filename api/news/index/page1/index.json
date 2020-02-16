@@ -5,7 +5,7 @@
       "path": "_posts/2020-02-01-big-brother-facial-recognition-cameras-are-watching-you-more-than-ever-right-across-britain.md",
       "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
       "excerpt": "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ...",
-      "heat": 114,
+      "heat": 144,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
@@ -76,34 +76,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-01-hiding-in-plain-sight-activists-don-camouflage-to-beat-met-surveillance.md",
-      "title": "Hiding in plain sight: activists don camouflage to beat Met surveillance",
-      "excerpt": "Privacy campaigners bid to beat police facial recognition plans by wearing ‘dazzle’ makeup",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/world/2020/feb/01/privacy-campaigners-dazzle-camouflage-met-police-surveillance",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-01T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-01-how-artificial-intelligence-will-change-medicine.md",
       "title": "How Artificial Intelligence Will Change Medicine",
       "excerpt": "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ...",
@@ -138,51 +110,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-01-why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced.md",
-      "title": "Why we’re failing to regulate the most powerful tech we’ve ever faced",
-      "excerpt": "It’s clear the AI revolution will impact society drastically, both for good and bad. Recently, using natural-language processing and machine-learning techniques, Canadian company BluDot sifted through global news reports, airline data, and reports of animal disease outbreaks to issue an alert about the current Coronavirus outbreak ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/01/why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/01/why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/01/why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced/amp/",
-      "publishedDateTime": "2020-02-01T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=3840%2C2160&strip=all",
-          "width": 3840,
-          "height": 2160,
-          "title": "Why we’re failing to regulate the most powerful tech we’ve ever faced",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -400,6 +327,43 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-02-nypd-pushes-back-against-facial-recognition-ban.md",
+      "title": "NYPD pushes back against facial recognition ban",
+      "excerpt": "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ...",
+      "heat": 184,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/",
+      "ampWebUrl": "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/",
+      "publishedDateTime": "2020-02-01T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": "NYPD pushes back against facial recognition ban",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1137,7 +1101,7 @@
       "path": "_posts/2020-02-03-how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai.md",
       "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
       "excerpt": "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ...",
-      "heat": 99,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/",
@@ -2127,6 +2091,50 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-instagram-reportedly-generated-20-billion-in-ad-revenue-in-2019-even-more-than-youtube.md",
+      "title": "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube",
+      "excerpt": "We finally know just how crucial Instagram is to the future of Facebook's business.",
+      "heat": 163,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2?amp",
+      "publishedDateTime": "2020-02-04T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5bb331f7ae84ee103c1c2e22?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

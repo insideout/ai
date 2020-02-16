@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
-excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... and expenses to make sure companies are not paying for goods and services that fall outside company policies. Kale said the process is the ..."
+excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... not paying for goods and services that fall outside ..."
 publishedDateTime: 2020-01-21T17:20:00Z
 webUrl: "https://www.techrepublic.com/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 type: article
-quality: 67
-heat: 67
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png"
-    width: 1200
-    height: 907
-    title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
-
-secured: "IxRy63kTgozxpTmF11qcti84QA6UannSoaOiKEFU1Y0T4fZKZjp2s4xMRpvnyZThrsDOihWOe8JrNQfHUXdrE0NOopIhkdNVuNKLOwODids0cUCIHjbWLh+aknix0JZtatEhhzzAr+uq1cRRqfEUtE8Sbx/qMUDS+IV+vtH+c9C3QOIN2+uuyMHHuarn9V0SuCHKHqgI9z8qbKDG4vm0uCai9GRwZ80jLzRxRZl8k4orz2Fp9lfu+nKU8S3GGHm0D+uZdyciHhr+k3nMAjXMsqZ6H+9AiK/ZhFkuSVlL7uRPnBO24VgcMl8uyuRwzBwf;4bHQGX9ux3YUI1TnzsZuSw=="
+secured: "kzPj9JGYm+WV8OqXQp1EQ038DBZLbfREq/r6FBO3AL7oWJCIxdLFaqkZjAq6ZOt0d9JILjsvc6RY25uy1crrUhRi9kNZ2VJA3c5gjrT0rpjY/ML5hU8qPBLuJh9LTOspJLgwe7aLBszJc2ch2fJ6nd0L2HxCjx9yvtjpozniQGLCcK4VEy8O7nRLQI80zh4m6/0EIF5kvYIurhCHRFVZf3fPMPf4Toz0N6is7d7EtigkqHT5IvxfgZLVhlgm+/WmgDShedMP5+pZBxFgVdmbyadD6qsFdU8qF2FG2CXbxNUXRTW4ZlfGGZCw8lEZrmMbe17JEMKAnvJ/ZGy4PqECPh68BHZUPMfVNiZJlPHYaVt76b+NBR9m0tNBg+C4WvENjWLcnzYAXb96o6nuZxSTNrNzV+cScZlZptenTJiw4NfuM2K9ssxOTyQRNYM/HykHgakzX8AaE+iFV8uhEZicnLM0r+c2aOH9hXRhL5hmv3g=;/N+9MDUHYgEbKYnIVrMtAA=="
 ---
 

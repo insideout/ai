@@ -2,96 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-17-ab-inbev-taps-machine-learning-to-root-out-corruption.md",
-      "title": "AB InBev Taps Machine Learning to Root Out Corruption",
-      "excerpt": "The company that stands out for taking a data-driven approach to preventing bribery and corruption isn’t part of the tech sector. In fact, its product predates the wheel.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
-      "publishedDateTime": "2020-01-17T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-144949/social",
-          "width": 1280,
-          "height": 640,
-          "title": "AB InBev Taps Machine Learning to Root Out Corruption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025.md",
-      "title": "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025",
-      "excerpt": "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\".",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights.md",
       "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
       "excerpt": "One of the trends that came into sharp focus in 2019 was, ironically, a woeful lack of clarity around AI ethics. The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. The committees and groups, from every sort of organization ...",
@@ -680,51 +590,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-17-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
-      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "publishedDateTime": "2020-01-17T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
-          "width": 640,
-          "height": 358,
-          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-facial-recognition-scanners-are-coming-to-philadelphias-airport-starting-tuesday.md",
       "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
       "excerpt": "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ...",
@@ -841,51 +706,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
-      "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
-      "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
-      "publishedDateTime": "2020-01-17T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578",
-          "width": 3970,
-          "height": 2652,
-          "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -2133,6 +1953,185 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-the-secretive-company-that-might-end-privacy-as-we-know-it.md",
+      "title": "The Secretive Company That Might End Privacy as We Know It",
+      "excerpt": "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person, along with links to where ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
+      "publishedDateTime": "2020-01-18T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/26/business/19clearview/19clearview-facebookJumbo-v4.png",
+          "width": 1050,
+          "height": 549,
+          "title": "The Secretive Company That Might End Privacy as We Know It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-2020-the-year-of-artificial-intelligence-for-your-business.md",
+      "title": "2020: The Year Of Artificial Intelligence For Your Business",
+      "excerpt": "Close to 40% of businesses use artificial intelligence (AI). This number was estimated at 5% to 10%, but a survey by IBM showed that we grossly underestimated the scale of AI’s existence. Most importantly, this number is set to grow to 80% to 90% over the next 18-24 months. Furthermore, AI specialists are the number one job role for 2020.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/345112",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345112",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112",
+      "publishedDateTime": "2020-01-18T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "2020: The Year Of Artificial Intelligence For Your Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.md",
+      "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
+      "excerpt": "and monetize it,\" a KPMG China partner, Lyndon Fung, told CNBC's \"Street Signs\" on Thursday. He cited self-driving cars as an example of artificial intelligence technology that is poised to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
+      "publishedDateTime": "2020-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104227109-GettyImages-596727272.jpg?v=1529473923",
+          "width": 1024,
+          "height": 666,
+          "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-dive-into-ai-and-machine-learning-with-this-40-training.md",
+      "title": "Dive into AI and machine learning with this $40 training",
+      "excerpt": "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/",
+      "publishedDateTime": "2020-01-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa",
+          "width": 600,
+          "height": 350,
+          "title": "Dive into AI and machine learning with this $40 training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

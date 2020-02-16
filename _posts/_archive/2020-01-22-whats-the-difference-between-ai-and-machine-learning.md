@@ -5,8 +5,8 @@ excerpt: "Similarly, competitions like AWS DeepRacer and Kaggle’s Connect X ar
 publishedDateTime: 2020-01-22T00:00:00Z
 webUrl: "https://medium.com/datadriveninvestor/whats-the-difference-between-ai-and-machine-learning-94eb2454f176"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,21 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://miro.medium.com/max/696/0*-1cSv9E5CiJ2IA96"
-    width: 696
-    height: 328
-    title: "What’s the Difference Between AI and Machine Learning?"
+related:
+  - title: "The battle for ethical AI at the world’s biggest machine-learning conference"
+    excerpt: "But researchers are now realizing that they need to embed ethics into the formulation of their research and understand the potential harms of algorithmic injustice, says Meredith Whittaker, an AI ..."
+    publishedDateTime: 2020-01-24T18:08:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-00160-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 36
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00160-y/d41586-020-00160-y_17582428.jpg"
+        width: 1024
+        height: 576
 
-secured: "dk0+MoLCOacXd6DbQ7rUm9+ao/dg9MLIunUD11TPDY+XZiAIgRVLsLRVw/qs89bhX/IZ/ibYMtMs1AjaKPfaWtBEUFHbsvO/mkuwXlVb8mT8RLo7S3hNTv8Tzye2mEC1RqtntB486ZFLTIsyf3pl9aIAx3p+B1e3my7Nsqvo9C04Cz4D5I7q7cHRmzC6r01HYOFk8Ag6ArReA268Q7NQf3tPMqm8ObFzhEf/FZkDy/tuyMNuszSk1FNLV/e3DTtlTPAUmDpuxsezsKw5Ml/ssX4owgYpeXzu6Rd8+UdXFlDpSJ/DvjxXEXkzvcD7qiK4;4HNOMmFH0q+MgFmu2zWhnw=="
+secured: "czaYjSnPe2/+GrUhwg4bPvTAEWtDnstlCmbhMGX4XdtQ7aJINT79KDc9aEN/QsHJPHTSmMd1a6OkpZtvBXwTEPoh5aw+HkhR1FOqx30JRzDDPh+gI6R5YjUXX7xUYJRxGjTLW9bTnPamT15HnYIVdGG570C/FkkR5vqfmzxEvLDHG99J6Mon6dSEqL1JcNGGsOMIfs7dq8HZWUeiCHL62hrnNn9j9lw0sEcy4XxvirSAjtVKwObELrGjmMfnV1qMMdSHl0g77hCL3AiMdCp1thmyl3qgMW2230fLjQpLeA/M47dKu2HfXlo2GlmO/jFt;tr820mJqC7RiJse3bNesLg=="
 ---
 
