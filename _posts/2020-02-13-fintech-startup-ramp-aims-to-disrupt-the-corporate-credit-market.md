@@ -3,7 +3,7 @@ category: news
 title: "Fintech startup Ramp aims to disrupt the corporate credit market"
 excerpt: "Ramp investors include veteran fintech investor Keith Rabois of Founders Fund ... the first business hires from Plaid and Atrium, and engineers from Facebook AI Research, Google Research, Capital One, Goldman Sachs, Apple, and Lyft. \"Most companies in Silicon Valley are quite wasteful with their spending, however, without access to the ..."
 publishedDateTime: 2020-02-13T11:23:00Z
-webUrl: "https://www.finextra.com/newsarticle/35282/fintech-startup-ramp-aims-to-disrupt-the-corporate-credit-market?member=92212"
+webUrl: "https://www.finextra.com/newsarticle/35282/fintech-startup-ramp-aims-to-disrupt-the-corporate-credit-market"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 270
     title: "Fintech startup Ramp aims to disrupt the corporate credit market"
 
-secured: "/BPDJapW4ct1jEskFYCqK7/ceUu4I3u8urzWvb8d1rCA8O40i0yx/4QDrdOt4UoIBaLXMh3lyvjI4hA3DlV3nZC5BmCEfV+HG2k6mR2uSfhOBIVMhT7YSN1NwP72xiOzfX6OfE5b4s5tCArnYz1muVNrcRPgk7wxPQyMpwQ708Qqn0lDiSZhcW8dXIT8qmm+JgHq4q6JoRswPClz1L6f3PH21BEKVkYhLC8Pr7B/oMZtuFQMA51T0aggTmSAfHGUJZeB0K4G3g+CIWOnHdNOm+eJ2Pt1UMq+Q1E8uzJckCsXcwxqF8jUX4mePwqN+SCw;W22gJgSbam7v2kLWX0ZAgw=="
+secured: "BwiAo26aG71zEyYe7rjLXxtVJHKtHd9gUAH1Qvvif8jBz8wSrEuOIElrPTYDvAIXCDJb0htC2FdDJTF60fPfaz3LGa13tEQyKnMd5EmQ27yKYQg45RDgSlsRz/25nE8eHD50oX9MJ6iV8ceTC4U8FQKvZGOUYGYBXJSdADy1p9w0CF/43Ya7WbEQia0VMkZkbAOq/KIO0CMfliwg7FQ0iK4QhDVB+E2CYNZfHqmae4uaa8TGTVZIhOjuxyU7zM3t7BBn84BeFUXdeJq1YPO6UT1/UwDXzzUSaUwBBcvahLJttFPI4+pm1Q1iUg+XPDDR;c0HZStNQ5HisVTOgVdjN9Q=="
 ---
 

@@ -27,6 +27,6 @@ images:
     height: 585
     title: "Building Tensorflow from source. Step by step guide."
 
-secured: "N/2R8Zss+wZXgRdGiaY+5r2w7GNHO03D84aSyE+06/mY+JSFc5FqpmaiEC6Apbl7ncLxemwrriEBFRka00S9A6Z0Piht/yYb+m2H56pQq/4Wa6UFUkat3iZM7vjkNYjIAJkmEJNATGT7Q1QXh4u+b/iOXiMB0uLr3qhhCNBBRMrA/TdhYgUFLmOo5SPdgwQr0cK9o7Wd/TUnBLn1KROWKau9aIvpxa0283tfVzhOwNvbJCg/pqTMlaDHDOszQdRRSZ9PkOGFr6TjfszyJ/JZmr6FXlz72maGsMsyQlXoa0S+EoODN83WpjYpTTgrZmoa;8Im2ghfE60m/12YHYc6gmA=="
+secured: "6mhmjOuUmzqwJPmSDx3d+ftQZNpLlK85PkoD4iKVP0hVc04xu/gUk/xhIRXMZDF8+iN7oJP1VnDL/EQFOPOrOXa82Zjd3wxTbDvyvwQ3Yd+henR9KfLAjqGIqKa7sdoNIocy6dIZlWxlG1EUrBi044N1pq2dyUEQhNNO68nNeENOPoABE1EXFaZc9TTgoso+hmo1m3EwJpFfF5DKmfXojC8tRzOcnSVZsP39QL2VgUgkRKRpjAwB5t9wns0L3uqcYx5Mp8y+f8Vc+4vtCdfI/iYhuFpLC87v4cQUAoIWsfjsjhai+plm/j3pW3M6VJ2/;dIMBuugU0UczEekffGTajA=="
 ---
 
