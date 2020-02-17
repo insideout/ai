@@ -366,6 +366,19 @@ related:
       - url: "https://static.axios.com/img/axios-icon.png"
         width: 400
         height: 400
+  - title: "How EU is Dealing with the Facial Recognition Controversies and Debates?"
+    excerpt: "The controversies, debates, and discussions for facial recognition are taking the center stage in every tech-advanced region. Where some realizing its utility deploys it for social good, others consider it socially harmful at the same time. The wave of dialogues has even reached the European Parliament and the European Commission. According to ..."
+    publishedDateTime: 2020-02-17T14:25:00Z
+    webUrl: "https://www.analyticsinsight.net/how-eu-is-dealing-with-the-facial-recognition-controversies-and-debates/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 38
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/image.jpg"
+        width: 1116
+        height: 628
   - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
     excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
     publishedDateTime: 2020-02-07T12:48:00Z

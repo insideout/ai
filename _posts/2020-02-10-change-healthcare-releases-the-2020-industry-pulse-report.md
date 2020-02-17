@@ -39,6 +39,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/941446382/960x0.jpg?fit=scale"
         width: 711
         height: 474
+  - title: "Artificial Intelligence in Healthcare Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2029"
+    excerpt: "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of current Artificial Intelligence in Healthcare market size, drivers, trends, opportunities,"
+    publishedDateTime: 2020-02-17T11:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2029-2020-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "qA7AmHbx40N60KByblB/1Ta8gTc9qRj5gYMH0k4w8qb3iq0p2eLF9AxJlIWm/R43/mLG0kGZyurVurcvMCZJNDrBqzCE61uDBPw6H53S2At5iv9J4oHyX7J6ejeU8kgovu8GZrJ64bv+q3o2jgrtFnGcn3Z9BhFVQDP3iIHmsmRdtBjb2PIMunN5MXfR4bh/3QEg+8mT+u8XZmhK/ounPcUA5S7Er8dJhmGM6Nf10S0bdg5JQldwsMqCuftRmIkJLGXa0j7QQHayyUlvN9xn/BOiX+sSiykVI118468FFrSlYOmhcqGXOXEwryvT4YWjV+qaTvNWOj11d3W5gWtVs431LJc/arbqRJwbgvPu77otopR1sXEKM69GcAaRZxjl4yOZoPUEyC+oyCkaHalkJVc00WU9NL9IS580Zag3E7AoQwHO0qntaIZp/THHB/tm+pB/091PYbye1r45fLhtJgu9yWxBVod62AXSGPcFTeU=;YEOrHpzsk5nLjJ50VzMSag=="
 ---

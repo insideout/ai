@@ -353,6 +353,19 @@ related:
       - url: "https://static.axios.com/img/axios-icon.png"
         width: 400
         height: 400
+  - title: "How EU is Dealing with the Facial Recognition Controversies and Debates?"
+    excerpt: "The controversies, debates, and discussions for facial recognition are taking the center stage in every tech-advanced region. Where some realizing its utility deploys it for social good, others consider it socially harmful at the same time. The wave of dialogues has even reached the European Parliament and the European Commission. According to ..."
+    publishedDateTime: 2020-02-17T14:25:00Z
+    webUrl: "https://www.analyticsinsight.net/how-eu-is-dealing-with-the-facial-recognition-controversies-and-debates/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 38
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/image.jpg"
+        width: 1116
+        height: 628
   - title: "ACLU criticizes facial recognition company using photos without permission"
     excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
     publishedDateTime: 2020-02-06T05:25:00Z
@@ -466,6 +479,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "CAxyp0RtE3C7yZZ3p/Owqs0kLu/fU0gN7GdXszshTIiBSKSY3/KoD+R7m10/WT20B7y+Kw5XOZ1ETzLMJJ4ZLBC/GEaWCcIE54PUlhGi5QomacY+rwbJZi7MaL/5kTrWkw9TleUynMkCInqYQQieUGpsRPeo7EWLLw8zelXbqZ9vex/+ZMfK61VA0CW0mrvH1fANejhXAM9M+kA7WrBLNk/z4ARz9BlYrrGBYXRcSynbVrSKETwwz68Ft3b9X46IeV5UkNQEe+Hl/7l7PzrDCrAxYUvijljHVckrIaB94enywi5PeXepOq3kUttcejsK;E7/RqI/gqfK0N/MIN9AR/A=="
+secured: "8IxDYLYiCcKUUEtMntNL8Cu0YjKQkn7s2aWvSAwRMdtQlW6v+tbNQOgXDNa5QZiGI3Fb0+CaL6T4xGpvDhRR4XYFQIPUJoDntcqb6np+yx9Ddr7LlN2mFgevew0698GBtR6nErSP06pZp+u3jat25HsS40JTMU0Vut/AKW9I29MgKpSFN0yTtav3v60mtTPyBS3ewnrDaIXFxK4uVzp1/eF7LtN90cbFesbuCzLZq/lKcoewKdMf7rj3mo6rfx0zy38OCHB9zDwtPYTb9slyqDttKxLD/jgBdDDtFX1TcklDpRnAlt66Z8QH7gRrTfH0Q3CF/JbLg28SFnyECQkbxmYsCwQUR/ktbvWRlhqvapy73aRhuNvYEw8FY2d4WvAEWoijkioPt5vnzM70jez0jRAVV+Mc9lNXtnso95zryys7//WV/v/C/7cDv0ZP9XaTeT3h5NROJw3WLjzYr1udKgkadPJi9wceZCv9HGcZ59s=;gUmwLsuRA3Gf+DyMP67dvw=="
 ---
 

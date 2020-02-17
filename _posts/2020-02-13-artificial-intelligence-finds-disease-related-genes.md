@@ -24,6 +24,19 @@ images:
     title: "Artificial intelligence finds disease-related genes"
 
 related:
+  - title: "Artificial intelligence trained to find disease-related genes"
+    excerpt: "Researchers have developed an artificial neural network using deep learning to identify genes that are related to disease. An artificial neural network has revealed patterns in huge amounts of gene expression data and discovered groups of disease-related genes. The developers, from Linköping University, Sweden, hope that the method can ..."
+    publishedDateTime: 2020-02-17T14:34:00Z
+    webUrl: "https://www.drugtargetreview.com/news/56133/artificial-intelligence-trained-to-find-disease-related-genes/"
+    type: article
+    provider:
+      name: drugtargetreview.com
+      domain: drugtargetreview.com
+    quality: 54
+    images:
+      - url: "https://dp9bxf2pat5uz.cloudfront.net/wp-content/uploads/shutterstock_347864354.jpg"
+        width: 750
+        height: 450
   - title: "Artificial intelligence finds disease-related genes"
     excerpt: "The researchers behind a new study have used artificial intelligence, AI, to investigate whether it is possible to discover biological networks using deep learning, in which entities known as \"artificial neural networks\" are trained by experimental data. Since artificial neural networks are excellent at learning how to find patterns in enormous ..."
     publishedDateTime: 2020-02-15T13:50:00Z

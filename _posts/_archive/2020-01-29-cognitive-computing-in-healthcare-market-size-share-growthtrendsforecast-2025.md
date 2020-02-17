@@ -106,6 +106,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "inXMBQ39nTc92zYogcDl2/yJjAQ0uTM9k7gNQ39Vuh0vVEbIzsOwRt7rK36A39z89hiPZ3XTTJ2GRz7GGr8QMim386TYyGbWI9horF0OdOed9dJ2dJ3fqMZFI2aqWLJvSKl93iutCzusggQCLSu3M1qOYRtgIUDNThkyraqk04/N0Pgm4FtozyizTzx8AlqSwhTT8Z3TEw2mCj0cfLWywoWTZw9B/mWkFmgoXd0HBMpd39WfzS6MjCJZNimjDTsZ5nTnPRb5WQtpAp9rCg3Gb+30hL+SsVacGddfDEccGy9u4b8SNRm4vfB1Msuz43LY;W7CNyWaonbexaMUyeC1Xaw=="
+secured: "4NCGhxWd7PjxXo4iPDJxxEzBBc0DwciDf6F+1zqZZGncYQ4Cm/heSuHqQA7Rf35fIUdNWFyKN4Mr6uClRKJrHawmibaieok79EoH5WmeYx7XxuAsmJ/SYze2L/c3Z1tCetpbn6d4+poTvvUEloKs1Ng2fpUU/L8wBdcwJ/wzxSfE/1mAYJSagp2Ck4LP34Za+v8WkWu+hXk3CcqkBAY9/9iHyzYpmo951b2NLQDG2zRoLr0j8vCRTN6yZb7C7qEXchoKaJiPe/SAOOM+ygmUho9xDJsfAHYe9A+StiYe9qrPxPqwVkM75Nggwh6M09aj;wMAxnn/Mf98v/PG7bxPKow=="
 ---
 

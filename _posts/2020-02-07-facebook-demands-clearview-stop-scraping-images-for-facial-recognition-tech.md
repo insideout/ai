@@ -366,6 +366,19 @@ related:
       - url: "https://static.axios.com/img/axios-icon.png"
         width: 400
         height: 400
+  - title: "How EU is Dealing with the Facial Recognition Controversies and Debates?"
+    excerpt: "The controversies, debates, and discussions for facial recognition are taking the center stage in every tech-advanced region. Where some realizing its utility deploys it for social good, others consider it socially harmful at the same time. The wave of dialogues has even reached the European Parliament and the European Commission. According to ..."
+    publishedDateTime: 2020-02-17T14:25:00Z
+    webUrl: "https://www.analyticsinsight.net/how-eu-is-dealing-with-the-facial-recognition-controversies-and-debates/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 38
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/image.jpg"
+        width: 1116
+        height: 628
   - title: "ACLU criticizes facial recognition company using photos without permission"
     excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
     publishedDateTime: 2020-02-06T05:25:00Z

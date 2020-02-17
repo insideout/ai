@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
         width: 446
         height: 300
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
   - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
     excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
     publishedDateTime: 2020-02-03T00:02:00Z
@@ -57,6 +70,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "4oHGPt+CLv1pOaBD/0aEw9RWL+j1jRubl1lfiJQyuzWxX6XhaFiqg1C0NIGWzllncuHUcoXIOBf42GoN1MX8EX5W7KQgOn2bV1X7TRsNyHqbh5YBVNsjgLujeEhpakchgsA8moFiCMdv51r1hFEWZHPtJUItpRQ68jpCwl9E/hBFgl41kZ+UYJjpFagkGca+URdVQ2Zr40ugKG0MSIBNODCbzYXgrAJaullpnFS/Kxjzaof2v0v/Q/VXoha9IFT0utjJinAFhpFlTPzRu+G/726mbLqK+gDwsfh+uSeg5px0xgMGOoPid0F9+0iVCpZ/;gBhpA25em0lpdwAAbJ+bsw=="
+secured: "AaMoX6zhnR3pWX43mGdpXFPJZdkOUGeGteDfZcDccJ3poCJGfaLrRFHpalDzAXOvwo97ss5J79GCHuGqDHmKc5CZdZn7prNNIFnV6UezBYOVZLdplbFHQdNll7aWOPCJoT6OxzaJW5xJqdv8JoEz8hz6LrVAOonc3p0hVZygIEJ46NR05EZbiHCd+gca2864pUnKW5J7o48w5AYUmPcUgMY/TITDLxpM47P/wYKcfozDEw3EELecb7I6+6FJFeigD7zNPEkGTvYaBqEDF0VYdvaCRWMz+/lyNq7yTR7N/mKLKQms5e8+sWClR8KkHsZc;wu7pZjUcpm219QFjGyomAw=="
 ---
 

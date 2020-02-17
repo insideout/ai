@@ -251,6 +251,21 @@ related:
       - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
         width: 770
         height: 535
+  - title: "‘No justifiable basis’ for police facial recognition, say MSPs"
+    excerpt: "UK – Members of the Scottish Parliament have said that there is ‘no justifiable basis’ for Police Scotland to use live facial recognition (LFR) technology, citing concerns over privacy, human rights and data protection. The review from the justice sub-committee on policing concluded that technology currently available to the police ..."
+    publishedDateTime: 2020-02-17T14:15:00Z
+    webUrl: "https://www.research-live.com/article/news/no-justifiable-basis-for-police-facial-recognition-say-msps/id/5065352"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5065352&name=no-justifiable-basis-for-police-facial-recognition-say-msps"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5065352&name=no-justifiable-basis-for-police-facial-recognition-say-msps"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
   - title: "Florida cops use this facial recognition tech that could be pulling your pics"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T10:08:00Z

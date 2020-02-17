@@ -96,6 +96,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "Q/uqKM+h7ypt7bsLM7XK/15UgvFL633d67ALbZZwMVE/2pgEd0AHe4+N851bjG61jg49yu05p9u4blcgPAWlIiLuUwjc50jhhzsbXQCZ7rpNtR6LhWMLB1LX/0TxExkTOdSCHrd3r4VwmxfbBnUSEyIZRn0rWbbiQiC+Ug6qGv/YB0I6z7zuBiFMZzdaG5ekmksjOzFCUI84nf/Sfp5pNJiGA/O5/JLy/FBvaO1kOUH7kerh+YXlC/K4kZwm80FVcCohXh+AfI030pjpN4rzv05tGASAObTIeZsAfbR0ehYQ8Vq3Gfka4OmmYr9QN7kn;Z99gXzzRX7vPCIfVvBrPqA=="
+secured: "uXHAVK82avkPraWmnAbo/Z68OxZEbju4mMudSoFZplW6JCdtbkY9APYmckfJeeDT8XsfWrFZ1vaBJJfbklUJQPMQ4LciUP0TVhSTZbVwv8BXF1ZcLGqp3Pmb3vpYwUame6EvuIBE+YGFDAoCwzERW9wmK4unN+GcquvTY8MD7F+SkIAidGBu0sBWMMf7U4+5VNfVPCapHIgJ6RV0f8y7IjxWYbhzxozyjYTu0IhWALDWr6kh+UQ3jvlNeFEGofMfsNEHqL0199njC1RLrH5eSQmmg+2CoH0pbLVYjS4DVjcsd4RgVrv3UruQD+kfMJPc;bqYxiKdh2tI5FrJ0Q0ySVg=="
 ---
 

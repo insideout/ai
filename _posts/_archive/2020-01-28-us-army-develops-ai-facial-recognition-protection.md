@@ -66,6 +66,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "+1eo1nspqN4X4/gY1QVF+wS3srcHUatoRJvgGA6jfNJV7zKcEVX+TRFbsIHk5B2nujQ+MZAdOVdcQYF5tHydzrv4S8bVdX5NAsguDJOM87mQH2zHTRMrdTpJXklICZnwai1GB3XNqNPy58MQXeLPSTsLVOM5XZ01bOGnu+mhOuVFcozQ9oxRsXt8t0nndt+hvfQ1lmkZvANWIk/jGEloms9RbnqTIPyhJ3jUpgawOXD2PovYA0UsBnf+XFHCehs/BH/fHZJYwOmg/FjwXCn9DBMr7JlMDf/bTltRzdg8VohuWc4ETj7dJDfy2XtqopHM;MfgHYFiQBsntB5kk6lfGdw=="
+secured: "8/m2ku2V4WYGQpKD5jG9LeGwngTyG3SX4HLR/TIOWykH27AO/jeixlt662el1Iud6kFV5U/nZ4oG0nt51Z+dnJJSfanrjQCBCrfxtOs5CtivoCkz/I6qXEvm1S6DaZ/Jv6BJCeUoRFAUa+3cJ5gZ+ACCASWXMoGa/AwSG+JzOkWIT0eCjoKd6QK6hONaTddq3dThvZlQF2cY9gngCUMWtTO5sYXF4KV3flA16bWwf9qhuhxr7csBKwESUEfoDnE4e/AnO5Yej1nIiZuW3zMyMDJdDX7tpN3ZlMV8Ag6dLsee/+CpR97FBpWMkyCRKese;605t6Kp6XCy/dmi6GjeMjQ=="
 ---
 

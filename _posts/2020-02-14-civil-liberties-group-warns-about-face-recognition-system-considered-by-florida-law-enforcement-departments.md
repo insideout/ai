@@ -249,6 +249,21 @@ related:
       - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
         width: 770
         height: 535
+  - title: "‘No justifiable basis’ for police facial recognition, say MSPs"
+    excerpt: "UK – Members of the Scottish Parliament have said that there is ‘no justifiable basis’ for Police Scotland to use live facial recognition (LFR) technology, citing concerns over privacy, human rights and data protection. The review from the justice sub-committee on policing concluded that technology currently available to the police ..."
+    publishedDateTime: 2020-02-17T14:15:00Z
+    webUrl: "https://www.research-live.com/article/news/no-justifiable-basis-for-police-facial-recognition-say-msps/id/5065352"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5065352&name=no-justifiable-basis-for-police-facial-recognition-say-msps"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5065352&name=no-justifiable-basis-for-police-facial-recognition-say-msps"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
   - title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
     excerpt: "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ..."
     publishedDateTime: 2020-02-11T06:04:00Z
@@ -622,6 +637,6 @@ related:
         width: 300
         height: 250
 
-secured: "cFopuUNvXoT/R4K3Y/kE/5BODsmVkbkxBLvy7iHdi2j9VHO++Pquv5q+KetMin6hVGjNrhweJE6VxsoFPWJlkS4mLWRQls1kqc/w6hLkxbva0Jcwx/OCnq2QsAque3ZqGMwfLtAQF3lvPao39NIaPXFHeeSwkM0j+U+pQ22TahssDqytynQvBd1fgYrjBYKAtQBRmYLRsB8AkX5FlZPfjBxgb0tmFknxQkqTaU5GCrMDD4lWnOQDpY8oXJdiSwyll+d4VMJA2ru6f6UXetuSzFKln0esd649ko49BJcWNDNR69hcGibezdnfeKvGCiAy;1InQYHiV01YcWmtqnt2Vvw=="
+secured: "LyqbnNLYiATaaDXKRR7Fv86mbm2kMVsDBJt8we1svi49geVNLEOx4eAyg2d+TGayYa9whewtwRZ05z1jVtSPvjFUVynZlNk2+8KRsg8XsglYdhotZ446ssvVsCvStw6aQXi11IsUFHWeWIjktOzoM36B2KJQu3yxEmhT191ux8Eqd0DBrIhTyVGfFtg6N0oYLT6/0CBNvRWJsb5f85wSDgvhssCVACYd6PgNX4H1cJyhpVzO3tsk11901rJ/n3/aixvE/WYoIvthJpz0sbcAzfsDw6ssTQdRl5MY8Q76DE1qmKxWZx6fh27GDl3S7jzw/sdoaI31vQG5ur5mruGxFagmkXPriuNxd22F9UFD1MIXpWNZWjHWpFF8NdPB8PndOjvUhlBkpo7rZRcs6PDi6RGXH0p7cNwE7MreoeJ9GeDrgolbgD4icVBS9QjoWC9hGrN0Om2CcqlnMGuDjA2iu9reaA38vqSXvDw2FAfRZu4=;IOJKwia1Q1yBoJv6y7KhnA=="
 ---
 

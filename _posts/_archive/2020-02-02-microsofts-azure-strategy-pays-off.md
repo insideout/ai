@@ -5,7 +5,7 @@ excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expan
 publishedDateTime: 2020-02-02T17:39:00Z
 webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://static.seekingalpha.com/uploads/2020/2/2/saupload_charts.dll"
-    width: 635
-    height: 395
-    title: "Microsoft's Azure Strategy Pays Off"
 
 related:
   - title: "Microsoft Azure cloud migration: 3 success stories"
@@ -77,6 +71,6 @@ related:
       domain: africanews.com
     quality: 0
 
-secured: "XCz8521133hbqR8jtynY7vyv6mPZdvkCPDSYezwTr4iUAknNG0ODHt2UCHmlOuYztSUk0DuRum1e56d2GBykuFJtKgXWP9ugTbmIO/bYfhf0naCXVBNNj1rSb2ctvkio+SE0SsHSyX9JZeXiJgkyXCBtLiA1/nFoW90B6X0EZZw8Ph1TZtoZ4QQNNmeWWT35cLI0lNCKvilv9v/KV99aZh63zWuyTcA3oC3OqNq3VEEwhzqQBt4aMEWpx/BXsEsO5v/QzzrQfJoZVLkO5hH3BzFKfwyMfdfAkUk6D1U8h7a7wrpEQwFnCZyAu1fLt3uU611MUyBxX9IiHFw3F11Na8EWa4cPKIxqFe69+B21Bx8ojfQKtolQWafyxPmGE5Kyr6Ip1N2q7rCOvn3ax7aJpkD8cFuvGQfhuAS1/8UjNuJZ/baeYQ1dHUZcSKcvu9NW+pUXJuXt+SLJJEzwZn/EsUag8/EeSksKsHqUAN7FZJ0=;qkriXxHw3PUbkGRXxUkMdw=="
+secured: "LarC59eNw3mQKJtGSiSzVerGMC2heL/T5IMsuTm9EonUNE//IF5ZW6Eqxj6nCN/FYL709SJVC5lz/qNqnFctZ3rQCqYQ9BvGA6KR6rCQcBZfucVcyknccAS1AksnCiRG7PTSg6hyi5DSSkTyzoycvIIj2XY7Yp8F8QPNmDKeCE6YUpgvA4m1XO2Q4hBw1vDhWCvyoD7tDrAFcTutqlh28+78YfPWd5iR9zabtolAwnHYFfDQKmL/QmgpMZ4MyrFDFUbyluYy8O8mphitOZHGJl9HOQ8Nmur99effoCdmFwFIS4VxibCf4t546+OFOfLaPYPAMIVzkzmG7/xQ/rMLPoudPVU89+ihIugyvtC/4TU2WpHRsSjhrsv1KauHcfiY80EFcdYR90H00w9KhRg26Aj3TzSjoMiXBUAAwk9368/IDgk83GYQfUDjrSWQGaAyucNrB6rXf3Mnk7T8wcXsDUYa2Q5zk53YyFxMqs4HWdE=;YcL7YhrDRTRKZaBcv+SzVg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-15T13:50:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/02/200213132615.htm"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,19 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence trained to find disease-related genes"
+    excerpt: "Researchers have developed an artificial neural network using deep learning to identify genes that are related to disease. An artificial neural network has revealed patterns in huge amounts of gene expression data and discovered groups of disease-related genes. The developers, from Linköping University, Sweden, hope that the method can ..."
+    publishedDateTime: 2020-02-17T14:34:00Z
+    webUrl: "https://www.drugtargetreview.com/news/56133/artificial-intelligence-trained-to-find-disease-related-genes/"
+    type: article
+    provider:
+      name: drugtargetreview.com
+      domain: drugtargetreview.com
+    quality: 54
+    images:
+      - url: "https://dp9bxf2pat5uz.cloudfront.net/wp-content/uploads/shutterstock_347864354.jpg"
+        width: 750
+        height: 450
   - title: "Artificial intelligence finds disease-related genes"
     excerpt: "An artificial neural network can reveal patterns in huge amounts of gene expression data, and discover groups of disease-related genes. This has been shown by a new study led by researchers at Linköping University, published in Nature Communications. The scientists hope that the method can eventually be applied within precision medicine and ..."
     publishedDateTime: 2020-02-13T18:24:00Z
