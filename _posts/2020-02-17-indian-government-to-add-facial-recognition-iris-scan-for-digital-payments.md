@@ -281,6 +281,21 @@ related:
       - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
         width: 445
         height: 600
+  - title: "Criticism as Modi govt uses facial recognition tech during CAA-NRC protests"
+    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. Police in the Indian capital and the northern state of Uttar Pradesh – both hotbeds of dissent – have used the technology during protests that have raged since mid-December against a new citizenship law that critics say marginalises Muslims."
+    publishedDateTime: 2020-02-17T15:35:00Z
+    webUrl: "https://arynews.tv/en/facial-recognition-caa-protest/"
+    ampWebUrl: "https://arynews.tv/en/facial-recognition-caa-protest/amp/"
+    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/facial-recognition-caa-protest/amp/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 57
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2019/12/Musilms-in-India-protests-2.jpg"
+        width: 750
+        height: 369
   - title: "Florida cops use this facial recognition tech that could be pulling your pics"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T10:08:00Z

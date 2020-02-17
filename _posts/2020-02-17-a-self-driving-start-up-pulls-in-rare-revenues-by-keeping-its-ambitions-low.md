@@ -25,6 +25,6 @@ images:
     height: 209
     title: "A self-driving start-up pulls in rare revenues by keeping its ambitions low"
 
-secured: "DHgKeT6KK9ib+4n/DUR+jHEVYXX1yQdutPdvYB3Xo685TMh3l1mJnX2hJWkV+Y4o2QXVmldEBebbzRolKcDJwcYIrxA+L6jszOdt3mISPkX2GILJ0JSUX36CE0lBkbFznqBw7Rz9htujJ1ZRTzXH3GO7lacrhkJAdWNUuJd5/Mhkgw7qzv7llpj344D7DD0J7z/YZaho5dRLntcSghJHzeztwbUy8MCo66Z2zyd2hUm7kklMo60X7cBLebL5FjJfcnc59qXX6g/egMmROVHSP53vlIYjG0AURoXCPFgBpDOu4CoAEWqP/VcDWEffm+cS;btXhACFbtZmbmaoMAjalCw=="
+secured: "MmxYRDvAsuahsvwgDXArNyk3eL4zoOJN3mCy6knxg+lWMki4/DCF0eA/vX/puIagco9MlHP2TsSN06NM0sxtRw2JynqrEwr0EZY8Y+5snUwjiLR2FB86faJn+SACL7vDu1xL4Q75/y/QUcLzNMASGt9mxTqjZF0DFPcUlG5vDRzL7UJa93VA46tVZGiqBNNn+xXk9ukgup58wV04dWFIB7rqzQSDGdIkExc35+erUO8e6hj//TFgzGc2vZyA7UoU8f7RZLE8UZvYV/Sucv0InpYscU6A4EpDaaOE3f2fAfBijU0FH1WSJCEvpOk9p7TnhADOmeZv/SHMPW34QKnu7oTaNT/ViGqpxLb+xPFfn5SGEkcLOrRR67IT42Es2obJqypLNDvfqn29q6BS+LlM8mx+Ea5BywaM/wRAs5yUxBJWJi1H0JfEZBPeRrK6Ua8mcZbO4kgSuwA5x6mXK1kmPx/XF3OdEkgBIwDlB/bmwTk=;rY6Cb/KHDo7cjMZD4sjIFw=="
 ---
 

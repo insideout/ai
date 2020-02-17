@@ -53,6 +53,6 @@ related:
       domain: pymnts.com
     quality: 54
 
-secured: "qdPdlrYKlF+Mg5AXhoqPNStSLvFQQ2025K/WeLdPq0+WIgIwU4JENbb6S8HKA81A57m7adKDQO4MX83IsyXK8nF16w+01A4nF/n87dhmjpFtNTjIYxOZhnWR6kwJVZi9SJxBnlrbM6vcb7pChOtrZJN31OE8lSuQ7gGU88b8KHVduQn5P2CcQJZbDwMreh+UrAkwX+N47RrSxJ8OQI7jq9LV3qF4aO/hs7cWYXT8vU4C5/z+/swKxwYg2f6uD/YqSj4AksVprECVbiTBY7Q7HBgLT3//U0mVp1vIdTelipsHqvOOzNNlEj2b3pgxqCQF;4fuX36yhdChkwD9GNRRevA=="
+secured: "nZupwa/XfQ1qmjLNcQWsAak49xoPitUnmvVGWSxBf/Uec9DtTVSbAwAhsjcGjuGdoI+xotflrjGSv3ZuvcR+ABnjs5de/6EKBsb5jgyfzthsAzUUUKCDuJzxp9GdCT9b1/uLt4dZ67PPneufyMi1qI2bES6XLSjE3c84wJ1K1JrGRG4SFD0xYI3WstOhJctyuv/5aUFfqQ7S72+1f3a2OJsjk6JQREGXyCG55NeLzEbOarTNXfnxfTDckpUZVKz0gUeScgXzOVD8rrqKbpuzsMEAfluSC7XrzOcKObqnr1Y6FzMg4e5FbR+1Z9tgCGi0;kRoRuYLVha9VXzbOK9lt4A=="
 ---
 

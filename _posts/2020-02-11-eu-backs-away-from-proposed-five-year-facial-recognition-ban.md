@@ -277,6 +277,21 @@ related:
       - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
         width: 445
         height: 600
+  - title: "Criticism as Modi govt uses facial recognition tech during CAA-NRC protests"
+    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. Police in the Indian capital and the northern state of Uttar Pradesh – both hotbeds of dissent – have used the technology during protests that have raged since mid-December against a new citizenship law that critics say marginalises Muslims."
+    publishedDateTime: 2020-02-17T15:35:00Z
+    webUrl: "https://arynews.tv/en/facial-recognition-caa-protest/"
+    ampWebUrl: "https://arynews.tv/en/facial-recognition-caa-protest/amp/"
+    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/facial-recognition-caa-protest/amp/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 57
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2019/12/Musilms-in-India-protests-2.jpg"
+        width: 750
+        height: 369
   - title: "Indian government to add facial recognition, iris scan for digital payments"
     excerpt: "In addition to requiring a password to sign in, the payment apps may also be mandated to add an additional layer of security in the form of facial recognition, Iris scan and checking the location to ensure security of digital payments. While facial recognition is easy, it will not be easy to implement iris scan on smartphones. While Samsung ..."
     publishedDateTime: 2020-02-17T12:55:00Z

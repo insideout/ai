@@ -20,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2018/04/Amazon-1-770x433.jpg"
-    width: 770
-    height: 433
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2019/04/digital-payment-technology-fintech-banking-tech-online-payment-shopping-378x213.jpg"
+    width: 378
+    height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "IIthdgcUueirdUdeobw2lSfXTVSoOW5Ey8gwFle2xuAuhfo0Ss3nZqKPspLaFGMBGrKaIMkCvUT4r4lXdoiyGLQ0KciWQgqalVf6T09xfaUe1G5HN/98viTYZ6QPN0zmuvrC2dolXx6n5xoeJqD0zhp+5MGQH1PwzE1MsVaCn6mfq8Fd/BFJRFgw8QNFZ44HBjTiyiTN7CYxJlZi0Jup/NI4YZc7wGjXQv2NLGf8Rv12UgBEayWm9MSxw7SApTinAFjoAldKg6NSLfpUKSvcE488+ZtNuCjP7OBAIw9muJ/v/JF//nCjjANg38glQW26;7fPHrMgft/+Gjk7MWwpVPQ=="
+secured: "n5midinVlnJ636vHK7/MnhB+xYIwsphznAz48jLaWxZ/97z1quDYfBWq50q5a/5ygPsRPEaLihw5/uwyDGs20OrA0DPgBC4zUE7vH6JqpDReuWd/rqVy4g1WcT5xnC865B8B7LD/WAtHs64tomTvZDFDTL/y1U0lfvKnHPWk2DHkisk+y8l78ifnM6sCNd7InqaoO0znxRPjYd2ctaUT+H4OotJa0RHhhVB9sWZepQH1P+5HBHOBId1xi60pU2WvLXesm2VQrepbC6XrCAw5FXUZAqQ/8ML+fhUsrBFX6QjIcsghv5WeflizHHV2lWl8;NZzzC98OjT+y6ktmnzIZVA=="
 ---
 

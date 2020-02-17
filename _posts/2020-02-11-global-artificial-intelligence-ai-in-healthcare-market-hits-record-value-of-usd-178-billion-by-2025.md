@@ -35,6 +35,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Aviation Market to witness remarkable growth By 2025"
+    excerpt: "HTF Market Intelligence released a new research report of 150 pages on title 'Global Artificial Intelligence in Aviation Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,"
+    publishedDateTime: 2020-02-17T16:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-to-witness-remarkable-growth-by-2025-2020-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Computer Vision in Healthcare Market to enjoy 'explosive growth' | Xilinx, IBM, Google"
     excerpt: "An extensive elaboration of the Global Computer Vision in Healthcare market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
     publishedDateTime: 2020-02-08T07:36:00Z
