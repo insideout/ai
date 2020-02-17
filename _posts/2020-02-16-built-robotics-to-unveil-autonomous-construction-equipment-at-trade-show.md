@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-16T16:43:00Z
 webUrl: "https://www.therobotreport.com/built-robotics-unveil-autonomous-constructioon-equipment-trade-show/"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 576
     title: "Built Robotics to unveil autonomous construction equipment at trade show"
 
-secured: "+d8cGFux0qlxbpTQ9Ny0otqhBZ4+edGVRGrER57UjY22MLxB1APX0oLuHU6vEDII9rMXPkp03pEDlMNGPkMxDG1Pb+/DwGdvlWy3fvOb0QkPfkvcUFZg9vYoWz1uPyYQ9Dm5wEYlVAcyJW+iCWiYYvc2wNq4G4BU9kzqD1tV7eQwAxa2kxP8dPQUSz+BcZc1aQFGDdKBn1PINche/BJ7W7HrJECAniThsmqEc+7lEN+uihPh4/643NkUbznoDv8Kv4VhlWrUy6UwusQKHi2imwsW9yUN+h5A+3VO+4JYJPOwhfk6F1qwXYghkMLYwv2w;IQ2O4pRpgp0ZiWuACM1AvA=="
+secured: "gEkt17MvqMwZXIreXRfRek/cEcxB1fuRhAr/UR2lAyEA+GzM75I+0+AE7wZOxUwpqAWcqJejKu/oThsXkXYjNC5jDN1mGMCGiCzAwDBxUO0Ty3ardAF5tOePbG0D8BPyQTEWhIonDvZ7BdWk83mJpQzL4e+1qA+DgANvKfF7BBAlTYIs5QzxKWZQ1Miy6LyLyZMdrnKI0MY2qeLNCPGJLgjvlmDEoSOIwT+csA8+06C9viDynqHen2iUwcyiADV5URILoJjTOUXzdQ+Blk/Z/ou+sQB5yZNsAP9Y9VGhTYT8AzE9gh1JTAmQhUoqmQUN;XNH7oTcxd+Mft/QTaNQUXQ=="
 ---
 

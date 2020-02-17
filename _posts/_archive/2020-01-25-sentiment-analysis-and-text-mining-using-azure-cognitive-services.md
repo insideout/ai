@@ -40,6 +40,6 @@ related:
       domain: business2community.com
     quality: 36
 
-secured: "z6z3RasKPUYQwwU4uiJYOdkQa8t4YkeGjLh4OZ8WiL65B8i5G6AISNeUyKYhKcdz6PA39id+L4eiuNC+hirEv1PSwbrvAlpemtYWZ2XHY3TDYV1a114C/IpE9pvsaRqOnrjbMWa+m56PgwYGTT573D/4E3BN//dXzEMk6q1RHygxHLg8ZSSpsGpB2c1AB5gEF7b9fvVaRExjvfve3SFOF9upFis+lIIXFmLBDCSz5+l4oiKjvds949q+gF6TyxTwuwb+o+JPtAVgV3NuTcGf4jq9UQD+ytkes9qPc6FMMZ2KEX0jqFlQwzN9dmhZO/7p;A79Bv/xcuPHmAWbvFe7qlQ=="
+secured: "sfZ5UrcsSttuuOjKDw4xfa3gIA6r/HDAmPI9VTF2ElKT9oyD6VgVe2j1gC5n/Rm16ysEsYL3Xkvz8UPdDN4UB9JkxR1yUg+TWDlb2axbkdg6iThuHue1oSyNIdQ8LWoc2p279HXkTccarK6io0NATEk1uFvV8eCWIMsHdcAw9OSWcKYJUDxlwmnflZ8o9nqSDLThXXAt/vLTvjw4oEdvWcRM37U1ecS7ZSJTi4cFTqFhq0RdOSy0CByLsTtwVmDZ9PWP4IyGk5xDnCi5Lsn+dcg/v/k3zl7PO79FwzvdAPso239ENPsm2PZvAlFlQJxL;vw9GzRdBgXjcwa97b56ASA=="
 ---
 

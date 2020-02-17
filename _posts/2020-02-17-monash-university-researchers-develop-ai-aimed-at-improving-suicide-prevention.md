@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/monash-university-researche
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/"
 type: article
 quality: 83
-heat: 103
+heat: 104
 published: true
 
 provider:
@@ -50,6 +50,6 @@ related:
       domain: eurekalert.org
     quality: 12
 
-secured: "vhhstRXNCpGBq+XLVe8jT9+57NxaHhbSDk1ffSo4xryA5+L1fVsYk1q8v65BZAmNu8UXHufSWQQh1L/kxZBcqQLS27DWQ5ReBdAooV6QbxnzI7oOzSM2/x2+3W9PlEXCPCzUqFQ81bo0Dq56mfjSJBVTBaCAAulA2IKcO2KNk5qrW/XMnZvG7VsPdYJUbEUEbKjC50NSnNBVsnE0Y4BnjvGR2Bo+HQ/Fpr6InW1FHnmlIhsruO8/ZxEXA7wSwtDKRGdZvFUW2CZh3v7BuPqSHe7uTnfjlWI2pPt+Wq5G3Tk9czVkBZZw4QVjmsTUjwV5ofFHRnqfyU3xHNM23k8mdFww2fdQcPpSfnGlrnVJ5fTisCCqgXluTaWzU6RE7nsll3iUKYE9VP0UbNY+YwCUT1YKVXYiVerd2it1bej8gVS7cCyUex9D58TYPHCRv3Efp8ee7QI7oZKzM+1kBgh5DWGtl3habGItfC9YlbSes8k=;UTnz/dgZ3oqiWLMfUqC6Gw=="
+secured: "AuTO74xJ5J2UwD8ns8GL6JQ2kfA2olri8ItX+OAMR00KRIEF6YodtsS0nRWqt93QEIKRceOkg3X72YjdiE9E+bMoqm8Ip3JDu1iyO5HDjL4gq6zOKk/ENmmYfx/zMW8ye1XFuY5g1qNmrRm2M984CjX3IV1iQX/zWT/IQgAmURO5DtlWDtVkMSvgWLzvgY2W6HdcaHG/R6UD9oP4yonT8zD1+tEikXTAx59ojkqPCH2OFAZtfvTOSxpLbIs0wajnyNwJf5twptiyyCXguZYFNRb97yQ2258kVtX0essWU/MwsN/Lsb665qdiL12fdNneJyYyspsX2e16cX8cZtpvSxWL1SclRaOJ+IMdnaizYI2p3dHc5RWhreIrN8X3BmlgtItCqsWVsmFWMBd0eIPHrmm8Vk4RnF28nZq1ouUtuNTb41H+S7FJ13X8U5ZMZ7MHW5W2lPMuE3ruF/TnrFyah36WxaDCVVjTla502xoDlnY=;yJ+W34KAXZUZ8PpNaG1H2A=="
 ---
 

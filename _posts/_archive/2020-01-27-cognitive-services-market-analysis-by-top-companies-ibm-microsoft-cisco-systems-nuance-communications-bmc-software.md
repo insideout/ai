@@ -108,6 +108,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "Apmd7UVkQdX0WsBqjrIUbUs6wgbQHna2TzE6d6qjsfSWVDlnFGm9le5+bhGQMjm57+Vz+X4K6soqfaamXnQMO8JayABiPurQesgueDhTIYZDm86T7l6NTLbDlbsYKJp3u2IBv6LRw3acX1kmksAp6bWtq0JU0h1J8FKgtqJkd/YBfqOg7+rljRI8j8kvY8j/8TC6fMMRgGM3I1OakXmj6PllZATXSru4dbR703d1ua34wcUI0u97GJEkU0dAIzI9vzdur193h3m98mt3T6obHSGtslpKRjJCHatzMlw6PZIbOvlambgHNJNHRXAG4QTF;JK2JlpYKc9bsjnf+anjS/A=="
+secured: "XgXXM7Z5OzYJYxSMwicPqnOp1XyjdNglUpkBkCXS9l/Xe/uALkKABUWA8WOyBgqR6Yy0pdUT/S0Ixvq7+G1owexRMoNsvypZCr23LzDwpDz9/rqoyJ/gsrRnnoHkQDuk9iRMMYngsHjU9uggcw2pb439Hw2Btxzu8udJwHriy3/pDjpXnHyMJb0AYYVHBHA9WszDI0fp76dKR61PnMnFf3GAAHxAnxzP1xzbT3FBNE/pC5ue1TPJx+c5uBXqpjzdw/M5Da/WUM5twWpY2TP1J4wMl47yMJijZtYT2NpC2f1Z4Pqp044wQBJ7/ZYIujAd;e+oSCzrbNX0atgKziAJJ0g=="
 ---
 

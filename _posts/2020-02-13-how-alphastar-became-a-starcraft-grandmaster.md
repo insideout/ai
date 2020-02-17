@@ -23,6 +23,6 @@ images:
     height: 450
     title: "How AlphaStar Became a StarCraft Grandmaster"
 
-secured: "yk7K5EHz3gbaVSDkS30mACp2WxRC1U7+LXH6553qN/kos/VnI7YiOYwgBuhSQXYveW+lwvp9EKmas8yRxl8bY5E2ji2gOt1JRxjFf4haf2WpXh5kcBM0Iw1zBc/zyPr0t1S4KOhWtRwo1zXCFMY5m4lXR9BIiSxIQ0h/FqZUww8+Cj27oo9Pcn+pvwDYQwKth1hP0MW/YZ3+AGOTmpk0jhQZz6oSD2jyevoeRP8WaLDLBcdqjEAoYAsqH2DeInG4/RPlMFFf+gK++YSXuOFe3/jjVojSaKy2lnYyxFEcduZkixR/oBS3q3/eoQ3UTUUq;Mq1rv+9mh+gFjIgjqLAM7Q=="
+secured: "2Yoz/7PwDuTrkfJzYQryBCEMLmXJAwPq741Ll8SZd8iK6EpxHr9SaafMtQJm4eMKU3dg35Jd9FYVl2SNwLcY8nVErLqx2qrUpEQtWmFAlY3Xk+lYndD8K9/9Jc6j/VIfU9VSZWZKoztEbLcFjEGWP/mjO/dxZCkoRSX7WDe5xjL4YsrZih7W+OVHJzsZehvjjvqgxel88CyPCbJFviXiifAitrcVuqas4HUmIu+xD6cXU+rF0ia/HL9TPRDeOu2qb2LNQYPj/7FZ+6rOORK3a/itXKt6dYCDuc7AwFNrPS8Xcpancvto67NGfHo6VZDQCYSfzcV0kZm+UF7a55mJVqW8Txu4PUUYF5S3Lz9p1B7Zo9g/jNKoX9oz3zRRYrqqKHrLOUMOp/adMdf9mW/09L3FswH2MbRPDl2zpxGy1pjyiT7HubtGg8bvq/0AApTdLJN3u3qrpadz/WDdeBpiBpXkWkrDIEw5PMzuNm6OQ3A=;gAbSmkgN6p5Xg9VYA6+PLA=="
 ---
 
