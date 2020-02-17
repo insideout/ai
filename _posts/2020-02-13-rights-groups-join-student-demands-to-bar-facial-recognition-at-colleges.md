@@ -233,6 +233,21 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
+  - title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
+    excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI), will stop short of imposing an outright ban, a top official said."
+    publishedDateTime: 2020-02-16T23:43:00Z
+    webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 29
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_073744.jpg?itok=8I6egWZ4&v=1581896270"
+        width: 1200
+        height: 630
 
 secured: "3lK8LyvMFU7LnaCCFcqB1Qodylqz9tlrcckuT+lfjpZIzvGW2Q8zFeuxe+8J3Fk0ZYGWkMGV8WytPCZNp9uY26KdfCk3dEqswAL8hBLPR77PY+RC+47/DKiLagdo62RU4R9FVaNHwJuKqLSDW3D9SVIyr7mKRaH40pp5d1YpktEOS8AKIg8zL0VXa7rt+pvTTLv5co0PbLJZ1XdkX4BBNpClvWiTPUHC9KBTqzthL7RYedPS4sIMIZD4HDqH/LvQ4BmxtV+7OaO+PjSD0WTH17VYQ4KI+D89lEHi9Vb/CCVZh4LSaTMOzkdm8szGnY8jdH8bZ4MtNYBxph3oZYtvNsehctVGyUKri11eAYcPegR+sF3W+u53rNlQGF7Tc6OvXdVU/SQ8rrm0RhG0P7HOuy8xIxg1Uj+IJofCfRcpGMhuis5oKYol0ndfvQGYnrTkny9M2zBjmnanqqhJotV5QXvZxM44muSj7hkhOFzqszI=;WsBeFOH5KXkPNr3rdmNWbg=="
 ---

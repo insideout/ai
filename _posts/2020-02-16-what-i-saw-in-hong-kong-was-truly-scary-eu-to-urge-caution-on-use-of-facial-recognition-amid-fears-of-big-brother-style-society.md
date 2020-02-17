@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Despite public concerns, facial recognition gets traction in Congress"
-excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs ..."
-publishedDateTime: 2020-02-09T00:00:00Z
-webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx"
+title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
+excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI), will stop short of imposing an outright ban, a top official said."
+publishedDateTime: 2020-02-16T23:43:00Z
+webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
 type: article
-quality: 39
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Federal Computer Week
-  domain: fcw.com
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
-    width: 760
-    height: 368
-    title: "Despite public concerns, facial recognition gets traction in Congress"
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_073744.jpg?itok=8I6egWZ4&v=1581896270"
+    width: 1200
+    height: 630
+    title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
 
 related:
   - title: "Army looks to block data ‘poisoning’ in facial recognition, AI"
@@ -219,6 +221,19 @@ related:
         width: 945
         height: 630
   - title: "Despite public concerns, facial recognition gets traction in Congress"
+    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs ..."
+    publishedDateTime: 2020-02-09T00:00:00Z
+    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
+        width: 760
+        height: 368
+  - title: "Despite public concerns, facial recognition gets traction in Congress"
     excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
     publishedDateTime: 2020-02-10T01:59:00Z
     webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"
@@ -231,22 +246,7 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
-  - title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
-    excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI), will stop short of imposing an outright ban, a top official said."
-    publishedDateTime: 2020-02-16T23:43:00Z
-    webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
-    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 29
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_073744.jpg?itok=8I6egWZ4&v=1581896270"
-        width: 1200
-        height: 630
 
-secured: "M/mn3hadfzrkL6QP+gmiwoxqmBcNLN81VjBD3U98wrpEYBUUngwGX17jx5X8lFk48kM3FD0abPz45QdVxbEroVmrlUAZrSqCKhrEWdkGg+ppmaGKF2h5rs4SBeDokAAGg/7ByHUR5jItNyvCcW1HwfWDknBAhHtVqXWZolkABl6BTqsQFcftvJM7BH+9m9oW7gU45kv649du0EndijQ79Xx3SYAOF9b2Wn2Jwn93w4zX0KNAgBSiGE6X92AztFTHZMiP0lXSb072sd7fJciH8W57dgZdMTlrYmyo5Bt/XxwrHMV4c8Sn+lG4JnnfbvtjqVq/xDk5cF1MIgIgDzwGULibs4Q94uajXUT7C5xLHzDlYh4ZPS7F4vlenXiS2Q5m6Q6BjUYBpF45ylGAvbDiiEYdeMkOY3jSvqqafTxWe1MwLxADfLKs4QigKHXKq7vFUXIqisN9my0wx8RmHR14NIrVUf5j8Yp5joMWazAT33g=;fXNgVi2liOULTJ4pYe2Ahw=="
+secured: "sHfQOU2CA43hBGxY+powPXARvRqSBvL0drewBJhPTJkiaeuyBVAFfPzmgkbRl6EN96n9NBLf6JzvOoK0yZfXpwA14Dco4hoouVSxPKLDDOJtFobpNIwmaiqnA+H7YuXtgssl5cFB4muCl2G89oMYQR55KIAj/VqDDB5bV4O42HNss9ZO74ZiV2wwDVSKumn3PMhtgab3HSty9maq8q01C60ZQLsy9P6vQPY13qbXKWmVnlo7Bs4Zx1hWg7KeCsUCdSpuErk7WyvfoVmGJorUAnKjRAuvqN1/OqALc7xR9Av18wCjwQgu4h/Wpg+oyBc5;YCKSuhytE1CojFxxWLJrNA=="
 ---
 

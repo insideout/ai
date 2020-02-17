@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/amp/"
 type: article
 quality: 104
-heat: 106
+heat: 104
 published: true
 
 provider:

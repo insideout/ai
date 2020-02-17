@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
-excerpt: "PHOENIX – A man who previously worked for a Waymo contractor was arrested on suspicion of intentionally causing a collision with one of the company’s self-driving vehicles last month in Arizona. Raymond Tang, 31, was reportedly fired from Genesis10, a staffing agency that contracted with Waymo, prior to the Jan. 30 collision in Tempe ..."
-publishedDateTime: 2020-02-14T00:02:00Z
-webUrl: "https://www.usatoday.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
-ampWebUrl: "https://amp.usatoday.com/amp/4755099002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4755099002"
+excerpt: "Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles."
+publishedDateTime: 2020-02-14T00:05:00Z
+webUrl: "https://www.azcentral.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
+ampWebUrl: "https://amp.azcentral.com/amp/4755099002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4755099002"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - AI
@@ -115,6 +115,6 @@ related:
         width: 1200
         height: 675
 
-secured: "AUFGsChhMv6laXrWlZFvHcmH7R21htAhhdsGf2CsdyDjU4al9hwGVk8WtzlqhJ7GHL9NhgNPuyubhjiwAyClPx4Osghoyb9RMe7oAXvw0ZVpHQjS4uWomCzf90RUbWyzgYa+iEiWIP10dcQPzZZXvBpe/sdHhB8Nfr13jGQ81pdDjfFfgxHj46JCsiDL6q+/1aSio1lv4IJdAW8EiYdvVSTwCl6vtumWFXny6Onc3g3LVCCjiexEkUXuLE62vINqnj/GPQf3UNuwk/cKQNSZOOeulwrJWrkUm/dlphCicLQ2nvHE9srejXIUtGwD66jk7bWj9zxyaPPnqBfufN1ZBPa03ZYyd+pzsJZGFJJVwgfCZS4YK+TDFBn1dbq+H/5IPq1h2TV6C2QUekLYFvSQuG3tSH8nY5be4bG8FWYyjpTvfllDsJvbv0ueuOeRxqgW9T6wGtAAyLycwECkfZo8OL0u8MtkdAUUz6RQrURGmBE=;NE/BjC9AZcsrSRgf9tbF0w=="
+secured: "3u87cUxhihGa21XHu46M+xAFUPliJ7eUdBz2r2+7KoI3P1BCMyFK0eWDXzVufUaR2Q7Sz7s1GpTaS4Q2GNcNCwE2U5CC8N3nUCWjUWGvB43Mv11ABe9VT+JdW8XVQxBY+3haBARm0V2/Zn18ljs4Qn023mug3Qp+WLUtaE4R1BJFplVsZaY8jrsmSTAKU8ki+VdC4dSwffMWDFOInC0TC3wwt5fxESmLG2ftRDLzFSWXfMcEj8TXnIE56qG581nhtr4YJCWQ5OyDXmoRViGyeBOj+U7z/bFPspFyprXcqK0mGj0NnNckZnfVukear2Nf;5zF96BeDivUWPt9vZBG8Lg=="
 ---
 

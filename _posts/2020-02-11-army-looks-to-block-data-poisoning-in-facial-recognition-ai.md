@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T17:17:00Z
 webUrl: "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/"
 type: article
 quality: 154
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -231,6 +231,21 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
+  - title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
+    excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI), will stop short of imposing an outright ban, a top official said."
+    publishedDateTime: 2020-02-16T23:43:00Z
+    webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 29
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_073744.jpg?itok=8I6egWZ4&v=1581896270"
+        width: 1200
+        height: 630
 
 secured: "LfCcviAPd24pLznlCC+z4HsN4lrp8fpmRoYz2kyNs0PIdwVmSKlPLPlWZ+oyV/GqtYu/ub0hjXu0QPYI/dYtp1SuxgRJmmHGqKfIcAvGSSt4FoycYtlWqPJ3ccDD42FmRLyzumrYpU/WhEiExavFJIwckXlNeGnXTEHuKWphX5msqDtqnDQJIoI0PQ/Vcn4IdiURfdZ1EhcqtvR76F6sgHef1DQvKlMOGXqheOeJl0CTTat+VxV843pZgHkwiSz/FPTqpyzzLno8F7tr2IRwVUFF8iQvlJ08DpTiwgrORvekND1//4f32hmo8KWTE8Y8eSeComAMyXNrtlUI04S+M9wByUTGpP++MjcGpvI0JQWFoSoDK8Z5fp/w6WAkG78uWJ6SdxSpq/clAKpUI6oAQX7ZYiEBP9scMF46sCpTzO6fchrQEe16cFx1mHU21ZsDJ0/p1n7ax5g+H0Ai9qsk0sN5A+DqYWcMSOvbcdkuLlQB7loPRGm4ksAzjB4HTtOs;XDNGKQof1ZhmI71KNKP1NA=="
 ---

@@ -27,6 +27,6 @@ images:
     height: 413
     title: "Install TensorFlow GPU on Ubuntu 18.04 LTS"
 
-secured: "iuAADvXkVE6r0P2FYWwXdXvN7mz1ihXEwAJxWrhjZflyV0k85MNlaj7A6qr44oYcs3ziKgJTM4MRz5/ZjMIcWj4nZZmUfA4S7G68DY8AypCc6dQguhbL8rn3gX8MtftNGK9jzhtW8NqFr2yVFnGpI1KH2kKAo/Y43VtxUsNs8Xham6GuZKdZ0rK8trCm1LlNElvdeiyHXOtI/UBOhPnwt/XHcBuwhtj1Ydiq4ytuA2nFOiVchy7jIvcOx10tYeARJTOr/yQfqFJ2i63GhS7H6tLEfgBXK8QK0CU7RX3OzZc3nNpWQOuQbHX5GzAUY2mH;WFd8TPfUk6ETrQl6927XMg=="
+secured: "vrMXjjmnJ2sQsgxr5XxeCoEnvQQEDZtCSEHI4y1FE4/kYcc4e6uedqPMVWkc3rDXs4+kPd1qRvYUCDdNOk3EcJq2C+M6lhhyknt1PMfF8opIb91hzdnYnnhh38soFraEKuxqD9cOXhFpOC/UjiGNS3glKDfVe4yxiVpUQa6h9/D3p+On61WK3K+OMm3fbfVWq/WxyJhr6XA/ZxhltGtuyyFqFCol4U91+RyNnlLSSkZ1zUZglPPHL1i23gkpB3lh33iwtkZdNMqciA7DH9DoPRWXxw79m/LGPZBlggbmjguLqJL9Zn54aK6yf+diPadn;lJ36M51ahoP52Vt9YEEZ7Q=="
 ---
 

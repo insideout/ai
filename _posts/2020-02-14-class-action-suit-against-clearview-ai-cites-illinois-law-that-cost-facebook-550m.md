@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/14/class-action-suit-against-clearvie
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/"
 type: article
 quality: 81
-heat: 85
+heat: 81
 published: true
 
 provider:
