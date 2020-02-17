@@ -1,7 +1,7 @@
 ---
 category: news
 title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
+excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology ..."
 publishedDateTime: 2020-02-14T12:00:00Z
 webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
 type: article
@@ -466,6 +466,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "283jl3Ptb+2C5sJjqmXK/KbreYTu51SbjXT/N/NuYH05egTNcRX8zlfTEAClN4CGiyVOAgETwVQG6lTUbUBnfgav8kByveJ3PlndDqRJacbjFqA07ZP2D1t31tLVf0FeI4wiVXwL9HB5yfPBn2M4038E+M5UjKvSB2lajdmpL0TUe/dtpAz495BHt7zRqkPlVqz5AgB9pBX/9PVauDeGqRbk7yDMSHpRRg00a5PWXOyzgLx0ilg/CEvhIvm9pAKD4VGwjS/fZqsPKk+RcsyN/Kd9K9MEZuZNOH5dk9I+FCtjeIZNcFe8Qf9Jwpj7QEEK;EK/EJUYExd6np09V8/ch9w=="
+secured: "ZZYBsWuaCd+vbxl9YWiLqf1S37EoXWEK0FcYmRih8OGsgaxWv2W6uQmY6411oU+9SJepTpTIFcLj5HXAUuTdCRP0Mf1oFvebfAbxLRcyXsEgGqSQJevH8NvPX73G+4egA2WN2GUQSSujciOAhdYfVVbJ2p1NM029t8TWvn3eSkEx+6yRgjUTIvMSVzZNKkfIXyAOcsfmGUrjPVCzBm0ChEwrrNk03+EBn7p4fO1/pYXDHnTnXcAIFXUrPLFqMMZItbRUn7WBCsyYN75O8uaTylFkJ1Ls/E+5YkPbq8qy4unyXZ6K4vCTfnGWE1slJDRD;pBAgpeev9HDJje2HelVnXQ=="
 ---
 

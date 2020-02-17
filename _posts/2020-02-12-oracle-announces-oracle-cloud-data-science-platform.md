@@ -39,6 +39,21 @@ related:
       - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg"
         width: 700
         height: 467
+  - title: "Everything OK down there in the Oracle trench? Good. Big Red has a cloud-based data science platform for you"
+    excerpt: "Meanwhile, H2O.ai launched tools which automate many of the processes in developing machine-learning models in its Driverless AI product in 2017. Microsoft also offers its Azure Machine Learning Studio, which it says streamlines the machine learning lifecycle, from building models to deployment and management. Google and AWS have similar tools."
+    publishedDateTime: 2020-02-17T09:30:00Z
+    webUrl: "https://www.theregister.co.uk/2020/02/17/oracle_data_science_platform/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/17/oracle_data_science_platform/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/17/oracle_data_science_platform/"
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 27
+    images:
+      - url: "https://regmedia.co.uk/2017/04/03/cloud-jump.jpg"
+        width: 648
+        height: 348
   - title: "GigaSpaces Launches GigaSpaces Cloud Managed Service on Google Cloud Platform"
     excerpt: "With GigaSpaces, enterprises can operationalize machine learning and transactional processing to gain real-time insights ... are leveraged by hundreds of Tier-1 and Fortune-listed organizations worldwide across financial services, retail, transportation, telecom, healthcare, and more. GigaSpaces offices are located in the US, Europe and Asia."
     publishedDateTime: 2020-02-11T14:38:00Z

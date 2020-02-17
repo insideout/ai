@@ -77,18 +77,14 @@ related:
       domain: benzinga.com
     quality: 17
   - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
-    excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to facilitate the iplementation of deep learning-based machine vision. Xilinx, a Field ..."
-    publishedDateTime: 2020-02-11T09:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/02/11/9095302.htm"
+    excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to facilitate the implementation of deep learning-based machine vision. Xilinx, a Field ..."
+    publishedDateTime: 2020-02-11T10:29:00Z
+    webUrl: "https://www.abiresearch.com/press/installed-base-machine-vision-systems-industrial-manufacturing-reach-near-100-million-2025/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 0
 
 secured: "+VQuA4Dystr25q8TQSzSRTizxeD13kSEBSLz+45TQ1uqje3ZGR2B9VvuKu/aEj3hKndLd0DYpGqVHn4uIdjCTnx4nCGJ3cG0iKyhdndR9jbjby8TAOs++HcYIRcyL8PlIoQeuQIXrgzu4QK8zlOjuzE9oJVvFdKy3X1mgFJ7gRsylFYPQ69RJ/ppB+xgEuH7JTjTa5IEGSW6MR2IjQii13CA8mM0IrG9kIq/sD9+zDB9oMXuhG4whDR9HOkzUxsjGsypQRBkC+I/YsIKPiugSpn6LVWUSw8nUIR2mE5IjGw9NsjSwvSeUUW95w89tyXN;1QSLRrdXGKEyrn9FbTkoYA=="
 ---

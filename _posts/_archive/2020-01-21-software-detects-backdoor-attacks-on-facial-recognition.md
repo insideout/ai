@@ -66,6 +66,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "Rl2YcVnMn88bZhaW7TxZSPbgaRDMsxCxw01sx9CNlaICbs3tjULr9coo2XpxHAKtLesDq0COaj4ZhYiAenSdduFnbQIh9mZwIw50zAIXSjjpzGY9dfy+9U/O423E93+/mUs/ZyNR1JCwsc/B580OygIWhDj4an31zkHdvKVGaNznwiKYzledHqES8IpFWZOyfKHHdGXFyq8hps7Q5M3S/AXBPJEpTwSLshiCWzK7FkI6YVd92vXw81mW8+/mVwcme+YTOf8/kzIxaz8nRjhnK+pebDvmfs5F++0Pg1mcxy4wKJEHPeHOCMPQ7/gaTMI7;DNldiDKOkfh9alwZzCd9/Q=="
+secured: "AOW0FiUlqjYrQJRaO87525AvALKc9YRrCDCj4m18UxeDqik4eABWB7mRHM9v3rUwhSymx7GVySqxeovzp1QhnWO9Ib+1KvcFrdEWubuveuMUWOJ2qIKAOhX8vzYtcXUS8FJJEBvr2B64+hNGurjvI+UmEA3L0F0tmowzWbPz7MNt9yImS5DGawYEDwYHhgBc7ZQfsMzqcYXBz22QWnvgz/Sm7Saua2aVomfiecG1SgU/6bJT1e2dqBL55sq88IFLInBw8ciAj8JmdIk7W8nhaGeICWm4G8hZW64VcnudXXMgOvmWlae+lDEpOlfCfCH4;uD1pgMKQ1CXAKZ3xDl4yaQ=="
 ---
 

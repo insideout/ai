@@ -20,6 +20,21 @@ topics:
   - AI in Finance
 
 related:
+  - title: "Fintech's Consolidation Creates Investment Opportunities"
+    excerpt: "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,"
+    publishedDateTime: 2020-02-05T17:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05"
+    ampWebUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1823106049"
+        width: 1024
+        height: 512
   - title: "The Future Of Android Integration In The Fintech industry"
     excerpt: "Though there are a number of benefits to Fintech technology and the effect that it has had on the market, it is also important to note that this style of financial payment will require further development in security. With Visa and a number of other companies using Ai and other technologies to create a highly secure two-step verification ..."
     publishedDateTime: 2020-02-05T08:11:00Z
@@ -35,69 +50,24 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/02/Trading-analysis-forex-chart-image-1.jpg"
         width: 910
         height: 607
-  - title: "Vertical Integration Is Eating The Datacenter, Part Three"
-    excerpt: "Azure Stack HCI (previously called Microsoft Windows Server Software Defined ... AWS Local Zones are intended to provide very low latency for high performance applications in media and entertainment, ad-tech and machine learning – aiming at the center of LA’s content production and advertising industries. These applications are adjacent ..."
-    publishedDateTime: 2020-02-10T18:57:00Z
-    webUrl: "https://www.nextplatform.com/2020/02/10/vertical-integration-is-eating-the-datacenter-part-three/"
-    ampWebUrl: "https://www.nextplatform.com/2020/02/10/vertical-integration-is-eating-the-datacenter-part-three/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/02/10/vertical-integration-is-eating-the-datacenter-part-three/amp/"
+  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
+    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
+    publishedDateTime: 2020-02-04T04:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/skyscraper-cloud-looking-up-vertical-1024x1024.jpg"
-        width: 1024
-        height: 1024
-  - title: "Artificial Intelligence in Fiction, Fact, and Our Dreams for the Future"
-    excerpt: "To celebrate the launch of Machina, a new story about the race to build the robots and AI that will take us to Mars ... The first is the actual shape “artificial intelligence” has taken so far—neural network based reinforcement learning as in AlphaGo, for example, or deepfakes. These tools let us point complex computer systems at a ..."
-    publishedDateTime: 2020-02-03T13:00:00Z
-    webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/"
-    type: article
-    provider:
-      name: Tor.com
-      domain: tor.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://i0.wp.com/www.tor.com/wp-content/uploads/2020/01/Artificial_Neural_Network_with_Chip.jpg?fit=1200%2C+9999&crop=0%2C0%2C100%2C686px&quality=100&ssl=1"
-        width: 1200
-        height: 686
-  - title: "Artificial intelligence in the real estate industry"
-    excerpt: "While it was once considered an advanced technology of the future, artificial intelligence is very much a present-day reality. Thanks to inventions like self-driving cars, home assistant devices, automatic vacuum cleaners and remote home security solutions, Artificial Intelligence is on everyone’s lips. Since AI seems to affect both the ..."
-    publishedDateTime: 2020-02-03T09:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/02/03/artificial-intelligence-in-the-real-estate-industry/29447/"
+  - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
+    excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
+    publishedDateTime: 2020-02-06T09:44:00Z
+    webUrl: "https://www.openpr.com/news/1920717/just-ai-a-conversational-ai-solutions-provider-receives"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/joevren-brandon-griggs.jpg"
-        width: 750
-        height: 500
-  - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
-    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
-    publishedDateTime: 2020-02-04T17:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/reckoons-blockchain--ai-enabled-solution-is-shaping-the-future-of-the-retail-industry-300998820.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
-        width: 1199
-        height: 628
-  - title: "SAP Achieves First-Place Rankings in Internationally Recognized CeFPro Fintech Leaders 2020 Report"
-    excerpt: "“In essence, this is an endorsement by the industry of SAP’s position within the fintech space.” CeFPro (cefpro.com) also includes research on industry trends, priorities and challenges. Key findings highlight advanced analytics and AI as leading opportunities. These takeaways underscore the importance of making technology the backbone of ..."
-    publishedDateTime: 2020-02-06T22:53:00Z
-    webUrl: "https://www.newswiretoday.com/news/172295/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 3
 
 secured: "s2zt8BjL5jlt6L9gKc4BXgZSUglvF5e3BdTUOY0AXFO2sBJ+a7j9RRspWEXxrgOno9cbM7TGiNbTr6vj+4fzxJHps8Nyd36QCK883QIvLKQDIOguBEs2vXpBOqn42PP5uJPje0CLb9f0p+5kMs+mlxr2xPee1XyMCtmiwbZsRnwXZBAEnW1iT6yZRj4hlbHZHI6NFZLMyrAI1aljLLixFcK1JL175bzkqPd+QC5WzJZiy4GjIj104BVZ3fDyLTsrSUYsiGFDXSRAlqwvhObtfo4jVs27THl+S28TYeapUPGxsG9lQGAAbVY5X5h7GSdMB41Zfuay9CiPVHw3Zxujtbm40dsDXaH60wbLK/+MXf9IzRoCHPr3wg6a6zDBgA1rJs3MmbYNUOxMa4+3pJmCgkXHqIQ8x6oH6VYYDWRSzl37oPoARJ6+0wu9CHp2+cN6zF4d+ldWNX0WO3xAsOh5+YcaD6dzIuwzabR8Dgqk+BQ=;qZaZ/D7F82GrkzMht/ksHA=="
 ---

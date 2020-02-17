@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -24,18 +24,18 @@ images:
     title: "AI could kickstart early radiation therapy for cancer patients"
 
 related:
-  - title: "AI can help early start of radiation therapy, prevent cancer metastasis"
-    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several ..."
-    publishedDateTime: 2020-02-04T11:55:00Z
-    webUrl: "https://medicaldialogues.in/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
-    ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
+  - title: "AI can jump-start radiation therapy for cancer patients"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
+    publishedDateTime: 2020-01-28T07:25:00Z
+    webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
     type: article
     provider:
-      name: Daily
-      domain: medicaldialogues.in
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 54
 
-secured: "N9ZL4bsbRYGxQ7ffgPjUBMOzmLxliHb0eUIYiPbzxEGhH3iM5cO/NNyWZ+CFHk87IPK5JTbVlt6Nk7TiG5pO2LYzXINdscUrxwuDOOPA5GZ180Ym//zkM9kl691LRq4DnsubKFqfhXk9H5Hf/QvinhcMv9+Q7ZGOZ30DLzPDlcFgXkATpxFB81L4P4aD6hSX1fkD3JW7ogOYlP6lCdgrgt3vNrkYcwqB9dLQhUvaYKEnSTS0uXZwWvoQCvqX9lWs7ZpgeWtVYG8GWgYvqhBQFLrBzgVP2vM4qIROrYx7oo22/dccHwladOag+T2YgLf0;yr/sx9rgtNr2tzl7qtnWEw=="
+secured: "ybZBoX95JrU66W8vQeSdwGZjqPq53UhBkxiy7HfANt9VOYrSCxLiF1pO0jgo6I5vM0xJeKpNeb02T5kiwACqnSR6YiQrE/72hfGQNemi1n7NRyMLMTu0lDXeixDEt/kLR5Oayfv2Y6ySavHJZ0/yGsR5Z7mjV2TCB43u0P4J5kCRptTQrnNWXV9Buog+vppXai3/eCb/Ec2Dtju2UfBI/oBhWfpIPHur5zGexPjAKb1Jb1F3BaEuYkepnGty7YiegwqtKpRGrSCRUjLZt3IQ+CKCfF4qjwqJbqc4uvmsZPjWGzmSD3un6yOj96B4bj7g;sjykMJ6HCVY7PD6JbQRoVA=="
 ---
 

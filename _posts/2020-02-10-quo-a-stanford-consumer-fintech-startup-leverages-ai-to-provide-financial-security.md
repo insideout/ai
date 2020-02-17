@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security"
 
 related:
+  - title: "This fintech startup incubated by Comviva is simplifying financial access to the un-banked"
+    excerpt: "In this process, there are also instances where such new companies are successfully incubated by these large organisations. The fintech startup aims to simplify financial access to the un-banked in emerging markets such as Africa, Asia, and Latin America using mobile phones. Yabx was incubated in December 2017 within Comviva, a company which ..."
+    publishedDateTime: 2020-02-17T09:29:00Z
+    webUrl: "https://yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx"
+    ampWebUrl: "https://yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 49
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Yabxp-1581861640635.png?fm=png&auto=format"
+        width: 800
+        height: 400
   - title: "RegTech startup Signzy wins Most Innovative Fintech Data Solution Provider Award"
     excerpt: "Signzy, through its AI-based decision engines and back office automation solutions ... Today, it works with over 90 banks, NBFCs and FinTech companies globally, including Mastercard, SBI Bank, ICICI Bank, HDFC Bank and RBL Bank, among others. It has completed 5 million new customer onboarding transactions in the last two years."
     publishedDateTime: 2020-02-12T14:29:00Z

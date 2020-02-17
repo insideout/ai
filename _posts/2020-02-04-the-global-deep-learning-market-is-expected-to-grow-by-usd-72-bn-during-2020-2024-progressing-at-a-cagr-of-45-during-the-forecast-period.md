@@ -74,6 +74,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "North American $30+ Billion Artificial Intelligence (AI) Chip Market Outlook to 2027: Projecting a CAGR of 32%"
+    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"North America Artificial Intelligence Chip Market to 2027 - Regional Analysis and Forecasts"
+    publishedDateTime: 2020-01-31T09:18:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1977988/0/en/North-American-30-Billion-Artificial-Intelligence-AI-Chip-Market-Outlook-to-2027-Projecting-a-CAGR-of-32.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 14
   - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
     excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
     publishedDateTime: 2020-02-05T15:33:00Z

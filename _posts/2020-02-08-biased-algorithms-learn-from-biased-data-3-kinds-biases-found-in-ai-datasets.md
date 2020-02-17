@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algori
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets"
 
 related:
-  - title: "New Algorithm to make AI less biased"
-    excerpt: "A researcher from Queen’s University Belfast has developed an innovative new algorithm that will help make artificial intelligence (AI) fairer and less biased when processing data. Companies often use AI technologies to sift through huge amounts of data in situations such as an oversubscribed job vacancy or in policing when there is a large ..."
-    publishedDateTime: 2020-02-02T16:15:00Z
-    webUrl: "https://insidehpc.com/2020/02/new-algorithm-to-make-ai-less-biased/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/02/ai.jpg"
-        width: 523
-        height: 519
   - title: "The Telos Foundation Welcomes Unbiased, a Data Marketplace Designed to Combat Bias in Artificial Intelligence"
     excerpt: "/PRNewswire/ -- The artificial intelligence community has a problem; their data sources are riddled with bias. \"We live in the era of AI, and data"
     publishedDateTime: 2020-02-13T16:35:00Z

@@ -33,7 +33,7 @@ related:
         height: 630
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
     excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements ..."
-    publishedDateTime: 2020-01-22T11:00:00Z
+    publishedDateTime: 2020-01-22T21:37:00Z
     webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
     type: article
     provider:
@@ -41,6 +41,6 @@ related:
       domain: arnnet.com.au
     quality: 12
 
-secured: "TkL+m/PiaK3KqslCt0FhNJHBj510iPc9BxUoKRqAhpwelmZmFrZr/BSz0cvpRSyZ15t4E+R7k8jA2IIf+il5slHu/vmWPwJbuPNw7uwywl5zdyr6BlHbEmqY+Hj9H4Kc+cHfTeI+zrRg5QnBCXDFxB/Um6c434f+GaDNk0H005rucfVd7B+0Mk3DvflfDxWpMs265rxk5BqvSyRqO6f1HXWiIro0i01pKhEdaJHhFKjF2XCE1E8ik/VJRhh19WhJJQPXhEwSqiCbe+tbCCgIoAuiLam11CyX30jbEURKRLPCjxL7r0dpJh7BuePIZSIN;mxRcvo20UNocbpOwdgzfGQ=="
+secured: "2oGk/fkFzE6MNeT4rNrLuZDTQlnTLARyWo8Ub7fqDMAOM6Lr1FcEc6bfMnv72GST4m9wNCN13HK644NJFMrAhmvu/4QyjhdYBpOik3X107caQbwW2jALiwKXd51k1bBI1etmV/7Wo37gv+VAIHgZEgZcHrG1Uyvh5rCB/2SceVC+h1yN9/F8/0gBEsG8BP1YuhyokIQwBqxM2LlYFK007C/yvIw4jb8AB6GS7TJkiyyy3ez88EX/VFbAMnGZRr2PBQJQCWgSy0maX0sxqg0+QOmL6l8S8HjVDPT6Hq6rsRBMFACv3IS0MZm0vvZGbYcr;Oj49zvnnWhX4sxDrPMD4ZQ=="
 ---
 

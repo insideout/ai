@@ -41,6 +41,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e3f539b8b6cf300071e3b09/960x0.jpg?fit=scale"
         width: 711
         height: 533
+  - title: "This fintech startup incubated by Comviva is simplifying financial access to the un-banked"
+    excerpt: "In this process, there are also instances where such new companies are successfully incubated by these large organisations. The fintech startup aims to simplify financial access to the un-banked in emerging markets such as Africa, Asia, and Latin America using mobile phones. Yabx was incubated in December 2017 within Comviva, a company which ..."
+    publishedDateTime: 2020-02-17T09:29:00Z
+    webUrl: "https://yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx"
+    ampWebUrl: "https://yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 49
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Yabxp-1581861640635.png?fm=png&auto=format"
+        width: 800
+        height: 400
 
 secured: "guFzaL7HviIQKev9JfByTUd8t/oEkgayk48GDqrUH0C0jan+qtI6bXbD18y5INcyRl37sRDVCqsc755qxT0cFAhrt4RcblPiHgVBx4e76t2y16KtEpuJqO1zC3pl/syy9CCWY1z5Ts6GGUqtuBl9ImKknhhIQJcs6NcsX4xpqoR0B3cyqjVYBz6vrDLOwjvffrkyZ/VEVcijMoJcipeUQQ2XddYlENTFdyFGr/J+lQWsDtvxiNlKFEFjYDNwEk0FhUldosoVnboDRr+IRqRGU9LMPW89AjGX1srcMizgmS2W+Kjef6LwUZHQEQ0myncXM53IlZEnfquYi2JCjPU5ASqbXwuTzmjkAh4qC+8F4NltX+RpqGbSzs9YEWD8hlFN4WKo7VAmHrrENUG5gKEqg2PDHkhIfpGO/tewdPxoEoxMvWDDjo5rWF8M0q8PfajXEAWQwhim+bj58VP48d7ndG83teKYPnCSWTpoehiIUF8=;R8yuyX88t/Gb9ZIPB3kwkA=="
 ---

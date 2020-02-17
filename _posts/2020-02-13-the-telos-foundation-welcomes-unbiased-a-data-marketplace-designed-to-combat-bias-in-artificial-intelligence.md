@@ -39,19 +39,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3e257cf133f400076bf4fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5785%26cropY1%3D413%26cropY2%3D3667"
         width: 1200
         height: 675
-  - title: "New Algorithm to make AI less biased"
-    excerpt: "A researcher from Queen’s University Belfast has developed an innovative new algorithm that will help make artificial intelligence (AI) fairer and less biased when processing data. Companies often use AI technologies to sift through huge amounts of data in situations such as an oversubscribed job vacancy or in policing when there is a large ..."
-    publishedDateTime: 2020-02-02T16:15:00Z
-    webUrl: "https://insidehpc.com/2020/02/new-algorithm-to-make-ai-less-biased/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/02/ai.jpg"
-        width: 523
-        height: 519
 
 secured: "A4I9M5w5qV0IgsqErINKyegC/xRhGoVDSOVaI1+AysUqjxrj8Ec55DDD+98bmHXFNeUGERmVDiBLCeqb1lo51s8wYqzroAWvNDTiius3A7JBU3w9wy6mWLZj9OzlMv4aR4u87N2JLNnFWkCJ86gJkVpWRCjh8qP3fJslVCOArr2RRv8b9Kf0ACO6pZv2tgqatGBinjYLvVG6d4D3YxvgmL5dooDao5yQx0rzaT+6IGLD2Ed/9JG9TAiqjvKj9SCUu7RuMIxRytd6FxsnqP5sxeNZ2gzQ4aZVFNXNbD2x0NoCk66bkg6vqWcZrqybZme/Fzfm6gy5/XrR0OEGcUV39DHdep0KGua8DRnHcDsjj3tjoWDysoi1OT0TkkBL7owJpGhqZT5oSflsTQh5br+2ACcemvNB3a540LJ+aKqK3vQY7gGTebE5u5DKsuWupFVEl0MhLRLK1grJ5rCRFfkU4qCpjz37EjWMJ2xLmKOH3NM=;eOe0M0yABS2k+VrpWpV80Q=="
 ---
