@@ -27,6 +27,6 @@ images:
     height: 585
     title: "Building Tensorflow from source. Step by step guide."
 
-secured: "fnlcB5QycQB05qRE5nXyv5ReiqnYFp5M4RhNj99EC5lUsx2IIeCJVugNqEIl69Osg/32mcj5qNw8AW/vn/ujMwLgNwJuuUlWuE8MI4MAh4DCUz5EGuyG1JrZy7QBL5VAPmzOsxe+1dZS/nIH3CuNOGJrvTbVLroBsyCzfGT+6vCEbG9GmY6gjK/OTdqHEslfvHxRIYcolp+oieKs8w75cApRev0rVjOALAXQlVFIA9x/3iwbyMGzDTNnVMoe/bq+TbuNeS9S+aq0ucOAsFEp3qCfyo6zZk41vwljcWbrU4eATLvc/O9FsmQmMoD3DO8N;aStyMPuAOBq0YvVEe1iHAw=="
+secured: "HsQf9k7Wlcvn5DriKsWEJN4TiVnGams5Cvb5WecGNCWNaK/QOmwrx7Rn3VNQbbiBgWgaU6LAnCOQ1lqaEPcAqj+QBmDRY8uY0wZKSytYte9NuCrWNWeMiz171z3xe2pxa3VxsGq6ULhEqf0e8R7zzU5vxMj06hUlf+DW7NfLamkQS+AcD44ED3KGAhp50C5+Xjg2g7uXIdzXpnylnizVPFr5wsTorgdPgvGY420fSEw5BUDuoSNVWoEl7vDKdNGBSp2YczOVLEM8l17yaRu48oA0eJNzxsjO2ZobHL4acXYeuSx0oDeXX4gqlseh4KHk;IlJClZPG+FSaTyUpnjacrA=="
 ---
 

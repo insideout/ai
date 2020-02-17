@@ -53,6 +53,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "MS/vAfT4ip+yhxK83J9VDjfJedzfUDE13fTXXyxIYO7zffjtzckWmPHpdshLKACXvAR48ZfVMwFIDGXCEfnGZ4HCd2JKkSA/mEwJUTA+B2wguEfNGeTGeIHh/m/9jGocE95KhXVlbyb07NWgb2QBiAVdUzUtYZqJUsJ2W2WwHQB4eDTWnf5KFibn6ntEoitlynwtIKKj/61Fmzsrk1qDVy6QquYhFRDWDDaj5PMZrClzQoqiIkOGfC2bK4r5Fv+FObUgc+nZSzGVJ8lMYRMsl+0W6XujlBS4tHAANHzUzfHx/CE++nGyIVHNmCc08ewe;zM4k8OkefdKiXsQ5lVcAYw=="
+secured: "8dLhwK/JGzR8W3TDro0wRqU/jiOp+fb7Vi50Gsnw7YgBOFpjeHWWo7citJs6s/0CwUnIbXxdOv3J7SJi+YhUXrvza+1DBVB1q0bjJMKH3eOscHgg2A1m41F5qEn9THXXnrLGvPKaQJe2yLe8ZDCTL4cGQImFVGWbvQHLOF/Nfpnbww1jm5skIwj8ct+uTq2ot3xKN4rzhL8hnflflv0luOtqWv+AIz+NBunKfr1MMLlaPzd8DdAUq2tCZAV0iJRMpxjDzdzyNXLY3ao/jE1NhCCuC4HtqggNLfPkHZnJkDbXvStlnLfsw593dZqjwQez;cwuqyEK1nBTRJJIgkYWmrw=="
 ---
 

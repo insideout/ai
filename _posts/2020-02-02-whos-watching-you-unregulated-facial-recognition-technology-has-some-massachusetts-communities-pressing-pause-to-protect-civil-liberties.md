@@ -81,15 +81,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
-    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-02T11:38:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 0
 
 secured: "cfO6/pJxrXK2ShxgWYraoleX9bZd5xjvVRIY9GpYmwmI5LgyZOrzTXQQDqaRyqwnj3t7dir9YrMsmkrsD4PFNE4/SBYxL3UgSl4brvKrUBToun6CkvYtU8WE97ZSBJOTwwUCEdhPLb4JTxt4WYhS2TF27cnn7ooCrSMErZW6KrXuk0ihfAGAwXlJs8pQenbXK1VHNIzE/Fmu+pS48tx/jWDkkgwN8QZ3mdBKxIABkfGeJeXURzw7BI+WcygxZnc47QgoQCDjNOkZd/lhD5klrU+1FDQNyeTVXWvlkjGFbDmQRjPuZkJfEpCjoQTf+oLs4ir0Sq+/znZwtQkMCkRqDHEPjSgceJaOT403d+5mKFZxJaxh19lyRnTV+dMI3+tWwxLdrAZjFXBC8nHZEjGl9uNI1A3fq5RBFpTcnW+t0+Fd+TAY/UCei28oTOIvYfhplcJ/pkXg7HR/Byx4dYz7GBJbDRE9qU4X+qiACmG/YBA=;+KF8I1X/vzymCbHuN37a0Q=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -84,16 +84,7 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
         width: 2233
         height: 1675
-  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
-    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-02T11:38:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 0
 
-secured: "181Ut+PkKk30yGw9/CnG978GoUWkWK2ys61O4uJFwt99n9b0BmL8TL+acYynKcMs8lnDIKugzCk1Mg/NuGRLu8bTuWTRUAy51/x9hDZN7ETUgb/+d4bmD4KAC3zleFHoL55VnupEZFvrVRsojzZepa6frwodcG1ylwGGTIQF8KFgC6pxwl0iorrHxZ3oZ/dkOtx85HSRUsFcKA0y4EstQJH3Fqn9BWVlJk3kvHITILqEuK+7U6VlXLfKLlj1GKGKbDdVD3mmEwCkMdXjkkGDUNIo+O7JEJ+7af5f6LqKSPaJBzXv1aVFeTQNr8k6KSkg;JbAqrp0zlP1jRSQzmRTa8A=="
+secured: "5P+mZeqxTZ0bUJd364OJHZFkiPsJFle2md2y4X/VNY9CfAi+MM7kyu4lD8VW7uxZFHC7SCRbJ+41bAL//PyfIJWJp9kg5554AqCTsuK5SED75lEBwR0GE6g4ztpdALP4ZTNtjixXJ/cFuFDnxuOWZwcoQIQTKNGS0WtaN5mSKIdzfJ4BwJpJRrZkGA4smTHbknNtEHv8AQ6K/glHHkemgaJSrNlBjfZ2SJG53AK4Zg1DYC3c931znSuV/cpTHO8U6jsp0RA7mvFEH9AKBbPj/QiWe7sgWHGc9l/JJSAYiGpkTgGgsbGFYTIGxs5n7pRX;4yAhB1IWl46sRizHNKD0Vg=="
 ---
 

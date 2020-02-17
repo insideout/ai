@@ -41,6 +41,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "rK/DYn2Z0n7TXkPbrCqHpoq26TcVxC1zIvU3ZVdPE8pThJsc8+S7zMgwLWdzP5n9AnqobUvJC98qZel3uC5BXo7BLLY+F8JITI1Y6KVmlABEnsqEl2tfBL/5MKDwr9NZGVyPRc+Fc56HsWa6dm4kLLC4nNEqqcEbSxtgTfJuUndtK88CR8ks0FtRFbBPLvWM2t+YfNTcYAaDTNYRFBnWKY2eBz6yFNSDZKWBzNEaP0MMkk3sov8YTsJ3UexncBzgkKBPDa3Bkmn190BUj4wMog3p6moV6QzGqAZBA3KG6WuwHqu94qFSq1IfWRIgy/Cf;9nBND02Ib0v2A1baagkXnQ=="
+secured: "3oIdt58b8R0F/6Tr7fJqMZpEfDiyLO0SKApbfJJpXxgMjqHmD02S0TA/eoqcCcaIdWmJS0Q2ZXGuv1wfEn4CvKIgd9FzssIemcYrB+guBpLCYrlLd9g7gc04DTKrWu5WC+Hqk5gPIos0izwo9KrqTFQrKN1FnC5acptvAdcld18LSGBmKNdtn8tTEdCul/0tof8Px/SgXxUv96+S252T70kQ1aGUklgFwInUsMc7g5OtZa9g24AhBFvzbprBh+Yh9mib8TGF0QBekGkrAQ6VC+EbhnvXeTRzD3kPtNabvvV8Eb/gtm499fp8+iD/osXE;CxFVtO3xEK7a+iU5mfezMQ=="
 ---
 

@@ -80,16 +80,7 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
         width: 2233
         height: 1675
-  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
-    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-02T11:38:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 0
 
-secured: "FL8AJo514HnoV3VcxqYLtFw0WhHE02yb4kR/qMBFSwtzTlqTLuBRe3I8xEI0MZwDNXA658btDlcRqAa6W1WFc0IVVSxxeBOD3ELUk2d2TMkyMEUlDqbTqoi+Q0ncXnhxzguaoRW+YWFoJnvb1Hk22rAIii+0oZbDrZmD2H3p9onifnmN5cuw2EamNOgJ+NpTa35eL9k8XrqXZTYrCb1AjKYxFwVSRq5uWsZSjKv7G8peeN8ow75lTBfCpE3io9K3un8QdfX/jtj0F9YyV5cEK1mrsuMVzcM8TV2B7ixYwOy6HYJ5aFIhoro0lDjgbphQ;eYfBSR58qUjREh/qJFCxHA=="
+secured: "hPbCZs60UIggw1oou9LE6/3F2l48ClZTXZF7ewOG9Wpj/lUXPdVm1utdhnC4hzRB2U1+ATYICJYmjxV8uvBKuNSeVfZCtDwGyA4ktR++44VtGInMNn2pU1ukteWnOilUeth+iIBepV4NijQpiaPFDilSJGAnaXxdpWjpcHSwtY17zPoI5HnYhlVQAuzm/VqNII+ilTsJswawoFVWGJ2cBEdysju9vBtlwmmt+blNXyNdwvNlUq7MO7A55cTvIGrY7RYN8GupACFxcTeTlmI0vfig0GCCfmiyixD/3KUXJi1AAWFdixGvY0Rip3T97B5D;7QMeePZdxeYKg/2fek8/Jw=="
 ---
 

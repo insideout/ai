@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     title: "Who Is Responsible In A Crash With A Self-Driving Car?"
 
 related:
-  - title: "Police: Waymo Self-Driving Vehicle Involved in Tempe Crash"
-    excerpt: "Police in a Phoenix suburb are investigating an injury collision involving a Waymo self-driving vehicle carrying a driver and a passenger."
-    publishedDateTime: 2020-02-02T11:35:00Z
-    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2020-01-31/police-waymo-self-driving-vehicle-involved-in-tempe-crash"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "First Lexus with self-driving system arrives in 2020"
     excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
     publishedDateTime: 2020-02-11T15:00:00Z
