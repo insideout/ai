@@ -2,7 +2,7 @@
 category: news
 title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
 excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... and expenses to make sure companies are not paying for goods and services that fall outside company policies. Kale said the process is the ..."
-publishedDateTime: 2020-01-21T19:46:00Z
+publishedDateTime: 2020-01-21T17:20:00Z
 webUrl: "https://www.techrepublic.com/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
@@ -24,11 +24,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg"
+  - url: "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png"
     width: 1200
-    height: 675
+    height: 907
     title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
 
-secured: "cgw98HqlyGnM2pXGbJwxxmLtoOZ3MQdNTWq2q93B4FKJTLwSz9sb/Jt7Yt0xz4I2ky9d6f/5mPqLsmc5W/rce0+vKFAb7Ag2omgJus/DGvSfhgisrCJIkEarfEO/gF/jEK3PrZ9vuQjKR2G8r26Ix6CmfeNhEBsCrXUqDg1NAo76wHs7NM9hZwWIxUOwwvghwqGS3uswLJjXvvKY7McvI2ofANA9tCkHnXtnnpAqG/34FiJKc7nmUpkuBphQuKG33usJHwAyjYG0BVRjeIkQYg9aZgCAzw310HuWJY2nDQHVcbJz4jxW/82J1iXSUtFj;J3uiB0oMmbgKi7XrITBapg=="
+secured: "ehh30iHslsCic+UkH/BmDVg4hsGMDNzk0+SIq53AjbRDtDkpGqc3OR1uQEvUB72uw+GscFD83J1hrXWShJbXIAyOmIcdAVza4TU3aAqQynLfTxSxqhxo5NZHAVwwMQjc9n4RcVwRyigSrDbZyx0T7Z9nQ4kqNSXP0BBVFBrRFrlly1ozA0Xvl3JQgb+vs6xQidWAwaoYv7M/PgLhvbXIaDjHs6YLT4CHsVjtxTK1Tbnl7MenNW1g7vzeFtSHDVKIiXG6mInCLB1WWHvI1Glejfa0aKiq6ElOsCsKg6r8MYDdDuvWR2sP8E4Z/H/lhFHW;FphRTlYw/Fd5ShBndSpzZw=="
 ---
 

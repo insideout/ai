@@ -56,6 +56,6 @@ related:
       domain: finanznachrichten.de
     quality: 9
 
-secured: "8OPeUUui2mkVNjdwSE5A5lRKNGVXbtJ0aSIA+NLiUl3U2xUuorbkewpwy5PK73cGWqDeBxtoz0Le3owG8GqrvzLXctUBxh9E7QIcxxTArnIV8GVmTQpO07ACdRfuXpTg68xqI5rKg857ro1e50L+PHK44Nu7YKQ7IxScoZbrZSf7o3Zf9taMpifke6zGOngKgZ/JL4k/gRZCsOCvB8/upXvTP24N9sC+aQRriY7bWPq/FxryTTkqNcJ/zmOTuY7nIU48Pyaq2ogKs8ondkg52VBAVqncsgjKtWpU6F1lKfWyVT4N4fJubAjUC8NLZyqv;kb24iJREtRp34LKSEcj4sg=="
+secured: "M3tWx886oraVx9B5vHZcqS/7LpUmiuJuU8+5Ubvd5dcGrWDgVMLqia/KzjPehBV8P7WTxLJjTOgO5rmKMqaSnrPq8wl5f+ebfh7BpNI2EkfrvN68lSqBd4ZKBWoJsGX+2hn2BmdFoawkBrLlYM8AwYgGbsYZX/eSQ+vbhxpLkr2HbkPCLakcEUm1MCGSON/MDmN/sR/MTCwCP/Iguh5gAxSY/ZhzjN1+3CWESwnPGAF50rEXHQLy+5Fw+RurzgFspFe+GTcfowM6Pher407bBDTtuLkv/8Q3sfYTDeei347qCsl8EdkfS/vDmFmlDrC/;J2bQ8v8QIXGpBWKIoNxvBw=="
 ---
 

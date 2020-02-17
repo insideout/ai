@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -69,22 +69,7 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
-    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-02T15:07:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 27
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
-        width: 2233
-        height: 1675
 
-secured: "J3/oWbD8Or6h5U3M6SsX+cFH6wg31p3/cZtAGAqp6qDgg9Xzluoaoj8F+oCDvII6KFsKG4e9eMlP0w1bvVN1ELMsTIyVf5f7o9LP1QLZK6A6CxUrnmikKtuwqxIm3LIEz22/277o1Yyk6laRjeK1RkmhtKkXRQS0vF+k0S01MwrRn7E1aAZd3rA8b1SuKBZimylvp8giFtqxhVs3spF/gtS9wMKUpDlUqWw6VIYUzjC55gqNUcINpfZvxxU5sYtzE6/ZK7ib0v/pjz2S8rF9B7e+8+8X8F6JCjkeUuBTBQgQIWHtwsc4LqfsJUvgLgbh;BRfWlTpz3njXibcSRams6g=="
+secured: "HJfg3Tilb+KdZG0RvSQhEo9OeU61Sx+Yup/7JRpB5geY+0kWGJSO6z5zWNTpCi65KQFlm4GThMSf1VH2GY9uPcclsIHjP1VIioHUe3o5008X5WVxOhwxXPneP317T6ptTpmbh7+nHmZBXAmYISuAjT3jGFNkuoKh6ZMpOml7bRlmlipV+CtS90oxuon7E7OfOoCa3PV0n2zf5QGJveFkNbu8bcHlmiUES8bCTeInJ/e75y3FE3xk0Y3te1jFExGazzmtnHPJW89MBh01etE4pIGvo5anNFIxJnBnsyKT7Z6zKzMzIRDZWq4shiok3bH1;ueRwomZtL84Nl8wv2PNv9g=="
 ---
 

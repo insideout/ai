@@ -25,6 +25,17 @@ images:
     title: "EU to launch grand plan for AI, tech in challenge to US, China"
 
 related:
+  - title: "EU Fights For ‘Purpose’ in Grand Plan for Tech, AI Rules"
+    excerpt: "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U."
+    publishedDateTime: 2020-02-16T23:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
   - title: "EU to Launch Grand Plan on AI, Tech In Challenge to U.S, China"
     excerpt: "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U."
     publishedDateTime: 2020-02-16T23:00:00Z

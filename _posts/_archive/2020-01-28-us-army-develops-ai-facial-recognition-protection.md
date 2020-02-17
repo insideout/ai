@@ -65,22 +65,7 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
-    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-02T15:07:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 27
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
-        width: 2233
-        height: 1675
 
-secured: "nwfdkgLUWTE9tjvp9WPiScrpoUfnHdsLa9ooQg9WgDc8TJ5N27n9OD41fF1zv4zqj7t9qcAk2RxfZuBTqMyAe4b+CfLPausnSWKEnRfhPY0tPQyVR4b5jXy1ydM5/n6Rh3GjmCUpq9FgsM1GTDq9yIqTGWhLrQiESt0SC9c+pfJcGHr2DWkeeKFkk5/OizOFZmVMt3u/Cz22a0V0jqlvnkEtoTXzYDKUMEuAlzO5MQ4IOuIgQdzCF+l/QsdKCoagzB2YsCZgzb01b5JgNU33z6qZ9tyTe7pWHQ7sJ59h7Cb1eBDGu2Vgp0Lge6HxI/b4;hBoz8Kzastwvko9/qe6DXQ=="
+secured: "FTG/veHA3AQxC4G5NoDjm9fOrPyN15SJIW44c3UUyG9Eh20DM39SOgkBBD4DNkD+H2KZs3LcTuvRKGu6DzaHqtVi5huMZdimXfwhKiMUM1RgiR3bVlorEyM3i1dKbwt3Vi87TzAX2AjFgD07bDQnY/ff6hfADYP05BHCdgmIyWltOamax7cy+hibhM5iJmb+23Sc0YoSJKXS8XNWHW9cteQOrk4SkrhlLV1559n0gq6FmbR4/PN3uxmgfWfsIxuGp+63Cb8aod7LLb4nzFx+b952Y0z6sUyHSqhPwOQX5pXWW8aPOcGO1NXkCZeFd7gl;eNM4QuErHsXzKppupeRFtA=="
 ---
 
