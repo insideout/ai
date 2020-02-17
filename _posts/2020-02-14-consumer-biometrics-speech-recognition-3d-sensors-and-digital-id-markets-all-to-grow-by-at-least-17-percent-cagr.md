@@ -17,6 +17,19 @@ topics:
   - AI
   - Natural Language Processing
 
+related:
+  - title: "Speech and Voice Recognition Market To Set Phenomenal Growth At CAGR of 17.20% from 2019 to reach $26.79 billion by 2025"
+    excerpt: "Meticulous Research – a leading global market research company published a research report titled \"Speech and Voice Recognition Market by Type (Speech and Voice Recognition),"
+    publishedDateTime: 2020-02-17T06:37:00Z
+    webUrl: "https://www.benzinga.com/press-releases/20/02/wr15347991/speech-and-voice-recognition-market-to-set-phenomenal-growth-at-cagr-of-17-20-from-2019-to-reach"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15347991"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15347991"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+
 secured: "yq0Z9qe8nqauXKvyzl/01DdkYhpBBcTA9z+hPcjUPpUK5tWuoyTWUaQQ/TdkFDAA1jfVrICtsxuJUBpc3eFylY5L3o2S+4CrF/qNsBLkH1HDmrDJkhqst5Pzv0dZ5TknshfMjgAug2v3FM/3N5prjdSfAXi3A7FYfQpLwUFgDgCVeR8av8aioPh4HX9WPyz8wTQdt6xBjhCu/CDMMCX/PJpl6VV0h13DOx27GpPYuWl1pwQ9t3xoTKsmRlhMh+/Vtfkx7KfVhEBTzuOBPP9Z1d94GQ3EzjS1l+JqRsvCkCT25eWmZ9OJsgaK3fK2F0ZL8AQUMxNujhK0WGTyUNZrV9OX/xhyvrzTNWuVBHmkTNZE4hdCMUJtSwXP7Xi2pi8ThGf3ortondRf9Jj9KSsSLD/rHiVwbuYs8SB/x0agi3QUQ+/hSDIdGg7ddEyTceaYwnblQm8ammfmGgqJaJntOx2OafJIFvS0r66DyYg78S4=;7C6W8WgNO/MIXMKgJvHWMA=="
 ---
 

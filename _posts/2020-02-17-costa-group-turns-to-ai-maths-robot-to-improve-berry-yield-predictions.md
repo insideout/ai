@@ -29,6 +29,6 @@ images:
     height: 867
     title: "Costa Group turns to AI 'maths robot' to improve berry yield predictions"
 
-secured: "UgkRABKzlqe2f4e2xqyx+9YWYPFICyxxbjlsfyjp2JeR3w1lrNKyuz+ghjl2/DoOyY80+jWXdo2iumZfbidLYL8Cly5Ebbu8RC03Mju6yyX4geCYuTemPL037Ikb5mt4Xk5e0oOqg0DKDNIMdb/IX9G72x037SCR2QAy3EWC3MqUpMJSNCp/hoXoUvtg1gXvzVKhjQO6bTjdGbR+yNGB7Fp3XIyt5a44B6vQ7RrLpt06FRl63N1JHGoq5PH6Xv019oStvb/ywI3SJweync2oMP7N0C2iPZPEw0n74TXLKl/nuvESCeSjQjpNKLtqPa1p;peL2w7NHD6V3yUF+/G8GSg=="
+secured: "Gc9EHKGTWI6SRGFdVYSr1C84ig4GWwnmo3sE+Sa7nqFIsD9oVy3CAU6Gx5ucl6Rv2oCPnjP1fIVcTUPO1d+1iXopkiqtpJ94FYa6+zm0YjCseUOBlDHnxCG9alGAsgz1AU5iVnKumY+avy713LJPznqi7WD4qBd3WLGXc/Ap8C232lnWOnxEhN+Z2e0JUQpjjUi46Cuso4whcqGHCYS1cZYMemqYbpe0UGLO739fBIK3KWx7tbgnUkplSQ0qgvNCrZCe+tmZmDVX6rKFYAv4qwlSZ4Hc8+Zr1/ctT7p2N1HCwHtmZOvIHIuXwfDI2wNvmSW2Al9jmCwWySpWxHIewN9i4qG/9Glb6a2o2sqPbJUeVi8xmpmIe+/QERaQFjMnV9Tj/dDQLOu4AuUN+EoG8Of/02Kq+uE/C6frzA9R1n3XyaGTpUX9nkZ6mSv6l1iMcnEPwUz2yzFfYeKgZQaWRwyg5fn+WpFTpDmygpLg+uI=;1EI1zUZeS8JN7xNCgjQ58A=="
 ---
 

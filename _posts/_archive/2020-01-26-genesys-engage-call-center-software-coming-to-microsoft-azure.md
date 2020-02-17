@@ -5,9 +5,9 @@ excerpt: "Microsoft and Genesys expanded their partnership to provide a new clou
 publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
   name: BCW
@@ -17,7 +17,24 @@ topics:
   - AI
   - Microsoft AI
 
+images:
+  - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+    width: 320
+    height: 210
+    title: "Genesys Engage call center software coming to Microsoft Azure"
+
 related:
+  - title: "Microsoft Sees Azure Sales Surge 62 Percent"
+    excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
+    publishedDateTime: 2020-01-30T09:13:00Z
+    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
+    ampWebUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 54
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
     publishedDateTime: 2020-01-23T14:37:00Z
@@ -26,8 +43,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 0
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
+        width: 1024
+        height: 803
 
-secured: "2HsPXvu9U0tI2MP4jWa6UtNPDLe6hG6apiib5WYdZAOAkNAvVK8Mqub9MbncgAxOSBhQlKlzHF7/u88wIlNLI5xdXZplVgyfMIzohOsdo4Vmm4cZ25+3OKxZq1TaRFYzlCsnWzMQEmo8BQPmKmR846R3j/USyBRn4Sj/4bG0DRMK0bxhwWWttsgZEIZARi/tMxAnj0PFd1Qcm//2V3M8pwASkjevnxj7IKdu03t8IiKpFDRh5wMuN0+iAtj8DQEHPilSUuEbwcapGCjG9VkUMImgj3md3iiUcbop6hNwg+fUlMqRWaugXu3jDXIbIqAa;gBMU7WBk//zg8nzOy3ryuw=="
+secured: "UReYuFbh9ZF2DVu94+rvqMWLKCeR5uMzoqea6Wh+pc75EvQEQ8SiTf9o5Wy5vPhcyAHyggJM1aSSKGTZ3RrveY0G+VSf3iY0HQd9cnqt3blCd8JgBxcovA52QCN77jo6aqU0lSbyUkNHT/ysugTFHuZBgfpKYIk4bYZn0DLiemVUbc9TJFIvJSkmccnSinf+igW7RcngrHpUdzOLWbHWz0SVCZcQMvnBtUrMe1J4j+AvpcA09Gc1lZvHZmj1VTA2j5JgbufvV1GuhiuMmoZlFK0e+U4TAWUOPhNQYBFvLFkvgfeCIq9fDLafAgLlTEeO;NlUjQVGee5pHhHu5DGI/ww=="
 ---
 

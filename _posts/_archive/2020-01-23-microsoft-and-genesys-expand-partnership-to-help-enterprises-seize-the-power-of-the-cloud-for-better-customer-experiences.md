@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T14:37:00Z
 webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,32 @@ images:
     height: 803
     title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
 
-secured: "fL6UEg2GRjVG/apAtMqJa2sYKqz2fFHobnp2lTwdg+TeMrWF0julI9Bhz9l2LIauDDZnuZbz0tUrPXUVdMayjZjR7/i/PNN+LHgMYRWdD+E9HiLHq8GYHwjbWvaLD1elZLVgrfj4h0XbbFlSVHez/k50MUI2aX6jvbEVpPY4tvF7IsClMOO8kDbf0QvwLCU2ItvFupTljkT57t3SI+zzXkCIZQ33b5dKOlMj7p7Kx/y6Pk8dAN199Udfaz1EM5swrR461egpzH6eAgslS+RMR5NhV70pGrnDp2YPq7CCVN621gT3sor1MzqWPd62FNm6;brEbr+uq7rxP8/hlfkD9uA=="
+related:
+  - title: "Genesys Engage call center software coming to Microsoft Azure"
+    excerpt: "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ..."
+    publishedDateTime: 2020-01-26T21:00:00Z
+    webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
+    images:
+      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+        width: 320
+        height: 210
+  - title: "Microsoft Sees Azure Sales Surge 62 Percent"
+    excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
+    publishedDateTime: 2020-01-30T09:13:00Z
+    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
+    ampWebUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 54
+
+secured: "yrIiclcV3LYQ0h7e6gADEIXIerq5irq46xbmpzuxoXAjx5KtTGDgkL/YiEYmNSYneqQ5qFepkFzuwowZwcjYWu3d3pUv8zP9NSlwdMM3/msYv3wlDyo88H4opXTd3iZoQ5/jXEwA5JtZXEdwIf2/tyL8oiV9y10PyVDVGyIG4lVHYI/5U8z0OdP8ItSKWJDSprkZAAxAPOLFP6NbOOY0qHxIhRxJX40DDiYMl5yw7D4ZPDQh/8olnftfWAjZoFkaUKgA36IcMkCMau9zBYxzjpEcWPWG8a5qvR3EE33hh3zwfhLD55AaBgMmYmeZB7NT;udLJ5V1UnMBlW62nbmWRNA=="
 ---
 

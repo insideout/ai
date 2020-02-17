@@ -82,6 +82,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "London start-up raises $20m to bring AI to centuries-old insurance industry"
+    excerpt: "Andrew Yeoman, the company’s chief executive, said his business can help insurance companies make better decisions on which customers to insure by using AI to process vast amounts of data. The investment into the start-up was led by Albion Ventures with participation from insurance technology investor EOS Venture Partners and IQ Capital."
+    publishedDateTime: 2020-02-17T05:30:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/17/london-start-up-raises-20m-bring-ai-centuries-old-insurance/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/17/london-start-up-raises-20m-bring-ai-centuries-old-insurance/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/17/london-start-up-raises-20m-bring-ai-centuries-old-insurance/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 55
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/13/Andrew-Yeoman_trans_NvBQzQNjv4BqF6ZbFw_tp6Di2QbhEmANynGTJFJS74MYhNY6w3GNbO8.jpg"
+        width: 1800
+        height: 1125
 
 secured: "KJAjQ8gnLg7aEN3ZEmLBj2xQ0Va1fF4t/E0eB3Bh0jwOv8e/aLt1Hzb7ArNq9CJkvBYyvK6fIu69wZ/JKdmsV/4GrcmgNjyB2gNsabZssv/0YYyQ8GABi6kebDs7HMNH0oLvpKMw5hqjLJJXQsYLrJkGTbOwZowdAHFtN9xNnuTg+5jHVPBB6NjzM1uIL3vR4/FH1U5hjUG5GiED50/JXWfsknLIINudRhXFmEuS2NIhQg5XdPPQpR8q1k0kfPcptrh8zUb62m+cSvuI6azIN8eOeFtY9jG24Q7ktWEe7BG9uWuDKipz4CWwRfSRPXQf;wxXloWjmVfFEAMGh/PKsdg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.caranddriver.com/news/amp30733506/tesla-autopilot-full-s
 cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 800
     height: 401
     title: "Tesla's Video Shows What Full Self-Driving Autopilot Sees"
-
-related:
-  - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans (TSLA)"
-    excerpt: "Tesla's business is now good. But it's an electric-car business, and the transportation-of-the-future narrative has shifted to self-driving cars. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead. Visit Business Insider's homepage for more stories. The year 2019 was a pivot in the story about the future ..."
-    publishedDateTime: 2020-02-02T13:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1-1028865731"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
 
 secured: "6fhBBGVxGwm3zIWv9mrefUjthCfXXVMwT59VBdSuFTy+HbKwnIWOYqJ89QaVBqKpH/7gFvUR/CPyllBvg35q50BrymE9v6TQ/X1aH7gynaKxSv6PHPqra176BV2HYD3o9u9gmGwGB0a6LNr+3YNa6ewBtO6GsQRoSASnpOKXyiqfL9YdGZk6+yOk1AU/nXjOuoXh1KEKIBapxEASsHhtVpUSOaoBJJxcB3/tS9ZjAMJaFduQRhXlfLT2wDZ/CYFDDoQt332ChGlmCFb32UkwffzoD5n/Eci0gqOEuGGQkMqllx+v5yIURh/eozoA3sw7sMwKi1yDNVkW5QtpKpCde4hy87L3XRcxhL/rC8Nr3nlXh68h4zq+SUli6L9IfXxo02XrTKXRi41lYGpyd2F5jMS/OnUy2JoJ5+Qv1o0nCG1iGjC+HZXxumy05mK6MTXEzqAQn6IiXvAJHyU72PxR+1KGvKhqdeBw8OpXvYrBp84=;iJCFxQWJprZBdtMVPjWBUA=="
 ---

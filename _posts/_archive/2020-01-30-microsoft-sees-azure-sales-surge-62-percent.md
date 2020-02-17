@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surg
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,34 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "5sFXXdBe+iNUiIAWxhfjmWbyv6N7Sg6C6mvxeyONonlMiDlcd7z1PsLSDDBJAgQcgD+R9N0/R59NBPP9eFsb0ZGsiDX7wBl74IqqsELAr+2P3VGBvZqMuP5xt8CAHo/BwAILCXZWB5CUl4hWJAlVI2sSuwHoPFSzAigj9jfWq+H56ncQCux6Vfnlx81joIJCAbs6EHzscH8m1je3sMV5VSvZ1NXLxqTXRyWXnzL9uSx+TcYf4abIp4UxqODet97FPIqcuUit89rM9Lr1wsD1LDFPVBKOHvFbA0o0V/bGdB6IZi0P0247C2tdkshgMMMr;34q9k/7PGahQOtNQveQISw=="
+related:
+  - title: "Genesys Engage call center software coming to Microsoft Azure"
+    excerpt: "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ..."
+    publishedDateTime: 2020-01-26T21:00:00Z
+    webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
+    images:
+      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+        width: 320
+        height: 210
+  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
+    publishedDateTime: 2020-01-23T14:37:00Z
+    webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
+        width: 1024
+        height: 803
+
+secured: "nbfoSc+Ml10l3YH1/9oHPAHx+6BNJxHCtpgxvfFkV5FwPPudr6QjLWYuc/aaznoMYIVeycCwxD94HZr00PlOBUpYvuWxJT69Tht/WdTET7zyh6A+OeuszdaixifV6zKZLqWvxdz1fUqe7xrA9jGWP4G2LJ1fiM4Ss5Gbc4KFM+LZsp9+QCP/hvBtEAyNcJ70eAYTD3qNlpU3u7nfPYep5kmWiGcndLRy9LMv7ZmtA+XUYaHsse2jz6bORNvv4EKQ6jQPHF9Q2z6nM0Gire3I1Ie0Ebutn67YpO+uj5LCFYTu4roEpJlsjeIjyVrEDBVb;J3NHrYYlfq/EBJRbYHX5OA=="
 ---
 

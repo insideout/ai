@@ -72,6 +72,21 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/ElliQ_3-1024x773-1.jpg"
         width: 1024
         height: 773
+  - title: "London start-up raises $20m to bring AI to centuries-old insurance industry"
+    excerpt: "Andrew Yeoman, the company’s chief executive, said his business can help insurance companies make better decisions on which customers to insure by using AI to process vast amounts of data. The investment into the start-up was led by Albion Ventures with participation from insurance technology investor EOS Venture Partners and IQ Capital."
+    publishedDateTime: 2020-02-17T05:30:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/17/london-start-up-raises-20m-bring-ai-centuries-old-insurance/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/17/london-start-up-raises-20m-bring-ai-centuries-old-insurance/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/17/london-start-up-raises-20m-bring-ai-centuries-old-insurance/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 55
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/13/Andrew-Yeoman_trans_NvBQzQNjv4BqF6ZbFw_tp6Di2QbhEmANynGTJFJS74MYhNY6w3GNbO8.jpg"
+        width: 1800
+        height: 1125
   - title: "The Design Automation Conference to Showcase an AI Hardware Pavilion, Broadening the 2020 Exhibition Lineup"
     excerpt: "AI hardware is driving the largest wave of chip-design activity in decades. Understanding and harnessing the enormous computational and application potential of AI is fertile ground for new ideas and startup providers. Converting these ideas into working hardware circuits and systems is the core value of design automation, and the major ..."
     publishedDateTime: 2020-02-13T16:34:00Z

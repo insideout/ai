@@ -2,88 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-14-nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications.md",
-      "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
-      "excerpt": "Thursday night, the graphics chip company posted better-than-expected fourth quarter results ... “Cloud vendors should see a step up in spend and clearly Nvidia has a combination of AI drivers layering in on top of this market improvement,” he writes. “On the competitive front, there still appears little competition.”",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.barrons.com/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
-      "publishedDateTime": "2020-02-14T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-154652/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-nvidias-earnings-crush-expectations-and-outlook-shines-stock-pops.md",
-      "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
-      "excerpt": "On the earnings call, CEO Jensen Huang attributed the data center's amazing performance to the rapid adoption of AI for an increasing number of applications, calling out natural language processing and internet recommender systems several times. NVIDIA said in its earnings release that it's still in discussions with China's regulatory agency ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
-      "publishedDateTime": "2020-02-13T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558039%2Fnvda-stock-nvda-earnings-nvidia-stock-earnings-ai-artificial-intelligence.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 795,
-          "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-playsight-trained-ai-on-thousands-of-hours-of-videos-to-understand-sports.md",
       "title": "PlaySight trained AI on thousands of hours of videos to understand sports",
       "excerpt": "At the 2020 OurCrowd Global Investor summit in Jerusalem this week, VentureBeat caught up with founder and CEO Chen Shachar to get the skinny on PlaySight’s technology — specifically its use of AI and machine learning. PlaySight works with customers to build what it calls SmartCourts, connected systems consisting of cameras installed around ...",
@@ -660,6 +578,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-17-artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans.md",
+      "title": "Artificial Human Beings: The Amazing Examples Of Robotic Humanoids And Digital Humans",
+      "excerpt": "Thanks to the advances with artificial intelligence, robots are becoming more human-like, and digital human beings are supporting our everyday lives in surprising ways. Here we have all you need to know about artificial humans beings and the best examples of robotic humanoids and digital humans.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/amp/",
+      "publishedDateTime": "2020-02-16T22:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a3210a854780006b18efa%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Human Beings: The Amazing Examples Of Robotic Humanoids And Digital Humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-17-artificial-intelligence-training-for-technical-students-in-odisha-soon.md",
       "title": "Artificial Intelligence training for technical students in Odisha soon",
       "excerpt": "BHUBANESWAR: Technical students in Odisha will soon have the opportunity to get training on Artificial Intelligence (AI) to develop smart machines. Skill Development and Technical Education Minister Premananda Nayak said a Centre of Excellence has been set up by Tech Mahindra and Biju Patnaik University of Technology (BPUT) at the College of ...",
@@ -738,6 +701,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-global-mobile-artificial-intelligence-mai-market-2020-industry-analysis-opportunities-forecast-to-2026.md",
+      "title": "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026",
+      "excerpt": "Mobile Artificial Intelligence (MAI) Market 2020 Wiseguyreports.Com Adds \"Mobile Artificial Intelligence (MAI) - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-mobile-artificial-intelligence-mai-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-16T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {

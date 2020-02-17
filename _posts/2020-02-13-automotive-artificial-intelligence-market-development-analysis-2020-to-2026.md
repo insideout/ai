@@ -21,6 +21,32 @@ topics:
   - AI
 
 related:
+  - title: "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
+    excerpt: "Mobile Artificial Intelligence (MAI) Market 2020 Wiseguyreports.Com Adds \"Mobile Artificial Intelligence (MAI) - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
+    publishedDateTime: 2020-02-17T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-artificial-intelligence-mai-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural language processing (NLP) Market Global Industry Analysis and Forecast till 2027"
+    excerpt: "Ameco Research added new research report to its vast database titled \"Global Natural language processing (NLP) Market 2020\" which provides extensive and highly detailed information on the key markets."
+    publishedDateTime: 2020-02-17T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-global-industry-analysis-and-forecast-till-2027-2020-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026"
     excerpt: "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
     publishedDateTime: 2020-02-14T11:11:00Z
@@ -34,24 +60,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Market"
-    excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
-    publishedDateTime: 2020-02-12T00:00:00Z
-    webUrl: "https://www.openpr.com/news/1929108/automotive-artificial-intelligence-market-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-  - title: "Trending News For Automotive Voice Recognition Market 2020 Analysis, Forecast Of Business Revenue, Size, Leading Competitors And Growth Trends"
-    excerpt: "Automotive Voice Recognition Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
-    publishedDateTime: 2020-02-11T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-automotive-voice-recognition-market-2020-analysis-forecast-of-business-revenue-size-leading-competitors-and-growth-trends-2020-02-11"
+  - title: "Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025"
+    excerpt: "The post Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025 appeared first on Dailymarketjournals. COMTEX_362078588/2654/2020-02-16T10:34:56"
+    publishedDateTime: 2020-02-16T15:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-growth-trends-analysis-and-forecast-to-2025-2020-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 0
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
+    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9."
+    publishedDateTime: 2020-02-13T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "aItPkrHAFGd9HvtT29C0LvGyXSOcdBuoOaY3ujVFTx8sRSFl6d0kkpxEo3tuz22zH8XHKMFGUncSpwz+wfeL1njm5rPSzUQzmEd3pZCkqBS5LCxqn5aknN0yX4dPJxbxRSnqJSQSHYwy0aivE/TIKt75UAoCeIPQSO7jlClRgsEOJhRB/E/8RR8l4/KtKdMjh44BjXk4Y/04qkNXnvPQur4Wg26b+CRNW+5Cw9ae5byqgS2bdpISJZE1nIEwx163ht94IPAse9nZkDIdbPH4365FerdHzmyEMvuyuTQpP6okwHEImpiR2Ch36tAg9dQ3;YqrtoW1wUuT0gpQS/O1+cA=="
 ---

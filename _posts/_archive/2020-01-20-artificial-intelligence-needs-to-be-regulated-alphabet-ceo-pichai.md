@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligenc
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -52,7 +52,22 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
         width: 1200
         height: 628
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
 
-secured: "9Ot0TwrOfo/gabj6fXK2dpqXszXL9DS5fWUIiSQSJmCVS2g7HGm8fTPW25Pecl1Vaa985Cs9qnKrAcjEg1qc8mFQWmlHHKGBpE6zmcX3iL1+ujR9w9EzxfiJMlNr0EectWftF3JQlhH79qfszekWi3oREODRNT0o9+Bz3ndT5/HajGVAF23Uo/8lw1OPCHC7mO9nIA4L6rrB+U+S8sHppgJG6V4VifeFNQGqmvk/a+8z+D7j2vgei5GNjm69ZCWChTGMxF3RdNaCN5eg+4P8G141mB8ez7JFHbqlFW28H7QryJM9GffS6Tw4ZWgzXQ7d;obaCG3F85ZqtlGAe9FYc/g=="
+secured: "Wy4tKY5WVMtzlfag5wf3iNAVDkFz0gTFSYwXAPwHjcOuKvTyAe4xPAPndvI4FtYAMggXfrLLgOuMcCbFZwYF3leRaTUcr3gv3mMq98TcXdAKkVXNjVwE34zy7S+XEUEidJGtNZDIMXNSttt0PEUBxW7Hp9r7Ya5vF4+eWbBOgsfN0Q+H5A0lEJMwfxB8mDW6S6l5FWia8ewU4Vk747WZhp20szOCeDQIG5W2yFkcaGpQnDMmJnyCAnzzD6ozPE91lOgIL1napHhp4HQUwn/5Kz1Pzk0rBK1GSW04+vCf4GdsicrgbJixeWVyy5H6YoYq;tTKaMF9f2NJqKjuvXTkJuw=="
 ---
 
