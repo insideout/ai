@@ -8,7 +8,7 @@ ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/2112256
 cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
 type: article
 quality: 59
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -162,15 +162,6 @@ related:
       - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
         width: 640
         height: 461
-  - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
-    excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
-    publishedDateTime: 2020-02-11T09:23:00Z
-    webUrl: "https://www.dailyrecord.co.uk/news/politics/facial-recognition-technology-unfit-use-21469810"
-    type: article
-    provider:
-      name: dailyrecord
-      domain: dailyrecord.co.uk
-    quality: 16
   - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
     excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
     publishedDateTime: 2020-02-08T04:26:00Z

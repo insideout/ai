@@ -225,44 +225,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-12-watchdog-rejects-mets-claim-that-he-supported-facial-recognition.md",
-      "title": "Watchdog rejects Met's claim that he supported facial recognition",
-      "excerpt": "Biometrics commissioner says force was wrong to say he backed use of the technology",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition",
-      "publishedDateTime": "2020-02-12T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3",
-          "width": 600,
-          "height": 360,
-          "title": "Watchdog rejects Met's claim that he supported facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-92-of-tech-insiders-have-a-strong-appetite-for-ai.md",
       "title": "92% of tech insiders have a strong appetite for AI",
       "excerpt": "are in favor of some level of government involvement in AI. Many organizations are poised for that push. Ethics are an issue that can't be ignored, either, and 88% of the tech insiders say companies need to implement an AI ethics policy to help govern AI work. There are some barriers to furthering the adoption of AI, but business insiders vow ...",
@@ -1792,51 +1754,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
-      "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
-      "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy",
-      "ampWebUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
-      "publishedDateTime": "2020-02-14T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg",
-          "width": 810,
-          "height": 456,
-          "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand.md",
       "title": "NVIDIA Posts Killer Q4 Earnings Driven By Profitable Data Center GPU Demand",
       "excerpt": "Shares of Silicon Valley machine learning and gaming chip giant NVIDIA have spiked in early morning trading, as the company posted stellar fiscal Q4 results for the period ending in January 2020 after the bell yesterday.",
@@ -2176,6 +2093,95 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-use-ai-ethically-to-build-relationships-not-data-warehouses.md",
+      "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
+      "excerpt": "Capitalist societies risk the commoditization of personal data at the expense of the individual. But greater, more long-term and beneficial economic success can be created by looking beyond the blinders of shareholder profit.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
+      "publishedDateTime": "2020-02-13T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e461695f133f4000628c188%2F0x0.jpg",
+          "width": 1200,
+          "height": 1058,
+          "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-yandex-claims-2-million-self-driving-car-miles-double-in-4-months.md",
+      "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
+      "excerpt": "The Russian tech titan revealed the latest milestone in its Q4 2019 financials earlier today. Yandex’s on-demand transport subsidiary Yandex.Taxi unveiled its self-driving car program back in May, 2017, and shortly after it began piloting the vehicles on Moscow’s roads. In the intervening years, the company has expanded its fleet across ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
+      "publishedDateTime": "2020-02-14T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Yandex_self-driving_Hyundai_Sonata_6.jpg?fit=1920%2C1280&strip=all",
+          "width": 1920,
+          "height": 1280,
+          "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

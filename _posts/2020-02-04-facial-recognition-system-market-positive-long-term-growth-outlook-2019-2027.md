@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T18:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
+    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
+    publishedDateTime: 2020-02-10T20:50:00Z
+    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
     excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
     publishedDateTime: 2020-02-04T10:00:00Z

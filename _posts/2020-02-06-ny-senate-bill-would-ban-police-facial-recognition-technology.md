@@ -93,6 +93,19 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
+  - title: "WeWork wants facial recognition biometrics class action dismissed"
+    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
+    publishedDateTime: 2020-02-07T03:36:00Z
+    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+    type: article
+    provider:
+      name: Cook County Record
+      domain: cookcountyrecord.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
+        width: 1280
+        height: 640
 
 secured: "U8W9AmKPgzTbqj2XXUiPxvll2yX1G/x1hiAyEJw588xI2AiTe9uHj2qI7ix2UMoZymSGZZaxAESHpS/1IXSF+I98dVEU5hKWmaBzNx9kol0hK7KyT5uHdIn45IiDjTgmGtJBTxftEUz7q2xN4vPHtxTRH+6KxywRAdMNrHx4khqzRKzBSL9Q6w2xUipa9pyegrDfarwDOFcJPxcv+RElGY4MTxFpuUKvsld7MiBjo19U2ACf0u/0rcRXP8ccdVfJAcyCr5JlaEEufICluYl4qswdCYU/pTCF1EYRTzQucUOLWLB50g63V+6+KrM6imWv;rfz65Ws1qHnEu8m1jaLP/w=="
 ---

@@ -24,49 +24,90 @@ images:
     title: "WeWork wants facial recognition biometrics class action dismissed"
 
 related:
-  - title: "Watchdog rejects Met's claim that he supported facial recognition"
-    excerpt: "Biometrics commissioner says force was wrong to say he backed use of the technology"
-    publishedDateTime: 2020-02-12T17:53:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
+  - title: "Lawsuit filed against facial recognition company CPD works with"
+    excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
+    publishedDateTime: 2020-02-04T00:24:00Z
+    webUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/"
+    ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 76
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 74
     images:
-      - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
-        width: 600
-        height: 360
-  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
-    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
-    publishedDateTime: 2020-02-10T20:50:00Z
-    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+      - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
+        width: 1200
+        height: 675
+  - title: "Facial recognition helps Volusia County Sheriff's Office solve crimes"
+    excerpt: "VOLUSIA COUNTY, Fla. - The Volusia County Sheriff's Office is using a new facial recognition program to help catch criminals. The new technology, called Clearview AI, looks through social media to help law enforcement find someone based on a photo. Deputies can input a picture into the Clearview AI system. The technology will compare it to ..."
+    publishedDateTime: 2020-02-04T02:20:00Z
+    webUrl: "https://www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes"
+    ampWebUrl: "https://www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes.amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 59
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "Met Police's controversial facial recognition cameras correctly identify just one in three women"
-    excerpt: "Controversial facial recognition cameras used by Britain's biggest police force correctly identify only a third of women, an official report admits. A review of the technology by Scotland Yard also reveals that two in three men are accurately identified, while black people are far more likely to be wrongly flagged up than white people."
-    publishedDateTime: 2020-02-15T22:02:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8007907/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
+      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/02/932/470/facial-recognition.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+  - title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
+    excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
+    publishedDateTime: 2020-02-05T17:43:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 57
+    images:
+      - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
+        width: 1280
+        height: 720
+  - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
+    excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
+    publishedDateTime: 2020-02-05T22:16:00Z
+    webUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting"
+    ampWebUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 51
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
+        width: 980
+        height: 551
+  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
+    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
+    publishedDateTime: 2020-02-03T23:00:00Z
+    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
+    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+    type: article
+    provider:
+      name: Canoe.com
+      domain: canoe.com
     quality: 46
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/15/22/24785266-0-image-a-29_1581804047268.jpg"
-        width: 636
-        height: 382
+      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
+        width: 1000
+        height: 750
+  - title: "NY Senate bill would ban police facial recognition technology"
+    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
+    publishedDateTime: 2020-02-06T00:26:00Z
+    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
+    type: article
+    provider:
+      name: The Daily News Online
+      domain: thedailynewsonline.com
+    quality: 19
 
 secured: "jbOqfKBDbydsceMRaf0ykgTvMZcNMpijANi943iN8YFoSlAK7e1eTj8iK1wUUH9ltkS/GY+wmEtlJ/auNUDpFr9PvJ1lFgnVm2tVBpJc2Im1OReutcHwdQSOkREpk0X9ps+7J8K9OlzAvtFNKREUFnxhELdnn1hGQEyfzEWo1FW5jiQa61F32UYB8YVrz0VrrLu01e/T3Jl5Uwkk4i0WcVjKdUQONgM6be8mUFPU9U6Kfesbq4dGBMegtf22sQIzN5F4G/ilScWK2z3U68BR0G6qxwc0Gjy30XOMzkV2o8r2XqHda2+t5MvuXeZj4gP9;4CQdgIMe5djaYdsdcrPAAg=="
 ---

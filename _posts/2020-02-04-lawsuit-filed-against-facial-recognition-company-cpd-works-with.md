@@ -8,7 +8,7 @@ ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognitio
 cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -86,6 +86,19 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
+  - title: "WeWork wants facial recognition biometrics class action dismissed"
+    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
+    publishedDateTime: 2020-02-07T03:36:00Z
+    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+    type: article
+    provider:
+      name: Cook County Record
+      domain: cookcountyrecord.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
+        width: 1280
+        height: 640
   - title: "NY Senate bill would ban police facial recognition technology"
     excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
     publishedDateTime: 2020-02-06T00:26:00Z

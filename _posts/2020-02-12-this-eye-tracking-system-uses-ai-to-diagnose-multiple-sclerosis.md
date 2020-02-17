@@ -45,14 +45,14 @@ related:
         width: 600
         height: 350
   - title: "VA doctors are using artificial intelligence to diagnose cancer"
-    excerpt: "“The potential of these technologies to improve health care delivery to veteran patients seems to be limited only by the imagination of the user.”"
-    publishedDateTime: 2020-02-09T04:12:00Z
-    webUrl: "https://www.armytimes.com/off-duty/military-culture/2020/02/09/va-doctors-are-using-artificial-intelligence-to-diagnose-cancer/"
+    excerpt: "Sophisticated artificial intelligence is capable of drastically altering how cancer is diagnosed ... Greater accessibility would especially benefit the millions of patients in the VA’s healthcare system, many of whom live in remote, rural areas where specialists or facilities needed to treat unique diseases are scarce at best."
+    publishedDateTime: 2020-02-09T04:27:00Z
+    webUrl: "https://www.airforcetimes.com/off-duty/military-culture/2020/02/09/va-doctors-are-using-artificial-intelligence-to-diagnose-cancer/"
     type: article
     provider:
-      name: Army Times
-      domain: armytimes.com
-    quality: 41
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 39
     images:
       - url: "https://www.armytimes.com/resizer/to_jNb_D6OzaD4pxQxunjGcZKrk=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/Q466XCMKUVDILI2TKHH3ZGBGCY.jpg"
         width: 1200

@@ -25,23 +25,6 @@ images:
     height: 675
     title: "How to use voice recognition in Pokémon HOME"
 
-related:
-  - title: "‘Really scary what I saw in Hong Kong’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
-    excerpt: "The commission, the EU’s powerful regulator, is eager to answer the worries of European citizens about the rising importance of AI in their lives, amid reports from China of facial-recognition technology used to crack down on dissent. “I find it truly really scary what I saw in Hong Kong,” said the EU Commission’s executive vice ..."
-    publishedDateTime: 2020-02-17T00:51:00Z
-    webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
-    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 31
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_084747.jpg?itok=AizU6ubR&v=1581900472"
-        width: 1200
-        height: 630
-
 secured: "6R/GHmPNn/3PfmJhVWdo9Ej7qwr/mXB1WopSlZ/K+/PO3jWOHrpHlJdTrcoHp5nFlyeinIAqDkThyRzCjh+4SoY8WNNAAjzXRyllPRlYpDgnm9y5RUHCAPjE/VxybHspbc22qqBWFVY7GcUsgTM52o/of9PcEOrDNsRLKBFnyeOSgLuNqi8jnENH6BQ5Mzdr43oDvB+I2JpR/7iV2jApv/MKTuBh1tlfYhaOZ4TvCblpVvuhuAEAk3wqD4lplJkAjMu/P4F8h9A1nvMm60Uv+e0/rvg0NQzN6wG0GAWERFgeBb2EIr0zZrs/6pOt1acovYSqduq3G1g8QFcDyXORwLP3/PKu4NM3OnZgYxnyrPD83zbmXhelzHcL7JaF6Wcbu3Gdmj70WiNIanWdNUN1w0y2Bq6ZzIhaJVCfIRGGvPeqEqWs7ySLi0Z95da1AHxxRL5cPvZySefD1phmTFzJRZYPVYqq0C8KWFDe5vNGcKc=;iPVGJzchuW8hIdYAM/YjvQ=="
 ---
 

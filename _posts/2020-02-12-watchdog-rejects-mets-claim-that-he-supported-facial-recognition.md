@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
 type: article
 quality: 76
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -27,47 +27,47 @@ images:
     title: "Watchdog rejects Met's claim that he supported facial recognition"
 
 related:
-  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
-    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
-    publishedDateTime: 2020-02-10T20:50:00Z
-    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+  - title: "Automated facial recognition breaches GDPR, says EU digital chief"
+    excerpt: "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ..."
+    publishedDateTime: 2020-02-17T12:53:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "Met Police's controversial facial recognition cameras correctly identify just one in three women"
-    excerpt: "Controversial facial recognition cameras used by Britain's biggest police force correctly identify only a third of women, an official report admits. A review of the technology by Scotland Yard also reveals that two in three men are accurately identified, while black people are far more likely to be wrongly flagged up than white people."
-    publishedDateTime: 2020-02-15T22:02:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8007907/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-14-796x417.png"
+        width: 796
+        height: 417
+  - title: "Chinese firm working on facial recognition that can identify you under a mask"
+    excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
+    publishedDateTime: 2020-02-11T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/"
+    ampWebUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 46
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/15/22/24785266-0-image-a-29_1581804047268.jpg"
-        width: 636
-        height: 382
-  - title: "WeWork wants facial recognition biometrics class action dismissed"
-    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
-    publishedDateTime: 2020-02-07T03:36:00Z
-    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
+  - title: "‘Really scary what I saw in Hong Kong’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
+    excerpt: "The commission, the EU’s powerful regulator, is eager to answer the worries of European citizens about the rising importance of AI in their lives, amid reports from China of facial-recognition technology used to crack down on dissent. “I find it truly really scary what I saw in Hong Kong,” said the EU Commission’s executive vice ..."
+    publishedDateTime: 2020-02-17T00:51:00Z
+    webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
     type: article
     provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
-    quality: 39
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 31
     images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
-        width: 1280
-        height: 640
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_084747.jpg?itok=AizU6ubR&v=1581900472"
+        width: 1200
+        height: 630
 
 secured: "brL+7Qpe6AyB8Al9NiQrlo/qgl/P36EUtm9MBT75IqwPwPqHH6YeXyXTlOebHpBl25oTOXgTb4cEywsGJR6Fof+Uqk+3ElLb65Be8g2mnqyJfvnPQzQmr/iit1YUuA/NUVh7wtN/VkfsOjhEbFJFf4kUKfa3DeDSryHaExqrF44eFWRacVMFaJoWSxaDwiTuGhyuxrHNfUyuF7yPN9Lbxo/hctnch9c9/J2QTW0MIf+shigasmjnj2MbtlwMzP8AeqARN6ef+w3YZmqCnzG5z0gAZ0KHrsrHDngjmW3bW5KLPVfFezkNL+IRhYDxCFoh4VH21SYZldB3baFmuPSKXarj9ymzjDv4gpYvvOhYiVyYrjBBGaa6KaEgj7qs7CIJJIyDbYhP9hT7ViWVy+gGg0AtRPPAcrgWg/99woykTbLV5LwEFyCknOldCETjYxGIGTn5eeM+c26sc7a2iwQqimvwlSV6lJk/s6XCX5m1qTk=;HNaTQG4KReOScK/RCeoEvA=="
 ---

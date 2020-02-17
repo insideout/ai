@@ -1,0 +1,77 @@
+---
+category: news
+title: "Automated facial recognition breaches GDPR, says EU digital chief"
+excerpt: "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ..."
+publishedDateTime: 2020-02-17T12:53:00Z
+webUrl: "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/"
+ampWebUrl: "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/"
+type: article
+quality: 89
+heat: 119
+published: true
+
+provider:
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: "/assets/images/organizations/thenextweb.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Computer Vision
+
+images:
+  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-14-796x417.png"
+    width: 796
+    height: 417
+    title: "Automated facial recognition breaches GDPR, says EU digital chief"
+
+related:
+  - title: "Watchdog rejects Met's claim that he supported facial recognition"
+    excerpt: "Biometrics commissioner says force was wrong to say he backed use of the technology"
+    publishedDateTime: 2020-02-12T17:53:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 76
+    images:
+      - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
+        width: 600
+        height: 360
+  - title: "Chinese firm working on facial recognition that can identify you under a mask"
+    excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
+    publishedDateTime: 2020-02-11T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/"
+    ampWebUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
+  - title: "‘Really scary what I saw in Hong Kong’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
+    excerpt: "The commission, the EU’s powerful regulator, is eager to answer the worries of European citizens about the rising importance of AI in their lives, amid reports from China of facial-recognition technology used to crack down on dissent. “I find it truly really scary what I saw in Hong Kong,” said the EU Commission’s executive vice ..."
+    publishedDateTime: 2020-02-17T00:51:00Z
+    webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 31
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_084747.jpg?itok=AizU6ubR&v=1581900472"
+        width: 1200
+        height: 630
+
+secured: "fxjb/gSJhJ6SJ4gfFQkaBDSB4neBJm1xYFS3cORrSZ1jZljiX56cBn4w3u1Q4cFQcas7pFZkVA1btSzzNNhjj+/mYm9b4F+InZ4i4/kv5qyre5H2XS18w0xXay04KV5TY0kxGLIWZ06D4T/+/+BzeERha7ia69parqhGqMOaXkHg1J82TquUJk5uxyw96IQb1T2VvGVrabk9GSMn8Rv+FzcAgIvrQ3wJGdOBPVsH0YZKjMXDWUEYJzBH+NrMZitEwha5Mts4UQd62QQNPSgdajPqFeHmRREtWORvSva1vdpCNt8Lei6ZjHBu6NJJuY7a;L+5hjHMbJ3BQqBODd1A+hA=="
+---
+

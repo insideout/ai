@@ -2,95 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-14-use-ai-ethically-to-build-relationships-not-data-warehouses.md",
-      "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
-      "excerpt": "Capitalist societies risk the commoditization of personal data at the expense of the individual. But greater, more long-term and beneficial economic success can be created by looking beyond the blinders of shareholder profit.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
-      "publishedDateTime": "2020-02-13T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e461695f133f4000628c188%2F0x0.jpg",
-          "width": 1200,
-          "height": 1058,
-          "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-yandex-claims-2-million-self-driving-car-miles-double-in-4-months.md",
-      "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
-      "excerpt": "The Russian tech titan revealed the latest milestone in its Q4 2019 financials earlier today. Yandex’s on-demand transport subsidiary Yandex.Taxi unveiled its self-driving car program back in May, 2017, and shortly after it began piloting the vehicles on Moscow’s roads. In the intervening years, the company has expanded its fleet across ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
-      "publishedDateTime": "2020-02-14T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Yandex_self-driving_Hyundai_Sonata_6.jpg?fit=1920%2C1280&strip=all",
-          "width": 1920,
-          "height": 1280,
-          "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-15-7-business-areas-ripe-for-an-artificial-intelligence-boost.md",
       "title": "7 business areas ripe for an artificial intelligence boost",
       "excerpt": "Artificial intelligence has captured everyone's imagination, but what can we expect from the technology? A recent survey of more than 550 executives from IBM finds plenty of support from the top -- everyone wants to plunge full-force into AI to increase the speed and capabilities of their businesses. At the same time, AI is still very much in ...",
@@ -578,6 +489,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
+      "title": "Automated facial recognition breaches GDPR, says EU digital chief",
+      "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
+      "publishedDateTime": "2020-02-17T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-14-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Automated facial recognition breaches GDPR, says EU digital chief",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-17-automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026.md",
       "title": "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026",
       "excerpt": "Global Automotive AI market has emerged as one of the most lucrative growth verticals in recent years. The market is predicted to show a remunerative growth trend through 2026. This development can be attributed to the slowly increasing uptake of driver assistance technologies in an effort to provide a better driving comfort as well as ensure a safe driving experience.",
@@ -665,6 +621,51 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-indias-use-of-facial-recognition-tech-during-protests-causes-stir.md",
+      "title": "India's use of facial recognition tech during protests causes stir",
+      "excerpt": "When artist Rachita Taneja heads out to protest in New Delhi, she covers her face with a pollution mask, a hoodie or a scarf to reduce the risk of being identified by police facial recognition software.",
+      "heat": 239,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-india-citizenship-protests-technology/indias-use-of-facial-recognition-tech-during-protests-causes-stir-idUSKBN20B0ZQ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20B0ZQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20B0ZQ",
+      "publishedDateTime": "2020-02-17T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200217&t=2&i=1491485413&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1G0QC",
+          "width": 814,
+          "height": 545,
+          "title": "India's use of facial recognition tech during protests causes stir",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {

@@ -36,6 +36,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "wZ7+KXV9noLAiqHUZiVl3fI0P/7ZFbwBXZHuGGYzgrhkDWgi5HOaHv2AtCtq7Qi56WpejenPyy++WC1dw0XpZj3vNURpqGsaDzEi7dG0uDnDcRsekLR/MmmgCtfEiVcnOLhN+rvBB/YEBOzFaivVIMgYVv/DqpoZ6BvJH1cL2S6M59hYJiSI2mszFpZRzEDru3ZWsm34xbi1U3eBq4o8WejcLlwpplqv+DyWjI21lv3JnF2qX4SOvDZM3jTJZQpBT2dmHyMPtxpikfqUHyT0QHZ87Nyldx4rWXhb0N5uZK9qTyUUnwBKLOXjchLrsiLd;yeX2zFNJV7ULyuEBfhdj6w=="
+secured: "hMIKbl7DZhi3Qc/kJ0VOc4OSb2+HKTCnYycR8IcKHqf7FqhiYxhJd/FMW2rJO1xljQK7jK86WBcqr350+Er5m2ZTHmP6mIgRS059NbRjNNsKhhYsgxDkJJJlf1nLAXmsacL1OTXLlT3oxx2mOzv954M/qC8Kfycc/ScjIK+Adz5vNZt3UZW4Fn1PKzgA33ECLAp4txVepOkj7LS3kPqvE0SbmLzAwB44k5W70tK9r7UF1+6QM/xJuQi7LOWYZrESbXMgd3HTdC/QGgyObPAokYVp7E/W5ml/PFGtvyi5XJoK9PFK8sPl+p9IVu4aMv2a;98wMnqqbQCZVQWM/6dNtcg=="
 ---
 

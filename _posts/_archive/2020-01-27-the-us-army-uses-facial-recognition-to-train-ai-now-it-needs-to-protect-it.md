@@ -70,6 +70,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "7vaMAXublMhMwkfbK6AwwvALEQR07caD9R+1rhLc07NPoDKj4wGP71/Sqirb+kufFLgI2eP6zwfGOsceJI6AWgs+SPTMQubz+kjXG5j1eQswIxGH/4+NmjSBLE6yksyReuVHq3zfDPF68ehDN8rwppKIUNyspHlCCYjQc79fRZ1igLDsubF4YCF8kQ5h85UY2J2tU+70SLXYvEFXbeeON0EiT5Cc9NWf+VlhachCsKtWue5P+cFqu1+I9PKkyyeMl0JAXZmLabwYOeF1+PIiUL2cx4wxQMo7oxMwfX+wgyhSLuBmN8S6UAyPdEw2bo4x;jbtBsGIZQUjAJ8jnuuFhbQ=="
+secured: "hudum2A+miM8tqO8SfsGU524UvenEI3YvREPIb5KLeIVSyK0w5mBTzKdYR7zC+GYZe+fujz1Kzb/j6EbW/fzgHw6wNXnzU+pRUJnYypH8s6FLbUyoH/7xGLI1H4hJDcjS8uYO7yBVKgZ8Wu3dLZeaKzQxzM6gG7eMcwIap1kXDVV61Apk9ac39H1B2T/x32hQCIsys1e/WgKsxz0OQnzY2DbYztDkV7obiuqVUyfM5m186yuzBCYNdGXMcd2lW3/Oqz00arvJocQpGVRhBPxYnB+3NFs83YR2dmnJcbCmdhlhty2wTN1j7teKe9F1boq;JSSSzXGzuIhmJoWE9U/SUA=="
 ---
 

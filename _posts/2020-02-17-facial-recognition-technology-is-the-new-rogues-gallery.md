@@ -1,23 +1,29 @@
 ---
 category: news
-title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
-excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
-publishedDateTime: 2020-02-12T07:33:00Z
-webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
-ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
-cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+title: "Facial Recognition Technology Is the New Rogues’ Gallery"
+excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
+publishedDateTime: 2020-02-17T10:45:00Z
+webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
+ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CBS Boston / WBZ
-  domain: cbslocal.com
+  name: Slate
+  domain: slate.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
+    width: 780
+    height: 520
+    title: "Facial Recognition Technology Is the New Rogues’ Gallery"
 
 related:
   - title: "India's use of facial recognition tech during protests causes stir"
@@ -80,21 +86,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
         width: 1280
         height: 720
-  - title: "Facial Recognition Technology Is the New Rogues’ Gallery"
-    excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
-    publishedDateTime: 2020-02-17T10:45:00Z
-    webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
-    ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
-    type: article
-    provider:
-      name: Slate
-      domain: slate.com
-    quality: 59
-    images:
-      - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
-        width: 780
-        height: 520
   - title: "Raleigh police abruptly end use of controversial facial recognition tech"
     excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
     publishedDateTime: 2020-02-11T18:11:00Z
@@ -125,6 +116,17 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
         height: 400
+  - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
+    excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
+    publishedDateTime: 2020-02-12T07:33:00Z
+    webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
+    ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+    cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "London police deploy live facial recognition technology, stirring privacy fears"
     excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
     publishedDateTime: 2020-02-11T18:47:00Z
@@ -214,6 +216,6 @@ related:
       domain: theglobeandmail.com
     quality: 8
 
-secured: "pBmJIdypDdVktNfVvyXEPT7xG5M2B2RtZMc07cBNlhpZISgwyg9xr50v+pzF6B5c3HRIUN5+G4e+dqlmEb8Km3e3Ty1dRXMcewfq0+BAUGg9oSr3MXMPoqoPtP0q0AGz6p6jkph6P4EXfH8L+ZbStIIQ122ox6iRdnZjI9hwS05qAfSV4a6Va/T6cj+oRlVI3d1ImzoAf0t0moEon6C/ANGdzBeRC7L25iKPup7EsL+esj+IEeelvbPINlI6D6hxHFFtw2W//ny/ZKDMog9PQwJwkMIgJzMtTuAcWBajOzEBGsOhVD1HXDNqRmCU02te01Z2Ck+4Sg9S4n8NL2Tq+W5wZV75fWvlVq72ffus75jAa+X/ylv69tAXfkFB5zHiZ7HI5cz2BIFedVCIggVaFr2F79Fhg+bFrSPChfFWmodXTDoAtJ8PC9Sc0KVhE65SrqD/tE4WNnxXWCfjvmPa9yNAjTFF2HJwLsb9P+ZyAok=;n9lWP45LRVA2IHr/yw6oHA=="
+secured: "Klwmt7kuLya4E3NbSx4Ql8LOFKIzAHJelV5QpiPLdMDOTHLPjirrg51JGwJfnJh9y/pt5cbQ9DMOS5Yl2K/SXrj94BLaA1Vn0ZnaZbe4st4XFMytRfWSH7FMWTT2lY6D7s7Bo5Dsl/zyVfHX8p6WaWZ2wlueT82Z6Hg4XNoRNNayP7IV+iGe3g5QhjGs5PXrs44wkoGXMwUEmlPMiyQB2QRjqjVLcAtubBZDLdnkv+P3y+BhSeuPi/YXvPfNPRvEY6HWDE/W17+ZkSvxwtAh68vl5CdkaOdjsEh2UODJ/mLV3eilniljcImPVachnHol;7NDa/ORTnnwwKZmOQmnnYw=="
 ---
 

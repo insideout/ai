@@ -30,9 +30,9 @@ related:
       domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/a6d53e94e9f8761fe3f1a9d04fd72da9136602de.jpeg"
-        width: 500
-        height: 500
+      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+        width: 320
+        height: 210
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
     publishedDateTime: 2020-01-23T14:37:00Z
@@ -47,6 +47,6 @@ related:
         width: 1024
         height: 803
 
-secured: "39OzTC6cXOexfKM6TFcE6BD8DMVjj9+G9Q6sp+iJ/liLlb9hB18kyZUR2BIah9AXpthjWeai3zpm0RDTsEwM3r0NQqiOD1m74vnZnSaDYS/KB3ov1hrjJHky2Sf3p4WWzCOCYLCPpqq+zyGNEHHuXwXBrrOEtOnekSCSeQDmdZwgY1ON21EH6hJKJp9sKJTfHcQCM1plvVoVC8C/7ZnR/XxqSLGMe0Rc2wdEo/TjzO7P41SgQ+zB186/05Kv8531fhxWl9SB4TpatrYeL0FbdtQl6GZ3/e8isrWoEGRbOO48L4MEX/sVjfJHN1GqHePq;2kaZ9IKZxkqROpHA3mRrMw=="
+secured: "AvgWFF9//VKIYnHCNnOvlGFTLSrFfaadG+hGSrAsCc+FtrtA8833pwaPhj+pPowsCjC2y61iSNYGcdTIkSd1JeGPY5lQ/5tCrXr440yyXsa5YW7JmQr3paiCyX3tc0qrymrVa0N8K+jq6FxWXiwoPPOfF/0/Lzmh9nQqU1VsVEs+NlMa0Emkz0yvdClv3qqmYc/exp9EMHfTPU7viNPyFl+iZLnbA4Q8xd9RMr1uYok21Qo2hUbPjMiO83kYrN62Yz1FJR0eXrUGbosqZVq2turN5QTpy+HvjQXnUHddZGvdTP2A12NGMtA4CzjtBZoO;iMOo/nIPU6iR/qBHAb8+iQ=="
 ---
 

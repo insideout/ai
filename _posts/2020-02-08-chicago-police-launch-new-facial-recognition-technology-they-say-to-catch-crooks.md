@@ -169,15 +169,6 @@ related:
       - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
         width: 640
         height: 461
-  - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
-    excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
-    publishedDateTime: 2020-02-11T09:23:00Z
-    webUrl: "https://www.dailyrecord.co.uk/news/politics/facial-recognition-technology-unfit-use-21469810"
-    type: article
-    provider:
-      name: dailyrecord
-      domain: dailyrecord.co.uk
-    quality: 16
 
 secured: "drljDwvjwGXopSzUTm+aubX8EqR/DfLXZkC5UFBr3+xOnJhTv8/oVyMWYoHQtreycrIaHgS21KCOOaXicg8pZt+nv31AuFqusP0XJBgClGNyvZizRGopboDywKJfPZBXGooh4L/LA8rg4RtoIJ/HUdDjWBgo0vFDYyFgzEDflhWudP+VRZSINjcmECUKKdvkWMN+LQkIhnhrWDpG7pZbP6ai3nD04lSJ13WPH4abvcXa/LfWsUJhcYV/Y/24DD0VYi+1xXjiAoiHwlORJQYzj+QtnQZm9pKZt5aLkYG/Sp6abc4jgaaDwO1t9RlNmw8bk+qGsqBAfjbEr7HD5hiMNKgosDWJrsweihS7nmoWFk+L7UysQZpaU2IzJzDVEibE5XrLS7EktiHs//lhtjrqTSXfQKr5o3m58wkFS72VtZkLei04EMxbovjjvH56M+tRa7ysAMF2+1dBJBtcY8C+zYxFx9E4Xg5FIbSTNeLo/eE=;9dFCiImajm2WHnqWw1m+3A=="
 ---

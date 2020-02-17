@@ -86,32 +86,6 @@ related:
       - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
-  - title: "Chinese firm working on facial recognition that can identify you under a mask"
-    excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
-    publishedDateTime: 2020-02-11T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/"
-    ampWebUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 66
-  - title: "Raleigh police stop using controversial facial recognition technology"
-    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
-    publishedDateTime: 2020-02-12T17:54:00Z
-    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
   - title: "Facial recognition scanners at US airports under more scrutiny"
     excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
     publishedDateTime: 2020-02-03T23:58:00Z
@@ -242,21 +216,6 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
-    excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
-    publishedDateTime: 2020-02-13T19:29:00Z
-    webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
-    ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 34
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
-        width: 625
-        height: 305
   - title: "eConnect Presents on Facial Recognition at the Western Indian Gaming Conference 2020"
     excerpt: "eConnect, Inc., a Las Vegas-based software company which provides hospitality companies with a platform for actionable information, reinforced by video, will be speaking at the Western Indian Gaming Conference and Trade Show."
     publishedDateTime: 2020-02-10T00:00:00Z

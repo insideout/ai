@@ -57,6 +57,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
+    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
+    publishedDateTime: 2020-02-10T20:50:00Z
+    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
     excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
     publishedDateTime: 2020-02-04T10:00:00Z
@@ -93,6 +106,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "rpyY+mkJHCRRcFLdo4UueKdvr7aN4GEpXBSsomnWErJ3YKrXj0YboyBFCSnRzKs8i8Bq9XfcRYihAqzjtXMTQ313xE1798F24NOvgAnOECd4C8Mk3Vgas/Z7dJCUX83JLeD8NA7dLpY/FoYj8BDzk0O/pOGsPn7Pr4fCaO6OKSeZ6gnOMvZSfylZ6Qh/gQI2vIKWP/1KKqY0RXvsz2mf+uvOMQagchbCRS2W/GpZQm8F22n0Y6sy3+4N28VHeC10cT1bTdyy+qaZJSRLZBO59Nz+k1iAGd5Go3lAfAORswnTrl4pJm7u08H87Hb26CJj;bm1e4Akr7HU6D0nVEr6jeQ=="
+secured: "PN7mY/qqiXrHfmZrzeNTBDNhrkxgxjCit6s246u9Z0wxuzhVLYL590jIVpemQJrRK5j6Dx6ZEwkQFcn9OBLEOxtrTN/KFMKpvDbxdVSnHEO6UJ+ywvTp3154NgzMVKLqkntrxA2vwK9FQaIeDglAz+PiAq19o4FISmg4weSZf4qNhi1T39XTGRXH59d1d3OtXuYxdb3Z+mabJlMJcjN0JfMzlBkGGMPYwBL1HtX8Uee0Wmg8+CZ3LXPzQ83y4+B7m168YlQYR49u/bWsXIk/YhFM2nwGhvUo8etqn9ryQ/UgwnxthU+ySuZpXR4cY7zH;ymafMlJLfMhpAbrmljasrw=="
 ---
 

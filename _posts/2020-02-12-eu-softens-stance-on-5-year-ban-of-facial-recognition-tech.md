@@ -140,21 +140,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-10-796x417.png"
         width: 796
         height: 417
-  - title: "India's use of facial recognition tech during protests causes stir"
-    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. Police in the Indian capital and the northern state of Uttar Pradesh - both hotbeds of dissent - have used the technology during protests that have raged since mid-December against a new citizenship law that critics say marginalises Muslims."
-    publishedDateTime: 2020-02-17T11:55:00Z
-    webUrl: "https://www.cnbc.com/2020/02/17/reuters-america-indias-use-of-facial-recognition-tech-during-protests-causes-stir.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/02/17/reuters-america-indias-use-of-facial-recognition-tech-during-protests-causes-stir.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/17/reuters-america-indias-use-of-facial-recognition-tech-during-protests-causes-stir.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
-        width: 1200
-        height: 630
   - title: "U.S. Senators propose facial recognition moratorium for federal government"
     excerpt: "Two Democratic U.S. Senators today proposed legislation that requires a moratorium on facial recognition use by federal agencies, government employees, and law enforcement until a Congressional commission can act to recommend guidelines and place limits on use of the technology. The bill, titled named the Ethical Use of Artificial Intelligence ..."
     publishedDateTime: 2020-02-12T23:24:00Z
@@ -584,6 +569,19 @@ related:
       - url: "https://www.sltrib.com/pb/resources/assets/img/sltrib_facebook_card.png"
         width: 1200
         height: 630
+  - title: "Facial Recognition Surveillance Technology Should Be Suspended in the U.S. Says Coalition of 40 Privacy and Free Speech Groups"
+    excerpt: "Facial recognition surveillance technology is a hot-button issue that pulls together several major social concerns; privacy, profiling, authoritarianism and free expression. As both camera hardware and facial recognition software technologies advance to the point that a person can be added to a database and then located in a crowd in under 10 ..."
+    publishedDateTime: 2020-02-17T11:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 11
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups_1500.jpg"
+        width: 1500
+        height: 860
   - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
     excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
     publishedDateTime: 2020-02-11T10:18:00Z

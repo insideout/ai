@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
-excerpt: "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ..."
-publishedDateTime: 2020-02-11T06:04:00Z
-webUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675"
-ampWebUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
-cdnAmpWebUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
+title: "Facial Recognition Surveillance Technology Should Be Suspended in the U.S. Says Coalition of 40 Privacy and Free Speech Groups"
+excerpt: "Facial recognition surveillance technology is a hot-button issue that pulls together several major social concerns; privacy, profiling, authoritarianism and free expression. As both camera hardware and facial recognition software technologies advance to the point that a person can be added to a database and then located in a crowd in under 10 ..."
+publishedDateTime: 2020-02-17T11:00:00Z
+webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups/"
 type: article
-quality: 58
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: The Scotsman
-  domain: scotsman.com
+  name: CPO Magazine
+  domain: cpomagazine.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
-    width: 445
-    height: 600
-    title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
+  - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups_1500.jpg"
+    width: 1500
+    height: 860
+    title: "Facial Recognition Surveillance Technology Should Be Suspended in the U.S. Says Coalition of 40 Privacy and Free Speech Groups"
 
 related:
   - title: "Facial recognition could be temporarily banned for law enforcement use"
@@ -251,6 +249,21 @@ related:
       - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
         width: 770
         height: 535
+  - title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
+    excerpt: "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ..."
+    publishedDateTime: 2020-02-11T06:04:00Z
+    webUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675"
+    ampWebUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
+    cdnAmpWebUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 58
+    images:
+      - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
+        width: 445
+        height: 600
   - title: "Florida cops use this facial recognition tech that could be pulling your pics"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T10:08:00Z
@@ -571,19 +584,6 @@ related:
       - url: "https://www.sltrib.com/pb/resources/assets/img/sltrib_facebook_card.png"
         width: 1200
         height: 630
-  - title: "Facial Recognition Surveillance Technology Should Be Suspended in the U.S. Says Coalition of 40 Privacy and Free Speech Groups"
-    excerpt: "Facial recognition surveillance technology is a hot-button issue that pulls together several major social concerns; privacy, profiling, authoritarianism and free expression. As both camera hardware and facial recognition software technologies advance to the point that a person can be added to a database and then located in a crowd in under 10 ..."
-    publishedDateTime: 2020-02-17T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 11
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups_1500.jpg"
-        width: 1500
-        height: 860
   - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
     excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
     publishedDateTime: 2020-02-11T10:18:00Z
@@ -609,6 +609,6 @@ related:
         width: 300
         height: 250
 
-secured: "GhOl7zZlxNvSVBdGFhLZDr2/wIa3M7Jn9Q1V7d80f6opE130EbZ8FZ+YLiVcO/oTXp6IVTRTHYb82+8Gys55BfnYoVOb4MwpV5vlih6AHAk68FlnW5j5nFrOhCI7BMoTvC2D5LGHwJFreKa82rmX1bphIbeA16gffQSGH8fHk2z5sNL+btP2RyB+jJ4jclx93NOD3DMCTUxnoCcpeYWhDc6biMf4MucUAkI9mv0F4dvkk6UYPW+kxV/xLTRn8BilzhlnehYwuvsz7wfZtYZC3cu0riKUQHSES0kU7y6QpbFlX6sXY0GdlpVvAqdrHfhW648u/PEth66n9rXn+d6W6IeLsQ+BrAPQ/y4AoK3xE4BQGuzWkF1UQ+KzKZrjndMwn4wZ2bABlynR1Od3O5d50y+rRziu3ux21w6Chhf/LF4u0lGxClPl4YR3+Fyetc/vCabL5OdPW3pTr9cMmc2PJQJf9YR5FHHMjdn/fX3rpSo=;Dbm04Cy0XBBayzD4ptk9IA=="
+secured: "wquBDi4eAJgNWCnuSS5b8/tZwuyPMuAjXASuGWwsz9q1rSdRzIoapX68eCt1EnjTHI9dvNKxJl51kJZuGbJwWcLOd1MHFOi/j6QoDK/ELba+ltD3GKUZ4eybsjiAqHy8jN1dJ+9WHJmjuga6hHdzuf5m6gCG9aF8EJ7mVn2XLIM3YLy2fJjzbj6qcdDDYXg6jrQXr7avHxpuASQhJi7UcoGkDaoBqPJExwVw4UvYOgLPJwN/FgM/G7xp+gA4F2Wtk5NHVXz1oG1affJqjvTyqEN2h1X36efWpy8qU+ltjztp7c6QqVwXZGajdgt4bsoX;bGrnBKwRVqffdI8GmYaJsA=="
 ---
 
