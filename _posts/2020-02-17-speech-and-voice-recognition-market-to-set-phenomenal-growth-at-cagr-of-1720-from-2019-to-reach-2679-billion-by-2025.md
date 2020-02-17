@@ -20,15 +20,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Consumer biometrics, speech recognition, 3D sensors and digital ID markets all to grow by at least 17 percent CAGR"
-    excerpt: "Voice and speech recognition will be a $26.8 billion market by 2025, growing from 2019 at a CAGR of 17.2 percent, according to a report from Meticulous Research. Speech recognition is expected to be the larger segment, but the whole market will be driven by growing technology acceptance, consumer demand for smart devices, increased focus on ..."
-    publishedDateTime: 2020-02-14T21:25:00Z
-    webUrl: "https://www.biometricupdate.com/202002/consumer-biometrics-speech-recognition-3d-sensors-and-digital-id-markets-all-to-grow-by-at-least-17-percent-cagr"
+  - title: "Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
+    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
+    publishedDateTime: 2020-02-13T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-leading-companies-consumption-key-drivers-challenges-and-trends-forecast-to-2026-2020-02-13"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "mc1LLPQZeeXzQHkjgG36Ck6luX1SgWTSU9Zb241EPofIFjcOL/cmIx1cFPO0RPmWX1/w5W1wuDVCbGL9AHD7jY11q5Gpxrk5my6RVQU5gCBFcLnJOQ5lKMFDZs2OozkZRt/WNCuILu+okoVVmOP3SyLDGmzRVtD3jY1pnfwn2F6rbT0KEFKxyUKmKWFqnAYWtOakMaw/yxgCC+MPalz+9w33AcSP2kGcE+wtHgxQ9F+R3iVsngZf0vS15H8ve0WEQmTXPBHOdRgpcZL2n1T7nShbs1XZ94bxmQB3GjWlB9vJzvnuiq2Yr2h0G4/jSJ68;aZW2ReXVH5Nkdty3sdhvYA=="
 ---

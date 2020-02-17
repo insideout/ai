@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T22:34:00Z
 webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -24,41 +24,21 @@ images:
     title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
 
 related:
-  - title: "Army developing binoculars that can identify far-off faces in the dark"
-    excerpt: "Hackers can cripple facial and object recognition systems during development, said MaryAnne Fields, program manager for intelligent systems at the Army Research Office. The Army recently funded ..."
-    publishedDateTime: 2020-01-31T11:49:00Z
-    webUrl: "https://www.stripes.com/news/army-developing-binoculars-that-can-identify-far-off-faces-in-the-dark-1.617023"
+  - title: "Facing facts: Reject a blanket ban on face recognition"
+    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 24
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
     images:
-      - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
-        width: 490
-        height: 506
-  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
-    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
-    publishedDateTime: 2020-02-03T21:46:00Z
-    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
-  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
-    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
-    publishedDateTime: 2020-02-03T14:21:00Z
-    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 18
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
-        width: 640
-        height: 461
+      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
+        width: 1200
+        height: 799
 
 secured: "j0XIbaVt+6RCTxelcB4TCVvIEobvXr/Bn5cuROKWShicCWqyk0JZED0bo1aCNkTzVesVV7mQX7kzwwuN7mKqUX7f+VULpMAHvFSRp7koDjEjgvgZ3gxxWcY7sFCqz3x6yzF/OatNLTmB3e4fwzryuZsAWPrvJBEZwj4Ff6XFm+j/Zd7JHl0rIlgW9YEO4l9OIiKFzmmdRgIyVhHklRZH7QDNYbcUYLjbcfUlO85pmOtDlr/uTetmVuMpXyFMXkcZ2guYo5oBpQHql5GsNzmjjzViWXkOBYo7jikin+1J2L/XDZMPCCj2q4MgmvwdEXJFXoaOm06rIFO9x5EpKti38tQ42Ya+yH8LbunoH7oy+VgnxXhhs0yZP+SGLyNupupAGPi/lDemPk7we3/IERGQNy2BceEN+h7N9ePSQ4qbZQdi8sS5MAcVxP08MVW20GGrx+5tLlKE2Vf3G271dPmXjtDzDKTjzLWr7lH+Uul8y78=;89Clc/8g/gsJqIxnWBA7lw=="
 ---

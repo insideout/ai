@@ -18,9 +18,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-    width: 320
-    height: 210
+  - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/a6d53e94e9f8761fe3f1a9d04fd72da9136602de.jpeg"
+    width: 500
+    height: 500
     title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
@@ -49,6 +49,6 @@ related:
         width: 1024
         height: 803
 
-secured: "JVvHwAwv2T9CUSrCYGHDxyAhNjub7LIeaLgIS2xutYAoTUGPg2NJ0PZAR9kVwAMGroJO+msWi7Ey157jptjoXk4Q9fLHiizQJfU5jcaNGiuzRdZi8ozsl2WRMFEk2he7tppMB2vJ2klGNRQvNbcyHWOr5lB+YxBTuvylch+Yr6+QTH2G/xFDdY5esm+RvDBNjt92tAzs2h813LOf9iXJVRhTPKpDN6Rsh79iC4u599+5a6lzcd7ESyzMUhXCbFYw77cd9mJ0QHUAoanLd3srCordBpnnLYDfPk1bwgcA08OUzK3CRT5Lmhn567C1Gr7t;N5dKP/F/xvyivaywmtp9UA=="
+secured: "i8mink/nVKZD4Yh1qYxmBHYV8EQWbynrdsS/dtVGZKVAo0yS5HdXxwaM9mbQeyRddt1tqwPzGGlXeP8ax0gKB091hOgGchuZgc4IEZpXs3LdruuagdwxlYUz+XaOt9pEhZiAcC6kByYuotizttv8wEML2UA2LwIBm20L6t/xIGlTBz/bflbD19hlNPDqVS1vOKDnf01W267ZskT5FcL6xxjUy2MO2X+AJJcBlyn3jc+BGRbBpisoKnZXodT41QqiEjGBcXRI+pvuFgdmKez7SSoVixkkqrAv1xoOwZs5I/MEEvMnKB4+9gJW6d05f0tT;ja9dOTAP5nAu/0Oss+eVJg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T11:49:00Z
 webUrl: "https://www.stripes.com/news/army-developing-binoculars-that-can-identify-far-off-faces-in-the-dark-1.617023"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,43 +23,6 @@ images:
     height: 506
     title: "Army developing binoculars that can identify far-off faces in the dark"
 
-related:
-  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
-    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
-    publishedDateTime: 2020-02-03T22:34:00Z
-    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 28
-    images:
-      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
-        width: 700
-        height: 394
-  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
-    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
-    publishedDateTime: 2020-02-03T21:46:00Z
-    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
-  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
-    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
-    publishedDateTime: 2020-02-03T14:21:00Z
-    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 18
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
-        width: 640
-        height: 461
-
-secured: "ay+l9g+FSS2mcJgTCl3unaTiJF0tRAq/pGJx/ifKTWMmpS0hv44oxj1OtNlXD2Fa2axEpYD0jU4pEJyZN61j0bsYcECBXdb1e+uGxN+xy9bY5VuEWBndH4f5uYRmFJ+IejSZJ4qR3b1omy+jGF63/8fWlcBaAyAFoMAHtm/vyXTRqgR+DgG5SHlcTu1bhOOkPXUcWfD7FWE6LYdPPCD00Q+nxjRClIYK5Eyttyv18yqbXg2j/uWnK7lCGG5DxYLGTntvOS5bVkITcJp9cxA40NgxDMVl9cf/1h2FitxgvA5prmsoPX491aCGxvPcS/WT;ridr9EeOknR0XCIeM1vsCQ=="
+secured: "ZmmsOCZYk/yvPtI70qSo5ekjrUhlRHldrj3I+BK1S3bu3yxmjhqxosOGuBMEoZoCpWCfRPilWDXyDexQ9NMPX02wcLImWdvGSp7DRlW/CcUo9s2Y1UWynyF/krLWch0aW5FhW/OzVcS2UWdabWyqhNBlNubgviXtMKS9uO8FQgihekwWLsz4se/o30xPx3XBNod3nojNAYhqfc7pSKKi+I3wPq2m72zr4cFQ5ZfOYMG+q+yEiAwD//43rFlCgb+E3bnA9Fqoaiola3rECHPmZATU/uQ2p4dWISFRP9Fo3QDHjtei3GM22cZTWVHhjRox;etIRIKQuDZENiEmr8r7jKw=="
 ---
 

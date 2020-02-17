@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-17T06:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-mobile-artificial-intelligence-mai-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-17"
 type: article
 quality: 64
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -27,15 +27,15 @@ images:
     title: "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
 
 related:
-  - title: "Natural language processing (NLP) Market Global Industry Analysis and Forecast till 2027"
-    excerpt: "Ameco Research added new research report to its vast database titled \"Global Natural language processing (NLP) Market 2020\" which provides extensive and highly detailed information on the key markets."
-    publishedDateTime: 2020-02-17T03:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-global-industry-analysis-and-forecast-till-2027-2020-02-16"
+  - title: "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026"
+    excerpt: "Global Automotive AI market has emerged as one of the most lucrative growth verticals in recent years. The market is predicted to show a remunerative growth trend through 2026. This development can be attributed to the slowly increasing uptake of driver assistance technologies in an effort to provide a better driving comfort as well as ensure a safe driving experience."
+    publishedDateTime: 2020-02-17T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -49,19 +49,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025"
-    excerpt: "The post Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025 appeared first on Dailymarketjournals. COMTEX_362078588/2654/2020-02-16T10:34:56"
-    publishedDateTime: 2020-02-16T15:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-growth-trends-analysis-and-forecast-to-2025-2020-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -88,6 +75,24 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "AI in the Auto Market to Eclipse $12B by 2026"
+    excerpt: "In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip that features 8 million neural networks and can reach up to 10,000X faster computing speeds compared to traditional CPUs. Furthermore, the increased use of sensors, including high-resolution cameras, LiDARs, and ultrasonic sensors for vehicle situational awareness, is fueling the ..."
+    publishedDateTime: 2020-02-10T16:24:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21122595/ai-in-the-auto-market-to-eclipse-12b-by-2026"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 19
+  - title: "Automotive Artificial Intelligence Market"
+    excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
+    publishedDateTime: 2020-02-12T00:00:00Z
+    webUrl: "https://www.openpr.com/news/1929108/automotive-artificial-intelligence-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "cf0/1gXy3wTzeunltkDTAjgcCvbZ83B0IL7p/XYByY1jDIGb1512NWhsAHwWBWiag6c8ci/wIvwr4+5UwQsuHelKxtaULbaqSOPXhK8i4JWol0muRZPO0Tb4lLgoSzaSkrq8MmSFlm4DodAJCVQsNgJdha2dF5wMpZHsogEeRTdBmkDvdQ44e9off4HYocT0L8D+4BtHzTIChz7qY3UYd/RWrpa5ym46KVLPucftDwd7jaLiXcqs/4IwGAFLcfWQHqOSTIcUiRuCqkwirmAV3KC6YdkVGuR/n383fu6Sng+pzOyX0zTYaIPhn2gGBnKp;dLfBeuzlD+VDT+liI6hioQ=="
 ---

@@ -135,6 +135,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3750%252C2199%252C0%252C87%26quality%3D85%26format%3Djpg%26resize%3D1600%252C938%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F13cdbc50-4e28-11ea-af76-05ffda135652%26client%3Da1acac3e1b3290917d92%26signature%3D0481885756e5df58466c02a0c4b77093553bc031&client=amp-blogside-v2&signature=f8f6c4395bba8a560c86317e4de100dad55191c3"
         width: 600
         height: 350
+  - title: "India's use of facial recognition tech during protests causes stir"
+    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. Police in the Indian capital and the northern state of Uttar Pradesh - both hotbeds of dissent - have used the technology during protests that have raged since mid-December against a new citizenship law that critics say marginalises Muslims."
+    publishedDateTime: 2020-02-17T11:55:00Z
+    webUrl: "https://www.cnbc.com/2020/02/17/reuters-america-indias-use-of-facial-recognition-tech-during-protests-causes-stir.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/02/17/reuters-america-indias-use-of-facial-recognition-tech-during-protests-causes-stir.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/17/reuters-america-indias-use-of-facial-recognition-tech-during-protests-causes-stir.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
+        width: 1200
+        height: 630
   - title: "U.S. Senators propose facial recognition moratorium for federal government"
     excerpt: "Two Democratic U.S. Senators today proposed legislation that requires a moratorium on facial recognition use by federal agencies, government employees, and law enforcement until a Congressional commission can act to recommend guidelines and place limits on use of the technology. The bill, titled named the Ethical Use of Artificial Intelligence ..."
     publishedDateTime: 2020-02-12T23:24:00Z

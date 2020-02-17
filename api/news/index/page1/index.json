@@ -1818,6 +1818,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-04-lightfoot-urged-to-pull-the-plug-on-facial-recognition-technology.md",
+      "title": "Lightfoot urged to pull the plug on facial recognition technology",
+      "excerpt": "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\"",
+      "heat": 179,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
+      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
+      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
+      "publishedDateTime": "2020-02-04T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Lightfoot urged to pull the plug on facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-04-new-deep-learning-model-identifies-sleep-stages.md",
       "title": "New deep learning model identifies sleep stages",
       "excerpt": "Researchers at the University of Eastern Finland have developed a new deep learning model that can identify sleep stages as accurately as an experienced physician. Sleep is manually classified into five stages, which are wake, rapid eye movement (REM) sleep and three stages of non-REM sleep. It is estimated that up to one billion people ...",
@@ -2096,50 +2133,6 @@
           "width": 796,
           "height": 418,
           "title": "This new AI model will badmouth you for putting trash in the wrong bin",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-tropical-breezes-pristine-beaches-and-a-domain-name-to-die-for.md",
-      "title": "Tropical Breezes, Pristine Beaches and a Domain Name to Die For",
-      "excerpt": "Start-ups want unusual internet addresses to help stand out. One winner: The island of Anguilla, whose “.ai” domain is a favorite of A.I. start-ups. The luxury resorts along serene white-sand beaches have long propped up the economy of Anguilla,",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/02/04/business/custom-urls.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/02/04/business/custom-urls.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/04/business/custom-urls.amp.html",
-      "publishedDateTime": "2020-02-04T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/02/04/business/00dotx1/00dotx1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Tropical Breezes, Pristine Beaches and a Domain Name to Die For",
           "attribution": null
         }
       ],

@@ -23,6 +23,6 @@ images:
     height: 270
     title: "FCA & BofE launch AI and machine learning forum"
 
-secured: "iyKjTflT9h6XBxGlPe8UQJjQmD3fLXEVJXqHKrq3hTzD6QazW8TJfEs9yfTqcsOuhDbZAmqNETyRMIh3mtOZ5WaJ0XcQVe6XKrewijwMGFULmIAZem+Ht9TKI6PC0aLZn5E3dVsorCm+L7rsZnnRUCHE9L43Ft8sjISTfsUK0R+rtq22e/e0tRr9ByJd92XdwCpcRIuVmnX9DQl+E6U5WiG4IX9JQ/v5i6cdLDsF7TVKHiNrEu9J58C014SM+QkQMBv9P3riVeoRUwXbqJyxL/7WEYbfPtH+SKcbk2UIu6YA+hzfS9Vjum2Jns4HRP3K;v7/pqwiyRNaGpOKksNi4BA=="
+secured: "TmKFZ+Po71Jkvf+jyC+n/CY/H1DCfMdlD4N8AYuJVhQClK9sree1hohIQBLH77qKRqywaM+i5hkzJvyKOkpu1GM2kxb/JmpsBY+K8143quImcy6aRnyw8MOuXtl7ehSzQ+q0/072PGQjk7tZavFMsASXLieFaeuapLq/mjnIV5uHDJANitpArJpPCAkPHfJjGYxSNULIocCrPkEL0eIABV1T1ygRolH41mZTESjCJE/bQ9kyKvlngLGkH5Ee39OHDOdAGYMejuFOvC2Eu8LcTgIjBwYLXhJMoW4CO5qkn7t0OQkypt6MRxouUHanViG+;4M3wOi5qFn1c5aAcTJCKGw=="
 ---
 
