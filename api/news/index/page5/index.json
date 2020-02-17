@@ -2107,23 +2107,23 @@
       ]
     },
     {
-      "path": "_posts/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
-      "title": "The Future Of Blockchain: Fintech 50 2020",
-      "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
-      "heat": 237,
+      "path": "_posts/2020-02-12-oracle-announces-oracle-cloud-data-science-platform.md",
+      "title": "Oracle Announces Oracle Cloud Data Science Platform",
+      "excerpt": "REDWOOD SHORES, Calif., Feb. 12, 2020 /PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data Science, helping enterprises to collaboratively build,",
+      "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
-      "publishedDateTime": "2020-02-12T06:26:00-08:00",
+      "webUrl": "https://www.marketwatch.com/press-release/oracle-announces-oracle-cloud-data-science-platform-2020-02-12-8183037",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -2135,10 +2135,10 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 800,
-          "title": "The Future Of Blockchain: Fintech 50 2020",
+          "height": 630,
+          "title": "Oracle Announces Oracle Cloud Data Science Platform",
           "attribution": null
         }
       ],
@@ -2147,7 +2147,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

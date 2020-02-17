@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T10:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026-2020-02-17"
 type: article
 quality: 67
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -76,6 +76,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Market 2019-2023 | 33% CAGR Projection Through 2023 | Technavio"
+    excerpt: "This is encouraging public cloud players to offer a wide range of cloud-based AI products and services. For instance, in February 2019, Microsoft launched the Azure Internet of Things Edge Runtime, which allows developers to edit and customize applications on edge. “Alternative solutions to GPU for accelerating AI workloads and the increased ..."
+    publishedDateTime: 2020-02-12T20:27:00Z
+    webUrl: "https://apnews.com/Business Wire/966e8d618f3d4c40bab619d29a2f82ee"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "AI in the Auto Market to Eclipse $12B by 2026"
     excerpt: "In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip that features 8 million neural networks and can reach up to 10,000X faster computing speeds compared to traditional CPUs. Furthermore, the increased use of sensors, including high-resolution cameras, LiDARs, and ultrasonic sensors for vehicle situational awareness, is fueling the ..."
     publishedDateTime: 2020-02-10T16:24:00Z

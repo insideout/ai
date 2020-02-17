@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_posts/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
+      "title": "The Future Of Blockchain: Fintech 50 2020",
+      "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
+      "heat": 237,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "publishedDateTime": "2020-02-12T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future Of Blockchain: Fintech 50 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-12-this-eye-tracking-system-uses-ai-to-diagnose-multiple-sclerosis.md",
       "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
       "excerpt": "Now, C. Light Technologies, a neurotech and AI company that grew out of the Berkeley Skydeck accelerator, wants to help doctors diagnose neurological conditions with more speed and precision. The company has developed an eye-tracking technology paired with machine learning that can be used to diagnose multiple sclerosis (MS). Patients simply ...",
@@ -2129,50 +2173,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-15-7-business-areas-ripe-for-an-artificial-intelligence-boost.md",
-      "title": "7 business areas ripe for an artificial intelligence boost",
-      "excerpt": "Artificial intelligence has captured everyone's imagination, but what can we expect from the technology? A recent survey of more than 550 executives from IBM finds plenty of support from the top -- everyone wants to plunge full-force into AI to increase the speed and capabilities of their businesses. At the same time, AI is still very much in ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
-      "publishedDateTime": "2020-02-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/02/15/211f423b-0209-4ff3-ba9b-55d939fe67e0/ibm-watson-group-photo-from-ibm-media-relations.jpg",
-          "width": 320,
-          "height": 287,
-          "title": "7 business areas ripe for an artificial intelligence boost",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

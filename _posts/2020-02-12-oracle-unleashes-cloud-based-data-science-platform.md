@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cio.com/article/3526602/oracle-unleashes-cloud-based-dat
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3526602/oracle-unleashes-cloud-based-data-science-platform.amp.html"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,19 @@ images:
     title: "Oracle unleashes cloud-based data science platform"
 
 related:
+  - title: "Oracle Announces Oracle Cloud Data Science Platform"
+    excerpt: "REDWOOD SHORES, Calif., Feb. 12, 2020 /PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data Science, helping enterprises to collaboratively build,"
+    publishedDateTime: 2020-02-12T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/oracle-announces-oracle-cloud-data-science-platform-2020-02-12-8183037"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Everything OK down there in the Oracle trench? Good. Big Red has a cloud-based data science platform for you"
     excerpt: "Meanwhile, H2O.ai launched tools which automate many of the processes in developing machine-learning models in its Driverless AI product in 2017. Microsoft also offers its Azure Machine Learning Studio, which it says streamlines the machine learning lifecycle, from building models to deployment and management. Google and AWS have similar tools."
     publishedDateTime: 2020-02-17T09:30:00Z
@@ -42,19 +55,32 @@ related:
       - url: "https://regmedia.co.uk/2017/04/03/cloud-jump.jpg"
         width: 648
         height: 348
-  - title: "Oracle Announces Oracle Cloud Data Science Platform"
-    excerpt: "Oracle Cloud Infrastructure Data Science automatically selects the most optimal training datasets through AutoML algorithm selection and tuning, model evaluation and model explanation. Today, organizations realize only a fraction of the enormous transformational potential of data because data science teams don’t have easy access to the right ..."
-    publishedDateTime: 2020-02-12T13:20:00Z
-    webUrl: "https://www.oracle.com/corporate/pressrelease/oracle-cloud-data-science-platform-021220.html"
+  - title: "Databricks Named a Leader in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Databricks, the leader in unified data analytics, has been named by Gartner as a Leader in the 2020 Magic Quadrant for Data Science and Machine Learning Platforms. The complete report was published on February 11, 2020, and is available at: http://databricks.com/p/whitepaper/gartner-magic-quadrant-2020-data ..."
+    publishedDateTime: 2020-02-17T18:24:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200217005397/en/Databricks-Named-Leader-Gartner-Magic-Quadrant-Data"
     type: article
     provider:
-      name: Oracle
-      domain: oracle.com
-    quality: 24
+      name: Business Wire
+      domain: businesswire.com
+    quality: 25
     images:
-      - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
-        width: 480
-        height: 480
+      - url: "https://mms.businesswire.com/media/20200217005397/en/722802/23/Databricks_Logo.jpg"
+        width: 1200
+        height: 627
+  - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
+    excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
+    publishedDateTime: 2020-02-17T16:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dataiku-named-a-leader-in-the-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301005916.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
+        width: 1200
+        height: 628
   - title: "GigaSpaces Launches GigaSpaces Cloud Managed Service on Google Cloud Platform"
     excerpt: "With GigaSpaces, enterprises can operationalize machine learning and transactional processing to gain real-time insights ... are leveraged by hundreds of Tier-1 and Fortune-listed organizations worldwide across financial services, retail, transportation, telecom, healthcare, and more. GigaSpaces offices are located in the US, Europe and Asia."
     publishedDateTime: 2020-02-11T14:38:00Z

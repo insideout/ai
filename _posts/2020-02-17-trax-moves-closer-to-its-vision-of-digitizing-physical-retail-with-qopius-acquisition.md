@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Trax Moves Closer to its Vision of Digitizing Physical Retail with Qopius Acquisition"
 
-secured: "/389y3JTXyNwYSpjtbZEjEXemFGUgKAz6gqLG7x/7hPneXAbXqWOIK9wo79etXmz8MI0PgaWIXMU70unX/8AlnXYlhNIkdPvwfCtlPA6hUacRoJ0XgaUnTOGwu479YcLBoIm6bddo7/5OIzPIUiQMv8AKdVRB6gUg3XhQxTABk0srtmvokVOe4nZ00uBWEYC/qxHyZ3THAdYaYDGZM8JJmnafpE9uAYiG4FIgppxPan6H3rM0YjHoVc5zH8JGN79P0Nn2qf0X9/oGhpt/bhjeIG5A3vF1i/gJFcxhh1t1VVzDKKpzVMc6Zyc0a5SpkG1;AzIxkYV2D9c3zIhG1DzX+g=="
+secured: "Kz4PTaJ/Eg2pLt/BJH5mp1G/OCM1//RilmnZjMDuJVBq+g90vdozlRVB9IZ9/u5L2K8K0Ok2DuLzgJOs0J+mASZ28e6lPJAB+22aODIBNosfBPDfOb0xu9Od2YMxx39TdKsEgKOq6GpfaWacC/1hYzZrrwUJ9t9/48zT/rrajvJ/t0b1pEMyQ3Z6KJ7TfrgsZ9lJ8WuK+/FUhPkiGHPc+kyDzlagd/5Dsi7MewK+bZFOWHjUZ9Kt5d9T8u5mNcj9XCJDZUU/vur3sgwpD6SUHOMFBp7NJfeRXZS1hV9eJZQYU44QbPh1FDxPgVTjx3Q03rygPIyzi/x/YbpQaMS0tx8jucVC8SUlTcTxU8Xy7+6X5znYz70LrjjXlWUwpQfqLl+AggHEBypAzb2Cg0cS4r0GEoC5XeY8aNgMapzLXpSy6Ccl5QHQKj3arLQ3odFTnEn+Lw5YfdCkSwXqrz3M29kUPCzN5mD0MGmqZaZj5xU=;5/BnacRrTLgPL/IqUC2ybQ=="
 ---
 

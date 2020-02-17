@@ -1,21 +1,27 @@
 ---
 category: news
-title: "AI in the Auto Market to Eclipse $12B by 2026"
-excerpt: "In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip that features 8 million neural networks and can reach up to 10,000X faster computing speeds compared to traditional CPUs. Furthermore, the increased use of sensors, including high-resolution cameras, LiDARs, and ultrasonic sensors for vehicle situational awareness, is fueling the ..."
-publishedDateTime: 2020-02-10T16:24:00Z
-webUrl: "https://www.electronicdesign.com/markets/automotive/article/21122595/ai-in-the-auto-market-to-eclipse-12b-by-2026"
+title: "Global Artificial Intelligence (AI) Market 2019-2023 | 33% CAGR Projection Through 2023 | Technavio"
+excerpt: "This is encouraging public cloud players to offer a wide range of cloud-based AI products and services. For instance, in February 2019, Microsoft launched the Azure Internet of Things Edge Runtime, which allows developers to edit and customize applications on edge. “Alternative solutions to GPU for accelerating AI workloads and the increased ..."
+publishedDateTime: 2020-02-12T20:27:00Z
+webUrl: "https://apnews.com/Business Wire/966e8d618f3d4c40bab619d29a2f82ee"
 type: article
-quality: 19
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Electronic Design
-  domain: electronicdesign.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
-  - AI Hardware
+  - Microsoft AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "Global Artificial Intelligence (AI) Market 2019-2023 | 33% CAGR Projection Through 2023 | Technavio"
 
 related:
   - title: "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026"
@@ -79,19 +85,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) Market 2019-2023 | 33% CAGR Projection Through 2023 | Technavio"
-    excerpt: "This is encouraging public cloud players to offer a wide range of cloud-based AI products and services. For instance, in February 2019, Microsoft launched the Azure Internet of Things Edge Runtime, which allows developers to edit and customize applications on edge. “Alternative solutions to GPU for accelerating AI workloads and the increased ..."
-    publishedDateTime: 2020-02-12T20:27:00Z
-    webUrl: "https://apnews.com/Business Wire/966e8d618f3d4c40bab619d29a2f82ee"
+  - title: "AI in the Auto Market to Eclipse $12B by 2026"
+    excerpt: "In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip that features 8 million neural networks and can reach up to 10,000X faster computing speeds compared to traditional CPUs. Furthermore, the increased use of sensors, including high-resolution cameras, LiDARs, and ultrasonic sensors for vehicle situational awareness, is fueling the ..."
+    publishedDateTime: 2020-02-10T16:24:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21122595/ai-in-the-auto-market-to-eclipse-12b-by-2026"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 19
   - title: "Automotive Artificial Intelligence Market"
     excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
     publishedDateTime: 2020-02-12T00:00:00Z
@@ -102,6 +104,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "+mnPF9aziFk/je6HaaD0YKrJu0SWGnxVtXJp99FsMEsXSdaTgL4gpd8DExen8mzLeQHadUvshQY5AhTY6xgCan+XrkqjaL+Oy3ChaOGe/DB3Rh6qgZ1ABFcq7AXVFwy6K9NlLMVyjctE7TuDiS7+260jAh4A4yphCmM1hSJAPH+uqS4UIuTD3YiIeuMsZVeduEQssnIX883HkKZNmnbCCVSzC4MJF7JSTxLwL7k2wgQ5u1u19jrojA9Z94Bkt/Do3kbMmtAB7B7BUBK8JhL/nkGD5ROA6JM8j697AejCoDI7xnIMK2FEBbaG+IiFdtuKzYq+VAAxP9+/EUkl0BI0YAQ5sIohvcDAWOifxz/r7w4VCsl/5sc55y1DZapqhVfVFFe+auAdaSob9eJb8FR9gpzc164Xr8bP3dgI5J9JBoapJSGknl27O4XyBmft+TTCitHTVQkih34EK/HicVShJ9KFls2vxqyNUz7DSsaCJtc=;rYIp9Y2qhsLEYNb3SeWj8Q=="
+secured: "Pp4Uz9zp4LXuu8gOaKHlf0CSaHHgwyHt04Umdnvuk7EEiJ8j4u++kVLf/ZFxYjTXQvD/kb4GSROxs4KhAtQRZkKmwij7RcipPweLyQrsZUcZPc2cghiiQuYs70PKNGp04gRgIveTGNG4rbxfDTSkshRrkWE+wGYL22VxJdRyhwd07py59wr6kCF2P5UDHnp48Bq9RhXhJ+F9ei6nTycG+CfRErOu8Ue7LPkiCu2IL6yeR3CtzUJURzX1ySbw1e4CeD2rEx6DsSvVrG7g3d3GJYJXfTskRdgPGy4lvG7Tp2jIK/9LOpRO5yWbEc20jOqY;LIziGx93r2tXHFrLLrubRQ=="
 ---
 

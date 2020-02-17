@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_posts/2020-02-15-7-business-areas-ripe-for-an-artificial-intelligence-boost.md",
+      "title": "7 business areas ripe for an artificial intelligence boost",
+      "excerpt": "Artificial intelligence has captured everyone's imagination, but what can we expect from the technology? A recent survey of more than 550 executives from IBM finds plenty of support from the top -- everyone wants to plunge full-force into AI to increase the speed and capabilities of their businesses. At the same time, AI is still very much in ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
+      "publishedDateTime": "2020-02-15T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/02/15/211f423b-0209-4ff3-ba9b-55d939fe67e0/ibm-watson-group-photo-from-ibm-media-relations.jpg",
+          "width": 320,
+          "height": 287,
+          "title": "7 business areas ripe for an artificial intelligence boost",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-15-bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives.md",
       "title": "Bill Gates: AI and gene therapy have the power to save lives",
       "excerpt": "Technology could help cure AIDS and understand our biology, Gates says. Microsoft founder Bill Gates thinks artificial intelligence and gene therapy are the two technologies with the greatest power to change lives.",
@@ -522,7 +566,7 @@
       "path": "_posts/2020-02-17-automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026.md",
       "title": "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026",
       "excerpt": "Global Automotive AI market has emerged as one of the most lucrative growth verticals in recent years. The market is predicted to show a remunerative growth trend through 2026. This development can be attributed to the slowly increasing uptake of driver assistance technologies in an effort to provide a better driving comfort as well as ensure a safe driving experience.",
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026-2020-02-17",
@@ -786,6 +830,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-israel-risks-falling-behind-in-ai-despite-growth.md",
+      "title": "Israel risks falling behind in AI despite growth",
+      "excerpt": "Habana Labs. Mobileye. Hailo. Wix. There are more than 1,150 AI-focused startups in Israel, and that number is growing. Even so, some people within the government are concerned that the nation risks falling behind because it lacks a unified AI policy. AI policy refers to national strategies like the U.S.’s American AI Initiative and Canada ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
+      "publishedDateTime": "2020-02-17T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobileye-e1572905863843.jpeg?fit=1200%2C601&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "Israel risks falling behind in AI despite growth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1976,96 +2065,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-22-real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach.md",
-      "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
-      "excerpt": "This article, introduces to the multiple AutoML tools for a real life problem. Different than the other articles about AutoML, we will use multiple AutoML tool for the same project or multiple ...",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sadievrenseker/real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach-96edcdc70932",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*B7sxpiEDrzG1YH09fMeH_w.png",
-          "width": 1200,
-          "height": 634,
-          "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-22-top-25-ai-startups-who-raised-the-most-money-in-2019.md",
-      "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
-      "excerpt": "Its Cognito platform accelerates threat detection and investigation using artificial intelligence to collect ... and robotics teams at companies like Waymo, OpenAI, Lyft, Zoox, Pinterest, and Airbnb focus on building differentiated models vs.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
-      "publishedDateTime": "2019-12-22T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

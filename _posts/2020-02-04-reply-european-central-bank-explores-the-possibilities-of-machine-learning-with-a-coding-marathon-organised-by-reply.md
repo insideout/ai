@@ -2,20 +2,26 @@
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-publishedDateTime: 2020-02-04T10:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200204005137/en/REPLY-European-Central-Bank-Explores-Possibilities-Machine"
+publishedDateTime: 2020-02-04T10:24:00Z
+webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Finance
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
 related:
   - title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
@@ -46,20 +52,7 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-10.51.48-AM.png"
         width: 914
         height: 611
-  - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
-    excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged NLP engine that supports 30+ channels, and makes websites and mobile app more human-like ..."
-    publishedDateTime: 2020-02-03T04:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1085089/CyberMAK_Kore_AI_Chatbots.jpg"
-        width: 400
-        height: 225
 
-secured: "DApmAnlnqwffnlPpwBrC644JyB1BB+Gl663Diph5YqfF6JsgY5oHLn7PkTBrWpPseAKkVYfoin+ZQzlqPcTZb/iwbo77LHf+s9DnlZbWx0T15X2EWW+aaETFTg9qYdTmlQHNKTI/2ecUjAxu36hN/AN53DRdLsuSaMPvM97k3951fbLdiKnniCIdfdSAv15WRxWzp5htgv0eWBi2vs00FvKx0rZQM3U9RpnC2UahO67xocPRvNr6IgnZAOPx9+cuYb20+9+vtXm6KfSfeCCq58OVjL1b/+uNJVkLGLrs3yjnw/ZdIrba44YSOccoZ3D8;EjZKzWE5oZDX6PHgbqUZGg=="
+secured: "5aRlTHTqra7YqtQ087dpPVUfetL4zswX38kOxyzdgUlrCb0nYVPaXBD2IOOr9G9NnOayF2vis1XBbTg+u0Vb1K9dQMBJHK7L9CWJWGXnJ9p4oVUGXWmWKzKi+YMhgAsyP26+hNbgQ6HUF3yTWmoYhPU8VkRAlWVN+wRahl2KBpZIDAssGwL/jHmTwyuQTykVH6JnQswMw9Ih5YgSi4f+XCe0TUaOlasqp1uB4haXJYCd6s6d2k5dpWrr4UHhamJD2+l9GNcNOOtucup9p2xhtnE444zLirwd12JhlEyO62w/ig4x2REP/ILC4jBhmQkk;JVG68iyl8cET8I5A0eoqrw=="
 ---
 
