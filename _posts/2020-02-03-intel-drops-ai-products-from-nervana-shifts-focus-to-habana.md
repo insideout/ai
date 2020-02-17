@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b
 cdnAmpWebUrl: "https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Axios
@@ -26,19 +26,6 @@ images:
     title: "Intel drops AI products from Nervana, shifts focus to Habana"
 
 related:
-  - title: "Intel dumps its Nervana neural network processors for Habana’s AI chips"
-    excerpt: "... told him it had decided to end its work on both the Nervana NNP-T training chips and the Nervana NNP-I inference chips, though it said it will still deliver on customer commitments for the latter. Habana has developed two AI chips of its own, namely the Habana Gaudi and the Habana Goya (pictured). The former is a highly specialized neural ..."
-    publishedDateTime: 2020-02-03T01:25:00Z
-    webUrl: "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 71
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/1-800x533.jpg"
-        width: 800
-        height: 533
   - title: "Intel Stopping Nervana Development to Focus on Habana AI Chips"
     excerpt: "Just two months after acquiring Israeli AI chip start-up Habana Labs for $2 billion, Intel is stopping development of its existing Nervana neural network processor line. Instead, Intel will focus on technology from Habana whose inference (Goya) chip and training chip (Gaudi) are in the market and have gained traction. Intel had purchased ..."
     publishedDateTime: 2020-02-03T23:37:00Z
@@ -91,19 +78,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/intel-nervana.jpg"
         width: 800
         height: 532
-  - title: "Intel Whittles Down AI Portfolio, Folds Nervana in Favor of Habana"
-    excerpt: "that chip will be delivered and supported by Intel for their already committed customers. In place of their Nervana efforts, Intel will be expanding their efforts on a more recent acquisition: Habana Labs. Picked up by Intel just two months ago, Habana is an independent business unit that has already been working on their own AI processors ..."
-    publishedDateTime: 2020-02-04T02:00:00Z
-    webUrl: "https://www.anandtech.com/show/15471/intel-whittles-down-ai-portfolio-folds-nervana-in-favor-of-habana"
-    type: article
-    provider:
-      name: AnandTech
-      domain: anandtech.com
-    quality: 39
-    images:
-      - url: "https://images.anandtech.com/doci/15471/Nervana_Car_678x452.jpg"
-        width: 678
-        height: 448
 
 secured: "YA9B/qi1oRI+ncbezZpIyK8oUbO44cRJt54PMUTBNe0X/EC2LdrX3hlMNS/rEIXS673ZjHKvnUl6rOc/ws+7S+z7ybFfNfvVWVYkNLJbpBi5qnLmoqKstX+Vtb/p3zgQAPJ1ZWmzJclYu9NW125qVjGWrEc/S7LBpw6LDEjoQcdd0oCak/lUAUg61ihg/DjeapyXpdCvq4AB2cJIFn6NSdZ5G88ow+9GKpMgEZ57KjCZKhccYnRgrY/q0w8o+9robtcFOV2andzk4egb3Ud97azuj5+JCBUaz6dG+IyayY+syMfAegNGgQ/VFGRehZxtxjj9L14m//Nj9Q6KpfFFhhSR4Yx/8tLZ4+nezqPfmWfI3KNVVgD1wNRBwAPWZFnISKNNOmxaDgKi2cvkLZAqVL7UPUK3Ma9Pa00f8nmRCCXGycwnszYuTRfEUFXKy8sdAmUN/KKqa9hxOGkfGjdp7BL4rzeztY7XQhZPlMrQNFg=;Tm+GJ1YXrUKO5n7Fuz3l9Q=="
 ---

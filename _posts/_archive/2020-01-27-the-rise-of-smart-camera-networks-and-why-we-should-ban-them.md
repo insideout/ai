@@ -23,6 +23,6 @@ images:
     height: 500
     title: "The Rise of Smart Camera Networks, and Why We Should Ban Them"
 
-secured: "c3AK77tN/DycDSmPYdwZpPf3JAppSsbj6CD6d+VeU0lhDSA7T3PXDMNyYGr3u2AIuMkV9lLCL9M3rI9LpJfjtkvVXVsECl5jDi22kRp0rE+FQ1w/4A5Q1Gc+kKwCJxVKBQFbSiOMOU9liU31DWRBj3y+mKqdf/iw6bYo8u0yiG+pdQoFw7VYw5wRxQBIELVA3L5uwFAyiGQJOjNjXEx2WSoznwfWGJ8FfohAqj2G/IBfhGrTU3NLiKqVsp9AzD/dLi0jEPj/2zU5egblUjY/xU97jbORk4JTFf7A8/FVliFYJ8dbAwLTp0IFSbJceaHg;Ww40M0xK23wuh9vcGOwDrw=="
+secured: "0dU08axmTkWQ50FDC/KkVtJEDeLxK/Fv5r/LW+wiJTScw0aoEV3ILHOlwyyo6f2uM0oHtlwoM3U1674TuImvsW3C/fj+N2c7sNojNpGMnvlVs1svgqxiFlWulU1pgzMAFNug9dky1RBW5Ws8Td0vTG9Ei5Ufp91Ky06M/Kby4+X0AVQhVhN2r1TkZEjgtgh0aVruollU9DWT++xh28rJppcwigdEJ6R+bFr4b8bf1BK0+CEW6ev7174r51FcX5wrZzcxaLkj4jgEkXjdsgTXMg/Xdy/dn1jV7tmbl0+x5LJFvKYubVMbOASnZGWNzg3s;Rh9j3gv5Z5ZU3M8OUbqABg=="
 ---
 

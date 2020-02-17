@@ -25,19 +25,6 @@ images:
     title: "Intel Nervana Neural Network AI Processor Cancelled In Favor Of Habana Labs Solutions?"
 
 related:
-  - title: "Intel dumps its Nervana neural network processors for Habana’s AI chips"
-    excerpt: "... told him it had decided to end its work on both the Nervana NNP-T training chips and the Nervana NNP-I inference chips, though it said it will still deliver on customer commitments for the latter. Habana has developed two AI chips of its own, namely the Habana Gaudi and the Habana Goya (pictured). The former is a highly specialized neural ..."
-    publishedDateTime: 2020-02-03T01:25:00Z
-    webUrl: "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 71
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/1-800x533.jpg"
-        width: 800
-        height: 533
   - title: "Intel drops AI products from Nervana, shifts focus to Habana"
     excerpt: "Why it matters: The move comes amid continued competition from Nvidia and others and follows Intel's purchase in December of Habana Labs, another startup in the AI chip space. An Intel representative told Axios the company wants to focus on a single ..."
     publishedDateTime: 2020-02-03T15:29:00Z
@@ -92,19 +79,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/intel-nervana.jpg"
         width: 800
         height: 532
-  - title: "Intel Whittles Down AI Portfolio, Folds Nervana in Favor of Habana"
-    excerpt: "that chip will be delivered and supported by Intel for their already committed customers. In place of their Nervana efforts, Intel will be expanding their efforts on a more recent acquisition: Habana Labs. Picked up by Intel just two months ago, Habana is an independent business unit that has already been working on their own AI processors ..."
-    publishedDateTime: 2020-02-04T02:00:00Z
-    webUrl: "https://www.anandtech.com/show/15471/intel-whittles-down-ai-portfolio-folds-nervana-in-favor-of-habana"
-    type: article
-    provider:
-      name: AnandTech
-      domain: anandtech.com
-    quality: 39
-    images:
-      - url: "https://images.anandtech.com/doci/15471/Nervana_Car_678x452.jpg"
-        width: 678
-        height: 448
 
 secured: "dDwQ5TiT1Vd2pxVrYM4m2n68e5c0xxZJkq6gg8VYLIQ7ChPk9jnlSzSs3R7OLUD8f+9UUacAl6DhiNKnY3t1WlGnSessFSeum8bsdwMp1PHRWinf2/p4iBliAIatRNYT8EDNPY1WESbJtESFTC7/po9wZMjrgwnGBCETXDIKxtHB/BWHKH07tzdlCKcvpl5jONsTrRHEvzb7o8qu9Y9cFMrNF1thfZRqYALx3TXoGGIQ0SYW9FnBLXqwVRTXF2cIxSGfQenJ6nrOsjq8BfHPp+s30xzWJOMPo3IbQ9VTx4ajqGJp/W8VkpDkX1f3hkXBqqEw+Pv9uN6GtL4hoyrmLschxo3P6flk8DVd9WydSUtuehg9JeQ2jmPOwS3eeFTzeXeYWeYWmeuqfQtUeP8aKAnZHLKFqny22IrseMXZ9iXu+m3Y/r03fnD1Pgw68rh7dnF+KKrMF2Pa2F3Vc9JQZoLrrP6tXZzNAZLuyXHFjKU=;dbC+lD/JgYjJCsnKUrSbIQ=="
 ---

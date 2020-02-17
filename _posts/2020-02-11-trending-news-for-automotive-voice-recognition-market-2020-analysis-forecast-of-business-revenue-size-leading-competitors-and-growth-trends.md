@@ -22,45 +22,78 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025"
-    excerpt: "The post Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025 appeared first on Dailymarketjournals. COMTEX_362078588/2654/2020-02-16T10:34:56"
-    publishedDateTime: 2020-02-16T15:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-growth-trends-analysis-and-forecast-to-2025-2020-02-16"
+  - title: "Space Robotics Market Emerging Trends and Strong Application Scope by 2025"
+    excerpt: "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,"
+    publishedDateTime: 2020-02-17T16:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market Opportunities and Top Key Players Analysis Report 2027"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-02-17T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-opportunities-and-top-key-players-analysis-report-2027-2020-02-17?mod=mw_quote_news"
+  - title: "Know the Rapid Growth Factors of AI chips Market| Stay Up-to-date with Emerging Industry Trends Ahead"
+    excerpt: "Global AI chips Market Research Report 2020 include all basic information related to the global Industry and forecast till 2024 AI chips are the silicon chips which includes AI technology and use machine learning and IoT that have the ability to analyse data and make decisions based on it."
+    publishedDateTime: 2020-02-14T08:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/know-the-rapid-growth-factors-of-ai-chips-market-stay-up-to-date-with-emerging-industry-trends-ahead-2020-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Speech Recognition Market Trends, Share, Size, Growth, Opportunity and Forecast 2020-2026 by Ameco Research"
-    excerpt: "Ameco Research presents \"Global Speech Recognition2020 Market Research Report\" new Research to its studies database. A new report by Ameco Research studies the prevalent growth rate in the global Speech Recognition market."
-    publishedDateTime: 2020-02-17T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-trends-share-size-growth-opportunity-and-forecast-2020-2026-by-ameco-research-2020-02-17"
+  - title: "AI in Healthcare Market By Offering, By Technology, By Region – Trends, Analysis, and Forecast Till 2030"
+    excerpt: "The research study on Global AI in Healthcare market 2019 presents an extensive analysis of current AI in Healthcare market size, drivers, trends, opportunities, challenges, as well as key AI in Healthcare market segments."
+    publishedDateTime: 2020-02-17T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-by-offering-by-technology-by-region-trends-analysis-and-forecast-till-2030-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
+    excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
+    publishedDateTime: 2020-02-11T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-trend-technology-innovations-and-growth-prediction-2020-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+  - title: "Machine Vision Market Types, Application and Global Outlook 2019 to 2025; Cognex Corp.(nas:CGNX), Basler, OMRON Corp.OMRNF"
+    excerpt: "The Machine Vision Market research report 2019 includes analysis of factual data that provides research results, vital recommendations, conclusions, and other important information to the readers, who in turn bases clients decision making on the content of the report."
+    publishedDateTime: 2020-02-14T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-types-application-and-global-outlook-2019-to-2025-cognex-corpnascgnx-basler-omron-corpotcomrnf-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
+    excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. The United States is considered as the major hub for companies in autonomous vehicle development,"
+    publishedDateTime: 2020-02-12T12:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15309208/self-driving-car-market-trends-report-2019-2027-by-level-of-automation-type-end-user-and-region"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15309208"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15309208"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
 
 secured: "eCL5AD8/3rUzTIBzm8nOjSXjQQvsUYsrh9yed4tDXydVpOvNsA1I9hNgYSp876t4YpinYqVM5pP0qCFQVn8yi6JspWmGq8esGSlgpxg+rUoVZDXwk0GzKA9CC19lnwAQN5zJWadYNAHqzQ4E0sPgEsObBq/OkXdLI8yPi9iKeHBAuk2vQfxNy9URQOvYxCcE7R84VTYvHdjXuga7mTRv5hKibe9NsgWx/nUAnvZm2xtqWyHVDZGqYW7ZKp9dJ26wOuUsaqAMH+mB5TTa1AILPH7/e0Jqw2QIhYFyif1WD6DvZk6nLkc90YIJ3ZVLnRLF;/n3eItG4nYbrW4zItpVvyg=="
 ---

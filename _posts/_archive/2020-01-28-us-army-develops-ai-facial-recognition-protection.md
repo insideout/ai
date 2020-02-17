@@ -36,9 +36,9 @@ related:
       domain: zdnet.com
     quality: 101
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/25/1fda6b43-2ef8-4a70-83be-780cd80b7f8c/resize/1200x900/ae17d77a0f9c782c6bd35acf140d0d93/1.jpg"
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
-        height: 764
+        height: 763
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
@@ -54,18 +54,7 @@ related:
       - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
         width: 446
         height: 300
-  - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
-    excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
-    publishedDateTime: 2020-02-03T00:02:00Z
-    webUrl: "https://www.law360.com/articles/1239238/will-others-follow-nj-s-lead-in-banning-facial-recognition-app"
-    ampWebUrl: "https://www.law360.com/amp/articles/1239238"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1239238"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
 
-secured: "TrHIbEO0Wkba9B2ZRion4B+OrcEXmzMYMnwGa+Sea2TSJvRiaeiNQW9ckZsvKYXAuvDpPy5sO/OU4kSP4TUlQI6kWsBQlqDAvSDnUJ4MlkOI1uB6W2ZNLvafljHwXVbax38jLmJrYLMoeWqlEEj8MeemVB8LJ+o2GU/sHBuYJzRfHmb1oLDuoJpOO56a0R62qO4XHPo8n28bvLrU7mKGMUpPtpyNVrYVc3kBkQUeI/8SVQZ+Xo+YlkDqMajXVnRPzNfJ7iu3cD//IRLmPkvDZ6ylO97eZsY4vDswA+bOjyZB+akms2diAKJZ8W2GdUsW;O41SDiml4Gm2kzIMIp9pLg=="
+secured: "ADKV/aC8UHfmEapgCCePw446EwuMyWBI+TnaH+lL+zhj95rzl00RK3LT7Xs9AUWPLDOxjc69TSX9Kh5qqzlDHjmzopORev0kSQ0r6zY8R9YCFUmS8qWXgut4XDPu618hdyT5TnCOq3SRHtLw7ueqNshTtmwDRGMAkAOg3vMaNZeE0Zk3uj8+5xeXkiTQKzzuCH5xXFAskAPxueRYXcgzTgetIN6we17uW9KP1w8tDVYYCT54WhSwtIZI82FJlUITbEalzX5weBgA8mLAOOQ60E/zL+DDxpOJ8JV+lTiD8KYNcxtwZZ7hFT5ntP7qgKJz;F0ISIJV23mv7B/JD5t2RVA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -45,7 +45,20 @@ related:
       - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
         width: 446
         height: 300
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
 
-secured: "r9K0SuWRh/fgKuV3zS9crl8AmjmjcDbHGDH7ZxmRRYZojjjAOMzBuygfBZy7+e1KPv1JGULKVfGownsXJtafpbZ4N4QAlzsqGM/qeFFBhB+uEC3YcMhxJVLaisszaOn+rfzBKw40FDn1PLizw2FrzdnDIzabE21xw1YqE8Wu2dW3oQMu2LIMNyn3YN6mjZ+8Epqj+tFfc7wle7XSu2Vi/lnZKr2AuM+/kbr3H1CbBmrTXE3a3JUvAx0RIoYjWvgKDNNmzRqdf6JPEl37Uo8W0jix/qMohKIQ1lsjQtxKRsDe8L37rzwYaMn0fxJHlyVY;L+RdaWSLZx+dfZLKPzeMLg=="
+secured: "LbFjAUUZlJzpkarWJaHkwIHER83GiqvlXvuU9MgKAn1L7EYAg8w/918Yz0701flJmVI4MwvhpeB/T/1KHlfrwVuT9dWfVv9eyn+HXvyxQZVz+j0W4swSmVMNIuA3GvKBjzyr/k/207dFdj38VyTF0VzWP7ydIAivUqw5I912TfNFbjBQhjIjbTROLyx6gucaCCc4G8c2adweBsClgvuOVXpR0hSNU0yM7+81/Ams9p6E5eYJfprCuGRytQTeHYPiBQxCgyr8XiyB7uq3RT7uyeNjpfk6C/O/crTZoG2lpidXSBSbMWiE6fK62kOxQV9x;80PyqzIXnYlpjMKaAlNpWg=="
 ---
 

@@ -60,6 +60,34 @@ related:
       - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2018/08/Blockchain-Concept-99.jpg"
         width: 615
         height: 410
+  - title: "How Artificial Intelligence and Deep Learning Are Transforming Healthcare"
+    excerpt: "It’s treatable while infants weigh less than two pounds, but doctors often struggle to detect the condition in time, says Santosh Rao, head of the artificial intelligence ... and DL-based diagnostics could provide a powerful augmentation, Rao says. “Our healthcare customers are starting to see the ability to spot cancer in earlier stages ..."
+    publishedDateTime: 2020-02-17T18:10:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 73
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202002/20200217_HT_Web_Partner-Content_NetApp.jpg?itok=U84MmvD3"
+        width: 1440
+        height: 500
+  - title: "AI in healthcare: What's science and what's fiction"
+    excerpt: "Artificial intelligence has fueled our imagination ever since the term was first ... Combining all these elements reliably and for the benefit of patients isn’t a job for one company alone: In healthcare, we’re dealing with the life and hopes of patients and their families. Algorithms can’t do the job without the extensive expertise ..."
+    publishedDateTime: 2020-02-17T17:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-whats-science-fiction-bernd-montag"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 58
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE4n5iQNbuFHA/article-cover_image-shrink_720_1280/0?e=1587600000&v=beta&t=wcizOYOgfHFN8sdPEi5AGZRImgPTyUbslbQ7-IrlUUY"
+        width: 959
+        height: 720
   - title: "Outlook Of Healthcare Technology"
     excerpt: "As healthcare becomes increasingly complex ... These electronic records create opportunities to track and improve patient care and to find new, more efficient treatment methods by incorporating artificial intelligence technologies. From a management perspective, digitizing and managing this data in a manner that protects privacy and makes ..."
     publishedDateTime: 2020-02-10T20:19:00Z

@@ -23,6 +23,21 @@ images:
     height: 496
     title: "2020 and beyond for AWS – a story of innovation and partner opportunity"
 
+related:
+  - title: "Fintech 2020 and Beyond: The Decade of Regulatory Collaboration"
+    excerpt: "In 2008, while bank and nonbank institution fintech and innovation were flourishing ... automated investment advice and artificial intelligence (AI) and machine learning. The website provides pertinent regulations, investor information, opportunities for comment and empirical data. SEC Chairman Jay Clayton is quoted as saying, “the SEC ..."
+    publishedDateTime: 2020-02-07T17:57:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2020/02/07/fintech-2020-and-beyond-the-decade-of-regulatory-collaboration/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2020/02/Joanne-Needleman-Article-202002061606.jpg"
+        width: 620
+        height: 372
+
 secured: "SpNRnLqbxgp6Ubb004sIQWHg8ciYqJQGDtP4g6RmNsAf4yUe4zBeRp3TZB3XLLPcA0D6GlnByaa+ABPMvBDtbUkL4rp1BeR2jJjkckTCH6RnG6lNFaJNfmt28cMJknXbjrjziXvuYqVgQlZzsrAeQ5QM7uI/sUoVuv+cAMXHv7owkrq7WXYy/OwjKHUa589FMLq2KfvsAlXycpkTY2VkHXG4Li6+Le6ykdxhBGDVJ3E878G9M9QBenw8+esZ++Kr0m4R+SM1gr2G2EcVh8zJEd0PiODjhFPeRzn6o7GuxXMtEEDBOk7zzLS6m/1CM8wz0eqdmRs8Udk7d5TdknvLouJ8CVC8IMtXq7MLutXfgsEsGvw9w4TtdCjWc7X8vuETmYkwQLv8CMP1zTM3/N+xkF7mOYyQpqrWbPmEFlEPK99w/ny87kWTD7EOsQ/OTKBfapehkdg+5tzlMpTAcjQ/gjkAXZ7DdbY3sm20VzmUYMw=;1oqXaqoEdqsjYkGdffLG1g=="
 ---
 

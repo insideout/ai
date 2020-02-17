@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-14T08:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-us-768-billion-globally-in-2026-2020-02-14"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
-    excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to facilitate the implementation of deep learning-based machine vision. Xilinx, a Field ..."
-    publishedDateTime: 2020-02-11T10:29:00Z
-    webUrl: "https://www.abiresearch.com/press/installed-base-machine-vision-systems-industrial-manufacturing-reach-near-100-million-2025/"
-    type: article
-    provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 0
 
 secured: "m+iEMEGsr5RBSet6hCV3DHbx30ONkvejOLVFS1rZxMYEoSjIkw7fiuVKbMU07JPGIzuYDyahqiATxuWtN8FNrcbDAZVF9ebc+hr5DMi5xx7iruyhDTNepXCVI2i0X/Z1JxpkytQgYcxSA9MYbEOr9PjZp1gHW+ag8QtyBBWhbrzGqXUulG58aUiGsbAGGgBiWMekKTJ0B3n7j4WpjuI9326KmK2L4OkZNaDF1tiKnnSiuOdzoW+QaELaBBEA4CeP+Cn6vp8jSV9v2U8SPlpla/CG1jzvLg19RRVaPw45oQzrWk0+fLFDgStf+T0FchOC;Pzfb8RXIO06vMqrgAUnhYA=="
 ---

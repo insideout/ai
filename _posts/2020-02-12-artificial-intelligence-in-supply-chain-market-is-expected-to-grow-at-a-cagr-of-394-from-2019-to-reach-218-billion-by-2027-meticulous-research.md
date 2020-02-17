@@ -71,15 +71,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
-  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
-    excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to facilitate the implementation of deep learning-based machine vision. Xilinx, a Field ..."
-    publishedDateTime: 2020-02-11T10:29:00Z
-    webUrl: "https://www.abiresearch.com/press/installed-base-machine-vision-systems-industrial-manufacturing-reach-near-100-million-2025/"
-    type: article
-    provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 0
 
 secured: "cy0AouaV2grwA5dwyI038iMHRmJgGi/iutJg4XTQXZJLODDz1BBBgbxaYZ73MjC9jcaiNDPZT1Pu/9ArGLaF8z2QsHBh1zQwRmDVZh5Zmvz6UDXuaG+Aj2p/FReDb/8XDNevT9GaVT+Jxq3/P2bLfgO9v9yDbxJ2QzQdMeUvKuJZGU9m9N0KwF7zBfJIp2mzS7+wuw6rgpGxjRNRFR4Q2gBfCm7WqsUPe7H01FSE6pKlnhT6uey8yKEyO0wLs+m4FB24SWedLn7lBzGpABeDImf/zsYq92gKoQawezZHj3AQNP4TcCPdl3BaurigS9TN;He3YLnDLie5kqGVMK7Ik4g=="
 ---

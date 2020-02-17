@@ -54,15 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Trending News For Automotive Voice Recognition Market 2020 Analysis, Forecast Of Business Revenue, Size, Leading Competitors And Growth Trends"
-    excerpt: "Automotive Voice Recognition Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
-    publishedDateTime: 2020-02-11T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-automotive-voice-recognition-market-2020-analysis-forecast-of-business-revenue-size-leading-competitors-and-growth-trends-2020-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "BTjqwT50yUfXoGoZI6J1mcKcARKAEWHjEJOYyKTvxYdrQpZw0puonJXplTNh5i6VgN5D6+dpUFgu232pAyxJN2wwedrzQIbOzOVssdRFVEPnWbcUKsGJIJmWO28cqdN571Ujc8a1JTqR5yFPZyOv4iTxrjkrYD59XZU35vn9jwQ26UynnLjjlc4ETAgi7JPrDzLavFD1YHhbpb6OilHMFc/1DuuXAEB40s/BEVwWcV5/+Ki5YZtBicKKs9t9RRQq3VuEgtGMsmTsPi05ley6iW4oFk8WooNHm8e474MghVJz4Y7goMfHeYWnMxt02TwE;zXnyUf1oU3NqYB/wT3/zug=="
 ---

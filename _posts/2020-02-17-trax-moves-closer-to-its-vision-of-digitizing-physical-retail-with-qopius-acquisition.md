@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Trax Moves Closer to its Vision of Digitizing Physical Retail with Qopius Acquisition"
-excerpt: "Trax, a leading provider of computer vision and analytics solutions for retail, today announced its acquisition of Qopius, a top provider of AI-based in-store technology solutions in Europe. The acquisition will serve as a force multiplier in pushing real ..."
-publishedDateTime: 2020-02-17T17:41:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/17/9098868.htm"
+excerpt: "SINGAPORE--(BUSINESS WIRE)--Trax, a leading provider of computer vision and analytics solutions for retail, today announced its acquisition of Qopius, a top provider of AI-based in-store technology solutions in Europe. The acquisition will serve as a force multiplier in pushing real-time store monitoring and autonomous inventory management into ..."
+publishedDateTime: 2020-02-17T16:01:00Z
+webUrl: "https://www.businesswire.com/news/home/20200217005190/en/Trax-Moves-Closer-Vision-Digitizing-Physical-Retail"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
+  - url: "https://mms.businesswire.com/media/20200217005190/en/773839/23/trax-01.jpg"
+    width: 1200
+    height: 627
     title: "Trax Moves Closer to its Vision of Digitizing Physical Retail with Qopius Acquisition"
 
-secured: "3HSriPGJ7tqId16mPpleR74E3j3puBS3I5f6Ag5NNKxAgVwrlMDm9fIpDaq9rv2E5U6n7dJ28fk4sglb0VoqLPqmO+GcflZIKZztS/2gWQRb4kAgZ/MUgZQmlh8A6nhs8ZWKE6mNnvDxRqRstn6oScbgSC4SZ5xPKI28Plh2NzQvKiSkTWvN1X8buWw8lgSiSFTedJD/9sSpPkrPe4ShdfgaB9akg6qJDH0IFNJWLfv3SW1os5EitzBp3/acRONLy0pHuSEOUUdlgjtJD9dNJSQE+tv3xzQ7gI1Ks0ndWHZAAC53f+36dxUjc/BHKlks;mzgncZyuunruNeU3YFriJA=="
+secured: "/389y3JTXyNwYSpjtbZEjEXemFGUgKAz6gqLG7x/7hPneXAbXqWOIK9wo79etXmz8MI0PgaWIXMU70unX/8AlnXYlhNIkdPvwfCtlPA6hUacRoJ0XgaUnTOGwu479YcLBoIm6bddo7/5OIzPIUiQMv8AKdVRB6gUg3XhQxTABk0srtmvokVOe4nZ00uBWEYC/qxHyZ3THAdYaYDGZM8JJmnafpE9uAYiG4FIgppxPan6H3rM0YjHoVc5zH8JGN79P0Nn2qf0X9/oGhpt/bhjeIG5A3vF1i/gJFcxhh1t1VVzDKKpzVMc6Zyc0a5SpkG1;AzIxkYV2D9c3zIhG1DzX+g=="
 ---
 

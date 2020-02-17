@@ -25,18 +25,18 @@ topics:
 
 related:
   - title: "Alteryx Recognized As A Leader in Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
-    excerpt: "IRVINE, Calif., Feb. 17, 2020 /PRNewswire/ -- Alteryx, Inc. (NYSE: AYX), revolutionizing business through data science and analytics, today announced that it was once again named a Leader in Gartner's 2020 Magic Quadrant for Data Science and Machine-Learning Platforms 1. Gartner also recognizes Alteryx as the leader with the highest ability to ..."
-    publishedDateTime: 2020-02-17T17:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-alteryx-recognized-as-leader-gartner-2020-magic-quadrant-/2020/02/17/9098874.htm"
+    excerpt: "/PRNewswire/ -- Alteryx, Inc. (NYSE: AYX), revolutionizing business through data science and analytics, today announced that it was once again named a"
+    publishedDateTime: 2020-02-17T16:27:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/alteryx-recognized-as-a-leader-in-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301006033.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 5
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://mma.prnewswire.com/media/662162/Alteryx_Logo.jpg?p=facebook"
+        width: 1196
+        height: 628
 
 secured: "0+CuDkdgcN1JNUr2Fc/HWmw0T1HXS4EzY48bHmUXKpH859uBIzhmSWMFSio/s+LKpf1CaSwOVetJrgyoDpFia1MgrV7sbUfEzPoIoKhE36MHN8Wxf86n2OPWlenbdtIv+btGbyIj/xxpUqeoaXbs3vAMyWN139iXGbSREnzd3i3OSl6w1qFMK5YFbrLVB9dFXiTXYNb9M1iWgh2p0JgSSGW6BZF8C2Cl6ThksMd9m5QODmZxhnjdsiviUD2+KJx6DAknOmf9B90+wjWQ8jaFrOTIL+h14pguS/OcthJPZEXxvRsToarfycuoZ9HNapst;jo2FBI+ZoZTL12S5/W3nKw=="
 ---
