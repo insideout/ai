@@ -95,6 +95,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "oBtNGXbKcU1rDxddzMeINAxoWmqjTo2O9Zs1op2sWPSOsqTORBujYjiRb/QAer5iAovfB7+T8G/ogzgn8D6LltLurljmluCXyHlJC64SzbtiwScEqy9o9wephlRCPc/FfFPDlqPYNrfg9th+/TRNrF7yATPtkrW+WZNaMev3QHT4gAjHSHfHM2QLaUCruqe4jGC4kvzqRlv+TlLZG6qdFJcYVSCTb+lxdcw15uun0OfVFyty+A/OboF9AKoJ5lUPWrRSD07zWZvQnxCo6eOOU6h084ooSkQkcdsUuNc+IuZggrtolONnl/W4psFb/fei;qCxSdSFqZQkZfcfE+2y30g=="
+secured: "wSQRHjDGCGc3qzt+wBdj0/Vqsz9LT6E5wRPLA8AOV45hYfqdVaDCqWUNC+gHxB8LU82aFGYRi+tufShjmxVQOWYDz5iQyZdNe9PH2bdEfe4NiiqIW+2DdrdHw6huY1hut5FlJWMIVUx17Gd+IrpoWeUedm+lK5nKz7k6ob+0OzF69PnABpr2YJUUStTBNpEqCLlctZjmAUHKmwYnm7l6bAHnd+Qf7WpGmYhFtPr8md49sugr3mlfwqPO3kVO4cRdMZ5cRqRCoOArzIm74CjfP3Z7UupzW+ybAGmaPdK8bmx72/LOlQlfMAC5Dj9h0akJ;siXYBVr8InlOmQDbXNNMqA=="
 ---
 

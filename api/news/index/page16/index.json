@@ -2,6 +2,51 @@
   "page": 16,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-22-how-machine-learning-is-helping-credit-karma-reintroduce-itself-to-users.md",
+      "title": "How machine learning is helping Credit Karma reintroduce itself to users",
+      "excerpt": "But it's only recently that the company is turning to machine learning to make sense of hundreds of billions of data points and deliver personalized insights and recommendations to individual members at scale. When it launched in 2008 at the height of the financial crisis, Credit Karma's primary service leveraged credit report data to help ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
+      "publishedDateTime": "2020-01-22T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/07/26/04dbf63a-2aa4-480b-ad61-5d857987ba31/thumbnail/1200x675/8929444376cb1c585bcdc20bc3026ca3/creditkarmathumbnail.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How machine learning is helping Credit Karma reintroduce itself to users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
       "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
       "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
@@ -2083,43 +2128,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-mumbai-based-salaam-bombay-foundation-is-introducing-robotics-to-underprivileged-children-across-india.md",
-      "title": "Mumbai-based Salaam Bombay Foundation is introducing robotics to underprivileged children across India",
-      "excerpt": "Be it movies like Star Wars and Star Trek or Marvel and DC characters, we all have grown up watching them. And in the process, we loved the futuristic plot lines that were riddled with subjects like artificial intelligence, robotics, automation, quantum physics, and many more, that explained the existence of the universe. While many are ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics",
-      "ampWebUrl": "https://yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics/amp",
-      "publishedDateTime": "2020-01-22T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/5/4e0288202dda11e9b78a8b7eb69eb573/Untitleddesign-2020-01-22T201110-1579704162630.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "Mumbai-based Salaam Bombay Foundation is introducing robotics to underprivileged children across India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

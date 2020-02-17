@@ -54,6 +54,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
         width: 600
         height: 360
+  - title: "Russia's 'Big Brother' facial recognition system goes on trial"
+    excerpt: "Activists in Russia, who are concerned at government plans for one of the world's largest facial recognition systems, are taking legal action. They fear the surveillance system is being used to target critics of President Vladimir Putin. Police say law-abiding Russians have nothing to fear. Al Jazeera's Step Vaessen has been given exclusive ..."
+    publishedDateTime: 2020-02-17T16:54:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/02/russias-big-brother-facial-recognition-system-trial-200217150907189.html"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/02/russias-big-brother-facial-recognition-system-trial-200217150907189.html"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/02/russias-big-brother-facial-recognition-system-trial-200217150907189.html"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/2/6/52300b9d1ce048f2a0623c7f4b109fb1_18.jpg"
+        width: 583
+        height: 325
   - title: "‘Really scary what I saw in Hong Kong’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
     excerpt: "The commission, the EU’s powerful regulator, is eager to answer the worries of European citizens about the rising importance of AI in their lives, amid reports from China of facial-recognition technology used to crack down on dissent. “I find it truly really scary what I saw in Hong Kong,” said the EU Commission’s executive vice ..."
     publishedDateTime: 2020-02-17T00:51:00Z

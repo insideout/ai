@@ -70,6 +70,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "UOE2azjfQbhRvFpym38CGNOgdXTIVhhVXGZLMvcBB3rtw+fYYGCNceXV8nzFSyxVQcCPsUw/HJLsFqafybatDt3Ji2ynqytCgdX6hZQiBU1fT+5/9OwqCaxRWa9GsksxuyeALbLvgsD+VyWvOMBSzl+IjpncOR0+Ies0gu9Xzv5mRcjYdoYKjNU+LSnQ2TVZkBmpq3oEKjzsXMV6Bru++U/MQJN4y07xmAHe/HyTrF5HeJtJ7jLfhFlND4Y7qqyhk8fQ1BTOUAVE15MJbZHxLIpUjjmODReDvzhoKp5fI57SviVAEwghDSzYS8CEIb4/;e15k7hdtdX3JfxnIVq3YVQ=="
+secured: "X4dWAz+/YSNCGgBCqCIKQBt9qf/OZfwJe//XYUcL/RIPyhoQpI5gm90KtM6QRnxUP6jYORVqdLBu37/DSp+R8j1LqZ1f/VgmxlBjKg5V+9EFKlI6WIg4pZYtQ5cPIRmHVb0Qt/IOogE1L397OUiYYV3bNxDi6OAb60IpOWsRjRHD69E0TWFSji0UVlu2qsivf2+kk09xKuQLUqnly27Uc9DpprnLqzFcS5PzEeh8w5d5xv/TGPnbMR/DjUw14I2sfIbzCuowNksir9RyDpUkX6PrvU0teQrmMEPZN9yfw2+TBkUUepILR4ecQvWCLXtt;9vjYOea+P5QHsnr7aK7MzQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
         width: 4000
         height: 2666
+  - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
+    excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
+    publishedDateTime: 2020-02-17T16:14:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/17/1985745/0/en/Emotion-Detection-and-Recognition-EDR-Market-to-Reach-33-9-Billion-at-a-CAGR-of-28-9-by-2023-AMR.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "rB7GYpmgOqQA7VbyuNy4K+VX+Fm3pTKHzY3ilXLF5mMSzpCg37d/dIfI7WgCRLcl/Wbn5RamTLPuMzRB1A98Q/hXo5pgrEpnX2sSpMBGBcYQK3LFTraWtaFNNaMyj9N+dzIgVYQsIcL/jjqes7PtVftzAG2Naj/9JK+tauy6yY58y0HMEXCBbnXjWuiQYyihQhk9MhYupRjiB1jDGQ9lWD1yhASS4UXGWTkuD1gIsnLP3iBEeuAAs0pmRTb2oxN1lpeKJhgOklduuXu5X3zGUZBiNn1Tn7O4oUaoRh12dksQodiaipkF1TV0Nzc/pd5JTIko9YGiOsij5DDQi7COT3NHWOt0xIk5iHbT7oLz+NRPM1KnGeZ42MJrjgyrzEiQTuyfqixopgG0dtdCrfUYNe4V++kNelXiweHMM5kElFGhoS8UzYLQz4uhanb2OLjMJFBD4RBT31HVI47Feh/ixWuNYZQhTv2sa7j0y0n7Yzw=;Vyca368yr3y1Eu2UCgPebw=="
 ---

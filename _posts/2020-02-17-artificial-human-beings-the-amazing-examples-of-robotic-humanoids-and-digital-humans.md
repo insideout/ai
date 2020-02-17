@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Artificial Human Beings: The Amazing Examples Of Robotic Humanoids And Digital Humans"
 
 related:
+  - title: "The Human And Machine Workforce Leading Digital Transformation"
+    excerpt: "Human and Machine partnerships will be about augmenting human potential to make people more productive and customer experiences better. A look at how augmenting humans will drive the next wave of digital transformation."
+    publishedDateTime: 2020-02-17T16:19:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg"
+        width: 1200
+        height: 800
   - title: "Are Robots Better Investors Than Humans?"
     excerpt: "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds."
     publishedDateTime: 2020-02-15T12:00:00Z

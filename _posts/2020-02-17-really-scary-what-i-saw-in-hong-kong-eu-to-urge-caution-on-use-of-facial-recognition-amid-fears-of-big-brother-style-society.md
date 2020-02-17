@@ -67,6 +67,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "Russia's 'Big Brother' facial recognition system goes on trial"
+    excerpt: "Activists in Russia, who are concerned at government plans for one of the world's largest facial recognition systems, are taking legal action. They fear the surveillance system is being used to target critics of President Vladimir Putin. Police say law-abiding Russians have nothing to fear. Al Jazeera's Step Vaessen has been given exclusive ..."
+    publishedDateTime: 2020-02-17T16:54:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/02/russias-big-brother-facial-recognition-system-trial-200217150907189.html"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/02/russias-big-brother-facial-recognition-system-trial-200217150907189.html"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/02/russias-big-brother-facial-recognition-system-trial-200217150907189.html"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/2/6/52300b9d1ce048f2a0623c7f4b109fb1_18.jpg"
+        width: 583
+        height: 325
 
 secured: "5koxmaLe9szYeqdPob9pQOKUoq9Mb8h0z758Nj6jwUA4AJXtjLo78Ru35TqGpGaO9nK25myWsDGxUFFPpBO+QaShpWdOyNSdE9yPr9jBqQqaoY5fNNYBcTqcFcFrcEV757gHjFMt12yg9vBUBduDYjHT2/8j4nVX1goQz2L0jqzyWFGrFDMHhnYswoAnsKdTTxkQtFTq3+B4VKJQbgHtym+ZaJZkFYn8Ys5CJleNDY0wZBAXy8HVpnhcmheHpK8mdlx3jSee2l6pBfVI/pmGDGH3uBjMuGRY2acSdnvx3d89NlFAqF3/JWJbt7cpZvwJf5q7r6x61pF3WaN9wXbFcrOxP4uX2tyFNSfAcZUVvTE0eyZLHA3OLx7cuw7RFlXr9aAri/LoMqLcIPOGxQ+pEj0ubrqVC5VOcPcvcliH3N1ag7XDPS7w1aTr0lIf7dPUg29/7lfN61J8iuzQTW4Wauil9r8yfOhjd9rinLsYfVs=;szYA/K/qRdeRkr3jAb2FrQ=="
 ---

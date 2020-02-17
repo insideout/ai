@@ -111,6 +111,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 11
+  - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
+    excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
+    publishedDateTime: 2020-02-17T16:14:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/17/1985745/0/en/Emotion-Detection-and-Recognition-EDR-Market-to-Reach-33-9-Billion-at-a-CAGR-of-28-9-by-2023-AMR.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "bJlpZ/xmOUqltzu28klhZ203gj1/8wsDuCMIrMJ+za1eiLk/1Cbs9yi10WFIkn4FywsZRDQ9a1GvjDOfsTjOI5K06yInKLELhipjhgfrJ/tussMYpD0VPU4RkrdglriWeAi6HZMo/6Lg0yi1onWNYV9VC/kkqEsYzQouSJiUsW22eNrej+iVHlUkqJ33jj6vxG6hTDZIoQjezGVmMpyUSdScnSzl9MgoQa2H62aPZqNL7+5p+Fqjmat6d0lXZiZWDl/sKK1k2ChUrA7w0S373J//GKYYTlG/KuuZuhCSwbv+VrAj7HQHqzpZqRt61KtA;fzZ/zAa/e2VOgEk+0p/bDA=="
 ---

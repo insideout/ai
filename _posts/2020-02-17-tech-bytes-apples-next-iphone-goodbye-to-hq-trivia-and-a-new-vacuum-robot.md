@@ -25,6 +25,6 @@ images:
     height: 450
     title: "Tech Bytes: Apple's next iPhone, Goodbye to HQ Trivia, and a new vacuum robot"
 
-secured: "+UAG4dfijklksmAmr/5GYJb3LlAgS2fMXCcq7ALXCmrCwMkh9ol2+tmKQcd6O/w+8pj2ErK7iOrfQ4H5G0qiwrELs55kSqMzmAqzG0dG0ieoNOq4BXxprSTO1scrJ3vkL3gOMynf5x6n0zUJfQ/tNcYkfiRB7XG4Tk2RSrINk/Lcys1gftzm6pnrsl2kOCZdtdPdP04oeCcYBUJyVAJPT8GUHJuBem2kivvzja4jDhYRmwBI+R/2EnxfuhvyvSQeEfhjrfPMlCWTIfLj+x+nDB10FpI3n1O5ZllanS48fcS2TYlfkgEHUezddjpaJ/Yg;h0KMQ9WfsGoxzPBTLrTm2g=="
+secured: "rUPEhbMYOJwlX1BQu0z/nmPAWQ0LD1KinCzoXnSqb+E+b5IPKVibhS6r/D2D6L55LdHvyRD28ngldCuElHR1TDXqagZnlvRzilqZx84q/lwE3FzB0ZWIDxLEo4IwVaB1Lp4v72kCKlxHEnbu9UpYTWxVsyBBBOJuJahfcKBdfxUWg9X92MiO/gscCnatjCDD1d1Nqa15xqgkadAOyGJ6CK1iA/ZxWSkHtaxej7G7P5NkBsru+hruQzhnvPh3hBMc5USbXFfyYOIV8x2QrVhziMW6BbhQgZ7bHe5CWozYLHyECiYuATKxp+2BB6zY2uPkGZ+P62N/GW6IIziMlUiMfGr3KSzVJdaARHeCZPAL0DfJchDojqNifk+AqTo53tONGNY4/XdIAgza5MITM+SOscrS14vOSKOpDNHKx7W9j/mOf61cbWF25/vhawgYpY3bHQpyuJjBpF3euun/3va1vg4VhHZlunnRDAd36v0eGxI=;pZ4HXgN8xb1k2PPk1GFrtg=="
 ---
 

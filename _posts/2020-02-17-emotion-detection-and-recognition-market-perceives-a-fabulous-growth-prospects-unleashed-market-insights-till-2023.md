@@ -37,6 +37,6 @@ related:
       domain: biometricupdate.com
     quality: 0
 
-secured: "A1k2HDfBVBDx+OpRW/a/zCPD7Xy6BFmrlCo1RGuiMiia0X5NFHNDz93FKbID59ApiiY/gne//MddF2HzCWzg6DjRU5Ttc+fqLa22tzJBTPtljKlFDsu75ZH/6rZDLU7Eu10Q+kv8svnrayxT12SlblcJz6CY25CZAx53d5bB8XkowpUkmenztH5wViQPmfITuBAgXELOb14m2c5/xKOfIv/+Z8+Mc2JwLbIJKVD+MmLyHswYj79nqicMvv7PFgPOwI/a5Gs4+KKx7vWs/db4Bqk37/UfSEJxynLUTXsez7i4d7OOTPdjedaSXcJo8ojt;lcNzRBe1rJ0TrO6+B8+/KA=="
+secured: "Uy3iWAXBOIiwqMgkGrnKAdVtGaxtCQo/57VRhSynSTLoM+B8PsnhPKk9ux2/1q/B5ekBv53rqiIH+5RoKkqF7xvI9bmFoxtXa+69HHJieRSk7Geb3mARmeLXEIPNjwRYq5uAFAW2vGKSYg/aXHFADV/Wb+ZzQWmwTmRF2613ThdD5qYjRvA95dDJdt779fWCD4OUzswykBSjzj40G8USDJjxF82rd/jpVA9ipbH4dAXm/aSFwkPUHkVRJO0c9ZSpcXwUkb/0S38Zu+njLWUzP/lsCuI6Nt36eX7nNha0kBd/1GbpEr5aYCde+q39T62bWTT6RhYBxc23vdAh6oKfVFVubhbf2e4LTBRxrREFbiQE1eq6T+54MhsGqCVO0Xrp5iuqxmV3gvti7ajA2BpteEau/cz83S0cj/wFt9G1ufnbA8MTvZypDjDQIUbJVgAtb/GJ+1MW/jaeWWqLu3djyqYpg7KqzDcDb9VouXUmFhM=;/gVk/zs7LBgXB3HDhbTy1Q=="
 ---
 

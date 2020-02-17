@@ -27,14 +27,18 @@ images:
 
 related:
   - title: "50% of all surgeries will be robot-assisted by 2025: L&T"
-    excerpt: "Infrastructure and engineering conglomerate Larsen & Toubro (L&T) expects almost 50 per cent of all surgeries to be robot-assisted by 2025, as Artificial Intelligence (AI) makes robots precise enough to facilitate complex surgeries, the company said on Monday. The L&T Technology Services Limited (LTTS) organised an 'Experience Walk-through' as ..."
-    publishedDateTime: 2020-02-17T15:10:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Health/20200217/3506127.html"
+    excerpt: "Bengaluru: Infrastructure and engineering conglomerate Larsen & Toubro (L&T) expects almost 50 per cent of all surgeries to be robot-assisted by 2025, as Artificial Intelligence (AI) makes robots precise enough to facilitate complex surgeries, the company said on Monday. The L&T Technology Services Limited (LTTS) organised an 'Experience Walk ..."
+    publishedDateTime: 2020-02-17T16:36:00Z
+    webUrl: "https://www.sify.com/finance/50-of-all-surgeries-will-be-robot-assisted-by-2025-lt-news-technology-ucrjdogaebibg.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+      name: Sify.com
+      domain: sify.com
+    quality: 39
+    images:
+      - url: "https://www.sify.com/uploads/robo_assisted_surgery_ap_ucrjdogbcdcdj.jpg"
+        width: 800
+        height: 567
 
 secured: "QTfRbgzyOnLlRU+xmJsPDII0Pz7O1k+jykqJu9MLvnh3AwfFSz6sFDigfgbjjipTfHCdNPEihyXssGzDdWrm6lx4KgsDNg6Okvjmcu/h+g0V5juE2mil2bcWg6/Y0c33Lg2E02q2CSViQDUIMtgaH6MLS7sRM+gxIXwiuKOYZ5Bv8EZe1f+VaNHphZUwlAJy8XepuycYpeL1y1AD6rcrm/yUnJ81NyCwnj2dm+hm7ePWojmYmpfwa5UZN+qXGdJKiSbF5+e+WWTIwtdulVmKicoLXanVq5pXK6vbnGYIECitEw+Gek15cBwOFWgvkNF+;bJeAjaNXyeTDBmzawMyRdA=="
 ---

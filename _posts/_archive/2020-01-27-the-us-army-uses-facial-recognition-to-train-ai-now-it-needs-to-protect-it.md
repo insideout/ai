@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -24,9 +24,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/25/1fda6b43-2ef8-4a70-83be-780cd80b7f8c/resize/1200x900/ae17d77a0f9c782c6bd35acf140d0d93/1.jpg"
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
     width: 1200
-    height: 764
+    height: 763
     title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
@@ -45,31 +45,7 @@ related:
       - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
         width: 446
         height: 300
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-        width: 620
-        height: 465
-  - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
-    excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
-    publishedDateTime: 2020-02-03T00:02:00Z
-    webUrl: "https://www.law360.com/articles/1239238/will-others-follow-nj-s-lead-in-banning-facial-recognition-app"
-    ampWebUrl: "https://www.law360.com/amp/articles/1239238"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1239238"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
 
-secured: "CjeJiisrIZUgCGmiLZrK0uNOxW9uS0ygqRnb8mxkqddWKpiCXNebWAUIjzNwQReKR9QwKrdHuUe+8mK5nFMJVNIF+fNn9kdpfPzec7mqRnBT4TJl1Sbw8tYG6F+5BKOqFGRcs1nwoXxDbP4jLOfkX3JqDIrIAfbfgsNwRnIzzX9b9NC0B9h1EacyY0+dOKcR2pGVgtnjc+mZdBEr4R0ZPbccp484XXN5ogIxYGgGhq3sH6XDTbBnts67bH6qkH/z3o8eUmH7Uq/WZcXNvpJEZhl+eJi/J0wY0n1aubQDTEB3/AhYpgOz7yvkoMQEWjdE;pbkN2MUqAUuRiPsifkkKog=="
+secured: "5ubEt5XgxSsF/N/4UldiTv6utcvE45n30ErmqQsyOSqrKHdN78MlPWK9dLBdrx9DluOZmU4ZHPx544VoBvJgOYoPGk3wDpQqx0oHwceh5KVX6zb8QsjEGO1Q/GkGSVR8XHjZJtPLUPYxpgh0wCIzw+qxPk2JcJDq4kANU80lxP4gkO6+zFB5XtUvcMYf9CwaaDUx9nqq+9eg1riRGGUJFttEWgGhEspFHxH/84Vm6LMmzjmmTwxSeWyA9MaK+0/93LqbPKRh99KQVIWda607MIO5lp5r8O/9MKFSw7VXRifkT2MwRey+D9t7gwCOLjD+;MUGCgQ8EOFMpM0sJod8pcg=="
 ---
 

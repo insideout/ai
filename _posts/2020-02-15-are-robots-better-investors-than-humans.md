@@ -41,6 +41,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a3210a854780006b18efa%2F0x0.jpg"
         width: 1200
         height: 675
+  - title: "The Human And Machine Workforce Leading Digital Transformation"
+    excerpt: "Human and Machine partnerships will be about augmenting human potential to make people more productive and customer experiences better. A look at how augmenting humans will drive the next wave of digital transformation."
+    publishedDateTime: 2020-02-17T16:19:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg"
+        width: 1200
+        height: 800
   - title: "Chinese city turns to robots to replace human deliveryman amid epidemic"
     excerpt: "Using technologies including artificial intelligence and big data, the robot is easy to control and will be disinfected after each delivery, the company said.”I had never expected robot delivery. It makes delivery more convenient and benefit residents who are staying home and choosing online shopping during the epidemic,” said Li Wei ..."
     publishedDateTime: 2020-02-16T20:03:00Z

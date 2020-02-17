@@ -367,7 +367,7 @@
       "path": "_posts/2020-02-17-artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans.md",
       "title": "Artificial Human Beings: The Amazing Examples Of Robotic Humanoids And Digital Humans",
       "excerpt": "Thanks to the advances with artificial intelligence, robots are becoming more human-like, and digital human beings are supporting our everyday lives in surprising ways. Here we have all you need to know about artificial humans beings and the best examples of robotic humanoids and digital humans.",
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/",
@@ -529,7 +529,7 @@
       "path": "_posts/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
       "title": "Automated facial recognition breaches GDPR, says EU digital chief",
       "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
@@ -619,7 +619,7 @@
       "path": "_posts/2020-02-17-bridging-the-gender-gap-in-ai.md",
       "title": "Bridging The Gender Gap In AI",
       "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/",
@@ -656,7 +656,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -747,6 +748,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-machine-learning-is-no-place-to-move-fast-and-break-things.md",
+      "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
+      "excerpt": "Machine learning systems can be massively useful, but also fail critically in unforeseen ways. We need systems engineering in synergy with experimentation and innovation.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/",
+      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
+      "publishedDateTime": "2020-02-17T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e48aadba854780006b17705%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -2026,43 +2072,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-26-artificial-intelligence-can-now-track-down-blood-cancer.md",
-      "title": "Artificial intelligence can now track down blood cancer",
-      "excerpt": "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
-      "ampWebUrl": "https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
-      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
-      "publishedDateTime": "2019-12-26T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asian Age",
-        "domain": "asianage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": "Artificial intelligence can now track down blood cancer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

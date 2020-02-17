@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailydot.com/debug/face-id-medical-masks/?amp"
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-id-medical-masks/?amp"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,23 @@ images:
     width: 2000
     height: 1000
     title: "Mask that has your face printed on it allows you to unlock your phone during viral epidemics"
+
+related:
+  - title: "Bizarre ‘surgical masks’ that look like your face aimed at coronavirus-fearing iPhone owners"
+    excerpt: "The bizarre gear will strap over your nose and mouth and feature an image of the lower half of your face so it can \"work with facial recognition software\". Sales of medical masks have gone through the roof in recent weeks is response to the coronavirus outbreak, which has so far killed more than 1,700 people with 71,000 cases globally."
+    publishedDateTime: 2020-02-17T16:57:00Z
+    webUrl: "https://www.thesun.co.uk/tech/10979519/surgical-mask-face-id-unlock-iphone/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/10979519/surgical-mask-face-id-unlock-iphone/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/10979519/surgical-mask-face-id-unlock-iphone/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 48
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/image04-e1581951656443.jpg?strip=all&w=706&quality=100"
+        width: 706
+        height: 503
 
 secured: "uMAkyGWg7WNivMucrlAq8bCOTj2d/vLYwZBmbnxv1abn6QRmuMNLxW3vSb/X5CRpmTFIE+EGawPKT3k+q7oZ6ktMUss6i/ENa87DwE9uBS921CD4OpnejF9mPjPbqzdZJVKTC9Hm3Plc04ESPa8ATLVoQcFXErrajHjyA/2GYosttfu5pCQ5tazOo0Xp+MQARbaivkwcI8hLqcNupt9k7IcWJCJoUco9nGk6nALtb0ZqLoB9x2DlWbhS3QNzqzyNlskz5SMRJ/NJPgBt7+MOWRZDoCvqRcB7V76cFjSldIEROQyqMWj3CZSDpL72iIQJDXaR1BPpnpY0Z6pVfbVtRV3a8rj2l9HWLmOQcT5K3ckq04/HJO0M9SCCzpQdMfzNbTsC/aVFjBhCezXsU16MBeTSz5fAXkhEC38n38NEnGAzfLi2Rxc8+qWapwZG+WaQcE66W3eBNxME9xFX5UN98tjmDg+GXg3Ww4zIjUrweKw=;8utNFav/aSrSult82vLwdg=="
 ---

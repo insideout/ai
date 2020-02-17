@@ -206,6 +206,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/12/26125219/Cadillac-CT6-SuperCruiseEngaged.jpg"
         width: 800
         height: 450
+  - title: "Has reality put the brakes on self-driving cars?"
+    excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
+    publishedDateTime: 2020-02-17T16:56:00Z
+    webUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/"
+    ampWebUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/cars/2020/02/17/TELEMMGLPICT000059012609_trans_NvBQzQNjv4Bq3zRqJvTEgWWOoA_OyO2TYjp1J53GedFpkBVyM6aWTKE.jpeg"
+        width: 2380
+        height: 1488
   - title: "How lidar makers are coping with slow progress of self-driving tech"
     excerpt: "Experts and industry insiders not named Elon Musk see it as a key technology for self-driving cars. There are dozens of companies developing lidar technology, and each insists that its sensor is a cut above the rest. But while every lidar is above-average in the halls of CES, things are starting to look different in the real world. At least one ..."
     publishedDateTime: 2020-02-11T11:45:00Z

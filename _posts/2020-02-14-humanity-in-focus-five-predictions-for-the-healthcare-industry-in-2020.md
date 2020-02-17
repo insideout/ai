@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200210005115/en/603399/23/CH_red_blue_logo_%281%29.jpg"
         width: 1200
         height: 576
+  - title: "Predictions for HPC in 2020"
+    excerpt: "AMD has agreements with cloud providers AWS and Azure to put its CPUs on their cloud platforms and promote the use of AMD CPUs for HPC. This interesting move reflects how a lot of our customers are now planning their next HPC cluster or supercomputer to include AMD in their infrastructure design to better support AI workflows. AMD had ..."
+    publishedDateTime: 2020-02-17T16:55:00Z
+    webUrl: "https://insidehpc.com/2020/02/predictions-for-hpc-in-2020/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 26
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/download.jpg"
+        width: 661
+        height: 661
 
 secured: "h1rCY18q93lJLHzafzLWO9exKj0r1oFiiqkbo9yTS2/7vy5g6Hw1zxZvbc+n95MtxNygQOFVXHjinKmAXlFQJA/3ZobjLNjqZ4oTLlRkoo0lSaxkv797C2Wv5+bTJMKFA0GrCB+Nhls5FNNj2rDM0SCX+Xwc6cdX2VD02C5YZvnVEleQL78XA9r1ZLBOmmaOZ2jZPTMPcLKPp0P2ik9vtoKr0gWJDlPNh95D8kU35/xhfacO/c9RiwgS2ZZrskvuWKr8o1sZy7X2goPpjHApjiPVMXD4JdcAx2gjSXlR43R8oofsVHYePHB8G8xRmofQ;8b9lOwLV3V9z8MPBQHX4kg=="
 ---

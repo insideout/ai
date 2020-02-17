@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-18-deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now.md",
+      "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+      "excerpt": "The reason: they both invest in so-called deep tech, and they meet routinely with startups whose central focus is ... Siraj Khaliq is a partner at the global venture firm Atomico, where he tries to find world-changing startups that are enabled by machine learning, AI, and computer vision. He has strong experience in the area, having cofounded ...",
+      "heat": 66,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "publishedDateTime": "2020-01-17T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/space.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-18-geekwire-podcast-apple-acquires-xnorai-microsofts-bold-climate-plan-seattle-startup-trivia.md",
       "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
       "excerpt": "This week on the GeekWire Podcast: Apple doubled down on artificial intelligence and boosted its presence in Seattle with the acquisition of Xnor.ai, an Allen Institute for Artificial Intelligence ... but it’s also an example of an ambitious startup selling to a tech giant before it has the chance to become one itself. So how should we ...",
@@ -2099,50 +2144,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-british-ai-startups-attracted-record-venture-capital-funding-in-2019.md",
-      "title": "British AI Startups Attracted Record Venture-Capital Funding in 2019",
-      "excerpt": "Venture-capital firms plowed record funds into U.K.-based artificial-intelligence startups last year, shaking off factors such as Brexit and European data-privacy regulations. U.K. artificial-intelligence startups received about $3.2 billion in venture-capital funding in 2019, an increase of 23% from $2.6 billion in 2018, according to a study ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/british-ai-startups-attracted-record-venture-capital-funding-in-2019-11579602600",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-145341/social",
-          "width": 1280,
-          "height": 640,
-          "title": "British AI Startups Attracted Record Venture-Capital Funding in 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
