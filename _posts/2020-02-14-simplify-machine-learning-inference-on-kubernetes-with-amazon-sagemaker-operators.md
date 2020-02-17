@@ -41,6 +41,15 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/16/healthcare-fraud-detection-8.gif"
         width: 897
         height: 514
+  - title: "Deploying Machine Learning Models with mlflow and Amazon SageMaker"
+    excerpt: "Then, I deploy the model locally, and predict test data. Next, I create a Docker container, push it to Amazon ECR, and use it to deploy my model on Amazon SageMaker."
+    publishedDateTime: 2020-02-14T12:44:00Z
+    webUrl: "https://medium.com/@julsimon/deploying-machine-learning-models-with-mlflow-and-amazon-sagemaker-dac2b8244224"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 49
 
 secured: "zPz5KKkO2O+Qd6GM5EohDjKJVz0/SXELUHguAJcozhkSB1IT9/cNnZOY3YErVwrL1C/FN1kYRkLGbj/dm52klmuyfzhoXIZkEVboIBOmU5b95vq2DMxpHpKze3zrnNqhTfGI1uif0VRjH5ViiCeoDZeYcB8I+ciRltI7fXay5T6cR+fojuSCi5z7QlM7C0KVkWzxUhLmxLu1kPBWBSBdACTCDIJsED02385+Nr2M+cwSHeudPJlwkJ0Qm3HVkzBylgb+cXjathWblmYD2NZJEgvGw/itXq/DLPUe8y6DQG4Ln+LdfmncuyyR3fB5LXswMdogJD9DmCCkpNxZuRkzAQ==;Wsjf8ojdgv7fgDV1RZVbzg=="
 ---

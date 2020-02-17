@@ -58,21 +58,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200210211852-MikeDEDcorrectdimensions.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
-  - title: "Learning Automated Trading Can Give You a Major Investing Advantage"
-    excerpt: "From there, you'll learn how to use machine learning tools like Python to automate your trading to limit your losses and maximize your gains. You'll even get access to an Interactive brokers platform to practice automating your trading and learn momentum trading skills for forex markets. By the end of the training, you'll be fully ready to ..."
-    publishedDateTime: 2020-02-02T18:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/345748"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/345748"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345748"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200131021051-photo-1569025690938-a00729c9e1f9.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
   - title: "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence"
     excerpt: "But, again, it becomes important to mention digital marketing without an effective resolution to the customer means nothing. And, here, AI or Artificial Intelligence comes into the picture. Today, most of the companies are merging the two technologies to create outstanding business operations, which can help in business growth."
     publishedDateTime: 2020-02-10T18:43:00Z

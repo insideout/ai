@@ -45,19 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1144319087%2F0x0.jpg"
         width: 1200
         height: 675
-  - title: "Explained: The Artificial Intelligence Race is an Arms Race"
-    excerpt: "Graham Allison alerts us to artificial intelligence being the epicenter of today’s superpower arms race. Drawing heavily on Kai-Fu Lee’s basic thesis, Allison draws the battlelines: the United States vs. China, across the domains of human talent, big data, and government commitment. Allison further points to the absence of controls ..."
-    publishedDateTime: 2020-02-02T17:18:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/explained-artificial-intelligence-race-arms-race-119326"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 52
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/fgdgrger.jpg"
-        width: 1305
-        height: 870
 
 secured: "/0OpSHQprBf7GLyuo7S+eaK7ox2awxktK/eoCQc01bjPF1LgajMf7JQb4AjjmSJK98A7ThE4SFs5IOGmj5iRsQMg+RaHs0ySz0a6NJHTdXOimgjB8O6Pi6B06MsSree0CezYOEhIfyQpKINXV+L2iUMM94zy6OOSNHPa0mJDDaOUrzwGrvt3FktfF1iys0QsHjc+F0zHSIs14/xTwll6Mdi4dstcd9fn/mdYkIeVVF0OzGC9I1swu3W9/JLpAG+3kdhP+x9RdWdvhQZ4J2K9pbv3tCx3347XgoPrEzwlpHFANiB25E5qF8uTqANVdcaz;5S12cKwgJkJgJAStPmXEhg=="
 ---

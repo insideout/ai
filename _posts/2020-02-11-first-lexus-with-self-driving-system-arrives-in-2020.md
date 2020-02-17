@@ -52,15 +52,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/gvhymwj5q8azlfbrg6g6.jpg"
         width: 800
         height: 450
-  - title: "The man who invented the self-driving car (in 1986)"
-    excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
-    publishedDateTime: 2020-02-02T17:32:00Z
-    webUrl: "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 4
   - title: "Can self-driving cars handle Canadian winters?"
     excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
     publishedDateTime: 2020-02-11T16:22:00Z

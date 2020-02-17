@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -49,19 +49,6 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/02/14/7d318858-3655-4511-abd6-0b3f89d03303/resize/1200x/dd6b6e59edbabf3fe55af7ed24c5343a/facial-recognition.jpg"
         width: 1200
         height: 633
-  - title: "Explained: The Artificial Intelligence Race is an Arms Race"
-    excerpt: "Graham Allison alerts us to artificial intelligence being the epicenter of today’s superpower arms race. Drawing heavily on Kai-Fu Lee’s basic thesis, Allison draws the battlelines: the United States vs. China, across the domains of human talent, big data, and government commitment. Allison further points to the absence of controls ..."
-    publishedDateTime: 2020-02-02T17:18:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/explained-artificial-intelligence-race-arms-race-119326"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 52
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/fgdgrger.jpg"
-        width: 1305
-        height: 870
 
 secured: "vq+/DOZa+IXgoGkopsBK3O+A6tkR3ZVDcdbNP825oIpk9N7+R8Ir9WEUa20AdPrDe0+wTAx6u3hhFLubOq0/UOyQxNk4UtNr7S1f9LhPMstXumYeNOGPpsvx/a9NqsOnyLQRE0LhQMm15JsBgli6cHreDUn5BrUQGGx/einYvTKGm+WHBSxyvBVgn6n1/U2LyZtObhcZi8fqUK4myTg75LfieIpmHlpF1mj0PD2Q/fnGAsPHb/nH/LzA/vKrhwjApuoL9na+4EqfY8WfuRqH676xLS04dUa04EZ0zRUvHcpMBDMNXGr7To7PmEYBsj5o0EkkppBn+FuQAazKCQUKFu59LK4lqu6Pq0rXGFAPSRsBshGADRx/ZdJaDUY30cz5fymdB3SzclEn+WB2WAGSVd0YxJ3ygsOwFC/mXOpw4W0kpsNwG98vq/T8HTvZ0RFlcSts2N6JjYmNpoiI66eYASigwctGpycf7NiqScheHrs=;hzogmc7uMfDiL3IkUZ4XXA=="
 ---

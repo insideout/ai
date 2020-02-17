@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-09-study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life.md",
-      "title": "Study warns AI may trick humans with false evidence of alien life",
-      "excerpt": "A newly published study warns that using AI to detect these techno-signatures may be risky, however, with the potential to make humans think they have discovered evidence of alien life when no such evidence actually exists. The new study points toward Ceres, the dwarf planet that briefly dazzled humanity with then-mysterious bright spots that ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/",
-      "ampWebUrl": "https://www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/amp/",
-      "publishedDateTime": "2020-02-09T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/02/space_colorful_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Study warns AI may trick humans with false evidence of alien life",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
       "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
       "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
@@ -139,7 +95,7 @@
       "path": "_posts/2020-02-09-why-the-race-for-ai-dominance-is-more-global-than-you-think.md",
       "title": "Why The Race For AI Dominance Is More Global Than You Think",
       "excerpt": "When people hear about the race for Artificial Intelligence dominance, they often think that the main competition is between the US and China. But, many countries have AI efforts, funding, technologies,",
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/",
@@ -879,7 +835,7 @@
       "path": "_posts/2020-02-10-flagging-suspicious-healthcare-claims-with-amazon-sagemaker.md",
       "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
       "excerpt": "The National Health Care Anti-Fraud Association (NHCAA) estimates that healthcare fraud costs the nation approximately $68 billion annually—3% of the nation’s $2.26 trillion in healthcare spending. This is a conservative estimate; other estimates range as high as 10% of annual healthcare expenditure,",
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "type": "article",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/",
@@ -2161,6 +2117,50 @@
           "width": 1200,
           "height": 801,
           "title": "AI And Automation: Together Forever?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-of-financial-aid-applications.md",
+      "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
+      "excerpt": "Otterbot is a free, AI-powered texting service that can help high school seniors apply for financial aid that covers tuition and fees for college and other training. Last year, Washington ranked 48th among U.S. states for the percent of students who completed federal financial aid applications or FAFSA, a standardized form used for awarding ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
+      "publishedDateTime": "2020-02-11T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/20190330_155633-e1556638491703-630x407.jpg",
+          "width": 630,
+          "height": 407,
+          "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
           "attribution": null
         }
       ],
