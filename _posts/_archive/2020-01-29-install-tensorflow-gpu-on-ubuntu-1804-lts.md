@@ -27,6 +27,6 @@ images:
     height: 413
     title: "Install TensorFlow GPU on Ubuntu 18.04 LTS"
 
-secured: "Df//fHmo8NXrs0DLJupr1djym0eqrTi4nuDY0231nPIfOOhNjuSe2bA/i/ZI1XM34Q+Ti7+tFlKyzKnwtY0tYBsGFSlSK6rLEI6PgQSlVtzLg91/H73PP92Ywgqi7Jf2V4RpYYZb+4N3uMtI8jCoIidomSuCo4XCeOVX+/71qsQx6wQ9OxP0hUO3xTozZTAZLdBS40ZxxZVYioaXBLmyoJIobPPMomY2/YUeQCvqEvh/khq7MbsMBdu/mcum2N2VeZkVYBtvQQr3ayAyS5aztY1caxAa0ASMmwZuqE3DHCPW4yY1Gzh7PsocS+ykwWPE;ZdYmAl6ZpgvFUwyvfJgMGQ=="
+secured: "9zPQenlKZOQnp+4nekJ9azO6uLjQikBIOkeE0+924Huz4+UcfRKHrTt8RG/5ymWi90r1uGmuQlCqsjwL/3jPDb4AHWTggqxmNiMkcNLAxMxnzpCJjx7mUecrgsWoiVuNQc6hplKK5VAqNDTpiHI6/FaF/k4vaxvSwPB0e07NOBVsDOXj20K3nbT8AYHjfJ6wjsQEt1v2bdMQixiMiNttrpLWjMtEE6JmuZAHikmyM+tbvnranjH490F36CJCB3z+XlpAmaiCTXzrDQ+g+09Zm8mfmR+aLIEbyfTeNJOhQxrNRvrWx+tVkL/mv7swc/L3;JUO2zgVVxqLxbmHbJlKHTg=="
 ---
 

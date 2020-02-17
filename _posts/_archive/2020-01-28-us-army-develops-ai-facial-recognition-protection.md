@@ -54,21 +54,6 @@ related:
       - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
         width: 446
         height: 300
-  - title: "City police eye use of facial recognition technology to fight crime"
-    excerpt: "City police are assessing the potential to use facial recognition technology to battle crime — and the privacy and security implications of such a move. The Edmonton Police Service is currently in the process of “project assessing” the potential of using facial recognition to help with existing cases, police spokeswoman Cheryl Sheppard ..."
-    publishedDateTime: 2020-02-02T11:06:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime"
-    ampWebUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
-    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 59
-    images:
-      - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
-        width: 1000
-        height: 750
   - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
     excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
     publishedDateTime: 2020-02-03T00:02:00Z
@@ -105,6 +90,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "9m/IE7d9INP8ZRSmOCm26PjPy8JhriqZA9zNcN1uyZRJwpRK1uIASbtVRItEmm/A+v7fBL+OwZklvsGvCDCQo9gCmTGV8vpO38TbONXRoaVUbh+Uc1X9Os4nwVPPHLZnufoXYvYfDVcinwZPThVjS03wMPMjP/AXh47+n97M51GmNL1X5MrYgGhNRY1W4H1C0Olal2VbuOLQg6ih1Ars9jxzH9b41YiFcb5mr4yw9YeiWgR52Rc7AmQ4Q1uUT1b8WMRPIz/tUeWakbxW/baHak51JGbNJLKFGi6Lz27ZIIBwJXaNsX7S+H704rqeejU2;oYXFR6mws//iH3iXfb8Igw=="
+secured: "rKVi/KgGeESuK1T8/3z+h6UJkq+2CqJeioCEibmBUCFtx1FIToqJQ5t6X/6j8UfQ47S6uqaplrSQpKG+w+kbvbQyXT08rCmsnH9r/KuvmHFy/uAN5F8BZ0PN5NRHJy0CeC3sK5O4QuP8Pij0QRKMiChaXLYkrfz8bNb4SKQZs/van4Zm2U5XoXqxU0BSr+4Qs14qFJtnDHTw/k6xGSbje0lv/znIrnuBXpodmDZJtj9co8KKsC3fHKbYXOfnxz6d/Tju5Gi90NzebnwXQPxYuBEX1Ct+s/8Djcnvrbltn8p2e2q3J/av2ClCTR9mQXdI;OpSmv/ReYFQudeIMmUhp9g=="
 ---
 

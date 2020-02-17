@@ -25,6 +25,6 @@ images:
     height: 400
     title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Nations championship"
 
-secured: "NNxAf2Czjz3YzyMJS7YCARe4s9X8K08xV2sjpfDd0s9BTxDd6v/6jKq+W7Iv/Xa8L8LizjRMgFSZP9EHymIG3hebu+CR8e+MY+652eWDW+gHbwtNiSpxYt9BkEOcfq6TT4AtjdZ+/YQOQWtJiBB4E4wCKI/qweqfYLWFfFnI26vS44nEv6/c2/B0KdHAunWrN3ACk18OLM/obqH6cvCJF68s0b2+/acRmE/6c2jT5g3w9G4mQMaqBrBdolj+4xuODibTiuNUqGvm/ugC/W6b2WIWpI10PWGyaA6zrqKh5N44KbObbpA86TtquZkH3NQu;eV8s0Yx+iq0mx8S1c/S/kQ=="
+secured: "eIwQEL5MmJNim1y9NoY7TIAVtYX5XQq/u1+h5JZ0inzIIIAq9WGnoW7fsu84O+3V5fyt3HboJVWzLKLRqblDql0j2M5Dd/TF8UKAxfaNGZAEGI0zpjE/x5fJZOPJTQnyugzbS8W4GE7wsU3moNctAiCUKDjFYDWsrb1zlM6WhC8mKwmoPzgvMQsiqfP+aSXcdsPyUDkK8fJElWhOr4+PvdsHBiXxXH5ZR0Eg3U1DJmpGnYpyu6gmuEuCj1keYYbLE4qogCACkWiUvMTYYNEf5IkEKtIZn0JK2WtZNaJQECC2qIyZNusede+DsKXL8RRf;oqjPruOadVxlT+8zoGZbcw=="
 ---
 

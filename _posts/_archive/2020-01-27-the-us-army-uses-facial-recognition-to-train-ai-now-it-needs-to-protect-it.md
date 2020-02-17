@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
         width: 446
         height: 300
-  - title: "City police eye use of facial recognition technology to fight crime"
-    excerpt: "City police are assessing the potential to use facial recognition technology to battle crime — and the privacy and security implications of such a move. The Edmonton Police Service is currently in the process of “project assessing” the potential of using facial recognition to help with existing cases, police spokeswoman Cheryl Sheppard ..."
-    publishedDateTime: 2020-02-02T11:06:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime"
-    ampWebUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
-    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 59
-    images:
-      - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
-        width: 1000
-        height: 750
   - title: "US Army develops AI facial recognition protection"
     excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
     publishedDateTime: 2020-01-28T09:26:00Z
@@ -109,6 +94,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "hpSjrynjlUq2cK2Lk7wyWFQDvNAGZFEbK9FhxvfANWdXQmZGBVAps9p0T0rsCH+Xt7OaKlcmeFzNN5Q7l2NYEQvgw0ox0KYzSel12cAkKOyXjGshI/HwVmqfrzJ+QrvUhnjnYXe0LBhfbjviR9GBv4x1qXAiybaECyOzTG9742HQ5POHOZjq7MJrEW5DFvf122LCLj2m2fdmwjq9kkdghF5w93AhmhIYlftTCiqtz/dvNNK+ohccmSnm1WWrpWPie6C6nhRr4j413JjfHmfiiY2DairgP2wTQojsVud8hmJELkOZFHymODuZqotSM2u0;X+E9rLDmFzqJ37kigPSVxA=="
+secured: "181Ut+PkKk30yGw9/CnG978GoUWkWK2ys61O4uJFwt99n9b0BmL8TL+acYynKcMs8lnDIKugzCk1Mg/NuGRLu8bTuWTRUAy51/x9hDZN7ETUgb/+d4bmD4KAC3zleFHoL55VnupEZFvrVRsojzZepa6frwodcG1ylwGGTIQF8KFgC6pxwl0iorrHxZ3oZ/dkOtx85HSRUsFcKA0y4EstQJH3Fqn9BWVlJk3kvHITILqEuK+7U6VlXLfKLlj1GKGKbDdVD3mmEwCkMdXjkkGDUNIo+O7JEJ+7af5f6LqKSPaJBzXv1aVFeTQNr8k6KSkg;JbAqrp0zlP1jRSQzmRTa8A=="
 ---
 

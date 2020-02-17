@@ -41,21 +41,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "City police eye use of facial recognition technology to fight crime"
-    excerpt: "City police are assessing the potential to use facial recognition technology to battle crime — and the privacy and security implications of such a move. The Edmonton Police Service is currently in the process of “project assessing” the potential of using facial recognition to help with existing cases, police spokeswoman Cheryl Sheppard ..."
-    publishedDateTime: 2020-02-02T11:06:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime"
-    ampWebUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
-    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 59
-    images:
-      - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
-        width: 1000
-        height: 750
   - title: "US Army develops AI facial recognition protection"
     excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
     publishedDateTime: 2020-01-28T09:26:00Z
@@ -105,6 +90,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "R3ZbjoUTDfSFkjBSgVLTFsOz1oJ7mwz1w9g8jFUwK18bhsh8qrCp3jmlfK8DCINGM4q9khuX4mTF724oAh5d1SwUvy2IpwDUkJuRSYUT/buBPogC6aZjWtFO+e7v6hyDni5QbhvOYU32m5ogQH+QjdfWRdm8B5Ikcy347E+m3y9S18+CyLAyCGPhMQAjHsojgXPkFAQPcFzagb+TJ65oKeYLS/EtHo8X6PXxYqMJPP3wnp1npj50eyZPeXlxyOHV4R1v0GGCzXKPk2ddPn/7V5FjzWabPEJN/XZRx2Q6EzLIxU5bD8vwiwuQc9oTlfcL;EWvW0ZrpIZUfNV/Xj98tvg=="
+secured: "FL8AJo514HnoV3VcxqYLtFw0WhHE02yb4kR/qMBFSwtzTlqTLuBRe3I8xEI0MZwDNXA658btDlcRqAa6W1WFc0IVVSxxeBOD3ELUk2d2TMkyMEUlDqbTqoi+Q0ncXnhxzguaoRW+YWFoJnvb1Hk22rAIii+0oZbDrZmD2H3p9onifnmN5cuw2EamNOgJ+NpTa35eL9k8XrqXZTYrCb1AjKYxFwVSRq5uWsZSjKv7G8peeN8ow75lTBfCpE3io9K3un8QdfX/jtj0F9YyV5cEK1mrsuMVzcM8TV2B7ixYwOy6HYJ5aFIhoro0lDjgbphQ;eYfBSR58qUjREh/qJFCxHA=="
 ---
 

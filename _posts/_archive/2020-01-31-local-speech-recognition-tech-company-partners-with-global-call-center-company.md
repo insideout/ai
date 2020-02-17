@@ -36,6 +36,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "g0jgqz+8QWR9AGUJvcHRVL67R9LIHK3gHf0CMKfmZ+X1F5TSkGw4rYeh50CjvbKdWswMgyMAD4evCjQomlxtDoy+Ac0bT9DV3yp5TyM32Uk8gBqrC/+LhGsy9HVFAWKB46xCyKE9jHqtpVz1XKaFG5ssChyIrHbsXF+GZk4KGp0eTMzzfiXsIs7uVViSddA2wG4TVm/07JnPFkaTumBl+O7pm2nIWBlnjNomlBoZBOLtGmUSJVm/8iNDi85vA2LEJ7fcCDgTrAvhjOagAQBYRqwsGkw9SjyoQSovpwYMW9v+Ju6hriQneTokKmQDt04S;hhlfnUReGoHepyftTdXJTA=="
+secured: "mF8dJ2fcIjcOiA1QNg7hsSfi0tQ4+1BxK17lP2jfV3wbIYXll8rzozjpQhgEglLRG94+gwsv1it4MzxdlKBDCQOTslOkDCZWquZWoeawYj7+Bd0SEQdmYR6Xrqkqn8A911B6DLzFGR8fyqIngJCTQBbG2ZvVzMYOAF0Rj+5+5bwE9Rord1wImxYuFoM2Jj8IPDYJCeZrXyLwFYg13r3SKazGnTF+GGCCfbgCqtfsQx4qii//akGl+1KiqyU652RV1HqpDD3RXtv/AM7gUTBh45JKFUkrX9WISju2/9fqjodp9/ZpeqrYqIovAUZbKmD1;4SejzWErdrYx3dBi42WciQ=="
 ---
 
