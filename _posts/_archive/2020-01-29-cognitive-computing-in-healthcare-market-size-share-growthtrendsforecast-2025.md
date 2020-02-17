@@ -106,6 +106,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "4NCGhxWd7PjxXo4iPDJxxEzBBc0DwciDf6F+1zqZZGncYQ4Cm/heSuHqQA7Rf35fIUdNWFyKN4Mr6uClRKJrHawmibaieok79EoH5WmeYx7XxuAsmJ/SYze2L/c3Z1tCetpbn6d4+poTvvUEloKs1Ng2fpUU/L8wBdcwJ/wzxSfE/1mAYJSagp2Ck4LP34Za+v8WkWu+hXk3CcqkBAY9/9iHyzYpmo951b2NLQDG2zRoLr0j8vCRTN6yZb7C7qEXchoKaJiPe/SAOOM+ygmUho9xDJsfAHYe9A+StiYe9qrPxPqwVkM75Nggwh6M09aj;wMAxnn/Mf98v/PG7bxPKow=="
+secured: "YepvPK2d3YC8Wjrk0XLrn6rmkRnTmsDMl4VV0SpXG4Ca4kmdYjxue7IJkv6tUBnaKUAvxJPeuLQOm5G1Ydq3jIJOj5zPvSkCu0/INnQo44mXuGqDEcvJXjChh2Sk7ICZ9OtKrLcwStQQyLBEzm/KgpVr4bOkFsGKHLH3d4h3fiU3gfCh4uzOFU/lFEO3HEUIXPG0PHVtyqQqxqus3XOMNVOOCMEOHBZEuUka9xkvoSXQnxlWp87LfLKsGpJcmrWVKrJHh/SXnB1NNuEtg2/J41NLYUl7yQy3Pk6laYnQZBr25+71eMudgf0nZo0Vfmut;EWiJ2+z4Jt26JGOU6xYKxg=="
 ---
 

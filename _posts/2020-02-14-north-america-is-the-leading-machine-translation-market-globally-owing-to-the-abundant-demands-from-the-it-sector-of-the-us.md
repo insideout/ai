@@ -50,6 +50,19 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
         width: 1200
         height: 675
+  - title: "Henkel invests in machine-learning software start-up Fero Labs"
+    excerpt: "Henkel AG & Co. KGaA (Dusseldorf, Germany; www.henkel.com) is participating in the latest funding round of Fero Labs (New York, N.Y.; www.ferolabs.com), a start-up aiming to optimize industrial processes by using explainable machine learning. The investment is led by the company’s HenkelX Ventures unit, together with DIVC, a Munich-based ..."
+    publishedDateTime: 2020-02-05T18:45:00Z
+    webUrl: "https://www.chemengonline.com/henkel-invests-in-machine-learning-software-start-up-fero-labs/"
+    type: article
+    provider:
+      name: The Magazine
+      domain: chemengonline.com
+    quality: 24
+    images:
+      - url: "https://www.chemengonline.com/wp-content/uploads/2020/02/che_0220-1.jpg"
+        width: 949
+        height: 1280
   - title: "Machine Learning in Nursing Market"
     excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
     publishedDateTime: 2020-02-06T11:30:00Z

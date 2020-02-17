@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.in/tech/news/in-five-years-half-of-all-s
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/in-five-years-half-of-all-surgeries-will-be-assisted-by-robots/amp_articleshow/74173741.cms"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,21 +26,15 @@ images:
     title: "In five years, half of all surgeries will be assisted by robots"
 
 related:
-  - title: "50% of all surgeries will be robot assisted by 2025: L&T"
-    excerpt: "Infrastructure and engineering conglomerate Larsen & Toubro (L&T) expects almost 50% of all surgeries to be robot-assisted by 2025, as Artificial Intelligence (AI) makes robots precise enough to facilitate complex surgeries, the company said on Monday. The L&T Technology Services Limited (LTTS) organised an ‘Experience Walk-through’ as part ..."
-    publishedDateTime: 2020-02-17T07:42:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/50-of-all-surgeries-will-be-robot-assisted-by-2025-lt/article30840897.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/50-of-all-surgeries-will-be-robot-assisted-by-2025-lt/article30840897.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/50-of-all-surgeries-will-be-robot-assisted-by-2025-lt/article30840897.ece/amp/"
+  - title: "50% of all surgeries will be robot-assisted by 2025: L&T"
+    excerpt: "Infrastructure and engineering conglomerate Larsen & Toubro (L&T) expects almost 50 per cent of all surgeries to be robot-assisted by 2025, as Artificial Intelligence (AI) makes robots precise enough to facilitate complex surgeries, the company said on Monday. The L&T Technology Services Limited (LTTS) organised an 'Experience Walk-through' as ..."
+    publishedDateTime: 2020-02-17T15:10:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Health/20200217/3506127.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/news/national/keob40/article29472933.ece/ALTERNATES/LANDSCAPE_615/ARTIFICIAL-INTELLIGENCE"
-        width: 615
-        height: 384
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "QTfRbgzyOnLlRU+xmJsPDII0Pz7O1k+jykqJu9MLvnh3AwfFSz6sFDigfgbjjipTfHCdNPEihyXssGzDdWrm6lx4KgsDNg6Okvjmcu/h+g0V5juE2mil2bcWg6/Y0c33Lg2E02q2CSViQDUIMtgaH6MLS7sRM+gxIXwiuKOYZ5Bv8EZe1f+VaNHphZUwlAJy8XepuycYpeL1y1AD6rcrm/yUnJ81NyCwnj2dm+hm7ePWojmYmpfwa5UZN+qXGdJKiSbF5+e+WWTIwtdulVmKicoLXanVq5pXK6vbnGYIECitEw+Gek15cBwOFWgvkNF+;bJeAjaNXyeTDBmzawMyRdA=="
 ---

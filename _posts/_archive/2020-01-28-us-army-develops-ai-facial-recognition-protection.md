@@ -36,9 +36,9 @@ related:
       domain: zdnet.com
     quality: 101
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/25/1fda6b43-2ef8-4a70-83be-780cd80b7f8c/resize/1200x900/ae17d77a0f9c782c6bd35acf140d0d93/1.jpg"
         width: 1200
-        height: 763
+        height: 764
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
@@ -66,6 +66,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "8/m2ku2V4WYGQpKD5jG9LeGwngTyG3SX4HLR/TIOWykH27AO/jeixlt662el1Iud6kFV5U/nZ4oG0nt51Z+dnJJSfanrjQCBCrfxtOs5CtivoCkz/I6qXEvm1S6DaZ/Jv6BJCeUoRFAUa+3cJ5gZ+ACCASWXMoGa/AwSG+JzOkWIT0eCjoKd6QK6hONaTddq3dThvZlQF2cY9gngCUMWtTO5sYXF4KV3flA16bWwf9qhuhxr7csBKwESUEfoDnE4e/AnO5Yej1nIiZuW3zMyMDJdDX7tpN3ZlMV8Ag6dLsee/+CpR97FBpWMkyCRKese;605t6Kp6XCy/dmi6GjeMjQ=="
+secured: "TrHIbEO0Wkba9B2ZRion4B+OrcEXmzMYMnwGa+Sea2TSJvRiaeiNQW9ckZsvKYXAuvDpPy5sO/OU4kSP4TUlQI6kWsBQlqDAvSDnUJ4MlkOI1uB6W2ZNLvafljHwXVbax38jLmJrYLMoeWqlEEj8MeemVB8LJ+o2GU/sHBuYJzRfHmb1oLDuoJpOO56a0R62qO4XHPo8n28bvLrU7mKGMUpPtpyNVrYVc3kBkQUeI/8SVQZ+Xo+YlkDqMajXVnRPzNfJ7iu3cD//IRLmPkvDZ6ylO97eZsY4vDswA+bOjyZB+akms2diAKJZ8W2GdUsW;O41SDiml4Gm2kzIMIp9pLg=="
 ---
 

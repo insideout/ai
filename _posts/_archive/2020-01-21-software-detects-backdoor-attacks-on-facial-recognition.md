@@ -38,9 +38,9 @@ related:
       domain: zdnet.com
     quality: 101
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/25/1fda6b43-2ef8-4a70-83be-780cd80b7f8c/resize/1200x900/ae17d77a0f9c782c6bd35acf140d0d93/1.jpg"
         width: 1200
-        height: 763
+        height: 764
   - title: "US Army develops AI facial recognition protection"
     excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
     publishedDateTime: 2020-01-28T09:26:00Z
@@ -66,6 +66,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "WWbZd3HKgjmfVnhHGGko9kHmLog6+YWu8QjUh88o+RmDgs1+Xack3ch+1/HbVND3Hmp0Q+BijV13H3yQTn06iA1fvnc7DRtDjdFPeD3+bClUsy2Cba3qyFwlCT7ItGyyHnQqF5BejCY4hKeepccPaihCfJHY1iA835i0hC+OXWV3tpi8B2fuF4UPc0ONqlY82jYPJtZxuXOGkA++KR54AapTftwH3cuSdPpP9TZH50p7slpGpWD4YKvNwjOZiStxqkKC4WSd0TNYg79O6YCyFknM7uYd50EQS/IP0dk5hUjHraUFhtouaWfQV/LbfX4O;FkimX8bmTmSFz/UgjJOYNQ=="
+secured: "IXrR5AMjm0z6/sfPxtc+mawZk2wy26LKN8oYhV3AQbOrTFoMnLH158zLFAm840U0ZzI+I5scVRpmu7pGpq5HtfYReequqlTG5a4BDF/xv0bvpLLmLpglnk4Bm8F8j3QrGQDGkg2V7/JP0bUaZbotGhya4xuSAFI6PVgwnrc7qdQROHTInoucCj2xizqpjI2BK1nxasbtHsAXBh38DtOZgJWY6jDMb7ntESDEtlv9kgVblfJDzw8hydtIOXbNN1w9IkZm32IU2JMdl9NZ2CJjhcMI3fkTwAUTXhRyvTZAtTOrryXdLex73RP/Re9dVNfm;+l6W+U24zhphWeYruRoUiQ=="
 ---
 

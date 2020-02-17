@@ -274,6 +274,21 @@ related:
       - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTcwNDMzNTM4MzY0MDI0NjA0/facialrecog.png"
         width: 620
         height: 343
+  - title: "Is Fashion Ahead of Facial Recognition?"
+    excerpt: "MY FIRST FACIAL-RECOGNITION MOMENT—my instant of facial-recognition recognition, you might say—happened when I arrived late on a flight from Europe and carried myself to the Global Entry kiosks. For years the Global Entry process, an accelerated automatic immigration check for prescreened travelers, began with a passport and fingerprint scan."
+    publishedDateTime: 2020-02-17T15:26:00Z
+    webUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance"
+    ampWebUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
+    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
+    type: article
+    provider:
+      name: Vogue
+      domain: vogue.com
+    quality: 59
+    images:
+      - url: "https://assets.vogue.com/photos/5e46c4856d8f97000815dd3e/master/pass/VO0320_FacialRecognition_01.jpg"
+        width: 4068
+        height: 2820
   - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
     excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
     publishedDateTime: 2020-02-14T12:00:00Z

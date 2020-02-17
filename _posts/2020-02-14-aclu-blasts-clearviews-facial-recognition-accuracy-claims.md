@@ -273,6 +273,21 @@ related:
       - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTcwNDMzNTM4MzY0MDI0NjA0/facialrecog.png"
         width: 620
         height: 343
+  - title: "Is Fashion Ahead of Facial Recognition?"
+    excerpt: "MY FIRST FACIAL-RECOGNITION MOMENT—my instant of facial-recognition recognition, you might say—happened when I arrived late on a flight from Europe and carried myself to the Global Entry kiosks. For years the Global Entry process, an accelerated automatic immigration check for prescreened travelers, began with a passport and fingerprint scan."
+    publishedDateTime: 2020-02-17T15:26:00Z
+    webUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance"
+    ampWebUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
+    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
+    type: article
+    provider:
+      name: Vogue
+      domain: vogue.com
+    quality: 59
+    images:
+      - url: "https://assets.vogue.com/photos/5e46c4856d8f97000815dd3e/master/pass/VO0320_FacialRecognition_01.jpg"
+        width: 4068
+        height: 2820
   - title: "AI and facial recognition in 2020: where’s the line?"
     excerpt: "security and AI ethics to be at the forefront of the conversation. As regulations continue to be made at a city, state or federal level, they will shape the extent to which we can use AI, and how we will approach the “AI race” in this decade."
     publishedDateTime: 2020-02-14T10:08:00Z
@@ -479,6 +494,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "8IxDYLYiCcKUUEtMntNL8Cu0YjKQkn7s2aWvSAwRMdtQlW6v+tbNQOgXDNa5QZiGI3Fb0+CaL6T4xGpvDhRR4XYFQIPUJoDntcqb6np+yx9Ddr7LlN2mFgevew0698GBtR6nErSP06pZp+u3jat25HsS40JTMU0Vut/AKW9I29MgKpSFN0yTtav3v60mtTPyBS3ewnrDaIXFxK4uVzp1/eF7LtN90cbFesbuCzLZq/lKcoewKdMf7rj3mo6rfx0zy38OCHB9zDwtPYTb9slyqDttKxLD/jgBdDDtFX1TcklDpRnAlt66Z8QH7gRrTfH0Q3CF/JbLg28SFnyECQkbxmYsCwQUR/ktbvWRlhqvapy73aRhuNvYEw8FY2d4WvAEWoijkioPt5vnzM70jez0jRAVV+Mc9lNXtnso95zryys7//WV/v/C/7cDv0ZP9XaTeT3h5NROJw3WLjzYr1udKgkadPJi9wceZCv9HGcZ59s=;gUmwLsuRA3Gf+DyMP67dvw=="
+secured: "5ukVRg0uk+Np9rrPI8vynshkewmGmEhqJ5J0fc8A8/FYjcDemSZ6skAf8eJajOSjKEdAs8UrY5bhCjk40MzxchfnH4pLSnahhhZ7mFTX/8BX7isxMv+hcMzFjIzuO5HjVb5jOdgFlvSWa8ylsVoIpyNytcPduf/kDeDYz1/GqYYGFvG3PaH9x2m9nwrqK5w4JVAB7vqCFbwFvnynTGBvzRRmFIUQBG8IC88vItxbtYDsO2pHBa9j8S07xtLjNKjbYGxpjjKIzaeCQGRxyNHofT+n8JCsk5NUDtYiI7Q3hYIS56g1YI6B44pzhJyLoVJI;cwzeu1ErJvfwaNTJj8+Vhg=="
 ---
 

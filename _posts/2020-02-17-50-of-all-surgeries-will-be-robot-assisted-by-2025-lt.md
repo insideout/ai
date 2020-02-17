@@ -1,29 +1,21 @@
 ---
 category: news
-title: "50% of all surgeries will be robot assisted by 2025: L&T"
-excerpt: "Infrastructure and engineering conglomerate Larsen & Toubro (L&T) expects almost 50% of all surgeries to be robot-assisted by 2025, as Artificial Intelligence (AI) makes robots precise enough to facilitate complex surgeries, the company said on Monday. The L&T Technology Services Limited (LTTS) organised an ‘Experience Walk-through’ as part ..."
-publishedDateTime: 2020-02-17T07:42:00Z
-webUrl: "https://www.thehindu.com/sci-tech/technology/50-of-all-surgeries-will-be-robot-assisted-by-2025-lt/article30840897.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/50-of-all-surgeries-will-be-robot-assisted-by-2025-lt/article30840897.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/50-of-all-surgeries-will-be-robot-assisted-by-2025-lt/article30840897.ece/amp/"
+title: "50% of all surgeries will be robot-assisted by 2025: L&T"
+excerpt: "Infrastructure and engineering conglomerate Larsen & Toubro (L&T) expects almost 50 per cent of all surgeries to be robot-assisted by 2025, as Artificial Intelligence (AI) makes robots precise enough to facilitate complex surgeries, the company said on Monday. The L&T Technology Services Limited (LTTS) organised an 'Experience Walk-through' as ..."
+publishedDateTime: 2020-02-17T15:10:00Z
+webUrl: "https://news.webindia123.com/news/articles/Health/20200217/3506127.html"
 type: article
-quality: 59
-heat: 69
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
   - AI in Robotics
-
-images:
-  - url: "https://www.thehindu.com/news/national/keob40/article29472933.ece/ALTERNATES/LANDSCAPE_615/ARTIFICIAL-INTELLIGENCE"
-    width: 615
-    height: 384
-    title: "50% of all surgeries will be robot assisted by 2025: L&T"
 
 related:
   - title: "In five years, half of all surgeries will be assisted by robots"
@@ -42,6 +34,6 @@ related:
         width: 412
         height: 275
 
-secured: "Wo5K2MDtft5X736WHstpQowkkS7ZIw66mePNkxh4PD7ElmHXQ0daGQBLDC94Pn5y2bAdNN/PE2EDgyhGt2ezY0wJOx2at2VxFSBumCPjtbcwyQ4JyplA/7v8AM+RL3+5TGeGNqRnAQTkGQzwl3rbv1Dl9yUb9gPuO1CXL3jFNIv1P3C3zwXBOMo6cZzD6s/VQF/OudS8IrEuI722YB2aY40UFaOTpUOHKTkklBjYVwpbRH0dEyVEUnwiqB/cCxW2C/Z3M74e+z2a10xgYSHouZu+C6raJ92UHbkrSydwgekTzqJSC3aQzjam/rU44DvY;yBzpsalUoAK4MArG5KylCw=="
+secured: "zIAy3zxTmrdlHZ6vd/RA7bbCqbHZvQwnp74Wn5X3qw3+SgoHLuz1NBIzVSvBB2e8yOyDwowKEk1LXvxgHKujtD0Fct7TtnWw81c5HTymqQGFPuNwFB9qom8U9lB6tAPHVapH0J4c7exOIGSyfymudGpljhTl2SFpyoJ7l/Vptm/9QhSNu33XfePKB2lWuM7kFsA0+LXNrHp2KHFRTclFYkJ1PwyoOkyNcuQAtrSxxJEpjR99ENS50pvl3ozei51291aixqXrpFpgWl0rKCjqfmO+LofX0pHJoCZfKEVzlIpvGLafIHVLbaUZ6vKz2ci0;ENae8ESY1MtSVgM4S8ez+A=="
 ---
 

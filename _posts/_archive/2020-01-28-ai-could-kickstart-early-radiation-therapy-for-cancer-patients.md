@@ -36,6 +36,6 @@ related:
       domain: medicaldialogues.in
     quality: 54
 
-secured: "Y1MEkpXc979WeMcEKq0VQiR7L5Ux7UsIgjeUTKbBxcAbABNrmA6vuNnbqR22+qf2yJsrdYqbq8SYVIcC5G385RyDUzdIprVPQWABcYuqiY0CT6oalG0z889V43n0Zo29+ppr0m37LkuSiwZQHmU/xJG/bzAp/HymBO8Md5AHM4jLcLydd6XxTv5UPQ2H6S+VkO43F65+UF+qOenUcSsGhh6PRvgS4QuJ3uZL2b1QQahlMGoRnL8TYmuK/w374NMmuie+lkM2+sAvjPusAqio64Psba50lBbBnEGtZkTbUohuG24LXRHA2tUkKaR2DyVx;XF67MeqDkP0Oq76yoMTqFA=="
+secured: "p5535JGbczSngkC0ddSFiY/ePB7dAMkfRelees1F71Ga3kRdaGuhIg2oBuJLjdFcwtgSYAK2+Afy+FRpxsBXD90yAYBappK5rQjA5vkCjBkzKC7yb7t4RJn4QglZY79ukUi6p+Id4AqhdYJRSrLYpN/P5f6IDsySCQWZA59j4Y1t1/mW3iwjX5ewdzAr6qxBlmtCpiQ8c1V5Fh4Kbvsp8BwTWwgfnzqXwBg3o+phTIC5VdFSjZluqARu0vLd3+Ru0oCpmsl6ibUGQshDK/MARlhHG0Be0bbQcajuDT3YxfussWFPwIiPsnVV8M/UEzzX;u6ywF8IKRXA/gL82Ty1PYw=="
 ---
 

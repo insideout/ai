@@ -266,6 +266,21 @@ related:
       - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
         width: 445
         height: 600
+  - title: "Indian government to add facial recognition, iris scan for digital payments"
+    excerpt: "In addition to requiring a password to sign in, the payment apps may also be mandated to add an additional layer of security in the form of facial recognition, Iris scan and checking the location to ensure security of digital payments. While facial recognition is easy, it will not be easy to implement iris scan on smartphones. While Samsung ..."
+    publishedDateTime: 2020-02-17T12:55:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/articleshow/74176902.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/amp_articleshow/74176902.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/amp_articleshow/74176902.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 57
+    images:
+      - url: "https://www.businessinsider.in/thumb/msid-74176964,height-275,width-412,imgsize-146190/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/digital-payments.jpg"
+        width: 412
+        height: 275
   - title: "Florida cops use this facial recognition tech that could be pulling your pics"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T10:08:00Z
@@ -637,6 +652,6 @@ related:
         width: 300
         height: 250
 
-secured: "/hPomDcMTIWbcPN240gZxayaC+OkQMGSGCA8u9bFVWhL0zFN+4oQio76l9dAnhEHi10LPOIIsw3lQKwRc10xJg/nTJPLBtkA08hKKXzrESxYfnoV/3nAP6687Z6c3JB1CFgZs9zfdcIICAIiqcb89UdJJtl7wDTuEHE/293uzVrmoOn3GKtf3Hdt5G8HWqGJyxizqbTDj7caUfDKpCvYYEoVdpCOmer5tXPwAX4yZhJAa2KDGPNQIluRlTimBSnrmYtnkvoKfE8mYJJIqC32AueU2lz2U1yVHBket24A1SaHOf+LRz3KVOtp8j25R1vr;Ij12gbdOnqxj09ivK7AFBA=="
+secured: "cEwYCBQI5OsD8SBozUic8sdKW4N/HEL1edZSPux0sUmY/xSVNzHcFyD9lAuO0CSWTVDJBNxj7ZErhkZdYJlOwfYJCRN0e5CSS61pHLppyunGc4vlH6HS7bOfqUvdH1wbDqUBtzf6bJHUzckgp3/AfL1D41vgKC5Y6/lzXNPRrbc8CvciJSKPnXQ90qUJVgZiWjh+kVWTFf6Mwcdp2QfOSfKAo6og6GoH0HmmVSqavagbVB1nUTgKz86mqJVf31uL1s/jCn2IpFi6Rsu9lIZPQ/8odPaYmkuyJgopVRpcdGPzIHsbJhoYRZKhtpcPjgg/WZcZOYfieQK/H0KVtSwmRQpqfgoGtKbk5Z5JlMePPD1uPqT+9i3KxMguICiFUt20Gu83tw6pWXce9eWF3RzJ2fiI1+mV+gXA/pYTUoEmLIxFYGkYnfkpescg5phUHD7Gid0qDsrawSsX+/Bre08j0k4lrZCipY8JrnYzpvqQAwM=;vcJqWC1VL7T0Gu+TXhY4Qg=="
 ---
 

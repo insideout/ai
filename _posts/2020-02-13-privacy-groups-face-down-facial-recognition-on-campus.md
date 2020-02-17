@@ -260,6 +260,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_590075333.jpg"
         width: 940
         height: 627
+  - title: "Is Fashion Ahead of Facial Recognition?"
+    excerpt: "MY FIRST FACIAL-RECOGNITION MOMENT—my instant of facial-recognition recognition, you might say—happened when I arrived late on a flight from Europe and carried myself to the Global Entry kiosks. For years the Global Entry process, an accelerated automatic immigration check for prescreened travelers, began with a passport and fingerprint scan."
+    publishedDateTime: 2020-02-17T15:26:00Z
+    webUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance"
+    ampWebUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
+    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
+    type: article
+    provider:
+      name: Vogue
+      domain: vogue.com
+    quality: 59
+    images:
+      - url: "https://assets.vogue.com/photos/5e46c4856d8f97000815dd3e/master/pass/VO0320_FacialRecognition_01.jpg"
+        width: 4068
+        height: 2820
   - title: "AI and facial recognition in 2020: where’s the line?"
     excerpt: "security and AI ethics to be at the forefront of the conversation. As regulations continue to be made at a city, state or federal level, they will shape the extent to which we can use AI, and how we will approach the “AI race” in this decade."
     publishedDateTime: 2020-02-14T10:08:00Z

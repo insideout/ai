@@ -108,6 +108,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "nhOkSVngLvQpz5rIfDy8P8HaWSwUtPstCZpKNTlv7xCmM67NHa2kxVGUBmn6mZzYh4+sEwDcB6gGNrnw9fVibBbhRwQtA9Tj11Tuk+35v82+CtSJeHYo2euka4G7BdWallhAEVwDQJWgzvxuBCrGVG5r3PCM3jR4hFg757qkhSa7CLwWYxq0oXnVHi6WdMhSBEYL6+Hz/mOXhxKY+BOFiXbZBCQ0//QwB0oOctgG8d8CAZuIx4HF+qf2JbsHNemwrmlBgph9jIM3P0NK5GtLx2y8fKaWSHCPRb+49M6N1FAT3dXpg6JTcUuBEy45umH8;gq03rXddonZsvJWN1K8tVg=="
+secured: "QuWgDybUSWCN0vQ1cRhsabF6+BTImaVeqsIk8xZGhsdndoYHQV3XETb7wY2/VDfXZprAOfIAHAgubXuui7ktAozApsehhjhlm/BOlEBqZKdICoIvi2A+n+QHAdE/Wl5IxlA20+YN5bpRMiJVwJdWLIfMP1NHiv8Jo5cbun6o/93j/gIYz56ikkkRhJ757zgN2+xdALPxAvxRQALTlUpmLR3L5mGX0q1tjwquMx2gaXNobdhqqu2I0E/wXqRPxzPCgxUkaRl+nSS1kw1BdXXo/81YZjE/gThyudefME/dmG+v1NpLXZABZVU+Q1DePuV6;yBgaTcd5lAijZvD3/Pa2LQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/costa-group-turns-to-ai-mat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/"
 type: article
 quality: 103
-heat: 103
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 867
     title: "Costa Group turns to AI 'maths robot' to improve berry yield predictions"
 
-secured: "Gc9EHKGTWI6SRGFdVYSr1C84ig4GWwnmo3sE+Sa7nqFIsD9oVy3CAU6Gx5ucl6Rv2oCPnjP1fIVcTUPO1d+1iXopkiqtpJ94FYa6+zm0YjCseUOBlDHnxCG9alGAsgz1AU5iVnKumY+avy713LJPznqi7WD4qBd3WLGXc/Ap8C232lnWOnxEhN+Z2e0JUQpjjUi46Cuso4whcqGHCYS1cZYMemqYbpe0UGLO739fBIK3KWx7tbgnUkplSQ0qgvNCrZCe+tmZmDVX6rKFYAv4qwlSZ4Hc8+Zr1/ctT7p2N1HCwHtmZOvIHIuXwfDI2wNvmSW2Al9jmCwWySpWxHIewN9i4qG/9Glb6a2o2sqPbJUeVi8xmpmIe+/QERaQFjMnV9Tj/dDQLOu4AuUN+EoG8Of/02Kq+uE/C6frzA9R1n3XyaGTpUX9nkZ6mSv6l1iMcnEPwUz2yzFfYeKgZQaWRwyg5fn+WpFTpDmygpLg+uI=;1EI1zUZeS8JN7xNCgjQ58A=="
+secured: "RVQjqT2tUFHFlqBaKJ5AV/CKK01723bNNjNIlhg95rPJ8nE5+Wrh6HK4fFREBuAKBfVDJZW7VlllDLf6fSqYQKj9q7clh0GOGvEpNKjwVVg1fwvReN2yXGz0F2KcdKt7gRTn3EEM8kWkvP6nb7S1aWpDeZltMlTVxsJm4M6MrvrSWw0X5icNgypvV9mI2xR2r0x4loMuUqaKdaCr42tQbYgz2csvk97Xugo1xS/10T1Qx/yQd36mC1KwVQuOlOqTNsibh3ymRc8wIgRgbNCMrXGjxRXWor5Fm3yWkhHVOOYEQM+LGPiNqr7uefT+h2CliGGoQFsCwELfJHFpEcUyCm2IFFjViHVKbBmrQGt3dfVzGKKWyvLYBc7ZDCAD60tGv8EGXzh/S74fzv7drXFhm/bLEUTHPv7pRwWf6pAkN7Qwz1VQjLksikrUO5XHl4Sgq9jvhFbrwQ2wrnzHBJtGoGnpvoeL8rWaonx42hrdFCE=;ACRKOcwnUCwAEUyzsYi0Vg=="
 ---
 
