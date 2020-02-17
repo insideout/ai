@@ -1,7 +1,7 @@
 ---
 category: news
 title: "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal"
-excerpt: "Also helping Baidu's stock in 2020 is wins in the artificial intelligence market and progress with its efforts related to self-driving vehicles. Shares of Baidu got a good boost on news of phase one of the trade deal but since then have slumped."
+excerpt: "Also helping Baidu's stock in 2020 is wins in the artificial intelligence market and progress with its efforts related to self-driving vehicles. Shares of Baidu got a good boost on news of phase one of the trade deal but since then have slumped. Year-to-date, the stock is down 2%, which could present a buying opportunity. Wall Street has a $144 ..."
 publishedDateTime: 2020-01-28T20:30:00Z
 webUrl: "https://www.fool.com/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx"
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal"
 
-secured: "kYBKsmPRdKakXys9/MSTdl3ncnLg2StRdX+v2pw5SNN4Mhf69w3caawDO3PLzQfEd32+HWI8FHpugAcCCNjlEfd1C04VvM5XgE0+0lvIkKqW5LOZuzyqKUPfp2D30f60wvCJefRZlpZq6lYPIWoV9Vg8pyJOIyhgf6NZ6rVfAhEy7A6KdoQcg3jWB0PDN0LG4XQ1+hNI1GcOjhyGzJuTLC4aPMZXv8tFQZkF8KhgryOEtLyfNI58eyt0rINhGrj2v2WPmMUzdMUI8JWL4JCUbl7HRjdi9HTy5Ui59Ae6xFqSacdSddeJ22PkeODUs26x;rKBWPHKVMml6FKz97KS1rQ=="
+secured: "6NATKkEMjl1/e+GW8ukNQg7X3GBQ8vth2gh08HQgZvSy76Taxy5QP+A+fp36NxxXUOkO+Met3hV5D9mx8NBH5a5S/pDBevAiBj6zxVo/iPhtNf60cT7MSszuVljUZm8TR1uE6Ls42DhwneawaqIPq/R2cSD0nAduWA5rWyWOMvrzEko4SwRypdeeh80m15Kv7+EoYxCjVvFGwEY1IKNNh6yN5zW9ApM9TYTb1JWtMQ5Q24J88vHGrRaVD4/mI9DuTzTzWY/H3x6q2vPoXGXLsKa4LD9pESbteEdnmXzuc5gDRQOIygiZH//0DLFgErYa;pDrtnjJy8rTGdnNEAgg1FA=="
 ---
 

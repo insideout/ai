@@ -40,7 +40,7 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 43
+    quality: 45
 
 secured: "CaljstwSgL90MovNxCudIK3CI8GkRlqNDqdZi9ejL6peRxG7chagvQi2yi37sHOSmgB1V+9uKzMbYRr4kLUQpxv44mLo3Yd6RlnW97EfsmS2uQhKesMnC1qAjAnxqarrF/9MB4Ela6jWtwAal4X4muc/KeqfPOJlGGZdPVy4xSQmUHHCTvHQirvGIBqEnxRQOqPSqV+7IHxbCJfE5UT65EiG+wYZA4q1/aZTP9Sj3rD4uciQmJVkkhhioh65dN5dVf0lABUTgXT+YZdVX+3JN+v1rhcNabX6yFh/GofSzzPh3aKkKdND98D5fg/qDlLs7C0nQYUxlwMconYetiQnWExzn2auhFqRTjTS8NxpWp8RbOBPJjfqb2L64XZ0WZIadOkGx0vvFGKzSoZ+5BWh8NjWY+R8hsFuT+dmidS79MAGeybHKYCI+AGqlh8RO62EKUwnU0FgtLKrRnOFbsZ3hw9s28pCgjsFzgLE7Hm3Ft8=;4WRrTUUdOkI3nVROO8uTFA=="
 ---

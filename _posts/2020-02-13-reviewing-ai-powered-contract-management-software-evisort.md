@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techworm.net/2020/02/review-ai-powered-contract-manageme
 cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techworm.net
@@ -26,6 +26,17 @@ images:
     title: "Reviewing AI Powered Contract Management Software Evisort"
 
 related:
+  - title: "Future of management students in an Artificial Intelligence based world"
+    excerpt: "AI-enabled decision making is better than human or software alone decision making. Let's understand this with an example. IBM's cognitive room, an immersive Watson driven exploration of IBM's capabilities and solutions, supports decision making for mergers and acquisitions. It allows the decision-makers to effectively interact with a large ..."
+    publishedDateTime: 2020-02-17T21:59:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/future-of-management-students-in-an-artificial-intelligence-based-world-605826"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/young-hans/future-of-management-students-in-an-artificial-intelligence-based-world-605826"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/young-hans/future-of-management-students-in-an-artificial-intelligence-based-world-605826"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
   - title: "Dynatrace expands its pitch at managing automated management"
     excerpt: "The platform can now onboard and work with data from services running major public cloud service providers like AWS and Azure, Kubernetes-native events ... This then works with Davis, the company’s AI engine, which provides thresholds and baselining algorithms for all infrastructure performance and reliability metrics that enable extended ..."
     publishedDateTime: 2020-02-11T14:32:00Z

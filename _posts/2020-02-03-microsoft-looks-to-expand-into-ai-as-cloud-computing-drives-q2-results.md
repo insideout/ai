@@ -41,15 +41,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg"
         width: 1200
         height: 771
-  - title: "Microsoft's Azure Strategy Pays Off"
-    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
-    publishedDateTime: 2020-02-02T17:39:00Z
-    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
     publishedDateTime: 2020-02-03T13:44:00Z

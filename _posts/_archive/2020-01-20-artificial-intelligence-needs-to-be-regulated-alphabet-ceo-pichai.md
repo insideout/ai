@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligenc
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -37,22 +37,7 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-        width: 1200
-        height: 628
 
-secured: "XtjmijXh5NplAfqfRT+woflN5KxBkKHZwdSe9JYurajgWnzoRhGlS84wRC/n8XPpo/CxV7Xq5u7mI0U+uTYX49K4mIYQtkNtyI3CzXAEA6yvLfYAk2vlhVqvl8PcVO3JDQEZ9vDTNXFQppjQwGeaxV1u6iEgr0YwoMigosTsqeq3EE7RBXcgBvU2EvestBlfCgjQ07yuk1wm4LQIJ/G4A1ZcIeSXly7ODbWo2tqmFTsgPHupSyibpGBHWayapKCv52uHS2ooawq9k4t1gfIdII2za2E7TdT0slBtpA3fS/L1SiLpL8m1kuPajIJG154i;DKsKWGCAbdQRUBxkHnmnpw=="
+secured: "Mqzvb/Av+2a1ndURENEehS8XTEe4+DG49yN7YSEv6c1E0G61bCpPajmtEThKRRUrjFGchxUopPz1U01CP6FN+tNx6Z8Ii8fl9jVAe8zYVDwmpIrfn1EDTVgLmWDpaHmf97kVnVT0W7cbZUloYnyMsQnWj09LfVWGLXB2NloMTl1Ai1BD0jXSm8FnLt2qibtvnr1JByvi33zV8CQIU8MwZTWo3ZguX227c3Ow49Iid2k6bIpxVVS+UI1C2+bH7htcorbiZSZ7eUSuBErDoVML92HjZCG0A3XSI106HexOCOjviJAhZT4QbOwcVm/z1Mgb;WLmFVNcmZkzIgEb2YiEc6A=="
 ---
 

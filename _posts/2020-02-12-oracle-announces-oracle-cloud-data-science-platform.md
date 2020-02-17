@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Oracle Announces Oracle Cloud Data Science Platform"
-excerpt: "REDWOOD SHORES, Calif., Feb. 12, 2020 /PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data Science, helping enterprises to collaboratively build,"
-publishedDateTime: 2020-02-12T13:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/oracle-announces-oracle-cloud-data-science-platform-2020-02-12-8183037"
+excerpt: "Oracle Cloud Infrastructure Data Science automatically selects the most optimal training datasets through AutoML algorithm selection and tuning, model evaluation and model explanation. Today, organizations realize only a fraction of the enormous transformational potential of data because data science teams don’t have easy access to the right ..."
+publishedDateTime: 2020-02-12T13:20:00Z
+webUrl: "https://www.oracle.com/corporate/pressrelease/oracle-cloud-data-science-platform-021220.html"
 type: article
-quality: 54
-heat: 104
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Oracle
+  domain: oracle.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
+    width: 480
+    height: 480
     title: "Oracle Announces Oracle Cloud Data Science Platform"
 
 related:
@@ -58,32 +54,6 @@ related:
       - url: "https://regmedia.co.uk/2017/04/03/cloud-jump.jpg"
         width: 648
         height: 348
-  - title: "Databricks Named a Leader in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Databricks, the leader in unified data analytics, has been named by Gartner as a Leader in the 2020 Magic Quadrant for Data Science and Machine Learning Platforms. The complete report was published on February 11, 2020, and is available at: http://databricks.com/p/whitepaper/gartner-magic-quadrant-2020-data ..."
-    publishedDateTime: 2020-02-17T18:24:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200217005397/en/Databricks-Named-Leader-Gartner-Magic-Quadrant-Data"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20200217005397/en/722802/23/Databricks_Logo.jpg"
-        width: 1200
-        height: 627
-  - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
-    excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
-    publishedDateTime: 2020-02-17T16:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dataiku-named-a-leader-in-the-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301005916.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
-        width: 1200
-        height: 628
   - title: "GigaSpaces Launches GigaSpaces Cloud Managed Service on Google Cloud Platform"
     excerpt: "With GigaSpaces, enterprises can operationalize machine learning and transactional processing to gain real-time insights ... are leveraged by hundreds of Tier-1 and Fortune-listed organizations worldwide across financial services, retail, transportation, telecom, healthcare, and more. GigaSpaces offices are located in the US, Europe and Asia."
     publishedDateTime: 2020-02-11T14:38:00Z
@@ -94,6 +64,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "uXiINUzLBRmmaRWRHEvq8nmqew4GlzVcFq3M+SR+QD/1zN/EQunK3bSea6Dva26jhGNqdWzSCR+y81zIwTMdLgWm8v67hvzsvBN0YMvt33pgq7NGdXDhe0zhcVxvPUxzSJOI8cm8eHfcmvoVb7gQBJbxhbCZee/i8wgrsnzG+adivG3EbLNi/dBLgEJKiz4eCrmu3n2bJYOIHRd52ViY/MeFyECut0uDKDqvGsvvbxKrynGSpuMZEFLRefYaJ5xjkW4lbaX87cer3azZMlq0l14c/dTqBlHv+h9pAjv+PpQMI+R7d8AQ8dSh8Z/YWjQT;mCLjZPfZTXFGT5/9sLq6ng=="
+secured: "RnVFs+RNOm6n/xbUyccKKgO+mJfJ1d2efo6FsrnsntRVSrjAILRJvBbSF8DmiC58ZRigpW4pas3Dj/Z2bMKfG6qzTTGi9AHD35Rqsw6HBemDaOgFh7KuelMh373sV24a5O3WQtTHMw8Y7WnrE8N1g/jAJAYYNR3WGtPZBqTbizvAN1TpRPsKFsohQpkVv+UTXOK26yIhnnRvhJX/HT9RNVV0gq0avtfKjJNF5Mp4KmJpdKYqbpNFr4fL/TblwbLIXeM5I9jvxPSF5RjHftybXJhpMkx1uzfLmVDQdKorp3hjQDtcdfoJJFX7DT2vbNsw;3jPoorZRxcdpBPTZVlKayA=="
 ---
 

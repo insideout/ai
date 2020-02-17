@@ -7,7 +7,7 @@ webUrl: "https://www.datamation.com/artificial-intelligence/top-machine-learning
 ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
 cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Microsoft AI
   - Machine Learning
   - IBM AI
+  - AWS AI
 
 related:
   - title: "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings"

@@ -625,6 +625,15 @@ related:
       name: CBC.ca
       domain: www.cbc.ca
     quality: 19
+  - title: "Lawmakers Float New Restrictions On Facial Recognition"
+    excerpt: "As controversies about the use of facial recognition continue to swirl, lawmakers across the country are preparing to tackle the technology. California state Senator Hannah-Beth Jackson (D-Santa Barbara), said Thursday she plans to introduce a bill to prevent law enforcement and other governmental agencies from using facial recognition ..."
+    publishedDateTime: 2020-02-17T22:15:00Z
+    webUrl: "https://www.mediapost.com/publications/article/347130/lawmakers-float-new-restrictions-on-facial-recogni.html?edition="
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
   - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
     excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
     publishedDateTime: 2020-02-13T13:03:00Z

@@ -35,6 +35,17 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2020/02/evisort.png"
         width: 1200
         height: 675
+  - title: "Future of management students in an Artificial Intelligence based world"
+    excerpt: "AI-enabled decision making is better than human or software alone decision making. Let's understand this with an example. IBM's cognitive room, an immersive Watson driven exploration of IBM's capabilities and solutions, supports decision making for mergers and acquisitions. It allows the decision-makers to effectively interact with a large ..."
+    publishedDateTime: 2020-02-17T21:59:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/future-of-management-students-in-an-artificial-intelligence-based-world-605826"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/young-hans/future-of-management-students-in-an-artificial-intelligence-based-world-605826"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/young-hans/future-of-management-students-in-an-artificial-intelligence-based-world-605826"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
 
 secured: "JDWXTEcjHjbvYpVpaG+WvlmMAbaWarvY1SeqOCUTjO31xYr3u7KdHm8lRBYCjy7PZziQpuEcK9KhQTHkF6gpR6GQJPn3IT2DH6IF3XQPQ3KDoWb3vNpADRDNXY4TaJMITGZJO8b684lMpU9f2r4bB3DziBwIGSHcRYJOOWjSOILrbt5uzSTc1kFC8YfZeWA9s7TBPJwuw+WjRwi783GW3sBFLsAN9KybUn+kd33c0EvgYj21ap50a9KKaZPrIE7peazZKotVVVcWeLxhXIlwZ9Xn4XLjtvOVoG7HfbEpVJxKmltcFRGXcOZPopkiNsq5yVT9Ffb7ciebEAVYCJ4pQFH1zwk2WGQeqFtctwbthlni3dh2Hi9F/DhmnDJ/mvxdAxaHysG/B58IhYWD0MB3rzMjEW2srA0n9x2xeJB9ev8LnJkGYoSdxkx3i+GWXSrEsOLms+cU7YMNTzF44eG7tioRBQvQ1R1dTacd2nOaH1s=;sYdIXL68GLF/udBSFjjZbg=="
 ---

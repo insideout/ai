@@ -56,6 +56,6 @@ related:
       domain: finanznachrichten.de
     quality: 9
 
-secured: "3f3RHxnK4OW59Gn8pv3SxZ53FDtAwijBfEIyIhNvNaeig3YGPF+XYtYKciqnFbE5oL8vMpX9+LOR9yoHWfZtJPGh9qBEmZkfsDXcnxeIohNebluvpQleR+SjC0Uv9HflEPFfhG/SdE3U49V/tdc7ytW0SYQUjCXF73vdS/hGTT6AdegVP6rxeHuwSzOPicbt8hN9jw18uHSEheeeki50RpCVMJ6NhZxth4eMvC+zhfqQJG2TJwlICp+Z7wR7x+VFe5SNbqv1AL9bHlLIHK9AVgt++dWt5sRYyZoi1C5lwDdVG3WFRndEs0q/8q6KT2X4;L97sR2AgPxO9ktHTt9rCUQ=="
+secured: "ioM/6sxEFf+Dr4VQo0U7nlY+wwjbr/5p5Wa7T4DaZgv3VuIXK91aeIbSlO5Pk8LvT6+MwLnrQH5mEncxNCMU1k9fcjX8E5dGbPtLwFFGJy2VMtc9ecoC5nnW/Zg0txHOeaq4qmGJOcA/68WRdT/d6Gp4blWlTFtkVv1rtJRrfhc8uwRsMKY7Ygqrip+7RC4hwkCKYuVR0tvMQKkihODPLnERsKCrUgRS43Hhg5Y3pHF+L17fKulbCBW4yFvODpIe2djeHki+D3I8p1CGjhiGy+02Y0LAxzAu27efk07+onjuKERfnt48DFTEiEmV1WCS;CcoPxtmKWgrdsJ5RVbvQMg=="
 ---
 

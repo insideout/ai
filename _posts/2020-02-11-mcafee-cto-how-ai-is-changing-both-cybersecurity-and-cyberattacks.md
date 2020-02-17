@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-bot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "McAfee CTO: How AI is changing both cybersecurity and cyberattacks"
 
 related:
+  - title: "How Is Artificial Intelligence Reshaping Cybersecurity?"
+    excerpt: "Cybercriminals are constantly growing in number and sophistication, leaving organizations in a tough spot as they align their defenses. Artificial intelligence offers one way to address this challenge. At the CDW Protect SummIT in San Antonio, we asked security and IT experts how automation can help them protect their systems and data."
+    publishedDateTime: 2020-02-17T22:38:00Z
+    webUrl: "https://biztechmagazine.com/media/video/how-artificial-intelligence-reshaping-cybersecurity"
+    ampWebUrl: "https://biztechmagazine.com/media/video/how-artificial-intelligence-reshaping-cybersecurity?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/how-artificial-intelligence-reshaping-cybersecurity?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/Joe%20Evangelisto%2C%20MercuryGate.jpg?itok=J1p8ijlU"
+        width: 1440
+        height: 500
   - title: "Adversarial artificial intelligence winning the cyber security battle"
     excerpt: "Artificial intelligence (AI) has come a long way since its humble beginnings. Once thought to be a technology that would struggle to find its place in the real world, it is now all around us. It’s in our phones, our cars, and our homes. It can influence the ads we see, the purchases we make and the television we watch. It’s also fast ..."
     publishedDateTime: 2020-02-06T09:43:00Z

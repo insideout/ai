@@ -106,6 +106,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "wViKujNFf7aBalwHYkuaY8qms5p2DPE4vwOAmb+6u40rNxRptg/+OKMGlWxpz9FloC0h/2t9aXLKCOXcghHxVTyNgskI8az3flioQGjaheNBoByfcEstQQBec+xSWgMFzqIdjWxaAdPQ1g3i4KVBNo5UPdv3XUQbXWp676R1OqKjhxL9qJkKz6pffyWUFj3quJxmlHhzarXzNICt7NaVMCofeWKhq6Ov0GoV1+tuDMb0PLe6iy+zfEgy96xSqRpHX8Oc2NU+Hur9awgeoeoP6kXHH6i71/pbHTqgt6zAaFF1RXFvVf/bI2cju/NzHQxN;n0pSYHS3KLaeFguj8R1rpw=="
+secured: "GLEikybABq8z0uygxRoGOOfo+FPqyDUjIFXQeuO/zkJHVvsoxw5g8kILTDrp8bpbrBSfZCLCZdA+K+hGasNWUKLb4NZJNxsPBKrsT51jjBI/hbzxcL9o7pPN0eUnqUQyX7w2BfDqZIAtQt7QFxhyA9wMZlcNsVDRDEpws8cXCw3FPHmG6sGgqg5GObQwikniJ/yRtNzochN3uqHdR14PPAkSCrXJianmbTHqW42+cj+dZBInFz//Ma3fLLUczUBZfR1t9zAm7LVZFnTb8lt6x464MKsRhKktih4/6y7bAB7Jwv/KKRnxkuB/FCXrnQag;QIXNzye0XAB3immRwdym3A=="
 ---
 
