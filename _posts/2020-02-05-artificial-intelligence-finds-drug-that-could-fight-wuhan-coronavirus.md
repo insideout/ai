@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T00:08:00Z
 webUrl: "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6"
 type: article
 quality: 137
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -49,19 +49,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
         width: 1242
         height: 708
-  - title: "AI, 5G help fight coronavirus epidemic in China"
-    excerpt: "As China continues to battle an outbreak of the deadly novel coronavirus, some of the cutting-edge technologies from artificial intelligence (AI) and 5G came in handy in the nationwide fight to contain the virus-caused crisis. On Saturday, the Provincial Center for Disease Control and Prevention (CDC) in East China's Zhejiang Province announced ..."
-    publishedDateTime: 2020-02-02T12:49:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178260.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-01-30/9fd8b87b-e675-4089-8601-8034ae4dc9fe.jpeg"
-        width: 500
-        height: 300
   - title: "Drug makers are using AI to help find an answer to the coronavirus"
     excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
     publishedDateTime: 2020-02-10T13:00:00Z

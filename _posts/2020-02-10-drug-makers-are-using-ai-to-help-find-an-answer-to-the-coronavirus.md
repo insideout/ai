@@ -62,19 +62,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
         width: 1242
         height: 708
-  - title: "AI, 5G help fight coronavirus epidemic in China"
-    excerpt: "As China continues to battle an outbreak of the deadly novel coronavirus, some of the cutting-edge technologies from artificial intelligence (AI) and 5G came in handy in the nationwide fight to contain the virus-caused crisis. On Saturday, the Provincial Center for Disease Control and Prevention (CDC) in East China's Zhejiang Province announced ..."
-    publishedDateTime: 2020-02-02T12:49:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178260.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-01-30/9fd8b87b-e675-4089-8601-8034ae4dc9fe.jpeg"
-        width: 500
-        height: 300
 
 secured: "Rvpdv5Az2gkT2ag0jNHJVQe2GIUj/wPtWt2LIB3wvINH4NZPohE7Kcvu4qC4aJW0hblizdJLhZ6v0K9eQwl+WqpoXVO9cveiXF1+Iyow8ey7Pgj1R9CsvFNlhlgM7EQPLWs9dItcKhGCbhm0m/Cdtg26z6jwRBcgy2toptL+SVdPHdkDYeQyCmzudoOfsjlQs6USQpNItaDEEMWZ57TpQJYVk2kB/YC5e/4bVjxdMA4J98qkQHm8G/4cOHyrW2T3YodGeBGzDD1MsnHbB0W32FO5SEEV2ngMisSpPV3B5S4K4AVQU5bQio+i/MzdmvfKYgoRBv6Z43Fd1dYv04Rq0A+rlILiAJ9K5tEgCzzhGtOdMfvq0O/c0hrK7xxz+Vdq3DKsWGR+rs9f/kNCuLxdJhlv6Vu8+5lFkk7Xyt5Z9tW8ysp9r3zTN8RfPVYupMp6eyzCUPOJWzLVwJ8iRnbjDItw27lEAwLRkl30dYBqOrw=;4izEXHtopP80w9tS5A+v/A=="
 ---
