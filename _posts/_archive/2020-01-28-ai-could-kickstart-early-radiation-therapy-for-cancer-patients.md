@@ -36,6 +36,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "hMIKbl7DZhi3Qc/kJ0VOc4OSb2+HKTCnYycR8IcKHqf7FqhiYxhJd/FMW2rJO1xljQK7jK86WBcqr350+Er5m2ZTHmP6mIgRS059NbRjNNsKhhYsgxDkJJJlf1nLAXmsacL1OTXLlT3oxx2mOzv954M/qC8Kfycc/ScjIK+Adz5vNZt3UZW4Fn1PKzgA33ECLAp4txVepOkj7LS3kPqvE0SbmLzAwB44k5W70tK9r7UF1+6QM/xJuQi7LOWYZrESbXMgd3HTdC/QGgyObPAokYVp7E/W5ml/PFGtvyi5XJoK9PFK8sPl+p9IVu4aMv2a;98wMnqqbQCZVQWM/6dNtcg=="
+secured: "gYaox1C2U6o7zQpbqjebpTa/CmtAe5/0Fbzw3/7gF8bkG7FQB2BDMclOUkAnDDL9dtq6ZCAonbu6CgS9Tab3/yEFKN6ffHNvuyJvhUaQ6Xq4vS13Rf7hBeWSAMcywZSWDlebOCDn3e1O/RjHoqkE7bcArcwyfbnKxpATJnDiFyhem6ceIubfHMHpHJ+i6zPkXZV5PhKGQg8rvcDDxAouvH0pXcum3lSquuiTtQfQDAqp3Y2LDbCGYGm+LpOQoSsqKWSe5N33EBqCKwl1g3t1AnnUX+gZDIDbzAbT/huehAGU7VuGfCsvthXy3QBH1IvJ;VZTRXcatcwlxHED0XEk1OA=="
 ---
 

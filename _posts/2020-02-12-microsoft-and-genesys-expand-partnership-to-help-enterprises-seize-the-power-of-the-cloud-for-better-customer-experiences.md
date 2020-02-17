@@ -3,7 +3,7 @@ category: news
 title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
 excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience,” said Kate Johnson, president, Microsoft U.S. “By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft’s ..."
 publishedDateTime: 2020-02-12T20:33:00Z
-webUrl: "https://apnews.com/4e004449ab1ba5e3aa9456ff715f95ac"
+webUrl: "https://apnews.com/PR Newswire/4e004449ab1ba5e3aa9456ff715f95ac"
 type: article
 quality: 14
 heat: -1
@@ -53,6 +53,6 @@ related:
         width: 1000
         height: 667
 
-secured: "apG4nyKeUaDkGjzqoQhjo0bXdf54/rOdOFmGqUZg4zqN9W2DiMs8UCDuo9QZov91U9wcyaR4v7EX6MbO8FwsAyEz5hOkpUFGIsIVtkVb0AMlwiKLKyKV92dpDlvIkFI7z9NJ4EchYcbBy3aRhz3Jhy4pnnTDBEEfvlqEaX2T7QhgWfK62cLF2KBsTX75Nrid8jAnoQCh8N7IEw0muFQ9W3SSESFwtl2pJ4JobJQp83sDz+xrg9xrcHH9/9dw2WifKHB7OOICpQBr22GK9P15zW19NIeT7dphYykiuvmTsk6M4ZGoPKZoTPwb1NsWKr9V;1JZJmtRZE+3Lhfb0nkpPLg=="
+secured: "0L/CpdbaegRiYYvYZHtXHBzY8F2Xb3JIWmOoPyZ9w0GT8oOijG0BqTE0qdJPAW/BVIPh8TylCujn+vpGFkxQnQhzSa7YL9TRWfO/rzWUjxq1Ri7zd4xeQM/qjEYGa+BGEPUGzJiCTgoI1Rm4syPBuCleEqmY/mw7MrZ2JlUh3w5SP+VLNbS2XZsuq4U9DMBfrGv5HJbmYSu85cc1GxUSTzCaoKn85nOiB0LSP1shXCvghUChLDMRQ4Yx0BO0iE+BKm9mgh+5Av8Jv2nSz2YpQFvpw+aUQDoE8j+rujaRNAGg9zx3NZ3biBWTl/qlgwxh;K2MW6/MwpnhMleZKpziNAg=="
 ---
 

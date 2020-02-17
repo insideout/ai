@@ -538,6 +538,19 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 28
+  - title: "Civil liberties group warns about face recognition system considered by Florida law enforcement departments"
+    excerpt: "Civil liberties advocates are warning about powerful face recognition software that could be coming to a police department near you. The Tampa Bay Times is reporting that about a dozen law enforcement agencies in Florida have tested or purchased a facial recognition system from a company called Clearview AI. WMNF interviewed Nate Freed Wessler ..."
+    publishedDateTime: 2020-02-14T22:14:00Z
+    webUrl: "https://www.wmnf.org/civil-liberties-face-recognition-florida-law-enforcement/"
+    type: article
+    provider:
+      name: WMNF
+      domain: wmnf.org
+    quality: 21
+    images:
+      - url: "https://s3.amazonaws.com/wmnf/wp-content/uploads/2020/02/RNC-surveillance-camera-Tampa-SAM_0145-sk-1024x576.jpg"
+        width: 1024
+        height: 576
   - title: "Poker Players Are Asking for Facial Recognition Technology"
     excerpt: "There has been a lot of talk about the idea of introducing facial recognition technology into casinos. Proponents of this idea have argued that a facial recognition system could unlock an array of benefits for casino owners and players. First, it’s a good way of tracking patrons and signing in VIP players without a fuss. Casinos also have the ..."
     publishedDateTime: 2020-02-11T16:08:00Z

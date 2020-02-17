@@ -544,6 +544,19 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 28
+  - title: "Civil liberties group warns about face recognition system considered by Florida law enforcement departments"
+    excerpt: "Civil liberties advocates are warning about powerful face recognition software that could be coming to a police department near you. The Tampa Bay Times is reporting that about a dozen law enforcement agencies in Florida have tested or purchased a facial recognition system from a company called Clearview AI. WMNF interviewed Nate Freed Wessler ..."
+    publishedDateTime: 2020-02-14T22:14:00Z
+    webUrl: "https://www.wmnf.org/civil-liberties-face-recognition-florida-law-enforcement/"
+    type: article
+    provider:
+      name: WMNF
+      domain: wmnf.org
+    quality: 21
+    images:
+      - url: "https://s3.amazonaws.com/wmnf/wp-content/uploads/2020/02/RNC-surveillance-camera-Tampa-SAM_0145-sk-1024x576.jpg"
+        width: 1024
+        height: 576
   - title: "Poker Players Are Asking for Facial Recognition Technology"
     excerpt: "There has been a lot of talk about the idea of introducing facial recognition technology into casinos. Proponents of this idea have argued that a facial recognition system could unlock an array of benefits for casino owners and players. First, it’s a good way of tracking patrons and signing in VIP players without a fuss. Casinos also have the ..."
     publishedDateTime: 2020-02-11T16:08:00Z
@@ -609,6 +622,6 @@ related:
         width: 300
         height: 250
 
-secured: "wquBDi4eAJgNWCnuSS5b8/tZwuyPMuAjXASuGWwsz9q1rSdRzIoapX68eCt1EnjTHI9dvNKxJl51kJZuGbJwWcLOd1MHFOi/j6QoDK/ELba+ltD3GKUZ4eybsjiAqHy8jN1dJ+9WHJmjuga6hHdzuf5m6gCG9aF8EJ7mVn2XLIM3YLy2fJjzbj6qcdDDYXg6jrQXr7avHxpuASQhJi7UcoGkDaoBqPJExwVw4UvYOgLPJwN/FgM/G7xp+gA4F2Wtk5NHVXz1oG1affJqjvTyqEN2h1X36efWpy8qU+ltjztp7c6QqVwXZGajdgt4bsoX;bGrnBKwRVqffdI8GmYaJsA=="
+secured: "ac9Us0f3KuoPLkVuxmoifruPyiWzRM9/5Oyg/7wFmmJXOYChyMSM4VTIhzJe9k3DuD0E2s2NG80zpl/r9rki1UO+eLFQ82vtY/CBcQyGK4t72WaRXmQefYpIkieqmfjnp5nNeACQZYf8b0IT6qApj081h2WMmoL2umUZmKkSkIKUgk6N4VXMOBoPFyIC/2ZRW8C3aszQbu5Ses0wg1dnsn6M9v4UbJQWkKXBvzpF6tJ7t1q5AZU66eeoxRaFjp7x8Yf1QfS2aDAf39+nBxRwtyOAD0c88T24fzf1j8fVPxvm0xqb1qPSdfBXedK/CWGRdN9JscumPTSltkH86RurD+PzYzc5GMP0VYuVhSKLWqa3Krl9RHhIrS96Qs9iuFxoPLDXfrjh3GMjuXMD2GJygB+yuEI74mCGqnWarrML6QXmUAyUNOC6OhOr9VtRiS08lT+rv9fgxDC8HBNfZkDuoIWHaA/GW9311OpAYvJZ9aU=;hfm3Zlo1ipmWAxbCwI+EJg=="
 ---
 

@@ -538,6 +538,19 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 28
+  - title: "Civil liberties group warns about face recognition system considered by Florida law enforcement departments"
+    excerpt: "Civil liberties advocates are warning about powerful face recognition software that could be coming to a police department near you. The Tampa Bay Times is reporting that about a dozen law enforcement agencies in Florida have tested or purchased a facial recognition system from a company called Clearview AI. WMNF interviewed Nate Freed Wessler ..."
+    publishedDateTime: 2020-02-14T22:14:00Z
+    webUrl: "https://www.wmnf.org/civil-liberties-face-recognition-florida-law-enforcement/"
+    type: article
+    provider:
+      name: WMNF
+      domain: wmnf.org
+    quality: 21
+    images:
+      - url: "https://s3.amazonaws.com/wmnf/wp-content/uploads/2020/02/RNC-surveillance-camera-Tampa-SAM_0145-sk-1024x576.jpg"
+        width: 1024
+        height: 576
   - title: "OPS tested facial recognition software, but doesn't use it"
     excerpt: "The Ottawa Police Service (OPS) has tested facial recognition technology but hasn't used it, according to the force's deputy chief. Deputy Chief Steve Bell confirmed Ottawa police concluded a three-month pilot with NeoFace Reveal in March 2019."
     publishedDateTime: 2020-02-15T09:09:00Z
