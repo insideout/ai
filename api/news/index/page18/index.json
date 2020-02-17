@@ -2,6 +2,50 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-27-an-ai-virus-warning-system-mac-malware-and-more-news.md",
+      "title": "An AI Virus Warning System, Mac Malware, and More News",
+      "excerpt": "The platform, called BlueDot, uses an AI-driven algorithm that scours foreign-language news reports, animal and plant disease networks, and official proclamations to give its clients advance warning to avoid danger zones like Wuhan if possible. The sneaky ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/wuhan-coronavirus-ai-mac-malware-shlayer-trojan/",
+      "ampWebUrl": "https://www.wired.com/story/wuhan-coronavirus-ai-mac-malware-shlayer-trojan/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wuhan-coronavirus-ai-mac-malware-shlayer-trojan/amp",
+      "publishedDateTime": "2020-01-27T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e2f670665c5340008a008d5/master/pass/Science_techintwo-1196094969.jpg",
+          "width": 2300,
+          "height": 1533,
+          "title": "An AI Virus Warning System, Mac Malware, and More News",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-27-apples-200m-acquisition-of-xnorai-a-snapshot-into-our-ai-on-the-edge-future-via-your-iphone.md",
       "title": "Apple's $200M acquisition of Xnor.ai: A snapshot into our AI-on-the-edge future via your iPhone",
       "excerpt": "Fast-forward to today, and only the almighty camera receives attention. Apple's acquisition of Xnor.ai is the latest move in the battle for phone photo supremacy, and AI-on-the-edge is the weapon of choice. What is Xnor.ai, and why does Apple want it? Xnor.ai's technology enables you to run deep learning models on edge devices, which ...",
@@ -936,7 +980,7 @@
       "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
       "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
       "excerpt": "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ...",
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
@@ -2110,50 +2154,6 @@
           "width": 2000,
           "height": 925,
           "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-meena-is-googles-attempt-at-making-true-conversational-ai.md",
-      "title": "Meena is Google’s attempt at making true conversational AI",
-      "excerpt": "Conversational AI is a catch-all term for natural language models for artificial intelligence that can interpret human words, speak to people, or carry out tasks or computation with natural language. But talk to any of the best-known AI assistants today — Alexa, Siri, Google Assistant — and they’re not exactly conversational. They can ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/",
-      "publishedDateTime": "2020-01-28T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/google.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Meena is Google’s attempt at making true conversational AI",
           "attribution": null
         }
       ],

@@ -41,21 +41,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "NYPD pushes back against facial recognition ban"
-    excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
-    publishedDateTime: 2020-02-02T07:20:00Z
-    webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
-    ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "City police eye use of facial recognition technology to fight crime"
     excerpt: "City police are assessing the potential to use facial recognition technology to battle crime — and the privacy and security implications of such a move. The Edmonton Police Service is currently in the process of “project assessing” the potential of using facial recognition to help with existing cases, police spokeswoman Cheryl Sheppard ..."
     publishedDateTime: 2020-02-02T11:06:00Z
@@ -120,6 +105,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "V9S7XzrYHQvAZ/d78g4oCcJuA5WUzRl0iFYwX7/tS/eZj3BlQsGPNeilXFU99oeWMTZhM33Wl3NvgVwbkidQxvX9SozGe9DuKl4vz/7IniAaz0vCMsvgC44eqk+0ZrvCeVv+4xdx9/AHjxYkQzfYayVAuu/05jQBd1rEefs1nr3uW25zsTYm0qdNVFXIsHzmYS8FX7XwZn/Wzgr1gGtRBAuXBU0ddI62qssNXNmRbWv/6+z3dmtN0IbU/8T0T3cgy63zvY4dIu43nyQc9pJRObTTe1cIuMzSaMe8eHWcRCoJcAgn/CvfldSN7OFzb33w;fARGtjzDG50ZjPOoNuC5hQ=="
+secured: "3LXKEMP2LUSo6vOZBdjq1vrRHTDN+a3SQnODTmz1G+iIwysh3EUl/Gk9zEK/D97E4ESjqxRFpHV3obWcauXNuLvLPYOV+HlZ0HqvZSwEIXj1qxPKm5oQShn/sxwbXJuYYfW+5S+iT957cLGN+FYwP8UflIl1Rj4Andsxzj3cRdYUEobjpBAczdp5BJLRneCnm3vgjC8Cn5wOdxiK6RBwA9NZKBNvy9l6MTqaEpldcJKHcwBOr6AUawIaVLyGIwod1BnASSof5VxP1hXog6rSuwiCXHCIa9usmvuI16OLsfDK9BCOgUWbswo1SWyVNNY1;I4/2hZ4dXBiFKxWXFvpDnw=="
 ---
 

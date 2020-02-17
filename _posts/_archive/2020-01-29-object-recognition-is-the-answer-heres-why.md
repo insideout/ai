@@ -53,6 +53,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "l58Uyf2W5rsXKotI4fQUyaxM+L1k2iGiVeDgOT4PeJloj4OMI/a8ZmfocgSxtP/equcc54ph2+5hmMsAtgjY/sFBijmsJ7H1GwAqhPVdeH+hJ1ZWzXDzChBKH4xRlx09vP/sWekUMrZXddho4cRucNqECrmsMW5hlq4lt4/dziwJJvInQNkgvoHYdGY5ay8uEQIpjBsk3wbybB+VIikrQTm3diaxfS6g4BeaJR44svDjDZl4CyXrxcBThu2y6PJl+OCcCOEDZ+WTMguPEfBSvs0g8s/gw0TtGplfvdzBWsbVsW9vvqUcoit19fYtvuuu;bRCLNkQodVxptJoGQQC7aA=="
+secured: "FVMH0hjy43s+aYW8MKFw1F3Fsv/1wXrg9BjCI9r2IZHU6q9qD3EaY5qeldit0WJ78CIkcouaBkb6XeAFL/ZApCOMad8P0OzrCD/RyEdDKvBrPVlJ3tiwF707CV+q5WVszOz+zub+acRWIN3HlKt250ThfCCTfhMB6zcASTzBA9Aa+LZYAsCwGxX+YM0e2xLqh+RcJ1PSOj/Amd4gNmUkkwU1vAQuikfsDFzFIeUL/f6/s5iu2Qq0cI8xCKNKfmWh9GAsTX+q/PcG8AhBqZHLcxdK0czEwRMiO5KQ8Sx2ZBD/HsXp9Q8PSN01TENYBraf;GKFgsjxYTrN0RGHORwnY0w=="
 ---
 

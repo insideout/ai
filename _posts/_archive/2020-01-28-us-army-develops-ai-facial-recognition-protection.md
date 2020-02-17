@@ -39,21 +39,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "NYPD pushes back against facial recognition ban"
-    excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
-    publishedDateTime: 2020-02-02T07:20:00Z
-    webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
-    ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
@@ -120,6 +105,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "cLfwFNDul0NrP4sXejHFz6sXg2+xfKb1hVGspOfMhs0WfEhmJ/qgT0KoGHYUpOvZwI9qvxQrl3RgMuEUbFZk2EUyy9XbGQMeZ/gWviBlXVYLOOu2bv+6QaFKCfJJeRyf4GriUvjlpc7BYVMhKXORE1v86u4Wons90tRDjoButy3VXpDWh6B+wYCz7B3DUZ9dq34FF26wuV0m9C0T3v16ywC9gaHOzROpVNTlWQv4G52vfyP3gVYyg80cetlLsEhIvsVN2/nBXm97xIXYsvZLbZSy0Nsf/WYuVPyraFRiketVusQJHhjtI0ZHpCihS9rG;gNnqHaSajD6EpYVjmOCDSg=="
+secured: "uCJ/b9I6C6/ay1KGa87zIe/yGdYLIxdbOSvmcCJvPJ41nk8WJXf2H3/i1LF8PwN3bxeZCdWEUWHnTe7cG74j9kCRsZk/R7aaarussIxGaQ2q7egPQ/TOH2ud+CVI5CQdkL9OvySigplhMoMGta0OSDSMYt7ctpnlWK47nKImOOMjIpcFjx0bEYwr3QWq36pPba3I3+OT2l7WDOD7OcLgE+4F4uCbtG+tv+01KZGz4uxhbhB3wui/WtH8s2+D6JIDeD7WQI+TxRSKodKjr9y9BgLY+IY4mmI+nj9iczQONzp7rgYO7Gy5Asm2SK7xwwtK;zPmjtp5SY5WBcPcsk8NnVA=="
 ---
 

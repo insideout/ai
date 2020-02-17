@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
-excerpt: "At AWS re:Invent 2019, CEO Andy Jassy outlined a vision for the cloud service provider, including its artificial intelligence service, a stack made for analytics and a bevy of purpose-built databases. The broader message from Jassy, however, was that AWS will be relentlessly innovating. Jassy also took a few thinly veiled jabs at rivals like ..."
-publishedDateTime: 2020-01-31T11:00:00Z
+excerpt: "AI, machine learning and analytics are the upsell opportunities for Google Cloud Platform ... (See: Salesforce plays multi-cloud game with Microsoft Azure, Google Cloud as AWS contract likely up for renewal) Alibaba has scaled rapidly with a bevy of enterprise partners. What remains to be seen is whether Alibaba can expand beyond China."
+publishedDateTime: 2020-01-31T11:06:00Z
 webUrl: "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 type: article
-quality: 112
-heat: 112
+quality: 95
+heat: 95
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - AWS AI
   - Microsoft AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 557
     title: "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
 
-secured: "vzwd0KKz7jACo/OMmssVgwxJ6cKcPGnFZeBhcZP8VW9s47ZRCdcDcnnmyG+JXnhPGxEWWJzKKaQ1ot03aIRGQ9k1OThlurndv+J+hri8Lp8IEMUaMeaAk1BrKvLBGDdxqwpJocQsGlDY4ao3OLhEAA1u/fEzOSAW/VKE72H4qwk4nMx0hpNGn2LKn49pqOsQSrKYvJGuvdFZ32Ho6aVOpzMV6YNnX+DMBhk83poqxkYzdhbnPjqvLAXJ4ZfcTZ0kgYux2wBEBDtghUTMjKx4OosE0/0iy3hqc5OIX2qRFRb5euwwFDQ++LCaEYWdre4NGiFFbcUauL/FhMbLIJABpMNq+w669JfbiIioPyWUq87SWAo75NJhJd4fD4uQiyegrmxx7e0u5/Ih8wAPixqejsTWCPbTDq5VTnrK/K+1SkONV5MCBUTY8gXt/HlOgaMFvntxYvROuqxZ+RMHp7DvlbgfHna/s4PDeTN7EeANE/I=;3G2jfCXwhHwl8eF4OKjQrg=="
+secured: "NIKb9tQ5acDHShGbwStV5C87Le2ufRxRaV6UYwqPnuOXdD79pjRnwyTBX6pD2A9/SrMEzHIogkNv65lKKNqdLXGLOSVjGAkM55oDlydswsU2l+rfyuKdtOYhx4jo1zyNsHAlshiK6RzjuxchsmFbzvV90RMmRgUXdc7e23oswNQGQP45uyNtF5Tc9kqKHRIl7w3mErFyjGH+veo0d+OwPsBYfKxQ/xLTy1NoD84AK9CCPX1VNdCfLHrrXfZqqHzEwmkGcvg3iH/SJDoNchRmgyOP8SogOKwlZIcnRT2Je1Kq9rOzRYDyBcj4qfR7Iw98;7ubTDPEB4EUqjl6Y7PK81Q=="
 ---
 

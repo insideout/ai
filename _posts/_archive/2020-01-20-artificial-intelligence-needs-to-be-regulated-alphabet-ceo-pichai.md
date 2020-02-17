@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligenc
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -52,7 +52,18 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
         width: 1200
         height: 628
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 39
 
-secured: "JJ8ukitpC+3V54Sn+0pDj4LpoELGy4vO8F49WscW2xW36PboG5jmfOQtB3gSAblhzEkyzOtQzOjUeAzFmfzAOBDZARwewyk7DNVCIFDi6EbnniiYSeWi7pO6dnOIwhOXUaN+laXzA3x/hZY8BouOfzwIVF4DkI0YxqmYweQzIXa6AF8tUuiUD/vt5zH7PM8ulYlKNtu89dmJrWIuBrhwCsA9ops7fblBggyPvy7+2re1vljHCoKlh0bO2doBoOC/+Z1e/JKmALRzbAS93yR1ONDlg97IoOE8DxVjfAPYjKfMnNNn7BKR4+KqJpBEBfEF;xefAqC+jMF6Z0jA8e1biLA=="
+secured: "CoKOfeJqEbhgihMuswTNcvLV532EpBaTkbPkawCgfSzkPDWl+RJ8lNJkadJ9rI5NK0fBB+hf1ejc1srIwaiW+FV1snx/TzKiaHOyS22eHlnNx8rxfv48LODwvN7J2+cWxjqWNkzCsqLBW3Yol9LKBn/Y/XAtZDhVVCKsHTeHs4D73tWA3kW62XSxA90aJBFab3I1Nn4S+ofNrKwg9l+NIXCbKXreT01qrDlkRkXmwuP9jzRBI4Qhq348E9DaMfPnpo1INvXCxgdj8sLE5EVWjdwK9r/OPlCeOXUqHdgKTg6dnKLzGOEu6e6XMJvPpAwn;zFH3HzJIeI8W+lJ2/gqFHw=="
 ---
 

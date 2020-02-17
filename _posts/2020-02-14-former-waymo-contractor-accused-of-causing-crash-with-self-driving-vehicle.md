@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
-excerpt: "Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles."
-publishedDateTime: 2020-02-14T00:05:00Z
-webUrl: "https://www.azcentral.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
-ampWebUrl: "https://amp.azcentral.com/amp/4755099002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4755099002"
+excerpt: "PHOENIX – A man who previously worked for a Waymo contractor was arrested on suspicion of intentionally causing a collision with one of the company’s self-driving vehicles last month in Arizona. Raymond Tang, 31, was reportedly fired from Genesis10, a staffing agency that contracted with Waymo, prior to the Jan. 30 collision in Tempe ..."
+publishedDateTime: 2020-02-14T00:02:00Z
+webUrl: "https://www.usatoday.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
+ampWebUrl: "https://amp.usatoday.com/amp/4755099002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4755099002"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI
@@ -115,6 +115,6 @@ related:
         width: 1200
         height: 675
 
-secured: "3u87cUxhihGa21XHu46M+xAFUPliJ7eUdBz2r2+7KoI3P1BCMyFK0eWDXzVufUaR2Q7Sz7s1GpTaS4Q2GNcNCwE2U5CC8N3nUCWjUWGvB43Mv11ABe9VT+JdW8XVQxBY+3haBARm0V2/Zn18ljs4Qn023mug3Qp+WLUtaE4R1BJFplVsZaY8jrsmSTAKU8ki+VdC4dSwffMWDFOInC0TC3wwt5fxESmLG2ftRDLzFSWXfMcEj8TXnIE56qG581nhtr4YJCWQ5OyDXmoRViGyeBOj+U7z/bFPspFyprXcqK0mGj0NnNckZnfVukear2Nf;5zF96BeDivUWPt9vZBG8Lg=="
+secured: "Qb6KkkNwTna3RrJazmjKSEDxKO834kD4kGtsHtmVljD3tqknE3PDB+aDw3J/vVGVD2QfoZgH7jgz5TNZWrEOAfqriIuVN2w5siBYkWNXaicSPICJrJA+YjrCce5yS6/V++94rK8qH4BigqjwRFL8BvaqLgvyVHeGUiJrn5nQyfh7Zt8h0c/P6owIC8/gwedaFAFQTCaxjF3ct905jZGBVwwzsU8AEg2HfTzCNz+6uMFbqEsu+mKZo3ooWc/TPVh6zXaifTbVKHYXGzN8g1rhIclz/W3n/8OF2gwkXRUpKssGkRPCAJp1ldtxnPqw25Xa;H7vl5VvXT84rmXrZrvs6zw=="
 ---
 

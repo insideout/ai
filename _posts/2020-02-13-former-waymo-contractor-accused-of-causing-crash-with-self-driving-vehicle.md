@@ -100,15 +100,15 @@ related:
         width: 1200
         height: 600
   - title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
-    excerpt: "Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles."
-    publishedDateTime: 2020-02-14T00:05:00Z
-    webUrl: "https://www.azcentral.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4755099002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4755099002"
+    excerpt: "PHOENIX – A man who previously worked for a Waymo contractor was arrested on suspicion of intentionally causing a collision with one of the company’s self-driving vehicles last month in Arizona. Raymond Tang, 31, was reportedly fired from Genesis10, a staffing agency that contracted with Waymo, prior to the Jan. 30 collision in Tempe ..."
+    publishedDateTime: 2020-02-14T00:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4755099002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4755099002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: USA Today
+      domain: usatoday.com
     quality: 57
     images:
       - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"

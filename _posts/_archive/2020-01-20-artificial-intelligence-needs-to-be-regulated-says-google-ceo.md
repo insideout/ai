@@ -54,7 +54,18 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
         width: 1200
         height: 628
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 39
 
-secured: "dndwbrf5Zk9vLITr6PTPqH1eGxxUrGKKg5tX57W8OObmwZPm74b+kHhlCbimd/6gJIFk4/iWZofICAV+XgnDEWx2JEQtv+JHpVDs6QiD43WQGT2BRTRpHhGjCHr4Xl0iOydK2thXAeuvfjIkh57qIZIvTw1gitONXn5dU5zxrrcuSfjzdBS8qolwyvV31q20CzVChujcKqDPQcJRrdBlTd8uB7F7cr4d87kE7EJPZd1Dt0mpxw5il92Bs4jdV3/5kBr7pmmn9k/CoBSIk/uaStmW13LLL84ufbzg1w0GFQCCs04pJYY917SRL9DPQagl;DY3SAaPEnYiZDP4K7p6RBw=="
+secured: "A4TSZDOXt7Zyi7Tm8YAB0giCkfwxcLWmvo+OhwDLvYn8aasqYz5TyUIzMV4KdhV9HvnKC6HauO8bKn4cBXLDX2cDkGM/yp/IDGzRMN4bJ6JZBCsViqGiSLaf4RJ7yARLBH4yQjDmkJk8e440G+cFfQ6CmzsigzIp92fnXhpuDcRvJ+oskmWbfi/s5xByxMlntwKemd2NSJeJ/bYfzEjrPWIc53Czs6vWvoJnlqqQHaQKevvSd5XIScy0dPMTfymkdXq7Tu1AU02FiJgLp+lm3cct8h/J+HwihDmZSWbbaJmxYeF8TjsQExieCX/uYAO/;Z2JoaFJMrbh1+LeyYUAlnA=="
 ---
 

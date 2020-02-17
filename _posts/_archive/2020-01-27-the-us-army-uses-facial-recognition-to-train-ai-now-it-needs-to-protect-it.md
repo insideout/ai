@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
-  - title: "NYPD pushes back against facial recognition ban"
-    excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
-    publishedDateTime: 2020-02-02T07:20:00Z
-    webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
-    ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
@@ -124,6 +109,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "8kdY1Ose17Vm3Z4fXrpIZEsbenSFWQ1QChjzacFWnPpYtJ0QPkdZqU4v4nlanZDGDxuPfsejfGXAPv2g+pL3J2cpLZP04YAY7LowD/GbHJzu1IO18o/P0lxUvB2zHJ1dRkXNuaTAuKFsn0jErf0hWz85Y04EXt9W6fOMRTAQvn63IJ5v1CKDbh6h72nD7VoCnr7ExEKE2uqx3i1fl0Uwt6Rm5a9O1bhqg0gbgx7AkzSQUb8xdaiZYQ22LcltdjJ9W6pNneblkP9VwbctSbzA6sSWkFFIXBkLaee2+jYuTdHglrUc6ekmKEuAzkOPH4rE;z9U1mLZZTYzxpNfsRnLbBA=="
+secured: "qj5aNo87NerwHgAzI0Hrmp45QInJDUIHDA630eXPgPxFrvKVvp3Nh5ZRgpeesFm/wl2ge2OMq8ib7NASLJlxe0lxxSGw1MN9ueNQLqjHimfTz2keZbNt+pChPpW17eDvRxNlWW+EmIxtJ2JLjBbSwgQVJDbdA08V5i5PUW+Y3/rFpWYJAk8bUDUioI67xkrhVkMwXHroRPx2df1K9Rw41qZZNvLnmSZ2Jt7Nmqey8ExF2S5AWCIgI/QH3Rjb0+gmZtKzfJnrI51+RdotFwVrxQKRvzuUaeU6l+yuEwzqex3aSTWSNwXYyh/K08zg6mDd;B/GfruJFQ8eWbMlJOj9ClQ=="
 ---
 
