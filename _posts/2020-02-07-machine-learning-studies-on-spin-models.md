@@ -39,21 +39,15 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453"
         width: 3846
         height: 2564
-  - title: "Nvidia shares surge on signs of machine learning boom"
-    excerpt: "Shares of Nvidia Corp (NVDA.O) rose 6% on Friday after the chipmaker stunned analysts with strong quarterly results and joined rivals Intel Corp (INTC.O) and Advanced Micro Devices Inc (AMD.O) in predicting strong demand for chips used in the latest generation of data centers and AI."
-    publishedDateTime: 2020-02-14T13:40:00Z
-    webUrl: "https://www.reuters.com/article/us-nvidia-stocks-idUSKBN2081OI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2081OI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2081OI"
+  - title: "Nvidia Shares Surge on Signs of Machine Learning Boom"
+    excerpt: "At least eleven brokerages hiked price targets on the company's stock. Brokerage Cowen & Company was the most bullish, raising its target by $85 to $325, higher than Wall Street's median price target of $285.15 and Friday's pre-market price of around $287. Analysts at Susquehanna said while they had expected the company to beat market consensus ..."
+    publishedDateTime: 2020-02-14T14:05:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-02-14/nvidia-shares-surge-on-signs-of-machine-learning-boom"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490266651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1D14K"
-        width: 817
-        height: 545
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "sDerhod4UMdQYN4OWLmtduSH1N4+krQY/ZNb3jHfLuHn1a0mzNXENztXltsjFidTBhsIrLHKvmD9944AptAtVE3tBjV+9FEB7l6o4Z8C/JUv9QKSdyqVTM+5DHvYkm31MpAVFJuHvyWs3QVY5R4gtPaJuHfHLbHyv0qtGEGBT45NRAN0ji13LqTqVF0ZAI+szlM3L2z+cv3cfe6dHpgffIxvIjaTf7ItI12t1rjiuY74XjIqeGjqnRT1OOTWgTKzlyGhXKrC+Pi6Jv7/lqazzHmr+ESho5WSg9fLkSMRNTu5kYY2/jGlsU1eK9rwYk34;nlu9kZEHQenwpmEISDnUrg=="
 ---

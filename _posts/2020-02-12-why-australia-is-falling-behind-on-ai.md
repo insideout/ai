@@ -39,6 +39,15 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/05/mobileye-e1572905863843.jpeg?fit=1200%2C601&strip=all"
         width: 1200
         height: 601
+  - title: "North American Industrial Robot Orders Steady Despite 'Challenging' 2019"
+    excerpt: "Research published by the Robotic Industries Association February 13 found that North American robot orders inched up 1.6% ... where we revive Taylorist principles and start monitoring and instrumenting people as part of automated processes. Education and retraining are the keys to a stable, AI-driven society. The alternative is a future ..."
+    publishedDateTime: 2020-02-17T21:02:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/robotics/article/21123170/north-american-industrial-robot-orders-steady-in-challenging-2019"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 18
 
 secured: "q88xsUkJw3a/E1yfXhanOqgh8e4fakMi02/0fHshqG9S5HFJ//MmeG4X1Zy0tMRddOpOOKUR1v8ZcVZ5Oiyo00e+erfTqlEUYuBnb1A3AQzfuu2ZCcJIh5ngLYU5j6PVupQPoqmAbcYEnwtYzSFtat+STfoLXe3EIHBDfRljmElrRe+OqQvhqU2XXYNAgJPQFiifHhF8faahkM8Qx415dq+0AOIP8WHM0QFCDCyrdGRu/IP45MtHhP7cXmcez2wXMvEoZ3quueSvIrIuHS0ImaXBZ5fz40seSLLMitTP49hLL4KTBmWE7YfzuFXhqIJJhadJdMpdoKw8V08mQAtVGQH4OUpM2a3VGwK+CkRneZ0aeOunE2O4lVdqBht53istrEWRe9sdd4axN/VTkjZyu1WUqiU0kx8Rp3x7SkLG2dbs9+bZFDQGYCfHrNpx3g1kx63DKuHRvAza63Sp3BADRR71G6OUXVtUVg4ZdUUmZpU=;CAaH9Qw6+MLlXhdJpVB6bw=="
 ---

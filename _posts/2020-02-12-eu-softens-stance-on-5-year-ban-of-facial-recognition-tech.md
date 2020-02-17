@@ -480,6 +480,17 @@ related:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
         width: 2309
         height: 1299
+  - title: "Use of facial recognition tech during protests causes stir"
+    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. The police in the national capital and the northern State of Uttar Pradesh - both hotbeds of dissent - have used the technology during protests that have raged since mid-December against the amended citizenship law that critics say marginalises ..."
+    publishedDateTime: 2020-02-17T21:34:00Z
+    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
   - title: "Basic rules required for facial recognition usage: Statesman contributor"
     excerpt: "In his article, the author says that the use of facial recognition technology, in its present form, is not in conformity with the right of privacy. KK Paul NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) - In spite of several advantages of the latest technology of facial recognition, doubts continue to prevail in view of its very thin legal base."
     publishedDateTime: 2020-02-12T03:46:00Z

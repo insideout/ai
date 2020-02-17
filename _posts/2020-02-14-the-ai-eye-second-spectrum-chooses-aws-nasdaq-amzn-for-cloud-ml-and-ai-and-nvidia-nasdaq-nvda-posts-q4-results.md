@@ -46,19 +46,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 41
-  - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
-    excerpt: "SEATTLE--(BUSINESS WIRE)--Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning ..."
-    publishedDateTime: 2020-02-14T14:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200214005074/en/Spectrum-Selects-AWS-Preferred-Cloud-Machine-Learning"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20200214005074/en/773548/23/AWS_logo_new.jpg"
-        width: 1200
-        height: 627
   - title: "Sports analytics firm Second Spectrum picks AWS as its preferred cloud infrastructure provider"
     excerpt: "Amazon Web Services Inc. unveiled its latest marquee customer today: sports analytics provider Second Spectrum Inc., which has selected AWS as its preferred cloud, machine learning and artificial intelligence technology provider. Second Spectrum should be a familiar name for sports fans because it’s the official Optical Tracking and ..."
     publishedDateTime: 2020-02-14T14:01:00Z
@@ -72,6 +59,15 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/71500375_2621006007939026_4334469282747383808_n.png"
         width: 820
         height: 312
+  - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
+    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
+    publishedDateTime: 2020-02-14T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "9LAfKnhp/abJec+hCjTA2YggrGYY5pkHKNPKFwFeMdI9n7FFyChCSxClYVr7ZyVCRzGqodekpBzsXLR/wF7/aaSlZKrckoQuIVFqzqbiAMe8aDiuYSmKivQVPkRA1i9NtrmjsDl6FpFo/peeGq1PjbeWCDcOsTQkiQCBguyxhKllxKWL887a/Dz3OV4CP1SPIkPstXDekulkzO5ISjI0/RioOsNU19nu1OT1R2bQp4vvgSGeTW54bz7CGhndyIONwc+tWkIu2usypE1NTQQWDFULR1UEcI+7ZOsyYAnkISKD5slHBIiQyu8U0r854BRP;H3hyM1t7U7zvGYRVilCPvQ=="
 ---

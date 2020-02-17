@@ -60,18 +60,14 @@ related:
         width: 1280
         height: 1206
   - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
-    excerpt: "SEATTLE--(BUSINESS WIRE)--Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning ..."
-    publishedDateTime: 2020-02-14T14:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200214005074/en/Spectrum-Selects-AWS-Preferred-Cloud-Machine-Learning"
+    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
+    publishedDateTime: 2020-02-14T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20200214005074/en/773548/23/AWS_logo_new.jpg"
-        width: 1200
-        height: 627
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "baw83q46edPqDOV86fp84aqZEWallhqGI3qCLo/f5Tl+Uq2o9ENIjv6JsVb90Eb+oltbqFfUJEKVfahRIM3iizQ7K0lt81Ul6IZNbDM97SVTzRU3mWSo2htdDIZc+g4w6qTvOVeoY9+dlwjSteuxlbmtvO8cJcj0tEw3inIDl4+NGEP0HRyS2Nn3mJAXwuuEgFIt0d+4D+OUDO9cJKo3cAOlgDzjUHVHXCT9bVM+QnNuB8kpGWDki96xEy2nIjVul+qTp4KYJ2VBh5aeBiI/htVOg55CSgpW1zQi2i+GjEZS0jb2CDPOW/NsG0/hm5MimrnvlXQoKmGeACWr31By3FBxryYQat4vV0Sn+2iqwZ/ipl3PEw072pYxIgLvF49+yGYF42DfJ0QbN2Ksjk/ZLP2SSijC247/HaCOjVEOvBvM9h0OvPZE9Evv1i/m08fVYmznYsNc38/kVru1YHA1fBbFE/HnjEv8T+cOTCf2zQo=;bw61eqRrt06QJTgeR+a93g=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,7 +43,16 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.3004%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_171%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/9990e2a8926890ba52001b3e6e767d69b3caa026"
         width: 800
         height: 450
+  - title: "North American Industrial Robot Orders Steady Despite 'Challenging' 2019"
+    excerpt: "Research published by the Robotic Industries Association February 13 found that North American robot orders inched up 1.6% ... where we revive Taylorist principles and start monitoring and instrumenting people as part of automated processes. Education and retraining are the keys to a stable, AI-driven society. The alternative is a future ..."
+    publishedDateTime: 2020-02-17T21:02:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/robotics/article/21123170/north-american-industrial-robot-orders-steady-in-challenging-2019"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 18
 
-secured: "E7g8JQRF1sppPxZtmSI9BZxbMFkV/T31hgHMYEuOnDdf0Lg9VjEn3/9KnNO7gbqnXiBlVSm0djFsQcrrj5H+8bBm60vWSW5mRlRUWjqbPMPMquACrmS1j8Tg3SYAbs3x8wiMIDcEc+xSgC4KrwWYQ+U+Q0soXRaOKMuQzdHGWFllaIXhOaUK4c3Sv/HDX8zwjNdV5VQf1qMhQ0KWrCr73U7k0R7Vz8buMdQKHNcoWG5pne9nY8HF+kMtAAPaN8NdLPWpTKg2aKjMs2X3ejeQzlEbxyTHZv1a3DUDuR/5IrNE/KVBj4xgA46UBM52+Z09;9us/q07kUHzpjs1WoxjCxg=="
+secured: "RjSNZShmOcl9Xa6fVlor7xykGmjUEyV/NClSIji8OHB6y2dcUyjwVLmgRFn1lwWWxwcqYINS5aPXsx+8UeJegZi+gGFk2/a+ByuA3+RyNdnC1dVvWDAV21SpJieTmaBQU1BNpJrXzI/zh1eoSCO8AV+RwyQaHzebRvwXEyvl4SIBwKDt+NdZYG8xM0yzbNFXGf1jaywqAYJFEKxXyppFXsh0asNS152W0oZTKq1+DcCGBvZzKvoDNf9JRIgc7Z4wwJQDnLuvo4X1AJlsIZbV6eMERtl6xf8c21qAy51dAlsomqsjmTdrkQiXdea11PudFeuguqkS74frAh8RiHofz8nerowq+XT/fnQTr3Qm6KMwy/H9wRci3LgNnZKDkoIe3450K4PzePuWZbkjqOcHIDfm3TF+86jj5WXguBPwzftltMMmAeC7oP4CtYnmZcHgveDG+sEJgzBxeTmtxWFjX9DlnzNfddB4MHkFUW8wjLA=;g4RPVTQRxMeViMyZVx8mMw=="
 ---
 

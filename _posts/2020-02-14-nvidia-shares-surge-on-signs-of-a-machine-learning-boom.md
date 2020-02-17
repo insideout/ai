@@ -30,21 +30,15 @@ images:
     title: "Nvidia shares surge on signs of a machine learning boom"
 
 related:
-  - title: "Nvidia shares surge on signs of machine learning boom"
-    excerpt: "Shares of Nvidia Corp (NVDA.O) rose 6% on Friday after the chipmaker stunned analysts with strong quarterly results and joined rivals Intel Corp (INTC.O) and Advanced Micro Devices Inc (AMD.O) in predicting strong demand for chips used in the latest generation of data centers and AI."
-    publishedDateTime: 2020-02-14T13:40:00Z
-    webUrl: "https://www.reuters.com/article/us-nvidia-stocks-idUSKBN2081OI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2081OI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2081OI"
+  - title: "Nvidia Shares Surge on Signs of Machine Learning Boom"
+    excerpt: "At least eleven brokerages hiked price targets on the company's stock. Brokerage Cowen & Company was the most bullish, raising its target by $85 to $325, higher than Wall Street's median price target of $285.15 and Friday's pre-market price of around $287. Analysts at Susquehanna said while they had expected the company to beat market consensus ..."
+    publishedDateTime: 2020-02-14T14:05:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-02-14/nvidia-shares-surge-on-signs-of-machine-learning-boom"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490266651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1D14K"
-        width: 817
-        height: 545
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Machine-Learning Studies on Spin Models"
     excerpt: "With the recent developments in machine learning, Carrasquilla and Melko have proposed a paradigm that is complementary to the conventional approach for the study of spin models. As an alternative to investigating the thermal average of macroscopic physical quantities, they have used the spin configurations for the classification of the ..."
     publishedDateTime: 2020-02-07T18:26:00Z

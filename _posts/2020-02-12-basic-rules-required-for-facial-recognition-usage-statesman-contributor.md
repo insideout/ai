@@ -495,6 +495,17 @@ related:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
         width: 2309
         height: 1299
+  - title: "Use of facial recognition tech during protests causes stir"
+    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. The police in the national capital and the northern State of Uttar Pradesh - both hotbeds of dissent - have used the technology during protests that have raged since mid-December against the amended citizenship law that critics say marginalises ..."
+    publishedDateTime: 2020-02-17T21:34:00Z
+    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
   - title: "Senators Call for a Moratorium on Government’s Use of Facial Recognition"
     excerpt: "Two Democratic senators want to stop the federal government from using facial recognition technology until Congress passes legislation to properly regulate it—and they’ve produced their own legislation to do exactly that. Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., introduced the Ethical Use of Facial Recognition Act Wednesday ..."
     publishedDateTime: 2020-02-14T16:13:00Z

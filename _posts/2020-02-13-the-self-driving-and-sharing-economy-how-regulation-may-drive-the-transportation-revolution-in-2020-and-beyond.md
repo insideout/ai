@@ -45,6 +45,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/MV-e1573146856797.jpg?fit=1200%2C664&strip=all"
         width: 1200
         height: 664
+  - title: "Europe is about to Announce Dramatic new Digital Rules governing AI & Social Media targeted at China & US Tech Companies"
+    excerpt: "And on Monday, Mark Zuckerberg, Facebook’s chief executive, is joining in with his own trip to ... In the United States, the government has focused on providing research funding for artificial intelligence rather than drafting new regulations. This month, the latest White House budget proposal earmarked roughly $1.1 billion for such research."
+    publishedDateTime: 2020-02-17T21:04:00Z
+    webUrl: "https://www.patentlyapple.com/patently-apple/2020/02/europe-is-about-to-announce-dramatic-new-digital-rules-governing-ai-social-media-targeted-at-china-u.html"
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 14
+    images:
+      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0240a50d12f9200b-600wi"
+        width: 600
+        height: 338
 
 secured: "rB7GYpmgOqQA7VbyuNy4K+VX+Fm3pTKHzY3ilXLF5mMSzpCg37d/dIfI7WgCRLcl/Wbn5RamTLPuMzRB1A98Q/hXo5pgrEpnX2sSpMBGBcYQK3LFTraWtaFNNaMyj9N+dzIgVYQsIcL/jjqes7PtVftzAG2Naj/9JK+tauy6yY58y0HMEXCBbnXjWuiQYyihQhk9MhYupRjiB1jDGQ9lWD1yhASS4UXGWTkuD1gIsnLP3iBEeuAAs0pmRTb2oxN1lpeKJhgOklduuXu5X3zGUZBiNn1Tn7O4oUaoRh12dksQodiaipkF1TV0Nzc/pd5JTIko9YGiOsij5DDQi7COT3NHWOt0xIk5iHbT7oLz+NRPM1KnGeZ42MJrjgyrzEiQTuyfqixopgG0dtdCrfUYNe4V++kNelXiweHMM5kElFGhoS8UzYLQz4uhanb2OLjMJFBD4RBT31HVI47Feh/ixWuNYZQhTv2sa7j0y0n7Yzw=;Vyca368yr3y1Eu2UCgPebw=="
 ---

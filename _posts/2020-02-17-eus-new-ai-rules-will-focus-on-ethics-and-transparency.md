@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-et
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,7 +45,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
         width: 960
         height: 541
+  - title: "Europe is about to Announce Dramatic new Digital Rules governing AI & Social Media targeted at China & US Tech Companies"
+    excerpt: "And on Monday, Mark Zuckerberg, Facebook’s chief executive, is joining in with his own trip to ... In the United States, the government has focused on providing research funding for artificial intelligence rather than drafting new regulations. This month, the latest White House budget proposal earmarked roughly $1.1 billion for such research."
+    publishedDateTime: 2020-02-17T21:04:00Z
+    webUrl: "https://www.patentlyapple.com/patently-apple/2020/02/europe-is-about-to-announce-dramatic-new-digital-rules-governing-ai-social-media-targeted-at-china-u.html"
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 14
+    images:
+      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0240a50d12f9200b-600wi"
+        width: 600
+        height: 338
 
-secured: "U1X8qdxdH5bVjJTG+hxlt680IN4MwhxJLqX5pZ5NUZJpJmoDMKAQkWnwaA6gaZerjjjghoIq5QGzOZJBgQVwW7DzAchB7Yi9pupmbM3rlGlzkZ/xmb/Zy3H/gMOr0oACogZUBc5f58Kq8zXQQbr0kAy12JahqS9ClgQqITb9s9sA9O2GbOvaUnsKlzIw7gT2XCF4sPpkcSHqLKBWFhwkL7P8W9z5JZ1Tx8xZ3iORTfk5GBJxqkNhqhdeMDLlVd+m6n6NOzmPg3vkh8QFhtlMsamCRGu3lft9yh4TvjKJ63ZnnzrLrBiMAjd2XWWJEWMmH7bvauAmtlh3UK6aXRc5j8STm1fDAik/GO6jkCSBjdvo7mQ2NRms+m48WcCDAZhFWDwejEytrk2pmaoVl63OT2xMZaL4SJUvSszlyUVQPuOoBTluC5dFYjjc432KC7wYyPBCGFeHKlQkQMlG8sLKCuVYmnLj1w49xP6Ff3y8juA=;I+1BPSjNVYsVU4NBhVyiAQ=="
+secured: "T03IT6uqYghl7kIiZrWubWeVk24+rh30JujxUdha20qufHY56tMC5pbWa+ZOpJZ3j0qWgprlkSvesFlujH64CyroitljhFKtlOPtSg3WlKPIX5fnaw8SOe2dDY/6cBxwIEWAbSnnAiKwcr51eXIBvB9cspW0TYla36KnKQHSl2CRO3SJ7qT+/GcQA6B/zgcZyC2sC2W8QfkT5nHRlKv37CLKb5C6RNHFsFYsdPmww9H9MR3rqW+P5IimZwd2LY/eJq9lbqlwEH4qgYgRc8gPQRnincUUOuQIvd9UZ4JNgyw24tGnO22jvyDtzsKwIoFcLj/NAFtMRCVVCwaCvdR0n4atCU3onD2DqZuMaoHhInUWlS0cUIfypBfDYu+D0W4dsoWp50+bDo7IsUYvg/t7RD74qvY0JuaV86cAmVMDsADA84Ei0r7Nsuw5i30aYoKcKR0xCqPmE9vt2b+7CjJovlqLkcln7iomwCxQUh8R38w=;hU3PfPYrHE5FfN4HTM2rxg=="
 ---
 
