@@ -2,79 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-09-kuwait-launches-robotics-ai-festival.md",
-      "title": "Kuwait launches Robotics, AI Festival",
-      "excerpt": "Kuwait launched on Sunday the Robotics and Artificial Intelligence (AI) Festival to promote the scientific awareness in Kuwait. At the opening ceremony, Salam Al-Ablani, scientific culture director of the Kuwait Foundation for Advancement of Science (KFAS), said that the festival aims at boosting the scientific culture in smart industries and ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
-      "ampWebUrl": "https://www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
-      "cdnAmpWebUrl": "https://www-newsghana-com-gh.cdn.ampproject.org/c/s/www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
-      "publishedDateTime": "2020-02-09T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Ghana",
-        "domain": "newsghana.com.gh",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newsghana.com.gh/wp-content/uploads/2019/12/newsghanalogo.png",
-          "width": 640,
-          "height": 316,
-          "title": "Kuwait launches Robotics, AI Festival",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-09-risk-mitigation-and-huawei-the-uk-makes-a-choice.md",
-      "title": "Risk Mitigation and Huawei: The UK Makes a Choice",
-      "excerpt": "To read the full newsletter, click here to subscribe for free ... American pressure on London had been coming from the highest levels of government. On Thursday, the Financial Times exclusively reported on a phone call between U.S. President Donald J. Trump and Johnson. Trump lambasted Johnson for the decision to allow Huawei in ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thediplomat.com/2020/02/risk-mitigation-and-huawei-the-uk-makes-a-choice/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-09T15:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2020/01/sizes/td-story-s-2/thediplomat-2020-01-28-19.jpg",
-          "width": 600,
-          "height": 361,
-          "title": "Risk Mitigation and Huawei: The UK Makes a Choice",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-09-study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life.md",
       "title": "Study warns AI may trick humans with false evidence of alien life",
       "excerpt": "A newly published study warns that using AI to detect these techno-signatures may be risky, however, with the potential to make humans think they have discovered evidence of alien life when no such evidence actually exists. The new study points toward Ceres, the dwarf planet that briefly dazzled humanity with then-mysterious bright spots that ...",
@@ -2154,6 +2081,86 @@
           "width": 1438,
           "height": 756,
           "title": "White House’s proposed budget would increase investments in AI and quantum computing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-3-big-trends-about-the-future-of-work-every-leader-should-know-about.md",
+      "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
+      "excerpt": "For 2020, she has identified three issues that \"require immediate and intentional action\" if organizations want to thrive in the future of work. 1. Overlooked talent in people with disabilities and older workers. \"The United States has a jobs surplus of more than one million open positions, and there are record-high labor shortages across 12 of ...",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.inc.com/marcel-schwantes/3-big-trends-about-future-of-work-every-leader-should-know-about.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inc",
+        "domain": "inc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.incimages.com/uploaded_files/image/970x450/getty_867341882_412451.jpg",
+          "width": 970,
+          "height": 450,
+          "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-ai-and-automation-together-forever.md",
+      "title": "AI And Automation: Together Forever?",
+      "excerpt": "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/",
+      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
+      "publishedDateTime": "2020-02-11T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "AI And Automation: Together Forever?",
           "attribution": null
         }
       ],

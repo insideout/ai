@@ -1,43 +1,37 @@
 ---
 category: news
-title: "The AI Eye: Second Spectrum Chooses AWS for Cloud, ML and AI and NVIDIA Posts Q4 Results"
-excerpt: "Point Roberts, WA and Vancouver, BC - February 14, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
-publishedDateTime: 2020-02-14T18:02:00Z
-webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-second-spectrum-chooses-aws-for-cloud-ml-and-ai-and-nvidia-posts-q4-results-2020-02-14"
+title: "Second Spectrum picks AWS as preferred cloud, machine learning, AI, media services provider"
+excerpt: "Amazon Web Services announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, chose AWS as its preferred cloud, machine learning (ML), and artificial intelligence (AI) provider. Second Spectrum also selected AWS media ..."
+publishedDateTime: 2020-02-17T08:46:00Z
+webUrl: "https://www.telecompaper.com/news/second-spectrum-picks-aws-as-preferred-cloud-machine-learning-ai-media-services-provider--1326820"
 type: article
-quality: 77
-heat: 117
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - AI
   - AWS AI
-  - Facebook AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "The AI Eye: Second Spectrum Chooses AWS for Cloud, ML and AI and NVIDIA Posts Q4 Results"
+  - Machine Learning
 
 related:
-  - title: "Second Spectrum picks AWS as preferred cloud, machine learning, AI, media services provider"
-    excerpt: "Amazon Web Services announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, chose AWS as its preferred cloud, machine learning (ML), and artificial intelligence (AI) provider. Second Spectrum also selected AWS media ..."
-    publishedDateTime: 2020-02-17T08:46:00Z
-    webUrl: "https://www.telecompaper.com/news/second-spectrum-picks-aws-as-preferred-cloud-machine-learning-ai-media-services-provider--1326820"
+  - title: "The AI Eye: Second Spectrum Chooses AWS for Cloud, ML and AI and NVIDIA Posts Q4 Results"
+    excerpt: "Point Roberts, WA and Vancouver, BC - February 14, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-02-14T18:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-second-spectrum-chooses-aws-for-cloud-ml-and-ai-and-nvidia-posts-q4-results-2020-02-14"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "The AI Eye: Second Spectrum Chooses AWS (Nasdaq: AMZN) for Cloud, ML and AI and NVIDIA (Nasdaq: NVDA) Posts Q4 Results"
     excerpt: "Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues like the NBA and England's Premier League, has selected Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), as its preferred cloud, machine learning (ML), and artificial intelligence (AI) provider. Rajiv Maheswaran, CEO of Second Spectrum ..."
     publishedDateTime: 2020-02-14T17:59:00Z
@@ -78,6 +72,6 @@ related:
         width: 820
         height: 312
 
-secured: "rOLCJJ8yi5og2WoJHjyK4/nYGB8s4td09VjInu6FSx9i7ZYUMEkNFY3OYrXF4gvSFfew5ANqeRGYaF2eC0y4wNgT4uXjbYhKYbE0BDO7rCBOir0QOKAnAJYBJeTGewGk1/83nJXr6ipakcPLPLyBLfzvnsUH/ReyfQEGeshgZZI/Tf7IixVC87/P2jvu5ngSvrsmTVMK6ed5+s+a5LRIWs06GWOcn2U9baSVWcABPiXRi6i7fGNFSLno6Cp2S56qZzeQiKumpj3Fj+Z/WT3qKAozkkWk4rS8Tr2gfIM4ywGa9hpRYR/K+jqkYM12O3zf;xeaIOBA53LJex4bnKnYl4Q=="
+secured: "n8zXzmKT67wFHgOaTRQsuiWvh5kMNa24BwHvqfOveK4BPXzMwzoiMAaKsYkRTKkf6hoDhKC3cTm5KxJaov276xgquNVNovnef6LEUQbgK656IiVN9KgP+4oJFhWFlgIKhXqWyaCAVuMgaKhUQomnJhGwmUQo2SLP9f1sfrORBIZrpJCjDjNyhmXs8RPmMZkl+f0+XqkWU/s1gMCZf/KGCaZvb48kCEhU12JfmFW+GtoSSQeQvi5mK2s36A8FbcA2J17bt4lihJukKae3wiCJ+91FbdVfxXnwy4jbjURHTadk0oDLwjfw5kg9CYitxgkI;FZXqF3ZxKVTwCBNYftg+XQ=="
 ---
 

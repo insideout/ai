@@ -64,10 +64,10 @@ related:
       domain: businesslive.co.za
     quality: 59
     images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s500"
+        width: 500
+        height: 326
 
-secured: "6QBzZbs8/ejNrfocs3DfymCF9pFwA6PPxwx9wfQGU3YkbxDijR5/YXX0AupzDSaoZlH6M0kthE/jG7OWNPLpOeYZY+Ph3e1oFBOqTKf5h5n1T1kNr6ugF6yBxI5XieBbfE4FRqX/wdPrlotrkweYfVRSegYp1p12yvwhraePs0Zpnr8pUB1fJQXIBKCWnIpjZ0Yb8mzPdPSKQTzFuLwWap8n+4D+F6pSWr3zG84khZuUM3G8HG7KAM7pBDWJ1GKGLscQKksmoTdaXlw4IFf++APkbrH/t5gjGnhf8O++qRMG8+ljN3jM5Wp4xzmwfchO;e9i4hK3bjG98NA3ce6Y3Ew=="
+secured: "MSjwUrWxUsCoNTvjggEEdrA6ei+gnKLce+JJtbEv1NUGGtOODMmXlBWuja/3C8lg5Vb+qou+Loq3twqja2iA0BEWlj+gucWy30QBuEHekl0MI8xXIrtnQ9JH+KY/cIj3htK48hc6FzuuuYjv3QH5F5ydb843ZOyTH69N1fTUPNe9Ae7C/QEKvvqJH8RrorYbma6dS98s+XKDueFJpxJ6tEF6sVwwtrNcTSmh4YZKYVlxZDNXWzhtP5P7JxqcovAVKSrUiF2HYU8M4rUHj9W+ryAFxYcr9J3/SWLhsQRMSB+sS95iUnm4WU2V96YxI1EW;Aivci2/GxR6588r5sY1SiA=="
 ---
 

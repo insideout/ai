@@ -23,6 +23,6 @@ images:
     height: 576
     title: "Built Robotics to unveil autonomous construction equipment at trade show"
 
-secured: "5nb9IHXlGZoWfTVGGHExosCGylFyBYbdj51Oqrin2kCzq875Piz7pzZJUUBFyxLrv7Mz7T5nwqJnaaxidv6OqyQXaJpCxQsAQvozBlREmvDjzwhJcZgO5yU9JCBWM6QoWCc0kPJJUkbL5ucTWXVT59qDUMTKyRjAgQ84HTeZcp3aZuDM5eiDGMFvnMKgh/dZeRj/FE8HDjPMym87vdbPdBn7G9ECnWY8fu3aq/EoyOEFAjfM7+VQJ4hLjrAF+XG9s6pt8/htnCAjxQlH/Xjr97ejHyOKkU1y/2zJaQYcurnRwB1sn8Y5nj1Tvp/9pvgG;1sjZsQMRz/v5jNZqFem27w=="
+secured: "gcWiAkJhXKKPM12xykGysffKMXOkHwlJ7COkNUj/hhjv9FIH6hKL5bwrgwG8dWzOdROiTXzSOzlMwDUPBZ5lf1yaHniGNRiduVQblEG2cJoXtRTx5fC6WzC224L1N+pU21E0hi0vNKF3cBQvrPsTL7hU+TM3TXXH1LfU4aLAhPOqNlSuw/f/E3EvRR6be3ZfA3DyabA9TALRAKyzPi/JsCeMt5/II5N8osC3ZZOlkTVZqCGo3cSCYis4Cnkofn++YaBprJ5wCqxowd/Za/XGOz8WQNBxxFM0mMIkHh29S1AAbSFJtWNLw/A6/ZjoGBiN;Qd683aRdM25mYYwBmwrJDQ=="
 ---
 

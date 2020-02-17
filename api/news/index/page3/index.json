@@ -2,97 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
-      "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
-      "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
-      "heat": 205,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/",
-      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
-      "publishedDateTime": "2020-02-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns.md",
-      "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
-      "excerpt": "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer.",
-      "heat": 338,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
-      "publishedDateTime": "2020-02-06T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-151698/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots.md",
       "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
       "excerpt": "The tech startup created by two former Google engineers will deploy battery-powered R2 driverless delivery vehicles on public streets–little vans without steering wheels, pedals or side-mirrors",
@@ -2183,6 +2092,79 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-09-kuwait-launches-robotics-ai-festival.md",
+      "title": "Kuwait launches Robotics, AI Festival",
+      "excerpt": "Kuwait launched on Sunday the Robotics and Artificial Intelligence (AI) Festival to promote the scientific awareness in Kuwait. At the opening ceremony, Salam Al-Ablani, scientific culture director of the Kuwait Foundation for Advancement of Science (KFAS), said that the festival aims at boosting the scientific culture in smart industries and ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
+      "ampWebUrl": "https://www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
+      "cdnAmpWebUrl": "https://www-newsghana-com-gh.cdn.ampproject.org/c/s/www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
+      "publishedDateTime": "2020-02-09T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Ghana",
+        "domain": "newsghana.com.gh",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newsghana.com.gh/wp-content/uploads/2019/12/newsghanalogo.png",
+          "width": 640,
+          "height": 316,
+          "title": "Kuwait launches Robotics, AI Festival",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-09-risk-mitigation-and-huawei-the-uk-makes-a-choice.md",
+      "title": "Risk Mitigation and Huawei: The UK Makes a Choice",
+      "excerpt": "To read the full newsletter, click here to subscribe for free ... American pressure on London had been coming from the highest levels of government. On Thursday, the Financial Times exclusively reported on a phone call between U.S. President Donald J. Trump and Johnson. Trump lambasted Johnson for the decision to allow Huawei in ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thediplomat.com/2020/02/risk-mitigation-and-huawei-the-uk-makes-a-choice/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-09T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2020/01/sizes/td-story-s-2/thediplomat-2020-01-28-19.jpg",
+          "width": 600,
+          "height": 361,
+          "title": "Risk Mitigation and Huawei: The UK Makes a Choice",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

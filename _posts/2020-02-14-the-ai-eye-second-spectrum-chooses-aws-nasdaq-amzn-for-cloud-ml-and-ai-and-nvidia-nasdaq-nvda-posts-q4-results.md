@@ -37,6 +37,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Second Spectrum picks AWS as preferred cloud, machine learning, AI, media services provider"
+    excerpt: "Amazon Web Services announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, chose AWS as its preferred cloud, machine learning (ML), and artificial intelligence (AI) provider. Second Spectrum also selected AWS media ..."
+    publishedDateTime: 2020-02-17T08:46:00Z
+    webUrl: "https://www.telecompaper.com/news/second-spectrum-picks-aws-as-preferred-cloud-machine-learning-ai-media-services-provider--1326820"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 41
   - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
     excerpt: "SEATTLE--(BUSINESS WIRE)--Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning ..."
     publishedDateTime: 2020-02-14T14:35:00Z

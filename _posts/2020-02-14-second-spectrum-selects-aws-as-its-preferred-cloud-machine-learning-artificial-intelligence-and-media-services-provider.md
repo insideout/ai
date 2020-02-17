@@ -37,6 +37,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Second Spectrum picks AWS as preferred cloud, machine learning, AI, media services provider"
+    excerpt: "Amazon Web Services announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, chose AWS as its preferred cloud, machine learning (ML), and artificial intelligence (AI) provider. Second Spectrum also selected AWS media ..."
+    publishedDateTime: 2020-02-17T08:46:00Z
+    webUrl: "https://www.telecompaper.com/news/second-spectrum-picks-aws-as-preferred-cloud-machine-learning-ai-media-services-provider--1326820"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 41
   - title: "The AI Eye: Second Spectrum Chooses AWS (Nasdaq: AMZN) for Cloud, ML and AI and NVIDIA (Nasdaq: NVDA) Posts Q4 Results"
     excerpt: "Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues like the NBA and England's Premier League, has selected Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), as its preferred cloud, machine learning (ML), and artificial intelligence (AI) provider. Rajiv Maheswaran, CEO of Second Spectrum ..."
     publishedDateTime: 2020-02-14T17:59:00Z
@@ -64,6 +73,6 @@ related:
         width: 820
         height: 312
 
-secured: "5cdP6s8/wrSzijEOtow1WEGJOnMnNQfHXU44G3ZjY786STbx2tdfZG3tQD67dm8OeEzlgQGTehr1BhByItr2rlPYdt+ZKeNPVlxoyJZ6GJCwDdX3mUxv9OAX5J0S+lq6pMCVQaC6APXGUtQBBR8kEkERGrAzlkctJ5bWWaTItyQmEQoY1PIySQrFf3nSdGXf1+IsjEbGpHc0TIl94YcUOY9YzZ7/+YhiJNTNrSud7F5CRZK8c1P7iFe/soFH7LoXKzsmOfBfTWPhmwa/A0WMYOruSR0T8UsnZF1Pne5BuQeyTk8cwoqfikt1O0rGhdZO;itpJ0OrrLoI0KWUQKfiqdQ=="
+secured: "7pfBpNt3v1PBJUZkXo+L18RbxknH5xSkuvVD/A7BhVSybVXdvPIs6fn25fYNTT+ZiXivl7qu27d8f9khaukVgZnVTs52EVilf1ZJiX7QcTR94p2VfbR3uVdsE2ckPy7xuB068NatejIFuKQFpcwIwH75mXr8wcqxQJr6HfCfkey+O4HAEzdCy/GUWF4hys4ljh97EIUEFVQymUomgNSXNWQ6Y/OLqIuw2Tq1caJ9qjbB1/ZVtAqH37ZKsYgamkWFUj5GVfAekNUBc/tMveR0NaJ2HPwlJVUXqEjDf8AzUdAReiOWDE12A77XKNSvCbnd;qr5X6hYMy+PWwup0EAcQ3w=="
 ---
 

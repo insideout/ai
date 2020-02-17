@@ -20,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2017/05/biometric-fingerprint-aadhaar-identity-cyber-378x213.jpg"
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2017/04/onlineshopping1_1280-378x213.jpg"
     width: 378
     height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "/2k5dgAvbFzqPD7/KzkwDqgpYVBw2Y2aebkRwAkz64mkKxOV//G4wiev8jHxIQi1JxxF5Bbg1roc4Cjjrvh0uG08LmQAG1RA4W9YCCZSieSpv089gENMwwnjon6PENCp1usnR1+ummqUAGnJ0sGM9uP6yBmAZ21LvEVxqKTw+DovYal6D7aD70Q0dalaFRC0vIdWjQVunRTyTYf9YeKuJv9KnT6ou6p8sicSae4E+ADCCiFuCVJYdjuYQVebJXsF6TDGHCypFNEcibY5Q6bFZ01vQ6VrhQvjkimiC8H4mT62o2LqfwuDYSE8f7OeRllc;qRrBeiOha7avIpRAqstYkg=="
+secured: "k7nDXDTtZOmBPpWY0kJN0qQ14kVgy1wstMjugxZbXNtJ588FlwHGNBkxjspm01EkOrZNg29Ar3PcHUpK9a4mXZ9oPg49It6eHVoHG4wDWr+85BHytfZIFhH6pvHr25nP5ZC0f4m0FyYD9BQoIZTXQeABr7WTf2kBY2SS5iQfxZlxh/eU4lhIjOY12DAzO47DCdiPtP/K3iQazabu1VYXhtTrGh+mGQj+V59/eiTocmWaK/pcwK7+zQ13VMe2uV0CVKuNBrS7MDIcJfdshsFH1ZEOgNgqM5MqAVWzt0GOpuSLkDXhnxRHnstCismS8Uec;qLBpRvrbuD1IBQjPzOrs6A=="
 ---
 
