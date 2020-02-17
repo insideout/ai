@@ -1,36 +1,46 @@
 ---
 category: news
-title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
-excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ..."
-publishedDateTime: 2020-02-11T02:44:00Z
-webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+title: "Peel and Halton police reveal they too used controversial facial recognition tool"
+excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
+publishedDateTime: 2020-02-17T01:11:00Z
+webUrl: "https://www.thestar.com/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
 type: article
-quality: 180
-heat: 510
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: BuzzFeed News
-  domain: buzzfeednews.com
-  images:
-    - url: "/assets/images/organizations/buzzfeednews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Toronto Star
+  domain: thestar.com
 
 topics:
   - AI
   - Computer Vision
-  - Facebook AI
 
 images:
-  - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-    width: 640
-    height: 440
-    title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
+  - url: "https://images.thestar.com/4Gdty1kT8G_3_BfW_A4H-pAkIM8=/1200x800/smart/filters:cb(1581730926690)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/policegraduation10.jpg"
+    width: 1200
+    height: 800
+    title: "Peel and Halton police reveal they too used controversial facial recognition tool"
 
 related:
+  - title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
+    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ..."
+    publishedDateTime: 2020-02-11T02:44:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 180
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
+        width: 640
+        height: 440
   - title: "ACLU Said Clearview AI’s Facial Recognition Accuracy Study Is “Absurd”"
     excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and forced Clearview to remove it last month. Clearview AI, the facial ..."
     publishedDateTime: 2020-02-10T16:25:00Z
@@ -291,21 +301,6 @@ related:
       - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
         width: 620
         height: 350
-  - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
-    excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
-    publishedDateTime: 2020-02-17T01:11:00Z
-    webUrl: "https://www.thestar.com/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
-    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 54
-    images:
-      - url: "https://images.thestar.com/4Gdty1kT8G_3_BfW_A4H-pAkIM8=/1200x800/smart/filters:cb(1581730926690)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/policegraduation10.jpg"
-        width: 1200
-        height: 800
   - title: "Is facial recognition technology worth the privacy trade-off?"
     excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
     publishedDateTime: 2020-02-04T09:05:00Z
@@ -471,6 +466,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "Aw/fVwB8LgOZBRb0gg5sk3PqLo27/IU9lVtUhNfXJiauRl4BYxh1h90dZk7M+401ueFFlOpIPvwMAU0V9Pc8lModznshWa8WJ1/ZEFhqAvU5vVkT6lrdImK+Vg9KSjznxtBksU6SvWq0ZbZ0ki7iqsAqDpAmMUMY+TThtK7BlH7KcK0q9uCAYBl3hjZ9PpLlDVRUMFUDAVNiv1kUjVOAiZXSFDnzwUVCeAhj5eB9MvhJStEjp2KTGlW8rm4B8r/e2q19n7Whfn9AW3piSYrOk/6/R7ulxp5hLsJaGcUUz7EI+2i6Md7IyecU1fzKG9QCaW4mpW0OzTZvZXrjcxSrXNHjh6KItCCDojmdDJ+8ncBphioItMqawEz0ihreZjb4pcP6IG8GhpUT7b4BcLpX7O0ytgrxo/c7A7xiB6f+tW3UWDTN7mLxT+76EmKVOpsP9miSTGUyt6RdrzDQgE65fM2slrzY/YYzGruG/7M3bnGeXBwW9hCo+wQHEqv6O+gW;CylL9THe+xLh7an/CmQ4dg=="
+secured: "xLB2wkAGxEKevs0N7ds38SYqhWYW+V/wrzYt7Y5BejHfZigyWXLqmqqMsm16Hrw49kruf9UO8fQ0GjiilK1uqqTazCx66xigqzL5AbTfVfofV4rOom5nxkfgPiQz2jyx41lGFvjJALGufYuZfwnrcAL0XlcgMLSGgPFiwejSS8dN0d/NwTh2uWKQn2CKRq2H3qTgKDU2ipGPutDz3w0c2SxqdCPSgP7B4FyrI29WSBu/AN3B9v2WFFKaBLAHyp3bJOREjgxlK1dXtc/kS1XajZKxyj9o+zRVvRXhbjfU4ZR+JPnnAWiiVLT9ktQhlVSY;2D5de31I890EijiB6yzarA=="
 ---
 

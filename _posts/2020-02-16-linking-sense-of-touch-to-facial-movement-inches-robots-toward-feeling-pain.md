@@ -25,6 +25,6 @@ images:
     height: 580
     title: "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain"
 
-secured: "DukwTImBbqb8edlATKVEeI7p1PF0zkwh9j6Qv8A+Ro+Jj7UwLHA5i/nvUSvAoY+jTbC8AzZh6vusLyYmGxoa8fZLjV4XE05tlUzYuJLqYHEPemeFaiX4K6A1hjAXbEQh9EvFv7AWHmucEVuc7OLsEbsopqcFWuJFnayzvYrSWaut3174dHydpMaoJCXkWA5akjRQ6yHl413nd/s/KEEuPOWae8GegFXsYS+Syij2W5K+3JB3jJRrWiByFoWWH5r8V3vLBrMe/Jl0uNSnqYQPwOlOfUXpDLIGsC3NGfN7R5yWmt6vF/i9a9XNkv6+ZqQa;1JiRexY1rkJ4lNYvgaFQdA=="
+secured: "VwcosaWLSXxCwwpVzlkFppnIV+kRpfIcklSS6jINTJ6WtQkEoLXvvslhOrOhOdYHu9sV1vIK/ae22Fm8d1Fx13ryfm8NWKtj6THFhZgleUht9qh+2eT5laJsdZwnliu1qu7TEN69JEDsYOgFFlDmtrS4vjb3dYOYtR6K65iFZ7qlNmhWxLeEQmPTagc8JjewkyIm2KikgsB87Tx2QJhHPThGbnYBeKSvz6iqFBFeokOZBVyvNwjM+U51mvqVx15BxD/ph37tzVaw8TEyzPbwlj/2K33pminB0hAf8QlQ6725da0/EUrTmKWSGgusuGrJ;emB74nboGaM1ijbYeQIaVg=="
 ---
 

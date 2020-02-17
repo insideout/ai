@@ -5,8 +5,8 @@ excerpt: "Emulators, based on a form of AI called machine learning, skip the lab
 publishedDateTime: 2020-02-13T19:53:00Z
 webUrl: "https://science.sciencemag.org/content/367/6479/728.full"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI Hardware
+
+images:
+  - url: "https://science.sciencemag.org/content/367/6479/F1.medium.gif"
+    width: 346
+    height: 440
+    title: "AI shortcuts speed up simulations by billions of times"
 
 related:
   - title: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times"
@@ -32,6 +38,6 @@ related:
         width: 1280
         height: 720
 
-secured: "w3PES6OpWRhPijzsu3vYAFvZLLzhWrEBv6hMQPPCTyNs3t4LO2AxzRRoMj0yxqEpmgyK96J25BcpoZC+7GWUMgURsLDRSO9Tbz6P2rTXkOkLcg/+cyoZiq3n4V9rPfCjcl1qGHM3NGdoFPnViY314xxnMpaaRGL4q6HZ7glxmQ9iKuAUbwhJHJPaGVbKOvEojODnKmMbsnDUO9fmdN8L6YEwfhb/vWEVvTaS+DUwJWfuV7m1oGIpePdfwvHFemNGc+hDynqD61jog8OrbCxNZnqQJoMC5qK+GcDqTUlxsTiGBu/9LPOusIvftS3WT2iI;6jK8eQ9B0JCLrCQlfFi91A=="
+secured: "HKitVt4tx0WMVaRg8dphn6abO29fvflEl3qKS/XEp/mff7kWp8fHN8n5ONrII6mGh0gLenU3A39Y8+Xs52XlSvd9bIw9LxUKiPLVdHczhMsMVmOUoVjqYuRxvP+cOpMvSuKJCkHRx/hJwewDiubZEkrqGACn8CUmKqBBqenVM88GL7UoPz2eSiG5TY24dkik+OyaxMCo8x+p0lXwYqZxdwLgtt+BjTOLAjDvImObg6Y1QerrbD7OSJZz5Ypiaui+/SjhwdVWp2Jqf9n4oDKopd18WGzKNeVVsdFfAx8tC2yJqETVNjA37jvAnGuYQHTy;saFS7RCtdkvO14emWQBE5A=="
 ---
 

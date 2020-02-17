@@ -62,8 +62,12 @@ related:
     provider:
       name: businesslive.co.za
       domain: businesslive.co.za
-    quality: 39
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
 
-secured: "CoKOfeJqEbhgihMuswTNcvLV532EpBaTkbPkawCgfSzkPDWl+RJ8lNJkadJ9rI5NK0fBB+hf1ejc1srIwaiW+FV1snx/TzKiaHOyS22eHlnNx8rxfv48LODwvN7J2+cWxjqWNkzCsqLBW3Yol9LKBn/Y/XAtZDhVVCKsHTeHs4D73tWA3kW62XSxA90aJBFab3I1Nn4S+ofNrKwg9l+NIXCbKXreT01qrDlkRkXmwuP9jzRBI4Qhq348E9DaMfPnpo1INvXCxgdj8sLE5EVWjdwK9r/OPlCeOXUqHdgKTg6dnKLzGOEu6e6XMJvPpAwn;zFH3HzJIeI8W+lJ2/gqFHw=="
+secured: "5/yOhGkT2q2uLd3rl1iGZcwLWcfzuYM/rwB2d8FYSNtBBFN2qAXpTcVD1Lrgc37sphpUt4RhxDALpyI+70vxPRjD/VIbSnFDnh8fsi+nLq8TvNrWNY8lWYhUagqkcZv3fw6dsHbyGATAvsQUgkw+B7Hc1+QZFv0uRSHkM9/0o8JmOnhOsZzbLE8a2jktqoD+En9jest9exAQBuVOurSJ8uS1cuGKTG/4+RYHwTnF28vPxz0dQSmq+/5yWxPZAw2mu1tAhsfWVZhmBZh9+QaiqIFNYPv5uoap5twWWevZwhciJeuGtqEK3HOajXht+LKL;hIzliV8WfVwcEdk9tavhgA=="
 ---
 

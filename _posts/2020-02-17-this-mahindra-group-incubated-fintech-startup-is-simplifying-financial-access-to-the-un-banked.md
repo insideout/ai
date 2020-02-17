@@ -25,6 +25,6 @@ images:
     height: 400
     title: "This Mahindra Group-incubated fintech startup is simplifying financial access to the un-banked"
 
-secured: "dVNde0wyUB+CLV6FOqoiN3ihmfZiLgI55D1Q3nOfn2bHeqQA+Qo8/H60A/Q7eliRNn6AIRre37YUvTfDriFRqGLd6Jf4Djk5Lr0afQB0hacLzu1WFjPAJ/JpX3WVW+8dgwZSKNosXZO6FYk888Ae+odwdwtit/7nlMSofP8WaeO4rhS2VqDNk6Y5zI2fZ+v1X+W5AExpp5Ui/bVoxu3Io5k2xdV2Aqp1iX6RnsG+FDjkUT62y0attP0yx/XnSyK30X9edWxrqNOfiajjoY2c5hhAe0GMKK4qQkCy80xkpQKJSyBw9hilenvItTSsKlLj;bJJ/PZLtTcjK0WeNHGCA9g=="
+secured: "aTO8AS5EVGhMhCgDgkHg8mc43sK1jLx9ReNxGk6leOOzRYV+bZ9Yv4w+09IOSEAdAnmLJTG4K1jNUG37pSKUsBC3naDmi7PynH6p5IWWGckQkZ2RMM80XfGzr56/7wArY0a57i7vCdIBFgGtIy5wMt07SQnjinPqELSwHI//xDYfQWpvpRdRjAkO8MyIlqnDlCM/7L4f/SzAMAwy/6rG7SIHy4G8z/8sg1egDcyESh1vF8CPddew68N/8sLFD6VAt0omLFNdTL+4EXjQfsBExLNq3owlIOs9fbXobwdlBaudxOzrV1d77bhuIYDBmkCYl6FegEmNQ3cuxHGlj5zBMNMr4hOoE+CZfxvUy6j4EMSbUlIgPZOol3zpDaJQnPC08H5ez8d+aOc9yCHu4+nro4nTJCNmsA+aybEkFdck8A1EK/ulj8JctdxS90aQkfKt8iWBm5KZNGflShFFzGF/FdrHGyZGg2iGX9O/ZNFAmV4=;p/cQdi0MPvQurySMyA0iDg=="
 ---
 

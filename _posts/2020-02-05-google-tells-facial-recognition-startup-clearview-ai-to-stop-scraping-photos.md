@@ -276,7 +276,7 @@ related:
         width: 900
         height: 474
   - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
+    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology ..."
     publishedDateTime: 2020-02-14T12:00:00Z
     webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
     type: article
@@ -288,6 +288,21 @@ related:
       - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
         width: 620
         height: 350
+  - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
+    excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
+    publishedDateTime: 2020-02-17T01:11:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 54
+    images:
+      - url: "https://images.thestar.com/4Gdty1kT8G_3_BfW_A4H-pAkIM8=/1200x800/smart/filters:cb(1581730926690)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/policegraduation10.jpg"
+        width: 1200
+        height: 800
   - title: "Is facial recognition technology worth the privacy trade-off?"
     excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
     publishedDateTime: 2020-02-04T09:05:00Z

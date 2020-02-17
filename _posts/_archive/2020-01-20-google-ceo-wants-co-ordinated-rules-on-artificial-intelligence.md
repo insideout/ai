@@ -7,7 +7,7 @@ webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants
 ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+    width: 1000
+    height: 652
+    title: "Google CEO wants co-ordinated rules on artificial intelligence"
 
 related:
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
@@ -62,6 +68,6 @@ related:
         width: 1200
         height: 628
 
-secured: "r4zk0Exui2Qab95+NdiMPFB2FucV/xavDqFFezCFsVEmwmU/Un3LwNnrclz95kz6NHfG8N0hAAU6p/RK7raX9EmLaBSlxAOmgZUxdrzyXoZfkNdesPnLqhClLhi/URJNcvkdaJDcwc6dwDRQAuGSAp6gh/1GDsoQBxRn8RfcGpdzg0TzJsGVeHXH0ud71daojD2AGRsOMIIZL736EteIMeIHmicOAj3sGiruaHo9aYeSpxPPtewNEsz+af63CbehEqYMUVD4uNWkD+aQl/jVVLmp2ncfHOagpyhmQGu+rMHNXBD3K9f3x5EoN6Iu6ECf;G+Kd2K1dbz9VK/XDjePJpQ=="
+secured: "WWDLBgs4xLL+A8/4F89bGx9n4AvJDvhwJfMC/riaEkXorJywCocxrKMTHIHmDW0at33xyIHvAGICob3bVZXowvGk1K26Hp5b+FeJPggJqkaSpBxGNR1KuDbrBFK0CgZbB4Pf4VHGyFB0PZNOIYKkR/8B+zNkbxxNRJBiOIT0vYe45QKj5Xtx5NvxxhwffxHLohxuIhoYi9nrAQ/bgeh3b2PuYRRFyGdNgtnZA03A1lu+wfXezFh0+Q+xN7x8Xu0Wb+UMEyMUlcQx0nLIYJO1ZkoFQPRUY9nRm/fO35iDggg15Hfql41CaByV6zbjS5VE;bEG/2OIART/TEhje3Gh9vg=="
 ---
 

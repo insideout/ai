@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -73,19 +73,6 @@ related:
     quality: 65
     images:
       - url: "https://i.insider.com/5e45e27a3b62b725f9357f95?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
-    excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
-    publishedDateTime: 2020-02-02T08:58:00Z
-    webUrl: "https://www.businessinsider.com/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
         width: 1200
         height: 600
   - title: "Former Waymo contractor accused of causing crash with self-driving vehicle"

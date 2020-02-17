@@ -86,19 +86,6 @@ related:
       - url: "https://i.insider.com/5e45e27a3b62b725f9357f95?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
-    excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
-    publishedDateTime: 2020-02-02T08:58:00Z
-    webUrl: "https://www.businessinsider.com/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
     excerpt: "PHOENIX – A man who previously worked for a Waymo contractor was arrested on suspicion of intentionally causing a collision with one of the company’s self-driving vehicles last month in Arizona. Raymond Tang, 31, was reportedly fired from Genesis10, a staffing agency that contracted with Waymo, prior to the Jan. 30 collision in Tempe ..."
     publishedDateTime: 2020-02-14T00:02:00Z

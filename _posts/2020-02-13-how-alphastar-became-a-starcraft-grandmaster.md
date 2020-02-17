@@ -3,7 +3,7 @@ category: news
 title: "How AlphaStar Became a StarCraft Grandmaster"
 excerpt: "You can support this work by visiting my Patreon page. One of the biggest headlines in AI research for 2019 was the unveiling of AlphaStar - Google DeepMind's project to create the worlds best player of Blizzard's real-time strategy game StarCraft II. After shocking the world in January as the system defeated two high ranking players in closed ..."
 publishedDateTime: 2020-02-13T15:26:00Z
-webUrl: "https://www.gamasutra.com/blogs/TommyThompson/20200213/358051/How_AlphaStar_Became_a_StarCraft_Grandmaster.php"
+webUrl: "https://gamasutra.com/blogs/TommyThompson/20200213/358051/How_AlphaStar_Became_a_StarCraft_Grandmaster.php"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 450
     title: "How AlphaStar Became a StarCraft Grandmaster"
 
-secured: "UKMjMj5m2XSKYeZoFLUbouEvExWai4ft5MDjXwJFG79f/UHvGq9HVTe4KSUJsJuixVw8xy4gD9u6RnWNFBS0zWnJbeID5B6z0B25FMu3i2gKr2J1oPcLDPOkLqwQnuKqAE0IclOA1F4UXUo6/dvSzkqYL5Ih0RKtzeRkrmaYbx6bOOVIY0W91ykJaPDbnwJuPRlcZQ8NRPFcwYou743oA5L36ppL4tf3ZS8ki9Kslgieb3Ba/HVUXqsflIHhHGIMZUMNuSYfdPPVtaAqiSaghn0xHLMwH2oF3PLqzVksRlo2TOcVWrbsVJS6SFbIS5Yw;Z4P9QRz1z5aOn8kuQU+u2Q=="
+secured: "yk7K5EHz3gbaVSDkS30mACp2WxRC1U7+LXH6553qN/kos/VnI7YiOYwgBuhSQXYveW+lwvp9EKmas8yRxl8bY5E2ji2gOt1JRxjFf4haf2WpXh5kcBM0Iw1zBc/zyPr0t1S4KOhWtRwo1zXCFMY5m4lXR9BIiSxIQ0h/FqZUww8+Cj27oo9Pcn+pvwDYQwKth1hP0MW/YZ3+AGOTmpk0jhQZz6oSD2jyevoeRP8WaLDLBcdqjEAoYAsqH2DeInG4/RPlMFFf+gK++YSXuOFe3/jjVojSaKy2lnYyxFEcduZkixR/oBS3q3/eoQ3UTUUq;Mq1rv+9mh+gFjIgjqLAM7Q=="
 ---
 
