@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-14T08:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-us-768-billion-globally-in-2026-2020-02-14"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Construction Market is Estimated to Achieve $ 2.1 Billion by 2026"
+    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 29.4% from 2019 to 2026 and is expected to achieve a market value above US$ 2.1 Billion in 2026. The report provides analysis of global Artificial Intelligence In Construction Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-18T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-is-estimated-to-achieve-21-billion-by-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
   - title: "The Global Sales Intelligence Market size is..."
     excerpt: "New York, Feb. 13, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Sales Intelligence Market (2019-2025)\" - https://www.reportlinker.com/p05862278/?utm_source=GNW Sales intelligence software is designed specifically for organizations involving the government as well as the private sector to improve brand value and sales and to provide a competitive advantage over rivals in terms of their daily operations."
     publishedDateTime: 2020-02-14T04:07:00Z
@@ -65,6 +74,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "Deep Learning Market In-Depth Industry Analysis on Size, Share Analysis, Cost Structure and Prominent Key Players Analysis 2026"
+    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 5.1% from 2019 to 2026 and is expected to achieve a market value above US$ 56,427.2 million in 2026. The report provides analysis of global Deep Learning Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-18T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-in-depth-industry-analysis-on-size-share-analysis-cost-structure-and-prominent-key-players-analysis-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
   - title: "Artificial Intelligence in Supply Chain Market is Expected to Grow at a CAGR of 39.4% from 2019 to reach $21.8 billion by 2027: Meticulous Research®"
     excerpt: "Meticulous Research – leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms,"
     publishedDateTime: 2020-02-12T08:17:00Z

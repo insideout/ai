@@ -7,9 +7,9 @@ webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-rec
 ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
-quality: 55
-heat: 85
-published: true
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: The Business Journals
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
-    width: 600
-    height: 400
-    title: "Local speech recognition tech company partners with global call center company"
 
 related:
   - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
@@ -39,15 +33,6 @@ related:
       - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
         width: 690
         height: 388
-  - title: "Global Speech and Voice Recognition Market"
-    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice ..."
-    publishedDateTime: 2020-02-03T00:00:00Z
-    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
     excerpt: "The AI-algorithm that powers SpeechX is based on proprietary evaluation parameters of Mercer | Mettl and grading mechanism of its technology partner CarnegieSpeech that in turn leverages state-of-the-art and patented speech recognition and pinpointing technology licensed by the Carnegie Mellon University. SpeechX assessments can be taken from ..."
     publishedDateTime: 2020-02-06T02:31:00Z
@@ -58,6 +43,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "CcSn4zf1M+fbcYFqxyzxp6yFVTkzpKCWxu10xqIgbUoZxP+8+3E09tNkz5oq0UbcgZc5svQbUosaYi+e7sExjHGShV2womxm0BTLEYe0lskmuU9waqyv6TbLajTrPMTHMfJJYnq/agCp98nwK17fMOhFHPTdrbzQ0oxaP6envz3lI9x2c/LT43GmWaDLshIM/p+8H6DFFnHInIaaYPZi60kLGAMGMPEgjdE8MBtWXjv9wbhO+LyOnhHudGRqYjrDYf2LCMzkcKD4hkyJzV7TiKlfYdSjfk297C+8GS0yB9eat28FrGKnZwYLU9XKQ+Mf;NdruhOl7Vgi0ZEjbgEzJvw=="
+secured: "EXLWNbLGKLzw+05MIty0SFoZtTxst1fkGMgthscblt0lNVPVvCht3TfFth/1NVmPnSBb6uXXi+79gwlKnZVtbjue7CegFhhkO/RFZsPZeZyniXLiFYUph+FWmxVZ3qmeBqPUOiGSQ7tPtC2BIE/1wpKPLbVUu1LPXv0ntqMOci28kuzwFEUBMMJf+IZgAtv0NdB4fScWWdN6liYZnWu1RBphNU2PxXA+65pyOsk6VUoRWAD5khPjqAKOFbmeJp6En6ZMIS670QltFn1DziWUZ577skw+PflSiN672HG3yzGwLcKgm1Ac/pE8dmtQLsgE;lr3L9rI3oe+i+qH1b1y9sw=="
 ---
 

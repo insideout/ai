@@ -7,7 +7,7 @@ webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_o
 ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
 cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
-    width: 446
-    height: 300
-    title: "Software detects backdoor attacks on facial recognition"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -36,11 +30,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-        width: 1200
-        height: 763
+    quality: 81
   - title: "US Army develops AI facial recognition protection"
     excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
     publishedDateTime: 2020-01-28T09:26:00Z
@@ -49,12 +39,8 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-        width: 620
-        height: 465
+    quality: 34
 
-secured: "d6rOVhx+45/HbclbqFcRPjMLtrACForFuBvvIzEkv0SJTXuaAbIAT30PuSq3GDSYy408kGr/tg1ninr7bV6mYQpy2E47IFWEqA83vqFDErunorfjhVBVaOBrniYb736a6bRsV6twwVwZyOfKwTbl9nHgcOTDBEW3N0TQrT6E+jw8dkGRYg0ldow60KJjAy7M3Tj9o2aAdcEMo/fW4D/Tz97wE4GX9GcOAbw/r3zg2TtH4UGSWH7lQt6y/wS7bZQeUYURa3XgYmcKK5TVhkRbQbDyb0Eyo36pfjnn8yi63vOOr0ctCEEVys9e0L4O9a2n;P8pjetSQflnJAjQDJ47hbA=="
+secured: "5GFutJ1npO03oDcJnfvSgmuZefF2CUee1BpkYej0biAGS50k+0DbgYd03wBAww1MUCcrFupCcmzLVqzXrWaVXg3ZZ4FvOhNsD7/htYyhSjoyUvR1t4HCcjSrwkATzvimGNauvUtReXU8k4G60A88nlxj9rD5TrTPsfgQYWyuYIm4/iUvLGft5Y6C+zfA+454c9oIQHgN7h6JKN2r53amZC45DTAGozy9Whm4BwwPEjtMqSAUCab7hKM4ZmFtTBmxF+6X+AGAG/rb/Bk06B8L/ytYabQsk14hbo/boZCx3HeOMc9goLdtuZV36gxvcaDE;1anqlKzs4UEVY+F7zHIWtg=="
 ---
 

@@ -50,19 +50,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2020%2f2%2funiapnea_image_730a5138131e4b5081c7d79fd1008a6b-620x480.jpg"
         width: 620
         height: 480
-  - title: "New deep learning model can accurately identify sleep stages"
-    excerpt: "A new deep learning model developed by researchers at the University of Eastern Finland can identify sleep stages as accurately as an experienced physician. This opens up new avenues for the diagnostics and treatment of sleep disorders, including ..."
-    publishedDateTime: 2020-02-03T14:50:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uoef-ndl020320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/223195_web.jpg"
-        width: 1440
-        height: 960
 
 secured: "+eCUjXGvguer2/Adlnko50S+1ko33KntstLiWrqX5nqaFJWvwnY3n6o73rVQMwXY3KnR0xjXFhxXrzWlkQnIFaxIT39sarVxSbVb7IMSujtYOo7MphWAXbxI2yJ0pc75Jh9U3RJqTdxe1WLBcjjIl3DoM1Emfo0EheE6/+vLj1fGuQzZUrzgmLPNcvFI/OYzfCSIGV4C6zw1Nq/xCBXsxr/cLmVPOk4eEpslQay9NWOiEFfSLLKIJKCS+9ub8QG30OkFgsL2LienoLliyHZL1mvyo8K/sXcTbRBLAk5Pa1mS9f4dI5lFLijiIAo49InKGy6+8YLa4TGLh4cVDD7O0awAbJY1xhMZKXlLwbh43n0ryqW+w8h+B5uVASFnqR8QkdkGJsIrWa85yJlHOqyiUu7AzuwROq0Z1Id2VnrjeoEdSCc8TxOWEEDGVGNt6gOXcE7V6vlAulZLOBnoJ9GNAy3C1tjikTE+l5hEgRY2RNM=;rNOqKK9gmdN2E8olAMDoeQ=="
 ---

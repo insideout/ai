@@ -7,7 +7,7 @@ webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intellig
 ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -19,28 +19,7 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-    width: 1200
-    height: 628
-    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-
 related:
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
   - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:18:00Z
@@ -52,7 +31,18 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
 
-secured: "MeTVUCemyHr4/hPkjOYDAtD1wBHQApMw+aUGIZ02XBvc4gOA56l4qmSuFB/DuXRkbjEq6Xos4+GKLjm4aOpupMeYgaeNNS7umG7CAK9z6CRLllvniYiohq19QqimI0dD8p/wlyP9YxlQ00xvdPdqSliu7IpVe3/5Nba72aImOtXwPOyHGzLOucEp0zAYReakWhFaREZkffNHoJcY9ih2bc92EWWmVS6Jt7j5oFwzm9VqafKTeiw1YWKZ9vWjmFweVSWiZffFMGlY7eK43jDtrsinrQZBrphXgpC0E8zJsZig4BsJ0sCCHjKTTF6T/FZE;FnLWzAYDottDjFokeZN2EA=="
+secured: "mYpEHctDKqwQbqyhYJ61EsIqSBGNJz6ENyVSVw9hbk/2MbJj5YdARPNyTk+g52tHVwW9r+7SRSizuBjhYsP3qpTCML3ULF5yCrDXpDE9QBYgvsk4koe7v4TbJinbWIfya25/fn1fXRONHyoWuUNkEWvmAfqDmbnLH8uC3grKk4sQ1OqrKmCXIoyyNLd4oaA1clq+k7KWh4eD9O3cNu27niqv0PEibvEf5Sob16alkEB2zFH7gwnfsNeswaA/wnz4v2+ZNkMD+jRUmlyBlLtWPZ1dX2GVUfftRdSrKInFlG8JnuvzM+LPR4gZC7KSsw31bry5icGpp7cMzyzuJ1dsLrIfmaT+accLvh+RY2dqVcIT5KvXedAWm6vA2lA+BveRiR9qm6oUq0j3w+wlM90cW3Ke0BbGQMJ8SiMpdJuopYMHXpGaKzciDp++O9neOlNOm7MjtJDI+Ba0DIMPiw9zPrMGsGj6ZRYQhtzqu1Sr9lw=;ELVn/XszKBQyhiVL0hcX3w=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Bloomberg
@@ -34,11 +34,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
+    quality: 54
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
@@ -49,12 +45,8 @@ related:
     provider:
       name: POLITICO
       domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-        width: 1200
-        height: 628
+    quality: 39
 
-secured: "xW1sZgWx/cKewwUYePPtzCZO+SEEXiPhTGo9HngvsIyAwTGidCh+QVnsl3dyaFn7V9P507AovZHJRiJvFxWQKqAeDuwyLW0okvqQZmblnwrVAggE7pxnpNnfSBH6PHc8zqo9OY07KxocIGMVbOTyUP9zSD83NVI0Kl1h6APCmcBqDplRDO8VXxOXxWkZ9fCjg9fy/PuNGTNdfOI1ymUHeoTqvcFhmL/7rJiS/++WRlemineXwL2o+jusAsnT+4GhVER3zgw+8kOGrksPFM/zBuo+xDULsfAcx7scIHgroleARsi/CaPdU2/8tSXlbYQJ;mtuGqLNic3qLQBwGYnHKOw=="
+secured: "CCjQzByVZE1jQjNaqLhsRxztTjiPdsGKEzjOsYxUSLN3A4FHh40vrPO/mr/bkBKs1BY8hGEnjozTznmdorsWQG3MOgD1Jc3JCQlD0t0H6MRVo85L3ZAxPw2XYDhKcNTJdg5A3HYtSnbcukDffPFaG4W5GD2ILVtC/aEeYYqalulwuZUQOY/m13vtbpWnmsKi0T9w97h4X1qoONTqoQQCf/mzDEFw01V9dHXn5qo2cYHXdS1DtY8q7azCdJlAbAV9eSqkR91eqhBVmo7YkDtUKFMOx06REjO5V+uV2t3PRfpo+taza0KL+69jVRBRPSTw;618nux/spHY5ULAzxuXLFA=="
 ---
 

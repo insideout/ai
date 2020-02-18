@@ -28,11 +28,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
-        width: 1200
-        height: 800
+    quality: 69
   - title: "The rise of facial recognition technology: where we are and what to expect"
     excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
     publishedDateTime: 2020-02-04T12:04:00Z
@@ -47,6 +43,6 @@ related:
         width: 1640
         height: 800
 
-secured: "6Qx7aBI2MlEuIyYHaKKe4EI0Cv47EzXpe+65sDbJaxhJcsTXnKGXFYQIQp4Z+0FhWUK1ZayVfGtnzX5iuJCEHd3UfE/lWZlSiNupcBfrExg5IYC0lq5uAKMvN97jOZNFWedW2eZ5nGAxbq4SvLWJMqWb3mbjXbVucqOqCSqMCBA9l4YItdA+exrBZvKmg+7XtH7K3s5eXd19puBJ2tBKtliYZOYpxvea8WIUSj+QYawrE1PWpdxlew2aSWlIPtyp9+202+VG331Gfq36OO1LYHM6Y/CNAABWjStm4xIl/5zB4YCII+MSqPMnlP0dhoSD;NX8veiRpxRtDxwj+5DJq3Q=="
+secured: "UWJyXOtnhAC5vezlFH9GpeEcjHbH2TRg7mJ756EZiPQ0v7pRlD8Rg3UiYlxobLu97pFBgau/OOqM6DS9EzQ8MmqHKxNYI5QmG9CFSZcwF+vbSpnsG9hE7PZ5kGF/CE8m+FeMACzGwh65rikiSpMcWXAQePPjlpcqwGVW7EePb0xPe1yd3uWY4LZiwwOPMCIbBSV90RAOybXQwmEQKjx8hLlE8l7+j7FWZtpE+Qe7B2JUVI6p565k7v5uK4FzHG8u/10aZvKtYGSYTX8AZCgnF37R7K6XOLcNI8a5eWb+WUPvO2OK+3F/9AznC12k4eoE;1qFB+Es2vF2Px0u6kgrBUA=="
 ---
 

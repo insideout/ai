@@ -60,6 +60,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Construction Market is Estimated to Achieve $ 2.1 Billion by 2026"
+    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 29.4% from 2019 to 2026 and is expected to achieve a market value above US$ 2.1 Billion in 2026. The report provides analysis of global Artificial Intelligence In Construction Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-18T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-is-estimated-to-achieve-21-billion-by-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
   - title: "The Global Sales Intelligence Market size is..."
     excerpt: "New York, Feb. 13, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Sales Intelligence Market (2019-2025)\" - https://www.reportlinker.com/p05862278/?utm_source=GNW Sales intelligence software is designed specifically for organizations involving the government as well as the private sector to improve brand value and sales and to provide a competitive advantage over rivals in terms of their daily operations."
     publishedDateTime: 2020-02-14T04:07:00Z
@@ -71,6 +80,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "Deep Learning Market In-Depth Industry Analysis on Size, Share Analysis, Cost Structure and Prominent Key Players Analysis 2026"
+    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 5.1% from 2019 to 2026 and is expected to achieve a market value above US$ 56,427.2 million in 2026. The report provides analysis of global Deep Learning Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-18T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-in-depth-industry-analysis-on-size-share-analysis-cost-structure-and-prominent-key-players-analysis-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
 
 secured: "cy0AouaV2grwA5dwyI038iMHRmJgGi/iutJg4XTQXZJLODDz1BBBgbxaYZ73MjC9jcaiNDPZT1Pu/9ArGLaF8z2QsHBh1zQwRmDVZh5Zmvz6UDXuaG+Aj2p/FReDb/8XDNevT9GaVT+Jxq3/P2bLfgO9v9yDbxJ2QzQdMeUvKuJZGU9m9N0KwF7zBfJIp2mzS7+wuw6rgpGxjRNRFR4Q2gBfCm7WqsUPe7H01FSE6pKlnhT6uey8yKEyO0wLs+m4FB24SWedLn7lBzGpABeDImf/zsYq92gKoQawezZHj3AQNP4TcCPdl3BaurigS9TN;He3YLnDLie5kqGVMK7Ik4g=="
 ---

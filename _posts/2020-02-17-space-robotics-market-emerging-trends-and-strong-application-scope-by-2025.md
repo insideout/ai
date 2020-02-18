@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Robotics Market Projected to Show Strong Growth"
+    excerpt: "A New Syndicate Global (United States, European Union and China) Artificial Intelligence Robotics Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Artificial ..."
+    publishedDateTime: 2020-02-18T07:44:00Z
+    webUrl: "https://www.openpr.com/news/1935391/artificial-intelligence-robotics-market-projected-to-show"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
   - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
     excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
     publishedDateTime: 2020-02-11T07:58:00Z
@@ -76,6 +85,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global AI Image Recognition Market 2020 Latest Innovations, Drivers, Dynamics, Industry Demand And Strategic Analysis by 2025"
+    excerpt: "Market Overview The Global AI Image Recognition Market estimated value was USD 1695.93 million in 2019 and is expected to reach a value of USD 622.03 million by 2025, registering a CAGR of 24.82% during the forecast period (2020 - 2025)."
+    publishedDateTime: 2020-02-18T06:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-image-recognition-market-2020-latest-innovations-drivers-dynamics-industry-demand-and-strategic-analysis-by-2025-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Global Context Aware Computing Market 2020 Technology Trends, High Demand, Competitive Landscape and Strong Application Scope by 2025"
     excerpt: "Global Context Aware Computing Market 2020-2025: The Global Context Aware Computing Market was valued at USD 42.59 billion in 2019, and it is expected to reach a value of USD 205.40 billion by 2025, at a CAGR of 30."
     publishedDateTime: 2020-02-18T05:45:00Z

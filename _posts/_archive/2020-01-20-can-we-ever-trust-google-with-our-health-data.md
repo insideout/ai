@@ -7,8 +7,8 @@ webUrl: "https://www.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4"
 ampWebUrl: "https://amp.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F871f5470-3893-11ea-a6d3-9a26f8c3cba4?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
-    title: "Can we ever trust Google with our health data?"
-
-secured: "+KsH0u6446omdVTl/t68niiGIo0CCNmf9/UlmqMQ4c/wQ1v1pt9Z6IuXBw5z9JWjaKCdFDQuc+3Jw411i6cV2AhxcuZHfLpu4Vg25X+VNaMw4cB7MfcxLtghA5OACv5vbwds/vzG4rr0COuJnUaGJBth8kqYee4n3q28ACCuk0aRwKLfta0R8XG0qydmNndoZwi67EPwZ1bFxdPT9NJ0JW2D89q0ETwOfF1m+e4pmNRQrq/VOU5ab6DG7Zs6eL5Go5c0uvv4JnzCodroG+TOS4Q2J5FKW4AODJAK8WX9LY5B3zfIQAW8TCPa1tzcGEoT;zlwc8TYlabt7EWycqlcpDQ=="
+secured: "E57ER8BGxqI1YREUQSrWlIlCfd0f38QDQgrQgaR6qkkr5LoODmFPOJKmX0IzltscuYTL7rFRkgRegTv4mvHfp33QrTHS3uHf92JX3y1sUdAatrddj+oZrjRogxdP6KWQQbwKhgGPxEdz0hdSMdzVSrwQ0Fve8feCXwiXNMLjc5xYAtxa0s1vsDNT5nIaxQCZgkHsbQw7X+hpXo5NG7hg2dn45e0RXrrj1lZjRY3LreYswQx6X8nfPnMOme5aI/AtjSOX1Vu8ZllN/s/JRmdfx/1rXROO/N+jEuno+/BNCiXyzpwz7vOKal8efxkF/RB0;Ex9MP424/Xl/kudbnbYHiw=="
 ---
 

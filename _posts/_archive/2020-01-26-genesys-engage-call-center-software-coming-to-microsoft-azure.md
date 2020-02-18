@@ -5,9 +5,9 @@ excerpt: "Microsoft and Genesys expanded their partnership to provide a new clou
 publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
-quality: 54
-heat: 84
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: BCW
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-    width: 320
-    height: 210
-    title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
   - title: "Microsoft Sees Azure Sales Surge 62 Percent"
@@ -44,20 +38,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
-    publishedDateTime: 2020-01-23T14:37:00Z
-    webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
-        width: 1024
-        height: 803
 
-secured: "YVWE5aVjCpi/8M1usFsAkyv9ZNMZsMc85bJb6Sv9eW9/POo6HKWfZCtQMWU3zxQJ6bfjvXF2c7RPciZZ7hxuHBd0DNw1EjutRuYsUZ1MGQj9LBKljuEJIU/KVRP5FYlKYSEpc9ZCXeBrasOcqw+zxPUC9lLKUnI1eHhZ6gpK2k0d6c3umiOtPvK0ygrOu9FCYur1lhoO0Yak8sPHhAEVYJeeyG00X4OLRcwkqFpgn3mGZMKYMIRjsWtRQwcHLxmsKsBa+3w0NyN2leIIN+xZNXm5MVMsaj0QmjQTjegXrLUjsxc+J8LySyYn3ovUxBmc;EqbO46nj4G8IVHyNhYfaKA=="
+secured: "WP/APzHowkSLR5PRSrYWCmDog6vPKFe73g0lcGMyZDVLPB9K2eUzaxdK5X6BNWm70cnkgau5Gy3l60s39IMZox9ZuFYeyBDU+AJ//vfpbPi5cCCYH97CcPrPmD7iwM7OozYpgqXqaHViTaVkW9Fam/a3FlNKnrzKVn0QjGbhCrbu91gdcqFNKUWQfbHt1Wrac0r+vKvriFIUwvOBxQOa4ABp59BFz2CxFjhxn8Y2XTxq0XUjPeChrKsrJmPvxAJZ70pUBA7P2sg/98gIe5CeKAVE4pZduSSByvL2v0nyrQK4DE6/v4fI9vf+zXNzQPn/;mBmbUxL3OiUACVsRsycMcw=="
 ---
 

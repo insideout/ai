@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/02/p15348331/brian-burch-join
 ampWebUrl: "https://amp.benzinga.com/amp/content/15348331"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15348331"
 type: article
-quality: 34
-heat: 34
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -17,8 +17,7 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
 
-secured: "ZED9QtgnG8ReG4dZa2XUbRqOVu9hFJSDViyPTUnb3ShOZBNQGVyXc5M/3OYuUsIR10xMNtfcHMnZBkETORok9NnKP1MuMU3bTCFzZx+Z3Xj9t4W2p1JeutauiHY/Y77JmkPCpcCHxcTNb2GNBIxqDYkb+1TFwwrMR5X1MEnFjwkiZeRGWzSJg+zuRL8pEHgzbRlKbBZyrXFA+NKo4Rg39PFGa4oCfAyPnMC27ZauUz0/I8E5QnsKvunNNtSSG0orS5wH8l+4JmDYaWM0nbfAm+O7lu8XCgnSnwnX1s2CrsapEWeb4q3hoa0aEcuvuqAJ;etJ5QNefXvhd7rM6XQX0dA=="
+secured: "KhTXf4Z04rImcrXyWfSfBQG5G+VaQmFLINoX3PHVLOU3I1k7w9IyHIHxED8gtMnt6EQ654VHM5uo4HtzMHcqaKKL0y0lirKRM4yOY8GRWw0BkoSy4G9yVn6S7WwsSNz5OIA2W5zpAFfWt8PCi60FmGTQ2VxMhm7c+LgRu/NeobtiuIBethNU46Pw4Q8QDZbwh9f4djbdGnVqOs5uf6Qq3/I7NSmU7fDLwStu578tsgDZHGZfVryQRBboZv1BrKmOb0BNWzn92Y0jN2jEwWnAj18V70Ne88GXcfqAF73SJA6ocl8kc27+90qofwQbpoAX;B9iuqY5ZJpLhvwycCg/sbg=="
 ---
 

@@ -76,6 +76,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Global Artificial Intelligence and Machine Learning Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
+    excerpt: "Artificial Intelligence and Machine Learning Market 2020 Wiseguyreports.Com Adds \"Artificial Intelligence and Machine Learning - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
+    publishedDateTime: 2020-02-18T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-and-machine-learning-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
   - title: "Global Artificial Intelligence (AI) Market 2019-2023 | 33% CAGR Projection Through 2023 | Technavio"
     excerpt: "This is encouraging public cloud players to offer a wide range of cloud-based AI products and services. For instance, in February 2019, Microsoft launched the Azure Internet of Things Edge Runtime, which allows developers to edit and customize applications on edge. “Alternative solutions to GPU for accelerating AI workloads and the increased ..."
     publishedDateTime: 2020-02-12T20:27:00Z

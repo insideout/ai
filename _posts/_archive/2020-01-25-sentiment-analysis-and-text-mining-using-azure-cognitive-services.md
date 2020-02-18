@@ -5,8 +5,8 @@ excerpt: "This post provides 6 sample codes showing how Azure Microsoft Cognitiv
 publishedDateTime: 2020-01-25T12:40:00Z
 webUrl: "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7"
 type: article
-quality: 84
-heat: 94
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png"
-    width: 1200
-    height: 600
-    title: "Sentiment analysis and text mining using Azure Cognitive Services"
-
 related:
   - title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier in AI"
     excerpt: "which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson ..."
@@ -40,6 +34,6 @@ related:
       domain: business2community.com
     quality: 36
 
-secured: "SlNZ/L/Lr4b/h3kghV7qBFDSXrd4Gx/Z2Bd3/1sf0oYudrvh72xd1Qu7Wb9klvDMydNJgPYAPw/9T5QXH3B9p8/li8bMfdzbUN7L61+8QtLRHXMMWQ6Bbr1bueLAqozNYakJIm8sAAs1hzosFvFZ1hXwjDbOVX7Zyz8d0aH7pZdjSyjXdTKXsYaLrmTfsgOLbr1B2FHx2uPoT3i6baTkyEx+PAzVw3XBNd+lI31lmdIItufloM0Naiognnri4rXM/HDTgwOq/tpdiZs9p/2S5LqlS3BT19T4X2J7rTBl9CGuO4ZObaTRAe1/c4G3nTyB;jRo5gZo+Ry3MQ0r/7XjZDA=="
+secured: "i67oY7QyiO8Xnd9LaSAXTo2UJy+DVSdYnoeDb91iG4BXKIczEdyQCypwDDD1haIqYcGOR4M64YA0Ap+oA95BeAzwgRQpwziFdZHrrQEVSkVCy7vTfeOAThwbcYAD/uNktNBLRT1LFqbICIzaWrLO67WAyilp2wzxedkupKJY26psMX1lhtFakZ2YETmnIFFa7k4mrjO+1ULTxUDwHJka76FeSFDVMgjbAo8d1J3yBVU/M0W9adDIU/4C74QZbQtSz660ohTq/X9XgVaK83iZEf2Bb/pAMzJn3sFwtX8uSjHxYZI7s1prH5t8HfrhMLAz;P8qQi8EqfXhay2TK5c6Meg=="
 ---
 

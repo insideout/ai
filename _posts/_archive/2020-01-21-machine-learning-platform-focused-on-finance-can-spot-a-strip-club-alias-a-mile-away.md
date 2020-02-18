@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/machine-learning-platform-focused-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 type: article
-quality: 67
-heat: 67
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -23,12 +23,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png"
-    width: 1200
-    height: 907
-    title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
-
-secured: "kybuZCi9gnpBDdCjVf5aWfoyay4loVGzJl12V9au2DWwLcYlzOSKfvxhuDXAJ8eqKsvqW8HvlVRfAMt+4Gl4AQir3MKbngMrVX6Pi6uAHQyTpUvP5JkYxfPiLU8n1nN+63DWIh7sTn3Nc5wm9//Np31P0MZ+zN7TGkJ13gqQfimbVaWTR46pXRHLo7dUVbYHyWhPh0U6Gd0k+qbksVDmfA7N9Kb3NPbEf2AGVZeK9RBEV1FGI+kys7x5FYLkFEkJDxJMxtPKL1Ihny6nNn1lxgxhfng8iOxIB0QaXlUFOZ0BXwMZ6E5RnIeaAgBD94yr;dCkt3x2S6c1P8ljfMlRn2g=="
+secured: "t52KlsOn45nW6/vKylqQuDrVpcbRvUFRdY3LUncTi7kfZMwJUVH9RTWgua4JIZ2i1g9H5RCZEfGDI8EfRj1YCtcfwG9LOQfxljAYIjk0nXuOedtYNDwJq+D895hB0i0k7jEmPc+zvYit/MhjOqKagijsVTAYSdcABbuXJ9KlwIwJbOiFyWeUZKmSmjCeL69Vd0CqmByb97Vd1rk4e1hJa1Ic1SzgDmHv40oF/YrEtGtafJc6ebvTLke+WL2HzM0sim3jY0azHaOP+SXI7/wD1dR41xVYkeRSdivBB4PAGzGeCHdgT4uRNBuHvBRDjkgj3/WOAS5yDTwfY3PvTI8GzwsY+K85IJA/3KoBMcGm07QsJ/XJZ/0Me+pMZIgd39SKK7n4ak8yVu8J1Rvc86NCZR0pCZI5/8k3qCh0LpiVrQBYHvWO5ygBZYvGaYy/36oU+rL60UtnopSuNMHwScB9K/eW5zuORgcx6tBUv6glYoE=;VizKLURQ/J1PoKTFq3/tvA=="
 ---
 

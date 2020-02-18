@@ -28,12 +28,8 @@ related:
     provider:
       name: IET
       domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
-        width: 1200
-        height: 450
+    quality: 34
 
-secured: "9zMbwXua4Rnlchh/0KfqTHi3wMCU8lL1l6Zh3Vj0b7n8PuBlsV5FJ+9HhiVbD42r2dF3PDxR+to9jVR/asYdud6TcZAbBaaDLKjVHVIPsQyt3V2sQUhJK3oH9WCgH3Kj2NaWRigX8ZKy5KQ6RhHLkOiCi3chAmy+wQtEtzUMsCROsn9NpMfEnyH0ba62vEprpzhQImXvW27iyt46OyEfLocEqSU1gZHtTdUEgb6DZEXVdEtHU3pOlJekFSkReopVoF0G1SxNzVykuuXie6otGPaBIH8q/3ysxj/FAz7iHx2Tv/Yj1RmhXrG13uKtLnbO;kPZVTtUW9G3VQgNAaJ9y6g=="
+secured: "81OKBKt8ujzwyFmDibLT8umgJUWVYCKdorzjCAZXFXgEw1QUc0H3UNaouiOwQJRbJ6+DedHGCOMpQdZQnjN0619gxk80eEJX63yhuuTxac/ZV3wqMNYwscO6sLso7Jvl8BOhMPj/5G8RJnON4EXEzKo8JCI0vhmwhDpxwfR2JPE5vif0Wft3w3YqBzI9LxCMh+cM4lA/DHDMDZzRbRHjcdDvl8hfkAU04bd/EnxjIjEO759kDIE9ZL36ixXJpNUQOLGbQH/FhQMVPm804v2HpHKdkIeWecUxU2cfp+VNdvyS+KGlTm7YJNKHRmvZCWNV;VyNjYpd6M8U2CEV57s9YHg=="
 ---
 
