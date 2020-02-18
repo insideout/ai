@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T05:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -28,15 +28,6 @@ images:
     title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
 
 related:
-  - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
-    excerpt: "LOS ANGELES, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The global machine learning market is anticipated to grow at a CAGR of around 40.1% over the forecast period 2019 to 2026 and reach the market value of around US$ 76."
-    publishedDateTime: 2020-02-05T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-around-us-768-bn-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Machine Learning Market Garner Valuation US$ 76.8 Bn by 2026"
     excerpt: "The global machine learning market value is expected to reach around US$ 76.8 Bn by 2026 and growing at a CAGR of around 40.1% over the forecast period 2019 to 2026. Machine learning is a subset of artificial intelligence. The concept has evolved from computational learning and pattern recognition in artificial intelligence. It explores the ..."
     publishedDateTime: 2020-02-05T05:54:00Z
@@ -56,6 +47,6 @@ related:
       domain: finanznachrichten.de
     quality: 9
 
-secured: "0rg9KPyW8skTLeqIhLOrMuiI4ulgymEMuHz2hW0XI4QPuLm2hMDyZIOZSWsi0c7ZYnJYOqaNNWKptyTkIBiikCi0N6yXNdqKw5b0uGFQXTn4M8K5TBkjYsAp1xvYpWWRu6fhJ2ruiQrE7+SnkQWgqKVl7NmTvkaokNd8/oKvqKkkCQjjOt65cCIga9xx7eiFXi+BF407U88WrLWkkZqNrGPCoMpSMUaG438LTTsRdmiSlQ+Q9iM5YeIl7okFQn8UDSdtWKdcl4qdwkG/DtBw9pU+X50uaxDEtDCTaT9raAJdm8ogIEqSodgAgmmucsi0;cJm1691YNgtTXn47ZsoRdQ=="
+secured: "4mQIfev2rnJ2C1iuaDqTy/MtRVxHOMDM2NfKbFCjNihFlaRXRMKTJkmrBTQYwdyAKQZa7638XWAPadPYWuWq+gglKPKaAdlmJno1VQrnui84f+coTwm+cEhHmGV6LswliH3yu4daKchYtLl+Qfh65pXdq/u1uu7KJ89qhdjuScK+ErK4r5UbmKg66/DSFC+6xWdvJzQOCKntng8ceROfzW+5Cne0Kj9GmRgvFBfDzXdsmkzWeqNm56pIwnovp7kYYTGyXYRBYiNaLBaNqZGYWe46naAuMd6vQOtZE9dOK6ECkoMXwMHicGc9tfqby0TH;o6EgBlEA/n1ttX4aG28SVg=="
 ---
 

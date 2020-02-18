@@ -24,50 +24,82 @@ images:
     title: "Congress looks to revive self-driving car legislation"
 
 related:
-  - title: "How to Build a Morally Ethical Self-Driving Car"
-    excerpt: "A road hazard appears in front of your autonomous taxi. Will it make a choice that saves you but kills others? Or will it decide to save others at the price of its passenger?"
-    publishedDateTime: 2020-02-06T14:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2020-02-06/morally-ethical-self-driving-cars-are-the-next-real-challenge"
+  - title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
+    excerpt: "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market."
+    publishedDateTime: 2020-02-13T01:21:00Z
+    webUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 34
-  - title: "Australians Slow to Embrace New Technologies but Want Self-driving Cars"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-02-10T23:02:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-02-10/australians-slow-to-embrace-new-technologies-but-want-self-driving-cars"
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
+        width: 960
+        height: 541
+  - title: "Automatic Speech Transcription And Speaker Recognition Simultaneously Using Apple AI"
+    excerpt: "Last year, Apple witnessed several controversies regarding its speech recognition technology. To provide quality control in the company’s voice assistant Siri, Apple asked its contractors to regularly hear the confidential voice recordings in the name of the “Siri Grading Program”. However, to this matter, the company later apologised and ..."
+    publishedDateTime: 2020-02-08T08:43:00Z
+    webUrl: "https://analyticsindiamag.com/automatic-speech-transcription-and-speaker-recognition-simultaneously-using-apple-ai/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 34
-  - title: "The road ahead for digital signage in self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
-    publishedDateTime: 2020-02-04T15:59:00Z
-    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
+      name: India
+      domain: analyticsindiamag.com
+    quality: 32
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/aim_Apple.jpg"
+        width: 1600
+        height: 800
+  - title: "AVs are getting their own rules"
+    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
+    publishedDateTime: 2020-02-07T17:37:00Z
+    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
     type: article
     provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
+      name: Axios
+      domain: axios.com
     quality: 24
     images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
-        width: 640
-        height: 360
-  - title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
-    excerpt: "A team of engineers at the University of Waterloo has made it its mission to Canadianize self-driving vehicles. It's the first group in the world to create a data set for winter driving. In other words, it has compiled 10,000 video frames and 56,000 images to better teach self-driving vehicles how to navigate snow and ice. \"We're basically ..."
-    publishedDateTime: 2020-02-11T15:08:00Z
-    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/self-driving-car-university-waterloo-winter-driving-1.5459331"
+      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
+        width: 1920
+        height: 1080
+  - title: "Fintech 2020 and Beyond: The Decade of Regulatory Collaboration"
+    excerpt: "In 2008, while bank and nonbank institution fintech and innovation were flourishing ... automated investment advice and artificial intelligence (AI) and machine learning. The website provides pertinent regulations, investor information, opportunities for comment and empirical data. SEC Chairman Jay Clayton is quoted as saying, “the SEC ..."
+    publishedDateTime: 2020-02-07T17:57:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2020/02/07/fintech-2020-and-beyond-the-decade-of-regulatory-collaboration/"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
+      name: Law
+      domain: law.com
     quality: 24
     images:
-      - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2020/02/Joanne-Needleman-Article-202002061606.jpg"
         width: 620
-        height: 349
+        height: 372
+  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
+    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
+    publishedDateTime: 2020-02-07T03:43:00Z
+    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
+        width: 4000
+        height: 2666
+  - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
+    excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
+    publishedDateTime: 2020-02-17T16:14:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/17/1985745/0/en/Emotion-Detection-and-Recognition-EDR-Market-to-Reach-33-9-Billion-at-a-CAGR-of-28-9-by-2023-AMR.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "v9rkDziKUQw/IpRIdYhcdeTyd6e76zzyh5HeLy9B55OjWUqFKJL7f2UgD2GCxxIRhTj8ZoWyaIuPyN9FCrI/+3dlXNslRl+smF2m0rYTV23p1sdEY+5I+1VT3B1jXTJuYhLN0HWDw408fHRsUmHhRwuOo1juDz3lBNLxFgVQny3kZGj5WGYiLMup3+qjqlvhFB5Pd3Z7WZQ4rcn9BfrExw5bStmN5c+gAjbPzGebC9CF2G8Ojz+4c9FY2vaFT2PkHWLPe1SDOHNMZn0aqtelpoLxQNu/gE13sqDdbtpXVvqnMnIY2yOlKWuSu1lnXrVgPq676b3cf1NQT6z4EaD6KCRo9Zqf0ZqL0u+fbiqrj+uqr6iVc76TS0YGOX+FfdP8ltUX6Q1c166UpCUuCDgMrt8/rRpQfzy+cl33cXfuvMZqcYtLedtrKx3YWSjV+fPD+j0vsM031kUBF0dUOt9oiM5qjRUO2wPwBrtrPDr4K4A=;JPrCPvzhnF5QGxVF9To9XQ=="
 ---

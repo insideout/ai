@@ -76,19 +76,6 @@ related:
       - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
         width: 540
         height: 420
-  - title: "AVs are getting their own rules"
-    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
-    publishedDateTime: 2020-02-07T17:37:00Z
-    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
-        width: 1920
-        height: 1080
   - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
     excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
     publishedDateTime: 2020-02-07T18:06:00Z
@@ -111,19 +98,6 @@ related:
       name: Penn Live
       domain: pennlive.com
     quality: 4
-  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
-    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
-    publishedDateTime: 2020-02-07T03:43:00Z
-    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
-        width: 4000
-        height: 2666
 
 secured: "6SzfK1BlP+/AFRYaMWpJ+lnTeD3uL+R+eiccSpQFd2Umhrvqxo3tbS4IQXgUJqcduD4l+2qLBZN3Kbyrnys9qtG9Ws0bImMM6J1OYTxvqbU3xlpixrZHsrlPYbKOGtDuIOv88mpNhKDJm4tppL4GaEB70gzFu+hsuEbAskcV87n7LX7T/Ojv5K5gnr6jb+pHmIFFH5ZAEBEiSontalzNh+BbwQV4C+j/S77Pdyb07Ujh6f9MIVArZmMT3P2Ly93p730NSVYbJ9HbONk1i2npJzaFQYRqhGYLV0H5aWDS6tbtyJyEV3Q285WYlBnxtBty;z/TYBGBg/wgrRiKxW/Xuxw=="
 ---

@@ -89,6 +89,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Machine Learning in Automobile Market 2020, by Applications, Industry Profiles, Trends, Technology, Demand and Opportunities to 2024"
+    excerpt: "Report on the Global Machine Learning in Automobile Market outlines the comprehensive study of market comprising overview, production, producers, dimensions, income, price, consumption, growth rate, sales revenue,"
+    publishedDateTime: 2020-02-18T13:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-automobile-market-2020-by-applications-industry-profiles-trends-technology-demand-and-opportunities-to-2024-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
     excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
     publishedDateTime: 2020-02-11T07:58:00Z

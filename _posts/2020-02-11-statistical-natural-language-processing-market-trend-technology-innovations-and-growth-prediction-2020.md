@@ -83,6 +83,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Machine Learning in Automobile Market 2020, by Applications, Industry Profiles, Trends, Technology, Demand and Opportunities to 2024"
+    excerpt: "Report on the Global Machine Learning in Automobile Market outlines the comprehensive study of market comprising overview, production, producers, dimensions, income, price, consumption, growth rate, sales revenue,"
+    publishedDateTime: 2020-02-18T13:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-automobile-market-2020-by-applications-industry-profiles-trends-technology-demand-and-opportunities-to-2024-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Gesture Recognition Market Global Trends, Demand, Industry Verticals and Supply by Future Prediction 2020 to 2025"
     excerpt: "Global Gesture Recognition Market 2020-2025: The Global Gesture Recognition Market is expected to register a CAGR of over 27.9% during the forecast period, 2020 - 2025. The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices."
     publishedDateTime: 2020-02-18T11:07:00Z

@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026"
+    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market."
+    publishedDateTime: 2020-02-12T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "ftgMO3UC+YTkRSdTVt2RdRpJVKBAoGrYcr999z61B5ZMkouYfiu5qcT4Q50HOJMvWqj1yGujjgzs2eDqXMB5blefB2V79QFOAPP0VBGzRQwU1Y9CTi2z7SFLWwBgdJsML8Bh2Sd+kPvKQ72g4UoqolGV4sB+MlYnarFvjypunTlI181dCyF++aQ7GHAiZAuGpcbXg2VdEXojsC6JCjrn6mzpHm0kXkH6MtoK7VrTQeF52W6zxMJnNLNZ5yMSbxJPpqW24bd6KoyuRED+Enxtx26Km2LCv9TG2HW9BLWDl/rEbpGsoZoRGnuYfs1YTMsq;H65brTCyxuB6QN//T5+i9Q=="
 ---

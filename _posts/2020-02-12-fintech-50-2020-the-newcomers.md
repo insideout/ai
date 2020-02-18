@@ -101,6 +101,17 @@ related:
       name: Business Insider India
       domain: businessinsider.in
     quality: 39
+  - title: "AI and the future of your mind"
+    excerpt: "Susan Schneider, associate professor of philosophy and cognitive science and director of the AI, Mind and Society (AIMS) Group at UConn, has gained a national and international reputation for her writing on the philosophical implications of artificial intelligence (AI). She writes about the nature of the self and mind, AI, cognitive science ..."
+    publishedDateTime: 2020-02-18T14:28:00Z
+    webUrl: "https://phys.org/news/2020-02-ai-future-mind.html"
+    ampWebUrl: "https://phys.org/news/2020-02-ai-future-mind.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-ai-future-mind.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
 
 secured: "8fZ8wwmRt1Gh8B0i25hTkuk4exM20EINA3JpNFXjY73u5OrloOV0uDRSG5Yavgd9hW2RhG7KvNBbPeIfhU8sp3BWflAX32+6ytaLZ2Muzs12KTzLMAlCbmUowzbNDudXwvq5+Zn1h11k3MCFmLGrK8kQ1HykSj8prYPyXD5jwIk72dkcR+XORV9AxDI0WogxklT+bDX4zHKP3h72sHSBlfR1Bnepx0SRrLM00rAedrfk/K9V7M0yACP/AyMh8+xVsYjVKp2RJ/w3hIbnkbizmvqRRFdb8RbxZcQrvalru/CRGSiPNZHM4zqak045sNjA2zPfO/8Q7lUXB9e4ZYD/L3vhqZ6FLqd1wKqSHt4tlbbqhkAhSmBTUutwf967iV1vcMBIbiu0nl7FrDIWxqlVoqdJVLmLePS0BfOOW370nhDVJNhJ1r/vpyF+VNtaak6fL+prXdm4gE4JrElWqBl7btDOVrUvCK+sBvVRtEr5hAE=;63llcWz78/wA5+PqSNcD2g=="
 ---

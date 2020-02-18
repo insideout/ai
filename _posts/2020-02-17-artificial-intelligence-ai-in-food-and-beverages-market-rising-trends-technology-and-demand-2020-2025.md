@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T10:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025-2020-02-17"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     title: "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025"
 
 related:
+  - title: "Artificial Intelligence Chip Market 2020 Increasing Demand, Growth Analysis and Strategic Outlook – 2026"
+    excerpt: "Artificial Intelligence Chip Marketis a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and supply data (as applicable)."
+    publishedDateTime: 2020-02-18T14:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-increasing-demand-growth-analysis-and-strategic-outlook-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Natural Language Processing Market 2020-2025 Current Trends, High Demand, Benefits, Key Country Analysis and Business Opportunity"
     excerpt: "Market Overview The Natural Language Processing Market was valued at USD 6.94 billion in 2019 and is expected to reach USD 23.47 billion by 2025, at a CAGR of 22.5% over the forecast period 2020 - 2025."
     publishedDateTime: 2020-02-18T07:14:00Z

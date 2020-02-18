@@ -31,19 +31,6 @@ related:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400
         height: 400
-  - title: "Deep Learning Model Found to Accurately, Automatically Detect Sleep Staging for Patients With Suspected OSA"
-    excerpt: "Using a deep learning–based model to characterize sleep staging, researchers were able to accurately and automatically detect patients with and without obstructive sleep apnea (OSA), but accuracy decreased with increasing OSA severity,"
-    publishedDateTime: 2020-02-03T21:22:00Z
-    webUrl: "https://www.ajmc.com/newsroom/deep-learning-model-found-to-accurately-automatically-detect-sleep-staging-for-patients-with-suspected-osa"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 21
-    images:
-      - url: "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg"
-        width: 270
-        height: 270
 
 secured: "oUei2uXfDTCA64UR3VDqhPq8bwqba3o3NOMvlOxVp+27Tjc3gihNWCI2TYBYABtmqRqS0TWkfbFXXT57kpZve2+h8dIqDadVGKymfT74yVLjIy2jKt1zNUOS9R/mdwfLR+rToMQfC8Fwx8+Lz2Uy/BymfKBZeoqWFnPyHVRTIDEGNgC0i5hfBe8ffJwyBRc3edrar3O5aIYIi2W7/vWLoW2Z8E8nBI+AZPJCXqmA5tf4MIJc5JrYQlgT02LQALF0fXti81+qL2j6oCmbpeBVOCaRNdnueAERDHxi/l92FILeZ5w2xKgjv+szQVugnZdirIaa5VZjEGwuvbx2VIEOdRqrTfPC6xNSrOl+gh6OV7UqOyMbZDnJ1diabzyEmqKS2cHRBuByC6yPCpPWKHASfM22NdoumFlFyxcVkz1oPICHF5RGAkGSBWm8wFfvJV4CtqNcLGsMS5iO96vw7s1WhBI4GDyCwvxQPc7cUJjntVE=;K6XtE5P98mSaBUODC1P/iw=="
 ---

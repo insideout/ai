@@ -29,19 +29,6 @@ images:
     title: "Tutorial: Forecast bike sharing demand with automated machine learning"
 
 related:
-  - title: "Deep Learning Model Found to Accurately, Automatically Detect Sleep Staging for Patients With Suspected OSA"
-    excerpt: "Using a deep learning–based model to characterize sleep staging, researchers were able to accurately and automatically detect patients with and without obstructive sleep apnea (OSA), but accuracy decreased with increasing OSA severity,"
-    publishedDateTime: 2020-02-03T21:22:00Z
-    webUrl: "https://www.ajmc.com/newsroom/deep-learning-model-found-to-accurately-automatically-detect-sleep-staging-for-patients-with-suspected-osa"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 21
-    images:
-      - url: "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg"
-        width: 270
-        height: 270
   - title: "Deep Learning for Extreme Weather Forecasting (image)"
     excerpt: "A schematic representation of the capsule neural network Rice University engineers created to forecast extreme weather events. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system."
     publishedDateTime: 2020-02-04T14:45:00Z

@@ -24,93 +24,60 @@ images:
     title: "AVs are getting their own rules"
 
 related:
-  - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
-    excerpt: "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ..."
-    publishedDateTime: 2020-02-07T22:57:00Z
-    webUrl: "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
+  - title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
+    excerpt: "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market."
+    publishedDateTime: 2020-02-13T01:21:00Z
+    webUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
-        width: 800
-        height: 560
-  - title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
-    excerpt: "CALIFORNIA — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or ..."
-    publishedDateTime: 2020-02-07T19:34:00Z
-    webUrl: "https://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/"
-    ampWebUrl: "http://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
+        width: 960
+        height: 541
+  - title: "Automatic Speech Transcription And Speaker Recognition Simultaneously Using Apple AI"
+    excerpt: "Last year, Apple witnessed several controversies regarding its speech recognition technology. To provide quality control in the company’s voice assistant Siri, Apple asked its contractors to regularly hear the confidential voice recordings in the name of the “Siri Grading Program”. However, to this matter, the company later apologised and ..."
+    publishedDateTime: 2020-02-08T08:43:00Z
+    webUrl: "https://analyticsindiamag.com/automatic-speech-transcription-and-speaker-recognition-simultaneously-using-apple-ai/"
     type: article
     provider:
-      name: WREG
-      domain: wreg.com
-    quality: 39
+      name: India
+      domain: analyticsindiamag.com
+    quality: 32
     images:
-      - url: "https://localtvwreg.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
-        width: 1200
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/aim_Apple.jpg"
+        width: 1600
         height: 800
-  - title: "The feds just blessed a custom self-driving vehicle for the first time"
-    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
-    publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
+  - title: "Fintech 2020 and Beyond: The Decade of Regulatory Collaboration"
+    excerpt: "In 2008, while bank and nonbank institution fintech and innovation were flourishing ... automated investment advice and artificial intelligence (AI) and machine learning. The website provides pertinent regulations, investor information, opportunities for comment and empirical data. SEC Chairman Jay Clayton is quoted as saying, “the SEC ..."
+    publishedDateTime: 2020-02-07T17:57:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2020/02/07/fintech-2020-and-beyond-the-decade-of-regulatory-collaboration/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
-  - title: "When can we buy self-driving vehicles? No one knows"
-    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
+      name: Law
+      domain: law.com
     quality: 24
     images:
-      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
-        width: 540
-        height: 420
-  - title: "Self-driving vehicle law hits a speed bump"
-    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
-    publishedDateTime: 2020-02-11T11:08:00Z
-    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2020/02/Joanne-Needleman-Article-202002061606.jpg"
+        width: 620
+        height: 372
+  - title: "Congress looks to revive self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-12T12:19:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: E&E
+      domain: eenews.net
     quality: 24
     images:
-      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
-        width: 1920
-        height: 1080
-  - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
-    excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
-    publishedDateTime: 2020-02-07T18:06:00Z
-    webUrl: "https://cbs58.com/news/us-clears-the-way-for-self-driving-vehicle-with-no-steering-wheel-or-pedals"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 22
-    images:
-      - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
-        width: 3000
-        height: 2000
-  - title: "US lets self-driving vehicle bypass human-driver safety rules"
-    excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-    publishedDateTime: 2020-02-06T18:08:00Z
-    webUrl: "https://www.pennlive.com/news/2020/02/us-lets-self-driving-vehicle-bypass-human-driver-safety-rules.html"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 4
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
+        width: 938
+        height: 483
   - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
     excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
     publishedDateTime: 2020-02-07T03:43:00Z
@@ -124,6 +91,15 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
         width: 4000
         height: 2666
+  - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
+    excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
+    publishedDateTime: 2020-02-17T16:14:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/17/1985745/0/en/Emotion-Detection-and-Recognition-EDR-Market-to-Reach-33-9-Billion-at-a-CAGR-of-28-9-by-2023-AMR.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "TcwCXBnN7I5KWhPfZESck73DFGDyMXhz1pZGMCtUadBV7j/EK1tqhDk1SE5af+boLir666QewohUevnpbKcavj229noJdIcdqV/+5adIk//CYcV3pH4/UaVsLihULb6gXR5d2eQhRkkolyMMSWEDO43philujpqrfDAemMDnxQuZHWtjyUiSGnFzgmKBuNeo63AMXUucblSHROhXUI2OQA1DdqGVuVwg/elS4K4L8y2oFy+ez2vCNinKLV15634eocdVUaMT/2AS3na82LS2dfHlJbq4/EnOxW4XPIdp6pYGedyaaY/2Gy7Cyd8a2lwV2mbEAo88mOlzliWIj6h5sTAEeekzijmz5Pv7HyRMZZBMJeG0ycHPDwKLT1a5XwCZP1WqzQPYdedRGy3Z5aF6j+0b/f5IxzOvjARQo/ZYKskR1OjAuLu7fl9Sv1ggpIMsh6MD/J/iHm45KyBxcjn4ftseMiJBoTf6HcrD2vbHfJU=;8WD4u0wKU7tb1HQrbhHYTQ=="
 ---

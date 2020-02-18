@@ -35,6 +35,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Chip Market 2020 Increasing Demand, Growth Analysis and Strategic Outlook – 2026"
+    excerpt: "Artificial Intelligence Chip Marketis a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and supply data (as applicable)."
+    publishedDateTime: 2020-02-18T14:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-increasing-demand-growth-analysis-and-strategic-outlook-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "nlix3kj/oLbu4LtgovLWmEmGKBmkP4+NvJvWg2UEDC7XOD2/6GP6wd31tP7yJyEWkafnMYWR+y7360TXHkvrXzCnWmwqG4LWvg3QfKbRlzjenG71mljwQ+Q5FF65EwaoLzQF7DlHtH4fHECoAYS5fStCDSKu/32Gygq7WqNRk4IcSoeAuw24u9wfoBCTw+qY1jxqDVQOo8BtoexEm2o7CRuQ7BucJwLjVF6365l8gUYsUqQxDIVc3ncIdl6Pls4PD7BcS78C+F38zIHxs13IaDUUdDUNkCWdNObtRBMKvO2u5ZhU4h3LXG+QYpDjVOaX;JIYqR048GapiYn80Wd5I2Q=="
 ---

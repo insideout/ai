@@ -67,21 +67,6 @@ related:
       - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Massachusetts Communities Remain Leery of Facial Recognition"
-    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-03T21:46:00Z
-    webUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 76
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
-        width: 1119
-        height: 630
   - title: "Facial recognition: the next step in fight against rabies"
     excerpt: "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ..."
     publishedDateTime: 2020-02-10T14:43:00Z
@@ -97,21 +82,6 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
         width: 792
         height: 528
-  - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
-    excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
-    publishedDateTime: 2020-02-03T21:39:00Z
-    webUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview"
-    ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
-    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
-    type: article
-    provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 65
-    images:
-      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
-        width: 1440
-        height: 810
   - title: "Activists launch new effort to kick facial recognition out of schools"
     excerpt: "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ..."
     publishedDateTime: 2020-02-06T20:21:00Z

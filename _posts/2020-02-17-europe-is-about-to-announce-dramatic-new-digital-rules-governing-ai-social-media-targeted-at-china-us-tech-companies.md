@@ -24,36 +24,21 @@ images:
     title: "Europe is about to Announce Dramatic new Digital Rules governing AI & Social Media targeted at China & US Tech Companies"
 
 related:
-  - title: "EU’s new AI rules will focus on ethics and transparency"
-    excerpt: "While transformative technologies such as AI have been labeled critical to economic survival, Europe is perceived as slipping behind the U.S., where development is being led by tech giants with deep pockets, and China, where the central government is leading the push. Europe has in recent years sought to emphasize fairness and ethics when it ..."
-    publishedDateTime: 2020-02-17T13:51:00Z
-    webUrl: "https://venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/"
-    ampWebUrl: "https://venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/amp/"
+  - title: "Facebook, Apple And Google Heads Visit Europe, Seek Help Navigating New AI Rules"
+    excerpt: "Alphabet CEO Sundar Pichai and Facebook CEO Mark Zuckerberg recently visited EU Tech company heads are visiting Brussels one after another. After Alphabet CEO Sundar Pichai and Apple’s senior vice-president for artificial intelligence and machine learning John Giannandrea visited earlier this month,"
+    publishedDateTime: 2020-02-17T13:02:00Z
+    webUrl: "https://www.ibtimes.com/facebook-apple-google-heads-visit-europe-seek-help-navigating-new-ai-rules-2923649"
+    ampWebUrl: "https://www.ibtimes.com/facebook-apple-google-heads-visit-europe-seek-help-navigating-new-ai-rules-2923649?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-apple-google-heads-visit-europe-seek-help-navigating-new-ai-rules-2923649?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/MV-e1573146856797.jpg?fit=1200%2C664&strip=all"
-        width: 1200
-        height: 664
-  - title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
-    excerpt: "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market."
-    publishedDateTime: 2020-02-13T01:21:00Z
-    webUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
-        width: 960
-        height: 541
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/17/european-union.png"
+        width: 640
+        height: 425
 
 secured: "cEUMuWYemCl9mZ9x9ubb5QteX9YC3Arbcd5tYSDk9nIWm5QybMQGItlhz79jXR8oBUTp2+FVgIgHB463C8dfbLbJkgMmF/G8kfczwEHIqMiBw/Xb3O2Nvg3+UV664k+FfHexKbvidRUz0Zdzzmw2EdTmfQc23DWfC1QkfDsangRDv34p8Pd9ncSQ03v/b4ARi/H9cIV5dwF2T7JsFVlUIr9B0BCoS7YOZzTIf8ESmSFzdxPnwZ2NMGQDboglTmR1Sa9MVufhcOpdkAYO+7jxEZfoMclBDe+adg62Vb0KwtUJ/oQM2U+nlEzJk3hoq/z8Lg9N7JFiMUiAoFSZTQ/B9fRo/s/FmY4ful2DofM5ebA1v7Dfi5b6tzTaChfV8ilVLDQAyKKvmTUvACCt6LsTM2eg8/01+IeAYWLG0moydvpdKlLKIIMkrwGQ2pTpkDkukcvVF9pxAllX9BXGyKP8MO5NPdXAwGvOzUNe1bfEJ9A=;Ko7hcIkcXpfKywCKFnpxtg=="
 ---

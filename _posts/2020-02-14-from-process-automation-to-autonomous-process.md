@@ -45,17 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg"
         width: 1200
         height: 801
-  - title: "Artificial Solutions and Blue Prism Partner to Add Conversational AI to Business Automations"
-    excerpt: "About Artificial Solutions Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise ..."
-    publishedDateTime: 2020-02-12T07:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
 
 secured: "edYkm562EJI5ubzyMjYug2qpSBlkhmho3jhmBMYwnRGKAQnA+B9pRobE/QqOECX2UA9jemoTJVwfzrp29XcRZ7EKjbBKvmjOT7KoFRXypfq23Ucg7spZg8c7ol5oAWeQv7M/zPyC4hwPqQO3Nukf7sAQRTCdTBgdSX48fiFWvdvfjdXYQUIZ1od+Gqtxeq3p1ZEYqOF4NSyPIljyfaaIjJ3l7A0cWnBMt2aMy+MzomfpSL1jt+fZK1IfKYVzj7Qgtr86qRbTK6/xdJx5fvZB9Hp+RcDFJPs3Y6W/fRbGC8uCwstCxWqen7BD6FYXBt9c+RnQ6fDlP2eEw7h9c5Tx+0VBY1X0iemdQRB9NXSWRZq4mHe4I0zUa6HuEvA5TKqYQ1+TH2Z6JcDn+JpbgXLo54/xYznTZB5hxwwGbHbBXOHgxg85CGG/ve8EPcw96X2YIGDfVIsXg8FrnQbpCxQhMlcLghSCStpOc4Zv1e7w7PM=;Zp0+I7EgQZjNK4CZ+Vc4Ug=="
 ---

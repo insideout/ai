@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-futur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/"
 type: article
 quality: 187
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -99,6 +99,17 @@ related:
     provider:
       name: Business Insider India
       domain: businessinsider.in
+    quality: 39
+  - title: "AI and the future of your mind"
+    excerpt: "Susan Schneider, associate professor of philosophy and cognitive science and director of the AI, Mind and Society (AIMS) Group at UConn, has gained a national and international reputation for her writing on the philosophical implications of artificial intelligence (AI). She writes about the nature of the self and mind, AI, cognitive science ..."
+    publishedDateTime: 2020-02-18T14:28:00Z
+    webUrl: "https://phys.org/news/2020-02-ai-future-mind.html"
+    ampWebUrl: "https://phys.org/news/2020-02-ai-future-mind.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-ai-future-mind.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
     quality: 39
 
 secured: "GDRYEowzCCOauNWng0TI9N/3Y3LrvaNBz+aWHDfOamrp3xR7QYuSkCnosU6p56OyCikgHWfWzfQIdhq9Pp4QtMQfBcI8AugviXT3O0lwRKQbYhPqzEgKhyjlK3tmVntWjrmkS8gZVJPekCTYLUBegFUMgQTxiMCJIr2C8RRfEujcz3sw+MiMZtZSj6wRhwTORIrboSowuKiLhwq07PeaC2n0ZZv2RTm9tGIa2HVazN8kfy2NRjlnY8ANyBCC3kek+7ITXjFxsDmBsXmdspwOdtltYy7iZmoGEUNhiRkJIYruRvzPMZh2jpzukj/WA8oq1T41Tq0tlWNEhOVoq1Kzbw==;gVQneUVsdamVXLiQNcWqxg=="

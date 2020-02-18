@@ -57,19 +57,6 @@ related:
       - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
         width: 620
         height: 349
-  - title: "Congress looks to revive self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-12T12:19:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
-        width: 938
-        height: 483
 
 secured: "v02y5TiaZexZtz0+U4hyE+s98s4p66OhPTIOnwUy4HSrBl9WsbcjDtCHYn+8iWsuL9HsbEE0QvLdpkQX8vpKJWgZtYq4RWdcVQRZarEYYqtm7GlIRv/w1xGoN7F1IYfLLibxTz2ZpT/fMQxh7xZgMDn4HCDXI1GzhcTtwvhN119Sj240Eh/RIVsZnx2OzI401Fc9xgEX0Yr2ohVsPLFrBe7vXJ7vg87LciU1iYMAH8k3q6EhTbIEK6B+h4EnK5wVRwI3xEwO8Qx6OGD/zhmgJkWpDFs26mXzWWGB3ELGj+v/P7TwUV72L+aLInSDTzIle5XxjyJ0nXodLuqLs2Sy99K+6rg0BWGIdCGzvVen68k6h5MSlv4Mzi0IG8NUjMxUJcT/2d/8IvTOegFIfjuylKitjFp3o+oBC5LKMNBaofeYDd35ZbMeOgu5pXtPaM6VQNJUxZgvT50xDDPaTiOtRj8bikNwtmWFsQhr0xsGcIY=;uq7H7xBNUzJJVBQwSUJosQ=="
 ---

@@ -31,6 +31,15 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
         width: 400
         height: 300
+  - title: "53% of Execs Say Healthcare Leads Artificial Intelligence Adoption"
+    excerpt: "February 18, 2020 - Fifty-three percent of healthcare executives say that the healthcare industry is ahead of most other industries in artificial intelligence adoption, according to a survey from KPMG. However, 37 percent of respondents believe that the pace at which they’re implementing artificial intelligence is too slow, mainly because of ..."
+    publishedDateTime: 2020-02-18T14:51:00Z
+    webUrl: "https://healthitanalytics.com/news/53-of-execs-say-healthcare-leads-artificial-intelligence-adoption"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
 
 secured: "3F09fmHF5t8x6Xd4DWaQj6DAO19OKTjdyBXVBlbY77rAtiCigelmKcNzbLkW66t/dfEhqMkjb+DvCYKzw3tUqG5/ns3FyLczJpijE04hqncxjh7HBCe8PfF5KBioVvBn1I3Lgdri0GHmy8EQr6JirqiMiuKo9USZpyKId3lg0Ne1uI65aytH2G7HdqpVMkq+CDeIYB/UDkyybwCCQwCHFcVGKRP8aZAfU8Itg4iLUxwCmFlKiLFeo3q7KuCiiK+BG+dWHg1DOZftapvaPjrT6CzoWR6mgz/pVOzCKv1xFwB0kuE/2XMZQ/amz03fThTN;dopQ/tZa79IFuPaEJIl91w=="
 ---

@@ -95,6 +95,17 @@ related:
       - url: "https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2020/02/Untitled-design-2020-02-04T012522.531.jpg?fit=1200%2C628&#038;ssl=1"
         width: 1200
         height: 628
+  - title: "AI and the future of your mind"
+    excerpt: "Susan Schneider, associate professor of philosophy and cognitive science and director of the AI, Mind and Society (AIMS) Group at UConn, has gained a national and international reputation for her writing on the philosophical implications of artificial intelligence (AI). She writes about the nature of the self and mind, AI, cognitive science ..."
+    publishedDateTime: 2020-02-18T14:28:00Z
+    webUrl: "https://phys.org/news/2020-02-ai-future-mind.html"
+    ampWebUrl: "https://phys.org/news/2020-02-ai-future-mind.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-ai-future-mind.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
 
 secured: "/CLegiDrtx1/sbhviLe7JMyxEzyAlnfNHDKo4uvB41TSc2HKU24UTYDmkjSPTh2lJVqYAes+uZMq0z9eTwOxVW42Hp76JsVzPDxdgMBS6G34BQRiKt8ixNcYuiqHcK79k42T/bdIt/Hu06my/uYUFlW5DNQopikJVQ10TDVeBPUJEnHObnuXNM1Da+gyPk69tk9Y7qEiDHqUxAVIZo6nqiz7dafSnHpyOt+SiHJLqFm6krH76rLvYt6o7EhUUyRn2RyvuhUt/F957j0rGCkmnsDrJGwn96YLdjthymLwwUE9+LVFweceUiwu/wqncCTc3xaIhcWvf6ITh9NEl8Lche9uEHyLaoYdm/Hqo/5WD0wOp2tnEdPFJz/FgcTkch9fyUg90ZxdRT2ac0WAoc6SmLKyJzKCtzGBzSxUymXHGrCCEAVE9O2aumiZcoPIeMgtm3jn0BpnoSPe1EiWYAFyLAAzfWjMJ8wF2oLOciuZotY=;X9h0Q44dfI62z+KUkBlWKg=="
 ---

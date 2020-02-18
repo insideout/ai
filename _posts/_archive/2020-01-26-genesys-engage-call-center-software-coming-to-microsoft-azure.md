@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: 64
+published: false
 
 provider:
   name: BCW
@@ -24,28 +24,6 @@ images:
     title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
-  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
-    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
-    publishedDateTime: 2020-01-30T19:40:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 40
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-        width: 1400
-        height: 789
-  - title: "Microsoft's Azure Strategy Pays Off"
-    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
-    publishedDateTime: 2020-02-02T17:39:00Z
-    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
     publishedDateTime: 2020-01-23T14:37:00Z
@@ -60,6 +38,6 @@ related:
         width: 1024
         height: 803
 
-secured: "NSGxbYYIhH4WawNixq9/Wt6WeM5fQsn3bDImILxaU9dSHlEY1sFXmtSUPSJWGqyNrjrOPUNPeH3F7Vwha5HuShgo1lo/QQ/rqRC3SaPDz5vHDxnneuCiwCNNgAaYTAk0n+1tELL9JSqlktERlS/i5QGC8l+dBsrolxyi/SRBYLKoT064LnSMemV1a1X8ntfy8pvJWXTZOhg43shfi+P+/9VsePvLbBmv10nNOnRpZ3plKb+E4kkdAO6qGbbcvhfL0yenwCwAVFRWH16kInyx9drcONRgdjtFtY1j6fGFYLcFR6tnQNUt3zBdfh2dm5AS;sehR4N57ZEVwjjSLwaxiDg=="
+secured: "+c2vZ9jO4G5yaHEBnsj7dSGPNVwRxZuHpm5xyuKjTMe6kegNR+4UQC4XTEiQNYd1z+GsgezVas//Yio9C8Mz6fQR3R8cpy8IRdX0DLOOxC08d9ibrAeyocbnRFAvtPubU+yop8lCzUhIGYZBgLsdWxlRLYBRWKzAjFjIO+EfPxQ1UdGbz33CW6RQurAgHNBKPl+KTfpougtsuBbOXfTVkKhn2xvejNEoRE1PYAoB15PKdQZoGmdnAwHsgPSE/I+c7uRM4VAEz01UrHcBExhrp1/3I6iQ+geATB+px/W+odlmwMstk/P6CEeGqStrerYW;UwCuc6NQRLwXnBsC9Mfepg=="
 ---
 

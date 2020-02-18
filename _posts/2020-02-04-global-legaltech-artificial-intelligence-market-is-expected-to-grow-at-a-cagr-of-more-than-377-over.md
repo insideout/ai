@@ -67,6 +67,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 14
+  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
+    publishedDateTime: 2020-02-05T15:33:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
   - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
     excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
     publishedDateTime: 2020-02-06T12:07:00Z
@@ -75,6 +84,15 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
+    quality: 0
+  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
+    excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to facilitate the implementation of deep learning-based machine vision. Xilinx, a Field ..."
+    publishedDateTime: 2020-02-11T10:29:00Z
+    webUrl: "https://www.abiresearch.com/press/installed-base-machine-vision-systems-industrial-manufacturing-reach-near-100-million-2025/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
     quality: 0
 
 secured: "pb/YVNATApo4rLr9RYvo/h67i3NgJFkO/CHHGDCxDfCiPpcDNaqY9k//NsuurxGzNXJdqyo6Hks3LOfwjgSLRHFJ0mZWgOm0gTP7vlm45HjbWY8LPEF7pFJkEB2DDihktcOYSpiSkinEcN8cWib/dzu0xpa81O1yh4mQfaUD9eTMFxFR5By4rEqUNxnK+Tri+rwxZATKFQyFz8ztkDgsAPZkew8q4qCLW/RgBbptHHJ0czDTFghyg6OUxKCf0rsZqkcNej2blKPDEat1udTy8BRuQ7ljvLxqenR2LKnX0Oz3TQfLH0biljjXj5Y5h97C;p32beaMts0lJjq5vwQeEfA=="

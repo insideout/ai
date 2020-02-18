@@ -7,9 +7,9 @@ webUrl: "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial
 ampWebUrl: "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/"
 type: article
-quality: 83
-heat: -1
-published: false
+quality: 183
+heat: 193
+published: true
 
 provider:
   name: GeekWire
@@ -46,6 +46,6 @@ related:
         width: 756
         height: 567
 
-secured: "GtN+trKfgCXzDP/UQMEqlvZY+EYZh2jFJ+aUyQWW5MRpGIVSQgQ8Ip/BizwevarRbilErH/3IXQrniiljhbfa5BeSKcuZtK0N8QCUGQhjTaUxA4gc95La5kLps7JNq6ConiHncMPW/Tj1xJ/ewmHCRC/jx6qYZ/yRuBtqBmwl8W1HLVMAt5JCcZpWVAWMOzS88TbeNTc0D1excOYGgqSPoyTvYzCQwXCeYwcyqi+c2lAy7X94trlroD0vrEbzRwlPcUBWvdp9ZOQ7jNJ6B6MxeZ8l+H21lUVmdi3QxWBK5Uj1e51f4z+HUh3zfc4A+ZqLRYhFcNC1ve/SzX5Cewi1z7J9clQ37aFi309BWlAMnenovOxSeaFNyAFu7mhRLWYAHYox1RNs0BRmAnKB1nFP5rh6KCMIGIgbl2/rKKaK6jZIYLjnZUDHX+nNx6e7RYzwRFXKB88xkA4lf7kldW2Z8jeuA1coN3+QIEdESobEjY=;+KmNTLFy4WL0usijn9u5vA=="
+secured: "16NYGr25U09tJGzhMmxS637vQOTm9J/aUQdP5rHDqkLEQTagJHQdFEi/PCbg2kw/f921dsT6BcuVuas9mwaE1ton8NEzazTbo30RiqAqIPeNpDsl2CRCY+U675WM1/UA2Hx4NhluPHxRlqeMt8bRQJDlO0L3hXUw0lWkPEdMCCeeDF+MjbFWF2tkkij2lnEJV4TVjcozPLXrPNaisT2gPtIfukj2lXOTe6JVKl/dR2k0T59g/qpryeUJOxzdNb0AbyVlTFslPVRfHclxYIohr62mlFd1EciwP3l5VHFTo45BG2zmX750KKvfz2LQ/Oicy6NCrumtd2nI84Cha4hsIDHB0lWeLeGf8uWV4p/OcMDfk2Kb5PzHwe7nNizyuiEzua6iUTTbSgFD/rkXGIsCMEm3FD5EfKWLvyJAVBRYpP3hV6XafcxyUO7vnQrRib2X1cW69JMYmaSc9U28jokIsawZrGw4sRwbF+TMkXzaPx4iE4J9khdjZL9wFPh25nl5;kwQu0kBTEv1V67MmCRexBw=="
 ---
 

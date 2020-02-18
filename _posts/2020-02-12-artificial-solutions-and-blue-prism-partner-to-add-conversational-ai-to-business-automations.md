@@ -23,36 +23,56 @@ topics:
   - AI
 
 related:
-  - title: "AI And Automation: Together Forever?"
-    excerpt: "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes."
-    publishedDateTime: 2020-02-11T18:03:00Z
-    webUrl: "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/"
-    ampWebUrl: "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/"
+  - title: "The Illusion of Artificial Emotional Awareness"
+    excerpt: "Welcome to the world of affective computing, also known as emotion AI. A relatively new branch of computer science ... Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions ..."
+    publishedDateTime: 2020-02-13T20:37:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 122
+  - title: "How The Expansion Of Artificial Neural Networks Can Drive Your Business"
+    excerpt: "ANN is basically the framework for letting many different machine learning algorithms work together to process very complex operations."
+    publishedDateTime: 2020-02-10T13:05:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg"
-        width: 1200
-        height: 801
-  - title: "From Process Automation To Autonomous Process"
-    excerpt: "The big idea of AI and cognitive technologies is to address and tackle problems that require human cognitive capabilities. Organizations looking to pursue the path need to have the desired end state in mind: full autonomous business process."
-    publishedDateTime: 2020-02-14T05:23:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/"
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152157066/960x0.jpg?fit=scale"
+        width: 711
+        height: 474
+  - title: "Deep Learning(Computer Vision): Object Detection & Infection Classification on Malaria Images using Mask-Region Based Convolutional Neural Network"
+    excerpt: "I am going use Keras, with a Tensorflow backend to create models for Object Detection. Deep Learning is a sub-field of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. Deep learning (also known as deep structured learning or differential programming) is part of a ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/analytics-vidhya/deep-learning-computer-vision-object-detection-infection-classification-on-malaria-images-3769b4f51de9"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Medium
+      domain: medium.com
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f554a78b3f4000623f36b%2F0x0.jpg"
-        width: 1200
-        height: 742
+      - url: "https://miro.medium.com/max/811/1*TOubTYal5304uIdNHhNrJg.png"
+        width: 811
+        height: 665
+  - title: "The Future of Artificial Emotional Awareness"
+    excerpt: "Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions themselves. Even the computer’s interpretations of what we express are limited to programmatic responses. An ..."
+    publishedDateTime: 2020-02-14T00:42:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-future-artificial-emotional-awareness"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-future-artificial-emotional-awareness?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-future-artificial-emotional-awareness?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 22
 
 secured: "Ly9OmnvZ5Nxt96IM9iNjPFDDYoQscQJSBXQERF8oHonabR9ARhWl0lOq1UAM53gai8LUXTlFOX+U/ter76HWlm9xMLDl0Cw8+YMCXSmZ4qXR93pAbNh41vXflFRRZdD+FXyqxPM3+uC051h7+TWu3MgGYXKKhOEaq63s/VSmVQdT++WKcVsoAhBqGWTPAM3HQpyeJvdAgSpAjHdCPDY03ZyiwW+PWU2HPtpzVTibeJkw73LAY1FpSVn38kcSqpjFdFrZn2mJB9rnnu95O6/fSbeourDouWVaAROe0UnyhOkoajPBnFBuDqXaPDFg7Hml;fsGNhtnjWIMWkMMbKOykAQ=="
 ---

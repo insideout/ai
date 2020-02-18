@@ -198,6 +198,19 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 19
+  - title: "Transportation in 2030: Flying cars maybe, but mainstream electric and shared ones for sure, some possibly self-driving"
+    excerpt: "so this is a serious space.\" Companies like Uber, Boeing, Volvo, & Toyota among others are testing this technology. Meanwhile, autonomous vehicles (self-driving cars) are nearly here. They already undergoing vigorous testing and by the way the Oregon Department of Transportation has an autonomous vehicle task force considering what changes ..."
+    publishedDateTime: 2020-02-18T14:30:00Z
+    webUrl: "https://www.kgw.com/article/money/transportation-in-2030-flying-cars-maybe-but-self-driving-electric-shared-ones-will-be-everywhere/283-1c3c9d75-4057-44c0-984c-0a82e0aef4f6"
+    type: article
+    provider:
+      name: KGW8
+      domain: kgw.com
+    quality: 15
+    images:
+      - url: "https://media.kgw.com/assets/KGW/images/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec_1140x641.png"
+        width: 1140
+        height: 641
   - title: "Insight: How to make an ethical self-driving car"
     excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
     publishedDateTime: 2020-02-16T09:31:00Z

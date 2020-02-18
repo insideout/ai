@@ -66,6 +66,15 @@ related:
       - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
         width: 400
         height: 400
+  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
+    publishedDateTime: 2020-02-05T15:33:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
   - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
     excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
     publishedDateTime: 2020-02-06T12:07:00Z
@@ -75,7 +84,16 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 0
+  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
+    excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to facilitate the implementation of deep learning-based machine vision. Xilinx, a Field ..."
+    publishedDateTime: 2020-02-11T10:29:00Z
+    webUrl: "https://www.abiresearch.com/press/installed-base-machine-vision-systems-industrial-manufacturing-reach-near-100-million-2025/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 0
 
-secured: "F/e3rbe4oTSV6rE6Iqaj5J1Zf3UdERValm9xypVI1l/+QRTcfEwZPHukuGqKj0RbbDJgi0mjHlfxxP1TFkAWK9L1wS3GeDJ8i1Otr4oBRdPkVDmI1ZDbpEX16O8qtlHauVeAKefd0wNLqhuy+IXP/2ZwrGdYl6rrxoIo+S5G6zY3R06dt9iChJDw2giEyVz9Kg36MHud08R3JyicbRRoNLmsZMuniZelBmbFyfUTx/T+X4OFGYOvE0TirOPJJcoKXp1b9oS4fGWzACVFfSAZ9JSM7dMsN4QObUIEt0DLhT6UNfCXu4M35zFa9NHtZyMq;FLHdxtTlbJd/kg8WT6q2Fg=="
+secured: "e++O1w68vRBzlT5EEG8ss5jPOzUsi17UaQ1oKjR46qHwvcVucrLVxqsyh3OjabT98Q0YxMgB6L6YZYICDK3jUcZTdTBSPt5dsfhLEJ2iRmsIO2Bcs0DRNXgfz/Ub0/B3VTwp/RNGax6ygc2Az0RjVdCdrL9jawrJ+dNllUBkL/A+L1OLdjsZxnEpdfBBga82trzCSH7sRAUy/dtzOekCBeb97bvJ60Cw4xN/I4nD36SF2Sen4RcAN5u72Lgb8ZIxorMOS3lFtFpfjpIImltr9NbDto0pNJvjd0DCaCBTCpgkcPLK1vcWayyHaslOnKg9;6H/LGJwGKKqVRvheNc5E6w=="
 ---
 

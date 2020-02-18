@@ -53,6 +53,6 @@ related:
       domain: bloomberg.com
     quality: 69
 
-secured: "fku2FOhTvgwgjs98+LpjRQQwBLLy5guQd+/SbnB0ckKunfAoJ7jNPVkBw20fwOpItm+C/H2dWPaHzxOQz6Q+zRucl/6gpaQQFAc3CgSpnwJwz7KLt87HowWKzEzARRKKtSGqU3j4z+kymr9AFFAhwnqR7Mi4nDoxWdfZPUFXFeJzqpis3JsnTYLa4Ms0eyPQIdpq+wcWMi5DGHARKESZtzLBTp9cS7zGsoC2M2LTnfXQ/J3cvMyzBlJlE6b9VjjtxmvUEB/KE8mRSJl9oLa1cdrO02mYg/GllHxiZBqbIwOODgBltiuC9g5e5SywuQB0;Qoxw40rek2HqScaq26x1cg=="
+secured: "Kak0Y+iQEe4GUIi4mBSJRzetcIsgyjyncHug2Oe2Mrmcn1csbHyHmhNajapR7+tUc6F4/WEmBzY7maetp1vL1tFw/4ZICcX/8ckiIvOcDujMbNmd0EsrPihjFmOsso6ZbsgnE4DLbPV+mc1L+2W4GyRKTgsqXAnEn137CzZ7Hs4xH9alGoa8VgOwM2YzT0fhO3cnlP/7GkdpITxb2gLRwQRyo2bm6peWVIrRY7eWzYHV+RPNCqeB/t5hyhvX6kogoFT2vvdIfAua6ecSPmD6vb7IrU3gWvCXt3R3D+vE5ciplQ0x3EvRQfxCG45BEoin;fJyN7DKhCmAnYjd9pf4XJg=="
 ---
 

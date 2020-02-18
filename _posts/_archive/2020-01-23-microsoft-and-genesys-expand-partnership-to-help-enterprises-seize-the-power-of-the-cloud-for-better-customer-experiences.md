@@ -41,29 +41,7 @@ related:
       - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
         width: 320
         height: 210
-  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
-    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
-    publishedDateTime: 2020-01-30T19:40:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 40
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-        width: 1400
-        height: 789
-  - title: "Microsoft's Azure Strategy Pays Off"
-    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
-    publishedDateTime: 2020-02-02T17:39:00Z
-    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
-secured: "4831jZgk8VE7mIPyLFaJ4KE6ZyFPsoWUexBEIFQzS/cAqRQT0FzP9bxFLxuXJNO4lvl7fWN94/aDkKe9SSwbXM+LH14D245Kj4TBKh3Lp0ldGnGvNkSIPZGpJFuUQZHKW/jEvB83A4eVpo9KkNsbSNIzLd6glHtz7rCvDOM/2bUnGbCWJccXFpnjPL9BJaSPO+TUsMvZ05t5hrNa6TvISETiBRjuMiV03I4+TDmLd3CgqV0WZBJe5HpdgX/BZj5IlCHCDJJLKJg63YcZS+kRrx3HtU0rMIKHAKaXYrl5Ft4k2OSHkJ1cdyROjsMN0KJh;2+MvtPyJTTTKg1I9GlDFnw=="
+secured: "UaHzqAA3pyYft33PUomYdwi2wWei0GJbGNwkM83GzzVNRz47PoDi+4OCp9bkBDPfuC4i+SzrYWXabuhWu6TfObWpY+LpcANrM2Xw3zFeXZPoxOjs5PuNfX7XbaG7O3cMyIoIXAGANc/mFXLGraN7oiTgVwuLlYAOjjUIl284oisf8cM/7xzK9HGNCcrUsQ350+6l6GGK1X0On8OJmxgbEdLrv46wJOBZX/2CrS94eznClWUhgejhsK6tgqTj0j/mT1h99+psRFhAsOOWEJn8N5yqWKHGU3qGAvJ8pcKNgGVQ5lvCysplktJy1EfrkLrL;WGe0YwvqdTmM+YD2lMmvzQ=="
 ---
 

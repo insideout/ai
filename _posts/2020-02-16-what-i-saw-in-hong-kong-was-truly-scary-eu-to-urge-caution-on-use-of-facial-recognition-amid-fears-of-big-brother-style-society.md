@@ -39,21 +39,6 @@ related:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
         width: 2309
         height: 1299
-  - title: "LG CNS deploys AI facial recognition gate service"
-    excerpt: "LG CNS has deployed a facial recognition gate control service that runs on artificial intelligence (AI) software at its headquarters in Seoul, the company has announced. The solution, made in collaboration with Chinese AI firm SenseTime, uses a designated reader that can identify a face, authenticate an employee, and open the gate ..."
-    publishedDateTime: 2020-02-11T02:47:00Z
-    webUrl: "https://www.zdnet.com/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/02/11/a4f44ba3-79b4-4f42-b5a9-ba5aa4375bd6/lg-cns-3-lg-cns.jpg"
-        width: 2400
-        height: 1600
   - title: "Is this facial recognition app going too far? We tested it"
     excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality,"
     publishedDateTime: 2020-02-10T02:12:00Z
@@ -289,19 +274,6 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
-  - title: "Is this facial recognition app going too far? We tested it"
-    excerpt: "Hoan Ton-That’s app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business’ Donie O’Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
-    publishedDateTime: 2020-02-17T19:34:00Z
-    webUrl: "https://www.channel3000.com/i/is-this-facial-recognition-app-going-too-far-we-tested-it/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/02/200207150324-05-clearview-hoan-ton-that-live-video.jpg"
-        width: 576
-        height: 324
 
 secured: "sHfQOU2CA43hBGxY+powPXARvRqSBvL0drewBJhPTJkiaeuyBVAFfPzmgkbRl6EN96n9NBLf6JzvOoK0yZfXpwA14Dco4hoouVSxPKLDDOJtFobpNIwmaiqnA+H7YuXtgssl5cFB4muCl2G89oMYQR55KIAj/VqDDB5bV4O42HNss9ZO74ZiV2wwDVSKumn3PMhtgab3HSty9maq8q01C60ZQLsy9P6vQPY13qbXKWmVnlo7Bs4Zx1hWg7KeCsUCdSpuErk7WyvfoVmGJorUAnKjRAuvqN1/OqALc7xR9Av18wCjwQgu4h/Wpg+oyBc5;YCKSuhytE1CojFxxWLJrNA=="
 ---

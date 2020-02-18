@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-14T00:00:00Z
 webUrl: "https://www.geek.com/tech/baidu-to-launch-autonomous-cars-by-2020-1696952/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,19 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Hamilton puts autonomous vehicles to the test"
-    excerpt: "And when will the future arrive? There is a point on the horizon when the breaktaking speed of the coming 5G wireless network will allow consumer products and cars to be connected and \"talk\" to themselves, unleashing observations in data and a predictive power of artificial intelligence that will allow us to relax in our self-guided vehicles ..."
-    publishedDateTime: 2020-02-15T23:20:00Z
-    webUrl: "https://www.thespec.com/news-story/9855268-hamilton-puts-autonomous-vehicles-to-the-test/"
+  - title: "How the race to autonomous cars got sidetracked by human nature"
+    excerpt: "If you believed the early hype about autonomous cars ... have told me that it’s actually harder for a human to remain ready to take control than it is for them to fully control the vehicle. On top of that, studies have shown that even in controlled test environments, human reaction time for taking over an autonomous system is often to slow ..."
+    publishedDateTime: 2020-02-17T06:23:00Z
+    webUrl: "https://www.fastcompany.com/90459114/how-the-race-to-autonomous-cars-got-sidetracked-by-words?ref=hvper.com"
     type: article
     provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 24
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 122
     images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/0/6/06e22246-a3a4-4318-be04-9e01c827ce21/B881042179Z.1_20200215180340_000_GPMSMUQT.2-0_Super_Portrait.jpg"
-        width: 602
-        height: 417
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/poster-autonomous-cars-and-humans.jpg"
+        width: 1280
+        height: 720
 
 secured: "747XcJkGhrU7xB7EU0wccA1SOVNeRcDI+sxMUbTWS7p8IRAnw+pVANLXR+LmUxQrqKGf+6UWW+C2JWC1sIsySJxmTcQQO2g+VOwzdV99lkQfhCiAsKn6MPwaVArNLYj4FNg8c/SN6F3yoU90t7Sw4nwzvjbjznqOU720LTKFwO00ycLardE+L8blDiwAuigV7uDhoTiVSLEItyjHK0pkoD3oeAqTZIvWLjFghMfkCtD6RFPbOmR5x2MY51eJNR2RlUj6TsDij1ckUwDFq25pOptsLED1qoli57aHlnedeIm3KoVQM08iAzgIzkr7Dy+R;nfY/ghULRJ3IhWi1kZ3QMA=="
 ---

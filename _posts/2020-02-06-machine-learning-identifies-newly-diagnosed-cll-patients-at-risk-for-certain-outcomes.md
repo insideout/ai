@@ -17,17 +17,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "HSS machine-learning tool identifies factors linked with worse outcomes after hip arthroscopy"
-    excerpt: "A machine-learning algorithm recognized predictive factors linked with worse outcomes for patients undergoing arthroscopic surgery to treat femoroacetabular impingement of the hip. Spearheaded by Benedict Nwachukwu, MD, orthopedic surgeons from New York ..."
-    publishedDateTime: 2020-02-03T21:16:00Z
-    webUrl: "https://www.beckersspine.com/sports-medicine/item/48154-hss-machine-learning-tool-identifies-factors-linked-with-worse-outcomes-after-hip-arthroscopy.html"
-    type: article
-    provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 0
-
 secured: "8m4gkHGfZVfWMhfZFPqUCyj8pHfXcCWjqZVvww1VDU0wl98B4mfhEQBecYPplU04Dl9ZGD5IqtLYyoT1yVvKHcHDybPHYg7OHo1I4V25P3AMyj+nda1D7KF9+piJyxDMaj4yaH6osrozqn0NEEY1zMcjn+Rwl8GZQarqbU/qqj4ZSYO36LBLw7nfdXGkzfh4QXJZPlIXCjJjX7oRO1jPiwnCnHmRWoJMY60JCXSLqNT+6RrRyI9RBgid7+baV8lCXfpUqgKRIjE4ik3VLnKJVl83XC7leqPj05igf14BC1hO+bKJsDQ5cx4LZU0fWKMFLhHnRubTTlMg7Mtm4HhXAZsMBbRJcz8+ZySaTgXdljzofhhyZb7mgBO9voWlg79J1YT2jy6fCmZiU2YrJtS4hOrEJjrRvSXBughpR3IN6yp+ZPOwdVprROBL8F9kSutc/55b8hxWbNOTZtDnwH0vu7223Yv96MjJLUYEESRP/os=;JPutqjpu3TJUYYRAeyrg3Q=="
 ---
 

@@ -2,87 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
-      "title": "Esteban Granero aiming to bring artificial intelligence into football",
-      "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.skysports.com/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "ampWebUrl": "https://www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "cdnAmpWebUrl": "https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "publishedDateTime": "2020-02-12T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky Sports",
-        "domain": "skysports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://e0.365dm.com/20/02/1600x900/skysports-esteban-granero-espanyol_4917382.jpg?20200211164937",
-          "width": 1600,
-          "height": 900,
-          "title": "Esteban Granero aiming to bring artificial intelligence into football",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
-      "title": "Facial recognition could be temporarily banned for law enforcement use",
-      "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 689,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "publishedDateTime": "2020-02-12T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Facial recognition could be temporarily banned for law enforcement use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
       "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
       "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
@@ -481,6 +400,115 @@
       ]
     },
     {
+      "path": "_posts/2020-02-13-the-illusion-of-artificial-emotional-awareness.md",
+      "title": "The Illusion of Artificial Emotional Awareness",
+      "excerpt": "Welcome to the world of affective computing, also known as emotion AI. A relatively new branch of computer science ... Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions ...",
+      "heat": 162,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp",
+      "publishedDateTime": "2020-02-13T12:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-the-open-wearables-initiative-expands-founding-team-begins-soliciting-algorithms-and-datasets-for-wearable-and-connected-health-technologies.md",
+      "title": "The Open Wearables Initiative expands founding team; begins soliciting algorithms and datasets for wearable and connected health technologies",
+      "excerpt": "Its goal is to provide the industry with a searchable database of benchmarked algorithms and source code that can be freely used by everyone ... researchers who use our wearable sensors for healthcare applications and encouraging them to register their algorithms and datasets with OWEAR as well,\" said Geoffrey Gill, president of Shimmer ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-02/rhsl-tow021220.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/224124_web.jpg",
+          "width": 1440,
+          "height": 957,
+          "title": "The Open Wearables Initiative expands founding team; begins soliciting algorithms and datasets for wearable and connected health technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond.md",
+      "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
+      "excerpt": "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/",
+      "ampWebUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/",
+      "publishedDateTime": "2020-02-12T17:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588",
+          "width": 960,
+          "height": 541,
+          "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/2020-02-13-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
       "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
       "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
@@ -729,7 +757,7 @@
       "path": "_posts/2020-02-14-artificial-intelligence-market-facts-figures-and-analytical-insights-2017-2025.md",
       "title": "Artificial Intelligence Market: Facts, Figures and Analytical Insights 2017 - 2025",
       "excerpt": "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period.",
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2017---2025-2020-02-14",
@@ -1038,51 +1066,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-14-machine-learning-market-size-will-reach-us-768-billion-globally-in-2026.md",
-      "title": "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026",
-      "excerpt": "The global Machine Learning Market will increase by a CAGR of approximately 40.1% from 2019 to 2026 and is expected to achieve a market value above US$ 76.8 Billion in 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-us-768-billion-globally-in-2026-2020-02-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-14T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning.md",
       "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
       "excerpt": "That’s why researchers from Pittsburgh and Microsoft Researcher’s Future Social Experiences (FUSE) lab, which focuses on real-time and media-rich experiences, developed an AI system that pays close attention to the beginning of documents it’s summarizing. They say that this improved its experimental performance particularly in the case of ...",
@@ -1169,51 +1152,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
-      "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
-      "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy",
-      "ampWebUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
-      "publishedDateTime": "2020-02-14T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg",
-          "width": 810,
-          "height": 456,
-          "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1347,7 +1285,7 @@
       "path": "_posts/2020-02-14-nvidias-earnings-crush-expectations-and-outlook-shines-stock-pops.md",
       "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
       "excerpt": "On the earnings call, CEO Jensen Huang attributed the data center's amazing performance to the rapid adoption of AI for an increasing number of applications, calling out natural language processing and internet recommender systems several times. NVIDIA said in its earnings release that it's still in discussions with China's regulatory agency ...",
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
@@ -1692,23 +1630,23 @@
       ]
     },
     {
-      "path": "_posts/2020-02-15-bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives.md",
-      "title": "Bill Gates: AI and gene therapy have the power to save lives",
-      "excerpt": "Technology could help cure AIDS and understand our biology, Gates says. Microsoft founder Bill Gates thinks artificial intelligence and gene therapy are the two technologies with the greatest power to change lives.",
-      "heat": 114,
+      "path": "_posts/2020-02-15-why-bill-gates-thinks-gene-editing-and-artificial-intelligence-could-save-the-world.md",
+      "title": "Why Bill Gates thinks gene editing and artificial intelligence could save the world",
+      "excerpt": "(GeekWire Photo / Alan Boyle) Microsoft co-founder Bill Gates has been working to improve the state of global health through his nonprofit foundation for 20 years, and today he told the nation’s premier scientific gathering that advances in artificial intelligence and gene editing could accelerate those improvements exponentially in the years ...",
+      "heat": 193,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cnet.com/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/",
-      "publishedDateTime": "2020-02-14T17:31:00-08:00",
+      "webUrl": "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/",
+      "ampWebUrl": "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/",
+      "publishedDateTime": "2020-02-14T18:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "GeekWire",
+        "domain": "geekwire.com",
         "images": [
           {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1720,10 +1658,10 @@
       },
       "images": [
         {
-          "url": "https://cnet1.cbsistatic.com/img/cfrI4s5degOXK4M6Np9ih-ngeZs=/756x567/2020/02/15/c96dfa36-ef88-42b3-8d9f-7c359d2f50dd/bill-gates-getty.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Bill Gates: AI and gene therapy have the power to save lives",
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200214-gates1-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Why Bill Gates thinks gene editing and artificial intelligence could save the world",
           "attribution": null
         }
       ],
@@ -2104,7 +2042,7 @@
       "path": "_posts/2020-02-17-artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025.md",
       "title": "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025",
       "excerpt": "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions.",
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025-2020-02-17",
@@ -2133,6 +2071,42 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-artificial-intelligence-program-aims-to-help-doctors-more-accurately-diagnose-breast-cancer.md",
+      "title": "Artificial intelligence program aims to help doctors more accurately diagnose breast cancer",
+      "excerpt": "A team at Google has developed an artificial intelligence program aimed at helping doctors accurately detect cancer in mammograms. Thousands of women receive a false negative on their breast cancer tests each year, while one in 10 receive a false positive. Shravya Shetty, who heads the Google team developing the system, told CBS News' Jamie ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/breast-cancer-doctors-hope-mammography-tests-will-be-improved-with-new-artificial-intelligence-program/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/breast-cancer-doctors-hope-mammography-tests-will-be-improved-with-new-artificial-intelligence-program/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/breast-cancer-doctors-hope-mammography-tests-will-be-improved-with-new-artificial-intelligence-program/",
+      "publishedDateTime": "2020-02-17T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/17/7f1f6f68-5dcd-4cc7-b016-c748f144caa7/thumbnail/1200x630/10012554338717da46302f046002a20b/0217-ctm-morobreastcancer-yuccas-2028843-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial intelligence program aims to help doctors more accurately diagnose breast cancer",
           "attribution": null
         }
       ],

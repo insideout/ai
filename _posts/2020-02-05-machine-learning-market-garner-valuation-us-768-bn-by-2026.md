@@ -18,15 +18,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
-    excerpt: "LOS ANGELES, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The global machine learning market is anticipated to grow at a CAGR of around 40.1% over the forecast period 2019 to 2026 and reach the market value of around US$ 76."
-    publishedDateTime: 2020-02-05T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-around-us-768-bn-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
     excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
     publishedDateTime: 2020-01-31T05:35:00Z

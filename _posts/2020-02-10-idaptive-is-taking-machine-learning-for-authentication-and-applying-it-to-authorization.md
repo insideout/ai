@@ -35,15 +35,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2020/02/brain-2676370_1280.jpg"
         width: 1068
         height: 601
-  - title: "10 Rules Entrepreneurs Need To Know Before Adopting AI"
-    excerpt: "Rocio Wu offers insights into how entrepreneurs can start riding the wave. Although adoption of artificial intelligence (AI) and machine learning (ML) for the enterprise is still in the early days, the technology has matured enough for entrepreneurs to start gathering inspiration and evaluating opportunities for potential applications."
-    publishedDateTime: 2020-02-11T16:03:00Z
-    webUrl: "https://hbswk.hbs.edu/item/10-rules-entrepreneurs-need-to-know-before-adopting-ai"
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 17
 
 secured: "BkS/IwmyXpTW9K+iPyMQmAjWQqPOVXzd+kPer7LYaQTuGXBbLw9TfpZZBGjof3U3iEcLyovbqeogCFVIrZJr+tkNH+4yyFb5pSP1dn8/2oUm69xwUIBGNaIqs63tUXCgSosHTbFJlO6msmF1zeKaoNtlJ4diKthhoEY93rVQoA0q5amWXfVJzEpzA2gsSfEw+zKuUjrYx0L501gDA464Gc7nWOJqDWOW4dDEJ5WGAXurlIsu7HjGN+oQI/WrDXNoDCgjhuupUSCVudCc9BI2Wc4IDt73HeFKjc2bKI7ecK2FhC9uvQgPFU974u9hn/TB;1FQ78/OxLHMrFfACSIIE0g=="
 ---

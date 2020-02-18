@@ -63,6 +63,19 @@ related:
       - url: "https://miro.medium.com/max/378/0*pJ_V5RBE48AfmED2"
         width: 378
         height: 410
+  - title: "Building a Reverb Detection System using Machine Learning"
+    excerpt: "Very little reverb. A lot of reverb. What we are actually trying to measure with our machine learning (ML) model is the Reverb Decay Time. This can be defined as the amount of time in seconds that it takes for a sound to fade away. The technical term for this is the RT-60 time, which is the time it takes for a sound’s pressure level to drop ..."
+    publishedDateTime: 2020-02-18T14:07:00Z
+    webUrl: "https://medium.com/@davidmronan/building-a-reverb-detection-system-using-machine-learning-cba02a1710bf"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/522/1*P4AQM-CyIb_uhNzvRAVMrw.jpeg"
+        width: 522
+        height: 218
   - title: "CHDI Foundation and IBM tracking the progress of Huntington's disease using AI"
     excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
     publishedDateTime: 2020-02-12T04:32:00Z
@@ -135,19 +148,6 @@ related:
     quality: 15
     images:
       - url: "https://mms.businesswire.com/media/20200206005222/en/771287/23/Manche_H_YSEOP.jpg"
-        width: 1200
-        height: 627
-  - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
-    publishedDateTime: 2020-02-12T10:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005344/en/Study-Digital-China-2020---Government-Fostering"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
   - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"

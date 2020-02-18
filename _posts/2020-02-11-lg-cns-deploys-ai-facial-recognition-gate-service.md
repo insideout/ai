@@ -30,254 +30,135 @@ images:
     title: "LG CNS deploys AI facial recognition gate service"
 
 related:
-  - title: "Army looks to block data ‘poisoning’ in facial recognition, AI"
-    excerpt: "The Army has many data problems. But when it comes to the data that underlies facial recognition, one sticks out: Enemies want to poison the well. Adversaries are becoming more sophisticated at providing “poisoned,” or subtly altered, data that will mistrain artificial intelligence and machine learning algorithms. To try and safeguard ..."
-    publishedDateTime: 2020-02-11T17:17:00Z
-    webUrl: "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/"
+  - title: "Automated facial recognition breaches GDPR, says EU digital chief"
+    excerpt: "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ..."
+    publishedDateTime: 2020-02-17T12:53:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 154
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 189
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
-        width: 2309
-        height: 1299
-  - title: "Is this facial recognition app going too far? We tested it"
-    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality,"
-    publishedDateTime: 2020-02-10T02:12:00Z
-    webUrl: "https://www.cnn.com/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-14-796x417.png"
+        width: 796
+        height: 417
+  - title: "Watchdog rejects Met's claim that he supported facial recognition"
+    excerpt: "Biometrics commissioner says force was wrong to say he backed use of the technology"
+    publishedDateTime: 2020-02-12T17:53:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
+      name: The Guardian
+      domain: theguardian.com
+    quality: 76
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
-        width: 1100
-        height: 619
-  - title: "Coalition calls for Chicago to end use of facial recognition technology"
-    excerpt: "(CHICAGO) Seventy five groups are joining forces to call on Chicago Mayor Lightfoot to end the city’s use of facial recognition technology. The movement, Press Pause Chicago, is made of labor groups, community organizers, civil liberties organizations, and technologists. They’re reacting to recent reports by the Chicago Sun-Times that said ..."
-    publishedDateTime: 2020-02-04T18:51:00Z
-    webUrl: "https://wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 59
-    images:
-      - url: "https://tribwgntv.files.wordpress.com/2020/02/capture-1.jpeg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 675
-  - title: "Springfield, Mass., Puts Off Facial Recognition Vote"
-    excerpt: "(TNS) — After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
-    publishedDateTime: 2020-02-04T21:47:00Z
-    webUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html"
-    ampWebUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-SPRINGFIELD-CITY-COUNCIL-DEBATES-POSTPONES-MLV.JPG"
-        width: 840
-        height: 630
-  - title: "Congressional committee to hear testimony on facial recognition"
-    excerpt: "A Congressional committee will hold a hearing Thursday on the Department of Homeland Security’s use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age ..."
-    publishedDateTime: 2020-02-06T04:01:00Z
-    webUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/"
-    ampWebUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/01/mlkms11.jpg?w=1024&h=676"
-        width: 1024
-        height: 675
-  - title: "Facial Recognition Experts to Testify to House Committee"
-    excerpt: "(TNS)—A Congressional committee will hold a hearing Thursday on the Department of Homeland Security's use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age -- which critics say could easily result in bias. The House Homeland Security ..."
-    publishedDateTime: 2020-02-06T21:56:00Z
-    webUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html"
-    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_387869113.jpg"
-        width: 946
-        height: 630
-  - title: "Groups Call on Chicago to Ban Facial Recognition Technology"
-    excerpt: "(TNS) — Chicago Mayor Lori Lightfoot should ban the city’s use of facial recognition technology of the kind the Chicago Police Department utilizes on the grounds it’s racially biased and an invasion of residents’ privacy, a group of activists said Tuesday. The groups want to halt the department’s new contract to use technology ..."
-    publishedDateTime: 2020-02-06T22:37:00Z
-    webUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
-        width: 1119
-        height: 630
-  - title: "Met Police rolls out live facial recognition in London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "Chino police and facial recognition technology: 5 things to know"
-    excerpt: "The Chino Police Department held a forum on the use of the software and solicited feedback from the community."
-    publishedDateTime: 2020-02-15T00:16:00Z
-    webUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/"
-    ampWebUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
-    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
-    type: article
-    provider:
-      name: Inland Valley Daily Bulletin
-      domain: dailybulletin.com
-    quality: 59
-    images:
-      - url: "https://www.dailybulletin.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
-        width: 480
-        height: 270
-  - title: "Protesters in India object to facial recognition expansion"
-    excerpt: "Police in New Delhi are using facial recognition to identify protesters. Activists are worried about the lack of regulation around the technology; they are also sharing tips on evading detection. Protest against India's Citizenship Amendment Act in New Delhi. Activists in the Indian capital of New Delhi are expressing concern over the use of ..."
-    publishedDateTime: 2020-02-18T04:49:00Z
-    webUrl: "https://www.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
-    ampWebUrl: "https://amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 59
-    images:
-      - url: "https://www.dw.com/static/stills/images/je/je20200114_paperN_image_1024x576_3.jpg"
-        width: 1024
-        height: 576
-  - title: "Merkley bill aims to avert federal abuse of facial recognition"
-    excerpt: "WASHINGTON (KTVZ) – Sens. Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation Wednesday they said is aimed at protecting the privacy of consumers from rapidly advancing facial recognition technology and data collection practices that heighten the risk of over-surveillance and over-policing, especially in communities already ..."
-    publishedDateTime: 2020-02-14T07:25:00Z
-    webUrl: "https://ktvz.com/news/oregon-northwest/2020/02/13/merkley-bill-aims-to-avert-federal-abuse-of-facial-recognition/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 54
-    images:
-      - url: "https://ktvz.com/wp-content/uploads/2019/11/US-Capitol-generic-860x484.jpg"
-        width: 860
-        height: 484
-  - title: "CEO Glaser invests $10M in RealNetworks, bullish on facial recognition software, gaming"
-    excerpt: "RealNetworks Inc. CEO Rob Glaser is so bullish on the company’s facial recognition software and its gaming pipeline that he pledged this week to invest nearly $10 million of his personal funds into the company."
-    publishedDateTime: 2020-02-12T18:37:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.html"
-    ampWebUrl: "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 51
-    images:
-      - url: "https://media.bizj.us/view/img/11480968/rob-glaser-ceo-realnetworks-01*600xx4965-3310-9-0.jpg"
+      - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
         width: 600
-        height: 400
-  - title: "Rights groups join student demands to bar facial recognition at colleges"
-    excerpt: "The ACLU, EFF and several other groups sign a letter of support for the student demands. Students shouldn't have to worry that colleges and universities are tracking their movements with facial recognition,"
-    publishedDateTime: 2020-02-13T11:09:00Z
-    webUrl: "https://www.cnet.com/news/rights-groups-join-student-demands-to-bar-facial-recognition-at-colleges/"
+        height: 360
+  - title: "Chinese firm working on facial recognition that can identify you under a mask"
+    excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
+    publishedDateTime: 2020-02-11T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/"
+    ampWebUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 48
-  - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
-    excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
-    publishedDateTime: 2020-02-11T22:23:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-privacy-safety-trends"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Choosing Not to Decide: City Postpones Facial Recognition Vote"
-    excerpt: "Springfield City Council in Massachusetts decided to not vote on a proposed five-year ban prohibiting police from using facial recognition technology. A councilor said they’re “clearly not ready for a vote.” (TNS) — After months of discussion and ..."
-    publishedDateTime: 2020-02-05T00:04:00Z
-    webUrl: "https://www.governing.com/security/Choosing-Not-to-Decide-City-Postpones-Facial-Recognition-Vote.html"
-    ampWebUrl: "https://www.governing.com/security/Choosing-Not-to-Decide-City-Postpones-Facial-Recognition-Vote.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Choosing-Not-to-Decide-City-Postpones-Facial-Recognition-Vote.html?AMP"
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
+  - title: "Police Facial Recognition Tech Snags Pics from Social Sites"
+    excerpt: "Clearview AI stands apart from other facial recognition companies because it pulls photos from commercial sites, like Facebook and Twitter, for its image database. Some are concerned by the company’s access. (TNS) — Surveillance footage showed a man suspected of fleeing officers during a traffic stop. Still, after several days, Pinellas ..."
+    publishedDateTime: 2020-02-11T21:55:00Z
+    webUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html"
+    ampWebUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
     type: article
     provider:
       name: Governing
       domain: governing.com
-    quality: 39
-  - title: "Facial recognition provides big boost in finding lost pets"
-    excerpt: "Hardin County Animal Care and Control is taking advantage of a new tool to help locate and identify lost dogs and cats. The shelter recently announced its partnership with Finding Rover, a company that uses facial recognition imaging systems. According to ..."
-    publishedDateTime: 2020-02-06T09:55:00Z
-    webUrl: "https://www.thenewsenterprise.com/news/local/facial-recognition-provides-big-boost-in-finding-lost-pets/article_97fb94a1-4134-5020-b0d9-9931d297c14b.html"
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_590075333.jpg"
+        width: 940
+        height: 627
+  - title: "Privacy Groups Face Down Facial Recognition on Campus"
+    excerpt: "Privacy and civil rights groups are ramping up their campaign to get facial recognition technology off of college campuses. They are circulating a letter to aimed at college administrators seeking signatures of support. Many of the groups are the same ones that were successful in spotlighting the use of the technology at concerts."
+    publishedDateTime: 2020-02-13T13:13:00Z
+    webUrl: "https://www.multichannel.com/news/privacy-groups-face-down-facial-recognition-on-campus"
+    ampWebUrl: "https://www.multichannel.com/.amp/news/privacy-groups-face-down-facial-recognition-on-campus"
+    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/privacy-groups-face-down-facial-recognition-on-campus"
     type: article
     provider:
-      name: The News-Enterprise
-      domain: thenewsenterprise.com
-    quality: 39
+      name: Multichannel News
+      domain: multichannel.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/assets/v3/editorial/3/1a/31a4f67f-c4b3-5f0e-9d69-8a954c0d14b6/5e3ba2ce8fd0d.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-  - title: "Despite public concerns, facial recognition gets traction in Congress"
-    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs ..."
-    publishedDateTime: 2020-02-09T00:00:00Z
-    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx"
+      - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTcwNDMzNTM4MzY0MDI0NjA0/facialrecog.png"
+        width: 620
+        height: 343
+  - title: "Is Fashion Ahead of Facial Recognition?"
+    excerpt: "MY FIRST FACIAL-RECOGNITION MOMENT—my instant of facial-recognition recognition, you might say—happened when I arrived late on a flight from Europe and carried myself to the Global Entry kiosks. For years the Global Entry process, an accelerated automatic immigration check for prescreened travelers, began with a passport and fingerprint scan."
+    publishedDateTime: 2020-02-17T15:26:00Z
+    webUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance"
+    ampWebUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
+    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
     type: article
     provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
+      name: Vogue
+      domain: vogue.com
+    quality: 59
     images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
-        width: 760
-        height: 368
-  - title: "Despite public concerns, facial recognition gets traction in Congress"
-    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
-    publishedDateTime: 2020-02-10T01:59:00Z
-    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"
+      - url: "https://assets.vogue.com/photos/5e46c4856d8f97000815dd3e/master/pass/VO0320_FacialRecognition_01.jpg"
+        width: 4068
+        height: 2820
+  - title: "Russia's 'Big Brother' facial recognition system goes on trial"
+    excerpt: "Activists in Russia, who are concerned at government plans for one of the world's largest facial recognition systems, are taking legal action. They fear the surveillance system is being used to target critics of President Vladimir Putin. Police say law-abiding Russians have nothing to fear. Al Jazeera's Step Vaessen has been given exclusive ..."
+    publishedDateTime: 2020-02-17T16:54:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/02/russias-big-brother-facial-recognition-system-trial-200217150907189.html"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/02/russias-big-brother-facial-recognition-system-trial-200217150907189.html"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/02/russias-big-brother-facial-recognition-system-trial-200217150907189.html"
     type: article
     provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
     images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
-        width: 760
-        height: 368
+      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/2/6/52300b9d1ce048f2a0623c7f4b109fb1_18.jpg"
+        width: 583
+        height: 325
+  - title: "AI and facial recognition in 2020: where’s the line?"
+    excerpt: "security and AI ethics to be at the forefront of the conversation. As regulations continue to be made at a city, state or federal level, they will shape the extent to which we can use AI, and how we will approach the “AI race” in this decade."
+    publishedDateTime: 2020-02-14T10:08:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/ai-and-facial-recognition-in-2020-wheres-the-line/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 56
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/jason_carolan_flexential_mono.2e16d0ba.fill-1200x630.jpg"
+        width: 900
+        height: 474
+  - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
+    excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
+    publishedDateTime: 2020-02-17T01:11:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 54
+    images:
+      - url: "https://images.thestar.com/4Gdty1kT8G_3_BfW_A4H-pAkIM8=/1200x800/smart/filters:cb(1581730926690)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/policegraduation10.jpg"
+        width: 1200
+        height: 800
   - title: "Is this facial recognition app going too far? We tested it"
     excerpt: "Hoan Ton-That’s app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business’ Donie O’Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
     publishedDateTime: 2020-02-17T19:34:00Z
@@ -291,9 +172,35 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/02/200207150324-05-clearview-hoan-ton-that-live-video.jpg"
         width: 576
         height: 324
-  - title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
-    excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI), will stop short of imposing an outright ban, a top official said."
-    publishedDateTime: 2020-02-16T23:43:00Z
+  - title: "How EU is Dealing with the Facial Recognition Controversies and Debates?"
+    excerpt: "The controversies, debates, and discussions for facial recognition are taking the center stage in every tech-advanced region. Where some realizing its utility deploys it for social good, others consider it socially harmful at the same time. The wave of dialogues has even reached the European Parliament and the European Commission. According to ..."
+    publishedDateTime: 2020-02-17T14:25:00Z
+    webUrl: "https://www.analyticsinsight.net/how-eu-is-dealing-with-the-facial-recognition-controversies-and-debates/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 38
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/image.jpg"
+        width: 1116
+        height: 628
+  - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
+    excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
+    publishedDateTime: 2020-02-15T17:58:00Z
+    webUrl: "https://www.thespec.com/news-story/9855138-peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/"
+    type: article
+    provider:
+      name: The Hamilton Spectator
+      domain: thespec.com
+    quality: 34
+    images:
+      - url: "https://dynamicmedia.zuza.com/zz/m/original_/9/7/975158cf-3edd-4563-84e5-abfde056b374/B881046758Z.1_20200215125209_000_GSASQ903.5-0_Super_Portrait.jpg"
+        width: 625
+        height: 417
+  - title: "‘Really scary what I saw in Hong Kong’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
+    excerpt: "The commission, the EU’s powerful regulator, is eager to answer the worries of European citizens about the rising importance of AI in their lives, amid reports from China of facial-recognition technology used to crack down on dissent. “I find it truly really scary what I saw in Hong Kong,” said the EU Commission’s executive vice ..."
+    publishedDateTime: 2020-02-17T00:51:00Z
     webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
     ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
     cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
@@ -301,11 +208,24 @@ related:
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 29
+    quality: 31
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_073744.jpg?itok=8I6egWZ4&v=1581896270"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_084747.jpg?itok=AizU6ubR&v=1581900472"
         width: 1200
         height: 630
+  - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
+    publishedDateTime: 2020-02-12T10:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200212005344/en/Study-Digital-China-2020---Government-Fostering"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
+    images:
+      - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "1vOCcgQCVqLYpvFYAyNKnEpeD7uL/XIL2DJSQaTIKSy9i4xTK578uuNeAQBqc31Xv5NlisjbyERelIb0V3nOk5FDHHLnKOFxTGJKTDKUT7H1RtQMZHeay6TP6cSdDaw1Cjiz8VfKPc100T2TLvzlwIFAtEWOn4yalDvTCFd+paOk4d6JlAh7eT33BziXOV3Ho4ojcejvEkp3cyaHW0Yq5VwE1ApZ7o3Q/NKKh4aw1r4iRcsxWACvJTq2h7T9vfaCJDtHJa1UZJYMGcGFFM7aok/eiSYwCbXmSnk7L8oQ5McpiTfvFr94/GB4qldPKjQfgsHaDa1zPe7K/XB/tAoIEXAbHwKTAK01Fu3fcvLtdG8iB+J785xjQulG+CzadLOsDBoM1jZu+W+Ib6N4ycb0FsQo3dnpxEZdwNhyC+a1eAHTIrmqJvSASOLACaK8pSwqqnbM9Vai2n/UMjOP1yNKJw5o2CNYEP3WhJ54hp92NgE=;6BvLChMxyyMpEyBvm6AhnA=="
 ---

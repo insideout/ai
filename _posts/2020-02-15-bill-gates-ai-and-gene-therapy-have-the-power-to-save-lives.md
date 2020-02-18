@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/"
 type: article
 quality: 104
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -40,7 +40,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 83
+    quality: 183
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/200214-gates1-630x420.jpg"
         width: 630

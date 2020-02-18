@@ -243,66 +243,8 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
         width: 1200
         height: 800
-  - title: "Police Facial Recognition Tech Snags Pics from Social Sites"
-    excerpt: "Clearview AI stands apart from other facial recognition companies because it pulls photos from commercial sites, like Facebook and Twitter, for its image database. Some are concerned by the company’s access. (TNS) — Surveillance footage showed a man suspected of fleeing officers during a traffic stop. Still, after several days, Pinellas ..."
-    publishedDateTime: 2020-02-11T21:55:00Z
-    webUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html"
-    ampWebUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_590075333.jpg"
-        width: 940
-        height: 627
-  - title: "Privacy Groups Face Down Facial Recognition on Campus"
-    excerpt: "Privacy and civil rights groups are ramping up their campaign to get facial recognition technology off of college campuses. They are circulating a letter to aimed at college administrators seeking signatures of support. Many of the groups are the same ones that were successful in spotlighting the use of the technology at concerts."
-    publishedDateTime: 2020-02-13T13:13:00Z
-    webUrl: "https://www.multichannel.com/news/privacy-groups-face-down-facial-recognition-on-campus"
-    ampWebUrl: "https://www.multichannel.com/.amp/news/privacy-groups-face-down-facial-recognition-on-campus"
-    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/privacy-groups-face-down-facial-recognition-on-campus"
-    type: article
-    provider:
-      name: Multichannel News
-      domain: multichannel.com
-    quality: 59
-    images:
-      - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTcwNDMzNTM4MzY0MDI0NjA0/facialrecog.png"
-        width: 620
-        height: 343
-  - title: "Is Fashion Ahead of Facial Recognition?"
-    excerpt: "MY FIRST FACIAL-RECOGNITION MOMENT—my instant of facial-recognition recognition, you might say—happened when I arrived late on a flight from Europe and carried myself to the Global Entry kiosks. For years the Global Entry process, an accelerated automatic immigration check for prescreened travelers, began with a passport and fingerprint scan."
-    publishedDateTime: 2020-02-17T15:26:00Z
-    webUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance"
-    ampWebUrl: "https://www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
-    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/fashion-facial-recognition-surveillance/amp"
-    type: article
-    provider:
-      name: Vogue
-      domain: vogue.com
-    quality: 59
-    images:
-      - url: "https://assets.vogue.com/photos/5e46c4856d8f97000815dd3e/master/pass/VO0320_FacialRecognition_01.jpg"
-        width: 4068
-        height: 2820
-  - title: "AI and facial recognition in 2020: where’s the line?"
-    excerpt: "security and AI ethics to be at the forefront of the conversation. As regulations continue to be made at a city, state or federal level, they will shape the extent to which we can use AI, and how we will approach the “AI race” in this decade."
-    publishedDateTime: 2020-02-14T10:08:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/opinions/ai-and-facial-recognition-in-2020-wheres-the-line/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 56
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/jason_carolan_flexential_mono.2e16d0ba.fill-1200x630.jpg"
-        width: 900
-        height: 474
   - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology ..."
+    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
     publishedDateTime: 2020-02-14T12:00:00Z
     webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
     type: article
@@ -314,21 +256,6 @@ related:
       - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
         width: 620
         height: 350
-  - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
-    excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
-    publishedDateTime: 2020-02-17T01:11:00Z
-    webUrl: "https://www.thestar.com/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
-    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 54
-    images:
-      - url: "https://images.thestar.com/4Gdty1kT8G_3_BfW_A4H-pAkIM8=/1200x800/smart/filters:cb(1581730926690)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/policegraduation10.jpg"
-        width: 1200
-        height: 800
   - title: "Is facial recognition technology worth the privacy trade-off?"
     excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
     publishedDateTime: 2020-02-04T09:05:00Z
@@ -368,19 +295,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/392/2020/02/Google-Headquarters-Shutterstock.com_.jpg"
         width: 620
         height: 372
-  - title: "How EU is Dealing with the Facial Recognition Controversies and Debates?"
-    excerpt: "The controversies, debates, and discussions for facial recognition are taking the center stage in every tech-advanced region. Where some realizing its utility deploys it for social good, others consider it socially harmful at the same time. The wave of dialogues has even reached the European Parliament and the European Commission. According to ..."
-    publishedDateTime: 2020-02-17T14:25:00Z
-    webUrl: "https://www.analyticsinsight.net/how-eu-is-dealing-with-the-facial-recognition-controversies-and-debates/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 38
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/image.jpg"
-        width: 1116
-        height: 628
   - title: "ACLU criticizes facial recognition company using photos without permission"
     excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
     publishedDateTime: 2020-02-06T05:25:00Z
@@ -407,19 +321,6 @@ related:
       - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
         width: 5379
         height: 3551
-  - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
-    excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
-    publishedDateTime: 2020-02-15T17:58:00Z
-    webUrl: "https://www.thespec.com/news-story/9855138-peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/"
-    type: article
-    provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 34
-    images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/9/7/975158cf-3edd-4563-84e5-abfde056b374/B881046758Z.1_20200215125209_000_GSASQ903.5-0_Super_Portrait.jpg"
-        width: 625
-        height: 417
   - title: "Google Photos allegedly violated Illinois’ facial recognition laws, according to suit filed after Facebook settles class-action over same law"
     excerpt: "The suit was filed about a week after Facebook agreed to pay $550 million to Illinois users to settle allegations that its facial tagging feature violated the same state law protecting biometric information, which can include data from facial, fingerprint and iris scans. Illinois has one of the strictest biometric privacy laws in the nation."
     publishedDateTime: 2020-02-11T23:07:00Z

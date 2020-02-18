@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
 type: article
 quality: 83
-heat: 243
+heat: 253
 published: true
 
 provider:
@@ -195,6 +195,19 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 19
+  - title: "Transportation in 2030: Flying cars maybe, but mainstream electric and shared ones for sure, some possibly self-driving"
+    excerpt: "so this is a serious space.\" Companies like Uber, Boeing, Volvo, & Toyota among others are testing this technology. Meanwhile, autonomous vehicles (self-driving cars) are nearly here. They already undergoing vigorous testing and by the way the Oregon Department of Transportation has an autonomous vehicle task force considering what changes ..."
+    publishedDateTime: 2020-02-18T14:30:00Z
+    webUrl: "https://www.kgw.com/article/money/transportation-in-2030-flying-cars-maybe-but-self-driving-electric-shared-ones-will-be-everywhere/283-1c3c9d75-4057-44c0-984c-0a82e0aef4f6"
+    type: article
+    provider:
+      name: KGW8
+      domain: kgw.com
+    quality: 15
+    images:
+      - url: "https://media.kgw.com/assets/KGW/images/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec_1140x641.png"
+        width: 1140
+        height: 641
   - title: "Former Self-Driving Car Operator Engineers Crash in Tempe, Cops Say"
     excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
     publishedDateTime: 2020-02-14T01:38:00Z
