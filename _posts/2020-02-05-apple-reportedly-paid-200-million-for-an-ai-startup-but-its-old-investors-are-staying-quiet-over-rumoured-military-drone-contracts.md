@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T11:24:00Z
 webUrl: "https://www.businessinsider.com/apple-acquisition-xnorai-project-maven-military-contracts-2020-1"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -19,21 +19,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Apple's reported $200 million acquisition of Xnor.ai is part of the bigger red-hot trend of edge computing"
-    excerpt: "Here's why edge AI was worth $200 million to Apple."
-    publishedDateTime: 2020-02-03T09:10:00Z
-    webUrl: "https://www.businessinsider.com/apple-xnor-ai-acquisition-what-is-the-future-of-edge-computing-2020"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5e3452225bc79c17000bff84?width=1200&format=jpeg"
-        width: 1200
-        height: 600
 
 secured: "daLzznkBqX8qA7z99sKTUwwny9d1xi6Kw8H5gMpq7/jUqOf6ATt3/NCd3f5PczX4T5/16YaWhRMF8oi8y5uYQrClJma0L+SQFXpoCTUn6ljbHgeotvNu2WLB87GuMHtdghkT+2gUwi8dBR4mZhAUo2jbBoAWqr1twZktu8OADx4/MQwdHWbHX3BtiKiK4bqexwQ0OWaS+/j8uNBFe+/FL8rrjeODxhXzrAWqECIP0Zy9bKn8Ie54lgphtJCxB3ST2PSgr+f6p8bAJ5gl1bhtQBfr5QoPEqZkHQ+Li5u86ywNVOgKjV9HXfYNAf2ZmEyYPLrOdPU2vxOD4saJak//pWnpy+/fFrPJ9/MydMV9N4DiJXGvvxwQQbFkI5sdSPwEMpo/6V+aEiu09/r/74oNW/SeRiDn1kWLmLd/Jgss17+d5oXBSJRN9yXYpdSaJ4Vdsent4D78bdPKT1OcVJgfHQBIMIGwY53U9knro3FW9gQ=;whvDi3I3bRt34fc1lFhVqA=="
 ---

@@ -68,21 +68,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/elonmusk_party-796x417.jpg"
         width: 796
         height: 417
-  - title: "Tesla’s Elon Musk will be hosting an AI hackathon party at his house"
-    excerpt: "The hackathon will also allow Tesla to fish for new AI talents to join the team. On Sunday, Musk also mentioned that the electric carmaker is looking for world-class chip designers and C++/C engineers for vehicle control and other functions of Tesla vehicles. Musk reiterated that educational attainment is not important when joining Tesla but ..."
-    publishedDateTime: 2020-02-03T09:11:00Z
-    webUrl: "https://www.teslarati.com/tesla-elon-musk-autopilot-ai-hackathon-party/"
-    ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-autopilot-ai-hackathon-party/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-autopilot-ai-hackathon-party/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/12/Randell-headshot2.png"
-        width: 537
-        height: 485
 
 secured: "Tp8snNPfVdEBcCMA1lC2Mtayf7xxEkQ7c+zOqpre2PHMpuHRyLJ91uqYTlf9Xky1xP8VK6/tvJ6I2o5gvYpA2yMu4Fup8Ouj86hA/uTh69JAfY9wJP1yJjgCyDgLItHlhjEZ2L9noevUFjiJ+sPa1WLwjKbimsJ/D2xlTTN/fS2rtArQ7DP8M/VVQ3vGOqZFTtNBpN6HpC3Wn//SHf+6tqG80H1lGwC3yR6yLWldGPZADs83oA/ZMQPPoWAeSXuTqln9yLzmIDlM7XtMkWali7ITszd+AeyulY6F5NV3sRbWB6umqggGPt284SsD7Gp/5qTij46rLW7c3oRZhU6rvXtcX2THJI12SVIsbuj8II4a/0dQp6IiU0ADL0qSotxKh3Aqca+7sehqE+YU577l+0FL3UQWFo3GdH7xq7T5PbskHZyJ3q6lbi1Re/FFLaPfFjrAIg+klu/nbLeb4bW0/5O4OWAYfSeSSBzLNSJcbI4=;najHv2dTCj0fNUhQMy/tmg=="
 ---

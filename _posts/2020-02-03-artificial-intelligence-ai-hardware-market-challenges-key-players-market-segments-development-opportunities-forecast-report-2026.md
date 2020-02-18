@@ -196,19 +196,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Cloud Natural Language Processing Market: Global Industry Trends, Share, Size and 2024 Future Opportunities"
-    excerpt: "Global Cloud Natural Language Processing Market reports provide in-depth analysis of Top Players, Geography, End users, Applications, Competitor analysis, Revenue, Price, Gross Margin, Market Share, Import-Export data,"
-    publishedDateTime: 2020-02-03T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-trends-share-size-and-2024-future-opportunities-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Deep Learning Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026"
     excerpt: "New Jersey, United States - The report titled, Deep Learning Market has been recently published by Verified Market Research. The Deep Learning market has been garnering remarkable momentum in recent years."
     publishedDateTime: 2020-02-03T11:26:00Z
@@ -266,19 +253,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Healthcare Natural Language Processing (NLP) Market: Global Industry Analysis, Opportunity and Forecast 2019 to 2024"
-    excerpt: "The report provides an exhaustive calculation of the Healthcare Natural Language Processing (NLP) comprising of industry chain structure, market drivers, opportunities, future roadmap, industry news analysis,"
-    publishedDateTime: 2020-02-03T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-global-industry-analysis-opportunity-and-forecast-2019-to-2024-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

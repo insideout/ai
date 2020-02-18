@@ -63,15 +63,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
-    publishedDateTime: 2020-02-03T09:37:00Z
-    webUrl: "https://www.africanews.com/2020/02/03/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
-    type: article
-    provider:
-      name: Africanews
-      domain: africanews.com
-    quality: 0
 
 secured: "w/wRiZTAbYczNB40qN06ysCTAg3eBi0YEE9tnCWJgQ1BKliXVgH7sLdIAktzfUH/ozv3SHSE6puz3ioRUrIIHS4Nm1OZVXtwX5GV7RmooYu46FAFSEI70G3f0f8/1OfKeo+/iEcrymCrkcMrZMXj6nd/G2o+7dtijMm0QUpbJpllXCXcuO2Z/CM6Qnq0ATGivTH1us3cN6ml6JRkxthP4b95hs6G6eDqSyl51thiQPuPOtxEzRrX48IBDxog3UoHMNRHsQgkax/rJH94q8DHX0YTXcHo0K3TwlUmUKmm0olRLgQowe6ayk1Mrs+deLDu9Ky2tTExg7RJ4udRmCYMzL5xe4II7Rk7jGEECtxo5r6DDSZSfkkVsBaq+Cp9mq4wJXIqNq6wZRrUNQcSPf2Fhz7ga9qIlWePSUCihcB+YXMWLI8jhRQZWkDFQumGNX5Vd6iOoq5PirkYs72I+bw1PyhzYYuATQ11rdmg2hUu8ys=;8ddePJ41IFgwH2WnjUzg1Q=="
 ---

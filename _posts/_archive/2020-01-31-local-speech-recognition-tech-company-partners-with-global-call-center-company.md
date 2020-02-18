@@ -4,10 +4,12 @@ title: "Local speech recognition tech company partners with global call center c
 excerpt: "Voci Technologies, a Pittsburgh-based company that provides automated speech recognition technologies, announced Thursday that it had entered into a partnership with a global provider of call centers."
 publishedDateTime: 2020-01-31T13:10:00Z
 webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html"
+ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
-quality: 15
-heat: 15
-published: false
+quality: 55
+heat: 75
+published: true
 
 provider:
   name: The Business Journals
@@ -17,7 +19,26 @@ topics:
   - AI
   - Natural Language Processing
 
+images:
+  - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
+    width: 600
+    height: 400
+    title: "Local speech recognition tech company partners with global call center company"
+
 related:
+  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
+    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
+    publishedDateTime: 2020-02-04T11:05:00Z
+    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
+    type: article
+    provider:
+      name: WYMT
+      domain: wymt.com
+    quality: 33
+    images:
+      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
+        width: 690
+        height: 388
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
     excerpt: "The AI-algorithm that powers SpeechX is based on proprietary evaluation parameters of Mercer | Mettl and grading mechanism of its technology partner CarnegieSpeech that in turn leverages state-of-the-art and patented speech recognition and pinpointing technology licensed by the Carnegie Mellon University. SpeechX assessments can be taken from ..."
     publishedDateTime: 2020-02-06T02:31:00Z
@@ -28,6 +49,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "gH11zt27GeP6b+rsrO5Qrfo5XH8rQIJ1KBqZy3UW3W6pbVNfYfPgZV59Tx+MaD0cPA1jXhEiutk37fUm8COp9W72dBBhPLS7SQ+tMZWrz534dBUG3GAQOjqGFTSs1IxJBCWWGUO3ag4OJKYrvtjpj14GiN6sZS+R3EIygCwbdZ1O0Zoh9wXC0bJaJwZ/Tq0/bwjcjl6YtRZB/oqpCIO3kv5wGjbh8N3d91ZttIhFTiZgBlGXUgIqXuZftRnL/DvsMJRjuuFkOrdz0687QV3P7GYAfPouWXhpZcGrss379ENjeWRLJDvyrw8WjhXWxUf7;rPRzoUAy4g0QabvzDS7ung=="
+secured: "/iPrazoL1wIarnspY7x/lJQm+VLl3jhIPk3JR6gGR37GDSUZKyhVdgVmYeE18tfCsMQjMF6BykslNVO8OV6WVPLVSE2CEeaQfqt/QNjiCZv7fnBW8a0iA1AX3ubG0L0WamCgdfbrYdFN415p5vBEN+l5eVUAr4iJi68EnroSOcATV9BQyjA0vDLkNMaJu0EEhEAzAWSfVf32qpEVqjUuaseB1iTUNvzeVJOvRaXg4pHQ55kC2/V/XExje+2Kl638B/wr3Kf4rsMhCP/9S+RnWJ7rPCHhuf8E149s6xuIn5GHqaJtTbB8Qs8yIW70Z3P3;8udPLx13iZz0ttJ6hfFSrA=="
 ---
 

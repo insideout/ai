@@ -61,16 +61,7 @@ related:
       - url: "https://www.biztechafrica.com/media/images/stories/microsoft_wDjNDZP.jpg"
         width: 410
         height: 270
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
-    publishedDateTime: 2020-02-03T09:37:00Z
-    webUrl: "https://www.africanews.com/2020/02/03/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
-    type: article
-    provider:
-      name: Africanews
-      domain: africanews.com
-    quality: 0
 
-secured: "xlRb7mEwwPlXrCF/MMko9LfhlrfcBj73DkVkT677hk/CyUo3/7cpH3mt6dF2uuMnyxDFWjvhpeu/IBzOA3Gop7RjEjJSc9WsfJ8BVtqi94Nm7aoz/97/ZWxcZScNFdMaWqUzG7dZCcW3wDoLgn9z4tJuML0Vuv58mhwiNf77XSbf9oR+q2DCdEdMezGFfhR5r+rHdCy72PQTYCe3jGCFCVuDCtlDAao+TsdMzMDRa9gPUnvz43l1S7MD8wtdHnKURugmNNexDXihH1mKeNqLu0j5A02ADCkkHchWvMDwsdb6/msJpEzDj+hHw2N1jW32jXkW56Xv4enQrNHN6whT0VrVW9WjaR5z2PKseZ9EQ7Bmfj3lqrw9Q6TMaXWTHPiRA42hPbG7YiRK32QxajIHAVNGm6b7bqXtOSgjB0SFmXqzNE7wuh0Bz1UWSRGn+SNQFXkG2TUeT+xWtN32hb4pe7QV9ZSGZCxFSAcdToW91BA=;dQ1cPyBz+4QpWyW6M3awsw=="
+secured: "UtVOVC4S1hFOCel9LyzVHUq3P8820gob4uoHBpeJvYjbGvnzFnfSx6aKMp+j8yig2+GHFCFoSbPTR5rF3nUgkADcwo3ScbkD/WOhX6dShNh+4KDy+Q7di2sJ49DLHaTceA5m6pHyoDSv3wajoIeM5GTaU3YGynLzM4xSt9Da/mwxPmf0JUQVFIafF0a+YpeH5mmhOEYHC4lxup0zRPmnvW7QTkFYPEVJ81DClc0zW8jhkRDAWagqKNbW0brtLa8pGcpTFXVQZudZhJ2Z/zOOEV/5G1KZsdcdD8/lncFpig/wOnqpyFrq4QEiVIZGElG85iDi6T/+0exwKONRISolZzBIYu4QYVaIGzF9k67eHzrODkXL9/7t0Mqa3F2FLoiFU2O0E7IPi4r/5bdvMs3fm8uS/aCkQgXB4UpDrUfrqQGrq8dU9G1+EIbBfhHaTnrIllCnPvsKABx6HKf+EmosQFl6N/j3RVmaPYpzC5BmNVE=;IUu2W4g31HZ77EFlw5XiUg=="
 ---
 

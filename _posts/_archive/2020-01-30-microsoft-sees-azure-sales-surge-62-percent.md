@@ -4,8 +4,10 @@ title: "Microsoft Sees Azure Sales Surge 62 Percent"
 excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
 publishedDateTime: 2020-01-30T09:13:00Z
 webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
+ampWebUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -26,7 +28,11 @@ related:
     provider:
       name: BCW
       domain: businesscomputingworld.co.uk
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+        width: 320
+        height: 210
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
     publishedDateTime: 2020-01-23T14:37:00Z
@@ -35,8 +41,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 0
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
+        width: 1024
+        height: 803
 
-secured: "thQKD4TRgzCaEVJYHHZmLIZsreVg0A3Ol1LQMGOAbY7CcP19fzUf1l4QygoUZ7LMPjbC1xzsZMMea5C96NuqSGrrk2uQ6yUfQvWmowm58hO4kwdyxvA1hV0zb46TXnMUdfAJKqDGdtYeaYj+9hW1JUr4JWIcdLpCVtRJD9VALenPkFUIqIb2PzSZsvjV8s7yaEdYc33Gb/mE2D0Cxfe+Fv1gv8pcwH8GPf25jUYXKWOsXcGFRFZ3yNZ34cO7bOSPWs097F4MRWJfpRp9kvOwdIEgjqylTW4Do87zqQJN13JqD3cyztmG7L/Wxi1uYuwu;7rMz1zN2vY1SszyAx2TeTg=="
+secured: "diHrfdj7UB0uImSWbqchiRdg0IeUohoINPzG6lYJ/uICHV0QrWA5wkT/VJUp73ZP+Y37Cjgx847oNnYruXyTpZZJwxlwCoqabB9hvSnZ0YlvtGUEUw/3+LQ4J8joFVtMzTPC588xJOrBWylJ/AkeaQFn13kGhppfN1oNm2HKeQcBHjnwoR+3KhniL08tBYbSaBqVuApLzxjX3dcDjr9wKfxmOz3omiHcSrasTY515CEc+r0ARMftv4PTwDHJpBj2nwDKLO2h34vAOfvoxItM/IGcN7MmBYYwPDTJN/MKy1uZJrlFSTJ0YmlRR1Gd1K+W;SiBqM/UnS0girlwoXaYQHQ=="
 ---
 

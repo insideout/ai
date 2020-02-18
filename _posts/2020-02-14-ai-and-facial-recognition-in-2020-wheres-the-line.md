@@ -289,6 +289,19 @@ related:
       - url: "https://assets.vogue.com/photos/5e46c4856d8f97000815dd3e/master/pass/VO0320_FacialRecognition_01.jpg"
         width: 4068
         height: 2820
+  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
+    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
+    publishedDateTime: 2020-02-14T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 54
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
+        width: 620
+        height: 350
   - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
     excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
     publishedDateTime: 2020-02-17T01:11:00Z
@@ -395,15 +408,6 @@ related:
       - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
         width: 5379
         height: 3551
-  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
-    publishedDateTime: 2020-02-14T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 34
   - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
     excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
     publishedDateTime: 2020-02-15T17:58:00Z
