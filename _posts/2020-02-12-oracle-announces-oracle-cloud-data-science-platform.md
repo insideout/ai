@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Oracle Announces Oracle Cloud Data Science Platform"
-excerpt: "Oracle Cloud Infrastructure Data Science automatically selects the most optimal training datasets through AutoML algorithm selection and tuning, model evaluation and model explanation. Today, organizations realize only a fraction of the enormous transformational potential of data because data science teams don’t have easy access to the right ..."
-publishedDateTime: 2020-02-12T13:20:00Z
-webUrl: "https://www.oracle.com/corporate/pressrelease/oracle-cloud-data-science-platform-021220.html"
+excerpt: "/PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data"
+publishedDateTime: 2020-02-12T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-oracle-cloud-data-science-platform-301003588.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Oracle
-  domain: oracle.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
-    width: 480
-    height: 480
-    title: "Oracle Announces Oracle Cloud Data Science Platform"
 
 related:
   - title: "Oracle unleashes cloud-based data science platform"
@@ -64,6 +58,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "RnVFs+RNOm6n/xbUyccKKgO+mJfJ1d2efo6FsrnsntRVSrjAILRJvBbSF8DmiC58ZRigpW4pas3Dj/Z2bMKfG6qzTTGi9AHD35Rqsw6HBemDaOgFh7KuelMh373sV24a5O3WQtTHMw8Y7WnrE8N1g/jAJAYYNR3WGtPZBqTbizvAN1TpRPsKFsohQpkVv+UTXOK26yIhnnRvhJX/HT9RNVV0gq0avtfKjJNF5Mp4KmJpdKYqbpNFr4fL/TblwbLIXeM5I9jvxPSF5RjHftybXJhpMkx1uzfLmVDQdKorp3hjQDtcdfoJJFX7DT2vbNsw;3jPoorZRxcdpBPTZVlKayA=="
+secured: "ryxS2zO9K+fBgu40hx5kEIHs4qrmfz8MNlV7JrgcZYH+VjSN4VDa8sBzvDNQYWHU3NCSjhBawdJWZ1iSED0B93KcnEvSfCW9J8iu3CBfrDRhbax3h4OkfKvUTEQGEwtolG1zduWTrTEkVMQuEkBaFo6Gma9KhyVPgPT1SV1wp8n/n1Z+9TBCEZ3zpyQCx1sLnwMb/+1LZYaQsmdwmUyEH1dlupBWGqA1p9c5/Eajgme5h8suE5cIAF8SWismjBdzAghuI5EBIBzQvCLm8fIV3oXUpcYCAyAFyr7PC/HDoQnlSZ2VlDe9vqk8urHSPWn0NXSlEBexjXE5uyeIVTjMz0/xpUYgW8wB1SCe6hLFbPDH1YFY6yn55E1WUc6mIXnKKyw/ph3xwifMY3Sydw/srGYj8T1j8ANJNdYmIGNe6fWXoZCJFKDL36avR8aVEeQBnz/eD1DHmmbExzTmPv1LbCnpIsbAzHjxSmtR3dNq2TM=;qOFjrs28h3V7sBkcmdk2Eg=="
 ---
 

@@ -20,19 +20,19 @@ topics:
   - AI in Finance
 
 related:
-  - title: "AM Best to Host Webinar on Digital Intelligence in Underwriting"
-    excerpt: "A panel of life insurance underwriting experts will examine how the evolving capabilities of artificial intelligence and machine learning are helping underwriting professionals to assess risk with greater speed and accuracy. The session will also examine how insurance professionals are adapting to and leveraging next-generation underwriting ..."
-    publishedDateTime: 2020-02-10T16:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-am-best-host-webinar-digital-intelligence-underwriting-/2020/02/10/9094960.htm"
+  - title: "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector"
+    excerpt: "The term fintech is a portmanteau of ‘financial technology’ and denotes an industry that has exploded in popularity over the past five years. When examining Google Trends, we see that prior to 2015,"
+    publishedDateTime: 2020-02-17T23:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector-2020-02-17"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "nCDZacUR52tw26b1QpiMu5ZIKewuqR15827RQtzyMgSaIinL36f90GhE4pXW2fWzhscBqSLQSAAZIS5i5Bp5faBNwzHrDCuJi7jRZmWM6+iTtiOC/YNpP2H9Wt/+Cf8+7w1bUfSkba34z3TvR3TsmGZo4QdeQXt1f7KSASc05wHWTqzV3tRC2Wunj6Bs5pNENkbHXD4OGBY0Nl8hLfXklpLy0giwY/ue8GCo1QaaITPJRH3rwZo2Rx/dVBNWh2rJukP54CENNCAwFgUdG9svwedSDI1NxERuLopVvJ1bI2xQcM8u9NnzNTA0+4tvDfLj0HyjoXQuLEr0YjPUl/h2hrmll+rP+kgsKidUB+KmkHmsYM1IY0MPRDRQVfQHGcQUoF1jVROfo9cMsPn3FX9U9ADX+4/AquJaQMWPGBItd0C33hPQTPP9K8VAuZsboE2Jeei6ud5muuP27+vjSIBzapxF9aewHuh3BFJTkt08DQA=;tvMbG0k3XbAG++OW2/EWIA=="
 ---

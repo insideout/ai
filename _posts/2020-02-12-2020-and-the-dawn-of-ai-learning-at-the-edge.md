@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 38
+  - title: "Can machine learning and artificial intelligence save lives?"
+    excerpt: "As we move forward with the technology like artificial intelligence and machine learning, we can only access its true power for good through the skills of talented programmers, working in cooperation with medical professionals."
+    publishedDateTime: 2020-02-17T23:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15350449/can-machine-learning-and-artificial-intelligence-save-lives"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
 
 secured: "x/F5q7Cc+tcQ9Zm5uO5AxiyG/742JG3kNtBLsep46hQCiwL8xXbYvGt/Z9W4zYgUc8Yc41v97GCLWjGt77tHVl+hs3K24uJHgGPNgDn92FfVH6aJb69nOtZpLpFjsWGSfNSQOfrqXTPBBGeB0QQ9rJNMS4Y50tNv8e0WC6YLu4zvCRjLk58afdwdfPku1d3NdHNiACGspWyUZAeBOF53I5HTUzzX3bUQ8RZvYTP41B1qxMJza2WjFBFckXgudOel6DOZ7MHkDJvonZKVJ/h0xVHcHoq7jv1KmMYy34W+Ltm3JDa2eJS2+A3XJyd3C56sndkija8+VjpCY9RYuffKqYPXAAaQAQOYUtIwt/CylyMde9kf/8QcWXxdncYoNxLCn64i0KdPDXDEs8HGNdo6f11EypRkdCUqX6ua6V8cyAd/HJeihVxEKAhpG/1HAYTTbu8ujPI3lEfBAtqs+FZ81VIk0uianDiiPJR825cUs8c=;U7XsapTuTjs5Yy2HY0pa1g=="
 ---

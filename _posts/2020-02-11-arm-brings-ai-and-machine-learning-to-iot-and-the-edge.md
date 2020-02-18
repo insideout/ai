@@ -61,6 +61,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 38
+  - title: "Can machine learning and artificial intelligence save lives?"
+    excerpt: "As we move forward with the technology like artificial intelligence and machine learning, we can only access its true power for good through the skills of talented programmers, working in cooperation with medical professionals."
+    publishedDateTime: 2020-02-17T23:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15350449/can-machine-learning-and-artificial-intelligence-save-lives"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
 
 secured: "wtizQzq++EA5kDpK2yrGPfPqGZZVnNh2yCtZwtMh0fZsoxc4YUPBJYAKwaixmt2jDooXMVOk3m+84nAGJ/r+FAgkzErPKtZ5By5ejxtmuw5cdzXvS5PWShoATa8Far/FBjHH9KK2MZHMRjlqN1Qoa+szKJW8Ra+sOzAY3JpAUolAV1Wu3e5f+6krUOGQjVVwpZHamH5C7qAvqo7rhO09ON91nFrKeWlDKNRnsy4LVAhYhnQKPnB8OgD5D+fRtSwVtt0gBrMiVXesLl8Ju2b0yo4C1ChvG4heWUjPp9riWlytY7ZZEuc7sZLo88UEwARkpYaHwu2E/pmVmB4bWex9xG0iI1lBrVVLN/gwNrNlbtCL1zht4S6fVi+i8iow42NaXz1Atl/FzBJQVhatzW2D1QO5VP2IRybH5ZPA9jv+Rix4sy+0dqfamyRadEfO8xbGxK+EfTGF/LNyj7z/cyWhttKHGraDE2ziaU5rkxm279U=;NcdbuCzGBjHmYKy+Rsnt6g=="
 ---

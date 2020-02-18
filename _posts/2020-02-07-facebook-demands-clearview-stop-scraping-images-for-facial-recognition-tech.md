@@ -301,19 +301,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/jason_carolan_flexential_mono.2e16d0ba.fill-1200x630.jpg"
         width: 900
         height: 474
-  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
-    publishedDateTime: 2020-02-14T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 54
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
-        width: 620
-        height: 350
   - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
     excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
     publishedDateTime: 2020-02-17T01:11:00Z
@@ -407,6 +394,15 @@ related:
       - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
         width: 1200
         height: 628
+  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
+    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
+    publishedDateTime: 2020-02-14T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 34
   - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
     excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
     publishedDateTime: 2020-02-15T17:58:00Z
@@ -474,6 +470,15 @@ related:
     provider:
       name: Boston Herald
       domain: bostonherald.com
+    quality: 15
+  - title: "Google Tells Clearview To Stop Scraping Photos For Facial Recognition Database"
+    excerpt: "Google and its video service YouTube have joined Twitter in demanding that facial recognition startup Clearview AI stop scraping photos from their services. “YouTube’s terms of service explicitly forbid collecting data that can be used to identify a person,” a spokesperson told CBS, which first reported the company's move. The tech ..."
+    publishedDateTime: 2020-02-17T23:20:00Z
+    webUrl: "https://www.mediapost.com/publications/article/346692/google-tells-clearview-to-stop-scraping-photos-for.html?edition="
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
     quality: 15
   - title: "Controversial facial recognition app reveals it can access photos that are no longer online"
     excerpt: "A facial recognition company has amassed a three-billion-strong database of social media photographs including pictures which are private or have been deleted. Clearview AI, which identifies people by cross-referencing their mugshot with its mammoth image archive, has sent chills up the backs of privacy campaigners since it began selling its ..."

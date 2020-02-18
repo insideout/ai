@@ -2,95 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-15-7-business-areas-ripe-for-an-artificial-intelligence-boost.md",
-      "title": "7 business areas ripe for an artificial intelligence boost",
-      "excerpt": "Artificial intelligence has captured everyone's imagination, but what can we expect from the technology? A recent survey of more than 550 executives from IBM finds plenty of support from the top -- everyone wants to plunge full-force into AI to increase the speed and capabilities of their businesses. At the same time, AI is still very much in ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
-      "publishedDateTime": "2020-02-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/02/15/211f423b-0209-4ff3-ba9b-55d939fe67e0/ibm-watson-group-photo-from-ibm-media-relations.jpg",
-          "width": 320,
-          "height": 287,
-          "title": "7 business areas ripe for an artificial intelligence boost",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-15-bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives.md",
-      "title": "Bill Gates: AI and gene therapy have the power to save lives",
-      "excerpt": "Technology could help cure AIDS and understand our biology, Gates says. Microsoft founder Bill Gates thinks artificial intelligence and gene therapy are the two technologies with the greatest power to change lives.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/",
-      "publishedDateTime": "2020-02-14T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/cfrI4s5degOXK4M6Np9ih-ngeZs=/756x567/2020/02/15/c96dfa36-ef88-42b3-8d9f-7c359d2f50dd/bill-gates-getty.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Bill Gates: AI and gene therapy have the power to save lives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-16-built-robotics-to-unveil-autonomous-construction-equipment-at-trade-show.md",
       "title": "Built Robotics to unveil autonomous construction equipment at trade show",
       "excerpt": "The company’s technology transforms existing construction equipment — including excavators, bulldozers, and skid steers — into fully autonomous robots. Built said its artificial intelligence guidance systems can be installed on existing equipment from any manufacturer, while still maintaining complete manual operation capabilities.",
@@ -744,6 +655,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-17-deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector.md",
+      "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
+      "excerpt": "The term fintech is a portmanteau of ‘financial technology’ and denotes an industry that has exploded in popularity over the past five years. When examining Google Trends, we see that prior to 2015,",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/2020-02-17-eus-new-ai-rules-will-focus-on-ethics-and-transparency.md",
       "title": "EU’s new AI rules will focus on ethics and transparency",
       "excerpt": "While transformative technologies such as AI have been labeled critical to economic survival, Europe is perceived as slipping behind the U.S., where development is being led by tech giants with deep pockets, and China, where the central government is leading the push. Europe has in recent years sought to emphasize fairness and ethics when it ...",
@@ -1262,6 +1218,50 @@
           "width": 796,
           "height": 417,
           "title": "Why AI systems should be recognized as inventors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-eu-wants-big-tech-to-deploy-ai-tech-on-its-own-terms.md",
+      "title": "EU wants Big Tech to deploy AI tech on its own terms",
+      "excerpt": "The general perception is that Europe is far behind the US and China in terms of AI development. However, according to the McKinsey Global Institute, the EU's gap in digital tech can be overcome by funding startup development, digital transformation of non-tech companies, and encouraging investors to bring in more capital. As for talent ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
+      "publishedDateTime": "2020-02-17T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/09/2019-09-11-ts3_thumbs-cdd.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "EU wants Big Tech to deploy AI tech on its own terms",
           "attribution": null
         }
       ],

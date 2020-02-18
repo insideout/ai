@@ -2,95 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-05-a-new-device-uses-ai-to-identify-fake-pairs-of-nike-and-adidas-sneakers-in-seconds-heres-how-the-authentication-technology-works.md",
-      "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
-      "excerpt": "One of the biggest problems in the sneaker resale market may now be more manageable. Here's a new technology that uses AI to fight counterfeits.",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp",
-      "publishedDateTime": "2020-02-05T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e3477d95bc79c46c13d960e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-ai-predicts-coronavirus-could-infect-25-billion-and-kill-53-million-doctors-say-thats-not-credible-and-heres-why.md",
-      "title": "AI Predicts Coronavirus Could Infect 2.5 Billion And Kill 53 Million. Doctors Say That’s Not Credible, And Here’s Why",
-      "excerpt": "An AI-powered simulation run by a technology executive says that Coronavirus could infect as many as 2.5 billion people within 45 days and kill as many as 52.9 million of them. Fortunately, however, conditions of infection and detection are changing,",
-      "heat": 186,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/",
-      "publishedDateTime": "2020-02-05T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3aefd26059b1000722d2e6%2F0x0.jpg",
-          "width": 1088,
-          "height": 616,
-          "title": "AI Predicts Coronavirus Could Infect 2.5 Billion And Kill 53 Million. Doctors Say That’s Not Credible, And Here’s Why",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai.md",
       "title": "An algorithm that can spot cause and effect could supercharge medical AI",
       "excerpt": "Several other companies—including Ada and Your.MD—also offer diagnosis-by-chatbot but Babylon Health has singled itself out for criticism in part because of the overblown claims it makes for its AI. For example, in 2018 the company announced that its AI could diagnose medical conditions better than a human doctor. A study in The Lancet a ...",
@@ -2097,6 +2008,87 @@
           "width": 756,
           "height": 567,
           "title": "Uber gets green light to test self-driving cars in California again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-waymo-content-search-can-find-billions-of-objects-encountered-over-20m-miles-in-seconds.md",
+      "title": "Waymo Content Search can find billions of objects encountered over 20M miles in seconds",
+      "excerpt": "As of early 2020, Waymo self-driving vehicles have driven 20 million miles on public roads. That makes for vast amounts of recorded sensor data to improve the autonomous system. Waymo today detailed its Content Search tool and database with billions of encountered road objects ... road debris can include everything from plastic bags to tire ...",
+      "heat": 154,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://9to5google.com/2020/02/06/waymo-content-search/",
+      "ampWebUrl": "https://9to5google.com/2020/02/06/waymo-content-search/amp/",
+      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/02/06/waymo-content-search/amp/",
+      "publishedDateTime": "2020-02-06T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/03/waymo-expansion-mesa-arizona.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Waymo Content Search can find billions of objects encountered over 20M miles in seconds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-who-is-responsible-in-a-crash-with-a-self-driving-car.md",
+      "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
+      "excerpt": "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/",
+      "ampWebUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/",
+      "publishedDateTime": "2020-02-06T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 459,
+          "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
           "attribution": null
         }
       ],

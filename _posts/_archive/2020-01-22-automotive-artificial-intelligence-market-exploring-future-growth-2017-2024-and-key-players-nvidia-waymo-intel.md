@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T21:37:00Z
 webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,19 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025"
+    excerpt: "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics ..."
+    publishedDateTime: 2020-01-22T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-01-22?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
     excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
     publishedDateTime: 2020-01-20T09:52:00Z
@@ -28,6 +41,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "LuY6cQ//hwXWtn/MjTGWxyUN3vViIHan+65wiL/njax5Xi48yA/YPwueixqTRURIa3k1maMhz8lD9FK/jJVT3zgfr5E+ymPwV279vnOkSX6Wlv6ZHJz/wB/GK54SO7KWl4y/nBmDZXPSkgRpLMu1lJc7ZpNivR7WvmFCL/3SXY3L5s/ViY9ihsYL3AwJRzqLtGiMQ8vdbGGn0clj5ds71NJJ75rTROQCv6GTH+sVXLw0Hjhk6Ty7cYB6NizLX04xKiwT7FuchB0KI1mJ1ytMBnu8mVneRbURByPXOtuO0BYBK2XgwM7j2E0X0g+bHpET;g0WrClgwEyNgTCGnfrTtng=="
+secured: "7vKtCO/TqhkkGnKOf7kYDDO3ubWRYFGpt74z6RlIGF4bJF6+nzYBgFfwNpnprAZ/rSKkxbg+0iv5KpeXYZn3wvBtO/t1WIpxShQpCJSNJTRseWIsSncsU4CQJ9Yh4NlM9Y5ePsg010evgZcOUra8K2jDsQ1E8UKchqicqvylk3QOzfPttWD5Kmg6pQ0Tp9j/Iy0h51YKLKjzn2JZwByvbxENByB0q1H1leFyPAT7Puy9YAkEG+e87nshcpj/vQr+GQGaZw4fyK+yhJzOwkTO6Gk/CYPsRatwai4Eyi5pgwZY33+wsJjX59doj/+0QcNS;/6tQg9v1j69N16LicETwgQ=="
 ---
 

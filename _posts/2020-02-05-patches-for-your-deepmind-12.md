@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T08:17:00Z
 webUrl: "https://sonicstate.com/news/2020/02/05/patches-for-your-deepmind-12/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -32,11 +32,7 @@ related:
     provider:
       name: Sonic State
       domain: sonicstate.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32473_386.jpg"
-        width: 720
-        height: 405
+    quality: 19
 
 secured: "nbRPdy1aB40PlnE1znZnTU2noxJRp95s+eZGVThn0Of4HM+0LHn0FZibxr+sNZWNprEPmI9D+IA5ltzucBtegmy6FbZWN6A5f5Vs8l3foTmwZXW2BRHl8qauYfFytC2XBSra99CmLw8HXdxH9vyZSil+XnAeohnNOjXwIEEti/0M94JQnjduOyjNcFnhTKOXjRap9JVRfS8Hs2csJ55WCSLJIqtKUxO8uOTbnvRiru/81RFvkdprLyokkBhk0PRLJa4ygQKthP2cSMOFHQg9ZtoF7MAFf3wAkXOs4Hm/h3DRjE7/h6Qw7QZigukUZuCa;jshOAfAqRru/TX8P5FPM3Q=="
 ---

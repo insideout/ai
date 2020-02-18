@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence (AI) could one day be used to help cancer pati
 publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,25 +17,19 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
-    width: 1200
-    height: 450
-    title: "AI could kickstart early radiation therapy for cancer patients"
-
 related:
-  - title: "AI can jump-start radiation therapy for cancer patients"
-    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
-    publishedDateTime: 2020-01-28T07:25:00Z
-    webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+  - title: "AI can help early start of radiation therapy, prevent cancer metastasis"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several ..."
+    publishedDateTime: 2020-02-04T11:55:00Z
+    webUrl: "https://medicaldialogues.in/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
+    ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: Daily
+      domain: medicaldialogues.in
     quality: 54
 
-secured: "WxBSp1dDe4kPux1SlAb7rAYMsr5InDutyoy8PJ6Pihz3WS869Src7HjU6WqUno7VUoUJvNVMifNXh5Odg0INKz1VFEtfZLCwmisN63MLMb7PZa/q5wRvxSzouOMs9LK4qdWCZ5YotTS2PPpiXfwseoawR0X6d8Jj568mbtb/nsaIDBWreuepld7vxXMv7CNmBgQrVaJjN2apKasFT1qC1LH4I/Nlu2A14/qQQSnWNi3rlgE4mVCmG6iuvHN3rNWjWAGGiZJcx14soB4uqsXbr1Z072Gdr3TpMff+3kP9JFZvbLyR1Kz86SRzJcLR57Fr;esWd/+O+PsoUpswS0jStRQ=="
+secured: "AiSmXqn72IiFp27UXwYqiCHLgLlPIHXG7ByRRxzPoolaGQokUPaIH37y3Z/jyfsuNZfQNdFioWepB/lUXKG/vKHlxiGuo4BC2d1E5ReIOwbhCiFYkxaJfG1FA2nx+9ObaELIuLOHeoqFn0Sk6bIifMguKJyC3PO4ThWC2DqwyHj66cQx/L6WVF3S4JkzAtmMzYAGi7uh5a0wRg6iSsc0nj6eYXClIwA/tr0s55Q1O5jBkFzy8l67nnJc/+g0j6ryGGa+3/QfC3AOw8wSou7cNY6aKua2o6YLFxXHmb6+TlzDqOyN+pLWM8WJh9dD4iEz;eLyxVcjxkLnMqcbtOrIQJQ=="
 ---
 

@@ -2,141 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-21-4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips.md",
-      "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
-      "excerpt": "The Snapdragon 662 supports triple camera configurations, a first for the company's 6-series chips. It will also have Qualcomm's third-generation AI engine to let phone makers add things like avatars, night photography and face and voice authentication to cheaper phones. The processor comes integrated with the new X11 LTE modem that can ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "publishedDateTime": "2020-01-20T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/uTtvRMBczx9c-gHi594-X_c3hdY=/756x567/2019/12/17/7be74ffd-64e9-4938-aa31-3f17084d1fae/xiaomi-redmi-note-8-8.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020.md",
-      "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-      "excerpt": "The 720G (the G stands for gaming) is an octa-core chipset aimed at higher-end smartphones. Features include on-device AI (a privacy-focused priority for handsets from Samsung and others) and display resolution up to 2,520 x 1,080, along with 800Mbps top down speeds - still a respectable number, especially compared to the lower-band 5G networks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "ampWebUrl": "https://www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "publishedDateTime": "2020-01-21T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/uiwrFz8a2mmzeGUNyGgShg-1200-80.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-ai-can-do-great-thingsif-it-doesnt-burn-the-planet.md",
-      "title": "AI Can Do Great Things—If It Doesn't Burn the Planet",
-      "excerpt": "The effort may have consumed about 2.8 gigawatt-hours of electricity, estimates Evan Sparks, CEO of Determined AI, a startup that provides software to help companies manage AI projects. That’s roughly equal to the output of three nuclear power plants for an hour. A spokesperson for OpenAI questioned the calculation, noting that it makes ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-great-things-burn-planet/",
-      "ampWebUrl": "https://www.wired.com/story/ai-great-things-burn-planet/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-great-things-burn-planet/amp",
-      "publishedDateTime": "2020-01-20T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e1f606fbf8e550008579631/master/pass/Biz-powerplant-1140185265.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "AI Can Do Great Things—If It Doesn't Burn the Planet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-21-ai-can-help-find-illegal-opioid-sellers-online-and-wildlife-traffickers-and-counterfeits.md",
       "title": "AI can help find illegal opioid sellers online. And wildlife traffickers. And counterfeits.",
       "excerpt": "Timothy Mackey/S-3 Research. Another challenge: People selling these substances online ... Meanwhile, Reddit, YouTube, Twitter, and Facebook all told Recode they’re now using automated or AI-based technology to flag or investigate content that violates their policies, including illegal opioid sales. Mackey said he’s only been in limited ...",
@@ -1339,43 +1204,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-21-the-brain-predicts-reward-like-an-ai-says-new-deepmind-research.md",
-      "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
-      "excerpt": "If DeepMind’s new bombshell paper in Nature is any indication, a common approach in AI, one that’s led to humanity’s defeat in the game of Go against machines, may have the answer. We all subconsciously learn complex behaviors in response to positive ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/",
-      "ampWebUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/",
-      "publishedDateTime": "2020-01-21T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/01/brain-1787622_1280-dopaminergic-neurons-reward.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-21-the-legal-industry-finds-ways-to-leverage-ai.md",
       "title": "The legal industry finds ways to leverage AI",
       "excerpt": "How far are we from seeing \"robot judges\"? ZDNet's Stephanie Condon discusses with Karen Roby. Read more: https://zd.net/3auO0jl",
@@ -1535,43 +1363,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-why-most-self-driving-car-companies-use-these-3-models.md",
-      "title": "Why most self-driving car companies use these 3 models",
-      "excerpt": "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles/",
-      "ampWebUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp",
-      "publishedDateTime": "2020-01-21T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU=",
-          "width": 1200,
-          "height": 630,
-          "title": "Why most self-driving car companies use these 3 models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -2121,6 +1912,221 @@
           "width": 1400,
           "height": 933,
           "title": "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-facebook-has-trained-an-ai-to-navigate-without-needing-a-map.md",
+      "title": "Facebook has trained an AI to navigate without needing a map",
+      "excerpt": "The news: A team at Facebook AI has created a reinforcement learning algorithm that lets a robot find its way in an unfamiliar environment without using a map. Using just a depth-sensing camera ... Two billion steps and counting: Facebook trained bots for three days inside AI Habitat, a photorealistic virtual mock-up of the interior of a ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615078/facebook-has-trained-an-ai-to-navigate-without-needing-a-map/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/russia-953111920.jpg?sw=1200&cx=0&cy=58&cw=1920&ch=1080",
+          "width": 1200,
+          "height": 675,
+          "title": "Facebook has trained an AI to navigate without needing a map",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-facial-recognition-technology-doesnt-have-to-destroy-privacy.md",
+      "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+      "excerpt": "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy",
+      "ampWebUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "publishedDateTime": "2020-01-22T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg",
+          "width": 1028,
+          "height": 578,
+          "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-five-methods-for-marketing-your-bespoke-cloud-service-to-developers.md",
+      "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+      "excerpt": "By focusing on what your audience needs, you can craft a marketing approach that is just as tailored as your product. Give developers the confidence that you have something that is built just for them,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "publishedDateTime": "2020-01-22T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x515/https://specials-images.forbesimg.com/dam/imageserve/645973085/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 515,
+          "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-github-now-uses-ai-to-recommend-open-issues-in-project-repositories.md",
+      "title": "GitHub now uses AI to recommend open issues in project repositories",
+      "excerpt": "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "publishedDateTime": "2020-01-22T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "GitHub now uses AI to recommend open issues in project repositories",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-gm-cruise-unveils-self-driving-electric-car-for-ride-sharing.md",
+      "title": "GM Cruise unveils self-driving electric car for ride-sharing",
+      "excerpt": "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ...",
+      "heat": 344,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/",
+      "ampWebUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
+      "publishedDateTime": "2020-01-21T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 470,
+          "title": "GM Cruise unveils self-driving electric car for ride-sharing",
           "attribution": null
         }
       ],

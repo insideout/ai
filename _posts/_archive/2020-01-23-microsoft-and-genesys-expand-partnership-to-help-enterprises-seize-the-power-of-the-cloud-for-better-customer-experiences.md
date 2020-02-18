@@ -5,7 +5,7 @@ excerpt: "The companies are also exploring and developing new integrations for G
 publishedDateTime: 2020-01-23T14:37:00Z
 webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
 type: article
-quality: 14
+quality: 0
 heat: -1
 published: false
 
@@ -21,12 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
-    width: 1024
-    height: 803
-    title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-
 related:
   - title: "Genesys Engage call center software coming to Microsoft Azure"
     excerpt: "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ..."
@@ -36,23 +30,17 @@ related:
     provider:
       name: BCW
       domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-        width: 320
-        height: 210
+    quality: 34
   - title: "Microsoft Sees Azure Sales Surge 62 Percent"
     excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
     publishedDateTime: 2020-01-30T09:13:00Z
     webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
-    ampWebUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 54
+    quality: 34
 
-secured: "IHiCXahgT/Q+b5d2gPL/QJsokb+j7Y8m238zzvvL2vYu+vJuqNPt4IDnL9mv56lcH32ZqAyWp4HgexNvnT9+GYTgGGpz7KzPJTPxwbqH89+ICWzlihVAGD4juex4kWAXxRFkaZ3l7UrVkQn4egWdUM19jhp3MW0XKd0jBimBGh6s4Fhmy3IMsethkVprePF2N/HdSLwhoPA7/Gw9h/30a8ZKmr6ArhgACnBZhQoa1yYPPsA5tmBV6Ur3+lzXsHyIWyPy/hxtdVv09x7kTgq78lS6Yke0fE0cYDUijouBCfCTHL1x+7McZtLWFr0HylIU;qOJAlAEj9y+yiAVVHn1h1g=="
+secured: "ViaeZLktx2qsTHQR0qUlL0QfRrGe173RStnC8G4OZH/LMN6BRUTz8i0fCgx0r1Nl3CVybej0XQG6PVJaRDtvjos3Vp2VQPo3FHNxf+Rur0CqSuH3yoXeDdqFuK5wx4WVB678X+Zhj9uS4/0oge4DxKZzRPxqzcFxxEU+bPMsgPZRLMFpo2BniX2B2gCuhVBbO4eYwc48y17NPdCP8R8djw5OXUmhA3Gp0boyY5nLQOcw3hXekuyLtNDYeSdVYEoB5D4wQKYRRfk3RRf5UmKaDn4ezYvqlTPmRwnaPpHvToEeYGQlwctHQKLNRWNIGott;2njW9nxJorcUT6ykHh00dg=="
 ---
 

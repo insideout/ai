@@ -2,87 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-10-8-powerful-examples-of-ai-for-good.md",
-      "title": "8 Powerful Examples Of AI For Good",
-      "excerpt": "Many of the headlines about artificial intelligence warn of its dangers. However, artificial intelligence (AI) can be and is being used for good in many ways from improving the accessibility for people with disabilities to building our resilience to natural disasters.",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/amp/",
-      "publishedDateTime": "2020-02-09T21:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40e666a854780006b0e11d%2F0x0.jpg",
-          "width": 1200,
-          "height": 754,
-          "title": "8 Powerful Examples Of AI For Good",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-adobe-launches-experience-platform-out-of-azure-in-australia.md",
-      "title": "Adobe launches Experience Platform out of Azure in Australia",
-      "excerpt": "According to Adobe, the Microsoft Azure local data centre will enable Australia and New Zealand businesses to ... See also: Adobe's Experience Cloud now incorporates AI and machine learning (TechRepublic) Adobe has touted the new data centre as \"simplifying data governance\", by not only bringing data together from siloed applications ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "publishedDateTime": "2020-02-10T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-ai-app-helps-tailor-mental-health-treatment.md",
       "title": "AI app helps tailor mental health treatment",
       "excerpt": "“We don’t want doctors or patients to pay for it, this should be something that’s available to pay for at a network level.” One of the main concerns with any artificial intelligence project is what ethics are guiding it. Aifred’s ethics page says that it was determined by a jurist, ethicists, physicians, a machine learning developer ...",
@@ -2151,6 +2070,80 @@
           "width": 650,
           "height": 400,
           "title": "Arm targets IoT with new Machine Learning IP, processors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-army-looks-to-block-data-poisoning-in-facial-recognition-ai.md",
+      "title": "Army looks to block data ‘poisoning’ in facial recognition, AI",
+      "excerpt": "The Army has many data problems. But when it comes to the data that underlies facial recognition, one sticks out: Enemies want to poison the well. Adversaries are becoming more sophisticated at providing “poisoned,” or subtly altered, data that will mistrain artificial intelligence and machine learning algorithms. To try and safeguard ...",
+      "heat": 344,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": "Army looks to block data ‘poisoning’ in facial recognition, AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-artificial-intelligence-for-machine-tool-maintenance.md",
+      "title": "Artificial intelligence for machine tool maintenance",
+      "excerpt": "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-02/kift-aif021120.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/223953_web.jpg",
+          "width": 720,
+          "height": 652,
+          "title": "Artificial intelligence for machine tool maintenance",
           "attribution": null
         }
       ],

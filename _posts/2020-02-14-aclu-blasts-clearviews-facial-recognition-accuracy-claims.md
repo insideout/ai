@@ -5,7 +5,7 @@ excerpt: "The American Civil Liberties Union earlier this week criticized facial
 publishedDateTime: 2020-02-14T12:00:00Z
 webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
-    width: 620
-    height: 350
-    title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
 
 related:
   - title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
@@ -475,6 +469,15 @@ related:
       name: Boston Herald
       domain: bostonherald.com
     quality: 15
+  - title: "Google Tells Clearview To Stop Scraping Photos For Facial Recognition Database"
+    excerpt: "Google and its video service YouTube have joined Twitter in demanding that facial recognition startup Clearview AI stop scraping photos from their services. “YouTube’s terms of service explicitly forbid collecting data that can be used to identify a person,” a spokesperson told CBS, which first reported the company's move. The tech ..."
+    publishedDateTime: 2020-02-17T23:20:00Z
+    webUrl: "https://www.mediapost.com/publications/article/346692/google-tells-clearview-to-stop-scraping-photos-for.html?edition="
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 15
   - title: "Controversial facial recognition app reveals it can access photos that are no longer online"
     excerpt: "A facial recognition company has amassed a three-billion-strong database of social media photographs including pictures which are private or have been deleted. Clearview AI, which identifies people by cross-referencing their mugshot with its mammoth image archive, has sent chills up the backs of privacy campaigners since it began selling its ..."
     publishedDateTime: 2020-02-11T16:57:00Z
@@ -494,6 +497,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "5hicI9slVGsIJTmezOD0zEhL3uRy250UoSkoOMAqtbkQazQEIcM+R5T8yQfLBJL/vYRqc3qiyOKrzSVIvM2zoSxZtGBrLr1UK2rSBwQvhgwrU523TU1eq6iO4Y3JOWlZ8nQt1SlSQd/fO4JrjLiTKlFHVYsqQdA8P7wn8WzksdGro5kwUqSOjoZWrU+nfW8PZTyGtMexZFi09HpmrjXgnz5LtLhlhSUt8brcFy64lFsmY5RdZamKUP265ssTE5eg/iuJyxGSHCpI2DMfkCgfI5hch2xuPnFx+naHmz9IAb+tSY+844pve1Sk9s5wwNIO;6YXCkmvoLajlKD4/YMJ0Xg=="
+secured: "ycoeUqAbBTIjR4DAWKzGntxmZEnBo7KVfKXi5hvC+IohFpYhzga8fIwazUVPvS1D4leiAP0IogAUPhjlJdItXWQHND7FOWvoQFCbYwkooYHeTF9ABoUNHr3mhWg8qNwFKXD41u0WkXGF1E/g9/GmDh/X3I7DRxmc8Trr5ZELjZX+IjjFz+ykjFGMpiIkxK5Mj38yqLrpt5IA0vrARsVSRXT5IQXG5ib5Q3VFe6+CbvADaCL+b4129FnU1NyBI+VEHD4ZaBhanMayyrkdBH/gKbfKog+gFWi32ZaFLxNoQjYIj8bGGl2HEwxP6dOZOxwSYWetw8mj6DlDCCUlyjgD98+fDiCm3URaYOy8tz8RahMKd8F2SOPXqMBRZnoFpF306L+7RgIsKhfXt3K/jhIr8CKXM3IANloocDCU21uSvm5u58960pWCJTkkYoivuyyilzoPBvgrgppzct5acQ5B3+BRJTRexrt4zFgzasofcNc=;iVMuIVp5kHjk6djhGs/blQ=="
 ---
 

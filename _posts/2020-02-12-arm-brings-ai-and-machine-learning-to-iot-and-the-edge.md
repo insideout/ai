@@ -57,6 +57,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
+  - title: "Can machine learning and artificial intelligence save lives?"
+    excerpt: "As we move forward with the technology like artificial intelligence and machine learning, we can only access its true power for good through the skills of talented programmers, working in cooperation with medical professionals."
+    publishedDateTime: 2020-02-17T23:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15350449/can-machine-learning-and-artificial-intelligence-save-lives"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
 
 secured: "WLInGjTExySEgBSITvL655GNTYZUS/KRMqkhsb68SaBHAaCaBfY381/Oso7Vi3JK86b0q6xD1yi9z2s4n0nuz4bTa4ceZCFGeMG58WuAnWDiFxJ94NYxF3c4u1Ro3RjPBp21PWqD4G3mp7yxqxqbgd8BOjLvyx37i1H5bLLd16JGPCpR/bT/Ltn4a0J2ApU5L3ZRrI2vPYzDo1ZJFqI1iWCzIGPaLdj/e/Q1CLXjNxLEyoUzf/oWdNKEfTylxHBGQrPLSIf3bHrYBYUMDq9YPk8c/8a/5VyLu44rlpgGNO+fDOzh6ZP6jIgdACFvHPBg;0v+Thb9huBqDaAUq10P0lA=="
 ---
