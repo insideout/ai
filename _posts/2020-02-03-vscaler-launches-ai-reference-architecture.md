@@ -37,15 +37,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Fujitsu-FX1000-website_780x-405x228.jpg"
         width: 405
         height: 228
-  - title: "vScaler® launches its AI Reference Architecture"
-    excerpt: "high performance RDMA fabric from Mellanox®, the platform provides a significant decrease in GPU-GPU communication latency and completely offloads the CPU. The AI optimised Architecture includes vScaler Cloud Storage, which centralizes all I/O and places active files on the fastest tier (Flash/NVMe) but also leverages the cost benefits of an ..."
-    publishedDateTime: 2020-02-03T11:55:00Z
-    webUrl: "https://pressreleases.responsesource.com/news/99098/vscaler-launches-its-ai-reference-architecture/"
-    type: article
-    provider:
-      name: responsesource.com
-      domain: responsesource.com
-    quality: 19
 
 secured: "eGeBH0yZ7TY7JwJWPxBCU9JWQSURyYf3urJaKxdcnwMS9emk+nWyGnWQCdqw8ytPER+obOuw6JFbxznHWkX7mLtPY8jfFu9Q52/ORCGVlvmb1mFQAvb2rxumpnIlDOAG/QwkCCM+n0r0uVTlefIoH4QrM1T56z6FUjUR0tkXdt+An9tkBEpf/rMgyA6UwoumjYpJVBxGQ+TYog3dyZwmAY1tjv8pGoNcYUTC1rCQalKmz5JtCNLxS6x6zKPO7ex3AkjSDCykSvesGUaiiOfzQ/xN5Nq+LdqobClZjKbd50+tiQwR4AKnRBBFmiide4dNbvmcZm6rO/Aard/jZ2hfrVyut0vikXXqmXNg8FwFYh/93u7EWcr2Q6M/4zZQKdyXIKyvyO7Umd3fMDsGEYdwMJgLQWv9RYQTKrXlaG71LM1RSwyO/M3MkHOyrBsNzCBtosNFH08zs4GQ3jmBTfLomvt9YB7fJ9HP32mGfNuikwo=;NavAypsndC0akdMFtvDOhw=="
 ---

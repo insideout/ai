@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Groups Call on Chicago to Ban Facial Recognition Technology"
-excerpt: "(TNS) — Chicago Mayor Lori Lightfoot should ban the city’s use of facial recognition technology of the kind the Chicago Police Department utilizes on the grounds it’s racially biased and an invasion of residents’ privacy, a group of activists said Tuesday. The groups want to halt the department’s new contract to use technology ..."
-publishedDateTime: 2020-02-06T22:37:00Z
-webUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html"
-ampWebUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
+title: "Protesters in India object to facial recognition expansion"
+excerpt: "Police in New Delhi are using facial recognition to identify protesters. Activists are worried about the lack of regulation around the technology; they are also sharing tips on evading detection. Protest against India's Citizenship Amendment Act in New Delhi. Activists in the Indian capital of New Delhi are expressing concern over the use of ..."
+publishedDateTime: 2020-02-18T04:49:00Z
+webUrl: "https://www.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
+ampWebUrl: "https://amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
+cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: Deutsche Welle
+  domain: dw.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
-    width: 1119
-    height: 630
-    title: "Groups Call on Chicago to Ban Facial Recognition Technology"
+  - url: "https://www.dw.com/static/stills/images/je/je20200114_paperN_image_1024x576_3.jpg"
+    width: 1024
+    height: 576
+    title: "Protesters in India object to facial recognition expansion"
 
 related:
   - title: "Army looks to block data ‘poisoning’ in facial recognition, AI"
@@ -129,6 +129,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_387869113.jpg"
         width: 946
         height: 630
+  - title: "Groups Call on Chicago to Ban Facial Recognition Technology"
+    excerpt: "(TNS) — Chicago Mayor Lori Lightfoot should ban the city’s use of facial recognition technology of the kind the Chicago Police Department utilizes on the grounds it’s racially biased and an invasion of residents’ privacy, a group of activists said Tuesday. The groups want to halt the department’s new contract to use technology ..."
+    publishedDateTime: 2020-02-06T22:37:00Z
+    webUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
   - title: "Met Police rolls out live facial recognition in London"
     excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
     publishedDateTime: 2020-02-12T04:00:00Z
@@ -159,21 +174,6 @@ related:
       - url: "https://www.dailybulletin.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
         width: 480
         height: 270
-  - title: "Protesters in India object to facial recognition expansion"
-    excerpt: "Police in New Delhi are using facial recognition to identify protesters. Activists are worried about the lack of regulation around the technology; they are also sharing tips on evading detection. Protest against India's Citizenship Amendment Act in New Delhi. Activists in the Indian capital of New Delhi are expressing concern over the use of ..."
-    publishedDateTime: 2020-02-18T04:49:00Z
-    webUrl: "https://www.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
-    ampWebUrl: "https://amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 59
-    images:
-      - url: "https://www.dw.com/static/stills/images/je/je20200114_paperN_image_1024x576_3.jpg"
-        width: 1024
-        height: 576
   - title: "Merkley bill aims to avert federal abuse of facial recognition"
     excerpt: "WASHINGTON (KTVZ) – Sens. Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation Wednesday they said is aimed at protecting the privacy of consumers from rapidly advancing facial recognition technology and data collection practices that heighten the risk of over-surveillance and over-policing, especially in communities already ..."
     publishedDateTime: 2020-02-14T07:25:00Z
@@ -303,6 +303,6 @@ related:
         width: 1200
         height: 630
 
-secured: "jdc68b35kQIqN2TRN00/bbtRTsQAbh7BffOE2bZEQySBWpDkj82OlYuEttKmJ89F/ge16lnoRgHEwVrk5v/PcxBv+WH7R3CEmqN4J8ZSlCvNkIRHng1itDuKgOMfrzR64MRp8ywBwAG5rIZJzFDx3d39+Umsf5jQmUXI47MzQ6jy1kAyuZ4VGstaWPxIg53DjGZyzRUgEgJfygqFrp2HkV5wFjtdUBEgfHfiqOuTILTaYCi9+OXyOK83CDbvxD2gDrbfXmyFp0Zp2q9u9+Jbc4Ii4xZIcRITUqKsSibQFPSe5QFFLpHXuJ7iZejpvJY9;j9db0K86SR0Pd2vIxYpsHA=="
+secured: "y7fysqIjzWdPIWrHhKnRnvKpkQo78qABYsllNt6qWvWeObroRWBhnqyvEujlkKHncHVo2GQFa0R6lYaJls/6rlBTzkXYQJw1X0AlAzVj9ElOLGVVsXQUwGJMO8Xt9L/G3Ztog2+k25syHrNYnpSoubJ+XBZlREpQ2Gbb4W8xxiluyWPeam8mRAiG7yqbsU9nkaRQmNAU3YEicQPGYBdBd3PmKPncDfQ98YVwwRdS1sjW3MyF9wuzQslqZoosS4alTEyHSiya1mzJTrJn1n3ODU7V8TyJXOSA6I9pz5apl1GoGsKPQ2eH3PYGcONjQcMS;IaRKfnTJ53/eeqUSdhL+6A=="
 ---
 

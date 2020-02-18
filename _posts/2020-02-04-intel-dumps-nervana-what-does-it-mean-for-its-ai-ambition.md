@@ -65,19 +65,6 @@ related:
       - url: "https://cdn.appuals.com/wp-content/uploads/2018/09/Intel-Coffee-Lake-1-580x334.jpg"
         width: 580
         height: 334
-  - title: "Intel kills off Nervana's NNP-T chip in favor of Habana processors"
-    excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers, before development is also ceased. The move appears to have been a sudden one, with Intel ..."
-    publishedDateTime: 2020-02-03T11:43:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/intel-kills-nervanas-nnp-t-chip-favor-habana-processors/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/IntelLog.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
 
 secured: "72h25jCozMo7LIrwnol0JsXfB30r2pypnRsQjiC8Ijug7sfyN0vU4OgpOwphd3H8kS9VsoZNleP9Vo/tSnA1LPbrC8qh7RNpUWE1gF5OYauJwy5iAq1QDinjhcY9R9vwjSOGcpJ0pggLzLJ/USoqpbzR6F5Rn2p2PrDI+J0E9+ohy3ci6ai7thIuwRB1qgJj8lOeGB3TO/lWCIxOqjAkKUg58jKP3vUsuiHILsQ5KBzA8Tn3/ZDBRLChemrDoHduOcV6QE6F35D6YCiID0piTjaSxVywyhZGWx38dRaPy8x6jFa8aG+ex53fqYjA4gls;qlrUhFn6i8gyVv2zdZ/rZQ=="
 ---

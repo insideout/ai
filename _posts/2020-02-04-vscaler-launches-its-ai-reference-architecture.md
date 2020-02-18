@@ -38,15 +38,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/02/vscaler.jpg"
         width: 768
         height: 768
-  - title: "vScaler® launches its AI Reference Architecture"
-    excerpt: "high performance RDMA fabric from Mellanox®, the platform provides a significant decrease in GPU-GPU communication latency and completely offloads the CPU. The AI optimised Architecture includes vScaler Cloud Storage, which centralizes all I/O and places active files on the fastest tier (Flash/NVMe) but also leverages the cost benefits of an ..."
-    publishedDateTime: 2020-02-03T11:55:00Z
-    webUrl: "https://pressreleases.responsesource.com/news/99098/vscaler-launches-its-ai-reference-architecture/"
-    type: article
-    provider:
-      name: responsesource.com
-      domain: responsesource.com
-    quality: 19
 
 secured: "Y4BZnx3JJWhsLqC4OqRnOS1RdUlWDmzBz+d2SIX8jY8bz/RKlja3IhZbz/Q9MSQ014d09LBuv6cvMyKJWBxTkbkRQ4Cdv3VbRFDYz/jKkycGKxH0VupsGvP1TKObY65xH/D/K0gtILT/zazaSDDa8D5QNu4S2h4N+fU+1AQK/3eb8uL2fq6zvkvSlAPNtqg4EgzV1GikPfldJ386B1Id2W8o0S6u7GzN/zaPXDT7SDgiLLPEhuBzOo01n7rVhNVP0S5MCQFOb4974A8dHPJcjhdO0cmpNvsLF1mG2K0PVi2dkdN/Qw+kQ2GwVHu81bHUAqt8oVQwYurvnhEtEAVf2ympJviR2AwZaMPwwTKtd0uN6C+seIG/RG0p9dUx/b9tv7iyXfch3LDGlRCpuizZoiGbADLyRtiwlj5JANQu26Y930fz9h5fICLWLZo4vYbJael1y3KIoM14CAFCIoAfAHspMbvpbv2Kc/UN7An8UNo=;wIMDdn0uiYxWCBnzUMhr2Q=="
 ---

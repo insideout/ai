@@ -40,6 +40,21 @@ related:
       - url: "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/p4fyc4mivqueblaqzjfm.jpg"
         width: 394
         height: 222
+  - title: "Don't care if you even graduated, says Elon Musk as he announces AI party at his place"
+    excerpt: "Tesla is using advanced AI for vision and planning, supported by efficient use of inference hardware to achieve a general solution to full self-driving. The company is building silicon chips that power its full self-driving software from the ground up, taking every small architectural and micro-architectural improvement into account while ..."
+    publishedDateTime: 2020-02-04T04:45:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home-11580786460077.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 51
+    images:
+      - url: "https://images.livemint.com/img/2020/02/04/600x338/682a7284-3d11-11ea-8ee2-8148f8ffa5ba_1580722387199_1580788559081.jpg"
+        width: 600
+        height: 338
   - title: "Elon Musk 'doesn't care' if employees graduated high school if they're code or AI experts"
     excerpt: "All that matters is a deep understanding of AI & ability to implement [neural networks] in a way that is actually useful ... He also added that Tesla is 'obviously' seeking 'world-class chip designers to join our team, based in both Palo Alto & Austin.' Musk's Twitter musing were characteristically met with a mix of agreement and skepticism."
     publishedDateTime: 2020-02-05T21:24:00Z

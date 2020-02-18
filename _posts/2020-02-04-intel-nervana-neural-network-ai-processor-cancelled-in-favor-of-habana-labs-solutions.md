@@ -53,19 +53,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Habana-Goya_839x.jpg"
         width: 839
         height: 580
-  - title: "Intel kills off Nervana's NNP-T chip in favor of Habana processors"
-    excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers, before development is also ceased. The move appears to have been a sudden one, with Intel ..."
-    publishedDateTime: 2020-02-03T11:43:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/intel-kills-nervanas-nnp-t-chip-favor-habana-processors/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/IntelLog.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
   - title: "Intel Dumps Nervana: What Does It Mean For Its AI Ambition?"
     excerpt: "According to experts, Intel’s Nervana chips were not at par with Habana in terms of performance and redialing their efforts to Habana chips helps the company to take on other prominent players in the AI hardware market such as Nvidia, Samsung and AMD. Habana Labs has shown its Gaudi AI processor, which the company claimed can outperform a GPU ..."
     publishedDateTime: 2020-02-04T22:46:00Z

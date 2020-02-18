@@ -23,6 +23,6 @@ images:
     height: 500
     title: "Raspberry Pi offline speech recognition system using Mozilla’s Deepspeech Engine"
 
-secured: "Vr8Zxt+L0GmvsVr+dO2yFXZDfOpU5KXKKS/oqDpFN0QjKZD9pIznh3pI6ptyzkhtwKccBOuPN3ZoZQS6Dyz5S4hTWVBP3zQDRIzSaIdIovhlB6Djn5t5ikRh7LZUTFGVmkfAXgK6+iURdAs7LOBn85aMUM6QDsdMC5sS2j0eklSwE5FIAn/lCANjNePuNjNKzcXw6ZXNQn7rLgvtCvcnbIW+/6IKgoswZnt0vRI1dFYzAYPU5jr7J1e0kzUgufu7J/enDz4CeumdriBH24B64BORpbE5adtptqnaySpMzIrBwwBpvBy2o7zdhSxjrWHq;zvuwXfLqR/OAP5MkKXt8Vw=="
+secured: "lI4Pn7CZpXpthqN5u9CidGWaS+TWdrDmy7GnBjUBm3NEguwIl/thc8VICek86Nl4om0cwv7gg7pKfhW3sBXgHdxo5jcTi97VeQHR/HXUIyKCws+Ny2fNWDZZLraO2UA4b0YZZPUczksSSN4qKlFsLjALt8Uckz6yIgKnyY6HwBqFaD/A6nbb6JfsN+IPASvK4Kc4p0MhuBOTIUSRu6R3ls9s4j3uBlQLdx3w+tCQQw8YzgF+PVWo1zASM7CpfW6dQFzlWxJ5ePjGrTrSAgFz54oOCsG3cDYorrW87POxMhtxWxtmavWmu9Zsv3ynHQHv;KJctcM3iey6WobeTB8IJjg=="
 ---
 

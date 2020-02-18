@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Oracle Announces Oracle Cloud Data Science Platform"
-excerpt: "Oracle Cloud Infrastructure Data Science automatically selects the most optimal training datasets through AutoML algorithm selection and tuning, model evaluation and model explanation. Today, organizations realize only a fraction of the enormous transformational potential of data because data science teams don’t have easy access to the right ..."
-publishedDateTime: 2020-02-12T13:20:00Z
-webUrl: "https://www.oracle.com/corporate/pressrelease/oracle-cloud-data-science-platform-021220.html"
+excerpt: "/PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data"
+publishedDateTime: 2020-02-12T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-oracle-cloud-data-science-platform-301003588.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Oracle
-  domain: oracle.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
-    width: 480
-    height: 480
+  - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     title: "Oracle Announces Oracle Cloud Data Science Platform"
 
 related:
@@ -64,6 +64,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "dg4rMK7yuv6jN+SzJPBFcgm+wwrcbZ6/2eyjYfMNSahU68Wiv2qA/asbjCB/ZFn/0fJ5TpGoeUYdPUwtz9QQi9kAdEPixZdEiy8/a/Du+32QrpYqctbHT6Tm2MALWeA6wW14x8ITa80k6hRxyfvISqU3fTFKK0pcBUWoyJaOMXP/C7BbNWrctsWvgQ6fZANDtdXKBsKXLVePm+XS4pgfiypVwMuoChiqZu1QVCRpUNPVia8hGb3U+aK9+PL1gou25948xCea8VFaIXhNY7jn/+wt88Z2/lSI93tnZ9bRgxYMiwUXiOemOJUilp6KZ1Z9;0XOzFFtmN2AClXwuZJaVuw=="
+secured: "h2+G9mBd3eq2oXdNTxGtymOH0t1VBht8MCE0zuyFBppL8bLkF7kfhCqIAuMeo2lwY3qqamVEXhuSLxCQ5pRr/imHW3N8aiz2na/5NwYMIrN/JJCYnMC4ISiIA7TYnm+8lVyx0D6wXwly8OGyZQ1zk/B6dhZc2H+y4Bvcnj15Uiqxi3qgAT90Wgm2qE9xd241cdJPrAtAune6Aj2RURG2UolQmbvdMAi6ST4xpcwbmL9A6zkLqA2bMLCQbp974XlLc/BMScmok/XJrm5zIPjCQsZTER2G0xkOLv8LMLuxMfO+xXRVdS/wKwQZjppyOGq0;+LeQhP23o18HRVFx7ka/KQ=="
 ---
 

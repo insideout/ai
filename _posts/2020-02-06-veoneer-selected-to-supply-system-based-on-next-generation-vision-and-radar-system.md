@@ -129,7 +129,7 @@ related:
   - title: "Deep-learning-based prediction of late age-related macular degeneration progression"
     excerpt: "AMD severity is primarily measured by images of the fundus of the retina and recently developed machine learning methods can successfully predict AMD progression ... and fundus images to predict whether an eye had progressed to late AMD with a modified deep convolutional neural network. In total, we used 31,262 fundus images and 52 AMD ..."
     publishedDateTime: 2020-02-15T19:55:00Z
-    webUrl: "https://www.nature.com/articles/s42256-020-0154-9"
+    webUrl: "https://www.nature.com/articles/s42256-020-0154-9?hss_channel=tw-3295034640"
     type: article
     provider:
       name: Nature

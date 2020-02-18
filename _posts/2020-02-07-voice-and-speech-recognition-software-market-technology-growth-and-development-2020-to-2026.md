@@ -35,19 +35,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-technology-advancement-and-global-outlook-2026-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Speechmatics opens third international office to address U.S. speech recognition market"
     excerpt: "Speechmatics has opened an office in Denver, Colorado, the third international office space the UK-based automated speech recognition software provider has opened in just three months, following Chennai, India and Brno, Czech Republic, the company announced. By opening its first office in the U.S., Speechmatics wants to leverage the country’s ..."
     publishedDateTime: 2020-02-07T19:16:00Z
