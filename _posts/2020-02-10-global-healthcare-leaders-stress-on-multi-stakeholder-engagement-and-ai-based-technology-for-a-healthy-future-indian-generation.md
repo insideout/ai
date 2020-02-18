@@ -23,6 +23,17 @@ images:
     height: 1413
     title: "Global Healthcare Leaders Stress on Multi-stakeholder Engagement and AI-based Technology for a Healthy Future Indian Generation"
 
+related:
+  - title: "Global Healthcare Leaders Stress on Multi-stakeholder Engagement and AI-based Technology for a Healthy Future Indian Generation"
+    excerpt: "public and private healthcare sectors, NGOs, youths, innovators and specialists considering the vastness of the country and the population needed to be covered. \"Today, Artificial Intelligence-led technology platforms are creating wonders in the field of healthcare services. A perfect blend of technology and initiatives by all the stakeholders ..."
+    publishedDateTime: 2020-02-06T04:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-healthcare-leaders-stress-multi-stakeholder-engagement-ai-/2020/02/05/9093056.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
+
 secured: "/GNr0rpu9rPXRrDtobovTT7IGfRuIyNEclsGrMD1aQZxvn+Ou8MAtj7IOjgyMbw79NXAxH3+xVzedoEOVGxI4SSNXwYGRrivyDvSzCTaStxYOckyC5Klu1LY2H+j590J+EDDI/wBf8sDHAHFCnI0xQtlf7UW25EN9JrSh6TpYqDkpV7YpGQLMIJQoU2XPNHvw58S4fRzgTQ016ZYa5fcIw8U4kskgtXltpKxtVJr7oqIOfiG88HrEMpovEKxETf4B1F1nPcwxLlwRMZm5TnQKgJseLGS0yyMCt6zO2Tbh5VSIiY+K9yHR1R8hQnqWe9FlDyPGIweTE2WoETlewXXRaW6umJkzrKzJ7fucYnwiv6tRsPGvXXKSVswKF40PDZdIV1cJmbkeZ1MR8vJ1oOEr6U1YAagCNsDYzFmGOwtgnhAeuUwAwsTCY7fvYKHAW+wVTlltkeNgFBnGNBgjzN8HwvA/PWiNwEkdZ0AiNNS5q8=;XxZMv0xkWTa3GpmC8edFrw=="
 ---
 

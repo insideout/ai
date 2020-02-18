@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Doha Bank integrates facial, voice recognition into app"
-excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
-publishedDateTime: 2020-02-02T19:02:00Z
+excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice ..."
+publishedDateTime: 2020-02-02T22:02:00Z
 webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
 type: article
-quality: 26
+quality: 24
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-  - Computer Vision
 
 images:
   - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
@@ -25,35 +24,35 @@ images:
     title: "Doha Bank integrates facial, voice recognition into app"
 
 related:
-  - title: "Veridium brings facial recognition to all phones in password-less push"
-    excerpt: "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ..."
-    publishedDateTime: 2020-02-04T06:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
+  - title: "Facing facts: Reject a blanket ban on face recognition"
+    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
+      name: New York Daily News
+      domain: nydailynews.com
     quality: 59
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
-        width: 2880
-        height: 1800
-  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
-    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
-    publishedDateTime: 2020-02-04T11:26:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
+      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
+        width: 1200
+        height: 799
+  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
+    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
+    publishedDateTime: 2020-02-03T22:34:00Z
+    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 28
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
+        width: 700
+        height: 394
 
-secured: "tQjnsc2ZI5ZSW7PICubTHYs5iP9TNnfSuKvdHkfo5QYF8A+EP7jFaLTKesflTmMoke13hSKk1GXuCeDzzY6cC5oZTrWEMUyTsyTo0gS/WLJFRlTxijR+qPQfq8XVERFfe3XAnXUweh6x9OcRhddcXDWD9QH6XHl8/fMkWhe7MisrGSUWRB5fjQN4gHjq7/EYxvtjRRpXgkZv1eljYCwWLim9atYhIr/ZZnUqUfMx42vH4kQZmoPLdlAfZ8RE3j4aFcKoX7thVVrdAh/dJWyORxawe2nwSeLnVlcJlPdbR7Qtc0707lKjlDM3eZiaIxH3xwPSNANHhvbFQx2bMG9pTl9tEcu5HY6LKbB9PzSJd5hgCIpciDtWyThwNO7nUS0Ssw8b5zKGG+r/cizFyRRpxkaznahJ5TTgy/AraxgaunD0l1ZQUswek+8KRWS6nDYVUoyAnP7L6VUA3m6WsLXK264ZAZ/DEO8DpR7EA6kQIKY=;NMOGngDAAm89n7hucO8UQw=="
+secured: "r6JXgNa0mpiVl6MP9gBJCVjcFrOpuQ/II+0NN2H78iAF4TYcdDaf+LiwAwkOwHPhCwRQpbEmsG6uXZSuOsjweHnrG+3a8CfJ8ozjap5zP1AYdBr4MpuO9Ahs+E8xHu2iTJN+gL3571mNIya47iF3ZManQ/hv31/tVBmr5JnAlnzrjB3u9xMbEvdrNukRUjOWW7M3iATDcBmyxK/GWMKXYgYiaOSNLlG4KwrQVIjXRUR8JUrdzpX4SByFZMB1bWPKF/5Kgu1xenP7O+uibw/Siq4tmgXWGTfxEZ3TMgO8cAhQf3jiYqwrYa7QRgaVyofY;U4aWvFV4vns6rbO9DbvFuQ=="
 ---
 

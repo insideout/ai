@@ -3,9 +3,11 @@ category: news
 title: "GM to exit some overseas markets to cut costs, focus on electric and self-driving vehicles"
 excerpt: "General Motors is exiting Australia, New Zealand and Thailand to save costs in the under performing markets and better hone its focus on growth markets as well as on its electric vehicle and self-driving car strategies. As a result, GM said it expects to incur net cash charges of $300 million and to record total cash and non-cash charges ..."
 publishedDateTime: 2020-02-17T15:52:00Z
-webUrl: "https://www.usatoday.com/story/money/cars/2020/02/17/gm-exits-australia-more-overseas-markets-restructuring-move/4784052002/class=gnt_m_tl"
+webUrl: "https://www.usatoday.com/story/money/cars/2020/02/17/gm-exits-australia-more-overseas-markets-restructuring-move/4784052002/"
+ampWebUrl: "https://amp.usatoday.com/amp/4784052002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4784052002"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
@@ -18,9 +20,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?width=1686&height=953&fit=crop&format=pjpg&auto=webp"
-    width: 1686
-    height: 953
+  - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 678
     title: "GM to exit some overseas markets to cut costs, focus on electric and self-driving vehicles"
 
 related:
@@ -53,6 +55,6 @@ related:
         width: 1200
         height: 630
 
-secured: "l6areiECx/sF6KUXI1tTNU0BSMwC9A7McI32SW5eNazSGB5xmwwYMUvbq0zSSjk9BMxW13vlIuEyHKE5hOxyTzmdL9lTwC8RDa2o61DBLDfNN5aHcGm/k7uRovFrKN/uyuKWZJT0VQMjz3b1u2DVzJ+7ZMqRTw/1lfR9qLSW1CHfS/s804Niopha9TIqZDivXxjg5+Rrxu+MuaH+nPotZIbwaljwYiZqH8/H6d9UxQqFCQ1vxiCo3VygNLgpKK27rbn7CZgoWdJjkpBtyRpRkP41YpW9kcxroKq9v8lzjrNCE9cdXPCCYEQwrlkSEGg5;ueCB6v+33B3FyhojOxotsw=="
+secured: "eSzz4RVfYFXAWrZHU0gX8EWT4R4ycbhn21y3vNpn20ZMXirL6Pe86rQ5iUiiW5GTkgkp1tSDuJmzXYN8suvRb/GpDNZz2WGvI6lUSqvvEIpdRIriCAYqm0+VhPFakle5EKuMLyGsnV7rQwnyCc92leNCgPipe8QLY+0HNdWVTK8ZRICpCl523C+HqPKvjD1d8lhguo9FZSxL6TledPtFtP+Nu1Px5I3W6qv/xYiGBNn2anfzRwCzbAGV3PNNtIqHdcfcwYYunozFWFTfegkqWBWBtadcp6OzRtwHe3jUkD5Bdwlcb5eXposg+9KOK5Ib;L7ScdGWMQ7NlYpKkVzPn6g=="
 ---
 

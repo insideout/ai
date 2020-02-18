@@ -294,7 +294,7 @@
       "path": "_posts/2020-02-17-automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026.md",
       "title": "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026",
       "excerpt": "Global Automotive AI market has emerged as one of the most lucrative growth verticals in recent years. The market is predicted to show a remunerative growth trend through 2026. This development can be attributed to the slowly increasing uptake of driver assistance technologies in an effort to provide a better driving comfort as well as ensure a safe driving experience.",
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026-2020-02-17",
@@ -1122,6 +1122,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-how-explainable-ai-is-helping-algorithms-avoid-bias.md",
+      "title": "How Explainable AI Is Helping Algorithms Avoid Bias",
+      "excerpt": "Developers design neural networks that can learn from data, but once they've released their creations into 'the wild', such neural nets have operated without programmers being able to see what exactly makes them tick.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/02/18/how-explainable-ai-is-helping-algorithms-avoid-bias/",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/02/18/how-explainable-ai-is-helping-algorithms-avoid-bias/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/02/18/how-explainable-ai-is-helping-algorithms-avoid-bias/amp/",
+      "publishedDateTime": "2020-02-18T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1078770762%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Explainable AI Is Helping Algorithms Avoid Bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -2067,51 +2112,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-21-what-is-natural-language-processing-nlp.md",
-      "title": "What is Natural Language Processing (NLP)?",
-      "excerpt": "Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp",
-      "ampWebUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
-      "publishedDateTime": "2019-12-21T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02Bp7I29l1NFftRcxQQllxT-1.fit_lpad.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "What is Natural Language Processing (NLP)?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

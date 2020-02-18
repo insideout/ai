@@ -1364,7 +1364,7 @@
       "path": "_posts/2020-02-12-deep-learning-with-spiking-networks-optimising-energy-consumption.md",
       "title": "Deep Learning with Spiking Networks: Optimising Energy Consumption",
       "excerpt": "There are several important differences between what is nowadays known as a “neural network” (in the deep learning sense) and networks of neurons in the brain. A particularly evident one is that artificial networks have analogue activations — the output of an artificial neuron is a continuous number. Biological neurons, conversely ...",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://medium.com/@martino.sorbaro/deep-learning-with-spiking-networks-optimising-energy-consumption-50588b4435fd",

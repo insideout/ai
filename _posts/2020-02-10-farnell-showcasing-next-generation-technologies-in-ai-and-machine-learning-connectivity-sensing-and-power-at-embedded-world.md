@@ -64,6 +64,19 @@ related:
       - url: "https://avatars3.githubusercontent.com/u/16797137?s=400&v=4"
         width: 400
         height: 400
+  - title: "Screening for chronic conditions with reproductive factors using a machine learning based approach"
+    excerpt: "Therefore, in order to investigate their association, we applied a machine learning based dimensionality reduction technique, autoencoder, to generalize one single marker to represent chronic conditions. A cross-sectional study was conducted in the Gansu Province of China. Random stratified sampling was adopted to include participants who were ..."
+    publishedDateTime: 2020-02-18T10:26:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-59825-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 25
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59825-3/MediaObjects/41598_2020_59825_Fig1_HTML.png"
+        width: 685
+        height: 546
   - title: "Codeword Selection for Concurrent Transmissions in UAV Networks: A Machine Learning Approach"
     excerpt: "Fortunately, machine learning (ML) is suitable for decreasing complexity in codeword selection, because ML could extract features from the data samples acquired in real environments. In this paper, we propose an ML approach to achieve an efficient and low complexity codeword selection for UAV networks. Specifically, we first derive the ..."
     publishedDateTime: 2020-02-14T03:17:00Z

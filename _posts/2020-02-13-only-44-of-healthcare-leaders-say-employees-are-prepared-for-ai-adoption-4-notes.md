@@ -23,6 +23,17 @@ images:
     height: 300
     title: "Only 44% of healthcare leaders say employees are prepared for AI adoption: 4 notes"
 
+related:
+  - title: "Global healthcare leaders stress on multi-stakeholder engagement, AI-based technology for healthy future Indian generation"
+    excerpt: "public and private healthcare sectors, NGOs, youths, innovators and specialists considering the vastness of the country and the population needed to be covered. \"Today, Artificial Intelligence-led technology platforms are creating wonders in the field of healthcare services. A perfect blend of technology and initiatives by all the stakeholders ..."
+    publishedDateTime: 2020-02-07T01:49:00Z
+    webUrl: "https://www.newkerala.com/news/2020/19561.htm"
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 8
+
 secured: "ZSUPPnJm3eruqgMntQ24IqHukhMF4etZbi7vO/QtCwNM2nSLmsZGwlk/24Okw05MZmgfb74pvk+K0RjRmFk/ez4uouZ5PPlt5I/QxfWY51U0V5eK0pU7ls2N26TPf5NiGR4nfPnrDvyKLs/SxjFwpFpbeIMjhRrhtp48+i6myOe0UQ0huGeRcla0LFJV1KQxwwYFaP+jKeeDGUHnfAHNBsn3ErG4SWLdxQlKR3f6KGP21U6nNwNeYsNBqO9gbNqIfUnVp4KuUESTZmEWaivV2CAAoeQhQeTYjf/nPPpM1AJ9IMIIB4sweJrFOB+oedpl;4LY19eVjAcq5f50CSLnL0A=="
 ---
 

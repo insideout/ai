@@ -101,6 +101,21 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
+    excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
+    publishedDateTime: 2020-02-18T09:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15351302/deep-learning-software-market-2020-global-industry-key-players-size-trends-opportunities-growth-a"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15351302"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15351302"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
+        width: 600
+        height: 250
   - title: "Automotive Artificial Intelligence Market"
     excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
     publishedDateTime: 2020-02-12T00:00:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
-  - title: "Microsoft Sees Azure Sales Surge 62 Percent"
-    excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
-    publishedDateTime: 2020-01-30T09:13:00Z
-    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
-    ampWebUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 54
   - title: "Microsoft's Azure Strategy Pays Off"
     excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
     publishedDateTime: 2020-02-02T17:39:00Z
@@ -58,6 +47,6 @@ related:
         width: 1024
         height: 803
 
-secured: "26pkUqaAcMYyaiDoBU5d99mLvxFRiOiYRP2EbHDxFpjRo9GP/7OR0Whv5/ig3VLB9kD4NRuQC1Z2RAkOxij7fM2UVk4msZia3GnYfvFy/wVaCTyLB4YheUZxIt8vTeL28WzS1guWIfKimBeeFanWvugEhE+GO0rC6u86QUUTOpxTMduWdb20muav8Wo4b23L9kV8OxD/Ti6Kg9Vq2PaDPtIwDrLUy/LuzPmb5G7dWMmwwih1Zke2uApVJ1qGkEq8vMZeLTmfI7dKhmCPJzBo/HQ4ukPUz7fOoPIvRIfjsyGJG9kmxrqQ3UqPfd3U0vsy;MUbYK8UK786U0tqdvGdt/A=="
+secured: "8TgEG0mRkpBvOc0cE4DQTqjg0tJ9f62VTegVEfOaTpePvOogIQPFy3m/CMvHAWsakXSphgKLRNcFUdYiEcL1TD5NmK2DisOQSXanwnySAow1bnrDHf7aI7sK+GFgSlTHdaLJa3TLZPCaUInqLAb7aDfJwHXt+EgPBXSR+7aLjATXZ15z22oDG7N6zIQNOqjKhKT1fAM4ngg2LPwNU9hmwjmgojBlh1oL9gcdp2pu3BerMQpRwdP5O6JrAMuwQaHvBe/psRCU+q+m/W9NKUihR29ANg59JghE7nGWfNUflzbS0C4RCTFKXQQKnY/jmNux;YfVb1DN4ZXnayAT5ZeCleg=="
 ---
 

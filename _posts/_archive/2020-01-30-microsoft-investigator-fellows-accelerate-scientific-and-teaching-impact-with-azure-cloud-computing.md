@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T19:40:00Z
 webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -28,20 +28,22 @@ images:
     title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
 
 related:
-  - title: "Bei Yu Chosen as Microsoft Investigator Fellow"
-    excerpt: "She uses machine learning and natural language processing techniques to improve information quality ... assure that everyone has fair access to relevant and accurate information. Azure cloud computing resources will not only enhance data storage and analysis for my research projects, but also provide the computing power to facilitate teaching ..."
-    publishedDateTime: 2020-01-30T21:36:00Z
-    webUrl: "https://news.syr.edu/blog/2020/01/30/bei-yu-chosen-as-microsoft-investigator-fellow/"
+  - title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
+    excerpt: "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ..."
+    publishedDateTime: 2020-02-03T20:07:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
     type: article
     provider:
-      name: Syracuse University News
-      domain: syr.edu
-    quality: 39
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
     images:
-      - url: "https://news.syr.edu/wp-content/uploads/2020/01/2020-bei-yu-feature.400x300.jpg"
-        width: 400
-        height: 300
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg"
+        width: 620
+        height: 250
 
-secured: "JFQCSocHNJjM0zWMI6tKEt0uYZuaRmrSUPli9Q9OalUsWs224upQxMCxNAd3RYnvmbp1d8ZuMd97xILyVpS/0+EJek07E23dnSp4BkObxVlhIk+bl3PH63a2fchi77HsCCF+8N+IwON7+WceFfe5bw3Ti+i/jK4mi2hGt9Nbfwpiug+J+L7/nm90nSJt5tPdamaPYgFrO/pHw/iNH5hMv/6uARj2ldWIdEiz77riYH6v21NKOA7skxoopWH8YUtBQok7NqhvnQ3wWp7h+UqC6dEkQth0IY8Qg0TVTUIDSOWVyFvFePZIBiiz936ns+QPL2lin31XtfDZ3nbPc0SFRavP093Q0APnQOyh5VS//zvljfgu0tyCMXSK+x5J+qEAWS5+pviituu3DChozf08qgny9kggt3UXNGPS4Ic7asQOzG+RC+j2WRsEO2rt2kGJwGAB35Hnr5tJioVoGQcNiv+5rQV53/MXOwDmujL3D5s=;Y24xjOmIzpu2KLUSe18qMA=="
+secured: "V+HCIPMfOnbNQ38cMD6jzLfnUXcvaK0K910i5WS+8kFrFRppwfalpvXOzaZPJzJRdGbze2V1HPhYEd+spJKxXMklANSNRerPZ5sjzrqsAp0FzgttV/DJUkApf6owy7D3C9Wpb8QM9SdP7IZW39mPE4hXPCMKR5UOv1uYnYs4ce0f8WBcIrePZdlESp2TjGGtxJODGPNRK9DadCR/f/7LtkZmf+j37KqrMDdyapMiV/B+nKEROe1fpbfM56I8xJcRrOI9WBjpXs86vlUI+EqwR+UBnJugjdhsTYhiniyTg8e3Xw+4m2xLYwyNKAgVmGHt;JbPJ+A1GniKnf2EfH8UVfw=="
 ---
 

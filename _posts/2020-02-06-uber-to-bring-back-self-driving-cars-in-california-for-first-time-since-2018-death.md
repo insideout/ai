@@ -267,19 +267,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
         width: 600
         height: 360
-  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
-    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
-    publishedDateTime: 2020-02-03T17:40:00Z
-    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 39
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
-        width: 622
-        height: 318
   - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
     excerpt: "Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company’s plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Transportation Department believe specially ..."
     publishedDateTime: 2020-02-06T17:19:00Z

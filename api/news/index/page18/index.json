@@ -2,6 +2,43 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-25-researchers-in-us-china-use-machine-learning-to-make-better-solar-panels.md",
+      "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
+      "excerpt": "This is a companion discussion topic for the original entry at https://cleantechnica.com/2020/01/25/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://businesscomputingworld.co.uk/t/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/244767",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-25T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BCW",
+        "domain": "businesscomputingworld.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg",
+          "width": 512,
+          "height": 512,
+          "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-25-scraping-the-web-is-a-powerful-tool-clearview-ai-abused-it.md",
       "title": "Scraping the Web Is a Powerful Tool. Clearview AI Abused It",
       "excerpt": "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ...",
@@ -220,7 +257,7 @@
       "path": "_posts/_archive/2020-01-26-genesys-engage-call-center-software-coming-to-microsoft-azure.md",
       "title": "Genesys Engage call center software coming to Microsoft Azure",
       "excerpt": "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ...",
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116",
@@ -2121,50 +2158,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-artificial-intelligence-is-still-a-science-project-in-most-companies.md",
-      "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
-      "excerpt": "Will AI remain in the labs while the industry moves on to the next technology trend, or will it become the revolutionary force some are predicting?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/",
-      "publishedDateTime": "2020-01-28T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg",
-          "width": 1200,
-          "height": 663,
-          "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

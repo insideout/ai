@@ -136,51 +136,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-03-elon-musk-to-solve-self-driving-with-a-super-fun-ai-hackathon.md",
-      "title": "Elon Musk to solve self-driving with a ‘Super Fun’ AI hackathon",
-      "excerpt": "Invitations going out soon. This comes on the heels of last week’s fourth quarter earnings call, where Business Insider reports Musk admitted Tesla was at least a “few months” from rolling out “feature complete Full Self Driving” (FSD). There’s a lot to unpack here, so let’s start with the timing of the party announcement.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/02/03/elon-musk-to-solve-self-driving-with-a-super-fun-ai-hackathon/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/elonmusk_party-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Elon Musk to solve self-driving with a ‘Super Fun’ AI hackathon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-03-how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai.md",
       "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
       "excerpt": "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ...",
@@ -258,7 +213,7 @@
       "path": "_posts/2020-02-03-microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results.md",
       "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
       "excerpt": "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ...",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316",
@@ -1050,6 +1005,43 @@
           "width": 1200,
           "height": 630,
           "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-facing-facts-reject-a-blanket-ban-on-face-recognition.md",
+      "title": "Facing facts: Reject a blanket ban on face recognition",
+      "excerpt": "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp",
+      "publishedDateTime": "2020-02-04T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": "Facing facts: Reject a blanket ban on face recognition",
           "attribution": null
         }
       ],

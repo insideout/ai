@@ -41,17 +41,6 @@ related:
       - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
         width: 320
         height: 210
-  - title: "Microsoft Sees Azure Sales Surge 62 Percent"
-    excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
-    publishedDateTime: 2020-01-30T09:13:00Z
-    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
-    ampWebUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 54
   - title: "Microsoft's Azure Strategy Pays Off"
     excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
     publishedDateTime: 2020-02-02T17:39:00Z
@@ -62,6 +51,6 @@ related:
       domain: seekingalpha.com
     quality: 34
 
-secured: "GmkGvG1jab1UKusMabCzGso6xvIMucVVHXXCz3k7Pg2MDbmPDoFcnhlJYSHq0TUXdIWvTC/cRT6e90ZXyx3aTdOsK2sGZHiczTrurML0JEwInX+9EmVhRZz70HFMZ4Uv5oFaczZS361PV4wan4pSowlOju/x2Z6jBHtyoG6fD1dLsZgKNrTbplVXQ3RZ7Q3N19SeNzPwYq3eOFrr9ymX2aCBjpOA8LEEHjaFp2tG/WKCHRKgHcfVsTI/V8n/84aA/84Mur6hS5zr/itBTFSfNIwN0HCQeOTCniqSyAraznL4NCHbZzwsiD2tUq6Z5iq3;0p122UzKgQ00uOCV9n/yBg=="
+secured: "YHUE86VX20BBdZMW+Gf/wzCHvBEb/LIu4SgHCLzOBdZHGGNRl+rhr2xaA4UEDxDjyNNWKuuBXpZq+iwL+vAa97H6c9jLjuw2KvrfWgpwyGQ4WIkYTfH0NcpOXQrLDk0SOBWIpXBWiJyD6xpC6V1ot+BC3cngKK++DbF9rOiktno2U4HxS9h+q9LAaOagBE11r5E15pCnf6OT2tJ6NlFdHysJ6AuzxmM3jgOHOoUsMUMHP0x1esF6cCmqigVVG/VqG3k51WdD+rpaU+Vubb1WpfDtUnmC6y5C8Af2vB5owtUo9JlxCTVK3jqpAO5FtJ1t;l+qYKhsspggp5e16VJQ27g=="
 ---
 

@@ -46,15 +46,6 @@ related:
       - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
         width: 690
         height: 388
-  - title: "Global Speech and Voice Recognition Market"
-    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice ..."
-    publishedDateTime: 2020-02-03T00:00:00Z
-    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "IedZFX1yGBlfzeWew4aDFV9sSANKHLAqsgz6jD7+D6bGxBHDxzKMRCkYC/6H+y4gbkUkk26E+mURgXW0wuQf725AjPJtzmhFFWKHyjFPwZkE671afQAsxPh4qhAEXGhw9P0e1ECx6Ts9TSaWsqG/kU548eLlq+hiYM+XXzK9Tags6Ukv7Zl/tqADcb704bwfW4YmNz/QjGDjYliDSOszapkUVm2G06vfC1it6Vuy//EwcjtA1hVRB3TmaHwWRcDY4WMl+kRtR2dUHF6dTR8wdZYILV81uyjWv9xbqYgdjMmRsXK9bbJtxzB+jmo23x3S;2KTMw/5l70aPF0zoK0I2pg=="
 ---

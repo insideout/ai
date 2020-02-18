@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T10:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026-2020-02-17"
 type: article
 quality: 67
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -98,6 +98,21 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
+    excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
+    publishedDateTime: 2020-02-18T09:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15351302/deep-learning-software-market-2020-global-industry-key-players-size-trends-opportunities-growth-a"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15351302"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15351302"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
+        width: 600
+        height: 250
   - title: "AI in the Auto Market to Eclipse $12B by 2026"
     excerpt: "In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip that features 8 million neural networks and can reach up to 10,000X faster computing speeds compared to traditional CPUs. Furthermore, the increased use of sensors, including high-resolution cameras, LiDARs, and ultrasonic sensors for vehicle situational awareness, is fueling the ..."
     publishedDateTime: 2020-02-10T16:24:00Z

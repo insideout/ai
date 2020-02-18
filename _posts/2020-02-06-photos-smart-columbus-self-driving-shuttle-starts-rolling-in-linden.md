@@ -72,15 +72,6 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/2/4/saupload_Dollar-Car-cropped_thumb1.png"
         width: 640
         height: 390
-  - title: "The Key To Tesla's Future Is Full Self-Driving"
-    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
-    publishedDateTime: 2020-02-03T17:07:00Z
-    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "YGq4ZO7OBovz2A8uzo6eYFB9iELxoeW4lUSEVwXtZPr7eAkNVLb48vlxH4/jyePKci3drQ6i2KJS7yYisBNqovmE0lKDI7LieWO1z6A7bZcror70T8FGvVK1QuzpnAtz9yg7uXb+rvrev0UtoAPAKU8WHwj4ZsIZPv6fZ5AIFqa1EIjhaFZ/JxWGAATEpuTNyOAerF4kC8EXyUuTQA/V7PyrMwLibTPQy2WX4dwCloT2roUax3ofrP8Mc/z6HLvJ6N13R42T4CAEq+uycPbHOWe8mP2pAbkJaqipXBN0bO4PYBsdGxmFOw9SQGlBWz7GmIeirY/4gYS0ASxXZ1h2kU+E9PW/k9p7GUEGZEXn1KevgV2GPMzqcgfx+8XSd8eZ1HeG6fj7YZ2c8JazD/Xd7qXZ553QEHqNG2GT7sEqKcFN4h+qYh77g8n9c74gOu67+sqHu/EnaX0Oo9admDd8F40HwVbzFv3br/IhpndPDo8=;rGa4HgcG/845e6SD0UmuLw=="
 ---

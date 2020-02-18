@@ -23,6 +23,6 @@ images:
     height: 655
     title: "Azure’s New Hardware Security Feature Takes Cues from the Xbox"
 
-secured: "Xh5HZGuxsi7Nd8UH0BzALM4Zn6pqatGbvpjMqX6HoOaBUW65izxe43H5sYliCWhGSzz4UzNn2PsPtV2ko//WCaNGYI7KzyDxYtz+bPadY6piFGPJYfFHaGrzsV/Aw3mQXdXH0wftrHyYnTw88Hh6Ae3l5oxsOUlYp7jKu4hruIFMhQ9YX8AlgyOoJhaKtOzyGWiuQ3/rCa4bzbWJ32qG1nf76fPLsL7Yxa5Q9dMoMMvip5lM6udeX8NbE36r+5JDyhFI5qD/ocaSOMlBcHHB88h3Piy1OJicHsOh0nQONvBuK3AbJwBrsWQ3xMJ7UXlt;Sc3LuNYlt94lQFuykbwh+Q=="
+secured: "wj2EHoqCIEGJCe2fUiZGb1vP+TUwnT+4dcqMBUB/uoGdPXLXmIe9nRvpovkk6sCLx4d+SbXf95i+ctkmIlYehfJ+NEmwY7GGoQUCQyb4SAWDjn8FEPXsnbRTz8WMFkSWb63vZbbYog8nul7gJSws30S29Bgrk48jR/Vr6DWq3N3dFVxc246VUVwjhGAdgy99UcFUf9Z53q/GrGjEw533k2LVGJmOfEGRaDjGE9Yoj0IVKu2LM3adZhRETAkyWewImLHAlhFUCKNjI57zFkVFe5lvAzBhZy9271rrSxC4H1AiqeE6S/L2i+vC8Df0fBBn;6IImWGNtryOatujpMP5i3w=="
 ---
 

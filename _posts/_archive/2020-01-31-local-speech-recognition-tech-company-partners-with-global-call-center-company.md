@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
         width: 690
         height: 388
-  - title: "Global Speech and Voice Recognition Market"
-    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice ..."
-    publishedDateTime: 2020-02-03T00:00:00Z
-    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
     excerpt: "The AI-algorithm that powers SpeechX is based on proprietary evaluation parameters of Mercer | Mettl and grading mechanism of its technology partner CarnegieSpeech that in turn leverages state-of-the-art and patented speech recognition and pinpointing technology licensed by the Carnegie Mellon University. SpeechX assessments can be taken from ..."
     publishedDateTime: 2020-02-06T02:31:00Z
@@ -58,6 +49,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "BICh5b0ZO6oiu74W+8VFJW7B5ivduuhmAK63wDuh6ZMElnEe6ceSZfYlX0I7o2SYouUrVpcO/FI4jUBFWJXDe/GHDRaFkHPt5me3h+3IZg586nRroryeXZMXv1JFNfjptOoHkzh7fH8zaBEDkrh5sq8SY+exdcGJ/FBhWE7PGNoxDYSa1UOG2y39TXTzGb081GuK7CJytfxIh1DdIHOQLmwdq9MAKwurZI6zux5ytjvJsrqkIKo6J2acILPFHNZLfimDp/Ekj1k7ZPCStOxmPqz0llvMAx1vpcPMqGxvHM3GedKW/8jSxhGU3+pOhgwC;R8oShW3AqgrcKjWJ2mK0Rw=="
+secured: "EHSTRA+tWPi1tz6ia6oNs0a06HX6xw0ShgphxPfaIoC2wJSyXhMr3ifGpl+N8cr00pfvcoA7nHxZwco/+gm1lTn5HyHtuH5HB6XylB78pRNXBLAOgC/F/J805ufcSQUB5gNNZhLic69KU1S/iZfnK+wRfagwsUvtaBCJmcb2GIfZ4Wl7f6Uly1yNRzymkQnWPhYSPHxLR2DzBi/kD1hEhLz7dR6pBfdFsYjFNbjdIf4EII5P60cu96RhVRO3scnOg5QCDMs4VXe9057dBSikj0LcQWjvVDEUa02a1ZKeAeF3rGcNg7CWE2CxaTw51JML;ha7mMlJCUft5+GYBn5T2BQ=="
 ---
 

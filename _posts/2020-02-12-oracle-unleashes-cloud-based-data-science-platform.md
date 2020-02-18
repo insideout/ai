@@ -43,18 +43,18 @@ related:
         width: 648
         height: 348
   - title: "Oracle Announces Oracle Cloud Data Science Platform"
-    excerpt: "/PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data"
-    publishedDateTime: 2020-02-12T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-oracle-cloud-data-science-platform-301003588.html"
+    excerpt: "Oracle Cloud Infrastructure Data Science automatically selects the most optimal training datasets through AutoML algorithm selection and tuning, model evaluation and model explanation. Today, organizations realize only a fraction of the enormous transformational potential of data because data science teams don’t have easy access to the right ..."
+    publishedDateTime: 2020-02-12T13:20:00Z
+    webUrl: "https://www.oracle.com/corporate/pressrelease/oracle-cloud-data-science-platform-021220.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Oracle
+      domain: oracle.com
     quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
+        width: 480
+        height: 480
   - title: "GigaSpaces Launches GigaSpaces Cloud Managed Service on Google Cloud Platform"
     excerpt: "With GigaSpaces, enterprises can operationalize machine learning and transactional processing to gain real-time insights ... are leveraged by hundreds of Tier-1 and Fortune-listed organizations worldwide across financial services, retail, transportation, telecom, healthcare, and more. GigaSpaces offices are located in the US, Europe and Asia."
     publishedDateTime: 2020-02-11T14:38:00Z

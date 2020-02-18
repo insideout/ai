@@ -101,21 +101,6 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
         width: 792
         height: 528
-  - title: "Volusia Sheriff’s Office adds facial recognition technology"
-    excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
-    publishedDateTime: 2020-02-03T17:59:00Z
-    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology"
-    ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
-    cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
-    type: article
-    provider:
-      name: The Daytona Beach News-Journal
-      domain: news-journalonline.com
-    quality: 59
-    images:
-      - url: "https://www.news-journalonline.com/storyimage/LK/20200203/NEWS/200209522/EP/1/1/EP-200209522.jpg?MaxW=600&MaxH=600"
-        width: 361
-        height: 483
   - title: "Activists launch new effort to kick facial recognition out of schools"
     excerpt: "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ..."
     publishedDateTime: 2020-02-06T20:21:00Z
