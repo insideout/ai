@@ -20,21 +20,69 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Neuromodulation Is the Secret Sauce for This Adaptive, Fast-Learning AI"
-    excerpt: "This week, a team from the University of Liege in Belgium went old school. Using neuromodulation as inspiration, they designed a new deep learning model that explicitly adopts the mechanism to better learn adaptive behaviors. When challenged on a difficult navigational task, the team found that neuromodulation allowed the artificial neural net ..."
-    publishedDateTime: 2020-02-11T14:00:00Z
-    webUrl: "https://singularityhub.com/2020/02/11/neuromodulation-is-the-secret-sauce-for-this-adaptive-fast-learning-ai/"
-    ampWebUrl: "https://singularityhub.com/2020/02/11/neuromodulation-is-the-secret-sauce-for-this-adaptive-fast-learning-ai/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/02/11/neuromodulation-is-the-secret-sauce-for-this-adaptive-fast-learning-ai/amp/"
+  - title: "The Human And Machine Workforce Leading Digital Transformation"
+    excerpt: "Human and Machine partnerships will be about augmenting human potential to make people more productive and customer experiences better. A look at how augmenting humans will drive the next wave of digital transformation."
+    publishedDateTime: 2020-02-17T16:19:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2020/02/brain-2676370_1280.jpg"
-        width: 1068
-        height: 601
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "Digital Transformation – Why Now?"
+    excerpt: "Google also sought to broaden its customer base by putting artificial intelligence in reach for a wider audience. With Google’s AutoML, Google CEO Sundar Pichai wrote, “Today, designing neural nets is extremely time intensive, and requires an expertise that limits its use to a smaller community of scientists and engineers. That’s why we ..."
+    publishedDateTime: 2020-02-13T15:40:00Z
+    webUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/"
+    ampWebUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/digital-transformation-why-now/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 46
+    images:
+      - url: "https://www.cmswire.com/~/media/4f6ff12791384bfcbfe2ca1e08d4e283.jpg?mw=1024&hash=87FABE1B6A8C20FF6582B0B72E28EF165144DB1C"
+        width: 640
+        height: 480
+  - title: "Machine learning is transforming the agent and customer experience"
+    excerpt: "The rise of artificial intelligence and bots have been discussed for years. And guess what? Bots no longer suck, customers demand amazing self-service options, and machine learning is really what’s behind those next-level omnichannel contact center solutions. It’s important to understand your customers, what they want from you, what your ..."
+    publishedDateTime: 2020-02-10T19:14:00Z
+    webUrl: "https://www.destinationcrm.com/ReportsandResearch/9642-Machine-learning-is-transforming-the-agent-and-customer-experience.htm"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/128302-Edify_FT_TheUrgencyofMLinCX_021020FINAL-1-ORG.png"
+        width: 480
+        height: 610
+  - title: "Digital Leap: Betting big on AI to transform businesses"
+    excerpt: "For example, Siemens recently launched the S7-1500 TM NPU module that is equipped with the AI-capable MyriadX Vision processing unit chip from Intel Movidius which, among other things, enables the efficient processing of neural networks. The module can be seamlessly integrated into the SIMATIC automation system, this way permitting a simple and ..."
+    publishedDateTime: 2020-02-16T19:52:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 39
+  - title: "How artificial intelligence is transforming higher education"
+    excerpt: "The potential of AI to be creative and to further enhance teaching was addressed by industry experts at THE Live When we talk about artificial intelligence, we often envisage a suite of robots performing tasks, transferring labour from humans to machines. Within higher education, the AI revolution has arrived in a different, inconspicuous form ..."
+    publishedDateTime: 2020-02-11T09:48:00Z
+    webUrl: "https://www.timeshighereducation.com/hub/adobe/p/how-artificial-intelligence-transforming-higher-education"
+    type: article
+    provider:
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 19
 
 secured: "BkS/IwmyXpTW9K+iPyMQmAjWQqPOVXzd+kPer7LYaQTuGXBbLw9TfpZZBGjof3U3iEcLyovbqeogCFVIrZJr+tkNH+4yyFb5pSP1dn8/2oUm69xwUIBGNaIqs63tUXCgSosHTbFJlO6msmF1zeKaoNtlJ4diKthhoEY93rVQoA0q5amWXfVJzEpzA2gsSfEw+zKuUjrYx0L501gDA464Gc7nWOJqDWOW4dDEJ5WGAXurlIsu7HjGN+oQI/WrDXNoDCgjhuupUSCVudCc9BI2Wc4IDt73HeFKjc2bKI7ecK2FhC9uvQgPFU974u9hn/TB;1FQ78/OxLHMrFfACSIIE0g=="
 ---

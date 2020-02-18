@@ -23,6 +23,6 @@ images:
     height: 391
     title: "Working Principle of the Particle Size Analyzer Powered by Machine Learning (image)"
 
-secured: "7/zZg3CQ797Gs2Nwx0mQH/RuCRsrSSMOmqmY5UhztfkEdKaU2MS6LzWoEdWmB8nmF0Pv0RMtaTqLGm3d/kNOLZJfBXr/QfworJ5XtdLZC1Ag+2gqRFgC2hfu+zvWwu7Z6jSxxwktThrk+Gqu3dbGKWD1eekKM8+zpBEqAgC7Fl+DnPxGHSCdRqlxgxdw03l3rD1yhdfvN5IwsSNoTPM6GnekC74VXpAnvaGA6XcoZhhduOjqJQA5SvQ43SO/e6EE02yOcVqiJoS5Xqaif9VyggF1R/xmVLUX1dgoOxYPiY46t/z2mMBD4YD9JxRU5AuY;dSYSxt3h0UyfeDyiIF0l7Q=="
+secured: "T4TFtkflst4mw3V/k6gkQPzYeHnE1/hD2ZaIzhOictXV1GJjKETATlHMZlc4lp7dvA1hBIzeZyYrZvyqZwOm2nkTSCIRcgWEDXdeqfGNq5o6zeGe3vQNzFcBVxcdTpU7eP8+9mDNaNpwzZA+uNvr8C/PazUeqX3tLeWRvTFmRTAeI21onhs4nbNnUUCUrYaOqQ64RwpMnMkm4cynvlY45pyAeDFFqGbLiTWqO9rtYMhTd8Pad/DYfi6s4a0lmpYxF+edHMIXEI9WI8i/+DF12tw+kwoNloBu2QLk/btX8aP3Q36qXjOYLLDpfOTTQd7uhOBm5Eqt9NFa+gF4K749zsBgwl2qsaJr+CvicM719o/UwoBb2MtRTGA3jk/EaXTQDgsIcO0eyyV1CyWl8hqf8G40dG4G7SosLoUAhG5C+QIJRDwkg5wBfE8VnQ0GNud2qcvbme4DRjI8DA2r8gueHxgBcwTYtyf/NkHu6aZfKtQ=;TiXpgE5xLGd4+w1V0vb+Mg=="
 ---
 

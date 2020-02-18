@@ -213,6 +213,17 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_084747.jpg?itok=AizU6ubR&v=1581900472"
         width: 1200
         height: 630
+  - title: "What Others Say: Facial recognition software takes personal invasion into a new dimension"
+    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
+    publishedDateTime: 2020-02-18T16:30:00Z
+    webUrl: "https://www.onlineathens.com/opinion/20200218/what-others-say-facial-recognition-software-takes-personal-invasion-into-new-dimension"
+    ampWebUrl: "https://www.onlineathens.com/opinion/20200218/what-others-say-facial-recognition-software-takes-personal-invasion-into-new-dimension?template=ampart"
+    cdnAmpWebUrl: "https://www-onlineathens-com.cdn.ampproject.org/c/s/www.onlineathens.com/opinion/20200218/what-others-say-facial-recognition-software-takes-personal-invasion-into-new-dimension?template=ampart"
+    type: article
+    provider:
+      name: Athens Banner-Herald
+      domain: onlineathens.com
+    quality: 30
   - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
     publishedDateTime: 2020-02-12T10:04:00Z

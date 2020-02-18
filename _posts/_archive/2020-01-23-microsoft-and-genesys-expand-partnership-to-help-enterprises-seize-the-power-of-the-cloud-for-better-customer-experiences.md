@@ -41,16 +41,7 @@ related:
       - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
         width: 320
         height: 210
-  - title: "Microsoft's Azure Strategy Pays Off"
-    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
-    publishedDateTime: 2020-02-02T17:39:00Z
-    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
-secured: "45aRtscUaqDhkEa20wjkawvCiXR9sPH2vO9mc8SGdziUkLlg0cPvti5qWMUMxVePpvdxPfqDZOsthTgayByAFHI/s+sOTW6PyoDss0paGEXs9W0VA+Ns99XGvqHrqBCnPv4ik6qvLus3+xHYzK2QoNW16CUOY+RVaY+qfK8uvRfYX3KQ10H1lnlbsoAeFvFbcpsm3iotgGMBEQbDc4ZBCTme7GA+yGuKKu7NJ/MtXK6vKgFIrjyTkX8f1pjCyipYNxHXAz32HZP4uHTbgO1uA6tSsHYQoEW5l6jyjBc26hZAcw7/w6a6iMosT9jCYmWa;CG3IRqDfnfTKiFGPKHg/OQ=="
+secured: "YsJVm3ADw9c7gQEMaBhua8EcwXkxJbc4LM5xrCSWuZGK3nFz2brf8yWSd/fOvpn8OhgTNCWFgTSS1zBGveL9nPZyzm+8UEpqPIuFleZ0V19c03FkkoUUhVejLT+rIzn//SZb0giJRZYqPvG8kXZ2VgN0cQxpgaQ2sj06ZvB7pObhpR+C6+lAqmRn+QjwKyirOOUsIa8hdW+QB+1T0GWJ2fToQeyVMpZf4Pl9vgwr+tGiIfVWaCkaIH/U2PmVF4hUyMayA7/XlqooA1v7gUfJ31U1srTo81um9hd6PplS29OduY0+HznFvMNhC95ppnrh;o4T/rchcjthvSgSDwF8Nqg=="
 ---
 

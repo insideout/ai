@@ -24,28 +24,67 @@ images:
     title: "Machine learning is transforming the agent and customer experience"
 
 related:
-  - title: "What is machine learning? Exploring its impact on customer experience"
-    excerpt: "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ..."
-    publishedDateTime: 2020-02-07T19:29:00Z
-    webUrl: "https://medium.com/@mahiprashanth866/what-is-machine-learning-exploring-its-impact-on-customer-experience-350bf3115497"
+  - title: "The Human And Machine Workforce Leading Digital Transformation"
+    excerpt: "Human and Machine partnerships will be about augmenting human potential to make people more productive and customer experiences better. A look at how augmenting humans will drive the next wave of digital transformation."
+    publishedDateTime: 2020-02-17T16:19:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://miro.medium.com/max/844/0*bbnXzCvTKv0Wl7uc.png"
-        width: 844
-        height: 422
-  - title: "AlmavivA Lauded by Frost & Sullivan for its Strong Focus on Customer Experience in the Latin American Contact Center Market"
-    excerpt: "/PRNewswire/ -- Based on its recent analysis of the Latin American contact center outsourcing services market, Frost & Sullivan recognizes AlmavivA with"
-    publishedDateTime: 2020-02-05T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/almaviva-lauded-by-frost--sullivan-for-its-strong-focus-on-customer-experience-in-the-latin-american-contact-center-market-300999000.html"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "Digital Transformation – Why Now?"
+    excerpt: "Google also sought to broaden its customer base by putting artificial intelligence in reach for a wider audience. With Google’s AutoML, Google CEO Sundar Pichai wrote, “Today, designing neural nets is extremely time intensive, and requires an expertise that limits its use to a smaller community of scientists and engineers. That’s why we ..."
+    publishedDateTime: 2020-02-13T15:40:00Z
+    webUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/"
+    ampWebUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/digital-transformation-why-now/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 46
+    images:
+      - url: "https://www.cmswire.com/~/media/4f6ff12791384bfcbfe2ca1e08d4e283.jpg?mw=1024&hash=87FABE1B6A8C20FF6582B0B72E28EF165144DB1C"
+        width: 640
+        height: 480
+  - title: "Digital Leap: Betting big on AI to transform businesses"
+    excerpt: "For example, Siemens recently launched the S7-1500 TM NPU module that is equipped with the AI-capable MyriadX Vision processing unit chip from Intel Movidius which, among other things, enables the efficient processing of neural networks. The module can be seamlessly integrated into the SIMATIC automation system, this way permitting a simple and ..."
+    publishedDateTime: 2020-02-16T19:52:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 39
+  - title: "Idaptive is taking machine learning for authentication and applying it to authorization"
+    excerpt: "Just before the holidays, I had a conversation with Idaptive to learn about the next phase of their user behavior analytics strategy. Essentially, they’re taking machine learning capabilities used to authenticate uses, and applying them to authorization decisions. These capabilities are part of Idaptive’s “Next-Gen Access Cloud” IDaaS ..."
+    publishedDateTime: 2020-02-10T21:59:00Z
+    webUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization"
+    ampWebUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    cdnAmpWebUrl: "https://www-brianmadden-com.cdn.ampproject.org/c/s/www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    type: article
+    provider:
+      name: Brian Madden
+      domain: brianmadden.com
+    quality: 31
+  - title: "How artificial intelligence is transforming higher education"
+    excerpt: "The potential of AI to be creative and to further enhance teaching was addressed by industry experts at THE Live When we talk about artificial intelligence, we often envisage a suite of robots performing tasks, transferring labour from humans to machines. Within higher education, the AI revolution has arrived in a different, inconspicuous form ..."
+    publishedDateTime: 2020-02-11T09:48:00Z
+    webUrl: "https://www.timeshighereducation.com/hub/adobe/p/how-artificial-intelligence-transforming-higher-education"
+    type: article
+    provider:
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 19
 
 secured: "OfdL/BExnEjOORFA61GEL3LUA3IVP+usymLXIS4ml10wMZ3CaCsHl/CyACn7hgA9lAwh4qUvhhpHtEzwEqpYOkM1WX045ehYZ1QQEnhlaEZPQ6BD2+rOMLmn5CGUipLX5Gm/Vy60/KvWwHTrKgbm701T2MtXTx0jN8ky4ymDiE+99Fxn2/KYXblw+gV+fbG941mdNa9y/axwYWdoxrywo1RpaTthdeao3RItjX8ZKmNpvCL1g/CIDGBrNoehCK65dsYe5ZzZgXk48ObzlKu2RMD2/n7tVyaSk25jfOF8hZFm92sfHXC/tF6B2Vwmzwd4;6tU7rGGcA3pXNPOlJx/bOA=="
 ---

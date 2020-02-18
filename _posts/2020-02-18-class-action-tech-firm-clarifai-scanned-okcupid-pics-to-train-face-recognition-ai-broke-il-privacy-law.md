@@ -23,6 +23,6 @@ images:
     height: 640
     title: "Class action: Tech firm Clarifai scanned OKCupid pics to train face recognition A.I., broke IL privacy law"
 
-secured: "sh0oqX2cjBrsWAkRz+22XUmGz0dqSMqhMChryC+Ng90y+dwj6aSzOqpAXQMngd0vUDmTIvbEklq3eab8JselvwRzyN46kxhLOsTZIcUv9u8RJd4NONNlhXoZT5qQWQWTuoGkdHCye0pp8o2CpAdhK83KXVxU53H3q+6gynBeIq0JvrNWn289OmCrzftNhEmWmx2ADGXnCsY/uJ/jRPZSNIs8jaw3LPZDt4yl+m2w+hF/aOrXyEV5Ts+jJ0j5i4BSy6IBEuHysyRemfKDYRgCl+z2DGUucfXjo8wdtGCRZUJJ2tEEQxZkOjaTUFHtdEFK;io1FkG7R2g7RZ0VROpxXFg=="
+secured: "cdy1q733j5aw1ZGL3EQ7PJGoHJRf01iFwaa6jVmAISzqdBzCnCvG7Ov4wBTvfVleCBOyJpbWIxx5MubQTswEJXN25584JMquw8b/reN/DAGxFO8pFAh3dSbjvFdRgEXv+cmd1cpGQeP/vIJgeGEnEtWYSZjJvPormYzLhvANWxJhraFv08mH/nB+wT6F/fmT/Fix0fPuJ0pLVnv9JGojjA9QB3q42xxkTgWoDMs7GD8ouPXPNBIIJR6+387irrzlfmBjq5vtbXHdfI+47cztzcrQ22cpA/4CpAHSF0ADUQmCgdlOQFSdG1p0d+lJb5qWmAu6xPLwUgY6qDmN8duL5PPPT5kdeCwlasETNvoCHTafUjACAxY7Ak788GonYbWhlE/AbubR8AQP775nKXfIPuabVdTZLEML1Vl1Kh9Wy2uMZWiYY2MYhZoDePzKApu2atcjyhY3DN/rsIceSnXdNdaLp7cwe0aAz5/S/eH2xxo=;RDgeQzm9ocjO5j2SdHlIcw=="
 ---
 

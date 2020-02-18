@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Forbes
@@ -30,51 +30,65 @@ images:
     title: "The Human And Machine Workforce Leading Digital Transformation"
 
 related:
-  - title: "Artificial Human Beings: The Amazing Examples Of Robotic Humanoids And Digital Humans"
-    excerpt: "Thanks to the advances with artificial intelligence, robots are becoming more human-like, and digital human beings are supporting our everyday lives in surprising ways. Here we have all you need to know about artificial humans beings and the best examples of robotic humanoids and digital humans."
-    publishedDateTime: 2020-02-17T06:47:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/amp/"
+  - title: "Digital Transformation – Why Now?"
+    excerpt: "Google also sought to broaden its customer base by putting artificial intelligence in reach for a wider audience. With Google’s AutoML, Google CEO Sundar Pichai wrote, “Today, designing neural nets is extremely time intensive, and requires an expertise that limits its use to a smaller community of scientists and engineers. That’s why we ..."
+    publishedDateTime: 2020-02-13T15:40:00Z
+    webUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/"
+    ampWebUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/digital-transformation-why-now/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 46
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a3210a854780006b18efa%2F0x0.jpg"
-        width: 1200
-        height: 675
-  - title: "Are Robots Better Investors Than Humans?"
-    excerpt: "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds."
-    publishedDateTime: 2020-02-15T12:00:00Z
-    webUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans"
-    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
-    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
+      - url: "https://www.cmswire.com/~/media/4f6ff12791384bfcbfe2ca1e08d4e283.jpg?mw=1024&hash=87FABE1B6A8C20FF6582B0B72E28EF165144DB1C"
+        width: 640
+        height: 480
+  - title: "Machine learning is transforming the agent and customer experience"
+    excerpt: "The rise of artificial intelligence and bots have been discussed for years. And guess what? Bots no longer suck, customers demand amazing self-service options, and machine learning is really what’s behind those next-level omnichannel contact center solutions. It’s important to understand your customers, what they want from you, what your ..."
+    publishedDateTime: 2020-02-10T19:14:00Z
+    webUrl: "https://www.destinationcrm.com/ReportsandResearch/9642-Machine-learning-is-transforming-the-agent-and-customer-experience.htm"
     type: article
     provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 59
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
     images:
-      - url: "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853"
-        width: 1280
-        height: 853
-  - title: "Chinese city turns to robots to replace human deliveryman amid epidemic"
-    excerpt: "Using technologies including artificial intelligence and big data, the robot is easy to control and will be disinfected after each delivery, the company said.”I had never expected robot delivery. It makes delivery more convenient and benefit residents who are staying home and choosing online shopping during the epidemic,” said Li Wei ..."
-    publishedDateTime: 2020-02-16T20:03:00Z
-    webUrl: "https://www.newsghana.com.gh/chinese-city-turns-to-robots-to-replace-human-deliveryman-amid-epidemic/"
-    ampWebUrl: "https://www.newsghana.com.gh/chinese-city-turns-to-robots-to-replace-human-deliveryman-amid-epidemic/"
-    cdnAmpWebUrl: "https://www-newsghana-com-gh.cdn.ampproject.org/c/s/www.newsghana.com.gh/chinese-city-turns-to-robots-to-replace-human-deliveryman-amid-epidemic/"
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/128302-Edify_FT_TheUrgencyofMLinCX_021020FINAL-1-ORG.png"
+        width: 480
+        height: 610
+  - title: "Digital Leap: Betting big on AI to transform businesses"
+    excerpt: "For example, Siemens recently launched the S7-1500 TM NPU module that is equipped with the AI-capable MyriadX Vision processing unit chip from Intel Movidius which, among other things, enables the efficient processing of neural networks. The module can be seamlessly integrated into the SIMATIC automation system, this way permitting a simple and ..."
+    publishedDateTime: 2020-02-16T19:52:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
     type: article
     provider:
-      name: News Ghana
-      domain: newsghana.com.gh
-    quality: 59
-    images:
-      - url: "https://www.newsghana.com.gh/wp-content/uploads/2018/03/visitor-walks-696x464.jpg"
-        width: 696
-        height: 464
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 39
+  - title: "Idaptive is taking machine learning for authentication and applying it to authorization"
+    excerpt: "Just before the holidays, I had a conversation with Idaptive to learn about the next phase of their user behavior analytics strategy. Essentially, they’re taking machine learning capabilities used to authenticate uses, and applying them to authorization decisions. These capabilities are part of Idaptive’s “Next-Gen Access Cloud” IDaaS ..."
+    publishedDateTime: 2020-02-10T21:59:00Z
+    webUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization"
+    ampWebUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    cdnAmpWebUrl: "https://www-brianmadden-com.cdn.ampproject.org/c/s/www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    type: article
+    provider:
+      name: Brian Madden
+      domain: brianmadden.com
+    quality: 31
+  - title: "How artificial intelligence is transforming higher education"
+    excerpt: "The potential of AI to be creative and to further enhance teaching was addressed by industry experts at THE Live When we talk about artificial intelligence, we often envisage a suite of robots performing tasks, transferring labour from humans to machines. Within higher education, the AI revolution has arrived in a different, inconspicuous form ..."
+    publishedDateTime: 2020-02-11T09:48:00Z
+    webUrl: "https://www.timeshighereducation.com/hub/adobe/p/how-artificial-intelligence-transforming-higher-education"
+    type: article
+    provider:
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 19
 
 secured: "AmFRcG1ScVv6/Lp2QoMqfBwKnPSWbQE+iW7reWxvr+Epq8suDizqVN5uKVR7XfuiASqCsSqP4+nRpVcRk3gs1yMIxR0fk6SEPVlqlL36XJA165vQuh5VsrWwiYfSjI4Nqt5xjUMeJOfZv6EXaUy68+DIwD8aR7L76+ggdGbKdFFr0whSKIfVWDujeumnr8617wozDSgzzGiqIqRYIDh4CSYTU4tFxo25lUSl9eRbJbkKTk88B+t7f3Mw0iy660+dCPZWOYd2MXVNnFO9fxHmnre3ZpxzGkll/ZHS0JBjU4Wu+jmb8sq0/pC9sce8J80GZtR1bNWA/NW8EQTJTzu44800DnbfcUAl0X8nVkT3pDq6xd4hr/87LH0BZllBatqzwsymxlDYM2xoZave9mo5AAXWl5JPRuxU+1vx/M2GMJmoONl6Np7+E8vErL45VeACQaZX7EHjCwo3BrEfIF9sS1kBX3/W/7iNnaiuklIvFlQ=;HRzarT6j5SnbL85SCtsgqg=="
 ---

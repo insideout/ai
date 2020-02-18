@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T01:00:00Z
 webUrl: "https://www.yankodesign.com/2020/02/17/the-polestar-1k-is-a-self-driving-robocar-concept-that-really-looks-down-upon-human-drivers/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 510
     height: 314
     title: "The Polestar 1K is a self-driving robocar concept that really looks down upon human drivers!"
+
+related:
+  - title: "MIT’s Ground-Penetrating Radar Looks Down for Perfect Self-Driving"
+    excerpt: "It turns out that when you scan the 10 feet below the roadway surface, you get a unique identifier that is accurate to an inch or two. Mapping cars would scan the roadways once, then your self-driving car with its own ground-penetrating radar would rescan as you drive, matching its real-time scan to the master map. That would keep your car ..."
+    publishedDateTime: 2020-02-18T16:05:00Z
+    webUrl: "https://www.extremetech.com/extreme/306205-mit-wavesense-ground-penetrating-radar-self-driving"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/02/WaveSense_3_final.jpg"
+        width: 1344
+        height: 830
 
 secured: "vJM2bWiskumoQE/vNQy27sLnzWltTQtvQcho9EctBqaH94JMmY3Tf5aLL07zSzxhWWRpOu6EADVscdyXKkL4sL2D1IwAqHLxwQeSobql0UpdgKNBGOOhGL4VMeiElSVlxq7E76ffCT6U/eQXgIGaPNs998ZP9028u5tZrWpFPgswvHlv5WWXcIwD+Jj1fSbA6Zt8oAniPjYXgXWq1JsZoEWVZ4K7BYD8lJfYqAsPBuuoUnEyRU0MPnYmI6O9j8LTAKRsvCMHN7S0rUHW86OrCbx1jXGSNDQ9/0ppJZlDpcNWdR+wtgoq0Xg6+32o+y4rQzrSMCu+EQkUe5cDt8o8AJXE3vKGa23OQeMfKxBzasUPk+yGDzItICnnKLuQ3+uNQI4y0HFDvfcAbynY93FpZ9Ik5VSxTdqWNdHBqqQXmgKXxW8GWNfHuwuHIxZfLZelJi68jXkAPK+ZtETHJKlIDlZt8UXagWtMF1XA57/GAu4=;ix1oJ/JJn3q+CoW/p45icw=="
 ---

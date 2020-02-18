@@ -63,6 +63,21 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
         width: 620
         height: 480
+  - title: "Are Robots Better Investors Than Humans?"
+    excerpt: "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds."
+    publishedDateTime: 2020-02-15T12:00:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 59
+    images:
+      - url: "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853"
+        width: 1280
+        height: 853
   - title: "New robot does superior job sampling blood"
     excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
     publishedDateTime: 2020-02-06T16:45:00Z

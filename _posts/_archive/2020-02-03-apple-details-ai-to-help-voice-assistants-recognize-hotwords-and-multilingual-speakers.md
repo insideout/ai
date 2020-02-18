@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Apple details AI to help voice assistants recognize hotwords and multilingual speakers"
 
-secured: "JI3cF2KhVFPsBJgv3NJSIcGhYGYiDtg5G5FUTxFKcTnYlTImwlFn4aCM2QCZcBy0R2rw+dM+F436f5Y6WO54uSP5NJJVk5z7iJMJPznMOAKNK9LasJSGCK3n1+obQoNeN+Xlv96AHmg3HoLKNSjsDivBhNdAdvbwAWGqLQaeo0yNRh4a7D/SUwHlKv3E+Oz4ySByOZHHUh/GsVkwkF1ag1VUiIuFL72JDEukJ9/rYSMsqy9Si85ACuknxDTrI3tXtTuvrFTQ8tgd9dSmHhAEsa3guuLCFadz6iZZHqiQoA/rDcybb4RxPiVtHKB+Y62P;PkSdBj5lQGyCPf6ChAxIZg=="
+secured: "bzZLJeDtLrTPchBwjamsYpM000WxF3tfHxVdUARSMlcmqlPELr8JxlcX975IRoDs5wOezANT8efN+zkQ1hg0kZBMRoGm/bAsTLpl2gedCYgjFe0T/XTyLxqR+OJgsrCQAfmcwhzCRpPIZPgtpOj/CY4wDCtWWmxUb6U2hw9yTxxEN37DSJQm4HRZv3IF8vTK8z8nP4r5iC8079N8J0VwEku3io7LXYabSGxqCwO4uHJSuDA17CFHXn9NwSB6iAOujx126s4Tt8O08ovJUDo0Y4NgQJZ4xJ9nESDYLRcdbtyWvwjvc5y+TgOrmOPeSUz9;4kLmsG6Z8/B0wb2JA3M/Zg=="
 ---
 

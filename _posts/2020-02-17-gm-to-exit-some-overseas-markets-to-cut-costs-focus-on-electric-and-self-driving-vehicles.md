@@ -3,11 +3,9 @@ category: news
 title: "GM to exit some overseas markets to cut costs, focus on electric and self-driving vehicles"
 excerpt: "General Motors is exiting Australia, New Zealand and Thailand to save costs in the under performing markets and better hone its focus on growth markets as well as on its electric vehicle and self-driving car strategies. As a result, GM said it expects to incur net cash charges of $300 million and to record total cash and non-cash charges ..."
 publishedDateTime: 2020-02-17T15:52:00Z
-webUrl: "https://www.usatoday.com/story/money/cars/2020/02/17/gm-exits-australia-more-overseas-markets-restructuring-move/4784052002/"
-ampWebUrl: "https://amp.usatoday.com/amp/4784052002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4784052002"
+webUrl: "https://www.usatoday.com/story/money/cars/2020/02/17/gm-exits-australia-more-overseas-markets-restructuring-move/4784052002/class=gnt_m_tl"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
@@ -20,40 +18,27 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
-    width: 1200
-    height: 678
+  - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?width=1686&height=953&fit=crop&format=pjpg&auto=webp"
+    width: 1686
+    height: 953
     title: "GM to exit some overseas markets to cut costs, focus on electric and self-driving vehicles"
 
 related:
-  - title: "Self-driving electric powered vehicle that changes COLOUR could be on the roads by 2050"
-    excerpt: "But this appears set o change with the implementation of self-driving tech from firms such as Tesla and Waymo, and legislation stating diesel and petrol cars will be obsolete in the next 15 years. And it appears that by 2050, the transport industry will ..."
-    publishedDateTime: 2020-02-17T14:50:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
+  - title: "Jaguar Land Rover Project Vector self-driving car sets sights on the streets in 2021"
+    excerpt: "Jaguar Land Rover has revealed a new autonomous concept vehicle, Project Vector, a self-driving pod that the automaker hopes to have on roads from 2021. Rather than borrowing an existing vehicle’s platform, Project Vector eschews the SUVs and performance cars from JLR’s garage and is based instead on a city-friendly new architecture."
+    publishedDateTime: 2020-02-18T16:21:00Z
+    webUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/"
+    ampWebUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 36
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/17/14/24841066-0-image-a-6_1581950107383.jpg"
-        width: 636
-        height: 382
-  - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-18T05:00:00Z
-    webUrl: "https://www.pressofatlanticcity.com/opinion/commentary/how-should-self-driving-cars-decide-who-to-kill-by/article_6c1dbac7-3a51-5e99-bc84-8066769cbe28.html"
-    type: article
-    provider:
-      name: The Press of Atlantic City
-      domain: pressofatlanticcity.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
-        width: 1200
-        height: 630
+      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/5Vector-2.jpg"
+        width: 1680
+        height: 1117
   - title: "Jaguar Land Rover reveals new electric self-driving pod to be used on UK roads next year"
     excerpt: "The city will be used as a 'living laboratory' by Britain's biggest car-maker to test how the self-driving pods interact with other vehicles, pedestrians and cyclists. One of the first to get an early preview is Prince Charles, who was on hand to officially open the National Automotive Innovation Centre at Warwick University, where the ..."
     publishedDateTime: 2020-02-18T15:03:00Z
@@ -68,6 +53,6 @@ related:
         width: 636
         height: 382
 
-secured: "JJjRScWHgHKbZRGYN9TpwHoBI3UYCZTDq9Yyt771hOVB0b9AwEzGhwjpkwhI9BjR1ATqJ2C/n2vr16uqhAZOA9fBDHq0hTu0VXh9isZtgdwvgeN9UibpM5xjpPSQjBRTm+NjRbJzRJ7cL3XOCQbQeT8JX2HeG0a6wzCdu6doVnmSU1XIifE7Fskwdw7X681JoIPXctRjf3kGlyqwKCJZ9n5Xe/peFiUzVbouC+e6ucqc534+YPNk88XjUED/72C+RvxMTAijZwEnshZVDkEgCO5HvXvgCxEOxnXkLU1nW+ff+SDzPHDjj5xtnnXiZ8cW;fFOZDh6BEVxS4RH/HmgcZw=="
+secured: "BMt5ZR3KtvQoJK2suHyAXcA85OhZmBWa2dbIfa2L/nPajQSq7peG8dOjzxJJpzKnluDecZKM1qBPSVi69qZ4+5x86eatvM9WYEQUUxWRmC4khc3qn255E0ibD092FK7ztUAdQlvY6rOvRvZinDVAZ+NziL5GoPWTTeeaFv9fGnd9zyLsWLeVe1JwvmYnGUkDmcL69IDBZTYbrsgPAdJexhE27Yev+tcRGvB9tzhrG21vW6ZR/LFYM6y9vliKYzVlyyph4cHH9KsTztcXfzfoTTRdnAa4P7bj+AO8yT9ZCeMYmm3HurZ+FLfod8W4481O;IGuqG4OPysh9CZsZ9MyWzw=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 400
     title: "Agritech startup CropIn partners with Centre to help estimate crop yield accurately"
 
+related:
+  - title: "Cloudtech startup Rapyder has partnered with AWS to help clients with digital transformation"
+    excerpt: "“Being an AWS Advanced Consulting Partner enables us to provide seamless ... It aims to leverage big data, data analytics, artificial intelligence, and machine learning, in the near future. “We have 55 employees across our offices, and plan to hire up to 50 more professionals by the end of 2020,” Amit says."
+    publishedDateTime: 2020-02-07T00:24:00Z
+    webUrl: "https://yourstory.com/2020/02/cloudtech-startup-rapyder-aws-quickride"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 8
+
 secured: "DdeMsEN6GoEa7ksettnY0iUvMgDcA4Fncqs0hfpnN5/ncK6i54mxX592oSQ1YrOH7QdNXQqw16weSHJ8XphG5TG2jf9BGabzdHERwEGObLP8DxXw7Y+gjwRF/ZZEqbXsUok4dhDW8RNzxa0ObXQKx0GeE/hSKtA8wIkEEcNdRrRn09fNR10nRlmHE9fT7aJ5L4h1YeOKwCK8zWOPZquGGRGMqDi7WHyR6WK/hb44ip3eqQWD2JYQj4uMiW/jYdQx4XIQGiLdFahvPaU5FiPp4c4q9w+OShnPI3EwuBIx95LX8VYurmKLQEosaNHhEIZX;6GCPuF9r+FvyxSCTa5K8eg=="
 ---
 

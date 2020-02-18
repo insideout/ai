@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cmswire.com/information-management/digital-transformatio
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/digital-transformation-why-now/amp/"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,34 @@ images:
     title: "Digital Transformation – Why Now?"
 
 related:
+  - title: "The Human And Machine Workforce Leading Digital Transformation"
+    excerpt: "Human and Machine partnerships will be about augmenting human potential to make people more productive and customer experiences better. A look at how augmenting humans will drive the next wave of digital transformation."
+    publishedDateTime: 2020-02-17T16:19:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "Machine learning is transforming the agent and customer experience"
+    excerpt: "The rise of artificial intelligence and bots have been discussed for years. And guess what? Bots no longer suck, customers demand amazing self-service options, and machine learning is really what’s behind those next-level omnichannel contact center solutions. It’s important to understand your customers, what they want from you, what your ..."
+    publishedDateTime: 2020-02-10T19:14:00Z
+    webUrl: "https://www.destinationcrm.com/ReportsandResearch/9642-Machine-learning-is-transforming-the-agent-and-customer-experience.htm"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/128302-Edify_FT_TheUrgencyofMLinCX_021020FINAL-1-ORG.png"
+        width: 480
+        height: 610
   - title: "Digital Leap: Betting big on AI to transform businesses"
     excerpt: "For example, Siemens recently launched the S7-1500 TM NPU module that is equipped with the AI-capable MyriadX Vision processing unit chip from Intel Movidius which, among other things, enables the efficient processing of neural networks. The module can be seamlessly integrated into the SIMATIC automation system, this way permitting a simple and ..."
     publishedDateTime: 2020-02-16T19:52:00Z
@@ -38,43 +66,26 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 39
-  - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
-    excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
-    publishedDateTime: 2020-02-06T20:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
+  - title: "Idaptive is taking machine learning for authentication and applying it to authorization"
+    excerpt: "Just before the holidays, I had a conversation with Idaptive to learn about the next phase of their user behavior analytics strategy. Essentially, they’re taking machine learning capabilities used to authenticate uses, and applying them to authorization decisions. These capabilities are part of Idaptive’s “Next-Gen Access Cloud” IDaaS ..."
+    publishedDateTime: 2020-02-10T21:59:00Z
+    webUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization"
+    ampWebUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    cdnAmpWebUrl: "https://www-brianmadden-com.cdn.ampproject.org/c/s/www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 16
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Paris-France-Eiffel-Tower-300x300.jpeg"
-        width: 300
-        height: 300
-  - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
-    excerpt: "... healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,\" said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. \"Our combined technology will empower payers and providers to drive better outcomes and improve care quality.\""
-    publishedDateTime: 2020-02-07T13:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-citiustech-announces-partnership-with-google-cloud-accelerate-digital-/2020/02/07/9094107.htm"
+      name: Brian Madden
+      domain: brianmadden.com
+    quality: 31
+  - title: "How artificial intelligence is transforming higher education"
+    excerpt: "The potential of AI to be creative and to further enhance teaching was addressed by industry experts at THE Live When we talk about artificial intelligence, we often envisage a suite of robots performing tasks, transferring labour from humans to machines. Within higher education, the AI revolution has arrived in a different, inconspicuous form ..."
+    publishedDateTime: 2020-02-11T09:48:00Z
+    webUrl: "https://www.timeshighereducation.com/hub/adobe/p/how-artificial-intelligence-transforming-higher-education"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-    images:
-      - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
-        width: 252
-        height: 335
-  - title: "Cloudtech startup Rapyder has partnered with AWS to help clients with digital transformation"
-    excerpt: "“Being an AWS Advanced Consulting Partner enables us to provide seamless ... It aims to leverage big data, data analytics, artificial intelligence, and machine learning, in the near future. “We have 55 employees across our offices, and plan to hire up to 50 more professionals by the end of 2020,” Amit says."
-    publishedDateTime: 2020-02-07T00:24:00Z
-    webUrl: "https://yourstory.com/2020/02/cloudtech-startup-rapyder-aws-quickride"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 8
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 19
 
 secured: "+QMikM2sf5CElqbvzlFO//iB/WO3yotHTTAsUYQChNyE7dkhUM8tlk919jN+nj4ytNs5KjxnATWvG8pfyvHAO7bu7BxlBLAuGt6KZzqZgvzAHMRn9awN9GKlJZpoLt9oof1oV6QVLi1wtpAF5QVoI4ZVie/A5Skwb1DEd+QhSLBovm9Ku7FhsGrl4VdU8dLHaI84rRcu7UtywyOg147+K72FzGugsm6xLU8DTkFXuRvmAcTpPDlWIdfQTc0QZqm55KBSF3BfEP2Ppcdfbe/p7U6LLgtLzkrTpGUk0peaD+IN4ROkvEPTaxMxp88BlZohwsZwyUYdBnpgU0ZFUTg5D8jbHzFYofctB6tBuHtureitWN1SwlAOJGB1yQviX8aizfVWQLElA3F0Zb3pnY10fqgVflZt402CHduookQg1/8WJG8Bf2zBkm10YVLfrSUUCrQKhvFjThCN/z93RHMLnKXmLCnBwUSPBBToVWFOZMY=;LIDProHzq6xnLW2BpqUDvQ=="
 ---

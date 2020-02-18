@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T19:29:00Z
 webUrl: "https://medium.com/@mahiprashanth866/what-is-machine-learning-exploring-its-impact-on-customer-experience-350bf3115497"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "What is machine learning? Exploring its impact on customer experience"
 
 related:
-  - title: "Machine learning is transforming the agent and customer experience"
-    excerpt: "The rise of artificial intelligence and bots have been discussed for years. And guess what? Bots no longer suck, customers demand amazing self-service options, and machine learning is really what’s behind those next-level omnichannel contact center solutions. It’s important to understand your customers, what they want from you, what your ..."
-    publishedDateTime: 2020-02-10T19:14:00Z
-    webUrl: "https://www.destinationcrm.com/ReportsandResearch/9642-Machine-learning-is-transforming-the-agent-and-customer-experience.htm"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/128302-Edify_FT_TheUrgencyofMLinCX_021020FINAL-1-ORG.png"
-        width: 480
-        height: 610
   - title: "AlmavivA Lauded by Frost & Sullivan for its Strong Focus on Customer Experience in the Latin American Contact Center Market"
     excerpt: "/PRNewswire/ -- Based on its recent analysis of the Latin American contact center outsourcing services market, Frost & Sullivan recognizes AlmavivA with"
     publishedDateTime: 2020-02-05T13:00:00Z

@@ -31,19 +31,6 @@ related:
       - url: "https://miro.medium.com/max/844/0*bbnXzCvTKv0Wl7uc.png"
         width: 844
         height: 422
-  - title: "Machine learning is transforming the agent and customer experience"
-    excerpt: "The rise of artificial intelligence and bots have been discussed for years. And guess what? Bots no longer suck, customers demand amazing self-service options, and machine learning is really what’s behind those next-level omnichannel contact center solutions. It’s important to understand your customers, what they want from you, what your ..."
-    publishedDateTime: 2020-02-10T19:14:00Z
-    webUrl: "https://www.destinationcrm.com/ReportsandResearch/9642-Machine-learning-is-transforming-the-agent-and-customer-experience.htm"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/128302-Edify_FT_TheUrgencyofMLinCX_021020FINAL-1-ORG.png"
-        width: 480
-        height: 610
 
 secured: "Jqs6yoO90MCs1UeUTpUza1YOcN2EJOYh6ijGsbHWu8BDB/2SNwELBFqxtwJdQMfCme/WnbNP6IadYEkkydKQ07QltB7u10BBX4DvTo27kNHv2Vnc1tqHUdABkvdzr/m6tfw3FHEsPmLnteSTSjIWyZtUtwgUQfCNwigzKuOyldKJqtP6O4KkuFV50eqSvEiNf2rqmyLwQgct65qtC/V5IVQ/sd9oOtLkd/mTwfJSQMRaA0YHhzYZ2WRcm6KrLstu1jPNc+JnQ5UX69SOHyccy4pUM2I3jk2G1ZNBfcOqdfJmrRYh124yS+AwT4tk0rhSV+yIXBB1Vm3aWIXUbEQpBkcvem5S6vokv/rDIKc0IIc1Rss56XinRWGyoS3uEfQXdf90drizLgMAckihXRMYRzU4+5QCC05QhcEZihvvUFrq0ytc9ibUCBdnQsuGX/QFxIVbg+V3qbEnHQ88UoCfzYVLsJHEZ5evkff2Y0WLOxQ=;sLrEn6ddZrjsAuqV0pnajQ=="
 ---
