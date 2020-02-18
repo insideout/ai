@@ -38,9 +38,9 @@ related:
       domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/a6d53e94e9f8761fe3f1a9d04fd72da9136602de.jpeg"
-        width: 500
-        height: 500
+      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+        width: 320
+        height: 210
   - title: "Microsoft Sees Azure Sales Surge 62 Percent"
     excerpt: "There are a further 2 billion predictions a month using Azure machine learning and 3,500 new conversational agents bots created each week with Azure Bot Service. Exclusive PYMNTS Study ..."
     publishedDateTime: 2020-01-30T09:13:00Z
@@ -53,6 +53,6 @@ related:
       domain: pymnts.com
     quality: 54
 
-secured: "f+VeQ+OmVQtMjJnI8JBKDShdZLU/9QIg1cdj2bOheqKuEgR7H8bequ+oN7GGxgHbEZ/Wnsf1qwYzGv8eUxTTqOC+e+ZDweGbr/ufhUyNOjHXL4Hy7AIYicQK7MBgsqMOvfGisDFc/etwaiIbM8JbnItqeFkuUeeLlmUD6os1orJIIWb4SBf0US+I5V5tMxcVkXYhaYwvQYvfkxE6OYIlkcnBTc5N9d4XUNzhhGMx3gxjhV8CaQpMbhrnOgejR8m7RRPOqZdK21P2q2bDgIDI5HGeL6A8D/stXUenNiW+EjCXgyVbkszb17vgFyNmMIQE;/DkckDT3ufozD1ZlagS2mQ=="
+secured: "IHiCXahgT/Q+b5d2gPL/QJsokb+j7Y8m238zzvvL2vYu+vJuqNPt4IDnL9mv56lcH32ZqAyWp4HgexNvnT9+GYTgGGpz7KzPJTPxwbqH89+ICWzlihVAGD4juex4kWAXxRFkaZ3l7UrVkQn4egWdUM19jhp3MW0XKd0jBimBGh6s4Fhmy3IMsethkVprePF2N/HdSLwhoPA7/Gw9h/30a8ZKmr6ArhgACnBZhQoa1yYPPsA5tmBV6Ur3+lzXsHyIWyPy/hxtdVv09x7kTgq78lS6Yke0fE0cYDUijouBCfCTHL1x+7McZtLWFr0HylIU;qOJAlAEj9y+yiAVVHn1h1g=="
 ---
 

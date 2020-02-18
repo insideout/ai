@@ -39,6 +39,17 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/disinfection-robot-6.png"
         width: 580
         height: 428
+  - title: "China working on robot development for coronavirus testing"
+    excerpt: "according to Siasun Robot and Automation Co.Ltd. Based in Shenyang, capital of northeast China’s Liaoning Province, Siasun was founded in 2000 and listed on the Growth Enterprise Market in 2009. China has also called on the country’s artificial intelligence (AI) sector to lend their technological hands to help battle the epidemic."
+    publishedDateTime: 2020-02-05T17:47:00Z
+    webUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    ampWebUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 39
 
 secured: "YiDjvMj6Q4uRD2l1FAFB55S1sBySC0Ct+0ksqzgfse0iAScYs0rI9S6kTNFUM2A1wNqApgi+i38me1yID259z5664UmP5Dv0hA893fZVwkQtgHAulliGj10I0khb9THbGreC/YLy1Ae2nBEpA4SyNZxd+Yayg/TvrFbSedC0+GyEM1aaKE34Sag0JqnWnocWLqcVeC1wndPd8d+D9LKCmueGiDBIHhmkMeAFQflbhX30KtAnhu2SWNqmhbwdraHMEnAe/6JDlyK6g5m7t9ozQ4uzOfUb+UYdtV3IGjo1944CfgeuxY7YUWsm8sjW0/Mt;rSb4AIq7s5R5ZXfMKA9vLQ=="
 ---

@@ -39,7 +39,22 @@ related:
       - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
         width: 600
         height: 338
+  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
+    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
+    publishedDateTime: 2020-01-20T12:36:00Z
+    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+        width: 1200
+        height: 628
 
-secured: "ESu/68WN/l59ZG+DjcaNzorzFbrTH8UY9u0wcJiwd05k2fq3ZipGRRQwNZsenMs35OISx5Cgnmzcotj0YAwD+jplTy46477ikRZzGj7WupwPMZO7DI8i2AUnmOlTToA9n6E4hbq0cs1FdAAhbQpx33MhGYFlv9WCpxP5yhqM9xwxFyCfF+RyvcfrmX+sViXcSDwnOBrkw7Do9bcuTZzTp6ZyrENS4Hd/hfk5lp7P1+MIYffuwiitJEOb/+ApDWZKXYMJi9WDsbWNgYvSBz1+ZKGNRAmibi6TWnDhOSQpXlLo62o7VdB3QCBjklWvVFel;oHdz84FkQGlga2bZQ9oHSg=="
+secured: "Cn1GdiUwQE0PLJLAZhlFvM6VFM5o5AH3Vf381VAvVvyn+l7Wm6JC2B5EdOhZ2pzY3gmHSXcnKel9vDd4uovedaeuzV0H5KWiWN4Wwi2V4NE3EL38AstvGTG/84zschwaAC5IA8BS5acZdc36FtmeVipuS/cgAGRZSp1IjdBHjvq2wj2vxKSkfYur4SHzI4AH+phwlRBMg17ZdjBHgDtQKMzlrdB+22LJzTaEa2pZfuc7a5RjbduOor3zC5LeUqBnKmhPVYX6381XCJ3Ormml0FTMEH2QTHWJDg8I7rs2zWCNmsDMs4KF8XCv2aSwBK6r;6CM8ThzeRuEeYcWbx3/gTQ=="
 ---
 

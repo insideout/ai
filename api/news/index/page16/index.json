@@ -2,6 +2,42 @@
   "page": 16,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-22-facebook-has-trained-an-ai-to-navigate-without-needing-a-map.md",
+      "title": "Facebook has trained an AI to navigate without needing a map",
+      "excerpt": "The news: A team at Facebook AI has created a reinforcement learning algorithm that lets a robot find its way in an unfamiliar environment without using a map. Using just a depth-sensing camera ... Two billion steps and counting: Facebook trained bots for three days inside AI Habitat, a photorealistic virtual mock-up of the interior of a ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615078/facebook-has-trained-an-ai-to-navigate-without-needing-a-map/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/russia-953111920.jpg?sw=1200&cx=0&cy=58&cw=1920&ch=1080",
+          "width": 1200,
+          "height": 675,
+          "title": "Facebook has trained an AI to navigate without needing a map",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-22-facial-recognition-technology-doesnt-have-to-destroy-privacy.md",
       "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
       "excerpt": "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand.",
@@ -2091,50 +2127,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app.md",
-      "title": "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App",
-      "excerpt": "Taco Bell announced a partnership with artificial intelligence company Certona last week to create a more personalized experience for its mobile app users, of which there are 5 million.",
-      "heat": 183,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/",
-      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/",
-      "publishedDateTime": "2020-01-23T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F923115808%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

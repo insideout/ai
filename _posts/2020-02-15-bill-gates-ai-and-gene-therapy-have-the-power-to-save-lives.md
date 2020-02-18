@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/"
 type: article
 quality: 104
-heat: 116
+heat: 114
 published: true
 
 provider:

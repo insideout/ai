@@ -41,7 +41,20 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
+  - title: "US Army develops AI facial recognition protection"
+    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
+    publishedDateTime: 2020-01-28T09:26:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
 
-secured: "5UBat6M822q+1L3IAf9w515xvtEnXH6Z7nkyKtk6Q2Akc5Nb79YfqWqjGyy4wpa/qUX2GkXIiDX1WMLlT2LOQJalMgHZ/Jt7bHHDLdYrijJ+6iWGbQy1355UMbmeO1iG/yoIBQsExvqlOkgwZxpWXiDtuCRF6Bh2nCL0KPzy+gIfrcpp4THFy82lXs2Ds0tjL/pb85Gc7KO77GSWdcYBxSBt0fL9H5yKfXpVeQR89DqhmyPc+nwfiYhV0y9o/jICYRBXbwLS2EsQbM4PkgWe5ULollTR27gLWj2+IzeKmhHys9HH1qMj+KSC2vG8EhST;NjBe+UeapztxLF4MFxzqZw=="
+secured: "M9/NVBYqxCoE73MKfZuqHdS9sfSf75PjjPBvX/cuBljz1MUsUjrOuHx+xRhquVidftLI9qhchD5swhfr2hxQzap/V+3gUbBjaYomSGKHufkpCnSNm9r68EjVCkTokcPon0QqwHqVphxEYioLzm8/j3zWzd161MVP7FpjgiOgY/tb57U17g/KBmkhRNLCAKdMZk2svPtuV8cNSFHxXBER5AH8evzVGx6UEfHGC+m2LLoYEQhyUSclRtwTaHu8s/Lv4mAXxPxutMw1rSHh016gWrAGD47ONRdimnKDQhFin8zMxeUGibJf/bISNbUQAtRq;eJ38lx9vZxeSCotpxbW2WA=="
 ---
 

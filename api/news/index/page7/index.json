@@ -2,10 +2,54 @@
   "page": 7,
   "value": [
     {
+      "path": "_posts/2020-02-15-7-business-areas-ripe-for-an-artificial-intelligence-boost.md",
+      "title": "7 business areas ripe for an artificial intelligence boost",
+      "excerpt": "Artificial intelligence has captured everyone's imagination, but what can we expect from the technology? A recent survey of more than 550 executives from IBM finds plenty of support from the top -- everyone wants to plunge full-force into AI to increase the speed and capabilities of their businesses. At the same time, AI is still very much in ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
+      "publishedDateTime": "2020-02-15T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/02/15/211f423b-0209-4ff3-ba9b-55d939fe67e0/ibm-watson-group-photo-from-ibm-media-relations.jpg",
+          "width": 320,
+          "height": 287,
+          "title": "7 business areas ripe for an artificial intelligence boost",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-15-bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives.md",
       "title": "Bill Gates: AI and gene therapy have the power to save lives",
       "excerpt": "Technology could help cure AIDS and understand our biology, Gates says. Microsoft founder Bill Gates thinks artificial intelligence and gene therapy are the two technologies with the greatest power to change lives.",
-      "heat": 116,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/bill-gates-ai-and-gene-therapy-have-the-power-to-save-lives/",
@@ -2037,51 +2081,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-21-facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages.md",
-      "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
-      "excerpt": "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "publishedDateTime": "2019-12-20T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-138654/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

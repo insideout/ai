@@ -52,6 +52,19 @@ related:
       - url: "https://images.wsj.net/im-154475/social"
         width: 1280
         height: 640
+  - title: "AI used in the battle against the novel coronavirus outbreak"
+    excerpt: "SenseTime, a Chinese AI pioneer, for instance, is using its super computing power resources to assist professors with research on the novel coronavirus. After receiving a request for more super computing resources, SenseTime has allocated 20 GPU server nodes for free to help Luo Haibin, a professor at the school of pharmaceutical sciences of ..."
+    publishedDateTime: 2020-02-07T18:39:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202002/06/WS5e3be150a3101282172758bf.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202002/06/5e3be150a310128206500b73.png"
+        width: 608
+        height: 405
   - title: "How Artificial Intelligence Is Transforming Businesses"
     excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
     publishedDateTime: 2020-02-11T17:21:00Z
@@ -89,6 +102,15 @@ related:
       - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
         width: 1200
         height: 450
+  - title: "China using AI to battle coronavirus"
+    excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
+    publishedDateTime: 2020-02-05T12:18:00Z
+    webUrl: "https://www.globaltimes.cn/content/1178630.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 19
   - title: "Coronavirus outbreak to further strain global AI information exchanges already under pressure from tech war"
     excerpt: "Chinese search giant Baidu and Tongdun Technology, a Hangzhou-based risk management start-up, are among the leading conference sponsors along with US firms IBM, Google AI, Amazon and Apple. China’s smartphone giants cut size of contingent to world’s biggest mobile show In a written response, Baidu said 28 papers submitted by its own authors ..."
     publishedDateTime: 2020-02-06T22:56:00Z

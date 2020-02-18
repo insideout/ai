@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T00:08:00Z
 webUrl: "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6"
 type: article
 quality: 137
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -23,6 +23,21 @@ images:
     title: "Artificial intelligence finds drug that could fight Wuhan coronavirus"
 
 related:
+  - title: "China turns to artificial intelligence, data in fight against coronavirus"
+    excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 34,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
+    publishedDateTime: 2020-02-08T12:05:00Z
+    webUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 71
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
+        width: 600
+        height: 390
   - title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
     excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
     publishedDateTime: 2020-02-06T01:04:00Z

@@ -45,21 +45,6 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg"
         width: 756
         height: 567
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
   - title: "Nuro self-driving car gets US DOT's blessing"
     excerpt: "California-based Nuro has made history. Perhaps not the biggest splash, but in one small step for self-driving cars, Nuro's driverless R2 has received the first approved exemption from the US Department of Transportation. The exemption allows Nuro to operate its latest R2 self-driving car on public roads despite it having no human-driver controls."
     publishedDateTime: 2020-02-06T22:00:00Z

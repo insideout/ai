@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-25-mass-production-of-a-self-driving-restaurant-robot-is-coming.md",
+      "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
+      "excerpt": "Bear Robotics has received a Series A investment of $32 million and has plans to mass-produce its self-driving restaurant robot called Penny. The robot works as a food runner and can deliver items to a table.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
+      "publishedDateTime": "2020-01-24T19:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F43189452%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D0%26cropY2%3D2667",
+          "width": 1200,
+          "height": 800,
+          "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-25-researchers-in-us-china-use-machine-learning-to-make-better-solar-panels.md",
       "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
       "excerpt": "This is a companion discussion topic for the original entry at https://cleantechnica.com/2020/01/25/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/",
@@ -274,9 +319,9 @@
       },
       "images": [
         {
-          "url": "https://businesscomputingworld.co.uk/uploads/default/original/1X/a6d53e94e9f8761fe3f1a9d04fd72da9136602de.jpeg",
-          "width": 500,
-          "height": 500,
+          "url": "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png",
+          "width": 320,
+          "height": 210,
           "title": "Genesys Engage call center software coming to Microsoft Azure",
           "attribution": null
         }
@@ -1613,7 +1658,7 @@
       "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
       "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
       "excerpt": "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ...",
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
@@ -2113,51 +2158,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential.md",
-      "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
-      "excerpt": "Unlock new opportunities in Artificial Intelligence (AI) in Agriculture Market; the latest release from HTF MI highlights the key market trends significant to the growth prospects, Let us know if any specific players or list of players needs to consider to ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

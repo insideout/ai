@@ -20,56 +20,34 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "How Chinese tech giants are assisting in the battle against coronavirus with AI"
-    excerpt: "Chinese tech giants Baidu and Alibaba have opened up their gene sequencing AI tools to help them find a solution. Alibaba said last week it had partnered with The Global Health Drug Discovery Institute from Beijing, to develop an open-sourced data platform to track coronavirus using AI. The company has also offered its tools to other ..."
-    publishedDateTime: 2020-02-03T06:33:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/"
+  - title: "Coronavirus: China deploys robots to prevent cross-infection"
+    excerpt: "According to an engineer from Dongfulong, these two artificial intelligence disinfection machines can achieve a 6-log killing effect on microorganisms. 6-log refers to a 99.9999% reduction in bacteria. Further, more than 30 smart disinfection robots manufactured by Shanghai Titanium Robot Technology Co., Ltd. are also in the isolation ward ..."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/"
+    ampWebUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 163
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 59
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FCornavirus.jpg&signature=8530299390c2e6d973c88fd717d125ae"
-        width: 1200
-        height: 600
-  - title: "China turns to artificial intelligence, data in fight against coronavirus"
-    excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 34,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
-    publishedDateTime: 2020-02-08T12:05:00Z
-    webUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.html"
-    ampWebUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/disinfection-robot-6.png"
+        width: 580
+        height: 428
+  - title: "China Deploying Robots To Contain Spread Of Deadly Coronavirus"
+    excerpt: "Currently, these robots have been deployed in isolation wards, ICUs, operating rooms and fever clinics in major coronavirus treating hospitals, including the Central Hospital of Wuhan. China has called upon members of China's Artificial Intelligence (AI) sector to help fight against the coronavirus. According to reports, robots are being used ..."
+    publishedDateTime: 2020-02-07T14:53:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/robots-deployed-in-order-to-contain-spread-of-deadly-coronavirus.html"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 71
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 54
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
-        width: 600
-        height: 390
-  - title: "AI used in the battle against the novel coronavirus outbreak"
-    excerpt: "SenseTime, a Chinese AI pioneer, for instance, is using its super computing power resources to assist professors with research on the novel coronavirus. After receiving a request for more super computing resources, SenseTime has allocated 20 GPU server nodes for free to help Luo Haibin, a professor at the school of pharmaceutical sciences of ..."
-    publishedDateTime: 2020-02-07T18:39:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202002/06/WS5e3be150a3101282172758bf.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202002/06/5e3be150a310128206500b73.png"
-        width: 608
-        height: 405
-  - title: "China using AI to battle coronavirus"
-    excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
-    publishedDateTime: 2020-02-05T12:18:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178630.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 19
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zdxqblrfadpefqou_1581083925.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
 
 secured: "UfNSni5MLaY+Y21cmh7YBm3nd9V7l2osut/Pn1O7c77qEn+CrkohHpSw08RbSV7NzhQv1AQeE3hmvNrmtqwB3Eyh593nJdunAMI6GsMJjJT8dIhYFyQ03KaOt3c+hQhupxd2/C3GMdzzstVxvE0S/3MscNGY86pRGHcQWHGIYqcJSJqlSXTw+CTFkNrLGNVdjUwkV1VXZC7i3lKmdvflEUBVjPfpXuVRVcHVpAzAGztD6UUuctqd1TsbNpunk6SOaZXhnnqLbKAMWjPU1S1YC7OEchwn1Fucz3VpxABS/zYnCZI0iDORSENTGXgeuJAiU+3zuHdlrMFgUSKBys+1Fzx0fKG7nSrt0zYIacvIsRR5Z9TUsxOxjFsa8SH72InSYZD7RD07h7kR1WNxQ2f8kAADDYsebYE0xKvqWQp6EUy+SOfwxsSzxyeOFTjdbdH1/8OZrDPZJMUvTs0RI3p14iheT9WQ8G2NblujyDUVQzw=;kVNxnEr+SFAmJ0CSKAivLQ=="
 ---
