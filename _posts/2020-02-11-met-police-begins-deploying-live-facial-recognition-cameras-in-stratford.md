@@ -125,19 +125,6 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/eu-ponders-temporary-facial-recognition-ban_1500.jpg"
         width: 1500
         height: 860
-  - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
-    excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
-    publishedDateTime: 2020-02-04T02:19:00Z
-    webUrl: "https://www.wftv.com/news/local/volusia-county/facial-recognition-technology-helps-volusia-county-make-arrests/Q6YYQDNJQNC6RJQDW5BZU7CQW4/"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 37
-    images:
-      - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
-        width: 1200
-        height: 628
   - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
     excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
     publishedDateTime: 2020-02-13T18:50:00Z

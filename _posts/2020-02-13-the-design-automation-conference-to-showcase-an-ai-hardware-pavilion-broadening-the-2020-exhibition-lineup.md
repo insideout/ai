@@ -82,6 +82,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "OnSiteIQ raises $4.5 million to improve construction safety using AI and 360-degree imagery"
+    excerpt: "OnSiteIQ today announced that it has raised $4.5 million Series A round to grow its AI-powered safety analysis of 360-degree imagery from construction sites. In addition to supplying computer vision for risk assessment reports, the company’s platform is made to stitch together imagery so construction site managers can examine progress ..."
+    publishedDateTime: 2020-02-18T18:23:00Z
+    webUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/"
+    ampWebUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/photo-1478486982180-2de2fafa19f9.jpeg?fit=1502%2C751&strip=all"
+        width: 1502
+        height: 751
   - title: "London start-up raises $20m to bring AI to centuries-old insurance industry"
     excerpt: "Andrew Yeoman, the company’s chief executive, said his business can help insurance companies make better decisions on which customers to insure by using AI to process vast amounts of data. The investment into the start-up was led by Albion Ventures with participation from insurance technology investor EOS Venture Partners and IQ Capital."
     publishedDateTime: 2020-02-17T05:30:00Z

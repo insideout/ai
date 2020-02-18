@@ -2,95 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-11-robot-with-coronavirus-advice-hits-times-square.md",
-      "title": "Robot with coronavirus advice hits Times Square",
-      "excerpt": "Worried about the spread of coronavirus? A five-foot tall (1.5 meter) Promobot might have your answer. The robot with a friendly face rolled into Times Square on Monday to help provide information about the new virus.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "publishedDateTime": "2020-02-11T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106384789-1581430324237gettyimages-1166054633.jpeg?v=1581430362",
-          "width": 5042,
-          "height": 3456,
-          "title": "Robot with coronavirus advice hits Times Square",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-samsung-unveils-galaxy-s20-5g-lineup-with-new-camera-tech-ai-security-and-more-starting-at-1000.md",
-      "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
-      "excerpt": "The hybrid zoom's AI uses multi-image processing to reduce resolution loss at higher magnification ... the Galaxy S20 is protected by Knox—the industry-leading mobile security platform that protects the device from the chip level through to the software level,” says Samsung. The company also says that the S20 has a new “secure processor ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
-      "publishedDateTime": "2020-02-11T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-11-ts3_thumbs-833.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses.md",
       "title": "Seattle University launches public course to bring the ethics of artificial intelligence to the masses",
       "excerpt": "The future of artificial intelligence (AI) is here: self-driving cars, grocery-delivering drones and voice assistants like Alexa that control more and more of our lives, from the locks on our front doors to the temperatures of our homes. But as AI permeates into everyday life, what about the ethics and morality of the systems? For example ...",
@@ -2033,7 +1944,7 @@
       "path": "_posts/2020-02-13-intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone.md",
       "title": "Intuition Robotics raises $36 million to bring AI companions to everyone",
       "excerpt": "Israeli robotics startup Intuition Robotics has raised $36 million in a series B round of funding co-led by Sparx Group and OurCrowd, with participation from Samsung Next, Toyota AI Ventures, Bloomberg Beta, iRobot, Sompo Holdings, Union Tech Ventures, Happiness Capital, and Capital Point. Founded in 2015, Intuition Robotics is creating what ...",
-      "heat": 268,
+      "heat": 278,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/",
@@ -2153,6 +2064,97 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-training.md",
+      "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
+      "excerpt": "The oil company is expanding an online program that teaches its employees artificial-intelligence skills, part of an effort to cut costs, improve business processes and generate revenue.",
+      "heat": 198,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "publishedDateTime": "2020-02-13T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-154203/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-sony-envisions-an-ai-fueled-world-from-kitchen-bots-to-games.md",
+      "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
+      "excerpt": "“I told him it started five minutes ago!” he says with a laugh. Such was the state of AI and robotics at the time. It took a machine minutes to interpret its situation and work out what to do next. But much has changed, with AI increasingly helping machines, from self-driving cars to surveillance cameras, perceive and behave in clever way",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/",
+      "ampWebUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
+      "publishedDateTime": "2020-02-13T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e44656433fa920008cbf86d/master/pass/Biz-sonydogs-1145503656.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
       ]
     }
   ],

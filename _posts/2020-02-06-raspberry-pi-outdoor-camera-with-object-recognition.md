@@ -19,18 +19,18 @@ topics:
 
 related:
   - title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
-    excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
-    publishedDateTime: 2020-02-04T19:15:00Z
-    webUrl: "https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+    excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other... This is a companion discussion topic for the original entry at https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+    publishedDateTime: 2020-02-04T19:50:00Z
+    webUrl: "https://businesscomputingworld.co.uk/t/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education/255640"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 50
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
-        width: 660
-        height: 300
+      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
+        width: 512
+        height: 512
   - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
     excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
     publishedDateTime: 2020-02-04T11:26:00Z
@@ -44,15 +44,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-  - title: "EdSights Launches ML-Powered Chatbot for Higher Education Institutions to Help Improve Student Retention and Wellness"
-    excerpt: "SMS-based chatbot uses natural language processing and machine learning to proactively engage at-risk students and connect them with on-campus resources; already engaging 50,000+ students at higher ed"
-    publishedDateTime: 2020-02-04T13:05:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979419/0/en/EdSights-Launches-ML-Powered-Chatbot-for-Higher-Education-Institutions-to-Help-Improve-Student-Retention-and-Wellness.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "ueEmWQ5bHhcNbA6WoWZOvy5R+8+qB9wuYQTtccrwt2ZzcwHvF+tD7Booswzmx1g/uHIIXGcKxDPE253Dfj+mMaMX4n61KqL0/uGgnZugvO1Q1FlCyMDU6vDzm61z30bFaR0XNO0mLvTXxIAXR80T3uqUJ4a0B5XIxSaRF3znm0LNJB7PQVoe0xzmZdC30oCxmi0iuRh0zkjM0mzWGGGB/TA9SlVL+wrCCEAcs6CUyCGFFbnT7d0QsmVXahczGr+QiDWZUo2Q9gDaVHm6JuxMEI4jXMjf3e98CMSmyhsYYACB079ecs69mmySPy4iJLMcUNk4v9dnqweJVvDtI0Q37tCjcQWE5sizrMpq/k2onGOJdrbHhY0HgD+PB8pi3t0EpQlylpNUpLM1hCW0+6hP1oGhY8MlZ48tuHrREqYX2bl2KtE4HTCoyFLjhk8Ru02i5Fe01cMptNPg0qw6ll/BGn1UCpkg8X9ekPxwGq2k9+o=;PYA2u+CKFGMq5yrrHEivFw=="
 ---

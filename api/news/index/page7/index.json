@@ -2,87 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-17-eu-plan-on-ai-new-rules-better-taxes.md",
-      "title": "EU plan on AI: new rules, better taxes",
-      "excerpt": "\"The new ... taxes and others do not,\" it adds. Other initiatives currently being discussed include an action plan on 6G, making data-centres more sustainable and a revision of the regulation on online identification. After the EU's approach to AI and ...",
-      "heat": 177,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://euobserver.com/science/147454",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-16T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EUobserver",
-        "domain": "euobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/ed6fdf40109cab6388b14a8576373ce9-480x.jpg",
-          "width": 480,
-          "height": 320,
-          "title": "EU plan on AI: new rules, better taxes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-how-salesforce-makes-decisions-on-ethics-and-social-issues.md",
-      "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
-      "excerpt": "Paula Goldman joined Salesforce.com Inc. early last year as chief ethical and humane use officer, a new role tasked with developing a framework for making decisions on complicated political issues.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "publishedDateTime": "2020-02-17T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-154936/social",
-          "width": 1280,
-          "height": 640,
-          "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-how-the-race-to-autonomous-cars-got-sidetracked-by-human-nature.md",
       "title": "How the race to autonomous cars got sidetracked by human nature",
       "excerpt": "If you believed the early hype about autonomous cars ... have told me that it’s actually harder for a human to remain ready to take control than it is for them to fully control the vehicle. On top of that, studies have shown that even in controlled test environments, human reaction time for taking over an autonomous system is often to slow ...",
@@ -607,7 +526,7 @@
       "path": "_posts/2020-02-18-175-customers-achieve-machine-learning-success-with-awss-machine-learning-solutions-lab.md",
       "title": "175+ Customers Achieve Machine Learning Success with AWS’s Machine Learning Solutions Lab",
       "excerpt": "AWS introduced the Machine Learning (ML) Solutions Lab a little over two years ago to connect our machine learning experts and data scientists with AWS customers.  Our goal was to help our customers solve their most pressing business problems using ML. We’ve helped our customers increase fraud detection",
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "type": "article",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/175-customers-achieve-machine-learning-success-with-awss-machine-learning-solutions-lab/",
@@ -681,6 +600,50 @@
           "width": 1024,
           "height": 682,
           "title": "African crowdsolving startup Zindi scales 10,000 data scientists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-ai-at-the-edge-creating-coordinated-autonomy.md",
+      "title": "AI At The Edge: Creating Coordinated Autonomy",
+      "excerpt": "Today organizations have to deal with so many emergent behaviors that the notion of central control as the only coping mechanism seems to be receding as a dominant management model. Freedom must be doled out further from the centrist idea by creating goals,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
+      "publishedDateTime": "2020-02-18T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c3a71d035a50007749e3b%2F0x0.jpg",
+          "width": 800,
+          "height": 512,
+          "title": "AI At The Edge: Creating Coordinated Autonomy",
           "attribution": null
         }
       ],
@@ -1268,6 +1231,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-18-google-funds-6-ai-driven-research-projects-in-india.md",
+      "title": "Google funds 6 AI-driven research projects in India",
+      "excerpt": "Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques, the company said in a statement. \"We are increasingly seeing people apply AI to address big challenges. Therefore ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
+      "ampWebUrl": "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
+      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
+      "publishedDateTime": "2020-02-18T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mathrubhumi",
+        "domain": "mathrubhumi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://english.mathrubhumi.com/polopoly_fs/1.4372375.1576661380!/image/image.PNG_gen/derivatives/landscape_1080_600/image.PNG",
+          "width": 1080,
+          "height": 608,
+          "title": "Google funds 6 AI-driven research projects in India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/2020-02-18-how-ai-is-impacting-the-workplace.md",
       "title": "How AI is impacting the workplace",
       "excerpt": "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ...",
@@ -1315,14 +1315,14 @@
     {
       "path": "_posts/2020-02-18-how-ai-therapists-could-shrink-the-cost-of-mental-health.md",
       "title": "How AI ‘therapists’ could shrink the cost of mental health",
-      "excerpt": "What happens if the data is hacked? Might your record be used against you by employers, by governments? David Luxton, a clinical psychologist and an authority on the ethics of artificial intelligence in behavioral- and mental-health care, is concerned about these questions and more. “Who is controlling the technology?” he says.",
-      "heat": 89,
+      "excerpt": "Machine learning will make mental-health treatments more effective — and cheaper, advocates say “Alexa, I’m depressed.” The idea that a tabletop virtual assistant such as Alexa or Siri knows or cares how you’re feeling sounds straight out of some neurotic comedy.",
+      "heat": 91,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18?siteid=bigcharts&dist=bigcharts",
+      "webUrl": "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18",
       "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
-      "publishedDateTime": "2020-02-18T09:07:00-08:00",
+      "publishedDateTime": "2020-02-18T09:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1354,6 +1354,7 @@
       ],
       "topics": [
         "AI",
+        "AI in Healthcare",
         "AI Ethics"
       ]
     },
@@ -1585,6 +1586,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-18-the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change.md",
+      "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+      "excerpt": "Subsequent developments have moved the analysis of the audio captured by these canopy-mounted 'Guardian' devices to the cloud, where Google's TensorFlow machine-learning framework is used to identify sounds of illegal activity and adjust audio inputs to minimise the number of false positives. The AI system uses 'binary classifiers' to ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "publishedDateTime": "2020-02-18T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/28/30cb4fae-507c-4d26-b536-81823c32cbda/instant-detect-2-system.jpg",
+          "width": 770,
+          "height": 474,
+          "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-18-webinar-leveraging-ai-to-maximize-collaborative-robot-efficiency-march-17.md",
       "title": "Webinar: Leveraging AI to maximize collaborative robot efficiency – March 17",
       "excerpt": "Recent advancements in Artificial Intelligence (AI) have enabled collaborative robots to precisely execute tasks in dynamically changing workspaces, enabling operations to run more smoothly, efficiently and productively. This webinar will define AI and demonstrate how AI-powered cobots can increase production, decrease cost, and shorten cycle ...",
@@ -1754,6 +1800,51 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-winners-of-aws-machine-learning-research-awards-announced.md",
+      "title": "Winners of AWS Machine Learning Research Awards announced",
+      "excerpt": "The AWS Machine Learning Research Awards (MLRA) provides unrestricted cash funds and AWS Promotional Credits to academics to advance the frontiers of machine learning (ML) and its applications. MLRA is pleased to announce winners for its 2019 Q2/Q3 call-for-proposal cycles: \n \n Mohit Bansal, University",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/winners-of-aws-machine-learning-research-awards-announced/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T11:37:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Winners of AWS Machine Learning Research Awards announced",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -2058,87 +2149,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-09-30-face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment.md",
-      "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
-      "excerpt": "Many face detectors exist in the literature each having its advantages and disadvantages. Here we used the “Viola & Jones ... recognition task easier. For example we could use a 2D alignment ...",
-      "heat": 152,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@appstud/face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment-4bdc38d50dd1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-09-30T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/640/1*Y5Z8dUctqXo2LnLmxkZlzA.jpeg",
-          "width": 640,
-          "height": 480,
-          "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-16-waymo-acquires-ai-startup-latent-logic.md",
-      "title": "Waymo acquires AI startup Latent Logic",
-      "excerpt": "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "ampWebUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "cdnAmpWebUrl": "https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "publishedDateTime": "2019-12-16T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leftlane",
-        "domain": "leftlanenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://leftlanenews.com/images/content/2019-08/WaymoIPACE-city2_700.jpg",
-          "width": 700,
-          "height": 449,
-          "title": "Waymo acquires AI startup Latent Logic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

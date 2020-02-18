@@ -28,6 +28,6 @@ images:
     height: 658
     title: "Aisera, an AI tool to help with customer service and internal operations, exits stealth with $50M"
 
-secured: "cAMWSxhTjFKf6xhVrpakpoAIQbTRsKCy7CJKj/GjoTUZSeNkt+RyCe48u858BBGUpijYpRhWmvNvr1VFCDp4ZYtt+q4vGt48tOWSFS5SfD5UPMOIcoS7BqzxdkJjVkGDd85H4Es60y8rqnjjpeKcmu4fXpF12IlSl6Z+HcXpuZNw92qVz3kJCrzJf5Zvh5870uD97k1h2FQ+NU9tmnKTvL8yugiGgwjbSRQcvjr0+/oUUCmG+yT6iIhW0noA50F5LUqR2oQpoLEJln2RHSY+FPN6eL7RTiLHq198AJ/uzb+Sonxjc7npyfQ26Pb5hKeL;fdO7cDIypsUk+72/YKGcIA=="
+secured: "TDK4CDAdyNIlxPLq1no5mQTVRJegokqubi/r6FtI8hLmVfHS+HO1bebHLMozOTaqcIY5vkSC5RpqodiJdcpb+OuAnA5puWlnFKIjP8dfs+BE21TyGQ8baNYFJRLgQ1RwIrAOi95+9qSrZ71igurhauMdiAAgnHESPgXMZV3XSYAV6YtCsAJdDaZTDTxQn9pWiYakD37XfPbvIA6uxRQdJ5YyB3Qw//CjBS/kCJjrbqo7VYkb3HDMnLiL6cO/+43+mLd1/PBLJhfF9vUnXSe7FPJ4+bpTz5h6A6De+ZsXdN+W6Km0/xXOfsiaOBtLXdCRe/ymmWtlBtf0lj2V+Q/y/6bblXy8KwvB42r0vm3n4mJvPIqCDTPfV5ucW6i5+GnHLstZhkCWThFqL5F7HOMHQ1xdMLCCzEb9wGXwqTSbfLgo5X1XQkF3bo5OrFw9tsHqGlVyvpFUa5IIBDtOXpXKnZtkdp8+GoLcvXqGGtzwaX0=;fZ4H0eNCZmcgGztuZBRNdg=="
 ---
 

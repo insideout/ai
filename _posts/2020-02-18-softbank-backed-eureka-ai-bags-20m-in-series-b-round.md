@@ -34,6 +34,19 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2020/02/gumgum.jpg"
         width: 400
         height: 400
+  - title: "Aisera Secures Series B Funding, Led by Norwest Venture Partners, to Transform the Enterprise Service Experience With Artificial Intelligence"
+    excerpt: "/PRNewswire/ -- Aisera, the world's first AI-driven platform that automates tasks, actions and workflows for employees and customers, announced today that"
+    publishedDateTime: 2020-02-18T18:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aisera-secures-series-b-funding-led-by-norwest-venture-partners-to-transform-the-enterprise-service-experience-with-artificial-intelligence-301006598.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "9hCycfZzC+VmhrR/F2PthPbiJxUibljEMvSnLGYNUyM+xRgF3fLTYAIGNL1oRIiiHkZo438+A4Qlh2HgwUsEO2PJi1+DX2RQ+Nk1gHnnLcF4x7rBvj2ah+fm+i2CZsrsISQ2TMokiOcs5ClDPSVdV3ITzHdWbG30Q/b1FkwG/cDuE2OVkJsJ/G4fGsrsMc2p/FXck2lrsU0TSyt/xwnZQKnclieNXs5gLZdg29XmiDCEzOwaBMFiIEYIfILvg4CE8IV5ol3Q5plys0CCbcPX6j0MYxcQCvksnSRTzdc9kWs+sQsNL2qPFoDQQB1w2hC/2gg3uuOgBgdXWT54bWxAjaFjqH2sYiKCx3VOsUBsyuL1TU+8VRnsQ3Sh1jIbXn1YBJzr4YtcsfNL/xh7v4Y1GCeJQhYFoolbEGfmFCZmUlJ/z8eZd98H+yywCqxZKtw8CpitcTr7yJhZijwsaIHirWfftOdiAm/tky8GkGXuM7E=;MLHgcBpMLfb5BMzyCeortQ=="
 ---

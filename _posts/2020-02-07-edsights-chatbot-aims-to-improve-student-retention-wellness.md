@@ -23,6 +23,17 @@ images:
     height: 550
     title: "EdSights chatbot aims to improve student retention, wellness"
 
+related:
+  - title: "EdSights Launches ML-Powered Chatbot for Higher Education Institutions to Help Improve Student Retention and Wellness"
+    excerpt: "SMS-based chatbot uses natural language processing and machine learning to proactively engage at-risk students and connect them with on-campus resources; already engaging 50,000+ students at higher ed"
+    publishedDateTime: 2020-02-04T13:05:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979419/0/en/EdSights-Launches-ML-Powered-Chatbot-for-Higher-Education-Institutions-to-Help-Improve-Student-Retention-and-Wellness.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+
 secured: "bV1Y080KwQn4igxP4pH9zQgXGc4XwgMHQUkqbPTOLYbrvxTJrIGEwmOJkntYEUrSn2uuxn9AhdwFvn4VKZCMas7DwmNn8v094uoxh79UsoffrGWPYmN2mZv5FZ8SqI2pd8n9qrlO337Iitj0z/6ZxCgaYuvLyfGUTKI0I+rE57oNumdtlcr9xuUVjIaEHhBnAFA0SUgbUTV31nQ3WPsxckls+VVyuZeGUqLBVLQdNJ7MOEF04keLR7fUB/CKAIow47EtS4SeBMMzLFIP0QPGwwaHS6EGHs0eFSVZWqGa8PXNx6mfqKsTGPD+KoVn8kJL7uPbRcPInOxOvjdnfr8LEWuv29Ge3iQJl+xPOgHMCyo9KJToY2j4HG29uiQDjxTDeFQIlj9UfAhd2guH2Y6gm0nu7G69MHYu4rJuXKLd6wwo0XpgYODuIgXlc6mV+LuUUlnvcbwPfuAS+zgtKV1t/Fkok2vI1dkVwlP7zvnffiY=;ZY/wYvzwDRltFUQHFnRppg=="
 ---
 

@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
-    excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
-    publishedDateTime: 2020-02-04T19:15:00Z
-    webUrl: "https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+    excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other... This is a companion discussion topic for the original entry at https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+    publishedDateTime: 2020-02-04T19:50:00Z
+    webUrl: "https://businesscomputingworld.co.uk/t/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education/255640"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 50
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
-        width: 660
-        height: 300
+      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
+        width: 512
+        height: 512
   - title: "Raspberry Pi outdoor camera with object recognition"
     excerpt: "Technology enthusiast and environmentalist Paul Kinsella has created a new rugged Raspberry Pi outdoor camera that can be powered by a standard 5 volt micro USB or via the company’s 24-36 volt vehicle powering system. Enabling the small outdoor cameras to be situated almost anywhere thanks to their rugged shell. The Raspberry Pi camera lens ..."
     publishedDateTime: 2020-02-06T11:27:00Z
@@ -46,15 +46,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "EdSights Launches ML-Powered Chatbot for Higher Education Institutions to Help Improve Student Retention and Wellness"
-    excerpt: "SMS-based chatbot uses natural language processing and machine learning to proactively engage at-risk students and connect them with on-campus resources; already engaging 50,000+ students at higher ed"
-    publishedDateTime: 2020-02-04T13:05:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979419/0/en/EdSights-Launches-ML-Powered-Chatbot-for-Higher-Education-Institutions-to-Help-Improve-Student-Retention-and-Wellness.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "VrTSZVi+LDKYNjFjv9tWRtoJys0zE6tREix+dZfyRY5kUwuWOjPFo3WwozUPYmi9UpiP+neru1W7J4EPjS19y4Lbvc+9q/zqBTmGTEwAa2eiAm2vCW4CSCVPIX3RhFkqqvZ1kXTofRQqXPgbvrkx0R8r/RLRr6kk7Ys04nheNXZ11rlAyih+MezMu50Rsplg10oiBJO3hCxA8/hZRxpS1FEvDzGEEBPy/VF7Zm06U5ZglO+MbQqwkCp7n6F01RtBkfqfM0Imom0CFMsUuFYaU8gtbQtnlb/KJ3EB89e5eCvkxeceI31qtDKL/47wKWhW;S+u5dHKwbbApM/Rvx/bZ6A=="
 ---

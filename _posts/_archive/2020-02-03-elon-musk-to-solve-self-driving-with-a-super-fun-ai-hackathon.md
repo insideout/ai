@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Elon Musk to solve self-driving with a ‘Super Fun’ AI hackathon"
-excerpt: "Invitations going out soon. This comes on the heels of last week’s fourth quarter earnings call, where Business Insider reports Musk admitted Tesla was at least a “few months” from rolling out “feature complete Full Self Driving” (FSD). There’s a lot to unpack here, so let’s start with the timing of the party announcement."
-publishedDateTime: 2020-02-03T20:18:00Z
+excerpt: "And then we will need to convince regulators of this, so there are some steps along the way… But as I said before I’m certain we’ll release full self-driving this year. Musk back-tracked on ..."
+publishedDateTime: 2020-02-03T20:08:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/02/03/elon-musk-to-solve-self-driving-with-a-super-fun-ai-hackathon/"
 type: article
 quality: 69
@@ -27,6 +27,6 @@ images:
     height: 417
     title: "Elon Musk to solve self-driving with a ‘Super Fun’ AI hackathon"
 
-secured: "nqGjb/xj9gcvcXcvdd0CKTVG7SRVM5OpNs3NiPIy3hvoA2J1BkPeILz2bSVHyW2DFKy7HiFN8JHroAG+xtAH+UeExFuxwOfDHSJow8yGNvA39HDOIyW3ARNYFNQBA6NbUkeizLvuiypVhlvelRI6fEWnS/SfSNGF4aCbUYw07WxTtSuTeGU9I7p8xxL8sqc2rX97uXZBtYlNfJSQEwUHo9IJML3WeuUMUxS384b+ZmVKzaK87L4e7JxzucYa3on1pI+phXrYVsJsb4QkcKUAdpWN1Q117MoyDYRFBeYNFQI7ObtjsYbxhup/YoidpVJNuJU4qG65oX/1QujRI6839RHB+H5PTEKXSCFH91PaQznRlQZfSf4a/AXb5NBc0WukHd7fLEx19qVc5+XuWdOqNRK4ov2SpRHF+ht61Q3FbhVRmyaj+xMrTcHJPF7PSwpalmik5oFLql2b9Ag5TKtR09jyPSTsnICOtqUQP9rl+WE=;/q+k+/9BtZq/Ro/dOr2YUQ=="
+secured: "Z9+VGYSzvJmn3ZOlUjSrXlrK9Y4DhqasTVyH2jWL1vs6fwuRQtVhvLwOTE8P10yXW12FP8jRtsk7ZYQVNSJSxSJheOLaZ1g6qdy9nY2/2fhttqlc1RurWJ5F2EfrnnsFvk6BuMPLOMJv8Wbf8ywErfp7/afG5cDMQEtZ3KU8QGKWzG896h8VEisL5hY6td3hVVYAOgzF1ohoosrA4ow5KaR3Wti6QSBfVCTnfSmHewO+se2DdijEg9cKZSZe7yj5CTCt8jGOXR+/iKxPMgwyLEXuifmEI+3XFTePW/Hkq9etwKzj0AiFnHpopICPJTbH;Tm7jesEcxSJfveqLrE7VhA=="
 ---
 

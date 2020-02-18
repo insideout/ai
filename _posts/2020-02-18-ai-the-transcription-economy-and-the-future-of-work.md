@@ -20,6 +20,21 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Evening lecture: AI and the future of your mind"
+    excerpt: "Susan Schneider, NASA's Baruch Blumberg Chair of Astrobiology and director of the AI, Mind and Society groups at the University of Connecticut Humans may not be Earth’s most intelligent beings for much longer: the world champions of chess, Go, and Jeopardy! are now all AIs. Given the rapid pace of progress in AI, many predict that it could ..."
+    publishedDateTime: 2020-02-18T18:36:00Z
+    webUrl: "https://www.newscientist.com/science-events/ai-future-mind/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/01/17111309/istock-871148930-for-nscom.jpg"
+        width: 2000
+        height: 1125
+
 secured: "0Yb94UNkw9NTwMM/gY29LmGVUui6xqCBICnFMDTzCXOAcSgNlwWcSjiVEDkP7cZ9Io0xBKt3p5xmqz8czP0t+v6tM2hAT+KUaLv37RecTYg6zbWdZHuKPfQZXePKmO1qiRWuffCMTGsS55PiKfCQIqEaz+KoL36AcO3LlEAcm7Xm6xlMVdZZjIx8zeuynMNj7s0i4F07yN1gm3kpOnPrg63v/j29TGNWaV4aNxTWUrYStvbbFAcTdB77R/TiH3YoHqdlGd3C1ZPKuxGcy44nUBziIFoPzcFYvDXcUTKAEQEAHwUXX56C1tIyiWjOImeypKXz9aQraQ9uoQpnf7kkcRBG+ctcWEkearUmTOIuhsw6Ukdn5F4F29L2CU8vjad4njglSR4igfkGG6nsbR5vuby8MrldAhGIr0iCC6X8gSeaJPl3IuyK7y/XNpwV/rFDKotUc2BF9xsTr8CnjeDKGYNhMO58qM09Mn4Q8BMLMf8=;IaRAApBrN8WQeWF10nnQ8Q=="
 ---
 

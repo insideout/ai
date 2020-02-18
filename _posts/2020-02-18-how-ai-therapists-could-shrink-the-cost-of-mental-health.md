@@ -1,14 +1,14 @@
 ---
 category: news
 title: "How AI ‘therapists’ could shrink the cost of mental health"
-excerpt: "What happens if the data is hacked? Might your record be used against you by employers, by governments? David Luxton, a clinical psychologist and an authority on the ethics of artificial intelligence in behavioral- and mental-health care, is concerned about these questions and more. “Who is controlling the technology?” he says."
-publishedDateTime: 2020-02-18T17:07:00Z
-webUrl: "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18?siteid=bigcharts&dist=bigcharts"
+excerpt: "Machine learning will make mental-health treatments more effective — and cheaper, advocates say “Alexa, I’m depressed.” The idea that a tabletop virtual assistant such as Alexa or Siri knows or cares how you’re feeling sounds straight out of some neurotic comedy."
+publishedDateTime: 2020-02-18T17:05:00Z
+webUrl: "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18"
 ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
   - AI Ethics
 
 images:
@@ -29,6 +30,6 @@ images:
     height: 501
     title: "How AI ‘therapists’ could shrink the cost of mental health"
 
-secured: "NNpjOKMRa6E4S2Fgk7wIoAQdw8oWEQYSltbyBA9gb3yIoKnFq2/99hSI7235/nFiQjF8vlDwjlzVOb8raogi6uAWwPGTFJNUh+1mju4/L/f8CXzGY7xHSYKdW5DiRvcQLvmN8FrAA429qZrO+1CAbpFPGBQjQhXM4bfK74atE05FRWuPCpG54rfzgDoJmXKq9qvdrhhMbtRoX3aWLIuOnX1sdis94Quqr613JIRk1QvSBqPhoASdZmpEHnWnc7P7OBjFWBSa7vp7XagZQPeQs/luYBmkJfkD8dV+IZUHwd+oX/kSFgyun2f1N3ed5VNC;wM278k1qtw17oY0iQDgLHg=="
+secured: "Y9EfkSL7MBr6Lr9x05L/WuqRkEvBgwteQZr7tYJMRCQnXzRjWxe4ZEqwE/KvgBDBRW4gpWcRWnnkzE3I9M4Tcf7o5UbSewXRvB7Hs4BoiPu8u38IdaAne6SEIi9uP46tcMBF6QzsYNu98CEu4I8I3J9m8ZbdqlFSbxjQfFlPZJ2n0od7sMepz3Hg8PpZANJRBCwSiw05el7ueuiBWszSHC2pAvnu0f/JPtshIl6GcX6P0af0i8JCaYg55zun2KHYc4AxvKtnGWYilJZOIRqwt0ReuX2eivhk5yYXyYMPRvQa6sLDC3vv2HJk8XR791Uq4c598O9srFsaPSSmuWNR7Z6lCra6NHqk0zbMVtDM1urFlIAPt1wtwsZsLdHgj6U1rRVMQ6WT5KnNciIeczjWl/Wb9vVdh7GHzYxbDV3fLPsNcOMFIbAs6VVwoS1aDuTdLZmjosWY2nEJUbzJM1fTYuaijKKc4/4rGE47aB3XHF8=;aWGsJigajA5Zq4Yt6RzC3g=="
 ---
 

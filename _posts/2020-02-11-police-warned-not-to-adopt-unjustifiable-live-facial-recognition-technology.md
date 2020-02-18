@@ -84,6 +84,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
         width: 600
         height: 360
+  - title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
+    excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
+    publishedDateTime: 2020-02-05T17:43:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 57
+    images:
+      - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
+        width: 1280
+        height: 720
   - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
     excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
     publishedDateTime: 2020-02-06T19:08:00Z
@@ -114,36 +129,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
         width: 1400
         height: 1050
-  - title: "Springfield City Council: Moratorium on facial recognition will protect residents rights"
-    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council took second steps on the moratorium on facial recognition technology at Monday night’s meeting. Facial recognition technology has been discussed for months and has been a polarizing topic between the City Council and Mayor Domenic Sarno and the Springfield Police Department."
-    publishedDateTime: 2020-02-04T01:38:00Z
-    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/"
-    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
-    type: article
-    provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 50
-    images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-  - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
-    excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
-    publishedDateTime: 2020-02-04T02:51:00Z
-    webUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 44
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
-        width: 2016
-        height: 1512
   - title: "Facial Recognition Technology Uses at Homeland Security Department"
     excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
     publishedDateTime: 2020-02-07T12:41:00Z

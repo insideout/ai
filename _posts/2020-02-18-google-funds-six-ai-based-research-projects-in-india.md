@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/google-funds-six-ai-ba
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-funds-six-ai-based-research-projects-in-india/amp-11582016278056.html"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Google funds six AI-based research projects in India"
 
 related:
+  - title: "Google funds 6 AI-driven research projects in India"
+    excerpt: "Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques, the company said in a statement. \"We are increasingly seeing people apply AI to address big challenges. Therefore ..."
+    publishedDateTime: 2020-02-18T12:30:00Z
+    webUrl: "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361"
+    ampWebUrl: "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361"
+    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361"
+    type: article
+    provider:
+      name: Mathrubhumi
+      domain: mathrubhumi.com
+    quality: 59
+    images:
+      - url: "https://english.mathrubhumi.com/polopoly_fs/1.4372375.1576661380!/image/image.PNG_gen/derivatives/landscape_1080_600/image.PNG"
+        width: 1080
+        height: 608
   - title: "Google banks more on artificial intelligence, funds six AI-based research projects in India"
     excerpt: "Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques."
     publishedDateTime: 2020-02-18T06:40:00Z

@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation"
-excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Carrier, a leader in heating, ventilating,"
-publishedDateTime: 2020-02-05T13:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation-2020-02-05"
+excerpt: "and AWS’s ML and artificial intelligence services to allow those systems to learn from users’ habits and adjust automatically to improve efficiency without sacrificing performance. For instance, a smart climate control system that processes data from linked sensors throughout an office tower could be used to identify occupancy patterns over ..."
+publishedDateTime: 2020-02-05T14:57:00Z
+webUrl: "https://www.businesswire.com/news/home/20200205005243/en/Carrier-Selects-AWS-Preferred-Cloud-Provider-Drive"
 type: article
-quality: 43
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20200205005243/en/771407/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    title: "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation"
 
 related:
   - title: "The AI Eye: VSBLTY and Energetika Propel Safety in Mexican Municipalities and HVAC Giant Carrier Selects AWS for Digital Transformation"
@@ -45,6 +47,6 @@ related:
       domain: telecompaper.com
     quality: 13
 
-secured: "wmZYFbPIdy2KCeLr9GiWQLLkfTxDpTfG3fpGRdLjGNqXRB31qNU4CXA6tbpA3RDifNdKl+9r1oOnL+Q+i1bg6DLP217T+nvA0RJ3kyVX/1GJ9qVR6xwXPKm+4+T5jXliRIioYMYTg0Wy+Dcr27Joxn2dOhs6DjvqFxTZCkjw7DiZyP9ajySjtvFPuhC2F74QuIhaXPa823BH8CSHnB+iLHgL3yvsr4EIUIxndTZeSOGtm/uH+UmQFziFk/AvL2a/6O32v+3fb6kSzeAU3Jef09sMeiPcTV328GxdUXLqF53eaZ4MHJJVLP4JW7sC5H6j;DEi73ec2KwdxjhypZCvDCQ=="
+secured: "kg7iMWv+PCPAJFnhRS6UYHv9iVS76oHTg7OQW3JNiL63uC/dwuz4AYazJ251lwExgpWomU9R1mdacrrdq+4aVJxO1RHJSnovGQiVzMzeBNYWzIRaoXOrquxeJbeRLarxXI1o2w+KN+LMZTrzUPK/HwMY8eN6oXBhMhVhYIitWb15H0mtPOnqLpSzRFlYVnrXela2nWNc2Nvopk8to89ayF6rkmf66b+xTbLUqXImVZTsy+noYP+AQvBk4zOEoue5iolgRnYzLJec1RXlkotLCFyaXqBkrNcYcldjnKlQ2tTmWfQWWZ/ZdW8Ig2zytLna;vwwWSEOS4CQ5gwSYfx3rJw=="
 ---
 

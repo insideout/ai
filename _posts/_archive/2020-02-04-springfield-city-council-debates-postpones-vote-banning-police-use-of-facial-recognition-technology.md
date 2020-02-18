@@ -116,21 +116,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
         width: 1400
         height: 1050
-  - title: "Springfield City Council: Moratorium on facial recognition will protect residents rights"
-    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council took second steps on the moratorium on facial recognition technology at Monday night’s meeting. Facial recognition technology has been discussed for months and has been a polarizing topic between the City Council and Mayor Domenic Sarno and the Springfield Police Department."
-    publishedDateTime: 2020-02-04T01:38:00Z
-    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/"
-    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
-    type: article
-    provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 50
-    images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
   - title: "Facial Recognition Technology Uses at Homeland Security Department"
     excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
     publishedDateTime: 2020-02-07T12:41:00Z

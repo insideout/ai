@@ -83,6 +83,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "OnSiteIQ raises $4.5 million to improve construction safety using AI and 360-degree imagery"
+    excerpt: "OnSiteIQ today announced that it has raised $4.5 million Series A round to grow its AI-powered safety analysis of 360-degree imagery from construction sites. In addition to supplying computer vision for risk assessment reports, the company’s platform is made to stitch together imagery so construction site managers can examine progress ..."
+    publishedDateTime: 2020-02-18T18:23:00Z
+    webUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/"
+    ampWebUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/photo-1478486982180-2de2fafa19f9.jpeg?fit=1502%2C751&strip=all"
+        width: 1502
+        height: 751
   - title: "The Design Automation Conference to Showcase an AI Hardware Pavilion, Broadening the 2020 Exhibition Lineup"
     excerpt: "AI hardware is driving the largest wave of chip-design activity in decades. Understanding and harnessing the enormous computational and application potential of AI is fertile ground for new ideas and startup providers. Converting these ideas into working hardware circuits and systems is the core value of design automation, and the major ..."
     publishedDateTime: 2020-02-13T16:34:00Z

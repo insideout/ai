@@ -29,14 +29,18 @@ images:
 
 related:
   - title: "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation"
-    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Carrier, a leader in heating, ventilating,"
-    publishedDateTime: 2020-02-05T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation-2020-02-05"
+    excerpt: "and AWS’s ML and artificial intelligence services to allow those systems to learn from users’ habits and adjust automatically to improve efficiency without sacrificing performance. For instance, a smart climate control system that processes data from linked sensors throughout an office tower could be used to identify occupancy patterns over ..."
+    publishedDateTime: 2020-02-05T14:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005243/en/Carrier-Selects-AWS-Preferred-Cloud-Provider-Drive"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: Business Wire
+      domain: businesswire.com
+    quality: 33
+    images:
+      - url: "https://mms.businesswire.com/media/20200205005243/en/771407/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
   - title: "AWS selected by Carrier as preferred cloud provider to drive digital transformation"
     excerpt: "Carrier will use AWS’s IoT services, such as AWS IoT Core, IoT Analytics, and IoT Events, to connect its products into intelligent systems, and AWS’s ML and artificial intelligence services to allow those systems to learn from users’ habits and adjust automatically to improve efficiency without sacrificing performance. Carrier will also ..."
     publishedDateTime: 2020-02-05T17:43:00Z

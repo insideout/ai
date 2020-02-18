@@ -33,6 +33,19 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 47
+  - title: "Aisera Secures Series B Funding, Led by Norwest Venture Partners, to Transform the Enterprise Service Experience With Artificial Intelligence"
+    excerpt: "/PRNewswire/ -- Aisera, the world's first AI-driven platform that automates tasks, actions and workflows for employees and customers, announced today that"
+    publishedDateTime: 2020-02-18T18:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aisera-secures-series-b-funding-led-by-norwest-venture-partners-to-transform-the-enterprise-service-experience-with-artificial-intelligence-301006598.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "dj9u8LFMriOjJ5+dNXOg1MPtIUgJtwtnl31BjHETCJzsNcUisu7sCmc8QM9VCbr6aQX3aUCMtQTZx0Cjt4tNeg8bV2YrM6V2pGg8Sr80I2a4XMaBJYEn2GhV7IC7/iZMSO6Al7kofUr4fuCUEO25/gOZSCGNTNOP3jZDWyxnsoS4U2im0qP/TWcRlX6JkdC377GVDsT5CKGttfYA/anDfGzCBgcL1PN7iejr2y1XsDmKBwEzSMUr3x4rZB9HXLWWK4d5I8UAiF8TO73hmLu2oYGzPMrZQ7VAG5qzjbG4Ia4eXHWKOaaL95XAgag90Cu9Lr+c7iUAwrLjEN6RSZWqWs1oH/MvPyaIAyQWLr+amvhn8mPF72dpwVhQfxQq82N6e1Gizg0NOS8iUou5JXdmJkkxoSUmFVHYg1oS0U++rqWvoQrL8If0wH2sk/M2HxQ03F0Eppgry1kD9jFZsqcHgWFr0G8G69doaWuGfnW5jow=;/SSCg2ku8osTLhH11myuig=="
 ---

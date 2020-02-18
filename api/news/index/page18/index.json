@@ -2,6 +2,95 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-24-london-police-deploy-real-time-facial-recognition-cameras.md",
+      "title": "London police deploy real-time facial recognition cameras",
+      "excerpt": "(Reuters) — British police are to start operational use of live facial recognition cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog. “The use of live facial recognition technology will be intelligence-led and deployed to specific locations in London ...",
+      "heat": 729,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/",
+      "publishedDateTime": "2020-01-24T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1074319518-e1579876576621.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "London police deploy real-time facial recognition cameras",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-24-probeat-why-google-is-really-calling-for-ai-regulation.md",
+      "title": "ProBeat: Why Google is really calling for AI regulation",
+      "excerpt": "On Sunday, the Financial Times published an op-ed penned by Sundar Pichai titled “Why Google thinks we need to regulate AI.” Whether he wrote it himself or merely signed off on it, Pichai clearly wants the world to know that as the CEO of Alphabet and Google, he believes AI is too important not to be regulated. He has concerns about the ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/",
+      "publishedDateTime": "2020-01-24T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: Why Google is really calling for AI regulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-24-qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project.md",
       "title": "QUT to use AI and ML in Gold Coast future waterways project",
       "excerpt": "QUT said its research team will use advanced machine learning and statistical methods to estimate the number and types of vessels using the waterways. See also: How AI and drones are trying to save the Great Barrier Reef (TechRepublic) In combination with information on marine incidents and weather conditions, QUT said it will establish usage ...",
@@ -1002,7 +1091,7 @@
       "path": "_posts/_archive/2020-01-27-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
       "title": "AI can help cancer patients start radiation therapy sooner",
       "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ...",
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
@@ -2098,96 +2187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
-      "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-      "excerpt": "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "publishedDateTime": "2020-01-27T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png",
-          "width": 1200,
-          "height": 763,
-          "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-this-entrepreneur-is-helping-smbs-embrace-technology.md",
-      "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
-      "excerpt": "“We are an expert Azure managed services partner, driving the cloud transformation for over ... analysis services, artificial intelligence, bots and machine learning,” Richard said. Founded in 2012, G7CR Technologies counts brands such as Alibaba.com, Amazon, Digicert, Microsoft and Softlayer as its global technology partners.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/345546",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345546",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345546",
-      "publishedDateTime": "2020-01-27T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200127105642-DrChristopherRichardedit.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

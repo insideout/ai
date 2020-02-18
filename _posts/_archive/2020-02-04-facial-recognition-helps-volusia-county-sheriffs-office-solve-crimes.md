@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fox35orlando.com/news/facial-recognition-helps-volusia-c
 cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/facial-recognition-helps-volusia-county-sheriffs-office-solve-crimes.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
         width: 1280
         height: 720
-  - title: "Hardin County animal shelter using facial recognition technology for lost pets"
-    excerpt: "Users will be able to search the shelter and surrounding areas to find missing pets, locate the family of a found pet or search for adoptable pets."
-    publishedDateTime: 2020-02-04T02:03:00Z
-    webUrl: "https://www.wlky.com/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    ampWebUrl: "https://www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    type: article
-    provider:
-      name: WLKY
-      domain: wlky.com
-    quality: 55
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
   - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
     excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
     publishedDateTime: 2020-02-04T11:05:00Z

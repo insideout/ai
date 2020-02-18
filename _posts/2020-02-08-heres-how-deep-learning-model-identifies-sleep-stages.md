@@ -35,21 +35,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-73923466/videos/news/new-deep-learning-model-identifies-sleep-stages.jpg"
         width: 1600
         height: 900
-  - title: "New deep learning model enables automatic sleep staging with high accuracy"
-    excerpt: "A new deep learning model developed by researchers at the University of Eastern Finland can identify sleep stages as accurately as an experienced physician. This opens up new avenues for the diagnostics and treatment of sleep disorders, including obstructive sleep apnea. Obstructive sleep apnea (OSA) is a nocturnal breathing disorder that ..."
-    publishedDateTime: 2020-02-04T02:39:00Z
-    webUrl: "https://www.news-medical.net/news/20200203/New-deep-learning-model-enables-automatic-sleep-staging-with-high-accuracy.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200203/New-deep-learning-model-enables-automatic-sleep-staging-with-high-accuracy.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200203/New-deep-learning-model-enables-automatic-sleep-staging-with-high-accuracy.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2020%2f2%2funiapnea_image_730a5138131e4b5081c7d79fd1008a6b-620x480.jpg"
-        width: 620
-        height: 480
 
 secured: "+eCUjXGvguer2/Adlnko50S+1ko33KntstLiWrqX5nqaFJWvwnY3n6o73rVQMwXY3KnR0xjXFhxXrzWlkQnIFaxIT39sarVxSbVb7IMSujtYOo7MphWAXbxI2yJ0pc75Jh9U3RJqTdxe1WLBcjjIl3DoM1Emfo0EheE6/+vLj1fGuQzZUrzgmLPNcvFI/OYzfCSIGV4C6zw1Nq/xCBXsxr/cLmVPOk4eEpslQay9NWOiEFfSLLKIJKCS+9ub8QG30OkFgsL2LienoLliyHZL1mvyo8K/sXcTbRBLAk5Pa1mS9f4dI5lFLijiIAo49InKGy6+8YLa4TGLh4cVDD7O0awAbJY1xhMZKXlLwbh43n0ryqW+w8h+B5uVASFnqR8QkdkGJsIrWa85yJlHOqyiUu7AzuwROq0Z1Id2VnrjeoEdSCc8TxOWEEDGVGNt6gOXcE7V6vlAulZLOBnoJ9GNAy3C1tjikTE+l5hEgRY2RNM=;rNOqKK9gmdN2E8olAMDoeQ=="
 ---

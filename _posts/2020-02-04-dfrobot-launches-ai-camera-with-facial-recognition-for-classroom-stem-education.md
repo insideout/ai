@@ -1,26 +1,26 @@
 ---
 category: news
 title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
-excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
-publishedDateTime: 2020-02-04T19:15:00Z
-webUrl: "https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other... This is a companion discussion topic for the original entry at https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+publishedDateTime: 2020-02-04T19:50:00Z
+webUrl: "https://businesscomputingworld.co.uk/t/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education/255640"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: BCW
+  domain: businesscomputingworld.co.uk
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
-    width: 660
-    height: 300
+  - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
+    width: 512
+    height: 512
     title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
 
 related:
@@ -46,16 +46,7 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "EdSights Launches ML-Powered Chatbot for Higher Education Institutions to Help Improve Student Retention and Wellness"
-    excerpt: "SMS-based chatbot uses natural language processing and machine learning to proactively engage at-risk students and connect them with on-campus resources; already engaging 50,000+ students at higher ed"
-    publishedDateTime: 2020-02-04T13:05:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979419/0/en/EdSights-Launches-ML-Powered-Chatbot-for-Higher-Education-Institutions-to-Help-Improve-Student-Retention-and-Wellness.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
-secured: "8U6xeUy3qEbpC4zNTIHeL6E7g5Sg9QJEmOfhUFWzqqrYuXz6VDltub6V0k+7jUK9J1gi+HDusLnOJp9dyfMv40Ltc8hHHIFnNG5uB7b/aKI7ZKHQvh+xyWB3zi1SRoJAKOhwucP7zi52ygzUeEe7jb8Da+pgN5GV4WjT0zRSOEmeFWU6V2ophDh2e9IUHB6e9gkpmSfHVPMmu1crPKf+BNX/F76HICkumG28+VOUz/hEZI1DJ53rDi+yvEaVlNAQW2quVxAPzykT+Pv0QpacD63Fd0tZ0t7dahVePnSFrjkcAfQAjHZ8Rd6jyVaY/QjJrPt0ao69m76nCGFC0f8tnTyGEXomarRyTqjJQ8ldEuz3nLyxVVDapJNfzgou74FtNJB15WsomuidCJJaZVmUfhO/8nsWBTtHEtLZcBtCx9sPDavUvQCihwtLCLY88bu3ebwwVXd871m/INeS97Xggy6BvomQx4rUQcxCH67wpeQ=;mOBPe+9bnwMjEtvqH1/0cw=="
+secured: "jJA+ev4oemJflh6Z8svGm9RVaQLHZNjEaggM+3CK6LX/MyrC+WZOs0ecUs4l/MmZtDS/5L6j7sdXUUAAdYytlKNhx2dqIeUrUK4TsyAL6+lYlm2hW//s/kmuDpso3AfcwgyG5eEeD/UBQfzHd/3Q5ulTVQRm42AkFqZ9/xr/cteCl4ApZRWCmh2edoo8oDKWowqRMa0r+I1l01qYRY1vcYm00kbx3uHdCMuxdbQTYKa8OzWnfXAnmvwevuPU6KmDjPF72RaD3F0Q/2GUHANODCjx8CbQ6FzVJN4dym/YnjL7ED3JPv3JppVxjFLVpuk7;sjBQ2CrLxi7OvQ7siDAr7g=="
 ---
 
