@@ -39,19 +39,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/02/github-startups-official.jpg"
         width: 1281
         height: 720
-  - title: "An Enterprise Formula for AI Success"
-    excerpt: "One of the great things about the current wave of AI innovation is the large number of open source tools, technologies, and frameworks. From TensorFlow to Python, Kafka to PyTorch, the we’re in the midst of an explosion in diversity of data science and big data toolchains. However, when it comes to putting these toolchains together and ..."
-    publishedDateTime: 2020-02-12T03:41:00Z
-    webUrl: "https://www.datanami.com/2020/02/11/an-enterprise-formula-for-ai-success/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/robot_ai_shutterstock_Phonlamai-Photo.jpg"
-        width: 1000
-        height: 667
 
 secured: "0L/CpdbaegRiYYvYZHtXHBzY8F2Xb3JIWmOoPyZ9w0GT8oOijG0BqTE0qdJPAW/BVIPh8TylCujn+vpGFkxQnQhzSa7YL9TRWfO/rzWUjxq1Ri7zd4xeQM/qjEYGa+BGEPUGzJiCTgoI1Rm4syPBuCleEqmY/mw7MrZ2JlUh3w5SP+VLNbS2XZsuq4U9DMBfrGv5HJbmYSu85cc1GxUSTzCaoKn85nOiB0LSP1shXCvghUChLDMRQ4Yx0BO0iE+BKm9mgh+5Av8Jv2nSz2YpQFvpw+aUQDoE8j+rujaRNAGg9zx3NZ3biBWTl/qlgwxh;K2MW6/MwpnhMleZKpziNAg=="
 ---

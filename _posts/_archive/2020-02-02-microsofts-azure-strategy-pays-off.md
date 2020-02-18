@@ -26,11 +26,7 @@ related:
     provider:
       name: BCW
       domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-        width: 320
-        height: 210
+    quality: 34
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
     publishedDateTime: 2020-01-23T14:37:00Z
@@ -39,12 +35,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 14
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
-        width: 1024
-        height: 803
+    quality: 0
 
-secured: "epiGLRsJEzcUi73yawzb8pc/YRvIArJQZFXcZorg2CUx8Pm9jcbFgmX43eMH1yJ2e+tu2UTi2vesGh4IS/ODNMGm9urtee1xknoGfvWJqbcPYHQfSFCjAWZ/zWv70ATGN3JLmsAHGkCdWPDCJkXRZ9spFt8bL7PRDRkXajUYiOio3QansVy1vva0MGE8NfMTmfAHNIszBOCGgxsoqMANHZ415QKG0IJmhlmOOjprFTk28jBrhTGek7yWCLs18CSXKLxqoR2uaxxcVb24++Edw0SEKagHE9OJMi+DSGn1To4bvvRJOx6XyWFx8IsHiGoDhqRZv+bdkEtk1vtxx2/t+zTBBWcsujS82kGFUdrjZ7m7p2jhEB5ca+QoDY68r8XsFmQs0Jsnx9t3sWCZ/Bs2PsEE0YsIRx9V7xs+Gf+s7LkdFj7i4Rowxyl9JniUwGJ2cyGH/69pEJwk4MtR/6+QTuWMt6SLQRjBJKzZumQDsmc=;vqFjEuu49nq/JTBRj9374g=="
+secured: "4Vhk1B1wz1xEUJgeOE1/Xb75yRyg4L60oiG7B8PbY39yuCDWPc+Tx6kB8p/+bXEiJ4fmdqvBNopXdTdL6UL2zJK7y+de5n5S51tXQnuU9nkLVUUSc5RwMjQI4W9aeZCqjPVvnRvHwmdTZVdo/hEPBfEUwr2jknQMwmd+mvELhhqNAZ89OFXoh1RVFrKYXidMscg7oHOdY3sDxVSkX11NiPVSaxJ+sJXE6+t0AGVxN8jpjduOSL77lbf03sRCisbHywRnhBoM3/KdQUAGMoLI5cW1t/6lSS1siINH9dx0WcBxuKJ8UBOx2TENSHRyHH/oPgrLctXfqkuI60NA/iwdBJCguwxZMAFsucpaPEecx+A5L3dwmCdjSaLFcVY3/XjONnwPlN14cbG6Xq2Hyq61xyqL+D3GXUxk6/+Y+CMW2o4LcDvwjSdvifoDMvgTBGNmwZjgJ00kr09BhQViXsi74Z8unpF7OeAt3q5lCyzTEEw=;lasa3nQklx4Z/T7Y/MiI7g=="
 ---
 

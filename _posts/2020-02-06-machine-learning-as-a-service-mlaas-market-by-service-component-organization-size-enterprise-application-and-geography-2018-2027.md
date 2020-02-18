@@ -61,6 +61,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
+    excerpt: "ReportsWeb Adds \"Global AI IN EDUCATION Market\" offers Current and futuristic Market scenario, product segmentation, and competitive positioning for AI IN EDUCATION Market globally for its business expansion strategies."
+    publishedDateTime: 2020-02-04T05:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-growth-set-to-surge-significantly-during-2020-2025-google-osmo-microsoft-ibm-cognizant-pearson-querium-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "P0kXxw+cTUZCxTklJuKiR6lY1ff+zg6GOk8e3lNGRUVDjmgBxwrtnhvPwxhQiuqjObuyTrbIPCmwU3hXjO831k0R0CXMrI0G6WyX9tRLoBZ1gU9Vh2oFzhW4gVM86y+F0Z8fm4h58sQYQRXvb+bPbgP9R1UOoEPSzQHnlK8RylVZ8XDtiyUhFCVRGLh+TJtytGZm/yY58Tqt6LV9Y4L42ZrUWa0BooWNnz/vE4bFjrYJD44+DwPEnGqsJtw3qBO4vNnEMgVnru5o6kkwueCbhBVYGRqFriZTUSVEXtatSCeHOpHhq7SjbpWWMVLuQGMH;6InCdmgLyNepuTNBAZ1SjA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T09:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-competitive-dynamics-global-outlook-2026-2020-02-04"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     title: "Artificial Intelligence in Computer Networks Market: Competitive Dynamics & Global Outlook 2026"
 
 related:
-  - title: "Global Natural Language Processing (Statistical, Rule-Based & Hybrid) Market Outlook to 2024"
-    excerpt: "/PRNewswire/ -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends"
-    publishedDateTime: 2020-02-03T19:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-natural-language-processing-statistical-rule-based--hybrid-market-outlook-to-2024-300997768.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
   - title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application, Geographical Outlook - Global Industry Analysis and Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's ..."
     publishedDateTime: 2020-02-05T09:57:00Z

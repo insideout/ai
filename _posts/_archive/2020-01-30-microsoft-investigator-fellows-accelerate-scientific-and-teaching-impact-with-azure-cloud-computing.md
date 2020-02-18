@@ -5,7 +5,7 @@ excerpt: "“In particular in the area of computational behavioral phenotyping, 
 publishedDateTime: 2020-01-30T19:40:00Z
 webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-    width: 1400
-    height: 789
-    title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
 
 related:
   - title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
@@ -44,6 +38,6 @@ related:
         width: 620
         height: 250
 
-secured: "V+HCIPMfOnbNQ38cMD6jzLfnUXcvaK0K910i5WS+8kFrFRppwfalpvXOzaZPJzJRdGbze2V1HPhYEd+spJKxXMklANSNRerPZ5sjzrqsAp0FzgttV/DJUkApf6owy7D3C9Wpb8QM9SdP7IZW39mPE4hXPCMKR5UOv1uYnYs4ce0f8WBcIrePZdlESp2TjGGtxJODGPNRK9DadCR/f/7LtkZmf+j37KqrMDdyapMiV/B+nKEROe1fpbfM56I8xJcRrOI9WBjpXs86vlUI+EqwR+UBnJugjdhsTYhiniyTg8e3Xw+4m2xLYwyNKAgVmGHt;JbPJ+A1GniKnf2EfH8UVfw=="
+secured: "Zzj+LmF5PJ7HhiZirX2gNLyiVuRnbuYDGfcD1gjG4lekiv535MFD/5iQ2AHknMJqhTZTCw+pVM8RzWGPP562VElYyh5Z7ASw+3bpxk2LIOSyBt+oiAJ0wH4RvoH/29YT1WdmnOuh6v6EYvD+6vctJcZERho++MnHEAq5UpVly+L9NvzydaXefatD5env7Y05tS+L/MKWf8HrrWsFkfAPrTDEaHZDvqAURwCSsHqQ9MM2IpWSxDROQrt4zJBDeUhSyfq12eZ6wbgHu5VXPjR2coIg7StZ1pzMPp5cwXM4eb+yUrj9K4EO5i51YAnegN0PV14O2Kbls6qTIRN5M2TBa7v7VyF2wj0l51JphHZyMlnFLdsXflUe709Zy/49IGU7mEfAzvJikErHdRNj9osWC5aRrNONZzvjwiqNlnQK296MRU6hDshcZ6LW3pxwhFgxQqBEPFMaoZV/zH47L0bHd2NzxvN8vDdnWebUtUPY3T0=;OiPdk79gg9S6IUMDLS+W1A=="
 ---
 

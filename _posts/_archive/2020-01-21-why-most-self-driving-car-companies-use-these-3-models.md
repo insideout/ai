@@ -4,12 +4,10 @@ title: "Why most self-driving car companies use these 3 models"
 excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
 publishedDateTime: 2020-01-21T21:09:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
-ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Mashable
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
-    width: 1200
-    height: 630
-    title: "Why most self-driving car companies use these 3 models"
 
 related:
   - title: "Why most self-driving car companies use these 3 models"
@@ -34,12 +26,8 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 54
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/feature/w/why-most-s/why-most-self-driving-car-companies-use-these-3-models_358k.1200.jpg"
-        width: 1200
-        height: 799
+    quality: 34
 
-secured: "aYIs08FjSf073SlewGmvsAugS4hvVBk44aOnCCJRe+GscUCKnBSCTLiqZIvErXPDqfl0rmfuhZhl3GoYKVh521JNq+Hf9cYN7hm3kZNIOb0XSJpjRvq/R9oDnFmitKCTcF+IuY4fDPFt3RWZgnP1EI7bvcKoDkwN+PL3I9JC6BAQfuvjsWVp2bR5d/SRIy6bGpH/KIj/u1bwEXTNSf6lFRJ998HL5qbQVKA9Ms9OrF/wCC1thhYA41/hkalLyX4q/B9zPr1Ezq2UBEcV6n2pI06jFnq1XmSHjgiXfufM14pCXbfs+Lex+1tvG/zrJWFv;IrEyFDVZL94fzzNWtqg7rw=="
+secured: "HExFS4Y6jQrKl4kdmgDRDwxEn3GpjLZVtJFtZXuspqhWXXQhUUVQ6EY+kQkSF+CJS6WG5Hw6sIC7cOsIiwaqt6lU55wBwS4sVAoEMIqdUaKYCscuau5jPejtU7LptnwtvnceyvZrNvP5xph6GZ7orsJBMIuAlWqqD531kq9XfF0bo34jttIzeo3Lk3wt27dI5/mbPmYo2FpWeRTzGkCblw/0+lvmArXPJLKaQliKNyD+/aazvWaqBtX6u4aAOv6CZtXz3caFqRHCpy1qQpNND28vSXmEtNuI8okrK9asjYBwxKxxJcg41F/+FzXOk8At;QyTgZpDrbK2ANlkcdihF2g=="
 ---
 

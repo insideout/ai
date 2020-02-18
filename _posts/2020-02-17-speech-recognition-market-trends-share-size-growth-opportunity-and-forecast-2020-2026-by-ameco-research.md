@@ -54,6 +54,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "North America Wearable AI Market Report 2020, Forecast to 2025 - Google, Microsoft and Apple are the Major Players"
+    excerpt: "/PRNewswire/ -- The \"North American Wearable AI Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The North American Wearable"
+    publishedDateTime: 2020-02-18T11:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/north-america-wearable-ai-market-report-2020-forecast-to-2025---google-microsoft-and-apple-are-the-major-players-301006457.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "nyZrEPWKx2KYPZ+lgH0MJemq/1JTrN3+tL2/HkZlQPQLeVfTzit4tieUJD0U1XGnp8vpbnxfj23on++j9E5Z3oABur/c6jRRGvhXc6OMsgJ2nliUgu8uYbB7VbZIYOslkr7/ugOAYT70sZ9gPDR88RRO4WuO7eVB4bI1kO7Vi0Vem0QSKoZFHnyIPqhsmH2Ibs/Mr9FR5e62AxImr4dSJ4K3/j3TOlHurEcuFvQFvZsrkjiLU2/zRyIHqku0i8MDfJFtSYYmIRcyMRGg9KXKv3TMiuX7B2eyXlpKUDzLJkouK1wVRJ/YgDZLdvIjdc1h;oT58HZkPEX5FfHyVhzy1zw=="
 ---

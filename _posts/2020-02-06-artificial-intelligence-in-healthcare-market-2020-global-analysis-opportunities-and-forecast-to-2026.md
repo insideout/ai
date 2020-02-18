@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T09:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
 type: article
 quality: 70
-heat: 430
+heat: 420
 published: true
 
 provider:
@@ -181,19 +181,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Hardware Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026"
-    excerpt: "New Jersey, United States - The report titled, Artificial Intelligence (AI) Hardware Market has been recently published by Verified Market Research. The Artificial Intelligence (AI) Hardware market has been garnering remarkable momentum in recent years."
-    publishedDateTime: 2020-02-03T18:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-challenges-key-players-market-segments-development-opportunities-forecast-report-2026-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

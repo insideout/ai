@@ -22,17 +22,6 @@ images:
     height: 429
     title: "Artificial Intelligence for Data Center Management"
 
-related:
-  - title: "The Evolving Data Center, Part 2: AI in 2020"
-    excerpt: "Prediction #1: In 2020, we will see a proliferation of customized AI chips hitting the market. As a result, almost every vertical will begin to tap into the power of AI/ML. Billions of dollars have been spent over the past few years to develop AI chips ..."
-    publishedDateTime: 2020-02-03T18:31:00Z
-    webUrl: "https://www.networkworld.com/article/3518821/the-evolving-data-center-part-2-ai-in-2020.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
-
 secured: "vB0XWo2SbFzW2HEu25msf1HCzUUHZehGlYjHzW8r7ehp5r4Y6ZXhPK/bnhZL3U1fSEMKJLbrfNB8UHbUErnADYeMKRcxIbWUmL01bJ3Vbl5pCxBZOexLtQTFNum6ethlyQwYJqM8SlL/ytjmrUJDEPTVnnwAtPTInS+0rsuNGBHJq6H3/K+6q/4muoTP7UnmIDjvToQn/cLdA1ssr3ppXdMrdrRTgcVMpw75gq9D7+zrRNXdszx9OY5r3zjv/+hi2Aw5hf3rNohZq+2nmNIkIf48Gz/RueBLQq7aJPuqz3wtBH6HuG9nNDylxVmP5X1vUjPx6pdFyDgn2ze3U142GhJwy4SLzYhlDW+ngFA/ZAD0sxfU8HDzb/FgPv16nQznAOtlGBxaICXDvt0aBl85xGr7Cx/zbTNEmyJhSAw1QAx58V/3is5Cd+5j7WGFr0nwrirPDQWH1adK9kp4OXLRityxMMbT+fAHwvhVwAvz8ko=;JpgklgA38u5eQJi+r2I12Q=="
 ---
 

@@ -34,11 +34,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 40
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-        width: 1400
-        height: 789
+    quality: 20
 
 secured: "PQ00wVA6kPCsn65H9HuaRTrterwBCa6Xv0K4b5JuBbPY+EGlNE6YyauEsuyqDEnpMAa3Asl224QmN0VXxY7XcI3PdOxXBuYyoLTjDIr79rL5Q8uzrN52Fa+rBgEpMQV28mA9VpE3CVQb5XCdifRIklwYIGktepYuEZ9cpvdFoo6wifPLsWgIewjbUf2MfGb/SLG9GcgCOaWqASGrh3A9Aq88rRQ8V90VhHscRQQdGfal0ABCKxxDPKQUfVnNHFjfyyQ3Hbaii09mrmaXvO6pRqgONAMKu5Z7WW+uKUgMPsThaHKKn5IXsam2KhL44x+G9pNXAwrKlmqfYoMo+3+Yc6azz6TuHztdes5EXbRcG98g8g7i/jYNG9zfKZ56c2GBeoWx79LzUGL0i5m4U4HywAALDJ9KbSlIHHk2vLqlWcZhWzh0Afov4JPRKbNk5BmeB6mjJ7ErDRM8zIY1EQ3ytlGKeuYBYEK777xNZIeVXIE=;LLtRRXuFJwXVALkMBg1rxA=="
 ---

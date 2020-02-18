@@ -85,6 +85,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "Gesture Recognition Market Global Trends, Demand, Industry Verticals and Supply by Future Prediction 2020 to 2025"
+    excerpt: "Global Gesture Recognition Market 2020-2025: The Global Gesture Recognition Market is expected to register a CAGR of over 27.9% during the forecast period, 2020 - 2025. The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices."
+    publishedDateTime: 2020-02-18T11:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-market-global-trends-demand-industry-verticals-and-supply-by-future-prediction-2020-to-2025-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global AI Image Recognition Market 2020 Latest Innovations, Drivers, Dynamics, Industry Demand And Strategic Analysis by 2025"
     excerpt: "Market Overview The Global AI Image Recognition Market estimated value was USD 1695.93 million in 2019 and is expected to reach a value of USD 622.03 million by 2025, registering a CAGR of 24.82% during the forecast period (2020 - 2025)."
     publishedDateTime: 2020-02-18T06:01:00Z

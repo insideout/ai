@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-15T23:20:00Z
 webUrl: "https://www.thespec.com/news-story/9855268-hamilton-puts-autonomous-vehicles-to-the-test/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 602
     height: 417
     title: "Hamilton puts autonomous vehicles to the test"
+
+related:
+  - title: "Baidu to Launch Autonomous Cars by 2020"
+    excerpt: "That may be difficult, though, considering China’s ban on self-driving car testing—at least until the country’s regulations are approved. Luckily, Baidu has been honing its craft in the US ..."
+    publishedDateTime: 2020-02-14T00:00:00Z
+    webUrl: "https://www.geek.com/tech/baidu-to-launch-autonomous-cars-by-2020-1696952/"
+    type: article
+    provider:
+      name: Geek.com
+      domain: geek.com
+    quality: 49
 
 secured: "Th7kiBvUFUhkmx8eujJ+orojAW5OPPebEshRYsoIErWu0W72obvATX8qN3w8srN3KIA0cQtvu42HTVgb/AvUyRrL1RFP10C/+l5+zNaXb0TSz8jx2eCGoO6sfpr0Qmuo6mfiz/oFAO9S+XaW5e8k9lI9bEl/nqhb8+pNT5DpeJl1A6fOMOYjU9cP0r9NwxrOdkwjE1atFBE7lkKYDvnE0eoPgWO48eufhwRYEkVdbSR75Ox7R/ozLq/LcHP/8cM8lJpgxKE24d57q0KWLM07Jbh/8zut6tUXKuKD6H3LUn5OOPqGgZFl6r3Motlr/SqSwBR4LCb+RBI5suIKK0xfeIaXndkJ6A6sNa6kIBGUla1h0LoSdq9qbZ5AgAdJ72nnjCsNorKF57ACaHxju+MkFckSijxY3X80cBHzbMi3qcXqGU018jLIJH80tUgX9vumGIjCpC4Jgt4WRAwUIQ1lVdmXdEZv/TpZ61lhY30ECc8=;UnjLNEVb8iQUR2IyHffNdQ=="
 ---

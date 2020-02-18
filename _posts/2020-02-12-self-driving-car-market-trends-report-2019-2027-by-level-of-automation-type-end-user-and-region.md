@@ -77,6 +77,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "Gesture Recognition Market Global Trends, Demand, Industry Verticals and Supply by Future Prediction 2020 to 2025"
+    excerpt: "Global Gesture Recognition Market 2020-2025: The Global Gesture Recognition Market is expected to register a CAGR of over 27.9% during the forecast period, 2020 - 2025. The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices."
+    publishedDateTime: 2020-02-18T11:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-market-global-trends-demand-industry-verticals-and-supply-by-future-prediction-2020-to-2025-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Machine Vision Market Types, Application and Global Outlook 2019 to 2025; Cognex Corp.(nas:CGNX), Basler, OMRON Corp.OMRNF"
     excerpt: "The Machine Vision Market research report 2019 includes analysis of factual data that provides research results, vital recommendations, conclusions, and other important information to the readers, who in turn bases clients decision making on the content of the report."
     publishedDateTime: 2020-02-14T13:10:00Z

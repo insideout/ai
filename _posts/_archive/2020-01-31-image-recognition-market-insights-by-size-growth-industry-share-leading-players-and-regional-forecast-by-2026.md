@@ -5,7 +5,7 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-01-31T05:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
 
 related:
   - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
@@ -56,6 +50,6 @@ related:
       domain: finanznachrichten.de
     quality: 9
 
-secured: "k3ZeriOSTjAJowydbES2bsF9Yusvc9RiUf5uW8MNZ1Og2JccP3SwVc1lDydYayQ8OtczGdGzqKjbVZNtw83WDejE1bkMSBmBqU+fSR2kShWH6yR+lFVXnXUlsIcw26kXWfXF2z2VWjPCeaTT/hfdVA+RsE8I7nywWCy4QrYHudYW7qyuqhfd82HUPbGTi7uooGhMoHxWwpmdDpsrGbU3nZqIgjEQVVhrJuOTrGlpvtwLQnp4mck7IYz/opXYzOw9qAWv5H2ti6QhB6hYilIxHcq41FpL770DTozP0sFgppf8z+C5DpNgk56tzlXE6aJl;ADMKT+h9cuRpcpG47IMYAw=="
+secured: "ZQlbw8CVJdaJsHh44zSi9/HefpkLXKvtv+zLPOVLFflxmsxPJNq9BeO0ygDg+dtCvS4bbBHZn053yyo7e2PdhPvF6OAvGQymAmPJUmomuj3KqBeKM622J1LHZ0pFUue6LnoyXwooQBIC5gEDBPkTq3iiDYhgTUKkGocLLJx8HS7BMD+xWc0O0tAg1UeTtPUBCX28+4PN/JXbaZgvQo55pSc4ZtPsjZmJtn3P25MQsh4KldhS0k/yFwUEYaXcmE84iK50fvk0/Z1iX2YCAqs5PNEPx16ZQ7HBRGwdainNd+jag5J/nwGrJ3OKBH1nop1W;JR0VzTLXdIRiE0IvRJkGZQ=="
 ---
 

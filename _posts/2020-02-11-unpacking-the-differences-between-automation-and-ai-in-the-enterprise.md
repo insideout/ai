@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,39 +29,34 @@ images:
     title: "Unpacking The Differences Between Automation And AI In The Enterprise"
 
 related:
-  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring ..."
-    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
-    publishedDateTime: 2020-02-14T09:00:00Z
-    webUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
-    ampWebUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
+  - title: "Join the innovators in enterprise AI at Transform 2020"
+    excerpt: "The AI event of the year for business leaders, Transform 2020 doubles down on results-driven content that helps executives at the senior director level and above maintain their competitive edge. Expect two days of the most transformative trends in conversational AI, computer vision, IoT and AI at the edge, and automation, plus a special ..."
+    publishedDateTime: 2020-02-18T12:10:00Z
+    webUrl: "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/"
+    ampWebUrl: "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/"
     type: article
     provider:
-      name: The Province
-      domain: theprovince.com
-    quality: 32
-  - title: "Idaptive is taking machine learning for authentication and applying it to authorization"
-    excerpt: "Just before the holidays, I had a conversation with Idaptive to learn about the next phase of their user behavior analytics strategy. Essentially, they’re taking machine learning capabilities used to authenticate uses, and applying them to authorization decisions. These capabilities are part of Idaptive’s “Next-Gen Access Cloud” IDaaS ..."
-    publishedDateTime: 2020-02-10T21:59:00Z
-    webUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization"
-    ampWebUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
-    cdnAmpWebUrl: "https://www-brianmadden-com.cdn.ampproject.org/c/s/www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/4TPO2827.jpg?fit=6655%2C3329&strip=all"
+        width: 6655
+        height: 3329
+  - title: "An Enterprise Formula for AI Success"
+    excerpt: "One of the great things about the current wave of AI innovation is the large number of open source tools, technologies, and frameworks. From TensorFlow to Python, Kafka to PyTorch, the we’re in the midst of an explosion in diversity of data science and big data toolchains. However, when it comes to putting these toolchains together and ..."
+    publishedDateTime: 2020-02-12T03:41:00Z
+    webUrl: "https://www.datanami.com/2020/02/11/an-enterprise-formula-for-ai-success/"
     type: article
     provider:
-      name: Brian Madden
-      domain: brianmadden.com
-    quality: 31
-  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring the Most Advanced Intelligent Automation ..."
-    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
-    publishedDateTime: 2020-02-06T09:07:00Z
-    webUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
-    ampWebUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    type: article
-    provider:
-      name: Calgary Herald
-      domain: calgaryherald.com
-    quality: 12
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/robot_ai_shutterstock_Phonlamai-Photo.jpg"
+        width: 1000
+        height: 667
 
 secured: "GS+i1O0PHE28C3jnzIw19c+sySFM1SD9iaHoCDicKaICgvv4adoh+N8gbg3JI9vDxo2aQfF1wxFLmGdmNL3q6tjpeaKZ1R3u4Ajsytz4GUNRDVIuHeXa1w9K+ea8FXOUrZfAfr5sT1dzmGyh6lLH3Q02Wpj9TFq6R52eCuX3A5yJbuV5XQI7hN92w2LBVQHU0W+sE9SuJY7qzh5Z4Rg8r/YXCfyjbeGCcNbPx9lWRdVvsmPIaXzx2t4uZBbAzbBifnOjD8r8Px5GJ/4HJ476xnjhb615niNaVT/veW8fiQvZtK5XyTkfpwBzS5SB/x/m09JR+MpKUwQU7CvX1qt6yH07VVijYGC9ZWguGXnaOmV+EGGZRD42zKhUv6E+XVSUlcfBb9hVMiPrk7yKwii+j1MvKWv9Qnu1BoDpfhlPgx0hYf0yttpp+hIt9ynHz8of7LmzpQhXQpA6cU1J7/qc2+V/Iau4B8yCq0/C6Fd5ftc=;BHWqIBSZlMm0UTZSDY80+A=="
 ---

@@ -28,33 +28,21 @@ related:
     excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-        width: 1200
-        height: 763
+    quality: 61
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
     webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
     type: article
     provider:
       name: United States Army
       domain: army.mil
-    quality: 59
-    images:
-      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
-        width: 446
-        height: 300
+    quality: 19
 
-secured: "fPb0EXHj4QiB126cc4M/Fr8wDanTDOwUfNPIvPhaKN5w0Tvs0MO0gsudTQhgvv+WUCuHh/ImgesQnN61x2UNgSjRCUsuMm2Vtl2JFCJAuQ6Y//pxcJ/Cxe0K9rQswN9ZdFkrHn3MgjZdb7KaJy/RybGEFAGpGoDlAPoaCy2hedbpwRPSGtLrv6x2w5cZNd8shgOtTv5zj7hNgzx/lh0aCgiVQ6d5fzzrGZby35m11GB0+D4XoyVBJVAN+hzr9wlwI3unp34iTKJtBWNA2MbrSHQCJBKf0uVLRlUku+qUsj9HSy55P6GThPiO6P/WMu4U;tsB0uKSM3thwo9iN5uowwg=="
+secured: "QTLewAXINFUjdhjZxII0z9xDKg4OzbakF6uTgnRcRt1gJBDT8E2u2HEibHAxzmd8Kgwue8rK7avcj3IoCvv66oaCHc4COf+825KxctU8EiY16baRuZrejsgsJfLvsZdI6KtAHq73OFAk7ll6SYe6iG2+SoHnD7d6xtDbBDa2gnkv3/tnDwj2H/jtpgP0/htjENSGgkYcPcDSZ/SvzxvfLlwVig9OIVD4TXG6QQBDvfbqU3xK0FIWNJE58kr1DKuh70w4q3mc2tykCjQFpOZ2/7J1AgzGHGuLx3RyKI2m3U3KHr7UMg/D0qnn4RlZk/Ea;nS5jAzw8u4R0zxSJfJqjGw=="
 ---
 

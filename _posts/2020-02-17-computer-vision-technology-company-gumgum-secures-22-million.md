@@ -23,21 +23,6 @@ images:
     height: 1200
     title: "Computer Vision Technology Company GumGum Secures $22 Million"
 
-related:
-  - title: "GumGum Secures $22M in Series B Funding"
-    excerpt: "GumGum, a Santa Monica, Calif.-based computer vision and natural language processing company, secured $22m in Series B funding. Backers included Morgan Stanley Expansion Capital, NEA spinout NewView Capital, and Upfront Ventures. The company intends to use the funds to continue to expand operations and its business reach. Led by CEO Phil ..."
-    publishedDateTime: 2020-02-17T19:00:00Z
-    webUrl: "https://www.finsmes.com/2020/02/gumgum-secures-22m-in-series-b-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2020/02/gumgum.jpg"
-        width: 400
-        height: 400
-
 secured: "eZrE5MJ5eM4sE2XmKbGprVdKv4xKCqBlzCf0c6Vwom/lcmlHzplsHqTQPSXJ/hsl9kbE6rGBqIBin8DpnkO+11ptkrbutApSgbg+JqkGrcyqdJ/gnI1ztToytg0mDcn3qopb2GWGPCmowjogtXNN+UiNTeCzyVuihQmDBozlaBj/hnFDGKuwSV5bNa4/eSBKhZlNoBphxnak8WQGfMxo8pnI+WM03ee3GdsGEL/P905xo3mGB/5E+Bl3mMw6Sj44QpEBdGgcc5ELYn9fqFvEk2+YsO8JbeHx3T72M8th0T0L1UHKC3o67T8eDwM0LHZm7Sq4xtUFX4UsgmhhMQDhGMKLrOrtcDWhvnFsZ+h4ZicjmWdo6qmA8NbPtBbKZKPdfwF1YvlHNdk3ZCjQX5QAg9WPW1bI51Kbx60516nMJw6ZAtzXj5FjFRXD5bgyf7gZGZP2F5cmQbHPKabTGTuP09cXV0pK+LLk2nITrfbDvTk=;0OZAayGjHqSDo/Awni9GrA=="
 ---
 

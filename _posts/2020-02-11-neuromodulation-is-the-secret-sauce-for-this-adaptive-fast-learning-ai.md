@@ -8,8 +8,8 @@ ampWebUrl: "https://singularityhub.com/2020/02/11/neuromodulation-is-the-secret-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/02/11/neuromodulation-is-the-secret-sauce-for-this-adaptive-fast-learning-ai/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Singularity Hub
@@ -26,6 +26,17 @@ images:
     title: "Neuromodulation Is the Secret Sauce for This Adaptive, Fast-Learning AI"
 
 related:
+  - title: "Idaptive is taking machine learning for authentication and applying it to authorization"
+    excerpt: "Just before the holidays, I had a conversation with Idaptive to learn about the next phase of their user behavior analytics strategy. Essentially, they’re taking machine learning capabilities used to authenticate uses, and applying them to authorization decisions. These capabilities are part of Idaptive’s “Next-Gen Access Cloud” IDaaS ..."
+    publishedDateTime: 2020-02-10T21:59:00Z
+    webUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization"
+    ampWebUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    cdnAmpWebUrl: "https://www-brianmadden-com.cdn.ampproject.org/c/s/www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    type: article
+    provider:
+      name: Brian Madden
+      domain: brianmadden.com
+    quality: 31
   - title: "10 Rules Entrepreneurs Need To Know Before Adopting AI"
     excerpt: "Rocio Wu offers insights into how entrepreneurs can start riding the wave. Although adoption of artificial intelligence (AI) and machine learning (ML) for the enterprise is still in the early days, the technology has matured enough for entrepreneurs to start gathering inspiration and evaluating opportunities for potential applications."
     publishedDateTime: 2020-02-11T16:03:00Z

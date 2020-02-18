@@ -24,34 +24,36 @@ images:
     title: "An Enterprise Formula for AI Success"
 
 related:
-  - title: "Microsoft for Startups Now Offers Participants GitHub Enterprise and Power Platform Access"
-    excerpt: "Microsoft will also provide open access to distribution channels like Azure Marketplace and AppSource, as well as CSPs and its enterprise sales force. This latest development expands on support for Nvidia Inception that was announced in November last year. That partnership was designed to accelerate AI growth, pairing deep learning expertise ..."
-    publishedDateTime: 2020-02-14T15:56:00Z
-    webUrl: "https://winbuzzer.com/2020/02/14/microsoft-for-startups-now-offers-participants-github-enterprise-and-power-platform-access-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2020/02/14/microsoft-for-startups-now-offers-participants-github-enterprise-and-power-platform-access-xcxwbn/amp/"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/02/14/microsoft-for-startups-now-offers-participants-github-enterprise-and-power-platform-access-xcxwbn/amp/"
+  - title: "Join the innovators in enterprise AI at Transform 2020"
+    excerpt: "The AI event of the year for business leaders, Transform 2020 doubles down on results-driven content that helps executives at the senior director level and above maintain their competitive edge. Expect two days of the most transformative trends in conversational AI, computer vision, IoT and AI at the edge, and automation, plus a special ..."
+    publishedDateTime: 2020-02-18T12:10:00Z
+    webUrl: "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/"
+    ampWebUrl: "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 49
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/02/github-startups-official.jpg"
-        width: 1281
-        height: 720
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience,” said Kate Johnson, president, Microsoft U.S. “By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft’s ..."
-    publishedDateTime: 2020-02-12T20:33:00Z
-    webUrl: "https://apnews.com/PR Newswire/4e004449ab1ba5e3aa9456ff715f95ac"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/4TPO2827.jpg?fit=6655%2C3329&strip=all"
+        width: 6655
+        height: 3329
+  - title: "Unpacking The Differences Between Automation And AI In The Enterprise"
+    excerpt: "As enterprises strategize the incorporation of automation and AI-driven applications in their technology ecosystems, it’s critical to clarify the distinctions and understand the unique role each technology plays in digital transformation initiatives."
+    publishedDateTime: 2020-02-11T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/167890572/960x0.jpg?fit=scale"
+        width: 711
+        height: 474
 
 secured: "0OxTWuqHdbt8SiHTrp19SlR7p0e3fUi5aSyea3jOmjybPxG+GxiaFG9emnAcSbgHWFTVkRleFFqJkXW30xw676TF1gas6L4e41R9FlHZOzvSlXL8E1+d8nivhCvrLkeOeWHWcBMPxgnuJrssSWS/Rtcf7tcv/qphESpF/wRm1yMwssgeBncC5jkhan+b17VV6kCV4a5jLGsJxMVJFTh432wyWFSj8QGVdZAPeki+EsZKqvz+wjRQ83RePtPK7BNxZGZ6z0QamBHNWKM4wOaSkpw31a95yIrjoSBMs5Lv8e2fgSdMWR5mYqPOyJ53FuM8OPdci4TR7Fpy0nORnt7wXXh/FUsDBAp+zFzL7GjOAQ4PgebG3Yf10MjsnOrHeb+IGtYSbM+JlZOej1JQmXpGgCKfHj0hKeNn7/fz1WmmV3/ciIlkuwnkEorRChjbiKS39J1N3P70uaMjOzTvlZG2ahjPpxpMl7eniHU/7n7BVH8=;LCrErJlPMjS/FVEvOvpvnw=="
 ---

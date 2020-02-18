@@ -26,11 +26,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+    quality: 40
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
     excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements ..."
     publishedDateTime: 2020-01-22T21:37:00Z
@@ -41,6 +37,6 @@ related:
       domain: arnnet.com.au
     quality: 12
 
-secured: "PWtDfIwLi1epBvxeXvqcppjs5Vg+FUW708ZayPhLxAuySKqu+5PqmOpKQhjsUpnUshRJBe2ZcE39n1bNhHuBqMudxHOkbzFe8uFeWtDfDU3fH5cSWaSKK8D7VJ2aJUn7/RSI39UsCwxKMxdesGQ9HDLYXXX6KYhNU73ib9+jnGGEff48K8Na8j9lmJOWd1rxkuxqYl9jtZKSv97uS2lYualDd2avZMLQ8VpqPbI/FORsARM0tXcctaxB+o732+x2wcu6KK735io1t2D93ToOYc/n6+gdTqTQkQ72ZJs4lo86COeVfLjgP9XP8D+0mvoU;lYWDcOrXaxCAeKUWRwRgGA=="
+secured: "otHYcSSu8F+gUZ1Brsp/wCrD5oL9sv//yYTMrNq36uEw+/I7HUT9X9s5YtF329/VPevP1cPPRUodxfAUHzVjxtakEkfbrCIkPEz/mueharU3o0ikro8bqO2CrigipOZLDvf0wU6IyWozQN/9fsfmjSOUxQeQCbdIfjnEQCajCrUFT0H0QNY2HolBNN86qKl+W3/fwWnNL8Oukioc9VE9RScgXyl87U94CkghdDS9bgXlZ8DYgup54zvCuvtMNjKxmoSPjQQoaRY/xpCybBvj0Rl+yd2eRrORSajXEKkts5K+/aR1Qrqb/f2IKfCy7WEi;yS85H/Fs7sVHBUWpj16oWA=="
 ---
 

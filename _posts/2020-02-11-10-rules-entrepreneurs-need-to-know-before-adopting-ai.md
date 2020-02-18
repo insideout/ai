@@ -32,6 +32,17 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2020/02/brain-2676370_1280.jpg"
         width: 1068
         height: 601
+  - title: "Idaptive is taking machine learning for authentication and applying it to authorization"
+    excerpt: "Just before the holidays, I had a conversation with Idaptive to learn about the next phase of their user behavior analytics strategy. Essentially, they’re taking machine learning capabilities used to authenticate uses, and applying them to authorization decisions. These capabilities are part of Idaptive’s “Next-Gen Access Cloud” IDaaS ..."
+    publishedDateTime: 2020-02-10T21:59:00Z
+    webUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization"
+    ampWebUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    cdnAmpWebUrl: "https://www-brianmadden-com.cdn.ampproject.org/c/s/www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    type: article
+    provider:
+      name: Brian Madden
+      domain: brianmadden.com
+    quality: 31
 
 secured: "9OvZhUMP92XsbRQzdW10BikhV/qm9LZs/rJRyxh5tNAjjN2xKk8JFVvvcASM26d6CzUXdZA64U2aO74E2qqspOttla6ndpjQ4Mj2mbChnCStb7BS6aRimtWmdADr9zKdKrIVoCZNZP/YkmSX21CSNgw7QXyRetKkUgTbeCNBcg9KdpzQkd7eiaVcxfJueM5wiyj49k0AAx65r8vM8Wusv5GYWzEbn4HosVJSHAT4uQc2Qu55OGZVsw0yB8049pShzdQXtqKjwiM663q1vVujeh3r3VJB7DHZMBRsNA7qb+5/jyaxS/1TMztOzIy3bau0vvMG8bnCva0+VHpBZg89nENfUq9eFd7k3Rao5aCzUwbREvc7Pj9dPhfODeLJ0G/F113hOv/93FUFL2Mt+6c8V57dN7XcXU379Y1k/Q5ii0WeMRFnZkXPVeiugmmjBs2fN3k171vVoOvWDc+M3ub4sQqSx5sGjux6ieX8Ex1p/vs=;tFlFHzB15e8sHSz+cH2sCw=="
 ---

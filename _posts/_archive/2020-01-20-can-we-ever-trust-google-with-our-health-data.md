@@ -2,13 +2,11 @@
 category: news
 title: "Can we ever trust Google with our health data?"
 excerpt: "One task is to combine artificial intelligence teams working on health at Google Brain and DeepMind with those working on smart devices for health at its Nest division. At the conference ..."
-publishedDateTime: 2020-01-20T11:55:00Z
-webUrl: "https://www.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4"
-ampWebUrl: "https://amp.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4"
+publishedDateTime: 2020-01-20T11:54:00Z
+webUrl: "https://www.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4?shareType=nongift"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F871f5470-3893-11ea-a6d3-9a26f8c3cba4?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
-    title: "Can we ever trust Google with our health data?"
-
-secured: "aCLzKJQUSNt/iSsHnTCxwfMVZaBwveK4obMNE+7Uv24Q/Shr6ZaPQKLlHt8hR0/V7CgWUJRxj2N1sNDaqD1tAtBYLLDgZWHNDrV4iuZJjnA0FYA0SNiuVT/J84gyZZLgFwC7thc5PzfClDqHOqhNWidvAQjeZwAVnxvKYoDo87aS2ZuubFM5/dIXSmi4P8JihcyXkUhthSeaRhj0fiWkKrfF2NVJgitTWEqVYOP6PpDffOcxaLMO3smxISZJvdw90QOGBdkkVHEhKacM3Mu41u5pz0lpK/e6qdFydnWP/t0n7bxRRxc551YoI9JmEd1m;sgJOiUHsSWrE/+EOKv/1tQ=="
+secured: "08/phzHOw6shheOWk2Hsl6sLtwYcIhv+VcLYXbn52BSCA+DJ68xDSmuQQR7uWrD+oZp2pEdW+ea5C3I9v7gkH/380yMI1eCL4HLa7FxdjKWLPdth1rkevPo9GmLdK4DaHhmPYbhhPAwATWgZ71YhWKqahc5MbA9VvQ8cT4il860VWRN6wyMihH+DdVORludxGbh/CkoIVgxsPpAvnddKXbXNMSTMmE0pfGO5YpfWg/nEXmmP8O+pXgRu/FlIHPtUncjIjxz0khSMR/XV8s7CiRGXhtYY28MGfJOtMYWkvh7bD9ND74uvWx9rhVKNQ1Ni;KgDZpxDgkxRf6ejRMl6iAw=="
 ---
 
