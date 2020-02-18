@@ -198,6 +198,15 @@ related:
       - url: "https://dynamicmedia.zuza.com/zz/m/original_/9/7/975158cf-3edd-4563-84e5-abfde056b374/B881046758Z.1_20200215125209_000_GSASQ903.5-0_Super_Portrait.jpg"
         width: 625
         height: 417
+  - title: "Yoplait dishes out smoothies with facial recognition digital signage"
+    excerpt: "After all, a cheerful advertisement might not resonate with someone who just got cut off in traffic. That's where facial recognition technology comes in — it's is making it easier for advertisers to cater advertisements to a customer's mood. One recent example is an outdoor campaign from Yoplait, a yogurt company. Yoplait partnered with ..."
+    publishedDateTime: 2020-02-18T16:59:00Z
+    webUrl: "https://www.digitalsignagetoday.com/articles/yoplait-dishes-out-smoothies-with-facial-recognition-digital-signage/"
+    type: article
+    provider:
+      name: Digital Signage
+      domain: digitalsignagetoday.com
+    quality: 34
   - title: "‘Really scary what I saw in Hong Kong’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
     excerpt: "The commission, the EU’s powerful regulator, is eager to answer the worries of European citizens about the rising importance of AI in their lives, amid reports from China of facial-recognition technology used to crack down on dissent. “I find it truly really scary what I saw in Hong Kong,” said the EU Commission’s executive vice ..."
     publishedDateTime: 2020-02-17T00:51:00Z

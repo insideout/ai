@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: The Business Journals
@@ -26,19 +26,6 @@ images:
     title: "Local speech recognition tech company partners with global call center company"
 
 related:
-  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
-    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
-    publishedDateTime: 2020-02-04T11:05:00Z
-    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
-    type: article
-    provider:
-      name: WYMT
-      domain: wymt.com
-    quality: 33
-    images:
-      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
-        width: 690
-        height: 388
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
     excerpt: "The AI-algorithm that powers SpeechX is based on proprietary evaluation parameters of Mercer | Mettl and grading mechanism of its technology partner CarnegieSpeech that in turn leverages state-of-the-art and patented speech recognition and pinpointing technology licensed by the Carnegie Mellon University. SpeechX assessments can be taken from ..."
     publishedDateTime: 2020-02-06T02:31:00Z
@@ -49,6 +36,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "ZX/r0f64d9soRLyO4V7Lx9B81sxnI52B4+r+QrM1pRjdFwtlhUKZdm4gW/khiivwLw4pt4iT5SFV0xVo6tioVGLKZyNZ+C+dJiaAhHU9ReC5ZU4FtSXJfpbfMzcJjjo/KfjB033lbV++H1TPTu8URbbQj/PCmK2WGikE4MzYlsEKLUbxizxysSNzCJjIOe4DcLcCu371tspJWNJSqojtV0HRMMJZHB5fMXkPDPWX52XULGi69/KNjjzyezRRpeO+6/+7cxaQUum7z/4oRF62J5pRquiPjpwGxgdh+1czNjTPDAipORj+Wv/II6Qd/1IJ;ZXP2pO58XmcowpJdjOyFWw=="
+secured: "BIpzOfbkDxH13pg9Mzs9eg6FAUrT/8RYC9fwxo4Xot35cNl8eCY9vycbxgCmh9r4bGT2bAhYcs5AbeD2gvjph89yWvM2CuNhOZMCIvUBkbVzqWiTd268le6jGsGG1uw4Yu7p2CntBIDOED1TFWpna691mHDu48k5/UTSIW/D1ihL0gN66jmFeCy3pOXEAVuQB34OolWuYT4WY1yBr/fRq+P15heWeFJMbJ8c8r7syacM+v7ZxVeZeQbyTn5Jbjqr8CBvv4jJC0gEqu/O0Zi5xkw1ibJOWQxRSGFLvfu5kSMV11fLZu03jXozmIi5YMeh;ku2BQrZG3Czq+UsyECUl2g=="
 ---
 

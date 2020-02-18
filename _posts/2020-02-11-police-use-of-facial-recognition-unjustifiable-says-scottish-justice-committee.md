@@ -131,6 +131,19 @@ related:
       - url: "https://wwwcache.wral.com/asset/news/local/2020/02/10/18945112/clearview_cap-DMID1-5lstc1qbi-1920x1080.jpg"
         width: 1920
         height: 1080
+  - title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
+    excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
+    publishedDateTime: 2020-02-18T17:33:00Z
+    webUrl: "https://www.biometricupdate.com/202002/vuzix-integrates-tensormarks-ai-computer-vision-tech-for-facial-recognition-in-ar-smart-glasses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
+        width: 660
+        height: 300
   - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
     excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
     publishedDateTime: 2020-02-12T07:33:00Z

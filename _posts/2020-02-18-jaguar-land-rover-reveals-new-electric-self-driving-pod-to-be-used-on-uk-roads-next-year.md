@@ -42,16 +42,18 @@ related:
   - title: "GM to exit some overseas markets to cut costs, focus on electric and self-driving vehicles"
     excerpt: "General Motors is exiting Australia, New Zealand and Thailand to save costs in the under performing markets and better hone its focus on growth markets as well as on its electric vehicle and self-driving car strategies. As a result, GM said it expects to incur net cash charges of $300 million and to record total cash and non-cash charges ..."
     publishedDateTime: 2020-02-17T15:52:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/17/gm-exits-australia-more-overseas-markets-restructuring-move/4784052002/class=gnt_m_tl"
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/17/gm-exits-australia-more-overseas-markets-restructuring-move/4784052002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4784052002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4784052002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 14
+    quality: 34
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?width=1686&height=953&fit=crop&format=pjpg&auto=webp"
-        width: 1686
-        height: 953
+      - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
 
 secured: "wXWJEJmjIwpzORp+j6svSHZJRjVs3326UqMrqv6//nc8/t4XX3mYExppZ058n55o/FvhSDsjYL4bIE9OveEFEPDScr9sAG9Rgmwo4OsV2vO7CNDXsyg9Kdhda1mrmSw0FS+Ylxa03qGDZgjbHueWXFJsUIcVEAN9J3epImSmohumvS4uW+5LMo/ujIrhezr5kvQr+O+JRPq+Kxl5ZjUO3BNulY2WE4DvJMxhHMO7k1R/7/Fi2a3uy27lyvc7dcPbSz2fCJXUIJfe7iSnUUQ6g0nDMBnZQgIawwPDv7hWsNCE6dgLk2WMF7c9Fnzti+9339JyoQ7po5EB9zpHbT5SiUxMRkWivmWNer6CFYEDgqkiBOUFA3snYizdKEDCF2OrKLSWZ7/uH8apwfxRVNQhg3qFP6zXr0v72mE4LvGpm7Is8/sRAjC9KAo9MKKodjsokuvQrPRNmPXXqaM+kQCFmGxoFiUBttKGypsDZhmJDck=;MKoFIOGwM89eCuXoOaViFw=="
 ---

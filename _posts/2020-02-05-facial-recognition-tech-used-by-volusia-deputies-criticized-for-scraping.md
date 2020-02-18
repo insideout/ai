@@ -26,21 +26,6 @@ images:
     title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
 
 related:
-  - title: "Lawsuit filed against facial recognition company CPD works with"
-    excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
-    publishedDateTime: 2020-02-04T00:24:00Z
-    webUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/"
-    ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 74
-    images:
-      - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 675
   - title: "Facial recognition helps Volusia County Sheriff's Office solve crimes"
     excerpt: "VOLUSIA COUNTY, Fla. - The Volusia County Sheriff's Office is using a new facial recognition program to help catch criminals. The new technology, called Clearview AI, looks through social media to help law enforcement find someone based on a photo. Deputies can input a picture into the Clearview AI system. The technology will compare it to ..."
     publishedDateTime: 2020-02-04T02:20:00Z
@@ -56,43 +41,34 @@ related:
       - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/02/932/470/facial-recognition.jpg?ve=1&tl=1"
         width: 932
         height: 470
-  - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
-    excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
-    publishedDateTime: 2020-02-05T22:16:00Z
-    webUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting"
-    ampWebUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
+  - title: "Hardin County animal shelter using facial recognition technology for lost pets"
+    excerpt: "Users will be able to search the shelter and surrounding areas to find missing pets, locate the family of a found pet or search for adoptable pets."
+    publishedDateTime: 2020-02-04T02:03:00Z
+    webUrl: "https://www.wlky.com/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    ampWebUrl: "https://www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 51
+      name: WLKY
+      domain: wlky.com
+    quality: 55
     images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
-        width: 980
-        height: 551
-  - title: "WeWork wants facial recognition biometrics class action dismissed"
-    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
-    publishedDateTime: 2020-02-07T03:36:00Z
-    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
+    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
+    publishedDateTime: 2020-02-04T11:05:00Z
+    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
     type: article
     provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
-    quality: 39
+      name: WYMT
+      domain: wymt.com
+    quality: 33
     images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
-        width: 1280
-        height: 640
-  - title: "NY Senate bill would ban police facial recognition technology"
-    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
-    publishedDateTime: 2020-02-06T00:26:00Z
-    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
-    type: article
-    provider:
-      name: The Daily News Online
-      domain: thedailynewsonline.com
-    quality: 19
+      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
+        width: 690
+        height: 388
 
 secured: "5Wdg7vOqEwvX5sOQFGlGuvqwK/Ynjulwchv58IeDQnfDpf7Mmu5T6MH7mZvhKrmcJe7XqFT31jkl9QLLfBnuVOh7wjJ+s1EPt5DRCPNm7alWpHZ34/mviWE/p0RuzgpLHloJ234zYX+OgSRq8QSMIUPQgDSc96XC8EKuhMs/HUV9/6VVK8CXzgRitpVzrysylmeEL7z63Ps5l5V4XKH3R/KoIcl3XWmRaHTRp/ztmjai2EAbZbFqsE4GpDU7z3B9rDZRoMnfQHvKetG+nGFfTrmKdc0cEVP4OZbb1dBZTUTTRcUIBMw1NMwMFWCMQAqa;Mp2TGHMoggnHOALy97qtWA=="
 ---

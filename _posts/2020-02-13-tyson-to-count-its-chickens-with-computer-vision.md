@@ -24,21 +24,21 @@ images:
     title: "Tyson to Count its Chickens With Computer Vision"
 
 related:
-  - title: "Tyson Takes Computer Vision to the Chicken Plant"
-    excerpt: "The meat processor plans to expand the use of computer vision to track how much chicken moves through its plants, part of an effort to invest more in automation and artificial intelligence to cut costs and reduce waste."
-    publishedDateTime: 2020-02-10T10:38:00Z
-    webUrl: "https://www.wsj.com/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602"
+  - title: "Google experiments with AI to design its in-house computer chips"
+    excerpt: "The Google Translate application is an escape of a sophisticated program, now at seventy different languages, that can run on a phone even in airplane mode, he noted, when there's no connection back to the data center. The family of Google silicon for AI has already broadened, he indicated. The \"Edge TPU,\" for example, is a designation that ..."
+    publishedDateTime: 2020-02-18T17:25:00Z
+    webUrl: "https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
     images:
-      - url: "https://images.wsj.net/im-152065/social"
-        width: 1280
-        height: 640
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/02/18/488b0d78-cb71-4f26-a228-dabf1c603a54/google-ai-for-chip-design-feb-2020.png"
+        width: 2388
+        height: 1339
 
 secured: "AQrxjL2DTqlT1VtXMi8384DfuLejn4XeR8UORhYksZ96giteXL5TzCx6KXFkeSmrqgNrRtTlC5+BjI78qNHEVNa/L1lO+B3wbpq131riq4BoNTl+RQcPjZM1etOYd85J1EdnxpBJRii64N4VvdQtwbszzmAlipaQNWlN0BZcaX+nEZ4pfzSU+qPQLGeaPgjLc20CfhJa9mIAW8WVdo17D68SouePz78IpKyFCAGEpoIlqFHtLiTCUgu6VEOLTNkwnCVxkXbjcwcjmm/h8cy/ewr3aWDLlH79NmSkqFBO88ucjFsKw53J2WpBT8pNAmbkLDl11VunWS4a8Ko2QpcSwtMKsSrG+1Wd3YtT6hmuXu9F+j2pRMihzZl59+iH13csd+isK2uthq/nKL/Y3zqetpM9RiYaG3RH7aDxKLvHjqD9Yv2dhUhmTicqSYQrsHZ1N3mIOG8ywc62jz0e7ysphX96yf/Aq2IkZswAFrd8GNE=;Xe+9aCK5VP3zdsRQajyzYw=="
 ---

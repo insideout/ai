@@ -209,6 +209,15 @@ related:
       - url: "https://dynamicmedia.zuza.com/zz/m/original_/9/7/975158cf-3edd-4563-84e5-abfde056b374/B881046758Z.1_20200215125209_000_GSASQ903.5-0_Super_Portrait.jpg"
         width: 625
         height: 417
+  - title: "Yoplait dishes out smoothies with facial recognition digital signage"
+    excerpt: "After all, a cheerful advertisement might not resonate with someone who just got cut off in traffic. That's where facial recognition technology comes in — it's is making it easier for advertisers to cater advertisements to a customer's mood. One recent example is an outdoor campaign from Yoplait, a yogurt company. Yoplait partnered with ..."
+    publishedDateTime: 2020-02-18T16:59:00Z
+    webUrl: "https://www.digitalsignagetoday.com/articles/yoplait-dishes-out-smoothies-with-facial-recognition-digital-signage/"
+    type: article
+    provider:
+      name: Digital Signage
+      domain: digitalsignagetoday.com
+    quality: 34
   - title: "What Others Say: Facial recognition software takes personal invasion into a new dimension"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
     publishedDateTime: 2020-02-18T16:30:00Z

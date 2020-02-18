@@ -85,6 +85,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Computer Vision in Healthcare Market by Trends, Growth Projections and Forecast To 2020-2025"
+    excerpt: "New York, February 18, 2020: The Global Computer Vision in Healthcare Market is expected to exceed more than US$ 343.3 Billion by 2024 at a CAGR of 21.3% in the given forecast period. Browse Full Report: https://www.marketresearchengine.com/computer-vision-in-healthcare-market Market Research Engine has published a new report titled as ..."
+    publishedDateTime: 2020-02-18T17:29:00Z
+    webUrl: "https://www.openpr.com/news/1936487/computer-vision-in-healthcare-market-by-trends-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
   - title: "Medical Robotics Market to register a 23.21% CAGR by 2025: Key Findings, Regional Study, Trends, Growth, Top Key Players Profiles and Future Prospects"
     excerpt: "and artificial intelligence (AI) has changed the healthcare industry significantly. Thanks to these technologies, medical robotics are proven to be a more safe and useful process for performing surgeries. Increase in the adoption of the medical robots to perform minimally invasive surgeries by lowering the complications is propelling growth of ..."
     publishedDateTime: 2020-02-11T10:11:00Z

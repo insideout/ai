@@ -5,8 +5,8 @@ excerpt: "Coming in behind Google was Apple with 18 AI companies acquired for a 
 publishedDateTime: 2020-02-18T14:20:00Z
 webUrl: "https://www.information-age.com/google-revealed-acquired-most-ai-startups-since-2009-123487752/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Google AI
 
 images:
   - url: "https://s27389.pcdn.co/wp-content/uploads/2020/02/google-revealed-acquired-most-ai-startups-since-2009.jpeg"

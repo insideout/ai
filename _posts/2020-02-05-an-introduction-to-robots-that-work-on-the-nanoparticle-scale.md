@@ -8,7 +8,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/article.aspx?ArticleID=336"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=336"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 950
     height: 534
     title: "An Introduction to Robots that Work on the Nanoparticle Scale"
-
-related:
-  - title: "Reinforcement Learning: An Introduction to the Technology"
-    excerpt: "A general framework for deep Reinforcement Learning (RL) – also known as a semi-supervised learning model in machine learning paradigm Read the full report: https://www.reportlinker.com/p05843529/?utm_source=PRN - Assessing the breadth and depth of RL applications in real-world domains, including increased data efficiency and stability as ..."
-    publishedDateTime: 2020-02-04T00:29:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/reinforcement-learning-an-introduction-to-the-technology/article_e7b3bb8b-1640-558e-ad72-0d094c7024d8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
 
 secured: "6Y3hYBY92bSrc0Bz3J0m7EaXcU9khbNZwBg6u5f20dlWm3ApawDgZasVFiMUrLSVi6fgY4sqib23728pJxfYPMBNsqxT+nJF83L33MAFccCuR4Mc+BvSlkymQJQFkZ1f4wAi+WKEHct/4OoVxrOm3qNkFg79ss6SWxAhf3fS96GH94vdmQTA8A+whgcmAvqfkYXZqXfkzePbnAJqPEW5nLrcBnAXcseRXf0fd2HVodf1ewPa9mLZKNr6zMOj9OpgWX73PvaDE8F3u1Pw7g3Zqy2mTxs8hon7G0kcqWgTDNXNbrPtgKT5BDAJLM+6cggy;m7aVOVg874DRmAlo4hIiew=="
 ---

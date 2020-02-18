@@ -88,6 +88,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Computer Vision in Healthcare Market by Trends, Growth Projections and Forecast To 2020-2025"
+    excerpt: "New York, February 18, 2020: The Global Computer Vision in Healthcare Market is expected to exceed more than US$ 343.3 Billion by 2024 at a CAGR of 21.3% in the given forecast period. Browse Full Report: https://www.marketresearchengine.com/computer-vision-in-healthcare-market Market Research Engine has published a new report titled as ..."
+    publishedDateTime: 2020-02-18T17:29:00Z
+    webUrl: "https://www.openpr.com/news/1936487/computer-vision-in-healthcare-market-by-trends-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
 
 secured: "dbPKoHO8qa9I6z5ukMXehdNCl96c/B9X+v4m4xS51Xgxcr42p46ZqOBeDoleWTDKa7ACK88jFgVyjJBlDmSCJavLGZRQmcmEfutypEd+x+o774TrwDpNGqyHj6TlIrG7NX88IIr/TmwVs6+CTK7MD/cMhOcqT2imlThNrroP6HsJ/irFkgxhu5M4WmxLh6rms7ZpQJ2SOOKK5ZyBIBRH/SqmZyNhYVzhxTq29Sue9VysP9PZNnUUdK1KvW4AyBmbfQXLIvgn4P5jvDclMjlheuN8ERUipLpU/RId1xqCC/BJ5JnR9KIIg/HSbPsX9nXKMxuYdNITpwY5FU97KGCoqpkjT2yTGs8Ol4aRi0bzssLToPRmRgjY+Je/gVTmccvBJOcj9JBUs0tC18qWgY/AJthmJWQ0dj7VUczv/n048Pi2DgBJ9/QSEgZjRqO4JMc49th/BHNTkTidYcCPundOzOdACK5wWm+VWuVP3haZB0s=;/d5hZX9L7ZFcRmmwKVcatQ=="
 ---

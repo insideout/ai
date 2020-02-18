@@ -5,7 +5,7 @@ excerpt: "SANTA CLARA, Calif., Feb. 13, 2020 /PRNewswire/ -- Nearly 90 percent o
 publishedDateTime: 2020-02-14T00:34:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/most-tech-sector-leaders-believe-companies-should-have-an-artificial/article_eba00144-693c-50fb-a136-71bd8f666458.html"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/c3/bc32bf00-bb9b-5f2c-8077-1fabc490001d/5e462968d4908.image.jpg?resize=400%2C295"
@@ -39,6 +40,6 @@ related:
         width: 1200
         height: 800
 
-secured: "XpetG+pilyoQVLJJ6autSWyObFtT87f/JrXA/9KNKY6EBVs1pxvEBpuNX2Ect7vd0etmAthcsf3Ll15Kv9awghaFMksqLXtwoFxjoqmvuqnHuJrBdxk/xJ6bNRApWWBDAJ6mSyAhbo7GFHc6hukVqgdNmwimnRtoyRNpgIYB3xXQPl3L7SGvvhQ51FMl7SA0d7f67g3o7TkwT1h025WyevzUp/R73LyCyi8bu+qVtbsEEktaD4nkOPFNcaeCgH0deEI9lgRo09QNT04GVkbL5Fwji3nOnejM2w0xlGc27C2VwjL/9/ON0zbW0SHZrejY;PvotweJkSWPXD0JdZerQmA=="
+secured: "Y12v5GHgi2KUPFbRdyZ1roCra8qq8EBiiJv5RNyH1Zm5unWbWx6u9SzrdSw5GaRdHN8owJqNtG7VOhrUGYL1woV2VkgxJ6Bs7R2LxPfuNWO1YmNzRcoxCpTh/fg6Hmf3pe2RwA3j0W2JLdTgHl9lUcq0DwrnZNrlSzVJAUGCqGqnh4oWumq6aSyl8qS6VC5WmHmwCLWuJrAyBry1t1mcRpERAvbpovk0u+wOujhhWRnSEnuJh/Wls40rtGZMSc1ar8v8VlcR4T7wZ3VV9ypd6CJ7Js3IY9umWnoEJOOsFcRhq6YKrCRobfoBBF8RwIgoHtpLompX9XIblzAzp9361smWL+qZdobXP2ku/+H7lAb5pr2zShQ2PN+7pBTdMWFwKpTOC+aOUp2/xkHp/648oMKKGOlImIyHKD0qZ5KIHGCbOp4/HyhVNrKnfDQCec6Cj8lSUPYuDaSKiirNF7te+bSQxmifbOTcA7ZeOLyQHYE=;nwd2BnL8zdne78mAGE7tBA=="
 ---
 

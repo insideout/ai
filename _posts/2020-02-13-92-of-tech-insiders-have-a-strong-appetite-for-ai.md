@@ -38,7 +38,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 18
+    quality: 20
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/c3/bc32bf00-bb9b-5f2c-8077-1fabc490001d/5e462968d4908.image.jpg?resize=400%2C295"
         width: 400

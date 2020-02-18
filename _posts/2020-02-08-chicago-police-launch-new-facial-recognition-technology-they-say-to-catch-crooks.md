@@ -78,21 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
         width: 600
         height: 360
-  - title: "Hardin County animal shelter using facial recognition technology for lost pets"
-    excerpt: "Users will be able to search the shelter and surrounding areas to find missing pets, locate the family of a found pet or search for adoptable pets."
-    publishedDateTime: 2020-02-04T02:03:00Z
-    webUrl: "https://www.wlky.com/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    ampWebUrl: "https://www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    type: article
-    provider:
-      name: WLKY
-      domain: wlky.com
-    quality: 55
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
   - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
     excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
     publishedDateTime: 2020-02-06T19:08:00Z
