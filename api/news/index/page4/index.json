@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_posts/2020-02-10-meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models.md",
+      "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+      "excerpt": "Microsoft Research today announced DeepSpeed, a new deep learning optimization library that can train massive 100-billion-parameter models. In AI, you need to have larger natural language models for better accuracy. But training larger natural language models is time consuming and the costs associated with it are very high. Microsoft claims ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/",
+      "ampWebUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "publishedDateTime": "2020-02-10T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2020/02/Microsoft-Deepspeed-deeplearning.jpg",
+          "width": 1305,
+          "height": 717,
+          "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-new-music-label-says-it-can-use-ai-to-find-the-next-big-artist.md",
       "title": "New music label says it can use AI to find the next big artist",
       "excerpt": "We've seen artists like Björk and Arca use the technology to create new musical arrangements. But a new label called Snafu Records thinks it can also use AI to discover the next big artist long before even the most music-savvy talent scouts find them.",
@@ -1287,51 +1324,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-chinese-subways-are-using-artificial-intelligence-facial-recognition-scanners-to-help-detect-whether-people-have-coronavirus.md",
-      "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
-      "excerpt": "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
-      "publishedDateTime": "2020-02-11T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-cloud-machine-learning-business-growth.md",
       "title": "Cloud + machine learning = business growth",
       "excerpt": "Making batch predictions does have an incremental cost. AWS SageMaker is a fully managed platform to help you build DL models. It is one of the recently added AWS services. The main idea behind ...",
@@ -1500,7 +1492,7 @@
       "path": "_posts/2020-02-11-first-time-ever-artificial-intelligence-develops-drug-candidate.md",
       "title": "First Time Ever, Artificial Intelligence Develops Drug Candidate",
       "excerpt": "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last.",
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/",

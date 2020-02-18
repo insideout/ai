@@ -36,6 +36,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "n0/lufWJmQDIbHwPxUThK86iJ/oadHAZWiXwK97VpmW1KEV+xrJ/TWrcPB31cVLZWtQxGSl83I+TkXEyThWvykJ7cau+JNjvb6Q8QMknOtxAPlVznu47iXtRE/SahoRlOYkzFzBO7tP9b0EfN/bTzQW+qW1UgG1EAR7fgoLZwRCnv8BdwKnMoB2PdWKSWiNhc6E7SGy7etWtZdGrziSn3s2G+WjUeyTFVaGneUy1varIkVSIiITuKDi4+/gz673UO72URNwcvxtfVBM371t2apUMS2N0XtHzx8cEghKNeypqJzY7nm6/HFcJLYK2v0Te;FKAWIWX/W77PA7gz7UBEzw=="
+secured: "A9yGwSeeqtMWVKxIW70BAA4TiD9r6b7ydNvdPehgZZ4vgPVv/x5uiys8SZX7k+PXzFJsvAbT0CBpX4x/GnZ12ljxLLVDaIMUTnh5Zq595p3/MxBe7WPsT++JMH78jLHVGrAPSvwbUw1gx7Q/ehxlhtaGLijDo0SbXthymxF3OFc2r4XT3R4ltv32HwgWCNLoOZeoQc2hhkTRp8I8PvldY77NfpnQSpYhuNN+mECLPsS87lHzeCkj5wj3PVGmRprZk2NtovdS/+pZSe5urhP4y4oKo6k1KPhb/DdC5QpPlQeT/JgnPAvKAIchArc1Buty;XcvvNCBWn1JhOGoN5yXxnA=="
 ---
 

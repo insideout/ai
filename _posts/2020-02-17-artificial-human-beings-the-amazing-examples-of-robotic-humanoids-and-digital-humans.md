@@ -30,21 +30,49 @@ images:
     title: "Artificial Human Beings: The Amazing Examples Of Robotic Humanoids And Digital Humans"
 
 related:
-  - title: "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership"
-    excerpt: "machine card games to the “Terminator” movie series. But according to Eric Horvitz, the director of Microsoft Research Labs, the hottest trends in AI have more to do with creating synergies between the humans and the machines. Mastering human-AI collaboration is something “we don’t hear enough about in the open press,” Horvitz said ..."
-    publishedDateTime: 2020-02-18T16:04:00Z
-    webUrl: "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/"
-    ampWebUrl: "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/"
+  - title: "Are Robots Better Investors Than Humans?"
+    excerpt: "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds."
+    publishedDateTime: 2020-02-15T12:00:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 85
+      name: InsideHook
+      domain: insidehook.com
+    quality: 159
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/200217-horvitz3-630x579.jpg"
-        width: 630
-        height: 579
+      - url: "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853"
+        width: 1280
+        height: 853
+  - title: "Rutgers robot draws blood better than humans in first trials"
+    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the healthcare robot to improve its performance."
+    publishedDateTime: 2020-02-08T13:36:00Z
+    webUrl: "https://www.therobotreport.com/rutgers-robot-draws-blood-better-humans-first-trial/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/alte-cinci-decese-provocate-de-gripa-1024x826.jpg"
+        width: 1024
+        height: 826
+  - title: "Robot-analysts make BETTER stock recommendations than human investors, study finds"
+    excerpt: "Robots are said to take over some 200,000 jobs on Wall Street over the next decade ... Robo-Analyst firms generally advertise sophisticated technologies such as 'Natural Language Processing,' 'Machine Learning,' and 'Artificial Intelligence' on their corporate websites and produce reports that rely more on technical analysis than on subjective ..."
+    publishedDateTime: 2020-02-11T20:47:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7992809/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7992809/amp/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7992809/amp/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 53
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/11/20/24618678-0-image-a-8_1581453934827.jpg"
+        width: 636
+        height: 382
 
 secured: "7pL2bxlEqf0jUniUFte5JKVKLNPKHIEHiOwDBmm64CGAjqCU1b+J8VX29pSRA25VBmUpzWcYdnFyqSF2HW+d+3O+EfC12xiZMg1KziTSNuL6svVF/XUdf+G6uNnbwqVlYEhGzFm848yxeRx1aMkkCM7sqCSEUyJ5aGG0M5HE59e2WMPsMl83oMQmw6OjvLDcaVK/5GkZdI6W/0Io4nJ9uiyLctjcr/ILl2/YPYAbpxJGWNIMI1++kLV6JeQM8N0pWfk2Rk3puFEjHbMgGXT/Ob+r0IuumKE3goCVZPX5d0z+aputxStFGeXBi3DBBC2RBL/lyZsU+M2NJWnA699l9S6XkUZ9dh4r0dBSA/fAdfGfltv4A6nHUz+vZCtyw+nYLfuAOMX3SiVihFt8mHMCp2CFngHV1lVAG3HUIIHUUa2bnRvvZEacqxxO4W5vCRdRFzNgEppqUD+i+/hWJ0sz+nwYKd/Ax3RHbxi8Ol8iciI=;gysesSDmxP5zivOeb0K6MQ=="
 ---

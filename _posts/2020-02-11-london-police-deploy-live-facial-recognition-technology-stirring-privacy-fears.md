@@ -243,17 +243,6 @@ related:
       - url: "https://www.unr.edu//main/images/news/2020/Feb/MPLGroup.jpg"
         width: 900
         height: 678
-  - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
-    excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
-    publishedDateTime: 2020-02-14T17:55:00Z
-    webUrl: "https://www.theglobeandmail.com/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 8
 
 secured: "Q4QOanbYX46Wh9km7VXTVEdqYVybm9oqPA9RFqSU5mJQhOS6W8uRJgwwTQhDD6KBsbihWRZ80MZvyN+/Peri66qeHxU4xYeaje5SzZhzA3z8QIaDPbv2Jfe3/94ZD2T8OJ0M1jBDDri1GkjvcXdcGI4x1OVnmbTxvYCG5EMCACzNL1Jvk9BLtJIS44C6mYIP5y9ZI9CyNoY9pMZ/3p3RHbiNosGhVoguEnzswZp9JI48WNS9OpFKUuhO0EIQLqG7yHOJF0YHNEcjYvU2uxMUSfwDBTMsMLzxcwEP7hO9iBB95pPYoZqyAHaQtFZAEPhmgkKyaN2KbF/keypQkCuANXM/lvIhP33wFTMo1zIWl/EavEv66MDrlEqu9ltA3bMQ2hH05PtfnL4/53bOdXVGh/ErzLhk2lJfkcSwAxhBalrE7KfC7+5RxJBAljAnGSuEV6Wp0K1qWqHPzF0crfaJkTj6Xuiplkgc+sZ7wFcFxJk=;Wg3Ub7XGKLePL4EDwqAZPg=="
 ---

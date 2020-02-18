@@ -2,6 +2,266 @@
   "page": 21,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-29-ups-teams-up-with-waymo-to-test-self-driving-delivery-vans.md",
+      "title": "UPS teams up with Waymo to test self-driving delivery vans",
+      "excerpt": "Washington, DC (CNN)Waymo is teaming up with UPS to test the use of its self-driving vans in transporting packages. Waymo, the self-driving arm of Google's (GOOG) parent company Alphabet, will use its autonomous Chrysler Pacifica minivans to bring packages from UPS stores in the Phoenix area to a UPS sorting facility in Tempe,",
+      "heat": 329,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
+      "publishedDateTime": "2020-01-29T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200129135300-waymo-ups-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "UPS teams up with Waymo to test self-driving delivery vans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-waymo-and-ups-team-to-deliver-packages-with-self-driving-vans.md",
+      "title": "Waymo and UPS team to deliver packages with self-driving vans",
+      "excerpt": "Autonomous car company Waymo has announced a new partnership with the delivery company UPS. This is said to be ‘a first-of-its-kind deal’ involving Waymo Driver, the company’s self-driving car tech. As part of this deal, Waymo Driver will help UPS deliver packages in Chrysler Pacifica vans, though the deliveries will be limited to just ...",
+      "heat": 269,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/",
+      "ampWebUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
+      "publishedDateTime": "2020-01-29T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/waymo_ups_main.jpg",
+          "width": 1422,
+          "height": 800,
+          "title": "Waymo and UPS team to deliver packages with self-driving vans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-what-politicians-dont-understand-about-the-ai-debate.md",
+      "title": "What Politicians Don't Understand About The AI Debate",
+      "excerpt": "The U.S. economy continues to expand, with reports from the Bureau of Labor Statistics indicating there are more job openings in the U.S. than people to fill them. Despite this data, working Americans are very concerned about job loss due to AI and automation,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/what-politicians-dont-understand-about-the-ai-debate/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/what-politicians-dont-understand-about-the-ai-debate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/what-politicians-dont-understand-about-the-ai-debate/amp/",
+      "publishedDateTime": "2020-01-29T04:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/870184586/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 473,
+          "title": "What Politicians Don't Understand About The AI Debate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-worlds-biggest-ever-self-driving-experiment-to-coincide-with-tokyo-olympics.md",
+      "title": "World’s Biggest-Ever Self-Driving Experiment To Coincide With Tokyo Olympics",
+      "excerpt": "Set to take place in early July, just two weeks before the Tokyo Olympics, the multi-manufacturer group will produce some 80 self-driving vehicles",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/",
+      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/amp/",
+      "publishedDateTime": "2020-01-29T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e310a64f133f400076afae6%2F0x0.jpg",
+          "width": 900,
+          "height": 563,
+          "title": "World’s Biggest-Ever Self-Driving Experiment To Coincide With Tokyo Olympics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-2-major-security-flaws-detected-in-microsoft-azure-cloud-know-what-they-are.md",
+      "title": "2 major security flaws detected in Microsoft Azure Cloud: Know what they are",
+      "excerpt": "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.indiatvnews.com/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
+      "publishedDateTime": "2020-01-30T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/satya-nadella-1580390767.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "2 major security flaws detected in Microsoft Azure Cloud: Know what they are",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-ai-finds-square-structure-inside-triangle-on-ceres-failing-experiment-to-see-if-it-could-be-used-to-find-aliens.md",
+      "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
+      "excerpt": "In an experiment designed to see if artificial intelligence could be used to discover extraterrestrials, it detected an unusual \"square structure\" inside a \"triangle\" on Ceres, a dwarf planet that sits in the asteroid belt between Mars and Jupiter.",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856",
+      "ampWebUrl": "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1",
+      "publishedDateTime": "2020-01-30T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1563805/bright-spots.jpg",
+          "width": 720,
+          "height": 400,
+          "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-30-ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated.md",
       "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
       "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of the progress of AI highlight anxiety about AI eliminating jobs, the competition for AI talent, questions about employees AI preparedness,",
@@ -1502,6 +1762,42 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-31-do-you-know-the-2-categories-of-fintech.md",
+      "title": "Do you know the 2 categories of fintech?",
+      "excerpt": "Click to share on Twitter (Opens in new window ... fintech categories was $12.9 billion over 513 deals according to CB Insights. That’s already past the $12.5 billion in funding from all ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.housingwire.com/articles/do-you-know-the-2-categories-of-fintech/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HousingWire",
+        "domain": "housingwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.housingwire.com/wp-content/uploads/2020/01/AdobeStock_289776048.jpeg",
+          "width": 1010,
+          "height": 371,
+          "title": "Do you know the 2 categories of fintech?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-31-forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same.md",
       "title": "Forget The ROI: With Artificial Intelligence, Decision-Making Will Never Be The Same",
       "excerpt": "Having the right mindset toward AI means looking beyond traditional, cold ROI measures, and looking at the ways AI will enrich and amplify decision-making.",
@@ -1856,279 +2152,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-local-speech-recognition-tech-company-partners-with-global-call-center-company.md",
-      "title": "Local speech recognition tech company partners with global call center company",
-      "excerpt": "Voci Technologies, a Pittsburgh-based company that provides automated speech recognition technologies, announced Thursday that it had entered into a partnership with a global provider of call centers.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html",
-      "ampWebUrl": "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html",
-      "publishedDateTime": "2020-01-31T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Local speech recognition tech company partners with global call center company",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology.md",
-      "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
-      "excerpt": "The first step, which is the most important, is to view the enterprise AI challenge as a business problem instead of a technical problem.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
-      "publishedDateTime": "2020-01-31T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/921518908/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs.md",
-      "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
-      "excerpt": "AI comes in many different forms, and identifying which type is most suitable for a particular use case isn’t always easy.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
-      "publishedDateTime": "2020-01-31T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/888421376/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-oscar-nominated-live-action-shorts-tragedies-near-tragedies-and-soccer-loving-kids.md",
-      "title": "Oscar-nominated live-action shorts: Tragedies, near-tragedies and soccer-loving kids",
-      "excerpt": "The five live-action short films vying for the 2020 Oscar either dance on the border of tragedy or fall headlong into it ... “I heard the recording of the emergency call on YouTube and it stuck with me for months,” said Girard. “I started to create a back story to every character so I could understand them and find their own particular ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-01-31/oscar-nominated-live-action-shorts",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-peta-requests-punxsutawney-phil-to-be-replaced-with-robot.md",
-      "title": "PETA requests Punxsutawney Phil to be replaced with robot",
-      "excerpt": "The People for the Ethical Treatment of Animals (PETA) sent a letter to the Punxsutawney Groundhog Club requesting that the groundhog should be replaced with a robot. The letter signed by PETA President ... \"We even have the technology to create an animatronic groundhog with artificial intelligence (AI) that could actually predict the weather.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot",
-      "ampWebUrl": "https://www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot?_amp=true",
-      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot?_amp=true",
-      "publishedDateTime": "2020-01-30T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News and TheDenverChannel.com",
-        "domain": "thedenverchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/895a56d/2147483647/strip/true/crop/1024x576+0+30/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F17%2F8b%2F580caf7847b0af70cd5cffab8dc3%2Fgettyimages-1092707002.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "PETA requests Punxsutawney Phil to be replaced with robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-russias-use-of-facial-recognition-challenged-in-court.md",
-      "title": "Russia's use of facial recognition challenged in court",
-      "excerpt": "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ...",
-      "heat": 939,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-51324841",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51324841",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841",
-      "publishedDateTime": "2020-01-31T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif",
-          "width": 1024,
-          "height": 576,
-          "title": "Russia's use of facial recognition challenged in court",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-setting-up-framework-for-ai-in-healthcare.md",
-      "title": "Setting up framework for AI in healthcare",
-      "excerpt": "Growing populations, demographic changes and a shortage of health practitioners are also putting pressure on the healthcare sector. At the same time, increasing amounts of digital health data and information have become available. How can we tap this vast data resource? Artificial intelligence (AI) models are now being developed to learn from ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestar.com.my/opinion/letters/2020/01/31/setting-up-framework-for-ai-in-healthcare",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg",
-          "width": 1240,
-          "height": 936,
-          "title": "Setting up framework for AI in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -18,30 +18,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Rutgers robot draws blood better than humans in first trials"
-    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the healthcare robot to improve its performance."
-    publishedDateTime: 2020-02-08T13:36:00Z
-    webUrl: "https://www.therobotreport.com/rutgers-robot-draws-blood-better-humans-first-trial/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/alte-cinci-decese-provocate-de-gripa-1024x826.jpg"
-        width: 1024
-        height: 826
-  - title: "For The First Time Ever, A Drug Developed By AI Will Be Tested In Human Trials"
-    excerpt: "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last."
-    publishedDateTime: 2020-02-12T02:10:00Z
-    webUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/"
-    ampWebUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
   - title: "New blood-sampling robot performs as well or better than people"
     excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
     publishedDateTime: 2020-02-06T20:38:00Z
@@ -57,21 +33,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
         width: 620
         height: 480
-  - title: "Are Robots Better Investors Than Humans?"
-    excerpt: "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds."
-    publishedDateTime: 2020-02-15T12:00:00Z
-    webUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans"
-    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
-    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
-    type: article
-    provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 59
-    images:
-      - url: "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853"
-        width: 1280
-        height: 853
   - title: "New robot does superior job sampling blood"
     excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
     publishedDateTime: 2020-02-06T16:45:00Z
@@ -111,6 +72,15 @@ related:
       - url: "https://www.futurity.org/wp/wp-content/uploads/2020/02/blood_draw_robot_1600.jpg"
         width: 1600
         height: 915
+  - title: "Robot Does Superior Job Sampling Blood"
+    excerpt: "Data from this study will be used to enhance artificial intelligence in the robot to improve its performance. Republished courtesy of Rutgers University-New Brunswick. Photo: A prototype of an automated blood drawing and testing device. Credit: Unnati Chauhan"
+    publishedDateTime: 2020-02-06T17:49:00Z
+    webUrl: "https://www.laboratoryequipment.com/560529-Robot-Does-Superior-Job-Sampling-Blood/"
+    type: article
+    provider:
+      name: Laboratory Equipment
+      domain: laboratoryequipment.com
+    quality: 19
 
 secured: "OaM6Ob9oYqi1r0D/YxEoETiikJmAUdIaTQVzox9tFuGefW+9pvV5mZIP6gf7a3O9rNVDqNBMNDJJPVMeaGQaT5lRVodmLx8DhimLUkb/2ZWXmNjDxkwjD0jv7aoiBg0KuWR5rEnl86DT8HUW/UUKofAYRjEfDqnN2kUs/+GRDD46UsRvoyy/0LbEK++wgU6kDEzywDYEfciRE8TMaEXiLUSn2NhwODXUtZkbBD2Y67vInpbCdaaL+WFcAkuKe6ur3HuAek74k9oof3EUfEJtdDwdHeYjkwLNMR35C0qc9F6kMl4NHAAkkuQ2zTb51XUgjt1aXTd5fHMSuwvE87PaYwpFPz639X63LHg0/2LtYFqqGQ4moxz2pLQSpu5IjZfLqCXy32qgB1PE3/sxIxP6aZ0xf9BboCXdImgvbY7HQnSm5cqyVLw6mysnHN66TvvNYSFdZE5Bl+ZuEtVCSmkofzZJW32Yuvp7bgyPPRkU9JA=;kTI1VE3JUnvEsKET3eqTsA=="
 ---

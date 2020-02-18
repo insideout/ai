@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20B0ZQ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20B0ZQ"
 type: article
 quality: 89
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -247,17 +247,6 @@ related:
       - url: "https://www.unr.edu//main/images/news/2020/Feb/MPLGroup.jpg"
         width: 900
         height: 678
-  - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
-    excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
-    publishedDateTime: 2020-02-14T17:55:00Z
-    webUrl: "https://www.theglobeandmail.com/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 8
 
 secured: "plcb1FEElUd27FbW95J73WWgc4cK0b8hlOiAVjEse/7JOL4gyj6jqCp4CAvx7IE9xwZlVDloMAi3KmWWQpjsIJ52w4Y+SHKp6TIjP1ipSCBvAhsGobpJt4MWsQaiktu0BSQSLkL6NnRUcJeEUuHPr2Gd2edB5+DRfU0AKZ3L1y6QL64weAJpvu5UGqqyjTy17HKaePLFdEGG+a6jmXXuT2ZpkckQrQ0FFqFNpgOxNIV/2kGu+V6U+lZ7A7+O98X9FUwJbvlbthy7fGtEnUpFrwl4YhjnNZ6YqwyAYK/pS1PnoD5bMS9bbMWuTHc7Vp7rO/uc6dYGfcaayj7xi9DzXHsZeDCDjCxBzkto2k409Eq8My105+HBCTjWW0D46MCS4XDFiY77/3C6hwJ0BpaZCRMmlmiC6d0e3r0dzpVk4aN33JfeHNym+bZDIzncSMtYYo7MJKmtwXC2A8YZWQccHK6D9F7ODDWIqBac1kp7BUs=;6dA4SD8SY8sF2mEMa4RlCg=="
 ---

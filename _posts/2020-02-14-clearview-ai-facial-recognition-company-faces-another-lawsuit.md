@@ -497,6 +497,32 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 39
+  - title: "NAB stops work on facial recognition ATMs"
+    excerpt: "NAB has stopped work building facial recognition-enabled ATMs despite technology trials that were initially deemed successful enough to try for a more production-ready machine. The bank showed off a proof-of-concept ATM with facial recognition at the Sibos financial conference in Sydney in late October 2018. It coincided with the bank signing ..."
+    publishedDateTime: 2020-02-18T20:00:00Z
+    webUrl: "https://www.itnews.com.au/news/nab-stops-work-on-facial-recognition-atms-538197"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200218065827_NAB-ATM-3.jpg"
+        width: 848
+        height: 500
+  - title: "Will banks get caught up in facial recognition backlash?"
+    excerpt: "As consumer advocates, state authorities and national lawmakers line up in protest against facial-recognition technology, banks using it to let customers log in to mobile banking may need to brace for a fight. Last week, 40 consumer advocacy groups — including the American Civil Liberties Union, the Electronic Privacy Information Center and ..."
+    publishedDateTime: 2020-02-18T20:55:00Z
+    webUrl: "https://www.americanbanker.com/news/will-banks-get-caught-up-in-facial-recognition-backlash"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/f0c6b49/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F3a%2Ff4%2F88f2092e4460b86bc36e7e95911e%2Fab-021820-facial-1.png"
+        width: 1200
+        height: 630
   - title: "Basic rules required for facial recognition usage: Statesman contributor"
     excerpt: "In his article, the author says that the use of facial recognition technology, in its present form, is not in conformity with the right of privacy. KK Paul NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) - In spite of several advantages of the latest technology of facial recognition, doubts continue to prevail in view of its very thin legal base."
     publishedDateTime: 2020-02-12T03:46:00Z

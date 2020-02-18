@@ -2,16 +2,16 @@
 category: news
 title: "Global Robotics Market in Personal and Homecare Sector 2020-2024 | Evolving Opportunities with Blue Frog Robotics SAS and F&P Robotics AG | Technavio"
 excerpt: "https://www.technavio.com/report/robotics-market-in-personal-and-homecare-sector-industry-analysis The market is driven by the emergence of low-price robotic solutions. In addition, the growing use of artificial intelligence is anticipated to boost the growth of the robotics market in personal and homecare sector. With the increasing popularity ..."
-publishedDateTime: 2020-02-18T19:38:00Z
-webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48883211-global-robotics-market-in-personal-and-homecare-sector-2020-2024-evolving-opportunities-with-blue-frog-robotics-sas-and-f-p-robotics-ag-technavio-004.htm"
+publishedDateTime: 2020-02-18T19:58:00Z
+webUrl: "https://www.tmcnet.com/usubmit/2020/02/18/9099868.htm"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -38,6 +38,6 @@ related:
         width: 1200
         height: 627
 
-secured: "dtg8lm+5iVrMqUMH2zkpNDwqYMnj8PgzlV1j4pAjjeaJBkQGugkS9+HClHBkqNGFWPyRuCXbjvEyOG5dXl4QhuK0GJ9PgfxskaqmP74XSGpr650rxAKsEicMsIixsGTKJszxquwlOFM5UvWAuNhV8evimDrxYoy05OnRlw2T4Psg4VIDAJHGzRoWOLCTGBoOF+dtlGJANzFpQGcuZLskFOZcYjirvuxKPSn6K/hAD1CH//Cc2ICnzF9Wm0ATTu6Ecp9iMK9bo8wkMT7+pYY24Mws8Mig5oMHh/ySvjYUZzlzyKT3zqEJnGJaUctLtT/a;zp+LTN7ZRECJHKPmp9k0KQ=="
+secured: "V+Y06enEfN7qt8JZ7E9irNmaW5fbBp7lNQWWKBIk9p0gGVsk7NoSV6iKLyOk6Os/K8PRLSraQGp6addzcmkzR0JAHYeFiA+uBhNviACTLK3SEXxCLRFjqZEeHTL1OlKQSO6LBhY9YJ8OhlqenwSRd8/XjiAGhTJ6wdp7OT3DLnY7p/STBr5j2IuFvecwVoSsDTlrkBO6q3IOmrdwKiXoake8/wtUePURp2FtG+yw0wdAtkqkNlEXiFapbhmzPrIwQflVa2bAZM/APOV4oHWcNBdpht0vVkWgo40w5Ljpl9Xv1zhD7l9IkA463X5WKAMn;bnjEuC+qUF9MaYUMIemeMA=="
 ---
 

@@ -30,206 +30,73 @@ images:
     title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
 
 related:
-  - title: "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns"
-    excerpt: "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer."
-    publishedDateTime: 2020-02-06T22:05:00Z
-    webUrl: "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
-    ampWebUrl: "https://www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
+  - title: "China’s facial-recognition giant says it can crack masked faces during the coronavirus"
+    excerpt: "China’s SenseTime, the world’s most valuable AI startup, said earlier this month (link in Chinese) that it was rolling out a facial-recognition products that incorporates thermal imaging cameras to help spot people with elevated temperatures at building entrances and airport checkpoints, and send pop-up alerts to users of the software."
+    publishedDateTime: 2020-02-18T09:02:00Z
+    webUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/"
+    ampWebUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 88
+      name: Quartz
+      domain: qz.com
+    quality: 166
     images:
-      - url: "https://images.wsj.net/im-151698/social"
-        width: 1280
-        height: 640
-  - title: "U.S. Homeland Security has used facial recognition on over 43.7 million people"
-    excerpt: "This morning in a hearing before House lawmakers on Capitol Hill, Department of Homeland Security (DHS) officials detailed the administration’s use of facial recognition technologies across the ..."
-    publishedDateTime: 2020-02-06T22:15:00Z
-    webUrl: "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/"
-    ampWebUrl: "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/"
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?w=1400&strip=all&quality=75"
+        width: 875
+        height: 492
+  - title: "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software"
+    excerpt: "The facial recognition company has been embroiled in a storm of controversy since The New York Times revealed that it was helping police match photos of suspects’ faces to images scraped from websites and social media platforms to aid in their investigations. Clearview says that it has amassed a database of more than three billion images ..."
+    publishedDateTime: 2020-02-11T17:49:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 93
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/OnPaste.20200206-165030.png?fit=2560%2C1440&strip=all"
-        width: 2560
-        height: 1440
-  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
-    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2020-02-07T18:22:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
-    ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
-    cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png"
+        width: 796
+        height: 417
+  - title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
+    excerpt: "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up."
+    publishedDateTime: 2020-02-11T17:44:00Z
+    webUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 85
+    quality: 77
     images:
-      - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
-    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
-    publishedDateTime: 2020-02-10T14:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-  - title: "Facial recognition can ID you in a crowd. But NJ wonders who's using it, how to regulate it"
-    excerpt: "Facial recognition can ID you in a crowd. But NJ wonders who's using it, how to regulate it With more questions than answers about how facial recognition technology is used by police and private companies, New Jersey considers a moratorium. Check out this story on northjersey.com: https://www.northjersey.com/story/news/2020/02/06/facial ..."
-    publishedDateTime: 2020-02-07T08:21:00Z
-    webUrl: "https://www.northjersey.com/story/news/2020/02/06/facial-recognition-clearview-police-new-jersey-attorney-general/4666380002/"
-    ampWebUrl: "https://amp.northjersey.com/amp/4666380002"
-    cdnAmpWebUrl: "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/4666380002"
-    type: article
-    provider:
-      name: NorthJersey.com
-      domain: northjersey.com
-    quality: 49
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2019/11/13/USATODAY/usatsports/imageforentry20-mcf.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg"
         width: 1200
-        height: 675
-  - title: "EU Ponders Temporary Facial Recognition Ban"
-    excerpt: "A facial recognition ban of up to five years is currently being considered by the European Union (EU) amid growing concerns about the potential misuse of the new technology. According to a draft white paper, first obtained by news website EURACTIV on 17 January, the European Commission (the executive arm of the EU) is in the midst of ..."
-    publishedDateTime: 2020-02-04T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/eu-ponders-temporary-facial-recognition-ban/"
+        height: 600
+  - title: "U.S. military facial recognition could identify people from 1 kilometer away"
+    excerpt: "Thanks to recent advances in machine learning, facial-recognition technology can pick faces out of a crowd with impressive accuracy. But just how far away from their subjects can cutting-edge facial-recognition systems work? According to a new report, a whole lot further than you probably think. So far, in fact, that the person identified may ..."
+    publishedDateTime: 2020-02-18T19:59:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
     type: article
     provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 39
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/eu-ponders-temporary-facial-recognition-ban_1500.jpg"
-        width: 1500
-        height: 860
-  - title: "Met Police begins deploying live facial recognition cameras in Stratford"
-    excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
-    publishedDateTime: 2020-02-11T11:37:00Z
-    webUrl: "https://www.computing.co.uk/news/4010475/met-police-live-facial-recognition"
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
+  - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
+    excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
+    publishedDateTime: 2020-02-14T17:55:00Z
+    webUrl: "https://www.theglobeandmail.com/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 38
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
-        width: 370
-        height: 229
-  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
-    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
-    publishedDateTime: 2020-02-13T18:50:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
-        width: 400
-        height: 400
-  - title: "House Hearing on Facial Recognition Technology Uses at Homeland Security Dept."
-    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
-    publishedDateTime: 2020-02-06T17:06:00Z
-    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-    images:
-      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-        width: 1200
-        height: 630
-  - title: "eConnect Presents on Facial Recognition at the Western Indian Gaming Conference 2020"
-    excerpt: "eConnect, Inc., a Las Vegas-based software company which provides hospitality companies with a platform for actionable information, reinforced by video, will be speaking at the Western Indian Gaming Conference and Trade Show."
-    publishedDateTime: 2020-02-10T00:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/p15286237/econnect-presents-on-facial-recognition-at-the-western-indian-gaming-conference-2020"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15286237"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15286237"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-  - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
-    excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
-    publishedDateTime: 2020-02-04T11:29:00Z
-    webUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/"
-    ampWebUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 26
-  - title: "NJ lawmakers debate cops’ use of controversial facial-recognition tech"
-    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-05T18:04:00Z
-    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-controversial-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
-        width: 757
-        height: 667
-  - title: "NJ lawmakers debate cops’ use of facial-recognition tech"
-    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-05T18:05:00Z
-    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
-        width: 757
-        height: 667
-  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
-    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
-    publishedDateTime: 2020-02-04T23:36:00Z
-    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
-    type: article
-    provider:
-      name: NBC Chicago
-      domain: nbcchicago.com
-    quality: 19
-  - title: "Internet giants reject controversial facial-recognition start-up"
-    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
-    publishedDateTime: 2020-02-06T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
-  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
-    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
-    publishedDateTime: 2020-02-04T11:47:00Z
-    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 1
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 8
 
 secured: "aNGClI6UYQOA9+tRBG8bcM6sJPRolea3alNm3o+RRAoVhydKd5LLLRQZrGZ0nplFeSkfCq6cfyusZGRx4WSNIg7uvlR+2RZ3yirMGCra2qBbgvcPzYge8UgK8J7BB5vt6fT4WfpqmI1QFuBaEdfppY2ymrb4kK6lyVBfdguMABCw5hDMVZ0z/Rln4LA1MJwnXtSY/GOVJIO7VHl10LDz2hTf8uvZbpQ+nLO0i1zfkx7aEzK/B0BHlf0eWN3stLgW32PgSd9ah07M9CgPogXeSN03vSGwZK6O7xIFniRo6WcStAMTgGGbryj5bk1BokmIJkODw4UgUKO2bbJDMV/zzGDK7HU71oer+prNXRwszaE0oZ5fzzEFQx4EhlAZKOTm5tKbMw2+cZ9dgnLddAc+lxJnd22U9wp1PXE/+KrtRc0lBa7nKPltLLp1X+l8ndR+0aMGU4jFVxLiwhP8peqy7x0rvSj5iWiNSGqY2XXgNAg=;lEcx2nGWFDqy3ol4KeoiuQ=="
 ---

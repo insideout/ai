@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-pa
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "AI can help cancer patients start radiation therapy sooner"
 
 related:
+  - title: "AI can jump-start radiation therapy for cancer patients"
+    excerpt: "DALLAS - Jan. 27, 2020 - Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating ..."
+    publishedDateTime: 2020-01-27T21:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/usmc-ac012720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/222662_web.jpg"
+        width: 720
+        height: 527
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
@@ -51,6 +64,6 @@ related:
         width: 1200
         height: 450
 
-secured: "ZpqjEvxdz4Qx+2x1rqr8G0LekVhoPAer1M8y+hw1ONDGX+hZwhb+PBowYSBowLJxhhqG0Ao8RHHxGBFXsdJpTy4c7LeKB2AzxFiEHiH06qplgv9BnSpyaRaiAGfTEJRBYWlDpC0z1x6V/gnu/C9thcaFmVSnmQBGEG7M2v71dhufKMcYgSvhUipHcooUCT5TCk98V9qh1l12ObT7PEKQLX1OgKcTigNRinOgwhWUhg62+jdYamBWm6HrBuYhoxHEjaFmd3C5xgbHtqOsm6vaA+lgvjH2a3wW/bN/mrZK7BJ1x1yYXTnxNcrZE/+CWvKa;2jW3GuIz6rUybKQPQhq22w=="
+secured: "ljAFXWmo5VXjb1J9vRSeem2flA97DUHiJ9GADMIjDvnNzcW2ub0gJ1w90H3Vym9JguoUDI9bhXh8wNcQuM1l5yRGR9ZkVtjKqoqboE3MXwWhI3vNHXwMqxVLbEE9+4k662BG0TUWrSi0I6+A+RHdtBnC6bvNq81v1agWbf6uGnSnqryj4j3ivfOHg5LN0HlFSy2McGDAtGnIXt8HHoo4ziFSU+k4KjLoD1jrLdQa2mWZD5rfwQOE6Gr5QlY/xNMawh20IJBYLDbI1WR2Hv3r9mrg6cwsSvqrVDlaVpFBl0U/1H8pz2N1J0gh5uIHHeHY;hlMnR8DmArWi9SlqQMCW0g=="
 ---
 

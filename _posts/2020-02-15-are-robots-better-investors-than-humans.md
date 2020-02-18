@@ -7,9 +7,9 @@ webUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors
 ampWebUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
 cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 159
+heat: 189
+published: true
 
 provider:
   name: InsideHook
@@ -26,6 +26,21 @@ images:
     title: "Are Robots Better Investors Than Humans?"
 
 related:
+  - title: "Artificial Human Beings: The Amazing Examples Of Robotic Humanoids And Digital Humans"
+    excerpt: "Thanks to the advances with artificial intelligence, robots are becoming more human-like, and digital human beings are supporting our everyday lives in surprising ways. Here we have all you need to know about artificial humans beings and the best examples of robotic humanoids and digital humans."
+    publishedDateTime: 2020-02-17T06:47:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a3210a854780006b18efa%2F0x0.jpg"
+        width: 1200
+        height: 675
   - title: "Rutgers robot draws blood better than humans in first trials"
     excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the healthcare robot to improve its performance."
     publishedDateTime: 2020-02-08T13:36:00Z
@@ -39,81 +54,22 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/alte-cinci-decese-provocate-de-gripa-1024x826.jpg"
         width: 1024
         height: 826
-  - title: "For The First Time Ever, A Drug Developed By AI Will Be Tested In Human Trials"
-    excerpt: "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last."
-    publishedDateTime: 2020-02-12T02:10:00Z
-    webUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/"
-    ampWebUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
+  - title: "Robot-analysts make BETTER stock recommendations than human investors, study finds"
+    excerpt: "Robots are said to take over some 200,000 jobs on Wall Street over the next decade ... Robo-Analyst firms generally advertise sophisticated technologies such as 'Natural Language Processing,' 'Machine Learning,' and 'Artificial Intelligence' on their corporate websites and produce reports that rely more on technical analysis than on subjective ..."
+    publishedDateTime: 2020-02-11T20:47:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7992809/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7992809/amp/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7992809/amp/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-  - title: "New blood-sampling robot performs as well or better than people"
-    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
-    publishedDateTime: 2020-02-06T20:38:00Z
-    webUrl: "https://www.news-medical.net/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 53
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
-  - title: "New robot does superior job sampling blood"
-    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
-    publishedDateTime: 2020-02-06T16:45:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/ru-nrd020620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/223630_web.jpg"
-        width: 1440
-        height: 1158
-  - title: "Blood sampling robot excels in human clinical trial"
-    excerpt: "Repeated failures to start an IV line can increase the likelihood of phlebitis ... Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
-    publishedDateTime: 2020-02-07T11:09:00Z
-    webUrl: "https://www.theengineer.co.uk/blood-sampling-robot-rutgers/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 39
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2020/02/BloodPrototype-621x500.jpg"
-        width: 621
-        height: 500
-  - title: "Robot beats people at quick, accurate blood draws"
-    excerpt: "The researchers will next refine the device to improve success rates in patients with difficult veins to access and will use data from the current study to enhance artificial intelligence in the robot to improve its performance. Additional coauthors are from Rutgers and the Icahn School of Medicine at Mount Sinai Hospital."
-    publishedDateTime: 2020-02-11T18:33:00Z
-    webUrl: "https://www.futurity.org/blood-draw-robots-venipuncture-2278372/"
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 39
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/02/blood_draw_robot_1600.jpg"
-        width: 1600
-        height: 915
-  - title: "New Blood-Sampling Robot Performs Better Than Humans"
-    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance. Rutgers co-authors include Max L. Balter and Alvin I. Chen, who both graduated with doctorates; Enrique J. Pantin at Rutgers ..."
-    publishedDateTime: 2020-02-07T10:10:00Z
-    webUrl: "https://www.medindia.net/news/new-blood-sampling-robot-performs-better-than-humans-193018-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
+      - url: "https://i.dailymail.co.uk/1s/2020/02/11/20/24618678-0-image-a-8_1581453934827.jpg"
+        width: 636
+        height: 382
 
-secured: "kLRUJV8dZgU8Pxv112/d7qiFT5MutVRFO78yIXWmRFGZa5LPvoW3hC2+xHtrXF7nE53ooauWWOPvxHVU81bIcgsy9CxV7OuD+OK32T7J5V32oK8wo/yJtcwKu/fsjkU10L+z2dOGSuBx40y8kBaFD5sMQRLueC2/QxSo/Wfs41v4lNgpbAkFMDSq1F1QydO8kh1qZyX7XmaCQ33FLHZXMhDpNJGN1f1QUQ2iXGl2zxm68c0bcdqSjWj1RMaaTQdULxlZpwee8EIbPBfGx0zRDYyMw2NZh/trkSVdXAwRcK6hrAGCf7w8cZbtilKa0nNZlrvdFNmarvG01X0VT2l3V0iShuLVMO/eFPSm9hMDkyI2INAtvtjaRvATpMU6fjmuHvZ5iuGg8L5fT8s0WUp6pZcnYPLTZbELgYoaDpKL93ZuH60A48sUAb9pUdcMvpNf7PJ70onlZHIfr8a2Z0mbaTvV8MdJFxhH+EyUXJZu2g0=;tx72WhhjCzPRe9EDON+6Cw=="
+secured: "/h/M0UPMsrvEjpm+c2ohixqZR/pvLOFgokUnrYlOZxMCKbRCSuIfyvnIYKgnBHq7eu1eN6vwStNP/whD2rmiY0uwvWBtY6wvdRaqV+o3oleIGD0ehn1cF4R1QdcUnEgNiGKbXEcX0N5vNcdOZgwT3dWLc/eJolCjbSlKe690YzZMapm0I5ry/OBevOWNQGaWU5oJ0/7RSVvcP3Q6Gy8wkvOqdSHrbXdnVEzyKdRmZ2GkAeElgQCuYxFWxMo4SZHTCXCzmzffXsO3U4qxL0Lx/3NcxuXqPJ9DJaq3NMw+4VBNrEr3o9pMfdG2aXEXOs0iSEqqlf2X7jKZqxE841mcue2Cr6/Q/UGz1eysnWKrowPZRfIdiFOXU3oh7+pm7lNtxAz937DJqmv+hWhokyBZnkS2lPiWqHfKDYcxZ5ZgUnV+QfmwoPzNzT5ubH3lsJHApb22jfw5qyMMJYIDmEA2UaEO+ht89hAk314r3c9Ec0HvmAqKIRalb+nQO+NiyOp/;z/HKcyCP+p1v72TSDQL1ZQ=="
 ---
 

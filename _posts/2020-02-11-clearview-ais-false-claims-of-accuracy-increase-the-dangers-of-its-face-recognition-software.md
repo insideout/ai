@@ -30,97 +30,73 @@ images:
     title: "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software"
 
 related:
-  - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
-    excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
-    publishedDateTime: 2020-02-06T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/"
-    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
+  - title: "China’s facial-recognition giant says it can crack masked faces during the coronavirus"
+    excerpt: "China’s SenseTime, the world’s most valuable AI startup, said earlier this month (link in Chinese) that it was rolling out a facial-recognition products that incorporates thermal imaging cameras to help spot people with elevated temperatures at building entrances and airport checkpoints, and send pop-up alerts to users of the software."
+    publishedDateTime: 2020-02-18T09:02:00Z
+    webUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/"
+    ampWebUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 105
+      name: Quartz
+      domain: qz.com
+    quality: 166
     images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-  - title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
-    excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
-    publishedDateTime: 2020-02-08T12:03:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?w=1400&strip=all&quality=75"
+        width: 875
+        height: 492
+  - title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
+    excerpt: "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ..."
+    publishedDateTime: 2020-02-11T13:00:00Z
+    webUrl: "https://www.theverge.com/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/1w7EjZRDn4rDOY8DsJ_aggz42gg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66290964/jbareham_170417_1617_0001.0.jpg"
+        width: 1400
+        height: 933
+  - title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
+    excerpt: "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up."
+    publishedDateTime: 2020-02-11T17:44:00Z
+    webUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 79
+    quality: 77
     images:
-      - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Facial recognition: the next step in fight against rabies"
-    excerpt: "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ..."
-    publishedDateTime: 2020-02-10T14:43:00Z
-    webUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/"
-    ampWebUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
+  - title: "U.S. military facial recognition could identify people from 1 kilometer away"
+    excerpt: "Thanks to recent advances in machine learning, facial-recognition technology can pick faces out of a crowd with impressive accuracy. But just how far away from their subjects can cutting-edge facial-recognition systems work? According to a new report, a whole lot further than you probably think. So far, in fact, that the person identified may ..."
+    publishedDateTime: 2020-02-18T19:59:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
     type: article
     provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 74
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
-        width: 792
-        height: 528
-  - title: "Activists launch new effort to kick facial recognition out of schools"
-    excerpt: "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ..."
-    publishedDateTime: 2020-02-06T20:21:00Z
-    webUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/"
-    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
+  - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
+    excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
+    publishedDateTime: 2020-02-14T17:55:00Z
+    webUrl: "https://www.theglobeandmail.com/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg"
-        width: 1024
-        height: 512
-  - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
-    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
-    publishedDateTime: 2020-02-05T13:40:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-hit-with-cease-and-desist-from-google-over-facial-recognition-collection/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 57
-  - title: "Facial recognition in civic polls yield good result"
-    excerpt: "The Telangana State Election Commission has come out with the results of the “Facial Recognition” trials it conducted during the recently held civic body elections. According to the data released, the tests have yielded an accuracy of 80 per cent meaning that eight in every 10 people were correctly recognised by the application used on a ..."
-    publishedDateTime: 2020-02-04T13:23:00Z
-    webUrl: "https://www.tribuneindia.com/news/facial-recognition-in-civic-polls-yield-good-result-35824"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cms.tribuneindia.com/gallary_content/2020/2/2020_2$largeimg_1960177639.jpg"
-        width: 660
-        height: 440
-  - title: "Will we see operators using facial recognition software soon?"
-    excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
-    publishedDateTime: 2020-02-06T15:53:00Z
-    webUrl: "https://www.racingpost.com/news/ice-2020/will-we-see-operators-using-facial-recognition-software-soon/421688"
-    type: article
-    provider:
-      name: Racing Post
-      domain: racingpost.com
-    quality: 19
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 8
 
 secured: "iMRu1JcYEic47lqWvuS53l+xI7QPNfu6NabP0iLjI9lo5jfgiM6rEk7LBXyI09AqbamG3bd/8UO2zkn4Zd755FTuMt8p51maqXF/oPLMPfqyL+w3Jn/SJeVUKFDC7RbYHgGF7ADqjzBUj1Ky8ZyUbdZRg6jwHumY3g4dnJskpWd/yIgAJGzB3EZ/wKu2qL3YIWu/ZjoT9uc+uVcIN3q3wXIWWpZQpYvqDG61BJGcxZNxJjSnZhKNHBtjiS1AJs67yYnKeymHFbeAcJgHQYE2xZw+ydUsL8euddpuUN5WCzlMLD9gYpDzH+5XMuVCoWvZ4f3ZmOXEPpZtFQtabQZmUMEWSAxxxo0TKFGVav4rsRuIf/YL+DabvmZX0x79vjcX+5MVdRY+k/CmZgzNyOO1KGe6KzWPaB9KMct/Olg1DHT2QHdY/Fq/Pl6/R5LqTL/M+3/l/FGIakg/oMAYPG8h5agv/+1BhKlUVBBVyiqMCr8=;kUYFkfRK8Ldq8sp/OPED2A=="
 ---

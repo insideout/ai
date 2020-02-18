@@ -846,7 +846,7 @@
       "path": "_posts/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
       "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
       "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
-      "heat": 175,
+      "heat": 165,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/",
@@ -892,7 +892,7 @@
       "path": "_posts/2020-02-06-lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns.md",
       "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
       "excerpt": "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer.",
-      "heat": 248,
+      "heat": 238,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
@@ -931,6 +931,43 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-new-blood-sampling-robot-performs-as-well-or-better-than-people.md",
+      "title": "New blood-sampling robot performs as well or better than people",
+      "excerpt": "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "publishedDateTime": "2020-02-06T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New blood-sampling robot performs as well or better than people",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1787,6 +1824,34 @@
       ]
     },
     {
+      "path": "_posts/2020-02-07-first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears.md",
+      "title": "First Peoples sing with one voice: this anthem is not ours and at last the NRL hears",
+      "excerpt": "These ... lyrics have changed before, and for a song that has only been our official anthem since 1974, perhaps this might be the right time to update it. Despite Durham and Edwards’ conciliatory efforts, some will say the First Peoples of this continent have much more pressing concerns than a song. This is true, but those concerns do not ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "ampWebUrl": "https://amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "publishedDateTime": "2020-02-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sydney Morning Herald",
+        "domain": "smh.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-07-geek-of-the-week-trupanions-david-jaw-uses-machine-learning-to-help-facilitate-better-pet-care.md",
       "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
       "excerpt": "As the leader of the data science department at Trupanion in Seattle, David Jaw’s projects are actually around pets. Jaw, GeekWire’s latest Geek of the Week, uses artificial intelligence and machine learning to help automate medical insurance claims for pets, streamlining the process and removing the worry about what’s covered and what ...",
@@ -2056,96 +2121,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-six-data-points-you-should-know-about-federated-machine-learning.md",
-      "title": "Six Data Points You Should Know about Federated Machine Learning",
-      "excerpt": "How early attempts to deploy machine learning inside real-world use cases have led to a new approach called Federated Machine Learning. Download the authoritative guide: Leading Big Data Vendors: Solutions to Power Your Business IT decision-makers are using artificial intelligence (AI) and machine learning (ML) in big data projects and state-of ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2019/05/eweek.logo.DataPoints-UPDATE_2.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "Six Data Points You Should Know about Federated Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-smart-cities-how-artificial-intelligence-could-change-london.md",
-      "title": "Smart cities: How artificial intelligence could change London",
-      "excerpt": "Computers are scanning London's roads, with a 98% accuracy rate in identifying vehicles and people. And they are are learning all the time. The new system can run 24/7 and is part of the \"smart city\" revolution. Using data from the scanners, planners can change streets and target investment.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/av/uk-england-london-51415491/smart-cities-how-artificial-intelligence-could-change-london",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T15:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F0A1/production/_110810616_p082lg33.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Smart cities: How artificial intelligence could change London",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

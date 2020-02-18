@@ -244,17 +244,6 @@ related:
       name: LinkedIn
       domain: linkedin.com
     quality: 16
-  - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
-    excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
-    publishedDateTime: 2020-02-14T17:55:00Z
-    webUrl: "https://www.theglobeandmail.com/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 8
 
 secured: "CvKy2hoC4EAy6iR4imEJnmxERA7++o2U7WspSs2CaF64KQaaumzMe9x51XfaiT47NdCHdgz18KRE3gFSRKrBDEvKo79aM4OIJgD3P59jjZyN1YkDR8QTF4Z/25Dbj7zJjkpKqpg0pz8UXUmFbBBOABw/zsKSQbst+y0c0ds/vEded1/IZTZoeoq9FPY2t1Iwdh+gV7A/aAylwDgRg3b/wH71a8ksp90ngeI77BvXXWPE1lulS5qwIH8ESOF1/r6TLbWi1HOvYIjgXhMl4B0tm4YVR5xntDmdMuVfvvNTWCjTErFXkIVlVnrUH7ACQUQ6BWyXqJpjZNyqYnBLRTmmliQuvBesDR1EaVfZQwhaISFm9C5Su5BwGUSflmzWVUA4tE4mG2CRwLQfoVd1jv4c5C9+xGL/rA7ZJBodDZO7/9EPSJGfwVfTaCpVVo4lyG0TwksCnDDwpEeqaYYwOcY+8fwmrtGeU0mfoidnrUyIOoM=;GMaTUS4s+t0/f30x6y1Lsw=="
 ---

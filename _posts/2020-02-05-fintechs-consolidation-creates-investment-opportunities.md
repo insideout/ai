@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-inves
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/02/Trading-analysis-forex-chart-image-1.jpg"
         width: 910
         height: 607
-  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
-    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
-    publishedDateTime: 2020-02-04T04:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Uber Creates Uber Money Team In India With FinTech Focus"
     excerpt: "The Uber Money team will be geared toward putting into place new payment methods, harnessing smart routing technologies for payment gateways, using Uber artificial intelligence (AI) models for intelligent risk decisions ... “The Uber Hyderabad Tech Centre has the best in class fintech talent specializing in risk, payments, financial reporting ..."
     publishedDateTime: 2020-02-11T18:02:00Z

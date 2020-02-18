@@ -36,8 +36,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 81
+    quality: 101
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+        width: 1200
+        height: 763
 
-secured: "6RpvGLfYtTviRLZTKc6cnCmAbV/XE70mzKCOf7GZMaB22pL4YfEjbS04atWbJH1BXqxzvJBL1ZVPVOngnoSKeTNLFNFM+7vFZSNCnc1RlVwSm5QAsOkrFVmNwIPrdvf8ZWADBrVXGMbTI8YUh0lIho18EZQ4G6DFvDypI7YKwcGdzGBNjwcVgJtNLdCPecmpUzTK/DWw9dSH18D50GnWhTdV3TeKSDdkJ9cQ59xL0rDpg9+RWbsvIOFT4ln3R80bv1b2WRE8Ztu4Qy8l7VHIipetthHp6Y7q+a54Wz+rXs3ezQZemkBHlekWUvZ9RLwL;dedyO/FqtXo63fw6O4z2sw=="
+secured: "jm4hlaE+590tSOnYYFXKVm206ldcKtfFqWGgX01VJdu+uIgBJUHQBFIT/sURTa27wv4J7lPd1O+iGnuDhHQJveWJqIELnhkZfPdFl4k8FSw03yVj8SOSAw0AffTdWwhxXkg4faaXS4iWaMudB8LhwPsj3KurTykea9mFKe4auPFYpe3a4dhxTR+0LdKQU/tCAgrU2fAYv5kctd/dJiogXY/+3CV9s1g6y3D+y6oVXyWuqEdsEzSyrUn72ItMHMCo86efEe3HnKH4xHeBrQnBwpmDwNeCNpd5esv8ttsg20ivHLIgs2zEnR1SHWWgG3eg;krQqA5X+UwQ0vTEm3WTlkQ=="
 ---
 

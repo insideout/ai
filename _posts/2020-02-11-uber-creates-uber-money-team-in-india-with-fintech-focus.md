@@ -50,15 +50,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/02/Trading-analysis-forex-chart-image-1.jpg"
         width: 910
         height: 607
-  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
-    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
-    publishedDateTime: 2020-02-04T04:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
     excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
     publishedDateTime: 2020-02-06T09:44:00Z

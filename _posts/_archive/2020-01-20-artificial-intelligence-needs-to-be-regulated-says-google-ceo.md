@@ -24,6 +24,21 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Google CEO calls for regulation of artificial intelligence"
+    excerpt: "LONDON -- Google's chief executive called Monday for a balanced approach to regulating artificial intelligence ... then scheduled to head to the World Economic Forum in Davos, Switzerland ..."
+    publishedDateTime: 2020-01-20T09:12:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/google-ceo-calls-for-regulation-of-artificial-intelligence-1.4774926?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D104070%3FautoPlay%3Dtrue"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 157
+    images:
+      - url: "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1200
+        height: 675
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
@@ -55,6 +70,6 @@ related:
         width: 1200
         height: 628
 
-secured: "1bUg7KDTAR1eX9dqc7cSpLvCsCkniCrrx2egEP5c5R5cCuAwjGTIroCpvnaX+G4RaFWV5XJaWwYHA0GkwkawYVc+KWFu+VCC1RZj0C7i4t9ISD+U51jlGUnfPUNTyKKTZ4v1MHO7BTh1TG/Zp+9LL7VHJlEgZU8FCpCapVvCkYKqHJ755poNDS5aN30W0FnMyNHYlLZNMIO2Y/gzoRFxsJRyMDzAZXXgZGPReeHisaJrxphcEJ97KGG8IAZvTqA6NhKmVHYRH5P+1t63Pi4HR83zgbyPviuX8X293I46rGm/DskUnly7v/MDyt5h0X2A;j58GqQNbdLLdTD/Hi0iKyQ=="
+secured: "lolk2SgqA1B8MeqBHEvOVEj26isAxImVBlPePVNyaTq3slGESyIhr+LdhU5xJmUkPkUMU3CcE8y/OBDUu0Ccx3yfZcglezBRWLHUyfmR+txI4bdXZ+qIAdsuYYwd99mWtoIeB7CTbS7tXl50MZkw42j4n+fWfiiQVVMwQTNgUYkd2TZRsl/G8/64RBPEJvlMngTa1GT96JsmBbukgdVWnjEzxCYDvHHl3MznVtpWIJ2oxFtzNjavzXwgVVl521yQkW4hJcBQAM7pvSEjUkumapnXz7nJy2ZQdlgZ7RRkcHqKf1kTQdxdg4ulSe9HFJ9U;fj9ERMIuzymmwLqlJkx2yw=="
 ---
 
