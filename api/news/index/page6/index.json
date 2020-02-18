@@ -2,96 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-13-deepmind-develops-ai-with-an-imagination.md",
-      "title": "DeepMind Develops AI With An Imagination",
-      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "DeepMind Develops AI With An Imagination",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-disgruntled-former-waymo-self-driving-car-operator-arrested-for-causing-car-crash.md",
-      "title": "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash",
-      "excerpt": "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ...",
-      "heat": 243,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
-      "publishedDateTime": "2020-02-13T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
       "title": "Esteban Granero aiming to bring artificial intelligence into football",
       "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
@@ -1131,7 +1041,7 @@
       "path": "_posts/2020-02-14-machine-learning-market-size-will-reach-us-768-billion-globally-in-2026.md",
       "title": "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026",
       "excerpt": "The global Machine Learning Market will increase by a CAGR of approximately 40.1% from 2019 to 2026 and is expected to achieve a market value above US$ 76.8 Billion in 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,",
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-us-768-billion-globally-in-2026-2020-02-14",
@@ -1265,7 +1175,7 @@
       "path": "_posts/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
       "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
       "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
-      "heat": 120,
+      "heat": 80,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy",
@@ -2143,6 +2053,95 @@
         "AI",
         "AI Hardware",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans.md",
+      "title": "Artificial Human Beings: The Amazing Examples Of Robotic Humanoids And Digital Humans",
+      "excerpt": "Thanks to the advances with artificial intelligence, robots are becoming more human-like, and digital human beings are supporting our everyday lives in surprising ways. Here we have all you need to know about artificial humans beings and the best examples of robotic humanoids and digital humans.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/17/artificial-human-beings-the-amazing-examples-of-robotic-humanoids-and-digital-humans/amp/",
+      "publishedDateTime": "2020-02-16T22:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a3210a854780006b18efa%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Human Beings: The Amazing Examples Of Robotic Humanoids And Digital Humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025.md",
+      "title": "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025",
+      "excerpt": "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

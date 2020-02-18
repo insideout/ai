@@ -26,7 +26,24 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Automobiles Market 2020 | Global Size, Share, CAGR, Application, Overview, Analysis by Top Leaders and Forecast 2023"
+    excerpt: "Summary Global Automotive Artificial Intelligence Market Information Report by Technology (Deep Learning, Machine"
+    publishedDateTime: 2020-01-28T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automobiles-market-2020-global-size-share-cagr-application-overview-analysis-by-top-leaders-and-forecast-2023-2020-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
     excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
     publishedDateTime: 2020-01-20T09:52:00Z
@@ -37,6 +54,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "Y1f8ST5DMPO/zPt1FcQIlnPU4eWZO1KsMGK+yfF/J/Q9po6ZPIibMtlesJUDoL1sMVTpkco3lIp9I2/hpQfmYPyOQOepmFamDVGeTD6/KQzU8L56/NDz2ACuv13+g2WqbZ8SvezhvHtD+6wtbdxs0KrTI1fE7y7uQEqwA6ZBTRymNApNDK4bQsy1GyRxK5xOw0udZwl2ZMn11DJ2jaXe818Zc/pz7fTGdxQKg0ZMRx1MO0dnwo9k/Ft4yphCRwAnxaEK7nVKf5PHDpM8Z7gO3VFxjnQqvQJwEWmGL4rRIYTqXhVNi7oLYeRJ3aGZzuaC;MmMXp27izG9XUkAYi3qF/A=="
+secured: "2VmGQWH5Ky72LY82cK7IPYmwhN66zbeqnGrBxcn9DPCVmIbJu030RvlNB5DxNz7ECTNohW2msU2T75ahskTBtNLQILqG2bH65mGGdrxmaLh09yeJwaZPlYd/b7r3LpUBlAUt5YKbDcsutgCZEoWcW8xmpFK1S5AAmw32cUoZbTUafYNHE9EaY6ZmE28JGMFiV6H0fktXtUu4LxU0pktF65KPNS4HF4CD/qmkCkSx3iPskM76R0/TkGzD5EBTcFXgMkx4iMIbKhjoW5Rn/jq4V9FzCAbhsnRGR0gCfFKnOa/+XmpUhDKMJlki6VJA4o4e;oK7MQbGZQnUeRUfI/hKm5A=="
 ---
 

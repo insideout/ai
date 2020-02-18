@@ -50,15 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
-    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
-    publishedDateTime: 2020-02-04T19:16:00Z
-    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "U83o+3kr6CtOmUnZBwwUxit3EtmpAF/tR9Mi6OyOLmcPXj4iU4lCuEXT3ipaI/gH+2wAzykMKCd8Namkk0LKGY/TKmGP1berjd8B+Fr3Nbs1PuWjQlgFsjkELOAFK4hoi2mGHtazk/OjYVVcuZ/JwIw15p1wzywibqxAM4H3eAUANuV8iAqxyxUG5xVp2Dp56FUpS/1F7Sl7ucPaSayj79ChhAtJNqeQ/M8ZjR7yiw15IL4C2YJMUx+Fb7HcvEhzou3JlKR/8xmoOFMABygAUWYNNX0WIHY/4Zj+0lbQzef+dB4DJZXLgfH587nVZLdi;17BCNtijRND037tkkCqa+Q=="
 ---

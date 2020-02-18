@@ -4,10 +4,12 @@ title: "Amazon-made Rekognition software now able to detect fear"
 excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
 publishedDateTime: 2020-01-29T19:06:00Z
 webUrl: "https://mashable.com/video/amazon-rekognition-adds-fear/"
+ampWebUrl: "https://mashable.com/video/amazon-rekognition-adds-fear.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: Mashable
@@ -17,6 +19,23 @@ topics:
   - AI
   - AWS AI
 
-secured: "kUB5XO5OsfxKolIs0tu43xHraCpITLUz5/3BxKXuBIiCMNh/TsS8P17IrbHmuBmT99U2mA7gJFYgrO2zx1WMd8T297kjRAxmyXP4xqCcBc4LKW1Bj/rzuaxWBnhVxdc2uddc7KhcVyvRP88nA54YkvdHuImFXfOUZG95Iez/L6QfLGTe7CznR9oE27EbApKZC9R22h6ulLKOWhg2+81lUhB02Zxj+IbMgfUEm+UftexA5kH4AjiXpLgzE/U5FluG5umM/UKePCQ6yAFIAd9dDHa93D10dLrVjel070/llcVVn+Ckfw5xgj9MvS0Qo8E9;os5cagh4C298ouI6Qr4rIg=="
+images:
+  - url: "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU="
+    width: 1200
+    height: 630
+    title: "Amazon-made Rekognition software now able to detect fear"
+
+related:
+  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
+    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
+    publishedDateTime: 2020-02-04T19:16:00Z
+    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
+secured: "fP4Ok5HZbqhSnjax/6t8X0bvgUGzA5USI2i0MaaPQwzOvtCrSYm9NEIRpFDl/qhj/keZDdeqsJZi5HvLxDZ1TcrZoXrjlNFqK0Rsr5o2b2sVs89qapZeTybOMisLZ4HDcyayut1l72Z9evpsEqB337B6Ci5eBLhzQmfm01pQHiMgAOlcCwlv0b3Q6WftHDPa14rg1WAw2GQkNQr5QYCUo8LzKgJZ8bth5Cc3qw5S5lJhFCxKm3MOAbjTf8Rn/GA0G+vNGsgPsHLz3T63xsbhPqFm5ZFAYsjuhJoY0fT3HwOaFJlTormk5mQDX9ifSNHY;3+6n587JFs7MNU8GRRRUQg=="
 ---
 

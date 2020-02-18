@@ -54,19 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
-    excerpt: "ReportsWeb Adds \"Global AI IN EDUCATION Market\" offers Current and futuristic Market scenario, product segmentation, and competitive positioning for AI IN EDUCATION Market globally for its business expansion strategies."
-    publishedDateTime: 2020-02-04T05:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-growth-set-to-surge-significantly-during-2020-2025-google-osmo-microsoft-ibm-cognizant-pearson-querium-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application and Geography 2018 – 2027"
     excerpt: "The report analyzes and forecasts the Machine Learning as a Service (MLaaS) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
     publishedDateTime: 2020-02-06T10:24:00Z

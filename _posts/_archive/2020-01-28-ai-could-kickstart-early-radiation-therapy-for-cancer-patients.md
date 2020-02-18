@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence (AI) could one day be used to help cancer pati
 publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,19 +17,53 @@ topics:
   - AI
   - AI in Healthcare
 
+images:
+  - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+    width: 1200
+    height: 450
+    title: "AI could kickstart early radiation therapy for cancer patients"
+
 related:
-  - title: "AI can help early start of radiation therapy, prevent cancer metastasis"
-    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several ..."
-    publishedDateTime: 2020-02-04T11:55:00Z
-    webUrl: "https://medicaldialogues.in/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
-    ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-can-help-early-start-of-radiation-therapy-prevent-cancer-metastasis-62872"
+  - title: "AI can help cancer patients start radiation therapy sooner"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
+    publishedDateTime: 2020-01-27T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
     type: article
     provider:
-      name: Daily
-      domain: medicaldialogues.in
+      name: News Medical
+      domain: news-medical.net
+    quality: 74
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
+  - title: "AI can jump-start radiation therapy for cancer patients"
+    excerpt: "DALLAS - Jan. 27, 2020 - Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating ..."
+    publishedDateTime: 2020-01-27T21:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/usmc-ac012720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/222662_web.jpg"
+        width: 720
+        height: 527
+  - title: "AI can jump-start radiation therapy for cancer patients"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
+    publishedDateTime: 2020-01-28T07:25:00Z
+    webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 54
 
-secured: "FpyGbVOOWOvEm3aMdlWI3F+njThR5QQjxWtuBi65ZaYiHQMsqbK33mjG5bFrwPNCWl9Cv+B0dMUtpqmDCgwx0mW2MNQohi50a/gPQsBabH6gzkurrEQbPg0+ugZdwHJsyE+unwAWgYSL/IY37kGHc8IjRW/zcbWVSk6Lj/uHowbOWD6R1r6+bS4FMfIljM5OrqM1U4BaOTkwdRoeDRKkRULm7irSZ4ZptO17f5WJBcv5X5Qc84nUgqGv1tYWonwexhM9wxPpJ+lGXst8MIM6i1TXropkkNtm8//Gtx1Fb+bW8iuPP5E2IdN+xnZBCNuf;o8IfrikScw964q2yqIvpOA=="
+secured: "KNCLVHME0Wxe4nKGqBxXTd7NCDgZZwEJTvQBwaj7g79E5oTcNdFOEnAyc1lrngk7qXjZ9rmLF3gHsQNsy+B1aLQGjajAoWL/PTNYltgvn9Dou97D7jqmEhDdKhMnfcrUF+m7NBBxGt/UpmhdWSibOdjSpulZ/pwe6VzkYyUQF0lepqLwKpDQXUNCu0nlZowQe4c3ov3C47QbAyGE1Pe7iEmH9S5nz0P9de8iQgqxUtBV9FX5fX8wHSHi9QOk00wY8hh+eM11s/St1GfQXJ3O83p4TCWzKVGvnWHlHdSKtax5Z2wyqAMASEMvmVScrWE+;upJtCQ8WIFBCgkaV/goGOg=="
 ---
 

@@ -21,6 +21,19 @@ topics:
   - AI
 
 related:
+  - title: "ASG Technologies Partners with 4th-IR to Enrich ASG Data Intelligence with AI Models and Data Expertise"
+    excerpt: "ASG and 4th-IR have also combined the power of an automated lineage process with the analytical capabilities of artificial intelligence in the Virtual Compliance Officer (VCO). The VCO helps companies enhance compliance and performance in their audits with an efficient and scalable workforce. \"4th-IR provides Applied Intelligence to enhance the ..."
+    publishedDateTime: 2020-02-18T13:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-asg-technologies-partners-with-4th-ir-enrich-asg-/2020/02/18/9099404.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "Aiera Raises $7M to Further Event Intelligence and Insights Platform"
     excerpt: "NEW YORK, NY , Feb. 12, 2020 (GLOBE NEWSWIRE) -- via NEWMEDIAWIRE – Aiera is announcing that it has raised $7 million through the sale of its Series"
     publishedDateTime: 2020-02-12T10:00:00Z

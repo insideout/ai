@@ -46,51 +46,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-03-are-brighter-days-ahead-for-ibm.md",
-      "title": "Are Brighter Days Ahead for IBM?",
-      "excerpt": "IBM generates its revenue from five core businesses: cloud and cognitive software, global technology services ... business -- which competes against Amazon Web Services (AWS) and Microsoft's Azure -- struggled with \"lower client business volumes\" during the quarter. IBM's total cloud revenue rose 21% to $6.8 billion, or 31% of its top line ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
-      "publishedDateTime": "2020-02-03T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555866%2Fgettyimages-853701240.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Are Brighter Days Ahead for IBM?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-03-how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai.md",
       "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
       "excerpt": "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ...",
@@ -891,43 +846,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-04-facing-facts-reject-a-blanket-ban-on-face-recognition.md",
-      "title": "Facing facts: Reject a blanket ban on face recognition",
-      "excerpt": "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp",
-      "publishedDateTime": "2020-02-04T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "Facing facts: Reject a blanket ban on face recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-instagram-reportedly-generated-20-billion-in-ad-revenue-in-2019-even-more-than-youtube.md",
       "title": "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube",
       "excerpt": "We finally know just how crucial Instagram is to the future of Facebook's business.",
@@ -1101,7 +1019,7 @@
       "path": "_posts/2020-02-04-lightfoot-urged-to-pull-the-plug-on-facial-recognition-technology.md",
       "title": "Lightfoot urged to pull the plug on facial recognition technology",
       "excerpt": "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\"",
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "type": "article",
       "webUrl": "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
@@ -2103,6 +2021,94 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions.md",
+      "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
+      "excerpt": "Determining whether an AI system is maintaining fairness in its predictions requires an understanding of models’ short- and long-term effects, which might be informed by disparities in error metrics on a number of static data sets. In some cases, it’s necessary to consider the context in which the AI system operates in addition to the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
+      "publishedDateTime": "2020-02-05T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-huami-amazfit-homestudio-start-your-immersive-fitness-at-home-in-2020.md",
+      "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
+      "excerpt": "The Amazfit HomeStudio is built to offer a vision of the future of fitness with connectivity, technology, and the way AI will impact your workout. Huami CEO Wang Huang said, “at the end of 2019, Huami defined a new mission: Connect Health with Technology,” and the new Amazfit is just the start of a new decade of technology. The Amazfit ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/",
+      "ampWebUrl": "https://www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/amp/",
+      "publishedDateTime": "2020-02-05T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/02/huami-amazfit-homestudio-treadmill-4-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -84,21 +84,6 @@ related:
       - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
-  - title: "Raleigh police stop using controversial facial recognition technology"
-    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
-    publishedDateTime: 2020-02-12T17:54:00Z
-    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
   - title: "Facial recognition scanners at US airports under more scrutiny"
     excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
     publishedDateTime: 2020-02-03T23:58:00Z
@@ -190,19 +175,6 @@ related:
       - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
         width: 1200
         height: 628
-  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
-    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
-    publishedDateTime: 2020-02-13T18:50:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
-        width: 400
-        height: 400
   - title: "N.J. lawmakers look at limiting cops’ use of controversial facial-recognition technology"
     excerpt: "New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill (A1210) in front of the the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
     publishedDateTime: 2020-02-04T00:13:00Z
@@ -231,21 +203,6 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
-    excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
-    publishedDateTime: 2020-02-13T19:29:00Z
-    webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
-    ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 34
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
-        width: 625
-        height: 305
   - title: "eConnect Presents on Facial Recognition at the Western Indian Gaming Conference 2020"
     excerpt: "eConnect, Inc., a Las Vegas-based software company which provides hospitality companies with a platform for actionable information, reinforced by video, will be speaking at the Western Indian Gaming Conference and Trade Show."
     publishedDateTime: 2020-02-10T00:00:00Z
@@ -268,19 +225,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 26
-  - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
-    excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
-    publishedDateTime: 2020-02-03T20:25:00Z
-    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
   - title: "NJ lawmakers debate cops’ use of facial-recognition tech"
     excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
     publishedDateTime: 2020-02-05T18:05:00Z

@@ -5,8 +5,8 @@ excerpt: "The goal is to compile Tensorflow binaries and build Python wheel inst
 publishedDateTime: 2020-01-28T09:39:00Z
 webUrl: "https://medium.com/@andreyg/building-tensorflow-from-source-step-by-step-guide-1075ef2d9356"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Google AI
 
-secured: "geMzJhJjFqZPIK5R88610fxU5h4Ief1AjeTPJ79NRyvWd6MGEzRIq1GHDdDQYJyum3MkvBo69Jhw/2SxM65HfzWHEjSfhULnpGNHtMUAEFFMr0OskJSQiSxTbahk0LF5SiekWminqHP/5t6Esx5jX3Hl+Y4lRgTyMn1zxsqRJvko43TcLA+QSmLRcWn3txppRK6WkDXWEQj30nRo+frvBauKq5IfgOB2UxH1lTZBZtfjqshVr4CBl7oioDtGNTTjKsboraRdCs618giwqpMp2DEjWWFPQ93IhxT7ciC3ToVzriwX2+Va8wWrJi4Xd65g;48nv1FIHbVrbCb/ue61tBQ=="
+images:
+  - url: "https://miro.medium.com/max/1200/1*ShtlXiXi_58Omty4xwcGTw.png"
+    width: 1200
+    height: 585
+    title: "Building Tensorflow from source. Step by step guide."
+
+secured: "ZIsirBYJrTs/1OU1R4EcbDH7xfYxWOBdCHhT5GAGlm7pAslyqygprmGSWMYfdO+hbVdvdRaceNsD0EO+RGXU5LQSelIWEzmsZeO70qJjveo1L/3ma39Z7phrWPTLA18R1/z3mf+06fQaqYL4bl31+4e8KfkGw/BOReWstPrYZtmujm+80KxM+sysrqM3cteuIbvF9TI7E//11SYUmB84I7qKfNWoggivyxu45gmS3VJspkt6oMUrOk0GG1JlluK3in0ZW2X586Sx1JL9FbL8A7qvHUFJFdKdrXWcwybH0OpUtU8/02Rky8SlK74sQQyC;PqWpjX9zPQUCdXdlOjA8bA=="
 ---
 

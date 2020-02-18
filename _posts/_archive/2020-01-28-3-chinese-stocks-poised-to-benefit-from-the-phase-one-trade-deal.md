@@ -4,10 +4,12 @@ title: "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal"
 excerpt: "Also helping Baidu's stock in 2020 is wins in the artificial intelligence market and progress with its efforts related to self-driving vehicles. Shares of Baidu got a good boost on news of phase one of the trade deal but since then have slumped. Year-to-date, the stock is down 2%, which could present a buying opportunity. Wall Street has a $144 ..."
 publishedDateTime: 2020-01-28T20:30:00Z
 webUrl: "https://www.fool.com/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/28/3-chinese-stocks-benefit-phase-one-trade-deal.aspx"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: The Motley Fool
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "XgNPqcVV8nplQfdhA2jlKszGFT/fdiSFhK0dOj3RIuoTBUcSr/cezxxyUf0VTe95joON3eRmuRvvxk/ee+cjDpgaruaF42URqyppDayyUJ2+bwdPtEjBTIWHQrQ6cyH5n1aUIJIpxeKn097irDGi4Z80TgaAQQnZxDXb+H49iLtNN+6UfZ+NJkD+DCXcyyyrkmaiZVl0EgjaH+bPM4EtnfXMxm1h4do8MuYuTiwytabt12gVqzJ2/Y0EzCuM/4vAzVCWtbjS+ykuS61Abi4TFIXLKzU4uFBAGZIL1FKdVjKVf8fi7jqbf0UisA46hBiQ1SxiDGVfZIJ6zYs/TWODks0F17yOxi07Qrciha+HbbzKdnCopQ5mh+35nDw/20y7alyrDJJsBDE/HEmcEHlAfLz7iiKXsjTFrQd/2Q4HiEgyYlUzahr2D6vOxHdMDje2LSaXMNL+nLYxrkrQhORl09h+ZhTyDlmkR67QplzaIKo=;HI9DZ5L3XpJ+cZ50G2AJgg=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554783%2Ftrade-war-stocks-mf.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    title: "3 Chinese Stocks Poised to Benefit From the Phase-One Trade Deal"
+
+secured: "kRx1ycx3Yyh+YQ+mFJf3EDqv2THpugj//hnIwXcVAwRINH389gL51iXPxr3pt1GgujSfJpvSB3WF0AsRJdRqcbWqizCbJuuZuH4cZrC9p40ksX0K3U6BWFy3SH5Hckrc6TdeBuYIi2pZ86lcEcwrlLnsPj8byU4u1aaftKYkPYBYmKESQLxCtda0wVdWGaWSOW4olTJz67M7I4Qk6aS7bzuPd1OQkbF5ca2d600nBKb2Z869NqiJfimpzKVnzRvQ1nFprEQq1l59CiP4/G9ncbqjJmtOdRvjw9IQA7n+RTezEoGRZ2fr/Z6e15muBU5Q;3v+MADqxX0XOllZNHhDYaA=="
 ---
 

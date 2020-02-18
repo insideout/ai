@@ -5,8 +5,8 @@ excerpt: "The AlphaFold system uses large genomic datasets to generate 3D models
 publishedDateTime: 2020-01-21T11:14:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/deepmind-study-shows-how-ai-research-can-help-solve-a-problem-that-has-challenged-scientists-for-decades/238948"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
-secured: "YG4FLVj5wbQ7Pu/xz/RdDipdKYL9fQl9/Gl6WCIq0XBeqejuwYZWXrbto8DkGq8+vzYwSfOO1DhYJD8bulPCOV8jtxFvSXOk/+Rwd6pHLNzCWgj+KGEl+q57RlW5e/4J9rQ8ec8dNw9RV9wSLMYqqdSE0vIrNjBoFmIkfrByiVmm9jSNoDXUM/F7QPYC5aitgdTDvZiWa3nO85caTgVENrBwVvIs1IrLnPu8nO3UXJlNaZHlz6w8IZEmAi6aBl4FCMwQRFDM/k7nrfLQFnp5xEMfOzdk7z2nQwsXjoxA0P8C17cbmH2CUkvA3QMjYteC;CU4MrrRA4ezDNGFtg3+EZw=="
+images:
+  - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
+    width: 512
+    height: 512
+    title: "DeepMind study shows how AI research can help solve a problem that has challenged scientists for decades"
+
+secured: "qvL9jx5MMkOmFUwEGy/bqTfoU+FVJZTeGS2VLqFhTfRGNcLhN7A39tAv/VLoId21zVXQb2+zbGf8mzyjVtniWSNbll3NumoLmzh+HG9Aez0NJiZ02jmdn5OKINDxLsdZLxcMVVlb0GzI5TDZ/K8RAP84zdfPjdju6vutHyw9y0c5gLDaJGKsjuRj/7qxXVsJnV+EJQSiNYBvLKDdNIyQdc5LLXySzfOgAJlBcye1LjN35tMaS6pJ7Z6+N+5ie/sj3wv6MgobpE7ttW4b4itsHNxGUB9aJ4/56Ko5NBfjTrSg3D6o78RN90s1NZ7ZQzo9;j6Z9aQUO1Wh16vwDkwzepw=="
 ---
 

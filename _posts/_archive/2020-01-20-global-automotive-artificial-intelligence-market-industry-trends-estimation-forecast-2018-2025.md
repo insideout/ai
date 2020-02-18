@@ -26,7 +26,24 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Automobiles Market 2020 | Global Size, Share, CAGR, Application, Overview, Analysis by Top Leaders and Forecast 2023"
+    excerpt: "Summary Global Automotive Artificial Intelligence Market Information Report by Technology (Deep Learning, Machine"
+    publishedDateTime: 2020-01-28T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automobiles-market-2020-global-size-share-cagr-application-overview-analysis-by-top-leaders-and-forecast-2023-2020-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
     excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements ..."
     publishedDateTime: 2020-01-22T21:37:00Z
@@ -37,6 +54,6 @@ related:
       domain: arnnet.com.au
     quality: 12
 
-secured: "otHYcSSu8F+gUZ1Brsp/wCrD5oL9sv//yYTMrNq36uEw+/I7HUT9X9s5YtF329/VPevP1cPPRUodxfAUHzVjxtakEkfbrCIkPEz/mueharU3o0ikro8bqO2CrigipOZLDvf0wU6IyWozQN/9fsfmjSOUxQeQCbdIfjnEQCajCrUFT0H0QNY2HolBNN86qKl+W3/fwWnNL8Oukioc9VE9RScgXyl87U94CkghdDS9bgXlZ8DYgup54zvCuvtMNjKxmoSPjQQoaRY/xpCybBvj0Rl+yd2eRrORSajXEKkts5K+/aR1Qrqb/f2IKfCy7WEi;yS85H/Fs7sVHBUWpj16oWA=="
+secured: "/lWlz69aoMbZPJtKh+6ptMZA07gdfEMaTT//mZlXSqJuScZHERh1iEeL5P2Zo2ljf7rDxYYm26fv9G9yMxTKn5Dx56dK81XjDbUZ2IOlWN0DfApUrzod6FRucbDaZeMsRXnqhyDW9ocPnjApwgc/sx2FYIZ0vSviK/0aBRbHE7VWMdo5COkBkhUOC3naKF4DuYQAWP0j1JiI7KrlTFHbt7e2gZxno3vpImYx2aW8g9DusSvdUZnDAHQ0HRu6NTn4JZsv5DCDjIjI0IlkBgW2ZSy6cEjKehhEykIqgE7riJinGCabouEIjiwan6ILI4/k;w4xjwrk9yZcoSuLv9NrtZQ=="
 ---
 

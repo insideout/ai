@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/what-is-computer-vision?amp=true"
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/what-is-computer-vision?amp=true"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "What Is Computer Vision?"
 
 related:
-  - title: "Vision System for Machine Learning (ML) Edge Computing Applications"
-    excerpt: "The NXP i.MX 8M Plus features a dual camera image signal processor providing real-time processing for crystal clear images and a neural network accelerator delivering up to 2.3 TOPs for extensive machine learning capabilities. In combination with the new camera modules, the resulting vision system is suitable for intelligent, vision-based ..."
-    publishedDateTime: 2020-02-03T20:14:00Z
-    webUrl: "https://www.automationworld.com/products/product/21112764/basler-ag-vision-system-for-machine-learning-ml-edge-computing-applications"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 54
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/02/2001_np_Basler.5e387e91c4560.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
   - title: "Deep learning computer system can predict weather changes"
     excerpt: "Rice University engineers have created a deep learning computer system that taught itself to accurately predict extreme weather events, like heat waves, up to five days in advance using minimal information about current weather conditions. Ironically, Rices self-learning ‘capsule neural network’ uses an analog method of weather forecasting ..."
     publishedDateTime: 2020-02-09T09:40:00Z

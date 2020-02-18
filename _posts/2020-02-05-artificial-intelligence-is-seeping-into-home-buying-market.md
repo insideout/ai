@@ -8,7 +8,7 @@ ampWebUrl: "https://www.governing.com/community/Artificial-Intelligence-Seeping-
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/Artificial-Intelligence-Seeping-into-Home-Buying-Market.html?AMP"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -17,21 +17,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Natalie Campisi: How AI is quietly revolutionizing homebuying"
-    excerpt: "“AI can benefit real estate industry participants in many ways ... A report issued by the FDIC in February last year showed that both face-to-face and FinTech lenders charged Latinx and African-American borrowers 6- to 9-basis points more in interest for purchase mortgages, which is “consistent with the extraction of monopoly rents in ..."
-    publishedDateTime: 2020-02-03T20:00:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/natalie-campisi-how-ai-is-quietly-revolutionizing-homebuying/article_20f06bdf-6ff7-522c-bb16-ce49305b4b68.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-        width: 1200
-        height: 630
 
 secured: "jkN780slhPEY/8uKOoPGIZMK/yxBjArSFHWLO8Sq7AMCv88zHms73CvTh0V7ml2hDFz8+nGHxuqCKS7GJDecracUEnRltz2eq/PR0tcQTqtjSY/pp/uRi1os81WFbhwv1zSSIBjcYljZwQ6z58YzB7gf0syhAVlPknr2R3JfVanEr8aXHRaHG4zfcnvJgSby73NDIGLajaH2DArhCkUFPKoaDY5uJcl6TN5N9VhofRyxsYRpXu6mz2Ux+03mD/tyeTeVMv6wrLfzuJ7T8itEZq2XF597X2Xa2mTQCWPPvIoQgrn3YsR5q51EsuzB8pfo;IQlbvPMkyQXsfUH+7nVMhA=="
 ---

@@ -60,6 +60,21 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence Market Is Projected to Reach $390.9 Billion by 2025: Report"
+    excerpt: "all of which have contributed to the swift uptake of artificial intelligence technology in end-use industries such as automotive and healthcare,” the release stated."
+    publishedDateTime: 2020-02-13T01:42:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157389-global-artificial-intelligence-market-is-projected-to-reach-390-9-billion-by-2025-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157389-global-artificial-intelligence-market-is-projected-to-reach-390-9-billion-by-2025-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157389-global-artificial-intelligence-market-is-projected-to-reach-390-9-billion-by-2025-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 49
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence-300x267.jpeg"
+        width: 300
+        height: 267
   - title: "The Global Sales Intelligence Market size is..."
     excerpt: "New York, Feb. 13, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Sales Intelligence Market (2019-2025)\" - https://www.reportlinker.com/p05862278/?utm_source=GNW Sales intelligence software is designed specifically for organizations involving the government as well as the private sector to improve brand value and sales and to provide a competitive advantage over rivals in terms of their daily operations."
     publishedDateTime: 2020-02-14T04:07:00Z

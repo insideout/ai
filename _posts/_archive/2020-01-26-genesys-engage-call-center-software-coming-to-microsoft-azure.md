@@ -5,9 +5,9 @@ excerpt: "Microsoft and Genesys expanded their partnership to provide a new clou
 publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 54
+heat: 84
+published: true
 
 provider:
   name: BCW
@@ -17,7 +17,26 @@ topics:
   - AI
   - Microsoft AI
 
+images:
+  - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+    width: 320
+    height: 210
+    title: "Genesys Engage call center software coming to Microsoft Azure"
+
 related:
+  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
+    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
+    publishedDateTime: 2020-01-30T19:40:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 40
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
+        width: 1400
+        height: 789
   - title: "Microsoft's Azure Strategy Pays Off"
     excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
     publishedDateTime: 2020-02-02T17:39:00Z
@@ -35,8 +54,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 0
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
+        width: 1024
+        height: 803
 
-secured: "dz77c2+4YdTeFzs2zeiuVQr6r3xEyofAUrf+uhfR2MWH5gJH4AVx0SMmK3zffi8WRJ19vw1IPXsof3F5t6uBYLyQxzlhU7tDeIUBpMmGShkE5NeWeMycd2kUG1rSB2/+peEH4wUohnQonfm6dPlLCBHBPiis/+jpTCMBdwO2OL1cfeCtcMHODZxxqeEQSunG1bYvVlT6mlaVp7h8AjHUP7BXbrgzdmUsNo6CLu13nchfOkvoRT2SVAKx6K81wLrA0X6lB0DfrjmaSpOZzsKIn0Esnw7pHin+lGplP6QaLd7Dwlx8g92DvE/XsMZZRa3B;JVDTpICvwOggoC6fVkF+OA=="
+secured: "NSGxbYYIhH4WawNixq9/Wt6WeM5fQsn3bDImILxaU9dSHlEY1sFXmtSUPSJWGqyNrjrOPUNPeH3F7Vwha5HuShgo1lo/QQ/rqRC3SaPDz5vHDxnneuCiwCNNgAaYTAk0n+1tELL9JSqlktERlS/i5QGC8l+dBsrolxyi/SRBYLKoT064LnSMemV1a1X8ntfy8pvJWXTZOhg43shfi+P+/9VsePvLbBmv10nNOnRpZ3plKb+E4kkdAO6qGbbcvhfL0yenwCwAVFRWH16kInyx9drcONRgdjtFtY1j6fGFYLcFR6tnQNUt3zBdfh2dm5AS;sehR4N57ZEVwjjSLwaxiDg=="
 ---
 

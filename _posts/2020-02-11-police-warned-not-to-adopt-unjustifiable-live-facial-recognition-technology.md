@@ -127,19 +127,6 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "The rise of facial recognition technology: where we are and what to expect"
-    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
-    publishedDateTime: 2020-02-04T12:04:00Z
-    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-where-we-are-and-what-to-expect"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
-        width: 1640
-        height: 800
   - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
     excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
     publishedDateTime: 2020-02-04T14:25:00Z

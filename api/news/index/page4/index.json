@@ -2,99 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-10-deep-learningcomputer-vision-object-detection-infection-classification-on-malaria-images-using-mask-region-based-convolutional-neural-network.md",
-      "title": "Deep Learning(Computer Vision): Object Detection & Infection Classification on Malaria Images using Mask-Region Based Convolutional Neural Network",
-      "excerpt": "I am going use Keras, with a Tensorflow backend to create models for Object Detection. Deep Learning is a sub-field of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. Deep learning (also known as deep structured learning or differential programming) is part of a ...",
-      "heat": 257,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/analytics-vidhya/deep-learning-computer-vision-object-detection-infection-classification-on-malaria-images-3769b4f51de9",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/811/1*TOubTYal5304uIdNHhNrJg.png",
-          "width": 811,
-          "height": 665,
-          "title": "Deep Learning(Computer Vision): Object Detection & Infection Classification on Malaria Images using Mask-Region Based Convolutional Neural Network",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "Google AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks.md",
-      "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
-      "excerpt": "Robots perform better at a range of tasks when they draw on a growing body of experience. That’s the assertion of a team of researchers hailing from DeepMind, who in a preprint paper propose a technique called reward sketching. They claim it’s an effective way of eliciting human preferences to learn a reward function — a function ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
-      "publishedDateTime": "2020-02-10T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-facebook-quietly-acquired-another-uk-ai-startup-and-almost-no-one-noticed.md",
       "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
       "excerpt": "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ...",
@@ -1093,7 +1000,7 @@
       "path": "_posts/2020-02-10-trump-administration-slashes-basic-science-research-while-boosting-space-ai-and-quantum-tech-funding.md",
       "title": "Trump Administration slashes basic science research while boosting space, AI and quantum tech funding",
       "excerpt": "Artificial intelligence allocations across the National Science Foundation, the Department of Energy’s Office of science, and the Defense Advanced Research Projects Agency and the Department of Defense’s Joint AI Center will reach a combined $1.724 billion — with portions of an additional $150 million allocation for the Department of ...",
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/02/10/trump-administration-slashes-basic-science-research-while-boosting-space-ai-and-quantum-tech-funding/",
@@ -2150,6 +2057,95 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions.md",
+      "title": "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions",
+      "excerpt": "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to-drug interactions (DDIs). Researchers from the MIT-IBM Watson AI Lab, Harvard School of Public Health, Georgia Institute of Technology, and IQVIA have ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
+      "publishedDateTime": "2020-02-11T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/11/578ed6f6-77c3-463d-a9fb-ae809750f192/resize/1200x/f727d19000da51259bb97e2708cbc806/ai-medicine.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-is-ai-cybersecuritys-salvation-or-its-greatest-threat.md",
+      "title": "Is AI cybersecurity’s salvation or its greatest threat?",
+      "excerpt": "If you’re uncertain whether AI is the best or worst thing to ever happen to cybersecurity, you’re in the same boat as experts watching the dawn of this new era with a mix of excitement and terror. AI’s potential to automate security on a broader scale offers a welcome advantage in the short term. Yet unleashing a technology designed to ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
+      "publishedDateTime": "2020-02-11T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1.jpg?fit=2160%2C1078&strip=all",
+          "width": 2160,
+          "height": 1078,
+          "title": "Is AI cybersecurity’s salvation or its greatest threat?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

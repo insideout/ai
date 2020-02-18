@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-03T21:14:21Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: AWS
@@ -28,32 +28,21 @@ images:
     title: "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth"
 
 related:
-  - title: "Millennium Management: Secure machine learning using Amazon SageMaker"
-    excerpt: "This is a guest post from Millennium Management. In their own words, “Millennium Management is a global investment management firm, established in 1989, with over 2,900 employees and $39.2 billion in assets under management as of August 2, 2019.”  \nMillennium Management is comprised of a large number"
-    publishedDateTime: 2020-02-03T20:16:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/"
+  - title: "Identifying forest loss using Artificial Intelligence"
+    excerpt: "Wellington technology start-up Lynker Analytics has been selected by the Ministry for the Environment (the Ministry) to lead a consortium including UAV Mapping NZ and Carbon Forest Services to inventory the extent of forest loss in New Zealand during 2017 ..."
+    publishedDateTime: 2020-02-04T20:38:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2002/S00054/identifying-forest-loss-using-artificial-intelligence.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2002/S00054/identifying-forest-loss-using-artificial-intelligence.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2002/S00054/identifying-forest-loss-using-artificial-intelligence.htm"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 57
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/millenium-sagemaker-1.gif"
-        width: 900
-        height: 473
-  - title: "Amazon Sagemaker: A Short Guide"
-    excerpt: "So, I was intrigued by how the latest offering from Amazon called Sagemaker could help me get to the model building, testing, and deployment stages faster. Please read through this excellent ..."
-    publishedDateTime: 2020-02-10T18:42:00Z
-    webUrl: "https://medium.com/@krishna.yerramsetty/amazon-sagemaker-a-short-guide-c4040d85b54c"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/803/1*Hr0Pfq6crJsKVShDh5ZCzQ.png"
-        width: 803
-        height: 1318
+      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+        width: 268
+        height: 250
 
 secured: "/XzpEXbXl9tFLWrqjR/vdb7Dj9O0GGWAnkvOBRw87zXAqMm1jI9nSDgTvS5z9DKaV1YiNmBUmE7hAKFd9/iis13jBE++DzYb1QkzfpEprJ38HbH6DG8HZpYdQsg+I4M/0SWWUDGkRaiLV0qHYKq3BUlbjlUEtBBsCllPSc2cfjwT312ZtXDH26v4PeDky0OJSVSm3vfGQs7C5VRbKKyqfu5Sm0Q7hqP2LNDubs4Lrm0edi94Q5Bo8YWl/exyDT+iLh6K9NWS4l80lPTFUrQnewiLgbNfJeB4NglB2dnt1YHP1ud0Ndj8HkBcfhAIjrOD9Fjxt9Ve1mWpkh6E1AQ8KQ==;c3Af41hNdXOZyNof/bfpJw=="
 ---

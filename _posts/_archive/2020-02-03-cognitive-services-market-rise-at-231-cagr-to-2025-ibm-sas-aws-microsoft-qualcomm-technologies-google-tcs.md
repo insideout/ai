@@ -5,9 +5,9 @@ excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-d
 publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -21,17 +21,27 @@ topics:
   - AI
   - Microsoft AI
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
+
 related:
-  - title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
-    excerpt: "New Jersey, United States, - The report on the Cognitive Services Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
-    publishedDateTime: 2020-01-27T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
+  - title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
+    excerpt: "ReportsWeb Adds \"Global AI IN EDUCATION Market\" offers Current and futuristic Market scenario, product segmentation, and competitive positioning for AI IN EDUCATION Market globally for its business expansion strategies."
+    publishedDateTime: 2020-02-04T05:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-growth-set-to-surge-significantly-during-2020-2025-google-osmo-microsoft-ibm-cognizant-pearson-querium-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "5w3sPuWZUPMi0Y3P5dzDx/gUdm3SP/9f6sxFz9nqmhdJkQ+Fp8sICX39KSsPp/9yd/+gKpNRZkNIBvcRZRw4DkwQ55Sp2CEFz8X/KPhtG4V4963VZYHm5ahF8NT4RhuNQQZrjR9cWWO2k2MPEBF0M4whEPDcYiBeRcaKbZ9y4nWesKsW0WuTbHupunGF/DBV4IcUPX/g2avO+QUbavCPBP0ZElcWJIIb0VI0HJLdAc4lS+Ql4IDl0r02PG58XD9+025XU4pJpdq1XvBiONDBygeyyMw9gVTkQ/yCklYGnb1R1n7AWzHca6RvOiB8DqtV;pBQO9YqMgXNiRtBlKtEoQg=="
+secured: "vyHcq4j4djPWOgMk4eraKwXBi5/xL0yrLcWRTU8ZiCQyOKSsKOwQALcp1Imtsceg+QrWJpu+HQmT+B7RBiCHd3IJ06eOax8Lspb/uPupprrq5+s5Dp0I+gIZqobbgPQCM9sXCORqcmizgnkem03mMvZ8Ic2LUMILRjhSQED0xURokw92hivyJwdqWRi57/ziKJYF69OkHsJ1jksGEI+oS4yT6IMsBKYGgD5cGIwzKcmcP8XkhrSstboTLfyvIQHw6UqMOxYqlcZ5tz7ki8kU09DZWHzwk2xTZF7zWAEhyifL0ve8qJlYgS9ZYSdLWIqx;b3FHRPudi+jCB11Jgvs1Wg=="
 ---
 

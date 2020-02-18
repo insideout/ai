@@ -57,6 +57,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "US AI In BFSI Market 2019 Size, Rapid Growth, Industry Analysis, Future Trends, Segmentation and Forecast to 2025"
+    excerpt: "US AI In BFSI Market Size features a succinct analysis on the latest market trends. The report also includes detailed abstracts about statistics, revenue forecasts and market valuation, which additionally highlights its status in the competitive landscape and growth trends accepted by major industry players."
+    publishedDateTime: 2020-02-18T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/us-ai-in-bfsi-market-2019-size-rapid-growth-industry-analysis-future-trends-segmentation-and-forecast-to-2025-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
     excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
     publishedDateTime: 2020-02-11T07:58:00Z

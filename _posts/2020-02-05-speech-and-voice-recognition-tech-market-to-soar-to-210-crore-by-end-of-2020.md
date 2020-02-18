@@ -37,15 +37,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 15
-  - title: "Global Speech and Voice Recognition Market"
-    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice ..."
-    publishedDateTime: 2020-02-03T00:00:00Z
-    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "dg1D4rUPi7M0oOkPGhlPCWx9xJ8gi1WqQREzYAiPd+q7Clti7Rs46xfUQTM9HCBcoqfy8NcvzxSI8Ku+Rb9CCaUfPjrp7aK0QX5pTjaNGXZwLVgRs3rtEbcwnXoN2xC7bRWy3mGpacK22jcPP1qYaY45DK8d76lKinX6N5UQjF3Ni6IqqV6Sb6nS5brTKLsCXEdWwpW4GrFgZIrM//kjXSyKpvWeTQyUjNWs/zizdUfOMJJ7PFaQakG3jaINRc3eddugqWoR4KeVZAytuhaYxrGBJRTg4VjkadSVEqU5aJXMFeLPhBoRf7IhvEF5FrW9dyNRSvQ7P2HI5sK5G4skbXW6gC200A9fCcj7z+nsxXwA6IuMr/2BKW70kNlHBWRjFBL6zCcgnl+PVScBA95zwy0xAlkENvDF9z3r31vxqKkhHU8nwNWhNHs0mXt1YGjHFO9ksRdhOmeH1avGbB/zYJnQZw6GbLyvL9/0S4NamzY=;d2+cudQr55XgW8X0NWyQdA=="
 ---

@@ -2,95 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-11-ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions.md",
-      "title": "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions",
-      "excerpt": "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to-drug interactions (DDIs). Researchers from the MIT-IBM Watson AI Lab, Harvard School of Public Health, Georgia Institute of Technology, and IQVIA have ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
-      "publishedDateTime": "2020-02-11T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/11/578ed6f6-77c3-463d-a9fb-ae809750f192/resize/1200x/f727d19000da51259bb97e2708cbc806/ai-medicine.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-is-ai-cybersecuritys-salvation-or-its-greatest-threat.md",
-      "title": "Is AI cybersecurity’s salvation or its greatest threat?",
-      "excerpt": "If you’re uncertain whether AI is the best or worst thing to ever happen to cybersecurity, you’re in the same boat as experts watching the dawn of this new era with a mix of excitement and terror. AI’s potential to automate security on a broader scale offers a welcome advantage in the short term. Yet unleashing a technology designed to ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
-      "publishedDateTime": "2020-02-11T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1.jpg?fit=2160%2C1078&strip=all",
-          "width": 2160,
-          "height": 1078,
-          "title": "Is AI cybersecurity’s salvation or its greatest threat?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-machine-learning-artificial-intelligence-market-may-set-new-growth-amazon-google-facebook.md",
       "title": "Machine Learning Artificial intelligence Market May Set New Growth| Amazon, Google, Facebook",
       "excerpt": "Some are the key & emerging players that are part of coverage and have being profiled are AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI, Apple, Luminoso & Qualcomm. Know how you are perceived in comparison to your competitors like AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI ...",
@@ -476,6 +387,43 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-police-use-of-facial-recognition-unjustifiable-says-scottish-justice-committee.md",
+      "title": "Police use of facial recognition ‘unjustifiable’, says Scottish Justice Committee",
+      "excerpt": "There is no “justifiable basis” for Police Scotland to invest in and use live facial recognition (LFR) technology, a Scottish parliamentary committee has ruled, citing human rights and data protection concerns. The Scottish Parliament’s Justice Sub-Committee on Policing said in a report published today (11 February) that Police Scotland ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee",
+      "ampWebUrl": "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1",
+      "publishedDateTime": "2020-02-10T16:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Police use of facial recognition ‘unjustifiable’, says Scottish Justice Committee",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1518,43 +1466,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-12-met-police-try-to-calm-tensions-as-live-facial-recognition-hits-london.md",
-      "title": "Met Police try to calm tensions as live facial recognition hits London",
-      "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
-      "heat": 179,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "ampWebUrl": "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "publishedDateTime": "2020-02-11T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Met Police try to calm tensions as live facial recognition hits London",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-milestone-systems-hosts-the-2020-milestone-integration-platform-symposium-mips-texas.md",
       "title": "Milestone Systems hosts the 2020 Milestone Integration Platform Symposium (MIPS), Texas",
       "excerpt": "“Each year we hear from an array of speakers that challenge our thinking about today’s technology and the new frontiers of tomorrow ... Canscan’s idea is the next-level shipping container checking system, powered by artificial intelligence (AI) called Virtual Checker. “Jennifer and her team have come up with an innovation that addresses ...",
@@ -2153,6 +2064,96 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-deepmind-develops-ai-with-an-imagination.md",
+      "title": "DeepMind Develops AI With An Imagination",
+      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "DeepMind Develops AI With An Imagination",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-disgruntled-former-waymo-self-driving-car-operator-arrested-for-causing-car-crash.md",
+      "title": "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash",
+      "excerpt": "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ...",
+      "heat": 243,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
+      "publishedDateTime": "2020-02-13T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

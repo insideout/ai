@@ -26,6 +26,6 @@ images:
     height: 640
     title: "China Lags Behind in Corporate AI Adoption"
 
-secured: "m1A5Eag9vMghh22InwuhLvmq8IrNGpU3QU11BT/w8dYjqidu+TYngvW5I+CCz7sO0N/M1ST0bBZFgoeUZXygpV5ZiOuN+U7oESPftj/4+znUNW3fZQb0675x+zCwbnVt6KRO4LRC/CD+W2TqT/YociActkPPCWo1MTZxhEVMFZordVr+DQX3ieEf3wjVRO0R5q1wGrmTaCRgyrskV/N4/Idvlh6qQZU+OBk74eprggKLivTt6zVw1hGaLUeAz/nyjIJqz/MkxV2kNfDVg+z2bnSWfY7XuMJJpdL+SXbi4MvRh2TjYFFtW/tktkLQomn3;l/0urz6TdEtlZtst8KqPKg=="
+secured: "JMo6/6DkPHme8Vk78jWOTh+XDrtHyHfahxdZunZApGj9sTOyhVJnC/xXK9UHCG8Zzah5awd6LVrD2a7h8XcL6q0g8AeuMmo2uDQW187JR+J7JxqpykbuIBRNQhl+rib2FYl5piXztaUnwrGOv4V+uxGgkiaa9c8UJ7VkkA7H10axaU50WYYSBDLxF3hut65AOmU1pF+o7ySwCPoCNK0C9H6Eaf4olP7PzrAF7E5a7WJNcbg6PRAtDsvKZV1o6MHE/6+2oXUJp1F8SS4glM/utLqinJiCmQK7F4idS8Be/eW1oZqtvFqlGxKC05hSBb+EYCbXrCGaBb6MD6YNo1/dEMt8WU3+ND+ptXo8Y4tcaI+lzjI47OD0PlOwQ+CN5EK/FisbllFFDY8hYTWTyG4C5anUivJcOcdPcESYI1fDtZzUuprlBE1rFg7h3Fv2delVO7GEECwyQRf6I3wUlqNR2TXkzzJ4wNXbFHC6kzGLJ14=;cjZJQ5IQPHewdZ/aAPUxRw=="
 ---
 

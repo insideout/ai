@@ -39,6 +39,32 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
         height: 400
+  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue thousands of children in India"
+    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
+    publishedDateTime: 2020-02-06T22:09:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-thousands-of-children-in-india"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue of thousands of children in India"
+    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
+    publishedDateTime: 2020-02-06T22:05:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-of-thousands-of-children-in-india"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
 
 secured: "LFJcJGY+Uj2r/OuNdKYI5UOZCO3HKtnPN8/ETz4BnDGmpTLGOK2joV9Ql0TQFh+ljvemZM0JYwhWhiAAC5g4JXAQsOGeeX9ojnjntJyQUoBwQX7Mlq0H+kozSdYREClo2xuId00nyQa+MymZssn2fxh5qNUsdGSemjegK8WPSwafB0+BTNIROGXPNGtyiHeHiEU0dAqaTn5/AbE2CbNXWMqu+oUGQCeYksCCFjthwxits9jLhvYow+W4bIJF7J+GvxFyNudtrEdqTu1DQ+i6k8GLeNCtFSUXsAJtvNXg3/OIfxkRoJxkpXF2BtcJCgsBAHjqVtA/BJ2DsbyMZ5FzrCcpD4yIgN7TskpbBGhMp/CFNJdT3WcFStIGBPLuNoj9LRcpWyhMD6msgn8G1Nz8ziOy3hOkHXBPS351MD1JuPtEhocwFMUkiCnfK0bKP2DjOxgR2r96lNaSHYUs8Td4QPqq1RC4k7NyfwmCxd/pADg=;RPtO1lWZpPeE+70yN6NgQg=="
 ---
