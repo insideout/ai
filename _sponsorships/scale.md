@@ -16,9 +16,9 @@ messages:
     image: http://images.ctfassets.net/1qgw036lpkfx/4hRbGdjwzh2MCEJSsXfSB6/a55fb71f3aa900f9e38fd078526700e8/1.png
 
 schedules:
-  - "2020-02-04"
-  - "2020-02-05"
-  - "2020-02-12"
+  - "2020-02-20"
+  - "2020-02-19"
+  - "2020-02-21"
   - "2020-02-11"
 
 placements:
