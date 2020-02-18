@@ -2,162 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-22-air-new-zealand-using-computer-vision-ai.md",
-      "title": "Air New Zealand using computer vision AI",
-      "excerpt": "Air New Zealand is trialling the latest in computer vision artificial intelligence (AI) in its search for innovative ways to continually improve aircraft turn times and better on-time performance. The new technology, made available through a partnership with leading technology start-up Assaia and alongside Auckland Airport, uses computer vision ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
-      "publishedDateTime": "2020-01-22T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://m.scoop.co.nz/stories/images/1512/smcnz.png",
-          "width": 268,
-          "height": 250,
-          "title": "Air New Zealand using computer vision AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-at-davos-alphabets-ceo-calls-healthcare-the-major-ai-opportunity.md",
-      "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
-      "excerpt": "shared some upbeat thoughts on how AI and healthcare could intersect. \"Cancer [is] often missed and the difference in outcome is profound,\" he said, according to Reuters. \"In lung cancer, for example, five experts agree this way and five agree the other way. We know we can use artificial intelligence to make it better.\" Two years ago at ...",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
-      "publishedDateTime": "2020-01-22T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554275%2Fgettyimages-1132912559.jpg&w=700&op=resize",
-          "width": 700,
-          "height": 420,
-          "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025.md",
-      "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-      "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-01-22?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre-still-attracting-less-money-than-the-us.md",
-      "title": "China’s AI start-ups are closing more funding deals, yet they’re still attracting less money than the US",
-      "excerpt": "“We haven't seen many AI applications that are beyond imagination, most are used in surveillance cameras.” become a world leader in the field by 2030 . Beijing-based chip designer Horizon Robotics, for example, was one of 24 AI startups worldwide to reach unicorn status last year, joining the ranks of privately held companies valued at over ...",
-      "heat": 152,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre",
-      "ampWebUrl": "https://amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre",
-      "publishedDateTime": "2020-01-22T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-22-clearview-ais-facial-recognition-app-is-a-nightmare-for-stalking-victims.md",
       "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
       "excerpt": "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ...",
@@ -2115,6 +1959,179 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud.md",
+      "title": "Cortex Labs helps data scientists deploy machine learning models in the cloud",
+      "excerpt": "It’s one thing to develop a working machine learning model, it’s another to put it to work in an application. Cortex Labs is an early-stage startup with some open-source tooling designed to help data scientists take that last step. The company’s founders were students at Berkeley when they observed that one of the problems around creating ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/",
+      "publishedDateTime": "2020-01-23T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Cortex Labs helps data scientists deploy machine learning models in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-dem-senator-presses-facial-recognition-company-after-reports-of-law-enforcement-collaboration.md",
+      "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
+      "excerpt": "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement.",
+      "heat": 248,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law",
+      "ampWebUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
+      "publishedDateTime": "2020-01-23T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-digitizing-the-finger-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work.md",
+      "title": "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work",
+      "excerpt": "Using computer vision techniques, the system “turns touch into an image,” says Johnson, allowing it to measure surface features down to the single-digit micron level. The company is starting ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/",
+      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
+      "publishedDateTime": "2020-01-23T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e29cf2ff133f400076a7e73%2F0x0.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-five-ways-companies-can-adopt-ethical-ai.md",
+      "title": "Five Ways Companies Can Adopt Ethical AI",
+      "excerpt": "By Kay Firth-Butterfield, Head of Artificial Intelligence and Machine Learning, World Economic Forum In 2014, Stephen Hawking said that AI would be humankind’s best or last invention. Six years later,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/amp/",
+      "publishedDateTime": "2020-01-23T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e295968a854780006af471e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Five Ways Companies Can Adopt Ethical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

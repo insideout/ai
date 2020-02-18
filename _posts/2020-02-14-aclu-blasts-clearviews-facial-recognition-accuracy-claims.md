@@ -1,11 +1,11 @@
 ---
 category: news
 title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
+excerpt: "Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial recognition tool. For that test, the ACLU simulated the way law enforcement used Rekognition in the field, matching photos of all 535 members of the United States Congress ..."
 publishedDateTime: 2020-02-14T12:00:00Z
-webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
+webUrl: "https://www.technewsworld.com/story/86512.html"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
@@ -15,7 +15,7 @@ provider:
 
 topics:
   - AI
-  - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
@@ -404,6 +404,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "KfH6wLptR4aO01lbNztNqrKBWRlOcrOtUUeBy4D+X+nif8HBLU8JiruBqvDerwraDWJMoQDjLIumh1wvoBFufKff76TCtYfOuMhzMtnXNymsgZuV37VpiLf8Er3mAqhyTjsk1lRCUQ88raDUHkg5LgyucOfNJR1OLkLudHRbixXgvbH06SyOZbP+pL1fDJZn/EqecXMO90MTd4Vn4QS7wl3IglMWRS1+lOYlN4OzW83Yaw1dBWdknraSyDB+wIZtp6zRX1FGpgXc4iHr0pYSSb0Lq2NgMGCFPVVuQ7jcQwr5vjKYGF1uq4rUqQHkVZtB;ptS9mqtdKu6A5wf4tW6OiA=="
+secured: "zxFG/Pw04pdiEtVBtuPwUuD3v+2Fw62PWv9ishcCYB8+Fo2YDELvJ3R0kv/LCAls7YjSDC5WwxrPdRWsPnmvnRy9X29SE9Jlp/kAZDd3us04L76ETBHDKaodLlVWes4BUeGxISgdtzXzApMaEwRkYbq4QpdUTwRgejor50IrbRg4Y+kda+w3VnWGQhIMUmXBFgWV8VA/cG7L2W/mpSDBpusYHCmRph+dU+Mde9EQD2JmXQjJ2WI9TmdQ/iLlj5Ud55ND0CqQ4GBLPUY1s9YqcDr/T8hjlV+pTrYVKzsclGwh5p9N3Y/w1Ik1CHOvdMgK;R88xu63dHt6cGG0rMDa3sw=="
 ---
 

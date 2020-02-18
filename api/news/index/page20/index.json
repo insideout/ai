@@ -2,44 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-29-ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work.md",
-      "title": "AI-powered robot warehouse pickers are now ready to go to work",
-      "excerpt": "In the summer of 2018, a small Berkeley-based robotics startup received a challenge. KNAPP, a major provider of warehouse logistics technologies, was on the hunt for a new AI-powered robotic arm that could pick as many types of items as possible. So every week, for eight weeks, it would send the startup a list of increasingly difficult items ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/amp/",
-      "publishedDateTime": "2020-01-29T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/covariant-co-founders-l-r-tianhao-zhang-rocky-duan-peter-chen-pieter-abbeel.jpg?sw=600&cx=0&cy=0&cw=2000&ch=1125",
-          "width": 600,
-          "height": 337,
-          "title": "AI-powered robot warehouse pickers are now ready to go to work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-29-amazon-comprehend-now-supports-multi-label-custom-classification.md",
       "title": "Amazon Comprehend now supports multi-label custom classification",
       "excerpt": "Amazon Comprehend is a fully managed natural language processing (NLP) service that enables text analytics to extract insights from the content of documents. Amazon Comprehend supports custom classification and enables you to build custom classifiers that are specific to your requirements, without the",
@@ -2108,6 +2070,51 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done.md",
+      "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
+      "excerpt": "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/",
+      "publishedDateTime": "2020-01-30T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1037080322%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8678%26cropY1%3D427%26cropY2%3D5309",
+          "width": 1200,
+          "height": 677,
+          "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

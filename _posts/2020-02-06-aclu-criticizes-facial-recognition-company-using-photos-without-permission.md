@@ -243,19 +243,6 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
         width: 1200
         height: 800
-  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
-    publishedDateTime: 2020-02-14T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 54
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
-        width: 620
-        height: 350
   - title: "Is facial recognition technology worth the privacy trade-off?"
     excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
     publishedDateTime: 2020-02-04T09:05:00Z
@@ -308,6 +295,19 @@ related:
       - url: "https://static.axios.com/img/axios-icon.png"
         width: 400
         height: 400
+  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
+    excerpt: "Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial recognition tool. For that test, the ACLU simulated the way law enforcement used Rekognition in the field, matching photos of all 535 members of the United States Congress ..."
+    publishedDateTime: 2020-02-14T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/86512.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
+        width: 620
+        height: 350
   - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
     excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
     publishedDateTime: 2020-02-07T12:48:00Z

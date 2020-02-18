@@ -54,6 +54,21 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
         width: 1100
         height: 619
+  - title: "Why concern about facial recognition from brain scans is overblown"
+    excerpt: "The privacy concerns arose when a study published in October reported that a facial-recognition software program had correctly matched photos of research volunteers with magnetic resonance imaging (MRI) scans of their head and brain 1. This feat was a technical tour de force, representing important advances in biomedical image analysis."
+    publishedDateTime: 2020-02-18T12:40:00Z
+    webUrl: "https://www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/"
+    ampWebUrl: "https://www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/amp"
+    cdnAmpWebUrl: "https://www-spectrumnews-org.cdn.ampproject.org/c/s/www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/amp"
+    type: article
+    provider:
+      name: Spectrum
+      domain: spectrumnews.org
+    quality: 74
+    images:
+      - url: "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/02/17111237/20200218-PelphryMRI112011.jpg"
+        width: 1120
+        height: 550
   - title: "Springfield, Mass., Puts Off Facial Recognition Vote"
     excerpt: "(TNS) — After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
     publishedDateTime: 2020-02-04T21:47:00Z

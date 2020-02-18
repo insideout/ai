@@ -243,19 +243,6 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
         width: 1200
         height: 800
-  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-    excerpt: "The American Civil Liberties Union earlier this week criticized facial recognition tool developer Clearview for making misleading claims about the accuracy of its product. Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial ..."
-    publishedDateTime: 2020-02-14T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/ACLU-Blasts-Clearviews-Facial-Recognition-Accuracy-Claims-86512.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 54
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
-        width: 620
-        height: 350
   - title: "Facial Recognition Has Its Eye on the U.K."
     excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
     publishedDateTime: 2020-02-07T13:41:00Z
@@ -295,6 +282,19 @@ related:
       - url: "https://static.axios.com/img/axios-icon.png"
         width: 400
         height: 400
+  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
+    excerpt: "Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial recognition tool. For that test, the ACLU simulated the way law enforcement used Rekognition in the field, matching photos of all 535 members of the United States Congress ..."
+    publishedDateTime: 2020-02-14T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/86512.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
+        width: 620
+        height: 350
   - title: "ACLU criticizes facial recognition company using photos without permission"
     excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
     publishedDateTime: 2020-02-06T05:25:00Z

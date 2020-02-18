@@ -31,19 +31,6 @@ related:
       - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
         width: 320
         height: 210
-  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
-    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
-    publishedDateTime: 2020-01-30T19:40:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 40
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-        width: 1400
-        height: 789
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
     publishedDateTime: 2020-01-23T14:37:00Z
@@ -58,6 +45,6 @@ related:
         width: 1024
         height: 803
 
-secured: "aGZF5CDdwUlrRZHEMJtPoACmbVL6kyh8lKpRD8H7JCAnOI0uwtBKmo10yLAkaySCYpNnPp4MQWbVC6Hyi97gTmD922wLoHTuKRtQnslBF5hwf5oye7U5XYzmCptqh1XRG4EiEBklXFmcgU9yBjvReR451vsUK/52bGDKTcL+zvs7PKCJgzPIMtSkQyiWpglEqJqL+BQr9+y8o+ox8a2Vbl42LAzB+d+AfmiQdTBgndcoEu0R5z5rkZOgrFfFX++ll7sthnJis1SdAVBCEhgt0B3ZLZxDVlOgLml8fpo/2EfWRRDbiLkggm3ctNEWeAAkZZhcnDcZh3l8PgRtebm3773bVmj2n0DdJdqALxW0BWB5QYnoQxb4JGoW16g4Cfln2NbO2z+pY5grKt41LJVeSsMLyK351VW50dq5ZOQJ0hU4UYWjBx27qDt28gCx4I/S/KH6fXMLL8hJwtzvCU46XAYMJOjoPD19zYsFdW8/o+c=;ngd2TZSMD9GFpFu4AlNWMA=="
+secured: "+Uls81rfv5da7lhwnf0ZwKOweGS3p95ewqagBpyGlgADDjVSGYYWYl6LJtJ8dZBfFpgzk1yegvLfqDt5wfX6V9tvb+jBHaK59Sk1jrXhJoSkgBCtq//FRR2ma+cCWJcW6KBEFpD4fjV7b2hw2uOtpJzsrMFQgpsoPB+0ep7xkpT1lJR5HHanpnM17O87lL+KTyZmtYhh56o/Les58s+zT4w00KDYbjeZnMve0ymJzf6DpIdmR3AENt/PnftXt33qkB1lyDn5caaXu6NgpdM3JzqlR/vXtoF4CYXDB47kvjRsQVN6uzJmSNXQ7XqXtSzqI4MvMbvMGBf0DgClQAszPkRirQNoOg99SymMFL6yMPPWuw0TA4bl8gCm0CbvY7GTxIXgdsJqoUvSkqqs4q/OCSvvVrCFYqyr2FZtOSaf3CEFnqzyp6k82QdxB1aDIvfCamL1oVvuIo2PViMRHfsK8m/o6o7uBUxu3xgxMCc35ho=;2w29sPGxliOidW9oI+Z7BA=="
 ---
 

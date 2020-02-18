@@ -71,21 +71,6 @@ related:
       - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
         width: 1280
         height: 720
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:00:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    type: article
-    provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 46
-    images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
   - title: "WeWork wants facial recognition biometrics class action dismissed"
     excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
     publishedDateTime: 2020-02-07T03:36:00Z

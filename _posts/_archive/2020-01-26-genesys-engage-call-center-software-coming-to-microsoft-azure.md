@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: BCW
@@ -24,6 +24,15 @@ images:
     title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
+  - title: "Microsoft's Azure Strategy Pays Off"
+    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
+    publishedDateTime: 2020-02-02T17:39:00Z
+    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
     publishedDateTime: 2020-01-23T14:37:00Z
@@ -38,6 +47,6 @@ related:
         width: 1024
         height: 803
 
-secured: "+c2vZ9jO4G5yaHEBnsj7dSGPNVwRxZuHpm5xyuKjTMe6kegNR+4UQC4XTEiQNYd1z+GsgezVas//Yio9C8Mz6fQR3R8cpy8IRdX0DLOOxC08d9ibrAeyocbnRFAvtPubU+yop8lCzUhIGYZBgLsdWxlRLYBRWKzAjFjIO+EfPxQ1UdGbz33CW6RQurAgHNBKPl+KTfpougtsuBbOXfTVkKhn2xvejNEoRE1PYAoB15PKdQZoGmdnAwHsgPSE/I+c7uRM4VAEz01UrHcBExhrp1/3I6iQ+geATB+px/W+odlmwMstk/P6CEeGqStrerYW;UwCuc6NQRLwXnBsC9Mfepg=="
+secured: "WYySpgoFNYBqVEO9K7JJ/0yyGuGyAkC1ZQaSE3ennAjQTgRUAuYSfBkqkwq/KNoTc+UjzAaypYUsKkIqEdnu5FobVvRB66f8g/zFjsu//tSSCprH7p7IeqeDdRXSqRSr79J6gaP8YdpTSE27bed0eiEAOePNduFZgp+kK2EpQz+hTO50nNzU9KJtaudijV9l4z7+bEDdU/499j9i02iEvHURjWXuXuLcr++hc9Ag4LYL/EI0vYYlO6JXtC31sugatr0SU88Fh2AOe/fAxFaCkvHhUoJ5f3CzqK1ZM67I5cKC63RK6q4SBQhDpk4Pu2Uv;UUQ62EpAFCiVHY6E0yGqdA=="
 ---
 

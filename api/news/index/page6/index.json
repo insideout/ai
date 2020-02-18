@@ -2,230 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
-      "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
-      "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
-      "publishedDateTime": "2020-02-12T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/fiddler_images.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-googles-autoflip-uses-ai-to-crop-videos-for-you.md",
-      "title": "Google’s AutoFlip uses AI to crop videos for you",
-      "excerpt": "By contrast, AutoFlip is completely automatic thanks to AI object detection and tracking technologies that intelligently understand video content. The system detects changes in the composition that signify scene changes in order to isolate scenes for processing. And within each shot, it uses video analysis to identify salient content before ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
-      "publishedDateTime": "2020-02-13T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AutoFlip uses AI to crop videos for you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-humanlike-ai-gimmick-or-glimpse-of-the-future.md",
-      "title": "Humanlike AI: Gimmick Or Glimpse Of The Future?",
-      "excerpt": "The future is likely to include AI assistants who not only look like us, but also sound like us and interact with us in very human ways.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/humanlike-ai-gimmick-or-glimpse-of-the-future/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/humanlike-ai-gimmick-or-glimpse-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/13/humanlike-ai-gimmick-or-glimpse-of-the-future/amp/",
-      "publishedDateTime": "2020-02-13T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/578183815/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Humanlike AI: Gimmick Or Glimpse Of The Future?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone.md",
-      "title": "Intuition Robotics raises $36 million to bring AI companions to everyone",
-      "excerpt": "Israeli robotics startup Intuition Robotics has raised $36 million in a series B round of funding co-led by Sparx Group and OurCrowd, with participation from Samsung Next, Toyota AI Ventures, Bloomberg Beta, iRobot, Sompo Holdings, Union Tech Ventures, Happiness Capital, and Capital Point. Founded in 2015, Intuition Robotics is creating what ...",
-      "heat": 268,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/",
-      "publishedDateTime": "2020-02-13T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/07/still_002.png?fit=1270%2C748&strip=all",
-          "width": 1270,
-          "height": 748,
-          "title": "Intuition Robotics raises $36 million to bring AI companions to everyone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-itsm-what-is-demanded-for-an-ai-service-desk.md",
-      "title": "ITSM+: What Is Demanded For An AI Service Desk",
-      "excerpt": "Any enterprise can embrace the ITSM+ transformational journey irrespective of their size, level of deployed automation and personnel on staff.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/amp/",
-      "publishedDateTime": "2020-02-13T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152157066/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "ITSM+: What Is Demanded For An AI Service Desk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-reviewing-ai-powered-contract-management-software-evisort.md",
       "title": "Reviewing AI Powered Contract Management Software Evisort",
       "excerpt": "This flexibility means the company has the potential to work with businesses outside of the legal industry which is new for an AI document review organization. Evisort can deal with contracts across multiple languages better than its competition by using machine learning support translation services. Machine learning allows the software to ...",
@@ -1951,7 +1727,7 @@
       "path": "_posts/2020-02-17-arm-ups-its-iot-intelligence-game-with-new-chips.md",
       "title": "Arm Ups Its IoT Intelligence Game With New Chips",
       "excerpt": "Patrick Moorhead gives his take on Arm unveiling last week's key parts of their portfolio moving forward—a selection of offerings and IP geared specifically towards machine learning and AI.",
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/",
@@ -2116,6 +1892,214 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-artificial-intelligence-trained-to-find-disease-related-genes.md",
+      "title": "Artificial intelligence trained to find disease-related genes",
+      "excerpt": "Researchers have developed an artificial neural network using deep learning to identify genes that are related to disease. An artificial neural network has revealed patterns in huge amounts of gene expression data and discovered groups of disease-related genes. The developers, from Linköping University, Sweden, hope that the method can ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.drugtargetreview.com/news/56133/artificial-intelligence-trained-to-find-disease-related-genes/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "drugtargetreview.com",
+        "domain": "drugtargetreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dp9bxf2pat5uz.cloudfront.net/wp-content/uploads/shutterstock_347864354.jpg",
+          "width": 750,
+          "height": 450,
+          "title": "Artificial intelligence trained to find disease-related genes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-artificial-intelligence-training-for-technical-students-in-odisha-soon.md",
+      "title": "Artificial Intelligence training for technical students in Odisha soon",
+      "excerpt": "BHUBANESWAR: Technical students in Odisha will soon have the opportunity to get training on Artificial Intelligence (AI) to develop smart machines. Skill Development and Technical Education Minister Premananda Nayak said a Centre of Excellence has been set up by Tech Mahindra and Biju Patnaik University of Technology (BPUT) at the College of ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.html",
+      "ampWebUrl": "https://www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.amp",
+      "publishedDateTime": "2020-02-16T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/2/17/w600X390/AFSDFGH.jpg",
+          "width": 600,
+          "height": 390,
+          "title": "Artificial Intelligence training for technical students in Odisha soon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
+      "title": "Automated facial recognition breaches GDPR, says EU digital chief",
+      "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
+      "heat": 329,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
+      "publishedDateTime": "2020-02-17T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-14-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Automated facial recognition breaches GDPR, says EU digital chief",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026.md",
+      "title": "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026",
+      "excerpt": "Global Automotive AI market has emerged as one of the most lucrative growth verticals in recent years. The market is predicted to show a remunerative growth trend through 2026. This development can be attributed to the slowly increasing uptake of driver assistance technologies in an effort to provide a better driving comfort as well as ensure a safe driving experience.",
+      "heat": 157,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-bridging-the-gender-gap-in-ai.md",
+      "title": "Bridging The Gender Gap In AI",
+      "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
+      "publishedDateTime": "2020-02-17T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a973bf133f40006290dbd%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Bridging The Gender Gap In AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

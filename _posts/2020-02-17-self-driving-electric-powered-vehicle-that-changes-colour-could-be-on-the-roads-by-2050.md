@@ -54,6 +54,19 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
         width: 1200
         height: 630
+  - title: "Jaguar Land Rover reveals new electric self-driving pod to be used on UK roads next year"
+    excerpt: "The city will be used as a 'living laboratory' by Britain's biggest car-maker to test how the self-driving pods interact with other vehicles, pedestrians and cyclists. One of the first to get an early preview is Prince Charles, who was on hand to officially open the National Automotive Innovation Centre at Warwick University, where the ..."
+    publishedDateTime: 2020-02-18T15:03:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-8016591/Jaguar-Land-Rover-reveals-new-electric-self-driving-pod-used-UK-roads-year.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 15
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/18/15/24886152-0-image-a-128_1582038178000.jpg"
+        width: 636
+        height: 382
 
 secured: "KYihoaqYNeynnou0L+0gLOs+u8OLA6iVPzn2lkAIJt1NLcBiP58VJrGvm1D80yMA7rQGRtX2vW1XIlI2+qaNSbX0GDWKzCawq515YaDKquUumumxnBSlHu0zHM1y8x/aYPbdHxxLvBJWQ8nb+VqxwsPIKuidm1Uyn6zOfFP1Qo3Qv2FAz5PEBjNWLSHZGulea8ISJWY8vto57uJN6d5fsLRqEo3shlIVa7tTp10WdYdA03u2lhNQxV3ViVun73qxRgvHYYZt5KT/1SvlbC1QFLD+7KRFfnOl2mBHn58gh2uEfztijq0+1nxEHXa7smcn5ui2G50gm7kjRAA/Q0zhH/pxtXySTZTGm4LrbYzKE3pEzpD92KX/Tjv0ZRLJFzT158actDImNmmHJbRR9W9nVBV7cpou8AP14xJHW5pvsQWRJl8mhfmX2Y09n2HWGcWFqszVIHJj+9U9kWC6/4taZIznJKmkqZ3X8YZxGnbVauc=;C8CaUI1p8rM2e3ERFuQbkg=="
 ---

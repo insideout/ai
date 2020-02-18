@@ -20,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2018/07/Standard-Chartered-378x213.jpg"
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2017/12/Rubique_Digital-payment_cover-378x213.jpg"
     width: 378
     height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "tARssVCZxli5bzD9Rj6H2T1Lz28hY33PfuEDVR8+NHOL23wkZW5rTN/ZDKjVDh8N6mSoWME4u3ms9TW/iSAKM65aGPMZlIFnrBeX/qqKKeAIvCT/v7Qf6vcS4UeHJs7Z3Be4sIcvwkaz4y51vrCXfuE+KRJaw5h8bItshD33tYUZ/drJ/NaD2NRYPToBoG4ifA2gW7Qm8GOi6O/p1LiumKZNNZ3S04fnoUBRt72lQ7cNaT1zqJ6t5+LvdLCXVPkxhRqzruS3fb2sVpnNcO+KYDkVjiBMQk2H9SkLebxUMDisrpyPA2lBESoZwDwCOfZG;3qPl3uiLMlltt12zRW2Xig=="
+secured: "43Jl0aYvoAic0m0MLBS2LV2em913AcyjNcH/esldICFjYG8YRNCLpDVWdeZVUiJftZar4yaiRVNWSGghTfcHcpIusoBvrzqCwmsC3eNG3HUuEURcN0rqFUlCvxR/QatRX/E7VVL/wU9FK0ToVTuVbGqBNQOlwBfU/P1kOelWTOcvedDeGrgbstzhdLAFdOWMX/Uiqu5nkVHOVAms6GFra4ITDYSd0mBNNhWWbSpIvgxf1M/jKMM//0PPbmhN8LtcJPebe11Lna5B9HjQAO19g53PfamprJmFHcJ1TO8EQ+7hmcud5whklegZgMU2ifsK;lRspMuDEIJWRELQG3zrqeg=="
 ---
 

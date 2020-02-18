@@ -27,6 +27,6 @@ images:
     height: 619
     title: "Integrating AWS Artificial Intelligence (AI) to ServiceNow Enterprise Apps and Workflows"
 
-secured: "keh3fhlsenB4L/0y4qgHpSMUfLgJNte8wv67JASqnxlvICxLyeC5tUKFBh9lfYVC4wdyfRvS5PFaKMSxcnX13KSApcwnzTl2RxGu/60clDvf61b7NhmB669ek0ccggV+p5aRdJO0SDL4ruXiUE+m9SAsc7eeXAJaVmsIMWDggrrTKnAnRmBP/0X1HH38zxm3I+GsPYRMyen19vUS0ddNU85DajrcBxnF6k9G2F5iqKtPPAkW+7LLtNuihFDny27DoWc2t0uX7EYZXIq6+yXA9EaJ3nYvTkrK1xKgRanSmBjZlALeyyd1Pfdb8k5FRnBC;bcpBpihRP7xNZlzKIorD9w=="
+secured: "fICr79U3e2lVvzo1pB44Eb0kpiVaGCBW3vPPxXz4PNvLtVnmFcwCg1SpdsJOTXzD94dhf1rOio2O95/TLJyxKQwu8PdrD6XMRr7C/R+tML8GZV3skBbM+9HnTjbUOkPAMl8zqzPkedlb/RgnhVjLbJ+vRFSW1DaR3RPpjsVnYUEbNNXQwkd/IM8SDtTtppKoDFqDNQWC2lp9QbfEiSgy4F91mJu4ynu2hmfY0j9eWcwtloS/CZo93tsd8M9TrrvzHvv/PF0rNnmOs9b7AuC2+Rpm2dLwUbPhjxMAjxYyCfINh7PlUWzB54pHXouNL99C;4mh6KOyIIHFxqEfg4729uw=="
 ---
 

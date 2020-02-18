@@ -23,21 +23,21 @@ images:
     title: "Dave Copps’ stealthy AI startup emerges with $10 million in backing"
 
 related:
-  - title: "AI startup Cresta launches from stealth with millions from Greylock and a16z"
-    excerpt: "Cresta is more focused on using AI suggestions to help human contact center workers make the most of an individual ... Udacity co-founder Sebastian Thrun is the startup’s board chairman and is listed as a co-founder. Enam met Thrun during his PhD research at Stanford focused on workplace productivity. Cresta is launching from stealth and ..."
-    publishedDateTime: 2020-02-03T23:01:00Z
-    webUrl: "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/"
-    ampWebUrl: "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/"
+  - title: "COR, A 500 Startups AI Management Software Startup, Automates Time Tracking For Firms"
+    excerpt: "The challenge of accurate time tracking creates problems for creative agencies in taking on new projects. Three cofounders from 500 Startups have created software to ensure these firms can increase their profitability as they scale to take on more work."
+    publishedDateTime: 2020-02-05T18:47:00Z
+    webUrl: "https://www.forbes.com/sites/frederickdaso/2020/02/05/cor-a-500-startups-ai-management-software-startup-automates-time-tracking-for-firms/?ss=under30"
+    ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2020/02/05/cor-a-500-startups-ai-management-software-startup-automates-time-tracking-for-firms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/05/cor-a-500-startups-ai-management-software-startup-automates-time-tracking-for-firms/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 80
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/CrestaFounders.jpeg?w=1024"
-        width: 1024
-        height: 767
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e364236a854780006b03ec4%2F0x0.jpg"
+        width: 1200
+        height: 728
 
 secured: "CF/rnuVRNnU/ODT+48gabQXWWzGJgSk4O5Q4ZES0atu83v1OAkCCd9yrvUuQE5m6FzRbPguUbTHaVm01jDOciAVzRwkarogJEp95Yl5a3vQaBYV8XNu7T1WVqYEIiQTp4P5OrIhpcNWM3iFXKaDRLw598TuCdWQyABfP6/QuQ0o4ed3gXQh3o/Diq3ug3/pC+TCgL9NjdE39zlLNW6A9zBzEW4ULEHjbGWQ7y6ooZ+0fFsa4fLchMW6YLO8xMehzV1R2Vb0QWPhwSb0O/y2TBO54WHIBw0se04XzdHf/WLx/RcWzYfawQuNgp39T6+t6L2ljVomUlc9gX0wVDwQKYbzNefy/p4xmAkicCzPaxMMEvkfM2FXbJBawvpwOCzYqN/SZaTw03X273fc96bUuiXFsamwugAYwo4vFPxllO9WwdCcnMbtugES9xZmFewy1GP1fN1W3B6A08A12PFW/kIxQ521/kLzgUP0CjIz+ly4=;D7hsIdtVPmiBwFqcBrazmQ=="
 ---

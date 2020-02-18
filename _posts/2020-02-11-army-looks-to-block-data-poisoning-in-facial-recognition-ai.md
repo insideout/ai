@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T17:17:00Z
 webUrl: "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/"
 type: article
 quality: 154
-heat: 334
+heat: 344
 published: true
 
 provider:
@@ -39,6 +39,21 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
         width: 1100
         height: 619
+  - title: "Why concern about facial recognition from brain scans is overblown"
+    excerpt: "The privacy concerns arose when a study published in October reported that a facial-recognition software program had correctly matched photos of research volunteers with magnetic resonance imaging (MRI) scans of their head and brain 1. This feat was a technical tour de force, representing important advances in biomedical image analysis."
+    publishedDateTime: 2020-02-18T12:40:00Z
+    webUrl: "https://www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/"
+    ampWebUrl: "https://www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/amp"
+    cdnAmpWebUrl: "https://www-spectrumnews-org.cdn.ampproject.org/c/s/www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/amp"
+    type: article
+    provider:
+      name: Spectrum
+      domain: spectrumnews.org
+    quality: 74
+    images:
+      - url: "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/02/17111237/20200218-PelphryMRI112011.jpg"
+        width: 1120
+        height: 550
   - title: "Coalition calls for Chicago to end use of facial recognition technology"
     excerpt: "(CHICAGO) Seventy five groups are joining forces to call on Chicago Mayor Lightfoot to end the city’s use of facial recognition technology. The movement, Press Pause Chicago, is made of labor groups, community organizers, civil liberties organizations, and technologists. They’re reacting to recent reports by the Chicago Sun-Times that said ..."
     publishedDateTime: 2020-02-04T18:51:00Z
