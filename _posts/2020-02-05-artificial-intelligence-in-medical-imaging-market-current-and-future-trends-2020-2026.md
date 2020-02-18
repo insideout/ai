@@ -21,6 +21,17 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Artificial Intelligence In Automotive Market Opportunities, Share And Forecast 2020-2026"
+    excerpt: "The Artificial Intelligence (AI) In Automotive Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence (AI) In Automotive Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-opportunities-share-and-forecast-2020-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+
 secured: "M3SC/D5JRCozzVbmYKtZqyzAK/4YtloANnqT9vLmD6bssvgRXt3LDq6g1oAVH76Bms3YdChkd91UFvDcwzGhW0ZbYkOoplv2ZiAg29CdpSZKMJkZrgFn5tzfO2dwstg+3YThTCNz+Ne/iBqzbaTqdaEFMXPklOA/60kwhXWM0pSFpJP8lGiinF15ZtYRzm/RkcDuY4d3Piu4H9qb4b//ik6EjFezTTMQA6HyH3EzFR7D3Edptafe+LdCsG2ypgA+YWm4t9upPb3KgO70gSn23rJiHC4PETHEFstkHPMYeywL8nLepDb5BeG62OimuqXg;3QIkM0hYCuByirkE643nWw=="
 ---
 

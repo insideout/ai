@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 202
+heat: 212
 published: true
 
 provider:
@@ -41,15 +41,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "AI in Healthcare Market By Offering, By Technology, By Region – Trends, Analysis, and Forecast Till 2030"
-    excerpt: "The research study on Global AI in Healthcare market 2019 presents an extensive analysis of current AI in Healthcare market size, drivers, trends, opportunities, challenges, as well as key AI in Healthcare market segments."
-    publishedDateTime: 2020-02-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-by-offering-by-technology-by-region-trends-analysis-and-forecast-till-2030-2020-02-17"
+  - title: "Artificial Intelligence in Aviation Market to witness remarkable growth By 2025"
+    excerpt: "HTF Market Intelligence released a new research report of 150 pages on title 'Global Artificial Intelligence in Aviation Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,"
+    publishedDateTime: 2020-02-17T16:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-to-witness-remarkable-growth-by-2025-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -133,6 +133,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Computer Vision in Healthcare Market by Trends, Growth Projections and Forecast To 2020-2025"
+    excerpt: "New York, February 18, 2020: The Global Computer Vision in Healthcare Market is expected to exceed more than US$ 343.3 Billion by 2024 at a CAGR of 21.3% in the given forecast period. Browse Full Report: https://www.marketresearchengine.com/computer-vision-in-healthcare-market Market Research Engine has published a new report titled as ..."
+    publishedDateTime: 2020-02-18T17:29:00Z
+    webUrl: "https://www.openpr.com/news/1936487/computer-vision-in-healthcare-market-by-trends-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
   - title: "Global Context Aware Computing Market 2020 Technology Trends, High Demand, Competitive Landscape and Strong Application Scope by 2025"
     excerpt: "Global Context Aware Computing Market 2020-2025: The Global Context Aware Computing Market was valued at USD 42.59 billion in 2019, and it is expected to reach a value of USD 205.40 billion by 2025, at a CAGR of 30."
     publishedDateTime: 2020-02-18T05:45:00Z

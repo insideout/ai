@@ -18,417 +18,172 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-    publishedDateTime: 2020-02-06T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
+  - title: "Lightfoot urged to pull the plug on facial recognition technology"
+    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
+    publishedDateTime: 2020-02-04T11:33:00Z
+    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026"
-    excerpt: "Global AI In Fintech Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries, Product types and end industries."
-    publishedDateTime: 2020-02-04T10:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Facial Recognition Market Present Scenario and Growth Analysis till 2026"
-    excerpt: "QY Market Research Store has added the report titled Global Facial Recognition Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
-    publishedDateTime: 2020-02-07T08:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-present-scenario-and-growth-analysis-till-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Share, Growth, Trends And Forecast To 2026"
-    excerpt: "Feb 05, 2020 (Xherald via COMTEX) -- The Natural Language Processing Market 2020-2026 is a valuable source of insightful data for business strategists. This Natural Language Processing Market study provides comprehensive data on aspects of competitive intelligence, market research, strategy, planning, pricing and forecasting that enhances the ..."
-    publishedDateTime: 2020-02-05T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-share-growth-trends-and-forecast-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Retail Market Outlook and Opportunities in Grooming Regions : Edition 2020-2026"
-    excerpt: "The global Artificial Intelligence In Retail market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments,"
-    publishedDateTime: 2020-02-08T09:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-outlook-and-opportunities-in-grooming-regions-edition-2020-2026-2020-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning Operationalization Software Market 2019-2025 Global Industry Analysis"
-    excerpt: "The Global Machine Learning Operationalization Software Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application,"
-    publishedDateTime: 2020-02-08T09:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operationalization-software-market-2019-2025-global-industry-analysis-2020-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029"
-    excerpt: "Global Natural Language Processing Market, revenue was xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2029, with a CAGR of x.x% during 2019-2029. The report published by Prophecy Market Insights covers detailed segmentation as mentioned below - By Type: – Rule-Based – Statistical – Hybrid By Technologies: – Recognition – IVR – OCR – Speech Recognition – Text Processing – Pattern & Image Recognition Download Sample of This Strategic Report: https://www."
-    publishedDateTime: 2020-02-12T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-development-scenario-and-forecast-to-2029-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Robots Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, February 05, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
-    publishedDateTime: 2020-02-05T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare Market Growth, Segmentation, Share, Trends, Insights and Analysis Forecast to 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-    publishedDateTime: 2020-02-05T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-segmentation-share-trends-insights-and-analysis-forecast-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Chicago Sun-Times
+      domain: suntimes.com
     quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural language processing (NLP) Market With Flourish CAGR in Forecast Period 2020 to 2027"
-    excerpt: "Ameco Research announced the latest market research report on \"Global Natural language processing (NLP) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Natural language processing (NLP) Market,"
-    publishedDateTime: 2020-02-05T08:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-with-flourish-cagr-in-forecast-period-2020-to-2027-2020-02-05"
+      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
+        width: 640
+        height: 480
+  - title: "Veridium brings facial recognition to all phones in password-less push"
+    excerpt: "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ..."
+    publishedDateTime: 2020-02-04T06:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
     quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Agriculture Market : Industry Outlook, Growth Prospects And Key Opportunities To 2026"
-    excerpt: "A new market research report by Big Market Research on Artificial Intelligence (AI) in Agriculture market reveals that the market is estimated to grow with a substantial growth rate from 2019-2026. This report is a valuable document for major players and the new entrants to scrutinize the market in detail."
-    publishedDateTime: 2020-02-10T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-industry-outlook-growth-prospects-and-key-opportunities-to-2026-2020-02-10"
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
+        width: 2880
+        height: 1800
+  - title: "European parliament insists it will not use facial recognition tech"
+    excerpt: "Statement comes after leaked memo on use of technology in security provoked outcry"
+    publishedDateTime: 2020-02-05T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027"
-    excerpt: "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-02-04T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04"
+      - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
+        width: 600
+        height: 360
+  - title: "European parliament says it will not use facial recognition tech"
+    excerpt: "Statement comes after leaked memo on use of technology in security provoked outcry"
+    publishedDateTime: 2020-02-05T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Platform Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-    excerpt: "Artificial Intelligence Platform Industry Description This report studies the Artificial Intelligence Platform market, Artificial intelligence (AI, also machine intelligence, MI) is intelligence displayed by machines,"
-    publishedDateTime: 2020-02-06T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-02-06"
+      - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
+        width: 600
+        height: 360
+  - title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
+    excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
+    publishedDateTime: 2020-02-05T17:43:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 57
+    images:
+      - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
+        width: 1280
+        height: 720
+  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
+    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
+    publishedDateTime: 2020-02-06T19:08:00Z
+    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
+        width: 980
+        height: 551
+  - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
+    excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
+    publishedDateTime: 2020-02-09T07:00:00Z
+    webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 51
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
+        width: 1400
+        height: 1050
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 39
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "Global Healthcare Artificial Intelligence Market Analysis 2020 - Dynamics, Trends, Revenue, Regional Segmented, Outlook & Forecast Till 2026"
-    excerpt: "Global Healthcare Artificial Intelligence Industry Overview The Global Healthcare Artificial Intelligence Market has been servicing the customers for several years. The market has seen several ups and downs due to changing government policies,"
-    publishedDateTime: 2020-02-07T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-analysis-2020---dynamics-trends-revenue-regional-segmented-outlook-forecast-till-2026-2020-02-07"
+  - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
+    excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
+    publishedDateTime: 2020-02-11T05:28:00Z
+    webUrl: "https://www.heraldscotland.com/news/18225186.police-warned-not-adopt-unjustifiable-live-facial-recognition-technology/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 36
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Healthcare Artificial Intelligence (AI) Industry Analysis 2020: Potential for both AI and Medical robotics Market in healthcare is vast"
-    excerpt: "Robot brain worms is a novel drug delivery technique that can eliminate possibility of drug toxicity in cancer patients. CloudMinds Technology is making headline in China. As coronavirus brings doom days in Wuhan, the Beijing-based developer of cloud artificial intelligence, teamed up with China Mobile, donated 5G powered disinfecting cleaning ..."
-    publishedDateTime: 2020-02-12T10:55:00Z
-    webUrl: "https://www.medgadget.com/2020/02/healthcare-artificial-intelligence-ai-industry-analysis-2020-potential-for-both-ai-and-medical-robotics-market-in-healthcare-is-vast.html"
+      - url: "https://www.heraldscotland.com/resources/images/10955630/"
+        width: 800
+        height: 600
+  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
+    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
+    publishedDateTime: 2020-02-04T14:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 49
-  - title: "Artificial Intelligence Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, February 05, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
-    publishedDateTime: 2020-02-05T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Trending News For Artificial Intelligence Advisory Service Market Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2029"
-    excerpt: "Artificial Intelligence Advisory Service Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
-    publishedDateTime: 2020-02-07T10:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-advisory-service-market-global-drivers-restraints-opportunities-trends-and-forecasts-up-to-2029-2020-02-07"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+  - title: "The rise of facial recognition technology: best practices to maximize effectiveness and minimize liability risk"
+    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the second article in a two-part series examining the rapid rise of facial recognition technology. Part one discussed the use of biometric facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal ..."
+    publishedDateTime: 2020-02-04T12:04:00Z
+    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-best-practices-to-maximize-effectiveness-and-minimize-liability-risk"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Global Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
-    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
-    publishedDateTime: 2020-02-06T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2020-02-06"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
+        width: 1640
+        height: 800
+  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
+    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
+    publishedDateTime: 2020-02-08T04:26:00Z
+    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Aviation Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, February 05, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
-    publishedDateTime: 2020-02-05T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Trending News For Artificial Intelligence in Aviation Market Emerging Opportunities with Current Trends and Forecast to 2029"
-    excerpt: "Artificial Intelligence in Aviation Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
-    publishedDateTime: 2020-02-06T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-in-aviation-market-emerging-opportunities-with-current-trends-and-forecast-to-2029-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Automotive Market Opportunities, Share And Forecast 2020-2026"
-    excerpt: "The Artificial Intelligence (AI) In Automotive Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence (AI) In Automotive Market study provides comprehensive data on aspects of competitive intelligence,"
-    publishedDateTime: 2020-02-05T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-opportunities-share-and-forecast-2020-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-  - title: "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
-    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Self-driving Chip Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of the Automotive Self-driving Chip market."
-    publishedDateTime: 2020-02-10T09:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-02-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
-    excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
-    publishedDateTime: 2020-02-06T16:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-by-level-of-automation-and-component-global-opportunity-analysis-and-industry-forecast-2020-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, February 05, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
-    publishedDateTime: 2020-02-05T04:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-  - title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-    excerpt: "The “2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report” report has been added to ResearchAndMarkets.com’s offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually, this report provides a ..."
-    publishedDateTime: 2020-02-12T10:20:00Z
-    webUrl: "https://apnews.com/Business Wire/a7905aef81874a06976be4dbb4f6fd81"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "Global Forecast for Artificial Intelligence (AI) Chipsets (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Chipsets (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate ..."
-    publishedDateTime: 2020-02-12T10:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005352/en/Global-Forecast-Artificial-Intelligence-AI-Chipsets-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005352/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-  - title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"
-    excerpt: "Segmentation by Technology: Acoustic digital video fingerprinting, Digital audio, video image watermarking, Optical character recognition, Speech recognition. Segmentation by Industry Vertical: Avionics, E-Commerce, Consumer Electronics, Media and Entertainment, Transportation and Logistics, Banking, Financial Services, and Insurance ..."
-    publishedDateTime: 2020-02-12T21:40:00Z
-    webUrl: "https://apnews.com/9d4f89708f92d191e5c9a10e51f0fd86"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "Global Robo Taxi Market 2026 Information Procurement and Data Analysis"
-    excerpt: "A Robo-Taxi, also known as a Robo-Cab, is a driverless taxi or a self-driving taxi. Its primary purpose is to eliminate the need for human ... Companies such as Lyft, DiDi, Uber, and Baidu are the major ride-hailing service providers. These players are the major potential customers for Robo -Taxi. Nowadays, most companies are focusing on ..."
-    publishedDateTime: 2020-02-06T12:43:00Z
-    webUrl: "https://www.openpr.com/news/1921960/global-robo-taxi-market-2026-information-procurement-and-data"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-  - title: "Medical Robots Market Industry Analysis By Future Demand, Top Players, Size, Share, Opportunities, Revenue till 2026"
-    excerpt: "and Geography Forecast till 2026,\" the market is likely to grow in the coming years due to recent product innovations using concepts such as artificial intelligence (AI) and the internet of things (IoT). The report covers: o Global Medical Robots Market trends, with detailed analysis on consumer trends & manufacturer trends. o Overview on ..."
-    publishedDateTime: 2020-02-04T13:13:00Z
-    webUrl: "https://www.openpr.com/news/1918695/medical-robots-market-industry-analysis-by-future-demand-top"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Artificial Neural Network Market- Global Analysis, Latest Trends, Industry Growth, Technology Innovation and Regional Forecast"
-    excerpt: "The artificial neural network market globally has been segmented into component, type, and application. By type, the market has been segmented into feedforward artificial neural network, feedback artificial neural network, and others. The market segmentation by component has been segmented into services, software, and platform. By application ..."
-    publishedDateTime: 2020-02-06T12:30:00Z
-    webUrl: "https://www.openpr.com/news/1921905/artificial-neural-network-market-global-analysis-latest"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Global In Flight Voice Recognition Market, 2014-2019 & 2020-2024 - Analysis by Technology, Aircraft Type, Application and Region"
-    excerpt: "Dublin, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The \"Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application (Commercial Aviation, Military Aviation), By Region, Competition,"
-    publishedDateTime: 2020-02-06T12:19:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980975/0/en/Global-In-Flight-Voice-Recognition-Market-2014-2019-2020-2024-Analysis-by-Technology-Aircraft-Type-Application-and-Region.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
-    excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
-    publishedDateTime: 2020-02-07T11:00:00Z
-    webUrl: "https://www.openpr.com/news/1923215/voice-recognition-for-automotive-market-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Artificial Intelligence in Accounting Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2024"
-    excerpt: "Get Free Sample Research Report of Artificial Intelligence in Accounting Market spread across 146 pages, profiling 23 companies and supported with 51 tables and 40 figures is now available at https://www.reportsnreports.com/contacts/requestsample.aspx?name=2443587. Key Players- Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage ..."
-    publishedDateTime: 2020-02-11T02:47:00Z
-    webUrl: "https://www.openpr.com/news/1926330/artificial-intelligence-in-accounting-market-worldwide"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Artificial Intelligence in Manufacturing Market Global Trends, Market Share, Industry Size, Opportunities, Analysis and Forecast To 2025"
-    excerpt: "name=1148471 Major Vendors profiled in the Artificial Intelligence in Manufacturing Market include are NVIDIA Corporation (US), IBM Corporation (US), Alphabet Inc. (Google) (US), Microsoft Corporation (US), Intel Corporation (US), AWS (US), Sight Machine (US),Siemens AG (Germany), and General Electric Company (US). Increasing need for hardware ..."
-    publishedDateTime: 2020-02-11T02:58:00Z
-    webUrl: "https://www.openpr.com/news/1926336/artificial-intelligence-in-manufacturing-market-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Voice Assistant Market Innovations, And Top Companies – Forecast To 2029| Amazon Inc, Google Inc, Apple Inc"
-    excerpt: "Segmentation by Technology:, Speech Recognition, Speech Recognition System, Speaker Dependent Systems, Speaker Independent Systems, Natural Language Processing (NLP), Text-to-Speech Recognition, Voice Recognition. Segmentation by Application: Messenger Bots, Websites, Contact Centers. Segmentation by End User: Individual Users, SMEs ..."
-    publishedDateTime: 2020-02-12T20:18:00Z
-    webUrl: "https://apnews.com/Wired Release/f77df562f1ed5f919f28a22f80c01d58"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 13
 
 secured: "tTqnQFmsyBN7Wd8PoGhce9lpVx7QyfDwOcPzm4Em8oQPv4aVJGDrQa/RPi2FwmXGL7MlmQx2MBUaknKXHBbUifRdHTdzAhdPmLZ8R+9PnUEbEBKro6DFMrAQ4kyTZISExC6Yd3Z4TG/srbgSc4c5DsZygEMlSq4BUp29L2iM4InLO16ieUQChjIo8FrghcbQOHHhVP5xt9ckNJ/nuj74xo6Ri69BobTP1finRN/qGgMjRNb9kIV90TWTWJfWrnZphZNlucwuao7oJDtmYFRBOEcQ1ZHB06x8pNBczfdgObpdGVJ79iI2ePDJCVAHAbVhFE9T1hqI6Fqv30sAzLIIk6UpBF/t0rJP9nsQXjbts3Nfcs4q+yBn9PjWVPDp2T6dg9+b2HA3iG9ksNrY2htbbalFm9a6sQlTYDXX4RxrihYTdXzvqb4Zn2n77jsszeX9EroIxBZpxVru7Pvo4wbIQelZjJvqZNWQLkGMiaDv8cc=;X4+5sxHrN8UscP3Io7sN0w=="
 ---

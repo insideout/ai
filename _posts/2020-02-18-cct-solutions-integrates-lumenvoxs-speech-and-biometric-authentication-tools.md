@@ -23,6 +23,6 @@ images:
     height: 499
     title: "CCT Solutions integrates LumenVox’s speech and biometric authentication tools"
 
-secured: "6ZNzhJyBaHXDacShZhQBHodNQ/VeYuAJ7lVhk2Vj4mC8/mTLz7+xbCBZFICs86nChjvMzgFX+2igusDQFVQOQL3UumVnid+O+DhI+Woh1m68AojAMGLR0+tXEwcV6iKsYCL3xhA/CyT7iy6Oyqc4LkkjwCUq4KrET06nE2y0/MGrrD4S1CX4MGUfglxC/ywsWuv+h4CWONgRDv/+96j2PUbY6wKG6mUHDyddCWinXWEAF9bu+WjiTIR/9qprNNYCrboIGfuoAi+GRdqDsr2Rt0AjZob0rbVDvJKgmPJFxMdyO3MEw+eXXAJgCrwHcuFq;T+RH8HtoLZuxZiaE5HTMBA=="
+secured: "V5zfFi1010bfgKs/zyopproT9wEbFd+VdpNFDKXglx0Gz/QqnyQLaSIWtjhVf5TKv7rUWoswGCNpOQvjCi/ZM5NH5AH/9yVYVlIfl5PxD6YDlB4tTgM/AuviwSVdPVJYOTTlozvd4kBEUW6EA8xw97wjU3+EXrVLlpjjjJLLQkYVGUmvyOEc+m1psiJyezSL35oSPARZVdbkOzm89YuyPiY61B/4/gr2CbU8+05eyPnY2IBNOvorPniit+Fl18RPyeNcqvFrziZeOBf2YchS9U/nu7WaxqtsED7l45tbdReE0Vj06PGg+OiIR+GAMmE2JHvTtDtDpC2CQk5sAbVvTXN2mESB82nANLMfRz3dDxWhBTf5Ulz5z7YSzhDLaD58w7CvH6wx/TOF8MVv2afF41ium9AyZ0PVGwEbODlS2ezfZ6liiCTMreZTG2OY6edXv+LD0daWAB5uTAN8ot03p7lohXqVgy6XjhmL+i48S+o=;94tAB1f5+ZDcVRAtJPsBCA=="
 ---
 

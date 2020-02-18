@@ -24,100 +24,84 @@ images:
     title: "Global Artificial Intelligence (AI) in Social Media Market 2019-2023 | Growing Demand for Smart Homes to Boost Growth | Technavio"
 
 related:
-  - title: "Global Artificial Intelligence (AI) Market in..."
-    excerpt: "The global artificial intelligence (AI) market in food and beverage (F&B ... and product (companion robots and emotional therapy robots). Smart Robots Market – Global Smart Robots Market by geography (APAC, Europe, MEA, North America, and South America), product (personal service robots, professional service robots, and collaborative robots ..."
-    publishedDateTime: 2020-02-05T00:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/b15254403/global-artificial-intelligence-ai-market-in-food-and-beverage-f-b-industry-2017-2021-evolving-oppo"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15254403"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15254403"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
-    images:
-      - url: "https://mms.businesswire.com/media/20200204005613/en/771099/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Food_and_Beverage_%28F%26B%29_Industry_2017-2021.jpg"
-        width: 480
-        height: 270
-  - title: "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth"
-    excerpt: "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast."
-    publishedDateTime: 2020-02-11T10:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11"
+  - title: "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027"
+    excerpt: "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,"
+    publishedDateTime: 2020-02-04T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Hits Record Value of USD 18.5 Billion By 2025"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Manufacturing Market Is Anticipated To Reach Around USD 18.5 Billion By 2025\" Research Report provides the newest industry data and industry future trends,"
-    publishedDateTime: 2020-02-11T06:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-manufacturing-market-hits-record-value-of-usd-185-billion-by-2025-2020-02-11"
+  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
+    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
+    publishedDateTime: 2020-02-10T20:50:00Z
+    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-  - title: "Artificial Intelligence (AI) in Security Market"
-    excerpt: "Global Artificial Intelligence (AI) in Security Market would thus note a steady growth over the forecast period of 2020 - 2025. The robust CAGR (Compound Annual Rate Growth) will chart an upward growth curve and create lucrative growth opportunities in the global Artificial Intelligence (AI) in Security Market. In, turn, this will lead to ..."
-    publishedDateTime: 2020-02-04T13:02:00Z
-    webUrl: "https://www.openpr.com/news/1918649/artificial-intelligence-ai-in-security-market-2020-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
-  - title: "Global Artificial Intelligence in Aviation Market 2018-2022| Evolving Opportunities with Airbus and Amazon | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence in aviation market is poised to grow by USD 756.71 million ... and product (companion robots and emotional therapy robots). Smart Robots Market – Global Smart Robots Market by geography (APAC, Europe, MEA, North America, and South America), product (personal service robots ..."
-    publishedDateTime: 2020-02-04T23:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200204005787/en/Global-Artificial-Intelligence-Aviation-Market-2018-2022-Evolving"
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
+    publishedDateTime: 2020-02-04T10:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200204005427/en/Global-Deep-Learning-Market 2020-2024-Growing-Application-Deep"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 32
+    quality: 19
     images:
-      - url: "https://mms.businesswire.com/media/20200204005787/en/771181/23/Global_Artificial_Intelligence_in_Aviation_Market_2018-2022.jpg"
+      - url: "https://mms.businesswire.com/media/20200204005427/en/771085/23/Global_Deep_Learning_Market_2020-2024.jpg"
         width: 1200
         height: 627
-  - title: "Artificial Intelligence (AI) in Supply Chain Market"
-    excerpt: "Meticulous Research - leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & by End User - Global Forecast to ..."
-    publishedDateTime: 2020-02-06T11:12:00Z
-    webUrl: "https://www.openpr.com/news/1921632/artificial-intelligence-ai-in-supply-chain-market-is-expected"
+  - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
+    publishedDateTime: 2020-02-07T11:27:00Z
+    webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
-  - title: "Global Swarm Intelligence Market 2020"
-    excerpt: "It's vital you keep your market knowledge up to datesegmented byModel (ACO, PSO, Others), Capability (Optimization, Routing Scheduling, Clustering ), Application (Robotics, Drones/UAV ... and invited their authors to speak and discuss their findings on artificial intelligence and swarm intelligence along with their applications in real-life."
-    publishedDateTime: 2020-02-07T12:52:00Z
-    webUrl: "https://www.openpr.com/news/1923585/global-swarm-intelligence-market-2020-climbs-on-positive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-  - title: "Global Artificial Intelligence (AI) in Education Market Key Players, Demands, Regional Analysis, Market Share, Size, Revenue and Forecast to 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Education Market study formulates with historic data up to 2019 and gives a forecast for 2020-2026. This incorporates Artificial Intelligence (AI) in Education market size, product scope, industry revenue and growth opportunities. It covers Artificial Intelligence (AI) in Education sales volumes ..."
-    publishedDateTime: 2020-02-04T08:28:00Z
-    webUrl: "https://www.openpr.com/news/1917726/global-artificial-intelligence-ai-in-education-market-key"
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
+    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
+    publishedDateTime: 2020-01-29T12:11:00Z
+    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 0
-  - title: "Global Surgical Imaging Market is Expected to Reach USD 7.50 Billion by 2025 : Fior Markets"
-    excerpt: "Global Surgical Imaging Market by Device (Angiography, C-arms, Endoscopy, Laparoscopy, Surgical Navigation Systems), Modality, Application, Region, Global Industry Analysis, Market Size, Share, Growth,"
-    publishedDateTime: 2020-02-05T07:02:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1979992/0/en/Global-Surgical-Imaging-Market-is-Expected-to-Reach-USD-7-50-Billion-by-2025-Fior-Markets.html"
+  - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
+    excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
+    publishedDateTime: 2020-02-07T11:00:00Z
+    webUrl: "https://www.openpr.com/news/1923215/voice-recognition-for-automotive-market-trends"
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
+    publishedDateTime: 2020-02-11T11:51:00Z
+    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 0
 
 secured: "q9nVcjW9ImHDUg544Ks2nxvduy1jEOAFTDN9cz+H0im54X9Q+vhURkOvsTNIR/kJ2LmIM67CrX81pycb4uXkfJCwPo9Kqy7xSIE8xCQFEveqeRRsqb9oSAB5FxOhTMyhgO6F5knBGfcXNX6Mu+XAdTwhxO5OiCxTjxOA9CFmVyV+alC+2zp/nNfHfi41b9X1TXzwrcD+2KFxE0DLGmzmkZXCo5NAzKrvv5wP19juUvDchSrbsT6ri03rWZzTLBHWp5MlveE1eaw8lFvjYNlKYHdMwrFUzg3YNf3ep9kFqINg3YAGlXqMA5i5lBAEI6U4i4rLiiOxv7FRRermXVpqOfN3KAzO/amZ+6T79JfFcA/382avhMiHgDZY0jKqRZTzRD1w3r3jzR9Nt8+QBhxbHTEZFMj+KAa+5PjAlxKonzi1w6hkKiXTgVgnPw303HzpruWtZIrr5easnDK1quvXlelC09Cr1XLCOcEr5J0fOjI=;aGjz+LCx37+0ybAK1RFBHQ=="

@@ -2,6 +2,141 @@
   "page": 22,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-31-ibms-big-bet-on-cloud-computing-ai-and-open-source.md",
+      "title": "IBM's big bet on cloud computing, AI and open source",
+      "excerpt": "the company's stock price dropped over 25% and while the company has been keen to trumpet its artificial intelligence work (in the form of IBM Watson) and its reinvention as a cloud company (thanks to Red Hat) there is still plenty of work to do if IBM is to every approach its former glories. Sure, the latest earnings published by IBM earlier ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
+      "publishedDateTime": "2020-01-31T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM's big bet on cloud computing, AI and open source",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020.md",
+      "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
+      "excerpt": "Today’s your last day to score early-bird pricing on tickets to TC Sessions: Robotics + AI 2020, which takes place on March 3. If you want to keep $150 in your wallet, beat the deadline and buy your ticket here before the clock strikes 11:59 p.m. (PT) tonight! Our one-day conference dedicated to robotics and AI — the good, the bad and the ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "publishedDateTime": "2020-01-31T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/lastday_countdown.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-laszlo-bock-thinks-machine-learning-can-make-work-better.md",
+      "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
+      "excerpt": "A Google veteran’s new firm uses artificial intelligence to send employees ‘nudges’ to prod them toward changes likely to produce a happier workforce",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "publishedDateTime": "2020-01-31T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/B3-FZ452_BOCK_SOC_20200128171741.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-31-local-speech-recognition-tech-company-partners-with-global-call-center-company.md",
       "title": "Local speech recognition tech company partners with global call center company",
       "excerpt": "Voci Technologies, a Pittsburgh-based company that provides automated speech recognition technologies, announced Thursday that it had entered into a partnership with a global provider of call centers.",
@@ -1979,139 +2114,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-03-elon-musk-announced-hes-hosting-a-super-fun-ai-party-hackathon-at-his-house-next-month.md",
-      "title": "Elon Musk announced he's hosting a \"super fun AI party\" hackathon at his house next month",
-      "excerpt": "The announcement appears to be part of a wider drive to bolster Tesla's autonomous driving division, responsible for its Autopilot feature.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2?amp",
-      "publishedDateTime": "2020-02-03T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e32fe3862fa813a0c67ed14?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk announced he's hosting a \"super fun AI party\" hackathon at his house next month",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-03-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
-      "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
-      "excerpt": "The software is called Cloud AutoML Vision. In an accompanying blog post, the chief scientist of Google’s Cloud AI division explains how the software can help users without machine learning ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131",
-      "ampWebUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
-      "publishedDateTime": "2020-02-03T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--TqcQXP7v--/c_scale,f_auto,fl_progressive,q_80,w_800/uuscxid9fobckrwjepfk.png",
-          "width": 800,
-          "height": 431,
-          "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-03-how-chinese-tech-giants-are-assisting-in-the-battle-against-coronavirus-with-ai.md",
-      "title": "How Chinese tech giants are assisting in the battle against coronavirus with AI",
-      "excerpt": "Chinese tech giants Baidu and Alibaba have opened up their gene sequencing AI tools to help them find a solution. Alibaba said last week it had partnered with The Global Health Drug Discovery Institute from Beijing, to develop an open-sourced data platform to track coronavirus using AI. The company has also offered its tools to other ...",
-      "heat": 203,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-02T22:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FCornavirus.jpg&signature=8530299390c2e6d973c88fd717d125ae",
-          "width": 1200,
-          "height": 600,
-          "title": "How Chinese tech giants are assisting in the battle against coronavirus with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-14T09:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2017---2025-2020-02-14"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural language processing (NLP) Market Global Industry Analysis and Forecast till 2027"
-    excerpt: "Ameco Research added new research report to its vast database titled \"Global Natural language processing (NLP) Market 2020\" which provides extensive and highly detailed information on the key markets."
-    publishedDateTime: 2020-02-17T03:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-global-industry-analysis-and-forecast-till-2027-2020-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

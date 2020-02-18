@@ -19,15 +19,28 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023"
-    excerpt: "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51."
-    publishedDateTime: 2020-02-12T20:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12"
+  - title: "Space Robotics Market Emerging Trends and Strong Application Scope by 2025"
+    excerpt: "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,"
+    publishedDateTime: 2020-02-17T16:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Know the Rapid Growth Factors of AI chips Market| Stay Up-to-date with Emerging Industry Trends Ahead"
+    excerpt: "Global AI chips Market Research Report 2020 include all basic information related to the global Industry and forecast till 2024 AI chips are the silicon chips which includes AI technology and use machine learning and IoT that have the ability to analyse data and make decisions based on it."
+    publishedDateTime: 2020-02-14T08:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/know-the-rapid-growth-factors-of-ai-chips-market-stay-up-to-date-with-emerging-industry-trends-ahead-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -45,58 +58,117 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability."
-    publishedDateTime: 2020-02-11T06:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
+  - title: "Artificial Intelligence Robotics Market Projected to Show Strong Growth"
+    excerpt: "A New Syndicate Global (United States, European Union and China) Artificial Intelligence Robotics Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Artificial ..."
+    publishedDateTime: 2020-02-18T07:44:00Z
+    webUrl: "https://www.openpr.com/news/1935391/artificial-intelligence-robotics-market-projected-to-show"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+  - title: "US AI In BFSI Market 2019 Size, Rapid Growth, Industry Analysis, Future Trends, Segmentation and Forecast to 2025"
+    excerpt: "US AI In BFSI Market Size features a succinct analysis on the latest market trends. The report also includes detailed abstracts about statistics, revenue forecasts and market valuation, which additionally highlights its status in the competitive landscape and growth trends accepted by major industry players."
+    publishedDateTime: 2020-02-18T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/us-ai-in-bfsi-market-2019-size-rapid-growth-industry-analysis-future-trends-segmentation-and-forecast-to-2025-2020-02-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
-  - title: "Computer Vision in Healthcare Market to enjoy 'explosive growth' | Xilinx, IBM, Google"
-    excerpt: "An extensive elaboration of the Global Computer Vision in Healthcare market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
-    publishedDateTime: 2020-02-08T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-to-enjoy-explosive-growth-xilinx-ibm-google-2020-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market 2020 Global Growth, Trends, Revenue, Share and Demands Research Report 2026"
-    excerpt: "Feb 14, 2020 (The Expresswire) -- Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N.V., iCarbonX, Next IT Corp., Welltok, Inc., General Vision, Inc., Recursion Pharmaceuticals ..."
-    publishedDateTime: 2020-02-14T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-growth-trends-revenue-share-and-demands-research-report-2026-2020-02-14"
+  - title: "Global Machine Learning in Automobile Market 2020, by Applications, Industry Profiles, Trends, Technology, Demand and Opportunities to 2024"
+    excerpt: "Report on the Global Machine Learning in Automobile Market outlines the comprehensive study of market comprising overview, production, producers, dimensions, income, price, consumption, growth rate, sales revenue,"
+    publishedDateTime: 2020-02-18T13:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-automobile-market-2020-by-applications-industry-profiles-trends-technology-demand-and-opportunities-to-2024-2020-02-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
-    excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
-    publishedDateTime: 2020-02-12T19:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-size-share-growth-rate-revenue-segmentation-industry-demand-forecast-to-2026-2020-02-12"
+  - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
+    excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
+    publishedDateTime: 2020-02-11T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-trend-technology-innovations-and-growth-prediction-2020-2020-02-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
-  - title: "Medical Robotics Market to register a 23.21% CAGR by 2025: Key Findings, Regional Study, Trends, Growth, Top Key Players Profiles and Future Prospects"
-    excerpt: "and artificial intelligence (AI) has changed the healthcare industry significantly. Thanks to these technologies, medical robotics are proven to be a more safe and useful process for performing surgeries. Increase in the adoption of the medical robots to perform minimally invasive surgeries by lowering the complications is propelling growth of ..."
-    publishedDateTime: 2020-02-11T10:11:00Z
-    webUrl: "https://www.medgadget.com/2020/02/medical-robotics-market-to-register-a-23-21-cagr-by-2025-key-findings-regional-study-trends-growth-top-key-players-profiles-and-future-prospects.html"
+    quality: 33
+  - title: "Gesture Recognition Market Global Trends, Demand, Industry Verticals and Supply by Future Prediction 2020 to 2025"
+    excerpt: "Global Gesture Recognition Market 2020-2025: The Global Gesture Recognition Market is expected to register a CAGR of over 27.9% during the forecast period, 2020 - 2025. The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices."
+    publishedDateTime: 2020-02-18T11:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-market-global-trends-demand-industry-verticals-and-supply-by-future-prediction-2020-to-2025-2020-02-18"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Vision Market Types, Application and Global Outlook 2019 to 2025; Cognex Corp.(nas:CGNX), Basler, OMRON Corp.OMRNF"
+    excerpt: "The Machine Vision Market research report 2019 includes analysis of factual data that provides research results, vital recommendations, conclusions, and other important information to the readers, who in turn bases clients decision making on the content of the report."
+    publishedDateTime: 2020-02-14T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-types-application-and-global-outlook-2019-to-2025-cognex-corpnascgnx-basler-omron-corpotcomrnf-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global AI Image Recognition Market 2020 Latest Innovations, Drivers, Dynamics, Industry Demand And Strategic Analysis by 2025"
+    excerpt: "Market Overview The Global AI Image Recognition Market estimated value was USD 1695.93 million in 2019 and is expected to reach a value of USD 622.03 million by 2025, registering a CAGR of 24.82% during the forecast period (2020 - 2025)."
+    publishedDateTime: 2020-02-18T06:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-image-recognition-market-2020-latest-innovations-drivers-dynamics-industry-demand-and-strategic-analysis-by-2025-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Global Context Aware Computing Market 2020 Technology Trends, High Demand, Competitive Landscape and Strong Application Scope by 2025"
+    excerpt: "Global Context Aware Computing Market 2020-2025: The Global Context Aware Computing Market was valued at USD 42.59 billion in 2019, and it is expected to reach a value of USD 205.40 billion by 2025, at a CAGR of 30."
+    publishedDateTime: 2020-02-18T05:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-context-aware-computing-market-2020-technology-trends-high-demand-competitive-landscape-and-strong-application-scope-by-2025-2020-02-18?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
+    excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. The United States is considered as the major hub for companies in autonomous vehicle development,"
+    publishedDateTime: 2020-02-12T12:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15309208/self-driving-car-market-trends-report-2019-2027-by-level-of-automation-type-end-user-and-region"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15309208"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15309208"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
+  - title: "Trending News For Automotive Voice Recognition Market 2020 Analysis, Forecast Of Business Revenue, Size, Leading Competitors And Growth Trends"
+    excerpt: "Automotive Voice Recognition Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-11T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-automotive-voice-recognition-market-2020-analysis-forecast-of-business-revenue-size-leading-competitors-and-growth-trends-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 0
 
 secured: "1pOsXjhhspwheD+Rb1iCcAkQtPJbNmYsMMjY9n3QBR4bLmQJnyAuCPkD7oRiBuqpMfxKjSP4cWh2yQYyDh+EJBZ1Hyyi/83S/ABWogDjfjJgddB9uYEp7Z9p/exTOAh0pdcZV9vIMcS/G2YWKeNdQN/avDcAaMnxMkTTblvesvSCaNA7Vc1TrZGLOHJdkTvGgpZB1OXmWoRbK/q7JiMZ5RMGZ3EED39z7SqDVAnEWs5H8d4zSIM43gh26K3+hEJZ/1FyVa9AzkGSJiznUfskGdWElWAZ9YifDb54v9ewvMizU34AFqQYSj5AYNdsz1nl;PXYAtsqSWnfrp/VKZwnweg=="

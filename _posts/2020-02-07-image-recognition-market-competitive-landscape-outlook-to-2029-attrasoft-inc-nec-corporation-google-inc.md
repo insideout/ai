@@ -37,32 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition Market Worth $81.88 billion by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-02-05T05:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof"
-    excerpt: "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,"
-    publishedDateTime: 2020-02-06T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
     excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
     publishedDateTime: 2020-02-10T20:50:00Z
@@ -76,6 +50,19 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "Global Artificial Intelligence (AI) in Social Media Market 2019-2023 | Growing Demand for Smart Homes to Boost Growth | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The artificial intelligence (AI) in social media market size is poised to grow by USD 1.67 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The process of deploying and maintaining reliable data interfaces is difficult, owing to the complexity ..."
+    publishedDateTime: 2020-02-07T01:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200206005722/en/Global-Artificial-Intelligence-AI-Social-Media-Market"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 25
+    images:
+      - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
+        width: 1200
+        height: 627
   - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
     excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
     publishedDateTime: 2020-02-04T10:00:00Z
@@ -93,6 +80,15 @@ related:
     excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
     publishedDateTime: 2020-01-29T12:11:00Z
     webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
+    excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
+    publishedDateTime: 2020-02-07T11:00:00Z
+    webUrl: "https://www.openpr.com/news/1923215/voice-recognition-for-automotive-market-trends"
     type: article
     provider:
       name: openpr.com

@@ -2,87 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-10-meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models.md",
-      "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
-      "excerpt": "Microsoft Research today announced DeepSpeed, a new deep learning optimization library that can train massive 100-billion-parameter models. In AI, you need to have larger natural language models for better accuracy. But training larger natural language models is time consuming and the costs associated with it are very high. Microsoft claims ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/",
-      "ampWebUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
-      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
-      "publishedDateTime": "2020-02-10T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSPoweruser",
-        "domain": "mspoweruser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mspoweruser.com/wp-content/uploads/2020/02/Microsoft-Deepspeed-deeplearning.jpg",
-          "width": 1305,
-          "height": 717,
-          "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-new-music-label-says-it-can-use-ai-to-find-the-next-big-artist.md",
-      "title": "New music label says it can use AI to find the next big artist",
-      "excerpt": "We've seen artists like Björk and Arca use the technology to create new musical arrangements. But a new label called Snafu Records thinks it can also use AI to discover the next big artist long before even the most music-savvy talent scouts find them.",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/10/snafu-records-ai-music-label/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/10/snafu-records-ai-music-label/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/snafu-records-ai-music-label/",
-      "publishedDateTime": "2020-02-10T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-07%252Fc02a1db0-9cb5-11e9-bebf-bcf6f08c5d47%26client%3Da1acac3e1b3290917d92%26signature%3D924400140c8eaa0af3df0a205e90164761ac8073&client=amp-blogside-v2&signature=3fbcf3d3d89d1169c2eb9053be70b7d99112b1dc",
-          "width": 600,
-          "height": 350,
-          "title": "New music label says it can use AI to find the next big artist",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-notes-from-a-former-guitar-zero.md",
       "title": "Notes From A Former 'Guitar Zero'",
       "excerpt": "NYU psychology professor Gary Marcus took up guitar at ... and she was brilliant. And a lot of it was just about absolutely perfect technique. You know, every finger movement was just right.",
@@ -1372,7 +1291,7 @@
       "path": "_posts/2020-02-11-computer-vision-and-robotics-expand-industrial-capabilities.md",
       "title": "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES",
       "excerpt": "One way to increase robotic abilities in a safe and efficient manner is to use an innovative new technology: computer vision. Computer vision technology enables a robot to use a camera or scanner to transform multidimensional inputs into data it can process, “perceiving” its surroundings and mimicking sight. Computer vision coupled with ...",
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.roboticstomorrow.com/article/2020/02/computer-vision-and-robotics-expand-industrial-capabilities/14749",
@@ -1522,6 +1441,52 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
+      "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
+      "heat": 275,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
       ]
     },
     {
@@ -1748,6 +1713,51 @@
         "AI",
         "Google AI",
         "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth.md",
+      "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
+      "excerpt": "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Facebook AI"
       ]
     },

@@ -23,6 +23,19 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth"
+    excerpt: "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast."
+    publishedDateTime: 2020-02-11T10:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026"
     excerpt: "Global Automotive AI market has emerged as one of the most lucrative growth verticals in recent years. The market is predicted to show a remunerative growth trend through 2026. This development can be attributed to the slowly increasing uptake of driver assistance technologies in an effort to provide a better driving comfort as well as ensure a safe driving experience."
     publishedDateTime: 2020-02-17T10:07:00Z
@@ -49,15 +62,41 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026"
-    excerpt: "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
-    publishedDateTime: 2020-02-14T11:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14"
+  - title: "Machine Learning Operationalization Software Market 2019-2025 Global Industry Analysis"
+    excerpt: "The Global Machine Learning Operationalization Software Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application,"
+    publishedDateTime: 2020-02-08T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operationalization-software-market-2019-2025-global-industry-analysis-2020-02-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural language processing (NLP) Market Global Industry Analysis and Forecast till 2027"
+    excerpt: "Ameco Research added new research report to its vast database titled \"Global Natural language processing (NLP) Market 2020\" which provides extensive and highly detailed information on the key markets."
+    publishedDateTime: 2020-02-17T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-global-industry-analysis-and-forecast-till-2027-2020-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Trending News For Artificial Intelligence Advisory Service Market Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2029"
+    excerpt: "Artificial Intelligence Advisory Service Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-07T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-advisory-service-market-global-drivers-restraints-opportunities-trends-and-forecasts-up-to-2029-2020-02-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,6 +110,32 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Natural Language Processing Market Global Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
+    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
+    publishedDateTime: 2020-02-06T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in the Global Freight Transportation Industry, Forecast to 2025"
+    excerpt: "/PRNewswire/ -- This study analyses the key trends and applications of artificial intelligence in the freight transportation industry by mode of transport"
+    publishedDateTime: 2020-02-04T12:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-the-global-freight-transportation-industry-forecast-to-2025-300998307.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
   - title: "Artificial Intelligence Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
     excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9."
     publishedDateTime: 2020-02-13T10:30:00Z
@@ -84,19 +149,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) Market 2019-2023 | 33% CAGR Projection Through 2023 | Technavio"
-    excerpt: "This is encouraging public cloud players to offer a wide range of cloud-based AI products and services. For instance, in February 2019, Microsoft launched the Azure Internet of Things Edge Runtime, which allows developers to edit and customize applications on edge. “Alternative solutions to GPU for accelerating AI workloads and the increased ..."
-    publishedDateTime: 2020-02-12T20:27:00Z
-    webUrl: "https://apnews.com/Business Wire/966e8d618f3d4c40bab619d29a2f82ee"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
   - title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
     excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
     publishedDateTime: 2020-02-18T09:30:00Z
@@ -112,24 +164,15 @@ related:
       - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
         width: 600
         height: 250
-  - title: "AI in the Auto Market to Eclipse $12B by 2026"
-    excerpt: "In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip that features 8 million neural networks and can reach up to 10,000X faster computing speeds compared to traditional CPUs. Furthermore, the increased use of sensors, including high-resolution cameras, LiDARs, and ultrasonic sensors for vehicle situational awareness, is fueling the ..."
-    publishedDateTime: 2020-02-10T16:24:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21122595/ai-in-the-auto-market-to-eclipse-12b-by-2026"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 19
-  - title: "Automotive Artificial Intelligence Market"
-    excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
-    publishedDateTime: 2020-02-12T00:00:00Z
-    webUrl: "https://www.openpr.com/news/1929108/automotive-artificial-intelligence-market-global-industry"
+  - title: "Artificial Neural Network Market- Global Analysis, Latest Trends, Industry Growth, Technology Innovation and Regional Forecast"
+    excerpt: "The artificial neural network market globally has been segmented into component, type, and application. By type, the market has been segmented into feedforward artificial neural network, feedback artificial neural network, and others. The market segmentation by component has been segmented into services, software, and platform. By application ..."
+    publishedDateTime: 2020-02-06T12:30:00Z
+    webUrl: "https://www.openpr.com/news/1921905/artificial-neural-network-market-global-analysis-latest"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 19
+    quality: 0
 
 secured: "OtUSkn5D6XNxIqD+T5MtQxWIU2Cs7hMyCK7xZ2brmpjjqvzObJcg3LvVLPZXQXb3kfQrQOZQ4F2SDxkp93H/UM4c+oVmJKZ/Naa40oSQCTY6BAeUausohJa8yyXYOkwtnorcDSgVwEMiHR4TEwiXsSfdTBWIQ5aFkeagyO5hv9fVuhLCoE2/AzjOj2ZGSgQlontW1NXwcN+/4Bnc+/zz8uJj62Vji8ew0xb/cKLUBz3arHqXG25zGUZpVQFuVfR2iDGLYWOaXwnn2g6YIgTgXgKKREHGC4X/yGarKmxIDbCTK0KJPbMDBAK6KLLlIgwu;ub0ZnhRVmB7IMBaAXIkzxA=="
 ---

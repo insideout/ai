@@ -5,7 +5,7 @@ excerpt: "/PRNewswire/ -- Aisera, the world's first AI-driven platform that auto
 publishedDateTime: 2020-02-18T18:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/aisera-secures-series-b-funding-led-by-norwest-venture-partners-to-transform-the-enterprise-service-experience-with-artificial-intelligence-301006598.html"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"

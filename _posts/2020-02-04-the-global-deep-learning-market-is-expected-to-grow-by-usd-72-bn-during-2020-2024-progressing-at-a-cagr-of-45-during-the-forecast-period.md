@@ -28,28 +28,19 @@ images:
     title: "The Global Deep Learning Market is expected to grow by USD 7.2 bn during 2020-2024, progressing at a CAGR of 45% during the forecast period"
 
 related:
-  - title: "Artificial Intelligence (AI) in Medicine Market, 2025- Global Market Projected to Reach USD18,119 million by 2025, Growing at a CAGR of 49.6%"
-    excerpt: "Artificial Intelligence in Medicine Market by Product Type (Hardware, Software, and Services), Technology (Deep Learning, Querying Method, Natural Language Processing, and Context Aware Processing), and Application (Drug Discovery & Repurposing,"
-    publishedDateTime: 2020-02-05T02:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medicine-market-2025--global-market-projected-to-reach-usd18119-million-by-2025-growing-at-a-cagr-of-496-2020-02-04"
+  - title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
+    excerpt: "Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Download the sample copy of ..."
+    publishedDateTime: 2020-01-29T06:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-bionic-implants-and-exoskeletons-market-is-expected-to-expand-at-a-cagr-of-75-during-2017-2027-2020-01-29?dist=bigcharts"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research(R)"
-    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth in the speech and voice recognition market can be attributed to the rising acceptance of advanced technology together with increasing consumer demand for smart devices,"
-    publishedDateTime: 2020-02-06T11:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-worth-268-billion-by-2025-at-a-cagr-of-172-from-2019--meticulous-researchr-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Global LegalTech Artificial Intelligence Market is Expected to Grow at a CAGR of More Than 37.7% Over"
     excerpt: "PUNE, India, Feb. 4, 2020 /PRNewswire/ -- The digital reforms in the legal industry have transformed the traditional courtrooms and law practices, thus strengthening the prevalence of Artificial Intelligence (AI) in legal technology or legaltech. The increasing burden of legal activities, carried out around the globe, over a limited number of ..."
     publishedDateTime: 2020-02-04T15:58:00Z
@@ -63,41 +54,14 @@ related:
       - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
         width: 400
         height: 400
-  - title: "North American $30+ Billion Artificial Intelligence (AI) Chip Market Outlook to 2027: Projecting a CAGR of 32%"
-    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"North America Artificial Intelligence Chip Market to 2027 - Regional Analysis and Forecasts"
-    publishedDateTime: 2020-01-31T09:18:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1977988/0/en/North-American-30-Billion-Artificial-Intelligence-AI-Chip-Market-Outlook-to-2027-Projecting-a-CAGR-of-32.html"
+  - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
+    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
+    publishedDateTime: 2020-02-04T16:49:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979704/0/en/Rehabilitation-Robots-Industry-Outlook-2020-2025-Set-to-Exhibit-a-CAGR-of-25-8-Exoskeleton-Robots-Expected-to-Hold-the-Major-Share.html"
     type: article
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 14
-  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
-    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
-    publishedDateTime: 2020-02-05T15:33:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
-    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
-    publishedDateTime: 2020-02-06T12:07:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
-    excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to facilitate the implementation of deep learning-based machine vision. Xilinx, a Field ..."
-    publishedDateTime: 2020-02-11T10:29:00Z
-    webUrl: "https://www.abiresearch.com/press/installed-base-machine-vision-systems-industrial-manufacturing-reach-near-100-million-2025/"
-    type: article
-    provider:
-      name: ABI Research
-      domain: abiresearch.com
     quality: 0
 
 secured: "4D2P6pw4XiiJ+9cOMzw1gKapbv3Gy+xip5mEPV8cZg0nhMH7l4TYiW69uaXcdS0dLn1riogo4ggbl9q9BbuhL2b/bLf6vaZV5zjMH8Pm9By8WrLTL1+yLPps6ZeADHcna3K5EFBJ7jXtM+Hgwp3HeoRlvCvcBKnuLGvYI+w7TLzWrzWbQNp6pjJ0FCecMFDlUOJxgIoIpAGdXoaoIRJ++n/46zXQlZBvF2IbzmTX+nDq9WkMSQobMlcoT4dTea0cmzIXKf6PBLYGna/y7FmJdym2O4YdM6lj3yoWmMw6A8lKu1Xl/mrLKC/yx55H+OpG;3gqrJ1jse6/9FQpCDdrHRQ=="

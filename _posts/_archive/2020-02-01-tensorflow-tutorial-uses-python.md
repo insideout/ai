@@ -23,6 +23,6 @@ images:
     height: 600
     title: "Tensorflow Tutorial Uses Python"
 
-secured: "8PXEBiPqfJLyob9RU77yIbxnzKM4bF0LLHOLvQLlTsWn6z6X47gAqR61YxSA0IyD8bkKah3tOsq3Y87dKNg1XYq2OGK/bZ9EREKcoduHwpqtI2Z0Rj9fakBac16TQ/h+3Mu33O9IZomkyxls4hjRWr369URikkXShL/ge2T0GVB4+8V+OEY8B4IdvorCZC6S/WEMw65zfmSULvfuBaFfare/36MI4DturwmMO/no5w3PbkK2sxeCl3hxAqhoZJftFW/MmKSVhEvUS1asfHiEul0FZXTbWaH0MP2H0MfHbiK6tdGhGDgy/r5Vb5o835ah;MFXzk1vbY2v+RaEMJFunZQ=="
+secured: "4rSHVtP+AQb+NfZ2w/L3KIEAvhkGyMqhQEJaAmhYXYhNXw5dkJ1jSEvTnNhp4PAlC01U6VP0kZ5Z1GLNTBFGHSQOpNNFg6FFHfHXXctmZNIEOAn4kzHONyPh5mx4pdEAgxNJo+LLMRQMmB35p1m3PLCjT1qEdvp54eGke+GMqfEaFyNUp1QpYfJ7zg2kPfDolh1bwOL4dw3aNEfWZpcSCCspjma0gyhvGB3ae3/JKqoXJKMomPLY/BOsbqHm/I5rucsLaEe6n/NXuOBpNJcFgLbxay1tlqt9kpw3iCnuHdsERX0GhFamxqvqnpVR+ejd;DJ/XXujR3dUOCqNShLjsyw=="
 ---
 

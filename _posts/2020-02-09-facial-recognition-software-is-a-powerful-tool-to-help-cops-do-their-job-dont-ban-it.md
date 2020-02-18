@@ -177,6 +177,15 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 13
+  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
+    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
+    publishedDateTime: 2020-02-05T18:29:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "Df0FOL6tBxcY35ilFlP3pP9knBhJvKATkN+pKD18s3EK6aBk+UQZnRYpw/C8cb9AfMnT3rmzztszhcFfHkv3mwcrG16FmgttREtjWMnUuMllugWpwndQNyxhD3KjqJm69fAv+VbwjVI50m4DYS2KatmOC4VJmHHjUtwFKOWQwUCRhyIfm/ghE3lGFp9og9zpJnP59/T3miEgGSZDydHvnrmrf4Q9lETSex2ktlumBY1nod21DsjPFJ+QgWQRyekb+1DH7+B8zbSRgzow3BhrHfBxF12+80XlB9NsjxZS+etsXVywTIMgveSp1jDBD8y9sb19x5QcswwwliavSjumm24EWanBMazlkXWlPiUDxQ6hUCxglP6qpx4DkNzktSUOkSdVgM0U16OWzHq0ZDHsDvBSfxj+4KMbwub5+7WuqhkxyfsxqaE+SPcLuGMoxSDqxhZyWqe+WTkLfHtIRsi7tvKbysNLjyGVvdACuE95lO8=;120lUPkz9cWcRDLCUwXykg=="
 ---

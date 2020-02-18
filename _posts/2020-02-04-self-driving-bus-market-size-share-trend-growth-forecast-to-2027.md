@@ -18,54 +18,50 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Self-driving Vehicles Market Gains Momentum due to Latest Key Developments"
-    excerpt: "Self-driving Vehicles are capable enough to see or sense its environment, without any human intervention, with the help of sensors. Increasing technological advancements such as artificial intelligence and machine learning languages are propelling the market growth of this market."
-    publishedDateTime: 2020-02-07T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-gains-momentum-due-to-latest-key-developments-2020-02-07"
+  - title: "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027"
+    excerpt: "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-02-04T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
-  - title: "Self-driving vehicles may soon be tested at an airport near you"
-    excerpt: "The agency that runs the New York region’s three major airports is dipping its pinky toe into self-driving technology. The Port Authority of New York and New Jersey is asking the private sector for ideas about how it might use autonomous vehicles within its vast transportation empire, which encompasses the region’s three big airports ..."
-    publishedDateTime: 2020-02-05T10:01:00Z
-    webUrl: "https://www.politico.com/states/new-jersey/story/2020/02/04/self-driving-vehicles-may-soon-be-tested-at-an-airport-near-you-1258791"
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Trending News For Artificial Intelligence in Aviation Market Emerging Opportunities with Current Trends and Forecast to 2029"
+    excerpt: "Artificial Intelligence in Aviation Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-06T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-in-aviation-market-emerging-opportunities-with-current-trends-and-forecast-to-2029-2020-02-06"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://static.politico.com/7b/33/c6be3da24fa0a31c8ab4f6ac8ee5/john-f.%20Kennedy%20International%20Airport%20900%20getty.jpg"
-        width: 900
-        height: 489
-  - title: "Self-driving vehicle coming to Fargo area later this year"
-    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving vehicle."
-    publishedDateTime: 2020-02-07T23:34:00Z
-    webUrl: "https://www.inforum.com/news/government-and-politics/4927364-Self-driving-vehicle-coming-to-Fargo-area-later-this-year"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application and Geography 2018 – 2027"
+    excerpt: "The report analyzes and forecasts the Machine Learning as a Service (MLaaS) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
+    publishedDateTime: 2020-02-06T10:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-and-geography-2018-2027-2020-02-06"
     type: article
     provider:
-      name: INFORUM
-      domain: inforum.com
-    quality: 24
-    images:
-      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
-        width: 1140
-        height: 712
-  - title: "Federal Policymakers to Draft Self-Driving Vehicles Bill"
-    excerpt: "WASHINGTON — Policymakers in the U.S. House of Representatives are aiming to draft a bipartisan measure that would guarantee the deployment of life-saving technologies in self-driving vehicles, the chairman of a key committee said Feb. 11. “We can ..."
-    publishedDateTime: 2020-02-11T22:37:00Z
-    webUrl: "https://www.ttnews.com/articles/federal-policymakers-draft-self-driving-vehicles-bill"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Global In Flight Voice Recognition Market, 2014-2019 & 2020-2024 - Analysis by Technology, Aircraft Type, Application and Region"
+    excerpt: "Dublin, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The \"Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application (Commercial Aviation, Military Aviation), By Region, Competition,"
+    publishedDateTime: 2020-02-06T12:19:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980975/0/en/Global-In-Flight-Voice-Recognition-Market-2014-2019-2020-2024-Analysis-by-Technology-Aircraft-Type-Application-and-Region.html"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/pallone.jpg?itok=zhaIX2_q"
-        width: 470
-        height: 246
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "gSXZ1epp9G34Kn+AU24hScxu1dTcZXOy0cnkmaASW70litgpzPNGodu5PMddZBzCKtnWUxrBki/NBfl4UCGsL81YmYr5Fl75C19xwtZIRbiAoWigL6N8T0wVQyw7o2/qp5NivlQbY5GxKfG1PaJB5GC7OgUiL8NetSwycRmTOgLUWDI8pMiMGHLCNNLkbfUpSVn9rXDRjB7adnY9NFqVTM62+YRwVcKcx8KQe0IIEK126gu+8HXystwVt14kHtKyT5iKBGQJZL3WbMfsasN7aPlDNbjCw1ytiPLS9uRg53FAgL+UipazYFVwxOLdQmvo;U01zgMIvVUfOBZh+kN4ofg=="
 ---

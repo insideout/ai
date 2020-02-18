@@ -26,21 +26,6 @@ images:
     title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
-  - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "LONDON -- Google's chief executive called Monday for a balanced approach to regulating artificial intelligence ... then scheduled to head to the World Economic Forum in Davos, Switzerland ..."
-    publishedDateTime: 2020-01-20T09:12:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/google-ceo-calls-for-regulation-of-artificial-intelligence-1.4774926?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D104070%3FautoPlay%3Dtrue"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 157
-    images:
-      - url: "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1200
-        height: 675
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
@@ -68,6 +53,6 @@ related:
       domain: bloomberg.com
     quality: 69
 
-secured: "TZSW2kYe1nWs9RMPkIwykLE/6hHIUtRQyx8+x8ZqpnFTsTM5l4yWxqN6krEEUH+XUL4AEMZ1lyKgxEp6CfhTHagof34pQQXZgdzVpscDVqDgvko2O9Bda6cgtSJJ87BhykRUWeAe5jVkSiCTV93OBp19O4Y8nyqsE1WJk/J5Wypo3sBr4fbBDMIbC2COeR1ntzoLT4YusssstDHmas59s/jWfbRSOK3vF+0EPIn7vhr57KeaZXh9bPneNj6+O2SL/0KUxtk0bj3zRPAAwNf+JC1Hb5gY9hq+FbI8w3IqHFZCGBfYcYSDYh3acljMQQGm;xpa4Gi8ccSOzYuSBAm8Uwg=="
+secured: "eRAQHw5ELz96kVfnr/vn/FeGYOLoCfy1FgpTfr59Qe2Mfc33EYEqU2fdIvH5y4cdwieTHDTA5MWbw5WDxYQ6JmBWpsMtBcbiU4t16lT6Bgq2WelQm8beNPuhT9Oe1sUIkNtUM0+FrCiqfnlL8kFHTGxrcjk7BhI2twgLTchqanKdbCuwTqqeFZGIvuVWIyfeZecVKV/Ia4cjWnOLn58/NtRqpSoC/YJlQeuHZl5ulB6oVdrPHn5LLOaOPoNXmhJAk8WRdtynXqDe6AicTae1poKrI0H+ihVnQWniETA5wL+3rU3bEEh/oEN9Zx0Ok+3t;N5tNBSajFbRnKzOO8olFmw=="
 ---
 

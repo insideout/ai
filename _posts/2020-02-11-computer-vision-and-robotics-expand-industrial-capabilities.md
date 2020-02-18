@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T12:34:00Z
 webUrl: "https://www.roboticstomorrow.com/article/2020/02/computer-vision-and-robotics-expand-industrial-capabilities/14749"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/otto-motors-via-twitter-1024x670.jpeg"
         width: 1024
         height: 670
+  - title: "Medical Robotics Market to register a 23.21% CAGR by 2025: Key Findings, Regional Study, Trends, Growth, Top Key Players Profiles and Future Prospects"
+    excerpt: "and artificial intelligence (AI) has changed the healthcare industry significantly. Thanks to these technologies, medical robotics are proven to be a more safe and useful process for performing surgeries. Increase in the adoption of the medical robots to perform minimally invasive surgeries by lowering the complications is propelling growth of ..."
+    publishedDateTime: 2020-02-11T10:11:00Z
+    webUrl: "https://www.medgadget.com/2020/02/medical-robotics-market-to-register-a-23-21-cagr-by-2025-key-findings-regional-study-trends-growth-top-key-players-profiles-and-future-prospects.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "kWjWwjFwHH6DCwsonzt/qUybMwmkuNvH0SfoJYJtSGaQxuDAysUciIwF0i92CFOns3asSyjYehrYp4ott4kg/mkddHH+5gFJruOK73N/tk/smM/ZWbTIEJymsE/WVN0tEhOnDxL9wHNpOBezGHM0sJPemVr/53c3L81zx7PL+X3ntMsRAG69oUuhh9L20KkFLKYAqUyOXxaa6iljHQhqlXLZjRO3nkSQJkeW6Mz3nvWfevSjvtZdi187gDqpQtCW00dtx6rdvcHm76jSXumniovf5F3aqnNnUahstxuu9nqzPAr0U+BZO110yKOI4DFwLQhmBp3VaZh9TOxzJuJyLg/6T2aiZpnSy2iJmsl7MTQvjOk54kKXWvwNyjfGwK2PmR3H6NVGfcyMMZWvbpcHOdNUqdmPICu3kVUdbfE1AYnPCXOKo0w2GYga9b1+nCfLbB1j2RrSZZHbO2w1kfqkfoUjWUfdgbJMBORuyfuW0BU=;pemJ9HrXtvoO2lp+D3q2iw=="
 ---

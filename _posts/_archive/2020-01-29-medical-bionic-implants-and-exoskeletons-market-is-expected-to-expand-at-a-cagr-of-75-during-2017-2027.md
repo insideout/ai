@@ -28,6 +28,32 @@ images:
     title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
 
 related:
+  - title: "The Global Deep Learning Market is expected to grow by USD 7.2 bn during 2020-2024, progressing at a CAGR of 45% during the forecast period"
+    excerpt: "New York, Feb. 04, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Deep Learning Market 2020-2024\" - https://www.reportlinker.com/p04391092/?utm_source=GNW Our reports on global deep learning market provides a holistic analysis,"
+    publishedDateTime: 2020-02-04T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-deep-learning-market-is-expected-to-grow-by-usd-72-bn-during-2020-2024-progressing-at-a-cagr-of-45-during-the-forecast-period-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global LegalTech Artificial Intelligence Market is Expected to Grow at a CAGR of More Than 37.7% Over"
+    excerpt: "PUNE, India, Feb. 4, 2020 /PRNewswire/ -- The digital reforms in the legal industry have transformed the traditional courtrooms and law practices, thus strengthening the prevalence of Artificial Intelligence (AI) in legal technology or legaltech. The increasing burden of legal activities, carried out around the globe, over a limited number of ..."
+    publishedDateTime: 2020-02-04T15:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/04/9091877.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
+        width: 400
+        height: 400
   - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
     excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
     publishedDateTime: 2020-02-04T16:49:00Z
@@ -38,6 +64,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "VA5jq1Lh0k6WgB27loc7Cl4WIByY7qIpRavvrB+3nQPU3fyvcS1VLwu8w7TJpuKF9qgwVVgCT00jB8d6MBZePENPpFe08kRI8t1euLUhUaLzsd0S5kmVRlu7G/piCAY539+YsNWT2XMe/UHZKlW7G8KpKrhQfzOu2eA+HUHFWgRMlD3qgr/ARAzlEGbmWfBeg2t1ye6L5iBeQk0yiYQNegq3dHLQSIKYccHqS3hq0Gu0SBA9KgDO/iqTOSC4PhXPT9S/sr1gClpwHskStvKF2jayjB3THFRa2+uPDmx8HBMU8KpW15i4maMly3d0LBnR;Kic+CzC9uTKvPPBicJBASw=="
+secured: "K1Al3V4LGXWWyTLJekqdEAXt/Ta1xZLc8Ldv/BA3qWRVemWoJEPXblp2YrxlW15bp33m2D8F4JKQqZ693Q6ZiHJW5OUPrHXK0oamQl1AVeeO2zQbxmTUdcvWpAbUA3KjPzvCtpGjzoNRzAB1ud2cenfkrQPbH5mLKNjZcq5RsS4KaK9TNxd5/saGdGG/Orx9doBM1yudBp1OX8a/ej/kdpMDF75G6roQw/9ezU7wHZuevdWLRhtEixxi2YYOjiOHuwaL0Plt+wi+CgqF2r5jDI7a+hnZDJ5PdpEhQ7n1cQ/MFzNP3L/OXbcyQiuRLECH;0rtSGeLqCbrBV1CJzxcYog=="
 ---
 

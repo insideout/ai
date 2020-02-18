@@ -23,6 +23,6 @@ images:
     height: 693
     title: "Danone, Microsoft for AI accelerator: ‘The success of the food revolution will depend on data’"
 
-secured: "PmoyhBKd6J8d6LgL8z5VkTNZ3ABh6H4ANBmaLGoJ0yuDM5BorLdPSlWphJ5LLkq1xtgWXjOnBfHCY5q7k+9lAEMIA5IvSCnPH3xOsNbEGBRdehpRgxhlb6zVPNSRW1fYMcvqTkYCvyZR/3+50Ix1kozjHkJ17Xid/dg2aUcRGYnBNQoBlNMiEZb44IHHWYRKaUUZUcNvmNJOIUdAuxBPKfydc7DY3y5VV364KYZ0eoUwxsuCK48qMpaA+5YR9sNHL5apvxOu7lgNNJuhE0g/PEBGBR0bxyixL9632vVtBe/qbVO8fnQObirPBylw32ZJ;dIl6Cs/hL00UIZZ0w0QPGQ=="
+secured: "chmDvCMS38ICjUO7/F1vaGPTx2V9teTSNYFa43+SEtxMZd+wDElTAcmCK8EOtU1YPw1JqOLTp6Rj268HhalYzQjn5zcZFD6fcgQJOyAgntMYC46b+k6txPjIZltgvmdOo7L2e7UjBqZgs8v2FBzH+XK39NuLbIe3x29BiolcaiN2/WerxkREmz61p5zaUb+NPTw8TZy8kqzwmHdeYRdJsAFQVrsUIxoKxLlommNXG5AI+vJFauN/+ecwIWtIfizJTjBhf9NpY2Gap4K2j3ujW7VI+QgtCUYQUL6sMiKZkV+M6bU8NfIb7kAILaPgTiCvgiozEKmyNHcYDnkUcXgcLzXXfD0GyNXVlcaWTPEbD8nT8FD+o9i4ve3VRdV2B6wakT3cq8DUji1UYU4A0KvF+zJ7wvvevzma2KcFhDskO/xsPRKLV8f9bBzlH5l4Q/rnhn/c0Fy6A492GUU+N+MkK/JbjO8iJ9RNDqsaJ5gcAKY=;1vELjQlW0ZWEL4jBBspwMQ=="
 ---
 

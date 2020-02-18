@@ -24,10 +24,10 @@ images:
     title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
 related:
-  - title: "Healthcare Chatbots Market worth $703.2 million by 2025"
-    excerpt: "Factors such as increasing optimum internet connectivity and rising adoption of smart devices, limited availability to council huge patient population, technology advancements in artificial intelligence, chatbots to reduce the healthcare cost, and increasing demand for virtual health assistance are driving the growth of the global market."
-    publishedDateTime: 2020-02-13T07:34:00Z
-    webUrl: "https://www.openpr.com/news/1930660/healthcare-chatbots-market-worth-703-2-million-by-2025"
+  - title: "Natural Language Processing Market"
+    excerpt: "This report mainly elaborates the definition, types, applications and major players of Natural Language Processing market in details. Deep analysis about market status (2014-2019), enterprise competition pattern, advantages and disadvantages of enterprise products, industry development trends (2019-2025), regional industrial layout ..."
+    publishedDateTime: 2020-02-14T10:38:00Z
+    webUrl: "https://www.openpr.com/news/1932674/natural-language-processing-market-future-opportunities"
     type: article
     provider:
       name: openpr.com

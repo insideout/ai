@@ -2,133 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-07-six-data-points-you-should-know-about-federated-machine-learning.md",
-      "title": "Six Data Points You Should Know about Federated Machine Learning",
-      "excerpt": "How early attempts to deploy machine learning inside real-world use cases have led to a new approach called Federated Machine Learning. Download the authoritative guide: Leading Big Data Vendors: Solutions to Power Your Business IT decision-makers are using artificial intelligence (AI) and machine learning (ML) in big data projects and state-of ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2019/05/eweek.logo.DataPoints-UPDATE_2.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "Six Data Points You Should Know about Federated Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-smart-cities-how-artificial-intelligence-could-change-london.md",
-      "title": "Smart cities: How artificial intelligence could change London",
-      "excerpt": "Computers are scanning London's roads, with a 98% accuracy rate in identifying vehicles and people. And they are are learning all the time. The new system can run 24/7 and is part of the \"smart city\" revolution. Using data from the scanners, planners can change streets and target investment.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/av/uk-england-london-51415491/smart-cities-how-artificial-intelligence-could-change-london",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T15:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F0A1/production/_110810616_p082lg33.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Smart cities: How artificial intelligence could change London",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri.md",
-      "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
-      "excerpt": "But the tweaks made an AI interpret the sentences completely differently. Why it matters: We have seen many examples of such adversarial attacks, most often with image recognition systems, where tiny alterations to the input can flummox an AI and make it misclassify what it sees. TextFooler shows that this style of attack also breaks NLP ...",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/f/615158/software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/40507772191411d162do.jpg?sw=1200&cx=478&cy=0&cw=2350&ch=1322",
-          "width": 1200,
-          "height": 675,
-          "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-tesla-accused-of-abruptly-pulling-self-driving-from-a-used-model-s.md",
       "title": "Tesla accused of abruptly pulling self-driving from a used Model S",
       "excerpt": "An extensive Jalopnik report details an (anonymous) person who bought a second-hand Model S 75D with both Enhanced Autopilot and Full Self Driving (FSD) as listed features. Except, somehow, those features were remotely removed, without notice from Tesla, as part of a software update. Last November, a California secondhand dealer picked up the ...",
@@ -616,6 +489,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-computer-vision-in-healthcare-market-to-enjoy-explosive-growth-xilinx-ibm-google.md",
+      "title": "Computer Vision in Healthcare Market to enjoy 'explosive growth' | Xilinx, IBM, Google",
+      "excerpt": "An extensive elaboration of the Global Computer Vision in Healthcare market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-to-enjoy-explosive-growth-xilinx-ibm-google-2020-02-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Computer Vision in Healthcare Market to enjoy 'explosive growth' | Xilinx, IBM, Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -2170,6 +2088,87 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models.md",
+      "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+      "excerpt": "Microsoft Research today announced DeepSpeed, a new deep learning optimization library that can train massive 100-billion-parameter models. In AI, you need to have larger natural language models for better accuracy. But training larger natural language models is time consuming and the costs associated with it are very high. Microsoft claims ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/",
+      "ampWebUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "publishedDateTime": "2020-02-10T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2020/02/Microsoft-Deepspeed-deeplearning.jpg",
+          "width": 1305,
+          "height": 717,
+          "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-new-music-label-says-it-can-use-ai-to-find-the-next-big-artist.md",
+      "title": "New music label says it can use AI to find the next big artist",
+      "excerpt": "We've seen artists like Björk and Arca use the technology to create new musical arrangements. But a new label called Snafu Records thinks it can also use AI to discover the next big artist long before even the most music-savvy talent scouts find them.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/10/snafu-records-ai-music-label/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/10/snafu-records-ai-music-label/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/snafu-records-ai-music-label/",
+      "publishedDateTime": "2020-02-10T11:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-07%252Fc02a1db0-9cb5-11e9-bebf-bcf6f08c5d47%26client%3Da1acac3e1b3290917d92%26signature%3D924400140c8eaa0af3df0a205e90164761ac8073&client=amp-blogside-v2&signature=3fbcf3d3d89d1169c2eb9053be70b7d99112b1dc",
+          "width": 600,
+          "height": 350,
+          "title": "New music label says it can use AI to find the next big artist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -29,6 +29,6 @@ images:
     height: 557
     title: "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
 
-secured: "vAn5hvmJ6wh0LGQItr970eIUjcLMeoejTxcaK/eIWv0aD28bORrr6Yk77jeRMOKOdERhY78FtbjNXO+ZXUZvFtzwyikDeS9Bvg/uya0lHvzloYvj5TEaBSqZuLD1VtwZ7d6U8UF58Mu/zRLIdBJCmQAsqDKA+yy79MH8hZvcnBuxorVAxk1U7BbNwXlzoeXw1feBimbqekK41XJwnSEcBdfw+fyC6V5sPfZjvxREIkSast1S8+CO7oOPyNaRgYV5T3KxoOoSY/FPkcpWbeYsbCNDOhD23/MwV7bFcpkOBXIQVwPo5gBKdgzxudRsW7Fy;SirNAoiGU7NjEjAPsLjsAw=="
+secured: "SJArKm0WkiHaa1C5B8O/wO3Jz+0iXMPN+WHjzbPczSMmzZzAcA5fB3ABI0ypxrF9NrY6mZpEVTy51YnY9fPS8WmWIOqmBNqFW2BfS9kZ8NI31g4cA+BC3rG6EHc7l8AoRLaacZfYzXD36ioxYgTvW4xbtube0Wk49PqftnKCP2txx45w/h0lQHFqXo/B2/QRQGyTEbvIHyakVEhyelRgl4JBpQQQBDFojacauLlpwHdg+/rH1Zo/rTI3AmUH6cW0cdt/EO4ps2U0GfAZ2X06hZNzGj0Vm7LQa+0gQ6RSJflNn0hOZyPkYVJKWFdlfMoh;9qnQKwLemzy7Q27riJjUxA=="
 ---
 

@@ -18,6 +18,32 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability."
+    publishedDateTime: 2020-02-11T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 85
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023"
+    excerpt: "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51."
+    publishedDateTime: 2020-02-12T20:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence (AI) Market in..."
     excerpt: "The global artificial intelligence (AI) market in food and beverage (F&B ... and product (companion robots and emotional therapy robots). Smart Robots Market – Global Smart Robots Market by geography (APAC, Europe, MEA, North America, and South America), product (personal service robots, professional service robots, and collaborative robots ..."
     publishedDateTime: 2020-02-05T00:03:00Z
@@ -33,10 +59,23 @@ related:
       - url: "https://mms.businesswire.com/media/20200204005613/en/771099/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Food_and_Beverage_%28F%26B%29_Industry_2017-2021.jpg"
         width: 480
         height: 270
-  - title: "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth"
-    excerpt: "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast."
-    publishedDateTime: 2020-02-11T10:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11"
+  - title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
+    publishedDateTime: 2020-02-06T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026"
+    excerpt: "The global Machine Learning Market will increase by a CAGR of approximately 40.1% from 2019 to 2026 and is expected to achieve a market value above US$ 76.8 Billion in 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-14T08:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-us-768-billion-globally-in-2026-2020-02-14"
     type: article
     provider:
       name: MarketWatch
@@ -46,6 +85,86 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare Market 2020 Global Growth, Trends, Revenue, Share and Demands Research Report 2026"
+    excerpt: "Feb 14, 2020 (The Expresswire) -- Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N.V., iCarbonX, Next IT Corp., Welltok, Inc., General Vision, Inc., Recursion Pharmaceuticals ..."
+    publishedDateTime: 2020-02-14T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-growth-trends-revenue-share-and-demands-research-report-2026-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market Worth $81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-05T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI in Healthcare Market By Offering, By Technology, By Region – Trends, Analysis, and Forecast Till 2030"
+    excerpt: "The research study on Global AI in Healthcare market 2019 presents an extensive analysis of current AI in Healthcare market size, drivers, trends, opportunities, challenges, as well as key AI in Healthcare market segments."
+    publishedDateTime: 2020-02-17T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-by-offering-by-technology-by-region-trends-analysis-and-forecast-till-2030-2020-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in Medicine Market, 2025- Global Market Projected to Reach USD18,119 million by 2025, Growing at a CAGR of 49.6%"
+    excerpt: "Artificial Intelligence in Medicine Market by Product Type (Hardware, Software, and Services), Technology (Deep Learning, Querying Method, Natural Language Processing, and Context Aware Processing), and Application (Drug Discovery & Repurposing,"
+    publishedDateTime: 2020-02-05T02:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medicine-market-2025--global-market-projected-to-reach-usd18119-million-by-2025-growing-at-a-cagr-of-496-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Healthcare Artificial Intelligence Market Analysis 2020 - Dynamics, Trends, Revenue, Regional Segmented, Outlook & Forecast Till 2026"
+    excerpt: "Global Healthcare Artificial Intelligence Industry Overview The Global Healthcare Artificial Intelligence Market has been servicing the customers for several years. The market has seen several ups and downs due to changing government policies,"
+    publishedDateTime: 2020-02-07T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-analysis-2020---dynamics-trends-revenue-regional-segmented-outlook-forecast-till-2026-2020-02-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence Market Is Projected to Reach $390.9 Billion by 2025: Report"
+    excerpt: "all of which have contributed to the swift uptake of artificial intelligence technology in end-use industries such as automotive and healthcare,” the release stated."
+    publishedDateTime: 2020-02-13T01:42:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157389-global-artificial-intelligence-market-is-projected-to-reach-390-9-billion-by-2025-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157389-global-artificial-intelligence-market-is-projected-to-reach-390-9-billion-by-2025-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157389-global-artificial-intelligence-market-is-projected-to-reach-390-9-billion-by-2025-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 49
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence-300x267.jpeg"
+        width: 300
+        height: 267
   - title: "Global Artificial Intelligence (AI) in Manufacturing Market Hits Record Value of USD 18.5 Billion By 2025"
     excerpt: "The \"Global Artificial Intelligence (AI) in Manufacturing Market Is Anticipated To Reach Around USD 18.5 Billion By 2025\" Research Report provides the newest industry data and industry future trends,"
     publishedDateTime: 2020-02-11T06:10:00Z
@@ -55,59 +174,46 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "Artificial Intelligence (AI) in Security Market"
-    excerpt: "Global Artificial Intelligence (AI) in Security Market would thus note a steady growth over the forecast period of 2020 - 2025. The robust CAGR (Compound Annual Rate Growth) will chart an upward growth curve and create lucrative growth opportunities in the global Artificial Intelligence (AI) in Security Market. In, turn, this will lead to ..."
-    publishedDateTime: 2020-02-04T13:02:00Z
-    webUrl: "https://www.openpr.com/news/1918649/artificial-intelligence-ai-in-security-market-2020-2025"
+  - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
+    excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
+    publishedDateTime: 2020-02-12T19:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-size-share-growth-rate-revenue-segmentation-industry-demand-forecast-to-2026-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research(R)"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth in the speech and voice recognition market can be attributed to the rising acceptance of advanced technology together with increasing consumer demand for smart devices,"
+    publishedDateTime: 2020-02-06T11:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-worth-268-billion-by-2025-at-a-cagr-of-172-from-2019--meticulous-researchr-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Healthcare Chatbots Market worth $703.2 million by 2025"
+    excerpt: "Factors such as increasing optimum internet connectivity and rising adoption of smart devices, limited availability to council huge patient population, technology advancements in artificial intelligence, chatbots to reduce the healthcare cost, and increasing demand for virtual health assistance are driving the growth of the global market."
+    publishedDateTime: 2020-02-13T07:34:00Z
+    webUrl: "https://www.openpr.com/news/1930660/healthcare-chatbots-market-worth-703-2-million-by-2025"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 32
-  - title: "Global Artificial Intelligence in Aviation Market 2018-2022| Evolving Opportunities with Airbus and Amazon | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence in aviation market is poised to grow by USD 756.71 million ... and product (companion robots and emotional therapy robots). Smart Robots Market – Global Smart Robots Market by geography (APAC, Europe, MEA, North America, and South America), product (personal service robots ..."
-    publishedDateTime: 2020-02-04T23:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200204005787/en/Global-Artificial-Intelligence-Aviation-Market-2018-2022-Evolving"
+    quality: 19
+  - title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application, Geographical Outlook - Global Industry Analysis and Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's ..."
+    publishedDateTime: 2020-02-05T09:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005339/en/Global-Artificial-Intelligence-Agriculture-Market-Expected-Grow"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 32
+    quality: 1
     images:
-      - url: "https://mms.businesswire.com/media/20200204005787/en/771181/23/Global_Artificial_Intelligence_in_Aviation_Market_2018-2022.jpg"
+      - url: "https://mms.businesswire.com/media/20200205005339/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
-  - title: "Artificial Intelligence (AI) in Supply Chain Market"
-    excerpt: "Meticulous Research - leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & by End User - Global Forecast to ..."
-    publishedDateTime: 2020-02-06T11:12:00Z
-    webUrl: "https://www.openpr.com/news/1921632/artificial-intelligence-ai-in-supply-chain-market-is-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
-  - title: "Global Artificial Intelligence (AI) in Social Media Market 2019-2023 | Growing Demand for Smart Homes to Boost Growth | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The artificial intelligence (AI) in social media market size is poised to grow by USD 1.67 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The process of deploying and maintaining reliable data interfaces is difficult, owing to the complexity ..."
-    publishedDateTime: 2020-02-07T01:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200206005722/en/Global-Artificial-Intelligence-AI-Social-Media-Market"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
-        width: 1200
-        height: 627
-  - title: "Global Swarm Intelligence Market 2020"
-    excerpt: "It's vital you keep your market knowledge up to datesegmented byModel (ACO, PSO, Others), Capability (Optimization, Routing Scheduling, Clustering ), Application (Robotics, Drones/UAV ... and invited their authors to speak and discuss their findings on artificial intelligence and swarm intelligence along with their applications in real-life."
-    publishedDateTime: 2020-02-07T12:52:00Z
-    webUrl: "https://www.openpr.com/news/1923585/global-swarm-intelligence-market-2020-climbs-on-positive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
   - title: "Global Artificial Intelligence (AI) in Education Market Key Players, Demands, Regional Analysis, Market Share, Size, Revenue and Forecast to 2026"
     excerpt: "Global Artificial Intelligence (AI) in Education Market study formulates with historic data up to 2019 and gives a forecast for 2020-2026. This incorporates Artificial Intelligence (AI) in Education market size, product scope, industry revenue and growth opportunities. It covers Artificial Intelligence (AI) in Education sales volumes ..."
     publishedDateTime: 2020-02-04T08:28:00Z
@@ -116,6 +222,26 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 0
+  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
+    publishedDateTime: 2020-02-05T12:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+  - title: "Speech and Voice Recognition Market To Set Phenomenal Growth At CAGR of 17.20% from 2019 to reach $26.79 billion by 2025"
+    excerpt: "Meticulous Research – a leading global market research company published a research report titled \"Speech and Voice Recognition Market by Type (Speech and Voice Recognition),"
+    publishedDateTime: 2020-02-17T06:37:00Z
+    webUrl: "https://www.benzinga.com/press-releases/20/02/wr15347991/speech-and-voice-recognition-market-to-set-phenomenal-growth-at-cagr-of-17-20-from-2019-to-reach"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15347991"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15347991"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "p1s1n4ESGklrZhXLrbVJMGifCaSBUkyL5nm64a73NgcaZWL9dFyeQMPzwjZBpym5n0Jz76w/KteXauxvcGelomonuoctanIqaxHJ1AfG2APvaYO0MNi9dcH6BeUvrXWNGCikJeHV0lBYBwB5RPsALjdWklA9+ihM2U7U/vzo9qcMcaBbI6u5WoF83kpN/w1UgtKGUEdg2BycCLjCcFB8ftHKW85lEcVHFZOCTzarRjSKVyovsBj2cfC+GFT91NOgbo7zXxONLQdsmuhgrikN1nHdTT3jcxrc0LoV4/dFJyjWW3v2hMQSG4/HxCeyrkHpswvH8pd89K0qqta6YUOcBBkFZGGxdi1L+mm0atQVqfK09/mc9Rt5yKT3tXSG5a8bRVaMQk5D5LYZKHqeP5uux99Tf1XG3n9/6UbLef0qVx/iYH5iMGkLZ/Wdy4NzjnyJnrwlzQ9JSzcKWBDgTmni8vd+ncQcIK8SDwxfe2uAvqM=;91YDmCm8d8o5TgorRakz8A=="

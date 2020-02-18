@@ -29,6 +29,6 @@ images:
     height: 1333
     title: "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes"
 
-secured: "5wDzw8UGDHV9ygb3u2SwL7ZLS8k2gtDwCn0cxbkflaLuPBn9vsr4KuVEnPi2t7GA4gqE01DMQgIW+RVOBEd1jnxWzTH4EGcZRHYv1iqfmAX1n+n7PWJMkKKDGfoLUtozT37RplCrx+noXIG8c71+kcDfcYwNd2srupDh6/886rXo4fxjRYmv+1jLcWq35kA+uhluIVwTLhAcdz6ZCp9nRtd5Vpfo6ZzOJZgY/kH31Szqh89t+32AwhaoGZhUqP97Y3IZloldP/e8i/bRHM8y1uqAe+Clp414Zcjgo0clgkAJNJpK0kJLatv4Y00mayjS;IEwKTmcE12ZnrJHX2ADn0A=="
+secured: "tWLMENbN0XM93VWe3rzXmpDqj72TTf/pIc4U+H2sleNW7cE+5YUr/v4GezysfGnZYvD7RFrXdKyfIWWF7QFyEtVKXfgzTK07gIYU+0FK3E5/LiS5aDsQ+qq71+h5+UgKZmCPuXzMtFmzpS5DEBT8G6eLsaA0TgOnXIfl1lY3B32x10ilwiIyBBWx8BnzvcFWjeCs/WeGLDm00pTuw+J9xSjDL/og+gYl/HNGbukVERlXcMU7KFacAJmU+SdlWW7oWxX9oyMd+MvOvsuQ+3AhkoR5kTuc/WfiYkE55wWAgTwfPkEwTYow6xxN6kYMwFcefnBkjG2tiC3Dqs3Z/dDgnl6NvBqAYYAA5DYPNvLur3LytPVOeg5xIetnTJqvoVpVyffOLuLAYp9redRmwCOdk5P+P5/qx9fYHSYbvn0ZeaJhWnEogw2ihHFSmDCHIAJIedZ+09JurHiAh9k8lSEB8kZEwF8L1eQQqOKypNIipEg=;MGf9vYPJs4LMFjvSyrd8rw=="
 ---
 

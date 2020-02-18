@@ -22,45 +22,50 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Enterprise AI Market Statistics and Growth Prediction 2020 to 2025 | IBM Corporation, Oracle, HP"
-    excerpt: "Artificial Intelligence in recent years has moved on to become a key component for enterprise applications and has posed as an important factor for successful business strategies. With AI, enterprises are now able to achieve far more in quite less time."
-    publishedDateTime: 2020-02-06T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
+  - title: "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027"
+    excerpt: "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-02-04T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Future Innovation Strategies by 2029 | Apple Incorporation, Dolbey Systems, Google"
-    excerpt: "Global News of Natural Language Processing Market Study 2020-2029, by Segment (Rule-Based, Statistical, Hybrid), Playing a Pivotal Role in Expanding by (Web Search, Language Translation, Customer Service),"
-    publishedDateTime: 2020-02-12T10:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-future-innovation-strategies-by-2029-apple-incorporation-dolbey-systems-google-2020-02-12"
+  - title: "Trending News For Artificial Intelligence in Aviation Market Emerging Opportunities with Current Trends and Forecast to 2029"
+    excerpt: "Artificial Intelligence in Aviation Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-06T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-in-aviation-market-emerging-opportunities-with-current-trends-and-forecast-to-2029-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Life Sciences Market to Flourish With An Impressive CAGR BY 2020-2025 : IBM Corporation, NuMedii Inc"
-    excerpt: "Artificial Intelligence in Life Sciences Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques."
-    publishedDateTime: 2020-02-04T06:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-to-flourish-with-an-impressive-cagr-by-2020-2025-ibm-corporation-numedii-inc-2020-02-04"
+  - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
+    excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
+    publishedDateTime: 2020-02-04T12:24:00Z
+    webUrl: "https://www.openpr.com/news/1918469/self-driving-bus-market-size-share-trend-growth-forecast"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "Global In Flight Voice Recognition Market, 2014-2019 & 2020-2024 - Analysis by Technology, Aircraft Type, Application and Region"
+    excerpt: "Dublin, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The \"Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application (Commercial Aviation, Military Aviation), By Region, Competition,"
+    publishedDateTime: 2020-02-06T12:19:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980975/0/en/Global-In-Flight-Voice-Recognition-Market-2014-2019-2020-2024-Analysis-by-Technology-Aircraft-Type-Application-and-Region.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "P0kXxw+cTUZCxTklJuKiR6lY1ff+zg6GOk8e3lNGRUVDjmgBxwrtnhvPwxhQiuqjObuyTrbIPCmwU3hXjO831k0R0CXMrI0G6WyX9tRLoBZ1gU9Vh2oFzhW4gVM86y+F0Z8fm4h58sQYQRXvb+bPbgP9R1UOoEPSzQHnlK8RylVZ8XDtiyUhFCVRGLh+TJtytGZm/yY58Tqt6LV9Y4L42ZrUWa0BooWNnz/vE4bFjrYJD44+DwPEnGqsJtw3qBO4vNnEMgVnru5o6kkwueCbhBVYGRqFriZTUSVEXtatSCeHOpHhq7SjbpWWMVLuQGMH;6InCdmgLyNepuTNBAZ1SjA=="
 ---

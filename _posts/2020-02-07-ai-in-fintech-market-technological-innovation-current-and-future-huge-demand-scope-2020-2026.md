@@ -100,15 +100,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision Software Market Rising Trends and Technology Advancements 2020 to 2026"
-    excerpt: "The report presents an in-depth assessment of the Computer Vision Software Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
-    publishedDateTime: 2020-02-04T04:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-rising-trends-and-technology-advancements-2020-to-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
   - title: "Reinforcement Learning (RL) Market Report & Framework, 2020: An Introduction to the Technology"
     excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Reinforcement Learning: An Introduction to the Technology\" report has been added to ResearchAndMarkets.com's offering. These days, machine learning (ML),"
     publishedDateTime: 2020-02-04T11:38:00Z

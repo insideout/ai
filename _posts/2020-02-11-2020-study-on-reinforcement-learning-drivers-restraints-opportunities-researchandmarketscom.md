@@ -24,6 +24,19 @@ images:
     title: "2020 Study on Reinforcement Learning: Drivers, Restraints & Opportunities - ResearchAndMarkets.com"
 
 related:
+  - title: "Global Forecast for Artificial Intelligence (AI) Chipsets (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Chipsets (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate ..."
+    publishedDateTime: 2020-02-12T10:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200212005352/en/Global-Forecast-Artificial-Intelligence-AI-Chipsets-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 20
+    images:
+      - url: "https://mms.businesswire.com/media/20200212005352/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
   - title: "2020 Report on Computer Vision: Thematic Research - Key Trends Impacting Growth Over the Next 12 to 24 Months - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision - Thematic Research\" report has been added to ResearchAndMarkets.com's offering. CV will find myriad applications in several industries, reaching an estimated market size of $28bn by 2030, up from $3.5bn in 2019, according to the publisher forecasts. The explosion in the volume of visual data ..."
     publishedDateTime: 2020-02-13T10:29:00Z

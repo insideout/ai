@@ -2,52 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-13-stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all.md",
-      "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
-      "excerpt": "Also: AI on steroids: Much bigger neural nets to come with new hardware ... \"I have a heard time believing that my laptop has subjective experience,\" he said, even though it gets more intelligent all the time with faster chips and better software. Still, one has to \"concede it's possible that suitably programmed computers could have ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
-      "publishedDateTime": "2020-02-13T05:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/13/824a2dee-ba6c-4be0-a012-abbe00e0f75a/stuart-russell-feb-2020.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-the-illusion-of-artificial-emotional-awareness.md",
       "title": "The Illusion of Artificial Emotional Awareness",
       "excerpt": "Welcome to the world of affective computing, also known as emotion AI. A relatively new branch of computer science ... Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions ...",
@@ -405,7 +359,7 @@
       "path": "_posts/2020-02-14-artificial-intelligence-market-facts-figures-and-analytical-insights-2017-2025.md",
       "title": "Artificial Intelligence Market: Facts, Figures and Analytical Insights 2017 - 2025",
       "excerpt": "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period.",
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2017---2025-2020-02-14",
@@ -489,6 +443,50 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026.md",
+      "title": "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026",
+      "excerpt": "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -761,7 +759,7 @@
       "path": "_posts/2020-02-14-natural-language-processing-market-key-and-forecast-predictions-presented-until-2029.md",
       "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
       "excerpt": "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,",
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14",
@@ -1877,51 +1875,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-17-automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026.md",
-      "title": "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026",
-      "excerpt": "Global Automotive AI market has emerged as one of the most lucrative growth verticals in recent years. The market is predicted to show a remunerative growth trend through 2026. This development can be attributed to the slowly increasing uptake of driver assistance technologies in an effort to provide a better driving comfort as well as ensure a safe driving experience.",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026-2020-02-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-bridging-the-gender-gap-in-ai.md",
       "title": "Bridging The Gender Gap In AI",
       "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
@@ -2090,6 +2043,42 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-eu-plan-on-ai-new-rules-better-taxes.md",
+      "title": "EU plan on AI: new rules, better taxes",
+      "excerpt": "\"The new ... taxes and others do not,\" it adds. Other initiatives currently being discussed include an action plan on 6G, making data-centres more sustainable and a revision of the regulation on online identification. After the EU's approach to AI and ...",
+      "heat": 177,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://euobserver.com/science/147454",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-16T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EUobserver",
+        "domain": "euobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/ed6fdf40109cab6388b14a8576373ce9-480x.jpg",
+          "width": 480,
+          "height": 320,
+          "title": "EU plan on AI: new rules, better taxes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -28,32 +28,152 @@ images:
     title: "Natural language processing (NLP) Market Global Industry Analysis and Forecast till 2027"
 
 related:
-  - title: "Artificial Intelligence Market: Facts, Figures and Analytical Insights 2017 - 2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
-    publishedDateTime: 2020-02-14T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2017---2025-2020-02-14"
+  - title: "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth"
+    excerpt: "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast."
+    publishedDateTime: 2020-02-11T10:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026"
-    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market."
-    publishedDateTime: 2020-02-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12"
+  - title: "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026"
+    excerpt: "Global Automotive AI market has emerged as one of the most lucrative growth verticals in recent years. The market is predicted to show a remunerative growth trend through 2026. This development can be attributed to the slowly increasing uptake of driver assistance technologies in an effort to provide a better driving comfort as well as ensure a safe driving experience."
+    publishedDateTime: 2020-02-17T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
+    excerpt: "Mobile Artificial Intelligence (MAI) Market 2020 Wiseguyreports.Com Adds \"Mobile Artificial Intelligence (MAI) - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
+    publishedDateTime: 2020-02-17T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-artificial-intelligence-mai-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning Operationalization Software Market 2019-2025 Global Industry Analysis"
+    excerpt: "The Global Machine Learning Operationalization Software Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application,"
+    publishedDateTime: 2020-02-08T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operationalization-software-market-2019-2025-global-industry-analysis-2020-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Trending News For Artificial Intelligence Advisory Service Market Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2029"
+    excerpt: "Artificial Intelligence Advisory Service Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-07T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-advisory-service-market-global-drivers-restraints-opportunities-trends-and-forecasts-up-to-2029-2020-02-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Automotive Artificial Intelligence Market Development Analysis 2020 to 2026"
+    excerpt: "Latest Trends Report On Global Automotive Artificial Intelligence Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists."
+    publishedDateTime: 2020-02-13T11:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-development-analysis-2020-to-2026-2020-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+  - title: "Natural Language Processing Market Global Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
+    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
+    publishedDateTime: 2020-02-06T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence and Machine Learning Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
+    excerpt: "Artificial Intelligence and Machine Learning Market 2020 Wiseguyreports.Com Adds \"Artificial Intelligence and Machine Learning - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
+    publishedDateTime: 2020-02-18T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-and-machine-learning-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+  - title: "Artificial Intelligence (AI) in the Global Freight Transportation Industry, Forecast to 2025"
+    excerpt: "/PRNewswire/ -- This study analyses the key trends and applications of artificial intelligence in the freight transportation industry by mode of transport"
+    publishedDateTime: 2020-02-04T12:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-the-global-freight-transportation-industry-forecast-to-2025-300998307.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+  - title: "Artificial Intelligence Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
+    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9."
+    publishedDateTime: 2020-02-13T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
+    excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
+    publishedDateTime: 2020-02-18T09:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15351302/deep-learning-software-market-2020-global-industry-key-players-size-trends-opportunities-growth-a"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15351302"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15351302"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
+        width: 600
+        height: 250
+  - title: "Artificial Neural Network Market- Global Analysis, Latest Trends, Industry Growth, Technology Innovation and Regional Forecast"
+    excerpt: "The artificial neural network market globally has been segmented into component, type, and application. By type, the market has been segmented into feedforward artificial neural network, feedback artificial neural network, and others. The market segmentation by component has been segmented into services, software, and platform. By application ..."
+    publishedDateTime: 2020-02-06T12:30:00Z
+    webUrl: "https://www.openpr.com/news/1921905/artificial-neural-network-market-global-analysis-latest"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "ftgMO3UC+YTkRSdTVt2RdRpJVKBAoGrYcr999z61B5ZMkouYfiu5qcT4Q50HOJMvWqj1yGujjgzs2eDqXMB5blefB2V79QFOAPP0VBGzRQwU1Y9CTi2z7SFLWwBgdJsML8Bh2Sd+kPvKQ72g4UoqolGV4sB+MlYnarFvjypunTlI181dCyF++aQ7GHAiZAuGpcbXg2VdEXojsC6JCjrn6mzpHm0kXkH6MtoK7VrTQeF52W6zxMJnNLNZ5yMSbxJPpqW24bd6KoyuRED+Enxtx26Km2LCv9TG2HW9BLWDl/rEbpGsoZoRGnuYfs1YTMsq;H65brTCyxuB6QN//T5+i9Q=="
 ---

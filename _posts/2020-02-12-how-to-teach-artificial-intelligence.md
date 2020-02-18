@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artif
 ampWebUrl: "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/711x572/https://specials-images.forbesimg.com/imageserve/5e4280f7298c2a00065f7857/960x0.jpg?fit=scale"

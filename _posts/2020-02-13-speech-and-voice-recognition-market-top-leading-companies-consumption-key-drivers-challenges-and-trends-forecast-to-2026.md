@@ -28,6 +28,17 @@ images:
     height: 630
     title: "Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
 
+related:
+  - title: "Voice Assistant Market Innovations, And Top Companies – Forecast To 2029| Amazon Inc, Google Inc, Apple Inc"
+    excerpt: "Segmentation by Technology:, Speech Recognition, Speech Recognition System, Speaker Dependent Systems, Speaker Independent Systems, Natural Language Processing (NLP), Text-to-Speech Recognition, Voice Recognition. Segmentation by Application: Messenger Bots, Websites, Contact Centers. Segmentation by End User: Individual Users, SMEs ..."
+    publishedDateTime: 2020-02-12T20:18:00Z
+    webUrl: "https://apnews.com/Wired Release/f77df562f1ed5f919f28a22f80c01d58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+
 secured: "/1BlrTvHuTfS8gyWEgEtNmIV7AgjCbXcbH45M9NlbeQaaHO+naXrj7DhWg37sI1cnx58ifFmq/eGyJO6nBmpPAba0OKkhcB4kO7iJZltI57XrGXxcItqkqKD9nU9jRpu7iXXylS6TS/FC7BdApBbHZTfEr0Go3cIL2yIBgpGy47JEZIwJuziWOw8n934+rJ/W/XV+23kjL0Aed7qr+GS/+poUpsfr8GaEfK60H3aWIO4eD5YZ11VHr1QluvaibVqHmr/SsBaeOnVMKHx2grIa+wsgoSXv07xRBPnWJh0V+Ke/WYvgN5Ae8VbfV1Fco8Y;nwxlLxbyYLqp0jkJqFP1Hw=="
 ---
 

@@ -2,6 +2,96 @@
   "page": 10,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-07-samsung-envisions-even-more-personal-consumer-tech-at-ces-2020-including-a-cute-rolling-robot.md",
+      "title": "Samsung envisions even more personal consumer tech at CES 2020 -- including a cute, rolling robot",
+      "excerpt": "The \"Age of Experience\" includes companion robots, AI-powered homes and smart cities ... more enjoyable and more meaningful.\" \"2020 will start a new era in tech,\" he said during his presentation.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/samsung-co-ceo-hs-kim-envisions-more-personalized-consumer-tech-at-ces-2020/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-co-ceo-hs-kim-envisions-more-personalized-consumer-tech-at-ces-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-co-ceo-hs-kim-envisions-more-personalized-consumer-tech-at-ces-2020/",
+      "publishedDateTime": "2020-01-06T19:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/QUF4DnSN92F_axDWPufG1xnxWjA=/756x567/2020/01/07/1e7e478d-657b-4055-a2a1-23cf37958d73/hs-kim-ces-2020-keynote-main-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Samsung envisions even more personal consumer tech at CES 2020 -- including a cute, rolling robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-07-uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models.md",
+      "title": "Uber open-sources Manifold, a visual tool for debugging AI models",
+      "excerpt": "Early last year, it debuted Ludwig, an open source toolbox built on top of Google’s TensorFlow framework that allows users to train and test AI models without having to write code. And in February 2019, it launched the Autonomous Visualization System (AVS), a standalone web-based technology for understanding and sharing autonomous systems data.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/amp/",
+      "publishedDateTime": "2020-01-07T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/IMG_20191125_121819-e1578420233574.jpg?fit=1230%2C600&strip=all",
+          "width": 1230,
+          "height": 600,
+          "title": "Uber open-sources Manifold, a visual tool for debugging AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-07-waymo-self-driving-vehicles-cover-20-million-miles-on-public-roads.md",
       "title": "Waymo self-driving vehicles cover 20 million miles on public roads",
       "excerpt": "(Reuters) - Waymo, the self-driving unit of Alphabet Inc (GOOGL.O), said its vehicles had covered more than 20 million miles (32.2 million km) on public roads since its creation in 2009.",
@@ -2078,97 +2168,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-12-artificial-intelligence-how-to-measure-the-i-in-ai.md",
-      "title": "Artificial intelligence: How to measure the ‘I’ in AI",
-      "excerpt": "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-12T01:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Artificial intelligence: How to measure the ‘I’ in AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-12-brazil-is-emerging-as-a-world-class-ai-innovation-hub.md",
-      "title": "Brazil is emerging as a world-class AI innovation hub",
-      "excerpt": "After the U.S., Brazil has the largest number of social media users on Facebook, Twitter ... and the private sector boosting investment in AI research, that skills gap will begin to close.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/",
-      "publishedDateTime": "2020-01-12T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design11.jpg?fit=1200%2C850&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": "Brazil is emerging as a world-class AI innovation hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

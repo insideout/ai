@@ -175,6 +175,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
         width: 1640
         height: 800
+  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
+    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
+    publishedDateTime: 2020-02-05T18:29:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "drljDwvjwGXopSzUTm+aubX8EqR/DfLXZkC5UFBr3+xOnJhTv8/oVyMWYoHQtreycrIaHgS21KCOOaXicg8pZt+nv31AuFqusP0XJBgClGNyvZizRGopboDywKJfPZBXGooh4L/LA8rg4RtoIJ/HUdDjWBgo0vFDYyFgzEDflhWudP+VRZSINjcmECUKKdvkWMN+LQkIhnhrWDpG7pZbP6ai3nD04lSJ13WPH4abvcXa/LfWsUJhcYV/Y/24DD0VYi+1xXjiAoiHwlORJQYzj+QtnQZm9pKZt5aLkYG/Sp6abc4jgaaDwO1t9RlNmw8bk+qGsqBAfjbEr7HD5hiMNKgosDWJrsweihS7nmoWFk+L7UysQZpaU2IzJzDVEibE5XrLS7EktiHs//lhtjrqTSXfQKr5o3m58wkFS72VtZkLei04EMxbovjjvH56M+tRa7ysAMF2+1dBJBtcY8C+zYxFx9E4Xg5FIbSTNeLo/eE=;9dFCiImajm2WHnqWw1m+3A=="
 ---

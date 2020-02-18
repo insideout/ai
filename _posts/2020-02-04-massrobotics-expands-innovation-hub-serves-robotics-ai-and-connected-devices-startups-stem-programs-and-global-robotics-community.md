@@ -63,6 +63,15 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/otto-motors-via-twitter-1024x670.jpeg"
         width: 1024
         height: 670
+  - title: "Medical Robotics Market to register a 23.21% CAGR by 2025: Key Findings, Regional Study, Trends, Growth, Top Key Players Profiles and Future Prospects"
+    excerpt: "and artificial intelligence (AI) has changed the healthcare industry significantly. Thanks to these technologies, medical robotics are proven to be a more safe and useful process for performing surgeries. Increase in the adoption of the medical robots to perform minimally invasive surgeries by lowering the complications is propelling growth of ..."
+    publishedDateTime: 2020-02-11T10:11:00Z
+    webUrl: "https://www.medgadget.com/2020/02/medical-robotics-market-to-register-a-23-21-cagr-by-2025-key-findings-regional-study-trends-growth-top-key-players-profiles-and-future-prospects.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "k/0rF//5BtjUv8tZ/UBKRZhGtbgP5Peim12670e0okctrNI8VmIKmPtIf6i60SDF9M76mgzF+3o8kobNoQLCc2G2daVr88MSGJ+N9yWHFd2OYAOzSjzQeJgqOq5Hmk263VPXza/XQ354rnLva3GZOIYIorbYu34h2cLnmEAduVFMBxYPDuLjNf97UGb128J42KP+wu2ICz2sUZ7XNa4wsW4uOaEsd/NglKO5AjOSiwsv5bYGbZb+kbyCiX5fg65YbW0tOB5ktSlNQMa5l4eUi2WHQjtySzC0Y6JbTDDTFnpfCMx8PcToE3vJNcl83WPi;bFW6rtgIpMYnHDnNX1IRNA=="
 ---

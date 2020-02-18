@@ -23,6 +23,6 @@ images:
     height: 300
     title: "3M M*Modal Earns #1 Best in KLAS for Speech Recognition: Front-End EMR"
 
-secured: "KJU1nYezZ/tVPtzRrLCkf26rvi+d/OD2wd0HLQsL4OLo2CIRwn0Se5H5ku8c3ozTw2roCdIihqeq9RBVNerz+RYxwHTAPnJSxRzm2V6YVl8SQ1g3cMUBns5y09A4kwAOY4eeBqvEL7XxOZMQGl7D+2y528VUz5sG4Ec3nt/wsjtAXgbRF05ad68cag/OrVXEYG4mGIajwaYRMTNyhF1IO5FnyXfVmqTu8ttbe2EdakyN7t3wdVsFwlyqqenTf4YmSjVTqe7NHeux6hpSU+CIgctuIDMykemeQQWp0iFWX4CqPJIDa1x7TrtfWjD3Iym8;RakuHPiFo+SpNkP/YYVKWw=="
+secured: "yhRv7BcT58i7SfLfbv4praTbo0GQe4L29Gv9ZnDBQEOt9B3MGzo1h5nEKlriq9d1ek5LGuygnK5++uOm9eS/K8ByI2A5rDuTJ7FTNsBu3dZDhGIeL+I8gB7i2X5q5lhH2yq+L5TiNTomzwSlg3mADwIpUIUyZT5YCXG7H2O6Nl7cYZk4BfLixf2/6cWIJQP/jfty10dmkxNYdoCnyar0QW7zMTGpHydO6ePkKdRkGv0bBU7DF81NYe67k98tEnUL/N0NQGzj9PHx2C/3a4jnySP+6m8RrPT9Sc3ANrMCFUqCeOU9b2sNgACakLUjN37O;Mr2ndgz53lAvPKp/goSzxg=="
 ---
 

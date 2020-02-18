@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T19:37:43Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/winners-of-aws-machine-learning-research-awards-announced/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 1260
     height: 630
     title: "Winners of AWS Machine Learning Research Awards announced"
+
+related:
+  - title: "Facebook Faculty Research Award recognizes machine learning advancements at MSU"
+    excerpt: "Zhang and Yan have been invited to the Facebook Research AI Systems Faculty Summit in Fall 2020. Read more on the research award winners and finalists honored by Facebook. Thinking beyond the box: MSU a leader in packaging scienceFeb 05, 2020When it comes to finding solutions for a better tomorrow, Spartans have. . . Does a growth mindset ..."
+    publishedDateTime: 2020-02-18T21:09:00Z
+    webUrl: "https://msutoday.msu.edu/news/2020/facebook-faculty-research-award-recognizes-machine-learning-advancements-at-msu/"
+    type: article
+    provider:
+      name: Michigan State University
+      domain: msu.edu
+    quality: 37
+    images:
+      - url: "https://msutoday.msu.edu/_/img/assets/2019/social-media-3.jpg"
+        width: 1024
+        height: 605
 
 secured: "S3d55n1eZBOtV4G9RmfsOB0y3VNR9HKS8uyXYF0GbkWsK310PWYSs32tMB4K/yMWgOH221agK2bXaQ3XW+FJE8OyE+LtR3jCtJL7fhpmW29ptlFrh1mwowpL6gLx498KRuIJx/6mt0nUF0mtG2kprDLKCQWsHH21rBs8RmV5sTWooeG4uBKQ7gg1i5Kb+aVDc/qgGE9DWF4tlCK0ePeV2i5OO6xyYuKSXVTV6aCZzdkCLxtM68Q9YBqgmhjZyUCht8O1st2x2ABMZqeHhP+zAQbeiLsfFPo5M0Q7g0W+bbQyN7+9eEK30o7CjvmM/pgPpFhC9VI0d9d71CTrKw6Yow==;wkrwn3IWA39HE66qlg5RAA=="
 ---
