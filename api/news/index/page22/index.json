@@ -2,6 +2,51 @@
   "page": 22,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-01-the-future-of-fintech-ai-blockchain.md",
+      "title": "The Future of Fintech: AI & Blockchain",
+      "excerpt": "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.businessinsider.com/image/5e305ac224306a476129d512",
+          "width": 400,
+          "height": 224,
+          "title": "The Future of Fintech: AI & Blockchain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-01-what-if-ai-could-anticipate-our-wants-and-needs.md",
       "title": "What If AI Could Anticipate Our Wants and Needs?",
       "excerpt": "The lines of code that animate these machines will inevitably lack nuance, forget to spell out caveats, and end up giving AI systems goals and incentives that don’t align with our true preferences. A now-classic thought experiment illustrating this problem was posed by the Oxford philosopher Nick Bostrom in 2003. Bostrom imagined a ...",
@@ -518,7 +563,7 @@
       "path": "_posts/_archive/2020-02-03-cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs.md",
       "title": "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS",
       "excerpt": "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-date analysis of the Market with regards to the innovations, current competitive landscape and latest trends and drivers, to provide new predictions for the forecast period.",
-      "heat": 149,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03",
@@ -556,8 +601,51 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI",
-        "AWS AI"
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-03-elon-musk-announced-hes-hosting-a-super-fun-ai-party-hackathon-at-his-house-next-month.md",
+      "title": "Elon Musk announced he's hosting a \"super fun AI party\" hackathon at his house next month",
+      "excerpt": "The announcement appears to be part of a wider drive to bolster Tesla's autonomous driving division, responsible for its Autopilot feature.",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2?amp",
+      "publishedDateTime": "2020-02-03T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e32fe3862fa813a0c67ed14?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Elon Musk announced he's hosting a \"super fun AI party\" hackathon at his house next month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {

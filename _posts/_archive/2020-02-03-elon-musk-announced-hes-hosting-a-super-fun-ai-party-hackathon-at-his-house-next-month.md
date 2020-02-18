@@ -8,8 +8,8 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-announces-tesla-hackathon-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2?amp"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: Business Insider
@@ -29,21 +29,6 @@ images:
     title: "Elon Musk announced he's hosting a \"super fun AI party\" hackathon at his house next month"
 
 related:
-  - title: "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house"
-    excerpt: "Tesla has been known to have a presence at some AI conferences and throw parties to ... also looking for world-class chip designers to join our team, based in both Palo Alto & Austin."
-    publishedDateTime: 2020-02-03T10:27:00Z
-    webUrl: "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/"
-    ampWebUrl: "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 189
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2017/07/elon-musk-nga-2017.png?w=1600"
-        width: 1600
-        height: 803
   - title: "Elon Musk to solve self-driving with a ‘Super Fun’ AI hackathon"
     excerpt: "Invitations going out soon. This comes on the heels of last week’s fourth quarter earnings call, where Business Insider reports Musk admitted Tesla was at least a “few months” from rolling out “feature complete Full Self Driving” (FSD). There’s a lot to unpack here, so let’s start with the timing of the party announcement."
     publishedDateTime: 2020-02-03T20:18:00Z
@@ -57,19 +42,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/elonmusk_party-796x417.jpg"
         width: 796
         height: 417
-  - title: "Elon Musk Or Tony Stark? Tesla Founder Creates AI ‘Subordinate’, Parties Hackathon-Style"
-    excerpt: "Musk, who has crossed swords with Facebook’s CEO Mark Zuckerberg and former Alibaba Chairman ... The tech billionaire tweeted on Sunday where he announced the “super fun AI party/hackathon” at his house in four weeks. Also Read: New Research Exposes Vulnerabilities In Lidar-Based Autonomous Vehicles He wrote, “All that matters is ..."
-    publishedDateTime: 2020-02-04T22:46:00Z
-    webUrl: "https://analyticsindiamag.com/elon-musk-or-tony-stark-tesla-founder-creates-ai-subordinate-parties-hackathon-style/"
+  - title: "Don't care if you even graduated, says Elon Musk as he announces AI party at his place"
+    excerpt: "Tesla is using advanced AI for vision and planning, supported by efficient use of inference hardware to achieve a general solution to full self-driving. The company is building silicon chips that power its full self-driving software from the ground up, taking every small architectural and micro-architectural improvement into account while ..."
+    publishedDateTime: 2020-02-04T04:45:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home-11580786460077.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html"
     type: article
     provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 32
+      name: Mint
+      domain: livemint.com
+    quality: 51
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2018/12/elonmusk_fused.png"
-        width: 1262
-        height: 1200
+      - url: "https://images.livemint.com/img/2020/02/04/600x338/682a7284-3d11-11ea-8ee2-8148f8ffa5ba_1580722387199_1580788559081.jpg"
+        width: 600
+        height: 338
 
 secured: "ompLcKsqLzWZ9Svi94RRsP/SzSUG2pCxuZ0uCcrDt2XErW1I51CQLYnY8wYweT0uqwN3cXDrehFtZjJCPrjSDxRfH8eoxnxXffZ2kMdCcHhK1/QiW3tLswx7a2VS8i6TBaGFUqdfENGlAlfkhePn8KSG8PHo0nKoTahRjL8VuUZMlJB5YX8SnOEja2MCPMDe4P4+ho2bhb3HHJ3aFOKECoqOTAYAHU56FNNTPd7n/hECucVMX42w83PcZeYTMPGhgitK/D5jtVqbpsG/CQI/GZi+iz3bzFY087oBeQnK4NMLUIQ+dM1q/2TOnuuFJnSXgaTtjwl3SO4n97epwgJC3DKQYjAFAoGIzMg358O2ry1pvSuA9yNeBvDOVJ75wAQnRaeVYVw9TRwJMx+ebdq19SPZsSAXmge5Pkf7fMiN9gQ5fBaAUDNRmNysCiEoSlm3ap08V5/MG4vEbFVbRT41kYKNJKdQ0xdU8GqlF4K83c4=;eUiE772pxTBoQg1G7+n0uw=="
 ---

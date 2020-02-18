@@ -8,7 +8,7 @@ ampWebUrl: "https://www.sciencenews.org/article/robots-feel-pain-artificial-inte
 cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 1030
     height: 580
     title: "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain"
+
+related:
+  - title: "Owi Inc. To Showcase 6 More Coding Robots At 2020 Toy Fair"
+    excerpt: "Another cool new robot by Owi is the RE/CO Robot, short for remote control, which will retail at $35.95. The RE/CO Robot is KikoRobot.962’s off-roading sibling that boasts an infrared sensor and artificial intelligence. It is capable of different play modes like storytelling, singing, dancing, and even programming, making it the perfect ..."
+    publishedDateTime: 2020-02-18T03:27:00Z
+    webUrl: "https://www.i4u.com/2020/02/133134/owi-inc-showcase-6-more-coding-robots-2020-toy-fair"
+    ampWebUrl: "https://amps.i4u.com/2020/02/133134/owi-inc-showcase-6-more-coding-robots-2020-toy-fair"
+    cdnAmpWebUrl: "https://amps-i4u-com.cdn.ampproject.org/c/s/amps.i4u.com/2020/02/133134/owi-inc-showcase-6-more-coding-robots-2020-toy-fair"
+    type: article
+    provider:
+      name: i4u.com
+      domain: i4u.com
+    quality: 54
 
 secured: "VwcosaWLSXxCwwpVzlkFppnIV+kRpfIcklSS6jINTJ6WtQkEoLXvvslhOrOhOdYHu9sV1vIK/ae22Fm8d1Fx13ryfm8NWKtj6THFhZgleUht9qh+2eT5laJsdZwnliu1qu7TEN69JEDsYOgFFlDmtrS4vjb3dYOYtR6K65iFZ7qlNmhWxLeEQmPTagc8JjewkyIm2KikgsB87Tx2QJhHPThGbnYBeKSvz6iqFBFeokOZBVyvNwjM+U51mvqVx15BxD/ph37tzVaw8TEyzPbwlj/2K33pminB0hAf8QlQ6725da0/EUrTmKWSGgusuGrJ;emB74nboGaM1ijbYeQIaVg=="
 ---

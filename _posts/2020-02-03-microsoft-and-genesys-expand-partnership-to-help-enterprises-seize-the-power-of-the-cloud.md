@@ -24,21 +24,6 @@ images:
     title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
 
 related:
-  - title: "Microsoft Azure cloud migration: 3 success stories"
-    excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say"
-    publishedDateTime: 2020-02-03T11:02:00Z
-    webUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
-    ampWebUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg"
-        width: 1200
-        height: 771
   - title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
     excerpt: "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ..."
     publishedDateTime: 2020-02-03T20:07:00Z
@@ -54,15 +39,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg"
         width: 620
         height: 250
-  - title: "Microsoft's Azure Strategy Pays Off"
-    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
-    publishedDateTime: 2020-02-02T17:39:00Z
-    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
 secured: "w/wRiZTAbYczNB40qN06ysCTAg3eBi0YEE9tnCWJgQ1BKliXVgH7sLdIAktzfUH/ozv3SHSE6puz3ioRUrIIHS4Nm1OZVXtwX5GV7RmooYu46FAFSEI70G3f0f8/1OfKeo+/iEcrymCrkcMrZMXj6nd/G2o+7dtijMm0QUpbJpllXCXcuO2Z/CM6Qnq0ATGivTH1us3cN6ml6JRkxthP4b95hs6G6eDqSyl51thiQPuPOtxEzRrX48IBDxog3UoHMNRHsQgkax/rJH94q8DHX0YTXcHo0K3TwlUmUKmm0olRLgQowe6ayk1Mrs+deLDu9Ky2tTExg7RJ4udRmCYMzL5xe4II7Rk7jGEECtxo5r6DDSZSfkkVsBaq+Cp9mq4wJXIqNq6wZRrUNQcSPf2Fhz7ga9qIlWePSUCihcB+YXMWLI8jhRQZWkDFQumGNX5Vd6iOoq5PirkYs72I+bw1PyhzYYuATQ11rdmg2hUu8ys=;8ddePJ41IFgwH2WnjUzg1Q=="
 ---

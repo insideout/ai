@@ -63,17 +63,6 @@ related:
       - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
         width: 400
         height: 400
-  - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-    publishedDateTime: 2020-02-03T10:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
   - title: "North American $30+ Billion Artificial Intelligence (AI) Chip Market Outlook to 2027: Projecting a CAGR of 32%"
     excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"North America Artificial Intelligence Chip Market to 2027 - Regional Analysis and Forecasts"
     publishedDateTime: 2020-01-31T09:18:00Z

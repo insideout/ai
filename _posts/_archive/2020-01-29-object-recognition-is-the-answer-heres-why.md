@@ -53,6 +53,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "Zn1Wbkgy0G+1YT2JLBvCfImCpV5jD+4Gxhmoxwg+UDKJ1RhV17/X+g0ORXtXmqlj+EaITWU5rjheMUPyGlSY0QuXy3hhbFSABY6nMR+AL8htlcD0cNO1OCLaGzDnGxyhJEHgEvqAX8dRm9bK+RoQvh/KRGSeEUw2Oy0v26nKDTDOtks/uxpRrwLPKkjymNLvmOuGd6JGrXG8wfFjQwDeVvFXr7SWiirIx2ImlcjMRMRyHvQusakBk9zxwPuLJ/RitQ0JPc7mu5+NG6hmvQyXORjxeIiFDdR+SBksW1zqNFQSdIorp2hcrlZ+AZDUoJ/S;tb2qsTvd2MCwCqum2p1mfw=="
+secured: "0hIZq9irli/UStgzkbyxIvNi4wsbaOvbpmwkndH8Ou8KGqMAKyyoXjokIYALpevJizkrr+HuaiQGnpWs21EUIBGMf4VM/yMsatyS092sGnTHX3uFCyn7QN7bAuVV58gQS5+jR41PQrJLx+G44rgzbLHMhrASfpPa6Molj1cXDGXDwOPVuhDuBiVoXd0NtU8RBRfVP7D9dVeHP1Vk96a3zeEWpUC62YxwZyWHFQESt7UreFFu6L1wNgq4edVgfm3Hyg3nv7SMNuZUVR9puABT2MbulKfaH4cQoYbvZQFqCKE3i1EQ+agnPd+BbY5Zhjar;GDaD4b0h2W4ZsrXvOCL0Bg=="
 ---
 

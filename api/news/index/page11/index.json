@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-13-where-artificial-intelligence-will-disrupt-next.md",
+      "title": "Where Artificial Intelligence Will Disrupt Next",
+      "excerpt": "If you want to know where a technology is going, follow the patents. That’s what researchers from Stanford University and Brookings Institution recently did with artificial intelligence-related patents submitted to the US Patent and Trademark Office,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/amp/",
+      "publishedDateTime": "2020-01-13T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x535/https://specials-images.forbesimg.com/imageserve/1150968776/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 535,
+          "title": "Where Artificial Intelligence Will Disrupt Next",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-13-woven-city-toyotas-living-laboratory-for-autonomous-cars-robots.md",
       "title": "Woven City: Toyota’s ‘living laboratory’ for autonomous cars & robots",
       "excerpt": "Many executives naively group AI into its own category with SmartCity inventions as a niche use case ... Hidden behind an out-of-place Delta Airlines lounge, I discovered a robotics startup already fulfilling aspects of the Woven City. Vancouver-based A&K Robotics displayed a proprietary autonomous mobility solution serving the ballooning ...",
@@ -2070,51 +2114,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-using-azure-to-understand-azure.md",
-      "title": "Using Azure to Understand Azure",
-      "excerpt": "Azure Machine Learning (AML) is a great example. Over the years, my team has developed a portfolio of production models, spanning everything from behavioral clustering to anomaly detection.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/data-science-at-microsoft/using-azure-to-understand-azure-1c8f5dc60a0a",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/719/1*AtWm6tnTQH5QjELGerSUUg.jpeg",
-          "width": 719,
-          "height": 396,
-          "title": "Using Azure to Understand Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

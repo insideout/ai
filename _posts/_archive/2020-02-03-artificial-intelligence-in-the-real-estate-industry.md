@@ -5,7 +5,7 @@ excerpt: "While it was once considered an advanced technology of the future, art
 publishedDateTime: 2020-02-03T09:40:00Z
 webUrl: "https://roboticsandautomationnews.com/2020/02/03/artificial-intelligence-in-the-real-estate-industry/29447/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/joevren-brandon-griggs.jpg"
-    width: 750
-    height: 500
-    title: "Artificial intelligence in the real estate industry"
 
 related:
   - title: "Artificial Intelligence (AI) in the Global Freight Transportation Industry, Forecast to 2025"
@@ -47,6 +41,6 @@ related:
       domain: prnewswire.com
     quality: 0
 
-secured: "V8nTlOsTP6cItuPYaXmqC0CWnst7gZhisHpWz6Zdc4TULbjBYP11DmKR+i4OzoREOgbthf/G2/zUHywKSoMmoe+Jj/kQfdrHZiOZTJWKfLrIQyJWdHixDQK7rMJowF8oFfqKp/P7C6ylxwRjZd7SAPz2j8rh4UeG5zvAjn/bFASv6xlbWd1iZTDcZaYPT+etxJ4COB9I6iDo9pz8MmMELOhvuIf0lFgnaow/l4YcGQCGi6c/zaGJdar4hOVroPx84wI83VIdAvM0NM7A8fRtro4VpzUfpfXHUNTO/nKOPIbq1evmNw+dGuwp2rgyKEQmmh85IgPLEBRn5O1IrBif9jEoA2nrpKYZuwOs6r/1BHXRx0CGC0NOtXdDm7sazbgR9pMN8WuYjGuAN85od7PM/FwKUmKs3q4YZRaHRNziSZqDGj5qXIhN1Q7L8LShMOH1PImHw3B5LqwHiy46J35v9aZAIaFM0ra8Iofh1tqeIbM=;ht5NbExA0j0JmGhR8ARqjg=="
+secured: "LmONDmCTa2ds1fC7cs68WJY0IHXL4xkd1aKEuK3f6zPuGKR0/7N5UAcwGdT8ouQyiKBp0tLW7RZC6O9dCEIjH5p3kjvX36D5l/OA522pez3njLGWnu+UAVL9R7SgMCKwKsWt/Zs4B2rHpmL6y9aaZZ65vDONMmKRZSdR7O35n/Op587sH1AFE1oUKn60+F4J5KTKYtXeaIqA1qyOSXq2L3VpBMJg7ZEq8X42GQQfJYy0cwwlx11iVfUxz0SJChFj+t+LV7ojZX/qWE+WA67NJLPeHjEjM8C+F5OJm98ZGCStJn41KUWrtD17lIrggDc64cAjuSHjHruCYkUi6Gj1Y3mRn4JmikkJ54ydo/JK/GLSNuq9pH3otzpCnseUEg0QqodVko/UiDSP63/emkgoZsk/16ogNySDSVKLmPROMQt4wPVUa7VNRd4GNBq8tHgllcdX/S4yMClu1iqWSDyx22o0R0vZgjgIgAhqNOYDzps=;rnWhQ71zPjKQCiWT1y76yw=="
 ---
 

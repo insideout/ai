@@ -509,6 +509,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-03-microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results.md",
+      "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
+      "excerpt": "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
+      "publishedDateTime": "2020-02-03T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-03-millennium-management-secure-machine-learning-using-amazon-sagemaker.md",
       "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
       "excerpt": "This is a guest post from Millennium Management. In their own words, “Millennium Management is a global investment management firm, established in 1989, with over 2,900 employees and $39.2 billion in assets under management as of August 2, 2019.”  \nMillennium Management is comprised of a large number",
@@ -1128,7 +1165,7 @@
       "path": "_posts/2020-02-04-elon-musk-says-he-doesnt-care-if-tesla-ai-dept-applicants-finished-high-school.md",
       "title": "Elon Musk Says He Doesn’t Care If Tesla AI Dept. Applicants Finished High School",
       "excerpt": "The CEO of SpaceX said Sunday that he's looking to hire folks for Tesla’s artificial intelligence team. \"Join AI at Tesla!\" he tweeted. The artificial intelligence team “reports directly to me & we meet/email/text almost every day.\" “At Tesla, using AI to solve self-driving isn’t just icing on the cake, it the cake” - @lexfridman Join ...",
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school",
@@ -1254,7 +1291,7 @@
       "path": "_posts/2020-02-04-facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027.md",
       "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
       "excerpt": "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,",
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04",
@@ -2084,42 +2121,6 @@
           "width": 1200,
           "height": 630,
           "title": "Analyst : Artificial Intelligence (AI) in Cyber Security Market Companies Have Room for Growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-artificial-intelligence-finds-drug-that-could-fight-wuhan-coronavirus.md",
-      "title": "Artificial intelligence finds drug that could fight Wuhan coronavirus",
-      "excerpt": "Chemistry matters. Join us to get the news you need. Yes! I want to get the latest chemistry news from C&EN in my inbox every week. ACS values your privacy. By submitting your information, you are gaining access to C&EN and subscribing to our weekly newsletter. We use the information you provide to make your reading experience better, and we ...",
-      "heat": 177,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-04T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://acs-h.assetsadobe.com/is/image//content/dam/cen/98/6/WEB/09806-scicon1-bar.jpg/?$responsive$&wid=700&qlt=90,0&resMode=sharp2",
-          "width": 700,
-          "height": 456,
-          "title": "Artificial intelligence finds drug that could fight Wuhan coronavirus",
           "attribution": null
         }
       ],

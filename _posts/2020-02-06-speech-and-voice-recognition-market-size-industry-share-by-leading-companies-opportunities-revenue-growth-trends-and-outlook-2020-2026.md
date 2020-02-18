@@ -31,6 +31,28 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
+    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-02-03T11:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-technology-advancement-and-global-outlook-2026-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Voice And Speech Recognition Software Market Technology Growth and Development 2020 to 2026"
+    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-02-07T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-technology-growth-and-development-2020-to-2026-2020-02-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Speechmatics opens third international office to address U.S. speech recognition market"
     excerpt: "Speechmatics has opened an office in Denver, Colorado, the third international office space the UK-based automated speech recognition software provider has opened in just three months, following Chennai, India and Brno, Czech Republic, the company announced. By opening its first office in the U.S., Speechmatics wants to leverage the country’s ..."
     publishedDateTime: 2020-02-07T19:16:00Z
@@ -53,15 +75,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 15
-  - title: "Global Speech and Voice Recognition Market"
-    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
-    publishedDateTime: 2020-02-03T10:10:00Z
-    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
   - title: "North America Speech and Voice Recognition Market"
     excerpt: "Data Bridge Market research has recently released expansive research report with titled \"North America Speech and voice recognition Market\". The report helps out the clients to tackle every strategic aspect including product development, product specification, exploring niche growth opportunities, application modelling, and new geographical ..."
     publishedDateTime: 2020-02-07T13:42:00Z

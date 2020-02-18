@@ -52,7 +52,16 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 54
+  - title: "Microsoft's Azure Strategy Pays Off"
+    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
+    publishedDateTime: 2020-02-02T17:39:00Z
+    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
 
-secured: "M8naVxAI2Ge40KOlHbj1LxgFCqCoekbsMd3nOKJyT2tGJbtGGFu04fPtrOtZ30DJ/dGQjKXoOS+cMv8qrx0vub+0TyiofsDLyn4Nh3wQo9DwjQRB9UDF8J6NpbHnqAFg6WC91kwRxWglzV99/LGiApZfRQrcE7x28XNzju8XJvKaEGgCCnYflrvBl/XZdN5KYBcPD01Pl4OJ78if5VKvR1Ska3Q5VJE+cf4+2iduRwokdZfzd+D0tIu8AP3IFEdD+O58baCDpj0k2YfTr1zj0TxAXOIQwqu/3BIXQ7BqanhVCbL3Fj3lLFoeQ2qXv0a6;9llEBPmKZGHuj/xhbDeXOg=="
+secured: "IkH+l9hk7FewRFzZU+0raZe8q5IcXePI5kgjvKdurHMflHP117J3a9E+mC0WPLGmWFH/XjJ1XO/TT6GgVSCJiKF+XF9R8dvehqCzsrnoqSRBeUe0HdPu8eFRSrty/bJ3rMwyicGBIhsk/7oHmKa8U+ItBe3H+4bKy0TpuiI8VBqRJS+gvici+x2WQgf0AF/irIm7JSkLQZldm1vNQD4H/sef4nQ2rh9AIKwbSb2S4x/b7peHWoWJJtweRYTp60+Re4Kx6SV1XAclvR6dQvlzMKm+Pv/wNgOcKMpGq5/BuoE0gtRUPkjyUbxprQoy4APL;48q55Ba+RuUj/MB7RklmPQ=="
 ---
 

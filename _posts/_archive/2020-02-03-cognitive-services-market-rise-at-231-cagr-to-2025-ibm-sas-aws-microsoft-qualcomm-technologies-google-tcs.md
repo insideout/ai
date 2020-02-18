@@ -5,8 +5,8 @@ excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-d
 publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
-quality: 79
-heat: 149
+quality: 62
+heat: 92
 published: true
 
 provider:
@@ -20,7 +20,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -42,28 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-technology-advancement-and-global-outlook-2026-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Voice And Speech Recognition Software Market Technology Growth and Development 2020 to 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-07T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-technology-growth-and-development-2020-to-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
     excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
     publishedDateTime: 2020-02-03T12:36:00Z
@@ -90,25 +67,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
-    excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
-    publishedDateTime: 2020-02-03T12:24:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 4
-  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
-    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
-    publishedDateTime: 2020-02-04T19:16:00Z
-    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
-secured: "Y72uPaUdyAYjksbs18DGRBPP6d7LeUJAy9zodPDHleRffRN+sjIh4PGChUmmRzEzZ8FA0ksDbKiJpM9ou1nb0nlTq/97ifT8i7vyI1WLXtok3iZWcuS4adqPH7xU+f/wfnHisTQvcJhxeryH59e1osukwaEEK03i9H1JmS2zrdl7KDm8vXrlzQp3g5YpKOadHOdmOzGePW0rtp0Kum3xc+lLJQaZhbWMdC43yoWk6+ps1QIyfNX/7/Prfb0np+IBSuD6BtPPA77F+bRf8PXmHPVBbBFbTep2uNXDA/SsKgpiN3IPpJCIsxlJZxtAXIjp;b/SSbN5BpEKfrcnsdr3EqA=="
+secured: "F4HwZ5mj2xvBPc37Gxi1HoGAg7fRglbKzmWGU8eSBqw1D6n9HZiyssaubtKD1O4iBwH4Vw5cnnPN3PF1laPGAsQKAk9YzPMQ4AOYmwp9UCRE1UJZIi7ndX+JcErjAqz6NBj9hdP5OQc9xDF6nq5G5rgp73oP7pgC4FZPFIhxErgHhdl8s4ojcZBCPhZDXw1pPkWyrfNR08sT+Sn0o1WmhBS4nzpNe4+m8kVHQErbgigPft3xPABDGDHFL3Am3YOw6eYOMmYf7x+y9jo5PJonq/yZkdCcXRElVnGFDTD6psIc7RLpbTHwJCUJjrak2i/1;Pku3nBoilYC/3j37KsOw/g=="
 ---
 

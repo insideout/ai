@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_posts/2020-02-07-2019-machine-learning-and-data-science-survey.md",
+      "title": "2019 Machine Learning and Data Science Survey",
+      "excerpt": "Every year, since 2017, the Kaggle community sets out to conduct an industry-wide survey on the State of Data Science and Machine Learning. This is for the year 2019. The dataset was gathered from a pool of 19,717 usable respondents from 171 countries and territories, cleaned and prepared by the Kaggle community. The young, mostly Indians and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@ubajakacj/2019-machine-learning-and-data-science-survey-4b882aced1a8",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1030/1*TlJDveTXMsiz48_94nFeKQ.png",
+          "width": 515,
+          "height": 338,
+          "title": "2019 Machine Learning and Data Science Survey",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-07-ai-weekly-announcing-our-ai-and-security-special-issue.md",
       "title": "AI Weekly: Announcing our AI and security special issue",
       "excerpt": "VentureBeat’s second special issue is nigh. Following our first special issue, Power in AI, this next one focuses on AI and security. Each special issue is a package of articles that explores a central topic from a variety of angles, from voices in industry, academia, and our newsroom. Whether we’re aware of it or not, both AI and ...",
@@ -1829,7 +1874,7 @@
       "path": "_posts/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
       "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
       "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/",
@@ -2118,43 +2163,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-ai-may-help-patients-determine-most-effective-antidepressant.md",
-      "title": "AI may help patients determine most effective antidepressant",
-      "excerpt": "Researchers input information from electrical signals in the brain into a computer program that learns as it goes. Based on brain activity, the AI technology helped predict whether or not an antidepressant will help treat a particular person's depression. So far, the new technology has only been tested on one type of antidepressant ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.upi.com/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
-      "publishedDateTime": "2020-02-10T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/1171581366434/2020/1/7986d4db507d8fe67a269e40fbed16ee/v1.5/AI-may-help-patients-determine-most-effective-antidepressant.jpg",
-          "width": 800,
-          "height": 533,
-          "title": "AI may help patients determine most effective antidepressant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

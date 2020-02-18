@@ -96,6 +96,15 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
+    excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
+    publishedDateTime: 2020-02-03T12:24:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 4
   - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
     excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
     publishedDateTime: 2020-02-11T11:51:00Z
@@ -106,6 +115,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "cuZ/fYCLnYoNuVN0B6pJsb0a2lgOqkrOA19Ly3McuesgdHTPin5PIK1Kw7vwcfiCpxF8Hj7L9y354tCX/8AI4P9UwLz23KnBhULySIzmvpWr+NuLzRb3GfUzPgbsSruezFdwT1SAVPweyf09KWla6z16LMRGd1K6muOkrz5Yrh9ipmrOwH5uPqMz4Z3KVI5j2DOTwsiHzx2ytIaDcKvDJF3Xzfi4awSHFX4uQ560WQuy2vzRIY7fLjxRW3AzDZ6Ojzyjo4bzYPvaEqk9zNEGSAGN9+z2Ff0idMQZWhysz0QqZ64B3BLDVRWdGAwlDEWT;k0j+EIIBkn75fAjNvwTwBA=="
+secured: "EHtvOGmOX4RSUyZZwv7sEf/XsvZiE6kCUuRlv4TL1ifKZi64quKt/LrYQsDYsJCSXgWN5bLZtI7zBl4DaJpgw+iVRQUl2SkHX1BWgbGrxoFD4fTouq5qY8UxkMTntQGo+UIRHgPWw9mTpmlPSZEBlcJmNysW9ikI43koNXGZ2g6YVUzRqbzYl1mHLFzzbnwFU8ZNLLUbtQfQvgqCSFdppSpDLUlpPfWkOcWa8609/zLs7GW4gKHVivTgzfMQS3S8iemxkOeFrNga6EAGABpOpphin4q/yM5OXoH6E6f/WdxylGuV6/4dcIzOuvT2kzjM;x783UvxCUzk3qq1lQ0ObQg=="
 ---
 

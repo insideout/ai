@@ -66,17 +66,6 @@ related:
       - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
         width: 400
         height: 400
-  - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-    publishedDateTime: 2020-02-03T10:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
   - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
     excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
     publishedDateTime: 2020-02-06T12:07:00Z
@@ -87,6 +76,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "lr5yoyWWUMVWXoIVf/ksQbg6MAbwGQ/0R+p45vKdY6Am4223+tOyCLA8DhGLOQkSZ8s1nQVuGk+vJpMeMKvQirUQYJYk11ffqWw6uV/NgaAM0VWqAo75j9Ih3R/l3mnbQACvdU+KOaDIuW9/2cOTivNZTTVMAMV1Iz0oOcMlMw4KQ4OiEVR5KewZ/o6ulHQpDVp0lkty8LIhs/rDtwCMX08+2C05Eb4uSedE7cky146H43PVdKtKEkdjASgLwLR8jM1qYg79GEcl/pWsa1sEr3TDoG7fW7uVN4vQrAZvjOABfh963xAu7kgYlFRtW2a/;saA6HyMyhse0tJLFlmRHcg=="
+secured: "P42rbZRsJUSCCEjzJ8CL/7zCikvdK1C0e2fG0RBnGFQiF6ZWe8drFHMGj06UmQZyVswXjewrKUSsqZ8Hm2g6va6vk5jCceRgrszANj27uCE9gxjmkEc/EP12Z0+z642KqwheM2R9rDylIdYw6f8Fg6NMgrDTqbvCZTWMkmOFLX91advTvNqcOXTXWtFbdTnz7OAdDNLJXjMtqK9KBRLqcKuewjq2IwtDV7dP2bFlGij+s9QXIXtaj3b8qkEdcvPq0ZM6hfK8q5zOAyLf8vWoA26aD0y/cGUNacIUh5eMcLPWf4GtNVkIWW/ZO5JGl38x;ArMtcwQleoLm6De0mmE/Jg=="
 ---
 

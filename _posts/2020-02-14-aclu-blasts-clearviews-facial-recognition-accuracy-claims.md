@@ -503,6 +503,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "jnfuioshoB8WgLOhsR1ZrIQB03w/QEEBkYDh63382AWYC94eG4kGmdWmdKsPj0Iz42eZA5MGlwDQd4xT9LMRI4JP/4JrDwcXST1NNI7pY4A5rmWjV4dTcyWT8F7ocSDhznV2vNuqgHvZSJ+o0W4so8pWp1JPEoQX/isjEZxeGjIf6HxxcTslOZYkYQNrDybeGp7v+a6MJpWsBYMV++QnBx9vudC9seZxt4hVRPL0a/2ZiEunwxKtbmVN85a9Qxab91KkY2DW0B2fpk0fkcr+AGO+NKVaM0q2Ohk4a6duiFj47lIpAmY4EQNQoze+9lqx;J9jT3mh98vetghiWRQ1+Zg=="
+secured: "oTkCRn9NT64U+d5O+H8CsTKPVzoPot90JTcJbe2EjIvKuM+982G1zJEFxF/uJrghLgq7KGcX4aqBAz6ldaa2fnfuI2o5bXHdobNVbrsKopDqGtdH4PytfKtFuOaKLTqVtnfpXQ6VEx11cW6f0xImnldT6u+BUpmrqAl2WFy4Va5dEVp1HgrwcKrK72vBJfiYu7QtPGWHylAenqkDq6P7Iks05wdKCsE8gk3B0QsZZhwoH8gqBari5eTnztVzoYI7th8YfTu7WMVIRysRMOvl9GsRk362AdEBktxCOtIczqpkQ1N+VgiPxW/9Ti7uJUaR;9+82jYTlmrLYrFa1TR8x1w=="
 ---
 

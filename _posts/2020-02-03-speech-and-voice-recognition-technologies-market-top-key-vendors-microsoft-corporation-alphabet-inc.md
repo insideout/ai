@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -54,28 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-technology-advancement-and-global-outlook-2026-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Voice And Speech Recognition Software Market Technology Growth and Development 2020 to 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-07T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-technology-growth-and-development-2020-to-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
     excerpt: "ReportsWeb Adds \"Global AI IN EDUCATION Market\" offers Current and futuristic Market scenario, product segmentation, and competitive positioning for AI IN EDUCATION Market globally for its business expansion strategies."
     publishedDateTime: 2020-02-04T05:46:00Z
@@ -89,24 +67,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
-    excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
-    publishedDateTime: 2020-02-03T12:24:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 4
-  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
-    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
-    publishedDateTime: 2020-02-04T19:16:00Z
-    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "8wYLCHCpZR2Z+4RwsR/z5ucT8XZS65ytSPiPW6JZDuZTofJQgektkODnSRp++lsN4umT/MZ8I6iL2TQkpwsbLlx8QRrKjFpwQMXV7EkM9dGWloH8voPDbyhLCd/K/X+ZCp0/SFcrwjsVuiEkedQg7HGRUwyPJa9s0cIdtnyXL2KBQ+AS4qrx5wsrmyKY0ncmmAEidzF/sgBFoa/yQGl7G29AVp2uLTi0L0dD+z765Z46DBzsZyCV7Fo5n46aj2F9EeeXXN7a3SmFDgRQh57NahCSAtJtPXzdnSGidTACwm6XlPtjU67wiz8Fsy+ZvvRE;jTn1l2w9z18eDfW8lxjhlA=="
 ---

@@ -2,6 +2,50 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-25-scraping-the-web-is-a-powerful-tool-clearview-ai-abused-it.md",
+      "title": "Scraping the Web Is a Powerful Tool. Clearview AI Abused It",
+      "excerpt": "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/clearview-ai-scraping-web/",
+      "ampWebUrl": "https://www.wired.com/story/clearview-ai-scraping-web/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp",
+      "publishedDateTime": "2020-01-24T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "Scraping the Web Is a Powerful Tool. Clearview AI Abused It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-25-sentiment-analysis-and-text-mining-using-azure-cognitive-services.md",
       "title": "Sentiment analysis and text mining using Azure Cognitive Services",
       "excerpt": "This post provides 6 sample codes showing how Azure Microsoft Cognitive Services can used to build AI solutions to tackle opportunities like sentiment analysis and text mining.",
@@ -176,7 +220,7 @@
       "path": "_posts/_archive/2020-01-26-genesys-engage-call-center-software-coming-to-microsoft-azure.md",
       "title": "Genesys Engage call center software coming to Microsoft Azure",
       "excerpt": "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ...",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116",
@@ -1182,7 +1226,7 @@
     {
       "path": "_posts/_archive/2020-01-27-integrating-aws-artificial-intelligence-ai-to-servicenow-enterprise-apps-and-workflows.md",
       "title": "Integrating AWS Artificial Intelligence (AI) to ServiceNow Enterprise Apps and Workflows",
-      "excerpt": "A step-wise machine learning implementation is as below: Amazon Rekognition: Identifies objects inside an image Amazon Comprehend: Finds entities inside your text Amazon Polly: Converts text to ...",
+      "excerpt": "Artificial intelligence (AI) helps enterprises to enhance ... Amazon Web Services (AWS) offers a vast and growing array of AI services, including hundreds of free or paid ML algorithms and model ...",
       "heat": 90,
       "tags": null,
       "type": "article",
@@ -1532,7 +1576,7 @@
       "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
       "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
       "excerpt": "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ...",
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
@@ -2121,51 +2165,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-building-a-business-intelligence-dashboard-for-your-amazon-lex-bots.md",
-      "title": "Building a business intelligence dashboard for your Amazon Lex bots",
-      "excerpt": "You’ve rolled out a conversational interface powered by Amazon Lex, with a goal of improving the user experience for your customers. Now you want to track how well it’s working. Are your customers finding it helpful? How are they using it? Do they like it enough to come back? How can you analyze their",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T14:55:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/27/bi-lex-1.gif",
-          "width": 800,
-          "height": 428,
-          "title": "Building a business intelligence dashboard for your Amazon Lex bots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/video/amazon-rekognition-adds-fear.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     height: 630
     title: "Amazon-made Rekognition software now able to detect fear"
 
-secured: "onbgsFD1OXOY+vLxRULRIo5LV+MpC6e4Xd69Jxlq93No9eK7dlsORQI3wJSC5e7jNBZo4JdaWSRE15ZYcvr0wIq731+LAVlTOhfFpaiApe+fRCCy1NzsBTrw6VFg8eI5KhRGPVQI8lkOoqW9H+hUjHnhECY7Lqz1GegZgIhZByUfCTfrDKsCElUg7YYDNIUKSTQ0me3cCOySOcl7yLwXfwxCGTt68+QYRudgGQtm7ve9w+3nVB3rMQ/pWd6J+DfSoB/azRnBCzDSIjqRp3Bh2gG7i5m5V0W/70ig6tVQp7+Z0IJG23bxDykux13b8ouk;gCnPUN+sMZ8Ouh/Je6cF8w=="
+related:
+  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
+    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
+    publishedDateTime: 2020-02-04T19:16:00Z
+    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
+secured: "sf2pgZ5No2qzivfzabLGmVLZfVIjxZCc1hSIWYisXPQdlnBBcWBNpiVLPaFzzObsotTpU4TTyRGFMtB5m/7eL+zhE3e71d5ZypCFvy5llHZAALcRVzx+TdKunrVG8zn2FEHD9cm98KiGAtBFEFpqLlgiZ902P3dlAYmeoUv0RJiCOeNiy0BLdvn9/uoPqok7wnueI1MuX8LBb25UpSBjmd73KFUlw5y/5vsMLWk83UjKx58tqiew1XBWBhMv38RyiR986bcs5pR7x77EI8CM8LylDhT+7fawXz7bEZotWCMkzUutQTzYOvadMFI+ktKL;qZD7Ng3LeLkYBAku4rcBJw=="
 ---
 

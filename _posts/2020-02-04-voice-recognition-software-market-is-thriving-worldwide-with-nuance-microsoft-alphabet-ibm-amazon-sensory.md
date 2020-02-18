@@ -18,89 +18,21 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
-    excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-date analysis of the Market with regards to the innovations, current competitive landscape and latest trends and drivers, to provide new predictions for the forecast period."
-    publishedDateTime: 2020-02-03T11:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
+  - title: "Amazon-made Rekognition software now able to detect fear"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
+    publishedDateTime: 2020-01-29T19:06:00Z
+    webUrl: "https://mashable.com/video/amazon-rekognition-adds-fear/"
+    ampWebUrl: "https://mashable.com/video/amazon-rekognition-adds-fear.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU="
         width: 1200
         height: 630
-  - title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
-    excerpt: "New Jersey, United States, - The report on the Cognitive Services Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
-    publishedDateTime: 2020-01-27T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-technology-advancement-and-global-outlook-2026-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Voice And Speech Recognition Software Market Technology Growth and Development 2020 to 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-07T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-technology-growth-and-development-2020-to-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
-    excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
-    publishedDateTime: 2020-02-03T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technologies-market-top-key-vendors--microsoft-corporation-alphabet-inc-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
-    excerpt: "ReportsWeb Adds \"Global AI IN EDUCATION Market\" offers Current and futuristic Market scenario, product segmentation, and competitive positioning for AI IN EDUCATION Market globally for its business expansion strategies."
-    publishedDateTime: 2020-02-04T05:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-growth-set-to-surge-significantly-during-2020-2025-google-osmo-microsoft-ibm-cognizant-pearson-querium-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
-    excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
-    publishedDateTime: 2020-02-03T12:24:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 4
 
 secured: "4oM4KNAEnXCS6BDpf33B66pDaz/hNL5MVuUAtuiP+VIwbrshWadzwz8qhj+mYnkaVij88fCR7Wxmg/viFJa9jjvYEvRr3KOWPyr/5sUlidu758ZbUqFztL7dUE7LMSxl7TPdjd3KCB10gvQ2LBUH/RKub5WHUnOxG6Cd6QYZRu02Y8l+NgxH0PnQ9D6DfFg4dInaB3O8+YOGgv8N331Qd/Q6TTPBV1VfDAKXGXufL+u+eCU7hQeHs31guLcOp8wTu8Z6DBO5Yay1tNzOYyrDQLAAXXeqo0H0x8nabRQ/z6CDcSJncUYl5YZU7f9ZJE5h;5/N/6BfdRniSHsg1U7VNXw=="
 ---

@@ -36,33 +36,11 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-technology-advancement-and-global-outlook-2026-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Voice And Speech Recognition Software Market Technology Growth and Development 2020 to 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-07T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-technology-growth-and-development-2020-to-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
     excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
     publishedDateTime: 2020-02-03T12:36:00Z
@@ -89,25 +67,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
-    excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
-    publishedDateTime: 2020-02-03T12:24:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 4
-  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
-    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
-    publishedDateTime: 2020-02-04T19:16:00Z
-    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
-secured: "j8AWJKjCFTUt2HzclRVM2W16ZM5721R7Ge3oMPUIyFrQJMPMi+Ojq1KYGOplkEoYvHWYEmxj3LVEdn1A1iNt0Wz+9wKQ6/ut23zyRcvMCqqDtJr+O3iahP7czk9xp9Qp+XVsHvgHTvBo4wI+C9ezGqobaZe0u28qq5Jr/tCYe53TXm1GD0okiY+WMIuMgd3XJPRgdF2H/7LZulwbiSNIP5GfKjtlEcy9wmwI69wdLHCJ+nXSoI8jO+ILutCmgiopw7Uq2eRssINGYnd4OxQy2/fYC/434+gUfYozD5ZmfLCmZqfCY76N1duPOwGXfa4z;CQofpYjgiYiNV5iIYsxrdg=="
+secured: "ChEBNTRkg/l+GnS1Dzf2fVNz3OVckRsOrczBlOnGp2uoPp/QltNUy1l7XFgl0R0OLCR7/VFB6491jMf4amvQvJR4LEAwRcfX5heZX5uhOMEcKs0omQGKGYU1gtOhnpBRVeJWRPQlKN0n+pEsRnRSvsN3sHsWZixBL5+FgKX77rK2qvCAp8n5zIuDcKP2+YrHzZDhZw7MuFHfvlBf0QO+IDJ9e+x5LIkaLPRgayEKX3d3hnrJE5L73sFAvP2FiZcgzTrt3+VbiHK9jDq/yV8Wt9c1wcJaqB5fsEdZpFTHsg7CVl6hhZ6EI9ALU+OfmUdP;4BPjZqD3Wd/8krSKCVYwcg=="
 ---
 

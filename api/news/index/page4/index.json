@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_posts/2020-02-10-ai-may-help-patients-determine-most-effective-antidepressant.md",
+      "title": "AI may help patients determine most effective antidepressant",
+      "excerpt": "Researchers input information from electrical signals in the brain into a computer program that learns as it goes. Based on brain activity, the AI technology helped predict whether or not an antidepressant will help treat a particular person's depression. So far, the new technology has only been tested on one type of antidepressant ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
+      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
+      "publishedDateTime": "2020-02-10T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/1171581366434/2020/1/7986d4db507d8fe67a269e40fbed16ee/v1.5/AI-may-help-patients-determine-most-effective-antidepressant.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "AI may help patients determine most effective antidepressant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-and-lecun.md",
       "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
       "excerpt": "Hinton joined his compatriots, Yann LeCun of Facebook and Yoshua Bengio of Canada's MILA institute, fellow deep learning pioneers, in an upstairs meeting room of the Hilton Hotel on the sidelines of the 34th annual conference on AI by the Association for the Advancement of Artificial Intelligence. They spoke for 45 minutes to a small group of ...",
@@ -1590,7 +1627,7 @@
       "path": "_posts/2020-02-10-vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers.md",
       "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
       "excerpt": "This intelligence report provides a comprehensive analysis of the \"Global Vehicle Speech Recognition System Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10",
@@ -2131,51 +2168,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-chinese-subways-are-using-artificial-intelligence-facial-recognition-scanners-to-help-detect-whether-people-have-coronavirus.md",
-      "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
-      "excerpt": "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
-      "publishedDateTime": "2020-02-11T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

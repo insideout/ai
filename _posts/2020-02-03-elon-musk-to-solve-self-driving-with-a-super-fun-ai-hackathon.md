@@ -28,21 +28,6 @@ images:
     title: "Elon Musk to solve self-driving with a ‘Super Fun’ AI hackathon"
 
 related:
-  - title: "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house"
-    excerpt: "Tesla has been known to have a presence at some AI conferences and throw parties to ... also looking for world-class chip designers to join our team, based in both Palo Alto & Austin."
-    publishedDateTime: 2020-02-03T10:27:00Z
-    webUrl: "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/"
-    ampWebUrl: "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 189
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2017/07/elon-musk-nga-2017.png?w=1600"
-        width: 1600
-        height: 803
   - title: "Elon Musk announced he's hosting a \"super fun AI party\" hackathon at his house next month"
     excerpt: "The announcement appears to be part of a wider drive to bolster Tesla's autonomous driving division, responsible for its Autopilot feature."
     publishedDateTime: 2020-02-03T11:51:00Z
@@ -58,19 +43,21 @@ related:
       - url: "https://i.insider.com/5e32fe3862fa813a0c67ed14?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Elon Musk Or Tony Stark? Tesla Founder Creates AI ‘Subordinate’, Parties Hackathon-Style"
-    excerpt: "Musk, who has crossed swords with Facebook’s CEO Mark Zuckerberg and former Alibaba Chairman ... The tech billionaire tweeted on Sunday where he announced the “super fun AI party/hackathon” at his house in four weeks. Also Read: New Research Exposes Vulnerabilities In Lidar-Based Autonomous Vehicles He wrote, “All that matters is ..."
-    publishedDateTime: 2020-02-04T22:46:00Z
-    webUrl: "https://analyticsindiamag.com/elon-musk-or-tony-stark-tesla-founder-creates-ai-subordinate-parties-hackathon-style/"
+  - title: "Don't care if you even graduated, says Elon Musk as he announces AI party at his place"
+    excerpt: "Tesla is using advanced AI for vision and planning, supported by efficient use of inference hardware to achieve a general solution to full self-driving. The company is building silicon chips that power its full self-driving software from the ground up, taking every small architectural and micro-architectural improvement into account while ..."
+    publishedDateTime: 2020-02-04T04:45:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home-11580786460077.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html"
     type: article
     provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 32
+      name: Mint
+      domain: livemint.com
+    quality: 51
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2018/12/elonmusk_fused.png"
-        width: 1262
-        height: 1200
+      - url: "https://images.livemint.com/img/2020/02/04/600x338/682a7284-3d11-11ea-8ee2-8148f8ffa5ba_1580722387199_1580788559081.jpg"
+        width: 600
+        height: 338
 
 secured: "nqGjb/xj9gcvcXcvdd0CKTVG7SRVM5OpNs3NiPIy3hvoA2J1BkPeILz2bSVHyW2DFKy7HiFN8JHroAG+xtAH+UeExFuxwOfDHSJow8yGNvA39HDOIyW3ARNYFNQBA6NbUkeizLvuiypVhlvelRI6fEWnS/SfSNGF4aCbUYw07WxTtSuTeGU9I7p8xxL8sqc2rX97uXZBtYlNfJSQEwUHo9IJML3WeuUMUxS384b+ZmVKzaK87L4e7JxzucYa3on1pI+phXrYVsJsb4QkcKUAdpWN1Q117MoyDYRFBeYNFQI7ObtjsYbxhup/YoidpVJNuJU4qG65oX/1QujRI6839RHB+H5PTEKXSCFH91PaQznRlQZfSf4a/AXb5NBc0WukHd7fLEx19qVc5+XuWdOqNRK4ov2SpRHF+ht61Q3FbhVRmyaj+xMrTcHJPF7PSwpalmik5oFLql2b9Ag5TKtR09jyPSTsnICOtqUQP9rl+WE=;/q+k+/9BtZq/Ro/dOr2YUQ=="
 ---

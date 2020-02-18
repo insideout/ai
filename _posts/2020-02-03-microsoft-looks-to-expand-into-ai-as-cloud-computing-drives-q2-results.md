@@ -8,8 +8,8 @@ ampWebUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: IT World Canada
@@ -26,30 +26,6 @@ images:
     title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
 
 related:
-  - title: "Microsoft Azure cloud migration: 3 success stories"
-    excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say"
-    publishedDateTime: 2020-02-03T11:02:00Z
-    webUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
-    ampWebUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg"
-        width: 1200
-        height: 771
-  - title: "Microsoft's Azure Strategy Pays Off"
-    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
-    publishedDateTime: 2020-02-02T17:39:00Z
-    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
     publishedDateTime: 2020-02-03T13:44:00Z

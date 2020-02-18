@@ -33,6 +33,15 @@ related:
       - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
         width: 320
         height: 210
+  - title: "Microsoft's Azure Strategy Pays Off"
+    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
+    publishedDateTime: 2020-02-02T17:39:00Z
+    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
     publishedDateTime: 2020-01-23T14:37:00Z
@@ -47,6 +56,6 @@ related:
         width: 1024
         height: 803
 
-secured: "diHrfdj7UB0uImSWbqchiRdg0IeUohoINPzG6lYJ/uICHV0QrWA5wkT/VJUp73ZP+Y37Cjgx847oNnYruXyTpZZJwxlwCoqabB9hvSnZ0YlvtGUEUw/3+LQ4J8joFVtMzTPC588xJOrBWylJ/AkeaQFn13kGhppfN1oNm2HKeQcBHjnwoR+3KhniL08tBYbSaBqVuApLzxjX3dcDjr9wKfxmOz3omiHcSrasTY515CEc+r0ARMftv4PTwDHJpBj2nwDKLO2h34vAOfvoxItM/IGcN7MmBYYwPDTJN/MKy1uZJrlFSTJ0YmlRR1Gd1K+W;SiBqM/UnS0girlwoXaYQHQ=="
+secured: "d97uPqRUCGvpCsNVUc5KeODKjsDqx6l80r7WB4qR/YgaTHkGx/+yod/BmFMiHSrVcByPyJHbdVVoSAvJhRvB9ma1gfZufx2djN4uTpLiTtcCVryUo6qizLV1proNjBBY92B8uYNdQiEU92PvmnajyS40Gxs7Qce5nFY79CmyVX+pGI89Lyu1TddjTMMXjyR7uW75+Ka9QbPfoICucx/sn1gVC2kKeGN89QBBPg9znK4BBFCvJxW0B6kxwxDApySsCbe43/1jiv7Z70UCOUvBZ4pGk8ywVEaDbznHOblp4fptrf8JHzFjMsQxL7Br3NrR;fElDnPoL7wZKCC+HNqMYPQ=="
 ---
 

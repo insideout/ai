@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 54
+  - title: "Microsoft's Azure Strategy Pays Off"
+    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
+    publishedDateTime: 2020-02-02T17:39:00Z
+    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
     publishedDateTime: 2020-01-23T14:37:00Z
@@ -49,6 +58,6 @@ related:
         width: 1024
         height: 803
 
-secured: "68FGqrmA4slM1nHnJ/nqcB+wzv8Gnx47HH6LyCghx3Rqy0FGj5Trt+FIDQOPjXqyKhzLKZLl7Vv3/xGYxDzid5GhsEVsKcANz+r/95Gfbs3z2Vg1V1EaS74cnRFXDeYDii+oKo+0C5mu5FyHYUEM//vqQJCXLKFyvxK3l+ySyBFM1xZaW3nRfrnX8wM3gKddIA7ZQCzPQX+/HTo15/yHSr3cr2AqvpXE4uMcyG8PzWk/sR8+4nPmeUva9rDkg0oELyYz4PJiria1IUJUrN5imkFjBxOIvQyb7+wCqHn53be8Xz9vPOfhrlh+1tUiimu4;Uzv+TS2V8bv/it3XPyhqNw=="
+secured: "aoek4p+ufCuyb8Ip00MBOrGtHotbMYaw22LlCFlCdiyuilT1iHCYYi0Dl3YToPR2N6kssBQWrYaEk+1WF1ahzc1JpcExRJoG7QM7Yaa1MDN7TR8QNm5PrG8rz4c62Kc6lXOn+BQN+AW0/+fzi/sM/B8c3fe1TFu3AWF0kEt9uAA1lqWKV6wqByWYGgOItsjYAlal46Al4r32W1YoICYVWJkmPNyd9TM97kZz3nTEMhNFUShubp+1A8HU/auTFRAEySbRxrj6XRTwlduAmLQhR/KBe4kE0gQLUYdd/DtVwLQMgNnkShayBcxHBLwWGmDE;aYfjlP1jGhqsydj/ooOvRA=="
 ---
 

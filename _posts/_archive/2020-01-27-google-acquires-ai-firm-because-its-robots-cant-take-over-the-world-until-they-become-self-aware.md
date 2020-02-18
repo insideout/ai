@@ -25,6 +25,6 @@ images:
     height: 607
     title: "Google acquires AI firm (because its robots can’t take over the world until they become self-aware)"
 
-secured: "HXxyp1dbrFB9svpG0X9jpQqg8eIRtcm790qbL9SLsrbDGefhQ7AihO0do0ko9RA/I2yqcNFN0mcnl2s8yKRag6tS7F1ZKi2WbOTqegkKWtOFE97heKul9ElQzeTnc64pcYfI5osmuP/s6X4HlzByaJ85A785V5lz5ySR6MFfwhGheNshO76TD+GnqgZLTZxma6TKXSTKSZZsTs2NVQyn1RkdaLryr/T9amuVz5D6wrCNwWqT3lf99Z55fJoZ6nM8yD5s+R+ci5++E3AWh373I7gePAgbQZeiwaUU4wy/i3NIK5v/FbtCp+N3tnLJWStv;ZaGpZeA26EqfYsWObeh90A=="
+secured: "FvfYcMce0KqIcMzfO83AGS0Q0tPD6/VrzXqbdaOGHJJmhaCrfIvwWyHbg/Ad6n3o23Pu3smvf38l4g993Gg0HjzbqrXSwTpWQJ3NoSSq0asa+v2cWiw7JLVPqGxeT+WkoyUwxJIEMhgZO6fBXWVZzuy6lT40RUuseJTHABGR9s5NdpR6/2W29oHhZS1jPPA2n8tR8seO1pB8mDHcUfQ8ci99HBI6JYLyLcM27/D2Mw8XQPl0fUnOXUcw/qzZ/iH/mL+FUThmHJxTFomNwpspFippbN+3eLN4FpqwrGAngBhI9ZS5fNiryHLC0SGdZ4Ii;pG8wzcmCFUFOO8BDB9iI4w=="
 ---
 
