@@ -25,6 +25,6 @@ images:
     height: 630
     title: "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts"
 
-secured: "sXN92lmKWCBgDO5l2cVXVg+eVL4lwPdWS+EhJu+3KxFiRyWIE4cNq541DxGAtz5mX+rky9BxKy+ZB2M0QGMTcVVUdRqREwKb3pLdofWK/5b0K5yKUm2Piq74AFU2k8zHXTDyhFAKqDiI+AjZp604nZJgES9TKG9yfUQYQB48IlnXKSl3hI+7hVuLzKUhimd7XBm/ZP7mrXn7onI1oZRv5VSDBJkeXtsep9+dEzgtrhqj8F0/pVnfM/bwJZLBzqlVGl2P0P8r/311R/oe8oGEbvaBr9QTJybFNk+B9Rd17FsR+Ef7VMymfTCl8Ni0krc4;oM8xS3e2SLPybHeC4VUwbA=="
+secured: "rkZOS2EwVTXhq9f14rmPedYtZ94fhZHfSh3BkBrHSxgq3/Nmgg+uBjgx3YeaaRZNc4V8X4UOGsJi88rqajL04gBnKYW7Z5NbYgvjKHGwGvwat+EF0AagmWk+o0pKOmBnd3LjaHDRjXkCSFA/IT7csp55P5hU9BpyFN8MTuc590S6cyM/T43djJqiIgVMuIj9/gwLYuPB3XKgxHNb0FkvnWo3DupH6LhoV1M8Fx1OmQINEOyaxP9mYBVv6y+92n61bOCZgYNAU7j4AeiQXQnINJDUznA3l/DgRFw8TDvqfaSlet/VFCs8fWJny6kHaNwbA/RyXQD35b1QzReIw0z3w3IPEHJswjtppfUnTDe94nua4uLCGFSX5ze9bX+l5IUPicQlofD4cFxJbJH8ycoa0K+zFn2iZ/KnZwkGDxy42tBxiu2Z1AE5+stQKbuUYFVTlSkg1FWmlmbguYCkNc6VLJBW9/gQBJflvU9zTQudQII=;P0XOEhpeNtSW+aSFXK2b6A=="
 ---
 

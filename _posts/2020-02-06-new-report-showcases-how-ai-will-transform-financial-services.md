@@ -63,21 +63,6 @@ related:
       - url: "https://www.accesswire.com/users/newswire/images/575714/devs-data.png"
         width: 550
         height: 370
-  - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
-    excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
-    publishedDateTime: 2020-02-06T20:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 16
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Paris-France-Eiffel-Tower-300x300.jpeg"
-        width: 300
-        height: 300
 
 secured: "bXY5bqP9JmhpLR8hWZb/aNEP0S3ygEeDzcm+BYTFygrs+F7oGlm6HE4rdJTXMzJrv9XQAIdXPFdev/zGhSsARkOaA834ESbsNFOtX0AjDgPXFsF1BftJ1u4GH5HRN34PeVFc+CNk6Xzxh5Wa9EgLTxLM20Yj2QUrVuIetK7NnaWY8EqFJWAR3oHiapNUA0nqUHzFp7GuzHayC0zbR/32CfKa4qmyBp3Fb4Ju04Uo0kIAD/48f4bMwzc/ujj5G19cpJkQy3QrAekm2l7OS4kA4Ge+Ir0CKBYo6ZmwAk950WquU/rdMxCeoydWb8/Lm4RTE6luC7FX18oDgOOzvb4hKhOZe6KxuQSi313XBizuFjb5MA32jOd9m/tzANI9nW3LIBmJxmd+yBBrcfQTJYedNhc1ftmqdYlMT29HVK1huIckunUuUk4cVKD1ABDURokrk87cqDeMw0x5NSISzpN9bdXDPYHpmIAgriuQf6DtgnU=;8E1ZGH7XkjHFzz77jMspOg=="
 ---

@@ -2,6 +2,80 @@
   "page": 16,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-21-preparing-for-ai-ethics-and-explainability-in-2020.md",
+      "title": "Preparing For AI Ethics And Explainability In 2020",
+      "excerpt": "After racing head long into creating complex models, companies must take a step back to provide explainable and ethical AI. Fortunately, researchers are providing new tools to help demystify complex models.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/01/21/preparing-for-ai-ethics-and-explainability-in-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T13:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-qualcomms-launched-a-trio-of-4g-chips-5g-aint-going-mainstream-anytime-soon.md",
+      "title": "Qualcomm’s launched a trio of 4G chips: 5G ain’t going mainstream anytime soon",
+      "excerpt": "The chip also features support for Qualcomm aptX audio and comes with an integrated X15 LTE modem. Phones with it will support 4K video recording and the ability to shoot 192-megapixel photos. As a final perk it also has Qualcomm’s latest fifth-generation AI engine. The engine has already been seen in the company’s top end chips and offers ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591",
+      "ampWebUrl": "https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp",
+      "cdnAmpWebUrl": "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp",
+      "publishedDateTime": "2020-01-21T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Trusted Reviews",
+        "domain": "trustedreviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/qualcomm_snapdragon_460_662_and_720g_mobile_platforms_-_chip_case-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Qualcomm’s launched a trio of 4G chips: 5G ain’t going mainstream anytime soon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-21-robot-tanks-on-patrol-but-not-allowed-to-shoot.md",
       "title": "Robot tanks: On patrol but not allowed to shoot",
       "excerpt": "\"We've had robotics for years, but the information revolution means it can navigate on its own.\" Machine learning, a subset of the Artificial Intelligence (AI) revolution, means software embedded in Titan recognises patterns. Data from its cameras and other sensors is matched to prior examples so it can navigate to a chosen destination.",
@@ -2030,95 +2104,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-what-you-need-to-know-about-ai-in-2020.md",
-      "title": "What You Need To Know About AI In 2020",
-      "excerpt": "In 2017, when I wrote about the preconditions for AI to flourish, the adoption of AI was just beginning. Now, IDC is predicting that by 2025, at least 90% of new enterprise applications will embed AI and \"over 50% of user interface interactions will use AI-enabled computer vision,",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/",
-      "publishedDateTime": "2020-01-22T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F545163577%2F0x0.jpg%3Ffit%3Dscale",
-          "width": 1200,
-          "height": 776,
-          "title": "What You Need To Know About AI In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-why-the-hybrid-ai-compromise-isnt-a-solution-at-all.md",
-      "title": "Why the hybrid AI compromise isn’t a solution at all",
-      "excerpt": "In recent years, AI has emerged as an undisputed competitive advantage, which means smart business leaders facing the digital transformation have some really familiar questions: How do you measure success? What questions do you need to ask to ensure that you’re making the right decisions right out of the gate? And most importantly ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/amp/",
-      "publishedDateTime": "2020-01-22T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-172856538.jpg?fit=3398%2C1704&strip=all",
-          "width": 3398,
-          "height": 1704,
-          "title": "Why the hybrid AI compromise isn’t a solution at all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

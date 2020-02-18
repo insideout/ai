@@ -8,7 +8,7 @@ ampWebUrl: "https://singularityhub.com/2020/02/11/neuromodulation-is-the-secret-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/02/11/neuromodulation-is-the-secret-sauce-for-this-adaptive-fast-learning-ai/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 1068
     height: 601
     title: "Neuromodulation Is the Secret Sauce for This Adaptive, Fast-Learning AI"
+
+related:
+  - title: "Idaptive is taking machine learning for authentication and applying it to authorization"
+    excerpt: "Just before the holidays, I had a conversation with Idaptive to learn about the next phase of their user behavior analytics strategy. Essentially, they’re taking machine learning capabilities used to authenticate uses, and applying them to authorization decisions. These capabilities are part of Idaptive’s “Next-Gen Access Cloud” IDaaS ..."
+    publishedDateTime: 2020-02-10T21:59:00Z
+    webUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization"
+    ampWebUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    cdnAmpWebUrl: "https://www-brianmadden-com.cdn.ampproject.org/c/s/www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
+    type: article
+    provider:
+      name: Brian Madden
+      domain: brianmadden.com
+    quality: 31
 
 secured: "AssMwVTMe9PszKaYudtT79QMS6y+or2W4A+0KQzDL7oAPJjTndJbo6GQAJdtqQuD6uC4A1KVCJcLGQ8DWHpocZoPzuZJR1LxKorXsVu35U5URApTY3xboXKuIrQmn8T8T01G+fCn4Rf+CMji1rNYlo5jZufuASPzMV0LABL/kYrXA2wERbIgoU+nDrC/wdSx6TZ5par41QK2U7KRyAk3HyxY4c6BU9pBS/7WTrsMWZ8d/7/hw4+0iX4EswsqwH4cNvvHm48REbPrXlzDU9KmAK8DAoO/Z5b+EN+wPrjdffHWMCsKwb6fHBwGe1iwooBxD4g/vo8gEad6gMlzW3qLM5E17KdDIV3G0zQEv3v2xN0dWn3qYTqh3r0OO8GNrwTKWUo2rRyMVafqoC3Mt292xy/QtEYLUHP5AirzGS1iB0f58rr1T7EI2o+qmuDGSL3rhU2UEQz4xu/u/YE5LGRDkhUoeTf4KO0C14DgWD29BX0=;I1Cu/4y/VpkF7SE5p3//EA=="
 ---

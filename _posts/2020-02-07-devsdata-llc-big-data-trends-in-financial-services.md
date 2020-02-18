@@ -63,21 +63,6 @@ related:
       - url: "https://media-eng.dhakatribune.com/uploads/2018/07/watermarked/bigstock-ai-artificial-intelligence-m-229617430-1530518085435.jpg"
         width: 600
         height: 315
-  - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
-    excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
-    publishedDateTime: 2020-02-06T20:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 16
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Paris-France-Eiffel-Tower-300x300.jpeg"
-        width: 300
-        height: 300
 
 secured: "SqyY8WC9d3/G5K0mtrHLmZ0K88gIOv6Hd4SmHJx4gWc2er8jFNYtNL7lDmBR3HVyfb8fLndf4s6ldlnrsb1B1yhXEq4HC6A7TzNZKkSxqeHUew5QuwfGNHxaFGRNcYIt/YemUNnDzG3hFVGc5sL+lrLFME/x/+2stW+djjpiEn0V0mYI0mQocPsY8ofkqOK2YJDmSa5wZk3mJco/r7/slnL/aGMO16zO1XLcRxoc1dqfON/FqBaUmEu17HqUET8HY0rhJ5Lg6RKf3W9zBcrd0R9UEuFoG4rK57sIKAMTC9dnDpkO9rcb5JpgED4VHZYd;wD9Q7xzYS6qb5skitO7e1w=="
 ---

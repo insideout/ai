@@ -24,20 +24,16 @@ images:
     title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
-    publishedDateTime: 2020-01-23T14:37:00Z
-    webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
+  - title: "Genesys expands partnership with Microsoft Azure"
+    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
+    publishedDateTime: 2020-01-23T16:21:00Z
+    webUrl: "https://www.telecompaper.com/news/genesys-expands-partnership-with-microsoft-azure--1323890"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
-        width: 1024
-        height: 803
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
-secured: "lGQiw5uRAyZbS10iDLpjpjq+a48Qk7E2iPyxB97Lq8XefB/s/uif/opVu0VpS2Sd92V+tZZleEQAqJ2ahAYOH6xkraS/ZCke6+mkCzuv49AWfV6cnvU4wVtiqxaeesh/QhwtIjts5kQZ8CtsxDItn4FWQGdfAAFpumgTRr73M24sWSKu5AytCZe9x+GatMILVjb+iHROHt+85wFr9WKrU+pvPfSMSFwRcNvnqQAaQotSkCzXeqqmEgpL34gTzBh1XNCw9hZ/cZlTrrVIObEtibrk0rFMKRbyaPVv/yKrOysK8MVNPE3dmimeTFNrmhRm;ZoE3G5bZZCoFvwWqSMElYQ=="
+secured: "polJ24GAN3J47BmT7tsi9l6UTCnHz6gjZP8BbrGmWkIMGQfBfgvUj3IVwY7ge1n1x9qSmsXoPQJxfm2Q1IvSaQnLU7yzv9LTv7h2nyEeWqcwQkFBJCJpBV720Rgmy0WSKNpS8y/aTuI/UfjGxngfPQf+uLM9+SFiaHcVENm8fi6hJb96MxIAoOrZN1+bYB7a+AJx/UaCySb15c2pQBQowmTuqJm8niGOO5/hPIFptwKXcy+DXwYyzGewvpXjzHAAoc5qjQt1/+qksBLCCMI/ybt7llRL2V90pCWe8TOyZTHE5vGlqveDxjrf3kSV2+KM;bJ9Z7VM3mDs20UxvyedfKg=="
 ---
 

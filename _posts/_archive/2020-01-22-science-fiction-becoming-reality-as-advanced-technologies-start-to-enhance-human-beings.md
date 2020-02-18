@@ -23,6 +23,6 @@ images:
     height: 375
     title: "Science fiction becoming ‘reality’ as advanced technologies start to enhance human beings"
 
-secured: "cOC973N9xsefdpOZ/aGA99TU8uceKnIAJAe892Vo0pw/vCzuMCHt5plOUa0GZ/TQ86UrBNOJ0Ea531MZm+FmsOO42pSQmuix035+xq8K2mlt4aMe4X9uKL6GUmNJkMZHJDj3BepW96p4Sqd61XY2VvjkwLu5ULSYcX2qH7/4JXg9S/FUb2C4S4dkAjKFczJER5VQNzakiccBY9f1iulTsO+ebfyE/fJx/MfwqcnVDoTqCk5Q0JLo+CKxPg2VUHQy9GHaKQGqPGBrCVz12ehFsuLGIBf8lnFu+KlVZYtD5cvnUCvVuOwMnH713B4yeqbH;yYoQOxS1XtIRRQMoTEIZLg=="
+secured: "ScgQiLL38Ln/znLSPiirplpTlGzc6UjtvCYoTtTIcYopiG0zkzQRTim1fIDGoYMLxhcsd4BosU5gmqjjY0BvnkPmZxy/kKrYum3wtBdAm3VfW8vVNVN4sWAJTsEuvaZDWP+s5LyJxgL7dj0akmYgCVvpp0/O7YXjkUoyX07l3kCxkHiEoiALGWmZswLmLanuIOLbMmVW3wUE7vYs+c/HCuYTEmIgPV0Kp2ecf/CL4VyO9eq/228m1Fd9DS6GmGNP026RnTRzUjgRTyL/OoNmuccx1uJs1n5hXqjqtYFo8PkQdJfnyK6Mms3qZHD9X9Gh;c3wIbXbsGzRjecO75K4hrw=="
 ---
 

@@ -21,6 +21,19 @@ topics:
   - AI
 
 related:
+  - title: "Aisera Secures $20M in Series B Funding"
+    excerpt: "Propelled by AI and Machine Learning, the solution auto-resolves tasks, actions, and workflows for IT, Customer Service, Sales, and Operations. The company is a strategic partner with AWS, Microsoft Azure, Google Cloud, ServiceNow and Salesforce."
+    publishedDateTime: 2020-02-18T22:40:00Z
+    webUrl: "https://www.finsmes.com/2020/02/aisera-secures-20m-in-series-b-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/02/aisera.png"
+        width: 400
+        height: 400
   - title: "GumGum Secures $22M in Series B Funding"
     excerpt: "GumGum, a Santa Monica, Calif.-based computer vision and natural language processing company, secured $22m in Series B funding. Backers included Morgan Stanley Expansion Capital, NEA spinout NewView Capital, and Upfront Ventures. The company intends to use the funds to continue to expand operations and its business reach. Led by CEO Phil ..."
     publishedDateTime: 2020-02-17T19:00:00Z

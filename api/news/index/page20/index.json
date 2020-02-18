@@ -2,6 +2,87 @@
   "page": 20,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-28-replace-punxsutawney-phil-with-robot-animal-rights-group-says.md",
+      "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+      "excerpt": "People for the Ethical Treatment of Animals are advocating a radical change in how Groundhog Day is celebrated.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "ampWebUrl": "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "publishedDateTime": "2020-01-28T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22920172/20200128/033110/styles/patch_image/public/phil2-getty___28150658187.jpg?width=984",
+          "width": 897,
+          "height": 673,
+          "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware.md",
+      "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
+      "excerpt": "\"The way we look at it is as an expert system,\" says Mukkamala, using a traditional term from the AI literature for software programs that include a great deal of domain expertise. \"What are my signals?\" he asks, rhetorically. \"First, a strong signal would be end-point vendors detecting it and blocking it, a second is Microsoft paying attention ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "publishedDateTime": "2020-01-28T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/9c16f4ed-c84d-4107-98b1-bd33cfbcd800/risksense-ransomware-dashboard-jan-2020.png",
+          "width": 2424,
+          "height": 1735,
+          "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-securitiai-scores-50m-series-b-to-modernize-data-governance.md",
       "title": "Securiti.ai scores $50M Series B to modernize data governance",
       "excerpt": "Securiti.ai, a San Jose startup, is working to bring a modern twist to data governance and security. Today the company announced a $50 million Series B led by General Catalyst with participation from Mayfield. The company, which only launched in 2018, reports it has already raised $81 million. What is attracting all of this investment in such a ...",
@@ -2026,88 +2107,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-rich-countries-should-invest-in-latam-to-create-ai-talent.md",
-      "title": "Rich countries should invest in LatAm to create AI talent",
-      "excerpt": "Uruguay, the second best-prepared country on the Insead ranking, has launched its public consultation on AI in April 2019 and spent the whole year working on the plan, which is just about ready. The report also mentions Chile's plan to address the infrastructure, priority areas and ethics, standards and regulations around AI. On Brazil ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "publishedDateTime": "2020-01-29T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/09/25/f2e8efdb-8c6c-4884-a8eb-4a1d5b6e2b3c/thumbnail/1200x675/7f2125eac9be0743c7a93613eb1919e4/istock-919118256.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Rich countries should invest in LatAm to create AI talent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-robots-pose-biggest-risk-to-the-poorest-countries.md",
-      "title": "Robots Pose Biggest Risk to the Poorest Countries",
-      "excerpt": "At the end of the 20th century, globalization narrowed the gap between rich and poor nations. But history shows that isn’t always the case. In the years following the fall of the Berlin Wall in 1989,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
-      "publishedDateTime": "2020-01-28T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -33,6 +33,19 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 47
+  - title: "Aisera Secures $20M in Series B Funding"
+    excerpt: "Propelled by AI and Machine Learning, the solution auto-resolves tasks, actions, and workflows for IT, Customer Service, Sales, and Operations. The company is a strategic partner with AWS, Microsoft Azure, Google Cloud, ServiceNow and Salesforce."
+    publishedDateTime: 2020-02-18T22:40:00Z
+    webUrl: "https://www.finsmes.com/2020/02/aisera-secures-20m-in-series-b-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/02/aisera.png"
+        width: 400
+        height: 400
   - title: "Aisera Secures Series B Funding, Led by Norwest Venture Partners, to Transform the Enterprise Service Experience With Artificial Intelligence"
     excerpt: "/PRNewswire/ -- Aisera, the world's first AI-driven platform that automates tasks, actions and workflows for employees and customers, announced today that"
     publishedDateTime: 2020-02-18T18:00:00Z

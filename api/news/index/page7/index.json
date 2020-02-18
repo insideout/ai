@@ -472,51 +472,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-17-the-human-and-machine-workforce-leading-digital-transformation.md",
-      "title": "The Human And Machine Workforce Leading Digital Transformation",
-      "excerpt": "Human and Machine partnerships will be about augmenting human potential to make people more productive and customer experiences better. A look at how augmenting humans will drive the next wave of digital transformation.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/",
-      "publishedDateTime": "2020-02-17T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Human And Machine Workforce Leading Digital Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-what-does-artificial-intelligence-really-mean.md",
       "title": "What Does “Artificial Intelligence” Really Mean?",
       "excerpt": "Years ago, Marvin Minsky coined the phrase “suitcase words” to refer to terms that have a multitude of different meanings packed into them. He gave as examples words like consciousness, morality and creativity.",
@@ -1486,6 +1441,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-18-google-updates-its-collection-feature-to-add-ai-capabilities.md",
+      "title": "Google Updates Its Collection Feature To Add AI Capabilities",
+      "excerpt": "Google has started the year with a range of updates to its most popular services. This time, it’s the recent AI upgrade to Google’s Collections feature.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
+      "publishedDateTime": "2020-02-18T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198299608%2F0x0.jpg%3FcropX1%3D393%26cropX2%3D4662%26cropY1%3D0%26cropY2%3D2401",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Updates Its Collection Feature To Add AI Capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-18-how-ai-is-impacting-the-workplace.md",
       "title": "How AI is impacting the workplace",
       "excerpt": "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ...",
@@ -1531,16 +1530,16 @@
       ]
     },
     {
-      "path": "_posts/2020-02-18-how-ai-therapists-could-shrink-the-cost-of-mental-health.md",
-      "title": "How AI ‘therapists’ could shrink the cost of mental health",
-      "excerpt": "Machine learning will make mental-health treatments more effective — and cheaper, advocates say “Alexa, I’m depressed.” The idea that a tabletop virtual assistant such as Alexa or Siri knows or cares how you’re feeling sounds straight out of some neurotic comedy.",
-      "heat": 91,
+      "path": "_posts/2020-02-18-how-ai-therapists-and-machine-learning-could-be-the-answer-to-affordable-mental-health-care.md",
+      "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
+      "excerpt": "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns.",
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18",
       "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
-      "publishedDateTime": "2020-02-18T09:05:00-08:00",
+      "publishedDateTime": "2020-02-18T12:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1562,7 +1561,7 @@
           "url": "https://s.marketwatch.com/public/resources/images/MW-HZ996_0220_b_ZH_20200210144803.jpg",
           "width": 890,
           "height": 501,
-          "title": "How AI ‘therapists’ could shrink the cost of mental health",
+          "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
           "attribution": null
         }
       ],
@@ -1573,7 +1572,9 @@
       "topics": [
         "AI",
         "AI in Healthcare",
-        "AI Ethics"
+        "AI Ethics",
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -1709,6 +1710,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-mankato-robotics-teams-qualify-for-worldwide-competition.md",
+      "title": "Mankato robotics teams qualify for worldwide competition",
+      "excerpt": "which stands for artificial intelligence. Their team of eight students won the state championships in their division and will be competing at the world championships in April. Each student has a unique role to play. Anderson drives the robot using a game controller similar to an Xbox — picking up, moving and stacking green, purple and orange ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.html",
+      "ampWebUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
+      "cdnAmpWebUrl": "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
+      "publishedDateTime": "2020-02-18T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mankato Free Press",
+        "domain": "mankatofreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/9/1a/91a10458-4dff-11ea-b845-c78e0123f55b/5e44a54858b67.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": "Mankato robotics teams qualify for worldwide competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -2014,7 +2052,7 @@
       "path": "_posts/2020-02-18-weve-just-seen-the-first-use-of-deepfakes-in-an-indian-election-campaign.md",
       "title": "We've Just Seen the First Use of Deepfakes in an Indian Election Campaign",
       "excerpt": "Political Deepfakes: Genie out of the bottle Ever since deepfakes blew up in 2017, the technology has been used extensively to create fake porn videos using existing celebrity video footage and AI algorithms ... assuming the translation is easily available in the right written language?” he asks. “But if it’s used deceptively, that ...",
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.vice.com/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
@@ -2143,51 +2181,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-winners-of-aws-machine-learning-research-awards-announced.md",
-      "title": "Winners of AWS Machine Learning Research Awards announced",
-      "excerpt": "The AWS Machine Learning Research Awards (MLRA) provides unrestricted cash funds and AWS Promotional Credits to academics to advance the frontiers of machine learning (ML) and its applications. MLRA is pleased to announce winners for its 2019 Q2/Q3 call-for-proposal cycles: \n \n Mohit Bansal, University",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/winners-of-aws-machine-learning-research-awards-announced/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T11:37:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Winners of AWS Machine Learning Research Awards announced",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
