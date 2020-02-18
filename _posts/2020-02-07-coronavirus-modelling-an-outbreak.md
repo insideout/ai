@@ -91,17 +91,6 @@ related:
       - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
         width: 900
         height: 500
-  - title: "Huawei, Chinese chip makers keep factories humming despite coronavirus outbreak"
-    excerpt: "State media reported that the chip maker did not cease operations over the Lunar New ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis ..."
-    publishedDateTime: 2020-02-03T13:55:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3048763/huawei-chinese-chip-makers-keep-factories-humming-despite-coronavirus"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3048763/huawei-chinese-chip-makers-keep-factories-humming-despite-coronavirus"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3048763/huawei-chinese-chip-makers-keep-factories-humming-despite-coronavirus"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 35
   - title: "China using AI to battle coronavirus"
     excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
     publishedDateTime: 2020-02-05T12:18:00Z

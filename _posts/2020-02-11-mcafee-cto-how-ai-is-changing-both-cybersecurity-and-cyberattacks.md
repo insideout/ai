@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-bot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: Hack
       domain: securityintelligence.com
     quality: 17
+  - title: "The top 10 cybersecurity companies to watch in 2020: How AI and ML is a key differentiator"
+    excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
+    publishedDateTime: 2020-02-05T18:45:00Z
+    webUrl: "https://webuilddesign.com/the-top-10-cybersecurity-companies-to-watch-in-2020-how-ai-and-ml-is-a-key-differentiator/"
+    type: article
+    provider:
+      name: webuilddesign.com
+      domain: webuilddesign.com
+    quality: 9
 
 secured: "Jdc/kzJMgG5zptBYvtXhL+kHcX3z1SnpYYrZd/wJ56PfkQL10Lsa7aftf8055pjqFVRYclStwtTPMUH4Anal/9CSC2lh9oEFYWM6cWX6iDGuttawc7B1NXZrAYDvQVLdcLzKt5EBe2ftLghPXazv9JVK/Q4pzHYEQEEEbQmFHu0oP0reFA/5U3zYL3ADA88NvMm6X0V119p9zyoQ5fxPefaxYLEeF4ge7EvXTtzZGXqnus1mYaId9Xux7Uzo2LZFLl5bYt/7MAF8FQUGcsrkh2s9ZdZR9gBGkdlgAdka5KJ/UTxszkFSkIGoNSyCjWkt8ACyFTCC5NpZkxmvYsglOyAA4F5DTz6z4PfxLQWKqJKPvbqcVYM3zBRpDC9SuzpOCf2e0OZZHVQ2EnuBRB4K5mNYQ+DAbsnidKw1Eo+HHi2u8QPmYVpy1RDPiVSBMilO1C+nnIX8FL9UlQNgX7JIqqYNQgENSOHJsygTBueJfLk=;fke73GYppH8mDTBe7EPnCQ=="
 ---

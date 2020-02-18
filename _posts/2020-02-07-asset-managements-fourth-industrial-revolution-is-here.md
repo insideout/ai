@@ -39,6 +39,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/942218138/960x0.jpg?fit=scale"
         width: 711
         height: 473
+  - title: "Artificial Intelligence Trends To Watch In 2020"
+    excerpt: "Some trends highlighted in our 40-page report include: Commercial deepfakes will resurrect celebrities, shake up retail, and change media AutoML: AI is the future of AI design Federated learning will bring in a new data partnership ecosystem Doing more with less: Tackling small data problems in AI will be a major focus Natural language ..."
+    publishedDateTime: 2020-02-06T05:04:00Z
+    webUrl: "https://www.cbinsights.com/research/report/ai-trends-2020/"
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 41
+    images:
+      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/05173732/Ai_trends_2020-06-572x364.png"
+        width: 572
+        height: 364
 
 secured: "FQO3pXSP3ArbiYUosOzwN6wB+m8g+jJi4gbR84yAFxqOMvCxj9JSwQFc5WhGSj85D2niPyJuDqah7xwsWGAStFUPnIwK3iHRDEAvKGEo6vHt+rapzwttluXk/RtmeI0G7A/x4XRVCH80B+O9MCIGdi2tIpXd6mVIf0Sp0Rdgf+rgeprzZb4LFKF/eTNheWnoCTucIALsObOHYxgWzScCddczCwr/IefpbCir3NHhy+h2luUKdeM+dx2a5ktJIdLR9P1LefRXpsPJlX3O4bX2nxuLzsa3+GJfI9WS/NYGsEcfKWkyrUAhypgiBFTIRh6cAq4T+pI2nq/LAc+P+h5HqpCcbFzg4sAhfGeW4nEZENeBN+oQyl9YPZsZK0KG71+v7Qdzt5jZzdqeZQRPf9ANTHojbuiWvkArCT0VvEVNKoRTVDkptewvdqLhVOXjDxjU6tcn8ZhKYOKeV9um915wiS1O0eNT3UoPvSE0LP+gW6c=;iQYeuiSCpzFtjdRk/xrnzQ=="
 ---

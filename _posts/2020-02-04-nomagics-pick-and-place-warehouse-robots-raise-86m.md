@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T15:58:00Z
 webUrl: "https://www.therobotreport.com/nomagic-pick-place-warehouse-robots-86m/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -39,21 +39,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screenshot-2020-02-04-at-12.06.08.png?w=1024"
         width: 1024
         height: 691
-  - title: "A warehouse robot learns to sort out the tricky stuff"
-    excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — clothes, shoes ..."
-    publishedDateTime: 2020-02-03T13:31:00Z
-    webUrl: "https://www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/"
-    ampWebUrl: "https://www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/b708d2f7-0d57-45a4-a611-2452c073d53b-300x225.jpg"
-        width: 300
-        height: 225
 
 secured: "50bZp1EykEpuh/snoXxYmAXybuzTB+vb+aBxU3y54Rj3jMi+kz+19nJCxZWC92uu0UD1BaUBXjfNEf3F+7QHo2VB0FG8WEKOkWJih/n3Bwq8wKR5VSDIa7vLE0QFmJm1PMNBKZWddOQVCpV+8iDCW7Uf2zsQxekORrg8XtSJugKPZlZNIuKEQWVcxifTf5IF/KSntvxS0rFN7L2zkFaUu5KcXaOG3ZKPAPzeMWhqOVEy+jLb0KTcxp9baNmh2NDCph3koOHGm5itQmdA256cJL2crbV35yfAd1XsAstJEuQnJ/UlxKLAyF0Tgb2nYxpv6gnlBCQS5Ec44KdoAUUQ++D4rpli+j50ns6TAs8xHaJCN67RuWPVyMxawyL1Dz611AUDDoxvu4dAdcH3lVhvc1t1YETCgpnqSxFo02sY8z8zZuWlBEt/cbKU3DSFpPy7vWdEb2aWsVf1+JD7iDxzFhdKOgKirss5MkR+r5S/2f8=;xuGBVMpG3jUOJPi3wfVu2w=="
 ---

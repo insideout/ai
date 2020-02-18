@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -83,17 +83,6 @@ related:
       - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
         width: 900
         height: 500
-  - title: "Huawei, Chinese chip makers keep factories humming despite coronavirus outbreak"
-    excerpt: "State media reported that the chip maker did not cease operations over the Lunar New ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis ..."
-    publishedDateTime: 2020-02-03T13:55:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3048763/huawei-chinese-chip-makers-keep-factories-humming-despite-coronavirus"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3048763/huawei-chinese-chip-makers-keep-factories-humming-despite-coronavirus"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3048763/huawei-chinese-chip-makers-keep-factories-humming-despite-coronavirus"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 35
   - title: "Coronavirus: Modelling an outbreak"
     excerpt: "Its AI also continuously scans news reports from recognised sources in 65 different languages, subjecting them to natural language processing and analysis that further inform its ML algorithms. This, the company says, not only allowed it to get ahead of the game in identifying the Wuhan outbreak but also meant that it was able to predict ..."
     publishedDateTime: 2020-02-07T14:49:00Z

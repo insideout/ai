@@ -18,45 +18,58 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Watch in February"
-    excerpt: "Though artificial intelligence (AI) has been a hot topic among technologists for quite some time, it's only in recent years that semiconductor, software, and cloud capabilities have gotten to the point where companies are now deploying AI on a wider basis."
-    publishedDateTime: 2020-02-03T13:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
+  - title: "McAfee CTO: How AI is changing both cybersecurity and cyberattacks"
+    excerpt: "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ..."
+    publishedDateTime: 2020-02-11T17:04:00Z
+    webUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/"
+    ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
-        width: 1024
-        height: 512
-  - title: "Artificial Intelligence Trends To Watch In 2020"
-    excerpt: "Some trends highlighted in our 40-page report include: Commercial deepfakes will resurrect celebrities, shake up retail, and change media AutoML: AI is the future of AI design Federated learning will bring in a new data partnership ecosystem Doing more with less: Tackling small data problems in AI will be a major focus Natural language ..."
-    publishedDateTime: 2020-02-06T05:04:00Z
-    webUrl: "https://www.cbinsights.com/research/report/ai-trends-2020/"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all"
+        width: 2160
+        height: 1078
+  - title: "How Is Artificial Intelligence Reshaping Cybersecurity?"
+    excerpt: "Cybercriminals are constantly growing in number and sophistication, leaving organizations in a tough spot as they align their defenses. Artificial intelligence offers one way to address this challenge. At the CDW Protect SummIT in San Antonio, we asked security and IT experts how automation can help them protect their systems and data."
+    publishedDateTime: 2020-02-17T22:38:00Z
+    webUrl: "https://biztechmagazine.com/media/video/how-artificial-intelligence-reshaping-cybersecurity"
+    ampWebUrl: "https://biztechmagazine.com/media/video/how-artificial-intelligence-reshaping-cybersecurity?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/how-artificial-intelligence-reshaping-cybersecurity?amp"
     type: article
     provider:
-      name: CB Insights
-      domain: cbinsights.com
-    quality: 41
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
     images:
-      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/05173732/Ai_trends_2020-06-572x364.png"
-        width: 572
-        height: 364
-  - title: "Top 10 Cybersecurity Companies to Watch in 2020"
-    excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640"
-    ampWebUrl: "https://www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640/amp"
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/Joe%20Evangelisto%2C%20MercuryGate.jpg?itok=J1p8ijlU"
+        width: 1440
+        height: 500
+  - title: "Adversarial artificial intelligence winning the cyber security battle"
+    excerpt: "Artificial intelligence (AI) has come a long way since its humble beginnings. Once thought to be a technology that would struggle to find its place in the real world, it is now all around us. It’s in our phones, our cars, and our homes. It can influence the ads we see, the purchases we make and the television we watch. It’s also fast ..."
+    publishedDateTime: 2020-02-06T09:43:00Z
+    webUrl: "https://www.information-age.com/adversarial-artificial-intelligence-winning-cyber-security-battle-123487325/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/01/adversarial-artificial-intelligence-winning-cyber-security-battle.jpeg"
+        width: 1080
+        height: 608
+  - title: "Biased AI Is Another Sign We Need to Solve the Cybersecurity Diversity Problem"
+    excerpt: "Individuals with diverse perspectives on AI, technology, data, ethics and diversity need to collaborate on governance. Remember, “minimize” is not the same as “remove.” A risk-based framework is the only pragmatic way to put AI governance into practice. Resources should be directed toward mitigating biases in artificial intelligence ..."
+    publishedDateTime: 2020-02-06T12:17:00Z
+    webUrl: "https://securityintelligence.com/articles/biased-ai-is-another-sign-we-need-to-solve-the-cybersecurity-diversity-problem/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 17
 
 secured: "qyHJMCp+EJ9EtvazrsAYIdhdRkI8gZpUnGqD+4PM/ae80nmxEGBWdDAUfDLKj+2XaLJLkMm3mQoAiqAAKmvD04QEoyecjWpO+NSRf+el2RaAwNq9UHGsZC2fQIjjau1258GHbZ0PJh1KK977qCk1ZDQWRALPpcZLYnCjaFxoj6P9hOR830vT2vBl2QqPP5JmSIRXgkTfDm2/1rqFghBEc8jIi9VklKgsVki3OjIGxtnDs5JbFPO1uIbyi4LPeebSzGJ9IaoDnYezPh5FSWpdDkP2zC8IaP2pZ+wJE0LEPBUa6PXi0SGWRWsEe6+SqQFQoh6nCDxTVVdNwBCCSSg6Xh7bjX21xxCUlL8oEQ83eL3nzPaZqH2YYDQK+LGCgVI/XZv50iptM9wWsqK1yBDIuL1Z3mBQoN4NQm6zoRruzeSyxJHKfvGFeWaBLiw/2SKBk8LTzoUV/lWv+1gsBdme0FuQs+i/2kNzJYmVAHiKtuc=;Kr2SrqlZtFMbgZxpzP7J5g=="
 ---

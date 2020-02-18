@@ -25,41 +25,34 @@ images:
     title: "Artificial Intelligence Trends To Watch In 2020"
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Watch in February"
-    excerpt: "Though artificial intelligence (AI) has been a hot topic among technologists for quite some time, it's only in recent years that semiconductor, software, and cloud capabilities have gotten to the point where companies are now deploying AI on a wider basis."
-    publishedDateTime: 2020-02-03T13:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
+  - title: "AI's Evolution: Trends To Watch In Investment Management"
+    excerpt: "Artificial intelligence has become one of the most talked about topics in investment management, but its full potential has yet to be discovered."
+    publishedDateTime: 2020-02-04T16:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
-        width: 1024
-        height: 512
-  - title: "Top 10 Cybersecurity Companies to Watch in 2020"
-    excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640"
-    ampWebUrl: "https://www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640/amp"
+      - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/942218138/960x0.jpg?fit=scale"
+        width: 711
+        height: 473
+  - title: "Asset management’s 'fourth industrial revolution' is here"
+    excerpt: "Regtech companies are employing machine learning, natural language processing, AI and other technologies in an attempt to streamline compliance processes, increase efficiencies, and lower costs and risks. These solutions offer significant opportunities to asset managers. Already, existing and emerging solutions generate reports automatically ..."
+    publishedDateTime: 2020-02-07T16:21:00Z
+    webUrl: "https://www.financial-planning.com/news/digital-disruption-asset-managements-fourth-industrial-revolution-is-here"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
+      name: Financial Planning
+      domain: financial-planning.com
     quality: 24
-  - title: "The top 10 cybersecurity companies to watch in 2020: How AI and ML is a key differentiator"
-    excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
-    publishedDateTime: 2020-02-05T18:45:00Z
-    webUrl: "https://webuilddesign.com/the-top-10-cybersecurity-companies-to-watch-in-2020-how-ai-and-ml-is-a-key-differentiator/"
-    type: article
-    provider:
-      name: webuilddesign.com
-      domain: webuilddesign.com
-    quality: 9
+    images:
+      - url: "https://sourcemedia.brightspotcdn.com/dims4/default/cc4f179/2147483647/strip/true/crop/600x315+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F9f%2F14%2Fc55ce0d648a0be566a7eeaf6b538%2Fmme0220-cover-photo.jpg"
+        width: 1200
+        height: 630
 
 secured: "Egr0cfb1kJQNDfqwPnl+D6+yWQpkeEhGz1N6hfA9ogkPgcpZcXmfnqdaDUxEqmRzX6CbipxckXbzFiGGBqi0Vy7JI9zO1FWlUktGVVCUXk5WCkGYcyUOGMKGGZWqIDnDnwot6cjwTGDVIbCrOyzemU050VChzN3h4yV6LhHf7U1U7xzgNpm0Sg9L421imNiNYJkh0/p/EnkrQy+PibVYiB/oSFRrBCYGuEL+Q0JcMwyUII5Byk8xqtDmiNgPq5ugtJ5Um3w9TWjeeoB0QA3k+PHL9DEocWy6N3/cK2ixFTRXUEBCeVudWaQpLig2q8+zP0vMcQjJJpMSnjKFIByLDN20EcbQcieNWPe6Uk/dIWyzO3NyAqAgYW8a27T85Ae/JFkB34SZowduSfnRN6G5kcOQJ+mpUKcmRk2Xt1t2g5h+GReUiCxWN+0VRuTlCC/f7kIGqlDtTT5dW6Nj3rlj0LMY5aDychiDUiuflkT3cpU=;CK3DI00U3u5/C0NTqQvHBQ=="
 ---

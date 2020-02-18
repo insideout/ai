@@ -25,21 +25,6 @@ images:
     height: 248
     title: "HPE keeps financial firms compliant with analytics"
 
-related:
-  - title: "Big Data Trends in Financial Services"
-    excerpt: "... has become one of the main Big Data priorities in the financial services industry. Versive is a company that created software that they claim can help financial institutions and banks analyze massive transaction datasets and cybersecurity data using machine learning. The software is called Versive Security Engine and is touted as being ..."
-    publishedDateTime: 2020-02-03T13:34:00Z
-    webUrl: "https://www.klkntv.com/story/41644204/big-data-trends-in-financial-services"
-    type: article
-    provider:
-      name: KLTN
-      domain: klkntv.com
-    quality: 24
-    images:
-      - url: "https://CNTSYNCONT.images.worldnow.com/images/19157415_G.jpg"
-        width: 1080
-        height: 721
-
 secured: "zXUk5+ZWAytHyvP6QffFpvCmNO6Esy0jxzIFFh3u9fPQl67qJU98YO3h6mNO64DdJyRwThMwGyxtyr+LDNRVcHEs+SsUbi1WhgDOzKmOzrN1NZW/71YY+aP92I99YPCkzhjdj6OpFLTKp/zAC+Sf57nveKEihZTFSTvupEfL8jwyyWieaWwdQhSYA7NRSfCizdTtQMBhzABRJqiVdYEFZP1gctC8JWCKptUri2eAA3Ljq080ov+/4mN84jqOcvCNdSRLwshIpvEg8yAjx3ilfLICrHaABmp/ZCkQNSUsVdJyoZW83kxjDGO6KrNqcc3w5tjtwVEfiDsQyJeKAR+jupCun+/+T4e/b0S7PUN9R6yMQpkmhiW5Y5F3M/e3nI4UvSnZc7Gva9OCKyB8mO3VTHuMqhbjdO07AZpxA6q6tLw1BKTFYbPSFxTKMlxjAYMpt1szC8P1afnW/hoCv9xVqcdsfjyqwg9zHTios+GDgGE=;VjFsCFjFzf3+0MCYWzK1gg=="
 ---
 

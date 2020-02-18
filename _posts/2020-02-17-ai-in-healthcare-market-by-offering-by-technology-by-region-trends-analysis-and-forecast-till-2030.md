@@ -75,6 +75,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Context Aware Computing Market 2020 Technology Trends, High Demand, Competitive Landscape and Strong Application Scope by 2025"
+    excerpt: "Global Context Aware Computing Market 2020-2025: The Global Context Aware Computing Market was valued at USD 42.59 billion in 2019, and it is expected to reach a value of USD 205.40 billion by 2025, at a CAGR of 30."
+    publishedDateTime: 2020-02-18T05:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-context-aware-computing-market-2020-technology-trends-high-demand-competitive-landscape-and-strong-application-scope-by-2025-2020-02-18?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
     excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. The United States is considered as the major hub for companies in autonomous vehicle development,"
     publishedDateTime: 2020-02-12T12:55:00Z

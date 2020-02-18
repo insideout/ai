@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "AI's Evolution: Trends To Watch In Investment Management"
 
 related:
+  - title: "Artificial Intelligence Trends To Watch In 2020"
+    excerpt: "Some trends highlighted in our 40-page report include: Commercial deepfakes will resurrect celebrities, shake up retail, and change media AutoML: AI is the future of AI design Federated learning will bring in a new data partnership ecosystem Doing more with less: Tackling small data problems in AI will be a major focus Natural language ..."
+    publishedDateTime: 2020-02-06T05:04:00Z
+    webUrl: "https://www.cbinsights.com/research/report/ai-trends-2020/"
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 41
+    images:
+      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/05173732/Ai_trends_2020-06-572x364.png"
+        width: 572
+        height: 364
   - title: "Asset management’s 'fourth industrial revolution' is here"
     excerpt: "Regtech companies are employing machine learning, natural language processing, AI and other technologies in an attempt to streamline compliance processes, increase efficiencies, and lower costs and risks. These solutions offer significant opportunities to asset managers. Already, existing and emerging solutions generate reports automatically ..."
     publishedDateTime: 2020-02-07T16:21:00Z

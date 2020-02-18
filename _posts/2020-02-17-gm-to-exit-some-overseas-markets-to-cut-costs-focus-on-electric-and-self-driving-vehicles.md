@@ -41,6 +41,19 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/17/14/24841066-0-image-a-6_1581950107383.jpg"
         width: 636
         height: 382
+  - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-18T05:00:00Z
+    webUrl: "https://www.pressofatlanticcity.com/opinion/commentary/how-should-self-driving-cars-decide-who-to-kill-by/article_6c1dbac7-3a51-5e99-bc84-8066769cbe28.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
 
 secured: "h5Rh4OvOgFBBsDhxxuchyAEVs2Jzem4NCsDTdFbTjJ5m8YsgbYm1/WjWl30JfOfTVAhAO8qgAGMFNXDEy4rHvdU4ycoHJXYPax4820XLTPYscVkVbTItOwOBfypkhyKSmRxQMwQdS2E0BYbGjTElMglxW1W+0I5cMoDIuYQ19+NYeO8odQsNEq9JpDYIsZoBPSRn2az4mfuhMscQVgcsS0zaSaY0Yi9ilZ1cYQ0Chs5EOte9xLBF6E5R4D0K4TdLj3/e5uuTtuoOuL1HdtW31RzOKqjGCx4Y3vyw/TNxc37Aj9jFTny/OQsExUr/F0LyB2j4B7oyKP4Y3B3UDalht4T8U6WPOWR9bDf7XauYWop7EeUD/vkFow0NQ1bFDpTMQeBSHtranb9IMx0A/7OXYZyz7xPweo83sOLRECxi2ju5VHjV5CuzXLMDmoF3Kb9OUW9A5EoRItaK/0FF1KoKoHKAbKO30nIxF4kZYqVWWrc=;+ESo9td5ASK/+ol7us1hIQ=="
 ---

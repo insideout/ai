@@ -89,6 +89,17 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Top 10 Cybersecurity Companies to Watch in 2020"
+    excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
+    publishedDateTime: 2020-02-06T21:01:00Z
+    webUrl: "https://www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640"
+    ampWebUrl: "https://www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 24
 
 secured: "h3V5lyPQF8CUS5WbxFHrAx/LtgQKFLI8azxxqOigqueaJFLjtq4fErxCZNdli2v4F9YIl+xsdjQkzBOsooRdbuQF4pawZtUVMuJyuz2W7uirPVcimRjA9OZe3daFFgfbIzQvnzkc+R5ipck4bU2pBRE49DUS8Ylv0Tyx8Bfkd0LVd4kefwI2JYyqhWqKU+OQUa8/MEs7uxodO/rXcQmPxm0O/j1ajL8LqnBCRW9h7ACNW26UGy4do1gkG/+6Dg6ryjGVQ3jvE0Al3k2L2kGCH46Feo9Bs858KmzYfS/xEMtRLMPHrqB0XbxWu3mRZ1TE;h8dB8ougYC0CZ//CFZTcvA=="
 ---

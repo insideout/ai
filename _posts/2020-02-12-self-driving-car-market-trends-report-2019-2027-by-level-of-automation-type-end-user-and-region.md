@@ -81,6 +81,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Context Aware Computing Market 2020 Technology Trends, High Demand, Competitive Landscape and Strong Application Scope by 2025"
+    excerpt: "Global Context Aware Computing Market 2020-2025: The Global Context Aware Computing Market was valued at USD 42.59 billion in 2019, and it is expected to reach a value of USD 205.40 billion by 2025, at a CAGR of 30."
+    publishedDateTime: 2020-02-18T05:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-context-aware-computing-market-2020-technology-trends-high-demand-competitive-landscape-and-strong-application-scope-by-2025-2020-02-18?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Trending News For Automotive Voice Recognition Market 2020 Analysis, Forecast Of Business Revenue, Size, Leading Competitors And Growth Trends"
     excerpt: "Automotive Voice Recognition Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
     publishedDateTime: 2020-02-11T08:05:00Z
