@@ -189,6 +189,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 19
+  - title: "Ex-Waymo Driver Charged In Self-Driving Van Crash"
+    excerpt: "A former Waymo employee has been arrested and is facing felony charged of aggravated assault and criminal damage following damage caused to a Waymo self-driving vehicle."
+    publishedDateTime: 2020-02-17T22:25:00Z
+    webUrl: "https://www.mediapost.com/publications/article/347145/ex-waymo-driver-charged-in-self-driving-van-crash.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
   - title: "Insight: How to make an ethical self-driving car"
     excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
     publishedDateTime: 2020-02-16T09:31:00Z

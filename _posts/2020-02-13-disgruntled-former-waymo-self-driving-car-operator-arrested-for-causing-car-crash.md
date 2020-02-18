@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
 type: article
 quality: 83
-heat: 233
+heat: 243
 published: true
 
 provider:
@@ -185,6 +185,15 @@ related:
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
+    quality: 19
+  - title: "Ex-Waymo Driver Charged In Self-Driving Van Crash"
+    excerpt: "A former Waymo employee has been arrested and is facing felony charged of aggravated assault and criminal damage following damage caused to a Waymo self-driving vehicle."
+    publishedDateTime: 2020-02-17T22:25:00Z
+    webUrl: "https://www.mediapost.com/publications/article/347145/ex-waymo-driver-charged-in-self-driving-van-crash.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
     quality: 19
   - title: "Former Self-Driving Car Operator Engineers Crash in Tempe, Cops Say"
     excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."

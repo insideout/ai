@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/10979519/surgical-mask-face-id-unlock-
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/10979519/surgical-mask-face-id-unlock-iphone/amp/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Bizarre ‘surgical masks’ that look like your face aimed at coronavirus-fearing iPhone owners"
 
 related:
+  - title: "Protect yourself from coronavirus with a mask that looks like your face"
+    excerpt: "It's hard to stand out in a crowd when everyone's wearing the same bone-white N95 protective facial mask. That could change if one San Francisco designer follows through on her idea to custom-print the respirator masks with images of wearers' faces."
+    publishedDateTime: 2020-02-18T05:58:00Z
+    webUrl: "https://www.cnet.com/news/protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/VSO-grYm2saH_WOECwBz6EFtMtw=/2020/02/18/39d76b76-0557-48bc-874e-543babb07c8c/restingriskfacemask1-1.jpg"
+        width: 1008
+        height: 567
   - title: "Mask that has your face printed on it allows you to unlock your phone during viral epidemics"
     excerpt: "Danielle Baskin was discussing with friends the growing prevalence of surgical masks when the issue of facial recognition was brought up. How could one utilize technologies such as Face ID to unlock their phone while the bottom half of their face was covered? “Easy,” exclaimed Baskin, a San Francisco-based artist. “Just print your face on ..."
     publishedDateTime: 2020-02-16T21:52:00Z

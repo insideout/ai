@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T14:21:00Z
 webUrl: "https://www.realwire.com/releases/Microsoft-Ignite-The-Tour-2020-ASC-is-Presenting-ASC-Recording-Insights"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -23,21 +23,6 @@ images:
     height: 334
     title: "Microsoft Ignite The Tour 2020: ASC is Presenting ASC Recording Insights for Compliance Recording and Analytics in Microsoft Teams"
 
-related:
-  - title: "Microsoft Previews New App Reporting and Consent Tools in Azure AD"
-    excerpt: "In addition, the following Azure AD App Gallery apps now have support for automated user provisioning: Harness (a DevOps platform), Infor CloudSuite (ERP), iProva (AI), RingCentral (unified communications) and Templafy (business document templates). Azure AD supports integration with four app types, according to this Microsoft document."
-    publishedDateTime: 2020-01-27T22:03:00Z
-    webUrl: "https://redmondmag.com/articles/2020/01/27/microsoft-azure-ad-app-reporting.aspx?admgarea=BDNA"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/131113MackieMAP.jpg"
-        width: 647
-        height: 450
-
-secured: "fq0b49GQS+Gp6aUjm5NlBhTL/4o0/aWYMfTZsLUg7Ws8yRt2tHcg3xyP65knYsSLWn0pes13j18jJ+k+IqqiXJW6ZpNADjVapr7bDBMGTdCWqYjL6D0HJflBJvO2DxjcDhKoaQXf0p1I8LjorEhbGIj+Bj1qqLev16S0b8ay0+AnmCUejT7sbYq5g3EWm+Uo7axeHu+9iHneZu7aAP4St7zYne+N3CHN04l7pfzSjgP8lUb0vmcr7hKd8Mf3S7vD8XJax+c+zXUZLnvTe7z7z2VHaxvdBPzbY04PuetsN42uyuCzMXoyQg24+W8iaQmP;5ldxwDNhnPww5di4OBHVnw=="
+secured: "TtfaAYbh1KRaIVDGtfDccQYzJfelNEy9TREzu33yEI3jywoksHcJ9rLlnuaS3oahC1bp22NSvErBQ0ksluFbZDbM0TOLemLm/kLUfbaPi/xzQrvwZN2s1oKs+GNvwh4jmsm4N6FOjWgnaf9p+BqjrOXwcE+tsd7c3I2gg0MkA6kDP2/PxtuTUYHgZv26KqUpyBWiMb9zVpkIkjqBVPRaxcZc8YrD7Kx0tmxmvfFLL/+QjKlTDcz7X4eJyVuKuz3iwTLEwW+bgBSqy9kQ9HbqK3mDbf1TJw+pkOMYzZxspieZ9FMAzW5iOM8/FjE4TBpm;5y8xt8Np9xTKcIhW9kuX6g=="
 ---
 

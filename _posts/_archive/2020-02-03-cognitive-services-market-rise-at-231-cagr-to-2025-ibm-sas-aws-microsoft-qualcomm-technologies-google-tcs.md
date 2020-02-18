@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
-    excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
-    publishedDateTime: 2020-02-03T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technologies-market-top-key-vendors--microsoft-corporation-alphabet-inc-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
     excerpt: "ReportsWeb Adds \"Global AI IN EDUCATION Market\" offers Current and futuristic Market scenario, product segmentation, and competitive positioning for AI IN EDUCATION Market globally for its business expansion strategies."
     publishedDateTime: 2020-02-04T05:46:00Z
@@ -68,6 +55,6 @@ related:
         width: 1200
         height: 630
 
-secured: "7uSGYoZzDuslms3pKvHS/X1se29n01ywVPtzrVoqrmL6U/+jjzVAWVLZ5R/CqsBG2U7gVDQUR9OFWSm1DTYkdbPAONymPJZwbtNlaCa3FKxf1D6P7OAYnPmOpralI2nUAr1TjYeRugskSfaMBqP0CwLz0cRO/o+Tz3j9qWe6Rjp6G2F8dvHqg4tGBx1cEwipdrOeQJ92p1RHbRV0ouBiiICz44KbIZ52mgcWOwIr5MVjPo1XULlnhCgAqcMHkLHsfa93964A2SXL0uf2cfZIUZ6/031EVU5O9aERQ0YOLsLL9FaG0wE4JeH+zThqLTGf;OkUmP73VbrbD9mNXrZfVQw=="
+secured: "nA7PAeVijOCDNGK5SKBYvhEkuwRm/6g1Mma3Qe3czUgSYi2qwqj3yEfV8gPcztqYO3c8GbWiORlUTTdeTnGxuIfWdg/YopXK6/KdQZ3zRP2NrUZNsAGyca3rkK1ncZoKdjd7byeL/3GAxp5VcwKf3rhhFLsLm0DGR87WI5Lz2/YDbB8rt2JqlLC8Z4cU5uhS4u+JtCekaAYiUPF3fiYOatahm5gtnDro3PMndzaFAT58y4NRhj3smFrshNqPS/et2sVehAb3n9JKqFoNxTmZBXnr0TGq59yLpaw764Vqg0lvD31KwxEEsiWJVCd7iaMA;ZLhldZ3pHpkcj8afHUUYLQ=="
 ---
 

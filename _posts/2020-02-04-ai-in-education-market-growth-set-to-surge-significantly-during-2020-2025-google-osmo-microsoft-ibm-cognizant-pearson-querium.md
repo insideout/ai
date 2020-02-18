@@ -53,19 +53,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
-    excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
-    publishedDateTime: 2020-02-03T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technologies-market-top-key-vendors--microsoft-corporation-alphabet-inc-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "0neCcDm3m6Of3SHcyXW3MGdruyFx0yDb0XLlSOWX46wtRFGoRspV5wUanWmluziIKdNLqrAnC6+FyFvh73frUkQkj8hHQ5IyQV4q+ve1ZRthuw8s5SQSqGTcRvd8LcWysOaS743lGB0RpgFkJMhMkwVFJY3tRppt6TfnO/hXRbbqBQfjjO3bnKfM8QF/KjmRmLDo3k9S4T7DXoRxUyWbnt+S1Scdomz++drTmjoqRuJgmh41LVNVKPQ4YpyLtW/EmK5Y+jXXYrJt4d5Z2z5nGULnqwaGRvWUEOuIs2xxNKWdaFcAN+MG+H78vh44/u7J;dZxg8JNlPmDRzHjD8nMkKw=="
 ---

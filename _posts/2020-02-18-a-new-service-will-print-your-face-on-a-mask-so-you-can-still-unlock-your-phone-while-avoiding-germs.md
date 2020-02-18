@@ -25,6 +25,6 @@ images:
     height: 800
     title: "A new service will print your face on a mask so you can still unlock your phone while avoiding germs"
 
-secured: "O0/WqeWxdDOTQl9B8KvrSfQ33FFV0vjk58DxAT5zUsRuHHBDcynoZzuk1sI2o0f7yQJWxZ/v0zswrKJEYis6Rharna3bYuMZjPpg/vk0WkJAuilAD/OIxEgk1NDtgzK0Q8VnJWMwC7dUeq4M+b3oOJop77RK/d+UM8qC6BuPJ8a3iRquM4/fc1yKE1JWRGRnigyHCq4UKLAvRf8wa7yAxbNKNcoSEhL1Dxs0ejYeMGlJI8JIG4TQ++zRiD/tWB+go1QhD4qlgUVS/0Rdf5sLlyxrlSffFxrkCEYUhSyHWKG7N4X6A+ag0ufw8moNeE3M;l/D7r+IkT+S8DWsq+mER9A=="
+secured: "A4WwXaLfJhwLrQ82GtJC0ik+tUbRkLxQAGN+d5bdY+p+VIPewM7oxTXWCJYk0elncb7Uy0w64onuIdVLGfbIbjHvIgssLkgx5If+Zb0B5mSPxozzlqKzd9B0eRr6beKHtdpBZDX9kuWhalQmNNpoNpbvHi3ZLvUKmN6zXWScmHQK8qQyWr6XAqQ2RBkILEVQ7jPLe9fad8Y8oOMz1XKt24U3v09qZlKbXweM5xo472x0aeSVjtAFTUAv72EhfRXyaj7OcBAAgXiApa1/ZkTXq8fWeNiwhHkExMTFk4UFxtCQPjHTCFKMTEaszeJKzay6Bo/1UCCWxWih+/YsN35jPP5ne2zln9ynW4o6vxqo+5t02s/RiZeZkPhOcp5O3UH0ySj7ke9hGn2uTimroUZVx54yK2gPPnWb/N7BtY0GcuoK5EJtE+56pcLaywjDkqkfZKtS9hNmJnxJ5jMH4rW/1pOzewJm+bnKzcsg24LoZ1o=;rAoHW1sSfhyf9J1Hy9My5A=="
 ---
 

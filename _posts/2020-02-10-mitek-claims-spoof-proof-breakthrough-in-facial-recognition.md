@@ -123,19 +123,6 @@ related:
       - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
         width: 1920
         height: 1080
-  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
-    publishedDateTime: 2020-02-03T12:59:00Z
-    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 39
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
-        width: 900
-        height: 598
   - title: "EU Ponders Temporary Facial Recognition Ban"
     excerpt: "A facial recognition ban of up to five years is currently being considered by the European Union (EU) amid growing concerns about the potential misuse of the new technology. According to a draft white paper, first obtained by news website EURACTIV on 17 January, the European Commission (the executive arm of the EU) is in the midst of ..."
     publishedDateTime: 2020-02-04T11:00:00Z

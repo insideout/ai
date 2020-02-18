@@ -59,6 +59,19 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Paris-France-Eiffel-Tower-300x300.jpeg"
         width: 300
         height: 300
+  - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
+    excerpt: "... healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,\" said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. \"Our combined technology will empower payers and providers to drive better outcomes and improve care quality.\""
+    publishedDateTime: 2020-02-07T13:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-citiustech-announces-partnership-with-google-cloud-accelerate-digital-/2020/02/07/9094107.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+    images:
+      - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
+        width: 252
+        height: 335
 
 secured: "lC1nhbIfvHQ81RR3rtY0q3xVq/ueHJwtYiPMVee9GwM2CzfggaRhAOxQi7cgBMXfP8U1eV8jthimPtOg40CSm4yjYt5761PYcL5ePahXcWCDz4GjG9aa7nnuJqBWyfBLrm0d9hg8PMOg4Gs4ApsbcRjLNdRJ3mY6HBa8/xJB2iqrwLkqQ9qHDJsT3J+l1i/meXpguAZyMUQ24GAtvRzh78YdounFF2meEhMLGxMghehvo4e0BQUmfUMNsdup6ss07nAkV8pnK5dvLVwoPVmYuVP614ob5frNO/sHbTo3PtVg5ondpzN86EiG0NDLxFHBSJ/pMfpd1vu+IpOuMmhq6veGsP0LAisyyb10q4/YylqlYPvzwp0UdR+MBQRJJU6RHOSdX59vNR0xjcz1kZ2sI3JNN4VpdN6nlhztaL4ayNew4sBLn5+D5VIcgnPbJCE29ybt0l5+q9toiIYand+d4+LmvnxvoyeYXiNbGFXbd6s=;VAO3YIpqb1TwoNPoHkZnOg=="
 ---

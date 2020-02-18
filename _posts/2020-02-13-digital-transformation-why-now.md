@@ -53,6 +53,19 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Paris-France-Eiffel-Tower-300x300.jpeg"
         width: 300
         height: 300
+  - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
+    excerpt: "... healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,\" said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. \"Our combined technology will empower payers and providers to drive better outcomes and improve care quality.\""
+    publishedDateTime: 2020-02-07T13:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-citiustech-announces-partnership-with-google-cloud-accelerate-digital-/2020/02/07/9094107.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+    images:
+      - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
+        width: 252
+        height: 335
   - title: "Cloudtech startup Rapyder has partnered with AWS to help clients with digital transformation"
     excerpt: "“Being an AWS Advanced Consulting Partner enables us to provide seamless ... It aims to leverage big data, data analytics, artificial intelligence, and machine learning, in the near future. “We have 55 employees across our offices, and plan to hire up to 50 more professionals by the end of 2020,” Amit says."
     publishedDateTime: 2020-02-07T00:24:00Z

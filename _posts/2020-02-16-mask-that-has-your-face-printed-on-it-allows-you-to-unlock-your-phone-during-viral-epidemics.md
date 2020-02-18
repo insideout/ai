@@ -26,6 +26,21 @@ images:
     title: "Mask that has your face printed on it allows you to unlock your phone during viral epidemics"
 
 related:
+  - title: "Protect yourself from coronavirus with a mask that looks like your face"
+    excerpt: "It's hard to stand out in a crowd when everyone's wearing the same bone-white N95 protective facial mask. That could change if one San Francisco designer follows through on her idea to custom-print the respirator masks with images of wearers' faces."
+    publishedDateTime: 2020-02-18T05:58:00Z
+    webUrl: "https://www.cnet.com/news/protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/VSO-grYm2saH_WOECwBz6EFtMtw=/2020/02/18/39d76b76-0557-48bc-874e-543babb07c8c/restingriskfacemask1-1.jpg"
+        width: 1008
+        height: 567
   - title: "Bizarre ‘surgical masks’ that look like your face aimed at coronavirus-fearing iPhone owners"
     excerpt: "The bizarre gear will strap over your nose and mouth and feature an image of the lower half of your face so it can \"work with facial recognition software\". Sales of medical masks have gone through the roof in recent weeks is response to the coronavirus outbreak, which has so far killed more than 1,700 people with 71,000 cases globally."
     publishedDateTime: 2020-02-17T16:57:00Z

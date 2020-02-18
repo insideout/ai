@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
-    excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
-    publishedDateTime: 2020-02-03T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technologies-market-top-key-vendors--microsoft-corporation-alphabet-inc-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
     excerpt: "ReportsWeb Adds \"Global AI IN EDUCATION Market\" offers Current and futuristic Market scenario, product segmentation, and competitive positioning for AI IN EDUCATION Market globally for its business expansion strategies."
     publishedDateTime: 2020-02-04T05:46:00Z
@@ -68,6 +55,6 @@ related:
         width: 1200
         height: 630
 
-secured: "sbixuKe79WeS8hUVxQnIpopQfKVq/OpwYy3VVUXkj0pRqIahD4kEdluknrKH1dv4M9NvYckCQNXo4MhsE+H6qOQkhb5AGGhbLZjRyDj+6NKQ7hEN47eVh8A3QNoEBRsutpMCYOxxu4DCsJC+HgYSxlKj+smh3VoX5H55TYvbYsM7+03Z6j6hybpuw5BRrqj/AROO2BCdwpql19WmnHE9gcJyv/yVFdSExBVW6n39FnDkjFUUdS5qGnOv33LP1UCCppj0Md8xtEjBiZ5mpduBNPx/Vj3kA3BFIguH6ojjkRrbj0DGYAlqHlJQpDqloH+I;AEYpCwMu6W0qlTtCa6I6MA=="
+secured: "Ub0U9yfy+uz3vH/+xAFnHdreosQ8lvsoATCZe8/I7q7rg2aruu1CT1oVEmFHoObJjacEWC0JwJFOgrwXUvndlOKAov0jfNzov1OISi67Amq969pWDe8Ui1p0jL1sxHgFnOwip1BLoMf1tszCEp1/sDmImp76HVxtaZIsBCEE5oo9rdD4bZBb+XhuwXVY4Xz4NLnoifhIz2c38okurgq5l1QUB8dMSo8FN3mK8x8OF47C2JECwjBEavp3J4n7ajnAAGCB4i/vMLC7/rTzRrgnkPLwt77allkGun3V10O++FMEW86l2vcvYzcC5uI6OcFX;CyQQQ8EKgYg5Qi4BchEuOg=="
 ---
 
