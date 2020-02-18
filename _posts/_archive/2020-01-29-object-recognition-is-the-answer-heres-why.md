@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition
 ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
-quality: 69
-heat: 89
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+    width: 1200
+    height: 800
+    title: "Object Recognition Is The Answer, Here’s Why"
 
 related:
   - title: "The rise of facial recognition technology: where we are and what to expect"
@@ -47,6 +53,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "VlQMA44YR5Ei9SsyEE91Q5pjQTlGzjqUHTak/U6hUXxRH/3tN7/iXKfptiIrB2p3+s/k26uIQ+fhrT2vnL1My7EQlk/h/0RKvz1rFubq1GufE1/RhDpgQDFv8Fim/XLAC3/oU9CBr1Ri7Lc9xxQC96K5AIReSP2438j54Zbkzydqf5l54264J2lXbUTxftYbRtZHqGKKYoveWzzL6T/BXIBzHgZGeqhZ8YSIRg7Mtq17jRFjmBYxOI+Hf3KjzlXTE/noiNZW55jbgJPpWCglZnx/TGt2tpXAJ9052k+5BfNQaszdC0lKpCgFgv1kymLJ;NfOfloKs5O8i3rgcTam+6A=="
+secured: "23wNnOn5qitSBUnDE/lEnbSlcXL6LlK2NzVb48dCq09GskckH2R4aCd7Ocg8rbRDkn4HcXQE6vTqC3fIybsr6CsDqyPwFFm/ATRaT12w97pl2BwdIrM3UaFA+diJLf69nmowK+SSMA6NsSErF8EiVFsmBHtFI1PbCTTdcaM8LnEWDx9Ofc1rSWVcPp4VruELdTBXbZAr/7PalRV4gCLjDKAuXR6BrOYRN7eXAcb8MdtXF27zjmhmT2cNsaFTJh3hmJhQjpedISdGKfArGYSJenpbj7P7jGQWVfp7PKG92tO+afuXb7hvs59pxG/WE5/O;YcnK+F5Ctkoth0b816e+bA=="
 ---
 

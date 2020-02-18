@@ -33,7 +33,7 @@ related:
     provider:
       name: Techinasia
       domain: techinasia.com
-    quality: 47
+    quality: 49
   - title: "How This Bangalore-Based Startup Is Helping Kirana Stores Harness AI"
     excerpt: "For AI and Computer Vision projects, the company use TensorFlow and they also have a full-fledged CI/CD pipeline to automate deployments using Jenkins and Ansible. According to the founders, in the coming years, Jumbotail will expand the J24 stores’ network and help the entrepreneur to transform old Kirana store into modern convenience stores ..."
     publishedDateTime: 2020-02-07T05:34:00Z

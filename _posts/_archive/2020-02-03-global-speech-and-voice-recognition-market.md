@@ -18,33 +18,44 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Speech and voice recognition tech market to soar to ₹210 crore by end of 2020"
-    excerpt: "The market for speech and voice recognition is set to grow to 40.47 per cent to reach ₹210.63 crore by end of 2020, states a new study. The market was ₹149.95 crore as of December 2019. The emergence of voice technology has been brought on by the rapid ..."
-    publishedDateTime: 2020-02-05T15:46:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
+  - title: "Local speech recognition tech company partners with global call center company"
+    excerpt: "Voci Technologies, a Pittsburgh-based company that provides automated speech recognition technologies, announced Thursday that it had entered into a partnership with a global provider of call centers."
+    publishedDateTime: 2020-01-31T13:10:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html"
+    ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 41
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 55
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/ceo10a/article30744550.ece/ALTERNATES/LANDSCAPE_615/BL06ALEXA"
-        width: 615
-        height: 384
-  - title: "Voice technology market is expected to register a 2.8X growth by 2022: WATConsult report"
-    excerpt: "Below are some of the key findings from the report: · Speech and voice recognition technology market stands at Rs. 149.95 Crore as of December 2019 · It is expected to grow at 40.47% to reach Rs. 210.63 Crore by the end of 2020 · 76% of the users are familiar with the speech and voice recognition technology · On an average, users are ..."
-    publishedDateTime: 2020-02-05T03:40:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/voice-technology-market-is-expected-to-register-a-2-8x-growth-by-2022-watconsult-report/73939347"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/voice-technology-market-is-expected-to-register-a-2-8x-growth-by-2022-watconsult-report/73939347"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/voice-technology-market-is-expected-to-register-a-2-8x-growth-by-2022-watconsult-report/73939347"
+      - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
+        width: 600
+        height: 400
+  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
+    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
+    publishedDateTime: 2020-02-04T11:05:00Z
+    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 15
+      name: WYMT
+      domain: wymt.com
+    quality: 33
+    images:
+      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
+        width: 690
+        height: 388
+  - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
+    excerpt: "The AI-algorithm that powers SpeechX is based on proprietary evaluation parameters of Mercer | Mettl and grading mechanism of its technology partner CarnegieSpeech that in turn leverages state-of-the-art and patented speech recognition and pinpointing technology licensed by the Carnegie Mellon University. SpeechX assessments can be taken from ..."
+    publishedDateTime: 2020-02-06T02:31:00Z
+    webUrl: "https://indiaeducationdiary.in/mercer-mettl-partners-with-carnegie-speech-for-english-language-assessments/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 1
 
-secured: "k8uzu9r75OTJVisoDq4q/u4rqLex9jX+3ePuIUzTwNTbvjYonKbJKx6jW+GzzhQ+8A5VFvHzk2+hqIZHDGoiJAELWKkjjDBMIdHY8ny68WfDrblf8KZTK/lblWsXkfSbtgJPYIJrJE+CFCdH5fDt+30kFlGlbyose/ra51CWCCuFwXms36JxbhNC1/ezJYd4FFWbPMs94M8q2jX6upOXZEasTMeHuFzqeHncQt5xaifXUh022zR/Faf4SrkOAumh9wAV1ko2TOtxsBO/AZbZXM31TzZlGpxKkg6FSHldwsVhKI/XpbypbzsAdnSHkbVY;YI2zlis8SVSyr5j60DDCQg=="
+secured: "Ky9m0WAXiNEn+7hl//pwdoP3SjskLx7dT8G2jQxV0+09lezy5yveStk44SAJL/HSo+bK9YHXkRZrnQv/v77rthl9VkzOMyOtb9EiLHycU/5+rpre9rpOYpAVMjqiNc3aJD8NHnriypuU6AapCN0icLGY/LH29+ZIKdltnzgXBl4YRTwR0wXvBVBRmhy7+AGOEyGePQIA1P4y62Qi9fPSn0ebgm4ewZ6Ne2eOGyhrgpzEeg8to2lkf2u53QRLjOEB0YNx0LHFE/pd5iNEx0bc9ilZ5zuvQjIGszrZXIcdiUSSjfgfsXMl2nzUzShKox7C;RjUJ7nYqwfotQV/n6SDR+A=="
 ---
 

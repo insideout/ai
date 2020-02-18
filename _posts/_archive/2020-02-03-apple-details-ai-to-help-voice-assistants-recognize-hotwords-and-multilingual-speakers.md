@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Apple details AI to help voice assistants recognize hotwords and multilingual speakers"
-excerpt: "Speech recognition is an acute area of interest for Apple, whose cross-platform Siri virtual assistant is used by over 500 million customers worldwide. This past week, the tech giant published a series of preprint research papers investigating techniques to improve voice trigger detection and speaker verification, as well as language ..."
+excerpt: "Speech recognition is an acute area of interest for Apple, whose cross-platform Siri virtual assistant is used by over 500 million customers worldwide. This past week, the tech giant published a ..."
 publishedDateTime: 2020-02-03T16:40:00Z
 webUrl: "https://venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/"
 ampWebUrl: "https://venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 600
     title: "Apple details AI to help voice assistants recognize hotwords and multilingual speakers"
 
-related:
-  - title: "Automatic Speech Transcription And Speaker Recognition Simultaneously Using Apple AI"
-    excerpt: "Last year, Apple witnessed several controversies regarding its speech recognition technology. To provide quality control in the company’s voice assistant Siri, Apple asked its contractors to regularly hear the confidential voice recordings in the name of the “Siri Grading Program”. However, to this matter, the company later apologised and ..."
-    publishedDateTime: 2020-02-08T08:43:00Z
-    webUrl: "https://analyticsindiamag.com/automatic-speech-transcription-and-speaker-recognition-simultaneously-using-apple-ai/"
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 32
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/aim_Apple.jpg"
-        width: 1600
-        height: 800
-
-secured: "ARdUVAQQGDAd0Ex2xe+l32LDsAmhD4f4qJ5jUrpTBsUAiQ30tXXTzuAhDZUWKpysHIqZq3qtmlwttOsYCkp500j2Ft51yShu+l3hYWCcpKeI59ZeG87jLwzMhI7oDt1Tj2LVNQ4eS3fiNWxnKMsXJPrUADywUA5zY2nTt8OPT9D5vydaqnr9cSgUFhewb4ja9S9Y3PIUG4/ZMOVKp/UARugyuhmXIyHNQWMTp6cYQwJhdaqPzAVvz3liP6aL8TG/cODCrlvUJMP3bT/Ew8B4l+jQQ296wh2/mKzqtYhTt9FcpTmd7rSoUfR22YqvQneTIg493CMmAahUMK/5w4/FlzxQEMasTUwd/4GQ0s3jJXBS2bwHVnsjK7dwEoRcgxz/+KcV1sdC/GachNpbw2p5Gohp5Gt9WRHDOpWHGIabmmvj6/Er/KzSfQ89me6TYHJhGZ4RzOETwVc0JuLwtqmb2cJMwVMwl1v7n6PwwdWfXW4=;5wK8Wk+60jPbj6NAiz8hVQ=="
+secured: "D/gqlO6exNTl7pMG43xnLMvRm1eHH67YBCbWykurKrCkpUYHWk6WWubX9M5DNHrNdkr+b43Xe0kaFkeN8YaHUHyyLfkiR3/FoW5/kxQj8+xc1j1EQtgbelDLw7cGVFeI4tsL5g+0J6XjxylqmuTIZBd+RzVc+fe1T48MHWN4CpVKLuusu78cVm49ONKkjNQ4xDpoRVLv/GsbCGKxLJnUbnUllTzs3Ec5VlZ74sbO9xDw90w34GXCEGYpic4fdGycDS5Ji2Z8G5zRvoZ1bnJrLZ6vF5r/X6CDKmViMYgoUD7ayib3Vtn7Kw0JfkYsT8Ku;AV2fcTMeMxrJU4jKL3W08w=="
 ---
 

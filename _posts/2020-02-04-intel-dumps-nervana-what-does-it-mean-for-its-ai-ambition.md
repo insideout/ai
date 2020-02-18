@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T22:46:00Z
 webUrl: "https://analyticsindiamag.com/intel-dumps-nervana-what-it-means-for-its-ai-ambition/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,47 +24,19 @@ images:
     title: "Intel Dumps Nervana: What Does It Mean For Its AI Ambition?"
 
 related:
-  - title: "Intel drops AI products from Nervana, shifts focus to Habana"
-    excerpt: "Why it matters: The move comes amid continued competition from Nvidia and others and follows Intel's purchase in December of Habana Labs, another startup in the AI chip space. An Intel representative told Axios the company wants to focus on a single ..."
-    publishedDateTime: 2020-02-03T15:29:00Z
-    webUrl: "https://www.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
-    ampWebUrl: "https://amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
-    cdnAmpWebUrl: "https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
+  - title: "Campus Queries: What does artificial intelligence do and how does it work?"
+    excerpt: "A: Artificial intelligence is emulating a task on a computer that’s easy for a human ... One component of intelligence involves interpreting what we see and talking with other people, Pearl said. Tesla’s self-driving cars are a prominent example of AI, as the program needs to factor in everything a human does while driving to avoid accidents."
+    publishedDateTime: 2020-02-05T08:29:00Z
+    webUrl: "https://dailybruin.com/2020/02/05/campus-queries-what-does-artificial-intelligence-do-and-how-does-it-work/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
+      name: Daily Bruin
+      domain: dailybruin.com
+    quality: 37
     images:
-      - url: "https://images.axios.com/9bRgEba5i8Rs-Tcjytj9Iudko0s=/0x0:2954x1662/1920x1080/2020/02/03/1580742164538.jpg"
-        width: 1920
-        height: 1080
-  - title: "Intel Stopping Nervana Development to Focus on Habana AI Chips"
-    excerpt: "Just two months after acquiring Israeli AI chip start-up Habana Labs for $2 billion, Intel is stopping development of its existing Nervana neural network processor line. Instead, Intel will focus on technology from Habana whose inference (Goya) chip and training chip (Gaudi) are in the market and have gained traction. Intel had purchased ..."
-    publishedDateTime: 2020-02-03T23:37:00Z
-    webUrl: "https://www.hpcwire.com/2020/02/03/intel-stopping-nervana-development-to-focus-on-habana-ai-chips/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Habana-Goya_839x.jpg"
-        width: 839
-        height: 580
-  - title: "Intel Nervana Neural Network AI Processor Cancelled In Favor Of Habana Labs Solutions?"
-    excerpt: "A mere two months after Intel acquired Habana Labs for $2 Billion, the former has axed its own Nervana Neural Network Processor project intended for the Artificial Intelligence training line. Incidentally, it is not surprising that Intel scrapped the same. This is because it was rather redundant and counterproductive to keep investing in two ..."
-    publishedDateTime: 2020-02-04T08:33:00Z
-    webUrl: "https://appuals.com/intel-nervana-neural-network-ai-processor-cancelled-in-favor-of-habana-labs-solutions/"
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 48
-    images:
-      - url: "https://cdn.appuals.com/wp-content/uploads/2018/09/Intel-Coffee-Lake-1-580x334.jpg"
-        width: 580
-        height: 334
+      - url: "https://dailybruin.com/images/2020/02/untitled_artwork-1024x768.jpg"
+        width: 1024
+        height: 768
 
 secured: "72h25jCozMo7LIrwnol0JsXfB30r2pypnRsQjiC8Ijug7sfyN0vU4OgpOwphd3H8kS9VsoZNleP9Vo/tSnA1LPbrC8qh7RNpUWE1gF5OYauJwy5iAq1QDinjhcY9R9vwjSOGcpJ0pggLzLJ/USoqpbzR6F5Rn2p2PrDI+J0E9+ohy3ci6ai7thIuwRB1qgJj8lOeGB3TO/lWCIxOqjAkKUg58jKP3vUsuiHILsQ5KBzA8Tn3/ZDBRLChemrDoHduOcV6QE6F35D6YCiID0piTjaSxVywyhZGWx38dRaPy8x6jFa8aG+ex53fqYjA4gls;qlrUhFn6i8gyVv2zdZ/rZQ=="
 ---

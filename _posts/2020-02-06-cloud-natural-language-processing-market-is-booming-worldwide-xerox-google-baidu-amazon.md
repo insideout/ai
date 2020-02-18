@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T20:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
-    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
-    publishedDateTime: 2020-02-04T19:16:00Z
-    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "iu9lOVBGBCeqozKaYENnBbhedjpcK464m4IVfK641fRxL2jYMIuowNCzPWZV2mulFLP6Pj6UogQ8T1p0cX/7Vu7ivvalJQcfTknrOV8noqpOn50EQxbOdZZ928xHomR9jtDx13wMKwW1jQFRFocz+VI8RCnuDrsvkdCtOkX+aGjRUAtamgO3MBoh5u+xeb2Mlqjw5xHIutlYWtK8HOz/wicGMD27SBd/CucVnqlbiVCYH/ig9W6rHadJyPYmy08Hkqjsq9PKtBdSmvmAqjhKeXT+mGxEXr5s0Y4cfSSDkq9uknN5Wtu3BP1GtwKBb+V2;aCmkwQEoG16mzKTVnqWaRg=="
 ---

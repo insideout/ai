@@ -5,7 +5,7 @@ excerpt: "Singapore-headquartered retail tech unicorn Trax announced it has comp
 publishedDateTime: 2020-02-18T05:58:00Z
 webUrl: "https://www.techinasia.com/trax-acquires-qopius"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "Buffalo-based AI startup is sold"

@@ -106,6 +106,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "XlIYvBo1rdJBFXkJ1W8lLGsu9dXtUSd3/hmWjtoTsCkrGarWMw94aLWStoXQsvOAIyNMC2fRe6pb0D8rPUvh+B2QFWREU94Q0u7LCRnj8s7NMwm+9Cb5vJZfYnBxGEZ5gqAxNU5HGLptk6/uyPEfTCQb0GrNOs5LWFCgiIxFaAUnB7j5TNXYrNjUtWzbmc4Ze5B08oWcki5s/hnoM2F0Z0QLQFj1wBeC1MYuLINY/dwCDy5l6+Rg1eEtN0IzGw4XuUFLO38IepwOoglZP3Oie5wodQJBE2Xuira6bTL2zsAelSKYR8Vd/NX9ZXJ4Nbk9;Z72JemKiNAW23YHQFlqmHA=="
+secured: "vqFRGxlgZgXAvsp+CXCUo9FlPATgaChJaZeRvV3dIqEL45v4fq4zZ0TE+obsiRDomBW9/ixP/iWimyoHOqO6ttnxFc9CdZPXQWlG6KPvVgmc/FQGqNgf+qhgEVf5kINVpmzgKqZVzKiF2j1hRmrFFAipJOR0mB6ody9MaOV1a+rYuFInr58i5/BhJj8yt9bYPtD04LzcevA3DTmhqyjwptHri1Si21vA4Gjry/tK6d4rJRftNGM1QbNe77l+iMkHaJ8VAALXFy+1DLFhWLc2AUui+y7c9DndcMKWLPwYvQg26zyvpjszvdnGFWeiWQTh;WnEyj3qUkIhvG3oGQPoVbA=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Momo tells us that the DeepMind - Juno 106 Editor is a VST, AU and Sta
 publishedDateTime: 2020-01-30T01:04:00Z
 webUrl: "https://sonicstate.com/news/2020/01/30/easy-juno-106-sounds-from-your-deepmind/"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Google AI
+
+images:
+  - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32473_386.jpg"
+    width: 720
+    height: 405
+    title: "Easy Juno 106 Sounds From Your DeepMind"
 
 related:
   - title: "Patches For Your DeepMind 12"
@@ -32,6 +38,6 @@ related:
         width: 720
         height: 405
 
-secured: "aU8R3CLxOmmNytNOKsJW34dThiP+9/3AXExO4/VOcwG3GiWATZcS2wvZ2GOrG4LPm+3TqYkPcjxZuWD5HSzz/d799MWPkS5d7b4lDbSy6bzecYD/E1p/BKDRcAq8BtyXVAH0bBJBydDfSzsqHh4bbi9R5U4XQI+WAjnNCxERMTdUEAPOW7/ARFu6eMLGCfbMXpynD8TV7U7sYLIMSUE3ixOA4eOhgs+WxtBFgOttS4PjSXqL9UbMeaHvqdXualdJikMsnCUXixoA7TJkGJ+cH92mtpj+l05K+PGqHGB3ezeP70p5FuPjDMib1Ms+fVcj;0TUnz7LSmW3+YheU9WPsSQ=="
+secured: "We+TxcUpEkwO+X8w7njzxGK8jkmCl9SbMnFdpJSSmraE9DDSSxvggTqD8v8Y3WO54FR5j0k+445l/FxExqjmtPfzkichlOs/h3yb7AnAhGDNzInjAKJPwLJYXXHB8OJZPu3NjMFEGoJATZX+iBIgiIk4dmHqZ8V3yoBacpB8IRx3+87/Xi9PbPal5zZEQQ+qTpBHUeKSg/bJYE/NxtGZ5gVstS+2E5H8ldPeypq+9ah4SSNfAYthXC0oQnKWvX+qQOgCmBQ0ma3elRERoD3hQb0pc9l1ax78iHK91nW2ifZ0r4NiUqKP29yWaP8OHlHN;PjjzMM/bnM64x3diDOE5ng=="
 ---
 

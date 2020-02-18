@@ -27,54 +27,32 @@ images:
     title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
 
 related:
-  - title: "Enterprise AI Market Statistics and Growth Prediction 2020 to 2025 | IBM Corporation, Oracle, HP"
-    excerpt: "Artificial Intelligence in recent years has moved on to become a key component for enterprise applications and has posed as an important factor for successful business strategies. With AI, enterprises are now able to achieve far more in quite less time."
-    publishedDateTime: 2020-02-06T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
+  - title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
+    excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-date analysis of the Market with regards to the innovations, current competitive landscape and latest trends and drivers, to provide new predictions for the forecast period."
+    publishedDateTime: 2020-02-03T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Future Innovation Strategies by 2029 | Apple Incorporation, Dolbey Systems, Google"
-    excerpt: "Global News of Natural Language Processing Market Study 2020-2029, by Segment (Rule-Based, Statistical, Hybrid), Playing a Pivotal Role in Expanding by (Web Search, Language Translation, Customer Service),"
-    publishedDateTime: 2020-02-12T10:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-future-innovation-strategies-by-2029-apple-incorporation-dolbey-systems-google-2020-02-12"
+  - title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
+    excerpt: "New Jersey, United States, - The report on the Cognitive Services Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
+    publishedDateTime: 2020-01-27T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Life Sciences Market to Flourish With An Impressive CAGR BY 2020-2025 : IBM Corporation, NuMedii Inc"
-    excerpt: "Artificial Intelligence in Life Sciences Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques."
-    publishedDateTime: 2020-02-04T06:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-to-flourish-with-an-impressive-cagr-by-2020-2025-ibm-corporation-numedii-inc-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application and Geography 2018 – 2027"
-    excerpt: "The report analyzes and forecasts the Machine Learning as a Service (MLaaS) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
-    publishedDateTime: 2020-02-06T10:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-and-geography-2018-2027-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
 
 secured: "0neCcDm3m6Of3SHcyXW3MGdruyFx0yDb0XLlSOWX46wtRFGoRspV5wUanWmluziIKdNLqrAnC6+FyFvh73frUkQkj8hHQ5IyQV4q+ve1ZRthuw8s5SQSqGTcRvd8LcWysOaS743lGB0RpgFkJMhMkwVFJY3tRppt6TfnO/hXRbbqBQfjjO3bnKfM8QF/KjmRmLDo3k9S4T7DXoRxUyWbnt+S1Scdomz++drTmjoqRuJgmh41LVNVKPQ4YpyLtW/EmK5Y+jXXYrJt4d5Z2z5nGULnqwaGRvWUEOuIs2xxNKWdaFcAN+MG+H78vh44/u7J;dZxg8JNlPmDRzHjD8nMkKw=="
 ---

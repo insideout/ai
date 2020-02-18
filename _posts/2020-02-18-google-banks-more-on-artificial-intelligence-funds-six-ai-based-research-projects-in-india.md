@@ -8,7 +8,7 @@ ampWebUrl: "https://m.hindustantimes.com/tech/google-banks-more-on-artificial-in
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/google-banks-more-on-artificial-intelligence-funds-six-ai-based-research-projects-in-india/story-86Bx0b3NhBYF2JZ9dATO9K_amp.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,23 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+related:
+  - title: "Google funds six AI-based research projects in India"
+    excerpt: "Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques, the company said in a statement. \"We are increasingly seeing people apply AI to address big challenges. Therefore ..."
+    publishedDateTime: 2020-02-18T09:26:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/google-funds-six-ai-based-research-projects-in-india-11582016278056.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-funds-six-ai-based-research-projects-in-india/amp-11582016278056.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-funds-six-ai-based-research-projects-in-india/amp-11582016278056.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/02/18/600x338/google_1582017657738.jpg"
+        width: 600
+        height: 338
 
 secured: "IIouRUTxyH8S/mEGXcMRGNz3L318J5tLMCpW4MJHatpDtlqXrrrwikVdvHSZTiL41T0mU7ObYa7ldCfzqcXJJE3J0CJEUCXg2T6I9h9jqH48BNI6+yRwlBvxCC+Q6yfCK/MKHUYrUOlRIVKm0p/Os8Y5V3sQdIYMEvuzneNPlT6XO28N+UzIUC4BLv0qERMOLnbM5kGyqnRxG2MXNdUbvx3364IsD5l4WFybwKC+FrMs/UZXhBnWRaBmRWeJRAES0hnm8y4kPb0ytf5tq4uP1taKEsJ1yVFregWVkJt93WqVFCWN5/7elJgYKnFx6BJqUp8QPJBaLXMLW/xCxraMu442LFHyorsWSaR2987xakwmBPr5cgsTpNRUtFHMUDSKl8RuyZ92BAj+B0SQBHUVw8kyfejXbxmsw05VCtf3mAIPpI2I5fLm0LJEtbhJ9h/fzA/Yp/+6GyAH56idwcQ/AwLz3JxJtogvu6j1/bTWGRY=;uWZiq5EHKyhgjV2ZE0+gGQ=="
 ---

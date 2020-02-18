@@ -30,6 +30,6 @@ related:
       domain: mashable.com
     quality: 57
 
-secured: "DqacloyxVslVhCZYeDrXvBWUsyIT/HI/+oXZMnTrZQVSh7Pxtk3e6CcDsP5BrXCOeKvILSG/1kJxZ2lX+SWLtipe0h7MlKMZboWN85egZZNQOze/KsPWeQKL+zZyj+rdO183uVml4xMzflqUZBPPZyLa++VwrF1LGzDxsQYMa61K2zkq+7RPUlU1XcA8r8truX665F2hzzPanVVrYrRPMBYyt3xUiEDz4LOAxMLQ9iHZJcO8zo1xYzLYmuHV34Df1TPQpubrDIVGG27aGZbWVOQduBTm6GOkWS+gpxBgGnCBFAkfDq4DqQwuwWKRNGBX;4ALjvn2bPErnEscCb2q3qw=="
+secured: "wZqZAb4fNJ1uw2rjVrR3GKE8ZGk/fi3mUDdg1QmNHwWnleK7un9jec3xyctxuKDkdk3jVqtP0+jPpAf1EzjRscpGNQHZHDw34ry3hWxwWPoIOqO7f0WkxZKR3QPwAe+OJMX3SLLduuwsd8Hti5irRazUdFcwu/WedaMZgtu3I3+qt4YjWSMtrzYXy38jnf8LDhWpkpdSeETEpY9Ka3IrQlH1FALPLBAL/P34DaMsoi+lbHED7E/Xz3SzzR4srCh3mENQoTs8m8x9bxt6b+pbu0GSqkRzJkKjF+B8FxKUGVQtF+hz/3kDeQQkv6EyeYme;Hv+FV7obqjbWHD2BdlJfcw=="
 ---
 

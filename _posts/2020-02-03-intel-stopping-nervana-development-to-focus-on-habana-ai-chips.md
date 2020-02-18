@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-03T23:37:00Z
 webUrl: "https://www.hpcwire.com/2020/02/03/intel-stopping-nervana-development-to-focus-on-habana-ai-chips/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: HPCwire
@@ -24,21 +24,6 @@ images:
     title: "Intel Stopping Nervana Development to Focus on Habana AI Chips"
 
 related:
-  - title: "Intel drops AI products from Nervana, shifts focus to Habana"
-    excerpt: "Why it matters: The move comes amid continued competition from Nvidia and others and follows Intel's purchase in December of Habana Labs, another startup in the AI chip space. An Intel representative told Axios the company wants to focus on a single ..."
-    publishedDateTime: 2020-02-03T15:29:00Z
-    webUrl: "https://www.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
-    ampWebUrl: "https://amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
-    cdnAmpWebUrl: "https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: "https://images.axios.com/9bRgEba5i8Rs-Tcjytj9Iudko0s=/0x0:2954x1662/1920x1080/2020/02/03/1580742164538.jpg"
-        width: 1920
-        height: 1080
   - title: "Intel Nervana Neural Network AI Processor Cancelled In Favor Of Habana Labs Solutions?"
     excerpt: "A mere two months after Intel acquired Habana Labs for $2 Billion, the former has axed its own Nervana Neural Network Processor project intended for the Artificial Intelligence training line. Incidentally, it is not surprising that Intel scrapped the same. This is because it was rather redundant and counterproductive to keep investing in two ..."
     publishedDateTime: 2020-02-04T08:33:00Z
@@ -52,19 +37,32 @@ related:
       - url: "https://cdn.appuals.com/wp-content/uploads/2018/09/Intel-Coffee-Lake-1-580x334.jpg"
         width: 580
         height: 334
-  - title: "Intel Dumps Nervana: What Does It Mean For Its AI Ambition?"
-    excerpt: "According to experts, Intel’s Nervana chips were not at par with Habana in terms of performance and redialing their efforts to Habana chips helps the company to take on other prominent players in the AI hardware market such as Nvidia, Samsung and AMD. Habana Labs has shown its Gaudi AI processor, which the company claimed can outperform a GPU ..."
-    publishedDateTime: 2020-02-04T22:46:00Z
-    webUrl: "https://analyticsindiamag.com/intel-dumps-nervana-what-it-means-for-its-ai-ambition/"
+  - title: "Intel Whittles Down AI Portfolio, Folds Nervana in Favor of Habana"
+    excerpt: "that chip will be delivered and supported by Intel for their already committed customers. In place of their Nervana efforts, Intel will be expanding their efforts on a more recent acquisition: Habana Labs. Picked up by Intel just two months ago, Habana is an independent business unit that has already been working on their own AI processors ..."
+    publishedDateTime: 2020-02-04T02:00:00Z
+    webUrl: "https://www.anandtech.com/show/15471/intel-whittles-down-ai-portfolio-folds-nervana-in-favor-of-habana"
     type: article
     provider:
-      name: India
-      domain: analyticsindiamag.com
+      name: AnandTech
+      domain: anandtech.com
     quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/intel-nervana.jpg"
-        width: 800
-        height: 532
+      - url: "https://images.anandtech.com/doci/15471/Nervana_Car_678x452.jpg"
+        width: 678
+        height: 448
+  - title: "Intel confirms changes to AI roadmap with Habana Labs at the centre"
+    excerpt: "Last week, we got news that Intel was in the midst of shaking up its AI strategy, with plans to drop a previously announced AI training chip from Nervana and re-focus on hardware from Habana Labs. Since then, Intel has been in touch, sharing a statement confirming the new changes. “After acquiring Habana Labs in December and with input from ..."
+    publishedDateTime: 2020-02-05T17:55:00Z
+    webUrl: "https://www.kitguru.net/components/cpu/matthew-wilson/intel-confirms-changes-to-ai-roadmap-with-habana-labs-at-the-centre/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/02/Habana-732x330.jpg"
+        width: 732
+        height: 330
 
 secured: "dzShYu10EctAIlOYAYoYmSCjmvK7OKjQPOkmiu41gcEMzTEKL+iGpeZAT2q1a+Dkdeug0PFJxIaH22n3Apo4k71cM7Dx9AoEhaAIGiDKTMMOO9QK7VcTGWnF1QotlSt5K874V8PI6xlSXQG/jEAJEMMfcKSUstC0cc+d7yZnSOeo9Q3qvyS1Tel123/+V3NvEZ91KrpSd9K9cC2sGsm/+ul+W5tzIqqyf6d3rTjPIQbkDEeM2N6RIbmJ7pjySC4HkFzf/GNAnVFmNOW50Rs8DXQ2HEX+CaOb82cNPBJtsrPNh1mXcuhIXhEjjm4Htiu1d6UXO5i5CQjfxsy1O01wJPif/ARcfHtkDsXST9A47nem6amI1ADT22iDvQkJzA74CnyjbXzIwFcdd5d11GrPO/cap5/4fMhArv0gyd5A+BXz0n8Bvm6QvG5D3Ef6CeN8aBJf8u4rOV3gh1XEjb4TRwKSK9GA2QGIGc2qzK+Q1Ak=;unvGaXCPbPzO6cnb4MtDoA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T11:32:00Z
 webUrl: "https://www.khl.com/construction-europe/spanish-robotics-start-up-raises-2-million/142285.article"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -18,34 +18,28 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Construction startup Scaled Robotics raises a €2M seed round"
-    excerpt: "This morning, the small Barcelona-based construction startup announced that it has raised a €2 million seed investment ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.”"
-    publishedDateTime: 2020-02-03T15:16:00Z
-    webUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/"
-    ampWebUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
+  - title: "Mexican banking startup Stori raises $10 million"
+    excerpt: "The latest capital raise comes as the mobile-only startup issues its first credit card. This new round of financing will be used by the bank to strengthen its big data and AI platform, grow its talent base, and serve 100,000 customers in Mexico."
+    publishedDateTime: 2020-02-05T17:21:00Z
+    webUrl: "https://www.finextra.com/newsarticle/35235/mexican-banking-startup-stori-raises-10-million?member=92212"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
+      name: Finextra
+      domain: finextra.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-10.09.42-AM.png?w=1024"
-        width: 1024
-        height: 655
-  - title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
-    excerpt: "/PRNewswire/ -- MassRobotics, the independent, nonprofit serving as an innovation hub for robotics and smart connected devices, officially opened its"
-    publishedDateTime: 2020-02-04T15:28:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/massrobotics-expands-innovation-hub-serves-robotics-ai-and-connected-devices-startups-stem-programs-and-global-robotics-community-300998727.html"
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/stori.jpg"
+        width: 480
+        height: 270
+  - title: "Artificial intelligence company Ambyint raises $19.9 million CAD Series B"
+    excerpt: "“It is also a proof point for our approach of combining advanced physics and artificial intelligence, deployed on a scalable software infrastructure, to deliver 10 to 20 percent margin gains in a market where meaningful improvements have been hard to achieve.” Ambyint’s solutions are aimed at improving wells by automating the detection of ..."
+    publishedDateTime: 2020-02-05T11:49:00Z
+    webUrl: "https://betakit.com/artificial-intelligence-company-ambyint-raises-19-9-million-cad-series-b/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      name: BetaKit
+      domain: betakit.com
+    quality: 31
 
 secured: "BstL9r5PcDLinWCM/AxUgRek5OzLKD1AuQUHzQGmZgmdPgaI5Jj/e30wwv9J4ZxTJU4SrrmCuUGk7jzhk/aAYNCGntzTFrozYab3QRW5ObneEQwPcm2aWmLawTiYfOVr0vVOf+BsYcr3uSFlGlRQY8hZNx4XuwAXW4PbRXchmtvNZ/E7pKbdE0ueTXXnlMDw8Z5Ts56ClUeHPJYnkfAf5EiAnJCE3QHClJDntiY2NenPHXto8CTTQ3GBkezdgrxg4fhrr0Bt+Lm7Qo1LuCj0ZZFr5CaNBLKTfw4UskWMVnwq8gFLd0/kvKw1nCBuvff9OrbXiL+Xnmy7cQu6HQBBvrxHHc1aALI3P2Ay4Jt8S+KL7+Be9vPeohimGLXz7/WREXbUn8A0zqkQp2htD67D5iOjMZY/BpZoMq5w1Bqi8ezuHi5FEHtI6jHHA2bEx6kiyJMyYnaWl0LUB8a+HI3ArOlLGi6tBm+/S0ynnEfp0TU=;f6v33CgL/lIkXcMHdKjYRQ=="
 ---

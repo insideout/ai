@@ -38,6 +38,21 @@ related:
       - url: "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "China’s facial-recognition giant says it can crack masked faces during the coronavirus"
+    excerpt: "China’s SenseTime, the world’s most valuable AI startup, said earlier this month (link in Chinese) that it was rolling out a facial-recognition products that incorporates thermal imaging cameras to help spot people with elevated temperatures at building entrances and airport checkpoints, and send pop-up alerts to users of the software."
+    publishedDateTime: 2020-02-18T09:02:00Z
+    webUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/"
+    ampWebUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 66
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?w=1400&strip=all&quality=75"
+        width: 875
+        height: 492
   - title: "How smart kiosks are using facial recognition to bring a dose of humanity and hospitality to restaurant tech"
     excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience."
     publishedDateTime: 2020-02-06T17:27:00Z

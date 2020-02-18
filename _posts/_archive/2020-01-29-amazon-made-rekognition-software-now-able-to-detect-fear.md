@@ -7,9 +7,9 @@ webUrl: "https://mashable.com/video/amazon-rekognition-adds-fear/"
 ampWebUrl: "https://mashable.com/video/amazon-rekognition-adds-fear.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: Mashable
@@ -19,6 +19,23 @@ topics:
   - AI
   - AWS AI
 
-secured: "LGYfZ0oBhCjGVW39pVrjCTF1xMImdmxYLJ4SOO7x1XUyMbbxPB5Ub9BVNBYcjxb9+aRLrGY+UQhRdlktjqcK+jg1r/LIji0MzpV2dbpjIvqnfgTFcqfmPg+LthkFvfdiNVatxzTNzZ4fDo9wMMhJdV+xvzTG10+5foxta9TbHJE6KY3GKi8ee5XW9++MxJyb7eWIQ1nlAv60zKZyWzKBc/rb7BEH4l/JG5jYuJikEW98Vx2zJWq5XqB2yr2GlZ5Mz3TZsgkqFN+0kGXCg9K3LnRJfHO4RA8UO/Oxiu9GOH0Oia/ZM3jwWt1cH4ZCD2Jz;2ZKlJ3qL67y0Nth/8WI7nA=="
+images:
+  - url: "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU="
+    width: 1200
+    height: 630
+    title: "Amazon-made Rekognition software now able to detect fear"
+
+related:
+  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
+    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
+    publishedDateTime: 2020-02-04T19:16:00Z
+    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
+secured: "YzW7uB3gPYezZJbBMEYBfq8OXHx/0VSPZzErPA6GCuw20mN8tZO8ACH5tx62QV+uS5zLh5AuzOzLc0jkaAq1fGrMeKpeJWImgh71klClZvVPpIdbhyB8EI0c0O6nkMtTf/k4987qsBtQBlLa+RW+cPE5vDQ1dYwfqfavZBoRSHpHQI7KL7LL4pRn3qWr8O3BHzQ8TQvYfCwMjNlB7LIIKhc7iixm5axkm8TQKGR6c9Hfz1zyFOoq2L2MDOAE8HcAQnpCUko2FK6ComwhutpjXjclwFvOPyoxFrXkUs/Wk9lPoCOxe7NKXQjQ+ZCR0COh;5fQvyd3iJGT657dvyeBhCw=="
 ---
 

@@ -24,30 +24,45 @@ images:
     title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
 
 related:
-  - title: "Construction startup Scaled Robotics raises a €2M seed round"
-    excerpt: "This morning, the small Barcelona-based construction startup announced that it has raised a €2 million seed investment ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.”"
-    publishedDateTime: 2020-02-03T15:16:00Z
-    webUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/"
-    ampWebUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
+  - title: "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES"
+    excerpt: "One way to increase robotic abilities in a safe and efficient manner is to use an innovative new technology: computer vision. Computer vision technology enables a robot to use a camera or scanner to transform multidimensional inputs into data it can process, “perceiving” its surroundings and mimicking sight. Computer vision coupled with ..."
+    publishedDateTime: 2020-02-11T12:34:00Z
+    webUrl: "https://www.roboticstomorrow.com/article/2020/02/computer-vision-and-robotics-expand-industrial-capabilities/14749"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 71
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-10.09.42-AM.png?w=1024"
-        width: 1024
-        height: 655
-  - title: "Spanish robotics start-up raises €2 million"
-    excerpt: "A robotics start-up company based in Barcelona, Spain ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.” According to Fossgård, the products from Scaled Robotics are garnering a particularly strong interest in Europe, “Scaled Robotics has developed a product ..."
-    publishedDateTime: 2020-02-06T11:32:00Z
-    webUrl: "https://www.khl.com/construction-europe/spanish-robotics-start-up-raises-2-million/142285.article"
+      - url: "https://www.roboticstomorrow.com/images/articles/14749.jpg"
+        width: 680
+        height: 295
+  - title: "Deploying robots and drones in process plants and facilities"
+    excerpt: "Artificial intelligence made analysis of large data sets possible, and machine learning can be used to make decisions and take corrective actions in real time. The convergence of all these and other technologies has created space for innovation, with robotics one of the main beneficiaries. In general, mobile robots and drones must perform two ..."
+    publishedDateTime: 2020-02-05T07:05:00Z
+    webUrl: "https://www.controleng.com/articles/deploying-robots-and-drones-in-process-plants-and-facilities/"
     type: article
     provider:
-      name: KHL
-      domain: khl.com
-    quality: 49
+      name: Control Engineering
+      domain: controleng.com
+    quality: 39
+    images:
+      - url: "https://cfemedia1.wpengine.com/wp-content/uploads/2020/02/CTL2002_MAG2_F3_Yokogawa-Fig2_RemoteRobotics-Slider.jpg"
+        width: 645
+        height: 350
+  - title: "Kitchener-based self-driving industrial robot maker Otto Motors expands into Japan"
+    excerpt: "Based in Kitchener, Otto Motors produces self-driving technology and vehicles that move materials within manufacturing and warehousing facilities. Altech is a trading company that imports advanced machinery and equipment from Europe and the United States (US) to support Japanese industrial companies. “Our innovative self-driving vehicles have ..."
+    publishedDateTime: 2020-02-14T11:02:00Z
+    webUrl: "https://betakit.com/kitchener-based-self-driving-industrial-robot-maker-otto-motors-expands-into-japan/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 18
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/otto-motors-via-twitter-1024x670.jpeg"
+        width: 1024
+        height: 670
 
 secured: "k/0rF//5BtjUv8tZ/UBKRZhGtbgP5Peim12670e0okctrNI8VmIKmPtIf6i60SDF9M76mgzF+3o8kobNoQLCc2G2daVr88MSGJ+N9yWHFd2OYAOzSjzQeJgqOq5Hmk263VPXza/XQ354rnLva3GZOIYIorbYu34h2cLnmEAduVFMBxYPDuLjNf97UGb128J42KP+wu2ICz2sUZ7XNa4wsW4uOaEsd/NglKO5AjOSiwsv5bYGbZb+kbyCiX5fg65YbW0tOB5ktSlNQMa5l4eUi2WHQjtySzC0Y6JbTDDTFnpfCMx8PcToE3vJNcl83WPi;bFW6rtgIpMYnHDnNX1IRNA=="
 ---

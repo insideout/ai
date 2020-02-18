@@ -5,9 +5,9 @@ excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-d
 publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 82
+published: true
 
 provider:
   name: MarketWatch
@@ -21,6 +21,12 @@ topics:
   - AI
   - Microsoft AI
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
+
 related:
   - title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
     excerpt: "New Jersey, United States, - The report on the Cognitive Services Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
@@ -30,8 +36,25 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
+    excerpt: "ReportsWeb Adds \"Global AI IN EDUCATION Market\" offers Current and futuristic Market scenario, product segmentation, and competitive positioning for AI IN EDUCATION Market globally for its business expansion strategies."
+    publishedDateTime: 2020-02-04T05:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-growth-set-to-surge-significantly-during-2020-2025-google-osmo-microsoft-ibm-cognizant-pearson-querium-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "fDmWAUzqNfuf2HR+Qr0nbCrSStl3mueVzc4UofjNaCXK2x9TNqH6vrMim1su53veiMYt+lElMrPMy+cdGy8zGQRR1OQDqzRrB0lm7LIGPvopFOuKGjtq94dN7Grsrncra3VVfj7oZd+h8ZqQhDBzxW15/uWvJni2tH+T524BvX8QaZasrKsjf7B0y2TMn37m4XjtED81L2YDoQHkD2HflL8RfEX1c8ZAjFPBa66u6qLs3oE8RYUbuWuSWvjzivRFmQWi4XMrKQvpj312Bf04o8xjNhXn1oCF7evLYDjUoGkrClF8gWknE4UVOqONOQ5n;VF8rAOXjoVe6RUMaaga0KQ=="
+secured: "Fg9frFWKdo09eOpJ6GhEu3lDzQarG523ySJGSezlQGQ6BV4y4601yrH2UTx04W4uqoLJ3gaZA+NUbd6m4l/ok+v8b1D0GoNPRBJ6z5xo0R7404oHTNjeN4TPXgrAse+B/BZHzqSXlARshEcg3UBB+7Bm6PnBiApiwGL3pIkp72r3MTX9LMlvrAOXCoXUHufBVElXUd/k1tEPJjvaFj4ag4fW0+ZoFFLjGE+nA7uWPxvpYsiGHY3Q8pCJ2pUw1hE/8Vw48RMb6dzWd04dLjjKk3dArso6hyF258yc7t8mqHWeSwLrSLL3iVJpH6v/gh4b;+PSlNJ6bAIT8GvInpc8RpQ=="
 ---
 

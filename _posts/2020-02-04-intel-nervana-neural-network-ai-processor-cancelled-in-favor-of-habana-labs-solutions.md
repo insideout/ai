@@ -25,21 +25,6 @@ images:
     title: "Intel Nervana Neural Network AI Processor Cancelled In Favor Of Habana Labs Solutions?"
 
 related:
-  - title: "Intel drops AI products from Nervana, shifts focus to Habana"
-    excerpt: "Why it matters: The move comes amid continued competition from Nvidia and others and follows Intel's purchase in December of Habana Labs, another startup in the AI chip space. An Intel representative told Axios the company wants to focus on a single ..."
-    publishedDateTime: 2020-02-03T15:29:00Z
-    webUrl: "https://www.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
-    ampWebUrl: "https://amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
-    cdnAmpWebUrl: "https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: "https://images.axios.com/9bRgEba5i8Rs-Tcjytj9Iudko0s=/0x0:2954x1662/1920x1080/2020/02/03/1580742164538.jpg"
-        width: 1920
-        height: 1080
   - title: "Intel Stopping Nervana Development to Focus on Habana AI Chips"
     excerpt: "Just two months after acquiring Israeli AI chip start-up Habana Labs for $2 billion, Intel is stopping development of its existing Nervana neural network processor line. Instead, Intel will focus on technology from Habana whose inference (Goya) chip and training chip (Gaudi) are in the market and have gained traction. Intel had purchased ..."
     publishedDateTime: 2020-02-03T23:37:00Z
@@ -53,19 +38,32 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Habana-Goya_839x.jpg"
         width: 839
         height: 580
-  - title: "Intel Dumps Nervana: What Does It Mean For Its AI Ambition?"
-    excerpt: "According to experts, Intel’s Nervana chips were not at par with Habana in terms of performance and redialing their efforts to Habana chips helps the company to take on other prominent players in the AI hardware market such as Nvidia, Samsung and AMD. Habana Labs has shown its Gaudi AI processor, which the company claimed can outperform a GPU ..."
-    publishedDateTime: 2020-02-04T22:46:00Z
-    webUrl: "https://analyticsindiamag.com/intel-dumps-nervana-what-it-means-for-its-ai-ambition/"
+  - title: "Intel Whittles Down AI Portfolio, Folds Nervana in Favor of Habana"
+    excerpt: "that chip will be delivered and supported by Intel for their already committed customers. In place of their Nervana efforts, Intel will be expanding their efforts on a more recent acquisition: Habana Labs. Picked up by Intel just two months ago, Habana is an independent business unit that has already been working on their own AI processors ..."
+    publishedDateTime: 2020-02-04T02:00:00Z
+    webUrl: "https://www.anandtech.com/show/15471/intel-whittles-down-ai-portfolio-folds-nervana-in-favor-of-habana"
     type: article
     provider:
-      name: India
-      domain: analyticsindiamag.com
+      name: AnandTech
+      domain: anandtech.com
     quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/intel-nervana.jpg"
-        width: 800
-        height: 532
+      - url: "https://images.anandtech.com/doci/15471/Nervana_Car_678x452.jpg"
+        width: 678
+        height: 448
+  - title: "Intel confirms changes to AI roadmap with Habana Labs at the centre"
+    excerpt: "Last week, we got news that Intel was in the midst of shaking up its AI strategy, with plans to drop a previously announced AI training chip from Nervana and re-focus on hardware from Habana Labs. Since then, Intel has been in touch, sharing a statement confirming the new changes. “After acquiring Habana Labs in December and with input from ..."
+    publishedDateTime: 2020-02-05T17:55:00Z
+    webUrl: "https://www.kitguru.net/components/cpu/matthew-wilson/intel-confirms-changes-to-ai-roadmap-with-habana-labs-at-the-centre/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/02/Habana-732x330.jpg"
+        width: 732
+        height: 330
 
 secured: "dDwQ5TiT1Vd2pxVrYM4m2n68e5c0xxZJkq6gg8VYLIQ7ChPk9jnlSzSs3R7OLUD8f+9UUacAl6DhiNKnY3t1WlGnSessFSeum8bsdwMp1PHRWinf2/p4iBliAIatRNYT8EDNPY1WESbJtESFTC7/po9wZMjrgwnGBCETXDIKxtHB/BWHKH07tzdlCKcvpl5jONsTrRHEvzb7o8qu9Y9cFMrNF1thfZRqYALx3TXoGGIQ0SYW9FnBLXqwVRTXF2cIxSGfQenJ6nrOsjq8BfHPp+s30xzWJOMPo3IbQ9VTx4ajqGJp/W8VkpDkX1f3hkXBqqEw+Pv9uN6GtL4hoyrmLschxo3P6flk8DVd9WydSUtuehg9JeQ2jmPOwS3eeFTzeXeYWeYWmeuqfQtUeP8aKAnZHLKFqny22IrseMXZ9iXu+m3Y/r03fnD1Pgw68rh7dnF+KKrMF2Pa2F3Vc9JQZoLrrP6tXZzNAZLuyXHFjKU=;dbC+lD/JgYjJCsnKUrSbIQ=="
 ---

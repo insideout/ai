@@ -306,19 +306,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-  - title: "Artificial Intelligence in Stadium Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026"
-    excerpt: "New Jersey, United States - The report titled, Artificial Intelligence in Stadium Market has been recently published by Verified Market Research. The Artificial Intelligence in Stadium market has been garnering remarkable momentum in recent years."
-    publishedDateTime: 2020-02-03T17:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-stadium-market-challenges-key-players-market-segments-development-opportunities-forecast-report-2026-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
     excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
     publishedDateTime: 2020-02-06T16:56:00Z

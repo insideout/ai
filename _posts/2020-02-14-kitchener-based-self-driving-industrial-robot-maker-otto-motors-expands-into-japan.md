@@ -50,6 +50,19 @@ related:
       - url: "https://cfemedia1.wpengine.com/wp-content/uploads/2020/02/CTL2002_MAG2_F3_Yokogawa-Fig2_RemoteRobotics-Slider.jpg"
         width: 645
         height: 350
+  - title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
+    excerpt: "/PRNewswire/ -- MassRobotics, the independent, nonprofit serving as an innovation hub for robotics and smart connected devices, officially opened its"
+    publishedDateTime: 2020-02-04T15:28:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/massrobotics-expands-innovation-hub-serves-robotics-ai-and-connected-devices-startups-stem-programs-and-global-robotics-community-300998727.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "BoWEX9vXqE0XsYMFq21yrNihbi4Sgqo1eYTtE8LdGUE1ZFAV7W/oQuURUAh+g2NnqIxVKhET6Ome/f6ldi+WT+kULFXZA1D0Bea0Jl9OJm1bR8lqUmoV7pIm/z6CyXpYArJYFS2NK5e1cP/VXn9rZ6MVwX5Dh01ikg4knlaKaqucjUyTlM3YJSgPbz4s9m5nlBOqLPtzdMP/5DLf/tSG34imtIubDlrXv7wDRXhReWJnVh26ZH7nYApmaIl8fGtuI8EzPKuPFQd2KlzOxUo0JKXfTPFftXZAKm3lqoiu/wEMpf34xwy7zHokN2+SbvJ5nZdlngxvL89juXEt8wnyMVwh9CR2Cc+NhqoCs4gB7/ucnkbvSCyP4V5D3DR0DfJ2idgmCDfDzfVBL+K71Z46tnpf2eHgMOyQ4AEI0HsxIv0jw4+4S98n1m2hIj/1+4jCw/PIdobL41q7TNfAGJb4jrffbJVF1kuO5Rxo3SZXJqs=;8OqOPpodCk8cnXTFiH94BQ=="
 ---

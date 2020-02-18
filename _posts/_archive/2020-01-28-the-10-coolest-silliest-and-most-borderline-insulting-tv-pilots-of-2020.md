@@ -7,9 +7,9 @@ webUrl: "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-ins
 ampWebUrl: "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp"
 cdnAmpWebUrl: "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp"
 type: article
-quality: 53
-heat: 53
-published: false
+quality: 73
+heat: 73
+published: true
 
 provider:
   name: Gizmodo
@@ -23,6 +23,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "ERjByzBhYkQGDf2cjoaFaldtGUVYkl/bvq+18FGyMsNHwSJPv3wqkE+JSuna47zj2995/D4Sdey/eYiCwPZiBeD7gUvOSOIUZzTmhX6KGjaxjOUt6xBnkIko82B2znl45iB5q6kw6fLRldILDwTc8+XFGNNR5bC2zzswr8/2hY2yns7x6Ck87dD+quqLDMzdQXsK33mpfRr8vCxajHrTIRfkN582Xudkm6UdmwciUzIBjtVUwsOYfytgQTOzXDxqtS9VSoHoyp9ltOwpenm8lQmQ6wI30jXsJ6vVDoe0321/Xnj6yWUF3PQNdJJh7MQ14zb7vXu3Yx/FcKBbGakhjPY3qwSHt5saJV3enzwy913hkDM5Wn4jpOaxaqCZJUodVHwzIIrif4G3qs8CWtfDO7x9tunU60v9yM+DhYC+nQ9sYMmWlv0tlaYvLHL3F985m4K/mlpBo4jR70JMm8dCE4gODG/yWP8meuI+KXEWOPw=;1OK2a1hwJsKqhadk62G7Sw=="
+images:
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/s--aSgrF8P5--/c_scale,f_auto,fl_progressive,q_80,w_800/civehnkykwkfwklensxt.jpg"
+    width: 800
+    height: 449
+    title: "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020"
+
+secured: "yMY0gcGT301ASjROACNn3NgLJwCc/VNwAWpB/Nxe6UA+QIhbXA6IXRUXNO2IoBfAz7eFDj6nKTJZv1Z1dtF8ju13HKG5TODz2HuCHxrEb7Sca2Rc/7B0Nf0OBR9YmDBAhCOmSss1qH59tBJEBabMRy9KXrcn9KM44PSpo+qvcTKZ6DQFZ51JAK9bql6BOTVtQD2kRh0eBbt84WMw/QeT/dMlfZpDG3WJYWt129FXE4LOi/dSlQ3xS26aA+IyPb9HLx5BS5OCBaRi8EydTN4+i9PHS2HeODOP8S0XDlDASzAL5rq5sNtDbDcHpKBIHBhv;ggT7KNc86QgHk3Xo6qMeWg=="
 ---
 
