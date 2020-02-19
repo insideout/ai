@@ -359,8 +359,8 @@ related:
         width: 618
         height: 318
   - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
-    excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
-    publishedDateTime: 2020-02-04T16:07:00Z
+    excerpt: "Self driving cars promise freedom; from steering for you to accelerating the car down ... Audi; Continental; Intel; Infineon; Aptiv; Baidu; HERE Technologies sets out an organized framework for the development, testing and validation of safe, automated passenger vehicles. This is becoming increasingly important with the rapid growth of ..."
+    publishedDateTime: 2020-02-07T03:45:00Z
     webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
     type: article
     provider:

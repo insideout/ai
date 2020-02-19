@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Intel Axes Nervana AI Chips In Favor Of Habana Labs"
-excerpt: "faster to our customers,' Intel says of its decision to move forward with Habana Labs' AI chips in place of Nervana. By Dylan Martin January 31, 2020, 05:11 PM EST Intel said it is ending work on its Nervana neural network processors in favor of the artificial intelligence chips it gained with its recent $2 billion acquisition of Habana Labs."
+excerpt: "Intel had been developing the Nervana chips since it acquired the namesake company, Nervana Systems, for a reported $408 million in 2016. Naveen Rao, who is head of AI Platform Groups as part of ..."
 publishedDateTime: 2020-01-31T22:25:00Z
 webUrl: "https://www.crn.com/news/components-peripherals/intel-axes-nervana-ai-chips-in-favor-of-habana-labs"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI Hardware
+
+images:
+  - url: "https://www.crn.com/resources/0259-0e979cdbb343-1d6bf5528916-1000/intel_nervana_image.jpg"
+    width: 609
+    height: 456
+    title: "Intel Axes Nervana AI Chips In Favor Of Habana Labs"
 
 related:
   - title: "Intel drops work on one of its AI-chip lines in favor of an other"
@@ -33,7 +39,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg"
         width: 1200
         height: 800
+  - title: "Intel dumps its Nervana neural network processors for Habana’s AI chips"
+    excerpt: "Intel Corp. has decided to end development work on its Nervana neural network processors and will instead focus its efforts on the artificial intelligence chip architecture it acquired when it bought out Habana Labs Ltd. for $2 billion in December. The news was revealed Friday by Moor Insights & Strategy analyst Karl Freund in an article in Forbes."
+    publishedDateTime: 2020-02-05T14:14:00Z
+    webUrl: "https://ctovision.com/intel-dumps-its-nervana-neural-network-processors-for-habanas-ai-chips/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 54
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/identity.jpg"
+        width: 1024
+        height: 499
 
-secured: "ZzcStP8Ry+g0twDuqiEKk3n1ZaRR2XJJvFBpKkicOCuahfwJipsMo7ZjhBR4e2skIb04yk8pZl8uZlKy0veC2166UWUdsJEtXbbohs2QDZl5VMc/PYQDvnhAyqIZvkeAPKIKYIMePb32AqkK0pJ0oKAZpNkBDdHX5kGhk4xLZkkEi8wMTdNjyUfj8ShBj1K+r69h+/XPP8osrBQ9vN3GKCJ5w/dsZqT3VXJxVYBjlUqTgQlyiUqRNtTmqp+XJSjQGRMnLiBoU5u2+5rizBC/h3VJonaHUyqi4s8JJzDz6oWrGR0ChKylj6XfjMw1ZGw/7eL11gBKDmu4qlPToQjVHx6onyyZSCl2IjrzyUDWHMEQhcNY3QKjqvN0jHRCtDxtW9CIddoCmzkncst3qRnNz5/UTLjuVV/rHIAt35CbLPmoEPylrixK3KIUNkj+pPf5YBp+8OAHAjdfqIvRvg9XlxoT5wcSHI2fZxNtocxUL9g=;rauTF8wPRDNDwgVdLRf/3w=="
+secured: "W/qJX/tGsLQRX18kVXNHytfH/zPrXJXsDTYssfBmFqx9x6jiameuDsEQDxXZfP4doKOgn1l5zFLlu15zERoXGJ2ZtbGPMAOo06SClH9Zg1qe546VLNHNLOz1diNUwiVagvcPtsU2pDD7Gu2RbZk7tB2yYIMJsZxBSQE2apPN6aqGiC2ZjmW92YDZuK08U/Jwl6IbLZm5qSXc1IDQqLw5/Y1J5zBlt0RfhUUZ/WcaHY8ZbAurQ/crUJVrcXW+Bd/opbgbQjnZZKNgANTGyN8rl+mz06wWJ/sRfABNgbp9MsXljhi6UpyZxB1LynQfdl7M;T661Xp60/mlODWfhI6FC/g=="
 ---
 

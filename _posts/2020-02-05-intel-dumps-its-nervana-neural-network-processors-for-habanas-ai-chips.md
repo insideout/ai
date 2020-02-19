@@ -39,6 +39,19 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg"
         width: 1200
         height: 800
+  - title: "Intel Axes Nervana AI Chips In Favor Of Habana Labs"
+    excerpt: "Intel had been developing the Nervana chips since it acquired the namesake company, Nervana Systems, for a reported $408 million in 2016. Naveen Rao, who is head of AI Platform Groups as part of ..."
+    publishedDateTime: 2020-01-31T22:25:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-axes-nervana-ai-chips-in-favor-of-habana-labs"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0259-0e979cdbb343-1d6bf5528916-1000/intel_nervana_image.jpg"
+        width: 609
+        height: 456
 
 secured: "U01g0FwhFmqAJjKepsaGg0sGzcI7D4IvljKkIuasr17Nbt+goyvNUvYsep5flrSMIxX7ZFXCiLzS1VPOyeexrQhuIiFu5nbiciwfOHJgQgrCj75U44MsHX8pTJjJPxr8IdoSxbZ+JKgC5Yk6XWmYyFr8IkAOD+gf8rLde4lvIHF7Tz5a94IkXAlUcEh6einYtbhqpbOaLNZJoH70mRnERDiQ5iit8B7tbHyGkEcQyRSoJ/ra+YE9DepBXe8p+Xy7jkn7EOo810YCje8gEYrFBr8mgG7ea7Afhj5881FwNG01SCgBgfSOqoHVW1+ZaCXV;SwDBFhqhnI+ayqKMuK9UnA=="
 ---

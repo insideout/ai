@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence (AI) could one day be used to help cancer pati
 publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
-    width: 1200
-    height: 450
-    title: "AI could kickstart early radiation therapy for cancer patients"
 
 related:
   - title: "AI can help cancer patients start radiation therapy sooner"
@@ -51,6 +45,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "D1yGr1ua1AighilMrw2zFFZUNZjYBWAnRUa7CI8WpMYDfuuKcjVGuX2zpsJ5OIi/4ElrfsTd4SgRO//1wo9Xy2QH8YBRkPad0vHYYQ/EL2aUSzuHDheiN/G2lxft7DYhva88pg29OGxU2b317mtLC+JjNnMaxMpdKzmjO6TH9cyWQMuR8wUb68DL8hGs0p7LGFh/J5TMY0ojPKx/bYezTJZJHi2tpLHVwY9iQdfdc3F5EoXatLDXgM9LMsBzJMOZISa+Poi8kDpQ0S3yI09zHlRCqBWVr1Fp0fCjRcoRrO3RhGrDufetrmdW2s1ZOHrJ;xeIbkse3SjE7/zlLGKbxlQ=="
+secured: "9nCBddVPHKS3164PAMKR2/vgpnLyQrkSF5uWvgOpTm350xKb6LMUmGb4chvR6aiKrpkt337r+nvIfQw/AGyvA0X3JEhaCqhHiFJ33/NFxqGCqQuxwe2YKTrn7YuxFoA4Tvsl01i+QhcWmnAW3/RjLamRvNqKeAswW6cOrgPC74uRvYVhVTkOtcjSfjQLidXdvFBSC30JqYzD6NqHkAlqh4IQmntRfFALE9fP+e0zHZuRZvGgWRjyNY8VyggQlx1Xe4pcnVXUm6GNjR5NbauFtYbTv0WNDH9SAoF0BdSk1X7ldcTREm3NnfZqqVDOhGoy;yeHTeH8btkY7j7tNYe+2xg=="
 ---
 

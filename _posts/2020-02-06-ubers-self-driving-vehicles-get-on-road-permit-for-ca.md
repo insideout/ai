@@ -343,19 +343,6 @@ related:
       - url: "https://www.eenews.net/image_assets/2020/02/image_asset_73911.jpg"
         width: 618
         height: 318
-  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
-    excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
-    publishedDateTime: 2020-02-04T16:07:00Z
-    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
-    type: article
-    provider:
-      name: WTOL
-      domain: wtol.com
-    quality: 22
-    images:
-      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
-        width: 1140
-        height: 641
   - title: "Challenge Up Ahead: Building a Morally Ethical Self-Driving Car: Viewpoint"
     excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
     publishedDateTime: 2020-02-06T16:11:00Z
@@ -369,6 +356,19 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2015/06/Ethics-Wrong-And-Right.jpg"
         width: 900
         height: 598
+  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
+    excerpt: "Self driving cars promise freedom; from steering for you to accelerating the car down ... Audi; Continental; Intel; Infineon; Aptiv; Baidu; HERE Technologies sets out an organized framework for the development, testing and validation of safe, automated passenger vehicles. This is becoming increasingly important with the rapid growth of ..."
+    publishedDateTime: 2020-02-07T03:45:00Z
+    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
+    type: article
+    provider:
+      name: WTOL
+      domain: wtol.com
+    quality: 22
+    images:
+      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
+        width: 1140
+        height: 641
   - title: "A Self-Driving Delivery Vehicle Gets Green Light From Federal Highway Safety Agency"
     excerpt: "The U.S. government's highway safety agency has approved a Bay Area company's request to exempt its self-driving delivery vehicle from federal safety rules governing human-driven cars and trucks. The approval for Mountain View-based Nuro marks the first time the National Highway Traffic Safety Administration has granted an exemption for an ..."
     publishedDateTime: 2020-02-06T20:46:00Z

@@ -34,12 +34,8 @@ related:
     provider:
       name: POLITICO
       domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-        width: 1200
-        height: 628
+    quality: 39
 
-secured: "sp+HJrF1yYL60PC4wodAsYnHLp9RwqcxSAqiRkJ7RlfCbSsTMOGkxKG4wzqC3E81jvJv4Gxo23zLiTCfobHKfDmsOngzawGHI1cHc+sDV3D2HrOIa3URSxZlFFubgjxX7AxKZnERw/B1EM0bhe7cIice8g9dR9XuFk9gAA5LtPfyeSHIDOD0xnQmxlpYi4DuLy7m7IbMuK1F7COX7ASMT0wypeSm1VtbCMpNlVOrPTxZJqDUZUekD0iqI6m8fB5Cj7DQ+hz4zmwoxHK/CGrN/uyAkBHMZRdm0Eq8heA+a+UFXxloPxiVP9EZdhiYfOkd;XRA6nWgwqC9F1WUnJ3IMiA=="
+secured: "VxZ9yzsuml06wu++ZLYB+5JvQnmN2GDcsIvq1STGVzNHeHu+TM5l7Joa7D0gT5BiK9bDMVybu3/rcH5/VnfS1zxqiHiF72pBIi+Lh5ETmYa2K3p/yzO9aggBYkuDXh3nTXrcoQkAtEY+Wgr71tEZ1H5dn68f1TcnKF9XV4M00ZDPlwf890Kq5/MLpqpZacdwiZFIlHXYnQdCYFpq4NO6Pw7PbFFulmY5IJAZ8LJxU/LSSVWCrsvrOivXmpdtbIswN2ZfYIkPQuCSfEsaVJI3Vdik5aeDNk3Lf6+CrX4EJSio5l5M0tKGp1QSBvuBa2wF;uYwrVryVNvT9b12847oKTg=="
 ---
 

@@ -7,7 +7,7 @@ webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intellig
 ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-    width: 1200
-    height: 628
-    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
@@ -38,6 +32,6 @@ related:
       domain: bloomberg.com
     quality: 69
 
-secured: "QK3ud3P2637ASEwcjh4+7xT9G6NT1ssiyDlaBiIWeXUGcT+81A7WNPe4DoWiSBqZDy5PYijp4cFF7G3m6+4DHWdC9lALp281Wjw7s2BQ/F0+IbDSfXQPYePeilNaOHvuOWw7VlgyUfWMzU4LgSwp9OkLcHTIVdt7Dc7WD4ML8LFIO+TneW/O5qcbBJMrG7poaGGC6R6mDogzPBxJUIc1bT7UTU05BawCSpMWQcirxeo0viuUF6UL2fLWJyiGS6nHSST9nsSD1LrF5sOhi9speSHheAaIm96X3WBJDI0V2Yx/rMbZ/Y1gQC2mHjG0d0Lz;C+6Rd+9FXLuQwoE8E/9myg=="
+secured: "N8bEdb0uujtkKk8xRG5wcRHLn/mFJ+7SNYxmNyH95V7Z1YOLjVwoT5E9asWlZWL0FcOnM88NM4XoGmH8uXFlz5w4E/d54qCs49bTBV0SMRUuF/+u935iinKpM1T/B18lABVlSOFOP4nMELzUj7uHxkMKHN9mbw5mRpLPh6RiWFV15KROBDHqkRrjcPby/jhuHki19ayr70ixPwiL0aCo5CPczqyBcsMF5cV9yG60QYxHyogHx7twwV7B40IsovRBQ6rAQEUbL45VqfplSceKHd8IBh73qM0jzj9ATfcpKbIKmiIAELdzTdYdcVeMKPLk28zJ60dmOofvIvrqrNFH/T428TCkj0QDa1Y60kOgSHhdSf5xh1m/OHSnABkpOcFDnS9LdmRnqBlQMtpukNO/DOA+PeQidFyyZDbnAgDcsItTrk+atVQhDtU5q4fX0pwwO3nOmxX7DWeELWZF+9fFLrz2u5bIbn2hJ5yGX1fmuZ0=;RKVK0z1TBJ9U1Fm2/kHDJg=="
 ---
 

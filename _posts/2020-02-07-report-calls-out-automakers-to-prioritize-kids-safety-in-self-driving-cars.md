@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Uber may resume self-driving vehicle testing for first time since 2018 death"
-excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
-publishedDateTime: 2020-02-06T00:06:00Z
-webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
+excerpt: "Self driving cars promise freedom; from steering for you to accelerating the car down ... Audi; Continental; Intel; Infineon; Aptiv; Baidu; HERE Technologies sets out an organized framework for the development, testing and validation of safe, automated passenger vehicles. This is becoming increasingly important with the rapid growth of ..."
+publishedDateTime: 2020-02-07T03:45:00Z
+webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
 type: article
-quality: 41
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: WTOL
+  domain: wtol.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
-    width: 600
-    height: 360
-    title: "Uber may resume self-driving vehicle testing for first time since 2018 death"
+  - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
+    width: 1140
+    height: 641
+    title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
 
 related:
   - title: "Uber gets green light to test self-driving cars in California again"
@@ -252,6 +250,21 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/02072020_Self-Driving-Car_122510-300x220.jpg"
         width: 300
         height: 220
+  - title: "Uber may resume self-driving vehicle testing for first time since 2018 death"
+    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
+    publishedDateTime: 2020-02-06T00:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
+        width: 600
+        height: 360
   - title: "Uber to bring back self-driving cars in California for first time since 2018 death"
     excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
     publishedDateTime: 2020-02-06T00:06:00Z
@@ -358,19 +371,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2015/06/Ethics-Wrong-And-Right.jpg"
         width: 900
         height: 598
-  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
-    excerpt: "Self driving cars promise freedom; from steering for you to accelerating the car down ... Audi; Continental; Intel; Infineon; Aptiv; Baidu; HERE Technologies sets out an organized framework for the development, testing and validation of safe, automated passenger vehicles. This is becoming increasingly important with the rapid growth of ..."
-    publishedDateTime: 2020-02-07T03:45:00Z
-    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
-    type: article
-    provider:
-      name: WTOL
-      domain: wtol.com
-    quality: 22
-    images:
-      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
-        width: 1140
-        height: 641
   - title: "A Self-Driving Delivery Vehicle Gets Green Light From Federal Highway Safety Agency"
     excerpt: "The U.S. government's highway safety agency has approved a Bay Area company's request to exempt its self-driving delivery vehicle from federal safety rules governing human-driven cars and trucks. The approval for Mountain View-based Nuro marks the first time the National Highway Traffic Safety Administration has granted an exemption for an ..."
     publishedDateTime: 2020-02-06T20:46:00Z
@@ -403,6 +403,6 @@ related:
       domain: khou.com
     quality: 4
 
-secured: "SKB2Q+P3ggpf2fmPqFy68cvf8L6QmihWbGx/9ffgmazOSx4G612GtIcGiu9xEj2+WNNg58GYtc9wgtJxmOgutufonAgkP/fnBWRtySo4ej/OGEnuohE4Tl9UcJke4OUOaLREELHTUZbW5laeNF/u5FVqODQ7MJc3Pj3wY5Li9UNpKiGuu86zU/6vJMcVC34jCZz94UAcarDr7cbx4WFLdWDUpUYmnXZRyBHk8XoKOlnY4tPB2Ve46xIn0wlvuStSBRBNRG1T/AMuV/YbjUQzS9JdJm+jQc4U5/DXO+/c86jXxHOGLp1BrZTZ49tIeM0x6tkpfeo9qnyJOWC5JoaLUOxtB/51P5Vjy7fl7RnKmUfy4a1bPyMuchCKB1PT9urfe0ecjuxFARv1A9KropdTr4xJjG2QkZNpiIP6MJS+7KWAMsJlw9PDiCqc0WbAJ0jPyhVg2NQjbd+o6/egQSnFx0eawrajD4e6N91adgdZMp4=;GBZtBprlQjlRuHQH30AXDw=="
+secured: "Efkg+2QmwpvUEQAkbGkoejYAjXH0qW68/znLkRZVxZniaMBR5Tkwc3A8g7MiIsmiAhzZ3OlhepaSfyy/P1gGo64DLIU73S8EgifvL+eRvtR49Py5aOda8vrXVmoe8zXIUGVpBnI4RDDzUkZ1LAerQDPzyizKyFKVi7NekxhxJaq4As1pRL/yp7ApeOUr+rJkl7pTdub/NfwCQZdiASoGNLqIox8LwKSs69KIe9ZdsAp7XHdon0m3mkoKtXxZEEDW4TGzff8jbKmaJBEJrDzpr74+JTZEGQpv3wR+knBc5vTrwbxhqy2pPudKHsEQxCK+;oKOEK5NHiwLiPAWPQGTCWg=="
 ---
 

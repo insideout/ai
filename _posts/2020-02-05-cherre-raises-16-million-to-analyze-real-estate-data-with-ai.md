@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T14:28:00Z
 webUrl: "https://venturebeat.com/2020/02/05/cherre-raises-16-million-to-analyze-real-estate-data-with-ai/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -21,34 +21,28 @@ topics:
   - AI
 
 related:
-  - title: "Kaskada raises $8 million to facilitate AI feature engineering"
-    excerpt: "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform."
-    publishedDateTime: 2020-02-04T17:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/"
-    ampWebUrl: "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/"
+  - title: "NGD raises $20 million for storage hardware designed to handle AI workloads"
+    excerpt: "That’s where NGD Systems comes in — it’s an Irvine, California-based company offering a computational storage drive tailor-made for on-device AI and machine workloads. To lay a runway for growth, NGD this week closed a $20 million series C financing round led by Western Digital Capital, with participation from existing investors including ..."
+    publishedDateTime: 2020-02-05T13:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/05/ngd-raises-20-million-for-storage-hardware-designed-to-handle-ai-workloads/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?fit=1200%2C628&strip=all"
-        width: 1200
-        height: 628
-  - title: "Machine Learning Company Kaskada Closes $8 Million In Funding"
-    excerpt: "Kaskada, a machine learning company that provides a unified platform for feature engineering, announced it raised $8 million in funding Kaskada — a machine learning company that provides a unified platform for feature engineering — announced it has ..."
-    publishedDateTime: 2020-02-06T07:56:00Z
-    webUrl: "https://pulse2.com/kaskada-raises-8-million/"
+    quality: 47
+  - title: "HouseCanary, Inc. Closes $65M Series C Round, Aims to Create More Efficiency in the $2 Trillion Residential Real Estate Market"
+    excerpt: "Through partnerships with leading financial institutions, HouseCanary’s ComeHome platform will enable ... based on big data and refined through machine learning. By combining this technology with its nationwide brokerage, HouseCanary is uniquely positioned to connect investors and consumers alike to the information that they care most about ..."
+    publishedDateTime: 2020-02-06T10:01:00Z
+    webUrl: "https://www.register-herald.com/region/housecanary-inc-closes-m-series-c-round-aims-to-create/article_738a57cd-25d2-5c9c-8153-ecdf5ed6c189.html"
     type: article
     provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 11
     images:
-      - url: "https://cdn.pulse2.com/cdn/2020/02/Kaskada.jpg"
-        width: 1262
-        height: 1120
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
 
 secured: "IMW8m61E0tlsOEvt5GMkHz005LYQbi0QcKC+vIqitpjXXMyobJXq0tPHXmSI+WOYs5mI+hDMEeSgTWNytVPJj3Qt13yop0qivCZkidfrwJuIvmiECgGNlkyuhy1IOPpO4JSMfb+0/7NORvhJOWEiVSPqKSFwdwNjND5wc+QpdzRIbxGGH1rb4XJK0HllOng3z/jHouRRrYT5YJjuSQqWkfGjgI2EfSj9JiS80fdqoHmdzgvaw5EklNr9av7w8l/03kvDuet3nOfkufVZS/QCJZpqg3rLseqbKjGzrMshy+AWharisrzSvWtHMz1XFC5TStnfCoowQmW1GsrDBN6BI4ApQuNhbjprmjb46TR3JhaaJw9fiLcOTzfjxFLIl6Sx1Ev2w8YzNf8jq0dj6fz+Oyausrw/+/Wrd21X+q3a47JI/N0Imq3aluB7UZen5fohE0IoPhe3jbyQ4Cgc4RM08vhinns2f+ZQ5MBLPEHOXLg=;gBm1q5dx1h9wsshjKWY/ww=="
 ---

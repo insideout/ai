@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T08:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-growth-and-top-key-players-analysis-report-2026-2020-02-19"
 type: article
 quality: 69
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -115,6 +115,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Managed Infrastructure Services Market Global Trends, High Demand and Supply Chain by Future Prediction 2020 to 2025"
+    excerpt: "The Global Managed Infrastructure Services Market was valued at USD 71.01billion in 2019, and it is expected to reach USD 127.57 billion by 2025, registering a CAGR of 9.95%, during the period of 2020-2025."
+    publishedDateTime: 2020-02-19T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/managed-infrastructure-services-market-global-trends-high-demand-and-supply-chain-by-future-prediction-2020-to-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

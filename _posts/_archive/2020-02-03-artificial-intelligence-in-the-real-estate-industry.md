@@ -23,21 +23,6 @@ images:
     height: 500
     title: "Artificial intelligence in the real estate industry"
 
-related:
-  - title: "HouseCanary, Inc. Closes $65M Series C Round, Aims to Create More Efficiency in the $2 Trillion Residential Real Estate Market"
-    excerpt: "Through partnerships with leading financial institutions, HouseCanary’s ComeHome platform will enable ... based on big data and refined through machine learning. By combining this technology with its nationwide brokerage, HouseCanary is uniquely positioned to connect investors and consumers alike to the information that they care most about ..."
-    publishedDateTime: 2020-02-06T10:01:00Z
-    webUrl: "https://www.register-herald.com/region/housecanary-inc-closes-m-series-c-round-aims-to-create/article_738a57cd-25d2-5c9c-8153-ecdf5ed6c189.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 11
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-
-secured: "NaSJVZsm02ZyonWQrIoZ0C57CNKT0uWVv4S8s2+mMBofAdrfpWAXt0pPmhRyEbD19mola6wEiTEsx5X0/V7DEM0dwkeSQdNzpXZiJb1I5lv4ei22xUu2sGSMOZ+FsOS9n1YHu8wyYRH76ejSDVG8eaWTBj4/mExErzUORvs87bJ8EbwfvrdaqGBodZmNMDO6sIZRUQiHC7P7I99r6/1CsyCoRy5VYXzPLmfH8aGZFJPkzMrhh1QdiN1wrJVjhgOBVQx/YMVCwO268VgyCxekpe70StEzrFvh14ih+mDA6SoeakWWd9Es48h8zRvUmDuE;pX7h6sZeCxJZXmG3cmx47w=="
+secured: "RaHcsaNTrH1fzMF3TU+IcGfdjGfCcInDwS1JyUMoy3lZZ4ZtVBEW4nSdushg9knogQSzUiFNwyzo7QOcLl3jc589wTObhLLFKIz8q+2BMgzHL9xw85IFlEaiH9nh+7LRzdIzISMvw81rvmK0vwU3Xei5PzHzyD4G7ZOLhE3wnJ3bgg991AvP91FzUjkcw+hdjUBYTju0vsIe2POSHyC4wW36sHyZ5SDiPj2UHBXpLtQ3p5EXerYlzWDiXyyn+yMEhdkKxWQN8r+7VdRnOscvJs6T6/+uzyLHFW1Rjkej0HfY2PYMxOzQrc3eVuahQaaD;dcnsl1QsI/w5XcEvF7idIw=="
 ---
 

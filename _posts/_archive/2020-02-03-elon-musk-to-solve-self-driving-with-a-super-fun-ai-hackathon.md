@@ -27,6 +27,6 @@ images:
     height: 417
     title: "Elon Musk to solve self-driving with a ‘Super Fun’ AI hackathon"
 
-secured: "R8hDi2Q6VsSuKmqwq+UGSjRf6aq2Eq8NDS4CYZeiGruaQ4hsfJHBFDD6b3Af+k/JZtBe0sugxdrsca7xCiQhxl/UH3B8mNmDrj6VEyXZTieWDQ9rYNN0LCH+eKbvjEfJ4n5ycY7sXNXd640TOzpStsJ/g54i38Kbxxq94Ny0iFgaSLslEI03vbWYlkgKYLPNYZRCED3+2xT2OpKL9NLJ/SGLzNXOACI6gCaU92UkdETpkZAAwPlnePt5s9oJCfP8/k11HPpTGPSI0rx5o5MZPhejSsS1EbtfXIzkZ2h02fgIj86tzTgbmGv75r7vy97d;/c0NxCsPiniM61gGSanqQg=="
+secured: "6oGR+ZtdWXlRUtKpl+oLIU5ydhC5RPkmOzTimGTe2ZpGcydljRm5++m5xdReznX2Q78opMbqJAZdEmHnWOCdDdZFysXwiHay6s1PoXgwjINZV0STAs4eceUmlEN/5f/os0uDrlVnSXcH/tq8qiTRihImpIexpfzsEbs89JOVOGcyZLgbOhTAdtaEo5eKxiZZAMwfFx0laWA17zpB51a71m806EKZaK/AeOCr38t+rd8+P8gGH33w0tuPR0rF+oEK86A6kU/ekqIo7bzOdCjUFXwGbhzEByApnCJkSO94YL+vqBg0BIII054p6AfvMIrY;ZpA0ZhhV1aUuLDYoswhxXA=="
 ---
 

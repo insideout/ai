@@ -106,6 +106,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "D67WiSCYzAbR2vnj9zblIdKezV5obB99ADdINl6EBOflQeawme8S+PsKRoFUYCJm4+f/msG314FvMyWX2/ZiBIHd4YndSm+L9AXAeKQU3K2lV01BUEzYeJEEivVkerhRdViCRapHEap7e5qGGiEqRrt5yKEr3lowcSrepYczFt9aPElGxWJe+LS5mxfw9Qj941dgxEB/ysWoMf67UvPYrMC/CIyUL2TI9yGs7NDrKAPmuy7fIgpxu7BlLa26YkzK+ulzKGnDsuQPPEB/aG6AmHPGlolOpi3o4m65ohRvWoQUg7C/wc5ldmoZmlky7WR8;iPQacLSowD5fe8fSoGmxjA=="
+secured: "hm8dGVWPDH+xAEuYZNdDB9yEE3qLm+kOa7WXIjZDjwPtfzjo1AIOUT/c1WzbjLLTApebO7CWVgSNbd7HIT6gSs1qayJx2IHRCF8EXH4Bh5983TqoPIk+yxjKZroNVdNYatvFvYmfcN1AGSvLQHsGrS44ZCHjXg/7HbLZa1MwlQRq+yDd3yDCmVKhuBEZlkedHT+7oMQSnb6oyQ1aFqbDh0SS/qUWbmB2/PV6x5ZkhHlt/WeUKqVUT6IVm/T3tFtVNEZrY8Y19Qa3KztHBEBwOi/P+poTWp84msrxGGzldVw9IYf2I3OLJso/FAUHDOWQ;0F4bsmStXZ+tYKmeKDFSlw=="
 ---
 

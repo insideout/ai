@@ -8,8 +8,8 @@ ampWebUrl: "https://www.voanews.com/economy-business/robot-bartender-may-serve-s
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/economy-business/robot-bartender-may-serve-solution-japan?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Voice of America
@@ -26,21 +26,6 @@ images:
     title: "Robot Bartender May Serve Up a Solution in Japan"
 
 related:
-  - title: "Robot bartender begins serving drinks in Tokyo pub"
-    excerpt: "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyse their expressions with artificial intelligence software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada, a restaurant ..."
-    publishedDateTime: 2020-02-04T16:50:00Z
-    webUrl: "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 59
-    images:
-      - url: "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub/_jcr_content/par/image.dynimg.768.q75.jpg/v1580834704692/reuters-PUB-ROBOT-1120.jpg"
-        width: 768
-        height: 438
   - title: "Robot bartender starts work at Tokyo pub"
     excerpt: "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitors customers to analyse their expressions with artificial intelligence (AI) software. \"I like it because dealing with ..."
     publishedDateTime: 2020-02-05T21:49:00Z
