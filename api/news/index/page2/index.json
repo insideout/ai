@@ -2,90 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-06-intel-drops-work-on-one-of-its-ai-chip-lines-in-favor-of-an-other.md",
-      "title": "Intel drops work on one of its AI-chip lines in favor of an other",
-      "excerpt": "[Get regularly scheduled insights by signing up for Network World newsletters.] Intel acquired Nervana in 2016 and issued its first NNP chip one year later. After the $408 million acquisition by Intel, Nervana co-founder Naveen Rao was placed in charge of the AI platforms group, which is part of Intel's data platforms group. The Nervana chips ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.html",
-      "ampWebUrl": "https://www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.amp.html",
-      "publishedDateTime": "2020-02-05T21:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Intel drops work on one of its AI-chip lines in favor of an other",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
-      "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
-      "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
-      "heat": 155,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/",
-      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
-      "publishedDateTime": "2020-02-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns.md",
       "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
       "excerpt": "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer.",
@@ -2152,6 +2068,96 @@
         "AI",
         "AI Hardware",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-this-new-memory-chip-could-end-up-in-an-iphone-5g.md",
+      "title": "This new memory chip could end up in an iPhone 5G",
+      "excerpt": "The new chip is likely to make its way into the next iPhone ... The rising popularity of high pixel cameras (like the 108 million pixel sensor set on the Xiaomi CC9 Pro), concurrent apps demanding huge bandwidth and AI means that LPDDR5 is likely to become the defacto memory tech for flagship smartphones in 2020. It remains to be seen whether ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "publishedDateTime": "2020-02-07T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/n5GsBjxkGK8epc7bMzP4ug-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "This new memory chip could end up in an iPhone 5G",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-us-house-panel-will-discuss-self-driving-cars-next-week.md",
+      "title": "US House panel will discuss self-driving cars next week",
+      "excerpt": "Witnesses include officials from automotive, tech and transportation trade groups. On February 11th, a House panel will hold a hearing that could help shape the future of self-driving vehicles in the US. The Consumer Protection and Commerce Subcommittee ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/08/us-house-panel-self-driving-cars-hearing/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/",
+      "publishedDateTime": "2020-02-07T22:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6",
+          "width": 600,
+          "height": 350,
+          "title": "US House panel will discuss self-driving cars next week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

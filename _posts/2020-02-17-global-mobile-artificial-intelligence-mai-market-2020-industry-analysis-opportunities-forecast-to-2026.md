@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025"
+    excerpt: "The Global Artificial Intelligence in Retail Market was valued at USD 1.80 billion in 2019 and is expected to reach USD 10.90 billion by 2025, at a CAGR of 35% over the forecast period 2020 - 2025. AI will drive faster business decisions in marketing,"
+    publishedDateTime: 2020-02-19T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Market: Facts, Figures and Analytical Insights 2017 - 2025"
     excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
     publishedDateTime: 2020-02-14T09:47:00Z
@@ -57,6 +70,19 @@ related:
     excerpt: "Ameco Research added new research report to its vast database titled \"Global Natural language processing (NLP) Market 2020\" which provides extensive and highly detailed information on the key markets."
     publishedDateTime: 2020-02-17T03:33:00Z
     webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-global-industry-analysis-and-forecast-till-2027-2020-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Modern Warfare Market 2020 Set for Rapid Growth with Top Companies Analysis by 2025"
+    excerpt: "Market Overview The artificial intelligence in modern warfare market was valued at USD 1453.81 million in 2019, and it is expected to reach a value of USD 10781.27 million by 2025, at a CAGR of 40.25% during the forecast period (2020-2025)."
+    publishedDateTime: 2020-02-19T10:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-modern-warfare-market-2020-set-for-rapid-growth-with-top-companies-analysis-by-2025-2020-02-19"
     type: article
     provider:
       name: MarketWatch

@@ -2,96 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-15-future-proof-your-tech-skills-with-the-ultimate-deep-learning-bundle.md",
-      "title": "Future-proof your tech skills with the Ultimate Deep Learning Bundle",
-      "excerpt": "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/ultimate-deep-learning-1073754/",
-      "ampWebUrl": "https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/",
-      "publishedDateTime": "2020-01-15T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Future-proof your tech skills with the Ultimate Deep Learning Bundle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-healthcare-cognitive-computing-market-development-analysis-2019-ibm-google-microsoft.md",
-      "title": "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft",
-      "excerpt": "The New report includes a detailed study of Global Healthcare Cognitive Computing Market. It is the result of a comprehensive research carried out keeping in mind the different parameters and trends dominating the global Healthcare Cognitive Computing Market.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-development-analysis-2019--ibm-google-microsoft-2020-01-15",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-15-how-ai-is-revolutionizing-health-care.md",
       "title": "How AI Is Revolutionizing Health Care",
       "excerpt": "Being a relatively new technology in health care, AI still has a long way to go, but the progress is impressive.",
@@ -2190,6 +2100,96 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-exclusive-apple-acquires-xnorai-edge-ai-spin-out-from-paul-allens-ai2-for-price-in-200m-range.md",
+      "title": "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range",
+      "excerpt": "The workforce count is now reportedly upwards of 70 people. Xnor machine learning engineer Hessam Bagherinezhad, hardware engineer Saman Nderiparizi and CXO Ali Farhadi show off a chip that can use solar-powered AI to detect people. (GeekWire Photo / Alan Boyle) The ups and downs of the Wyze Labs deal provided the first hints that something big ...",
+      "heat": 285,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/",
+      "ampWebUrl": "https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/",
+      "publishedDateTime": "2020-01-15T16:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/05/180506-xnor-630x354.jpg",
+          "width": 630,
+          "height": 354,
+          "title": "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
+      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "publishedDateTime": "2020-01-15T17:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
+          "width": 640,
+          "height": 358,
+          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

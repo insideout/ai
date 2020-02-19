@@ -5,8 +5,8 @@ excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"North America Artifici
 publishedDateTime: 2020-01-31T09:18:00Z
 webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1977988/0/en/North-American-30-Billion-Artificial-Intelligence-AI-Chip-Market-Outlook-to-2027-Projecting-a-CAGR-of-32.html"
 type: article
-quality: 14
-heat: 14
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
   - AI in Autos
 
 related:
@@ -28,6 +29,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "rmjgiP75NDDAEBWFhj6dfMnLZGqkWcuZlIQzxMdUDylMVXWTq9cSmHfda/MG43yNY9e4T+czt1sln4w30XrBzfEmzJtKa5F80wLnB6EDbDTWNdP1Tu/65gpRcIwJ1TNkwJ4eTqjpy8Kg9hq0op2bGzjYf5cCXERJJ+yOgAAyCJd14IBAWhd569dp6HwN0mzaZShFwn+Obfx93cHLVzNet29uV3CJoT5MG/okXvkkiCZd3+h+b2+vfs+SOwLsVm4xX/zUi+SMfPcNZA6fGhD442uLsWMKzWksb0Q0qNAFnB6n02MZD+BkaePUQeydnAkM;3OChK7nX5dx546hW/XmLqA=="
+secured: "phY7ySEJJoSijRPj+36uYXaElSPONz9vErRbapvmF50BteHm1CgqgvmoPpe+eWF4Q+ZN7Q5009tum7lsEwDT0VpfpsY1etaTDYSioBv4Lgj3KMaW2ZL/VEG0oQrGzgdzsuqdEbz7Q7FWZxJmkVbTcAq+rhKMUn9WSQXN0U3pYYaUXlgYRlSdTL6gWEzLKvw9XtBBly+y5l1RjCq2VxcaqAHxnTuCiMbrMpAtMLiI8UmwVPgOSXmUMMXLLqgl1twLDg04WPrfNCC/ahaPCjKg29+cjr1UdMArJl+E3youccPrS+NzXIVNomDiBFWgGr6b;dmsZUB/xQ5chm39d9JE+UA=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -24,6 +24,21 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+        width: 600
+        height: 338
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
@@ -34,8 +49,12 @@ related:
     provider:
       name: POLITICO
       domain: politico.eu
-    quality: 39
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+        width: 1200
+        height: 628
 
-secured: "VxZ9yzsuml06wu++ZLYB+5JvQnmN2GDcsIvq1STGVzNHeHu+TM5l7Joa7D0gT5BiK9bDMVybu3/rcH5/VnfS1zxqiHiF72pBIi+Lh5ETmYa2K3p/yzO9aggBYkuDXh3nTXrcoQkAtEY+Wgr71tEZ1H5dn68f1TcnKF9XV4M00ZDPlwf890Kq5/MLpqpZacdwiZFIlHXYnQdCYFpq4NO6Pw7PbFFulmY5IJAZ8LJxU/LSSVWCrsvrOivXmpdtbIswN2ZfYIkPQuCSfEsaVJI3Vdik5aeDNk3Lf6+CrX4EJSio5l5M0tKGp1QSBvuBa2wF;uYwrVryVNvT9b12847oKTg=="
+secured: "G9j+v/TttQ3SdVF/N/uaC+ow4Ae63wjxroc2sK1ttdG2Z9/dGoHd83rlPIgc3FpsL3AuYSxTsiBk92vyCxf1yeNlhebo5paiH7TiMLmJznCbOlfYWqbD2ju8kAFq7XjwIsgCOhE9cYUx8A2xB7N4XiLg6hz9MX8s1RhECxh+n08bzSisLfryqhnMJJN3LatSM70MnJikZijuqj/CQpmg28LlTtCkqQlJXL5SGHDGTuyaFW9kAXGIgSOS5NPoQLNvPeAqRIuXAV8u/LRsPFtjHUgulIZdEXvjhVQp2ISNugh8jTkCn+KwrEvGSs9Sw1Bl;N1nJTk9jyS4lLMJykZcO4w=="
 ---
 

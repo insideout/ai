@@ -26,7 +26,7 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 14
+    quality: 31
 
 secured: "dNy03Xbz4/99EF/J67At8HDqgRvBNioliU6BSvGi0MEngKnIlC/APxxi6jXZtlnY+FsuTqDSRRu48VRd79iETAvsR/COTV+tScARBrFz1NBEmfQkSiHKbI71YOjXHe6aPAQSUGzIN0I47mjQsD3k2ULb9Mtxqe/SFSRRvG00CJPjo9WHSTunJwKbydc2MRWJYF+GGo2MIKj6ihvKoej4mPDHFBAGzC1VLHRxzU5WSlovzF7J0jpEQFexJFuT20JXxW0Q99e0Sb3k0pdRTvN2fBJEfVl8IGknTyh1nyfFgIm6C3WVlW/HuJDEu7mas6ba;2l6DXZ1PzozMxtKlwkOA2A=="
 ---

@@ -2,133 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-03-microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results.md",
-      "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
-      "excerpt": "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316",
-      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
-      "publishedDateTime": "2020-02-03T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-03-millennium-management-secure-machine-learning-using-amazon-sagemaker.md",
-      "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-      "excerpt": "This is a guest post from Millennium Management. In their own words, “Millennium Management is a global investment management firm, established in 1989, with over 2,900 employees and $39.2 billion in assets under management as of August 2, 2019.”  \nMillennium Management is comprised of a large number",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T12:16:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/millenium-sagemaker-1.gif",
-          "width": 900,
-          "height": 473,
-          "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-03-moscow-court-case-challenges-citys-facial-recognition-use-after-launch.md",
-      "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
-      "excerpt": "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-03-tesla-is-holding-a-super-fun-ai-partyhackathon-at-elon-musks-house.md",
       "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
       "excerpt": "Tesla has been known to have a presence at some AI conferences and throw parties to ... also looking for world-class chip designers to join our team, based in both Palo Alto & Austin.",
@@ -479,6 +352,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-02-04-amazon-pollys-brand-voice-taps-ai-to-generate-custom-spokespeople.md",
+      "title": "Amazon Polly’s Brand Voice taps AI to generate custom spokespeople",
+      "excerpt": "It has another rival in Microsoft, which offers three AI-generated voices in preview and 75 standard voices via its Azure Speech Service API. Amazon’s Brand Voice also competes with offerings from startups like Voicery, which delivers customized digital voices that sound impressively human-like. Text-to-speech tech startup iSpeech boasts ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/",
+      "publishedDateTime": "2020-02-04T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon Polly’s Brand Voice taps AI to generate custom spokespeople",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-04-arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations.md",
       "title": "ArbiLex, A Harvard Law School Legal Tech Startup, Uses AI To Settle Arbitrations",
       "excerpt": "With international arbitration cases resolved through international arbitration, the outcomes are on the order of millions and billions of dollars. Isabel Yang and her team have created ArbiLex to settle these claims faster for all parties involved.",
@@ -814,6 +732,51 @@
           "width": 932,
           "height": 470,
           "title": "Facial recognition helps Volusia County Sheriff's Office solve crimes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027.md",
+      "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
+      "excerpt": "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
           "attribution": null
         }
       ],

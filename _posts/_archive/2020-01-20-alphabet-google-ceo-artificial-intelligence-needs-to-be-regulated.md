@@ -7,7 +7,7 @@ webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intellig
 ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
@@ -19,7 +19,28 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+    width: 1200
+    height: 628
+    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
+
 related:
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+        width: 600
+        height: 338
   - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:18:00Z
@@ -32,6 +53,6 @@ related:
       domain: bloomberg.com
     quality: 69
 
-secured: "N8bEdb0uujtkKk8xRG5wcRHLn/mFJ+7SNYxmNyH95V7Z1YOLjVwoT5E9asWlZWL0FcOnM88NM4XoGmH8uXFlz5w4E/d54qCs49bTBV0SMRUuF/+u935iinKpM1T/B18lABVlSOFOP4nMELzUj7uHxkMKHN9mbw5mRpLPh6RiWFV15KROBDHqkRrjcPby/jhuHki19ayr70ixPwiL0aCo5CPczqyBcsMF5cV9yG60QYxHyogHx7twwV7B40IsovRBQ6rAQEUbL45VqfplSceKHd8IBh73qM0jzj9ATfcpKbIKmiIAELdzTdYdcVeMKPLk28zJ60dmOofvIvrqrNFH/T428TCkj0QDa1Y60kOgSHhdSf5xh1m/OHSnABkpOcFDnS9LdmRnqBlQMtpukNO/DOA+PeQidFyyZDbnAgDcsItTrk+atVQhDtU5q4fX0pwwO3nOmxX7DWeELWZF+9fFLrz2u5bIbn2hJ5yGX1fmuZ0=;RKVK0z1TBJ9U1Fm2/kHDJg=="
+secured: "aWFgCFOOSIiw1wpAQlJFq8Fl7Zaz5M1Wp/JqIepqv6DqSiVjxXcwh/hAYYx5CLdJk0gxcMao6xxqPpwTYXE13HSoBxq4OAaL3sIfDtaN5LsK6Xj6PYmVyHhFnn7WSPDr155J23hmuIpPPi465ND2s0HA5Wb06etfsgl5SvCqzh134kvSZbuxxhl9GRJsjIUE4xA4SaPAYaUhTfXuGVlaAvI5QP9IRG5JLYie1NKOGGa6G0fhxGvO+LKKYiSMW1xp0G33/Ji9xFo2G/NDZ/nAv4kaEPbYu43eG9A2z5Bvgz80qGY2gjztxkmXU9Ws/Pz+;O2JcOy0DDjGqmME4yHPDWA=="
 ---
 

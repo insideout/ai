@@ -56,19 +56,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Build a unique Brand Voice with Amazon Polly"
-    excerpt: "AWS is pleased to announce a new feature in Amazon Polly called Brand Voice, a capability in which you can work with the Amazon Polly team of AI research scientists and linguists to build an exclusive, high-quality, Neural Text-to-Speech (NTTS) voice that represents your brand’s persona. Brand Voice"
-    publishedDateTime: 2020-02-04T17:54:03Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-unique-brand-voice-with-amazon-polly/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
-        width: 1024
-        height: 512
 
 secured: "52mVcGo6WruCNYG7OK4Z11UgvmaQ4DTcL4Zf7RKH505mwJrr8jmVWJm2FLJwnnTnffMeLD+LyOrMEEGOGWS6MEkxDIsyJ1Nm4kPtagXa26xZuQjTYufb+b8lE0LiBRA735GA/AFJzsx8wRQki9GjRT3bdOM0R4Dzt7w5sNCASmgPqxrlcsEnqJSnrKj8vZLaEYLh+r0OaPKrM3oN7whjP4etRzBaJ7So8zdZtswtehwSs6WOQSGVx4HO2XlHl82lsPUkRe2Kb/DADV7/jWkRHSlnPu9qgCWixZ6nDe3AVRG9y110AH5wpUSwhI6WENzztozILRegLvPLswu+5ODz1i2Qv88S+A216ePQg4Yj7hMxC8VfQbwmQ0Crq8bnbEXkvACLA+n1IuaD0LeF6vVPDWouYEt31W4f9X3iGPiBQ3cgZqeSsmpSiRgNJtn1BFQNXJ6zDi/hiTLTSd1qmZN6STsdevg1h3XMFM3T2NcW5bc=;z9K+Un3B/6nS0TzYq4kUHA=="
 ---
