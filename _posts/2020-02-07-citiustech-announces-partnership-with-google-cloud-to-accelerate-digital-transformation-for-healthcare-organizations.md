@@ -83,15 +83,6 @@ related:
       name: Your Story
       domain: yourstory.com
     quality: 8
-  - title: "MYCOM OSI Announces Strategic Collaboration Agreement with Amazon Web Services to deliver Carrier-grade Service Assurance with the Cloud"
-    excerpt: "Running on AWS, MYCOM OSI’s Assurance Cloud™ embeds its award-winning Experience Assurance ... telco and IT networks by integrating real time assurance with closed loop automation and analytics driven by Artificial Intelligence (AI) and Machine Learning (ML). “When selecting a cloud provider, the thing that matters most is a cloud ..."
-    publishedDateTime: 2020-02-04T09:09:00Z
-    webUrl: "https://www.realwire.com/releases/MYCOM-OSI-Announces-Strategic-Collaboration-Agreement-with-AWS"
-    type: article
-    provider:
-      name: realwire.com
-      domain: realwire.com
-    quality: 0
 
 secured: "cYtyU9vYsLyDVv25hZWo1Ep9IauSrGJImHcLcPRBtlanMu1MMup29EppopuU70qkmlvmbMVU/yMgCyGJqmtq86sUjsIn0AdJ/fbZ5li3DSx2GEWRpc8nLtfayIa5XTRsehLonuO+bj+vNrvg/Lh7mhWos9Vb0OXsOVoLF41Ea0ciKatLcJJCJbGYdl72CvvGTEpM3lfs8uZmosHoDlj6CKOkhORgkAS4F6eDKAFs5kL+4hC2RS8oHyzSeDo4aDer/81nMWjA+5uV6BaHLVSTqAwTj/ULZrNAR5Xz+saZwED/keLaWjM5YnmcTBarRPvi;nNHD4KVQ9k01Q2YO+tYwjg=="
 ---

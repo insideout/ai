@@ -57,19 +57,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
         width: 1200
         height: 627
-  - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
-    publishedDateTime: 2020-02-04T10:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200204005427/en/Global-Deep-Learning-Market 2020-2024-Growing-Application-Deep"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: "https://mms.businesswire.com/media/20200204005427/en/771085/23/Global_Deep_Learning_Market_2020-2024.jpg"
-        width: 1200
-        height: 627
   - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
     excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
     publishedDateTime: 2020-02-07T11:27:00Z
@@ -102,6 +89,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "ZqPae4zzZw6llRgSWfySSZiPeBK9AqTZiw7BXjvWIhMRqDyl0ujZ0Mx9wSjtXrWl4yDpo9K9uA2xvTB8qqyGH43+Il6r96eHw7h6gQwERblVYvVQW0yR0BP7Whn7rG4pxa992VGOm/lC6oPY5GPnE+cAbff2VEr3hrsEAmCKSEHVntpbsM2yAcN2CnNlQRfjvbM48qTo64v4fNkQU3OUgVlwXm9JdVVELwxrQXZVXY5hxFrgr0o0d3hN2WhMvJdbD+ST6YhYqtcM7keuF4l/wi03KPXZeScCQDUsKkrIO/ZfINvhR7ovWFbzQXg1C1qw;r4po+HxLJ+SKOkMUyBNEZg=="
+secured: "ONrQbiZAmSSonHH4yBPczkR+Z3g/D+ntv5Q0VxI37n+XjXbpQxH4QtX0wCmXtdnYCwzDH9YLqUs3xcAaPwYqDmDisG58Y9HC+43mtRUvbAlSk++Pbhqn2i8vsVh6/wOmk0JpfPlV+HQ/XtBZ6dhP/14kQI/uQDPA1336kzQ6u/1hNT+v36tXh1wcO0/xPQlGR/8cvS4nyY5bdETjh+82KpMiBfj3wg6ATt1c6BDFks0L40ssWlXRtxGIbU3tk0XmGfr2XYiHFdDQQGzDZmBu0ME8PvRlW9tX7urwE4Hii/+L4H9Q4eTHnUADZDmfE7fB;8H0i9fFJ/eMZSOcBSChbyA=="
 ---
 

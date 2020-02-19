@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Disappearing-People - Person removal from complex backgrounds over time."
-excerpt: "This is all happening in real time, in the browser, using TensorFlow.js. #MadeWithTFJS This is an experiment. It may not be perfect in all situations. Go ahead and try it right now in your own web browser. Pick your preference and give me a fork / like :-) Feel free to use in your own projects. If you decide to use my code please consider ..."
+excerpt: "This is all happening in real time, in the browser, using TensorFlow.js. #MadeWithTFJS This is an experiment. It may not be perfect in all situations. Feel free to use in your own projects. Code is released under Apache licence. If you decide to use my code please consider giving me a shout out! Would love to see what others create with it ..."
 publishedDateTime: 2020-02-18T06:16:00Z
-webUrl: "https://github.com/jasonmayes/Real-Time-Person-Removal"
+webUrl: "https://github.com/jasonmayes/Real-Time-Person-Removal/blob/master/README.md"
 type: article
 quality: 23
 heat: 23
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Disappearing-People - Person removal from complex backgrounds over time."
 
-secured: "ntfcYsJYgFbD9OjLHYlKUuWZVlX+CHtV/nlUa/ML3GJaPlBt97p1/wjdL47U3MW5F5U5uEyluSqH8rU9kfUUN4/jeHlUU6m07MQOWvAiWuf0F7NRJA2MmExz+WVUTS+EhB35CfMA4jlFD11c7LUatBoedpduKJhBQxDYp8Fzg5u7j/CVEcOBwVMjjTzu88f0JB8wNTe05eEzBw8z+cZ+sLpEC4QHSBurR3wI17VbHO/Yc7n5bkvnGjzbqS/2rAaoSzcS2qKoR4RDEa36qOUzbLDSoWPU1H9s/VNAS8XUCXcJEkqXPuwmK9QeATWnpKurTADVNUIyxJXVp1Fjk6rSP4G5fBSh8H2hBn88/7ZtmhOHwcmQb3VDydI+J3LUPvVVOpcTP1+ODgnvE41tsEl/nVEo1tMUIWXoSqUhWEwCjTqmCLQGTksOJcobFkygdQC24VLIvURcdVNk489dW5GfqVJLofFzsSfR7vUjBbM17v4=;4ZrxIaVhSg88lJobopCimA=="
+secured: "wuagbLYZ08FtjzHFGeu5yjaKzY6w81Oa5fX1GY+5LorMEWGIFKjRxBN56dbSKbsweXke/2qwYnjRJmbacGRf+/5uG3AHImvt2+jYZb/b7MNWyhU9vdi6G0WU3fUKoJuyn4ogpfZArKZEooc7scUSZjHfqWkBwDNxgxFRFHGuCsJb7gpaIc7HSnWVvll3v83eBozEN4mEN2HsBuNq2mmP8MnhO0cSVhlg5aVwxo0aE5s06Q86ReDV0n5jZW18H/LonJM17SjrxEWrVhvQcmPIW6jvgoCsYFXPO9g6RWjToGj1y2Q4IzBWC7+m9wf3Uw+B;efCDnvbRx+xn9el0gu4YFQ=="
 ---
 

@@ -32,6 +32,15 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/Labelbox-co-founders.jpg?fit=1800%2C900&strip=all"
         width: 1800
         height: 900
+  - title: "NGD raises $20 million for storage hardware designed to handle AI workloads"
+    excerpt: "That’s where NGD Systems comes in — it’s an Irvine, California-based company offering a computational storage drive tailor-made for on-device AI and machine workloads. To lay a runway for growth, NGD this week closed a $20 million series C financing round led by Western Digital Capital, with participation from existing investors including ..."
+    publishedDateTime: 2020-02-05T13:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/05/ngd-raises-20-million-for-storage-hardware-designed-to-handle-ai-workloads/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "hhCQfCFjGFz+Xw40Pzeaen+/ABRDe135MypjOrGEqHD/U2FyNo8MSStEU8nHAHMJB3yNfKhfCRQYW3Qvp8Ttyc6J6sZOdT9sHKGolRWDs64XQcOsBdbw5EJlZ0GsUuVfC8nqJnaJvV3IaEcXiWWKmkQPrg8sJg5QthDzjJf+qoUY5SvIBuMia2ideoYGp2XCn1J/tVuTnUlPliRI0+CpaeC5pBR2H+HJMt0eDGCG/nzxmjkayAyV6LhWc8Oxmz5FYp5lXyWwHtBUtiwbrCWadDCTbRlMDTHEWx4xVbz1qTRhmcpjKvjsPHz0sMx0iseU;pOyWm0BnX41smYLnVhid4w=="
 ---

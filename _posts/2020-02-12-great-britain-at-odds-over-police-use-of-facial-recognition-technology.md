@@ -611,6 +611,19 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 28
+  - title: "Amazon Exec Defends Facial Recognition Sales to Law Enforcement, Says Would Sell to Foreign Governments"
+    excerpt: "In recent years, Amazon has faced growing criticism from civil rights groups, AI researchers and even some Amazon employees and shareholders for selling its facial recognition technology to law enforcement and discussing it with U.S. government agencies. Some of the same groups have also raised concerns that the technology could in the future ..."
+    publishedDateTime: 2020-02-19T02:40:00Z
+    webUrl: "https://www.pbs.org/wgbh/frontline/article/amazon-aws-ceo-andy-jassy-defends-facial-recognition-sales-law-enforcement-says-would-sell-to-foreign-governments/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 25
+    images:
+      - url: "https://i2.wp.com/www.pbs.org/wgbh/frontline/wp-content/uploads/2020/02/3812_SG416.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
   - title: "Civil liberties group warns about face recognition system considered by Florida law enforcement departments"
     excerpt: "Civil liberties advocates are warning about powerful face recognition software that could be coming to a police department near you. The Tampa Bay Times is reporting that about a dozen law enforcement agencies in Florida have tested or purchased a facial recognition system from a company called Clearview AI. WMNF interviewed Nate Freed Wessler ..."
     publishedDateTime: 2020-02-14T22:14:00Z

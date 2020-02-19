@@ -28,7 +28,24 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 35
+    quality: 55
+    images:
+      - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
+        width: 600
+        height: 400
+  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
+    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
+    publishedDateTime: 2020-02-04T11:05:00Z
+    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
+    type: article
+    provider:
+      name: WYMT
+      domain: wymt.com
+    quality: 33
+    images:
+      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
+        width: 690
+        height: 388
 
 secured: "IedZFX1yGBlfzeWew4aDFV9sSANKHLAqsgz6jD7+D6bGxBHDxzKMRCkYC/6H+y4gbkUkk26E+mURgXW0wuQf725AjPJtzmhFFWKHyjFPwZkE671afQAsxPh4qhAEXGhw9P0e1ECx6Ts9TSaWsqG/kU548eLlq+hiYM+XXzK9Tags6Ukv7Zl/tqADcb704bwfW4YmNz/QjGDjYliDSOszapkUVm2G06vfC1it6Vuy//EwcjtA1hVRB3TmaHwWRcDY4WMl+kRtR2dUHF6dTR8wdZYILV81uyjWv9xbqYgdjMmRsXK9bbJtxzB+jmo23x3S;2KTMw/5l70aPF0zoK0I2pg=="
 ---

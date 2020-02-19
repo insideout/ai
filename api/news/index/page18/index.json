@@ -2,133 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-24-ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.md",
-      "title": "GANPaint Studio uses neural network to 'paint' new elements into images",
-      "excerpt": "A team of researchers with IBM Research, MIT CSAIL and MIT-IBM Watson AI Lab has launched a new online tool called GANPaint Studio that utilizes a GAN neural network and semantic brushes to 'draw' entirely new elements into existing images. In the case of this particular tool, the elements include grass, clouds, brick, doors, trees, sky and domes.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images",
-      "ampWebUrl": "https://m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp",
-      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp",
-      "publishedDateTime": "2020-01-24T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Photography Review",
-        "domain": "dpreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://2.img-dpreview.com/files/p/E~TS590x0~articles/7545535551/original_main.jpeg",
-          "width": 590,
-          "height": 436,
-          "title": "GANPaint Studio uses neural network to 'paint' new elements into images",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-24-german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience.md",
-      "title": "German football league Bundesliga teams with AWS to improve fan experience",
-      "excerpt": "Germany’s top soccer (football) league, Bundesliga, announced today it is partnering with AWS to use artificial intelligence to enhance the fan experience during games. Andreas Heyden, executive vice president for digital sports at the Deutsche Fußball Liga, the entity that runs The Bundesliga, says that this could take many forms ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/amp/",
-      "publishedDateTime": "2020-01-24T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-459244219.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "German football league Bundesliga teams with AWS to improve fan experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-24-get-ready-for-the-emergence-of-ai-as-a-service.md",
-      "title": "Get ready for the emergence of AI-as-a-Service",
-      "excerpt": "A new “_” as a service model is ... case managers, or financial advisors. In the case of a claims adjuster, for example, they could use an AI-based solution to run a query to predict claim costs or perform text mining on the vast amount of claim notes. Layering insights for better outcomes Machine learning technologies, when integrated ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/",
-      "publishedDateTime": "2020-01-24T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design43-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Get ready for the emergence of AI-as-a-Service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-24-heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads.md",
       "title": "Here’s What We Learned by Teaching an AI to Write Super Bowl Ads",
       "excerpt": "Super Bowl ads, the bot’s creators decided to touch base on how it’s going, what we’ve all learned and where this project seems to hint that AI is headed, at least in the realm of creativity. Here’s the conversation between Adweek emerging tech reporter Patrick Kulp and creative and innovation editor David Griner: David Griner ...",
@@ -1191,43 +1064,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-26-genesys-engage-call-center-software-coming-to-microsoft-azure.md",
-      "title": "Genesys Engage call center software coming to Microsoft Azure",
-      "excerpt": "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-26T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BCW",
-        "domain": "businesscomputingworld.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png",
-          "width": 320,
-          "height": 210,
-          "title": "Genesys Engage call center software coming to Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-26-ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers.md",
       "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
       "excerpt": "SAN FRANCISCO — At the IBM Watson Experience Center, digital and physical worlds meet in a futuristic-looking lounge overlooking San Francisco’s Financial District. “Regardless of the industry you’re in, there’s likely an application for AI … even as a chef,” said IBM’s data and AI engagement lead Euniq Nebo, as he stood before ...",
@@ -2149,6 +1985,179 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-27-iguazio-raises-24-million-for-ai-development-and-management-tools.md",
+      "title": "Iguazio raises $24 million for AI development and management tools",
+      "excerpt": "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides.",
+      "heat": 311,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/",
+      "publishedDateTime": "2020-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": "Iguazio raises $24 million for AI development and management tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-27-integrating-aws-artificial-intelligence-ai-to-servicenow-enterprise-apps-and-workflows.md",
+      "title": "Integrating AWS Artificial Intelligence (AI) to ServiceNow Enterprise Apps and Workflows",
+      "excerpt": "Artificial intelligence (AI) helps enterprises to enhance ... Amazon Web Services (AWS) offers a vast and growing array of AI services, including hundreds of free or paid ML algorithms and model ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@anandtrivedi_89127/integrating-aws-artificial-intelligence-ai-to-servicenow-enterprise-apps-and-workflows-dbfa0beb78e8",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-26T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*v0esKI4UE1hdC-ns",
+          "width": 1200,
+          "height": 619,
+          "title": "Integrating AWS Artificial Intelligence (AI) to ServiceNow Enterprise Apps and Workflows",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-27-launchable-applies-machine-learning-to-software-testing.md",
+      "title": "Launchable applies machine learning to software testing",
+      "excerpt": "Startup Launchable, with Kohsuke Kawaguchi, creator of the Jenkins CI/CD platform, as a co-founder, is applying machine learning to software testing. The company’s technology predicts the likelihood of failure for each test given a change in the source code. Still in stealth mode, Launchable is positioned to offer “smarter” testing ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.amp.html",
+      "publishedDateTime": "2020-01-27T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Launchable applies machine learning to software testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-27-machine-learning-system-uses-images-to-teach-itself-morse-code.md",
+      "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
+      "excerpt": "The blog entry by the delightfully callsigned [Mauri Niininen (AG1LE)] reads like a scientific paper, with good reason: [Mauri] really seems to know a thing or two about machine learning. His method uses curated training data to build a model, namely Morse snippets and their translations, as is the usual approach with such systems. But things ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2020/01/27/machine-learning-system-uses-images-to-teach-itself-morse-code/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/01/shutterstock_1210526857.jpg",
+          "width": 2395,
+          "height": 1349,
+          "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

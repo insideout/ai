@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T14:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation-2020-02-05"
 type: article
 quality: 63
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
       name: Your Story
       domain: yourstory.com
     quality: 8
-  - title: "MYCOM OSI Announces Strategic Collaboration Agreement with Amazon Web Services to deliver Carrier-grade Service Assurance with the Cloud"
-    excerpt: "Running on AWS, MYCOM OSI’s Assurance Cloud™ embeds its award-winning Experience Assurance ... telco and IT networks by integrating real time assurance with closed loop automation and analytics driven by Artificial Intelligence (AI) and Machine Learning (ML). “When selecting a cloud provider, the thing that matters most is a cloud ..."
-    publishedDateTime: 2020-02-04T09:09:00Z
-    webUrl: "https://www.realwire.com/releases/MYCOM-OSI-Announces-Strategic-Collaboration-Agreement-with-AWS"
-    type: article
-    provider:
-      name: realwire.com
-      domain: realwire.com
-    quality: 0
 
 secured: "sjC787BlfA5thfWT0vq7DJJNGfs/5RmJu+3oE3/YERJxF7k6scQXhf6j8/a3glx1QejSCbgtXwZcrblIBGnolnyMWUAKP/WUvEv6iEJeNDZYjLNJAbKt1wdcGx9urdMyovJRR2m6c85bHhsotKG7jvJZ2t+SkvTZY8xahrFljfHKY2cr7Gs9Bdmt81WvrUUQMIb0uqOxD1kv/hhWSIlrtG1hALxWZ4k3ie+tR54StYvsH/1sX/EHS2Hshgiq2DNvQ+Acx9q/K7WvFInuXO+f6AocsLgNmfbkgqQfL5WCy4ZXrXtlOLF+m4Dk4FfGv779;6hZWpKLeiPpWWuc6evfA0A=="
 ---

@@ -243,19 +243,6 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
         width: 1200
         height: 800
-  - title: "Is facial recognition technology worth the privacy trade-off?"
-    excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
-    publishedDateTime: 2020-02-04T09:05:00Z
-    webUrl: "https://nj1015.com/is-facial-recognition-technology-worth-the-privacy-trade-off/"
-    type: article
-    provider:
-      name: WKXW
-      domain: nj1015.com
-    quality: 39
-    images:
-      - url: "https://townsquare.media/site/385/files/2020/02/GettyImages-1198303844.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        width: 1200
-        height: 833
   - title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
     excerpt: "Law firms in Miami and Los Angeles claim in a class action that the Google Photos service uses facial recognition technology that violates an Illinois biometric privacy law with stiff statutory penalties. The lawsuit filed in U.S. District Court for the Northern District of California claims Google failed to get the consent or written release ..."
     publishedDateTime: 2020-02-07T21:16:00Z

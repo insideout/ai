@@ -18,41 +18,21 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon"
-    excerpt: "The Latest research study released by HTF MI \"Global Cloud Natural Language Processing Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
-    publishedDateTime: 2020-02-06T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06"
+  - title: "Amazon-made Rekognition software now able to detect fear"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
+    publishedDateTime: 2020-01-29T19:06:00Z
+    webUrl: "https://mashable.com/video/amazon-rekognition-adds-fear/"
+    ampWebUrl: "https://mashable.com/video/amazon-rekognition-adds-fear.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU="
         width: 1200
         height: 630
-  - title: "Computer Vision Software Market Is Thriving Worldwide with Microsoft, OpenCV, Google"
-    excerpt: "Latest released study \"Global Computer Vision Software Market Size, Status and Forecast 2020-2026\" with 91 pages and in-depth assessment including market trends, upcoming technologies, industry drivers,"
-    publishedDateTime: 2020-02-05T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-is-thriving-worldwide-with-microsoft-opencv-google-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Conversational AI Market is Booming Worldwide | Oracle, SAP, Nuance"
-    excerpt: "A New Syndicate Global Conversational AI Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Conversational AI market."
-    publishedDateTime: 2020-02-06T10:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-market-is-booming-worldwide-oracle-sap-nuance-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
 
 secured: "4oM4KNAEnXCS6BDpf33B66pDaz/hNL5MVuUAtuiP+VIwbrshWadzwz8qhj+mYnkaVij88fCR7Wxmg/viFJa9jjvYEvRr3KOWPyr/5sUlidu758ZbUqFztL7dUE7LMSxl7TPdjd3KCB10gvQ2LBUH/RKub5WHUnOxG6Cd6QYZRu02Y8l+NgxH0PnQ9D6DfFg4dInaB3O8+YOGgv8N331Qd/Q6TTPBV1VfDAKXGXufL+u+eCU7hQeHs31guLcOp8wTu8Z6DBO5Yay1tNzOYyrDQLAAXXeqo0H0x8nabRQ/z6CDcSJncUYl5YZU7f9ZJE5h;5/N/6BfdRniSHsg1U7VNXw=="
 ---

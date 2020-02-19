@@ -245,19 +245,6 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
         width: 1200
         height: 800
-  - title: "Is facial recognition technology worth the privacy trade-off?"
-    excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
-    publishedDateTime: 2020-02-04T09:05:00Z
-    webUrl: "https://nj1015.com/is-facial-recognition-technology-worth-the-privacy-trade-off/"
-    type: article
-    provider:
-      name: WKXW
-      domain: nj1015.com
-    quality: 39
-    images:
-      - url: "https://townsquare.media/site/385/files/2020/02/GettyImages-1198303844.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        width: 1200
-        height: 833
   - title: "Facial Recognition Has Its Eye on the U.K."
     excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
     publishedDateTime: 2020-02-07T13:41:00Z

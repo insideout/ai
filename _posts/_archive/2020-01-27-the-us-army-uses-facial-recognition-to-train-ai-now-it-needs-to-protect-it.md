@@ -53,8 +53,12 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
 
-secured: "3qFOumtoGuEBNk6cPFHZdKa3DABm+kGrNG3eIe6weu6NCwEvCl+iW6MiTwGOW+ihENuG5dNwp0JDs76fNhep/Tury/4HgPNMWxuIWj/6b2gfBUAOQqAw4Zoior784xbNO13rGlC3/UcJP3DGES8AyiKxv3xGA0lXFjBCAwMwSXG5ZYuV1yTSROIojHObzFAt712fo7yMVcawAK+m9X0qhW5oli5FNxzrg8oPSwachf8wx1pYdPnTJpXo9XcMDufSnx/yvg3vFjywYyHcq88+jEYKXSug+Bz/u4Q5+tX3tKaVvM4ccamjf/SiF4gELVcLdbetFCIJ5jZpcu9egBviAq7j4m5lJj/Za39eYLaH17APhkXpbi0Lc5ez4g0ESBkqsEO5otnghEu6ivTNGaGQxom6CGHPR2AzqA088EE0/szMU4jBpQJGeF5Fla7LDS/MQgeTcIP75PxENX5bp5YGfjU6vp7fmuBsxZNwliebt70=;LhlpFi4HBV2QK+2UQF7NFQ=="
+secured: "bgL1fiM9mjKGuK4q5YCL8oMjZiP6fAR213OoOVWsDrTxbkuNXSpzC4rJdI/13cEMW5o4idIq+XtYqu+OH/de/9RaV4bSQ/4V0nvVGLgh1vggH9vldrvZnR2bDwwVZkyZYToBplQ43BtjyYU4P4C51+9A+nB8iaVZGmv9aAyG+olw58V6xJqZQssdXbW8Ytn2vwxphD4ddIjLAPbJ/zoPoZMd9tctdrUaFdfQyqniLno0v/ivH0W6vaPZZZ+jtvsZJuPwOWa22PpVXAG3zoIy3+L2NWvMyaEU4KBkInh+PHdPyA9Ekfy3fpejl7yDpNW2;32VCiiLJECORUPkbQzesWQ=="
 ---
 

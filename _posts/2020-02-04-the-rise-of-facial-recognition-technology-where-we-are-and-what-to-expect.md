@@ -34,7 +34,11 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+        width: 1200
+        height: 800
   - title: "Top 7 Usecases for Touchscreen Object Recognition"
     excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
     publishedDateTime: 2020-01-27T14:40:00Z

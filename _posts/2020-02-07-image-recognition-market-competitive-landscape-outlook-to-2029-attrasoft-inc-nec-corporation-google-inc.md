@@ -63,19 +63,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
         width: 1200
         height: 627
-  - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
-    publishedDateTime: 2020-02-04T10:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200204005427/en/Global-Deep-Learning-Market 2020-2024-Growing-Application-Deep"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: "https://mms.businesswire.com/media/20200204005427/en/771085/23/Global_Deep_Learning_Market_2020-2024.jpg"
-        width: 1200
-        height: 627
   - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
     excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
     publishedDateTime: 2020-01-29T12:11:00Z

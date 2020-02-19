@@ -2,140 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-17-israel-risks-falling-behind-in-ai-despite-growth.md",
-      "title": "Israel risks falling behind in AI despite growth",
-      "excerpt": "Habana Labs. Mobileye. Hailo. Wix. There are more than 1,150 AI-focused startups in Israel, and that number is growing. Even so, some people within the government are concerned that the nation risks falling behind because it lacks a unified AI policy. AI policy refers to national strategies like the U.S.’s American AI Initiative and Canada ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
-      "publishedDateTime": "2020-02-17T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobileye-e1572905863843.jpeg?fit=1200%2C601&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "Israel risks falling behind in AI despite growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-machine-learning-is-no-place-to-move-fast-and-break-things.md",
-      "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-      "excerpt": "Machine learning systems can be massively useful, but also fail critically in unforeseen ways. We need systems engineering in synergy with experimentation and innovation.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/",
-      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "publishedDateTime": "2020-02-17T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e48aadba854780006b17705%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention.md",
-      "title": "Monash University researchers develop AI aimed at improving suicide prevention",
-      "excerpt": "In an effort to help paramedics respond more effectively to potential suicides in Australia, researchers from Monash University and Turning Point, a national addiction treatment centre, are using artificial intelligence (AI) to streamline how relevant ambulance data is filtered and categorised. The AI project, which received a AU$1.2 million ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "publishedDateTime": "2020-02-16T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/17/b6213abd-fa0f-464c-9980-616c43d989c6/thumbnail/1200x675/71d46fb343b28e5a5692484319d19257/idf-collage.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Monash University researchers develop AI aimed at improving suicide prevention",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-new-artificial-evolution-research-could-finally-prove-darwin-was-right.md",
       "title": "New artificial evolution research could finally prove Darwin was right",
       "excerpt": "A successful artificial evolution paradigm could result in a Darwin Machine-based neural network capable of better emulating the natural selection process and, possibly, the human brain’s own ...",
@@ -2171,6 +2037,114 @@
           "width": 580,
           "height": 387,
           "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2015-02-17-meet-the-new-face-detection-algorithm-that-will-change-image-search.md",
+      "title": "Meet the new face-detection algorithm that will change image search",
+      "excerpt": "Current facial-recognition technology is based primarily on the work of Paul Viola and Michael Jones, who achieved a major breakthrough in 2001 when they developed an algorithm that could detect ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/",
+      "ampWebUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
+      "publishedDateTime": "2015-02-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/7da/6e/fc3aa93d4cf68ff5406f291efcd81b08-1022x512.jpg",
+          "width": 1022,
+          "height": 512,
+          "title": "Meet the new face-detection algorithm that will change image search",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2016-02-23-trolls-vs-pirates-halostryker-oral-arguments.md",
+      "title": "Trolls vs Pirates: Halo/Stryker Oral Arguments",
+      "excerpt": "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2016-02-23T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently-O",
+        "domain": "patentlyo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2017-05-01-a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-13.md",
+      "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
+      "excerpt": "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ...",
+      "heat": 161,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2017-04-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/1200/1*KdbQDJccO7aoNIvDrjUhzA.gif",
+          "width": 1200,
+          "height": 675,
+          "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
           "attribution": null
         }
       ],
