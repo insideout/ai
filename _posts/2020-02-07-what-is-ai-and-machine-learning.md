@@ -28,36 +28,60 @@ images:
     title: "What Is A.I. and Machine Learning?"
 
 related:
-  - title: "2020 And The Dawn Of AI Learning At The Edge"
-    excerpt: "AI that learns at the edge is a paradigm-shifting technology that will finally empower AI to truly serve its purpose."
-    publishedDateTime: 2020-02-12T16:18:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/"
+  - title: "AI And The Ghost In The Machine"
+    excerpt: "If you search for ‘sunset’ in the pictures on your phone, it’s AI vision that finds them.” This sort of artificial intelligence is what the industry calls “weak AI”. Weak AI is ..."
+    publishedDateTime: 2020-02-08T00:00:00Z
+    webUrl: "https://hackaday.com/2017/02/06/ai-and-the-ghost-in-the-machine/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 137
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2017/02/ghost.jpg"
+        width: 3000
+        height: 1815
+  - title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
+    excerpt: "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness."
+    publishedDateTime: 2020-02-07T16:48:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 105
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/593333566/960x0.jpg?fit=scale"
+      - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
         width: 711
-        height: 473
-  - title: "Artificial Intelligence and Machine Learning in the Operating Room"
-    excerpt: "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ..."
-    publishedDateTime: 2020-02-19T12:30:00Z
-    webUrl: "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/"
-    ampWebUrl: "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/"
+        height: 290
+  - title: "The Role of Machine Learning in Marketing"
+    excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2"
     type: article
     provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 76
+      name: Medium
+      domain: medium.com
+    quality: 71
     images:
-      - url: "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200"
+      - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
         width: 1200
-        height: 675
+        height: 672
+  - title: "Most used jargon's in Machine Learning"
+    excerpt: "Machine learning and data science are one of the hot topics. We hear lots of terms related to these fields. Let’s learn about few popular terms. Supervised learning typically begins with an established set of data and a certain understanding of how that data is classified. Supervised learning is intended to find patterns in data that can be ..."
+    publishedDateTime: 2020-02-07T19:29:00Z
+    webUrl: "https://medium.com/@vikaskp/most-used-jargons-in-machine-learning-799b05cc6eab"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/531/0*unStElN00ZSlgzvl.jpeg"
+        width: 531
+        height: 450
   - title: "Arm brings AI and machine learning to IoT and the edge"
     excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
     publishedDateTime: 2020-02-11T16:10:00Z
@@ -67,6 +91,32 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
+  - title: "AI and machine learning will dominate the CIO agenda this year"
+    excerpt: "We are experiencing a data revolution. Data has become the engine of the global economy and it’s growing like never before. Our relationships, our jobs, our health, and our security all depend on it. Some industry experts say over 90 percent of the world ..."
+    publishedDateTime: 2020-02-14T08:30:00Z
+    webUrl: "https://www.benefitnews.com/opinion/ai-and-machine-learning-will-dominate-the-cio-agenda-this-year"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/f91ef0e/2147483647/strip/true/crop/1200x630+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Ff9%2Fe4%2F8e285a8f4049b010e65718bd30fc%2Fai-studies.jpg"
+        width: 1200
+        height: 630
+  - title: "How Will Machine Learning Serve the Hotel Industry in 2020 and Beyond?"
+    excerpt: "Machine learning will help the hotel industry to remain tech-savvy and also help them to save money, improve service, and grow more efficient. Fremont, CA: Artificial intelligence (AI) implementation grew tremendously last year alone such that any business that does not consider the implications of machine learning (ML) will find itself in ..."
+    publishedDateTime: 2020-02-07T23:24:00Z
+    webUrl: "https://www.cioreview.com/news/how-will-machine-learning-serve-the-hotel-industry-in-2020-and-beyond-nid-31155-cid-40.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_w12f.jpg"
+        width: 705
+        height: 485
   - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
     excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
     publishedDateTime: 2020-02-12T14:19:00Z
@@ -76,15 +126,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 38
-  - title: "Can machine learning and artificial intelligence save lives?"
-    excerpt: "As we move forward with the technology like artificial intelligence and machine learning, we can only access its true power for good through the skills of talented programmers, working in cooperation with medical professionals."
-    publishedDateTime: 2020-02-17T23:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15350449/can-machine-learning-and-artificial-intelligence-save-lives"
+  - title: "Is CoaXPress the Best Interface in Multi-Camera Machine Vision Systems?"
+    excerpt: "AMR Innovation Arrives at MODEX 2020 Discussing ATX West with LMI Technologies COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES Deployment of an Automation Solution - Process, People, Technology Cobots Versus Industrial Robots First introduced in 2008 by the CoaXPress Consortium, the original version of CXP supported a maximum data ..."
+    publishedDateTime: 2020-02-12T22:24:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2020/02/12/is-coaxpress-the-best-interface-in-multi-camera-machine-vision-systems/14852/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 4
 
 secured: "9SZz6ya6VZdUCuqiB6QQhKb1ARtt+vu/wbU6sdsQnOAnBHIW1WtgEfCFNw1KZBiZkdEBmMO992hOjT8Zb1DIzLuPa7fT86tfVEKzz464KcaK2WtZ7Xrd6xYFLqwzrZm9S/ZMwdpJCMtqMAPkynVookLo6AK+3LsK43lbmZ6eylqG8uK/d2AjWbzXlWSVD0TGxLqbxGt0/GHjfhoIR8wbKOlikPDV6obS4DE06SCJpNgrRUNneRRfoBEmXvH6uXsv2pFtKzmOkQvXGwlnSDFfYmSWPZk+e7rU/kmoFjY1dAwSb/7INNK1QYpyN47y57Ar;tglNgaojnJ71h89+a8Z0Xw=="
 ---

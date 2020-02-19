@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -49,19 +49,6 @@ related:
       - url: "https://images.livemint.com/img/2020/02/17/600x338/2020-01-30T114805Z_148678691_RC2BQE9Y9Q8L_RTRMADP_3_EU-ANTITRUST_1581912675356_1581912712630.JPG"
         width: 600
         height: 338
-  - title: "EU Unveils Plans to Regulate Artificial Intelligence"
-    excerpt: "Margrethe Vestager, the EU’s digital policy chief, unveiled a strategy for artificial intelligence on Wednesday that aims to boost the use of AI in Europe while addressing concerns about data privacy. “We want every citizen, every employee, every business to stand a fair chance to reap the benefits of digitalization,” she said in a statement."
-    publishedDateTime: 2020-02-19T18:32:00Z
-    webUrl: "https://www.law.com/international-edition/2020/02/19/eu-unveils-plans-to-regulate-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2019/04/Artificial-Intelligence-Article-201904091050.jpg"
-        width: 620
-        height: 372
 
 secured: "Pe22F2PGjS8S4EMxyZFo5awGKh4PXhGvvBBGW4mP5V6oqkUD1f0vVALIMHXbq0+vz1V/y/WlVgSGA7dt223KhNaOzuWQMct66TEyOeolFxiyNqzMiEo4U6cBfeBGsymbGd2t0A9nw4ZuoLYEpDeAtNTDD3xA2bpN/ulBkruKot5NMqo2eOVoB83Xtqvr3TMerDt8VGCybgZU7ugIQGBQPKc6PV05SLyeLNmiSOZe6TvMkg/1EJf5s1zPTDf2F0cMxTjl+SEsKHgG2+OUj/3KQ+LSxanlYjdv3xLx7PBLW0O/yEr7FT8/4WvuCgJb/7PwZtkN7DL6wfZELB4tFBivxI+y40tsIeDY3ySPkv1fP/W5j8GjVeHvk4Y1rUUa0++dtxKrlgo2GmebtkhIrYht0xdv6/9QplxLA5XjOk3ZZ80Y/NFkBoY2hiuMuiOHqEZFMBD3nOMjjcoieONsDT68/yQVns5/1C7DU1LoIWhar/U=;8QIWMyEQ9SkCKBpYR8xZCA=="
 ---

@@ -2,27 +2,23 @@
 category: news
 title: "2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
 excerpt: "Databricks is proud to announce that Gartner has named us a Leader in its 2020 Magic Quadrant for Data Science and Machine Learning Platforms. This is the third year in a row that Gartner has recognized Databricks in this Magic Quadrant. Gartner evaluated 17 vendors on the ability to execute and completeness of vision. Download your copy of ..."
-publishedDateTime: 2020-02-19T19:53:00Z
-webUrl: "https://www.infoworld.com/resources/198957/2020-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms"
+publishedDateTime: 2020-02-19T19:41:00Z
+webUrl: "https://www.computerworld.com/resources/198957/2020-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms"
 type: article
-quality: 67
-heat: 147
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     title: "2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
@@ -93,19 +89,6 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
-  - title: "Alteryx Recognized As A Leader in Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
-    excerpt: "/PRNewswire/ -- Alteryx, Inc. (NYSE: AYX), revolutionizing business through data science and analytics, today announced that it was once again named a"
-    publishedDateTime: 2020-02-17T16:27:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/alteryx-recognized-as-a-leader-in-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301006033.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/662162/Alteryx_Logo.jpg?p=facebook"
-        width: 1196
-        height: 628
   - title: "360factors Announces Upgraded Learning Management System (LMS) for the Predict360 Risk and Compliance Intelligence Platform"
     excerpt: "/PRNewswire/ -- 360factors, Inc., the industry leader in risk and compliance intelligence software, announced today that the company has released a"
     publishedDateTime: 2020-02-18T15:10:00Z
@@ -129,6 +112,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "l0oQ2sFbQI8SQtJgc01nbIntoYJOJr7nPAKhVrHbAgp8t185b5pPOe1p39n9JJEXa5xr1ynt2FpHyRrLp2kXMRUW/mwZCKLGYM3Gq1aIoGypA537j5ACdN1O3spIjd1L+o4LzgcEPucFI4TR/4FtgpaVcRbcw/5YHhvM3H1cq6vp4Z5+Sb713D0ukfMMlKFWEp+o2iYKjdygai1lyWZOhJcMTnjn8nWAu43rvAtynxOxGSdqF1vH28BDpauwEJwbcdArJnb85TJvUE5mgSf+J7uVDNUauIyA6yj/3DZOeklN1jMeYu6azvxr6fxTzpOM;CK7JMNA0VQH7MtwdxZECBA=="
+secured: "cQ5FNkGIKbJ96Dk3MTC7KswyRu4y5oupfQlRzyleaaphUF+1rOJa1bsjSdWOfjFP4MvP7SET79blGl1BWTk6EsQ4V0kT1qHo19llC9HX5KEgPIQR/yea9BifKOF96AIILSdXwGq9I0G1mb8qZkJ9xxv9fIHKvIASyfDtl+/BYz+MfzT6KwFZ5T87HA1pf9lNEk9jXqcO+EFaDgkVXflELxfrgGTHPf9wo+4bMR5NM7La10hGBK3eeX2HZoEkE5JINWF38sEWaNtajXye1MMPkETTxabyRQS8JFjBzR7ctDQHyZQAr1gtdkn52Mvo+SHg;pcrc6nKlV1uTMCnqn7RIGA=="
 ---
 

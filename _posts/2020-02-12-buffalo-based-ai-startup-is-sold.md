@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bizjournals.com/buffalo/news/2020/02/12/buffalo-based-ai
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/buffalo/news/2020/02/12/buffalo-based-ai-startup-is-sold.amp.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Business Journals
@@ -25,15 +25,6 @@ images:
     title: "Buffalo-based AI startup is sold"
 
 related:
-  - title: "Singapore’s Trax acquires Paris-based AI startup Qopius"
-    excerpt: "Singapore-headquartered retail tech unicorn Trax announced it has completed its acquisition of Paris-based Qopius, which provides AI-based in-store tech solutions in Europe ... Its other backers include Warburg Pincus, Blackrock, GIC, and Boyu Capital. To date, the startup has raised a total of US$360 million and is now valued at US$1.4 ..."
-    publishedDateTime: 2020-02-18T05:58:00Z
-    webUrl: "https://www.techinasia.com/trax-acquires-qopius"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
   - title: "How This Bangalore-Based Startup Is Helping Kirana Stores Harness AI"
     excerpt: "For AI and Computer Vision projects, the company use TensorFlow and they also have a full-fledged CI/CD pipeline to automate deployments using Jenkins and Ansible. According to the founders, in the coming years, Jumbotail will expand the J24 stores’ network and help the entrepreneur to transform old Kirana store into modern convenience stores ..."
     publishedDateTime: 2020-02-07T05:34:00Z

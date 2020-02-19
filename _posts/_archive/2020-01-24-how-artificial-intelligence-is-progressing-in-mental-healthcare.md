@@ -25,6 +25,6 @@ images:
     height: 337
     title: "How Artificial Intelligence is progressing in mental healthcare"
 
-secured: "K2/5oMbpAM0XuIzypT1t1NI+L8y9C0GSXXkCqy+PLh81u3jEgo1rdXE604wz5tVNBz7xdceHBJKVq1wT6iKpZFcWIzHOxYx53baMUN2o1u8Pm1k+LdjtVwEWoRHAKRPvvd8ZSti9+/CXnpkUx3lwB7zhYH4FTf2hqUxEZ252+qm6LPZnsbT2oXU+K0AiBXaIhjVsIznLad7HD9FoUWaNOmvf9fqQgnI+lkl0A7R/uA1qvLc0PEVihnIMugwsgc8qgTMErw1pCAklgXUGx85GB9A+IPBv9Gol9+bQJ4d6isWNJUzj6oR8PJfuu6/Kr89C;08sLWkkIi1BX4KLmT28c2A=="
+secured: "zG84Gqd0ySV3wVKQjLxypERV2l3vWkMMULYIvYeHqSVaI1xIuMa8ZpOMW+1s/nNm8pmLRh7BWOhb/65r5Qutzi/NrT4TIQ456xQ8fdGlPLyssioly5/OJll6bHnSFJxho+VM23wuYZX1FAw4SMSeMDcFw7drNvUSKsLquSqmsWiBGkJw1iHpW46FU1j2SZny6oxywhUN7cfUAiCgtG59tR+yvStFA4S0rCdOxp8mfQSj3wF0VnLl0b5IryV+dX6q3IvZhQIhbJbyrpb8g9pVevCEUAxQLFVtZbRWxfG4YXpKSz/fx8BhBnaraF4EFVTp;WHTPgvRnNyePW8MlAAAQYA=="
 ---
 

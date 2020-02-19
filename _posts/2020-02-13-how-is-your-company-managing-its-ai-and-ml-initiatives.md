@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-is-your-company-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: TechRepublic
@@ -31,41 +31,17 @@ images:
 
 related:
   - title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
-    excerpt: "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness."
-    publishedDateTime: 2020-02-07T16:48:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
+    excerpt: "Just like with many other industries, artificial intelligence and machine learning are changing engineering. Even though these technologies are now seemingly \"everywhere,\" we shouldn't overlook how truly incredible they are and the remarkable things they enable us to do today and will allow us to do tomorrow. For engineers, artificial ..."
+    publishedDateTime: 2020-02-16T16:16:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-machine-learning-used-engineering-marr"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 55
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
-        width: 711
-        height: 290
-  - title: "An Engineer’s trek into Machine Learning"
-    excerpt: "My trek mates and I climbing Mayali Pass in Uttarakhand Himalaya, India You are a Software Engineer. You notice Artificial Intelligence, Machine Learning, Deep Learning, Data Science buzzwords all around. You wonder what these phrases mean, whether all this is for real and useful or is yet another hype and passing fad. You want to figure out ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/slanglabs/an-engineers-trek-into-machine-learning-658bcae3e109"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 49
-  - title: "Hyland buys blockchain-anchored business Learning Machine"
-    excerpt: "Financial terms of the acquisition by Hyland were not disclosed ... More than 900 such institutions already use Hyland's content services platform. Chris Jagers, CEO of Learning Machine, said in a statement that the deal \"creates significant value for Learning Machine customers who will gain the full benefit of Hyland's notable support ..."
-    publishedDateTime: 2020-02-05T16:11:00Z
-    webUrl: "https://www.crainscleveland.com/technology/hyland-buys-blockchain-anchored-business-learning-machine"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 39
-    images:
-      - url: "https://www.crainscleveland.com/s3/files/styles/800x600/public/Hyland_Software_Logo_i.jpg"
-        width: 800
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFK0Ri3NidyQQ/article-cover_image-shrink_600_2000/0?e=1587600000&v=beta&t=pKeqJJGojnQhn9rb9n1vqQRMBP7Mdd4TkypP384s_IQ"
+        width: 1462
         height: 600
 
 secured: "tfCeFM/683VieqLXjXFffEyoEoFe+wc/Z5DpNpmBqpo4hDkf5NiR8x8N7BML/TonJxJ09tC8TCgxnCE/hVGHD0SLUO7GtllmFgz+hz0VQxq30zmT5t1LOehc1D1bmAQns7lC6SpolfyNrzEVPAZ2gpmK8U5B1vrsynv4jy/01T5JiwjLMelzB70i/URpXkkcfl6TyEKqb1cNTqYJ2o9W7uE4q0iS3Oo8BQxZnN7UiN+KwXfPmgNdKrJPuv2E8GHm/CaNfnhrbZRv4DdPVFoSgdXpqsNpRLIpC59ieS1r/MLs9l9+1AKJdy0oALO8x3AWDV18KIZmVLoV1dRG9yzZvwtgYlb9DZdpRkbTUZaWMg0AALjZK6L6k8gc67hRa1LJb0uc2Ni2qYQorRq+5WtLMQ24WSmXOyzwMtmFgFLktFTM5RbLAOa4DLFhOh2XGXGsrmHCM60nWf137UEpgx57f/boihRpw+KXom12sKiAnIY=;vyRn2T4qJQgeK7xhO3esdQ=="

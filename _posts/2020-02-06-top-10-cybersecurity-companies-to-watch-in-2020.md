@@ -85,6 +85,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Hyland buys blockchain-anchored business Learning Machine"
+    excerpt: "Financial terms of the acquisition by Hyland were not disclosed ... More than 900 such institutions already use Hyland's content services platform. Chris Jagers, CEO of Learning Machine, said in a statement that the deal \"creates significant value for Learning Machine customers who will gain the full benefit of Hyland's notable support ..."
+    publishedDateTime: 2020-02-05T16:11:00Z
+    webUrl: "https://www.crainscleveland.com/technology/hyland-buys-blockchain-anchored-business-learning-machine"
+    type: article
+    provider:
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 39
+    images:
+      - url: "https://www.crainscleveland.com/s3/files/styles/800x600/public/Hyland_Software_Logo_i.jpg"
+        width: 800
+        height: 600
   - title: "Growing Optimism in Emerging Markets, Fintech Company CGTRADE Expands Its Business in Asia Pacific"
     excerpt: "This includes United States fintech investment advisory company CGQuant and its subsidiary CGTrade. CGTrade has set up operation centres across Asia Pacific regions including Malaysia, Singapore, Taiwan, Hong Kong. The company, utilizing powerful internal and external resources of CGQuant including AI big data algorithms, provides top-level ..."
     publishedDateTime: 2020-02-05T11:20:00Z

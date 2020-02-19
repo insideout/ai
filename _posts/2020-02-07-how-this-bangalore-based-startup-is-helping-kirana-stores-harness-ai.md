@@ -40,15 +40,6 @@ related:
       - url: "https://media.bizj.us/view/img/11319827/thought-leaders-energy-and-infrastructure-adam-stotz-5220-052419*600xx6000-4000-0-0.jpg"
         width: 600
         height: 400
-  - title: "Singapore’s Trax acquires Paris-based AI startup Qopius"
-    excerpt: "Singapore-headquartered retail tech unicorn Trax announced it has completed its acquisition of Paris-based Qopius, which provides AI-based in-store tech solutions in Europe ... Its other backers include Warburg Pincus, Blackrock, GIC, and Boyu Capital. To date, the startup has raised a total of US$360 million and is now valued at US$1.4 ..."
-    publishedDateTime: 2020-02-18T05:58:00Z
-    webUrl: "https://www.techinasia.com/trax-acquires-qopius"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
 
 secured: "0CzV9XcG53advA11Oah5uNMwBLMHszawJpf5bCcu5UJYb9Bbq6dLJlZal6RS0uVeIMjyqs/7qD/V6ce9T2SkWB1q5pTzvf2yu1xs3RkHHKAx412Co39f4QfVpYos33j2k6mEzD9Z+/Yh8+JgaPQTeT7NYNhrn7iMsY8nSvO0gNmrdt8KebN4AdDQKgJ4I9perPjKId4M7fIfR6VcLheMmmJGKPFc4aXFXY136z/PbprPqvQezpN99I3tiXfVZVrSfYOtyjy+uDAJxfEqvk6UE4BVeX9/GnwBrJ9dql/IBTUpeAgCA8YT6OdVmx7/MVppqjEhY1J2UhVgn1Ac+HvD5XFv49lw6dDXj3Z6yDjsaY1y0cQeX4uA2HLzoRE6v5O5VHh6FXcX4G+fFAg1muNArGzCSRb12lB0UmyQBaFJGWrv47sDqzsf3Jyd45qIc/3S6w32bAyyYoh4y3A42ROgMXw0NfQQ0Sf2zaDJfEu9r9M=;dFe4oXAgqpOn0FG0xFe74g=="
 ---

@@ -5,9 +5,9 @@ excerpt: "However, he said, \"Taking AI ethics seriously could increase the chan
 publishedDateTime: 2020-02-19T16:23:00Z
 webUrl: "https://www.nextgov.com/emerging-tech/2020/02/pentagon-adopt-detailed-principles-using-ai/163191/"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 139
+heat: 139
+published: true
 
 provider:
   name: Nextgov
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Pentagon to Adopt Detailed Principles for Using AI"
 
-secured: "zGXh03JQU+wn4xKGwN2oB8kYHNG9GbKVc9nF1ouon8xmnwzIYrHoY4xgbEOufMuHTUqOzFA4Me3LPK6o4DpcKhcXPiOfkzQelo9TURPuiGpnCoOX2WMJ1/AbEpp1zAuTZJtm584As0XSDOOQqYBR5RocGw+a8p8SSRZAgN3d4Bcg6ImWSC7q6CF0xwpIl6UKwJz22rSUiuqHrbjK5tjx+EimcYvbPm4noRhIhxV0lxwxti0LoPJVA/8DGo2dJQOJjafY3ybWuTf5nM4ptG+R/i38HME0WbdEc/TTq74mlF2wNHKXzTRJ+bsiqxVmGwoLdMn1Qp31CDjJZevdEUQt6C9ZtD2TPkuS98jXPEc6cNrYbpdLwXVDNLrsXqCRnPHNdbSWjGUYo8MFd6B834K63vayzKP+njq/zbQabfgYwJqG5rJ8H/l3TbKWAOFN2ViXTDyXVKkNpi5PxCAyjsC02FvHG7isqRcMOdVXZDQjfR0=;s/KaAp3mtn8MenHJq/cUEA=="
+secured: "3CUil7OuBoCl2swqxud+eYZQ1maAoE30Yvn+6t8PpzrZ93M5FMmv/gJliwlY3T+g5gfhNEYJXQBJ6SceHkfEbOX1lthq67C0TukFwpRchFkXWevCnyFgtF1LsNoGV28+/4tAgN02+9hGYXW2QzefalLlqfpiJISICYxefYXnNr4FNW38ZubKfAypooHVdMclOwiGo4KgNfNiVDmPAXkLEI6iC1XzHUDUWvbv7gqEuXI6Qob1fT8zpK/AmC3vQ4erW0vfHnhnM1mHp3FULo16ROuEs49fgZosj34ahYv9QWxGkba+dfSWllLOTb/aX2fbr8n0ISyEvwK5cMx26cnD5wUuNo2TSwAB36XdiAaMVnpdePXMIgeX5DBvz3ULDu/fuMbBR6RcuK56GVqZQTQxYWNgOX2O1ops4aX6rnwSnKS+pFuw2ve8tY7/YAWzRtLreNZkrZg8lclO8TCMNRIT9chOyoqIyyEa+X45ZS1IxXLvx4h1CjNKRZpzkhzYR/5b;AMDlNknporfpZ2WyKgy4pQ=="
 ---
 

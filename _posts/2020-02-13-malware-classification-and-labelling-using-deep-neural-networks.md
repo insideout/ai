@@ -76,6 +76,15 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59825-3/MediaObjects/41598_2020_59825_Fig1_HTML.png"
         width: 685
         height: 546
+  - title: "Machine Learning in Nursing Market"
+    excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
+    publishedDateTime: 2020-02-06T11:30:00Z
+    webUrl: "https://www.openpr.com/news/1921686/machine-learning-in-nursing-market-report-business-strategy"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
   - title: "Codeword Selection for Concurrent Transmissions in UAV Networks: A Machine Learning Approach"
     excerpt: "Fortunately, machine learning (ML) is suitable for decreasing complexity in codeword selection, because ML could extract features from the data samples acquired in real environments. In this paper, we propose an ML approach to achieve an efficient and low complexity codeword selection for UAV networks. Specifically, we first derive the ..."
     publishedDateTime: 2020-02-14T03:17:00Z

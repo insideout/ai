@@ -41,17 +41,6 @@ related:
       - url: "https://www.essence.com/wp-content/uploads/2020/02/pelosi-ripped-sotu-900x600.jpg"
         width: 900
         height: 600
-  - title: "Pelosi rips up Trump’s speech, capping off chaotic year"
-    excerpt: "The White House’s official Twitter account, meanwhile, accused her of ripping up a list of touching moments from the speech, including recognition of a surviving Tuskegee Airman who was present in the chamber. “That’s her legacy.” Pelosi has not spoken to Trump since Oct. 16, when she walked out of a White House meeting after accusing ..."
-    publishedDateTime: 2020-02-05T03:38:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/pelosi-rips-up-trumps-speech-capping-off-chaotic-year/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/pelosi-rips-up-trumps-speech-capping-off-chaotic-year/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/pelosi-rips-up-trumps-speech-capping-off-chaotic-year/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "OhBBuTjGw7/5k2Cg7izyMgCdWBVD4pTxu9yR4wAOFRo2RuMdaR6y94z9s7VJe5uRCwQCoZ/ysBKUhPFwKDb8Z9GsTBX+kSMUNDc5IRmyL2hQRl1OilzkMPerz6m7/nGD9+lnqiCqSNdoSrGJ+37t0w/DC8nSY4fp5Fc9VECivfWduBLbF3Az+wSz1GHv0f6ygVWayt6XQxvm8+othBYbvUI3v00JcLPwk9ZwFLc3+l5+IV+Sq88CJiRHG2U2T9IA1yli8i5gqc0miUL4Ia2HlC2FnzHBuQFZcOtqNPe5JuS35XgsjszajbFxghQ4XPzh;Q9uincpOhRpEkGAf2hfSVw=="
 ---

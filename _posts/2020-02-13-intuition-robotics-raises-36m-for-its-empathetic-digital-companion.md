@@ -45,6 +45,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/07/still_002.png?fit=1270%2C748&strip=all"
         width: 1270
         height: 748
+  - title: "Endpoint Protection Vendor SentinelOne Raises $200 Million, Eyes IPO"
+    excerpt: "The Series E funding comes just eight months after SentinelOne closed a $120 million Series D round, and will help the fast-growing endpoint security vendor expand its geographic footprint in Europe and Asia. By Michael Novinson February 19, 2020, 11:30 AM EST SentinelOne Wednesday closed a $200 ... raise any more money prior to filing for an ..."
+    publishedDateTime: 2020-02-19T17:27:00Z
+    webUrl: "https://www.crn.com/news/security/endpoint-protection-vendor-sentinelone-raises-200-million-eyes-ipo"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 137
+    images:
+      - url: "https://www.crn.com/resources/025a-0ebd3d78ff5f-cb22610bd78b-1000/86796455.jpeg"
+        width: 399
+        height: 399
   - title: "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles"
     excerpt: "Intuition Robotics Ltd., which has been developing cognitive agents to interact with ... as well as socially engaged. The company’s “Q” cognitive artificial intelligence product, which powers EllliQ, is available to third parties, starting with automakers. “This investment will fuel the evolution of agents from utilitarian digital ..."
     publishedDateTime: 2020-02-13T14:05:00Z

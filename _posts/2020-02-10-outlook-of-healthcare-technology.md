@@ -97,6 +97,15 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE4n5iQNbuFHA/article-cover_image-shrink_720_1280/0?e=1587600000&v=beta&t=wcizOYOgfHFN8sdPEi5AGZRImgPTyUbslbQ7-IrlUUY"
         width: 959
         height: 720
+  - title: "Artificial Intelligence In Healthcare Market"
+    excerpt: "Meticulous Research- leading global market research company published a research report titled \"Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services), Technology ..."
+    publishedDateTime: 2020-02-05T12:48:00Z
+    webUrl: "https://www.openpr.com/news/1920347/artificial-intelligence-in-healthcare-market-2025"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
 
 secured: "g4W9/NlfFNO7sPdoqab+Y3k2uK6Z/yPlI9tFdAY/tyEu1a+jK/Rp5OXRK5BJ2yl85eWqHsWbNznduAd4XgIPQG3yN6mQFab4cWTXt7la88HAypW39Gs/7UDhUw/hLX2Rs89RSSAa1OEBmRLd/nwVeNKQ111azXYCRO8r4wJCEs2be02ijYV+hZA8U4zWFKGSdq4xQswisn/ScPXvnrRZ3sKmktOcpHUtqvkZmNU6ZR5O+LZfbFEzUy9FAPsEnycXVGpKJGyJ1NV0Enk2+07XASy+ZWWrgg7I50pLBsCoQivtW8Jm4MMQxr8AOqBqdaqZ;A237Fdx8j6QWCagQjW9uQg=="
 ---

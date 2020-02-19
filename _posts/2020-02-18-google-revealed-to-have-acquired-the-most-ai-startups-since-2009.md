@@ -5,9 +5,9 @@ excerpt: "Coming in behind Google was Apple with 18 AI companies acquired for a 
 publishedDateTime: 2020-02-18T14:20:00Z
 webUrl: "https://www.information-age.com/google-revealed-acquired-most-ai-startups-since-2009-123487752/"
 type: article
-quality: 41
-heat: 41
-published: false
+quality: 141
+heat: 151
+published: true
 
 provider:
   name: Information Age
@@ -24,6 +24,17 @@ images:
     height: 675
     title: "Google revealed to have acquired the most AI startups since 2009"
 
-secured: "rApI8cCH/fZLitKZYfX5YhUpp1R7CT0e6gxPcNSTLSvlkMs41jXit4O/2r9j7E0cVjwmfn7gO5RNINJFdsW1qBphlIp6MgTWtf74+f9WLt8jpOVSMms3SyUjs7ht0emEey6wv5EHlwpK8Y54nzxGDTi4Qv3/pYAEOvh/KEiBvx64EHlwfWK0M6W5NtsU1uRIxlI5TrcBsnmucP7F3V22/61oB5Sd6Mm5OVEraHpPQ5cQNFpZNZt79ZhuJK46bfNO1t8ag8xEiKDLzibn4mx4G6H1fd3XK1trRsvM4ill2ZfUbcEg/YLL6qGmFdFfrykwxg5pihd+QLiHe5QB2KzZA/RsQRR5p69RZgresWOeuub9U3cyf07TSBSmjh03nr8eV7HwgTbnOa2zoWkI+iwNVD78bZ4gdKDyTeGtza6VnMVkSBKUEQqfaT3dP0Rvv5kS0Ja/ngaak11+Vl0rRpwEWNGdDZQwJ/rZoTLFUL/fFPY=;Lf6R5cs2wA54FCUaTqTLNw=="
+related:
+  - title: "Singapore’s Trax acquires Paris-based AI startup Qopius"
+    excerpt: "Singapore-headquartered retail tech unicorn Trax announced it has completed its acquisition of Paris-based Qopius, which provides AI-based in-store tech solutions in Europe ... Its other backers include Warburg Pincus, Blackrock, GIC, and Boyu Capital. To date, the startup has raised a total of US$360 million and is now valued at US$1.4 ..."
+    publishedDateTime: 2020-02-18T05:58:00Z
+    webUrl: "https://www.techinasia.com/trax-acquires-qopius"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
+
+secured: "uBRpawrVa4Q3E1ttLOLtjrdLGPBz70Ocbl+issaahLor7boGnBQBJyPMd/Sl8JVWgLQGRfbsuLgQvqDuDyCfhB7oF7i8XpUcX6j5y7OkMEQpDmYRC2Je+W5brwg77P5URqBdz1dWzA6HG1ZwTiHtTM6wAMhq+22fQjVsmb/olnSYN9rh7qQqvpjMRk7SwDfA8vz45xiyp8/dBh40FE3dGJvkyx47z0jVwv1okJQewc6neXEbGBiWdegHf2Wk2Tf8qk2KmJvM9f/D1H+PJd8X1scG2bE4er25b+qEZ9LWVOeeDaSxGIAgXrxkF8TNS+pwaWC0CrnNNmSjuQp7JIrmdRDfjzNjlKUepGC5P/QQ7yhP4AUnS/TqhW5z161J4FQe0YWuUzOyNqOlyHa3TUGc54MsGLh4e54dZ5iTCj1UnlBqvfx0IA1jo2SXLCp6lBs3jMETQcjO8B+BcO/ZxUNiB43Y1MfcaKwHSEn3Bb5lf9++7nyUKq3Yb709XmmQE0Ll;JgNOpJYJTxLRk3WuQAEp5Q=="
 ---
 

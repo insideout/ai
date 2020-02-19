@@ -47,19 +47,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
-  - title: "EU Unveils Plans to Regulate Artificial Intelligence"
-    excerpt: "Margrethe Vestager, the EU’s digital policy chief, unveiled a strategy for artificial intelligence on Wednesday that aims to boost the use of AI in Europe while addressing concerns about data privacy. “We want every citizen, every employee, every business to stand a fair chance to reap the benefits of digitalization,” she said in a statement."
-    publishedDateTime: 2020-02-19T18:32:00Z
-    webUrl: "https://www.law.com/international-edition/2020/02/19/eu-unveils-plans-to-regulate-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2019/04/Artificial-Intelligence-Article-201904091050.jpg"
-        width: 620
-        height: 372
 
 secured: "xvDDNb1U6oO6s7UK+/M5GS73YRw1BULl1NGUnipta988AMYB075vqmyKDMIs9aBtgWKWkCk5I7ACcKbogjKWrq1Gv+1JlMrJCFBNTHcBU1ylkrNszLj4FffKo8q1IsIYdzKy+jd+VIr/yB790WFZG7ijlsFGtYrhLj0vGIq0NK0D3o6JzbWCd9e5z80JZxksZv2geV7wzRrGLrdOV++e2Q1kKMZfYaMh8kUyEB7VK5HLYxNJk4jrrgvu+AMrJADWEvIwYcC2VU/5n9WjXWHMIJZLJJRrmI/0cOpcQqoVCW5UxOJGZg7XFmG1FhQXckwg;tnl8BItsvr0iweL3W1q2sw=="
 ---

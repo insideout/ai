@@ -7,9 +7,9 @@ webUrl: "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/"
 ampWebUrl: "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/"
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 157
+published: true
 
 provider:
   name: BGR
@@ -24,6 +24,6 @@ images:
     height: 1205
     title: "NASA missed these 11 dangerous asteroids, but an AI caught them"
 
-secured: "9nUFKNPzNX5SsJ8YWOanvf9HvQH2WDtly/D2Qt9fcd98NAtsU7a9GGDfwDMV80/DTtBn5JphwZoYqyc7LUMmWdALb5uLKTagOZG+WA7IYQ0Q7Jtsf7YUAOC8Pyfv10aF0VYPrSQzglMov3VZjtelVcJavgVb9W9vheKcnrotV5ImMfpnJ+UeLlygm6ZYYlSFB4btzYbMELT76KOwNq54/5nlUvmoe7JkTm/vVC3tcAokDBMsQGqQAM4sFFjuZ57UPvgpYqix8SJzn0ARVX+hCP4zbQTYHCjytnF7r2OCDEWqUQM2Uu09Zd8jXdJrVU5cfu9JSWxeu3bxvm5ebm/k2t5aTyDsvdFHSNNaeToJ+SnKSqvr0A7N3/6xwXVBiAnVPj1vnknpgsWsECukeyx4RzefaAEPeX8OvF2sPhHxtTORtAGfx0kL+zDzvrk5GUpnBzDeHtmP5ByAOvWFJoTruvAicNEaZvY/tufGP7U/hc8=;E81YnNe+CGUoP8QJoej/qA=="
+secured: "urj4h18YHmkGHRNPBuLIKqdOWixvkDO7jUQ6WjOlJc3IOD0wUpIzrfp+S1yKPnVkX2ag7pekgymmGeTWKiabfTKtj1Fm3SgKiHy8cetwSOCzJW9rphOeI+r+SaXGYPybqdV9JGRGNE9PYBYbBmt64/OzTSGQXLLKntjmOkKfGGCYv38aE94cRKEjeNUYQBllWejsMnFqK/mXg/iSdky0w+0u/W3B9w6KVcGtMaP/GzWbaLF1OSHKC2PGTeazeyDv2OxSkKcinpyKaV7bdVIBGwY6twKTuPrK7sJn8Q7FA/KawGBaTWeKCfJmw8Po4TwEyCGAqvPhB91cyHbuBtn9OdQuctdlZGif+7QaBCf+wuhl30gyf82biMKfD6pCgmGl59cHVPMOsL2PRM3vK1ON8UPIEGWR6AE7F2YP8Dao5zsz6dTqZegeW7xUsZa9lQBw8hSI6y1Dg7itrPi6uk0+VSHcaakR+IEX+eCa027Rt5gHLLIz1RPp3bKtHyROa6Zk;uZ5E6wNQ3kP1M6N2BgBNzw=="
 ---
 

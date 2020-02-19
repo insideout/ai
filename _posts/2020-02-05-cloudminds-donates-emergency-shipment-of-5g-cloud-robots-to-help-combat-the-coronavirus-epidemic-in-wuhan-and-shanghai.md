@@ -39,19 +39,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/05/15/24349582-0-image-a-32_1580916878292.jpg"
         width: 636
         height: 382
-  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
-    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
-    publishedDateTime: 2020-02-05T03:35:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 20
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
-        width: 500
-        height: 300
 
 secured: "Bn7/HXVVo3qdrgK0pXXUJ432MHXX4pgRXUnyijvIXtQRcQcW3CasfDU5+ui5HM6f8w6H7N3csM6axhRHF96tz3nSNSUfB3hJbNBhGfKkn5HfjI6AYFspJ65qBMO68UwB0PqLN9w5s8+sNZ9ODr3JyWoap3BDDpPNUbSzpIim6Y0Wr2gYwkzAWIOoZqm7GUP2SNKIsu6tmzvO+loOK3XSetLOI9O2Gp1oKv1aHee0q9XCL3NwmKFogiK3N5T/hMrjhJkCPibxSxrLF+f2F9eUtP/Y9n8X0svFJTJyA3w2fHN123HzeNiOsHpYPuYgGXfB5nOT8Trpc1atzkh/D2T/20hlhZIdvcUZ9iF5dwEZ7HaFKdm0g3LC3r9f78NquW7lCECiMDwx1QzQBHJd2/2iUSGqaelsH5ixGGXE4IPRYuKbTZVZt0Ca0QFbZpch+rT4+mFlKKLor6ZIB/lv0nHbDf/8hRU1wXOlxMAzS8HmC3Y=;Akh1W9ckkacl7MY0uhpA4A=="
 ---

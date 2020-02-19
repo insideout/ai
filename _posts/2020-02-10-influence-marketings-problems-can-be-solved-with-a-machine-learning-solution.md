@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T20:08:00Z
 webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -24,67 +24,24 @@ images:
     title: "Influence marketing’s problems can be solved with a machine-learning solution"
 
 related:
-  - title: "The Role of Machine Learning in Marketing"
-    excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2"
+  - title: "Forter Introduces its Machine Learning-based Loyalty Program Protection Solution"
+    excerpt: "To share a press release or news update, please email our Features Editor, Ameya at: ameya.dusane@martechadvisor.com Loyalty program fraud rose 89% year on year, predominantly driven by the amount of personally identifiable information (PII) available from increasing numbers of data breaches. With direct and indirect losses from loyalty and ..."
+    publishedDateTime: 2020-02-05T14:35:00Z
+    webUrl: "https://www.martechadvisor.com/news/ecommerce/forter-introduces-its-machine-learning-based-loyalty-program-protection-solution/"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 71
-    images:
-      - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
-        width: 1200
-        height: 672
-  - title: "Artificial Intelligence and the Future of Sales and Marketing"
-    excerpt: "Artificial intelligence (AI) has the potential to significantly improve businesses’ sales and marketing efforts, and thus their fortunes overall. In fact, it may be hard for companies to move forward without it. Two-thirds of the 615 respondents to a recent survey from Harvard Business Review Analytic Services agree that AI in marketing and ..."
-    publishedDateTime: 2020-02-07T09:43:00Z
-    webUrl: "https://hbr.org/sponsored/2020/02/artificial-intelligence-and-the-future-of-sales-and-marketing"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
-        width: 1200
-        height: 675
-  - title: "Henkel invests in machine-learning software start-up Fero Labs"
-    excerpt: "Henkel AG & Co. KGaA (Dusseldorf, Germany; www.henkel.com) is participating in the latest funding round of Fero Labs (New York, N.Y.; www.ferolabs.com), a start-up aiming to optimize industrial processes by using explainable machine learning. The investment is led by the company’s HenkelX Ventures unit, together with DIVC, a Munich-based ..."
-    publishedDateTime: 2020-02-05T18:45:00Z
-    webUrl: "https://www.chemengonline.com/henkel-invests-in-machine-learning-software-start-up-fero-labs/"
-    type: article
-    provider:
-      name: The Magazine
-      domain: chemengonline.com
-    quality: 24
-    images:
-      - url: "https://www.chemengonline.com/wp-content/uploads/2020/02/che_0220-1.jpg"
-        width: 949
-        height: 1280
-  - title: "Machine Learning in Nursing Market"
-    excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
-    publishedDateTime: 2020-02-06T11:30:00Z
-    webUrl: "https://www.openpr.com/news/1921686/machine-learning-in-nursing-market-report-business-strategy"
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 14
+  - title: "Data Science and Machine Learning Service Market Is Thriving Worldwide with Mango Solutions, LatentView Analytics, Microsoft, Fico"
+    excerpt: "Latest released 2020 version of market study on Global Data Science and Machine Learning Service Market with 94+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand in depth analysis. \" Global Data Science and Machine Learning Service Market by Type (, Consulting & Management Solution), by End-Users ..."
+    publishedDateTime: 2020-02-06T07:23:00Z
+    webUrl: "https://www.openpr.com/news/1921056/data-science-and-machine-learning-service-market-is-thriving"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 21
-  - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
-    excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
-    publishedDateTime: 2020-02-14T04:57:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/38383/north-america-is-the-leading-machine-translation/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
     quality: 0
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
 
 secured: "UU22UiM8Ppyjux43eMgg0o8S9k4h2Z5O8sS54HyrS09DWRZ2zQ+xhbdpbDF7jmNfJd7gc+zCRHfhOrSB3f+OORM+EfiGllz4tU+YTtcmpevU8c24xEx02cUeAc385ERH/w+48vvIHP5DtwPPTaLO9Xi6e9vjx4hY4cr/S2j9bGYA1ncOXpgLng4hW24CLSnoDc1D9hcpcfESE7PsDGoA3TIdLuYdZrKBfO+pz3+nJzoscCGSTRi4TtbHO86mQyG2itX+4QCGfua8tSR+LknOWJRXOzRKNVctEFRA/uzE6etsRsUiByqOF0vyAR0TNKqzTHmAX++hQFymKXnoQJW/fGDEG6KXqjZrFUPUbRNK0BLf32h72LZUXAIXilVCHDnqwQCiT+a5Cn8Ab+Mea8K5N0NG+Ugrw0WkcpIzOy117mTZKUEZXT08+1VD6NKn1jeJT6v3LMWD4VgP+VDY4+PGWzlJP5bxS6t/Jxzg/Hitm7g=;Wk2Zp3+0QC21vgC/BlB0iA=="
 ---

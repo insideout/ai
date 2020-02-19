@@ -83,6 +83,15 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59825-3/MediaObjects/41598_2020_59825_Fig1_HTML.png"
         width: 685
         height: 546
+  - title: "Machine Learning in Nursing Market"
+    excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
+    publishedDateTime: 2020-02-06T11:30:00Z
+    webUrl: "https://www.openpr.com/news/1921686/machine-learning-in-nursing-market-report-business-strategy"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
 secured: "dyaAD3kWyEjcEpmckQInRcoAAr/O++T4Cj5BbkzPRiDdYS8ZUNODXZ5g+Wi6RCX8Eoz0BOabiMXkFA0k4AgHniNXod2hQPHGbPfRnmkynVw9/IqPK6451ukzlVBfuvRCmqLcXmanNO+CLsdvbVPy9THj0WE/1nV+JKJDXBw9NN5aXRanbPeV5o5vBhNcFi0+8RgTuvYIPNvn/bls0MJLZ+BMecV2prOSuUFqi5Ic8EClHS+eOjN8n8bfxc08otHVlbvwYFCM8+PGgG3q50xVerZbT6OXLxcVKxLkxlvyxGEpqywwYqFY0f8q5yQiGEQD;gTlOF1qML+EJvLrVSruuPQ=="
 ---

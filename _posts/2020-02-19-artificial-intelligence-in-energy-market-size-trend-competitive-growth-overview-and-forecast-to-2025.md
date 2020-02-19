@@ -5,7 +5,7 @@ excerpt: "The Global Artificial Intelligence In Energy Market 2019 research prov
 publishedDateTime: 2020-02-19T10:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-trend-competitive-growth-overview-and-forecast-to-2025-2020-02-19"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
