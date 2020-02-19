@@ -22,6 +22,6 @@ images:
     height: 630
     title: "U.S. Chief Technology Officer Michael Kratsios on Artificial Intelligence Technology & Competition with China"
 
-secured: "H/G7cV3r+lx192Dky84VYGb9SSLtxuGxqb++/fMZ3qZwWC5A94oMzZWYwvaoZJmXAdv+gcdblQN8nmcA7jmVHLDRvXtX93rGve3MBAUnSin1b/HaLO/3VXPTs3rGuVzb1TybPjAyOwzGYQXia57zYEq8k84KdkkvBkic9mKq6wsnb/xJOI/gZAPFKvATDtr85cYwGXT6c5SNN7Z4bsIm/qG2acoaOq/H4ouygBmcbqctHHQtdKYy3ktz54XpeEa3ClkmRLYeW9UyFwLbzXiLR2POeyliNS+aPUOLwYCnImzeafgDqEoNu4cJN/vNbK09;sTvKnBlvM1Wu4Bj4EeqH3g=="
+secured: "fQC/+0oESy/LBIAM/ANiu7wSrxBWjHn93oADbAtQFK4MaNHmO01Wyk3Ri1suyfxXrA2A4bCV7YYi0oUjFdPZHcomA+rVufQp7vwyb1eEr+2zbDJZLrceKltSGRMyoKJYTAJifX/giGLl4cbJozphzYlkFqrv9KpldpLb4dDziJL+svqDLGBMCJwG6mFyCwFy/ArK0D2FeVLck0hKNH2+FhWScJ+QkXjnhJIoQM+bIRW9fkKaaOjQGepbV1tpzxM3SEXp7MDkIdM2niRXSuLHHJb2ZjjtA24jGDr2wlM/vC9u2J0gnSOL+n325Z+DcPKCTc0bmWtLlaKoe9aajSXNq7IRkqBXbaa8areSjZUR2UbExmu2np7IhHkIhZHcZY5WRtkpmEtHHSDqJvEhuth6CQlbJMwkooOt0ti0i7ALvpgffXxB1X/JbcxU/JfaoUZ9vU0PJPtFxBUiraaz4E/W9OGIgL+nc7PFguA/R01pi6s=;o/AzwvGPoy80e0MdotJuRw=="
 ---
 

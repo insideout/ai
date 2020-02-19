@@ -165,6 +165,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/alex-knight-B0-kMa8BgU-unsplash.jpg?fit=1600%2C800&strip=all"
         width: 1600
         height: 800
+  - title: "EU offers strategy for artificial intelligence, facial recognition"
+    excerpt: "A European Union strategy, announced Wednesday, calls for regulations for artificial intelligence and facial recognition."
+    publishedDateTime: 2020-02-19T21:21:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7841582142531/2020/1/b42e564a4b21536345f01e2c67ae7a13/v1.5/EU-offers-strategy-for-artificial-intelligence-facial-recognition.jpg"
+        width: 800
+        height: 532
   - title: "U.S. military facial recognition could identify people from 1 km away"
     excerpt: "Thanks to recent advances in machine learning, facial-recognition technology can pick faces out of a crowd with impressive accuracy. But just how far away from their subjects can cutting-edge facial-recognition systems work? According to a new report, a whole lot further than you probably think. So far, in fact, that the person identified may ..."
     publishedDateTime: 2020-02-18T19:59:00Z

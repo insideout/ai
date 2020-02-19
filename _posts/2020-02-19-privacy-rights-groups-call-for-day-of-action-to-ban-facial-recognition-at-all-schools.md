@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T18:13:00Z
 webUrl: "https://www.biometricupdate.com/202002/privacy-rights-groups-call-for-day-of-action-to-ban-facial-recognition-at-all-schools"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,36 @@ images:
     title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
 
 related:
-  - title: "RCMP arrest alleged 'money mules'; Facial recognition concerns: CBC's Marketplace consumer cheat sheet"
-    excerpt: "(Paul Chiasson/The Canadian Press) Privacy advocates are calling on all levels of government to create specific regulations around police use of facial recognition technology. Canada doesn't have a policy on the collection of biometrics, which are physical and behavioural characteristics that can be used to identify people digitally. Because of ..."
-    publishedDateTime: 2020-02-16T14:00:00Z
-    webUrl: "https://www.cbc.ca/news/business/marketplace-cheat-sheet-1.5465074"
+  - title: "Facial recognition technology will follow privacy laws: Edmonton police"
+    excerpt: "EDMONTON -- Attempting to quell privacy concerns, Edmonton police say facial recognition software that they intend to use to identify criminals will follow privacy laws. Informatics Division Supt. Warren Driechel revealed new details about the proposed technology Wednesday, though the department has not implemented facial recognition yet."
+    publishedDateTime: 2020-02-19T21:18:00Z
+    webUrl: "https://edmonton.ctvnews.ca/facial-recognition-technology-will-follow-privacy-laws-edmonton-police-1.4818878"
+    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 3
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+  - title: "London police deploy face scan tech, stirring privacy fears"
+    excerpt: "LONDON (AP) — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping ..."
+    publishedDateTime: 2020-02-19T17:57:00Z
+    webUrl: "https://www.journalnow.com/news/national/london-police-deploy-face-scan-tech-stirring-privacy-fears/article_6ea04d9b-53c6-539b-b885-5c39564e8136.html"
+    ampWebUrl: "https://www.journalnow.com/news/national/london-police-deploy-face-scan-tech-stirring-privacy-fears/article_6ea04d9b-53c6-539b-b885-5c39564e8136.amp.html"
+    cdnAmpWebUrl: "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/london-police-deploy-face-scan-tech-stirring-privacy-fears/article_6ea04d9b-53c6-539b-b885-5c39564e8136.amp.html"
+    type: article
+    provider:
+      name: The Herald-Standard
+      domain: journalnow.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/41/641f185e-5250-5d77-9cf0-6813b5f194c3/5e42e4e8ed6f3.image.jpg?resize=1024%2C708"
+        width: 1024
+        height: 708
 
 secured: "I3m+TY7lOSGBNAv0nSpBsSzf6C154fnV0diCnuTODvLeyOziMOVpWGIq6zQF2m/lUBOc4fw2wN0Y9o9qEtsypJ+j4PfhnPNEAFW59aR+nyUIFVsx33mwxusR6x+Fe+Sr5KFuYozTOYG0XbBl3YWNzJT/2xlxkdJVRiIiBQ0BVg6bB/FrxrxwZGD1bFp3l6D3YRSXquBPCAmC2sDRQCdPxL5Eu70DeW+nks/06Pyyi72/Y42HFrIj6jHv9lbUdilY4MyDz3cq1j+ejvah1WlpX3D+VkRSFwwpWe1Jm/kp2O4loqy+F5Ws71yxY48r+J+iqHWWEBdytHPHKL6Sfk8h6oCVLgxYhRoNJ23VwPQSfHo7TPztlt1wGx3O7Y5W3EarXL3CCRKX2BGWxHF2uig4auBM3KtjKu/ydFrulXEYWjqp9lKcpX4ApmJtbJZdzljyH5dcFjTo/nnGaEODjk0rpegLnUtMmZe/xo6ytixDye0=;pvJPf53oAa8VSqNjsfxB1g=="
 ---

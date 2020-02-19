@@ -127,50 +127,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-05-analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth.md",
-      "title": "Analyst : Artificial Intelligence (AI) in Cyber Security Market Companies Have Room for Growth",
-      "excerpt": "Latest launched research document on Global Artificial Intelligence (AI) in Cyber Security Market study of 95 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth-2020-02-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-04T22:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Analyst : Artificial Intelligence (AI) in Cyber Security Market Companies Have Room for Growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-artificial-intelligence-software-market-to-witness-huge-growth-by-2025.md",
       "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
       "excerpt": "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data.",
@@ -1349,7 +1305,7 @@
       "path": "_posts/2020-02-06-cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon.md",
       "title": "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon",
       "excerpt": "The Latest research study released by HTF MI \"Global Cloud Natural Language Processing Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06",
@@ -2007,6 +1963,43 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-the-governments-nightmare-vision-for-face-recognition-at-airports-and-beyond.md",
+      "title": "The Government's Nightmare Vision for Face Recognition at Airports and Beyond",
+      "excerpt": "The Department of Homeland Security has a scary vision for expanding face recognition surveillance into our everyday lives, threatening a dystopian future in which face surveillance is used throughout our public spaces to scrutinize our identity, check us against watchlists, record our movements, and more. Work on building the infrastructure ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.aclu.org/news/privacy-technology/the-governments-nightmare-vision-for-face-recognition-at-airports-and-beyond/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T14:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aclu.org",
+        "domain": "aclu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.aclu.org/news/images/share/default_fb_share.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The Government's Nightmare Vision for Face Recognition at Airports and Beyond",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {

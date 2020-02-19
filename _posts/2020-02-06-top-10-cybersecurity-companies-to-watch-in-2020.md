@@ -72,19 +72,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Security Market Booming By Size, Revenue, Trend And Top Growing Companies 2026"
-    excerpt: "The Artificial Intelligence In Security Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Security Market study provides comprehensive data on aspects of competitive intelligence,"
-    publishedDateTime: 2020-02-05T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-booming-by-size-revenue-trend-and-top-growing-companies-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Hyland buys blockchain-anchored business Learning Machine"
     excerpt: "Financial terms of the acquisition by Hyland were not disclosed ... More than 900 such institutions already use Hyland's content services platform. Chris Jagers, CEO of Learning Machine, said in a statement that the deal \"creates significant value for Learning Machine customers who will gain the full benefit of Hyland's notable support ..."
     publishedDateTime: 2020-02-05T16:11:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-says-first-amendment-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: CNET
@@ -29,34 +29,6 @@ images:
     title: "Clearview says First Amendment lets it scrape the internet. Lawyers disagree"
 
 related:
-  - title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
-    excerpt: "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ..."
-    publishedDateTime: 2020-02-05T04:35:00Z
-    webUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190"
-    ampWebUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--51OlzhBf--/c_scale,f_auto,fl_progressive,q_80,w_800/v7g6u3pj00bddvrigfbb.png"
-        width: 800
-        height: 450
-  - title: "The Government's Nightmare Vision for Face Recognition at Airports and Beyond"
-    excerpt: "The Department of Homeland Security has a scary vision for expanding face recognition surveillance into our everyday lives, threatening a dystopian future in which face surveillance is used throughout our public spaces to scrutinize our identity, check us against watchlists, record our movements, and more. Work on building the infrastructure ..."
-    publishedDateTime: 2020-02-06T22:51:00Z
-    webUrl: "https://www.aclu.org/news/privacy-technology/the-governments-nightmare-vision-for-face-recognition-at-airports-and-beyond/"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 51
-    images:
-      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
-        width: 1200
-        height: 630
   - title: "Clearview AI says the First Amendment lets it scrape the internet. Lawyers disagree"
     excerpt: "On a CBS This Morning segment on Wednesday, Clearview AI CEO Hoan Ton-That said his company has a First Amendment right to access public data, including photos from YouTube, Facebook, Twitter, LinkedIn and Venmo. It uses those photos for a controversial database primarily accessed by law enforcement. (Disclosure: CBS News and CNET are owned by ..."
     publishedDateTime: 2020-02-07T11:54:00Z

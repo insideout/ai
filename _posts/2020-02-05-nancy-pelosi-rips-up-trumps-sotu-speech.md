@@ -25,23 +25,6 @@ images:
     height: 600
     title: "Nancy Pelosi Rips Up Trump's SOTU Speech"
 
-related:
-  - title: "Pelosi shreds Trump’s speech, reflecting a tumultuous year in Washington"
-    excerpt: "Later, the White House’s official Twitter account accused her of ripping up a list of touching moments from the speech, including recognition of a surviving Tuskegee Airman who was present in the chamber. “That’s her legacy.” Earlier in the day, Pelosi had telegraphed that she had no interest in being part of any story outside of the ..."
-    publishedDateTime: 2020-02-05T04:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pelosi-shreds-trumps-speech-reflecting-a-tumultuous-year-in-washington/2020/02/04/c378856c-4771-11ea-ab15-b5df3261b710_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-shreds-trumps-speech-reflecting-a-tumultuous-year-in-washington/2020/02/04/c378856c-4771-11ea-ab15-b5df3261b710_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-shreds-trumps-speech-reflecting-a-tumultuous-year-in-washington/2020/02/04/c378856c-4771-11ea-ab15-b5df3261b710_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 43
-    images:
-      - url: "https://www.washingtonpost.com/resizer/aAc5MrDXno-7r2N6U01cCqj18r8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/237RPJSHZEI6VENLZZBZVJOHYE.jpg"
-        width: 1440
-        height: 930
-
 secured: "2ZM3PSkxga9TEXxMWwQXQGjtz3W8z7tB3MieHtPpRJzhOlfpFeK9/BBm+dUR+yC2PpJbkUrFeXPwjr9cfRevqNJ6DK2EPVk5bopfW1x8veMfgD5qui3HrnJh+wnXikGHsumkhWHDxUD64wOgGYzUG+Vow9MmNFXCt6ST3CiYO/zg2qnEV3mE9FZKp9U2TMg9WOqVamfrfGkYkcOo8dmKZLhUi2MVWBmssnZrjdWStkUhiv9pDH7EghDsDnZawlrcAz1jWYtcL8EcbGiu7ZB74vY231kQUThZQoWkb+CoTymHWRrcEHjPo4fo3VvxRXms;bzR4KSyBn7XIACUIh42ZRA=="
 ---
 

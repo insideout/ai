@@ -76,19 +76,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Security Market Booming By Size, Revenue, Trend And Top Growing Companies 2026"
-    excerpt: "The Artificial Intelligence In Security Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Security Market study provides comprehensive data on aspects of competitive intelligence,"
-    publishedDateTime: 2020-02-05T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-booming-by-size-revenue-trend-and-top-growing-companies-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Top 10 Cybersecurity Companies to Watch in 2020"
     excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
     publishedDateTime: 2020-02-06T21:01:00Z

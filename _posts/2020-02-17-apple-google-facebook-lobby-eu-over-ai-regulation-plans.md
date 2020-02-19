@@ -68,6 +68,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0B3B/production/_110957820_gettyimages-1139860760.jpg"
         width: 1024
         height: 576
+  - title: "EU proposes rules for artificial intelligence to limit risks"
+    excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... The decision clears the way for the trial of Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud to start later this year for alleged war crimes and crimes against humanity ..."
+    publishedDateTime: 2020-02-19T11:32:00Z
+    webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+    ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    type: article
+    provider:
+      name: WTNH
+      domain: wtnh.com
+    quality: 59
+    images:
+      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "European Union proposes data strategy and rules for artificial intelligence"
     excerpt: "The European Union on Wednesday outlined the body's digital strategy and recommendations for regulating artificial intelligence and facial recognition."
     publishedDateTime: 2020-02-19T18:54:00Z

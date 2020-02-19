@@ -2,6 +2,170 @@
   "page": 8,
   "value": [
     {
+      "path": "_posts/2020-02-19-facial-recognition-technology-will-follow-privacy-laws-edmonton-police.md",
+      "title": "Facial recognition technology will follow privacy laws: Edmonton police",
+      "excerpt": "EDMONTON -- Attempting to quell privacy concerns, Edmonton police say facial recognition software that they intend to use to identify criminals will follow privacy laws. Informatics Division Supt. Warren Driechel revealed new details about the proposed technology Wednesday, though the department has not implemented facial recognition yet.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://edmonton.ctvnews.ca/facial-recognition-technology-will-follow-privacy-laws-edmonton-police-1.4818878",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html",
+      "publishedDateTime": "2020-02-19T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": "Facial recognition technology will follow privacy laws: Edmonton police",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
+      "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+      "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "publishedDateTime": "2020-02-19T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1.-Intro-Image-e1580880177276.png?fit=1198%2C601&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-googles-ai-chief-explains-machine-learning-for-chip-design.md",
+      "title": "Google’s AI chief explains machine learning for chip design",
+      "excerpt": "Jeff Dean, head of Google’s AI research, explained to ZDNet how machine learning algorithms can be used to come up with better designs for computer chips. Google is starting to use the technology internally to better design its own parts. Read more: https://zd.net/38HobeV",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/googles-ai-chief-explains-machine-learning-for-chip-design/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/19/c094ad77-8b65-46bb-a116-452e865b15cb/thumbnail/770x578/7ff49d5646bbec8959dfe7485c3fa7e7/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Google’s AI chief explains machine learning for chip design",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-grok-combines-machine-learning-and-the-human-brain-to-build-smarter-aiops.md",
+      "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+      "excerpt": "A few weeks ago I wrote a piece here about Moogsoft which has been making waves in the service assurance space by applying artificial intelligence and machine learning to the arcane task of keeping on keeping critical IT up and running and lessening the business impact of service interruptions. It’s a hot area for startups and I’ve since ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops",
+      "ampWebUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "publishedDateTime": "2020-02-19T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
       "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
       "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
@@ -444,6 +608,50 @@
           "width": 1024,
           "height": 544,
           "title": "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-stanford-and-nyu-only-15-of-ai-federal-agencies-use-is-highly-sophisticated.md",
+      "title": "Stanford and NYU: Only 15% of AI federal agencies use is highly sophisticated",
+      "excerpt": "More than 40% of U.S. federal agencies and departments have experimented with AI tools, but only 15% currently use highly sophisticated AI, according to analysis by Stanford University computer scientists published today in “Government by Algorithm,” a joint report from Stanford and New York University. “This is concerning because ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/amp/",
+      "publishedDateTime": "2020-02-19T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/capitol-building.jpg?fit=3263%2C2005&strip=all",
+          "width": 3263,
+          "height": 2005,
+          "title": "Stanford and NYU: Only 15% of AI federal agencies use is highly sophisticated",
           "attribution": null
         }
       ],
@@ -1866,214 +2074,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-22-top-25-ai-startups-who-raised-the-most-money-in-2019.md",
-      "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
-      "excerpt": "Its Cognito platform accelerates threat detection and investigation using artificial intelligence to collect ... and robotics teams at companies like Waymo, OpenAI, Lyft, Zoox, Pinterest, and Airbnb focus on building differentiated models vs.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
-      "publishedDateTime": "2019-12-22T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
-      "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
-      "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "publishedDateTime": "2019-12-23T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-24-artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023.md",
-      "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
-      "excerpt": "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ...",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-24T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-24-getting-started-with-azureml-notebook-vms.md",
-      "title": "Getting Started With AzureML Notebook VMs",
-      "excerpt": "TLDR; Azure Machine Learning (AML), a cloud-based environment you can use to train, deploy, automate, manage, and track ML models. In the following tutorial we will walk through how to set up an ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/microsoftazure/getting-started-with-azureml-notebook-vms-f637b6e09ed4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*r9E_9IOr95ZxpA_2nOzC_g.png",
-          "width": 1200,
-          "height": 589,
-          "title": "Getting Started With AzureML Notebook VMs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-26-artificial-intelligence-can-now-track-down-blood-cancer.md",
-      "title": "Artificial intelligence can now track down blood cancer",
-      "excerpt": "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
-      "ampWebUrl": "https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
-      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
-      "publishedDateTime": "2019-12-26T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asian Age",
-        "domain": "asianage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": "Artificial intelligence can now track down blood cancer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

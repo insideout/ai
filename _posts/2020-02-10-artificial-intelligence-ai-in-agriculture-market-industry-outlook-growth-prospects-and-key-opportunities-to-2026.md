@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T04:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-industry-outlook-growth-prospects-and-key-opportunities-to-2026-2020-02-10"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     title: "Artificial Intelligence (AI) in Agriculture Market : Industry Outlook, Growth Prospects And Key Opportunities To 2026"
 
 related:
-  - title: "Artificial Intelligence In Automotive Market Opportunities, Share And Forecast 2020-2026"
-    excerpt: "The Artificial Intelligence (AI) In Automotive Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence (AI) In Automotive Market study provides comprehensive data on aspects of competitive intelligence,"
-    publishedDateTime: 2020-02-05T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-opportunities-share-and-forecast-2020-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
   - title: "Artificial Intelligence (AI) In Fintech Market Size, Share 2020, Growth Outlook – Microsoft, Google, IBM, Amazon Web Services, IPsoft"
     excerpt: "Global Artificial Intelligence (AI) In Fintech Market is a comprehensive report which provides a detailed overview of the major driver, opportunities, challenges, current market trends and strategies impacting the global Artificial Intelligence (AI) In Fintech market in conjunction with calculation and forecast of size,"
     publishedDateTime: 2020-02-11T08:08:00Z

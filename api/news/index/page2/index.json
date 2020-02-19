@@ -432,6 +432,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-07-clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree.md",
+      "title": "Clearview says First Amendment lets it scrape the internet. Lawyers disagree",
+      "excerpt": "On a CBS This Morning segment on Wednesday, Clearview AI CEO Hoan Ton-That said his company had a First Amendment right to access public data, including photos from YouTube, Facebook, Twitter, LinkedIn and Venmo. It uses those photos for a controversial database primarily used by law enforcement. (Disclosure: CBS News and CNET are owned by the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/",
+      "publishedDateTime": "2020-02-07T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview says First Amendment lets it scrape the internet. Lawyers disagree",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-07-coronavirus-china-deploys-robots-to-prevent-cross-infection.md",
       "title": "Coronavirus: China deploys robots to prevent cross-infection",
       "excerpt": "According to an engineer from Dongfulong, these two artificial intelligence disinfection machines can achieve a 6-log killing effect on microorganisms. 6-log refers to a 99.9999% reduction in bacteria. Further, more than 30 smart disinfection robots manufactured by Shanghai Titanium Robot Technology Co., Ltd. are also in the isolation ward ...",
@@ -2102,51 +2146,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
-      "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-      "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/",
-      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "publishedDateTime": "2020-02-09T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563",
-          "width": 1000,
-          "height": 563,
-          "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

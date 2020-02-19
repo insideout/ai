@@ -174,6 +174,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
         width: 1024
         height: 576
+  - title: "EU offers strategy for artificial intelligence, facial recognition"
+    excerpt: "A European Union strategy, announced Wednesday, calls for regulations for artificial intelligence and facial recognition."
+    publishedDateTime: 2020-02-19T21:21:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7841582142531/2020/1/b42e564a4b21536345f01e2c67ae7a13/v1.5/EU-offers-strategy-for-artificial-intelligence-facial-recognition.jpg"
+        width: 800
+        height: 532
   - title: "This Senate Bill Would Ban Federal Use of Facial Recognition"
     excerpt: "On Wednesday, Senators Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation to place a moratorium on the use of facial recognition by the federal government or with federal funds—unless Congress passed regulations for the technology. The Ethical Use of Facial Recognition Act aims to create a 13 member congressional commission ..."
     publishedDateTime: 2020-02-19T15:16:00Z
