@@ -37,15 +37,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/Labelbox-co-founders.jpg?fit=1800%2C900&strip=all"
         width: 1800
         height: 900
-  - title: "Artificial Intelligence Startup Labelbox Closes $25 Million in Series B Funding"
-    excerpt: "SAN FRANCISCO, Feb. 04, 2020 (GLOBE NEWSWIRE) -- Labelbox, the leading training data platform for enterprise machine learning applications, today announced the close of a $25 million Series B funding round led by Andreessen Horowitz with General Partner Peter Levine joining the Labelbox board of directors."
-    publishedDateTime: 2020-02-04T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15244594/artificial-intelligence-startup-labelbox-closes-25-million-in-series-b-funding"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
 
 secured: "1JgkiZLpC/GQ6QutPKyZPRnoLtP39EuiMtRTfJxjjCFLtT+wQ/EjPjrSSRCyVmuHd7hPz1L2k1Fjdqjm8fBcSQwGbKKbs3QaFuvLEj+cxfgf8mfQVKKHW0vqFpY5Lac4ir8mj6p9Fw/QXMMFwrT8UCoSgonktyNdXhPRuhKACMBtrEKocKgFz+/19eKIAwfYln8onUD8B0IN6NlgQss5XvsYSsnAyZhUV0L+2ab81hbfKqbrAhHLXk5FgNrt/zeOG8Yamc5+YGnXj+XWMOCcmdaQzXIUmXaGtjxjs/iJ/dFYNBa9/Nd8pbPuxXYwtwKfPm9wZWH0DTwsM0fc5CV9WHwjNPBnJmXdxnJh9ViD86IHqZ+g60McZbBdjDtw/RarpM/np55TxGIC0Kw3gnc9Ng9vLdR0yT93X4vtGmklEoNkZg2xntPOxHSei+VsMd9mZXuMOtBx+ppYN8Vyq1WyyUp5Uhhkl4kPK843Nris6Vw=;o9alRNaqNLWZc9vtOZh17A=="
 ---

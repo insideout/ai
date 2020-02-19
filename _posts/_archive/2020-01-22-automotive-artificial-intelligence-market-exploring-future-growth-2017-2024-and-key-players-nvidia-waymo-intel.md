@@ -31,6 +31,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Automobiles Market 2020 | Global Size, Share, CAGR, Application, Overview, Analysis by Top Leaders and Forecast 2023"
+    excerpt: "Summary Global Automotive Artificial Intelligence Market Information Report by Technology (Deep Learning, Machine"
+    publishedDateTime: 2020-01-28T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automobiles-market-2020-global-size-share-cagr-application-overview-analysis-by-top-leaders-and-forecast-2023-2020-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
     excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
     publishedDateTime: 2020-01-20T09:52:00Z
@@ -41,6 +54,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "bontbvv9H8KBPEvSnOzo20yKyW8nVW7utL2/RI1qzBFgzz3Jla0ISxochGJTgWUYjDKKapSegjqM3M7cfwbBBC8OGVz3J2CcNWFqzamx24AqFwGcGyX8J3jOgTPWSZ7R8XrzeSPiOr68v1IwRDTNgiKHpwvNMkSkVbvLtM5zGI2CiyyvsXF9LCDGLCkiseEFb+UQLO4PQt4CMSYkVzO475XQVqCQyUdPJvxvZAkKrW8ri6YEvYTSHTC4DtbIWEBEcpAN5tvBRzI1AL7kq4Y1FDjzUL0yddHUJqEq0oU7NIVepxTzWnyNz7/nejFdHytn;JpzcFyKQQhXR8gf3bjWxvw=="
+secured: "ihOKqogP8JK54SsZFgNEUtRAFQUJHXUH4cfXPs5CaoDCE20MLJjO24iTvwhUzMz7EGoI6iKqzXvKXe0a93s4+1gbED//wxNHgBZJDxA0YT8/Fh0DLENB14Dmbk0Ar5RjndHvF+c5Q77XNda9dPofG+KlsySvm6x7MAMEWP5L5yOfuNk5W/C8Ck+X3HdQoEDUplW980gs5IsntAYc45wmCpkR14uJD2pE/V7gbeIlk57/4nP/dV1XM4MCee3WOa9J0dvcNiwUOhbVoLK1lukiHdNsXh7o/9vpnuEny5ayRjF65REKNGnG/YdgevsEuLTe;6fzv5s7MtInG3S2PZK/BTw=="
 ---
 

@@ -49,6 +49,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 16
+  - title: "Artificial Intelligence in Accounting Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2024"
+    excerpt: "Get Free Sample Research Report of Artificial Intelligence in Accounting Market spread across 146 pages, profiling 23 companies and supported with 51 tables and 40 figures is now available at https://www.reportsnreports.com/contacts/requestsample.aspx?name=2443587. Key Players- Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage ..."
+    publishedDateTime: 2020-02-11T02:47:00Z
+    webUrl: "https://www.openpr.com/news/1926330/artificial-intelligence-in-accounting-market-worldwide"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "gfhyIik2mOb+bH3FbA6ReFqNqnRUHri+US9uULSzG6NR8KFs9P8zFyWLx1k1VkZRQgG9d9oA98uEifYzf5+ceKI2BRBvb9lG/3Q2qBSOjwtqcMWc/YNZ3xVbKsq3mJ3whQjEkvi+a8teCyEfe2ArKSL1yorIAPirqmixXqBtwZ6SPSsR5C5Q8O21oT3TTfKZ2dTBnYco6iYtew06tbEzyH4uyadJrrXMSCGWT7IX9uiE9OYnr6aT9JRgajX3Csyl1Cn9mZyV6yhRdKuyD4HC274VUgVp5qrN+fcn3jZCChxbtKUTfslckS0vGLBPHpE2;paTkW7esbCRXBG8DcvcHmA=="
 ---

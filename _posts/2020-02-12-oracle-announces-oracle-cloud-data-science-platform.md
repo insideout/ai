@@ -54,6 +54,15 @@ related:
       - url: "https://regmedia.co.uk/2017/04/03/cloud-jump.jpg"
         width: 648
         height: 348
+  - title: "RESTORE launches cloud-based skills platform for adult rehabilitation"
+    excerpt: "RESTORE Skills has launched an interactive software product for adult rehabilitation patients that uses any webcam-equipped, Wi-Fi-enabled device as a therapy tool in the gym, at the bedside or at home post-discharge. RESTORE uses motion tracking, machine learning and artificial intelligence to reinforce motor, cognitive, social and attention ..."
+    publishedDateTime: 2020-02-19T03:23:00Z
+    webUrl: "https://www.mcknights.com/news/products/restore-launches-cloud-based-skills-platform-for-adult-rehabilitation/"
+    type: article
+    provider:
+      name: McKnight's Long-Term Care News
+      domain: mcknights.com
+    quality: 4
   - title: "GigaSpaces Launches GigaSpaces Cloud Managed Service on Google Cloud Platform"
     excerpt: "With GigaSpaces, enterprises can operationalize machine learning and transactional processing to gain real-time insights ... are leveraged by hundreds of Tier-1 and Fortune-listed organizations worldwide across financial services, retail, transportation, telecom, healthcare, and more. GigaSpaces offices are located in the US, Europe and Asia."
     publishedDateTime: 2020-02-11T14:38:00Z

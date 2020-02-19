@@ -24,15 +24,50 @@ images:
     title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
 
 related:
-  - title: "Natural Language Processing (NLP) Market Size, Share and Top Key Players During 2019-2027"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-02-18T07:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-share-and-top-key-players-during-2019-2027-2020-02-18"
+  - title: "Artificial Intelligence (AI) in Agriculture Market : Industry Outlook, Growth Prospects And Key Opportunities To 2026"
+    excerpt: "A new market research report by Big Market Research on Artificial Intelligence (AI) in Agriculture market reveals that the market is estimated to grow with a substantial growth rate from 2019-2026. This report is a valuable document for major players and the new entrants to scrutinize the market in detail."
+    publishedDateTime: 2020-02-10T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-industry-outlook-growth-prospects-and-key-opportunities-to-2026-2020-02-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Automotive Market Opportunities, Share And Forecast 2020-2026"
+    excerpt: "The Artificial Intelligence (AI) In Automotive Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence (AI) In Automotive Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-opportunities-share-and-forecast-2020-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "Artificial Intelligence (AI) In Fintech Market Size, Share 2020, Growth Outlook – Microsoft, Google, IBM, Amazon Web Services, IPsoft"
+    excerpt: "Global Artificial Intelligence (AI) In Fintech Market is a comprehensive report which provides a detailed overview of the major driver, opportunities, challenges, current market trends and strategies impacting the global Artificial Intelligence (AI) In Fintech market in conjunction with calculation and forecast of size,"
+    publishedDateTime: 2020-02-11T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-2020-growth-outlook-microsoft-google-ibm-amazon-web-services-ipsoft-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+  - title: "Artificial Intelligence (AI) in Cybersecurity Market Assessing Major Growth Opportunities| NVIDIA Corporation, Intel Corporation, Xilinx Inc"
+    excerpt: "By End-user: BFSI, Retail, Government Defense, Manufacturing, Infrastructure, Enterprise, Healthcare, Automotive Transportation, Others (oil gas, education, energy) Any Questions? Fill Free To Enquire Here. Well Put You On The Right Path: https://marketresearch.biz/report/artificial-intelligence-ai-in-cybersecurity-market/#inquiry Global ..."
+    publishedDateTime: 2020-02-12T21:08:00Z
+    webUrl: "https://apnews.com/4b851c9f7a181fcf8fe1a3913de42271"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "KsnE1r6HyR3bFtIYWls7WJVIeqzXD+69t607p2OepTHokRf8LFjRnifFCdBp2RJwTqMF+qkreNFROkom4b16ELjARi4SSHUlX7jOVw+L7kkFCwvIP2mfulAnMIIqBbaXctugceb3xCV2Nz/smKRPhcLR1lfxXc2jQw9BiJRN6baaY4IHp6yU9egBuEn/4DyFhPeEcV0zxVB5WQe6NOMtZWI+0XVhdMXpJnaz9ZDSCrwJOkUlR/MfNyEQiJmJeHjAsdOI8dkOSPQwVylBGOQsO0dZubRbbfwAXC+v9b//gROcDroJPaFwBG3NEHdh2z6l;R1XzpejewAeHg29M6g7iFQ=="
 ---

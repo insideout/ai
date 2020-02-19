@@ -39,6 +39,15 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2020/02/1172808215.jpg"
         width: 1024
         height: 659
+  - title: "UK AI advisors call for online platforms to become accountable for user content targeting"
+    excerpt: "The Centre for Data Ethics and Innovation (CDEI) is an advisory body established under the Department for Digital, Culture, Media & Sport to provide independent advice and recommendations on emerging data-driven issues including AI, deepfakes, surveillance, and Internet of Things (IoT) technologies. On Tuesday, CDEI published a report and set ..."
+    publishedDateTime: 2020-02-04T14:08:00Z
+    webUrl: "https://www.zdnet.com/article/uk-advisors-on-ai-call-for-online-platforms-to-become-accountable-for-user-content-targeting/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
   - title: "UK AI advisors wants to regulate social media algorithms"
     excerpt: "The UK government’s AI advisory body believes that new laws are required to control social media algorithms and regulate how tech giants such as Facebook and Google target users with content. The Centre for Data Ethics and Innovation (CDEI) said on Tuesday that tech platforms are now in a position of “real power” as they have the ability ..."
     publishedDateTime: 2020-02-07T02:12:00Z

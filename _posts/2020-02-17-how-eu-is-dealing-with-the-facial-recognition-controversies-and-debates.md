@@ -181,6 +181,19 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/02/200207150324-05-clearview-hoan-ton-that-live-video.jpg"
         width: 576
         height: 324
+  - title: "China’s first facial recognition thermometers installed on buses"
+    excerpt: "Guangzhou, capital of South China's Guangdong Province, began to install facial recognition thermometers on buses on Tuesday to ensure safer and faster detection of symptoms. The thermometer can measure people' temperatures in as fast as one second and report it to the bus driver, guaranteeing less contact and saving time, especially when there ..."
+    publishedDateTime: 2020-02-19T03:27:00Z
+    webUrl: "https://www.globaltimes.cn/content/1180079.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-02-19/6f344b7d-b48e-4111-837d-16487e02ef51.jpeg"
+        width: 500
+        height: 300
   - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
     excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
     publishedDateTime: 2020-02-15T17:58:00Z

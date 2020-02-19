@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Disappearing-People - Person removal from complex backgrounds over time."
-excerpt: "This is all happening in real time, in the browser, using TensorFlow.js. #MadeWithTFJS This is an experiment. It may not be perfect in all situations. Feel free to use in your own projects. Code is released under Apache licence. If you decide to use my code please consider giving me a shout out! Would love to see what others create with it ..."
+excerpt: "This is all happening in real time, in the browser, using TensorFlow.js. #MadeWithTFJS This is an experiment. It may not be perfect in all situations. Go ahead and try it right now in your own web browser. Pick your preference and give me a fork / like :-) Feel free to use in your own projects. If you decide to use my code please consider ..."
 publishedDateTime: 2020-02-18T06:16:00Z
-webUrl: "https://github.com/jasonmayes/Real-Time-Person-Removal/blob/master/README.md"
+webUrl: "https://github.com/jasonmayes/Real-Time-Person-Removal"
 type: article
 quality: 23
 heat: 23
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Disappearing-People - Person removal from complex backgrounds over time."
 
-secured: "wuagbLYZ08FtjzHFGeu5yjaKzY6w81Oa5fX1GY+5LorMEWGIFKjRxBN56dbSKbsweXke/2qwYnjRJmbacGRf+/5uG3AHImvt2+jYZb/b7MNWyhU9vdi6G0WU3fUKoJuyn4ogpfZArKZEooc7scUSZjHfqWkBwDNxgxFRFHGuCsJb7gpaIc7HSnWVvll3v83eBozEN4mEN2HsBuNq2mmP8MnhO0cSVhlg5aVwxo0aE5s06Q86ReDV0n5jZW18H/LonJM17SjrxEWrVhvQcmPIW6jvgoCsYFXPO9g6RWjToGj1y2Q4IzBWC7+m9wf3Uw+B;efCDnvbRx+xn9el0gu4YFQ=="
+secured: "Hksa6+/7fW7A4q83ulyFHRBnt7obKhLSMvIcDyyeni3grKvQ2Z0tOVQctUbLsmWPQaU8Ae6KkSopJ79vIFqSuAvnmuPQNz5KaKFR/ad/HowYgV8QwIByexO3UgEf33YnV5vpU2pmfmPvlviKTD1pFiJjWnpHERP4x5koahF0xEaV7VXLgjDK9lNFffu3D7GucLg70cai6hQIfCzRC7JzNO4aPSe9lkJwJMvFLqMWBdBHRCK+pDi7wPSaXRfSz7LpvtOsyHnq/OJcv9HW3X9FFRH4pqqVfjw/Ac7pun4V5ROJa9Tees3dxj+9qjj/U8pd;Ku8KzLCMKKLeMiyHHZRAQA=="
 ---
 

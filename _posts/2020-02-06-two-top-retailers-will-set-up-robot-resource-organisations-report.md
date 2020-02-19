@@ -17,19 +17,6 @@ topics:
   - AI
   - AI in Robotics
 
-related:
-  - title: "At Least Two Top Global Retailers Will Establish Robot Resource Organizations to Manage Nonhuman Workers By 2025: Gartner"
-    excerpt: "“The adoption of new digital technologies and the ever-changing expectations of customers continues to challenge traditional retailers, forcing them to investigate new-human hybrid operational models, including artificial intelligence (AI), automation and robotics.” Gartner research shows that 77% of retailers plan to deploy AI by ..."
-    publishedDateTime: 2020-02-04T11:16:00Z
-    webUrl: "https://www.ciol.com/least-two-top-global-retailers-will-establish-robot-resource-organizations-manage-nonhuman-workers-2025-gartner/"
-    ampWebUrl: "https://www.ciol.com/least-two-top-global-retailers-will-establish-robot-resource-organizations-manage-nonhuman-workers-2025-gartner/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/least-two-top-global-retailers-will-establish-robot-resource-organizations-manage-nonhuman-workers-2025-gartner/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 29
-
 secured: "Lu7g15p9lUfDA1QCJFK8TxzYG4LLeHJjZ+yKJxCMjuSTvbpQz4xCsudwnABEmMQhYLpkzz+G7IS+MSyBS1WDANhYXkiX7BCKQs2vVWn2YPliIQ3NkuxOHXN4LFuxWRIfPaiimdbDzLcVNqZpL+WLbd6ZUszfN5GUplNG+9b4oJ8JcvOlAeV8tgMziJHsGb70/y9fH6WjGJhcSCj1BD+8zUpU+iEFyTZAcUqdCedrRnQkTGufpy8BvSf5PHVrk23SfV76Bx+3EuwhlulUccKrBIDgQIRfSiS+KPTj8/tVrBiZ+2dnR1i6NnWrW2zzaboU;v3A/x2XxFDWZrl6qs3SGvA=="
 ---
 

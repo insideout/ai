@@ -61,6 +61,15 @@ related:
       - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
         width: 480
         height: 480
+  - title: "RESTORE launches cloud-based skills platform for adult rehabilitation"
+    excerpt: "RESTORE Skills has launched an interactive software product for adult rehabilitation patients that uses any webcam-equipped, Wi-Fi-enabled device as a therapy tool in the gym, at the bedside or at home post-discharge. RESTORE uses motion tracking, machine learning and artificial intelligence to reinforce motor, cognitive, social and attention ..."
+    publishedDateTime: 2020-02-19T03:23:00Z
+    webUrl: "https://www.mcknights.com/news/products/restore-launches-cloud-based-skills-platform-for-adult-rehabilitation/"
+    type: article
+    provider:
+      name: McKnight's Long-Term Care News
+      domain: mcknights.com
+    quality: 4
 
 secured: "cvCvVZpnB/hlnQ1fXFi66Bf9ejBmJQhef7HDAAF1lduAhQAGu5B6cFys0NcB+CJift9vJg/HCagvLzxlVpU02ZUzMoPYQCJVg0owL8XvbGeaFgCqrkTsR2LHLJHIoJRNonWEXoD6ucNSCfrYi1xI8Ip6KWL1DjgVaGaM7v/FluWmoJFGAFpexzowxFH9NHMjaUW8VgJ4H3r1plOCThyugL4spE8P6lS+SejZKRHnMDn1iu6TixYrKz8ImXDntOd119ZhwFv7rofKPCZKxEx89yte1JTg5CqbhdruHOmylhK9wzdz9joh0gu+AG643PjQ;7tp0x20AOJLuoRQUty7nqg=="
 ---

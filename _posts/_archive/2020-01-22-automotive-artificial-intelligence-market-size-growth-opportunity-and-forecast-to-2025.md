@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T05:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-01-22?mod=mw_quote_news"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025"
 
 related:
+  - title: "Artificial Intelligence In Automobiles Market 2020 | Global Size, Share, CAGR, Application, Overview, Analysis by Top Leaders and Forecast 2023"
+    excerpt: "Summary Global Automotive Artificial Intelligence Market Information Report by Technology (Deep Learning, Machine"
+    publishedDateTime: 2020-01-28T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automobiles-market-2020-global-size-share-cagr-application-overview-analysis-by-top-leaders-and-forecast-2023-2020-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
     excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements ..."
     publishedDateTime: 2020-01-22T21:37:00Z
@@ -47,6 +60,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "DCAvdtkSZtOPFWmJ8bHCMZjLrsfAcCikyMBoZp0qh0KHwkWgUWW+Fd/9lrAJlChudqw6RvjmAbdpQp5rozDajbcVHaqBCoALnKmMNoDznIVb3lIYPHpd9GtObkoyd22azOWsEoot5GGkU7j2i5BpW0d+qBAtC2VGTkkgLIxJkGJBL3SB23syxDQH10BCGq0p0Hh/K1uHfQGCgKkCaQiM9azOH9l+yJpA7rBA9I1nonQeecOi9Wh1mSDnQ+4VHhWbNsj2M9DmXorYQlPozNXvM+7FnIp7ZoS+0332b6L4mL6Db8aouXNIReRNq8/EGGpt;lGGnqKMnPWgHfwSzJzlH4g=="
+secured: "0kDvDro9MGSwm00DUrEiAR7Gb4QNPWrHkCgc8XnNj6B7OijOR/+np9RCwri78PTQL03bylLrFtBQtT8TI70o1BFWJSPLHf9gQs8gMEIN1q6F622la6e/A4WuAIFXY6pRL/AtnC02xqDmiFkGH1N30DB1LdKSYsj330LxOSVg9xbPvso3IPQsNQ9FLK4c0MP+chb37fASu5BRXQWnIeseeFsvIO89TOaME/8bINYJoWrmEs2m8qo2Q0Bb16njhPdUOubVUOOshuGSmhHsecX6g7GrTMLynO+15ZKEVfCf1JKT2tDHXeAL5SG6FtFrTixY;K8JqLWd4IcjH1wqnOzHx8g=="
 ---
 

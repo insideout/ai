@@ -168,6 +168,19 @@ related:
       - url: "https://images.thestar.com/4Gdty1kT8G_3_BfW_A4H-pAkIM8=/1200x800/smart/filters:cb(1581730926690)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/policegraduation10.jpg"
         width: 1200
         height: 800
+  - title: "China’s first facial recognition thermometers installed on buses"
+    excerpt: "Guangzhou, capital of South China's Guangdong Province, began to install facial recognition thermometers on buses on Tuesday to ensure safer and faster detection of symptoms. The thermometer can measure people' temperatures in as fast as one second and report it to the bus driver, guaranteeing less contact and saving time, especially when there ..."
+    publishedDateTime: 2020-02-19T03:27:00Z
+    webUrl: "https://www.globaltimes.cn/content/1180079.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-02-19/6f344b7d-b48e-4111-837d-16487e02ef51.jpeg"
+        width: 500
+        height: 300
   - title: "How EU is Dealing with the Facial Recognition Controversies and Debates?"
     excerpt: "The controversies, debates, and discussions for facial recognition are taking the center stage in every tech-advanced region. Where some realizing its utility deploys it for social good, others consider it socially harmful at the same time. The wave of dialogues has even reached the European Parliament and the European Commission. According to ..."
     publishedDateTime: 2020-02-17T14:25:00Z

@@ -37,19 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market Growth, Segmentation, Share, Trends, Insights and Analysis Forecast to 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-    publishedDateTime: 2020-02-05T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-segmentation-share-trends-insights-and-analysis-forecast-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "ALPL7s+Drzhuay1UlSG1fPLCekWgbmHSel86EG6lPfIhaYPuXJVWLCgd/xEwVl1LT2CUDbSYgFbRn510zTO8ccwLTzLgYe4DDivXf9I2T+wnJ3W1qTMN9kIZFAexZacv6CsEphqlg2cReza45QJDQdn1t/El6QvL/xj4Pa/5W5oyJIs4E1OntaHqBZWkB7IlE7TI+ewYnCJOM0Rt1qBC0zhXobpyEqSvDZVTCncX3EmFBt8vaXFjK8+4cFd/l5yEavVy36t1aFBeVrhX++Coz+NUilQ5Qjt4D9cMPSo/oRDqg8Xin13pUx3gOVlUrpNq;2kUEFcJu/4VS84FSDJUsNQ=="
 ---

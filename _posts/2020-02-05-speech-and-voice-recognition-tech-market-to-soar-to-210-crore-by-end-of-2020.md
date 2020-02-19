@@ -37,15 +37,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 15
-  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
-    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
-    publishedDateTime: 2020-02-06T12:07:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "dg1D4rUPi7M0oOkPGhlPCWx9xJ8gi1WqQREzYAiPd+q7Clti7Rs46xfUQTM9HCBcoqfy8NcvzxSI8Ku+Rb9CCaUfPjrp7aK0QX5pTjaNGXZwLVgRs3rtEbcwnXoN2xC7bRWy3mGpacK22jcPP1qYaY45DK8d76lKinX6N5UQjF3Ni6IqqV6Sb6nS5brTKLsCXEdWwpW4GrFgZIrM//kjXSyKpvWeTQyUjNWs/zizdUfOMJJ7PFaQakG3jaINRc3eddugqWoR4KeVZAytuhaYxrGBJRTg4VjkadSVEqU5aJXMFeLPhBoRf7IhvEF5FrW9dyNRSvQ7P2HI5sK5G4skbXW6gC200A9fCcj7z+nsxXwA6IuMr/2BKW70kNlHBWRjFBL6zCcgnl+PVScBA95zwy0xAlkENvDF9z3r31vxqKkhHU8nwNWhNHs0mXt1YGjHFO9ksRdhOmeH1avGbB/zYJnQZw6GbLyvL9/0S4NamzY=;d2+cudQr55XgW8X0NWyQdA=="
 ---

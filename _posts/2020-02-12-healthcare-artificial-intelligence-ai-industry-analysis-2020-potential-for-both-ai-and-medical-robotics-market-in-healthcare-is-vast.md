@@ -18,21 +18,6 @@ topics:
   - AI in Robotics
   - AI in Healthcare
 
-related:
-  - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
-    excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
-    publishedDateTime: 2020-02-06T16:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-by-level-of-automation-and-component-global-opportunity-analysis-and-industry-forecast-2020-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
 secured: "tCEY7nwESsnG2aaFsRWyhe5JpqqbpBSewSnyTr0cSLqhlWTACaf9jJOAOYb3PbrVRGAJHHxko+GXUp06QHkJ5Z8MNSXUU2gwYD4NvrDFgTvGZwaQLX43oEtbbCk+L/UHvGaDcHK+SlYEhZa5XRb4+dt+XTOCZf4MAA3Y1osUKydCfraAAAIi/NeBeqVz9yjBqeda+iod/RdLNL6nj29AcEmEzOVXTwGdIL5ddY1f5Zz+KIuUHH1Njna7il4oNOWXp42Wz33uZz3kulUrY1tShHyIN08issBhjxD3RtvgInAT8XcasLvRzkugetWBh0pAfl7qidwqBYAPxBKVjHQ36f3XPjEt5dwUVL30zLpVQ3A13+bbY+T7/k18zBMMNDSSYGwLmNZ6T/UfJXahEhwlbX4Z/netd6+QVm7kzUQx/qpkhiC0PaOpZ2xqF5BntMzdFVFnsYaZasPu9A2MtTtcbvQhTX7JcskOabBBhOSL9uw=;9kGbDAIDLjpBwnqXHG+29A=="
 ---
 

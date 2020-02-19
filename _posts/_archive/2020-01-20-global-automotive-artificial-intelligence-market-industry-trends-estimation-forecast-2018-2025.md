@@ -31,6 +31,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Automobiles Market 2020 | Global Size, Share, CAGR, Application, Overview, Analysis by Top Leaders and Forecast 2023"
+    excerpt: "Summary Global Automotive Artificial Intelligence Market Information Report by Technology (Deep Learning, Machine"
+    publishedDateTime: 2020-01-28T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automobiles-market-2020-global-size-share-cagr-application-overview-analysis-by-top-leaders-and-forecast-2023-2020-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
     excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements ..."
     publishedDateTime: 2020-01-22T21:37:00Z
@@ -41,6 +54,6 @@ related:
       domain: arnnet.com.au
     quality: 12
 
-secured: "rvCY9l64qdZDrYdI/r7/U7dFPsbMoEEZ1VleTEpOzF9Gl7wsHED6j1IsBhP17pBYde8enMgsKmbWyjCXAWOe0X6vbYYTljROitl8Ch3xnsfs5LT2BxOZUse4FsfTDSiLcwtTrf/sEbrI3akJRFXLSd7gMpjt+jw5JzO1g3F0bdLRdjQOQ31hLKKCuZ95VyAzTT+mVNhY8xY0cUf5rLfQTzbG0Y/0jBHbLCRS6lKtmsqdQjZQEQn4lfndZldX+ObejwSpF+DTjqHj/fRgvSXaQfmUGESBxqIY1j1NUpL6tq9VxRnO4dwbc7U56iPR57Vc;P5AdIUgiOJncYwY5hHIU4g=="
+secured: "jwhGcG07cItEUbMdKia4nn/EZse47P3LDjp1WisDHDr6g1JFPHRNMwD5BCwK+nlfrWi4mWe3xrvD28njWIKrTKGiO8cQVK55kxA8C8d8f6YH7KzlJORxpgbMk+UJhGTAtyeM0Hh6ISrk+tDYcCTj5oNthijEklnbqP5Z41/RP8m+ZPfqoTE+a262Rtt1nKDGAAequJ4DgGSmo2YgKNgu8BO0ErOdwH50FR+YslaCzdcpeCWiKkCVUcodcjknEf+TcT/oYmLjQGb8Maqj/cNvLc8IqieKSDXzlCAFqm1HsBmmlqxdK7eIPGwOFFDD+TJr;oS4NtZtY2AKVcMTiGIEudQ=="
 ---
 

@@ -28,19 +28,6 @@ images:
     title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
 
 related:
-  - title: "The Global Deep Learning Market is expected to grow by USD 7.2 bn during 2020-2024, progressing at a CAGR of 45% during the forecast period"
-    excerpt: "New York, Feb. 04, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Deep Learning Market 2020-2024\" - https://www.reportlinker.com/p04391092/?utm_source=GNW Our reports on global deep learning market provides a holistic analysis,"
-    publishedDateTime: 2020-02-04T14:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-global-deep-learning-market-is-expected-to-grow-by-usd-72-bn-during-2020-2024-progressing-at-a-cagr-of-45-during-the-forecast-period-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global LegalTech Artificial Intelligence Market is Expected to Grow at a CAGR of More Than 37.7% Over"
     excerpt: "PUNE, India, Feb. 4, 2020 /PRNewswire/ -- The digital reforms in the legal industry have transformed the traditional courtrooms and law practices, thus strengthening the prevalence of Artificial Intelligence (AI) in legal technology or legaltech. The increasing burden of legal activities, carried out around the globe, over a limited number of ..."
     publishedDateTime: 2020-02-04T15:58:00Z
@@ -64,6 +51,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "XjmaKNauVxlPJaZoblY/3eBwzNCPqpsYqovjazYxJNXuzNWIeQdwEICtnw+UYkmkNHm3g+UbJcKFIsTE/pXMpPCNaXsviZuTEalsmi6dHUjntD0MO7ijv2JyuPjRRExeBYU+LNPrBnHUvVVSL84ofa9lC7AD1VrzdDg6gn4wp3Zu2Ls82cXaFdk4UQz6+AvWZTMOvqUFxo6yeg2RdaGgFKmGaU5JXjlIjyLEb40x7IPSQA+Cq2lJlbagtKgBVf6sdiBdgODpneHC1utXayfcE08K4bsWawZSdDrDsXsCMzqRtx+nvqz8vHWAT1qIaJnE;nCzKZLMM8zfA4j37WS1+eg=="
+secured: "KW1rx7t3ubGLJxkXiCK1vfVjUzCYWNRwESHmzxEVAuwSppnOR9FKZLePnzbvvlDe49r3et2qi+zhcphLPwc0H1op7Qr6ijTg+7l9XLpL3WkzgonbEn4EWsJeM1ks3jWhKrJMUsKhGJ0cxQAl+ZyAb+vp2J4xCAi/725rY6vDR5UJmBROsR2ACQ9g/GS0TJmOTYW1t+gYaa1BBCb0ijn718cCvsDrG7Lj4qv+FWS3i9bwVLABKuKEWJSEowP0lPq+glgsjcZlRUyb05DuiAxdrlid9nYJt1cg/kNjjPLRcFQGmMhsIXN8fwl1oji5thnt;wevLP7inKfbCGE/96ypwIQ=="
 ---
 

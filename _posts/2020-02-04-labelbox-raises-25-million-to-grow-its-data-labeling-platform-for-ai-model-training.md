@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/labelbox-raises-25-million-to-gro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Artificial Intelligence Startup Labelbox Closes $25 Million in Series B Funding"
-    excerpt: "SAN FRANCISCO, Feb. 04, 2020 (GLOBE NEWSWIRE) -- Labelbox, the leading training data platform for enterprise machine learning applications, today announced the close of a $25 million Series B funding round led by Andreessen Horowitz with General Partner Peter Levine joining the Labelbox board of directors."
-    publishedDateTime: 2020-02-04T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15244594/artificial-intelligence-startup-labelbox-closes-25-million-in-series-b-funding"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
 
 secured: "jrkLDrsMEu/Hb+G5HAhb4Z+wXbBJG1rU8Y1MFuGbxjpcw2C1AKQrpCcIIBEh4l5LuaOpgzvIO1JO+80xWgfniVpSmfVzWor/uucg4viDVnFdZWFc43pkNjEZre2bV3z0Xid2Fu6PExSD8IXYrPx86WfCewM7j/QzlTckU9UVkaa22N3Yg9BiH/8fKypB0ePm1oOwBqIfvQcu07DZTmUWhS6vVXE56CKKxY6GqsiUNdma/uyQRpB2lQEUCO2VU7udNM3beEHKTxkhb7K9FuGOborH1D8sc2f0LCtHA4llEBK3YCmFf/SMWmZoirWPp+gySLyLKTO4RxG3dPrpYtViexxAT+WGoezWQs+5Y/XjqHiYoJv2PTmrvCRvNpGxk5tqAte/7XBM9MGXBfxHALpclyPXoR59kSKupo35OAz+/rbLIqOgpv8uasVabZuM3NTf4D/hXpgLdNm2j6rPnZLqDmjIkn8hcziN7fEMI2Phyro=;5+yX09IPYo3BUfGnF80GWQ=="
 ---

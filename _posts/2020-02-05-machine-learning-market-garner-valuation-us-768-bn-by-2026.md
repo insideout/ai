@@ -18,19 +18,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-31T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
+  - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
+    excerpt: "LOS ANGELES, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The global machine learning market is anticipated to grow at a CAGR of around 40.1% over the forecast period 2019 to 2026 and reach the market value of around US$ 76."
+    publishedDateTime: 2020-02-05T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-around-us-768-bn-by-2026-2020-02-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+    quality: 49
   - title: "Artificial Intelligence Market Size Worth $390.9 Billion by 2025: Grand View Research, Inc."
     excerpt: "Improved image recognition technology is critical in enhanced drones, self-driving cars, and robotics. Key suggestions from the report ... Inc.; Zebra Medical Vision, Inc.; Baidu, Inc.; H2O ai; IBM Watson Health; NVIDIA; Enlitic, Inc.; Google, Inc.; Intel Corporation; and Microsoft Corporation. Read 100 page research report with ToC on ..."
     publishedDateTime: 2020-02-05T08:40:00Z
@@ -40,6 +36,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 9
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
+    publishedDateTime: 2020-02-06T12:07:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "NbLgS766aONWi4QuKbfK/zfViQMLlDto19B0H2PdepJxzMpwArNOx7IFLPnTPh78sIcmeJTV4zCJfJ0/VvhY1e0d3UB4s6SgDkc5Cb0jKyfvdzbTwx9cWNbCUsPvvnEb+QhLHu3pI9yMR6xlO5XjJn5QSPQQLJtRxm51exJ2+9A9Bl5eC4l9P437tWmzq1DvDv+LtDcSSSRupG65zLi0YorYsg6Lcw3CRcutnPc7EPblEV1h2d5zDSeU5y/o/Y4fmMK7/wE4eJjuXuTWH2zmmCgqJ+onmsOdEb9YrlgOTFDzrNDvPJaszAIuRMk2j1VX;PQ37db1hTDS23SvVler9WQ=="
 ---
