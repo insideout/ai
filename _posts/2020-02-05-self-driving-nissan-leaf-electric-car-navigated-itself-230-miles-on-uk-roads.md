@@ -26,17 +26,6 @@ images:
     title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
 
 related:
-  - title: "Self-driving electric air taxi passenger trials approved for Canterbury"
-    excerpt: "Yesterday, the Government signed a memorandum of understanding with Wisk, supporting a passenger transport trial with the all-electric self driving plane in Canterbury which would be a world first. \"The Government sees great potential in the development of an innovative unmanned aircraft sector in New Zealand and we are in a prime position to ..."
-    publishedDateTime: 2020-02-05T00:49:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/self-driving-electric-air-taxi-passenger-trials-approved-canterbury"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 39
   - title: "Nissan Leaf breaks UK record for longest self-driving car journey"
     excerpt: "Autonomous model completes complex 230-mile trip from Bedfordshire to Sunderland"
     publishedDateTime: 2020-02-05T13:00:00Z

@@ -24,6 +24,6 @@ images:
     height: 675
     title: "How to invest in artificial intelligence"
 
-secured: "s/SIPW/mFg+iN4qNcvok6GN/NIldzMTsVcsp9qbhMWyNk1wvuak5rC5DrMBkaP6GEw6hVBNi8Rj7C2WmpT4rrckuabv2rIoMWqBBJgxcMg37lH7ySOACZn17qgqtbhTXw0UrYHqy+RQV3dhYaD9r0PiPImW26CitqUUPduBOm9+l4gRDyUonjxpsdZwt+BNOye97Pva8nRu0sBhtD+ZK2VXHkyAJDEn5TL/JcaOeIv3jW5XNrnSPZSYDT55nlmboq1Vksfjneof4qdM8BFFxO39r3Pas9aggPTYlXAJo0KG96b3Me2mjMAu3PAk9XGaq;WuvW1f3VIBzL4t6GSfgvnw=="
+secured: "9ZPwWRWRiJnu6WyloJWxcMvDgNJ+Uqiu9Fve8G8d5PfQyJioQ/4W5g9Cu59Vw8ZKZpuRJO22aYyKbeHBifT24Sr2EfKcPamzOvhnCEVHKgGtRX3faJvcNKkUgsWdmJnRoJV7Sp5CSx6VApvFGm7ZoK6JB522Z6t1/nFVSedeFs/A1hDPx6AcP+pfByolvDkzhG/Dbzh9ZC+9iPrL5vJttWGAOihmE9HjbvNRzGziLp+hoxrMct3TsUMhdOTLQXcOoLm1PlRscFymZkxM6JPt2GA2bcj9sYCnHxWbBdy/K1HVTMIke+KbH3bpcTRTxQE7;/R4PW5oiL7EGeUqE/aJOVg=="
 ---
 

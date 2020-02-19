@@ -2,6 +2,178 @@
   "page": 16,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos.md",
+      "title": "IBM spearheading AI regulation and ethics debate at Davos",
+      "excerpt": "IBM also suggests that companies appoint chief AI ethics officials, carry out assessments to determine how much harm an AI system may pose, and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesslive.co.za/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
+      "publishedDateTime": "2020-01-21T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/jDCyDuJDTIlYc8w2p3497rWrABJ42N0xyjTuW-w7wX4jzNQfMRfjVN0NoRucfSfjCoGVTzbEz6NzKPJvz5nUjCCQivQq8oCT=s1000",
+          "width": 1000,
+          "height": 666,
+          "title": "IBM spearheading AI regulation and ethics debate at Davos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ibm-unveils-policy-lab-advocates-precision-regulation-of-ai.md",
+      "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
+      "excerpt": "IBM advocates for the appointment of AI ethics officials to guarantee compliance with providers’ and owners’ expectations. They’d be accountable for internal guidance and compliance mechanisms like AI ethics boards, which would oversee risk assessments and harm mitigation strategies, and for improving public acceptance and trust of ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
+      "publishedDateTime": "2020-01-21T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ibms-biology-inspired-ai-generates-better-hash-codes-than-classical-approaches.md",
+      "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
+      "excerpt": "To overcome this limitation, researchers at Princeton, the University of San Diego, IBM Research, and the MIT-IBM Watson AI Lab developed BioHash, which applies “local” and “biologically plausible” synaptic plasticity rules to produce hash codes. They say that it outperforms previously published benchmarks for various hashing methods ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
+      "publishedDateTime": "2020-01-21T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/87c3b4c5-3db3-461e-b3f9-266dfa23d445-1-e1579635316665.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way.md",
+      "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
+      "excerpt": "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,",
+      "heat": 138,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/",
+      "publishedDateTime": "2020-01-21T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-21-looking-for-an-affordable-phone-wait-for-qualcomms-new-mid-range-chipsets.md",
       "title": "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets",
       "excerpt": "Combined with an improved Adreno 618 GPU, users can expect a significant leap in day-to-day as well as gaming performance over the Snapdragon 712. Imaging is one of the key focus areas for Qualcomm and the 720G gets a Spectra 350L ISP that enables image capture at up to 192MP as well as HEIF support. There are improvements in the AI engine as ...",
@@ -1939,150 +2111,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-oakland-startup-nets-221m-to-build-out-whats-no-longer-science-fiction.md",
-      "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
-      "excerpt": "When Sean Byrnes started his automated data analytics company, Outlier, in 2015 the idea of using artificial intelligence to boil down the massive amounts of data businesses collect into a few valuable insights sounded like science fiction.",
-      "heat": 140,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.html",
-      "ampWebUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
-      "publishedDateTime": "2020-01-22T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11585539/sean-byrnes-horizontal*600xx3917-2620-288-433.jpg",
-          "width": 600,
-          "height": 401,
-          "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-octi-launches-a-social-network-built-around-augmented-reality.md",
-      "title": "Octi launches a social network built around augmented reality",
-      "excerpt": "Octi has created a new social network that uses augmented reality to connect the act of seeing your friends in real life with ... Ultimately, he’s hoping to turn this into a WeChat-style platform for outside developers to build social tools and content. And because Octi works on iPhone 7 and above (with plans for an Android version later ...",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/22/octi-social-network-launch/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-22T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset.md",
-      "title": "PathFactory and 6sense Join Forces To Equip ABM Marketers With Unrivalled Dataset",
-      "excerpt": "TORONTO, Jan. 22, 2020 /PRNewswire-PRWeb/ -- PathFactory (the leader in content intelligence) announced a partnership today with 6sense (the leading Account Based Orchestration Platform, powered by AI) that will give marketers complete visibility into the quality of account engagement,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/01/n15163274/pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15163274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15163274",
-      "publishedDateTime": "2020-01-22T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-researchers-use-ai-to-deblur-human-faces-in-photos.md",
-      "title": "Researchers use AI to deblur human faces in photos",
-      "excerpt": "In search of a solution, scientists at the Inception Institue of Artificial Intelligence in the United Arab Emirates, the Beijing Institute of Technology, and Stony Brook University developed an AI system that removes blur from images in post-production. They note in a paper that it’s human-aware, meaning it’s able to deblur human faces ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
-      "publishedDateTime": "2020-01-22T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/7ec55bc5-ac3d-48a4-8a26-82fe8db7356a-e1579715708955.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers use AI to deblur human faces in photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

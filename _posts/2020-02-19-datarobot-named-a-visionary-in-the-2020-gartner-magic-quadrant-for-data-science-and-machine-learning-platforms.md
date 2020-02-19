@@ -76,6 +76,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200219005544/en/33081/23/TMW_logo_2002.jpg"
         width: 1200
         height: 627
+  - title: "Domino Data Lab Named a “Visionary” in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "Company Cited for High Customer Satisfaction and Industrial-Strength Capabilities that Enable Transparent, Scalable and Collaborative Environments SAN FRANCISCO, Feb. 19, 2020 (GLOBE NEWSWIRE) -- Domino Data Lab,"
+    publishedDateTime: 2020-02-19T16:16:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/19/1987188/0/en/Domino-Data-Lab-Named-a-Visionary-in-Gartner-Magic-Quadrant-for-Data-Science-and-Machine-Learning-Platforms.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "HZpBzTpiPuaN4k2i5bsyC5w2tjQBmBJbHYOqOdLcjzHAipcO82rv0/cazb0if6D3OtOmPnhPKu6eUbTjYwpjO5zeYxbIE8kKhKVZgRTkRuU7/KJ+m8LL3v/pDfNDQTqLDU5uoW3hAr63N4fJOPc1C555VDCBLZRaDkmFaRqLa71NAFTDoAC80AkXAggsY+wkvFCB+OXNcqxWHsU8mf69je5HMqiRC8PgrGK1REZO+vz16EruWUMo8yLcdsw1mFR9/m1wOFLayLOmNaSQ6UnlsJ62Vz4yGqoXe9/75X4lBEQkPeaaPJjo19KbOHHFSr7R;FLAuXgs+qo6tQ+MprXz2dw=="
 ---

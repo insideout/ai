@@ -76,6 +76,15 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "Domino Data Lab Named a “Visionary” in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "Company Cited for High Customer Satisfaction and Industrial-Strength Capabilities that Enable Transparent, Scalable and Collaborative Environments SAN FRANCISCO, Feb. 19, 2020 (GLOBE NEWSWIRE) -- Domino Data Lab,"
+    publishedDateTime: 2020-02-19T16:16:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/19/1987188/0/en/Domino-Data-Lab-Named-a-Visionary-in-Gartner-Magic-Quadrant-for-Data-Science-and-Machine-Learning-Platforms.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "fY4eqgNKny5MjUgZJCit+gL5V3bmsY6qnBo2qKy2azMcfb/fqPV2AvxNbBaafVMQHOkJ2ijmiOT79cdqWuPjP+Tb+R+d0w8a7/hI3CWqG9+2OjCmAtxn1J6djJngBG1CaTp9o6O2c6ARHib4PoMS8Kg3/bthnvp9/9laBGqVtZJ7hI2CplX1HYFa8biQCJIWtSkuw+Xla+zpI2E2sOhsMwGOFTzSMfjeZPRUR1n2qg5ms1b4g1p8N4d9MJbsRlEr0Um/RtkmMoXD74FLmiGUGTcXiW7p3LgcYWJ2iog4+ED6g4u/EkNS/wvvePZ6VXPm;TpSRaCXA1SxnF8sfobqSwQ=="
 ---

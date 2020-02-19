@@ -29,6 +29,6 @@ images:
     height: 1600
     title: "AI Helps Warehouse Robots Pick Up New Tricks"
 
-secured: "FUKytA1xBJuVPN6gpVBvcxAk8TIZ2NzsQIcUQif5N+Nm1dMY2fPZnoRReK2FGNwTYZOSLCxu87dg7PTzIYcvbRE+J/kpoplev6audrCUIi2MVtSFB36CtiU3lK719NMxgO/TefLDPvncC7mIh+AULVps4u3LnQGfcEzQrpJvW3/IhYn8n+JEAhq6cMnqBbam5T/vhvlL9i+ZfZm7uVRaJC3D14WYsW/xuBC6KZHgiCpFjJdDYf19wg/byKmLqi2jRhqFzwgIItwUqSbOx55AR5BbyVJiYOzLnXRbYfpCymRQycI+MwHUQ029BNFKxb3l;e9a9Eogv/+qm20DSawA03g=="
+secured: "CMZe8LVwAElHFGJQLje3wtWKSyX/oS9mfSL9dB/xK+TdbGi0CF9flM3dn+v7r1/7k4FXjG3G/kmhRSl75M72NErMcE2xE3IXi2ZnRoqrUX2xQxm7NduJMYAS0WB/McfyIBhoMpZUw2/c39OCHbaPC/R7gvTkQkdKca/KE46kkz0ZCG9gKKjO12jK3Wxq+0s3FQln/0fu1iPJ6FVGJIEdhXNByNyoeEZwLO3h6g0XfknTov40oHqtZFkJA3wJM5OLTs91EI5g/P+cGRMxJv/gnvjOiUpi/BuXBvcOyzVJpZxQYJOTWsBNllkVF/ffsA9y;KGucxEJhOp8Ly3fL7ML2jg=="
 ---
 

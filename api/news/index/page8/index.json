@@ -2,6 +2,95 @@
   "page": 8,
   "value": [
     {
+      "path": "_posts/2020-02-19-levels-and-limits-of-ai.md",
+      "title": "Levels And Limits Of AI",
+      "excerpt": "Not all AI is the same. Accelerated AI makes what you do faster. Augmented AI makes it better. And Automated AI does it for you. But when each \"level\" of AI becomes feasible is a function of the underlying problem's difficulty,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
+      "publishedDateTime": "2020-02-19T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1141218835%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6400%26cropY1%3D663%26cropY2%3D4263",
+          "width": 1200,
+          "height": 675,
+          "title": "Levels And Limits Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-malaysian-firm-offers-ai-based-profiling-of-chinese-visitors-for-virus.md",
+      "title": "Malaysian firm offers AI-based profiling of Chinese visitors for virus",
+      "excerpt": "Malaysia’s MYEG Services Bhd ( MYEG.KL) said on Wednesday it had developed a coronavirus risk-profiling system for visitors from China and was offering the artificial intelligence-based service to the governments of Malaysia and the Philippines.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-china-health-malaysia-profiling-idUSKBN20D1WJ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20D1WJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20D1WJ",
+      "publishedDateTime": "2020-02-19T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200219&t=2&i=1492406894&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1I18X",
+          "width": 817,
+          "height": 545,
+          "title": "Malaysian firm offers AI-based profiling of Chinese visitors for virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-19-microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations.md",
       "title": "Microsoft’s new Dynamics 365 services apply AI to finance and project operations",
       "excerpt": "“Our continued investment in expanding AI capabilities across Dynamics 365 helps … organization[s] accelerate ... Customer Insights now plays nicely with Azure Synapse Analytics, allowing managers to run customer data through analytical processing pipelines and machine learning models. This in conjunction with prebuilt APIs that enable ...",
@@ -127,6 +216,50 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-sentinelone-raises-200m-at-a-11b-valuation-to-expand-its-ai-based-endpoint-security-platform.md",
+      "title": "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform",
+      "excerpt": "“The landscape is expanding and it is getting very hard to monitor not just what your network looks like but what your attackers are looking for.” This is where an AI-based solution like SentinelOne’s comes into play. The company has roots in the Israeli cyberintelligence community but is based out of Mountain View, and its platform is ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/",
+      "publishedDateTime": "2020-02-19T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-914788014.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -333,6 +466,50 @@
           "width": 1200,
           "height": 630,
           "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-what-explainable-ai-really-means-and-what-it-means-for-your-business-vb-live.md",
+      "title": "What explainable AI really means and what it means for your business (VB Live)",
+      "excerpt": "White-box AI is getting heaps of attention, in part because it brings business value to customers and companies alike. Learn why businesses are moving away from black box systems to more explainable AI — and what it really means to be explainable — when you catch up on this VB Live event. Access free on demand right here. White box and ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/what-explainable-ai-really-means-what-it-means-for-your-business-vb-live/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/what-explainable-ai-really-means-what-it-means-for-your-business-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/what-explainable-ai-really-means-what-it-means-for-your-business-vb-live/amp/",
+      "publishedDateTime": "2020-02-19T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-1163568487.jpg?fit=2098%2C1132&strip=all",
+          "width": 2098,
+          "height": 1132,
+          "title": "What explainable AI really means and what it means for your business (VB Live)",
           "attribution": null
         }
       ],
@@ -1920,170 +2097,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-29-misty-robotics-eyes-23-million-developers-to-build-skills-marketplace.md",
-      "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
-      "excerpt": "Sphero spin off Misty Robotics is building a skills marketplace for its Misty II robot by crowdsourcing the talents of the global developer community. Now hobbyists with a few lines of Javascript or C# code can create their dream assistant who out of the box can see,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
-      "publishedDateTime": "2019-12-29T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e087da825ab5d0007cf756b%2F0x0.jpg%3FcropX1%3D178%26cropX2%3D1606%26cropY1%3D0%26cropY2%3D804",
-          "width": 1200,
-          "height": 676,
-          "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-30-2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve.md",
-      "title": "2020 Supply Chain Technology Trends: Where Do Young Technologies Fit On A Maturity Curve?",
-      "excerpt": "When it comes to talking about technology trends, it is very helpful to talk about the maturity of newer technologies that are getting a lot of buzz.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/12/30/2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve/",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/12/30/2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/12/30/2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve/amp/",
-      "publishedDateTime": "2019-12-30T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0a0450ab5be600076292aa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1308%26cropY1%3D140%26cropY2%3D876",
-          "width": 1200,
-          "height": 676,
-          "title": "2020 Supply Chain Technology Trends: Where Do Young Technologies Fit On A Maturity Curve?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-30-a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown.md",
-      "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
-      "excerpt": "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/",
-      "ampWebUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
-      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
-      "publishedDateTime": "2019-12-30T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaiser Health News",
-        "domain": "khn.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://khn.org/wp-content/uploads/sites/2/2019/12/AI_illustration_02.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-30-ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments.md",
-      "title": "AI in 2020: How use cases will drive artificial intelligence deployments",
-      "excerpt": "Learn why predictions about artificial intelligence trends include ... cost savings across the automotive OEM supply chain, and self-driving technology is projected to be a $556 billion market ...",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-30T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

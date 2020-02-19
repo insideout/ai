@@ -69,6 +69,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
         width: 600
         height: 360
+  - title: "EU imposes sweeping regulations on facial recognition, Artificial Intelligence"
+    excerpt: "The proposals could place a temporary ban on all facial recognition in public, create a single market for data throughout the entire EU, and ask for almost $22 billion to invest in A.I.. The new tech regulations have sent Silicon Valley executives, like Facebook's Mark Zuckerberg and Google's Sundar Pichai, to Brussels to lobby the EU's ..."
+    publishedDateTime: 2020-02-19T17:26:00Z
+    webUrl: "https://abcnews.go.com/International/eu-imposes-sweeping-regulations-facial-recognition-artificial-intelligence/story?id=69069219"
+    ampWebUrl: "https://abcnews.go.com/amp/International/eu-imposes-sweeping-regulations-facial-recognition-artificial-intelligence/story?id=69069219"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/eu-imposes-sweeping-regulations-facial-recognition-artificial-intelligence/story?id=69069219"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 72
+    images:
+      - url: "https://s.abcnews.com/images/International/jourova-zuckeberg-sh-rc-200219_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
   - title: "EU facial recognition rules, air quality satellite, whale earwax"
     excerpt: "Quartz’s interactive email for curious minds. Escape the stale news cycle with forgotten histories, surprising facts, and vital stats."
     publishedDateTime: 2020-02-19T06:25:00Z

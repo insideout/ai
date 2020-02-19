@@ -2,6 +2,168 @@
   "page": 12,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-14-google-says-new-ai-models-allow-for-nearly-instantaneous-weather-forecasts.md",
+      "title": "Google says new AI models allow for ‘nearly instantaneous’ weather forecasts",
+      "excerpt": "Google is the latest firm to get involved, and in a blog post this week shared new research that it says enables “nearly instantaneous” weather ... The company’s researchers trained their AI model on historical radar data collected between 2017 and 2019 in the contiguous US by the National Oceanic and Atmospheric Administration (NOAA).",
+      "heat": 186,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research",
+      "publishedDateTime": "2020-01-14T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/kZDgOL323H6bmnb5b22dfqgR09s=/0x0:5630x3753/1400x933/filters:focal(2365x1427:3265x2327):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66097507/1185354768.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google says new AI models allow for ‘nearly instantaneous’ weather forecasts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations.md",
+      "title": "KeyMe Plans To Use New $35 Million Funding Round To Build 10,000+ Retail Locations",
+      "excerpt": "KeyMe boasts 3,000+ kiosks in retailers like Ikea, Rite Aid and Kroger. With the announcement of a new $35 million funding round led by Brentwood Associates, CEO Greg Marsh has ambitions to go even bigger.",
+      "heat": 181,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/",
+      "ampWebUrl": "https://www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/amp/",
+      "publishedDateTime": "2020-01-14T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1cff34da6d38000629847c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "KeyMe Plans To Use New $35 Million Funding Round To Build 10,000+ Retail Locations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft.md",
+      "title": "LG hones focus on AI car platforms with Cerence and Luxoft",
+      "excerpt": "The South Korean electronics maker has also extended its partnership with Microsoft as part of plans to move further into the commercial space. LG said it will leverage Microsoft Azure and AI services to enhance its management systems to enable its Building Energy Control (BECON) system to manage and control heating, ventilation, and air ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
+      "publishedDateTime": "2020-01-13T18:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/14/fa1a0cb0-0104-41aa-b836-0541476b2854/lg-cerence-partnership.jpg",
+          "width": 3000,
+          "height": 1997,
+          "title": "LG hones focus on AI car platforms with Cerence and Luxoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-rights-group-says-china-is-trying-to-silence-critics-abroad.md",
+      "title": "Rights group says China is trying to silence critics abroad",
+      "excerpt": "He warned that if human rights aren’t defended, the world could face “a dystopian future in which no one is beyond the reach of Chinese censors” and a global rights system so weakened that ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://kvia.com/news/us-world/2020/01/14/rights-group-says-china-is-trying-to-silence-critics-abroad/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-14T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-14-the-case-for-a-light-hand-with-ai-and-a-hard-line-on-china.md",
       "title": "The Case for a Light Hand With AI and a Hard Line on China",
       "excerpt": "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity.",
@@ -1980,176 +2142,6 @@
           "width": 1200,
           "height": 600,
           "title": "Amazon details the AI behind Alexa’s Whisper Mode",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-announcing-the-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
-      "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
-      "excerpt": "We’re bringing TC Sessions: Robotics + AI back to UC Berkeley on March 3, and we’re excited to announce our jam ... Student tickets are just $50 and can be purchased here. Got a startup? Book a startup exhibitor package today and demo your company in front of 1,000+ attendees. Each table comes with four attendee tickets, so you can divide ...",
-      "heat": 229,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
-      "publishedDateTime": "2020-01-15T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-aoc-is-sounding-the-alarm-about-the-rise-of-facial-recognition-this-is-some-real-life-black-mirror-stuff.md",
-      "title": "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'",
-      "excerpt": "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/",
-      "ampWebUrl": "https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1",
-      "cdnAmpWebUrl": "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1",
-      "publishedDateTime": "2020-01-15T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-apple-acquires-artificial-intelligence-company-xnoraiheres-what-that-company-is.md",
-      "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
-      "excerpt": "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ...",
-      "heat": 66,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained",
-      "ampWebUrl": "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained",
-      "publishedDateTime": "2020-01-16T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/twa6yTzs-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-apple-acquires-on-device-ai-startup-xnorai-for-200-million.md",
-      "title": "Apple acquires on-device AI startup Xnor.ai for $200 million",
-      "excerpt": "In brief: Apple is on a spending spree for AI startups, and the latest is a Seattle-based startup that makes on-device machine learning tools that literally sip power and cost very little to ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html",
-      "publishedDateTime": "2020-01-16T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-15-ts3_thumbs-d0f.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Apple acquires on-device AI startup Xnor.ai for $200 million",
           "attribution": null
         }
       ],

@@ -2,6 +2,150 @@
   "page": 17,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-22-oakland-startup-nets-221m-to-build-out-whats-no-longer-science-fiction.md",
+      "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
+      "excerpt": "When Sean Byrnes started his automated data analytics company, Outlier, in 2015 the idea of using artificial intelligence to boil down the massive amounts of data businesses collect into a few valuable insights sounded like science fiction.",
+      "heat": 140,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
+      "publishedDateTime": "2020-01-22T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11585539/sean-byrnes-horizontal*600xx3917-2620-288-433.jpg",
+          "width": 600,
+          "height": 401,
+          "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-octi-launches-a-social-network-built-around-augmented-reality.md",
+      "title": "Octi launches a social network built around augmented reality",
+      "excerpt": "Octi has created a new social network that uses augmented reality to connect the act of seeing your friends in real life with ... Ultimately, he’s hoping to turn this into a WeChat-style platform for outside developers to build social tools and content. And because Octi works on iPhone 7 and above (with plans for an Android version later ...",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/octi-social-network-launch/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset.md",
+      "title": "PathFactory and 6sense Join Forces To Equip ABM Marketers With Unrivalled Dataset",
+      "excerpt": "TORONTO, Jan. 22, 2020 /PRNewswire-PRWeb/ -- PathFactory (the leader in content intelligence) announced a partnership today with 6sense (the leading Account Based Orchestration Platform, powered by AI) that will give marketers complete visibility into the quality of account engagement,",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/01/n15163274/pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15163274",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15163274",
+      "publishedDateTime": "2020-01-22T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-researchers-use-ai-to-deblur-human-faces-in-photos.md",
+      "title": "Researchers use AI to deblur human faces in photos",
+      "excerpt": "In search of a solution, scientists at the Inception Institue of Artificial Intelligence in the United Arab Emirates, the Beijing Institute of Technology, and Stony Brook University developed an AI system that removes blur from images in post-production. They note in a paper that it’s human-aware, meaning it’s able to deblur human faces ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
+      "publishedDateTime": "2020-01-22T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/7ec55bc5-ac3d-48a4-8a26-82fe8db7356a-e1579715708955.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers use AI to deblur human faces in photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-22-robot-burns-poems-created-by-artificial-intelligence.md",
       "title": "‘Robot Burns’ poems created by artificial intelligence",
       "excerpt": "But now a student at the University of Glasgow has used a “Robot Burns” artificial intelligence (AI) poem generator programme to create almost “instant works” by Robert Burns, in honour of a fellow student, Chris, who took his own life on Burns Day, on 25 January 2016. Perry Gibson, who is studying for a PhD in computing science ...",
@@ -1969,185 +2113,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-twitter-demands-ai-company-stops-collecting-faces.md",
-      "title": "Twitter demands AI company stops 'collecting faces'",
-      "excerpt": "Twitter has demanded an AI company stop taking images from its website. Clearview has already amassed more than three billion photographs from sites including Facebook and Twitter. They are used by the FBI and Department of Homeland Security and more than 600 other law-enforcement agencies around the world to identify suspects. In a cease-and ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-51220654",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51220654",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51220654",
-      "publishedDateTime": "2020-01-23T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12995/production/_110618167_gettyimages-1160977168.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Twitter demands AI company stops 'collecting faces'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-twitter-tells-facial-recognition-trailblazer-to-stop-using-sites-photos.md",
-      "title": "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos",
-      "excerpt": "Twitter said Clearview AI, whose app is spreading in law enforcement, was violating its policies. Lawmakers also expressed privacy concerns. A mysterious company that has licensed its powerful facial recognition technology to hundreds of law enforcement agencies is facing attacks from Capitol Hill and from at least one Silicon Valley giant.",
-      "heat": 663,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html",
-      "publishedDateTime": "2020-01-22T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/22/business/22clearview/22clearview-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-uber-prepares-to-test-its-self-driving-cars-in-washington-dc.md",
-      "title": "Uber prepares to test its self-driving cars in Washington, DC",
-      "excerpt": "Washington, DC (CNN)Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC.",
-      "heat": 334,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://edition.cnn.com/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html",
-      "publishedDateTime": "2020-01-23T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180323165308-uber-self-driving-cars-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Uber prepares to test its self-driving cars in Washington, DC",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-23-waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas.md",
-      "title": "Waymo self-driving vans and trucks coming to New Mexico and Texas",
-      "excerpt": "Alphabet’s Waymo announced today that it’s expanding to new markets, revealing that it’s bringing some of its vehicles to Texas and parts of New Mexico. More specifically, those living in Texas and New Mexico can expect to see Waymo’s Chrysler Pacificas and long-haul trucks on the road in the near future. Waymo hasn’t shared a ton of ...",
-      "heat": 529,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/",
-      "ampWebUrl": "https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/",
-      "publishedDateTime": "2020-01-23T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/Waymo-Truck.jpg",
-          "width": 1320,
-          "height": 881,
-          "title": "Waymo self-driving vans and trucks coming to New Mexico and Texas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

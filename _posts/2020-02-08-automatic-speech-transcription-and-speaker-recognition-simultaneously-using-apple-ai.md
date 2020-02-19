@@ -104,15 +104,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
         width: 4000
         height: 2666
-  - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
-    excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
-    publishedDateTime: 2020-02-17T16:14:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/17/1985745/0/en/Emotion-Detection-and-Recognition-EDR-Market-to-Reach-33-9-Billion-at-a-CAGR-of-28-9-by-2023-AMR.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "5kQf61qd/x0BEJ8TD8opxNDQWiqIie9pFi5BnOzsO6NF3YUth3oiJVD2bs7GxLYxi0gO36ty/YYF+PhmbdNiDr86OziT4/WO9kdIzMXNdbFp14dqoXTq8MYMYYP23AjWpWOe2iHexa1xTT9YAJLNzzHG71wt5PFsYpr1jKBlkX7jTR+ie6kezG3ONNH4acDCTk0RZ3VnyfTiaHxFjxiATLQNftfTDhpW9V3hssvnNtKk9DrcoxUHgHnYVgdwfwSZ8tH8HfcnOWQnlileS25gM3N3FDNRxIoxy5Ess4bEONfWDN5pzRimeXbjChEwg5/092BNj44eoOHiFL736oGvdqm2OAnTIYVDQXJP1FcH38D0yaUv8p0nbo5KDadCmCawT1QOy5xHAdGss2B6jcynnGw1VIBBeX9RsIYc9D41uY6TwA8D5DkEIV6ypWc8K05Y9x6MD8ZZ/BwC+7RI2xXaije2Mp31EPz6MMZPNSvYsFc=;GmunE2lhYre7GE8OMo8c7g=="
 ---

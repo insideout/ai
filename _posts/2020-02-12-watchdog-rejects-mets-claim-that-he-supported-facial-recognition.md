@@ -57,6 +57,21 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/02/11/a4f44ba3-79b4-4f42-b5a9-ba5aa4375bd6/lg-cns-3-lg-cns.jpg"
         width: 2400
         height: 1600
+  - title: "EU imposes sweeping regulations on facial recognition, Artificial Intelligence"
+    excerpt: "The proposals could place a temporary ban on all facial recognition in public, create a single market for data throughout the entire EU, and ask for almost $22 billion to invest in A.I.. The new tech regulations have sent Silicon Valley executives, like Facebook's Mark Zuckerberg and Google's Sundar Pichai, to Brussels to lobby the EU's ..."
+    publishedDateTime: 2020-02-19T17:26:00Z
+    webUrl: "https://abcnews.go.com/International/eu-imposes-sweeping-regulations-facial-recognition-artificial-intelligence/story?id=69069219"
+    ampWebUrl: "https://abcnews.go.com/amp/International/eu-imposes-sweeping-regulations-facial-recognition-artificial-intelligence/story?id=69069219"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/eu-imposes-sweeping-regulations-facial-recognition-artificial-intelligence/story?id=69069219"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 72
+    images:
+      - url: "https://s.abcnews.com/images/International/jourova-zuckeberg-sh-rc-200219_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
   - title: "Chinese firm working on facial recognition that can identify you under a mask"
     excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
     publishedDateTime: 2020-02-11T10:00:00Z

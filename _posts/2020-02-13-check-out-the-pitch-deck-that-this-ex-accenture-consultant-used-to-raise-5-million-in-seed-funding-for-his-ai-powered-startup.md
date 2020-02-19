@@ -40,6 +40,19 @@ related:
       - url: "https://i.insider.com/5e44a4663b62b741062476d2?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Chinese tech giant Tencent backed AI startup SenSat in a $10 million funding round. We got an exclusive look at its pitch deck."
+    excerpt: "How an AI startup persuaded Chinese gaming giant Tencent to invest."
+    publishedDateTime: 2020-02-19T17:47:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-ai-startup-sensat-funding-tencent-2020-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/5e4d5a12d039616eb942b6f4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "This is the pitch deck that the CEO of AI startup Directly used to convince its top customers Microsoft and Samsung to invest in a $20 million round"
     excerpt: "Directly's top customers, Microsoft and Samsung, are also key investors in the AI customer support startup. They just raised $20 million."
     publishedDateTime: 2020-02-08T10:49:00Z

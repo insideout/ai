@@ -33,17 +33,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/05/09/24335922-7968813-image-a-79_1580894146483.jpg"
         width: 470
         height: 935
-  - title: "Self-driving electric air taxi passenger trials approved for Canterbury"
-    excerpt: "Yesterday, the Government signed a memorandum of understanding with Wisk, supporting a passenger transport trial with the all-electric self driving plane in Canterbury which would be a world first. \"The Government sees great potential in the development of an innovative unmanned aircraft sector in New Zealand and we are in a prime position to ..."
-    publishedDateTime: 2020-02-05T00:49:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/self-driving-electric-air-taxi-passenger-trials-approved-canterbury"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 39
 
 secured: "G7xTZYMwDit7c0DOr1+F6jWhWjsQPk+qUR0PWjtYjxCAG9+C1tV4Hl7N2jYPCer9mOJLrhjso5O0eTcr4m1zQmZztV/CYWZiCY3lrbiS/VW6a2qJlT03qesCB0Ked0RXa9hnHy/7eOKyOLvYGof78wJ3jZadmY+hL0IaPwJBEHqz5ndo6pkv2LMshj7wwRyx425VRwjmcUiChx91nsVCeEUQOSA8AkaBy3XlTzrxAFie7j7OfOOFuY+TTF26r01e9SoZSs4+TRCUQpZfW+srt/m0cGHUVpDk5rR8BkXtc9JswgteD+5Wj6ERrsvBqt5AjYQCTqhq3yqqeGbXYjikyyxJSeqr7xJ9EqZuE+H1suClADzUKB2xKsWo2S03+6hAkI3JOnN5JIb59RUM2/eKtBrYldBjTFzbSqHjpc2h9+cgnGVw9pVv2zScPEz9gTVpgjpCSRhidmlt0c/5vw1qYqm51ec/UJXgBmYXX3aBwso=;wLaRbDsb0tMiP8pflR4yuQ=="
 ---

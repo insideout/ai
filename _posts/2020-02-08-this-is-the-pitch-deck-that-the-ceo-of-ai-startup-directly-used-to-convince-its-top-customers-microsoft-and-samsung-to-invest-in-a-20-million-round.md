@@ -53,6 +53,19 @@ related:
       - url: "https://i.insider.com/5e44a4663b62b741062476d2?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Chinese tech giant Tencent backed AI startup SenSat in a $10 million funding round. We got an exclusive look at its pitch deck."
+    excerpt: "How an AI startup persuaded Chinese gaming giant Tencent to invest."
+    publishedDateTime: 2020-02-19T17:47:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-ai-startup-sensat-funding-tencent-2020-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/5e4d5a12d039616eb942b6f4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "This Canadian startup used AI to track coronavirus and raised alarm days before the outbreak"
     excerpt: "BlueDot can sift through several news stories a day in order to detect and monitor the spread.AFP | February 19, 2020, 13:47 IST On the shores of Lake Ontario, a Canadian start-up raised one of the earliest alarms about the risk posed by the mystery virus that emerged in the Chinese city of Wuhan. How did it do it? Artificial intelligence."
     publishedDateTime: 2020-02-19T08:17:00Z

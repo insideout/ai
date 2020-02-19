@@ -87,6 +87,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "SentinelOne raises $200 million for its AI security platform at a $1 billion valuation"
+    excerpt: "The Mountain View-based startup has developed a platform that automates endpoint security using an AI engine. Its service focuses on detecting threats and responding to them by continually studying and learning from behavior on networks, which the company said allows customers to keep ahead of a constantly changing threat landscape."
+    publishedDateTime: 2020-02-19T16:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/19/sentinelone-raises-200-million-for-its-ai-security-platform-1-billion-valuation/"
+    ampWebUrl: "https://venturebeat.com/2020/02/19/sentinelone-raises-200-million-for-its-ai-security-platform-1-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/sentinelone-raises-200-million-for-its-ai-security-platform-1-billion-valuation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/Screen-Shot-2018-04-04-at-10.28.09-e1582022593266.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "London start-up raises $20m to bring AI to centuries-old insurance industry"
     excerpt: "Andrew Yeoman, the company’s chief executive, said his business can help insurance companies make better decisions on which customers to insure by using AI to process vast amounts of data. The investment into the start-up was led by Albion Ventures with participation from insurance technology investor EOS Venture Partners and IQ Capital."
     publishedDateTime: 2020-02-17T05:30:00Z

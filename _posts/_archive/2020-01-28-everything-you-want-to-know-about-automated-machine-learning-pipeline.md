@@ -27,6 +27,6 @@ images:
     height: 235
     title: "Everything You Want to Know About Automated Machine Learning Pipeline"
 
-secured: "8Xek8lPiAdLXPnmR60uB/RQQr/cv5AV2/LlMJADH+FDHfeakONqG2gaRd6gXPx5XIPcu5IhMNbreV+X3M/hmnXvUfVWaG0YW7IMB+51F5cjVRlXKg/hPJBm/zqVNynHUeTxk4vGsG+iDfzzsANhl5TzTR64NMtPBJWHX702MBvAI4FRVaLZn60HgMTahqMOq69AJdxeFvdk6OATASLZGYpti+eVLpT/Qy5AXvh8tl5Zv8WVldKo5P27OvZuFkFFbm37ktV1hVZLZZ+9JkEAMWEugaG3D482ocu/LjqiO6ne+8KPNhMfrE2MZ/uvziyTA;vhWj0du/ImHtstqrA2fZcg=="
+secured: "HGfs4Tz0nH7y3w1WKYxORH2srJxSMh3hWwJ5Jwe26XTK2F5ZsdrrHK/YoH7cOEypMFz5MQLhD9QxXx6aIH/+KTEu1D40BhK8601ADeevyUre4whqLsvew0sSYW0v3jC+EpP8YLmlfMjEozCZ6lJnanjKUgqpYv250gIYTiovI9B9juC61tyiVVFKqCQA4i/t/aVvDL6YIOt4QYf5wEMrvjslVSXI8dQGD8s6d0VezZYAv1V9NFxefQ0zEzWiqUVfsUlfCkOvR7n5Uv/u4+yjWI71LatZS6zpdPGDAltpOkELFKvIjQefAuyn5SIpZ+4i;aVApQnc2+MNb65oN4tgAgQ=="
 ---
 

@@ -2,6 +2,163 @@
   "page": 22,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-30-science-park-unveils-new-facilities-to-boost-ai-and-robotics-rd.md",
+      "title": "Science Park unveils new facilities to boost AI and robotics R&D",
+      "excerpt": "From now on, artificial intelligence and robotics (AIR) developers are able to use the state-of-the-art facilities provided by the Hong Kong Science and Technology Parks Corporation (HKSTP) to develop proof-of-concept (PoC) projects and fabricate functional prototypes. On January 20, HKSTP unveiled the AI PLUG and Robotics Catalysing Centre ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/presented/tech/topics/ai-plug-and-robotics-catalysing-centre/article/3048053/science-park-unveils",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T18:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/hero.jpg?itok=AfFlwyT4",
+          "width": 1200,
+          "height": 630,
+          "title": "Science Park unveils new facilities to boost AI and robotics R&D",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-self-driving-waymo-minivans-will-assist-ups-with-deliveries.md",
+      "title": "Self-driving Waymo minivans will assist UPS with deliveries",
+      "excerpt": "It's not just people who get to experience self-driving minivans in the Phoenix area. On Wednesday, Google spin-off company Waymo announced a partnership with UPS, the package delivery service. Soon, Waymo's self-driving Chrysler Pacifica minivans will be moving packages around instead of humans. The autonomous driving company is more than a ...",
+      "heat": 209,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/waymo-ups-autonomous-delivery/",
+      "ampWebUrl": "https://mashable.com/article/waymo-ups-autonomous-delivery.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-ups-autonomous-delivery.amp",
+      "publishedDateTime": "2020-01-29T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F29%252F92%252F1adb436cf38e4b8ba6ab5feee3237afa.7da77.jpg%252F1200x630.jpg?signature=xF6AUmM-vbSssyr5JnsUmU94XQM=",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving Waymo minivans will assist UPS with deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-the-robots-are-coming-prepare-for-trouble.md",
+      "title": "The Robots Are Coming. Prepare for Trouble.",
+      "excerpt": "Artificial intelligence won’t eliminate every retail job, an economist says, but the future could be grim unless we start planning now.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
+      "publishedDateTime": "2020-01-30T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/31/business/31VIEW_GIF/31VIEW_GIF-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "The Robots Are Coming. Prepare for Trouble.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-two-sundance-docs-sound-the-alarm-on-the-dangers-of-modern-ai.md",
+      "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
+      "excerpt": "Cautionary tales about AI were all over Sundance screens this year, and not as sci-fi flights of fancy. Two new documentaries, The Social Dilemma and Coded Bias, dig into the pitfalls of artificial intelligence as it currently exists — manipulating our social-media feeds, determining our financial or professional futures, surveilling us on ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review/",
+      "ampWebUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
+      "publishedDateTime": "2020-01-30T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F30%252F2b%252F197609c9e4b0492b9aad0d764ab4085e.746b6.jpg%252F1200x630.jpg?signature=NmOmlZmtuGjdTlPu2UY9_ACFzbc=",
+          "width": 1200,
+          "height": 630,
+          "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-30-ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month.md",
       "title": "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month",
       "excerpt": "LOS ANGELES (Reuters) - United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages. The UPS/Arrival partnership includes a minority investment from the world’s ...",
@@ -1947,177 +2104,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-02-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
-      "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-      "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "publishedDateTime": "2020-02-01T16:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BXJa3tZu4oKtEXuFash5oE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-02-intel-is-sacrificing-previous-ai-acquisitions-for-habana.md",
-      "title": "Intel is sacrificing previous AI acquisitions for Habana",
-      "excerpt": "The big picture: Intel is keen to break new ground in the AI space, but playing hard and fast often results in casualties. Today that’s Nervana, an AI chip startup that Intel acquired in 2016 for roundabouts $400 million. Existing agreements will be honored, but from now on, all AI research efforts will be directed by Habana Labs. Intel ...",
-      "heat": 199,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
-      "publishedDateTime": "2020-02-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-02-ts3_thumbs-dcf.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Intel is sacrificing previous AI acquisitions for Habana",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-02-the-human-powered-companies-that-make-ai-work.md",
-      "title": "The Human-Powered Companies That Make AI Work",
-      "excerpt": "The hidden secret of artificial intelligence is that much of it is actually powered by humans. Well, to be specific, the supervised learning algorithms that have gained much of the attention recently are dependent on humans to provide well-labeled training data that can be used to train machine learning algorithms.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
-      "publishedDateTime": "2020-02-01T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e36288cf133f400076b68ca%2F0x0.jpg",
-          "width": 1200,
-          "height": 662,
-          "title": "The Human-Powered Companies That Make AI Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-02-weekly-poll-high-refresh-rate-screens-will-be-common-in-2020-phones-but-do-you-want-one.md",
-      "title": "Weekly poll: high refresh rate screens will be common in 2020 phones, but do you want one?",
-      "excerpt": "Enabling a high refresh rate in the hardware is only half of the equation, the other half is content. Razer maintains a list of games with 120Hz support, but that is not enough so phone companies are taking a page out of the TV maker’s playbook ... so any video gets the full advantage of our 120Hz Fluid Display. pic.twitter.com/YPD3fw5uOn ...",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gsmarena.com/weekly_poll_high_refresh_rate_screens_will_be_common_in_2020_phones_but_do_you_want_one-news-41318.php",
-      "ampWebUrl": "https://m.gsmarena.com/weekly_poll_high_refresh_rate_screens_will_be_common_in_2020_phones_but_do_you_want_one-amp-41318.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/weekly_poll_high_refresh_rate_screens_will_be_common_in_2020_phones_but_do_you_want_one-amp-41318.php",
-      "publishedDateTime": "2020-02-02T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/20/01/weekly-poll-high-framerate/-1220x526/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": "Weekly poll: high refresh rate screens will be common in 2020 phones, but do you want one?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

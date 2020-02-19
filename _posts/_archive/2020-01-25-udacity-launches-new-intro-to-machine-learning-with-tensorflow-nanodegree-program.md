@@ -38,6 +38,6 @@ related:
       domain: dqindia.com
     quality: 36
 
-secured: "lBMUDUqPh3isva+c62QnYmHmT0x3FI1tAAW7sl6o+FKIlFjz7ndqI0Zuu7UnVQ6ZKs/+qQBYWHt9X2l07GOxFuApytwZ9LEmaCVbHA0SECC4txI4gUygjciKoy7M5pdiUoglGpUv5VCA+tK6lljR84StwgBW+O4eNXAL5Bzjitwd+kQs+jKCYBgEQ+IvPWn4a/RwzIj+ms3BA4xyu+PDwB9RGsLLqtDXRPt0/8woryORbnkvD55ktOQmv42P+d+Xoi71mMHLrn5ePWby89WImq34N2yhxazFVnbpRHZEUnocoXhUPSiXZElq01Toyc0X;uds60EAdWJMkf2yX7vHwuQ=="
+secured: "9EopD0RPa2Kul2OhnmaE5GK0lkIyVM5Ii5VJbGwt71IwJwjE3DYL11kw7CbcY1FwpsGALCi49KzuY7usNb7uIvAbKUT3HDbA6Px8iHg5VhuXHbVvC3HKy+59KUQX3MgbBK47P/zFUovpnezgRb9DWaYBDSlcWIK27ZQI+N1w4JgpSTWwLLgfrHZInEJc7wWAOnw9gcpirbIzaSMyB413h9KPeZ9z+e5V2cjZqewMns+5/D/MvEZoXszyXTF/c421ZTPfwENC+Z/jr7cAR+vUr4cFtQDHiN5yi3Aosm5poy+ElauCwG/cIpustZmhgMNz;YM8lzyf0crktP8mqspsoIw=="
 ---
 

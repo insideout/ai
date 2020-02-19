@@ -1,22 +1,28 @@
 ---
 category: news
-title: "ClearDATA Comply for Microsoft Azure Enhances Sophistication of PHI Protection"
+title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
 excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
 publishedDateTime: 2020-02-19T16:00:00Z
-webUrl: "https://www.financialbuzz.com/cleardata-comply-for-microsoft-azure-enhances-sophistication-of-phi-protection-6/"
+webUrl: "https://www.businesswire.com/news/home/20200219005687/en/ClearDATA-Comply™-Microsoft-Azure-Enhances-Sophistication-PHI"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Daily News
+  domain: businesswire.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "a24L88z7KlVvqcU1sqv70y2Uusf/y65M/QCSZg6CoqQCmflju3pfsfc/bkbd1n4yR9bog7nlehJ3aXgeEQLTZaLNnYG4h8pIcGOlt8f/rDQGMcJw3i0JAExpxdHM+0XjWcmX+pcxHaT+NTm/1HFgLAvyMG8JLwtfNsDmwsspZGToLoH0UIWczTqCMjUMAt5fuvnRKp0OqAAsVxYC1XObhtI3TgK55nm9aWVKMvtDJqsApUw7u9MKrjyXrtzw4qc4jL7SnQjQdaNYWK5XjRvjIKcZYxf18zS0LtZPXoYJVPywH51Cw1OmM4nBUorcWYzT;lzXDaBLnus7qThYl0gNRTA=="
+images:
+  - url: "https://mms.businesswire.com/media/20200219005687/en/683520/23/CD_2018_No_Descriptors_Logo_w_%C2%AE.jpg"
+    width: 1200
+    height: 627
+    title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
+
+secured: "evtZe6UDUZoPnmwKWcuHdw2D88UDyn3Zy7064GghUAcd/kr3ypIOgmsVEbN+HB+iUDbHFudNP78otogitcShI7kQPmu5tN8b5DMKuuqhEleJOqfcWT8T6sPKIm/jxxM/6XPP0KxSsZx15hINSvPrv0D+h4HnUfDzXV+Zd9qXc3gRYTeS1f0BQjpOxMqkVU7BIVVeA6w8ZKs49CBrHOMkoio/Vy4ttD309GOdjz2UEADaUKCInmozL2lKNWPlKvuo9XNot+zA/k0o3dMAmKZoSUq5usCQZkPwnYhmJO4GyIyTUG+BcPOWAfBWB5TZIYAN;plg4JSSNXfdIsFr3JS8CgQ=="
 ---
 
