@@ -48,6 +48,19 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zdxqblrfadpefqou_1581083925.jpeg?tr=f-jpeg"
         width: 1242
         height: 708
+  - title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
+    excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
+    publishedDateTime: 2020-02-06T01:04:00Z
+    webUrl: "https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/d/d-id/757320"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
 
 secured: "UfNSni5MLaY+Y21cmh7YBm3nd9V7l2osut/Pn1O7c77qEn+CrkohHpSw08RbSV7NzhQv1AQeE3hmvNrmtqwB3Eyh593nJdunAMI6GsMJjJT8dIhYFyQ03KaOt3c+hQhupxd2/C3GMdzzstVxvE0S/3MscNGY86pRGHcQWHGIYqcJSJqlSXTw+CTFkNrLGNVdjUwkV1VXZC7i3lKmdvflEUBVjPfpXuVRVcHVpAzAGztD6UUuctqd1TsbNpunk6SOaZXhnnqLbKAMWjPU1S1YC7OEchwn1Fucz3VpxABS/zYnCZI0iDORSENTGXgeuJAiU+3zuHdlrMFgUSKBys+1Fzx0fKG7nSrt0zYIacvIsRR5Z9TUsxOxjFsa8SH72InSYZD7RD07h7kR1WNxQ2f8kAADDYsebYE0xKvqWQp6EUy+SOfwxsSzxyeOFTjdbdH1/8OZrDPZJMUvTs0RI3p14iheT9WQ8G2NblujyDUVQzw=;kVNxnEr+SFAmJ0CSKAivLQ=="
 ---

@@ -39,6 +39,21 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2014/10/04/d918c155-4bf8-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/8160da71d46f35e6b7f8af8058103971/ftc-thumb.jpeg"
         width: 1200
         height: 675
+  - title: "China turns to artificial intelligence, data in fight against coronavirus"
+    excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 34,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
+    publishedDateTime: 2020-02-08T12:05:00Z
+    webUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 71
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
+        width: 600
+        height: 390
   - title: "Robotics companies providing technology to fight coronavirus in China"
     excerpt: "She added that, as a result of the success of robots in helping against the coronavirus, China is likely to use more artificial intelligence and robotics in medical care. “It is set to be more common in the future,” she said. Coronavirus has spread across China and beyond, having started in Wuhan province, geographically central in the country."
     publishedDateTime: 2020-02-12T14:30:00Z

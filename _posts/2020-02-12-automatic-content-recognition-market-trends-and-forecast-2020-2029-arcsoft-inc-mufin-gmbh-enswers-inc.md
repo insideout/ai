@@ -50,19 +50,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
-    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
-    publishedDateTime: 2020-02-13T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-leading-companies-consumption-key-drivers-challenges-and-trends-forecast-to-2026-2020-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "nPrmy2LpuDN6y4/zoejtbPT0c1L9fx77HLFmncBDxU2rxxXTrbeqEa237cGR+FPvX7XTycwKC4JdZIgrba/+6xMlVadZzLymW/ulAycIenP8YHDfpqM8ZyafPHgai8RbsP+zVjdk5E9Lc6FCexNG5bdj3ET4FjFViJYm2UG2AvIzFStD8O84ID/6N5WRkVbUsRntxlmnE3lfasSWTwRLhtQkaUEDA+Re8BWEzWmf9E+E5rICXBUBdJp83KFJGLaFY90V3eKkd6gnHog+5ZEQLFbwA09UtLhBtgH8kuzHv3ZAY4VxS3LM2KWShNLRH8um;k3um2cbD2AwE7LWPetwFPA=="
 ---

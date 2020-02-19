@@ -24,19 +24,6 @@ images:
     title: "Survey: AI likely to transform financial services industry within two years"
 
 related:
-  - title: "AI will transform financial services in two years"
-    excerpt: "Respondents predict a significant gap between firms that quickly implement AI and firms that lag behind. Currently, 60 percent of the fintech firms and financial institutions surveyed invest less than 10 percent of their R&D resources on AI despite evidence of accelerating returns. Pay offs have been especially strong between investment levels ..."
-    publishedDateTime: 2020-02-05T00:12:00Z
-    webUrl: "https://workplaceinsight.net/ai-will-transform-financial-services-in-two-years/"
-    type: article
-    provider:
-      name: Workplace Insight
-      domain: workplaceinsight.net
-    quality: 39
-    images:
-      - url: "https://workplaceinsight.net/wp-content/uploads/2020/02/calculator-695084_1280.png"
-        width: 717
-        height: 717
   - title: "New Report Showcases How AI Will Transform Financial Services"
     excerpt: "The report polled 150 senior financial services executives across both fintech and traditional financial institutions. The study found that 60% of firms invest less than 10% of their R&D resources on AI even though it is an area where returns can be quite high. It also found that 64% of financial services executives expect to become mass ..."
     publishedDateTime: 2020-02-06T20:09:00Z
@@ -50,19 +37,6 @@ related:
       - url: "https://www.lendacademy.com/wp-content/uploads/2020/02/AI_Financial_Services_Report.png"
         width: 1024
         height: 512
-  - title: "DevsData LLC: Big Data Trends in Financial Services"
-    excerpt: "... has become one of the main Big Data priorities in the financial services industry. Versive is a company that created software that they claim can help financial institutions and banks analyze massive transaction datasets and cybersecurity data using machine learning. The software is called Versive Security Engine and is touted as being ..."
-    publishedDateTime: 2020-02-07T11:44:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48799255-devsdata-llc-big-data-trends-in-financial-services-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/575714/devs-data.png"
-        width: 550
-        height: 370
 
 secured: "vDjtD0WcBRcD02DY8gSC3TbJ88h8HJPGvxtTyTIRr0hviFNxjd+naCy9nVh4H6HHsHmvs/ZdhzmW/KEo0jllsdfh6wQFJfYoUaip0W76xjS5wtymcEstir/ACdnrSDztv+CkNWOaEDAXEWlqwX7Hk2HZh6o0Kx33GSWqGXygZR6ySMsdApVskujanms9yWO73fmdCmJP7NfCVny7hq/hGI30yNnYPuYGEBnTfr6CluvVX/hHkfBJHlEUmJu9Jhn8RK2N1A6yykMrWJ2ssUn5RhCp0E7FzK1Of8gzmKexNDjVd9MYGK1Y+TtWszo11a+XaILtsKjbpDAKasfcLDkuHo9dl9k19FXoP8sXurpOR3xmorjjjGMJ4wZjixO9M2hsyxKMazXT9uxOGk2PqGZSdo0D4A8/w+CcAx2TCP95BAXzOo2fTY7iyb8xmohnlghLO0j/AB/9wjDzWCt4pHbh1C/Rn21pxTbgTskTnNhzOuM=;D8w+FowgQK8c2CvUYjvj7A=="
 ---

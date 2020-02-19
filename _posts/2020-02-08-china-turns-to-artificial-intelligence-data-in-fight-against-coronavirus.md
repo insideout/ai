@@ -25,58 +25,54 @@ images:
     title: "China turns to artificial intelligence, data in fight against coronavirus"
 
 related:
-  - title: "Artificial intelligence finds drug that could fight Wuhan coronavirus"
-    excerpt: "Chemistry matters. Join us to get the news you need. Yes! I want to get the latest chemistry news from C&EN in my inbox every week. ACS values your privacy. By submitting your information, you are gaining access to C&EN and subscribing to our weekly newsletter. We use the information you provide to make your reading experience better, and we ..."
-    publishedDateTime: 2020-02-05T00:08:00Z
-    webUrl: "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6"
+  - title: "China tech giants chip in to combat coronavirus, global events impacted"
+    excerpt: "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ..."
+    publishedDateTime: 2020-02-11T08:04:00Z
+    webUrl: "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
     type: article
     provider:
-      name: C&EN
-      domain: acs.org
-    quality: 137
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://acs-h.assetsadobe.com/is/image//content/dam/cen/98/6/WEB/09806-scicon1-bar.jpg/?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
-        width: 700
-        height: 456
-  - title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
-    excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
-    publishedDateTime: 2020-02-06T01:04:00Z
-    webUrl: "https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/d/d-id/757320"
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2014/10/04/d918c155-4bf8-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/8160da71d46f35e6b7f8af8058103971/ftc-thumb.jpeg"
+        width: 1200
+        height: 675
+  - title: "China tech giants chip in to combat coronavirus, global shows impacted"
+    excerpt: "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ..."
+    publishedDateTime: 2020-02-11T08:04:00Z
+    webUrl: "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
     type: article
     provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-  - title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
-    excerpt: "Authorities in China have turned to data tracking and artificial intelligence to help combat the spread of the new virus. Robots also deployed in hospitals. In an effort to help contain the spread of the deadly coronavirus which has infected more than 30,000 people and killed more than 600 people on the mainland, Chinese authorities have turned ..."
-    publishedDateTime: 2020-02-08T08:37:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/china-uses-data-tracking-and-ai-to-combat-new-virus.html"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Robotics companies providing technology to fight coronavirus in China"
+    excerpt: "She added that, as a result of the success of robots in helping against the coronavirus, China is likely to use more artificial intelligence and robotics in medical care. “It is set to be more common in the future,” she said. Coronavirus has spread across China and beyond, having started in Wuhan province, geographically central in the country."
+    publishedDateTime: 2020-02-12T14:30:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/02/12/robotics-companies-providing-technology-to-fight-coronavirus-in-china/29921/"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 38
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
-  - title: "Drug makers are using AI to help find an answer to the coronavirus"
-    excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
-    publishedDateTime: 2020-02-10T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner"
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/ubtech-robot-in-china.png"
+        width: 1015
+        height: 972
+  - title: "Coronavirus | China turns to Artificial Intelligence, big data"
+    excerpt: "data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if they have taken the same flight or train as confirmed virus patients, scraping data from lists published by state media. In Guangzhou, southern Guangdong province, robots at one public plaza have even been deployed to scold passers ..."
+    publishedDateTime: 2020-02-08T16:45:00Z
+    webUrl: "https://www.thehindu.com/news/international/coronavirus-china-turns-to-artificial-intelligence-big-data/article30771991.ece"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
-        width: 1280
-        height: 720
+      name: The Hindu
+      domain: thehindu.com
+    quality: 19
 
 secured: "HFDLP7Ww49f/shYWEjGLBLBMmLjn0jq1weQjnyhkRxgN+Lt90j4Z/vAvtZxw4363jRBjfyS0Tqot/AKyu8ENB8lMgkJNz/DF+LDbG+yn7FsuuGarpZEAzjhy9iLAFBqeWK240sc7nrDdWVMczwuc23NaQi/6A2uSOTXoUQPwoVgej3USPaO0YvAJE/zTDIH2NkRwY/etOlvkMl29KuOXq+j+6oHGxqRyoXly+oC8SEF4c5dc4bqDnoHHGggH/9hvxcG7kD+WxOIW7qOaGa6zrfIOlzJY+1uaEyfSQ11Ibdwrf9EzZvfh/fJzeLr2vMnS;izZbYkjkkGGPFTBzOpm6Rg=="
 ---

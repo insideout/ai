@@ -8,7 +8,7 @@ ampWebUrl: "https://m.hindustantimes.com/more-lifestyle/here-s-how-deep-learning
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/more-lifestyle/here-s-how-deep-learning-model-identifies-sleep-stages/story-b9Ccp3P6rDUT9xRObSXwQN_amp.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -18,23 +18,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-related:
-  - title: "New deep learning model identifies sleep stages"
-    excerpt: "Researchers at the University of Eastern Finland have developed a new deep learning model that can identify sleep stages as accurately as an experienced physician. Sleep is manually classified into five stages, which are wake, rapid eye movement (REM) sleep and three stages of non-REM sleep. It is estimated that up to one billion people ..."
-    publishedDateTime: 2020-02-04T23:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/news/new-deep-learning-model-identifies-sleep-stages/videoshow/73923466.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/news/new-deep-learning-model-identifies-sleep-stages/amp_videoshow/73923466.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/new-deep-learning-model-identifies-sleep-stages/amp_videoshow/73923466.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-73923466/videos/news/new-deep-learning-model-identifies-sleep-stages.jpg"
-        width: 1600
-        height: 900
 
 secured: "+eCUjXGvguer2/Adlnko50S+1ko33KntstLiWrqX5nqaFJWvwnY3n6o73rVQMwXY3KnR0xjXFhxXrzWlkQnIFaxIT39sarVxSbVb7IMSujtYOo7MphWAXbxI2yJ0pc75Jh9U3RJqTdxe1WLBcjjIl3DoM1Emfo0EheE6/+vLj1fGuQzZUrzgmLPNcvFI/OYzfCSIGV4C6zw1Nq/xCBXsxr/cLmVPOk4eEpslQay9NWOiEFfSLLKIJKCS+9ub8QG30OkFgsL2LienoLliyHZL1mvyo8K/sXcTbRBLAk5Pa1mS9f4dI5lFLijiIAo49InKGy6+8YLa4TGLh4cVDD7O0awAbJY1xhMZKXlLwbh43n0ryqW+w8h+B5uVASFnqR8QkdkGJsIrWa85yJlHOqyiUu7AzuwROq0Z1Id2VnrjeoEdSCc8TxOWEEDGVGNt6gOXcE7V6vlAulZLOBnoJ9GNAy3C1tjikTE+l5hEgRY2RNM=;rNOqKK9gmdN2E8olAMDoeQ=="
 ---

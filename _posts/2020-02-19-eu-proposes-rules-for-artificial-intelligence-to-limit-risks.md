@@ -1,7 +1,7 @@
 ---
 category: news
 title: "EU proposes rules for artificial intelligence to limit risks"
-excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... The decision clears the way for the trial of Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud to start later this year for alleged war crimes and crimes against humanity ..."
+excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije ... The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology."
 publishedDateTime: 2020-02-19T11:32:00Z
 webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
 ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
@@ -54,6 +54,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/MV-e1573146856797.jpg?fit=1200%2C664&strip=all"
         width: 1200
         height: 664
+  - title: "EU plans new rules for AI but experts seek more detail"
+    excerpt: "The European Commission has said it intends to draw up new rules to protect citizens against misuses of artificial intelligence (AI) tech. It likened the current situation to \"the Wild West\" and said it would focus on \"high-risk\" cases. But some experts are disappointed that a white paper it published did not provide more details. A leaked ..."
+    publishedDateTime: 2020-02-19T16:24:00Z
+    webUrl: "https://www.bbc.com/news/technology-51559010"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51559010"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51559010"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0B3B/production/_110957820_gettyimages-1139860760.jpg"
+        width: 1024
+        height: 576
   - title: "Apple, Google, Facebook lobby EU over AI regulation plans"
     excerpt: "An Apple engineer testing a Machine Learning feature (source: Apple) Apple's John Giannandrea, senior vice president of Machine Learning and AI Strategy, is in Brussels as European Union officials begin planning regulations for Artificial Intelligence. Separately, Google CEO Sundar Pichai has been to the city, and Facebook's Mark Zuckerberg has ..."
     publishedDateTime: 2020-02-17T18:37:00Z
@@ -92,6 +107,6 @@ related:
       domain: hbs.edu
     quality: 17
 
-secured: "Q479nelLdZ1DYKmSupB9DbF9b9P0lPHFJ6C9s0464BRBBqDBZx01zJvrWlhVcky38IJzTqDMQ2smQEx33J5LPocQlWYl8MgSIKcTyqDvaEUkzufQk9q0CbGU9YUGz7es4RK9pZQ0Ow8lKqRG08GAlz/CL/1suXcNsPC0SHxXwJ/Nga97RyP7fwscGutcvKOaBZGBA4mg7aT+19Fzo/cayeZJKtjFJMYkKQErX9HE4fEfNThnaKyA7vQOkAmc7HUmL0S5y2d+L6NSk4uMPAFBtyTs2ZpnSmdfj02YEHsaCIX3jXMprikwD2A+TwEeAafL;+ef5T7GI3tf8q1/gIgmKkw=="
+secured: "RLpVxeoKaXwEO2G14CZE3djhXJCQ3hCN23yTn45e1aYC2A/x3sY1jb2GsqB3NvKdUDHN7I6pJa8bBuGE/Fb4BVZzklhOsrSeQBYHYxbsUS/rgMByq3+YL0Kk+N8IwS0+vXa7xuK3rvias6ACmc7AcBGRUUP2DtXxt+mW92EPH7777Rb1IK6p0+0J2diIVnsuSAFZ/ADZqIm2+52gDDaV+5Qqn9qaSsU6Kf7iNF4Whcpr5IOkdAV9/rNmCvqpH5lQZT3JR40FgxKnvY9O+CS+Tx2xvEDnZjEAM9uZvqP2lL0PKE2TlX5bDL4+gD6MTXqZ;ZieWlA6uAcZKdFA0sbmHig=="
 ---
 

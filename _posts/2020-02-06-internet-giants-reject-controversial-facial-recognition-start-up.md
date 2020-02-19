@@ -167,15 +167,6 @@ related:
       - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
         width: 757
         height: 667
-  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
-    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
-    publishedDateTime: 2020-02-04T23:36:00Z
-    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
-    type: article
-    provider:
-      name: NBC Chicago
-      domain: nbcchicago.com
-    quality: 19
 
 secured: "VY4MDMbXPNqRDujLWyZ3hlGqo/yUXt0CSHevcJIls6Ag53QKPDIBmqXJ539ZTo7mF+l7qvwidnEsz09kXfHnZSaayh2k1NY3B3Ty8XuEs/mwkvEMbxfLQd3P1tOK/X+qV63c7jGgvMhrYBVWixnen9NIIInn6lXcW/0luIdCvTH+edDyQ1nvGFWFLFYXs2Ry/eNQw5uc2UEJZOBTp31ZRfR/fEiRceayBXnWHyTWap1JvAcA5fBrb4Q38j63ZvLHyzNMaPdVjtECfeFz1iu4QyrTUlx1014ovAv8ACp9GXTCRVtQLRai7T22LFpQdLpG7hJNwZQv0svWtwKBkM0us5h0tkn1HJn5ZlTvkmRge0FpFBIS4tODkoErSao3utH4jA5RyyFniH98D+EQS2z4SNfqKcGP04UjeBWZt6KuFgTnz8eSALtK/m9LXc3TwXClf1UQXTL4ttdd5s7lNADRrwYbvl/KuG9sBpFS94TPlGQ=;gj7+yHvBJ+Nf8bRhunkiKg=="
 ---

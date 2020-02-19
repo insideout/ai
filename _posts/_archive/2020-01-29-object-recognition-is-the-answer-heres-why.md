@@ -38,8 +38,12 @@ related:
     provider:
       name: Digital Signage
       domain: digitalsignagetoday.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
+        width: 1200
+        height: 630
 
-secured: "b/gcKG+QhfOhIwCIn/sS9Jx0Ws4VeGwtaxoWEifc2cP7P++5SmA0ScU/NKLLp+ZWS9c9pDaZiB384H0lgF2oYFxRp1gDh0wJEZ+WYxGa5VQ3ZDBwHJM0xqsZrddlH2nn37Yb2OMN/vngSOHKF6WGvFfxlFsdrV0YGM/fU+h19Y+6UU+AYXexso3D7ZAEkzmk3PGlFfRSNlxN3O3DQ11P4wX99Vv3+hHwISffsQgtnmungkd4tKhHl6WWyb3xpl/IbKfgnIkKdwfZ3h07hoo84hBA1zKP5SxU9yaX5OU5ed6a0AEBZBIHnX1XsXc1Hq+u;XKJZAoP0BHBeGYRezaNF/A=="
+secured: "ZRKZk+3uuZP8sSI6cqzDZ18bgqQ1GeKjFzo1Kl+kG+UpKwaJJOpfdDifqTU4M2rdXWLhZfkhC7lCXlt4a4mlo/84V9WuowJC3c13NCIUncsDFEJx4FLwZ7mBC+qDMOjy6yd+5isnem3/ddGR+u1HUM1k8I3j/3JYwvmuGHVKuu/iq3kb1SZFNV/AS6XFRBALP1bhUvPXhxkxLZQxwnRrEwk6plkuR7jLlbt/gPiTwyV6BX81kQVo+3ykoHcKXCyFuMo7vlq6uVp5RFEF5iG6OugYq0A6zhUITGPrPpF8MTQxT+AYz5OILot3x6YpgijQ;sWruA40CVVH9kJDY39mndg=="
 ---
 

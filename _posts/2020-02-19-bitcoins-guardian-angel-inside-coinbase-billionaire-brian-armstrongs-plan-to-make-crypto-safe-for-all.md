@@ -28,6 +28,6 @@ images:
     height: 676
     title: "Bitcoin’s Guardian Angel: Inside Coinbase Billionaire Brian Armstrong’s Plan To Make Crypto Safe For All"
 
-secured: "QHuHYlWhIMvywc35d4Q9kfRUw7Qnk6ncPY8+1hTvuTspQTofmmiXUHXiXGjQe41Fagr2IYGljSJi3H6nplxUI9uwxIDp0HLqkYdsOedX9aznyyhCEVMVkvzJXw+e2GNF2le3I82iIfMijkUqd8f5b2xFgrzS+cfLNBjq+z1TCDytx+SeodxAToA/iAmmKehWs+168JTAWwtbpIvuQ8xxuShYTrZHbvws+X1m7gkQLNSe9RBb950McXKolYdqXDLtv+3AdsRUwAosDOfzq+baGlrt4CDYRlk1Uc8deADAJquKb48OdMIdPPz3qDU1+uukGd3Z3+c4erGOEvldH7baRA==;VUI7Mzf3smW0cTBCThm5jA=="
+secured: "VIclQR4DF0+zn8nC117jCgMe4NxgjSi3jNhBYVxQ1EIyLcQvMk1sffHiRUKKG6THtPBeUa4FKj3u/p2Tx+jnrJqRgu0AD9uldAIQcKiXYrmFAmKceuXijDVee+tTrwzVNP8e2+96vv/tU9ejcpRcwHOpUtG67tB0Uv2vXr2e46faSFg8FjXuleTCNnniKSpOL4mDFOg/eDx1wh3R2WHDlbYTfCaBZtLL3zx1eF7rkklV5iZcRjdePpGdo2QyGADn5G1V8wWOlvP+uyBWSDGTlGhoPc/0wA9zsY8MGl1CRpQj41VyxiKqOTIJE/KfKAiujblxTPmBqUcODL0Piomo5g==;dFkBuzJXuBvHlDE28F56kg=="
 ---
 

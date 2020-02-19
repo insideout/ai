@@ -25,6 +25,6 @@ images:
     height: 1280
     title: "Making Or Breaking Your Business With Machine Learning – Ryan Rusnak, Airspace Technologies #FWLive"
 
-secured: "gTvTuYY72WnzNT6tUm9zM/VFOyMH6hOZSNwvKlrOPnrIC0l6apuTawEjKjSeVy8ycn9ExFmab+9iz0laJmAeSTVTZtQdM5RVWIPONF+EfxHtPrrSR0fqcFezpIiHaYoEgt6cBEQ+55pwBvmE4Y/12KO6t515fs3ucjX277r9scG4iFy+jo5biTs9X2z+2M0mKEgq/I6ELq0ULlFWgDmz7b8KNdf/VhJAmY97APY0I/cduj/SPdxMUmCyWaZh3vlNUCBgHdkJdCSuDe8xIEnQY5dvZKK4+B4IE0GPEOysMFm6ojo4BMTlORU9I5YsUmcS;9SSiyIR1ZK53bNIGJhv/PQ=="
+secured: "Zgb7itanpxWNNYzI1u6sra2KbfFIo5lHRrRytgwnVzMcBn/RxpFr9qovP/CISGrUOtw1LhsezhsQeWsleovZGNNC0CJYp1Nx55HpcMmjTdpkB+2Y7Z47BaUoyIynrFFbS09scDM+fUG4SlB/v6Mw5z0rI+jMipYckfIZmKNeTYngokNtdm8jAYZK1sIUGCjbWWfj1RrAh/AT+375TdY/jb3feOSj4tXNJT7eE9mgP+oroyCDm/HwY9i9ArnKOoFuMSJfrinWXqugPnrwIoP9t/nQunt0eo1Aarizj2ohNi/Qj6ph2vRV6we8nUXtdjMZzUPvaksNaKAcDrRNyWOTlfBTBeqA92bE0Fo94865lz3DiU0bNOufMRPb/mnfi/bypQpU/kwWmGQ/QqI44L26yFIZXyqOiMzB7Iem0Q6ZRnyD+5GusIjHzxqrXm/IBIMmGjYrKBNCCFBlYq6ofkkX6lWGbWK7hsbQknXKqc7fpuE=;RqvVJROQVYvmI7/Fpr70Bg=="
 ---
 

@@ -5,9 +5,9 @@ excerpt: "NOAA scientist Erin Moreland felt sure there was a technological solut
 publishedDateTime: 2020-02-19T14:45:00Z
 webUrl: "https://news.microsoft.com/features/artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales/"
 type: article
-quality: 24
-heat: 24
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: Microsoft
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/02/me2-300x225.jpg"
@@ -26,6 +27,6 @@ images:
     height: 225
     title: "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales"
 
-secured: "WS7mUwkeLUtQ1qbmIlA4OSKasiwOfRthHUwhanGsfxAiiXdvZlh7uqzEsy9UaESDFAS8sOQlprXYCzEls/pC78iOON/Ty9ESTN89vuJIIi7ucIrKpHwcFOSE0LFAaAZgxlD/2QDutRkHGwJja3HrRIsHT8aD+RR9Zdz9OiyIp0TJqKkcYmfQ8qv6g+r1feXALZyUX1xsCnz9McGZghqfRgZLnVIN6WX5jqT4klXV9t0KS3Rt4C/W2HnUhznixMLuMWuD83LSGemQM2AiOmnPJ+M1u2KLvCcltPoCqGYGMCaEgmO21/brc0b34kK66bLN6EyKzy4okzyzqcj91ngIUySPssn/A+EYyu5ixNOoaexo1wKn9/otVGj5HrZjjZ5X4wR6zPpEKp5VI9MKVeAO8Hy8k0AfNOSijgT9tB6nP6TcAvhDKgxDqedYa9K/XQLliZUOFVGZ3qz8Fi/bgsRAUl40j3xdy7cag5BIC5WrY9w=;cV0Dkvo9iNuoMrhmaKKHBA=="
+secured: "/7/QsZcPjTstVnVGwKgbvcjEebne4Iz0kjMkIa6TmZXGSTujCzbLC4kcA5ezsyY/1BrbkKkYwtHBK0jPkyOrpKjs/wgNZ8IgGX8/NMi4jRj2wcZANdJhgIFFaSfI8G9LpfLyDoWoswkbK3lJHK9DCd3gVMf2Xbl30K17cFJ9B1JDOcHah3pBoZK5l2jS7l0HOtFPsZzuiO1I35neWr7Ul1fk06FMf5C/NY1bGfXHoFQeovZeMJ/33j4JT2S0rIrITDzpYib0bhkqZwrVcJV1CITmXPxmPEgRR/KSkt9Rns/LASfx/uatxKmKNjHudJzh1JGmm4u4dseRouFSPEVgmHiw5PHr5FkU/UVCzlMte3T4eV7crLp5wFncDM4OGWu+xGqT2RIgPJkkJMeYOYMTqTyjzG9yfviTZ/eGZrORHDhfC9B3dJgZroDDQKuSfVtMpjpI9zHhx6q3JsPRU5f4YqTNQhKnMi56C1x06ln6mR4qLyByv0cNvnu91W4HjLV8;TyOqbuQIArXcBKJLeUUTNg=="
 ---
 

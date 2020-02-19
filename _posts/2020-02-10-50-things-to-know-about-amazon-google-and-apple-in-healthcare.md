@@ -31,17 +31,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg"
         width: 1200
         height: 628
-  - title: "Artificial Intelligence Is Seeping into Home Buying Market"
-    excerpt: "But some buyers still want what automation doesn’t have: human interaction without security threats. (TNS) — Artificial intelligence (AI) is quietly infiltrating the real estate industry — without looking like a futuristic takeover but rather a boon for buyers and sellers. Mortgage lenders, realtors, title companies, property appraisers ..."
-    publishedDateTime: 2020-02-05T00:01:00Z
-    webUrl: "https://www.governing.com/community/Artificial-Intelligence-Seeping-into-Home-Buying-Market.html"
-    ampWebUrl: "https://www.governing.com/community/Artificial-Intelligence-Seeping-into-Home-Buying-Market.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/Artificial-Intelligence-Seeping-into-Home-Buying-Market.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 37
 
 secured: "FsA4aExdhV2GO57zh8x7j6hCvoROEONZmIwD4AcCTXNUGZEGb2zrdtsMqF2UCrHcsiztQ4sQ1wvSmOxVINv8dLATiFSdZvt86hQlcHYsoXo5S/DZZmfiAuMn6LtWzGsG8LIfbWHioGlZO0nKy5nSgyQAJuSrm8DImTm0qDasjj/oeMFPXTTyzBpudUMC1I/EDglJMTZq2jpepk6bOIYTss+NLFWRwR2vJKMILrocRzAcbbx1NLo166EdKsTittloEfXn68dCPh/1D39XVx9jm+MXXTBtNVeG9Hog485K68pNumqzkzBJdEkMP0pObrTd;LRogQNRC1qhRk6m2hfzXWA=="
 ---

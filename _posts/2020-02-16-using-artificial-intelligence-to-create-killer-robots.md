@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-16T17:55:00Z
 webUrl: "https://24hourhiphop.com/hip-hop-videos/shows/viceland/new-and-popular-on-vice/using-artificial-intelligence-to-create-killer-robots/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: 24hourhiphop.com
@@ -24,6 +24,19 @@ images:
     title: "Using Artificial Intelligence to Create Killer Robots"
 
 related:
+  - title: "EC: Robots can be Used to Create Fake News"
+    excerpt: "Artificial intelligence may be used to create fake news. This was stated today by Vice-President of the European Commission Margrethe Vestager when presenting the Commission's proposals in the field of digitization. According to her, the EC wants to hear as many opinions as possible before making any further legislative changes related to the ..."
+    publishedDateTime: 2020-02-19T16:41:00Z
+    webUrl: "https://www.novinite.com/articles/203245/EC%3A+Robots+can+be+Used+to+Create+Fake+News"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 39
+    images:
+      - url: "https://www.novinite.com/media/images/2020-02/photo_verybig_203245.jpg"
+        width: 640
+        height: 410
   - title: "‘Nobody knows exactly’: China might lead the race to produce killer robots, NATO commander says"
     excerpt: "“Essentially you have two sides that are worried about the other gaining an advantage,” Peter Singer, an expert in what he calls “the Robotics Revolution,” said in September. “That then has the ironic result of them both plowing resources into it, competing against each other, and becoming less secure.” The artificial intelligence ..."
     publishedDateTime: 2020-02-12T05:07:00Z

@@ -78,6 +78,32 @@ related:
       - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
         width: 900
         height: 500
+  - title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
+    excerpt: "Authorities in China have turned to data tracking and artificial intelligence to help combat the spread of the new virus. Robots also deployed in hospitals. In an effort to help contain the spread of the deadly coronavirus which has infected more than 30,000 people and killed more than 600 people on the mainland, Chinese authorities have turned ..."
+    publishedDateTime: 2020-02-08T08:37:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/china-uses-data-tracking-and-ai-to-combat-new-virus.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 38
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
+  - title: "Drug makers are using AI to help find an answer to the coronavirus"
+    excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
+    publishedDateTime: 2020-02-10T13:00:00Z
+    webUrl: "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
+        width: 1280
+        height: 720
   - title: "Coronavirus: Modelling an outbreak"
     excerpt: "Its AI also continuously scans news reports from recognised sources in 65 different languages, subjecting them to natural language processing and analysis that further inform its ML algorithms. This, the company says, not only allowed it to get ahead of the game in identifying the Wuhan outbreak but also meant that it was able to predict ..."
     publishedDateTime: 2020-02-07T14:49:00Z

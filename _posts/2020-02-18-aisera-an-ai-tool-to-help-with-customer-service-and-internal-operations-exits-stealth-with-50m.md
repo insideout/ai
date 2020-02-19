@@ -59,6 +59,19 @@ related:
       - url: "https://static.toiimg.com/photo/msid-74211467/74211467.jpg"
         width: 1200
         height: 900
+  - title: "Microsoft Adds More AI to Dynamics 365"
+    excerpt: "Microsoft is also enabling deeper insights between Customer Insights and Azure Synapse Analytics, which combines customer data with enterprise ... in the context of Dynamics 365 and quickly move from one lead or opportunity to the next in an AI-prioritized work queue, without needing to switch views to take the next-best action.\""
+    publishedDateTime: 2020-02-19T16:55:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/Microsoft-Adds-More-AI-to-Dynamics-365-139328.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
+        width: 1200
+        height: 630
 
 secured: "TDK4CDAdyNIlxPLq1no5mQTVRJegokqubi/r6FtI8hLmVfHS+HO1bebHLMozOTaqcIY5vkSC5RpqodiJdcpb+OuAnA5puWlnFKIjP8dfs+BE21TyGQ8baNYFJRLgQ1RwIrAOi95+9qSrZ71igurhauMdiAAgnHESPgXMZV3XSYAV6YtCsAJdDaZTDTxQn9pWiYakD37XfPbvIA6uxRQdJ5YyB3Qw//CjBS/kCJjrbqo7VYkb3HDMnLiL6cO/+43+mLd1/PBLJhfF9vUnXSe7FPJ4+bpTz5h6A6De+ZsXdN+W6Km0/xXOfsiaOBtLXdCRe/ymmWtlBtf0lj2V+Q/y/6bblXy8KwvB42r0vm3n4mJvPIqCDTPfV5ucW6i5+GnHLstZhkCWThFqL5F7HOMHQ1xdMLCCzEb9wGXwqTSbfLgo5X1XQkF3bo5OrFw9tsHqGlVyvpFUa5IIBDtOXpXKnZtkdp8+GoLcvXqGGtzwaX0=;fZ4H0eNCZmcgGztuZBRNdg=="
 ---

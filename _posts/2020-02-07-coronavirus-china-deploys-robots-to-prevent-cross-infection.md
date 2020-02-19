@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robo
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: The Express Tribune
       domain: tribune.com.pk
     quality: 39
+  - title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
+    excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
+    publishedDateTime: 2020-02-06T01:04:00Z
+    webUrl: "https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/d/d-id/757320"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
 
 secured: "OOvH3Mia6En14+LWkABoB0/SpADe5kGxhzA19YLxbmmH8myDzbOKAFP+D4HUFGuMaYJAoCmXTjEkp4TDJfgUPsYnuExvUHgMKMNz40oyLabl66j+Uj4ZH3vaJsJ03A/3Y1shJAbxwwmkSmnnXp0UEFMIhn/aKuJyfA5TJUHCAxrSBNBi72PKoWyb3PJ+sG8YJqowQ0g6v/yOelbVu+LP1dx1unrNTXsb3xXAaTNske+lD2wRSUxwWlRKXRoPjZtHdnPzv76otWGQXAJJ+ZO+Ht727lgeT+lq412bvAj4/VXDa9boZrpsITnHpUmPVlOO5UqbHDkX///+sQNRDP4QgQxTeKTA0RA7T4AWBtDrnndX10/Rvu2znVnKsfL0rzpQbm/wCqqwbboBphvNGq+Jqkb2L+KfFcJsxX7FhsKH3VHxoKK/3cE8qkxJ+n25RWEC3Q2Ti50of4HK8XfvaYtkDZu4tQu2Wp6iw7XhPoKj8y8=;WYogIGQlmzbkq3xzKzxiWg=="
 ---

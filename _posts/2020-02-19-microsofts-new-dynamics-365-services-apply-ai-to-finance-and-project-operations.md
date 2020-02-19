@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-servi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: "https://static.toiimg.com/photo/msid-74211467/74211467.jpg"
         width: 1200
         height: 900
+  - title: "Microsoft Adds More AI to Dynamics 365"
+    excerpt: "Microsoft is also enabling deeper insights between Customer Insights and Azure Synapse Analytics, which combines customer data with enterprise ... in the context of Dynamics 365 and quickly move from one lead or opportunity to the next in an AI-prioritized work queue, without needing to switch views to take the next-best action.\""
+    publishedDateTime: 2020-02-19T16:55:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/Microsoft-Adds-More-AI-to-Dynamics-365-139328.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
+        width: 1200
+        height: 630
 
 secured: "1pVt3zN8Hr3dYwPs/26SzmzEsyLDea4oVUJFm/omaYCnlLv6S+R3L77ROrOsGeHYk4tJXcx/XdoL8qCxgjtNGeBNgceEOeKbquSJdt7SyS2FwGiSNUCH4X/BS+F3xJSF6T0dDi6RIrt78481IJIfCV/FhF7N4+sMgBc/Oz+tpcq6Njlspfi9bLVZj697MHmZ4aYjLGdgoLrsk/pIAPsRJ4bSyIThP5N1g4PvVJLHX609utkxkEMqjOe67Jt4QjDWPzy0zLw436SIEiTKxqRtP4/x7vXOx2lV8Ln3FgrVV5+oiVWC/pKjw1xMx+1twvSj+kp1w0OQ2vIAK3df0VjD6g5rU7gnBUJCqEzrYCLCVeT6HWKmeB5InxxIjwo5s+GpdtkX7dHsOGz0CPaC25J2YX2R5yvwTCz3fJb6yMU8lEy7jNLaEXN68JDYvUPgWBlXRC1hnx6gGAhRLKd0qPpOnhl+gJyAmpiauHsVyxopffA=;sznlq4oCKzy/JpF4DKMXjQ=="
 ---

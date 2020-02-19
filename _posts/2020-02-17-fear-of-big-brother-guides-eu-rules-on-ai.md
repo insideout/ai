@@ -51,8 +51,23 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/MV-e1573146856797.jpg?fit=1200%2C664&strip=all"
         width: 1200
         height: 664
+  - title: "EU plans new rules for AI but experts seek more detail"
+    excerpt: "The European Commission has said it intends to draw up new rules to protect citizens against misuses of artificial intelligence (AI) tech. It likened the current situation to \"the Wild West\" and said it would focus on \"high-risk\" cases. But some experts are disappointed that a white paper it published did not provide more details. A leaked ..."
+    publishedDateTime: 2020-02-19T16:24:00Z
+    webUrl: "https://www.bbc.com/news/technology-51559010"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51559010"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51559010"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0B3B/production/_110957820_gettyimages-1139860760.jpg"
+        width: 1024
+        height: 576
   - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... The decision clears the way for the trial of Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud to start later this year for alleged war crimes and crimes against humanity ..."
+    excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije ... The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology."
     publishedDateTime: 2020-02-19T11:32:00Z
     webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
     ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"

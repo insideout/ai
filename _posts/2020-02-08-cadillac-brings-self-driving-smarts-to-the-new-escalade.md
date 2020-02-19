@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Cadillac Brings Self-Driving Smarts to the New Escalade"
 
 related:
-  - title: "amazon launches self-driving toy car and a brand new competitive sports"
-    excerpt: "a diverse digital database that acts as a valuable guide in gaining insight and information about a product directly from the manufacturer, and serves as a rich reference point in developing a ..."
-    publishedDateTime: 2020-02-05T00:00:00Z
-    webUrl: "https://www.designboom.com/technology/amazon-aws-deepracer-self-driving-car-11-29-2018/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 24
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2018/11/amazon-aws-deepracer-self-driving-car-1200.jpg"
-        width: 1200
-        height: 630
   - title: "2021 Cadillac Escalade: 38-Inch Display, Better Self-Driving"
     excerpt: "Night Vision is optional on the top four lines. Super Cruise is enhanced Level 2 self-driving, meaning the car lane-centers and paces the car ahead. Unlike other L2 vehicles, it uses lidar reference maps of major US highways to help the car know exactly where it is. (There is no onboard lidar on shipping Cadillacs.) The 2021 Super Cruise also ..."
     publishedDateTime: 2020-02-06T15:15:00Z

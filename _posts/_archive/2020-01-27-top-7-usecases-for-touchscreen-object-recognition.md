@@ -5,7 +5,7 @@ excerpt: "This whitepaper from eyefactive presents some of the most exiting usec
 publishedDateTime: 2020-01-27T14:40:00Z
 webUrl: "https://www.digitalsignagetoday.com/whitepapers/top-7-usecases-for-touchscreen-object-recognition/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
+    width: 1200
+    height: 630
+    title: "Top 7 Usecases for Touchscreen Object Recognition"
 
 related:
   - title: "Object Recognition Is The Answer, Here’s Why"
@@ -34,6 +40,6 @@ related:
         width: 1200
         height: 800
 
-secured: "3638s1mzEvKLo2pk8+OA+Hk5tGVcKd4T+7usYSsRlu8av0ODnlPnmjVfH9swa4i/qyRTe76nVRy1g5I60hXBJtePTWHpSPR2M7s1kAkYXtlrDYf+ZMh0JdPqCNivwwlCpEEA3UZVKcMpFidmYvoXBwXhU8g6VLFXZiF7zshgfZdTlKdIZLVFZ5ZqMjtYJC+U1LoJSbrtse6IJeguHdfxEW/ewrk5SZrq3CDpORMPdZn9T8bWWuGxlwiLGi8GgnWkb4JPVW+Mk5TCtuhZdmqMIgFnIpRrlaNN5txNgTcfBgORI4EGarsHQKBCpwvXLjVN;10w5qaF2heDbmCvbV54HGg=="
+secured: "od3cmh5by3/vw4ivcMzAW61OC5OtJjWE5Zxlbh7Dmrr2q+0vEhQa48bclR7cWRG6maNHD7VOkfv/Dwwz8n9/RkkBDOVOE+lDO3bx9/Wpgign0jB1+58EfaWl0VQ7zMu6MF9OINAI6Qovap8UqFZ5C5ahXPtpSUKE4scyn8zXh22vdvunZwKURoPJTwacobHFqu67gMz+D5H5N/XUqZtRRSQWTSKwx20OBZORp7G/lFWYYDtitXobIL2WNJAd8TVqDmu1EEYPJZJfjpZ2yTXkhpZMKa30wBayjAsXkkUsb0p9xgTx6Lse8LJCzaV8iUJF;NUVA93OKcneRWW81/1ajdA=="
 ---
 

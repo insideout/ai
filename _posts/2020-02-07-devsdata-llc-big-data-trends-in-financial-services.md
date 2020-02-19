@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T11:44:00Z
 webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48799255-devsdata-llc-big-data-trends-in-financial-services-200.htm"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,47 +22,6 @@ images:
     width: 550
     height: 370
     title: "DevsData LLC: Big Data Trends in Financial Services"
-
-related:
-  - title: "AI will transform financial services in two years"
-    excerpt: "Respondents predict a significant gap between firms that quickly implement AI and firms that lag behind. Currently, 60 percent of the fintech firms and financial institutions surveyed invest less than 10 percent of their R&D resources on AI despite evidence of accelerating returns. Pay offs have been especially strong between investment levels ..."
-    publishedDateTime: 2020-02-05T00:12:00Z
-    webUrl: "https://workplaceinsight.net/ai-will-transform-financial-services-in-two-years/"
-    type: article
-    provider:
-      name: Workplace Insight
-      domain: workplaceinsight.net
-    quality: 39
-    images:
-      - url: "https://workplaceinsight.net/wp-content/uploads/2020/02/calculator-695084_1280.png"
-        width: 717
-        height: 717
-  - title: "New Report Showcases How AI Will Transform Financial Services"
-    excerpt: "The report polled 150 senior financial services executives across both fintech and traditional financial institutions. The study found that 60% of firms invest less than 10% of their R&D resources on AI even though it is an area where returns can be quite high. It also found that 64% of financial services executives expect to become mass ..."
-    publishedDateTime: 2020-02-06T20:09:00Z
-    webUrl: "https://www.lendacademy.com/new-report-showcases-how-ai-will-transform-financial-services/"
-    type: article
-    provider:
-      name: lendacademy.com
-      domain: lendacademy.com
-    quality: 39
-    images:
-      - url: "https://www.lendacademy.com/wp-content/uploads/2020/02/AI_Financial_Services_Report.png"
-        width: 1024
-        height: 512
-  - title: "Survey: AI likely to transform financial services industry within two years"
-    excerpt: "The World Economic Forum (WEF) and the Cambridge Centre for Alternative Finance (CCAF) jointly released the survey titled Transforming Paradigms: Global AI in Financial Services Survey, according to a media release on WEF's website on Tuesday Over 150 senior financial services executives in both fintech and incumbent financial institutions ..."
-    publishedDateTime: 2020-02-05T09:07:00Z
-    webUrl: "https://www.dhakatribune.com/around-the-web/2020/02/05/survey-ai-likely-to-transform-financial-services-industry-within-two-years"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 37
-    images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2018/07/watermarked/bigstock-ai-artificial-intelligence-m-229617430-1530518085435.jpg"
-        width: 600
-        height: 315
 
 secured: "SqyY8WC9d3/G5K0mtrHLmZ0K88gIOv6Hd4SmHJx4gWc2er8jFNYtNL7lDmBR3HVyfb8fLndf4s6ldlnrsb1B1yhXEq4HC6A7TzNZKkSxqeHUew5QuwfGNHxaFGRNcYIt/YemUNnDzG3hFVGc5sL+lrLFME/x/+2stW+djjpiEn0V0mYI0mQocPsY8ofkqOK2YJDmSa5wZk3mJco/r7/slnL/aGMO16zO1XLcRxoc1dqfON/FqBaUmEu17HqUET8HY0rhJ5Lg6RKf3W9zBcrd0R9UEuFoG4rK57sIKAMTC9dnDpkO9rcb5JpgED4VHZYd;wD9Q7xzYS6qb5skitO7e1w=="
 ---

@@ -24,47 +24,73 @@ images:
     title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
 
 related:
-  - title: "Artificial intelligence finds drug that could fight Wuhan coronavirus"
-    excerpt: "Chemistry matters. Join us to get the news you need. Yes! I want to get the latest chemistry news from C&EN in my inbox every week. ACS values your privacy. By submitting your information, you are gaining access to C&EN and subscribing to our weekly newsletter. We use the information you provide to make your reading experience better, and we ..."
-    publishedDateTime: 2020-02-05T00:08:00Z
-    webUrl: "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6"
+  - title: "How AI Is Tracking the Coronavirus Outbreak"
+    excerpt: "Alessandro Vespignani, a professor at Northeastern University who specializes in modeling contagion in large populations, says it will be particularly challenging to identify new instances of the coronavirus from social media posts, even using the most advanced AI tools, because its characteristics still aren’t entirely clear. “It’s ..."
+    publishedDateTime: 2020-02-08T07:00:00Z
+    webUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/"
+    ampWebUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
     type: article
     provider:
-      name: C&EN
-      domain: acs.org
-    quality: 137
+      name: Wired
+      domain: wired.com
+    quality: 91
     images:
-      - url: "https://acs-h.assetsadobe.com/is/image//content/dam/cen/98/6/WEB/09806-scicon1-bar.jpg/?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
-        width: 700
-        height: 456
-  - title: "China turns to artificial intelligence, data in fight against coronavirus"
-    excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 34,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
-    publishedDateTime: 2020-02-08T12:05:00Z
-    webUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.html"
-    ampWebUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
+      - url: "https://media.wired.com/photos/5e3dfca7e601630009b7e800/master/pass/Tracking-the-coronavirus-with-AI_1153872548.jpg"
+        width: 2400
+        height: 1350
+  - title: "AI Helps Diagnose Coronavirus"
+    excerpt: "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work."
+    publishedDateTime: 2020-02-14T11:36:00Z
+    webUrl: "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 71
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
-        width: 600
-        height: 390
-  - title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
-    excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
-    publishedDateTime: 2020-02-06T01:04:00Z
-    webUrl: "https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/d/d-id/757320"
+      - url: "https://images.wsj.net/im-154475/social"
+        width: 1280
+        height: 640
+  - title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
+    excerpt: "The combination of human expert and artificial intelligence can efficiently eradicate the spread of coronavirus ... Since the usage of AI in several areas of healthcare, like recognizing brain tumors and enhancing treatments, has been successful. Therefore if the technology is used in the case of coronavirus, also there are chances that ..."
+    publishedDateTime: 2020-02-06T08:46:00Z
+    webUrl: "https://www.cioreview.com/news/can-artificial-intelligence-prevent-coronavirus-from-spreading-nid-31151-cid-31.html"
     type: article
     provider:
-      name: Light Reading
-      domain: lightreading.com
+      name: CIOReview
+      domain: cioreview.com
     quality: 39
     images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
+      - url: "https://www.cioreview.com/news_new/sliderimage/3rido.25.jpg"
+        width: 300
+        height: 350
+  - title: "AI used in the battle against the novel coronavirus outbreak"
+    excerpt: "SenseTime, a Chinese AI pioneer, for instance, is using its super computing power resources to assist professors with research on the novel coronavirus. After receiving a request for more super computing resources, SenseTime has allocated 20 GPU server nodes for free to help Luo Haibin, a professor at the school of pharmaceutical sciences of ..."
+    publishedDateTime: 2020-02-07T18:39:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202002/06/WS5e3be150a3101282172758bf.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202002/06/5e3be150a310128206500b73.png"
+        width: 608
+        height: 405
+  - title: "How Artificial Intelligence Is Transforming Businesses"
+    excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
+    publishedDateTime: 2020-02-11T17:21:00Z
+    webUrl: "https://www.propertywire.com/how-artificial-intelligence-is-transforming-businesses"
+    type: article
+    provider:
+      name: PropertyWire
+      domain: propertywire.com
+    quality: 39
+    images:
+      - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
+        width: 900
+        height: 500
   - title: "Drug makers are using AI to help find an answer to the coronavirus"
     excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
     publishedDateTime: 2020-02-10T13:00:00Z
@@ -78,6 +104,39 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
         width: 1280
         height: 720
+  - title: "Coronavirus: Modelling an outbreak"
+    excerpt: "Its AI also continuously scans news reports from recognised sources in 65 different languages, subjecting them to natural language processing and analysis that further inform its ML algorithms. This, the company says, not only allowed it to get ahead of the game in identifying the Wuhan outbreak but also meant that it was able to predict ..."
+    publishedDateTime: 2020-02-07T14:49:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/02/coronavirus-modelling-an-outbreak/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
+        width: 1200
+        height: 450
+  - title: "China using AI to battle coronavirus"
+    excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
+    publishedDateTime: 2020-02-05T12:18:00Z
+    webUrl: "https://www.globaltimes.cn/content/1178630.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 19
+  - title: "Coronavirus outbreak to further strain global AI information exchanges already under pressure from tech war"
+    excerpt: "Chinese search giant Baidu and Tongdun Technology, a Hangzhou-based risk management start-up, are among the leading conference sponsors along with US firms IBM, Google AI, Amazon and Apple. China’s smartphone giants cut size of contingent to world’s biggest mobile show In a written response, Baidu said 28 papers submitted by its own authors ..."
+    publishedDateTime: 2020-02-06T22:56:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 19
 
 secured: "mXzsJQhoPNlKvlwGi6qoblQXpkkABN+/ZY6jKDS8+/ZLUFdbri8tSbc9GNECZpOvI/wPKNcmqZzPwTEnhqezpuw9mOxtHafNVvAmIzHIs9F5UX5pmrj86GFkPq9pUvWbGvowwFwK+VPgUM/MsWFcmWL08JljfCDRGdVMKtInlh5pzrSJdYi8QFCjOiqG1NnU2rSRj65PE/1aBuuID9clMuWLZnJakC7Y5AoW3oA05QBBNMB1lgd9aeljrxylhQWvpwIFxOFKf34+5MXyPYWsvQgfbyvlTRXsBMG0FpqkV4jOCn4lxxsOFgn8tyx2mU30is2IdkNZbBuKbo2q+GN1yQBlz/lxPepIZQzNN5X4n4FQhN0bn8lLLa+C75J5dQH1uysKq2awc69f8WwxZEYgW6AzJ0SDskLUMPNQENJcfsySCwR5VoJAD0uSo2Bg14i8X0e38J0V2E0pGCgzWyfN9gyV4ut+Isk6V+YqRACgBQs=;mQuR2RWaG+HAeuR9XAn9dA=="
 ---

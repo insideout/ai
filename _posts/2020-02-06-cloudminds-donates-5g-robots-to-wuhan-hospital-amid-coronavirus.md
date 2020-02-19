@@ -24,60 +24,45 @@ images:
     title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
 
 related:
-  - title: "Artificial intelligence finds drug that could fight Wuhan coronavirus"
-    excerpt: "Chemistry matters. Join us to get the news you need. Yes! I want to get the latest chemistry news from C&EN in my inbox every week. ACS values your privacy. By submitting your information, you are gaining access to C&EN and subscribing to our weekly newsletter. We use the information you provide to make your reading experience better, and we ..."
-    publishedDateTime: 2020-02-05T00:08:00Z
-    webUrl: "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6"
+  - title: "Coronavirus: China deploys robots to prevent cross-infection"
+    excerpt: "According to an engineer from Dongfulong, these two artificial intelligence disinfection machines can achieve a 6-log killing effect on microorganisms. 6-log refers to a 99.9999% reduction in bacteria. Further, more than 30 smart disinfection robots manufactured by Shanghai Titanium Robot Technology Co., Ltd. are also in the isolation ward ..."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/"
+    ampWebUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
     type: article
     provider:
-      name: C&EN
-      domain: acs.org
-    quality: 137
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 59
     images:
-      - url: "https://acs-h.assetsadobe.com/is/image//content/dam/cen/98/6/WEB/09806-scicon1-bar.jpg/?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
-        width: 700
-        height: 456
-  - title: "China turns to artificial intelligence, data in fight against coronavirus"
-    excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 34,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
-    publishedDateTime: 2020-02-08T12:05:00Z
-    webUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.html"
-    ampWebUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 71
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
-        width: 600
-        height: 390
-  - title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
-    excerpt: "Authorities in China have turned to data tracking and artificial intelligence to help combat the spread of the new virus. Robots also deployed in hospitals. In an effort to help contain the spread of the deadly coronavirus which has infected more than 30,000 people and killed more than 600 people on the mainland, Chinese authorities have turned ..."
-    publishedDateTime: 2020-02-08T08:37:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/china-uses-data-tracking-and-ai-to-combat-new-virus.html"
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/disinfection-robot-6.png"
+        width: 580
+        height: 428
+  - title: "China Deploying Robots To Contain Spread Of Deadly Coronavirus"
+    excerpt: "Currently, these robots have been deployed in isolation wards, ICUs, operating rooms and fever clinics in major coronavirus treating hospitals, including the Central Hospital of Wuhan. China has called upon members of China's Artificial Intelligence (AI) sector to help fight against the coronavirus. According to reports, robots are being used ..."
+    publishedDateTime: 2020-02-07T14:53:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/robots-deployed-in-order-to-contain-spread-of-deadly-coronavirus.html"
     type: article
     provider:
       name: RepublicWorld
       domain: republicworld.com
-    quality: 38
+    quality: 54
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zdxqblrfadpefqou_1581083925.jpeg?tr=f-jpeg"
         width: 1242
         height: 708
-  - title: "Drug makers are using AI to help find an answer to the coronavirus"
-    excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
-    publishedDateTime: 2020-02-10T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner"
+  - title: "China working on robot development for coronavirus testing"
+    excerpt: "according to Siasun Robot and Automation Co.Ltd. Based in Shenyang, capital of northeast China’s Liaoning Province, Siasun was founded in 2000 and listed on the Growth Enterprise Market in 2009. China has also called on the country’s artificial intelligence (AI) sector to lend their technological hands to help battle the epidemic."
+    publishedDateTime: 2020-02-05T17:47:00Z
+    webUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    ampWebUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
-        width: 1280
-        height: 720
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 39
 
 secured: "f7u1/bJMcZAqTQrhAFLG+mUo6oBKllvlazhI/+zjPKyEe9vhSEg3utJRLOO/Y/AWJK/iA1S07yTxLJJ6zRfX6jgzzBtahdM/u8v2TFyreDG/aNvzUiPn0V7NX7AMLX6hBvkT10Vrd0zsncP5HGlyOGmmNn+GKpDitrwfZLuTK75xLU8FDtt1h29shtQ7utmMmsjdIiQg0IXEV9P29laXa+imSlpCjRJJIf/Q9BhCn7gO0ZbQfcIyklzivbr9pTyC2/jk/ZhhFEFmbKOSOZ1O5f4ok5C91tNpRFcnu/dV2yHboKc7P8iFuN+t0bcX+U5L;WFs8X8Oyc6T+LpFmn+4eow=="
 ---
