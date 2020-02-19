@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Bridging The Gender Gap In AI"
 
 related:
+  - title: "This Startup is Bridging the Gap Between Businesses and Designer Community"
+    excerpt: "Talking about its next trigger of growth, Varun shares, “Currently we are working on many fronts like upgrading our AI and ML tech and introduction of many more innovative DIY tools for all design categories. We have huge expectations from our new service, PrintShop, a print-on-demand marketplace, which has already received applications from ..."
+    publishedDateTime: 2020-02-19T13:56:00Z
+    webUrl: "https://www.entrepreneur.com/article/346554"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/346554"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346554"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 70
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200219131828-Designhill.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
   - title: "How Fintech Startups Are Bridging the Digital Gap in Rural India"
     excerpt: "There are a set of fintech firms that are specifically targeting this segment of consumers. Credible India, for instance, focuses on agricultural entrepreneurs by identifying financing gaps. It also designed AI-driven crop monitoring and local market demand forecasting tools. A socio-fintech startup, Gurugram-based FIA Technology, is taking ..."
     publishedDateTime: 2020-02-14T17:23:00Z

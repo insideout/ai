@@ -2,6 +2,141 @@
   "page": 21,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-29-underwater-robot-autonomously-gathers-seabed-samples.md",
+      "title": "Underwater robot autonomously gathers seabed samples",
+      "excerpt": "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/",
+      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "publishedDateTime": "2020-01-29T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e96142e/2147483647/strip/true/crop/5995x4000+3+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2F7b%2F17%2F8c16daaf43d4a75daf3621615d66%2Fdsc-0144.jpeg",
+          "width": 1160,
+          "height": 774,
+          "title": "Underwater robot autonomously gathers seabed samples",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-ups-teams-up-with-waymo-to-test-self-driving-delivery-vans.md",
+      "title": "UPS teams up with Waymo to test self-driving delivery vans",
+      "excerpt": "Washington, DC (CNN)Waymo is teaming up with UPS to test the use of its self-driving vans in transporting packages. Waymo, the self-driving arm of Google's (GOOG) parent company Alphabet, will use its autonomous Chrysler Pacifica minivans to bring packages from UPS stores in the Phoenix area to a UPS sorting facility in Tempe,",
+      "heat": 329,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
+      "publishedDateTime": "2020-01-29T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200129135300-waymo-ups-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "UPS teams up with Waymo to test self-driving delivery vans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-waymo-and-ups-team-to-deliver-packages-with-self-driving-vans.md",
+      "title": "Waymo and UPS team to deliver packages with self-driving vans",
+      "excerpt": "Autonomous car company Waymo has announced a new partnership with the delivery company UPS. This is said to be ‘a first-of-its-kind deal’ involving Waymo Driver, the company’s self-driving car tech. As part of this deal, Waymo Driver will help UPS deliver packages in Chrysler Pacifica vans, though the deliveries will be limited to just ...",
+      "heat": 269,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/",
+      "ampWebUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
+      "publishedDateTime": "2020-01-29T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/waymo_ups_main.jpg",
+          "width": 1422,
+          "height": 800,
+          "title": "Waymo and UPS team to deliver packages with self-driving vans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-29-what-politicians-dont-understand-about-the-ai-debate.md",
       "title": "What Politicians Don't Understand About The AI Debate",
       "excerpt": "The U.S. economy continues to expand, with reports from the Bureau of Labor Statistics indicating there are more job openings in the U.S. than people to fill them. Despite this data, working Americans are very concerned about job loss due to AI and automation,",
@@ -2017,141 +2152,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020.md",
-      "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
-      "excerpt": "Today’s your last day to score early-bird pricing on tickets to TC Sessions: Robotics + AI 2020, which takes place on March 3. If you want to keep $150 in your wallet, beat the deadline and buy your ticket here before the clock strikes 11:59 p.m. (PT) tonight! Our one-day conference dedicated to robotics and AI — the good, the bad and the ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-01-31T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/lastday_countdown.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-laszlo-bock-thinks-machine-learning-can-make-work-better.md",
-      "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
-      "excerpt": "A Google veteran’s new firm uses artificial intelligence to send employees ‘nudges’ to prod them toward changes likely to produce a happier workforce",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
-      "publishedDateTime": "2020-01-31T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://si.wsj.net/public/resources/images/B3-FZ452_BOCK_SOC_20200128171741.jpg",
-          "width": 900,
-          "height": 471,
-          "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology.md",
-      "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
-      "excerpt": "The first step, which is the most important, is to view the enterprise AI challenge as a business problem instead of a technical problem.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
-      "publishedDateTime": "2020-01-31T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/921518908/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

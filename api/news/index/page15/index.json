@@ -2,6 +2,133 @@
   "page": 15,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-20-can-ai-systems-be-unethical-the-answer-is-yes.md",
+      "title": "Can AI Systems Be Unethical? The Answer Is Yes",
+      "excerpt": "To avoid biased outcomes, data sets need to be neutralized in a manner that these biases disappear, or are at least minimised as much as possible. Tony Fish, visiting lecturer for AI and Ethics at LSE, said, “if we teach our kids morality then why not teach the machines? However there is a problem here—we are trying to build the moral ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.huffingtonpost.in/entry/artificial-intelligence-systems-unethical-human-bias_in_5e256b92c5b673621f78de5a",
+      "ampWebUrl": "https://m.huffingtonpost.in/amp/entry/artificial-intelligence-systems-unethical-human-bias_in_5e256b92c5b673621f78de5a/",
+      "cdnAmpWebUrl": "https://m-huffingtonpost-in.cdn.ampproject.org/c/s/m.huffingtonpost.in/amp/entry/artificial-intelligence-systems-unethical-human-bias_in_5e256b92c5b673621f78de5a/",
+      "publishedDateTime": "2020-01-20T03:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost India",
+        "domain": "huffingtonpost.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/5e256c2c2400005100dd1232.jpeg?cache=Ggd6J1zlka&ops=scalefit_630_noupscale",
+          "width": 630,
+          "height": 354,
+          "title": "Can AI Systems Be Unethical? The Answer Is Yes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-computer-vision-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
+      "title": "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?",
+      "excerpt": "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-20",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-19T21:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters.md",
+      "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
+      "excerpt": "As for the SuperPick, it’s a robot-agnostic solution comprising a vision system and AI engine that reports real-time metrics ... Sign up for Funding Weekly to start your week with VB's top funding stories.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
+      "publishedDateTime": "2020-01-20T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/SoftRobotics_Eggs-e1579543568131.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-20-deep-learning-system-market-to-see-massive-growth-by-2025-google-graphcore-teradeep.md",
       "title": "Deep Learning System Market to See Massive Growth by 2025 |Google, Graphcore, TeraDeep",
       "excerpt": "HTF MI recently introduced latest version Global Deep Learning System Market Study 2019. It covered product Scope, Market Share, Size, Revenue, Opportunities, Growth Rate, Sales Growth, Demand, Supply,",
@@ -2024,132 +2151,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-the-legal-industry-finds-ways-to-leverage-ai.md",
-      "title": "The legal industry finds ways to leverage AI",
-      "excerpt": "How far are we from seeing \"robot judges\"? ZDNet's Stephanie Condon discusses with Karen Roby. Read more: https://zd.net/3auO0jl",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/the-legal-industry-finds-ways-to-leverage-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/770x578/505afafec347bbd770275c37d22c5782/20200120-steph-karen-judges.png",
-          "width": 770,
-          "height": 578,
-          "title": "The legal industry finds ways to leverage AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-us-spends-45m-on-heat-based-facial-recognition-that-works-at-1600ft.md",
-      "title": "US spends $4.5m on heat-based facial recognition that works at 1,600ft",
-      "excerpt": "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html",
-      "ampWebUrl": "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html",
-      "publishedDateTime": "2020-01-21T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.tweaktown.com/news/7/0/70038_01_spends-4-5m-heat-based-facial-recognition-works-500m.png",
-          "width": 620,
-          "height": 329,
-          "title": "US spends $4.5m on heat-based facial recognition that works at 1,600ft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-varicent-software-acquires-augmented-intelligence-company-symonai.md",
-      "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
-      "excerpt": "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

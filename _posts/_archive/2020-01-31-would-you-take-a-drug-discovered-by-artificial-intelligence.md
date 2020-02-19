@@ -28,6 +28,6 @@ images:
     height: 1050
     title: "Would you take a drug discovered by artificial intelligence?"
 
-secured: "1bCGgi+DrhTFAxdmFyWTsmNLJWQkKGKIHfpzVVYWIXzwojUQK2XzRNXN/pMYxSn7SQ/bYxwMbM9PG+OuTdXJ97V0eEN/lhIf9wyNnZGpcP//JhyHa7MVdZByfgh3LxUsrJJVxSOQHro4He2PiuXykCLNQ+VH6u/0sMqJVOICNg9GnsXtUrk0BZMoaTv0l6Hu7sOii0a97DluWQ/PwB7UldrKtvNGXfr5EmK4ihX9KOxQSWa2MBtEZZQoBYrQKXE3WNGZeLS5auzEuTej81v+gKVBHJVVaYCyNzHJ/smLIAlArEXRoopat0CyEf5PHSOS;lYJoWGJTybYc1h5DkC1qnw=="
+secured: "sTm1BzYbg7q2+z5XQpfejokC90rMnsPIbV2XB2YN+Bg8bijt8mKE0VHxIFGZTRbHg50/lWQojKTs4q3BfTr12nynb088G24KyP4C6Ei8C8jKZ51GB8jVmuWEhEiocfPSpw61jPeAaeIFpcdCgzIsbBPeyQFz1s8g9xx9zJONZkaD4mACXh8Esy5JHnaX0vLNyFrcFpbrzWSrCgabRVZ2LTWgC+vhohOHsk5yEOsuuIiVWzxSVxU0IeMIuHA7xrXGh3EzQCL2hKRfhlLzNVE4iyVxcBitA5irE61+ShFHLPzrFxGfFwwX6BHSBmP5zK1I;iK0GjMAliK5qZ/zml8cZZg=="
 ---
 

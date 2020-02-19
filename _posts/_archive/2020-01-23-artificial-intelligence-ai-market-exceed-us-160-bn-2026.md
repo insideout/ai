@@ -22,6 +22,6 @@ images:
     height: 315
     title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
 
-secured: "i2fGag3MMQgFlrz+jqmZhVWdPpG9TmrEmovPcC8trvaxNZyLJ8FhvgepvQ93kyGdeq3HO2ow6x6HAFUXLkQapo7PTrcCLRa0vngo9mtd3WpOFgffgqEKYTfIJA/E5jY0dZuGPpMhuL53xn7BjgWBquEEYoMkxhZZqinyTVa8ZQE/TuvMD981+KmI+b7Lh7Ok2qatS8OEfbPPRvZH7X0uS++09vFfHCtXgGvNp3gc7svn2wqdFw60yC3awal34nhzRh9eP+1XHdzoluDItHQ4ROBCA8rLfvM/j/knSst2LCfDc+TtbjnD5AxM9njIe0U2;SbAuz2p/jatsf71vcevECQ=="
+secured: "y14XhQMLMRg3gpnqANT4R9SyhJS7z8O4c8dVToZVjfDD60jN72hf1zySbiC98FOrXpRqp2NuxfZqVIiIutTOHcfvmO/M8ce+5zKoiyGZcp0u8cRXuOhp2ktTudZekWHqwOzswZXgJcpSM3OQMPtjvJR5OdgKIWDqOemqTsAD9aOKabNFJvf4YMMW3cJ/IKS6gE0v7sa8x/u2BvYTP6OcatN7EnqX4WnBY6SaE/2W8VgD1HsPQIUB3zwRmyG1zbhMzT16Hzl4Bw0VgUuTO3haMWac+8hSyfBXMTw0yy1v0oebcSTfl8ntPgYtMJyxou+s;7Z94+v7DFdX8JEmgRQZTxA=="
 ---
 

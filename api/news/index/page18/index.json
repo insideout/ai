@@ -2,6 +2,116 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-24-get-ready-for-the-emergence-of-ai-as-a-service.md",
+      "title": "Get ready for the emergence of AI-as-a-Service",
+      "excerpt": "A new “_” as a service model is ... case managers, or financial advisors. In the case of a claims adjuster, for example, they could use an AI-based solution to run a query to predict claim costs or perform text mining on the vast amount of claim notes. Layering insights for better outcomes Machine learning technologies, when integrated ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/",
+      "publishedDateTime": "2020-01-24T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design43-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Get ready for the emergence of AI-as-a-Service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-24-heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads.md",
+      "title": "Here’s What We Learned by Teaching an AI to Write Super Bowl Ads",
+      "excerpt": "Super Bowl ads, the bot’s creators decided to touch base on how it’s going, what we’ve all learned and where this project seems to hint that AI is headed, at least in the realm of creativity. Here’s the conversation between Adweek emerging tech reporter Patrick Kulp and creative and innovation editor David Griner: David Griner ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.adweek.com/creativity/heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-24T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-24-how-artificial-intelligence-is-progressing-in-mental-healthcare.md",
+      "title": "How Artificial Intelligence is progressing in mental healthcare",
+      "excerpt": "Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html",
+      "ampWebUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
+      "publishedDateTime": "2020-01-24T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "How Artificial Intelligence is progressing in mental healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-24-im-obsessed-with-the-circle-and-its-ridiculous-voice-assistant.md",
       "title": "I'm obsessed with 'The Circle' and its ridiculous voice assistant",
       "excerpt": "But it's tough to ignore all the low-budget technology knowing that it's possible to up to ante. Do I expect Netflix to come back in Season 2 with voice recognition? Absolutely not. However, I do hope they find ways to make it less obvious that there is a literal human sitting in some production room trying to transcribe all the messages as ...",
@@ -2056,132 +2166,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-machine-learning-system-uses-images-to-teach-itself-morse-code.md",
-      "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
-      "excerpt": "The blog entry by the delightfully callsigned [Mauri Niininen (AG1LE)] reads like a scientific paper, with good reason: [Mauri] really seems to know a thing or two about machine learning. His method uses curated training data to build a model, namely Morse snippets and their translations, as is the usual approach with such systems. But things ...",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hackaday.com/2020/01/27/machine-learning-system-uses-images-to-teach-itself-morse-code/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/01/shutterstock_1210526857.jpg",
-          "width": 2395,
-          "height": 1349,
-          "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back.md",
-      "title": "Mosquitoes spread disease, but this is how AI is biting back",
-      "excerpt": "So, having early detection systems to promptly deploy preventive controls is crucial to protecting people. The Institute of Agrifood Research and Technology (IRTA) in Catalonia, Spain, has started to use artificial intelligence (AI), sensors, and satellite communications to automate the process of trapping mosquitoes and classifying them ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
-      "publishedDateTime": "2020-01-27T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/17/9cd53c09-594e-45b6-ad71-ffebbe7c4b06/thumbnail/1200x675/d95da7082bf0d82ff45d36f0d4da5436/20200117-tiernan-karen-global.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Mosquitoes spread disease, but this is how AI is biting back",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-natural-language-processing-nlp-market-growth-opportunity-and-2027.md",
-      "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-growth-opportunity-and-2027-2020-01-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-26T22:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

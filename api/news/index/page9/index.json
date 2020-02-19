@@ -2,6 +2,141 @@
   "page": 9,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-02-googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.md",
+      "title": "Google's DeepMind A.I. beats doctors in breast cancer screening trial",
+      "excerpt": "Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
+      "publishedDateTime": "2020-01-02T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587",
+          "width": 5121,
+          "height": 3416,
+          "title": "Google's DeepMind A.I. beats doctors in breast cancer screening trial",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-02-googles-deepmind-created-an-ai-for-spotting-breast-cancer-that-can-outperform-human-radiologists.md",
+      "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
+      "excerpt": "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-02T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-02-new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation.md",
+      "title": "New eBay platform using AI to enable image search and internal innovation",
+      "excerpt": "In a blog post, eBay's Sanjeev Katariya, vice president and chief architect of the eBay AI and platforms, and Ashok Ramani, director of product management, computer vision, natural and language ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
+      "publishedDateTime": "2020-01-02T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "New eBay platform using AI to enable image search and internal innovation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-02-samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries.md",
       "title": "Samsung’s new Family Hub refrigerator uses computer vision to keep tabs on groceries",
       "excerpt": "If you’re in the market for a new fridge, no need to fret — Samsung’s got you covered. This morning, ahead of the 2020 Consumer Electronics Show (CES), the tech giant debuted the latest ...",
@@ -2007,133 +2142,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads.md",
-      "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
-      "excerpt": "The updated metric puts Waymo far ahead of rivals like Yandex and Baidu, whose cars had driven ... In late 2017, the cofounder of Cruise, GM’s self-driving unit, told investors it was on the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/",
-      "publishedDateTime": "2020-01-06T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-08-ambarella-collaborates-with-aws-and-enables-ai-on-connected-cameras-using-amazon-sagemaker-neo.md",
-      "title": "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo",
-      "excerpt": "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html?ref=nav",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html",
-      "publishedDateTime": "2020-01-08T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-08-artificial-humans-named-neon-are-stars-of-ces.md",
-      "title": "'Artificial humans' named Neon are stars of CES",
-      "excerpt": "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "publishedDateTime": "2020-01-08T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662",
-          "width": 2818,
-          "height": 1594,
-          "title": "'Artificial humans' named Neon are stars of CES",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

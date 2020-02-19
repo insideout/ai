@@ -135,6 +135,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence in Construction Industry 2020 Emerging Trends, Growth Opportunities and Strong Application Scope by 2025"
+    excerpt: "Market Overview The artificial intelligence in construction market was valued at USD 580.70 million in 2019, and is expected to reach a value of USD 3,327.06 million by 2025, at a CAGR of 33.79%, during the forecast period (2020 - 2025)."
+    publishedDateTime: 2020-02-19T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-construction-industry-2020-emerging-trends-growth-opportunities-and-strong-application-scope-by-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Gesture Recognition Market Global Trends, Demand, Industry Verticals and Supply by Future Prediction 2020 to 2025"
     excerpt: "Global Gesture Recognition Market 2020-2025: The Global Gesture Recognition Market is expected to register a CAGR of over 27.9% during the forecast period, 2020 - 2025. The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices."
     publishedDateTime: 2020-02-18T11:07:00Z

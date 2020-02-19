@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -34,21 +34,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
-  - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "The European Union is unveiling proposals to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the emerging technology. The report"
-    publishedDateTime: 2020-02-19T11:35:00Z
-    webUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-    ampWebUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 59
-    images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
   - title: "EU to launch grand plan for AI, tech in challenge to US, China"
     excerpt: "In the U.S., reports that police were using technology from Clearview AI -- a startup that’s scraped billions of photos from social media accounts with the aim of helping law enforcement find suspects without criminal records -- caused a backlash from privacy groups and lawmakers.The same groups are urging legislation to prevent abuses of a ..."
     publishedDateTime: 2020-02-17T04:50:00Z

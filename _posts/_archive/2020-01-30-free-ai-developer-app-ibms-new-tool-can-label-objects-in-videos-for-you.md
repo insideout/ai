@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Free AI developer app: IBM's new tool can label objects in videos for you"
 
-secured: "TMwy10pDTdlSsMxz3DBQbcX+eCY6OI7dg2Fifr62FvVeXjGs4tB1y8ceO/plBAlqMEdKOaMK8s/zN+FPiywoyRxd+CkxlkKiJGZJACLLFleOFycxCK+demlxre2QZ38H8QFwW2jlThS60CjQFvc/R4/kXs6t29a9mp1mrEpdoAzwKkNTuSp3HWb/QQl+PSweZ5IZ80FFJkddouFiKAzjkrNt0K/jhxeN6Zqscu9L93+DIkqnHQk0k+29cXkbCXnpb67Ie6mB0cZkImlvPZcyC/lsOPeGNWLjCH8yiqMotwGt6OzFWuvVqK16cj/5q8rJ;+/tKlIOu/dEdnkS74mfK9Q=="
+secured: "GpU8eMLMQls9DrDZ7yOBY8UQnR2ED31mZ0N22ur4hIm0u8unL+aBHgB9mbcaIx3orsZHRiuL/ast9taq717AE71h2uMIRX95zx/2a6Enry/OGep+V1Z4n3FHSL/6Upyu7rThZC2m6iVLyTtUVHSJ19MSWJUpmVbZ22WjQFp2avUCK76pEUm7qC+4/EYErbF5ICFNiKiowL/zen2npjIBBLlq72k4WrJ4vvJzJ5eM1Rxl3Zr9bWHoi4ny/OfNH/5434CEXF2rpivvmFy7O/GvJcQof2mcjcBv1FAdSz81ke8GEQp1IvppO/TtyyAjcKUZ;VJyasQujDMdgH75MGpHIbA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 242
+heat: 252
 published: true
 
 provider:
@@ -119,6 +119,19 @@ related:
     excerpt: "Report on the Global Machine Learning in Automobile Market outlines the comprehensive study of market comprising overview, production, producers, dimensions, income, price, consumption, growth rate, sales revenue,"
     publishedDateTime: 2020-02-18T13:55:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-automobile-market-2020-by-applications-industry-profiles-trends-technology-demand-and-opportunities-to-2024-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence in Construction Industry 2020 Emerging Trends, Growth Opportunities and Strong Application Scope by 2025"
+    excerpt: "Market Overview The artificial intelligence in construction market was valued at USD 580.70 million in 2019, and is expected to reach a value of USD 3,327.06 million by 2025, at a CAGR of 33.79%, during the forecast period (2020 - 2025)."
+    publishedDateTime: 2020-02-19T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-construction-industry-2020-emerging-trends-growth-opportunities-and-strong-application-scope-by-2025-2020-02-19"
     type: article
     provider:
       name: MarketWatch

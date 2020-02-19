@@ -24,21 +24,58 @@ images:
     title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
 
 related:
-  - title: "Microsoft for Startups Now Offers Participants GitHub Enterprise and Power Platform Access"
-    excerpt: "Microsoft will also provide open access to distribution channels like Azure Marketplace and AppSource, as well as CSPs and its enterprise sales force. This latest development expands on support for Nvidia Inception that was announced in November last year. That partnership was designed to accelerate AI growth, pairing deep learning expertise ..."
-    publishedDateTime: 2020-02-14T15:56:00Z
-    webUrl: "https://winbuzzer.com/2020/02/14/microsoft-for-startups-now-offers-participants-github-enterprise-and-power-platform-access-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2020/02/14/microsoft-for-startups-now-offers-participants-github-enterprise-and-power-platform-access-xcxwbn/amp/"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/02/14/microsoft-for-startups-now-offers-participants-github-enterprise-and-power-platform-access-xcxwbn/amp/"
+  - title: "Myntra partners with Microsoft Cloud to enhance customer experience"
+    excerpt: "By building and centralising its data platform on Azure, the company claims that it is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver personalised products, marketing and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on ..."
+    publishedDateTime: 2020-02-19T13:11:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/articleshow/74211461.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/amp_articleshow/74211461.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/amp_articleshow/74211461.cms"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 49
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/02/github-startups-official.jpg"
-        width: 1281
-        height: 720
+      - url: "https://static.toiimg.com/photo/msid-74211467/74211467.jpg"
+        width: 1200
+        height: 900
+  - title: "Microsoft Cloud is powering the digital transformation of Myntra, India’s leading fashion retailer online"
+    excerpt: "Amar Nagaram, CEO, Myntra By building and centralizing its data platform on Azure, Myntra is also applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to ..."
+    publishedDateTime: 2020-02-19T10:10:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-cloud-powers-the-digital-transformation-of-myntra-indias-leading-fashion-retailer"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://i1.wp.com/www.onmsft.com/wp-content/uploads/2020/02/myntra-microsoft.jpg?fit=940%2C570&ssl=1"
+        width: 940
+        height: 570
+  - title: "Myntra accelerates its digital transformation journey with Microsoft Cloud"
+    excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real time ..."
+    publishedDateTime: 2020-02-19T10:12:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
+    type: article
+    provider:
+      name: ETCIO.com
+      domain: indiatimes.com
+    quality: 37
+  - title: "Aisera Secures Series B Funding, Led by Norwest Venture Partners, to Transform the Enterprise Service Experience With Artificial Intelligence"
+    excerpt: "/PRNewswire/ -- Aisera, the world's first AI-driven platform that automates tasks, actions and workflows for employees and customers, announced today that"
+    publishedDateTime: 2020-02-18T18:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aisera-secures-series-b-funding-led-by-norwest-venture-partners-to-transform-the-enterprise-service-experience-with-artificial-intelligence-301006598.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "0L/CpdbaegRiYYvYZHtXHBzY8F2Xb3JIWmOoPyZ9w0GT8oOijG0BqTE0qdJPAW/BVIPh8TylCujn+vpGFkxQnQhzSa7YL9TRWfO/rzWUjxq1Ri7zd4xeQM/qjEYGa+BGEPUGzJiCTgoI1Rm4syPBuCleEqmY/mw7MrZ2JlUh3w5SP+VLNbS2XZsuq4U9DMBfrGv5HJbmYSu85cc1GxUSTzCaoKn85nOiB0LSP1shXCvghUChLDMRQ4Yx0BO0iE+BKm9mgh+5Av8Jv2nSz2YpQFvpw+aUQDoE8j+rujaRNAGg9zx3NZ3biBWTl/qlgwxh;K2MW6/MwpnhMleZKpziNAg=="
 ---

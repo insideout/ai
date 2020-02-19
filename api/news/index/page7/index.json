@@ -2,95 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-18-ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98.md",
-      "title": "AI delivers a battery boost to electric vehicles, slashing testing times 98%",
-      "excerpt": "On Tuesday, battery testing for EVs surged forward, thanks to the work of a Stanford-led research team––which used AI to cut testing times by nearly 15fold. Led by Stanford professors Stefano Ermon and William Chueh, the research team, from Stanford, MIT, and the Toyota Research Institute, wanted to come up with the best way to charge an EV ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/",
-      "publishedDateTime": "2020-02-18T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/03/3a08ce38-c418-4ba6-af19-f251dbb8ff9c/resize/1200x/ad6c8926eb2468f73ce7ba686767bbc2/electric-vehicle.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI delivers a battery boost to electric vehicles, slashing testing times 98%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-ai-vs-humans-microsofts-eric-horvitz-sees-the-future-as-ai-human-partnership.md",
-      "title": "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership",
-      "excerpt": "machine card games to the “Terminator” movie series. But according to Eric Horvitz, the director of Microsoft Research Labs, the hottest trends in AI have more to do with creating synergies between the humans and the machines. Mastering human-AI collaboration is something “we don’t hear enough about in the open press,” Horvitz said ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/",
-      "publishedDateTime": "2020-02-18T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200217-horvitz3-630x579.jpg",
-          "width": 630,
-          "height": 579,
-          "title": "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m.md",
       "title": "Aisera, an AI tool to help with customer service and internal operations, exits stealth with $50M",
       "excerpt": "There have been some efforts made to apply AI to solving different aspects of these particular use cases, but one of the issues has been that there are few solutions that sit above an organization’s software stack to work across everything that the organization uses, and does so in an “unsupervised” way — that is, uses AI to “learn ...",
@@ -272,7 +183,7 @@
       "path": "_posts/2020-02-18-chinas-facial-recognition-giant-says-it-can-crack-masked-faces-during-the-coronavirus.md",
       "title": "China’s facial-recognition giant says it can crack masked faces during the coronavirus",
       "excerpt": "China’s SenseTime, the world’s most valuable AI startup, said earlier this month (link in Chinese) that it was rolling out a facial-recognition products that incorporates thermal imaging cameras to help spot people with elevated temperatures at building entrances and airport checkpoints, and send pop-up alerts to users of the software.",
-      "heat": 216,
+      "heat": 226,
       "tags": null,
       "type": "article",
       "webUrl": "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/",
@@ -578,7 +489,7 @@
       "path": "_posts/2020-02-18-global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr.md",
       "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
       "excerpt": "Portland, Feb. 18, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global machine learning chip market accounted for $3.46 billion in 2018 and is projected to reach $37.",
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr-2020-02-18",
@@ -1791,6 +1702,96 @@
       ]
     },
     {
+      "path": "_posts/2020-02-19-eu-plans-european-rival-to-google-with-new-data-and-ai-proposals.md",
+      "title": "EU Plans European Rival To Google With New Data And AI Proposals",
+      "excerpt": "As outlined in two policy documents, the EC is planning to change EU law in order to foster the commercial gathering, sharing and processing of data, as well as the development of AI technology.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/amp/",
+      "publishedDateTime": "2020-02-19T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201763571%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "EU Plans European Rival To Google With New Data And AI Proposals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-in-praise-of-boring-ai-aka-machine-learning.md",
+      "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
+      "excerpt": "Whether or not machine learning is paving the way for a sci-fi movie type of AI in the distant future is a pointless question.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
+      "publishedDateTime": "2020-02-19T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x454/https://specials-images.forbesimg.com/dam/imageserve/1158524088/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 454,
+          "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/2020-02-19-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-01.md",
       "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Stock Price Down 0.1%",
       "excerpt": "Shares of iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) traded down 0.1% during trading on Monday . The company traded as low as $28.74 and last traded at $28.80, 26,336 shares changed hands during mid-day trading. A decline of 33% from the average session volume of 39,142 shares. The stock had previously closed at $28.84.",
@@ -1825,6 +1826,126 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-myntra-partners-with-microsoft-cloud-to-enhance-customer-experience.md",
+      "title": "Myntra partners with Microsoft Cloud to enhance customer experience",
+      "excerpt": "By building and centralising its data platform on Azure, the company claims that it is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver personalised products, marketing and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/articleshow/74211461.cms",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/amp_articleshow/74211461.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/amp_articleshow/74211461.cms",
+      "publishedDateTime": "2020-02-19T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-74211467/74211467.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Myntra partners with Microsoft Cloud to enhance customer experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-obviously-ai-introduces-natural-language-predictive-analytics-service.md",
+      "title": "Obviously AI introduces natural language predictive analytics service",
+      "excerpt": "The key is a combination of natural language processing and AutoML-like capabilities that let you write a query down in standard English (you can skip the SQL), choose the data set and column(s) you want to target. Then the service performs some data cleansing to normalize the data, internally runs a handful of competing algorithms to select ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
+      "publishedDateTime": "2020-02-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/19/3b6d1b1b-288c-4f2d-9b9d-76593f46fba9/thumbnail/1200x675/aeb3ea6808e22b96d2de0a08c7e48caa/sennheiser-hd-450bt-header.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Obviously AI introduces natural language predictive analytics service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-report-artificial-intelligence-finds-disease-related-genes-tdnews.md",
+      "title": "Report: Artificial intelligence finds disease-related genes — Tdnews",
+      "excerpt": "An artificial neural network can reveal patterns in huge amounts of gene expression data, and discover groups of disease-related genes. This has been shown by a new study led by researchers at Linköping University, published in Nature Communications. The scientists hope that the method can eventually be applied within precision medicine and in ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/",
+      "ampWebUrl": "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/",
+      "cdnAmpWebUrl": "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/",
+      "publishedDateTime": "2020-02-19T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tunisie Soir",
+        "domain": "tunisiesoir.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.tunisiesoir.com/wp-content/uploads/2020/02/Artificial-intelligence-finds-disease-related-genes-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Report: Artificial intelligence finds disease-related genes — Tdnews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -2008,130 +2129,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2017-05-01-a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-13.md",
-      "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-      "excerpt": "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ...",
-      "heat": 161,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2017-04-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/1200/1*KdbQDJccO7aoNIvDrjUhzA.gif",
-          "width": 1200,
-          "height": 675,
-          "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2017-07-27-kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video.md",
-      "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-      "excerpt": "According to an essay in The Huffington Post, pop singer Kesha, while writing “Learn to Let Go,” was also inspired by ... where she encounters signposts from her past—including a cleverly devised fake swimming pool—that parallel the funny, often ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/",
-      "ampWebUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "cdnAmpWebUrl": "https://www-slantmagazine-com.cdn.ampproject.org/c/s/www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "publishedDateTime": "2017-07-27T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slant Magazine",
-        "domain": "slantmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.slantmagazine.com/wp-content/uploads/2017/07/music_learntoletgo-600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2018-08-22-society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix.md",
-      "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
-      "excerpt": "In the movie The Matrix, humans are imprisoned in a virtual world by a powerful artificial intelligence system in a dystopian future. What they take to be ... with their senses is actually made of AI-generated code. Life in our current society is very ...",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caityjohnstone/society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix-787c7e2539ae",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-08-21T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*pmMn-OBDF907eDRG",
-          "width": 1200,
-          "height": 900,
-          "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

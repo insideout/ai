@@ -91,6 +91,19 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "OTHER VOICES: Facial-recognition software produces concerns"
+    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
+    publishedDateTime: 2020-02-19T06:00:00Z
+    webUrl: "https://siouxcityjournal.com/other-voices-facial-recognition-software-produces-concerns/article_564dad32-9a2e-55f9-bd6d-6d90a63edb8b.html"
+    type: article
+    provider:
+      name: Sioux City Journal
+      domain: siouxcityjournal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/55280824-bc85-11e5-a21a-ff9109e609b3.jpg"
+        width: 654
+        height: 625
 
 secured: "Gt9xdq36KuWX9gVTIe24rBAy2qy3yowY7SLTyq02P78lE4im5+LWgNR2s0tHSW6Fs9zwp1ZA1B84jngAxxuKZo4CFdhjUI9qy7FvON5RySfih+FanBpz86Px7zGHlnWzjcKxHU7B20XWeH2PGWRgDLkJqMPv7reUUUzR3Hq/yUZCeLKRJ7PapNJYV9wvPHYSnf6woAbd9VnMODGAioXybAuKoXcdggYRh6TJjkxPYUU/G7j1NMkJNvx46thCnFGrM2ORV6+gECArYXV/CAwgQY9uwgmmei50QgYJwQCgHtaAAGs9XawWwpq6OiFTaOYoKlhsIPaWFu0SN8GYWIyrVm10ayIrksb/dbJKmiZySwwzFf2dKDLxVAL7JmbLetP08UX6O+PhxUylKQAJXCribSx/DYSrdXdOX0PSq6Wfx+MBkg4/LQoSHNAZNtVv+uboHUamEUBKeJDYcSv1HlFoMl45p/wBJRbliV+UxN+0qqo=;y64Fe/SPPaBgH8oFvD7CTw=="
 ---

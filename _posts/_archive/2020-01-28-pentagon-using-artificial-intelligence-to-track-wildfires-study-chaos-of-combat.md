@@ -22,6 +22,6 @@ images:
     height: 600
     title: "Pentagon using artificial intelligence to track wildfires, study chaos of combat"
 
-secured: "47foEK7qHWdfNe5wa/OLpGinZLQacQ9ihAKSZFe1oJ0LECg/mgblWpLH0q9cIdVjz7sidNIYY7NIIC+WcTb+cl/la5w0xtThuSi2J9X4rSFGTzrXU3jWCEbMXMqAUW41+vOl17PyCY7nhHXgM4EKraCE44jGaTcBC5ruW/7742OsW/eRVvmyyv6WQerW/J5M/xGZ8qWkoufMB3Lbpw+rbatT3fW5r4AJ2WhLms197I4GjWFRZgOq8nwtvC1+ya0PPhi5ytq9vmsOodU4cuTNIka3jGUDQPcQDOKoz/7J4tKDPQNzzurtj5NxmVQge0hh;ZO9Q3125BEygHnIuAmmnAQ=="
+secured: "drYgvQmJ3PdgYehwgncc4+/sVINNch4Wjb7P7K8IlT7QqC0mG2Ju3b+Po4pB8KiXqkAkP4Ky4UDvkmfpkoqzmwPPMtu683xvpVujzrsJXzTrwOIEsAl7sX4Rhh8ufbzccZI+sCFL2+fmICKxb6Vo/lYREKMQiRs7/EIhNgzjsDK8yTZs5cB26gt6zJx0egF88QLPqyFxRDN3D9GNjiB60+C+yEn0F0HGQwbsHWMG7FnHE8AasBZyP3LMW4L56//FeYP2bLkZMcWxcDkX4XQCGme7Lm8zNFysWMt3O8hewYIzzutj1WyILnlnoWmI4lG1;tf6MsKUh525Pvp3Ws9lDWA=="
 ---
 

@@ -427,7 +427,7 @@
       "path": "_posts/2020-02-05-classic-1896-short-film-gets-upscaled-to-4k-using-neural-networks.md",
       "title": "Classic 1896 short film gets upscaled to 4K using neural networks",
       "excerpt": "One of the most famous short films in cinema is an 1896 ... 4K, brought its frame rate up to 60fps, and even added sound. The effect is impressive, turning a movie that’s over 120 years old into something that seems like it could have been filmed today (via Digg). Denis Shiryaev, who did the upscaling, said he used several neural networks to ...",
-      "heat": 202,
+      "heat": 192,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/tldr/2020/2/5/21124838/classic-1896-short-film-upscaled-4k-neural-networks-arrival-la-ciotat-station",
@@ -963,43 +963,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-05-robot-bartender-may-serve-up-a-solution-in-japan.md",
-      "title": "Robot Bartender May Serve Up a Solution in Japan",
-      "excerpt": "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyze their expressions with artificial intelligence (AI) software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.voanews.com/economy-business/robot-bartender-may-serve-solution-japan",
-      "ampWebUrl": "https://www.voanews.com/economy-business/robot-bartender-may-serve-solution-japan?amp",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/economy-business/robot-bartender-may-serve-solution-japan?amp",
-      "publishedDateTime": "2020-02-04T17:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.voltron.voanews.com/Drupal/01live-166/reuters-pictures/2020/02/RTS30RFB.jpg",
-          "width": 3988,
-          "height": 2948,
-          "title": "Robot Bartender May Serve Up a Solution in Japan",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle.md",
       "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
       "excerpt": "... Prospects by Gearing Yourself with the In-Demand Azure Cloud Skills Machine Learning in the Cloud with Azure Machine Learning Process Real-World Datasets Using Sophisticated Machine Learning Models in the Cloud Azure Project-Based Hands-on Training",
@@ -1255,7 +1218,7 @@
       "path": "_posts/2020-02-06-ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020.md",
       "title": "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020",
       "excerpt": "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,",
-      "heat": 170,
+      "heat": 160,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06",
@@ -2090,6 +2053,43 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-new-blood-sampling-robot-performs-as-well-or-better-than-people.md",
+      "title": "New blood-sampling robot performs as well or better than people",
+      "excerpt": "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "publishedDateTime": "2020-02-06T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New blood-sampling robot performs as well or better than people",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

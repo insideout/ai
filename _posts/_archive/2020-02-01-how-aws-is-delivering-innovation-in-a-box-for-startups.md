@@ -25,6 +25,6 @@ images:
     height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "IYkmH5lMEvka/1F9JLaJ+OrjaRALNwnYJLxZWq/Vlwv9JBH6ZJzcpTezsncKHuEDEL5AmrLRgSa17DkQUO5Yo1otqRkC2ralGlSabQc2xs/OGEIKqUnZOE194XeASqKVuv9dhtTVWiJH4rbsZSm1Rl6LKm7hdCaYISIQ+//QfuLGEAR+YXauzsGsHU5zfIb40Qnle96rqVTaIuV5Xf4vYPnLNPpAdVyzkPaYfcIU6WKmx9TDxTFf0/96gk5H4xe2AXuMOzQZ7TAtesy6G909S75THK8oWZ55gYMj9/fkpvoffqqAyVQzpbDq69m4H/s5;wOE3bQOzgf0VTOqJjVYbMQ=="
+secured: "/QXG+U2+LvjS1/oaN4a7WtcCVXhDnkOvQ/DweH+UI53E7OsMIeAjpLrLmBFu0mYLNBRD7QZ5nQJ6nN+y+VUwbVca9GMy/iWfIWeoE4Ywn2nEbAUncwxhaPZ8K7Go4vcOBYAMkZmHIPX7SNrFgZ+Wg2gPAcr3aO4AqDyyt2CIjGnUNaPhz4+eD9hW9lSdhxZjIFAyA62kdIUSiTqErFMVofZClOF6wDJuNY+OBGiiRIUM2U4uCtH62EY3lxIBUglvULdECHzs6NDpk1pJ1ytMtm4fSu3HeZfkqMW5FjVz4wGERNO4lSsmDlpo4ufPTnh9;5Yqs4qRKnUoUq6LMAoanzw=="
 ---
 

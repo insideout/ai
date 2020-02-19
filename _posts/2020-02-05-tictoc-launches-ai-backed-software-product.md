@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.adelaidenow.com.au/business/sa-business-journal/tictoc-l
 cdnAmpWebUrl: "https://amp-adelaidenow-com-au.cdn.ampproject.org/c/s/amp.adelaidenow.com.au/business/sa-business-journal/tictoc-launches-aibacked-software-product/news-story/ff7c4cbd2527e1561b344b081ef7eea0"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -18,21 +18,6 @@ provider:
 topics:
   - AI
   - AI in Finance
-
-related:
-  - title: "AiX launches natural language AI broker"
-    excerpt: "Facilitated through natural language processing and cognitive reasoning, the AiX chatbot serves the role of a human voice broker but uses technology that allows it to process thousands of orders accurately at a fraction of the cost for the end-user. Initially live in global cryptocurrency markets, AiX’s first negotiated trade was a BTC/USD ..."
-    publishedDateTime: 2020-02-04T20:44:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81369/aix-launches-natural-language-ai-broker"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
 
 secured: "hXBV9D/kO/oURP5ltIx+lkr0hbwhSGgcWfCE1bfOjpWBIhqCNAoXju5DSKxiA/Il53RhzMCEoby9oTZ93yzPnU6dGYdydIVqVUiiZj63CDFDKsSSvfHj2EWvmxTAQzMdP/k13jn5S4Z8XqFiz16+LNMlBhTrtxPE02ZRrn5Lxr9Q3amcx147anMBFTUg4XZNtIu9PxHQ4hXyhKWBIH3+hV2uhK0xXHlgFbD49SLb5nFck14lPoDIMghzWjln+BILlCG95UuZ5IoUotbso5zOjpHc0XoBHfRoMBnnyPC4YOxaC/nQX+nO6Zho4hwPAofP0nesQ9KZ482GwbOoqww0BaZxxUophO4RiD6sI/B/v9YsUakVNG8cgg3zO9LrHZ9Tme2h8P4mykbGXUtEVpN3iAakp1cyFOtgB0Z5ZxiO/aNXV8esBYuf75i1D+T3rPfGtO4m1y3Tbt9UizKBpF7mVRS8X/jF3eVLFb5qUnuxMpA=;Nq+hn25tWfYt1+JkG1FKkg=="
 ---

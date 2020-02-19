@@ -1,69 +1,97 @@
 ---
 category: news
 title: "EU proposes rules for artificial intelligence to limit risks"
-excerpt: "The European Union is unveiling proposals to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the emerging technology. The report"
-publishedDateTime: 2020-02-19T11:35:00Z
-webUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-ampWebUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... The decision clears the way for the trial of Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud to start later this year for alleged war crimes and crimes against humanity ..."
+publishedDateTime: 2020-02-19T11:32:00Z
+webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: WTNH
+  domain: wtnh.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+  - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
     title: "EU proposes rules for artificial intelligence to limit risks"
 
 related:
-  - title: "EU Fights For ‘Purpose’ in Grand Plan for Tech, AI Rules"
-    excerpt: "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U."
-    publishedDateTime: 2020-02-16T23:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+  - title: "EU plan on AI: new rules, better taxes"
+    excerpt: "\"The new ... taxes and others do not,\" it adds. Other initiatives currently being discussed include an action plan on 6G, making data-centres more sustainable and a revision of the regulation on online identification. After the EU's approach to AI and ..."
+    publishedDateTime: 2020-02-17T06:20:00Z
+    webUrl: "https://euobserver.com/science/147454"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-  - title: "EU to Launch Grand Plan on AI, Tech In Challenge to U.S, China"
-    excerpt: "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U."
-    publishedDateTime: 2020-02-16T23:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+      name: EUobserver
+      domain: euobserver.com
+    quality: 137
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ed6fdf40109cab6388b14a8576373ce9-480x.jpg"
+        width: 480
+        height: 320
+  - title: "EU’s new AI rules will focus on ethics and transparency"
+    excerpt: "While transformative technologies such as AI have been labeled critical to economic survival, Europe is perceived as slipping behind the U.S., where development is being led by tech giants with deep pockets, and China, where the central government is leading the push. Europe has in recent years sought to emphasize fairness and ethics when it ..."
+    publishedDateTime: 2020-02-17T13:51:00Z
+    webUrl: "https://venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/"
+    ampWebUrl: "https://venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-  - title: "EU to launch grand plan for AI, tech in challenge to US, China"
-    excerpt: "In the U.S., reports that police were using technology from Clearview AI -- a startup that’s scraped billions of photos from social media accounts with the aim of helping law enforcement find suspects without criminal records -- caused a backlash from privacy groups and lawmakers.The same groups are urging legislation to prevent abuses of a ..."
-    publishedDateTime: 2020-02-17T04:50:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/eu-to-launch-grand-plan-for-ai-tech-in-challenge-to-us-china-11581912099688.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/eu-to-launch-grand-plan-for-ai-tech-in-challenge-to-us-china/amp-11581912099688.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/eu-to-launch-grand-plan-for-ai-tech-in-challenge-to-us-china/amp-11581912099688.html"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/MV-e1573146856797.jpg?fit=1200%2C664&strip=all"
+        width: 1200
+        height: 664
+  - title: "Apple, Google, Facebook lobby EU over AI regulation plans"
+    excerpt: "An Apple engineer testing a Machine Learning feature (source: Apple) Apple's John Giannandrea, senior vice president of Machine Learning and AI Strategy, is in Brussels as European Union officials begin planning regulations for Artificial Intelligence. Separately, Google CEO Sundar Pichai has been to the city, and Facebook's Mark Zuckerberg has ..."
+    publishedDateTime: 2020-02-17T18:37:00Z
+    webUrl: "https://appleinsider.com/articles/20/02/17/apple-google-facebook-lobby-eu-over-ai-regulation-plans"
+    ampWebUrl: "https://appleinsider.com/articles/20/02/17/apple-google-facebook-lobby-eu-over-ai-regulation-plans/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/17/apple-google-facebook-lobby-eu-over-ai-regulation-plans/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: AppleInsider
+      domain: appleinsider.com
     quality: 57
     images:
-      - url: "https://images.livemint.com/img/2020/02/17/600x338/2020-01-30T114805Z_148678691_RC2BQE9Y9Q8L_RTRMADP_3_EU-ANTITRUST_1581912675356_1581912712630.JPG"
-        width: 600
-        height: 338
+      - url: "https://photos5.appleinsider.com/gallery/34567-62480-000-lead-AI-xl.jpg"
+        width: 870
+        height: 485
+  - title: "Fear Of Big Brother Guides EU Rules On AI"
+    excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI),"
+    publishedDateTime: 2020-02-17T14:06:00Z
+    webUrl: "https://www.ibtimes.com/fear-big-brother-guides-eu-rules-ai-2923718"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/17/the-eu-commissions-digital-policy-chief-margrethe-vestager.jpg"
+        width: 1024
+        height: 682
+  - title: "10 Rules Entrepreneurs Need To Know Before Adopting AI"
+    excerpt: "Rocio Wu offers insights into how entrepreneurs can start riding the wave. Although adoption of artificial intelligence (AI) and machine learning (ML) for the enterprise is still in the early days, the technology has matured enough for entrepreneurs to start gathering inspiration and evaluating opportunities for potential applications."
+    publishedDateTime: 2020-02-11T16:03:00Z
+    webUrl: "https://hbswk.hbs.edu/item/10-rules-entrepreneurs-need-to-know-before-adopting-ai"
+    type: article
+    provider:
+      name: Harvard Business School
+      domain: hbs.edu
+    quality: 17
 
-secured: "YItzJ2rMFXkZcDCpJWhMtZl0G6csat5HDZgW9bOz/XzI+VMmsNzR3Tcoluaf+QIAsF+u9VEqNU8cgXWKucZOddl7ZwGnS7Dssm2+fM3nT3X8pzxk92WuVDVkLgL4LM6u0+tEWhHtyiEj7RQmbw1GMbjU0yxB1ZZofrrY11svjr4ZJ/hZM/wqYk+72RsKqOOqH7Fo1hxjkj12v1qQSxP4+/PcWMIiP+d/gExDNvHpbPNtOcmSlHIstkmpRTI/zF09HPGNgqFd0FGAoZ4kArOdiXIGBh3evjv6KoiRfBEF86wUAWM7o7TulTT7eNa3n/xl;RPpPz6Nz6EjTMG5NN5MbVg=="
+secured: "Q1LVa+JFn7vBjbEe8lijKxAMt7x9+/5zwqQJCqmy6TlU1HadfeBfVeNf7/pMlFBN/0Rortat3y3sjuUuUw5Ogw5fbwqr3Hvw2OiKHJ0CY81ZN4gNnjIz4zqcOYwEhFINt4787f99+4OgGBKDPBIXKvOI1zJEeg6uhQnmgvzjm6q5N5RS8z6H2lgWIPEUOLa1+qsBK1RrqXKB2xCKYlQCLoT7IzXvLAwDPBjTvOCcZl4URXozxtBmYnBW3GC6z7y9cIqY6ntjSWRpu6kyVt6p6wPXP8zxsHcQU0TJIlFmNOrV69Ddh67BgA2uu4GEgMq+;jpGX/fQOEZ/7d0gmuDEfSA=="
 ---
 

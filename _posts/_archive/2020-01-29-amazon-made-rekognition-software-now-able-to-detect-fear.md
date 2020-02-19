@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/video/amazon-rekognition-adds-fear.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 630
     title: "Amazon-made Rekognition software now able to detect fear"
 
-related:
-  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
-    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
-    publishedDateTime: 2020-02-04T19:16:00Z
-    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-
-secured: "zqQKmIyGfGiaJK0/DAtPCLVSN2Uzr5wNQ6iLi9ktTwQ+t2bxaqRa21hI1z0n9E08eaXPUkzAaQbtQyUpQpRGKdON/n0Nf5Ri4P8MxOI+r5MXxGl2T52pr7qzftrTAQtIjsNEYnAs320IUGtWa7/VCPtWmvHBU14O/I8EwPXmv1f3tP9OVN7yJlwosl89bGJ6I++xP/eq87MqJPnrGmzwe03+ATX9VcM6xrS6hr/SpFkySE6YDF7/LLD7/YUOlzXvcU+7mqzqW/RkQEBP0pKJlWkLih/Di0vuS2NWjNJb0JjiQVrN+DNVv7ALcqaY4bIO;EGIB3C4DUfFLfQuG5/33WQ=="
+secured: "AaGCBhMR47ApB2vVytCuzmrwXq/KeH5kEpuwObxrDnEOgndwfCv3UsvBjt/1Ve112kbMTwYPZ67fKjj0b5QaIkwKVCqb1XchuQHzoXh0ZRkrL6re71viT5ja10TO/IyqlnYSR1hwL2+0PeOT0kWyrsFu6zql49uH1sFLOCx17diUFvdizpygyESTrVg9/7eaDxDF8PRXN73z9CtuL/G+ik4X7dvsXSOMFDj2OOEUCoyAx+xZTjPKreKKYx87On+0RFqO2kJKIQuCls0ICXkPbmCFXtnm2jbIA/QshN5MuM7VvZScHoYrT2gI30EoPwrb;fkcO81UuCb/0JQiMkRnnLw=="
 ---
 

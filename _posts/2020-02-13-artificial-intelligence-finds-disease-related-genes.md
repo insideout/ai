@@ -24,6 +24,21 @@ images:
     title: "Artificial intelligence finds disease-related genes"
 
 related:
+  - title: "Report: Artificial intelligence finds disease-related genes — Tdnews"
+    excerpt: "An artificial neural network can reveal patterns in huge amounts of gene expression data, and discover groups of disease-related genes. This has been shown by a new study led by researchers at Linköping University, published in Nature Communications. The scientists hope that the method can eventually be applied within precision medicine and in ..."
+    publishedDateTime: 2020-02-19T13:10:00Z
+    webUrl: "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/"
+    ampWebUrl: "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/"
+    cdnAmpWebUrl: "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/"
+    type: article
+    provider:
+      name: Tunisie Soir
+      domain: tunisiesoir.com
+    quality: 59
+    images:
+      - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/02/Artificial-intelligence-finds-disease-related-genes-1024x683.jpg"
+        width: 1024
+        height: 683
   - title: "Artificial intelligence trained to find disease-related genes"
     excerpt: "Researchers have developed an artificial neural network using deep learning to identify genes that are related to disease. An artificial neural network has revealed patterns in huge amounts of gene expression data and discovered groups of disease-related genes. The developers, from Linköping University, Sweden, hope that the method can ..."
     publishedDateTime: 2020-02-17T14:34:00Z

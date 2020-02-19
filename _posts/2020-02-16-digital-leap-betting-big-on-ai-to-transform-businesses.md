@@ -35,30 +35,6 @@ related:
       - url: "https://www.cmswire.com/~/media/4f6ff12791384bfcbfe2ca1e08d4e283.jpg?mw=1024&hash=87FABE1B6A8C20FF6582B0B72E28EF165144DB1C"
         width: 640
         height: 480
-  - title: "Microsoft Cloud is powering the digital transformation of Myntra, India’s leading fashion retailer online"
-    excerpt: "Amar Nagaram, CEO, Myntra By building and centralizing its data platform on Azure, Myntra is also applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to ..."
-    publishedDateTime: 2020-02-19T10:10:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-cloud-powers-the-digital-transformation-of-myntra-indias-leading-fashion-retailer"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
-    images:
-      - url: "https://i1.wp.com/www.onmsft.com/wp-content/uploads/2020/02/myntra-microsoft.jpg?fit=940%2C570&ssl=1"
-        width: 940
-        height: 570
-  - title: "Myntra accelerates its digital transformation journey with Microsoft Cloud"
-    excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real time ..."
-    publishedDateTime: 2020-02-19T10:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
-    type: article
-    provider:
-      name: ETCIO.com
-      domain: indiatimes.com
-    quality: 37
 
 secured: "bd1I//+E7H5yqeth+xBxZ6XiDN5HwUjlJTpL7MAArzFKAPBz9is490RdwDmBgIbRAfS5zHOYI38LjHBHGnUGxV+Dm78xQhVKF1g9JfloZ+L76/oIBX18cPsFJE3t5eDpmH4bo1mJjVv8SsDh1MTD2WHoBOHZYA7R6iPnxbhzfOdySE7J2J/sUVGLh9JI1mZ0dE/Ql9MYePx8xnqpG0qezxQA3Xq1bZCbZ3WGQkqdfKhwZJLOU7SzpZwrAjS+EqwOmPxdRM1OJR1Ina+fyBkbM5OOlGPGQWs9BDcoA99dAbOD9RRRhksQJu4diWjZEU2aCfIXFwocnGxJvLNYF9BR92EirjiIyWlrpQo7tZYuNe4BcoGCpxIi1hFOcRcJ283poB1MY5JZETjzwyffE+ypZjOa9/ynGyNHJ1ujMTAkmilVjtPEnSisQE4+bT57FnqhaYLyeJCYIfV50T0hB8VNDyah3zs1pBKBOGF+17FyXAM=;LFRcOk+2K/OBqamxPCyZpw=="
 ---

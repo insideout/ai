@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "AI For A Competitive Advantage"
 
 related:
-  - title: "Artificial intelligence 'sees' quantum advantages"
-    excerpt: "What the Russian researchers did is they replaced the experts with artificial intelligence. They trained the machine to distinguish between networks and tell if a given network will deliver quantum advantage. This pinpoints the networks that are good candidates for building a quantum computer. The team used a neural network geared toward image ..."
-    publishedDateTime: 2020-02-04T20:00:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2020-02/miop-ai020420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/223415_web.jpg"
-        width: 626
-        height: 426
   - title: "AI method determines quantum advantage for advanced computing"
     excerpt: "Classical computations, by contrast, tend to return only bulky approximate solutions. What the Russian researchers did is train an AI model to distinguish between networks and determine if a given network have a quantum advantage. This pinpoints the networks that are good candidates for building a quantum computer. The team used a neural ..."
     publishedDateTime: 2020-02-05T12:33:00Z

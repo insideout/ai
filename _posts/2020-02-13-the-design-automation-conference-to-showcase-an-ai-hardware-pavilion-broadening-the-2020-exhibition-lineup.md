@@ -112,6 +112,19 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/13/Andrew-Yeoman_trans_NvBQzQNjv4BqF6ZbFw_tp6Di2QbhEmANynGTJFJS74MYhNY6w3GNbO8.jpg"
         width: 1800
         height: 1125
+  - title: "Conquest raises $3 million round with Portag3 to launch AI-powered financial planning"
+    excerpt: "Financial planning FinTech startup Conquest Planning has raised $3 million CAD in seed funding in anticipation of bringing its software to market sometime this year. The financing came from Portag3 Ventures and the FinTech strategic investments group at Eight Roads. Conquest marks the first Canadian investment announcement for Portag3 since ..."
+    publishedDateTime: 2020-02-19T13:18:00Z
+    webUrl: "https://betakit.com/conquest-raises-3-million-round-with-portag3-to-launch-ai-powered-financial-planning/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 32
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/carlos-muza-hpjSkU2UYSU-unsplash-2-1024x729.jpg"
+        width: 1024
+        height: 729
 
 secured: "KJAjQ8gnLg7aEN3ZEmLBj2xQ0Va1fF4t/E0eB3Bh0jwOv8e/aLt1Hzb7ArNq9CJkvBYyvK6fIu69wZ/JKdmsV/4GrcmgNjyB2gNsabZssv/0YYyQ8GABi6kebDs7HMNH0oLvpKMw5hqjLJJXQsYLrJkGTbOwZowdAHFtN9xNnuTg+5jHVPBB6NjzM1uIL3vR4/FH1U5hjUG5GiED50/JXWfsknLIINudRhXFmEuS2NIhQg5XdPPQpR8q1k0kfPcptrh8zUb62m+cSvuI6azIN8eOeFtY9jG24Q7ktWEe7BG9uWuDKipz4CWwRfSRPXQf;wxXloWjmVfFEAMGh/PKsdg=="
 ---

@@ -34,19 +34,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale"
         width: 711
         height: 558
-  - title: "Artificial intelligence 'sees' quantum advantages"
-    excerpt: "What the Russian researchers did is they replaced the experts with artificial intelligence. They trained the machine to distinguish between networks and tell if a given network will deliver quantum advantage. This pinpoints the networks that are good candidates for building a quantum computer. The team used a neural network geared toward image ..."
-    publishedDateTime: 2020-02-04T20:00:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2020-02/miop-ai020420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/223415_web.jpg"
-        width: 626
-        height: 426
 
 secured: "1czqt3+G0FHoGqWurPuO4uz/oj6+unHZ5XuIrTr2VYwx0G78gkfKAXRvXsiw12c5u6Xcxa2+YBWzMDVnVx8S/dGta+wVdVH795+yQYIBiVt7l6wT8yoiUKvjwpk6c55HgXkkaVcqJEwneVFRgqJCaF6VQiBZru0fzn7SMZR7dKTU78IEGqyYVMGfrCHNo4ID/cBh9M4+Ea6ze2aHUTQBcza2UIc6/zFjC6xQQ/heAqdQ/TWRNywphT75gB2VMrwndSYuu157jHo8cQJilg1JzK6Pj9+UxkIEg5u/NjQAUvQaJQj5+iTjOPbhCswKwWO0rGG+JSYEg5uAJgIAygeiv5Pii1XA3Has0uqdMAlu85Quz8UirOqoJxko6JakRRb/phbtPXe+CxsfL8KlElC/zBX3Vu2k4SuPXHvKPeYWP5V+rvyhl1fRnlwu3fQhSKFbmyMrmB9O4UaOfdRVRs9QW1u0dGucEXQdOTf4omFCSZI=;EDRsvWmkFAEdUXetfL3yXA=="
 ---

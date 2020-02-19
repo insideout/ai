@@ -39,15 +39,6 @@ related:
       - url: "https://media.voltron.voanews.com/Drupal/01live-166/reuters-pictures/2020/02/RTS30RFB.jpg"
         width: 3988
         height: 2948
-  - title: "Japanese robot could call last orders on human bartenders"
-    excerpt: "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitors customers to analyze their expressions with artificial intelligence (AI) software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada ..."
-    publishedDateTime: 2020-02-04T20:02:00Z
-    webUrl: "https://www.unionleader.com/news/back_page/japanese-robot-could-call-last-orders-on-human-bartenders/article_80d9ac59-fe9a-5875-8512-9324a06e0222.html"
-    type: article
-    provider:
-      name: New Hampshire Union Leader
-      domain: unionleader.com
-    quality: 19
 
 secured: "C50Kv0jr72xgEM15h1513l5p8r2XBfNpL7r2XImEapwnwnq8Q9ckvsExM9d6KvlLjBkPtO9G3z/ntmOtMIjx63EWBQA7XbsixKX8kfQPPEQv8weTP2DIwrjA1uGwi8aSh3MyyEIuuaxbC1SmYBxQF1frcx9tHE72c4OyzwLdP1Y9vnL5yJWP4GRexOXD5csNXSLmG5etujzEMExyFtdCtfbzSI+qxtaDfoFmZ85s8v7LDr61pqJPvPNo03N5Yya9vYoMslOpBFmVEjwWZhf3krFnXNbPPCfktsPXr1saF53+fLXgNKG7g2iNKtFpAtG/;fztgsBI6kStLCSzv96bnOw=="
 ---

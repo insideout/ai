@@ -2,6 +2,133 @@
   "page": 11,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-12-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-stock-price-up-0.md",
+      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Stock Price Up 0%",
+      "excerpt": "Shares of Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) rose 0% during mid-day trading on Friday . The stock traded as high as $22.60 and last traded at $22.42, approximately 4,672 shares were traded during trading. A decline of 99% from the average daily volume of 429,400 shares. The stock had previously closed at $ ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.modernreaders.com/news/2020/01/12/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-stock-price-up-0.html",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/01/12/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-stock-price-up-0.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/01/12/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-stock-price-up-0.html/amp",
+      "publishedDateTime": "2020-01-12T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Stock Price Up 0%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-12-how-the-police-use-facial-recognition-and-where-it-falls-short.md",
+      "title": "How the Police Use Facial Recognition, and Where It Falls Short",
+      "excerpt": "So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Fla., that began almost 20 years ago, when law ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html",
+      "publishedDateTime": "2020-01-12T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/11/multimedia/11pinellas/00pinellas-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "How the Police Use Facial Recognition, and Where It Falls Short",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-12-microsoft-outsourced-skype-cortana-voice-analysis-to-china-with-virtually-no-security-in-place-report.md",
+      "title": "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report",
+      "excerpt": "According to the Guardian, workers who were tasked with transcribing and vetting these clips in order to improve Microsoft’s voice-recognition technology were given no cybersecurity support to keep the recordings from theft or seizure by governments. A contractor on the project, who was based out of Beijing, told the paper that new hires ...",
+      "heat": 68,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163",
+      "ampWebUrl": "https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp",
+      "publishedDateTime": "2020-01-12T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--yLbSiilu--/c_scale,f_auto,fl_progressive,q_80,w_800/rnlvvsunsjuyaznjm5th.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-12-researchers-are-we-on-the-cusp-of-an-ai-winter.md",
       "title": "Researchers: Are we on the cusp of an ‘AI winter’?",
       "excerpt": "some researchers believe it would be wrong to call this new phase an AI winter. Robot Wars judge Noel Sharkey, who is also a professor of AI and robotics at Sheffield University, told the BBC that he likes the term \"AI autumn\" - and several others agree.",
@@ -1971,116 +2098,6 @@
         "AI",
         "Computer Vision",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-deep-fake-imagery-manipulation-poses-threat-to-society-not-just-military-us-general-warns.md",
-      "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
-      "excerpt": "‘Deep fakes’ pose a major threat to elections and even world peace, a US military leader has warned. The manipulation of digital pictures to ... \"Those are areas that are of increasing concern across the whole of society, not just the US military.” The process of creating a deep fake image or video requires many pictures of a person's ...",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/",
-      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
-      "publishedDateTime": "2020-01-15T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2020/01/15/TELEMMGLPICT000220631492_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwUTIkwgpo3A-hR5PYllYuW8.jpeg",
-          "width": 2501,
-          "height": 1563,
-          "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-digital-dream-labs-acquires-anki-robotics-artificial-intelligence-assets.md",
-      "title": "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets",
-      "excerpt": "/PRNewswire/ -- Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/digital-dream-labs-acquires-anki-robotics--artificial-intelligence-assets-300987766.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1077064/digital_dream_labs_logo.jpg?p=facebook",
-          "width": 600,
-          "height": 314,
-          "title": "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-digital-dream-labs-acquires-anki-roboticss-assets.md",
-      "title": "Digital Dream Labs acquires Anki Robotics's assets",
-      "excerpt": "Pittsburgh-based education technology firm Digital Dream Labs LLC has acquired the assets of Anki Robotics and Artificial Intelligence assets without taking on any liabilities. Financials were not disclosed.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/pittsburgh/news/2020/01/15/digital-dream-labs-acquires-anki-roboticss-assets.html",
-      "ampWebUrl": "https://www.bizjournals.com/pittsburgh/news/2020/01/15/digital-dream-labs-acquires-anki-roboticss-assets.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/15/digital-dream-labs-acquires-anki-roboticss-assets.amp.html",
-      "publishedDateTime": "2020-01-15T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/6817752/254283*600xx800-533-0-18.jpg",
-          "width": 600,
-          "height": 399,
-          "title": "Digital Dream Labs acquires Anki Robotics's assets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

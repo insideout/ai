@@ -98,6 +98,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/photo-1478486982180-2de2fafa19f9.jpeg?fit=1502%2C751&strip=all"
         width: 1502
         height: 751
+  - title: "Conquest raises $3 million round with Portag3 to launch AI-powered financial planning"
+    excerpt: "Financial planning FinTech startup Conquest Planning has raised $3 million CAD in seed funding in anticipation of bringing its software to market sometime this year. The financing came from Portag3 Ventures and the FinTech strategic investments group at Eight Roads. Conquest marks the first Canadian investment announcement for Portag3 since ..."
+    publishedDateTime: 2020-02-19T13:18:00Z
+    webUrl: "https://betakit.com/conquest-raises-3-million-round-with-portag3-to-launch-ai-powered-financial-planning/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 32
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/carlos-muza-hpjSkU2UYSU-unsplash-2-1024x729.jpg"
+        width: 1024
+        height: 729
   - title: "The Design Automation Conference to Showcase an AI Hardware Pavilion, Broadening the 2020 Exhibition Lineup"
     excerpt: "AI hardware is driving the largest wave of chip-design activity in decades. Understanding and harnessing the enormous computational and application potential of AI is fertile ground for new ideas and startup providers. Converting these ideas into working hardware circuits and systems is the core value of design automation, and the major ..."
     publishedDateTime: 2020-02-13T16:34:00Z

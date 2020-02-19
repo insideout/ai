@@ -50,6 +50,19 @@ related:
       - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
         width: 1200
         height: 628
+  - title: "MathWorks Named a Leader in the 2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "BENGALURU, Feb. 19, 2020 /PRNewswire/ -- MathWorks today announced it has been recognized as a Leader in Gartner's 2020 Magic Quadrant for Data Science and Machine Learning Platforms. Gartner's evaluation of MathWorks for completeness of vision and ability to execute led to the company's position of a Leader in 2020. \"To us, being recognized as ..."
+    publishedDateTime: 2020-02-19T13:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mathworks-named-leader-the-2020-gartner-magic-quadrant-/2020/02/19/9100355.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "+JBmiXNyakryPXhAfH5OAE20aYJrgzN7r+3KXGlPTzK0MrvJ0oXFwPl/sE81d8edpEJk3RzpuXrnPHHJ4uTZ/NHNnBsIDAOTXO3Q8GSQTCDv1+4rw9VFChn3tVqsps/TCcjjaQMLPywXY6PzqM6JQxTDkRMiiz8vIl7KVi7Y2Pyo2ypsLNuBI9nl0K6VAUXHhp8y30JLblScwbh36UH1mJaXE1khh83oKpwd4QPMdeSV0IYi1OxwUwYX8/izM+n2xN/HVkaRmjQZmdGWFBKrtGU06nblMaM1pPR2t0gKzPbS5su7nLrF3T1pZa6d10/ZFWFQVO/9y9OZu2+h2N009iVfnM9kJ/ODGOw2cZlYFHGQzJEI9/ITKBf9p7ZRJj51UBBICExL3YPhJObwSCueRuGGJ64cEdmjKm53Bu7CnyPJznWaQ4cqxuE+wA8sZYr4PmzbKPvNgdHPWVGXXIN15XmU2FKbN/jx+HP+4asthm0=;/49Z41FU4HEjGmBLCFGMyg=="
 ---
