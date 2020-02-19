@@ -1,11 +1,11 @@
 ---
 category: news
 title: "iGA Chief Executive Al Qaed participates in Sharjah Forum for Contact Centers emphasizing"
-excerpt: "Information & eGovernment Authority (iGA) Chief Executive, Mohammed Ai Al Qaed expressed his appreciation to Sheikh ... eGovernment Authority in this important GCC event comes as a translation of its commitment to the guidance of His Excellency General ..."
+excerpt: "Mohammed Ai Al Qaed expressed his appreciation to Sheikh Sultan bin Ahmed Al Qassimi, Chairman of Sharjah Media Council, for his generous invitation, stressing that the presence and participation of the Information & eGovernment Authority in this important GCC event comes as a translation of its commitment to the guidance of His Excellency ..."
 publishedDateTime: 2020-02-19T13:34:00Z
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/iGA_Chief_Executive_Al_Qaed_participates_in_Sharjah_Forum_for_Contact_Centers_emphasizing-ZAWYA20200219125220/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200219125220/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200219125220/"
+webUrl: "https://www.zawya.com/uae/en/press-releases/story/iGA_Chief_Executive_Al_Qaed_participates_in_Sharjah_Forum_for_Contact_Centers_emphasizing-ZAWYA20200219125220/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200219125220/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200219125220/"
 type: article
 quality: 35
 heat: 35
@@ -25,6 +25,6 @@ images:
     height: 878
     title: "iGA Chief Executive Al Qaed participates in Sharjah Forum for Contact Centers emphasizing"
 
-secured: "OyDiHvpPpyquZZgc3UZbYhcxz7G1dIjNzJxZPm1d7kSHpkKhHaJQWNXnFfIMQ+lejcJU559F7WvMNf7FzxGCLalnZT4n/mdlwp8rvXsDFNk8feWwsU+MtGXTQPoBuKop3/9I52Wj5MSI6yHDM/BN1sXslWrtk8XVOiKxPZjObwwP7LT2I+gJZTs8vYh9zLg0T2DDgwO1d+pK2khnkYa/D74jd3n0TMubQVHG7d4P6bCqlTHqbBKmof7GHV9ossD6QcghK91ojqlkauRlGvcnJYiVC03YiTG90jSUqUvrPH/OYicmrhZcheSD93qD0Czy;AS0zx41u/sY9ZzwRCcanfA=="
+secured: "D8Wfm50+lOWwqw3uz5W3CEKVfqoFKiY8mDlR5WFP3D1TUvve1Ni27mgWcvyVhYM1EDCEAck5yC/H+1ps0LYsGrUSYPGeJvlQ5O/BLSzeNYxfHz3eS3auiV3yS5Marnd81fswqbgEP4TuKflbi1O89mOeSSA0vLOLgERRHGpC/dXidxTfmSyjnCRhPOjOmSO3dcHOnPNNaHpgemcHZWlw/Y4MTq8/R6kiIl0jv+btffqWqk3t45H3Nge7iDAzcKDRPZt79/NFqUQVTniOgpIj+oXBl5EPv2QWTUMIQtEGnT7498NCFwiGbjPLT2YjwM6G;QKo5mET3p9SuKum2y3mGBQ=="
 ---
 

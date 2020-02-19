@@ -18,11 +18,11 @@ topics:
   - Google AI
 
 images:
-  - url: "https://hackaday.com/wp-content/uploads/2020/02/DataDNA-thumb.jpg?w=600&#038;h=600"
+  - url: "https://hackaday.com/wp-content/uploads/2020/02/sketch_thumb.jpg?w=600&#038;h=600"
     width: 600
     height: 600
     title: "Tensorflow Tutorial Uses Python"
 
-secured: "ey2XNmKqMRsbqczibuxHenP5hqpPx9RaeSTa8TReAF1OYKj/CSatj1+bD9FBoWUsAFRaJSQ64bgDTBxUD3/6WJndthQMxcLZ3GVokhdFJQm5FtTEII0WBdnrVBDJs0cqFEnuY/Og8wwRN8gY/bbfsifGA3jD6WZA4vLZqVVlcXj0v8oWQaOHLJ3mIyp2hiLX/KBS6wdUY9EnVOQKIau/smvdV4bEA8GqyuafAng+C7G0DuuVuQ7H6Js5fBdzOiKaxPPpW53FAP5g4yiMmDZ9IFO236aSSRNBwUU+/vlPVjIhAXZ0HIBd0C+8kQlvUIGK;sA5hmdCK3bxdiQYaFYH9dg=="
+secured: "c5WmZo78M1vCHumVrJKHCC8X8eenjKV5ku/w6SUbKA1Z3e3WOmhat2GIZWOjZiuVtHHF8iNdERxHEJaLng+qRdxd5KGvPAbRXo6O4zFxOnu7VyY/J7JZV2T54bySw308hrn2ewxaZWHB+AGnvwlE6EthS7gWJ+xdB+Wv2e40XmixvHx5ofx0kWVPVbGUKvzf1918GO4mC4nehr7WhuPv3ObhR9JZuq4lJaJpjMcKBvz2bFF7VbVL6fxe67AdykMnndCVk1GHmkc3OQVFgumqh6sZgPa6DSQFbnP42HeghJ8UtDSAiAMODpME1pCTtyJ3;55nUlNKLAHH2HgY8pz2TSg=="
 ---
 

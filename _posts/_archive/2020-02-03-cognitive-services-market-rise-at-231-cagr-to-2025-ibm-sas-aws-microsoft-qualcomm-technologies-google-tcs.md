@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,21 @@ images:
     height: 630
     title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
 
-secured: "2v7TPwWnWDABV8Ts5m0fBvQ/A8WFbG36hfo0nyoDcsYh1Q74yqZUo9Erzl8MaIXc+Ls/2oYFbPyv+S+Ra3yf3zPTw3kDsCrHoRhiQGg52tgkoATsQPu1XEDUAS19DBeyRhnZbhO+MVQ7v8XASW2pjGyIrNCJ+oeIysCZ9zVIMqztFthkKJhBCoPYSVjbnC54TJRGs6CJjhXS/jo0V/dg+i87arjIdmNPPQxd5S5qwLONhcm9KXDJRKAIwXAeMGEer/mfkpkp/WNIaUwln/8nmykeihv6XUBmFlfyy7wuTPNMxLa8ED5plpmigqs82yqv;Q46mY1hMt/0dQdgBgfqrGA=="
+related:
+  - title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
+    excerpt: "Excellence Market Research has recently published a very complete analysis of the Image Recognition market based on comprehensive secondary and primary research. The report titled \"Global Image Recognition Market 2020 Industry Research Report\" offers the most precise analysis of the Image Recognition industry for the last five years and forecast until 2025."
+    publishedDateTime: 2020-01-31T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-2020--qualcomm-nec-google-ltu-technologies-catchoom-technologies-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+
+secured: "KMLxBlEntOj+0yY2I4SHX2XhW6maq9ErJrwbzqArr9Krd0tIeN0GwEEcHAktUUdu9CLHf/w+IEPs+2KIN3qaE7s4kv+xVeFvMjkZH0cL95iEE7teHLcdRV/XMUDpFl2pgWIP/L0FWd6ftepKIfLhlb50K7wEqvw0NTbmn77iq+0xnTBQ6rSUJ7hvp1qFSog6WLktvH9lcBqJIWmCtAjMKRM/X6fPKqMH7dwXESsoWSVMx200NQspm/Op160gvdjrDiJgoKY31RwSU08RrzxyaF9g2FEr8b0MUkE1opolMP+n3VEfW06KIAge6bnVchVI;K3x6+vQjtUTvC2KWCuPloQ=="
 ---
 

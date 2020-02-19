@@ -66,6 +66,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Predictions for HPC in 2020"
+    excerpt: "AMD has agreements with cloud providers AWS and Azure to put its CPUs on their cloud platforms and promote the use of AMD CPUs for HPC. This interesting move reflects how a lot of our customers are now planning their next HPC cluster or supercomputer to include AMD in their infrastructure design to better support AI workflows. AMD had ..."
+    publishedDateTime: 2020-02-17T16:55:00Z
+    webUrl: "https://insidehpc.com/2020/02/predictions-for-hpc-in-2020/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 26
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/download.jpg"
+        width: 661
+        height: 661
 
 secured: "h3prGAO+gNC+/KraXniPNgpDjf7BO1WA/SpuNFj/drVTDa0zIVSLSz1bh4x37Xv093RA9ggTDhwTb31rvNegg6PyVbylkchXh6xzf6trHJ5mwwjoBnEux2UiMbBuo0c0FasP+LWxO/NJTUitNo8Fehvb3EiaLy/DnTDXtVa2Th10pQUxzUoawwsBOeRsYz1KibiSeJjbUiaOz+T4B+gjNegR46XzccFX5ihM41AlVMgw77Fw1dxl69OjHY4wLAxBEjrYLNXvDo0hOX9jR4/MDgpzwFGxiQ0VBcvKmbKA767oUlUBQ7VnSeedbDeBVotm;kWGHWUJm/iAsGNynHfjcDQ=="
 ---

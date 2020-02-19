@@ -1,46 +1,30 @@
 ---
 category: news
 title: "Google CEO calls for regulation of artificial intelligence"
-excerpt: "“There is no question in my mind that artificial intelligence needs to be regulated ... PHOENIX (AP) — A man described as a disgruntled former Waymo driver has been arrested on suspicion ..."
-publishedDateTime: 2020-01-20T15:16:00Z
-webUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/"
-ampWebUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
+excerpt: "LONDON -- Google's chief executive called Monday for a balanced approach to regulating artificial intelligence ... then scheduled to head to the World Economic Forum in Davos, Switzerland ..."
+publishedDateTime: 2020-01-20T09:12:00Z
+webUrl: "https://www.ctvnews.ca/sci-tech/google-ceo-calls-for-regulation-of-artificial-intelligence-1.4774926?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D104070%3FautoPlay%3Dtrue"
+ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html"
+cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 157
+heat: 177
+published: true
 
 provider:
-  name: KRQE
-  domain: krqe.com
+  name: CTV News
+  domain: ctvnews.ca
 
 topics:
   - AI
-  - AI in Autos
 
 images:
-  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1"
-    width: 1280
-    height: 720
+  - url: "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+    width: 1200
+    height: 675
     title: "Google CEO calls for regulation of artificial intelligence"
 
 related:
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
   - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:18:00Z
@@ -68,6 +52,6 @@ related:
         width: 1200
         height: 628
 
-secured: "VXTobZdZsThpBO/xrfj++Z6UKJ9Cf1edH35741sVAHGuw/MbzpvLBsDv1eThZdOJb5O5Wh6F23h5EvEAxgif3/sdmoTOMLDSikIKAqS46g0SrqAZM/pjvlALHOC/WYhY/Wk2MGYtSQh4wUMmypYCzphf2l0tlNWWCrcul7hXLO+n0NldDRXcbFa4+X1stzUWIsmPnbNwCsO8yOHoAkR6Q5wyS1lR6urFWkEV2903aBCvyHu57npTMcr5zYVkCxAHpVpobGEumf8tNHsoMqR25/fKRtTgqqRK+BILgxl4ZLLz25pze8oXsvhlKpRa43EO;HMeBH16qLAe/igxYSLC8RQ=="
+secured: "PJS4segZI0ewIyinHpCB/Fc7H1n/CmjTWcpkIRXOB0izlaDBahStaOb6a8cTdJI6+IQwWQHQ+JgtFQRULYCFDZxIcrLb3JZO289Nv5Vj9HyTTlbF/FIvo8+T4YwA6Roji4Wb6UPW0tzjbvDO9Cs8v5H7SKJwrupeQDeFvV2aQVx73edUTC55tXuoKczAEa7lCUNsQc87UswVoLk8nYlptIVx+i9dAyU9LeeCMqqTHtax9nbPQxlYw8zbQq5w4r1jhqTU+GgBg+z5sZEXH+iGBaz44MpG2YZtpr9ECraUQ+7tRg4irpWxiMnb96QGRXLqSIuACFwllWJElxURAc2myg==;zWOhLIyrI7evSKyBcWARBg=="
 ---
 

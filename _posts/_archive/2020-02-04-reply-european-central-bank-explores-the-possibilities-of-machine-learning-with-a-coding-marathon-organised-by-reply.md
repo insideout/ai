@@ -5,7 +5,7 @@ excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capa
 publishedDateTime: 2020-02-04T10:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200204005137/en/REPLY-European-Central-Bank-Explores-Possibilities-Machine"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Finance
+
+images:
+  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
+    width: 600
+    height: 300
+    title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
 related:
   - title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
@@ -47,6 +53,6 @@ related:
         width: 914
         height: 611
 
-secured: "2WFiSP6wA+I6tj6xhrBtN3f+xMMwemwDQVc4BELzhXLur3dzCnkV4QFPaZx6Af/rKgwO56QeY3ctgSQkqtrLlc5fJXZf89RAO4jTvmAKgbzZD3COAxa7aFmO0ZnqnqZZXoCD8l0JD8Ou8FR7cTloUR/mMlKpdqQgtg7BJsmkW+/H9t9l6FMwvEUgI+aeu961jBF/Ll2Z7PZggWsijDrBUsSYEPzY6IQ7+Dyd05i0ECAUAMoZwUaGVLNbNaOy0Au3alGNh4L+CBGEKbIZuL2lDyqY0hMmhehuE2h0or9dasuB7czgJxspIL5a5PGSFBpU;mGZ9Iu1TL6mrwxsoG5hfzg=="
+secured: "6BvFKq/SoOy8BCPJUc3m52ll3rGh3DU9hXjhHmbAmp1/K/I04bRLa9KCX6SPwDSnErJo/8BIJq7tSs4ur1pxY8e0jq3feUge+LWWmEbzKiP9Kud7u+wqyevwM/A2tcWcLb3HrUt1BzJFUDLeUpDDKfLV2sVt8/nW2iatkiQFOEfxuk1Uduth4MDyGI/gKfaFuGPd7oHeaKGYoQraJIuf6ZgcmGxooDfQyqs7BJv2sUiaEPYwY0zlXto/5wA9bdIErq1V+6UaB/2DkYkIRhCINvRSkf22LOQ9K3EjpMkN4EVrgoPYN3N+PMg6Zs++0NNm;Tj+Oxj0jXti7XszqFZjw7A=="
 ---
 

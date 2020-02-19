@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-14T05:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -67,6 +67,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Predictions for HPC in 2020"
+    excerpt: "AMD has agreements with cloud providers AWS and Azure to put its CPUs on their cloud platforms and promote the use of AMD CPUs for HPC. This interesting move reflects how a lot of our customers are now planning their next HPC cluster or supercomputer to include AMD in their infrastructure design to better support AI workflows. AMD had ..."
+    publishedDateTime: 2020-02-17T16:55:00Z
+    webUrl: "https://insidehpc.com/2020/02/predictions-for-hpc-in-2020/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 26
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/download.jpg"
+        width: 661
+        height: 661
 
 secured: "jJXoopNeFP8vBJG7cEWSMkBRxD6XBVF0Gom2UuX2jSeRt08MOKyor8j6BUAyKMLRgDyWGixFHq8sc04wxWTwHBfwFiAExgkQyDr6EONADCPY38uVmmGWR+uYptgmBgJx2oDsz/ZlbWCS8odurlJ5yjejSvSnmwYGehpsspa/GoE3PzYHygrkS3oe355hKNlSsnNfKfvGSt9yfOakjqCtz4JdZw919YAJZjwwYtIskHJJVI4T07navWEHzFHu4tVU9srmkOoi4T7a5aqI5JVm3zsbrNz+6P3T2TyMt/H+5Cm5C6h/TLEegeBO14Dp8Bqq;p9VcBjtVE7tXn4U+xIEx2w=="
 ---

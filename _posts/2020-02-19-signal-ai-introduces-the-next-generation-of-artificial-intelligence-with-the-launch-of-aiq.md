@@ -36,6 +36,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200213005155/en/773230/23/LogoMaker-Press-Page.jpg"
         width: 1200
         height: 627
+  - title: "trinamiX Announces the Next-generation of Facial Recognition for Upcoming Mobile Devices Powered by Qualcomm Snapdragon Mobile Platforms"
+    excerpt: "/PRNewswire/ -- trinamiX GmbH, a leader in 3D imaging and infrared sensing technologies, today announced it has joined the Qualcomm Software"
+    publishedDateTime: 2020-02-19T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/trinamix-announces-the-next-generation-of-facial-recognition-for-upcoming-mobile-devices-powered-by-qualcomm-snapdragon-mobile-platforms-301007388.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
+    images:
+      - url: "https://mma.prnewswire.com/media/1092342/TrinamiX_Features_2D_3D_Skin_Detection.jpg?p=facebook"
+        width: 1562
+        height: 818
 
 secured: "PhZI5x3A1nzDTk5pZUJHDpVzl46kwT01D4/2pjhShAbXQmgb7kmiTomGXrrrLoYBaIEUQwhBvehc5Wm6yM53ZhGX4Z7rsCB2rjtQUGK2+rJ8G5nFxG3KTnhzWrOMEf8uedak7q2pa+GVGHO9ZBbz4VyCGcslyTTFiKEm0W0PM1pYcqs9bxgSnWLy+1gp1MCHj8ZPzLlXs63VTNP04NrIACJLEcNh6315x0dCCrFAPJLrlMCgCPsAqzhZSobtfyR/u4YAbz2J6XWDqofTU6rjHE3X7YbqL2nZcy9LIS0A3Grv8B0jrUJ2EquwsAH6Hc+t0HyCYyA/rjegEIdES2j9nm+2RJj4+OePsMqJVHXNDyoHs2/GHv4XhiUJeyPAiDvqW42VUK7D1K97GbXyI5SPpv+NwjDAcwVSBh4fCU1L9AKykmE+BVj4lQHqfjtV0eE7NvX83SNzbHtLsgQM1w3CC8TGJXt+et/uHOgSbPQ9R1Q=;SVyVvYzdGTCFS2o6mmZaMw=="
 ---

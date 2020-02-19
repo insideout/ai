@@ -20,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2019/01/Uber-378x213.jpg"
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2019/04/office-appointment-appoint-joining-378x213.jpg"
     width: 378
     height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "/QXG+U2+LvjS1/oaN4a7WtcCVXhDnkOvQ/DweH+UI53E7OsMIeAjpLrLmBFu0mYLNBRD7QZ5nQJ6nN+y+VUwbVca9GMy/iWfIWeoE4Ywn2nEbAUncwxhaPZ8K7Go4vcOBYAMkZmHIPX7SNrFgZ+Wg2gPAcr3aO4AqDyyt2CIjGnUNaPhz4+eD9hW9lSdhxZjIFAyA62kdIUSiTqErFMVofZClOF6wDJuNY+OBGiiRIUM2U4uCtH62EY3lxIBUglvULdECHzs6NDpk1pJ1ytMtm4fSu3HeZfkqMW5FjVz4wGERNO4lSsmDlpo4ufPTnh9;5Yqs4qRKnUoUq6LMAoanzw=="
+secured: "JxM1L1PfXDRjEhPkk0/JbmuZl5FuwnPHCOOQ3oyStdsBw3z+/5G9w1RC/cqaEWGY4zLAyP06WTATE5rscw8DMkJV+VdzCZmlyMzBrznYqKj9KvRN0BmU6VwLnqIqoOFalwGgXfAlPpe0MMyWLJxm5N6ZdUvPP6r4xy3RbEOZvblPF340I2JZwjps4EwisAYOxFeqQubHaw8wqHLg7jIJ38/XaCUJMV/N/uynMs7bQisRHe5PM2bufM2Q70kc9ieN1H6Bj9g9fbY8ZVNam78TSL3fDOtrP+m3UYXrrVEuh+sAfUDkVrSyzXJj0/lAGgmf;WR335K7V6wHR64/9dcAgdA=="
 ---
 

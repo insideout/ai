@@ -18,15 +18,15 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Is CoaXPress the Best Interface in Multi-Camera Machine Vision Systems?"
-    excerpt: "AMR Innovation Arrives at MODEX 2020 Discussing ATX West with LMI Technologies COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES Deployment of an Automation Solution - Process, People, Technology Cobots Versus Industrial Robots First introduced in 2008 by the CoaXPress Consortium, the original version of CXP supported a maximum data ..."
-    publishedDateTime: 2020-02-12T22:24:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/02/12/is-coaxpress-the-best-interface-in-multi-camera-machine-vision-systems/14852/"
+  - title: "Artificial Intelligence in Manufacturing"
+    excerpt: "Thereby, increasing usage of robots, Internet of Things (IoT), and big data technology is expected to propel the artificial intelligence in manufacturing market significantly in the next few years growing with a growth rate of more than 50%. The global artificial intelligence in manufacturing market study presents historical market data in ..."
+    publishedDateTime: 2020-02-13T07:26:00Z
+    webUrl: "https://www.openpr.com/news/1930553/artificial-intelligence-in-manufacturing-market-2020-global"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 4
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "LlWk+Vw04NPh/ihbgRYPsXVcQdinpMGRbsaOez1Rv4NDzNBDcHEfaUJ+5textp7iJEpav9TJoYMrCFICKj4E8Vf53WdMegEV+472hpTEIGgSTEu/0BjsdoNIRJT9zjgW177F3igGoI7y0AIbtgZ/WXiLDyBr8gzUdtzoyAhTv8QyeyU6+uBHk61hiacPBmX0FEeo6vtU7eAO7Vi1J8+8FWVqgQwfGu43wsav/jbodhYYRZ0aF0T3EMIeOti90wi7dF653mEM+hD4HU46ZvwAT2KiWa5iUx7Al0z20frfUzZa0jGBP8LEjsv4/2fmo+uA;1ejhWg69jtV4UIo7BmYpOw=="
 ---

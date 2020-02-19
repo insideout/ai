@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Oracle Announces Oracle Cloud Data Science Platform"
-excerpt: "/PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data"
-publishedDateTime: 2020-02-12T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-oracle-cloud-data-science-platform-301003588.html"
+excerpt: "Oracle Cloud Infrastructure Data Science automatically selects the most optimal training datasets through AutoML algorithm selection and tuning, model evaluation and model explanation. Today, organizations realize only a fraction of the enormous transformational potential of data because data science teams don’t have easy access to the right ..."
+publishedDateTime: 2020-02-12T13:20:00Z
+webUrl: "https://www.oracle.com/corporate/pressrelease/oracle-cloud-data-science-platform-021220.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Oracle
+  domain: oracle.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
+    width: 480
+    height: 480
     title: "Oracle Announces Oracle Cloud Data Science Platform"
 
 related:
@@ -73,6 +73,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "z3wpUSsI4nbOSIiYqtvAS82/SysS46rR2FRVWzVlkSDxKd5hazIorC6/SvlJKas5QASoNuo7f0wQbnLlbk/jiBlgjY9UP2zXpOShn5R1ps+/lbXFguLwPtBVELsosKmFGhRAwsTwkFsYaWgYT0qXNRMPTrvWCl1rD73915PYPd/+1rNkUIIzgyD2pK6PGQmhuVzRWxtCTuGVHWPYnbdGq6LDvKBtpk07REDpWItnaWPBpp1JdV/5pTqyPv5O6Lt9Bs260phf5hpzVVpzDJKvE2bQhPWzvliF+CC0pgk0V/T9/YHKjrbKzy2mR9SBEhcYyX1SN0kI4QylTxlSaQ1LCVtaV4/liT9IvulStdAY2PKzi5r0oIvkOkI3YhL2jyCE0mPE0qn7G3W6L0KqFFskCd8IYRDeudEr+4o9aUV2JEPmg3izTGHb9tr3EUXQ/Rz//BH1oumGwOkRDnjKmt3xO9jjDjLBY18wuB7RwkYc6CI=;oAJhdjKgNQ7FSLwi7+ec/g=="
+secured: "HYZC+M/vVAkGdeeBS0r3RBKJMLXGXAT00UqIjoz8eZ5/McrnbN4iti/mX6B4Adthvpng5rR5w3AdRXuna8Xxtke+zMZppzr2dTgJOJBzOJ5kYD5S5fj8tH8g27gl8A65DPDwpy3PxiRU/KJqOMFFGmKGlRQhRSfc2mLKoPqw5dre3aa5VJKV06c9Fyl+U+kaHzlyHSCHpZ1wVKjnwQmtNNMiVJ8d/1mcJYIAh/e+CB57Oj9HHD5qG0I01inXoq96tWzSlHxkvOQUnfhlcSBVWm71X36l9vgUaJxmeskzea+Bmhoj0Bwq7mbgvRxrJp1D;er3a/nsItXFqdr1vy2Y5QA=="
 ---
 

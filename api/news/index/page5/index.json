@@ -2085,16 +2085,16 @@
       ]
     },
     {
-      "path": "_posts/2020-02-14-humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020.md",
-      "title": "Humanity In Focus: Five Predictions For The Healthcare Industry In 2020",
-      "excerpt": "In 2020, the pendulum will swing back and put the emphasis where it belongs: on using technology to improve the lives of others.",
-      "heat": 119,
+      "path": "_posts/2020-02-14-hypodermic-needles-left-in-self-driving-cars-is-an-ominous-harbinger-of-whats-to-come.md",
+      "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
+      "excerpt": "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse.",
+      "heat": 76,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/amp/",
-      "publishedDateTime": "2020-02-14T05:32:00-08:00",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
+      "publishedDateTime": "2020-02-14T06:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -2113,10 +2113,10 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/941446382/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Humanity In Focus: Five Predictions For The Healthcare Industry In 2020",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831",
+          "width": 1200,
+          "height": 800,
+          "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
           "attribution": null
         }
       ],
@@ -2126,7 +2126,7 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Autos"
       ]
     }
   ],

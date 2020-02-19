@@ -23,6 +23,19 @@ topics:
   - AI
 
 related:
+  - title: "Elon Musk: Everyone developing AI must be regulated — even Tesla"
+    excerpt: "Elon Musk wants every organization developing advanced AI to be regulated ... and collaboration.” Judging by his reply to Hao on Twitter, Musk shares the sentiment. OpenAI was founded in 2015 as a non-profit, but last year announced that it was restructuring “as a hybrid of a for-profit and nonprofit—which we are calling ..."
+    publishedDateTime: 2020-02-18T13:36:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/18/elon-musk-everyone-developing-ai-must-be-regulated-even-tesla/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 167
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-18.png&signature=ccc63db991ed8ae7a56e57ddcdb0a17c"
+        width: 1200
+        height: 600
   - title: "Elon Musk says all advanced AI development should be regulated, including at Tesla"
     excerpt: "Tesla and SpaceX CEO Elon Musk is once again sounding a warning note regarding the development of artificial intelligence – the executive and founder tweeted on Monday evening that “all org[anizations] developing advance AI should be regulated, including Tesla.” Musk was responding to a new MIT Technology Review profile of OpenAI ..."
     publishedDateTime: 2020-02-18T14:24:00Z
@@ -38,6 +51,17 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/11/AP_18296801176372.jpg?w=1024"
         width: 1024
         height: 658
+  - title: "For The First Time Ever, A Drug Developed By AI Will Be Tested In Human Trials"
+    excerpt: "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last."
+    publishedDateTime: 2020-02-12T02:10:00Z
+    webUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/"
+    ampWebUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
   - title: "Elon Musk Thinks All Artificial Intelligence Needs To Be Better Regulated, Including At Tesla"
     excerpt: "Tesla Inc. (NASDAQ: TSLA) CEO Elon Musk thinks artificial intelligence needs to be better regulated, at his own company as well, What Happened Musk, who also heads the"
     publishedDateTime: 2020-02-19T12:14:00Z

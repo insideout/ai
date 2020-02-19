@@ -63,19 +63,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 – Exclusive Report by MarketsandMarkets(TM)"
-    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\", published by MarketsandMarkets™, the global Emotion Detection and Recognition Market size is projected to grow from USD 21.6 billion in 2019 to USD 56.0 billion by 2024, at a Compound Annual Growth ..."
-    publishedDateTime: 2020-02-04T21:49:00Z
-    webUrl: "https://www.oilandgas360.com/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024-exclusive-report-by-marketsandmarketstm/"
-    type: article
-    provider:
-      name: Range
-      domain: oilandgas360.com
-    quality: 3
-    images:
-      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
-        width: 300
-        height: 250
 
 secured: "Vbu/G4h5uOY5SgkSbl00HJHL+kAD019W9G5DCmJ568cErAWsT2K5CiUurTC5SNrkzqMxMbKvWcEeIAcd7eAkK1XH2py6Y8I4r6Z0h9aFTZ5NeEgjdme9KN1lG81COdxBwXzQjEogL1RkL2iLG4Jvq5aMvsZkx0KeLlGTvcMI1GKRYUBxpFkyUY5R+ik4c1nS+Q5gx4N6X/KKgEWFNFWnHARAIm2Rz+9wjVhd50iCi0YIDLB9I1jGxjW/G4Tx8KzsCG6OdrFoRKMgYq+4jy3mPJ/r5BocN1hiSuiLh9sz3ITTpmdV36/KkGFJpC1mU5AN;HxtAFVM04FPEfbaT8rpgEA=="
 ---

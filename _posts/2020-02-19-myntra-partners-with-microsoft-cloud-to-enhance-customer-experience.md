@@ -8,8 +8,8 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/myntra-partners-with-microso
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/amp_articleshow/74211461.cms"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -26,57 +26,37 @@ images:
     title: "Myntra partners with Microsoft Cloud to enhance customer experience"
 
 related:
-  - title: "Microsoft Cloud is powering the digital transformation of Myntra, India’s leading fashion retailer online"
-    excerpt: "Amar Nagaram, CEO, Myntra By building and centralizing its data platform on Azure, Myntra is also applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to ..."
-    publishedDateTime: 2020-02-19T10:10:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-cloud-powers-the-digital-transformation-of-myntra-indias-leading-fashion-retailer"
+  - title: "Microsoft’s new Dynamics 365 services apply AI to finance and project operations"
+    excerpt: "“Our continued investment in expanding AI capabilities across Dynamics 365 helps … organization[s] accelerate ... Customer Insights now plays nicely with Azure Synapse Analytics, allowing managers to run customer data through analytical processing pipelines and machine learning models. This in conjunction with prebuilt APIs that enable ..."
+    publishedDateTime: 2020-02-19T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/"
+    ampWebUrl: "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
     images:
-      - url: "https://i1.wp.com/www.onmsft.com/wp-content/uploads/2020/02/myntra-microsoft.jpg?fit=940%2C570&ssl=1"
-        width: 940
-        height: 570
-  - title: "Myntra accelerates its digital transformation journey with Microsoft Cloud"
-    excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real time ..."
-    publishedDateTime: 2020-02-19T10:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all"
+        width: 1200
+        height: 573
+  - title: "Aisera, an AI tool to help with customer service and internal operations, exits stealth with $50M"
+    excerpt: "There have been some efforts made to apply AI to solving different aspects of these particular use cases, but one of the issues has been that there are few solutions that sit above an organization’s software stack to work across everything that the organization uses, and does so in an “unsupervised” way — that is, uses AI to “learn ..."
+    publishedDateTime: 2020-02-18T17:15:00Z
+    webUrl: "https://techcrunch.com/2020/02/18/aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m/"
+    ampWebUrl: "https://techcrunch.com/2020/02/18/aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/18/aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m/amp/"
     type: article
     provider:
-      name: ETCIO.com
-      domain: indiatimes.com
-    quality: 37
-  - title: "Aisera Secures Series B Funding, Led by Norwest Venture Partners, to Transform the Enterprise Service Experience With Artificial Intelligence"
-    excerpt: "/PRNewswire/ -- Aisera, the world's first AI-driven platform that automates tasks, actions and workflows for employees and customers, announced today that"
-    publishedDateTime: 2020-02-18T18:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aisera-secures-series-b-funding-led-by-norwest-venture-partners-to-transform-the-enterprise-service-experience-with-artificial-intelligence-301006598.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience,” said Kate Johnson, president, Microsoft U.S. “By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft’s ..."
-    publishedDateTime: 2020-02-12T20:33:00Z
-    webUrl: "https://apnews.com/PR Newswire/4e004449ab1ba5e3aa9456ff715f95ac"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-926526136.jpg?w=1024"
+        width: 1024
+        height: 658
 
-secured: "LVCwBZiD93S+z9lGJnLmygX5mdmu+T/4yx5caOBR0Lg9CcImT9DFsA0N6UG9sbFMbI6SLALww6cvLdmVwm/rmutT4exhD6oaQI/9/1d+A215L3NPa9LbCh5Jgt4jwMLr05yXBpUTV6dsYv8FlmoiyiM7kd85Fbw0saXSCv57xeg/W9kRz0gl8AhLUnIHteKv7zOpB+C7X7enCkFjTioEYotjSSEm3j+BpFB/CNKxaAELV1ARbKr6pyNItfZTfOF2Z3PXGIuF2jURkxw/q+ajD0N+N3H32xCpnO0309IntoZHru3mpLNxfyvYwg6axVa1;PRfBz3pffWnwS7epaZZ8OA=="
+secured: "kmvxG9LtfrPEKU6qsvD5pAnjx4ByeYPX8J3JRQxHd6ZK2xPAW+1YjbvbEnhMbkgxkSToN3OYv4HEPWwc/vhRSMyYt/etIjfpakyYeXxS7vHeCfdxloyRc6DzpFmU7U5j8wYDqABj2BnLFMNCxdyBEOVxWetA7k48yvNFDijU90hJELmyQPIZZwIvhBZdGE+zAtUR0hzdoTo5e1K2wxdt1OLcsxzsjsx0Uaf+i4x5qnKyaXOrIH1GMBGvIpCQowaqwMC4QrdQLMO8U0zdoTTfKv22/qB8J6hvyjjjFa1F2eX/sqy/bSwgyZpAlE6Axzx3ktmAd3dGi0IZw0XhLr5tC8IQk+4oG2iS1yhqHZEx7wsTKEYFhsr9Cr5ksTCjrgklG5+1ZYt082X6rlB2HPX7ORtJ2zthmy+36smTNCXnSQlm6ugSaK3DiIGoEWJB/mTAHfvl/xDGVn2ohGrjqrLmZ1w3cKKMpHhHdmBFqnFln6Y=;5gf0w31knMeJqnJykg9cYw=="
 ---
 
