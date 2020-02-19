@@ -75,19 +75,6 @@ related:
       - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
         width: 750
         height: 500
-  - title: "Working the bugs out of self-driving vehicles"
-    excerpt: "She did so at a technology show in Las Vegas. Autonomous vehicles — self-driving cars and trucks, some call them –remain a technology with plenty of bugs to work out. Those concerned about them point out that they can be dangerous. Indeed, they have ..."
-    publishedDateTime: 2020-02-04T06:18:00Z
-    webUrl: "https://www.marshallindependent.com/opinion/editorials/2020/02/working-the-bugs-out-of-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Marshall Independent
-      domain: marshallindependent.com
-    quality: 24
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.marshallindependent.com/images/2016/11/28153330/fblike.jpg"
-        width: 1200
-        height: 630
 
 secured: "ppHpmNxL40xM5OHXhLyQQPktHax0zrp6GIxcZ6J5ZyVLqWiU19qZEkDdvRkgYc/2xZgtNSMdIHvZpr0Br1xPXMarIywf4u162pEemYerQQ3MzI4P6rGB9zmteQbjSyOid/o/pJTulXc5H9gWJZl/z666JUd9DnuF1d9CApxc6jDGo2RuZYhbiNpO/9mMdv3asd/xTPw141kZevxOBUY/3MZk3wr4dr+FUKlrtXf3hJkkIQRjvxDGcCDxjKOyi+uqYIoTsAtKZtL/BPo1HRkiR8nSx0+A6pdxcpz1CT5rgPvFJRK5PYAQ6N+Sx5iXgbjs;sLmHvBUsYG0ZefQgDa0Cfw=="
 ---

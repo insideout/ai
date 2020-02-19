@@ -25,6 +25,6 @@ images:
     height: 675
     title: "First Ever AI Android Teaching Assistant Launched at NDNU"
 
-secured: "MQ5o05ZCXQi1DX4eMbOotM43mG5CdoOs2j7kRnixn3XuxZId3konSM2k+IhW0AU12l3GCdQ1PszS2eVk0XumAAUb/h//89cqMfur7NbU7cegu3QSi+zzRdwArUOYNIf9oZj+kksORhOk6XRbeiG8OdaaMBpvhe8sbVuY0IaC5GAPAKU69PEgwkRkgV9vmEGoOxCzltyL7w8rjw0DELdZ4YbWl/JCv6ZQdglpdEhsrxKoh0+xO+V2oxfr+0JIRVjAVw0pupJTjDd+uWfd+T7yIIeJqr1MwX2C+m8JTbP2tgCd9/6HXYtqQoz+UXbK1iP0;0P6ndwpvbAtAunYZYu+xGw=="
+secured: "AhBiGwAc7GdivwZ+tknzyDegXfw8oLDb58Zyfj4oVBJ9a4EBFGyF1wQ2lmRA09dCjDBu3rp/iDrjji4xC7fDAClIt7pMg4V44FvRd5da/D93susWeYxt/QWhLNQEK7AEtkldkYCFp2GS3E5kPs/rZqZV5sISqQveNi/N6BkzLM2Y+QGZ4RcvDKU14qipowQ6gA8yh45EcnrA96mcQW4Tk/HhYUjn9dvWL/kt0kc5/HjxHaMPiMtvkBGYQI17fDztOCIKuW7ubZgBpe1zJPxXSF2x+LtGs2JRXWR2z9OiDoArT0bZPs9kXH5im3dkjWfSYlJUTrUU1uORW/c/zAHjt0TV+I+srOYtd7cZ+dzWmwPehtXACtssrRgOkFppl+6ZiNRK1t4Bh+jNOF1chzYDkSsRXzkJiQtxRQEJZ9+r9ERZ0o3Yosyqy6DQhQPdESyBBUmdyj7z5uSgAMEhrL2cn+0yKvHC5xnxwafFbX+6yxE=;aq7N3C+1T9tmw6G0Xg1hVg=="
 ---
 

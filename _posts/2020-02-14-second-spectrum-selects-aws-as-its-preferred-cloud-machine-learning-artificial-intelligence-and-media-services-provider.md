@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
-excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
+excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning (ML), and artificial ..."
 publishedDateTime: 2020-02-14T14:00:00Z
 webUrl: "https://www.financialbuzz.com/second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider/"
 type: article
@@ -67,6 +67,6 @@ related:
         width: 820
         height: 312
 
-secured: "8gAvRcjf9ayA1B68ILWtLGG1qBYvzgFCNGBIJiSLjqzvlEiwvouMy3k9vfooUuBuh9zW1zmgzWXEPtAaWbtje0oioMr9YsG7To/3FNJyTTiLdJuGOsojUxzLBk2d4/pfUsbnmsElLeq/hQqWvc22nFDpECDPZeUKMVSG+PYbNJjvnCJaYgr/21Hoh3aQ0g0cbp6xNW2utg+4zBOPm814iJtuz4iwOqUClEDkeMJlnx+SxUZ+rs0Zc7yeZA+c8ZinqjKicgyaigIIGBFBKV5YrxfHbCIoIwkdg2E9aJZZqE/9Bj6WLsvRt7saGCanZFnG;7I+PlrJLiYAoAkm8xgmj3w=="
+secured: "ERAJA9Mxu5ygWKEkOlnLs13140G9Zbr5k5Tagt+xfm4qLd98boG3i2e2KtRTgOrNGYbWUVasni7qHfsb0EYSSZTSTnO4PQjjzvLBnitqPVnaXWfVfufjiCRklhLltDCxoNSGjlX3O1/uh1YvMUwW2Yz3dIa4tZq725cR1ekqo39EgsFeM135eX5yhhe0hSIEcgrwrvCX8dYtyWzDuVEOsNvlpxCumQjFjIXRAGetF9sW0HktEI4P8DBTX8F55bhm7wAkiBXoldKdkB5ZuzU/er81roBTW4Xz3UYPY2xpu89lwEYjFhc0tM98yIXTxb9b;Ib1/nZ6pseiG2GAlhgm+2Q=="
 ---
 

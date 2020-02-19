@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/costa-group-turns-to-ai-mat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/"
 type: article
 quality: 103
-heat: 104
+heat: 103
 published: true
 
 provider:

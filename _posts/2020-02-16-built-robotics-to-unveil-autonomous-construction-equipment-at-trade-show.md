@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-16T16:43:00Z
 webUrl: "https://www.therobotreport.com/built-robotics-unveil-autonomous-constructioon-equipment-trade-show/"
 type: article
 quality: 83
-heat: 94
+heat: 93
 published: true
 
 provider:

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: City A.M.
@@ -26,21 +26,19 @@ images:
     title: "Government’s AI adviser calls for crackdown on social media targeting"
 
 related:
-  - title: "Algorithms on social media need regulation, says UK's AI adviser"
-    excerpt: "Report also urges government to consider making firms such as Facebook share their data"
-    publishedDateTime: 2020-02-04T06:30:00Z
-    webUrl: "https://www.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook"
-    ampWebUrl: "https://amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook"
+  - title: "UK AI watchdog reckons social media firms should be more transparent"
+    excerpt: "The Centre for Data Ethics and Innovation says there is strong public support ... The CDEI was created last year to keep an eye on AI and technology in general, with a stated aim of investigating potential bias in algorithmic decision making."
+    publishedDateTime: 2020-02-04T11:47:00Z
+    webUrl: "https://telecoms.com/502218/uk-ai-watchdog-reckons-social-media-firms-should-be-more-transparent/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
+      name: Telecoms
+      domain: telecoms.com
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/7ee6487d302dd944c3802483f30864c086cffca3/0_230_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39d22ae526042181ad95e421176c5f95"
-        width: 600
-        height: 360
+      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
+        width: 300
+        height: 250
   - title: "UK AI advisors wants to regulate social media algorithms"
     excerpt: "The UK government’s AI advisory body believes that new laws are required to control social media algorithms and regulate how tech giants such as Facebook and Google target users with content. The Centre for Data Ethics and Innovation (CDEI) said on Tuesday that tech platforms are now in a position of “real power” as they have the ability ..."
     publishedDateTime: 2020-02-07T02:12:00Z

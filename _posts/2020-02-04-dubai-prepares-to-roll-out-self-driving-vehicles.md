@@ -71,19 +71,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
         width: 1200
         height: 800
-  - title: "Working the bugs out of self-driving vehicles"
-    excerpt: "She did so at a technology show in Las Vegas. Autonomous vehicles — self-driving cars and trucks, some call them –remain a technology with plenty of bugs to work out. Those concerned about them point out that they can be dangerous. Indeed, they have ..."
-    publishedDateTime: 2020-02-04T06:18:00Z
-    webUrl: "https://www.marshallindependent.com/opinion/editorials/2020/02/working-the-bugs-out-of-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Marshall Independent
-      domain: marshallindependent.com
-    quality: 24
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.marshallindependent.com/images/2016/11/28153330/fblike.jpg"
-        width: 1200
-        height: 630
 
 secured: "kdb+ObrIsSYhVUA1u1KlRm1gcBe9IjkJL6Lcqte6akv5vTU8jKES/qqcdhIT29FHUC/lWkOaKZxgN9hKoZ0EXsekZvFbsGtLTMpCV+qcvJ3AAbVAaQdEYKt1n6s5kvGMjDNbNpaofb06zt1LMwzDlxSIKPBWc0AFyUQf1lhyrKUQZKLScrd5kd01d13/Q0GScSzZSv3G7SVdR2nKQDVF0aI0lafuvZHdN2UWmznmdNUCCgUSb/Y13iGdRU6OawGL2rG4Ne1izbNFcSDzcXgzYdtCYp6vbNlFZa2tDpQ5rtOjlhksrlG7MN34a+gyYkWD6Iq4hMokx/OmSQGAA++qkAg2SyfrMQGcprn2HtogyXpH3g+j61G5E92aGlUOINuvPMJENnjbX2frdh1FPj0gdbcwOvwpSL1lxAd1VzKwrsTogKqZqp2bNUD7dvBCzRsViXu99VY0j3dXKvLvmFuV1R5uHIsjGLUlKA0pZGEja7E=;ZsUaIkolDjUzqXRmPSctjA=="
 ---

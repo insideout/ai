@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-compl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -75,19 +75,6 @@ related:
       - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
         width: 750
         height: 500
-  - title: "Working the bugs out of self-driving vehicles"
-    excerpt: "She did so at a technology show in Las Vegas. Autonomous vehicles — self-driving cars and trucks, some call them –remain a technology with plenty of bugs to work out. Those concerned about them point out that they can be dangerous. Indeed, they have ..."
-    publishedDateTime: 2020-02-04T06:18:00Z
-    webUrl: "https://www.marshallindependent.com/opinion/editorials/2020/02/working-the-bugs-out-of-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Marshall Independent
-      domain: marshallindependent.com
-    quality: 24
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.marshallindependent.com/images/2016/11/28153330/fblike.jpg"
-        width: 1200
-        height: 630
 
 secured: "F8x/ToGaEK78zeKuXbcG1uNVOhBEF3N2eXEzDE8bUy+WHk8+5BWNzPlmJgXjkM55Ucs1JFG5h37QAK2w+oisU4v6+RFnsJWXob48crIYVy1eYk6KVrBX/9+MQw1Wvw34EpY6nptGwtWWROQflxrkB9I14/3ptkFxFxnGZuGAEY8gGNG3jTFUAkbOFsM/1HCitg237fS/uFYLDqOtTkw9viZpeguCaH0BI3nyhYmA5ajNKgTd4ybOaDmo9rNu9GMyMr5+3aI81oz00yymMlkXK8A5CiN59VePXKoYEQEd85scZ2GOvjDDJ0VaRCM3bJau0fx9ZT/EyU0S/FTS7cix5VRg/lk2q6tJS9vo37NKrDkodwv91o+iPVsu6wElUZKRkIFX5NGyMuWQJML1wWlyBhCc6qQeq9u76i5dmNCSu2s6xrTinZYDRiFw4f5CcbAB8nf3vK47O2o51K237C02HyKXivLy2yiamwXgVZd/dkE=;PGT6wzqDvGD8c+QFdeP5bA=="
 ---

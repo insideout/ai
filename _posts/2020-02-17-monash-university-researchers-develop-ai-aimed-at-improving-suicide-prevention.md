@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/monash-university-researche
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/"
 type: article
 quality: 83
-heat: 104
+heat: 103
 published: true
 
 provider:

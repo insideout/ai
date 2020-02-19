@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Biometric facial recognition use by police draws scrutiny but helps rescue of thousands of children in India"
-excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
-publishedDateTime: 2020-02-06T22:05:00Z
-webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-of-thousands-of-children-in-india"
+title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
+excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
+publishedDateTime: 2020-02-18T23:02:00Z
+webUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/"
+ampWebUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
+cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
 type: article
-quality: 20
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Daily Camera
+  domain: dailycamera.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-    width: 1600
-    height: 1035
-    title: "Biometric facial recognition use by police draws scrutiny but helps rescue of thousands of children in India"
+  - url: "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg"
+    width: 1000
+    height: 563
+    title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
 
 related:
   - title: "Met Police try to calm tensions as live facial recognition hits London"
@@ -54,21 +56,6 @@ related:
       - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
         width: 1000
         height: 750
-  - title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
-    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
-    publishedDateTime: 2020-02-18T23:02:00Z
-    webUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/"
-    ampWebUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
-    cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
-    type: article
-    provider:
-      name: Daily Camera
-      domain: dailycamera.com
-    quality: 53
-    images:
-      - url: "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg"
-        width: 1000
-        height: 563
   - title: "Met Police's controversial facial recognition cameras correctly identify just one in three women"
     excerpt: "Controversial facial recognition cameras used by Britain's biggest police force correctly identify only a third of women, an official report admits. A review of the technology by Scotland Yard also reveals that two in three men are accurately identified, while black people are far more likely to be wrongly flagged up than white people."
     publishedDateTime: 2020-02-15T22:02:00Z
@@ -125,7 +112,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue of thousands of children in India"
+    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
+    publishedDateTime: 2020-02-06T22:05:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-of-thousands-of-children-in-india"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
 
-secured: "OSSqo1/dsY3Ljz7lKYXoPQ7P4IALgglFMG4wETUWs0AYY0X1vtKjCuRD/vBPqaOv2fCh2rMnziRSvPtYfSXGt/7Eo9/MkGrG1h10IIshVGJem2JQhtVrfEhj+Cj/rKw11WOT7cZbxDFu8pxnK8fQhQh7xnXuXn1K7QH3yHNuqd0CdEQb3lYweA4UKhr45bZY5GmiMRf8hQyQu7Se7chJ7xXT/Vj6U4VjHtx1Zjp9TJ3a/4qqrfgjVf18FJ5ATpY1qEwMV2nExb+G+ogPvI32HUmaQ0UOFOl9HRBM2Yz0DSY9HzL8jmV7hurjn6YwrJce;P1Hfwxxa5zmdDz6TI5dsyg=="
+secured: "POi5Va/5VjckceldTBKQCOZIWN+489g/cTP1ooS5Bh3fDBqGyYXaMXurNDboRa/vQves9kR1dO0aAt9jrwZxJfY8fjwVrogBTdKzoHu3V/13URn1ohPURUVY+HqLFe/BAF9SAftXmsOXITtceE4muUQtaXgay2pgqDcnoJJybh5DFVXB/SlK9p1xrSv9PpP6gBu2E3JoJkhjHJSoOuwZ17mRYbsjBGomBxlsdkvdWRyJ2Rx0M+PaErXsX7CS5oEVnVwDkA376zicxfioQUWrnn3PVRcASmBGA8Ve1UgsPxF18kD9PrZ6Gy++3C3fFT13;Gxc0WeMKd7nL0BuDlfLsDQ=="
 ---
 

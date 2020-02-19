@@ -1,0 +1,46 @@
+---
+category: news
+title: "Ohio to Analyze State Regulations with Artificial Intelligence"
+excerpt: "Killing two birds with one stone: AI will review the 240,000 existing regulations and narrow them for review. (TNS) — A new Ohio initiative aims to use artificial intelligence to guide an overhaul of the state’s laws and regulations. Lt. Gov. Jon Husted said his staff will use an AI software tool, developed for the state by an outside ..."
+publishedDateTime: 2020-02-18T23:53:00Z
+webUrl: "https://www.governing.com/now/Ohio-to-Analyze-State-Regulations-with-Artificial-Intelligence.html"
+ampWebUrl: "https://www.governing.com/now/Ohio-to-Analyze-State-Regulations-with-Artificial-Intelligence.html?AMP"
+cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/Ohio-to-Analyze-State-Regulations-with-Artificial-Intelligence.html?AMP"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: Governing
+  domain: governing.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://media2.govtech.com/images/election-vote-phone.jpg"
+    width: 1200
+    height: 800
+    title: "Ohio to Analyze State Regulations with Artificial Intelligence"
+
+related:
+  - title: "Ohio to use artificial intelligence to probe state regulations"
+    excerpt: "COLUMBUS, Ohio — A new Ohio initiative aims to use artificial intelligence to guide an overhaul of the state’s laws and regulations. Lt. Gov. Jon Husted said his staff will use an AI software tool, developed for the state by an outside company, to analyze the state’s regulations, numbered at 240,000 in a recent study by a conservative ..."
+    publishedDateTime: 2020-02-13T16:42:00Z
+    webUrl: "https://www.cleveland.com/open/2020/02/ohio-to-use-artificial-intelligence-to-probe-state-regulations.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/02/ohio-to-use-artificial-intelligence-to-probe-state-regulations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/02/ohio-to-use-artificial-intelligence-to-probe-state-regulations.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 57
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/STX2H53DLFCTZNWS3B42EJ2POE.jpg"
+        width: 3318
+        height: 2646
+
+secured: "Pc+icJ2WYz2S1WlZ/EgQ7rwX3D5m6V30rb7F6/j/bF/E8k+0FPkFCCwoUeFqyye1sIOl8sMNolag35u/LY+5fMgrBYYuHYYfxQcjJ7YHojaOll+vpPiOb4pv50ErlhJLn+Kgtqf6fiHRfQIgRrUlRxsNoVhGoOaLL5y/ivdm65CMhBMel3S7IEpgW9OS8bMfpP9FOiwVNzIiX0dcE4LB0Lq66LMIovLghi09e1/NFMRJxaE/kBzKOA7cggDm/ourEcg/1Cf8nqRPM0h47KEJIsx/H5j3x3tcwZo6tb5slc1H2mk85kfs1ksq32I/VvDu;NwLw/cmbT7pS74k9VavElg=="
+---
+

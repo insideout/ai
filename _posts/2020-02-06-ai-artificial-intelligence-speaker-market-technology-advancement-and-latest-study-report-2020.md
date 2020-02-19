@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T06:26:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06"
 type: article
 quality: 70
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -75,19 +75,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "AI Software Market In Legal Industry Market Benefits, Technology Advancement and Future Scope Till 2024"
-    excerpt: "The AI Software Market In Legal Industry Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry,"
-    publishedDateTime: 2020-02-04T07:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-software-market-in-legal-industry-market-benefits-technology-advancement-and-future-scope-till-2024-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

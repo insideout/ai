@@ -25,6 +25,6 @@ images:
     height: 281
     title: "Can we ever trust Google with our health data?"
 
-secured: "N3Vp+aNJ5yZu+EpvKxGzURBtu4Inu68ZigkVHyhtANmu5P+jYFNJolIKL3VO7BYp31OOmk4BsKMRDHcguwpEcfrIqRQW9Y7En3QVchG6Ov8c561kigpwLtO0zX23WbyDf658KojA534f3Huo1GS0/xRinW4nKKoO8acIX+AIX/u6sPv4s5BxWvbSfh/CX2TM5qvXLJwWiGIP7/EiVfN5JuPvf/G+wyV5VaA32oIqxdPpDD0LmMyfrsYAa549+SGdAMO1yEFXNu0GwDDMJ43cRqQ1Xgrxw+xle1BKgX6rA8k1XoEIiw0CLJ11rAvP8TgX;E4VWkGHLsAz7xTEWwEf5TQ=="
+secured: "G9cIFe05+VicYWGafV2llVM80sLjRE38GQMTVcf1A9OS5hl00ZvXzV+Jxn+rtuSbhgZhioE6dSriuruUDSxWv3NvCVl+yoWTp6h/7lkbCqbr9gjIqHVtgdj9KeIA6t5wbg3Upx+2fx7t62SlacgSzNBdD+8sGWDHq1tr0Zm6rAzTyg0LxlmIcIN4dwPd0/3xCe4f3hqaGc69aPLbKD7uN3CF+ktPFp/4wiXl/iD+6FeWdV0wiqimr8gigPG7E6OJOjR9BqYG4qcNyX5ibHSOTegj00wYiXSwYbHwMHHlUOQHj3XWF/6yUoQPtYRqbOj4;bUnNVEpuwvMJr1O9EU3kqg=="
 ---
 
