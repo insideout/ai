@@ -28,17 +28,6 @@ images:
     height: 400
     title: "Tutorial: Forecast bike sharing demand with automated machine learning"
 
-related:
-  - title: "Deep Learning for Extreme Weather Forecasting (image)"
-    excerpt: "A schematic representation of the capsule neural network Rice University engineers created to forecast extreme weather events. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system."
-    publishedDateTime: 2020-02-04T14:45:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/223339.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
-
 secured: "KqNBynRS1F++lbX2O8FmLoS3/qE1zsPsk2aw1uyxQcV57zHeG3suHT2JtBG7ZGe0RfSoprlcaNDoK4Ii8qN0znnwGqneCdOiO0BrTkGxwD0GA3o+gRL7tO8YI0c8LQxdvVhLU2Ir2ztXgU7fI8DXGHSJfUoXcMHcTCUfOMpwsu4AuHzjONolfJG6tfn4no+AKW2CWozMoRdt1A8X92Htzr+xPGvcMRRNtl9z0nrOocNT+lXJCdKYkLGOJr7fPKyKIiX8+dpUR8mF04gfcGxr2j25HGANU6Aw0H0Yax7O+s+gMKWF6Nm/vL5SGqfnjVPU;jjfZmXHrNOrRUFLmxWQ5BQ=="
 ---
 

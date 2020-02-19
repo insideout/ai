@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-05T02:55:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 289
+published: true
 
 provider:
   name: MarketWatch
@@ -28,166 +28,252 @@ images:
     title: "Deep Learning Market Analysis And Forecast 2026"
 
 related:
-  - title: "AI, machine learning, robots, and marketing tech coming to a store near you"
-    excerpt: "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ..."
-    publishedDateTime: 2020-02-04T15:00:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
+  - title: "Facial Recognition Market Present Scenario and Growth Analysis till 2026"
+    excerpt: "QY Market Research Store has added the report titled Global Facial Recognition Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
+    publishedDateTime: 2020-02-07T08:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-present-scenario-and-growth-analysis-till-2026-2020-02-07"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 119
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2019/01/15/cede3a51-32c8-47dc-8928-b8c18295dde9/resize/1200x/9f06c8112c21a809abb2fc0b6a7e4b11/retail-ai.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 900
-  - title: "Talking to Robots With David Ewing Duncan"
-    excerpt: "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ..."
-    publishedDateTime: 2020-02-10T21:22:00Z
-    webUrl: "https://www.entrepreneur.com/article/346085"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/346085"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346085"
+        height: 630
+  - title: "Data Science And Machine Learning Service Market Status and Business Outlook 2020-2026"
+    excerpt: "Market Insight Reports has added the report titled global Data Science And Machine Learning Service Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
+    publishedDateTime: 2020-02-08T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-status-and-business-outlook-2020-2026-2020-02-08"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200210211852-MikeDEDcorrectdimensions.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-  - title: "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence"
-    excerpt: "But, again, it becomes important to mention digital marketing without an effective resolution to the customer means nothing. And, here, AI or Artificial Intelligence comes into the picture. Today, most of the companies are merging the two technologies to create outstanding business operations, which can help in business growth."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@inforobertsmith36/7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence-17cab74ff304"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 63
     images:
-      - url: "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 628
-  - title: "Deep learning of circulating tumour cells"
-    excerpt: "Moreover, our network excelled in identifying different important subclasses of objects. Deep learning was faster and superior to classical image analysis approaches and enabled the identification of new biological phenomena. Fig. 1: Overview of the analysis workflow used. Fig. 2: Comparison of the t-SNE maps of the latent space for a standard ..."
-    publishedDateTime: 2020-02-10T19:12:00Z
-    webUrl: "https://www.nature.com/articles/s42256-020-0153-x"
+        height: 630
+  - title: "Machine Learning Operationalization Software Market 2019-2025 Global Industry Analysis"
+    excerpt: "The Global Machine Learning Operationalization Software Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application,"
+    publishedDateTime: 2020-02-08T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operationalization-software-market-2019-2025-global-industry-analysis-2020-02-08"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-0153-x/MediaObjects/42256_2020_153_Fig1_HTML.png"
-        width: 685
-        height: 521
-  - title: "Evolving L&D: Before artificial intelligence, master adaptive learning"
-    excerpt: "Machine Learning Natural Language Processing Deep Learning Neural Networks “Artificially intelligent systems have to not only analyze activities and predict outcomes - they also need to learn from those predictions over time.” He also points out that even in our attempt to understand AI, a lack of a highly precise and universally embraced ..."
-    publishedDateTime: 2020-02-11T14:32:00Z
-    webUrl: "https://www.hrdive.com/spons/evolving-ld-before-artificial-intelligence-master-adaptive-learning/572014/"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Healthcare Market Growth, Segmentation, Share, Trends, Insights and Analysis Forecast to 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
+    publishedDateTime: 2020-02-05T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-segmentation-share-trends-insights-and-analysis-forecast-to-2026-2020-02-05"
     type: article
     provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://www.hrdive.com/user_media/cache/d4/49/d449d9cf9eb38eb0e348de33ab507062.jpg"
-        width: 770
-        height: 364
-  - title: "Talking to Robots With David Ewing Duncan"
-    excerpt: "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ..."
-    publishedDateTime: 2020-02-11T14:08:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Talking-to-Robots-With-David-Ewing-Duncan-15045274.php"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Automated Machine Learning Market is Forecasted to Post $14,511.9 Million by 2030: P&S Intelligence"
+    excerpt: "Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large Enterprise, Small & Medium Enterprise), Application (Fraud Detection,"
+    publishedDateTime: 2020-02-11T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-market-is-forecasted-to-post-145119-million-by-2030-ps-intelligence-2020-02-11"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/10/41/32/19011219/13/rawImage.jpg"
-        width: 2000
-        height: 1333
-  - title: "Starship delivery robots indicate groundbreaking food delivery tech advancing into Madison"
-    excerpt: "Now, three months after being introduced, these robots are in southeast and their AI (artificial intelligence) has greatly improved. They now cross streets faster, though still with some difficulty (missing traffic lights), and can navigate through more environments. If a robot does get stuck, they can be remotely controlled by a human to help ..."
-    publishedDateTime: 2020-02-06T17:23:00Z
-    webUrl: "https://www.dailycardinal.com/article/2020/02/robots-indicate-greater-food-delivery-tech"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Platform Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "Artificial Intelligence Platform Industry Description This report studies the Artificial Intelligence Platform market, Artificial intelligence (AI, also machine intelligence, MI) is intelligence displayed by machines,"
+    publishedDateTime: 2020-02-06T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-02-06"
     type: article
     provider:
-      name: Daily Cardinal
-      domain: dailycardinal.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://snworksceo.imgix.net/car/34a76c62-7835-44ec-b09c-8156ef641ec0.sized-1000x1000.jpeg?w=1000"
-        width: 1000
-        height: 600
-  - title: "Plannuh Raises $4 Million To Expand AI-Driven Marketing, Budgeting and Planning Platform"
-    excerpt: "/PRNewswire/ -- Plannuh, a startup transforming the way marketers plan and budget, today announced a $4 million seed round co-led by Glasswing Ventures"
-    publishedDateTime: 2020-02-06T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/plannuh-raises-4-million-to-expand-ai-driven-marketing-budgeting-and-planning-platform-300999949.html"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Autonomous Vehicle Market Analysis (Report 2019-2027): Growing CAGR 35.6%"
+    excerpt: "The global autonomous vehicle market is expected to expand at a CAGR of 35.6% during the forecast period from 2019 to 2027. Market Insights: An Autonomous Vehicle, sometimes referred to as a self-driving vehicle (SDV),"
+    publishedDateTime: 2020-02-06T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-analysis-report-2019-2027-growing-cagr-356-2020-02-06"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
+    excerpt: "LOS ANGELES, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The global machine learning market is anticipated to grow at a CAGR of around 40.1% over the forecast period 2019 to 2026 and reach the market value of around US$ 76."
+    publishedDateTime: 2020-02-05T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-around-us-768-bn-by-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Machine Learning Market 2020 Global Insights and Strategic Assessment - Microsoft, Sap, Sas Institute, Amazon Web Services"
+    excerpt: "The Machine Learning Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
+    publishedDateTime: 2020-02-11T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-global-insights-and-strategic-assessment---microsoft-sap-sas-institute-amazon-web-services-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Medical Imaging Market Current And Future Trends 2020-2026"
+    excerpt: "The Artificial Intelligence In Medical Imaging Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Medical Imaging Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-current-and-future-trends-2020-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+  - title: "Trending News For Artificial Intelligence in Aviation Market Emerging Opportunities with Current Trends and Forecast to 2029"
+    excerpt: "Artificial Intelligence in Aviation Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-06T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-in-aviation-market-emerging-opportunities-with-current-trends-and-forecast-to-2029-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Automotive Market Opportunities, Share And Forecast 2020-2026"
+    excerpt: "The Artificial Intelligence (AI) In Automotive Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence (AI) In Automotive Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-opportunities-share-and-forecast-2020-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-31T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Self-driving Chip Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of the Automotive Self-driving Chip market."
+    publishedDateTime: 2020-02-10T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
+    excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
+    publishedDateTime: 2020-02-06T16:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-by-level-of-automation-and-component-global-opportunity-analysis-and-industry-forecast-2020-2026-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 28
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "Look out, the robots are coming!"
-    excerpt: "Just when I think that I'm getting used to the shiny new world of Roombas, Alexas and driverless cars, something else comes along and throws ... a team of international researchers remarked on the potential of artificial intelligence to disrupt a variety of jobs in fields as diverse as finance, information technology, law and medicine, and ..."
-    publishedDateTime: 2020-02-08T04:31:00Z
-    webUrl: "https://www.texarkanagazette.com/news/features/story/2020/feb/07/look-out-robots-are-coming/815638/"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, February 05, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
+    publishedDateTime: 2020-02-05T04:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-05"
     type: article
     provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 24
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2020/02/07/cdoughertycolumn24539147173_t1070_h10763943e31ed1ed1283106f30b9da2ac5376c82.jpg"
-        width: 1070
-        height: 721
-  - title: "Influence marketing’s problems can be solved with a machine-learning solution"
-    excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
-    publishedDateTime: 2020-02-10T20:08:00Z
-    webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+  - title: "Machine Learning Market in India 2020"
+    excerpt: "transportation (especially airlines), and financial services companies operating in India. In 2018, this resulted in the creation of ~0.18 Mn to ~0.2 Mn new jobs, for professionals who have skills and expertise in machine learning applications. Now Get ..."
+    publishedDateTime: 2020-02-06T06:38:00Z
+    webUrl: "https://www.openpr.com/news/1920994/machine-learning-market-in-india-2020-with-top-key-players-like"
     type: article
     provider:
-      name: Mumbrella
-      domain: mumbrella.com.au
+      name: openpr.com
+      domain: openpr.com
     quality: 21
-    images:
-      - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
-        width: 1254
-        height: 836
-  - title: "How Increasing Power and Advanced Cooling Techniques Are Converging for AI, Supercomputing and Cloud Data Centers"
-    excerpt: "This is driving innovation from companies like Cerebras, whose recently announced Wafer Scale Engine (WSE) is widely regarded as the most powerful processor in AI today. Comprised of 84 processing cells that span an entire wafer and yet function as a single chip, the WSE dramatically reduces the latency associated with a traditional singulated ..."
-    publishedDateTime: 2020-02-10T21:44:00Z
-    webUrl: "https://www.embedded-computing.com/guest-blogs/how-increasing-power-and-advanced-cooling-techniques-are-converging-for-ai-supercomputing-and-cloud-datacenters"
+  - title: "Machine Learning Market Garner Valuation US$ 76.8 Bn by 2026"
+    excerpt: "The global machine learning market value is expected to reach around US$ 76.8 Bn by 2026 and growing at a CAGR of around 40.1% over the forecast period 2019 to 2026. Machine learning is a subset of artificial intelligence. The concept has evolved from computational learning and pattern recognition in artificial intelligence. It explores the ..."
+    publishedDateTime: 2020-02-05T05:54:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38213/machine-learning-market-garner-valuation-us-768/"
     type: article
     provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 18
-    images:
-      - url: "http://share.opsy.st/5e41cd6c4aabb-cranium-2099120_1280.png"
-        width: 1160
-        height: 1280
-  - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
-    excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
-    publishedDateTime: 2020-02-05T02:19:00Z
-    webUrl: "https://www.digitimes.com/news/a20200205PR200.html&chid=9"
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 19
+  - title: "Global Robo Taxi Market 2026 Information Procurement and Data Analysis"
+    excerpt: "A Robo-Taxi, also known as a Robo-Cab, is a driverless taxi or a self-driving taxi. Its primary purpose is to eliminate the need for human ... Companies such as Lyft, DiDi, Uber, and Baidu are the major ride-hailing service providers. These players are the major potential customers for Robo -Taxi. Nowadays, most companies are focusing on ..."
+    publishedDateTime: 2020-02-06T12:43:00Z
+    webUrl: "https://www.openpr.com/news/1921960/global-robo-taxi-market-2026-information-procurement-and-data"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 16
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200205PR200_files/2_r.jpg"
-        width: 336
-        height: 224
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
+    excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
+    publishedDateTime: 2020-02-07T11:00:00Z
+    webUrl: "https://www.openpr.com/news/1923215/voice-recognition-for-automotive-market-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Artificial Intelligence in Accounting Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2024"
+    excerpt: "Get Free Sample Research Report of Artificial Intelligence in Accounting Market spread across 146 pages, profiling 23 companies and supported with 51 tables and 40 figures is now available at https://www.reportsnreports.com/contacts/requestsample.aspx?name=2443587. Key Players- Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage ..."
+    publishedDateTime: 2020-02-11T02:47:00Z
+    webUrl: "https://www.openpr.com/news/1926330/artificial-intelligence-in-accounting-market-worldwide"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Artificial Intelligence in Manufacturing Market Global Trends, Market Share, Industry Size, Opportunities, Analysis and Forecast To 2025"
+    excerpt: "name=1148471 Major Vendors profiled in the Artificial Intelligence in Manufacturing Market include are NVIDIA Corporation (US), IBM Corporation (US), Alphabet Inc. (Google) (US), Microsoft Corporation (US), Intel Corporation (US), AWS (US), Sight Machine (US),Siemens AG (Germany), and General Electric Company (US). Increasing need for hardware ..."
+    publishedDateTime: 2020-02-11T02:58:00Z
+    webUrl: "https://www.openpr.com/news/1926336/artificial-intelligence-in-manufacturing-market-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "4HYfPv1TVa8YX0MCMnXz7dL7Gt6QDWhIUVmqRXSwJVeYSWd9drV4oNdvSnXJ2alnhg+r81q53jNo39b6cP06Qx7kURXCsPIByQffv5d1x/Pvz217y/Cnxr6ovQKUMHAp1XR9UkoatOhWtfVvk1HmqKu6pZbCz+PinmCQXct0pyWwEEh4OAgsMSZgMUSeEZUGY/MIhWm7FDTwIYKfUNBfpR7VazgAvUSEv6/7GG4o02Gs8pXAJ6zggCfU3M2HUy6l83nCvjogK3cXvlV2ncxoMabq+LiSEprIaiv1LOH9e8nh5KK85bUkt/jtNUE6ch1a;3IymbJlw3cZEydepwABGpA=="
 ---

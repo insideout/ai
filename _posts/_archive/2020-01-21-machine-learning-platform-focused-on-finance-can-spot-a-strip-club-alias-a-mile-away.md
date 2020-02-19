@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
-excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... and expenses to make sure companies are not paying for goods and services that fall outside company policies. Kale said the process is the ..."
+excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... not paying for goods and services that fall outside ..."
 publishedDateTime: 2020-01-21T17:20:00Z
 webUrl: "https://www.techrepublic.com/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
@@ -29,6 +29,6 @@ images:
     height: 907
     title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
 
-secured: "gnWIgJAU9qGmlNWkXkdqD4XfFBUvkmDKROzJIASGHPF+x6+jLDWf9t0GrJ+rkxffkYHnn4OmFkiHF3OJcbl09UDI+Ssp11gSNSnTRWtfFQVmmh/3/sTbPcifSd4yxWL97JJ/qLx+/aGc0oTUPcS8ROkGLv87MOnTHP8qrapBkhrT/TpA+uGh8hOpHNo31/EkXJDrz24UU1HqlrId8MiBHN3VHU66Clap63EdH/zsXHbaX8QCmchi2bHplRSU9TJUEZh5pUIR2qC64VoHDZMQGkGaXyE3s6GJ38e4XjqzlOWFUVK6Z41AgJog2w+qvkf4HqiSBNujV7+4t76TvLFK47OS4JON4bJmiWzYU/7AeGFFD4xpV+NEB34nepDnvDaplDrRbVwklL5IzNA2VqQYx/zvlTCeib1ubPR1hJkeOOKFFOKfWMHBzwUVIgavNOLI+WXwLHj5EP2A/CMidVLyVgP+vOXWIgH95ZMvUTDKR8E=;+FeJ+69XbG3r/eHtB3oeFw=="
+secured: "V+9Zr60magXeidlpSMOVf9AoH/VpIti2joup0uf1cx9NSkITQspakQOZa3YA5wu7+LHO8ErlJtEG99uZrMKL8xjovvpnOlnSbWtbFNjVAdXS9aBLQOzuZYCiYQexpJJu8iXEnWSTVB7YsMj0/M74WfIAxj9QBjptVDY6VUYyh8BkSXpAkIufmGy2xrxd8cXHf4gN7UsMnks45rpHXrXGc6a8unNRqjjwrzHY261eDdyFTwLFPus5/sjso2O67TFBbM3uYvLV7aka64Mg0Vyxd90gyhK1jvDvNQoIUoaga6/kn4aE80E9Ac+41e8Hb5UH;h67/J48gWtH3PxWhbJoojg=="
 ---
 

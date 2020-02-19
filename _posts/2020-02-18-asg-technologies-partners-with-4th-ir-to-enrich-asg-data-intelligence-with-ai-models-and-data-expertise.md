@@ -32,6 +32,19 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Plannuh Raises $4 Million To Expand AI-Driven Marketing, Budgeting and Planning Platform"
+    excerpt: "/PRNewswire/ -- Plannuh, a startup transforming the way marketers plan and budget, today announced a $4 million seed round co-led by Glasswing Ventures"
+    publishedDateTime: 2020-02-06T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/plannuh-raises-4-million-to-expand-ai-driven-marketing-budgeting-and-planning-platform-300999949.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
   - title: "Aiera Raises $7M to Further Event Intelligence and Insights Platform"
     excerpt: "NEW YORK, NY , Feb. 12, 2020 (GLOBE NEWSWIRE) -- via NEWMEDIAWIRE – Aiera is announcing that it has raised $7 million through the sale of its Series"
     publishedDateTime: 2020-02-12T10:00:00Z

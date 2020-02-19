@@ -7,8 +7,8 @@ webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-rec
 ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
-quality: 35
-heat: 35
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
+    width: 600
+    height: 400
+    title: "Local speech recognition tech company partners with global call center company"
 
 related:
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
@@ -30,6 +36,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "9kmT3YGqJFPXosV+gPUCdJ5IIDxrCbYLMY1B57kFLbZIEOewQGlmRTng7E/uMGUOsnpgsMSjTshu0EhAI7o8odkwXF4rDlKmnYxXs90IzUnl5q67O6UYUT2gutiuC07Acd+tdPoRufP4iEXyvhH6pLJIL/AMJmhas9V0EbAnojsXoMZjz7s89y82OQbdXsGEAnmyq7DJeVZl55VmKPN+0kkbs+Z55tiuT/If36t4XC9e9uNIIdfEqcKVV0tImRJN6SfbDHkU9dcSnKrkGZpp4njosUicwjK4sHz66tPfrOTt4Li663DArCwK1Y1GVrs+;8rHi+mmokk8ALnR7i4CA9Q=="
+secured: "96dwRoQwAeUfst31q6qMlxH4ubtYdAFMuz/mns+Z1ZbVQfViNscHrvdMbrUfoahQxTHje5+nId/sK0Tu+5+3pDiHWJ16ozNHIDAYI5HmMrdLQEwgbQTA9UlZDuG8Hz+9bnecqvW8J/2+GE/WPALm4A9VxioaD7pfkfl0u4NzZjHsnHY9olh2OuYC9Asup8yFC/40DSKxOqzYLHQS6KuuigUfBWoVQAcldTOOhzzo/Q/ig0/z4dygpJLFAakxR/lJ75XyhEjAXoN8xREy5J18iOyrH9cm4KrHLyl/KWyTPEWQ0YVLEQwvCQZ2V/y4LuZZ;KlD/vDboaDvzCKLwayr7wg=="
 ---
 

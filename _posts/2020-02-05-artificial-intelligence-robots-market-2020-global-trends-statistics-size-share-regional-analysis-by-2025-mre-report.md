@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T03:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-04"
 type: article
 quality: 60
-heat: 110
+heat: 90
 published: true
 
 provider:
@@ -54,37 +54,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
-    excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
-    publishedDateTime: 2020-02-06T16:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-by-level-of-automation-and-component-global-opportunity-analysis-and-industry-forecast-2020-2026-2020-02-06"
+  - title: "Global In Flight Voice Recognition Market, 2014-2019 & 2020-2024 - Analysis by Technology, Aircraft Type, Application and Region"
+    excerpt: "Dublin, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The \"Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application (Commercial Aviation, Military Aviation), By Region, Competition,"
+    publishedDateTime: 2020-02-06T12:19:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980975/0/en/Global-In-Flight-Voice-Recognition-Market-2014-2019-2020-2024-Analysis-by-Technology-Aircraft-Type-Application-and-Region.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, February 05, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
-    publishedDateTime: 2020-02-05T04:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-31T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 14
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "Hvft9uaQ4Svq5GaSg/dtfn4VGtKGCGcjMkoWixNZEyohe/kJ8iRdn68n/MvOXw6+/dVGXKSjQ+o7TIhE9FjORBbRocP7B+QJ6V0pLJf5n4DiHEylFNGMFZkrElLB1gJCfHS+AW1iZSxfW3D/165a+N1N+OwOPWb769PliKE4mHEo4PpPgQ05AqUCYSaef7YVvYQCuzqt/fLkYP4z7XWhhC2MV+sMmxU7UM5K90YFASNeOcUjWIPWEumUPaUSZOG/tT4fhW/MDgt4hYGQIhiKm8uZmiE4iw/0dj5XQDXKjtvS+pPbfcNALIHAZM5dGa+O;vTj6Ylh8T5+wEOGKFfzx2g=="
 ---

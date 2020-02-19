@@ -31,19 +31,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 34
-  - title: "The road ahead for digital signage in self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
-    publishedDateTime: 2020-02-04T15:59:00Z
-    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
-    type: article
-    provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
-    quality: 24
-    images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
-        width: 640
-        height: 360
   - title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
     excerpt: "A team of engineers at the University of Waterloo has made it its mission to Canadianize self-driving vehicles. It's the first group in the world to create a data set for winter driving. In other words, it has compiled 10,000 video frames and 56,000 images to better teach self-driving vehicles how to navigate snow and ice. \"We're basically ..."
     publishedDateTime: 2020-02-11T15:08:00Z

@@ -30,19 +30,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing (NLP) Market: Future Forecast Indicates Impressive Growth Rate until 2027"
-    excerpt: "ARC added latest research on \"Natural Language Processing (NLP) Market Forecast to 2027\" to its huge collection of research reports database. Natural Language Processing (NLP) market on in-depth analysis market analysis size,"
-    publishedDateTime: 2020-02-14T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-future-forecast-indicates-impressive-growth-rate-until-2027-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Automotive Artificial Intelligence Market"
     excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
     publishedDateTime: 2020-02-12T00:00:00Z

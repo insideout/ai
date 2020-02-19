@@ -28,8 +28,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+        width: 1200
+        height: 800
 
-secured: "TM5YZqbZePDOS0SP7SxbyUoFc4JXXRkeM8Lf6lgL08Abi3vR/myv4LdR0ijAOiOWNuDNML03lCF7keFoq1WVDMNSA0pH2eln9ZVsGtd3vkmEvgsbA3wjDEN8XkrGiPYehkyAX5pZT84QNjJvbtTxJyIHbYP2QIBhloMpgPWVHGMPjJz4YKI7CZ2kc6aNuaVhFeNHFimtrDLb2cTwzEL8ncWRuiEdusa7jjYEUMJcy75hFX+otiDOBjreqsi1P6Y+nX+UjdgT2FWoJ2Aif2K/kL9mP08magAUoAy8zkDjLA/FPwZwZovk9zlUZ9X3qrBC;0Zet/orJilJvaAt/NBtUBQ=="
+secured: "RNJIHU1s9Ex8iQ5lx3gruJ3mDhKqjzLij/9fHEJUZRbu7cr5/orYdiQndcLHW5VHo8LaSo+RYgpNFbRn+ugmXLawilMAoGztrhFU5/W1f4OiJDYcIVgskSjCG/aX4Bqc+f510cNdcXgH9aA0wrP/v+jA+1NfhyQGPurDBU1p2eYfOva+AVchgBG1ht3G/cZOYbj74G0Grj5GA+y+8GaRDqamPj2HKQquXBdwzSi5LsK0M6dQFR4avLrc9Qiuim7Ylq15+uy4dPzedY6XKdmTbRKVIG6ffWgaC1sVPiWfTecpmDAC1bx3ZJQewo1dYCti;vsY++FehQd5+0OjEmbUsgQ=="
 ---
 

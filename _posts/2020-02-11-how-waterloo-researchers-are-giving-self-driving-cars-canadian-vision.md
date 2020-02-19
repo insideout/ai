@@ -42,19 +42,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 34
-  - title: "The road ahead for digital signage in self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
-    publishedDateTime: 2020-02-04T15:59:00Z
-    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
-    type: article
-    provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
-    quality: 24
-    images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
-        width: 640
-        height: 360
 
 secured: "Tt3RdEfA1Wocce69V8ToLE0xsgK3Bbd6QLU8wM2a5Zdr87zD+99n43W5yOlrXaI4Vh/2lwIhA5t6BmAqjknxjDsFJfKtYL4JbvpVfX9olDKxIQENjKggE58mqA3bePKiwVzZh26NMRkKDtwREsKB+wFCW/H8qYu8LMo9RQvsz05NoCYIQ+TCw43oG9ugkztb5j+qtwQQuE0WDa9d1oVtXRG5ADhrfOwP/M3YkW+Wc/wpJWaL18nDHA8/7Lvqv8wQJStNOWhQEcscV5S7ks6hBmCOK+6YxGqeue+W1SQeVkEvAbMDe7H+NrEkwjGfYMD5RHk7V1tBN+YFTmr6KZOwiNsnbk9FhOI7H/mE5alqpJ35rv6TFtrANkca3C5NoKSKX+GZWwT0Hblgq+zkhhtsRDYACpOj1UoTvv05PrdadrP/xJ9BawF/jn9e7patKC4oiHhfM2lkhkW0RiscEMSK/9hgaEe329gS7AzChHImp6A=;DIPqDkQfo1ZY67/PiKveIQ=="
 ---

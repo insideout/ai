@@ -58,6 +58,19 @@ related:
       - url: "https://www.chemengonline.com/wp-content/uploads/2020/02/che_0220-1.jpg"
         width: 949
         height: 1280
+  - title: "Influence marketing’s problems can be solved with a machine-learning solution"
+    excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
+    publishedDateTime: 2020-02-10T20:08:00Z
+    webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 21
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
+        width: 1254
+        height: 836
   - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
     excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
     publishedDateTime: 2020-02-14T04:57:00Z

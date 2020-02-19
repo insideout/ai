@@ -1,8 +1,8 @@
 ---
 category: news
-title: "AI Chip Market is Booming"
-excerpt: "AI processors are reinvigorating the global semiconductor industry, prompting at least one market tracker to predict a three-fold increase in AI chip applications over the next five years. In a survey of AI adoption released this week, IHS Markit predicts AI applications will explode to $128.9 billion by 2025, up from about $42.8 billion in 2019."
-publishedDateTime: 2020-01-31T17:14:00Z
+title: "AI Chip Market Is Booming"
+excerpt: "prompting at least one market tracker to predict a three-fold increase in AI chip applications over the next five years. In a survey of AI adoption released this week, IHS Markit predicts AI applications will explode to $128.9 billion by 2025, up from ..."
+publishedDateTime: 2020-01-31T17:05:00Z
 webUrl: "https://www.hpcwire.com/2020/01/31/ai-chip-market-is-booming/"
 type: article
 quality: 54
@@ -21,64 +21,45 @@ images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/AI-silicon-shutterstock-675x380.jpg"
     width: 675
     height: 380
-    title: "AI Chip Market is Booming"
+    title: "AI Chip Market Is Booming"
 
 related:
-  - title: "Smart Marketing: How Corporate Marketers Deploy AI"
-    excerpt: "Marketers report a 27% increase in the use of AI and machine learning in marketing toolkits over 6 months prior. Top uses include AI for content personalization, targeting, predictive analytics. Organizational challenges to maximize the impact of AI in marketing are discussed."
-    publishedDateTime: 2020-02-04T16:02:00Z
-    webUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
+  - title: "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon"
+    excerpt: "The Latest research study released by HTF MI \"Global Cloud Natural Language Processing Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
+    publishedDateTime: 2020-02-06T20:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinemoorman%2Ffiles%2F2020%2F02%2FAI-F1.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 588
-  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "/PRNewswire/ -- According to the new market research report \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
-    publishedDateTime: 2020-02-04T14:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024--exclusive-report-by-marketsandmarkets-300998432.html"
+        height: 630
+  - title: "Computer Vision Software Market Is Thriving Worldwide with Microsoft, OpenCV, Google"
+    excerpt: "Latest released study \"Global Computer Vision Software Market Size, Status and Forecast 2020-2026\" with 91 pages and in-depth assessment including market trends, upcoming technologies, industry drivers,"
+    publishedDateTime: 2020-02-05T08:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-is-thriving-worldwide-with-microsoft-opencv-google-2020-02-05"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
-  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 – Exclusive Report by MarketsandMarkets(TM)"
-    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\", published by MarketsandMarkets™, the global Emotion Detection and Recognition Market size is projected to grow from USD 21.6 billion in 2019 to USD 56.0 billion by 2024, at a Compound Annual Growth ..."
-    publishedDateTime: 2020-02-04T21:49:00Z
-    webUrl: "https://www.oilandgas360.com/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024-exclusive-report-by-marketsandmarketstm/"
-    type: article
-    provider:
-      name: Range
-      domain: oilandgas360.com
-    quality: 3
-    images:
-      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
-        width: 300
-        height: 250
-  - title: "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Smart Learning Market by Component (Hardware ... Enterprise users include organizations catering to various verticals, such as retail; government; healthcare; and Banking, Financial Services and Insurance (BFSI). Corporate users implement these solutions as a tool to train and assess employees for providing ..."
-    publishedDateTime: 2020-02-10T11:56:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200210005444/en/Global-Smart-Learning-Market-Size-Projected-Grow"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200210005444/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
+  - title: "Conversational AI Market is Booming Worldwide | Oracle, SAP, Nuance"
+    excerpt: "A New Syndicate Global Conversational AI Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Conversational AI market."
+    publishedDateTime: 2020-02-06T10:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-market-is-booming-worldwide-oracle-sap-nuance-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
-secured: "BK7rHyXixpvkvW+pJnv4YGAnhOinWVRAIRrlgVtdtBYc7kKBUYXg/ufx/tfvwZPbPbbZ4kpNWfP5tGikpbNPXgdmmdyCW8tBcT+o6iALSZ6nLtQ4i9QHPbLlmL0c76Xs94pVD79LNXkR1tWgVphFRwhcbDrf/JMkIiI+teWhz3qWm5DBMCt9hDsw/X7o5zpWRCe+gIQz0ayUilzgxHUTiO0DFMZhZ9Zda+FQH+7DP4RsPW+csPWkfqu26VNIZ0j1o0SVTA+8jFYn/yFkM0E9JDpkZ5R907PHNRH03nkrddcAH6oRqiqlwMiGqZRpp7RyjhnZs48Ku7r95TYO7X6n7nB1fKaAa8hcMFsX9BtIkcc27UVGl7b++Pt6SlVBqbCugTVPoEWGH/SNlTquTzpcdrl6XBxJZlJjJavnrhHUCrkUPWImR8LcOdSuA9wVNNjWajrc+S86Eq5llheWDxhJMG1KtHOmUkCcHLQLx95LVmI=;NkOUlIqoMdy3efDMtAkp3Q=="
+secured: "bSHpZlJil9HaH/VvDvKofT6DhDPFnT/QM2aSjhVzjDizp8EsUAUnQFBFtn7bq1Xu6E8IjSlspCXxXx9B1RwS3om+aZfP/xv7SAMOJ/M3bE7bP9RcDZSYcv9QcAIZTS9x5sL+UtepMAE6jJkbJjPRTPqUIzb8JEGsBB4p7/A7gQ/n+eTItq6nGP6WKcQ09dmEFSsfKQztPXlEN7awjsWmO6nXCWyMh4XQmnQ5DSQe++1yb6JkcUdI8801mNmEF19yHv2M5tz9zwxCXVdI/JL80Y/ajGByRdvojJIevtwWS3n4ELJEbb8qUXi3jCnjL/wK;49Ox99VQKL3i4WUICvn1yw=="
 ---
 

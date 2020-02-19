@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T18:22:09Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 220
+heat: 230
 published: true
 
 provider:
@@ -139,6 +139,19 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42004-020-0261-x/MediaObjects/42004_2020_261_Fig1_HTML.png"
         width: 685
         height: 389
+  - title: "How Increasing Power and Advanced Cooling Techniques Are Converging for AI, Supercomputing and Cloud Data Centers"
+    excerpt: "This is driving innovation from companies like Cerebras, whose recently announced Wafer Scale Engine (WSE) is widely regarded as the most powerful processor in AI today. Comprised of 84 processing cells that span an entire wafer and yet function as a single chip, the WSE dramatically reduces the latency associated with a traditional singulated ..."
+    publishedDateTime: 2020-02-10T21:44:00Z
+    webUrl: "https://www.embedded-computing.com/guest-blogs/how-increasing-power-and-advanced-cooling-techniques-are-converging-for-ai-supercomputing-and-cloud-datacenters"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 18
+    images:
+      - url: "http://share.opsy.st/5e41cd6c4aabb-cranium-2099120_1280.png"
+        width: 1160
+        height: 1280
   - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
     excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
     publishedDateTime: 2020-02-06T09:45:00Z

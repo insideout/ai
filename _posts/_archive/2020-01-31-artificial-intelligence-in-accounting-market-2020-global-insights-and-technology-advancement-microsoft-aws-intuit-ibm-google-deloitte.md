@@ -28,36 +28,62 @@ images:
     title: "Artificial Intelligence In Accounting Market 2020 Global Insights and Technology Advancement - Microsoft, AWS, Intuit, IBM, Google, Deloitte"
 
 related:
-  - title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
-    excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-date analysis of the Market with regards to the innovations, current competitive landscape and latest trends and drivers, to provide new predictions for the forecast period."
-    publishedDateTime: 2020-02-03T11:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
+  - title: "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020"
+    excerpt: "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,"
+    publishedDateTime: 2020-02-06T06:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
-    excerpt: "New Jersey, United States, - The report on the Cognitive Services Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
-    publishedDateTime: 2020-01-27T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
+  - title: "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025"
+    excerpt: "The AI Market in Social Media valued at USD 815.33 million in 2019 and is expected to reach USD 3,714.89 million by 2025, recording a CAGR of 28.77%, during the forecast period of 2020-2025. Social media has become one of the primary sources of customer intelligence data."
+    publishedDateTime: 2020-02-06T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-technology-advancement-and-global-outlook-2026-2020-02-03"
+  - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
+    excerpt: "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-02-08T04:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Construction Market Technological Enhancement and Advancement Outlook - 2026"
+    excerpt: "Latest Industry Research Report On global Artificial Intelligence (AI) In Construction Market Research Report 2020 in-depth analysis of the market state and also the competitive landscape globally. The Artificial Intelligence (AI) In Construction market report provides information regarding market size,"
+    publishedDateTime: 2020-02-05T05:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-technological-enhancement-and-advancement-outlook---2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Military Market Latest Advancement And New Upcoming Trends To 2029"
+    excerpt: "A recent market research analysis titled, Artificial Intelligence in Military Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Military market covering industry surroundings,"
+    publishedDateTime: 2020-02-10T09:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-latest-advancement-and-new-upcoming-trends-to-2029-2020-02-10"
     type: article
     provider:
       name: MarketWatch
@@ -67,82 +93,56 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
-    excerpt: "Excellence Market Research has recently published a very complete analysis of the Image Recognition market based on comprehensive secondary and primary research. The report titled \"Global Image Recognition Market 2020 Industry Research Report\" offers the most precise analysis of the Image Recognition industry for the last five years and forecast until 2025."
-    publishedDateTime: 2020-01-31T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-2020--qualcomm-nec-google-ltu-technologies-catchoom-technologies-2020-01-31"
+  - title: "AI in Fintech Market Technological Innovation, Current and Future Huge Demand, Scope 2020-2026"
+    excerpt: "QY Market Research Store has added the report titled Global AI in Fintech Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
+    publishedDateTime: 2020-02-07T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-technological-innovation-current-and-future-huge-demand-scope-2020-2026-2020-02-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Voice And Speech Recognition Software Market Technology Growth and Development 2020 to 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-07T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-technology-growth-and-development-2020-to-2026-2020-02-07"
+    quality: 37
+  - title: "Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology, By End Use And Segment Forecasts, 2019 - 2025"
+    excerpt: "/PRNewswire/ -- Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology (Deep Learning, Machine Learning), By End"
+    publishedDateTime: 2020-02-05T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-share--trends-analysis-report-by-solution-by-technology-by-end-use-and-segment-forecasts-2019---2025-300999317.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
-    excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
-    publishedDateTime: 2020-02-03T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technologies-market-top-key-vendors--microsoft-corporation-alphabet-inc-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "AI in Education Market Growth Set to Surge Significantly during 2020 – 2025 | Google, OSMO, Microsoft, IBM, Cognizant, Pearson, Querium"
-    excerpt: "ReportsWeb Adds \"Global AI IN EDUCATION Market\" offers Current and futuristic Market scenario, product segmentation, and competitive positioning for AI IN EDUCATION Market globally for its business expansion strategies."
-    publishedDateTime: 2020-02-04T05:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-growth-set-to-surge-significantly-during-2020-2025-google-osmo-microsoft-ibm-cognizant-pearson-querium-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
-    excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
-    publishedDateTime: 2020-02-03T12:24:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 4
-  - title: "Enterprise Artificial Intelligence Market Technology, Future Trends, Opportunities 2019 & Key Players Google Inc, Apple Inc., Amazon Web Services"
-    excerpt: "The updated research report on ‘Global Enterprise Artificial Intelligence Market’ offers real-time information with ... This has driven the market of AI across the globe, owing to developments, such as self-driving cars, space exploration, accurate weather predictions, and others. Furthermore, AI is expected to affect healthcare ..."
-    publishedDateTime: 2020-01-31T12:12:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/38112/enterprise-artificial-intelligence-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 0
-  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
-    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
-    publishedDateTime: 2020-02-04T19:16:00Z
-    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
+  - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
+    excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
+    publishedDateTime: 2020-02-05T02:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 0
+  - title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
+    excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
+    publishedDateTime: 2020-02-06T13:49:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/38259/self-driving-bus-market-advanced-technology-and/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 0
+  - title: "24.7% Growth Rate for Social and Emotional Learning (SEL) Market by 2024 | Latest Innovation, Advance Technology, Top Companies - ReportsnReports"
+    excerpt: "Browse 130 Market Data Tables and 87 Figures spread through 199 Pages and in-depth TOC on \"Social and Emotional Learning (SEL) Market Research Report\" https://www.reportsnreports.com/reports/2891963-social-and-emotional-learning-sel-market-by-component-solutions-sel-platform-and-sel-assessment-tool-services-type-web-and-application-end-user-pre ..."
+    publishedDateTime: 2020-02-07T13:12:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/24-7-growth-rate-for-social-and-emotional-learning-sel-market-by-2024-latest-innovation-advance-technology-top-companies-reportsnreports-8485879"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 0
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
 
-secured: "zY6nwIv5NeQcP4TKuE9+Y04KwALNaTAA6I243cpVPtDKg/i15xme252AgMr8r63f/K5m1jSqMwjhaZ0VijSbwMCuHyiZh3+4Ipri7rMWUUmkWg/PmoXKkgKzNV2qAXp527kYtClnPGdwmQlM6BTK4gUK/PnPondPEgTFvU0KBCCgDtG2RaZrDiRX9nyXTqtn+Ng9KsNZH0TycpR7gkjAPrhJJ2kLQBUfaAWQOTdiXT/xQhf5me6QzLfljnYYfqtvMA0tCUnb3PU/anKyBsISuILm9blKQh/92JL3rdRZmZMzAxjfKGF+I7vraM0O4F9K;rgesnb4B81NczP5zSp8G+A=="
+secured: "qwD5mNCT9WMByVBDi5Zwt+rdHkpi9IFYyc3ZxTc+R+7j1kOmdZoV31JG7gkzGXr8E8uL2cwD6zAP8sYe/02/QGh80GQCugqvOB43YaFwsGf6fM4SSEHSQdEWIoRNxG7DjyVL6XnBB0ULIrGQfFmGr3q3quAyvqAbTMUBRUZi5kHCtdVTJC/ybZwIcTNykrlKH+XgP3pfDUwm8UCUNOGQpSOcGM3SPGr7xG99ZOMCWQRADuFnwqhoG7H05FtptpnnxWm5GfSB9JTZ4mNGXCJ8qJlFbNfNfdc+iEG8tPQLHHGag6+/7DV4U0tUimHMjngc;ZVWc9hTa2HchkddLEp/b0A=="
 ---
 

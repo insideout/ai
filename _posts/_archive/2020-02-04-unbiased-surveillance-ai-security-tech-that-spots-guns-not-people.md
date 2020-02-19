@@ -7,8 +7,8 @@ webUrl: "https://observer.com/2020/02/athena-security-surveillance-bias-gun-cont
 ampWebUrl: "https://observer.com/2020/02/athena-security-surveillance-bias-gun-control/amp/"
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/02/athena-security-surveillance-bias-gun-control/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "kHZCGqS9/SzY3yu1boqEwVA+G43LYd/1FuX22E5RBkzHD5HBemo4wBB/yUtGf4/6btElJzlt5qKxpn7O2cwZMJaJPgUfQC+Blkm4LFk6aeNH5p6MpnvbcBAXeu/sAHj0ayCTyEphKVRMpJHmHamXCG79UIS0CytKJKXOMeqwT+um/OdXXv6gZp7XEYtU+zjpVFz6z0itwDOvPU1TiU/Q9lFOc6OfQGI6iK9baL3xo5B448skaq26zDgmMwKH3xetvaEfNDiWYBx3OM7VP677EzaHPXNIIxsp0MmRK13Wuv2oHr9+kSc/QEZdfPXWHkaTLym6ovEx/Kk8VPP/Q6FvmLq3HcfpdmKjZChVO2310Xj844Mcxh+nTAPIXO4xUpYQR9LZ7YUBwvaxdDLixSLKv86RLrF9Xrwmi9TGs0vfQecJQfKT/SSx0TfrablIXEY7ByTpfQvWfAIilHPTQIl3OneABt7nhiJU8bT8678VdYc=;ywwm7IGd5bejUef0XJCtbw=="
+images:
+  - url: "https://observer.com/wp-content/uploads/sites/2/2020/02/56161324_434979100380682_5588907875608035328_n-e1580760304964.png?quality=80&strip"
+    width: 902
+    height: 505
+    title: "Unbiased Surveillance: AI Security Tech That Spots Guns, Not People"
+
+secured: "nj3zkPIrbRvW0RHy4dz7loYHFhobc42RbbuLt34SzTSSWyTPSs05yjtMFrbhokj7uz1WJU5SuajmuYhSwIV8GW3mf+AJEpTeDA9Sql0aDETy1Tt6rVnUsGfz+iwZnGChtn/N+WcpTiHgiIXptg/OQEeB/E3asnefrOhqGHH8j2sW+aH0GzCmq8VwC4Y+FrnmR0+/Tu1Sak4md0Xe7op+B6Zqw0mcyv1KoThOwWPWF1XP1PPqrR+WNYXtgFq6YDRMiTPGUGo+ksstNDYEjQwaA7L1OrnnDH/IylB1ORBRZxO1+8KFMfcuQvW+0w0oD3Nm;+UDtbD+VrqoMD4k62GPG1Q=="
 ---
 

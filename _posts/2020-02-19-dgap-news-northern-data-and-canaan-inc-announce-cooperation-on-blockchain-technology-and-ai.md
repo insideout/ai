@@ -20,17 +20,13 @@ topics:
 related:
   - title: "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI"
     excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ..."
-    publishedDateTime: 2020-02-19T07:57:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-northern-data-canaan-inc-announce-cooperation-blockchain-technology-/2020/02/19/9100094.htm"
+    publishedDateTime: 2020-02-19T07:43:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200218006230/en/Northern-Data-Canaan-Announce-Cooperation-Blockchain-technology-AI"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
   - title: "Sandler's Methodology and Gong's Revenue Intelligence Technology is an Unbeatable Combination"
     excerpt: "/PRNewswire/ -- Artificial intelligence is here to stay. The global leader in the training industry, Sandler (www.sandler.com), has partnered with"
     publishedDateTime: 2020-02-12T14:32:00Z

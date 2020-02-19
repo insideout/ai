@@ -2,26 +2,20 @@
 category: news
 title: "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI"
 excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ..."
-publishedDateTime: 2020-02-19T07:57:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-northern-data-canaan-inc-announce-cooperation-blockchain-technology-/2020/02/19/9100094.htm"
+publishedDateTime: 2020-02-19T07:43:00Z
+webUrl: "https://www.businesswire.com/news/home/20200218006230/en/Northern-Data-Canaan-Announce-Cooperation-Blockchain-technology-AI"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI Hardware
-
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI"
 
 related:
   - title: "Sandler's Methodology and Gong's Revenue Intelligence Technology is an Unbeatable Combination"
@@ -47,6 +41,6 @@ related:
       domain: 4investors.de
     quality: 8
 
-secured: "IglT2PTPy6FNNuCNf7njleAkcXo9gqt9gi+1WfRUqgRiH/gzJlI9JkR5tqbJofn/Lg2FSFP0M3R/X3QxWMyE6OjPAIhebzi8u6aq1uC9NTRI/Afu3NJdCBaNU2niGKlt491YY8JpZAeVuGwOJ0INMlArkWJRJ0en80MlCJK23TtVvMM9H+CS0DZA2lMpXmxMYfJo1X52x/YWtKumboHDzC7r6ZH+Msrb/otENpFGKYmtKeBNkuwX/CfPHZs+wk43Ee6hQ+wnCmHxjiwwYAL3OClM0MZKUZvHzuEtJO0ON5QFfuUW61YXMuYHcfAZA8+O;7aWaz7hpEEd0/D7laJvR9Q=="
+secured: "qSMBnt9RqjNeyZ2LXDS6RSRRVetsQkMQYFNxwfOSjzDM+fHitPxr0tNKsQIOorzw6GUQe+PPXegdFhJIroSSfB1HjPLtdY9Ata7dHugvWkU7tWXBD4N34YrQ6CTPe4Adt8ov0Dxh0cmlLoNBkgF3sJhvyJeoJs7BL+moGuHO7PujiWKzaAcBKf82YgP3H3XSG4I/MEUJJj9fDSPgyX0EYtBMyuKK5xIwOhafkHawe78mxPmDp5F89gwP2JW5h/hyqIm2eJ63kgz5JxdfX+xVy9pzDqiTh4EpEgiqz51TfnBKeepoZo9ys3nHiQwX5oAo;r30OhVbMn/Zt8ZzUJhwtMQ=="
 ---
 

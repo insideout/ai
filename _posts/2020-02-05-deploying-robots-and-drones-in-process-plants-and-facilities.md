@@ -37,19 +37,6 @@ related:
       - url: "https://www.roboticstomorrow.com/images/articles/14749.jpg"
         width: 680
         height: 295
-  - title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
-    excerpt: "/PRNewswire/ -- MassRobotics, the independent, nonprofit serving as an innovation hub for robotics and smart connected devices, officially opened its"
-    publishedDateTime: 2020-02-04T15:28:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/massrobotics-expands-innovation-hub-serves-robotics-ai-and-connected-devices-startups-stem-programs-and-global-robotics-community-300998727.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
   - title: "Kitchener-based self-driving industrial robot maker Otto Motors expands into Japan"
     excerpt: "Based in Kitchener, Otto Motors produces self-driving technology and vehicles that move materials within manufacturing and warehousing facilities. Altech is a trading company that imports advanced machinery and equipment from Europe and the United States (US) to support Japanese industrial companies. “Our innovative self-driving vehicles have ..."
     publishedDateTime: 2020-02-14T11:02:00Z

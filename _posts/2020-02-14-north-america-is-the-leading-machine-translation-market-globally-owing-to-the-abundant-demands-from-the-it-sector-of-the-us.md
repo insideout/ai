@@ -72,6 +72,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
+  - title: "Influence marketing’s problems can be solved with a machine-learning solution"
+    excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
+    publishedDateTime: 2020-02-10T20:08:00Z
+    webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 21
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
+        width: 1254
+        height: 836
 
 secured: "5x5NrtibgvFUez5ue1qdOGnhAtVKRHOrh7xXkNqmG6Ae+7mqHYU0Hy+1Qb/IgaoG4WyI1ODU7oamkuPpk5EBa/UK56IM41IrEqqSoJR2J6HfcNAT60E0I70vTXrVkdiX8GCHmzMzlJ8/SIHfxN6CpY10yw+B0kY24CjfaFnONJU5vZXQjzLkWteaPBatBrPrqagKLrG0Lv/ddpZ0PTpNDJFtmYVfc0kMMdc1BJ5MgIGos+XlGMvX3eP43/3NKciU4jYUkPTdTnGGHLNVt/r84PjpbAUqdXCaQGz/9mCWh9LrLiu3IU2deNHGJ7vsC7O3;ybtPWacldCh4oTmMblNuww=="
 ---

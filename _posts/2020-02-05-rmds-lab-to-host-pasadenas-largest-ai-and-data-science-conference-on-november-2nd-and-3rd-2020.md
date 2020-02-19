@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T01:37:00Z
 webUrl: "https://apnews.com/PR Newswire/a4ae5a4474acbea89994df4b305645d9"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -16,21 +16,6 @@ provider:
 topics:
   - AI
   - IBM AI
-
-related:
-  - title: "RMDS Lab to Host Pasadena's Largest AI and Data Science Conference on November 2nd and 3rd, 2020"
-    excerpt: "/PRNewswire/ -- \"IM DATA\", the industry-leading conference focused on innovative and impactful data science hosted by Research Method and Data Science"
-    publishedDateTime: 2020-02-04T15:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/rmds-lab-to-host-pasadenas-largest-ai-and-data-science-conference-on-november-2nd-and-3rd-2020-300998747.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1038098/RMDS_Lab_Logo.jpg?p=facebook"
-        width: 690
-        height: 361
 
 secured: "rsay3FdoD3e+uqahY2yYQYc6YPV92/St/OmhUNyWmRD749h23QOZHOLvpJM3aB89Prf5Y+tHH0xY70FKNGTahc/VdmoaW+T2vUBK6pPrFhANwjbKAvO7vuHHvnyEtRU/4EKFvuRUWzhsLaN/BxEVsswgPOa87UBMejx0aHYwtKeivaOYgigh7ykLCBXLWQAbbT8/dFbck5oSYD3hYnAhUwuyRela+37X3xXn9zrNU8zN0d+9DvBzTmMqiEzq1bjAxgrgCmAXvV2SBFJ79mou1yB3SQMX3BfN7SiWAr1QL967r2SlZrT0/JqtQBtYijmJ;XMIMvHB8uu9JuON6kdQWww=="
 ---

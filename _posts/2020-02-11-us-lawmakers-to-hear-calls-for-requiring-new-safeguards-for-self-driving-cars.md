@@ -299,19 +299,6 @@ related:
       - url: "https://placehold.it/300X250"
         width: 300
         height: 250
-  - title: "BGU developing system to stop self-driving cars being fooled"
-    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
-    publishedDateTime: 2020-02-04T13:36:00Z
-    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 24
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
-        width: 822
-        height: 537
   - title: "Uber’s Self-Driving Vehicles Get On-Road Permit For CA"
     excerpt: "Uber may soon be able to put its self-driving vehicles back on California roads after several years, with the issuance of a new permit, according to reports. The company had to scale back its autonomous vehicle program following an incident in Arizona where a pedestrian was killed by one of the vehicles. However, the permit — issued by the ..."
     publishedDateTime: 2020-02-06T07:13:00Z

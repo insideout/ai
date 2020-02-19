@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-04T19:50:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education/255640"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: BCW
@@ -24,19 +24,6 @@ images:
     title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
 
 related:
-  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
-    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
-    publishedDateTime: 2020-02-04T14:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
   - title: "Raspberry Pi outdoor camera with object recognition"
     excerpt: "Technology enthusiast and environmentalist Paul Kinsella has created a new rugged Raspberry Pi outdoor camera that can be powered by a standard 5 volt micro USB or via the company’s 24-36 volt vehicle powering system. Enabling the small outdoor cameras to be situated almost anywhere thanks to their rugged shell. The Raspberry Pi camera lens ..."
     publishedDateTime: 2020-02-06T11:27:00Z

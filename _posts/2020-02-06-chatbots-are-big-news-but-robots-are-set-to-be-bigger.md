@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 816
     height: 459
     title: "Chatbots are big news, but robots are set to be bigger"
+
+related:
+  - title: "Look out, the robots are coming!"
+    excerpt: "Just when I think that I'm getting used to the shiny new world of Roombas, Alexas and driverless cars, something else comes along and throws ... a team of international researchers remarked on the potential of artificial intelligence to disrupt a variety of jobs in fields as diverse as finance, information technology, law and medicine, and ..."
+    publishedDateTime: 2020-02-08T04:31:00Z
+    webUrl: "https://www.texarkanagazette.com/news/features/story/2020/feb/07/look-out-robots-are-coming/815638/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 24
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2020/02/07/cdoughertycolumn24539147173_t1070_h10763943e31ed1ed1283106f30b9da2ac5376c82.jpg"
+        width: 1070
+        height: 721
 
 secured: "dz3pCobmMmkxwsAkVu9+a1bHIE4P9e73T34TBet+wTcwOtbf3W2W8G73AhBg6Wrf6xyoX+NXwS64tmqIzPoAHEEpOiL0+pqcJDboibmQVXSEWpmkreQ0bqOrK3qhRPCrjMCWLZf1bsUjf1lkVhROco0dUSgosZ1Iwco0A2HWj7nZSdC81JqAZ3MAjW7gxAYMQMQxSjzjS4VNMRp7gyMld5eUh8NVuXFlbUPUQXOk9jNJABysGUwS8bKbVASvLxEGjZ1gdLR7VGYdfHI3IYA8DeMDau8E5ZBCRY9jFlnqhBqgAmTsKTOfWEfju5gPf3Wm;SzYdWXz35If/suI3WWpHUA=="
 ---

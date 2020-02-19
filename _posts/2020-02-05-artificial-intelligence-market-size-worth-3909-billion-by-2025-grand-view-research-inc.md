@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T08:40:00Z
 webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48774387-artificial-intelligence-market-size-worth-dollar-390-9-billion-by-2025-grand-view-research-inc-008.htm"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -16,35 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-related:
-  - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
-    excerpt: "LOS ANGELES, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The global machine learning market is anticipated to grow at a CAGR of around 40.1% over the forecast period 2019 to 2026 and reach the market value of around US$ 76."
-    publishedDateTime: 2020-02-05T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-around-us-768-bn-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Machine Learning Market Garner Valuation US$ 76.8 Bn by 2026"
-    excerpt: "The global machine learning market value is expected to reach around US$ 76.8 Bn by 2026 and growing at a CAGR of around 40.1% over the forecast period 2019 to 2026. Machine learning is a subset of artificial intelligence. The concept has evolved from computational learning and pattern recognition in artificial intelligence. It explores the ..."
-    publishedDateTime: 2020-02-05T05:54:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/38213/machine-learning-market-garner-valuation-us-768/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 19
-  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
-    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
-    publishedDateTime: 2020-02-06T12:07:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "BBRGAd4DepHnnSOicLnQ7pPC4G2VH+shQZsHvTCg+NJi1nAJljE0hL6AyPNWlgWgpS2ZZxZbx///Rm/khsW9onWYM7WQIaBBzrJ2W8Klx10MTKdTaNdF0SJ9Y/cjA+xpEX0UUe2KTMJXVMQ0lX+alt3wfsd9gMxDCccQu8BOBezU9H8ReRtJEnaJtGFiCqDAMgMwRW4fxgbIofUT2K1HgoQkQMTV3RNvHD/l9hQTY6gjuLw+ccvfvZB34uF0kYlMNLGXzl7aIGEeIkdKiPPRQq28rUpuhIR75f0r/52yOVIuMf0YVgV+lCglAwCMdACz;6fbmGM19Tt4MEEaCBd15KA=="
 ---

@@ -31,19 +31,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global LegalTech Artificial Intelligence Market is Expected to Grow at a CAGR of More Than 37.7% Over"
-    excerpt: "PUNE, India, Feb. 4, 2020 /PRNewswire/ -- The digital reforms in the legal industry have transformed the traditional courtrooms and law practices, thus strengthening the prevalence of Artificial Intelligence (AI) in legal technology or legaltech. The increasing burden of legal activities, carried out around the globe, over a limited number of ..."
-    publishedDateTime: 2020-02-04T15:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/02/04/9091877.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
-        width: 400
-        height: 400
 
 secured: "g5nRz9cR3JEC2UeEAn53j3PXBTIGpBDgzAdmOE1lt6eX0KKVyFP42HdA0r1ymGSMcAO/vB+074wEm6roCpRwPYdHz3A4ochRLryvZ1CCGcQiqOi+D09s5WQrHZLdWmkOr4AR69IN+RUuKvv7SP8RGPT+fYcHx09VoDrgao1VhfXi3Gf9HwdY/v95lozz8Kt/spSOOQLDUZfAixisyTPBPk2Q39J2GvhQnwTTxU/c0hW8SFCIkU7idRyrrxARsgp9U0gbe6+1I9Ia5FzqLjmAGh63YrxG4t8di2ISPa1U2Q5ArPLrV82X38XA4RFFKYfM;yphsZygbO4DRZYh85U4j8g=="
 ---

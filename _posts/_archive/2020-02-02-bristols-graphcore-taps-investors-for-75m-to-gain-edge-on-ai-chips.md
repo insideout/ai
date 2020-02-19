@@ -7,8 +7,8 @@ webUrl: "https://www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-ta
 ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "AGkUOI1JM1V/sT7YqBpVnXeN4c+mdAlVfdCez8VTbG7jdDI+f4EeQeL3sIo86p29CA5J/WJIDi0QYKF6i/Wu+cVAXBfjC3StAysJ8BffVF0mWZvpcjFhi9EYGIwS3AofLeuRfamE5jcPthf3KXEv8S8HYwc8Ab+py9FT+pdX88VmfBe1bYynoABPyYvswtK81jGwn06qVRq3TzOP0lVNM+aQSHFaESS2KN4hek8373DAk4Z/Vg4suWRaylkPOv3W4ir0Yl2MXuoIvc+C7dosgJEjcLFJKX8+UncXZG5RoZg/RIbIhTLi/t+X5QQFpW+r;fR08frIZvI6AZigLnXJZKQ=="
+images:
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/19/Bezos_trans_NvBQzQNjv4Bqx5egiJ9MQyAqq6uO2mksLROxyekbAExuqqiwitUj4yY.PNG"
+    width: 707
+    height: 442
+    title: "Bristol’s Graphcore taps investors for $75m to gain edge on AI chips"
+
+secured: "h/jlObsCC9Rze00dPe8yF6/jroDKAzAJDHofocch23CsCaZj2VVGHPBNq3C4kCq3qNmKOwdYx1VMWUcmdzdEyGFBabtg56uxMkDhACM6kLZhxJcFSkADWxFVB7KjMa2kMS8FM93jL2bU9fqDX6LVmKRPxfnu0N4tj8YGXcQgeUpWYALtm43a5fZJERQqsa6PdOBBRGEtPEMFx66KlsCwKz5lbuABMp3C77TZ2iooO23w22Yp6jOVByMopfF/WMAQ16XRs0hQDMIiF/wE0/JACDCZJJOXcu6dA6PL7Ivv5X+PDlORa9GTEwrtlrcZA7NU;sUmWCUJ6s1SN+dZxjdFqXA=="
 ---
 

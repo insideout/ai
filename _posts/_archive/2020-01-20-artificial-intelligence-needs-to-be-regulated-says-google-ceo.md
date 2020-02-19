@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Bloomberg
@@ -24,21 +24,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
@@ -54,22 +39,7 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
         width: 1200
         height: 628
-  - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "“There is no question in my mind that artificial intelligence needs to be regulated ... PHOENIX (AP) — A man described as a disgruntled former Waymo driver has been arrested on suspicion ..."
-    publishedDateTime: 2020-01-20T15:16:00Z
-    webUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/"
-    ampWebUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: KRQE
-      domain: krqe.com
-    quality: 59
-    images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
 
-secured: "5aYxZkWHeGmP2n/kZfZNEzQnt2wV+sH7Ikaois1y7LL0th41b5X5rLvtY0iXoza+1jRKTpYzkoEmJMSCUi0ELDO5E1NoyCmLCaBBqWRIYMv9ia/uBLusmTL5kKvnxcibt3VMvs5Cl170EFI8hH2k9pW/8iOpuqmIupzElhVFkvIZp0knikP4Z2Hoy5S7GvSTjUtkbvlq+b90phQwQieBOo+gwJtpgVwDakre5jvzijNCvpIc50J7uEARdSQQjljfGe1lfwfRO/OszeKkqKddHa2a2QJRYA/qfxA1YyFpQFynFfpa8Vo7vEmlLNP5Lt5K;xF3tPN+qHwh8nEzUq4YLbA=="
+secured: "sp+HJrF1yYL60PC4wodAsYnHLp9RwqcxSAqiRkJ7RlfCbSsTMOGkxKG4wzqC3E81jvJv4Gxo23zLiTCfobHKfDmsOngzawGHI1cHc+sDV3D2HrOIa3URSxZlFFubgjxX7AxKZnERw/B1EM0bhe7cIice8g9dR9XuFk9gAA5LtPfyeSHIDOD0xnQmxlpYi4DuLy7m7IbMuK1F7COX7ASMT0wypeSm1VtbCMpNlVOrPTxZJqDUZUekD0iqI6m8fB5Cj7DQ+hz4zmwoxHK/CGrN/uyAkBHMZRdm0Eq8heA+a+UFXxloPxiVP9EZdhiYfOkd;XRA6nWgwqC9F1WUnJ3IMiA=="
 ---
 

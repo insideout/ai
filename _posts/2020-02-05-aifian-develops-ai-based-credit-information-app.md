@@ -24,19 +24,6 @@ images:
     height: 231
     title: "Aifian develops AI-based credit information App"
 
-related:
-  - title: "For customer experience, Kotak Life announces AI-based 'Kaya' solution developed by Haptik"
-    excerpt: "Kartik Poddar, business head, Haptik, said, “Conversational Artificial Intelligence (AI) is really transforming the customer support function by providing ... KAYA as she becomes the epicenter of customer engagement at Kotak Life.” Users can start conversations with KAYA on Kotak Life’s website, the company said."
-    publishedDateTime: 2020-02-04T13:46:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/for-customer-experience-kotak-life-announces-ai-based-kaya-solution-developed-by-haptik/73938458"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/for-customer-experience-kotak-life-announces-ai-based-kaya-solution-developed-by-haptik/73938458"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/for-customer-experience-kotak-life-announces-ai-based-kaya-solution-developed-by-haptik/73938458"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 27
-
 secured: "SoCOm5djpolSwO7AtApm6MXmxFFOLjittEN/4ep96JUO5sWTRR/lNusO/f1mPmchUM/OL3mr2ThZsunuVM7M0X9iKs6F1bF4PghSafubdLvBlsuT0wSiEafI4TypWdES4UtrNG3yCqquQw14JWc8+OYD/wHoWnaCP6xfjihiZ8gVm3upbGFhtjKwfDuQO0yqurGSb4TFqZMRuU4i2divQMTamEcMXrrGyJsP9IcbdyjX7ZcN2IckvMQPOY57c6Hr+LJ/9e6v8vHsqEBPzMMDJpoXfi1bKeo2Fbpzk8GmY1KS85silZU0MHkY2itvGjzN2kelPiCCQ4ixclTGOZappk8RHIQZokStjBMulYuSuZ0ICoAS6gl1MlcmaRl5GOWrVstc65YitB7SJ8LXWZcfgZcfMcF0uS83j/T39TKEMxGC3ej7d1+1EDrkF/ZE1l093Lw3Vp6Gjj3eV/YwEVA21neAnoljx2HDtpfJYZ5OjvY=;hpFucSybeCov3BZ9ELjemQ=="
 ---
 

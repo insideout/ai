@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T19:56:00Z
 webUrl: "https://medium.com/@ubajakacj/2019-machine-learning-and-data-science-survey-4b882aced1a8"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "2019 Machine Learning and Data Science Survey"
 
 related:
-  - title: "Data Science And Machine Learning Service Market Status and Business Outlook 2020-2026"
-    excerpt: "Market Insight Reports has added the report titled global Data Science And Machine Learning Service Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
-    publishedDateTime: 2020-02-08T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-status-and-business-outlook-2020-2026-2020-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Dataiku Launches Dataiku Community to Bring Together Professionals in Data Science, Machine Learning and AI"
     excerpt: "/PRNewswire/ -- Dataiku, one of the world's leading Enterprise AI and machine learning platforms, today announced the launch of the Dataiku Community,"
     publishedDateTime: 2020-02-05T15:51:00Z

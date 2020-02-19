@@ -5,8 +5,8 @@ excerpt: "While it was once considered an advanced technology of the future, art
 publishedDateTime: 2020-02-03T09:40:00Z
 webUrl: "https://roboticsandautomationnews.com/2020/02/03/artificial-intelligence-in-the-real-estate-industry/29447/"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,30 +17,27 @@ topics:
   - AI
   - AI in Autos
 
-related:
-  - title: "Artificial Intelligence (AI) in the Global Freight Transportation Industry, Forecast to 2025"
-    excerpt: "/PRNewswire/ -- This study analyses the key trends and applications of artificial intelligence in the freight transportation industry by mode of transport"
-    publishedDateTime: 2020-02-04T12:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-the-global-freight-transportation-industry-forecast-to-2025-300998307.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 41
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "Artificial Intelligence in the Freight Transportation Industry, 2020-2025 - Featuring Cargofy, FERO and KONUX"
-    excerpt: "DUBLIN, Feb. 4, 2020 /PRNewswire/ -- The \"Artificial Intelligence (AI) in the Global Freight Transportation Industry, Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. This study analyses the key trends and applications of artificial intelligence in the freight transportation industry by mode of transport i."
-    publishedDateTime: 2020-02-04T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-freight-transportation-industry-2020-2025---featuring-cargofy-fero-and-konux-300998740.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+images:
+  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/joevren-brandon-griggs.jpg"
+    width: 750
+    height: 500
+    title: "Artificial intelligence in the real estate industry"
 
-secured: "LmONDmCTa2ds1fC7cs68WJY0IHXL4xkd1aKEuK3f6zPuGKR0/7N5UAcwGdT8ouQyiKBp0tLW7RZC6O9dCEIjH5p3kjvX36D5l/OA522pez3njLGWnu+UAVL9R7SgMCKwKsWt/Zs4B2rHpmL6y9aaZZ65vDONMmKRZSdR7O35n/Op587sH1AFE1oUKn60+F4J5KTKYtXeaIqA1qyOSXq2L3VpBMJg7ZEq8X42GQQfJYy0cwwlx11iVfUxz0SJChFj+t+LV7ojZX/qWE+WA67NJLPeHjEjM8C+F5OJm98ZGCStJn41KUWrtD17lIrggDc64cAjuSHjHruCYkUi6Gj1Y3mRn4JmikkJ54ydo/JK/GLSNuq9pH3otzpCnseUEg0QqodVko/UiDSP63/emkgoZsk/16ogNySDSVKLmPROMQt4wPVUa7VNRd4GNBq8tHgllcdX/S4yMClu1iqWSDyx22o0R0vZgjgIgAhqNOYDzps=;rnWhQ71zPjKQCiWT1y76yw=="
+related:
+  - title: "HouseCanary, Inc. Closes $65M Series C Round, Aims to Create More Efficiency in the $2 Trillion Residential Real Estate Market"
+    excerpt: "Through partnerships with leading financial institutions, HouseCanary’s ComeHome platform will enable ... based on big data and refined through machine learning. By combining this technology with its nationwide brokerage, HouseCanary is uniquely positioned to connect investors and consumers alike to the information that they care most about ..."
+    publishedDateTime: 2020-02-06T10:01:00Z
+    webUrl: "https://www.register-herald.com/region/housecanary-inc-closes-m-series-c-round-aims-to-create/article_738a57cd-25d2-5c9c-8153-ecdf5ed6c189.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 11
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+
+secured: "NaSJVZsm02ZyonWQrIoZ0C57CNKT0uWVv4S8s2+mMBofAdrfpWAXt0pPmhRyEbD19mola6wEiTEsx5X0/V7DEM0dwkeSQdNzpXZiJb1I5lv4ei22xUu2sGSMOZ+FsOS9n1YHu8wyYRH76ejSDVG8eaWTBj4/mExErzUORvs87bJ8EbwfvrdaqGBodZmNMDO6sIZRUQiHC7P7I99r6/1CsyCoRy5VYXzPLmfH8aGZFJPkzMrhh1QdiN1wrJVjhgOBVQx/YMVCwO268VgyCxekpe70StEzrFvh14ih+mDA6SoeakWWd9Es48h8zRvUmDuE;pX7h6sZeCxJZXmG3cmx47w=="
 ---
 

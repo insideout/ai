@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
 type: article
 quality: 105
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -68,6 +68,19 @@ related:
       - url: "https://www.crainscleveland.com/s3/files/styles/800x600/public/Hyland_Software_Logo_i.jpg"
         width: 800
         height: 600
+  - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
+    excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
+    publishedDateTime: 2020-02-05T02:19:00Z
+    webUrl: "https://www.digitimes.com/news/a20200205PR200.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200205PR200_files/2_r.jpg"
+        width: 336
+        height: 224
 
 secured: "h8m6CTfRKx94gBArjmsBV3sCxGcCh3JacbdRkdlI8AokEaR5lLs5ML5DiKN3H9YgwucezlXzUpmTgmIqn1zvKNcEDhW16bd+6RFrBTOrwZZdaAQL43AJ/oYRLh6NSB7j8Qw7dQVwzp00LdY/sepUZpl79PlTpOgqdibTN01NWxyLmvtCRD0rMAvoGvUCiOeM8lR+L6sl++Y+1cbW6kpDDxz9FUoc4u3ToBp29AJRFJXCE+V4JsN5J3dzOCpEYNOA2sP+YQ+XBSrdlCRIVe5j1eHcFmoN9JO4eebiL54LUeCB093i3KrWHTkTKR3R5Xve70BljmsVgikfShs5txq+rCJQz+HfBUBHE5QyM14+i4h1foZBTfBctEuOnsKuG0fUDBOquViU1nk/Bg4fGlKHrGrG54J7rJU0U3nE/NhMM5kmOss7RCAGhPxkq+Ano98mJmo9/2xVr1Si60QNKL7arZf4iSJhS8XcE+e415j4n9U=;UAJctHxD4ebiePV3rYYIVQ=="
 ---

@@ -50,19 +50,6 @@ related:
       - url: "https://cfemedia1.wpengine.com/wp-content/uploads/2020/02/CTL2002_MAG2_F3_Yokogawa-Fig2_RemoteRobotics-Slider.jpg"
         width: 645
         height: 350
-  - title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
-    excerpt: "/PRNewswire/ -- MassRobotics, the independent, nonprofit serving as an innovation hub for robotics and smart connected devices, officially opened its"
-    publishedDateTime: 2020-02-04T15:28:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/massrobotics-expands-innovation-hub-serves-robotics-ai-and-connected-devices-startups-stem-programs-and-global-robotics-community-300998727.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
   - title: "Medical Robotics Market to register a 23.21% CAGR by 2025: Key Findings, Regional Study, Trends, Growth, Top Key Players Profiles and Future Prospects"
     excerpt: "and artificial intelligence (AI) has changed the healthcare industry significantly. Thanks to these technologies, medical robotics are proven to be a more safe and useful process for performing surgeries. Increase in the adoption of the medical robots to perform minimally invasive surgeries by lowering the complications is propelling growth of ..."
     publishedDateTime: 2020-02-11T10:11:00Z
