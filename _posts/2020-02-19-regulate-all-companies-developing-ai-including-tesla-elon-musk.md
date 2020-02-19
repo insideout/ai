@@ -1,0 +1,72 @@
+---
+category: news
+title: "Regulate all companies developing AI, including Tesla: Elon Musk"
+excerpt: "Nadella who sees a greater role of AI for humanity will invest $1 billion in the next few years in OpenAI to support it build \"democratised AGI\" models. OpenAI would develop a hardware and software platform within Microsoft Azure Cloud platform which will scale to AGI. The start-up would also jointly develop new Azure AI supercomputing ..."
+publishedDateTime: 2020-02-19T05:20:00Z
+webUrl: "https://www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk-11582088884072.html"
+ampWebUrl: "https://www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk/amp-11582088884072.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk/amp-11582088884072.html"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Mint
+  domain: livemint.com
+
+topics:
+  - AI
+  - Microsoft AI
+
+related:
+  - title: "Elon Musk says all advanced AI development should be regulated, including at Tesla"
+    excerpt: "Tesla and SpaceX CEO Elon Musk is once again sounding a warning note regarding the development of artificial intelligence – the executive and founder tweeted on Monday evening that “all org[anizations] developing advance AI should be regulated, including Tesla.” Musk was responding to a new MIT Technology Review profile of OpenAI ..."
+    publishedDateTime: 2020-02-18T14:24:00Z
+    webUrl: "https://techcrunch.com/2020/02/18/elon-musk-says-all-advanced-ai-development-should-be-regulated-including-at-tesla/"
+    ampWebUrl: "https://techcrunch.com/2020/02/18/elon-musk-says-all-advanced-ai-development-should-be-regulated-including-at-tesla/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/18/elon-musk-says-all-advanced-ai-development-should-be-regulated-including-at-tesla/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/11/AP_18296801176372.jpg?w=1024"
+        width: 1024
+        height: 658
+  - title: "Elon Musk warns that all A.I. must be regulated, even at Tesla"
+    excerpt: "Musk tweeted his thoughts on A.I. on Monday night in reply to an article written about research company Open AI, which was once backed by Musk himself. “OpenA.I. should be more open imo,” Musk tweeted. “All orgs developing advanced A.I. should be regulated, including Tesla.” All orgs developing advanced AI should be regulated ..."
+    publishedDateTime: 2020-02-18T17:05:00Z
+    webUrl: "https://www.digitaltrends.com/news/elon-musk-warns-artificial-intelligence-musk-be-regulated/"
+    ampWebUrl: "https://www.digitaltrends.com/news/elon-musk-warns-artificial-intelligence-musk-be-regulated/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/elon-musk-warns-artificial-intelligence-musk-be-regulated/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 52
+  - title: "Elon Musk joins calls to regulate companies developing AI, including Tesla"
+    excerpt: "“OpenAI should be more open in my opinion. All orgs developing advanced AI should be regulated, including Tesla,” said Elon Musk."
+    publishedDateTime: 2020-02-19T05:12:00Z
+    webUrl: "https://www.hindustantimes.com/tech/elon-musk-joins-calls-to-regulate-companies-developing-ai-including-tesla/story-cd0qDIiWnMxoZxSDoBkNeM.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/elon-musk-joins-calls-to-regulate-companies-developing-ai-including-tesla/story-cd0qDIiWnMxoZxSDoBkNeM_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/elon-musk-joins-calls-to-regulate-companies-developing-ai-including-tesla/story-cd0qDIiWnMxoZxSDoBkNeM_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 37
+  - title: "Regulate all companies developing AI, including Tesla: Musk"
+    excerpt: "Nadella who sees a greater role of AI for humanity will invest $1 billion in the next few years in OpenAI to support it build \"democratised AGI\" models. OpenAI would develop a hardware and software platform within Microsoft Azure Cloud platform which will scale to AGI. The start-up would also jointly develop new Azure AI supercomputing ..."
+    publishedDateTime: 2020-02-19T06:20:00Z
+    webUrl: "https://www.dailypioneer.com/2020/trending-news/regulate-all-companies-developing-ai--including-tesla--musk.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 19
+
+secured: "7xc5FD+QK3KcMhZkZt/AnJNUlKjgqQUuPLH9O80NgHdS9WDUN4EvxOiOlLzScYzwk6r8XyIpeqNKBdFIfZhxf8bK3jKjeycJk9uzv94gcoeqNL8ybpY1WmODcuSu1wQLBE1QnNyE6ap8MjlBuAH+IkC2HIeK0EWETD6gRJ7Von0A0MKRsc368EDAy6Nm28/WIr6YazXrfC19X+qnkOJ2QJvDbdjYEuG7ARXo0wPnC3XKPt3/TYTjiolVEa1PfEKIEQ8YwVf98Hfgiei/NKhsUFyyvqBLuRxiPzBaRQHiPRhlO0/4sHsa4dP/FE9FiPWWIGnHW7hwUBg7qRHND4FFFnz3SzWzGzTMSGmo4dceidN9YhrjlwIypAetVnMjBNPonjdFOZDLWcvSwCmTzGiDkXm0y2NBGlI3FeKyzFwwWtU6XqxLKB11IQFui5o2B9NPNDKT5heZzlIMjTOMyj8p9EX9kOdqgS6X2BYhUcz0SqM=;xYai/6stXz2f15iLraeJYw=="
+---
+

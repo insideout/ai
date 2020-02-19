@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Regulate all companies developing AI, including Tesla: Musk"
-excerpt: "Nadella who sees a greater role of AI for humanity will invest $1 billion in the next few years in OpenAI to support it build “democratised AGI” models. OpenAI would develop a hardware and software platform within Microsoft Azure Cloud platform which will scale to AGI. The start-up would also jointly develop new Azure AI supercomputing ..."
-publishedDateTime: 2020-02-19T04:31:00Z
-webUrl: "https://newsd.in/regulate-all-companies-developing-ai-including-tesla-musk/"
-ampWebUrl: "https://newsd.in/regulate-all-companies-developing-ai-including-tesla-musk/amp/"
-cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/regulate-all-companies-developing-ai-including-tesla-musk/amp/"
+excerpt: "Nadella who sees a greater role of AI for humanity will invest $1 billion in the next few years in OpenAI to support it build \"democratised AGI\" models. OpenAI would develop a hardware and software platform within Microsoft Azure Cloud platform which will scale to AGI. The start-up would also jointly develop new Azure AI supercomputing ..."
+publishedDateTime: 2020-02-19T06:20:00Z
+webUrl: "https://www.dailypioneer.com/2020/trending-news/regulate-all-companies-developing-ai--including-tesla--musk.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Newsd
-  domain: newsd.in
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI
@@ -46,7 +44,29 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 52
+  - title: "Regulate all companies developing AI, including Tesla: Elon Musk"
+    excerpt: "Nadella who sees a greater role of AI for humanity will invest $1 billion in the next few years in OpenAI to support it build \"democratised AGI\" models. OpenAI would develop a hardware and software platform within Microsoft Azure Cloud platform which will scale to AGI. The start-up would also jointly develop new Azure AI supercomputing ..."
+    publishedDateTime: 2020-02-19T05:20:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk-11582088884072.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk/amp-11582088884072.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk/amp-11582088884072.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+  - title: "Elon Musk joins calls to regulate companies developing AI, including Tesla"
+    excerpt: "“OpenAI should be more open in my opinion. All orgs developing advanced AI should be regulated, including Tesla,” said Elon Musk."
+    publishedDateTime: 2020-02-19T05:12:00Z
+    webUrl: "https://www.hindustantimes.com/tech/elon-musk-joins-calls-to-regulate-companies-developing-ai-including-tesla/story-cd0qDIiWnMxoZxSDoBkNeM.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/elon-musk-joins-calls-to-regulate-companies-developing-ai-including-tesla/story-cd0qDIiWnMxoZxSDoBkNeM_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/elon-musk-joins-calls-to-regulate-companies-developing-ai-including-tesla/story-cd0qDIiWnMxoZxSDoBkNeM_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 37
 
-secured: "E4VCw7EtUCM1GSTKikSrpn1RleqIg279CVPhSRZ6v35ZYQOQ1ECj+fPEShJ84SwzU8RJrh0TfavMHjkOQWsfiWYTGfoso12sXKnVlEgQXq1HDX47snGtvnLuism9L4cGcHmFnuxCMEtXYTwD+cyrEmSYfkj+C0+Ss6WQ17OWk4X1LonzXM/+393WQRoMA7bhGrzyRXJFGRj6AQOoB4SYYOdO9Tx+dpkAsoItSLZVw3KPBTXulOgQ6ZCuPKTspTaLY9oGkVtwJ9c7uSXoT+IW2LO7tc9VMgm1PHkrdICQ5khTXEa+YGwIxvrIBau/PErK;6WqKSlN8GZtJ1diBr//NRQ=="
+secured: "kQ+gu3CaRjx21DO5xtpHFDstJrFMPwV2gMkPWodkaXseH6II0sE+bgIW66DNk3OXfn3WphOVec1lReidQ1WmQoHT3K1+GfocsNkrdePgczFWkoWb+dSOyL/7/uDxGrnBEgkXuJsrwXsq99VsxoOggUIvuEe7QTi2ML2xyZxqhkpZVEGZXHd41TnSgdpjwhyWw0+MUhJfwZiiE+q6uF7TtaK1ihE91WDnF8655Pn5tSUpPREZB66xYMo1FtB7JFjCLCpuv/CYXKtJ+DUNanG+zrO4ZDjaD8PZuMlQh0FAZymLiP+TzaQ0lwbocjbY37wwkFJmslm4KXaTY9+Z/MFFqIo0zzEViBcPllSeALBBc035Xmtnprz0aQc0i1oMsPcOXpZnqJehEKs4bzYYMddOjrbi169rDe77y9lwzZqo8BeJ36L54IQbXjQNuqpASkoaRUPq42FfcNr/rRuSnIEDT1Y5nqepGm9ohfeITBGL0/U=;lALvuY24rz4ZrXoqcp677w=="
 ---
 

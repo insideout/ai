@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T08:59:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-with-flourish-cagr-in-forecast-period-2020-to-2027-2020-02-05"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
-    excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
-    publishedDateTime: 2020-02-04T12:24:00Z
-    webUrl: "https://www.openpr.com/news/1918469/self-driving-bus-market-size-share-trend-growth-forecast"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "1wuNXMENMDZ1SO+T6P45NO2RdMcufoXEeKdRFihYYid77/wCLISjayBW00iXAbvARZctZTux1ZD28lPfLkKSlu9qtSaxPt1TxTcRqXCtDA8IOc8ZlZmLWhOzMdG/2PWKCgYzDsNa7ROC6uMgqX9Ao2XHs2PROyz5Qq/z3+ZYFTVPpgOH9yJjpgBnoYk7dXQVFioJEJBEPfyQKEnVVUsoDL7my3EvttKf98FXt3FI3iXaN+aRA3NIr5eIyMBLV78S4a2NlmGOfGBmDnYkSX5VnWnqervdtli/9ulLKd5y4Jp/0ydgBECSDNV5iRHjXCV9;7/gHV44PGiIGotGTpeMrKw=="
 ---

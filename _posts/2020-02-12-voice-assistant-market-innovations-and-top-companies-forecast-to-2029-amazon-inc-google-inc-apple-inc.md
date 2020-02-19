@@ -18,19 +18,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
-    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
-    publishedDateTime: 2020-02-13T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-leading-companies-consumption-key-drivers-challenges-and-trends-forecast-to-2026-2020-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
     excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
     publishedDateTime: 2020-02-07T11:27:00Z

@@ -89,6 +89,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Europe AI for Automotive Market 2019 | Global Trends, Top Key Players, Size, Future Scope, Growth Factors and Forecast to 2025"
+    excerpt: "AI for Automotive Market provides a detailed analysis regarding market size, revenue estimations and growth rate of the industry. In addition, the report illustrates the major obstacles and newest growth strategies adopted by leading manufacturers who are a part of the competitive landscape of this market."
+    publishedDateTime: 2020-02-19T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-ai-for-automotive-market-2019-global-trends-top-key-players-size-future-scope-growth-factors-and-forecast-to-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
     excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
     publishedDateTime: 2020-02-11T07:58:00Z

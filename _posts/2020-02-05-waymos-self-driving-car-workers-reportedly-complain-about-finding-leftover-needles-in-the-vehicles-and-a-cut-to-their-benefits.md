@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-compl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -60,21 +60,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
         width: 1200
         height: 800
-  - title: "Dubai prepares to roll out self-driving vehicles"
-    excerpt: "Over the last few years we’ve seen plenty of progress being made with autonomous cars, self-driving vehicles and even pilotless air taxis. Now, Dubai’s RTA has taken another step towards getting the initiative off the ground. As we move another step closer, the Roads and Transport Authority (RTA) has revealed a new set of rules over ..."
-    publishedDateTime: 2020-02-04T12:16:00Z
-    webUrl: "https://www.timeoutdubai.com/travel/432578-dubai-prepares-to-roll-out-self-driving-vehicles"
-    ampWebUrl: "https://amp.timeoutdubai.com/amp/article_listing/tod/travel/432578-dubai-prepares-to-roll-out-self-driving-vehicles"
-    cdnAmpWebUrl: "https://amp-timeoutdubai-com.cdn.ampproject.org/c/s/amp.timeoutdubai.com/amp/article_listing/tod/travel/432578-dubai-prepares-to-roll-out-self-driving-vehicles"
-    type: article
-    provider:
-      name: Time Out Dubai
-      domain: timeoutdubai.com
-    quality: 59
-    images:
-      - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
-        width: 750
-        height: 500
 
 secured: "F8x/ToGaEK78zeKuXbcG1uNVOhBEF3N2eXEzDE8bUy+WHk8+5BWNzPlmJgXjkM55Ucs1JFG5h37QAK2w+oisU4v6+RFnsJWXob48crIYVy1eYk6KVrBX/9+MQw1Wvw34EpY6nptGwtWWROQflxrkB9I14/3ptkFxFxnGZuGAEY8gGNG3jTFUAkbOFsM/1HCitg237fS/uFYLDqOtTkw9viZpeguCaH0BI3nyhYmA5ajNKgTd4ybOaDmo9rNu9GMyMr5+3aI81oz00yymMlkXK8A5CiN59VePXKoYEQEd85scZ2GOvjDDJ0VaRCM3bJau0fx9ZT/EyU0S/FTS7cix5VRg/lk2q6tJS9vo37NKrDkodwv91o+iPVsu6wElUZKRkIFX5NGyMuWQJML1wWlyBhCc6qQeq9u76i5dmNCSu2s6xrTinZYDRiFw4f5CcbAB8nf3vK47O2o51K237C02HyKXivLy2yiamwXgVZd/dkE=;PGT6wzqDvGD8c+QFdeP5bA=="
 ---

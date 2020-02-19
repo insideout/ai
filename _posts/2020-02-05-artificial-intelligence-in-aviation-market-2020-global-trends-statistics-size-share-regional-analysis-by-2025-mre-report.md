@@ -53,19 +53,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-31T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
     excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
     publishedDateTime: 2020-02-06T16:56:00Z
@@ -88,6 +75,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-31T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
 
 secured: "67kXqtSFCf/lDaLXERmtv/LrfGWJg2rpPKNSjDgiRJil1ufEsv3sFNjQ6MtnceJtwmz1fjwS00X38sdnB1aZwSAsCz7ichGr2InKZD2G8Kt1OXAuySge3ALdMNTUZcxn4B5Ue4A7w6aL4+YoS8v/UYzObBnZjA1BPU9mpRVfdKG2+sW0mzljgwdkPDdGuhq8JfrQdWr16Ygqc45utdoBKm6vElnUYBxvbhqzqs5oAN77WCC+ykv11yEHdMsgeoMLJ6FUWz4zdF30X+2Jx8ysXvugbV2+tWf+bOpaaBuUIBQ4GJUh1GNmMIUulpd3lwvy;ct/PQcf2XDOFBY2kDDF4IQ=="
 ---

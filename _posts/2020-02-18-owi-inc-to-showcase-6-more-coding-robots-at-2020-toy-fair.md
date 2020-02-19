@@ -35,6 +35,15 @@ related:
       - url: "https://www.sciencenews.org/wp-content/uploads/2020/02/021420_ls_robot_feat.jpg"
         width: 1030
         height: 580
+  - title: "Heston Blumenthal wants robots to make your boring lunch"
+    excerpt: "In October 2019, Blumenthal joined the board of Karakuri, a London-based startup that wants to bring robot arms to restaurant kitchens ... Eventually, Blumenthal hopes that robotics and artificial intelligence could have a wider impact. “We eat too much,” he says. “We do not appreciate food, and we throw food away. We need to change ..."
+    publishedDateTime: 2020-02-19T06:09:00Z
+    webUrl: "https://www.wired.co.uk/article/heston-karakuri"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 19
 
 secured: "M5evwFQLqM9q+uEJnxyaFlzpW+KTxl3/EdvGhjeR+IYBUvcmrzaYWANxalMUUs2K7M1a+s0BtJlUhwRdYiZ15UzoYm+MoKP2/eb6Taxkyp8tKlbRJ5YC9JN9ESoh486rY6Z13EB56nzdcJHEsKCiJGUJ/hR+nfEMe3FrF1Q5EBiYHiGQDXadjkTo/0WwN31vr4ffl+iZP2ELqMSbhNHwSUsUWu5IHEXKg7roXziDA0ghIEjYvEJLFZgH4t1ncQvSsfBJTOOmX8Uf0FGLvOBYD505mNtTC12H1auSgW6vaY6VRXIjc1mUdiL+P85l/K8WnrnLNmmeplBh4jX+AShbH6zhHx22sMuFBpBkfKnC5So5l9xQg56egsguyqSG5Doj20vTPKbQ8T5fmavk+oEFUKoR8nThm9Yvm4DU4BjpzIccZK1UjL+L9ocBguwZ/OOeTByEBp4JgZJ6DkRCkGIEu0DJqMdF4JzfIjE5X9pAWC8=;Gdl3P2u/HbHnGjc0loj7MA=="
 ---

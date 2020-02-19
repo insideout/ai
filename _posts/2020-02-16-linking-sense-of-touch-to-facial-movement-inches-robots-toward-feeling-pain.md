@@ -8,7 +8,7 @@ ampWebUrl: "https://www.sciencenews.org/article/robots-feel-pain-artificial-inte
 cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: i4u.com
       domain: i4u.com
     quality: 54
+  - title: "Heston Blumenthal wants robots to make your boring lunch"
+    excerpt: "In October 2019, Blumenthal joined the board of Karakuri, a London-based startup that wants to bring robot arms to restaurant kitchens ... Eventually, Blumenthal hopes that robotics and artificial intelligence could have a wider impact. “We eat too much,” he says. “We do not appreciate food, and we throw food away. We need to change ..."
+    publishedDateTime: 2020-02-19T06:09:00Z
+    webUrl: "https://www.wired.co.uk/article/heston-karakuri"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 19
 
 secured: "VwcosaWLSXxCwwpVzlkFppnIV+kRpfIcklSS6jINTJ6WtQkEoLXvvslhOrOhOdYHu9sV1vIK/ae22Fm8d1Fx13ryfm8NWKtj6THFhZgleUht9qh+2eT5laJsdZwnliu1qu7TEN69JEDsYOgFFlDmtrS4vjb3dYOYtR6K65iFZ7qlNmhWxLeEQmPTagc8JjewkyIm2KikgsB87Tx2QJhHPThGbnYBeKSvz6iqFBFeokOZBVyvNwjM+U51mvqVx15BxD/ph37tzVaw8TEyzPbwlj/2K33pminB0hAf8QlQ6725da0/EUrTmKWSGgusuGrJ;emB74nboGaM1ijbYeQIaVg=="
 ---

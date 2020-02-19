@@ -80,19 +80,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 57
-  - title: "Facial recognition in civic polls yield good result"
-    excerpt: "The Telangana State Election Commission has come out with the results of the “Facial Recognition” trials it conducted during the recently held civic body elections. According to the data released, the tests have yielded an accuracy of 80 per cent meaning that eight in every 10 people were correctly recognised by the application used on a ..."
-    publishedDateTime: 2020-02-04T13:23:00Z
-    webUrl: "https://www.tribuneindia.com/news/facial-recognition-in-civic-polls-yield-good-result-35824"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cms.tribuneindia.com/gallary_content/2020/2/2020_2$largeimg_1960177639.jpg"
-        width: 660
-        height: 440
   - title: "Will we see operators using facial recognition software soon?"
     excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
     publishedDateTime: 2020-02-06T15:53:00Z

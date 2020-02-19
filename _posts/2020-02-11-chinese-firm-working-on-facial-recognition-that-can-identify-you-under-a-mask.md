@@ -69,6 +69,15 @@ related:
       - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
         width: 600
         height: 360
+  - title: "EU facial recognition rules, air quality satellite, whale earwax"
+    excerpt: "Quartz’s interactive email for curious minds. Escape the stale news cycle with forgotten histories, surprising facts, and vital stats."
+    publishedDateTime: 2020-02-19T06:25:00Z
+    webUrl: "https://qz.com/emails/daily-brief/1804539/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 64
   - title: "Police Facial Recognition Tech Snags Pics from Social Sites"
     excerpt: "Clearview AI stands apart from other facial recognition companies because it pulls photos from commercial sites, like Facebook and Twitter, for its image database. Some are concerned by the company’s access. (TNS) — Surveillance footage showed a man suspected of fleeing officers during a traffic stop. Still, after several days, Pinellas ..."
     publishedDateTime: 2020-02-11T21:55:00Z

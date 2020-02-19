@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T11:27:00Z
 webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
 
 related:
-  - title: "Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
-    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
-    publishedDateTime: 2020-02-13T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-leading-companies-consumption-key-drivers-challenges-and-trends-forecast-to-2026-2020-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Voice Assistant Market Innovations, And Top Companies – Forecast To 2029| Amazon Inc, Google Inc, Apple Inc"
     excerpt: "Segmentation by Technology:, Speech Recognition, Speech Recognition System, Speaker Dependent Systems, Speaker Independent Systems, Natural Language Processing (NLP), Text-to-Speech Recognition, Voice Recognition. Segmentation by Application: Messenger Bots, Websites, Contact Centers. Segmentation by End User: Individual Users, SMEs ..."
     publishedDateTime: 2020-02-12T20:18:00Z

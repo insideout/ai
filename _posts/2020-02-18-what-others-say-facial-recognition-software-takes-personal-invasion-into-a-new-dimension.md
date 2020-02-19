@@ -76,6 +76,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "EU facial recognition rules, air quality satellite, whale earwax"
+    excerpt: "Quartz’s interactive email for curious minds. Escape the stale news cycle with forgotten histories, surprising facts, and vital stats."
+    publishedDateTime: 2020-02-19T06:25:00Z
+    webUrl: "https://qz.com/emails/daily-brief/1804539/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 64
   - title: "Police Facial Recognition Tech Snags Pics from Social Sites"
     excerpt: "Clearview AI stands apart from other facial recognition companies because it pulls photos from commercial sites, like Facebook and Twitter, for its image database. Some are concerned by the company’s access. (TNS) — Surveillance footage showed a man suspected of fleeing officers during a traffic stop. Still, after several days, Pinellas ..."
     publishedDateTime: 2020-02-11T21:55:00Z

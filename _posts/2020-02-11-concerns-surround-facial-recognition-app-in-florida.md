@@ -176,6 +176,17 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
         width: 1024
         height: 576
+  - title: "U.S. military facial recognition could identify people from 1 km away"
+    excerpt: "Thanks to recent advances in machine learning, facial-recognition technology can pick faces out of a crowd with impressive accuracy. But just how far away from their subjects can cutting-edge facial-recognition systems work? According to a new report, a whole lot further than you probably think. So far, in fact, that the person identified may ..."
+    publishedDateTime: 2020-02-18T19:59:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "EU backs away from call for blanket ban on facial recognition tech"
     excerpt: "Brussels has backed away from plans to call for a five-year blanket moratorium on the use of facial recognition technology in public spaces, instead leaving the responsibility of choosing to impose a ban to member states, despite concerns from privacy groups that civil liberties could be infringed by the biometric software. In a draft of a ..."
     publishedDateTime: 2020-02-11T14:49:00Z
@@ -665,6 +676,24 @@ related:
     provider:
       name: MediaPost
       domain: mediapost.com
+    quality: 19
+  - title: "Protestors in India Concerned by Use of Facial Recognition"
+    excerpt: "Protestors in New Delhi are covering their faces now that the police have begun using facial recognition software to identify people. This has been going on since the middle of December when outrage began with the new citizenship law that people feel ostracizes Muslims. Now activists worry that facial recognition is an abuse of power and the ..."
+    publishedDateTime: 2020-02-19T06:51:00Z
+    webUrl: "https://www.cloudwedge.com/news/protestors-in-india-concerned-by-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: Gazoo
+      domain: cloudwedge.com
+    quality: 19
+  - title: "What harm could a ban on facial recognition do?"
+    excerpt: "To access this content please sign in or register below for free"
+    publishedDateTime: 2020-02-19T06:16:00Z
+    webUrl: "https://www.scmagazineuk.com/harm-ban-facial-recognition-do/article/1672714"
+    type: article
+    provider:
+      name: SC Media UK
+      domain: scmagazineuk.com
     quality: 19
   - title: "MSPs warn Police Scotland about use of live facial recognition technology"
     excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."

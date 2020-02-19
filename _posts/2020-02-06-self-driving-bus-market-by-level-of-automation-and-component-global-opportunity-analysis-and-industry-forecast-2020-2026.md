@@ -67,19 +67,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-31T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Machine Learning as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
     excerpt: "New York, February 05, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
     publishedDateTime: 2020-02-05T04:05:00Z
@@ -89,6 +76,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-31T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
 
 secured: "HRBaeYd8Lj3dRxANfRCtGRzUQ3JNFCrX5WFRbSqmOIUVTkw1nyhPYMovjmLBOU125FlR/ne5dB7tkAnroXPb1NFAEQ7CPj859ww9j2Q1SvJK/LqwW6FQZ5y5TdmR7AovYoE0oTSTkPGo3sFlvsLuFLNGcUiQO9bSeuVgR3dwwRqiFPNzbORbnBCsAPF+Jl+nybdgOv7mkrU7N+3HHIwWue1avu0pNlfJSkPzWMpXyU5+TnUwYy8ur34jvTazWFLFtz3TJJOUFrnOwge50Okf0cdnAEIAULxFgq8zNxe5XKFH2vLK7yV+LgASAwfmdEbG;ye4/aBxCyBbIJ8o8VaGmJg=="
 ---

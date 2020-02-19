@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T14:37:00Z
 webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -27,39 +27,6 @@ images:
     height: 803
     title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
 
-related:
-  - title: "Genesys Engage call center software coming to Microsoft Azure"
-    excerpt: "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ..."
-    publishedDateTime: 2020-01-26T21:00:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-        width: 320
-        height: 210
-  - title: "Genesys expands partnership with Microsoft Azure"
-    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
-    publishedDateTime: 2020-01-23T16:21:00Z
-    webUrl: "https://www.telecompaper.com/news/genesys-expands-partnership-with-microsoft-azure--1323890"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
-  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
-    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
-    publishedDateTime: 2020-01-30T19:40:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 20
-
-secured: "7NTZqqFQ1EdGlvRHsDxhk9Z+IwKxLYuMtR60FpuE1xy7hZksbnZ0GDRPA77YnxQUz3PSndDP/HbUZR3+GIXEWdzKNTci+dU2OUxfBObWEpgWdsUDb116nLZiW9R+OT+A86tqMJ1YYlRVlK/xIrxxcBOMewoChXXpYzlotUV23LY4+wVR5la4lHDBKsjr+WddkmdEqX2pU1EKGQ9U2E1kmsCi0wlxpzzwnPngRz91fMzLj1/PbvNvn6Vk9+6nyW8/46/D34kqLvie9o11DZ8j+AAzbCiSQBvuX2uQd0EngMT69JZkbG2RcdKLtY4IB7zE;WoZ1n9ZgWz4I2Ab2Lah9fQ=="
+secured: "40i8G5X/jqZgPRRDi0MY2G813qHAbdQlTVIN2ZZ/MorDjIycvqkACeTemov49SrBD2nZXn7oz6eR3Z8tqcLB1a+Y0uR/ijnqfl4kLZ49b6OQlKRB8f9QYiLSa8DpOZ8Nl0aR9uppzUjp3VmhHd0pWlxXXpUaLI9Ff30QEQbgVHkrlWr2wvSLg4EcYz8yY4RpJ1TAZ5yET69+8UHWV2njDm02aLNy9mbZ2N+EXcrl/iyDkjOjhOZOITceKkkoWaDI4hlnGZqUIWtDtwjSAWoa789v5NHnGO9UjJo8Ps1uyG6UeacUZPl4hYmALJtwxcTC;CDbQqQ6r9G5xIQmTruK2Fw=="
 ---
 

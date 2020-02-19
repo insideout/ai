@@ -82,6 +82,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "EU facial recognition rules, air quality satellite, whale earwax"
+    excerpt: "Quartz’s interactive email for curious minds. Escape the stale news cycle with forgotten histories, surprising facts, and vital stats."
+    publishedDateTime: 2020-02-19T06:25:00Z
+    webUrl: "https://qz.com/emails/daily-brief/1804539/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 64
   - title: "Privacy Groups Face Down Facial Recognition on Campus"
     excerpt: "Privacy and civil rights groups are ramping up their campaign to get facial recognition technology off of college campuses. They are circulating a letter to aimed at college administrators seeking signatures of support. Many of the groups are the same ones that were successful in spotlighting the use of the technology at concerts."
     publishedDateTime: 2020-02-13T13:13:00Z

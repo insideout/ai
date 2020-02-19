@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Google CEO calls for regulation of artificial intelligence"
-excerpt: "LONDON -- Google's chief executive called Monday for a balanced approach to regulating artificial intelligence ... then scheduled to head to the World Economic Forum in Davos, Switzerland ..."
-publishedDateTime: 2020-01-20T09:12:00Z
-webUrl: "https://www.ctvnews.ca/sci-tech/google-ceo-calls-for-regulation-of-artificial-intelligence-1.4774926?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D104070%3FautoPlay%3Dtrue"
-ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html"
-cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html"
+excerpt: "“There is no question in my mind that artificial intelligence needs to be regulated ... PHOENIX (AP) — A man described as a disgruntled former Waymo driver has been arrested on suspicion ..."
+publishedDateTime: 2020-01-20T15:16:00Z
+webUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/"
+ampWebUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
 type: article
-quality: 157
-heat: 187
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: KRQE
+  domain: krqe.com
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1"
+    width: 1280
+    height: 720
     title: "Google CEO calls for regulation of artificial intelligence"
 
 related:
@@ -67,6 +68,6 @@ related:
         width: 1200
         height: 628
 
-secured: "QJTIWUveNPpvo2nr+kjF55mRPr920WPsvwi9EeUe01HA/RULUb0JVmDIwY8BAFVN9nBAqzAnULPfIp9pNr9sbAqFCHaAiEX/mITUBfdsS20L30fR66X4OcZW5GSc7VEGkPi5+QrYHz4buZlaSj9bWJpOx+u4i+S0R7W7RP0aeX8gipvMp+vKpJoGBq70X9Cu0yQnI+DOreC/NGgj7Ge86/sXUTgK2wIUP7eOl/0q97+vFd5QQ2619RbB7QEU2WD3WPVZ/IIeie2SNfplcWapLiJ73z+g26rPPoRPnpSMRrirx3Gsu3HoJwh3zLYXVKXsGNxkJsMPb+uPMsZOdgkX7w==;3EcPBprkx7FHE75HVkkmuQ=="
+secured: "VXTobZdZsThpBO/xrfj++Z6UKJ9Cf1edH35741sVAHGuw/MbzpvLBsDv1eThZdOJb5O5Wh6F23h5EvEAxgif3/sdmoTOMLDSikIKAqS46g0SrqAZM/pjvlALHOC/WYhY/Wk2MGYtSQh4wUMmypYCzphf2l0tlNWWCrcul7hXLO+n0NldDRXcbFa4+X1stzUWIsmPnbNwCsO8yOHoAkR6Q5wyS1lR6urFWkEV2903aBCvyHu57npTMcr5zYVkCxAHpVpobGEumf8tNHsoMqR25/fKRtTgqqRK+BILgxl4ZLLz25pze8oXsvhlKpRa43EO;HMeBH16qLAe/igxYSLC8RQ=="
 ---
 

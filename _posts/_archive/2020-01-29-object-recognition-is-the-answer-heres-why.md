@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition
 ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -23,12 +23,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
-    width: 1200
-    height: 800
-    title: "Object Recognition Is The Answer, Here’s Why"
-
 related:
   - title: "Top 7 Usecases for Touchscreen Object Recognition"
     excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
@@ -40,6 +34,6 @@ related:
       domain: digitalsignagetoday.com
     quality: 19
 
-secured: "knIui02kbtY0Edh4JPyYA2pluITPGCR2sOeLhwLU/8EMpL97qBPEwnDd0jgmoVaVM7ShraCHgg1672h8alXVWb7egHtORx+LDcnvBBmz6KukHZiSyYmlgREP6u2MwwHVZXn+XMrrZWvKXWelZi79gsSnYSX0bEonr0acx4+TKenHulw8PwtxfRfL0G65dRaa/mSJFIO/klgFMJnH5AnRijicUB0836e59qPulTpJFq33dOBYMzS7eiPdWY2eaAoFXLdmDaL2Ya9y65pJ1R5USmatsOJyo4Kk5B/noLDP4ZRaK4Cy5nvIdeuVA/WUKB3f;1JwzU9dn/sYflX4RfGC/BQ=="
+secured: "c80zp6MvBV8LeyIFg+eaJpAV+DprAF0aKSFKKw5f2aYdrWrgZDCtA5MTxvzeFcd0qYpS51MDqwyzkRtNMCNzz8qrVzkK9m7zf0TsIMIopSZZqG4W5eZZdvomQnO1droJIBfqTvbz9VVXPdfgMvlL2OjMSKOjegsaY60CEMHQzSnmm0FH4uf9GZuQJPDfr3Bpzdihe3hCAjET0AoUr9rKw2RvsA4QjF5A1IZ/aARR5Lk0kxbUdsWVoKAhzEepgb3jaHLJ1phoTNxnVTEjtE9rXBJ9ysco1eFlzjtdw7/21ty9QI2ps+QZAJGV2J1/e9H5;VIUy2rTMEeznecKw1A0keQ=="
 ---
 

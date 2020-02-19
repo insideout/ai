@@ -54,6 +54,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "6daqxT36kAJawWhO96W8tKDrm98GQ/QHlUUNMez9r37Tri6dnqioxm1xF2Wc5avhTEWDTMEZfyNVc+M5Go2sPFMpz10Hp/IXNpCtA2CvzXHQrJYdnunE3sd6yS6uMkrxTM68NyUJ2SVgFN5EHulrbuNw/gdM5L/drsZdvwupYt/MyCJ4N8ScyfbjliUUs0Jpbi+ZhFdS4Pn96CkuBZRyJIAEg054zNGB3Vz0T6FtFGX/51AJIeyTS8JMWW6Bw/wpVcQfC8/sr5HZ5+TkutWVcAW6IYwC/3G0DwQuqBeaTaxhuqw5rw4N7NPut9bJ26jd;tEDyX+vwk8Om3z0H4A7m1Q=="
+secured: "ob1AfhQdbZ4D6iIbLT9WW01E8FifziPehnuCHNc1LKGBgKrpMINDRBx+xH10GF+eiMx++6eiaibdXNbgKPQDWCXu09+AB1h5BMPjlD6XVP3sgA5JH7IkYsDTH8psIwQhFRLgXSIYIORGldK+sn9m/0F+bta+YWKUE9TDmoo3jtrt1WlQ/Bdm/OLEPyRXdv3LazZlQBjAsSOSplTwkRBH+gYXvx7A4t5mzys945L1r2MlUkt5tpnm9D/09O0VEXT3+voan6iveAncb0uof9nCCAobxFt1OCW3C3pt9K80ihv9kcK2/egfS+Rr9OPFjmqS;Ro5Y55kgDwOCriwyRulf3g=="
 ---
 

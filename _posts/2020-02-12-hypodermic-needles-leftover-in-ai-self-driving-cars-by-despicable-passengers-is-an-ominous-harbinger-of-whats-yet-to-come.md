@@ -60,21 +60,6 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 788
-  - title: "Dubai prepares to roll out self-driving vehicles"
-    excerpt: "Over the last few years we’ve seen plenty of progress being made with autonomous cars, self-driving vehicles and even pilotless air taxis. Now, Dubai’s RTA has taken another step towards getting the initiative off the ground. As we move another step closer, the Roads and Transport Authority (RTA) has revealed a new set of rules over ..."
-    publishedDateTime: 2020-02-04T12:16:00Z
-    webUrl: "https://www.timeoutdubai.com/travel/432578-dubai-prepares-to-roll-out-self-driving-vehicles"
-    ampWebUrl: "https://amp.timeoutdubai.com/amp/article_listing/tod/travel/432578-dubai-prepares-to-roll-out-self-driving-vehicles"
-    cdnAmpWebUrl: "https://amp-timeoutdubai-com.cdn.ampproject.org/c/s/amp.timeoutdubai.com/amp/article_listing/tod/travel/432578-dubai-prepares-to-roll-out-self-driving-vehicles"
-    type: article
-    provider:
-      name: Time Out Dubai
-      domain: timeoutdubai.com
-    quality: 59
-    images:
-      - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
-        width: 750
-        height: 500
 
 secured: "TG1aStCdYZMiNfSgQ/EkA4z9N/YyjSOL3TBd3SEovyZyLB01HGbhjJlPp9H0+YgfiLPWf2esoyLHJKRba/JY1etUMDEcnoPs5diFVDq09+0gH0PaDg9oHRgfT5aIVWDPLGwMGlzKSf7LWt4AWKkn026IsLcIpyvr2S0AxIBCWseyigTAiJKSf0RaDgcDO1PExfU4BxIrhL65pEKmQvbcyvYjTIZsLxF0JGmenaQJbkzveYsQlYbmdBjNdOixt7u/Vk48eydqlycxuq8YcnC/aGQ6IHUDQ0YAGtThf7W/I6WXt1YU7OChw6JRl2UcKUTLBsax+dyvirDFsB2hwiyxGfP9mCMJ45GMMPvg7ilVgEPu1LD/fRB2Dt7EJ0fASBv3XjBuH0rUEomB1zMZZ+0+SffM+Kw7g4soaKG2fOEOpnqEgGW+7IxSSX7xaiZuC5l7oh2DBvT2SVgO0MibXqxTsQDv78vYCs0AKXsYbtB8PTQ=;KJSbU0ngANsycEpRYEY2Mg=="
 ---

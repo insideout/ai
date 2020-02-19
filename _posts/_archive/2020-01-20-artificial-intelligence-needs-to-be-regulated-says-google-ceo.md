@@ -54,7 +54,22 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
         width: 1200
         height: 628
+  - title: "Google CEO calls for regulation of artificial intelligence"
+    excerpt: "“There is no question in my mind that artificial intelligence needs to be regulated ... PHOENIX (AP) — A man described as a disgruntled former Waymo driver has been arrested on suspicion ..."
+    publishedDateTime: 2020-01-20T15:16:00Z
+    webUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/"
+    ampWebUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 59
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
 
-secured: "eYj9RTxBa6MEMPvxohkx+XjZIoeTxZ/MjEg1ayIUnnh1LjMi4BdjWrQBdf13kWVt/R1YocCuOl2Dt1n3MOn9YP5O+srkCmQmgpeL2ACbaadFgovemuGrij9gz1VQNXTu1iseK6V0QKkpVjOsitSkf311Pu7XWRehzsSPnfLAFbiJDXvfD84G1MMMyfwdEMaKE7l1Aa/RpSeI4sdVBdXWEKwlGH5OWKILwJUXKJe2RKuco/PnQyhLZUUFaovOGECT6Bf1FsSoAozogGtzK2uyzs0ix5UCwgRkU9futpRyWgotwatJl5cqh5CjmUCcL5Rr;RWtfcI2k5eZM5GCnaCMlEQ=="
+secured: "5aYxZkWHeGmP2n/kZfZNEzQnt2wV+sH7Ikaois1y7LL0th41b5X5rLvtY0iXoza+1jRKTpYzkoEmJMSCUi0ELDO5E1NoyCmLCaBBqWRIYMv9ia/uBLusmTL5kKvnxcibt3VMvs5Cl170EFI8hH2k9pW/8iOpuqmIupzElhVFkvIZp0knikP4Z2Hoy5S7GvSTjUtkbvlq+b90phQwQieBOo+gwJtpgVwDakre5jvzijNCvpIc50J7uEARdSQQjljfGe1lfwfRO/OszeKkqKddHa2a2QJRYA/qfxA1YyFpQFynFfpa8Vo7vEmlLNP5Lt5K;xF3tPN+qHwh8nEzUq4YLbA=="
 ---
 

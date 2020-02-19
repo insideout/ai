@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -72,6 +72,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Europe AI for Automotive Market 2019 | Global Trends, Top Key Players, Size, Future Scope, Growth Factors and Forecast to 2025"
+    excerpt: "AI for Automotive Market provides a detailed analysis regarding market size, revenue estimations and growth rate of the industry. In addition, the report illustrates the major obstacles and newest growth strategies adopted by leading manufacturers who are a part of the competitive landscape of this market."
+    publishedDateTime: 2020-02-19T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-ai-for-automotive-market-2019-global-trends-top-key-players-size-future-scope-growth-factors-and-forecast-to-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

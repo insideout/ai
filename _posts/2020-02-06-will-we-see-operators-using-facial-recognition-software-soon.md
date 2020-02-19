@@ -87,19 +87,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 57
-  - title: "Facial recognition in civic polls yield good result"
-    excerpt: "The Telangana State Election Commission has come out with the results of the “Facial Recognition” trials it conducted during the recently held civic body elections. According to the data released, the tests have yielded an accuracy of 80 per cent meaning that eight in every 10 people were correctly recognised by the application used on a ..."
-    publishedDateTime: 2020-02-04T13:23:00Z
-    webUrl: "https://www.tribuneindia.com/news/facial-recognition-in-civic-polls-yield-good-result-35824"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cms.tribuneindia.com/gallary_content/2020/2/2020_2$largeimg_1960177639.jpg"
-        width: 660
-        height: 440
 
 secured: "HDvCt44IlRzOutFMIKdvIRSzMSSWB78fqYlxrM60DWOu/RMFgU+8varWfOxLXzdWVp7q466JnOIhCpizDTggSVPofjrN5JTWGBpKcSSD6XLoYCgIbsXUU1Ei11KJF2MYuUimz9daWbZ85nv2Lu6XwL6bJNExau/+h5hc/rJNx6V4hqV+vt4Rj1P/F0LImaGhERqY1S9Nwl1Rq65VjZm2vq+52ZMcjDtnz9ALiRGqCE8RS/RGgAliHhcho99bAFirCcqnPJDZRZUJBykd0rwg8SG44+jn2d3LZ5BQF6uQ156h8bj3Nho39rA/nSWLHqplKP38KRhIXCCKoMKH3GcjejTsXh0bbdIML0te+RGFNaG/AF9mRiXRADatqTG6+/aXTLhboLubiCSB+nIH3mxkgcj/1DBH4TnAgWmaUIK8cOBPj8xvCCE+nBNJq3g3Jb+5kzq9V0Mn6vyCB0DPydiaG3HvuzoHv1ne5O4VhIn6+fk=;+l5hkYw38QotP5IcHOKWGw=="
 ---

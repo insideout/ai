@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligenc
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -52,7 +52,22 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
         width: 1200
         height: 628
+  - title: "Google CEO calls for regulation of artificial intelligence"
+    excerpt: "“There is no question in my mind that artificial intelligence needs to be regulated ... PHOENIX (AP) — A man described as a disgruntled former Waymo driver has been arrested on suspicion ..."
+    publishedDateTime: 2020-01-20T15:16:00Z
+    webUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/"
+    ampWebUrl: "https://www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 59
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
 
-secured: "iG9ywqtYBvtN89XW6bkYXoTBG4XDdp2lBTSMkzcO2PmBgMJ2tGx2Uezinkl6I03bQsUKlvqkZZEMyqBg0uFc8X2ryGL7fo1OdwmhoT0Jlf+aiWs93wzIHSzl8B20EppWuwOBh/H1Iofo7n62E0rqG/1knDC7GJMNrdknQ3QgVyb0Pb4R3PtzT1/H5yYUXwr1LoYhRRDAf+Ne5hBu6Wjwlc7LxJZ4GLk2Ib6kC8//5q/OWEv1C/KvJJHi5DOecYJ1ulM7OoUtkVBjn+5Lg+wVbeNNZ8eZbakR72NDCK0wPCO2Qha477A8z6djo1u9fIb/;xNbECGQEBxJU+FOzLuuxEA=="
+secured: "ZDbYS/Nyo1bdXd4qg72qkmZz47BbamjuCCpYq5Ejwc7jIDA/dlcuOZbG8TaZQQACmBjjcTsy5BEyl2XIUjEntyGlmDz0qhSzpf1nmFwEkBbV9Ik1s1v0gk3aFNJ7iLu0V7u6KHo5LA3zSSK/nTymaZsQt6QwWMm5kKLLs+0f8m+TxrQ3FNS4e7ecswmjTR87naw65xDdZHUZ7zz+AJ8KUBAu1A3uoRxqWqGves1m7aQGDDvetQHUkxhjvmmcTug+LZkxSlHKrQC1qdXDAY+HfgmJGdn+I6x+nyWFDTBXq5eby0y5lTdA68O4ANovTx7i;unoKY0DKY7ZaEHr5DlPtcA=="
 ---
 

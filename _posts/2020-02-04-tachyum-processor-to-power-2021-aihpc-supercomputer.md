@@ -23,19 +23,6 @@ images:
     title: "Tachyum Processor to power 2021 AI/HPC Supercomputer"
 
 related:
-  - title: "Tachyum's Reference Design Will Be Used In a 2021 AI/HPC Supercomputer"
-    excerpt: "since the idle servers powered up to handle AI workloads are already on the books as capital equipment \"We are excited that customers re interested in our technology. There is never a more exciting time for a startup than THE FIRST CUSTOMER, especially one who wants to deploy an AI/HPC supercomputer in 2021. The preparations at the ..."
-    publishedDateTime: 2020-02-04T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tachyums-reference-design-will-be-used-a-2021-/2020/02/04/9091652.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "Tachyum Announces its Reference Design will be Used in a 2021 AI/HPC Supercomputer"
     excerpt: "SANTA CLARA, Calif., Feb. 4, 2020 — Semiconductor company Tachyum Inc. announced today that its Prodigy Processor AI/HPC Reference Design will be used in a supercomputer which will be deployed in 2021. This reference design will provide customers, partners, OEMs and Original Design Manufacturers (ODMs) a proven blueprint for building and ..."
     publishedDateTime: 2020-02-04T15:43:00Z
