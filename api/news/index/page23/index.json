@@ -2,6 +2,132 @@
   "page": 23,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-03-how-to-leverage-ai-to-upskill-employees.md",
+      "title": "How to Leverage AI to Upskill Employees",
+      "excerpt": "There’s also another part to this story: How AI can help boost the economy by improving how we learn. In 2018, 2.4 million STEM jobs in the U.S. went unfilled. That’s almost equal to the entire population of Los Angeles or Chicago. It’s a gap causing problems for employers trying to recruit and retain workers, whether in startups ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/345502",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345502",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345502",
+      "publishedDateTime": "2020-02-03T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200130200203-GettyImages-1128252197-crop.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How to Leverage AI to Upskill Employees",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-03-how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai.md",
+      "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
+      "excerpt": "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/",
+      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/?outputType=amp",
+      "publishedDateTime": "2020-02-03T15:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Click Orlando",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.clickorlando.com/resizer/PcJi2Ag6SraUM_iwCJL7aX2vp7Y=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-03-2020/t_8fba58e202f84dd7aafc4f5ebe91544b_name_image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-03-identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth.md",
+      "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
+      "excerpt": "A critical success factor in machine learning (ML) is the cleanliness and accuracy of training datesets. Training with mislabeled or inaccurate data can lead to a poorly performing model. But how can you easily determine if the  labeling team is  accurately labeling data? \nOne way is to manually sift",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T13:14:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/29/labeling-efficiency-sagemaker-gt-2.gif",
+          "width": 500,
+          "height": 202,
+          "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-03-intel-drops-ai-products-from-nervana-shifts-focus-to-habana.md",
       "title": "Intel drops AI products from Nervana, shifts focus to Habana",
       "excerpt": "Why it matters: The move comes amid continued competition from Nvidia and others and follows Intel's purchase in December of Habana Labs, another startup in the AI chip space. An Intel representative told Axios the company wants to focus on a single ...",

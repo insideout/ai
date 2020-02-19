@@ -24,21 +24,6 @@ images:
     title: "UK AI advisors wants to regulate social media algorithms"
 
 related:
-  - title: "Government’s AI adviser calls for crackdown on social media targeting"
-    excerpt: "the government’s artificial intelligence (AI) adviser has warned. A report published today by the Centre for Data Ethics and Innovation (CDEI) called for tighter regulation of online targeting systems, which use personal information about users to decide which posts, videos and adverts to show them. An analysis of public attitudes towards ..."
-    publishedDateTime: 2020-02-04T12:13:00Z
-    webUrl: "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/"
-    ampWebUrl: "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/02/1172808215.jpg"
-        width: 1024
-        height: 659
   - title: "UK AI advisors call for online platforms to become accountable for user content targeting"
     excerpt: "The Centre for Data Ethics and Innovation (CDEI) is an advisory body established under the Department for Digital, Culture, Media & Sport to provide independent advice and recommendations on emerging data-driven issues including AI, deepfakes, surveillance, and Internet of Things (IoT) technologies. On Tuesday, CDEI published a report and set ..."
     publishedDateTime: 2020-02-04T14:08:00Z
@@ -48,19 +33,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 40
-  - title: "UK AI watchdog reckons social media firms should be more transparent"
-    excerpt: "The Centre for Data Ethics and Innovation says there is strong public support ... The CDEI was created last year to keep an eye on AI and technology in general, with a stated aim of investigating potential bias in algorithmic decision making."
-    publishedDateTime: 2020-02-04T11:47:00Z
-    webUrl: "https://telecoms.com/502218/uk-ai-watchdog-reckons-social-media-firms-should-be-more-transparent/"
+  - title: "Siri users consent before enrolling voice biometrics, Apple argues seeking BIPA suit dismissal"
+    excerpt: "The complaint by Deborah Zaluda also does not make specific allegations of disclosures or dissemination violating BIPA, the company said, acknowledging media reports that contractors are given access to recordings to evaluate the performance of voice recognition software. Informed written consent is also part of the profile creation process ..."
+    publishedDateTime: 2020-02-04T22:08:00Z
+    webUrl: "https://www.biometricupdate.com/202002/siri-users-consent-before-enrolling-voice-biometrics-apple-argues-seeking-bipa-suit-dismissal"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 12
     images:
-      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
-        width: 300
-        height: 250
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
 
 secured: "qmfoda0xyGwE7/df2IO6JRM/4a1bAiGf73W/+7mYMsxXt7d0/8HyIlbyf3wA2Gd/PhDU9X3dJJ0LEiURurQdCCv87xbt8VSWRpspDOg0r+UyDL+rLvi1SkiQSc0H8icz1fvV83b5bFw/m+aK6WYpYyhXPm4t4gHaVZehNupGF8XKj9yFHn41H7rZr5WOg19/mqj64PwYHS1JlO0txythL8fDaElJpHWvx4kOSJsvFF4ZtXNT9kdGcLlVRGjH5JR09/Y2xr8huBpYnBubgjP+xL3S+ouHQ4FF4MfJRAifcTvrSLjcxPZxz2Tn28wrMvoMzEkRV+m054aUi6UU0+T5aOpIGd7SAA4mUVqnQRugnrqiydqjLA1Zj2gbxj/zTu38vDN0UfnuoCH9ZfeqkBIX/KUFvom8cmwtVVCg3uMRpolxAtqVoxjgZJ4Eu7ZllNCZQorntggBCu8dJpMsxzhrpy4jD2YJg0BCnKPh8HT4jGE=;CmTb/xoNRBconIF2FXOauA=="
 ---

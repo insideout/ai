@@ -31,19 +31,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/02/frank.jpg"
         width: 300
         height: 300
-  - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
-    excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
-    publishedDateTime: 2020-02-04T11:36:00Z
-    webUrl: "https://www.nature.com/articles/s41524-020-0276-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig1_HTML.png"
-        width: 685
-        height: 536
 
 secured: "Rl40DQNtJTJxZBjzk/mbE15sa9YERtd96Lq7psUd5rRhi6cZx9yJJhEWO0Rx3ZgrMf7OxuHr3ZIhOJkpj7DUExTLC++/shId4c3GrCb+1SXRST9ur81XXhtK2jPWI2QstIPUQopSw797SIZHw44QQgqXv8hdydNXh6ec/frJOgb6KOs81QXUKMxuNCvh5zKTiAp4mY6fm0eIy/vRrA9z/jEKU3TKNDDa3c25w3VlfSormpuOKXE3KAC++cK6EtjETNV2ytRnWuDWPmyRL9Fi0cYcnHrW5VEZFwNQETXqY9aLYZE4ctZ7k9MCnWOpnlAlX0H+J8ccesYoASY6ZSgZaD8HUCwYsB9cvaezlxUbuLQx12sY2uXeqyNHS3lGNRec3TPMaFFE1GRfL75pzOZ7XNrJ3enSqGKm85e3CVb8+uGYUtZXlSk0xqNlrOw8aecjb/hDIKb+LX/y+2JtSpdGnK4chSwZDqbBD+TlaLn34Jc=;gHNOnCtQS5VmBMwnKWzb+A=="
 ---

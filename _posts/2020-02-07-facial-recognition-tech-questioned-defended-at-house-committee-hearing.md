@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T20:31:00Z
 webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,32 +24,71 @@ images:
     title: "Facial-recognition tech questioned, defended at House committee hearing"
 
 related:
-  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
-    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
-    publishedDateTime: 2020-02-12T15:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/herta-security-lauded-by-frost--sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-301003793.html"
+  - title: "European parliament insists it will not use facial recognition tech"
+    excerpt: "Statement comes after leaked memo on use of technology in security provoked outcry"
+    publishedDateTime: 2020-02-05T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
-        width: 1500
-        height: 784
-  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
-    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
-    publishedDateTime: 2020-02-13T02:52:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/herta-security-lauded-by-frost-amp-sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-879892037.html"
+      - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
+        width: 600
+        height: 360
+  - title: "European parliament says it will not use facial recognition tech"
+    excerpt: "Statement comes after leaked memo on use of technology in security provoked outcry"
+    publishedDateTime: 2020-02-05T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
-        width: 1500
-        height: 784
+      - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
+        width: 600
+        height: 360
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 39
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
+  - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
+    excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
+    publishedDateTime: 2020-02-11T05:28:00Z
+    webUrl: "https://www.heraldscotland.com/news/18225186.police-warned-not-adopt-unjustifiable-live-facial-recognition-technology/"
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 36
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/10955630/"
+        width: 800
+        height: 600
+  - title: "NY Senate bill would ban police facial recognition technology"
+    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
+    publishedDateTime: 2020-02-06T00:26:00Z
+    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
+    type: article
+    provider:
+      name: The Daily News Online
+      domain: thedailynewsonline.com
+    quality: 19
 
 secured: "LFJcJGY+Uj2r/OuNdKYI5UOZCO3HKtnPN8/ETz4BnDGmpTLGOK2joV9Ql0TQFh+ljvemZM0JYwhWhiAAC5g4JXAQsOGeeX9ojnjntJyQUoBwQX7Mlq0H+kozSdYREClo2xuId00nyQa+MymZssn2fxh5qNUsdGSemjegK8WPSwafB0+BTNIROGXPNGtyiHeHiEU0dAqaTn5/AbE2CbNXWMqu+oUGQCeYksCCFjthwxits9jLhvYow+W4bIJF7J+GvxFyNudtrEdqTu1DQ+i6k8GLeNCtFSUXsAJtvNXg3/OIfxkRoJxkpXF2BtcJCgsBAHjqVtA/BJ2DsbyMZ5FzrCcpD4yIgN7TskpbBGhMp/CFNJdT3WcFStIGBPLuNoj9LRcpWyhMD6msgn8G1Nz8ziOy3hOkHXBPS351MD1JuPtEhocwFMUkiCnfK0bKP2DjOxgR2r96lNaSHYUs8Td4QPqq1RC4k7NyfwmCxd/pADg=;RPtO1lWZpPeE+70yN6NgQg=="
 ---

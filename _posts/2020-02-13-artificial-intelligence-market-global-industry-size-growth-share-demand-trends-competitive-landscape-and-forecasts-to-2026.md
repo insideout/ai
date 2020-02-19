@@ -128,19 +128,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-  - title: "Artificial Intelligence (AI) in the Global Freight Transportation Industry, Forecast to 2025"
-    excerpt: "/PRNewswire/ -- This study analyses the key trends and applications of artificial intelligence in the freight transportation industry by mode of transport"
-    publishedDateTime: 2020-02-04T12:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-the-global-freight-transportation-industry-forecast-to-2025-300998307.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 41
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
   - title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
     excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
     publishedDateTime: 2020-02-18T09:30:00Z

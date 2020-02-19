@@ -50,19 +50,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/14/PDTN/e21f846b-28e0-4130-a3c3-d725dbc6a297-dtncent02-796k6yipic0ze2rq4qt_original.jpg?auto=webp&crop=752,423,x272,y241&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "1st AI-driven proactive suspension system for domain names"
-    excerpt: "Over 3.6 million .eu domain names are registered by businesses and private individuals. EURid, the organization that manages the .eu internet space, has launched an award winning AI-driven system that can detect which .eu domain names will be used for malicious purposes, and automatically suspends those before they can do any harm. Project ..."
-    publishedDateTime: 2020-02-04T11:40:00Z
-    webUrl: "https://apnews.com/Business Wire/e87cd5d598324dd8a60cf563ad86623b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
 
 secured: "MDzIW2iCWj3+tZKUdC/fMThKTo2fxmvUtXpeqMiGRYCJfCIvMXr3NVVGvyPM/KCe7wjfWGxigYNvyXHwtmI42VfvfdmnL98Gf3ILQxcOWewwCsAhzKT9X9vaMFwwPPlcLkJ5XbSCrrchTiJL+hNQl7ImyYJAa5enK5Q/KWcoYdO6biE/k8CCpum0uqblBchOyknLOpxbt3U9MZkgR+Anim7gYr51eAaN76JszXAG+iU6e1KwyxdA92xToHiYrsW9PEA0F07g+jS/cvP6Xy6ugapVLjzJUHpOiDU2klPMBawwUVUYQp0fmB1SE/1kCTCPG7OBDzuPqPhEAOY5UVyEcTuAeoVk+erJZp/+4mRIDiAoqSnODrFcdVW1y5ZI0MUYoAF9wl9Unf2gnfgelkl2jBMgMPXgUtTmn0zSh5+kvjlMf+DJu37ZS24u9TnaXa9rG/NCJc/1vUAh5ntlihzawNchmxGxyV2Rb6RoEE+wnVs=;/dzY8pSAqXvUK2JbMuOqbA=="
 ---

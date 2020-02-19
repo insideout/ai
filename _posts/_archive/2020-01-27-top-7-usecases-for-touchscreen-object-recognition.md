@@ -33,20 +33,7 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
         width: 1200
         height: 800
-  - title: "The rise of facial recognition technology: where we are and what to expect"
-    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
-    publishedDateTime: 2020-02-04T12:04:00Z
-    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-where-we-are-and-what-to-expect"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
-        width: 1640
-        height: 800
 
-secured: "iZSF6LuK7mEeBYEDDG+WRb2tygwAX08iko0ctAiVMHR4VV718roLGo/v+d7zeVpeAxme9XNgoNeKixv0jJUyns9gxdksI8TThAp5/EbZHPRGWLWvTbA0GueFjV5oBpt+78CU8aivLTJ7PSdyLfQ3/xlx79u5wdkjInxjgiC+OFdONQUJS4FF+4rdmwA5AdIW6J1M4VFxL08SWKa3kMrkxpTzJU841+O4ZePHtbp+iwK5zc1Zk2MZGI9D+JF/GGfL9O+E4keNcHmZuNmwKV9j+uDFzXkf13Lu2zt+qRAGuj9pqqkXSb+88uBZxc1wY51K;QeY05AzTLX58L85RULp6jA=="
+secured: "2wBlomGZnkWondhwoElHY9CE7WfYwGRN9iiYCRkDCFMHiN2rn3Ua8rg8n/W8EyDT8DzugcCqe2GUruQ88Ct849G87TloOUHWvE+TtalIErBA+nYNIhO5bPC1pddbpjD7xiJKwevas4PlkSJFwJEzUqAP3i6jOW0n0M13ToTnGhs7RXgsmrnmWg0JSlL/K6dOyf4Tyl9GDmQN6yZZuXg4s+LZ79EpXPoRtK+q1wIMHlRKB0OuJ4Ko5LG+ZvQPYRcrFfgMgrwULRvyX+jgicztu7zQLBsfFiQmFaWmvn9IIZeBvStkMWeItaEbRvBfyK7J;7doHaZmHDsiG6wyUW5bj7A=="
 ---
 

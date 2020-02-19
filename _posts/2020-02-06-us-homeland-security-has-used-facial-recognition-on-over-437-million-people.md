@@ -138,17 +138,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
-  - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
-    excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
-    publishedDateTime: 2020-02-04T11:29:00Z
-    webUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/"
-    ampWebUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 26
   - title: "NJ lawmakers debate cops’ use of controversial facial-recognition tech"
     excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
     publishedDateTime: 2020-02-05T18:04:00Z
@@ -193,15 +182,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 4
-  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
-    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
-    publishedDateTime: 2020-02-04T11:47:00Z
-    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 1
 
 secured: "EXaBh0pvYm4SrAWF7THjfpDRn3YNdVqRqleBrU/pgdoCpWFThzU5zOmsCajOpnOfgSGM75FFDrNhW1qKQ5feUWG7HgiPiz0qIFZrrGhv1LKgTaR7gYNM6D1mylr1W6wiXBM2nTUh2friWMcgbZIlPnqiU4WSvsWVcozcTfaVUy+f9/vF7YvXOczAvQQNgBgirpE2ZLt5RM+6cNIiK3JEkSvNq4qWF+LVIKOsPBxiFLNi8gMfEVio7snVipu6nFmnCmrfKUSpkf7BWQDjqspHyZIa+XRLG/n6x+gGwLxluOxlhQLUUB2K5gmo4AIClCMjSQTmFoc/IYWeaJgzCzJRXtAtg6YW43etNnRCmC61e4FoFA4GvSFwVc0HIliJws+hDwpMAHuWbofXcGPpGNGnAO9Hjn3tlmrboRUOhw9cIWPiJliwXlp2eDVRaQDjZCSuMbHhAqpvjnKzG6wpc7cT8yvO97fcAFEsyMBqCsbBbvc=;phlm0J87V5CWJnIDtvb0QA=="
 ---

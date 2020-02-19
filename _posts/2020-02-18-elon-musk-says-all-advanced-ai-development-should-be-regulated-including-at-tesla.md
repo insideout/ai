@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/18/elon-musk-says-all-advanced-ai-dev
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/18/elon-musk-says-all-advanced-ai-development-should-be-regulated-including-at-tesla/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 52
+  - title: "Regulate all companies developing AI, including Tesla: Musk"
+    excerpt: "Nadella who sees a greater role of AI for humanity will invest $1 billion in the next few years in OpenAI to support it build “democratised AGI” models. OpenAI would develop a hardware and software platform within Microsoft Azure Cloud platform which will scale to AGI. The start-up would also jointly develop new Azure AI supercomputing ..."
+    publishedDateTime: 2020-02-19T04:31:00Z
+    webUrl: "https://newsd.in/regulate-all-companies-developing-ai-including-tesla-musk/"
+    ampWebUrl: "https://newsd.in/regulate-all-companies-developing-ai-including-tesla-musk/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/regulate-all-companies-developing-ai-including-tesla-musk/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 39
 
 secured: "+r+H+ZF6Qx3DIiETOJeDzY0V1L347UEu0Vo1eAtNjhb2QvcuonduYLAWzLqYKtWBBwEw8sGwjy0Y1COn/LD+saL0CHUTE0KGuFaqXW3obCMUbCQhiAnGCCGVdj0N3lrGdUhl8FLG2orn6Sch/rFh2UMT2Hg2w1HPOyiNvzMRs3zK4E3YdQ6YjcLdnqcgjdu3Jwl21nnh1fmsbR3sdsP5jYTpHRRzmH8E3V5tY3WL6RbaMT/YCEgxreE14LAiFSdpUDfjGjBWDdbOuZYRL8XKDEa+RasBE84nyNq7yfOsIYu3cppZO7F9fUoE5VL3BILLnivhEZp/n5poDeYzpW5/1XhqjCsttG1rGoj/bdJeLZ+C1o77FAiwCjUwD8mR6Y7ceCzRjYyNYgnCmrYt7RVo5sDomZ+nnCfRlir//jDpCT28SU5UXRZoZHs1uhsD+8gdhTZP56w96qBQzzEf7fVc4Cud4Hz+oyqcKu3t/sWj/vs=;YOjwVyBJheS5zbGYsw3ueg=="
 ---

@@ -2,6 +2,95 @@
   "page": 7,
   "value": [
     {
+      "path": "_posts/2020-02-17-monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention.md",
+      "title": "Monash University researchers develop AI aimed at improving suicide prevention",
+      "excerpt": "In an effort to help paramedics respond more effectively to potential suicides in Australia, researchers from Monash University and Turning Point, a national addiction treatment centre, are using artificial intelligence (AI) to streamline how relevant ambulance data is filtered and categorised. The AI project, which received a AU$1.2 million ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
+      "publishedDateTime": "2020-02-16T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/17/b6213abd-fa0f-464c-9980-616c43d989c6/thumbnail/1200x675/71d46fb343b28e5a5692484319d19257/idf-collage.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Monash University researchers develop AI aimed at improving suicide prevention",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-new-artificial-evolution-research-could-finally-prove-darwin-was-right.md",
+      "title": "New artificial evolution research could finally prove Darwin was right",
+      "excerpt": "A successful artificial evolution paradigm could result in a Darwin Machine-based neural network capable of better emulating the natural selection process and, possibly, the human brain’s own ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
+      "publishedDateTime": "2020-02-17T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/bacteria-796x437.jpg",
+          "width": 796,
+          "height": 437,
+          "title": "New artificial evolution research could finally prove Darwin was right",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-17-please-check-your-data-a-self-driving-car-dataset-failed-to-label-hundreds-of-pedestrians-thousands-of-vehicles.md",
       "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
       "excerpt": "Roboflow has since corrected the errors on the dataset, and issued an improved version. Standing up to patent trolls works: Mycroft AI, a startup building an open-source voice-controlled assistant for Linux-based devices, was sued for allegedly infringing a couple of patents, as we reported earlier this month. Mycroft’s CEO Joshua Montgomery ...",
@@ -749,7 +838,7 @@
       "path": "_posts/2020-02-18-elon-musk-says-all-advanced-ai-development-should-be-regulated-including-at-tesla.md",
       "title": "Elon Musk says all advanced AI development should be regulated, including at Tesla",
       "excerpt": "Tesla and SpaceX CEO Elon Musk is once again sounding a warning note regarding the development of artificial intelligence – the executive and founder tweeted on Monday evening that “all org[anizations] developing advance AI should be regulated, including Tesla.” Musk was responding to a new MIT Technology Review profile of OpenAI ...",
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/02/18/elon-musk-says-all-advanced-ai-development-should-be-regulated-including-at-tesla/",
@@ -1968,6 +2057,42 @@
       ]
     },
     {
+      "path": "_posts/2020-02-19-artificial-intelligence-raises-question-of-whos-an-inventor.md",
+      "title": "Artificial intelligence raises question of who’s an inventor",
+      "excerpt": "Artificial intelligence raises question of who’s an inventor Only humans can get patents, but computers using artificial intelligence are discovering medicines, designing golf clubs and creating video games Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/111333818",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111333818",
+      "publishedDateTime": "2020-02-18T20:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTN/ccfce976-dcb2-4089-bffa-5cedeae5ea61-AP20007048093657.jpg?auto=webp&crop=3413,1920,x1,y116&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence raises question of who’s an inventor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-19-this-phone-uses-ai-to-block-you-taking-naked-selfies.md",
       "title": "This phone uses AI to block you taking naked selfies",
       "excerpt": "Ever sent a nude photo to a partner before? If so, you're not the only one. Just under 50% of American adults have sent nude photos (or videos), said one 2014 study, while a survey by Cosmo found that 89% of millennial women had taken naked photos.",
@@ -2036,114 +2161,6 @@
           "width": 580,
           "height": 387,
           "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2015-02-17-meet-the-new-face-detection-algorithm-that-will-change-image-search.md",
-      "title": "Meet the new face-detection algorithm that will change image search",
-      "excerpt": "Current facial-recognition technology is based primarily on the work of Paul Viola and Michael Jones, who achieved a major breakthrough in 2001 when they developed an algorithm that could detect ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/",
-      "ampWebUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
-      "publishedDateTime": "2015-02-17T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/7da/6e/fc3aa93d4cf68ff5406f291efcd81b08-1022x512.jpg",
-          "width": 1022,
-          "height": 512,
-          "title": "Meet the new face-detection algorithm that will change image search",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2016-02-23-trolls-vs-pirates-halostryker-oral-arguments.md",
-      "title": "Trolls vs Pirates: Halo/Stryker Oral Arguments",
-      "excerpt": "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2016-02-23T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patently-O",
-        "domain": "patentlyo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2017-05-01-a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-13.md",
-      "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-      "excerpt": "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ...",
-      "heat": 161,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2017-04-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/1200/1*KdbQDJccO7aoNIvDrjUhzA.gif",
-          "width": 1200,
-          "height": 675,
-          "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
           "attribution": null
         }
       ],

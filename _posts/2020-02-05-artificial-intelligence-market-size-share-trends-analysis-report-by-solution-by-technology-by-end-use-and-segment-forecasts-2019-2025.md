@@ -94,15 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-  - title: "Reinforcement Learning (RL) Market Report & Framework, 2020: An Introduction to the Technology"
-    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Reinforcement Learning: An Introduction to the Technology\" report has been added to ResearchAndMarkets.com's offering. These days, machine learning (ML),"
-    publishedDateTime: 2020-02-04T11:38:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979339/0/en/Reinforcement-Learning-RL-Market-Report-Framework-2020-An-Introduction-to-the-Technology.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
   - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
     excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
     publishedDateTime: 2020-02-05T02:05:00Z

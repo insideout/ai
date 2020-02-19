@@ -5,8 +5,8 @@ excerpt: "SALT LAKE CITY--(BUSINESS WIRE)--3M M*Modal Fluency Direct™, the hea
 publishedDateTime: 2020-01-31T13:10:00Z
 webUrl: "https://www.businesswire.com/news/home/20200131005113/en/3M-M*Modal-Earns-1-KLAS-Speech-Recognition"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
-    title: "3M M*Modal Earns #1 Best in KLAS for Speech Recognition: Front-End EMR"
-
-secured: "tzLhSsE9wdur+J2uliOXf8rflHUGD4HnBfDV2IRHwp8jflCIGNh82AWZ7VaNUadPYuF+C/EH4Nkegx7HPy2kTGn4WZV17M0f+nxKRo38rvUM7/4DbVMJcVtzz3pACwoxQRdCtDBD9A8Nwbz8atSfV6hICeK8AqrmoG79GtaG/YYBkQP0nc8yTZQs3pJboXGnyMLYEpjnQSu7n1KYkE7ks+P8aaCWlVRh/PhT0ndVI5UVS4E0UYEhDrVv8Kux4J5gs/9F4OCSwzJ/hDu+g4kPARSQoQzdqcxz/mgRyovrOzTAxJj+/WBioPl4GzdfVEVI;oPX06w5hM2rl6DCMXDEPyA=="
+secured: "ainE2xP5MYiC5ZN4xgQU3AnJ3fqc+x8WUQ22nGpeqXIWIgZJLLFexXIVcCjfKhPgidhIh/ZRXjtjSOo/826Y13VgPOKsxflcp9nrZOBNI7HL9Kb2+plBnC7qxk/MBq1CRw+vhc0LKyAgCy3L0V7nX6+iTHNafKPH2sMHlQaJ5pmRN7QtbCq3HsjsNA1PgJnMwm//HzoEzABZXcz+QDBs1RbLEov7y+2wc7cETY9Anl8mNpwbjAghd75Wi7KG+GMR0bsC8jcAlei5kfuNYRejI/7L6V4EGeHxK+9Pw2R3vN4XTEFmemBkpVhypyR1wqZaWL5s42Rg2ZUFAbwcLA0GFtkAqrJDqXs5qRsPcuuXUuKDyhHUFY7J7udghk1agtuME3jXPlFEJFH3VbdGVrcNZ/eUX8/+XSc6Wo9I2fdgL08hT5UVpqR6ecLRttHBLVLHPR4mFt0ZJFsEv/qbGf4RijntWboDJJfBs6X83AsWKKA=;maZXS0KPCuDIidsy9P7rQg=="
 ---
 

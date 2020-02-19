@@ -25,19 +25,6 @@ images:
     title: "Efficient Model Selection for Deep Neural Networks on Massively Parallel Processing Databases"
 
 related:
-  - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
-    excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
-    publishedDateTime: 2020-02-04T11:36:00Z
-    webUrl: "https://www.nature.com/articles/s41524-020-0276-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig1_HTML.png"
-        width: 685
-        height: 536
   - title: "Google Open-Sources Reformer Efficient Deep-Learning Model"
     excerpt: "Researchers from Google AI recently open-sourced the Reformer, a more efficient version of the Transformer deep-learning model. Using a hashing trick for attention calculation and reversible residual layers, the Reformer can handle text sequences up to 1 million words while consuming only 16GB of memory on a single GPU accelerator. With such a ..."
     publishedDateTime: 2020-02-04T14:02:00Z

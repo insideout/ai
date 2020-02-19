@@ -8,7 +8,7 @@ ampWebUrl: "https://www.brookings.edu/research/protecting-privacy-in-an-ai-drive
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/14/PDTN/e21f846b-28e0-4130-a3c3-d725dbc6a297-dtncent02-796k6yipic0ze2rq4qt_original.jpg?auto=webp&crop=752,423,x272,y241&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "1st AI-driven proactive suspension system for domain names"
-    excerpt: "Over 3.6 million .eu domain names are registered by businesses and private individuals. EURid, the organization that manages the .eu internet space, has launched an award winning AI-driven system that can detect which .eu domain names will be used for malicious purposes, and automatically suspends those before they can do any harm. Project ..."
-    publishedDateTime: 2020-02-04T11:40:00Z
-    webUrl: "https://apnews.com/Business Wire/e87cd5d598324dd8a60cf563ad86623b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
   - title: "The future of management students in an artificial intelligence- based world"
     excerpt: "AI-enabled decision making is better than human or software alone decision making. Let’s understand this with an example. IBM’s cognitive room, an immersive Watson driven exploration of IBM’s capabilities and solutions, supports decision making for mergers and acquisitions. It allows the decision-makers to effectively interact with a ..."
     publishedDateTime: 2020-02-13T06:59:00Z

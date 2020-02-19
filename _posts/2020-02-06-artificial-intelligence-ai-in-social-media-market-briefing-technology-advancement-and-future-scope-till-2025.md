@@ -90,15 +90,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-  - title: "Reinforcement Learning (RL) Market Report & Framework, 2020: An Introduction to the Technology"
-    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Reinforcement Learning: An Introduction to the Technology\" report has been added to ResearchAndMarkets.com's offering. These days, machine learning (ML),"
-    publishedDateTime: 2020-02-04T11:38:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979339/0/en/Reinforcement-Learning-RL-Market-Report-Framework-2020-An-Introduction-to-the-Technology.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
   - title: "Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology, By End Use And Segment Forecasts, 2019 - 2025"
     excerpt: "/PRNewswire/ -- Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology (Deep Learning, Machine Learning), By End"
     publishedDateTime: 2020-02-05T12:00:00Z

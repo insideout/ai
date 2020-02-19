@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Most Tech Sector Leaders Believe Companies Should Have An Artificial Intelligence Ethics Policy: KPMG Report"
-excerpt: "/PRNewswire/ -- Nearly 90 percent of technology company decision-makers believe companies in all industries should implement an AI ethics policy to help"
+excerpt: "The tech findings are part of a larger KPMG-commissioned survey of 751 business decision-makers across five sectors, technology, transportation, retail, healthcare, and financial services. [Read KPMG's new report: https://advisory.kpmg.us/content/dam/advisory/en/pdfs/2020/technology-living-in-an-ai-world.pdf] \"Companies that are embedding AI ..."
 publishedDateTime: 2020-02-13T14:17:00Z
-webUrl: "https://www.prnewswire.com/news-releases/most-tech-sector-leaders-believe-companies-should-have-an-artificial-intelligence-ethics-policy-kpmg-report-301004109.html"
+webUrl: "https://markets.businessinsider.com/news/stocks/most-tech-sector-leaders-believe-companies-should-have-an-artificial-intelligence-ethics-policy-kpmg-report-1028903421"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/most-tech-sector-leaders-believe-companies-should-have-an-artificial-intelligence-ethics-policy-kpmg-report-1028903421"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/most-tech-sector-leaders-believe-companies-should-have-an-artificial-intelligence-ethics-policy-kpmg-report-1028903421"
 type: article
-quality: 35
-heat: 35
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Ethics
+  - AI in Healthcare
 
-images:
-  - url: "https://mma.prnewswire.com/media/648978/KPMG_Logo.jpg?p=facebook"
-    width: 1201
-    height: 629
-    title: "Most Tech Sector Leaders Believe Companies Should Have An Artificial Intelligence Ethics Policy: KPMG Report"
-
-secured: "xxE0StFBY7kf2LvXueWz4cLcDObJ43Kz84j/k2Pq4/CTPDWHcbWN0wQrCiW6L++zYEJzF/3k/aai9aCOWBkxOEt+6CiPWPel3jWsIJLakQuhJQQqbM2/gcy5JCVbgJzjlHxAVrSNOCXG+Hz8QBlAbrCjKN0cVrqEYJ59XR6WfxvE49wm4j90OFMKpt024A0wESl8JQYsMMIN1QYlD25uUzSX7dBaVGhJL1mezWRwROEZCZlWXkjtb0RoRBdBmGPSPER5HrWwQjPSVM84n45oM5Ryrfee1N+gSQySQmZTJ6+bPIE/107PNLrTcbm8CzMkaqA8QhFGTAR5Q4Cwyr5doOclbyKzLbeLaYPjnNLt7M8e5JnTzsJbt2JpzAEZ6lkO+RQvNFWzu8uUQCTE0Aex11c7cnNBPrOBdx/GNigcSzFLMNExuI5VfhIGoIOgL7Evao/OeuvI0H/XsQPFHlUJ9J5nQET3OCBar8GmF1S2xKQ=;c3I3ljhRuOubrdHlobWYaA=="
+secured: "/hXxYOpeS9qGUWlzn9D0MC4MxA8AzrcNzG4/YWEElewyWlfWsFC6WuH08eTmkmnCuhOtEWy1y2/V6FyoY0Po6SQ1H6z+jJVO1SR8bVWRxb2NsRE3goF4b7ftX9vJnYqp/+AwPd0yXDA9HFVeKz1iCcmg56qjTBKLynBYMp5qcsd2deilTOYJodvndBCaXaSNe0VDpKDkRH24fzbhS29L+lF2HPp8fw4h99gxiOREZ2AWHyLx/3i4wMtEsEXdePSbDt+G2jOX4NWlT+k3Noo7XBgPyMqzBHA/DJJQPkFUudo9nNjxnztnGCQM3DFvKbK0jvQonmPmoKEBhvAvAlc5ukQXGBA+lVdRetj+1PIbAAQ/44/SL1Fb+EgxYGIrQ5iTGT+PwG+4clYb9i+INRr537m0F1qF8dLcEyiKgXh06kHE8Y5qME1Ete94iWqWt03eVqez4I698hYa6Q/7c4LsflDvlM/OJ93AW/S+YVfRb8E=;V3eOW/F7D+ncSMIU8TO0Mg=="
 ---
 

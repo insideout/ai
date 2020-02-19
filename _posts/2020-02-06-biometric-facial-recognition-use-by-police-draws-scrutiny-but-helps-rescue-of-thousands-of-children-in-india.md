@@ -125,6 +125,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
+    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
+    publishedDateTime: 2020-02-08T04:26:00Z
+    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 13
 
 secured: "OSSqo1/dsY3Ljz7lKYXoPQ7P4IALgglFMG4wETUWs0AYY0X1vtKjCuRD/vBPqaOv2fCh2rMnziRSvPtYfSXGt/7Eo9/MkGrG1h10IIshVGJem2JQhtVrfEhj+Cj/rKw11WOT7cZbxDFu8pxnK8fQhQh7xnXuXn1K7QH3yHNuqd0CdEQb3lYweA4UKhr45bZY5GmiMRf8hQyQu7Se7chJ7xXT/Vj6U4VjHtx1Zjp9TJ3a/4qqrfgjVf18FJ5ATpY1qEwMV2nExb+G+ogPvI32HUmaQ0UOFOl9HRBM2Yz0DSY9HzL8jmV7hurjn6YwrJce;P1Hfwxxa5zmdDz6TI5dsyg=="
 ---

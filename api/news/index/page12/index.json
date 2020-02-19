@@ -2,6 +2,132 @@
   "page": 12,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-15-china-the-first-artificial-intelligence-superpower.md",
+      "title": "China – The First Artificial Intelligence Superpower",
+      "excerpt": "China combines a gigantic amount of data with talent, companies, research and capital to build the world's leading AI ecosystem.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/",
+      "publishedDateTime": "2020-01-14T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1d73c0735f8c000799cb86%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1130%26cropY1%3D198%26cropY2%3D833",
+          "width": 1130,
+          "height": 636,
+          "title": "China – The First Artificial Intelligence Superpower",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-15-congress-moves-toward-facial-recognition-regulation.md",
+      "title": "Congress moves toward facial recognition regulation",
+      "excerpt": "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ...",
+      "heat": 481,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
+      "publishedDateTime": "2020-01-15T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Congress moves toward facial recognition regulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-15-deep-fake-imagery-manipulation-poses-threat-to-society-not-just-military-us-general-warns.md",
+      "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
+      "excerpt": "‘Deep fakes’ pose a major threat to elections and even world peace, a US military leader has warned. The manipulation of digital pictures to ... \"Those are areas that are of increasing concern across the whole of society, not just the US military.” The process of creating a deep fake image or video requires many pictures of a person's ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/",
+      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
+      "publishedDateTime": "2020-01-15T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2020/01/15/TELEMMGLPICT000220631492_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwUTIkwgpo3A-hR5PYllYuW8.jpeg",
+          "width": 2501,
+          "height": 1563,
+          "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-15-digital-dream-labs-acquires-anki-robotics-artificial-intelligence-assets.md",
       "title": "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets",
       "excerpt": "/PRNewswire/ -- Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any",
@@ -2039,140 +2165,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-creating-a-more-accessible-world-with-azure-ai.md",
-      "title": "Creating a more accessible world with Azure AI",
-      "excerpt": "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges. One challenge is that according to the World Health Association,",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T00:00:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e79a07b9-c903-4f16-8e4f-ee19d7dfdf0d.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Creating a more accessible world with Azure AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-democratizing-the-optimization-of-ais-arcane-neural-networks.md",
-      "title": "Democratizing the optimization of AI’s arcane neural networks",
-      "excerpt": "We’re only a few weeks into the new year, but already we’re seeing signs that automated machine learning modeling, sometimes known as autoML, is rising to a new plateau of sophistication. Specifically, it appears that a promising autoML approach known as “neural architecture search” will soon become part of data scientists’ core toolkits.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3514568/democratizing-the-optimization-of-ais-arcane-neural-networks.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T04:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Democratizing the optimization of AI’s arcane neural networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-dewo-uses-ai-to-minimize-digital-distractions.md",
-      "title": "Dewo uses AI to minimize digital distractions",
-      "excerpt": "A productivity-tracking tool that taps AI to create up-to-the-minute time sheets on employees’ behalves, Timely quickly found success, racking up thousands of paying customers across over 160 countries and attracting the attention of investors like Concentric, Investinor, 500 Startups, and SNÖ Ventures. (Memory raised $5 million in an ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/",
-      "publishedDateTime": "2020-01-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/2d083e56-d88b-4bd4-a29b-3fdf6cb8c495-e1579106323862.png?fit=1202%2C598&strip=all",
-          "width": 1202,
-          "height": 598,
-          "title": "Dewo uses AI to minimize digital distractions",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
