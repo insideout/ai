@@ -71,6 +71,21 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
         width: 640
         height: 419
+  - title: "Self-driving Tesla tricked into speeding using terrifying hack"
+    excerpt: "Security researchers have discovered a way to fool Tesla electric cars into speeding using a small strip of black tape. McAfee researchers found that placing a two-inch section of black electric tape over part of a 35mph speed limit sign tricked a Tesla car into reading the sign as 85mph. The car, which was operating in the Autopilot mode, then ..."
+    publishedDateTime: 2020-02-19T10:55:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/4uGV_fRj0UA/maxresdefault.jpg"
+        width: 1280
+        height: 720
   - title: "Former Waymo employee arrested on suspicion of causing Tempe crash with self-driving car"
     excerpt: "Raymond Tang, 31, was reportedly fired from Waymo before he intentionally caused a crash with one of their vehicles, according to court records."
     publishedDateTime: 2020-02-13T21:10:00Z

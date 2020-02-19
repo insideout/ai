@@ -35,6 +35,15 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2-600x599.jpeg"
         width: 600
         height: 599
+  - title: "AI in Fintech Market"
+    excerpt: "By expanding its relationship with AWS, Second Spectrum will begin working with Amazon SageMaker to explore ways of enhancing and tuning its ML models on years of video data captured in dozens of ..."
+    publishedDateTime: 2020-02-17T15:54:00Z
+    webUrl: "https://www.openpr.com/news/1934601/2020-ai-in-fintech-market-covering-prime-factors-and-leading-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "5YSyRYkmKuPMMk57SmvHLFXUUjzaGenFLoF21Uvt8CH6RXQzruB8odx7Etj50YY+rM10GdGB/nV7hJf3/ydtaSG7ncjcexlTqaf8nzuhDeUPea10FsOihk+K6b4jmjBEUCtZBn0jkFWuimrTJvZjINov0Okbw9IjYZDI841Xd6glETiMziwY1yI2QXixbee27fCUNe3EqoRH2jsz1kTAgk27+aIWMpuu3GVzKttrukqHtzPX8UvsZmDQ+gPvXRpVRPs32wbrVWJ4O4FLEBPrF2DBH8SszEfGs/CjYYh0JWiFG45m6BwwCQchde4pb0L8xuwCi6sa1xE+vNlNTH0vJZQ4WYXe9797mCoM0qQPWtQINd1HDqI9Dpf0F9L9dlWcdS0OhtuCF/iU1N+dPVd7tWmqJ5jQxoaNATz/vBKjASNXjlhR4o0oy4CzTdqdRXLblf4kBeVfKs0Sna/kIxyR5Tdai1aMwei+Mb8X9JB5jjM=;48NtPu2eo5z1gZMREpRlcA=="
 ---

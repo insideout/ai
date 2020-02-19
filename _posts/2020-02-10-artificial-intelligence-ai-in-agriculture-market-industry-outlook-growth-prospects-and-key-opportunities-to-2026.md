@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T04:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-industry-outlook-growth-prospects-and-key-opportunities-to-2026-2020-02-10"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600
         height: 246
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
+    publishedDateTime: 2020-02-11T11:51:00Z
+    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "YKvy8kyP3hnTrbtGNbayLtv3ORO/TZC9ZbA5OtA3nUEQkd+GOdOeMeyNnVlAckYASzLt7P24xUIzk3bTftoJTaTqSk6uu30T5GAy7mEL2WsZCahGEiKAUmjveWRoIEB0AjPWtxaa4NLwPhI93rhM2zDpYNJQkSi0KFEZS+fXU8PtcTXR/5ApAKHXMA6RPADapSer5HCVAri/uyGiLANPnBPTcirq/ePoZ5iIxw5hVi+65vwJJdttQJTGfK3egsKNWH7QuBceCEamBko6q++0GTaRS3QirPL13t5TLQO+XEcOV3UQD7z3HtxGEFgPDwKP;BYAINuVPwD3yrpXNmWAN7w=="
 ---

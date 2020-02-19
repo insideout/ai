@@ -24,58 +24,41 @@ images:
     title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
 
 related:
-  - title: "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027"
-    excerpt: "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,"
-    publishedDateTime: 2020-02-04T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
+  - title: "Enterprise AI Market Statistics and Growth Prediction 2020 to 2025 | IBM Corporation, Oracle, HP"
+    excerpt: "Artificial Intelligence in recent years has moved on to become a key component for enterprise applications and has posed as an important factor for successful business strategies. With AI, enterprises are now able to achieve far more in quite less time."
+    publishedDateTime: 2020-02-06T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof"
-    excerpt: "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,"
-    publishedDateTime: 2020-02-06T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06"
+  - title: "Natural Language Processing Market Future Innovation Strategies by 2029 | Apple Incorporation, Dolbey Systems, Google"
+    excerpt: "Global News of Natural Language Processing Market Study 2020-2029, by Segment (Rule-Based, Statistical, Hybrid), Playing a Pivotal Role in Expanding by (Web Search, Language Translation, Customer Service),"
+    publishedDateTime: 2020-02-12T10:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-future-innovation-strategies-by-2029-apple-incorporation-dolbey-systems-google-2020-02-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
-    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
-    publishedDateTime: 2020-02-10T20:50:00Z
-    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application and Geography 2018 – 2027"
+    excerpt: "The report analyzes and forecasts the Machine Learning as a Service (MLaaS) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
+    publishedDateTime: 2020-02-06T10:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-and-geography-2018-2027-2020-02-06"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "Global Artificial Intelligence (AI) in Social Media Market 2019-2023 | Growing Demand for Smart Homes to Boost Growth | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The artificial intelligence (AI) in social media market size is poised to grow by USD 1.67 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The process of deploying and maintaining reliable data interfaces is difficult, owing to the complexity ..."
-    publishedDateTime: 2020-02-07T01:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200206005722/en/Global-Artificial-Intelligence-AI-Social-Media-Market"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
-        width: 1200
-        height: 627
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
   - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 – Exclusive Report by MarketsandMarkets(TM)"
     excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\", published by MarketsandMarkets™, the global Emotion Detection and Recognition Market size is projected to grow from USD 21.6 billion in 2019 to USD 56.0 billion by 2024, at a Compound Annual Growth ..."
     publishedDateTime: 2020-02-04T21:49:00Z
@@ -89,24 +72,6 @@ related:
       - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
         width: 300
         height: 250
-  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
-    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
-    publishedDateTime: 2020-01-29T12:11:00Z
-    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
-    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
-    publishedDateTime: 2020-02-11T11:51:00Z
-    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "qxRO6a5gKcuPhmIq4NPCybusiOsbfOjLhvNDz2cn1uLSLDJ4KCXA4hLN7uzRUbM34PsujtpbHSA7sJXKWLwbctsAeBPSizIoacuuDHfEZWaFEY0x1xNqb6t1d5oTnAxN7yDf0YG4BXe5ye9wunGI99l3u+IOIiwZclgYLXlHNJ4MyC7ahIGj5vqnsCWdoNpSFAf/w5jcqYMhaLnBdr3XjENXjaAM/iEj1muKytkN+y5bk+vlznA0Qql9OcjZAFimy2nL7Mjl4cbM+ybPd08wZ2fKQ2NPMU/1n6nzks5pU60V+Oqk4nTmgZEHnd5jilx4;GGvg/HPTMwFSDNbXuEN0Xg=="
 ---

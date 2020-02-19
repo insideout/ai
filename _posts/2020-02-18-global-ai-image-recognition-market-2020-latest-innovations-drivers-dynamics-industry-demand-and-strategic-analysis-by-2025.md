@@ -63,6 +63,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "AI for BFSI Sector Market Emerging Trends and Global Industry Forecast to 2024"
+    excerpt: "Considering the end-use segment of AI for BFSI sector market, the banks hold more than 50% of the market share. Majority of the banks have been collaborating with fintech companies to revamp the existing services and improve the customer services."
+    publishedDateTime: 2020-02-19T10:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-for-bfsi-sector-market-emerging-trends-and-global-industry-forecast-to-2024-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Space Robotics Market may see a growth rate of 8.73% | Northrop Grumman, Maxar Technologies, Ispace, Astrobotic Technology"
+    excerpt: "Advance Market Analytics published a new research publication on \"Global Space Robotics Market Insights, to 2025\" with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends,"
+    publishedDateTime: 2020-02-19T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-may-see-a-growth-rate-of-873-northrop-grumman-maxar-technologies-ispace-astrobotic-technology-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Robotics Market Projected to Show Strong Growth"
     excerpt: "A New Syndicate Global (United States, European Union and China) Artificial Intelligence Robotics Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Artificial ..."
     publishedDateTime: 2020-02-18T07:44:00Z

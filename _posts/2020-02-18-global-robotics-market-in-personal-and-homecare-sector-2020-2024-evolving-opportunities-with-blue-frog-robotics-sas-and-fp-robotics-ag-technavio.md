@@ -38,18 +38,18 @@ related:
         width: 1200
         height: 627
   - title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-    excerpt: "The “2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report” report has been added to ResearchAndMarkets.com’s offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually, this report provides a ..."
-    publishedDateTime: 2020-02-12T10:20:00Z
-    webUrl: "https://apnews.com/Business Wire/a7905aef81874a06976be4dbb4f6fd81"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually ..."
+    publishedDateTime: 2020-02-12T10:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200212005347/en/Global-Forecast-Artificial-Intelligence-AI-Robots-2021"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
+      name: Business Wire
+      domain: businesswire.com
+    quality: 38
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mms.businesswire.com/media/20200212005347/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "+kempVGSQMb0ZgmISbhNeB+DSb7HqnqlqdMS8iP9EIayJgAsA+/cv23PT+cYQ6LH8AUc3r8jeVMxzb0xRv850SYQu3JkrHt2jIIEFEQ0V/zVVd1A1ftGV0KEeCldFcOSo77yVzcZZlnF7PknQiHNdwsJ/Tz0VaT4APaaGnnhdtqkn/UrjWUDcyNPQDIUC8tvmlrMrlBpFCOATzMh/lu5TobIlcWzgIzn4EL5TCTzX0PknMHfvYyx4/wVVEigrmaqwhflHY1eXs2NDC+2YUCHGWpfPHrxdWpNG7ivgG+JrGxRcJZOT2A0y3K3vd23+cyxtNq0L9R5mnRM+Lbsoes9NJHcPxLjtGyQwprup+ROWrJ7eIYESfq6O0ULae5mDWQJUWrqP8v7BQyvI97b8cRaW0G8N0MdRK5ZvGg2vp1XrxAVhADIRpUTTadob/9qJ63RW/GvvfEpQZcWK+jOTOW7o/TIPqFZ/9A/rQ80iuP3Das=;4xXxDXYnm5Uawp0g9MQBKw=="
 ---

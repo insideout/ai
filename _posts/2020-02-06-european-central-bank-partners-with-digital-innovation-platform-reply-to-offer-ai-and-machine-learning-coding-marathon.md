@@ -48,11 +48,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 16
-    images:
-      - url: "http://www.businesswire.com/images/bwlogo_square.png"
-        width: 560
-        height: 560
+    quality: 0
 
 secured: "bN2nYA/YnVjUkKfjy3tDX+k1GGb7yeVN1cHcr//ACWVo/MForZElwKAw/1vqtVLDo764mErW1H9EQtCVvUlHUYLNr0X+X/iReSgBl2Izv8UCTlk63yCb0fCaVrO8sMGcW0TWJ88sTX6ZD/CtrIXxwO0T9tIeqBbeFYjwmChbCS6atOZ2iHtnUt6RzVRgJlWoqQjtOySP7rj0mtWF1Yi5gVnBGMLrlhJOfsdIOwVv2pVsolSwJatojty3yAc1uZsYfo8g9qdqtGxnbG1aFYePCpAeznMLo7d6g/RkqpRXE/PiF6RSi3bkwlRFyNbtK5YI;2rnZQFjv4rp4gUmB6Dhx5Q=="
 ---

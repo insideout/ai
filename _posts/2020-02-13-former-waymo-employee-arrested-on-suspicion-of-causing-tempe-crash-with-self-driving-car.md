@@ -86,6 +86,21 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/waymo-minivan-4-1532617122.jpg?crop=0.574xw:0.469xh;0.229xw,0.526xh&resize=1200:*"
         width: 1200
         height: 599
+  - title: "Self-driving Tesla tricked into speeding using terrifying hack"
+    excerpt: "Security researchers have discovered a way to fool Tesla electric cars into speeding using a small strip of black tape. McAfee researchers found that placing a two-inch section of black electric tape over part of a 35mph speed limit sign tricked a Tesla car into reading the sign as 85mph. The car, which was operating in the Autopilot mode, then ..."
+    publishedDateTime: 2020-02-19T10:55:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/4uGV_fRj0UA/maxresdefault.jpg"
+        width: 1280
+        height: 720
   - title: "‘Disgruntled’ ex-Waymo driver accused of deliberately causing crash with self-driving vehicle"
     excerpt: "A man described as a disgruntled former Waymo driver has been arrested on suspicion of deliberately crashing a passenger car into one of the company’s vans with self-driving capabilities"
     publishedDateTime: 2020-02-14T14:40:00Z

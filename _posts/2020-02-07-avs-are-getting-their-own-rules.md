@@ -78,6 +78,19 @@ related:
       - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
         width: 938
         height: 483
+  - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
+    excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
+    publishedDateTime: 2020-02-19T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-emotion-detection-and-recognition-edr-market-2020-growth-analysis-key-insights-future-development-and-statistical-forecast-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
     excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
     publishedDateTime: 2020-02-07T03:43:00Z

@@ -52,6 +52,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 44
+  - title: "Google Funds AI Research Projects in India For Social Good"
+    excerpt: "As noted by Hindustan Times, Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques. “We are increasingly seeing people apply AI to address big challenges. Therefore ..."
+    publishedDateTime: 2020-02-19T11:58:00Z
+    webUrl: "https://www.analyticsinsight.net/google-funds-ai-research-projects-address-socio-economic-challenges-india/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/news_1.jpg"
+        width: 780
+        height: 488
 
 secured: "yHrp2I49fcb99JSfuAwGdKEx1mukwAPUKQ95sQSrrsR0YjSfYFAbA/YaQPDsU4os4OEqjE2Q4CgVEx34hpGf4Kinld2/4WUgyGLAiH8eVpauLV/3X5DbQaqMKGf/dSco6t0Uber1icY2nSPAl0pjB5NX8P4AzHITwQlKBEdxBd/jQbeIvszOG8bNBDLWqb8h+b4ZXwDQ9U1C3O1n8xIb53F1ZSufg0fbCb+YXCwM8ZBrSpQBm7iBraxaHJ8dpSd92R0qizc9uyZU1hXYpauqgQc+N72jnIzkQFQ20l1rZkCMfeWcvwCNoZ1Nw8Fkh2YA;4/fPnOp9zJsAtEHDIe2pZg=="
 ---

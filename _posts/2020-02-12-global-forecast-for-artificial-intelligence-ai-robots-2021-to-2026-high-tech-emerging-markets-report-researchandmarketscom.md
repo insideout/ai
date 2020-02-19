@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-excerpt: "The “2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report” report has been added to ResearchAndMarkets.com’s offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually, this report provides a ..."
-publishedDateTime: 2020-02-12T10:20:00Z
-webUrl: "https://apnews.com/Business Wire/a7905aef81874a06976be4dbb4f6fd81"
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually ..."
+publishedDateTime: 2020-02-12T10:12:00Z
+webUrl: "https://www.businesswire.com/news/home/20200212005347/en/Global-Forecast-Artificial-Intelligence-AI-Robots-2021"
 type: article
-quality: 21
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200212005347/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
     title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
 
 related:
@@ -50,6 +51,6 @@ related:
         width: 480
         height: 271
 
-secured: "tfuGLs9UX4X8ImpRitjA5k0H14zAqcwpHx9+EJbcoBZEqcfnjBDqROupXIG9qsght7/S3nLG62LItN35H8n0wi27VEoOQmJ2YdGUinyAFUfJTNa8NuayvhK54Apv2qKm2sBp5CvUg/YNoDCRcEWO9CmOHlPDW+TElnvZHxtlf0u0+AVNlqsmeEcomVcg0uuUPQxf33R0EthnO11c1FrEglECJ1H0ChCGjJnz1LZ1uhsrULwQnb5vFx1Fdb/EwsyORcQSTOjdzXyFfK38QAJuU0DrBRFoqvFbKOlWwldq+R9Dtaiq8ZubSbEZp/gf6+dV;J1OblzQWbzOPsT7zy8NhXg=="
+secured: "2purXlFvMyQPzqcgtb7HjxObh0j1KVN/6zUQceZFpz/JkkrGzO8vptktQLAFJHwG7iD1MBKqSpKCrUVI1reKmdy/iRQB/HvlJ/vz/xQFbr+tP8kalrAveUGjlIZvoHWBEnJrdWuAZbCe89enE5ccskoLfnRz1CsK9fT4PwnufOEtCuZlvOXtNnd/ZgLDyhTrlXUXpclG817Lq3N99T6KshMAkJ6sMlKc0M5AKry4O2y8AC3cPeHnI6yOviHxNUL65pZBWxoUJv3C101uG3Kprkzi3PtyUUa3t7e78/81BU+SfuZvAS8G2SNYhvA4dl5r;5xUN6Y5zyWbd1p8xmXV7GA=="
 ---
 

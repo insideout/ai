@@ -8,7 +8,7 @@ ampWebUrl: "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-
 cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,6 +52,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 44
+  - title: "Google Funds AI Research Projects in India For Social Good"
+    excerpt: "As noted by Hindustan Times, Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques. “We are increasingly seeing people apply AI to address big challenges. Therefore ..."
+    publishedDateTime: 2020-02-19T11:58:00Z
+    webUrl: "https://www.analyticsinsight.net/google-funds-ai-research-projects-address-socio-economic-challenges-india/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/news_1.jpg"
+        width: 780
+        height: 488
 
 secured: "NYFLtNEtkuo4aEnJlP1gyw0ZmJ4pZ1tlZgro9Zn9EBz1bAmelJms8PmX8aP+aC3DXmA+yy/6Qz6v0M/vkYNMUVZwEr9xF+xdMF0iHwKDUHGrmRlvV6u2WWqy5GKP4F+GhveCK04uoKOFfO12wdjIJFbrRS/mfLVhmG4oAXrT8DwtntuTfw19ZMcPYmIgwgENwoouKafmSal1Gk1Pt3JVxPBsP7D3oW7aEa/fYM850xal21MF0yCjV2XLfxV5w+BUTf5QFVU6FqfmsPVCG1CRSkIxF/yOIK6ZzoVJ30IGP38NHbDPHhR9MlellFQAfyGDhIEVnC1IRxutc7gFK9JPiok498fP5/bJhZSu/7hdnUkayHQcSv8/AIIajFNADUgZazZyPMrlhII2Ij+i5ZM5uFGMIOn+H3bQ3601FUmg3juToFnmcC+V716VUd57jRQuPNnQwCppuVftRb1F7QEhSQMMbYdB0j3RPHb6HXZI5to=;4l14nrRzMXYvc2eNKF+2gg=="
 ---

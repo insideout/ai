@@ -25,17 +25,6 @@ images:
     height: 675
     title: "How to use voice recognition in Pokémon HOME"
 
-related:
-  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
-    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
-    publishedDateTime: 2020-02-05T18:29:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-
 secured: "6R/GHmPNn/3PfmJhVWdo9Ej7qwr/mXB1WopSlZ/K+/PO3jWOHrpHlJdTrcoHp5nFlyeinIAqDkThyRzCjh+4SoY8WNNAAjzXRyllPRlYpDgnm9y5RUHCAPjE/VxybHspbc22qqBWFVY7GcUsgTM52o/of9PcEOrDNsRLKBFnyeOSgLuNqi8jnENH6BQ5Mzdr43oDvB+I2JpR/7iV2jApv/MKTuBh1tlfYhaOZ4TvCblpVvuhuAEAk3wqD4lplJkAjMu/P4F8h9A1nvMm60Uv+e0/rvg0NQzN6wG0GAWERFgeBb2EIr0zZrs/6pOt1acovYSqduq3G1g8QFcDyXORwLP3/PKu4NM3OnZgYxnyrPD83zbmXhelzHcL7JaF6Wcbu3Gdmj70WiNIanWdNUN1w0y2Bq6ZzIhaJVCfIRGGvPeqEqWs7ySLi0Z95da1AHxxRL5cPvZySefD1phmTFzJRZYPVYqq0C8KWFDe5vNGcKc=;iPVGJzchuW8hIdYAM/YjvQ=="
 ---
 

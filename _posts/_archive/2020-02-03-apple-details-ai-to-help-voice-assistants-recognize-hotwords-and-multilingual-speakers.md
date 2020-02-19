@@ -7,9 +7,9 @@ webUrl: "https://venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assis
 ampWebUrl: "https://venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/amp/"
 type: article
-quality: 61
-heat: 61
-published: false
+quality: 81
+heat: 81
+published: true
 
 provider:
   name: VentureBeat
@@ -23,6 +23,12 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "eIE5XIs43NzMq6+qtOojgUHFp+u43IwNROIclpcRq17jkBZN/eRyStEh807dvBKzXCNPMrLmOqkhYRN881zktsLOytGa2rGT46KwVgMIm5AzImD4v4Gx8vHE46L3kD7yPrypjZ0ifSsOTbbLzfMPEPm9BwR+wn/7YRynlo/D+ztrn/4AFPt1HrX+rSSycmEv4B7dsXVn94acm8Xl99rRXYlLoro0kZJNH68cUV1NPQrQve17aIPcgRmjpyg0dsLsc/Sja1oAHPIgmSaJqs0reTrDPmjeqq6Lt/5NwOHGEr3DddcmEeR4bwIrqkfIOlsf;Dnso+U3lUeaUO5o7F3+eXw=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/06/apple-siri.png?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "Apple details AI to help voice assistants recognize hotwords and multilingual speakers"
+
+secured: "H/GF1Q8G0sv44prX8saegCcsNXu8DdP5UCONn2lYI24G9xXxsjCEJS20kepvwv0uvhbl8alKvXy+PleLspLy7ohM2DH5XkwxRhx2hNtrecDPu1yTfQ3sdsD4N93qKKmPqM6+gBiSjDt1idk1ZhMaritEnXbPft2EKNMxRKgvvgyACLQ2LHZZwxk7hAfO1ZRdxx9MZJlgaJ9zqqwn5uloPMWMVAFpvXGNWg3pfTYc2AEVJNiQYo4rb7mYFkiKu9jcnxM3h5/3JX/l3cs29cwLOEAmZAs92ihW1i6aXlCxnd2yx0JGteF7473Ko3jTseuk;rJme5rj/y6wzc6hKObYs0A=="
 ---
 

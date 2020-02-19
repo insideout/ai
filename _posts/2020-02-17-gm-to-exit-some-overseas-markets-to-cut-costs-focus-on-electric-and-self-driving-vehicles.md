@@ -41,6 +41,21 @@ related:
       - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/5Vector-2.jpg"
         width: 1680
         height: 1117
+  - title: "Jaguar Land Rover unveils electric self-driving car that will be used on UK roads next year"
+    excerpt: "JAGUAR Land Rover has revealed a electric driverless car that will hit UK roads as early as next year. The self-driving pods will be trialled in Coventry in 2021 to test how it interacts with other vehicles, road users and pedestrians. The vehicles - dubbed Project Vector - were unveiled yesterday at the National Automotive Innovation Centre at ..."
+    publishedDateTime: 2020-02-19T10:45:00Z
+    webUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 34
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000563995434.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 634
   - title: "Jaguar Land Rover reveals new electric self-driving pod to be used on UK roads next year"
     excerpt: "The city will be used as a 'living laboratory' by Britain's biggest car-maker to test how the self-driving pods interact with other vehicles, pedestrians and cyclists. One of the first to get an early preview is Prince Charles, who was on hand to officially open the National Automotive Innovation Centre at Warwick University, where the ..."
     publishedDateTime: 2020-02-18T15:03:00Z

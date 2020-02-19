@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -50,6 +50,32 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI for BFSI Sector Market Emerging Trends and Global Industry Forecast to 2024"
+    excerpt: "Considering the end-use segment of AI for BFSI sector market, the banks hold more than 50% of the market share. Majority of the banks have been collaborating with fintech companies to revamp the existing services and improve the customer services."
+    publishedDateTime: 2020-02-19T10:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-for-bfsi-sector-market-emerging-trends-and-global-industry-forecast-to-2024-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Space Robotics Market may see a growth rate of 8.73% | Northrop Grumman, Maxar Technologies, Ispace, Astrobotic Technology"
+    excerpt: "Advance Market Analytics published a new research publication on \"Global Space Robotics Market Insights, to 2025\" with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends,"
+    publishedDateTime: 2020-02-19T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-may-see-a-growth-rate-of-873-northrop-grumman-maxar-technologies-ispace-astrobotic-technology-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

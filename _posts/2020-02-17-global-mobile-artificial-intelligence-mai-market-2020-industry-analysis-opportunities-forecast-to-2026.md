@@ -184,6 +184,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+  - title: "Artificial Intelligence In Construction Market is Estimated to Achieve $ 2.1 Billion by 2026"
+    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 29.4% from 2019 to 2026 and is expected to achieve a market value above US$ 2.1 Billion in 2026. The report provides analysis of global Artificial Intelligence In Construction Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-18T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-is-estimated-to-achieve-21-billion-by-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
   - title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
     excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
     publishedDateTime: 2020-02-18T09:30:00Z
@@ -199,6 +208,19 @@ related:
       - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
         width: 600
         height: 250
+  - title: "Global Professional Cloud Services Market 2020 Present Trends, Business Growth Analysis & Forecast Outlook to 2025"
+    excerpt: "The Global Professional Cloud Services Market was valued at USD 21.51billion in 2019 and is expected to reach a value of USD 57.54 billion by 2025, at a CAGR of 17.76 %, during the forecast period, 2020 - 2025."
+    publishedDateTime: 2020-02-19T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-professional-cloud-services-market-2020-present-trends-business-growth-analysis-forecast-outlook-to-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Deep Learning Market In-Depth Industry Analysis on Size, Share Analysis, Cost Structure and Prominent Key Players Analysis 2026"
     excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 5.1% from 2019 to 2026 and is expected to achieve a market value above US$ 56,427.2 million in 2026. The report provides analysis of global Deep Learning Market for the period 2015-2026,"
     publishedDateTime: 2020-02-18T06:42:00Z

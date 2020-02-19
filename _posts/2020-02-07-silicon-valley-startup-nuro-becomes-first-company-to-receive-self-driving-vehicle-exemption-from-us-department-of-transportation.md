@@ -91,6 +91,19 @@ related:
       - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
         width: 938
         height: 483
+  - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
+    excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
+    publishedDateTime: 2020-02-19T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-emotion-detection-and-recognition-edr-market-2020-growth-analysis-key-insights-future-development-and-statistical-forecast-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
     excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
     publishedDateTime: 2020-02-17T16:14:00Z

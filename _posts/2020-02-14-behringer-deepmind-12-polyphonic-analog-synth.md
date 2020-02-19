@@ -36,6 +36,15 @@ related:
       name: Reverb.com
       domain: reverb.com
     quality: 19
+  - title: "Behringer DEEPMIND 6 Analog 6-Voice Polyphonic Synthesizer Keyboard"
+    excerpt: "This product can be returned within 30 days of receipt. Our 45 day return policy allows you to buy with confidence at AMS! If you are not completely satisfied with any item* purchased from AMS, return it to us within 45 days of the shipping date, and we ..."
+    publishedDateTime: 2020-02-16T00:00:00Z
+    webUrl: "https://reverb.com/item/28311872-behringer-deepmind-6-analog-6-voice-polyphonic-synthesizer-keyboard"
+    type: article
+    provider:
+      name: Reverb.com
+      domain: reverb.com
+    quality: 19
 
 secured: "Y7ax69X85cPq8B7PoSa04hjKXCuOQP9rNMd6+muta4litk21scmUEZOzHGl6yupZb+lGvVqqLeOBJU0J0p+QAiGvfVnrd74xtsyjv9wuMmNEwCaiWCun66KiOdu3OuotjsWAsmcJfjN5XWgcXnxfthv8XTKia4tJjLvCPQWhrAp3Gb/NII1EWbk6Vzy7ZrL/w04slUWrRAG2Q4MVn8MhFOTA5/7rDLcCveT/rQlqlD78y1XtRZAoPrNlIOUm3SLKXY7qg4GHK+gJyuh8fHjsK2Wo3weSaTO2k8VHGIMmLuwSFEIKj21Q/2YUEHjGta7B;Qkx0UqTiKrZKlMSX+Hr9kw=="
 ---

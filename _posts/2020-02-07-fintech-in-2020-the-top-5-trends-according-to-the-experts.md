@@ -39,6 +39,15 @@ related:
       - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/05173732/Ai_trends_2020-06-572x364.png"
         width: 572
         height: 364
+  - title: "The 6 trends set to transform the video industry in 2020"
+    excerpt: "First, we analyze the title, synopsis and other metadata to get keywords, then use those to filter down the episode images using Amazon Rekognition. This platform can search actors, actions ..."
+    publishedDateTime: 2020-02-07T23:07:00Z
+    webUrl: "https://medium.com/@josesomolinos/the-6-trends-set-to-transform-the-video-industry-in-2020-4810d3e0762c"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 34
   - title: "Fintech Trends Everyone Should Look For in 2020"
     excerpt: "Now, fintech companies can understand more about us through our online behaviour, browsing history and app usage on our likes and dislikes, preferences, credit and repayment history and more. With AI being omnipresent across multiple channels, fintech companies are looking to combine the power of both to deliver better services and experiences ..."
     publishedDateTime: 2020-02-10T14:04:00Z

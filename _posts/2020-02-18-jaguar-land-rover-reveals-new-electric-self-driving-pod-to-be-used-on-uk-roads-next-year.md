@@ -54,6 +54,21 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+  - title: "Jaguar Land Rover unveils electric self-driving car that will be used on UK roads next year"
+    excerpt: "JAGUAR Land Rover has revealed a electric driverless car that will hit UK roads as early as next year. The self-driving pods will be trialled in Coventry in 2021 to test how it interacts with other vehicles, road users and pedestrians. The vehicles - dubbed Project Vector - were unveiled yesterday at the National Automotive Innovation Centre at ..."
+    publishedDateTime: 2020-02-19T10:45:00Z
+    webUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 34
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000563995434.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 634
 
 secured: "wXWJEJmjIwpzORp+j6svSHZJRjVs3326UqMrqv6//nc8/t4XX3mYExppZ058n55o/FvhSDsjYL4bIE9OveEFEPDScr9sAG9Rgmwo4OsV2vO7CNDXsyg9Kdhda1mrmSw0FS+Ylxa03qGDZgjbHueWXFJsUIcVEAN9J3epImSmohumvS4uW+5LMo/ujIrhezr5kvQr+O+JRPq+Kxl5ZjUO3BNulY2WE4DvJMxhHMO7k1R/7/Fi2a3uy27lyvc7dcPbSz2fCJXUIJfe7iSnUUQ6g0nDMBnZQgIawwPDv7hWsNCE6dgLk2WMF7c9Fnzti+9339JyoQ7po5EB9zpHbT5SiUxMRkWivmWNer6CFYEDgqkiBOUFA3snYizdKEDCF2OrKLSWZ7/uH8apwfxRVNQhg3qFP6zXr0v72mE4LvGpm7Is8/sRAjC9KAo9MKKodjsokuvQrPRNmPXXqaM+kQCFmGxoFiUBttKGypsDZhmJDck=;MKoFIOGwM89eCuXoOaViFw=="
 ---

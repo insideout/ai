@@ -46,6 +46,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 52
+  - title: "Elon Musk Thinks All Artificial Intelligence Needs To Be Better Regulated, Including At Tesla"
+    excerpt: "Tesla Inc. (NASDAQ: TSLA) CEO Elon Musk thinks artificial intelligence needs to be better regulated, at his own company as well, What Happened Musk, who also heads the"
+    publishedDateTime: 2020-02-19T12:14:00Z
+    webUrl: "https://www.benzinga.com/news/20/02/15361840/elon-musk-thinks-all-artificial-intelligence-needs-to-be-better-regulated-including-at-tesla"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15361840"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15361840"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-02-19_at_7.07.00_am.png"
+        width: 974
+        height: 900
   - title: "Regulate all companies developing AI, including Tesla: Elon Musk"
     excerpt: "Nadella who sees a greater role of AI for humanity will invest $1 billion in the next few years in OpenAI to support it build \"democratised AGI\" models. OpenAI would develop a hardware and software platform within Microsoft Azure Cloud platform which will scale to AGI. The start-up would also jointly develop new Azure AI supercomputing ..."
     publishedDateTime: 2020-02-19T05:20:00Z

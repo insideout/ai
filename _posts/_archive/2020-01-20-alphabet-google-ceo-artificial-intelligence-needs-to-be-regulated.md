@@ -26,21 +26,6 @@ images:
     title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
   - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:18:00Z
@@ -53,6 +38,6 @@ related:
       domain: bloomberg.com
     quality: 69
 
-secured: "aWFgCFOOSIiw1wpAQlJFq8Fl7Zaz5M1Wp/JqIepqv6DqSiVjxXcwh/hAYYx5CLdJk0gxcMao6xxqPpwTYXE13HSoBxq4OAaL3sIfDtaN5LsK6Xj6PYmVyHhFnn7WSPDr155J23hmuIpPPi465ND2s0HA5Wb06etfsgl5SvCqzh134kvSZbuxxhl9GRJsjIUE4xA4SaPAYaUhTfXuGVlaAvI5QP9IRG5JLYie1NKOGGa6G0fhxGvO+LKKYiSMW1xp0G33/Ji9xFo2G/NDZ/nAv4kaEPbYu43eG9A2z5Bvgz80qGY2gjztxkmXU9Ws/Pz+;O2JcOy0DDjGqmME4yHPDWA=="
+secured: "hZ1KTj1s9C7f53ARVRYeKkNToXg44Ot0lTrLAEovIrieD24kiTzPnhpdiLw8zlOpdtqiSUzVZUvgvU9QTHTwIp3vcyN3ApUnRm38d1Ub0EYJvtEZa3lZ6RnNxtVJAt5jVzamkSZ7ga2hr/kPQLHfrN3UzIHw6fxLtyrXxNQnYAFdyhPZ7F6DepAmi1G5NYs/zRaw6r9fJraP0ppb9PQLqRH36xwd7k9WtIozFNCTIUO5baVwO5Si6jUM4dVYyI8aLczwiAwedviYbMTKFa5Flku+0yNz3TUcfmNEHXXUkmvafYZtMszYymbQgsO84r2Qf94IEMFwyFIHa70Cd0Jozm83c/llUiExps5IkhQDar3STN6oFR1pjAu8w2yJLXrc9wEFpt3wH88U5SSI5EcnN5G3a8t5QGjy8fIQ7kYKMv/djCuItrqpi7mbQJS5FNFCOLOxBvX5/hwreAENCfWzh0LBmc5AarUf8Y58AKA/OA4=;NiFFtdnMgQCD8TmT8r+Law=="
 ---
 

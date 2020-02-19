@@ -8,8 +8,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -26,6 +26,15 @@ images:
     title: "80% of Chinese Banks to Integrate Fintech Solutions from Cloud Market: Report"
 
 related:
+  - title: "AI in Fintech Market"
+    excerpt: "By expanding its relationship with AWS, Second Spectrum will begin working with Amazon SageMaker to explore ways of enhancing and tuning its ML models on years of video data captured in dozens of ..."
+    publishedDateTime: 2020-02-17T15:54:00Z
+    webUrl: "https://www.openpr.com/news/1934601/2020-ai-in-fintech-market-covering-prime-factors-and-leading-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
   - title: "UK Plans to Support Qatar in Becoming Major Fintech Hub, Says Lord Mayor of the City of London"
     excerpt: "and acknowledged its aspirations of becoming a major Fintech hub. Russell confirmed that around 30 UK firms are visiting Doha to talk about potential business opportunities in various industries related to the World Cup, including security training, crowd management, consulting, digital services, cybersecurity and artificial intelligence (AI ..."
     publishedDateTime: 2020-02-17T13:52:00Z

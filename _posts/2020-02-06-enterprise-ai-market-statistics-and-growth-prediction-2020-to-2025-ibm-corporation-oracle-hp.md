@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T08:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
 type: article
 quality: 60
-heat: 80
+heat: 100
 published: true
 
 provider:
@@ -52,6 +52,32 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
+    publishedDateTime: 2020-02-07T11:27:00Z
+    webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 – Exclusive Report by MarketsandMarkets(TM)"
+    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\", published by MarketsandMarkets™, the global Emotion Detection and Recognition Market size is projected to grow from USD 21.6 billion in 2019 to USD 56.0 billion by 2024, at a Compound Annual Growth ..."
+    publishedDateTime: 2020-02-04T21:49:00Z
+    webUrl: "https://www.oilandgas360.com/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024-exclusive-report-by-marketsandmarketstm/"
+    type: article
+    provider:
+      name: Range
+      domain: oilandgas360.com
+    quality: 3
+    images:
+      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
+        width: 300
+        height: 250
 
 secured: "UqQwiK4VzmiWmRlXw7raMjKN/UQ1herUTTOBMBcwwqSxBDGL3BdoiDe/HtusogSQKFoKE34cCcMNWrchQCHc/Y4YILGACrpMyLfD6S2CvPbpQhP2u2eF54Ab2aQ7aiJox8xe1qm4Pqp7bohy+kfmuNg4ZVpH00Cutjqq/vGFWIRVQEc7bTmqAG0O4JewSom6pIwnFyqH1MeGVp32Q8o+a/D04uSmrj6PH2+dLmtcBv/0QQ+vCwCyOCNwlJxF3mn0s2V3YcGfXllRUmBf9A9fo3NPtOxLQGNturxtIra1GEuWzGs5R+skk5tf+9AleYx9;3kCL7UAqKt23P6I2oST8+Q=="
 ---

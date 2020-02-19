@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driv
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+  - title: "Jaguar Land Rover unveils electric self-driving car that will be used on UK roads next year"
+    excerpt: "JAGUAR Land Rover has revealed a electric driverless car that will hit UK roads as early as next year. The self-driving pods will be trialled in Coventry in 2021 to test how it interacts with other vehicles, road users and pedestrians. The vehicles - dubbed Project Vector - were unveiled yesterday at the National Automotive Innovation Centre at ..."
+    publishedDateTime: 2020-02-19T10:45:00Z
+    webUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 34
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000563995434.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 634
   - title: "Jaguar Land Rover reveals new electric self-driving pod to be used on UK roads next year"
     excerpt: "The city will be used as a 'living laboratory' by Britain's biggest car-maker to test how the self-driving pods interact with other vehicles, pedestrians and cyclists. One of the first to get an early preview is Prince Charles, who was on hand to officially open the National Automotive Innovation Centre at Warwick University, where the ..."
     publishedDateTime: 2020-02-18T15:03:00Z

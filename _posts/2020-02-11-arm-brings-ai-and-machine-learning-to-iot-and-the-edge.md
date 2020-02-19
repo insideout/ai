@@ -39,6 +39,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/593333566/960x0.jpg?fit=scale"
         width: 711
         height: 473
+  - title: "Artificial Intelligence and Machine Learning in the Operating Room"
+    excerpt: "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ..."
+    publishedDateTime: 2020-02-19T12:30:00Z
+    webUrl: "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/"
+    ampWebUrl: "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 76
+    images:
+      - url: "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200"
+        width: 1200
+        height: 675
   - title: "What Is A.I. and Machine Learning?"
     excerpt: "Artificial intelligence (A.I.) and machine learning have seen a recent resurgence due to advancements in computing power A.I. is an area of R&D that focuses on getting machines to act rationally and autonomously. Machine learning is a subset of A.I. that leverages applied math to find patterns in data Machine learning is composed of three ..."
     publishedDateTime: 2020-02-07T19:29:00Z

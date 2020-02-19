@@ -18,93 +18,54 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027"
-    excerpt: "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,"
-    publishedDateTime: 2020-02-04T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
+  - title: "Artificial Intelligence (AI) in Agriculture Market : Industry Outlook, Growth Prospects And Key Opportunities To 2026"
+    excerpt: "A new market research report by Big Market Research on Artificial Intelligence (AI) in Agriculture market reveals that the market is estimated to grow with a substantial growth rate from 2019-2026. This report is a valuable document for major players and the new entrants to scrutinize the market in detail."
+    publishedDateTime: 2020-02-10T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-industry-outlook-growth-prospects-and-key-opportunities-to-2026-2020-02-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof"
-    excerpt: "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,"
-    publishedDateTime: 2020-02-06T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06"
+  - title: "Artificial Intelligence (AI) In Fintech Market Size, Share 2020, Growth Outlook – Microsoft, Google, IBM, Amazon Web Services, IPsoft"
+    excerpt: "Global Artificial Intelligence (AI) In Fintech Market is a comprehensive report which provides a detailed overview of the major driver, opportunities, challenges, current market trends and strategies impacting the global Artificial Intelligence (AI) In Fintech market in conjunction with calculation and forecast of size,"
+    publishedDateTime: 2020-02-11T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-2020-growth-outlook-microsoft-google-ibm-amazon-web-services-ipsoft-2020-02-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
-    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
-    publishedDateTime: 2020-02-10T20:50:00Z
-    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+    quality: 33
+  - title: "Artificial Intelligence (AI) in Cybersecurity Market Assessing Major Growth Opportunities| NVIDIA Corporation, Intel Corporation, Xilinx Inc"
+    excerpt: "By End-user: BFSI, Retail, Government Defense, Manufacturing, Infrastructure, Enterprise, Healthcare, Automotive Transportation, Others (oil gas, education, energy) Any Questions? Fill Free To Enquire Here. Well Put You On The Right Path: https://marketresearch.biz/report/artificial-intelligence-ai-in-cybersecurity-market/#inquiry Global ..."
+    publishedDateTime: 2020-02-12T21:08:00Z
+    webUrl: "https://apnews.com/4b851c9f7a181fcf8fe1a3913de42271"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 48
+    quality: 19
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-  - title: "Global Artificial Intelligence (AI) in Social Media Market 2019-2023 | Growing Demand for Smart Homes to Boost Growth | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The artificial intelligence (AI) in social media market size is poised to grow by USD 1.67 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The process of deploying and maintaining reliable data interfaces is difficult, owing to the complexity ..."
-    publishedDateTime: 2020-02-07T01:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200206005722/en/Global-Artificial-Intelligence-AI-Social-Media-Market"
+  - title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
+    excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey Children’s Hospital uses chatboats to access validated information from patients related to a ..."
+    publishedDateTime: 2020-02-14T11:43:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 18
     images:
-      - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
-        width: 1200
-        height: 627
-  - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
-    publishedDateTime: 2020-02-07T11:27:00Z
-    webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 – Exclusive Report by MarketsandMarkets(TM)"
-    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\", published by MarketsandMarkets™, the global Emotion Detection and Recognition Market size is projected to grow from USD 21.6 billion in 2019 to USD 56.0 billion by 2024, at a Compound Annual Growth ..."
-    publishedDateTime: 2020-02-04T21:49:00Z
-    webUrl: "https://www.oilandgas360.com/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024-exclusive-report-by-marketsandmarketstm/"
-    type: article
-    provider:
-      name: Range
-      domain: oilandgas360.com
-    quality: 3
-    images:
-      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
-        width: 300
-        height: 250
-  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
-    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
-    publishedDateTime: 2020-01-29T12:11:00Z
-    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "1D6/dZLG7d39wlnAD4hxtCDCx9e5MkJZqWkHubPynNOdMt9RtkwIc1u/nKpIy9G3CBjNq178JMJswCi391QMQ+tJt+G10gJ8ZqTskmkaE2Lxd8Gca6mJr87xXHynFOgNNldo92mpBrX/kb4iGvZd7nK7KaA8+WhjxELj5lssfCkF4EaPexCDDQpi5aAshPPtc9HJ01ZdPtNWY8OXtyjzT/cIWlipQtA3fNOYKgzTYmPZnXC/SdSXM3eRKVXYvZSJ4ZTzowgLqXeFDIDHGGy5jnrf8MW4FucFOj77SsPLEZp2KE5ARpPpYL6wuwZznF8J;EDTwdpggn556n2H8VtXvNg=="
 ---

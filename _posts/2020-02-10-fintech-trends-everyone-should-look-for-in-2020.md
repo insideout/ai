@@ -48,6 +48,15 @@ related:
       - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/05173732/Ai_trends_2020-06-572x364.png"
         width: 572
         height: 364
+  - title: "The 6 trends set to transform the video industry in 2020"
+    excerpt: "First, we analyze the title, synopsis and other metadata to get keywords, then use those to filter down the episode images using Amazon Rekognition. This platform can search actors, actions ..."
+    publishedDateTime: 2020-02-07T23:07:00Z
+    webUrl: "https://medium.com/@josesomolinos/the-6-trends-set-to-transform-the-video-industry-in-2020-4810d3e0762c"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 34
 
 secured: "gyqboDiCh6t0roOt0oUN3yfJLN66YTLmeDMup9zqYpE3MJ8auAP/8ONhDVKF/jPTpQqjFNipsNc3pHdiF9kSJqN6D7cid6durwfybdTb38ZRTW1ppWfA1bkiYhnV3YFfJOdvl+l1OyxZYvOzaJTWNfDIW6JKpKMz1I3pf+iSs64WRNYCmbuYuZ52LmYv8tNUDJpPZDZp603srxiCFCC/mVoEtIZxPzmKyZfxDkplMmw8/Ag11QRtc//5tlHmf1yNeU/sLR/SKKvuaOZ0mvW0s440bEn7n01Ulu7RZAIDcjl6wXmN9ri3rQhbsFcePNiS8FqqGHH3Pq0IdFVim2EbwhrBRbx946PJCNeeaiYzKDJI2bTIVmac323YLANAazKY0MOYfGVRcDyO7pKRJ9P+h6WOURKIWBduNBuE9hhW1S10bWfjc6E0QRlj0zqy6AK1lP1lkwV7jR2apKVBzoc9CrcSKIEaNoQCVvlmlxPrDqg=;A/UqS4JgKwzVisp4WHHPWQ=="
 ---

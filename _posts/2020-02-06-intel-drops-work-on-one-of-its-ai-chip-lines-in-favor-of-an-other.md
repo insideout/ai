@@ -8,7 +8,7 @@ ampWebUrl: "https://www.networkworld.com/article/3519354/intel-ends-nervana-ai-c
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.amp.html"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     title: "Intel drops work on one of its AI-chip lines in favor of an other"
 
 related:
-  - title: "Intel Axes Nervana AI Chips In Favor Of Habana Labs"
-    excerpt: "Intel had been developing the Nervana chips since it acquired the namesake company, Nervana Systems, for a reported $408 million in 2016. Naveen Rao, who is head of AI Platform Groups as part of ..."
-    publishedDateTime: 2020-01-31T22:25:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-axes-nervana-ai-chips-in-favor-of-habana-labs"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0259-0e979cdbb343-1d6bf5528916-1000/intel_nervana_image.jpg"
-        width: 609
-        height: 456
   - title: "Intel dumps its Nervana neural network processors for Habana’s AI chips"
     excerpt: "Intel Corp. has decided to end development work on its Nervana neural network processors and will instead focus its efforts on the artificial intelligence chip architecture it acquired when it bought out Habana Labs Ltd. for $2 billion in December. The news was revealed Friday by Moor Insights & Strategy analyst Karl Freund in an article in Forbes."
     publishedDateTime: 2020-02-05T14:14:00Z

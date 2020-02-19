@@ -61,6 +61,15 @@ related:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600
         height: 246
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
+    publishedDateTime: 2020-02-11T11:51:00Z
+    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "y+4wcZ+F7TX1qyylQ0HPcGRDYjgQPzt0/EeTwG8kbkcCttWwvd420j8NNZpVe9rScT+VPQXQ096dMdVEGXOOpXt7WRvntsQTL4bT2lGdZb/Dfs6xffV56ua3D4HjAfG6KNbOG/BWYS/PKL5xarNkYrEOSylS+js0Plw7csQ6XvTzNZGJGADFPKuyk7GA/2amYXy3Dv+8WDgLZRdqI3Z8CFy++QVAXbpheIEEZYjLjCYRmSGf79NDu4OreHY9sJbpPri4314l50vhW1Dh8ax5p7JbI51Hm7tljpX7+c8pIt1yAG3ctuio0AliDXEmf4Gk;nfZI22ibClOdrYxte+ZMRA=="
 ---

@@ -43,6 +43,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/593333566/960x0.jpg?fit=scale"
         width: 711
         height: 473
+  - title: "Artificial Intelligence and Machine Learning in the Operating Room"
+    excerpt: "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ..."
+    publishedDateTime: 2020-02-19T12:30:00Z
+    webUrl: "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/"
+    ampWebUrl: "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 76
+    images:
+      - url: "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200"
+        width: 1200
+        height: 675
   - title: "Arm brings AI and machine learning to IoT and the edge"
     excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
     publishedDateTime: 2020-02-11T16:10:00Z

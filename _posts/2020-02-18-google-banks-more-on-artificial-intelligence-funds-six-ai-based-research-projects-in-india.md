@@ -50,6 +50,19 @@ related:
       - url: "https://images.livemint.com/img/2020/02/18/600x338/google_1582017657738.jpg"
         width: 600
         height: 338
+  - title: "Google Funds AI Research Projects in India For Social Good"
+    excerpt: "As noted by Hindustan Times, Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques. “We are increasingly seeing people apply AI to address big challenges. Therefore ..."
+    publishedDateTime: 2020-02-19T11:58:00Z
+    webUrl: "https://www.analyticsinsight.net/google-funds-ai-research-projects-address-socio-economic-challenges-india/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/news_1.jpg"
+        width: 780
+        height: 488
 
 secured: "IIouRUTxyH8S/mEGXcMRGNz3L318J5tLMCpW4MJHatpDtlqXrrrwikVdvHSZTiL41T0mU7ObYa7ldCfzqcXJJE3J0CJEUCXg2T6I9h9jqH48BNI6+yRwlBvxCC+Q6yfCK/MKHUYrUOlRIVKm0p/Os8Y5V3sQdIYMEvuzneNPlT6XO28N+UzIUC4BLv0qERMOLnbM5kGyqnRxG2MXNdUbvx3364IsD5l4WFybwKC+FrMs/UZXhBnWRaBmRWeJRAES0hnm8y4kPb0ytf5tq4uP1taKEsJ1yVFregWVkJt93WqVFCWN5/7elJgYKnFx6BJqUp8QPJBaLXMLW/xCxraMu442LFHyorsWSaR2987xakwmBPr5cgsTpNRUtFHMUDSKl8RuyZ92BAj+B0SQBHUVw8kyfejXbxmsw05VCtf3mAIPpI2I5fLm0LJEtbhJ9h/fzA/Yp/+6GyAH56idwcQ/AwLz3JxJtogvu6j1/bTWGRY=;uWZiq5EHKyhgjV2ZE0+gGQ=="
 ---
