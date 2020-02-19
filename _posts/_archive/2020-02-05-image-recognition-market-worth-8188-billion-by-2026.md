@@ -2,7 +2,7 @@
 category: news
 title: "Image Recognition Market Worth $81.88 billion by 2026"
 excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-publishedDateTime: 2020-02-05T05:40:00Z
+publishedDateTime: 2020-02-05T06:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
 type: article
 quality: 54
@@ -239,6 +239,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "fcPiCyY2OX4rjBWS/RrhD2EVSRYmyuY3F+9YezH1pzJLWV62yuGPHfgfOsk+hHqUHYS/add9hiCmMgWYf1AeIapptcMuCL2J9xy82O/8VVjRoK2GPc3awoCfmr4cud6/1sPOLqc1WuikB00Zy6BRKDi0/TyBY8PSANNN7Yl9LmyDhL9HWwLim84wS329ATjiqWX9wClIFr0zMd8+hZqqzv/4b0hv3pNP5ozhXlLzPrs4rF/IzfzYIiB9YYi+JJvOpq1D+DkJqKXPG3B49352yDhYoZ17whgELZORCGKBh/uretnM3rzQ7O9P++5a1TVq;tZoT/wY6QcTZlGR7LprERA=="
+secured: "6XzEK9Gm8q42rPb3iywda9+igBMNH7OeI/Ves+eyWin0AWdxx0/YSHyxZKYZtEGJ3FZYaIlThMvNhbklkQae6SaY/tO6SYzmEL8j6TMCJA+98WbQCdbPpig0meeESmo6iQfCsqR716I1gv2qTxwel6zhSzU8OV0R4uhUZ9HQQGdPNcLJfUYX75RVwfPCkA+exJwxRMfVAik9q/Hw3vLqVlzjEInY6P5FzBuX5RdXrrQV8c8bGU3ev/tusR5KMXgxxReLiA9aG0nnJ/v6dtm77gbL8kix51sJtrkuBgEA28MFjeEE0Ho0JyDcEw+CBc6s;gET/lXdBbRsYxYXDIhTCbQ=="
 ---
 

@@ -27,6 +27,6 @@ images:
     height: 413
     title: "Install TensorFlow GPU on Ubuntu 18.04 LTS"
 
-secured: "SPa/eOL2ENAubLnmnBezkZqVl6J+NP9rGQgqq5Zz49/gIHfNc2mrWQZdEdNsEznbbmGQXO7h07+M5X+dw1ziPb2CmUeQpMr1Tj+L53SSFEypNwY5xKff1lIZXCtNBUHE3NVg4Hg4H3/c5wBm8xqpCy2al5ZacB5QNnTqEb2IBItz+xMB0KO65phIPK8P2oWYO07ArYokwlFgUEnJdyS/VY4cLLZK0V+cJSewQEZn9qraU54MJBrDwGnunLF/Vu3lFeTB1a1xd3CPPY/1Qv95Wpcis7Lp2B4MsK7allGTWdRvwClaE8uUqdwjMs41N0ZR;TOZwomQDqsTNKI0iFBhAHg=="
+secured: "EKDPdSWifEdcVQ9gI1E9mL1tCeRK/gDRHSc3dWbZET+JwBIwZ0EtUJquGscYqesEDv2KSBDuL6C2mfec/5F5tJPsYInMCcmI8C0mibFlNTRplmwHnaNsxPrrehCtaEb1TkOalRgqu09VYQYLVzGSq96B+FALoj8kevVZFUPdyaKrgj7zrIBole5A4TcKqWTx+zfbhQshZX+6SlvrnL/RwZdCNsO5BtCqI0mWpz7eFlF+4SSirkvksWO4FatncYqyK1J+bzRO9SClUpgqrZHXqNPyGAZQRvkk8T+lKArWHzr+MVk29+LCfAI3sAyQVw9l;/agz7GuoPQSIzHIgCOzsjw=="
 ---
 

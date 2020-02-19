@@ -106,6 +106,19 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/02/chinese-city-rolls-out-facial-recognition-thermometers-on-buses.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+  - title: "China rolls out facial recognition thermometers on buses amid coronavirus outbreak"
+    excerpt: "Buses in south China’s Guangdong Province are being equipped with facial recognition thermometers for faster detection of passengers who may be infected."
+    publishedDateTime: 2020-02-19T18:29:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/483669-china-rolls-out-facial-recognition-thermometers"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 33
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_busfacialtech_021920getty.jpg"
+        width: 1440
+        height: 880
   - title: "OTHER VOICES: Facial-recognition software produces concerns"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
     publishedDateTime: 2020-02-19T06:00:00Z

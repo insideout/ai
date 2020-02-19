@@ -44,6 +44,21 @@ related:
       - url: "https://i2-prod.birminghammail.co.uk/incoming/article17310852.ece/ALTERNATES/s615/2_22499790-1.jpg"
         width: 615
         height: 409
+  - title: "UCLA drops controversial face recognition plan"
+    excerpt: "A major California university has dropped plans to use facial recognition for the surveillance of the campus. The idea was to have the University of California Los Angeles use facial recognition as a way to gain access to buildings, to prove authenticity and to deny entry to people with restricted access to the campus, matching their faces ..."
+    publishedDateTime: 2020-02-19T22:32:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/02/19/ucla-drops-face-recognition-plan/4810648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4810648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4810648002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/d8d0774057d19139d16e6ede624d76e89947662d/c=1-0-1365-767/local/-/media/2020/02/06/USATODAY/usatsports/imageforentry34-vs0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
 
 secured: "/1BlrTvHuTfS8gyWEgEtNmIV7AgjCbXcbH45M9NlbeQaaHO+naXrj7DhWg37sI1cnx58ifFmq/eGyJO6nBmpPAba0OKkhcB4kO7iJZltI57XrGXxcItqkqKD9nU9jRpu7iXXylS6TS/FC7BdApBbHZTfEr0Go3cIL2yIBgpGy47JEZIwJuziWOw8n934+rJ/W/XV+23kjL0Aed7qr+GS/+poUpsfr8GaEfK60H3aWIO4eD5YZ11VHr1QluvaibVqHmr/SsBaeOnVMKHx2grIa+wsgoSXv07xRBPnWJh0V+Ke/WYvgN5Ae8VbfV1Fco8Y;nwxlLxbyYLqp0jkJqFP1Hw=="
 ---

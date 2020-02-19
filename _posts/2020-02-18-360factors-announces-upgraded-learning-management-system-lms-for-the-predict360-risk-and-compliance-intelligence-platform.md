@@ -89,18 +89,18 @@ related:
         width: 1200
         height: 627
   - title: "DataRobot Named a Visionary in the 2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "DataRobot, the leader in enterprise AI, today announced that it was named a Visionary in Gartner's (News - Alert) 2020 Magic Quadrant for Data Science and Machine Learning Platforms for the second year in a row. The report recognized DataRobot for its completeness of vision and ability to execute. \"Over the past year, we've been focused on ..."
-    publishedDateTime: 2020-02-19T15:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datarobot-named-visionary-the-2020-gartner-magic-quadrant-/2020/02/19/9100588.htm"
+    excerpt: "BOSTON--(BUSINESS WIRE)--DataRobot, the leader in enterprise AI, today announced that it was named a Visionary in Gartner’s 2020 Magic Quadrant for Data Science and Machine Learning Platforms for the second year in a row. The report recognized DataRobot for its completeness of vision and ability to execute. “Over the past year, we’ve been ..."
+    publishedDateTime: 2020-02-19T14:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200219005572/en/DataRobot Named-Visionary-in the 2020 Gartner Magic-Quadrant-Data-Science and Machine-Learning"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 19
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://mms.businesswire.com/media/20200219005572/en/704236/23/DataRobot_Logo.jpg"
+        width: 1200
+        height: 627
   - title: "Domino Data Lab Named a “Visionary” in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "Company Cited for High Customer Satisfaction and Industrial-Strength Capabilities that Enable Transparent, Scalable and Collaborative Environments SAN FRANCISCO, Feb. 19, 2020 (GLOBE NEWSWIRE) -- Domino Data Lab,"
     publishedDateTime: 2020-02-19T16:16:00Z

@@ -67,19 +67,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Construction Market Technological Enhancement and Advancement Outlook - 2026"
-    excerpt: "Latest Industry Research Report On global Artificial Intelligence (AI) In Construction Market Research Report 2020 in-depth analysis of the market state and also the competitive landscape globally. The Artificial Intelligence (AI) In Construction market report provides information regarding market size,"
-    publishedDateTime: 2020-02-05T05:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-technological-enhancement-and-advancement-outlook---2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Military Market Latest Advancement And New Upcoming Trends To 2029"
     excerpt: "A recent market research analysis titled, Artificial Intelligence in Military Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Military market covering industry surroundings,"
     publishedDateTime: 2020-02-10T09:15:00Z
@@ -134,6 +121,6 @@ related:
         width: 600
         height: 315
 
-secured: "F8Dxq7BcGblTnylLHjosVeMJO+Jui0xhz18tJwN/Fnsn42ADkiYhQNDtfRNLWxzdc/xqcH2u8SOL9dKaQfiOYTWgyMqChZnaVJkKDFJ0EbxLIOuqsHDxK0c5ibrqddJI6N1Ps6A8XAhLmizG6P15rgkDVmDjYiXQuWQDMGkZTCK7XGaq2nHIY9uZ48+3v06j5M/9jPEDj21tlAAVFeyCX3qdcP3//WhWjkiKt8rs0jOhreprQpUIFH94brGGhe9r/+VUeztPMOPWEAlHbIdFmberz10V314WqfBioAUh5zfw3hrBR5oILIqbjT8jbiCy;JIajcxhVpYj1yIt1N6DfyQ=="
+secured: "d7lrfFpKz4t7AH9hBbRbxpdnt8JYcTrKEPBgyluwrsctyKIa/bIxMsADaoKIaRkFq2MqhqDNHIBnO6F4dx8KmPD3/M17DSi/6dQ2llX81orzDWCmfQHXUH8xPy+ieEKLXbWhSDgQQu+uJX6/TTcKiXaPcIApEG9peeQNtbp0Xi6W8t4mNO/y8IdDRg6j/yfsuDjomVEDPibigJdCtUSVyUNvWTeBI7TdvTwSmp2EkHE/aydWxfmtIu4kkQyxCdNWbQKUlNcY2UMOBlRv4hoMkQTJdTiXVDHbJIN9QIR3A3oksu8ApzXGggDJNFUHZLYw;HHxH7jw+lpfJBT3NEIiRRw=="
 ---
 

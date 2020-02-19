@@ -66,19 +66,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Construction Market Technological Enhancement and Advancement Outlook - 2026"
-    excerpt: "Latest Industry Research Report On global Artificial Intelligence (AI) In Construction Market Research Report 2020 in-depth analysis of the market state and also the competitive landscape globally. The Artificial Intelligence (AI) In Construction market report provides information regarding market size,"
-    publishedDateTime: 2020-02-05T05:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-technological-enhancement-and-advancement-outlook---2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "AI in Fintech Market Technological Innovation, Current and Future Huge Demand, Scope 2020-2026"
     excerpt: "QY Market Research Store has added the report titled Global AI in Fintech Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
     publishedDateTime: 2020-02-07T09:02:00Z

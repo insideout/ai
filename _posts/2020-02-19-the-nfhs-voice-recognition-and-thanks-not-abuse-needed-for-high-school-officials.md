@@ -1,30 +1,28 @@
 ---
 category: news
 title: "The NFHS Voice: Recognition and thanks – not abuse – needed for high school officials"
-excerpt: "All of your athletes, parents and coaching staff chatting together in one free app. Sound too good to be true? See for yourself."
-publishedDateTime: 2020-02-19T21:45:00Z
-webUrl: "https://www.maxpreps.com/news/ogWAcsMl0EKldNfUFwniow/the-nfhs-voice--recognition-and-thanks-–-not-abuse-–-needed-for-high-school-officials.htm"
-ampWebUrl: "https://www.maxpreps.com/m/news/ogWAcsMl0EKldNfUFwniow/the-nfhs-voice--recognition-and-thanks-â€“-not-abuse-â€“-needed-for-high-school-officials.htm?amp=1"
-cdnAmpWebUrl: "https://www-maxpreps-com.cdn.ampproject.org/c/s/www.maxpreps.com/m/news/ogWAcsMl0EKldNfUFwniow/the-nfhs-voice--recognition-and-thanks-â€“-not-abuse-â€“-needed-for-high-school-officials.htm?amp=1"
+excerpt: "MaxPreps is a proud partner of the National Federation of State High School Associations (NFHS), the national leader and advocate for high school athletics as well as fine arts and performing arts programs."
+publishedDateTime: 2020-02-19T20:09:00Z
+webUrl: "https://www.cbssports.com/high-school/news/the-nfhs-voice-recognition-and-thanks-not-abuse-needed-for-high-school-officials/"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: MaxPreps
-  domain: maxpreps.com
+  name: CBSSports.com
+  domain: cbssports.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://thumbnails.cbsig.net/CBS_Production_MaxPreps_VMS/2020/02/19/1699677251713/EdenPThumb_1780063_616x346.jpg"
-    width: 614
-    height: 346
+  - url: "https://sportshub.cbsistatic.com/i/r/2020/02/19/10d141bf-dcff-4def-a197-e80e2084e2dc/thumbnail/1200x675/dc92106d3ffdeec3be40267829737503/781a4c1d-5453-ea11-80ce-a444a33a3a97-original.jpg"
+    width: 1200
+    height: 675
     title: "The NFHS Voice: Recognition and thanks – not abuse – needed for high school officials"
 
-secured: "HI2uHl8foHcWKxVNeffEZf3KMv8LhA8K6O7co1FMN8yeZKg8y8dx3nC/fgRmRKupm3AaH4fOdovfJsnEMrSrJtcJ5GU88/seU6LF24jYCXqx0zwnCBaLihQMM+VSRsct9+2CXhHlON/TG1zsheCLowE1QsoBNfCzZ4qEezZI+jicEJhYT0IaesT8lqRpNp1969yema0T4ME/Rz4tWQ9JRJTCJaD0DYCpla+70Z+FHVhd7eNOSKaF775yGhOy8RLvMVgs/yxyu8XI2xcRDLrvsrHis5ZqOMDXpc6ze1hv3G6RRNV6FThc4TolBDIBx/8N;oDTnusjJlLNVmisMmF57ng=="
+secured: "9o2GrcfHQyr10rZ/bPpJQB5NBO8AezfZ0FZPls00jnS0u8clehuUrbqOWBidBKH98MenbJyuCDh28DtAMxHL92p3Rkp2nsIghadLea8ozw8u//RG/AyJnaTrTGFHod0ys0E/X9xothaVyT9L1alrdtMWRzvCG1Z4Do+diFEgFyIArkgOHoUsAXVwXOiNJkclzeYfSvPCEa42Vx/f540NJX3Fx2wsu9NdfJbbiTzO0xEEwxzqBFS2ptENe3idmuA96X8vAuDEdkm07g4lvmZ9M6r51731OpwGEB1EigX7SZJ7V4MrMsk7ZVk/CI20bLjH;08xcVtxo7VBvXyr2m4PFbg=="
 ---
 
