@@ -1,25 +1,33 @@
 ---
 category: news
-title: "Malaysian Firm Offers AI-Based Profiling of Chinese Visitors for Virus"
-excerpt: "Malaysian Firm Offers AI-Based Profiling of Chinese Visitors for Virus Malaysia has imposed a temporary ban on visitors from Chinese provinces placed on lockdown by the China's government, in a bid to stem the spread of the virus."
-publishedDateTime: 2020-02-19T14:28:00Z
-webUrl: "https://www.usnews.com/news/world/articles/2020-02-19/malaysian-firm-offers-ai-based-profiling-of-chinese-visitors-for-virus"
+title: "Malaysian firm offers AI-based profiling of Chinese visitors for virus"
+excerpt: "Malaysia’s MYEG Services Bhd ( MYEG.KL) said on Wednesday it had developed a coronavirus risk-profiling system for visitors from China and was offering the artificial intelligence-based service to the governments of Malaysia and the Philippines."
+publishedDateTime: 2020-02-19T14:22:00Z
+webUrl: "https://www.reuters.com/article/us-china-health-malaysia-profiling-idUSKBN20D1WJ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20D1WJ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20D1WJ"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-secured: "mjyXAjVpwmf2vPLisAdeQy5hIR90y5Et2C+3BU9imf4zhZ6WHZYPwJnUE8/doZjT4OQVw3vCtv7qvp3sJ6c/vjEYfXv4JQXHS90OzoBMaqgy6FZuHJ1/v2YnP4RH+KWw6QztjEOgsCZucNdqGP/HjghPRQ9YFuSp17QDoeiIN2CBPJRHhSliq+9J0fjcquDn84/EFp/Qdca1s4jfSa0utWQA1/F4W6htu0CY4SoqAHr6es6QowED6uRLndA+mCUpFiFmtjSt5Fj8AsidJ8YC30aKUVwOFww22MnPSwzJsF61O9ySYOEcwEStth6nxYEuXCXum/fP/dnVmzfLZgH5/U3o6hdx/pEKi1fAoj/AnxZ8Ar852BYJeozfSnjFczKgZX7OWT2BkXCoRlru8/rTsrz9YWQMiYp/F0U3HxPhKMpliXzA02seQJPQUQahz5kMP7LzBHY5vOuSh6QuMnQAW28089pOAzk+rCumBPzHCLg=;fKMQy8gpxV1MMzhwVdmfCw=="
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200219&t=2&i=1492406894&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1I18X"
+    width: 817
+    height: 545
+    title: "Malaysian firm offers AI-based profiling of Chinese visitors for virus"
+
+secured: "WMN3ytSefNDm1r8jbc8ERQ+MLzfdLNNL+TpBOIOX2Y7QTKsIF5DpGdTjD2oo0U1Z954KN0TPi3SiaXXT5CC2F7Xo/Zb9Kbdhd1EDOcvhG22TxSKLrECJ4IWQ5+9PqZNymTlx+eZwk5E0kZLBOOrTpYSW99YwWTCdG3wKfs2YOQVgqPg1WVUlUhxh1bb1pZRMLqqvFCBc96OOIr1fQI2QIw6s0TN6DbsqbYDxuswJ8MiR3NqxrvAi+ER2FWjdDFPBJNajedf8eIYja5XX8lhbEfSZVrE5Ug2CUG3ngwbGrGEqLPWo5+kttf5e9yw7/PkK;FneubYDpirPXJ/GZoUgQqA=="
 ---
 

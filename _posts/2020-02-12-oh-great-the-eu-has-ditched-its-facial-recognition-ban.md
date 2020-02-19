@@ -176,6 +176,19 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "This Senate Bill Would Ban Federal Use of Facial Recognition"
+    excerpt: "On Wednesday, Senators Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation to place a moratorium on the use of facial recognition by the federal government or with federal funds—unless Congress passed regulations for the technology. The Ethical Use of Facial Recognition Act aims to create a 13 member congressional commission ..."
+    publishedDateTime: 2020-02-19T15:16:00Z
+    webUrl: "https://www.vice.com/en_us/article/5dm54a/this-senate-bill-would-ban-federal-use-of-facial-recognition"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 69
+    images:
+      - url: "https://video-images.vice.com/test-uploads/articles/5e4d4c93a6907900980bae0b/lede/1582125274461-GettyImages-51478189.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*"
+        width: 1200
+        height: 674
   - title: "Concerns Surround Facial Recognition App in Florida"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T20:41:00Z
@@ -582,6 +595,19 @@ related:
       - url: "https://www.sltrib.com/resizer/iFmO0DFWKR3zMKsiE5alRNtjthU=/1200x630/filters:quality(85)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/2OK3GJJIGBH5HLSXCGLHZNE4LI.jpg"
         width: 1200
         height: 630
+  - title: "Sens. Merkley, Booker Introduce Moratorium on Government use of Facial Recognition"
+    excerpt: "Sens. Jeff Merkley, D-Ore., and Cory Booker, D-N.J., introduced the Ethical Use of Facial Recognition Act on Feb. 12 which would institute a moratorium on all Federal use of facial recognition technology until Congress passes legislation outlining “specific uses for the data” collected. “Facial recognition technology is both a powerful an ..."
+    publishedDateTime: 2020-02-19T14:38:00Z
+    webUrl: "https://www.meritalk.com/articles/sens-merkley-booker-introduce-moratorium-on-government-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 33
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2019/01/facial-recognition-2-min.jpg"
+        width: 800
+        height: 450
   - title: "Should cities and towns ban their government's use of facial recognition technology?"
     excerpt: "Facial recognition is the most dangerous surveillance technology ever invented. The world has never seen anything like it. It makes snooping and stalking easy and cheap. Left unabated, governments, companies, and individuals will use it to watch us everywhere we go. Dystopian as these outcomes are, that’s not all. Facial recognition also has ..."
     publishedDateTime: 2020-02-06T22:41:00Z

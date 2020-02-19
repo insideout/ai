@@ -69,6 +69,19 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/18/15/24886152-0-image-a-128_1582038178000.jpg"
         width: 636
         height: 382
+  - title: "Jaguar Land Rover’s Project Vector is a self-driving pod that focuses on zero emissions/accidents"
+    excerpt: "Joining the ranks of companies like Toyota, Honda, Volvo, Volkswagen, and many more, Jaguar Land Rover has unveiled its hitherto secret Project Vector, a self-driving pod that aims to usher the company into the future of mobility and achieve its goal of reaching Destination Zero. What is Destination Zero, you ask? “Jaguar Land Rover’s ..."
+    publishedDateTime: 2020-02-19T14:57:00Z
+    webUrl: "https://www.yankodesign.com/2020/02/19/jaguar-land-rovers-project-vector-is-a-self-driving-pod-that-focuses-on-zero-emissions-accidents/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 11
+    images:
+      - url: "https://cdn.yankodesign.com/images/design_news/2020/01/here-are-the-winners-of-the-39th-international-design-excellence-award-for-peak-design-inspiration/idea_2020_call_entries_1-510x314.jpg"
+        width: 510
+        height: 314
 
 secured: "4PKk+jPDFK4FWKupqPTWMsjYeEKNwlxwe8kr+u5KY/M7WavHSovBsjNUdg/wut3RZYyYq+BkgW92zJO1kErEwjK1g15TUaY0K1kjxC4KcNvDEeVAITbfPSA9U5GC6c4Eqe856NM5Jsmqmhns7hFfklvWtKKDkpHPlEBDJUjMpOno4A79kKGvp2oG3qKoOdAIf2gtRis5gwVm39y6cmUzS8szyja+Pz0VhDb+wl06lfe7r/exo4y0mbAtk3cXDIMHXRgUzt0fP5bqidMItfiWioHZEyT1soVn62bPbhelKsQwNqs5Cr2sRRlD8AXXZCD92dM6M89FanS3lRLBZgKDtV81IPqoGhyTcylaiGja/RAgNLk5nEYsyTldkj9XQPleY6zsKCDAcCg9Gggk/Putr+N5yIWQrEvL5Dh5eupder4Vvhww0qnF5rEPDSpKAOFtIBiYhVGH0sJK5PknMpbZagk9Z85ai6m/MIC1J+SfWlg=;FZkVZqwipR1lKEA0kWQqxg=="
 ---

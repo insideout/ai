@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/tldr/2020/2/5/21124838/classic
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/tldr/2020/2/5/21124838/classic-1896-short-film-upscaled-4k-neural-networks-arrival-la-ciotat-station"
 type: article
 quality: 172
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2019/07/2019-07-16-ts3_thumbs-789.jpg"
         width: 800
         height: 560
-  - title: "Someone used neural networks to upscale a famous 1896 video to 4k quality"
-    excerpt: "As the name implies, neural networks are networks of artificial neurons—mathematical functions that transform a set of input values into an output value. The key feature of neural networks is that they can be trained: if you have a bunch of example inputs whose \"correct\" outputs are known, you can tune the parameters of the network to make it ..."
-    publishedDateTime: 2020-02-04T23:05:00Z
-    webUrl: "https://arstechnica.com/science/2020/02/someone-used-neural-networks-to-upscale-a-famous-1896-video-to-4k-quality/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 48
 
 secured: "bJsZC030QafPhIjTRwiRbFAdtHB/sLYMe5bXbMBPSEkxif812RDji6qX+tMPwXWlGjnCnVlNypALcNp7uwkUOICr/xUL3e5NxddK63Cob5g2mbCaxTm30eLWGjB1mW53qkwMCa7HXvMBXxN0osUlQBr0Y6IyUujm9YdGK8jURoB5l4ybTLiPhNYRznaImv4BHsmAaxfrhwempcq1C14k/4qxaofkfr1VADJszOSrmefb/c5NzjLvMsXDJjyAzs+dBgLj9l2IsOIXiqNuySMO9INxF/oBQkLaOOjH0nhoVy+oDonVG4tTDRnvYBOl6+JA7eyf3AUXfV8cFzJ215RaL41wc9BsRNLjk3TjEWsEvVvTpWEnUKe9yu40ju2g/Rzoz/G1GbEWXcFTgxRYinoolZ/A46o2WqD3avPCcV8gpudPZUQwijFy4LZjRTPucztEXpyJx/MWGhrZZvILShMLFOVk/7bqXnaFXgtzy7J1yNAC2xFXbo1eteaoCugY4/j4;HmMpwTTREUtvk3ApOtRYDQ=="
 ---

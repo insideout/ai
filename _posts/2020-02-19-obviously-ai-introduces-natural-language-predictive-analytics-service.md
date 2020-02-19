@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/obviously-ai-introduces-nat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,19 @@ images:
     title: "Obviously AI introduces natural language predictive analytics service"
 
 related:
+  - title: "Obviously AI Rolls Out Natural Language Platform for Predicting Customer Outcomes"
+    excerpt: "To make predictions, Obviously AI uses natural language processing to break apart a question, interpret it, and find the right data. Then it runs hundreds of machine learning algorithms in parallel and evaluates each one for accuracy to find the right ..."
+    publishedDateTime: 2020-02-19T15:49:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=139321"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 34
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/128215-0220_CloudContactCenter_480x610_new-ORG.png"
+        width: 480
+        height: 610
   - title: "Obviously AI Rolls Out First Natural Language-Powered Machine Learning Platform for Predicting Outcomes from Any Data"
     excerpt: "No-Code Machine Learning Platform makes data science effortless by enabling anyone to run predictions and analytics using natural language questions BERKELEY, CA / ACCESSWIRE / February 19, 2020 / Data at organizations can be incredibly siloed, difficult to access, and overwhelming for thousands of business users across the globe. From finding ..."
     publishedDateTime: 2020-02-19T12:08:00Z

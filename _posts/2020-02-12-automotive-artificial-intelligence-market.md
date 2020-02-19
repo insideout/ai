@@ -31,6 +31,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market is Expected to Grow at a CAGR of 41.0% to Reach $ 18.7 Billion by 2025 | Meticulous Research(R)"
+    excerpt: "Meticulous Research® – leading global market research company researching on market titled “Automotive Artificial Intelligence Market by Offering (Hardware, Software), Technology (Machine Learning, Deep Learning,"
+    publishedDateTime: 2020-02-19T14:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-410-to-reach-187-billion-by-2025-meticulous-researchr-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "North America Wearable AI Market Report 2020, Forecast to 2025 - Google, Microsoft and Apple are the Major Players"
     excerpt: "/PRNewswire/ -- The \"North American Wearable AI Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The North American Wearable"
     publishedDateTime: 2020-02-18T11:15:00Z

@@ -45,15 +45,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/ahJh6OSLElB9iVplP4gk4iPKyWs=/0x0:480x311/1400x933/filters:focal(202x118:278x194):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66256594/Feb_05_2020_09_01_49.0.gif"
         width: 480
         height: 311
-  - title: "Someone used neural networks to upscale a famous 1896 video to 4k quality"
-    excerpt: "As the name implies, neural networks are networks of artificial neurons—mathematical functions that transform a set of input values into an output value. The key feature of neural networks is that they can be trained: if you have a bunch of example inputs whose \"correct\" outputs are known, you can tune the parameters of the network to make it ..."
-    publishedDateTime: 2020-02-04T23:05:00Z
-    webUrl: "https://arstechnica.com/science/2020/02/someone-used-neural-networks-to-upscale-a-famous-1896-video-to-4k-quality/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 48
 
 secured: "E/hg43l97rFX6Ab45S/o3fA2+oGp7AxYChCkWdPQtnSrbXLLG9pNLOEn3dzC2YZg3K9QkwkqT/dPXIn2spbM/7uelyoVhcHnsO/BRMYChBnj4P1MplIhZtIGabbRh4jTiXxHSESwECF9CCkoQqn1+dv1Cfcr7PmOvUfzEQ47sNiwwToxqbKRE86hRljunBEkSvMXkeMjVtcI8Ei5VyzMWuAxRmpk0+CMms/G26qso/dLTgl9Qhy6yIKWEScLYg0Rn1Ev4IXlJGweSjGlkfyt5/J1rI9Dajhi45v1RMMxqbIBU/7AB4hXFJIWMw8Rrfw7wngqkvzfM7Gw8D2fRh/l+c/tyYBUru5pMp1ZfuUuYZKe5xBVEvni/RSG+gmQf3PDAewuAjUoyWFXljw4zTTdiHz1zc3C0Bg3mzV+LT+ngKazG5nH1OGGCR3+nSomkXw45zgA19ERIYgnGavyHD17zG8n2A1OjSzDzhkoeelIoPU=;XncqwTb89saHid/+xDvlJA=="
 ---

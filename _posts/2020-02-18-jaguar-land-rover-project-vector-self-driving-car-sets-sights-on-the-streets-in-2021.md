@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driv
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -73,6 +73,19 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/18/15/24886152-0-image-a-128_1582038178000.jpg"
         width: 636
         height: 382
+  - title: "Jaguar Land Rover’s Project Vector is a self-driving pod that focuses on zero emissions/accidents"
+    excerpt: "Joining the ranks of companies like Toyota, Honda, Volvo, Volkswagen, and many more, Jaguar Land Rover has unveiled its hitherto secret Project Vector, a self-driving pod that aims to usher the company into the future of mobility and achieve its goal of reaching Destination Zero. What is Destination Zero, you ask? “Jaguar Land Rover’s ..."
+    publishedDateTime: 2020-02-19T14:57:00Z
+    webUrl: "https://www.yankodesign.com/2020/02/19/jaguar-land-rovers-project-vector-is-a-self-driving-pod-that-focuses-on-zero-emissions-accidents/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 11
+    images:
+      - url: "https://cdn.yankodesign.com/images/design_news/2020/01/here-are-the-winners-of-the-39th-international-design-excellence-award-for-peak-design-inspiration/idea_2020_call_entries_1-510x314.jpg"
+        width: 510
+        height: 314
 
 secured: "sU1gFKTkpaxQ9sc5yKgfFO3Zou41bf2IOG5oxotUYPOGCWeAy+t2eF1l6jAmXv/ImcvqDErnXBBSuqNEti+tpQFiicNohIy6wh3KMm2HDReYYmJcI/3Gh2V2l3VYA6g+1lyAuLMj0OVBIfruYmfOjQG1lo2ECWrKqLled4Iln5flWRSIuYp8PRqgGWQxtY9WYgvfk1BqqM0TgHuHg6+HVcgX3EqThgKYw8lFP5amZPXRhJ4nj5Mfk+NBN0HTfyXYpwk/hM+4p7pW0KAQOYo/HX7eQULYMpDnENsb+TRJyiAR/OuXyp61hYdSMl0fU9S52J8oaUaVpR6D64KMzUFfDo5uB7o1WZzVTE74nh4Mi/H3mMCr3BCBX5jyIlFRhlb5V8cuZ7ZbWdJDPivACyHJgvoFiCNZrQbO8viMhK0nC/J2j4+l9kwNhZOFuMrEXM/yR4uxfByCjc2q5ZlrV5RJ1SJH1prF/uYupk/V0LYLZvo=;3XpHhfnCQqpvQMavBy4fnw=="
 ---

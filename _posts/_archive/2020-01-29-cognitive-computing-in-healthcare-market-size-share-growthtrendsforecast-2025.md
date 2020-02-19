@@ -17,6 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "Wr5kg/Jdew8hbXxH9FLm+PlpJIaDQtSv0SaUZAyHIdcd3I7sw/K9NGzTrtfM+5HDfJ0QDpdV3H8pNhd+cpH5951lzWsqIEtrdXqRHjdk0BSxBcX4rTinONaxcgctsmvyHb5fJIuSlpRfne22CkQhJPGWDpkTXBeM2H4CU3Mqgy5Amq57NXck4UTC2bFHJYMquLl/3EuX1lrv+KglUaUfzPgmTC2yL8sKqLULNaJqEvY7rjUKMS7of9Z+vK1RK3spE9x/ahdxGStu9SHJnscUY+6C1pfVFCyzfkYTNsIr2KfsVAzJv5jgLdqKzCEVtfg0;CiSZ5czppER63ZVUXr5OnA=="
+secured: "c+dCpabMTIHTFHzR/aLGuBKSC7pdXI/08Ur6kClEpEj03VH/Rh6mUPzkvL/d9wxbmyY3GyzuDEFqErGVgPbKmxnKsXYXtCZ3+Soq/Ud6Tdelmohm/GNITs0CN9em+KjCphzmai/0S/kZLgqiUF8XLkmbVEFcDjm9qqUg9AHrH9WbOmSvhL6kT91Tc6zcRfpSYTixBlv0uNZZVmzox8Y9iQ6s9KpjUlysXxT4EEYZxhbL2kXS02XE928+X7fbh8y283XgJU/hD8S1MKOOZYdFDOVwDdkubbSz3Uly7PDdOhpDK3GgzlNgTjwlAXEKaOMs;s28EOVUdgQe2i8/Ag/k+Ww=="
 ---
 
