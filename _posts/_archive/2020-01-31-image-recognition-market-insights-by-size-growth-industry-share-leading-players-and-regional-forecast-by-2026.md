@@ -5,8 +5,8 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-01-31T05:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: -1
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
-
 related:
   - title: "Machine Learning Market Garner Valuation US$ 76.8 Bn by 2026"
     excerpt: "The global machine learning market value is expected to reach around US$ 76.8 Bn by 2026 and growing at a CAGR of around 40.1% over the forecast period 2019 to 2026. Machine learning is a subset of artificial intelligence. The concept has evolved from computational learning and pattern recognition in artificial intelligence. It explores the ..."
@@ -37,16 +31,16 @@ related:
       name: cmo.com.au
       domain: cmo.com.au
     quality: 19
-  - title: "Artificial Intelligence Market Size Worth $390.9 Billion by 2025: Grand View Research, Inc."
-    excerpt: "Improved image recognition technology is critical in enhanced drones, self-driving cars, and robotics. Key suggestions from the report ... Inc.; Zebra Medical Vision, Inc.; Baidu, Inc.; H2O ai; IBM Watson Health; NVIDIA; Enlitic, Inc.; Google, Inc.; Intel Corporation; and Microsoft Corporation. Read 100 page research report with ToC on ..."
-    publishedDateTime: 2020-02-05T08:40:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48774387-artificial-intelligence-market-size-worth-dollar-390-9-billion-by-2025-grand-view-research-inc-008.htm"
+  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
+    publishedDateTime: 2020-02-05T15:33:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 9
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
-secured: "0cs/2TD7Px+fHqdYBM57PczRFubClndk8OH+Cj2/SMnvVZWHHo4g/l88bI3xAOErqZjFceiKk9tZydoAh2fYApY4pRWEzusnToiDEfErA1yWKKqlWVuyvYAnqmRfuawtvcMPBMFgG+tyT/YnpmH1nTyLg67xsvHH7l63M4IHT+epWF/YGCV4Ei1yyIc1S/UTlDBjq+D8kgwDBQvUAq8mux/DVDxQFu8NFvllxyiFjOKmroVrJAWCH9x1tMT+YDCxbhgcDaPf8I9LxcTjAWmaYnLOCQLRf0XsetoCmFM8ybUrflxefI2tk3HMg27uak7J;rR5V4zk90okPNiiL7aTjRA=="
+secured: "6UwuK9g76llM90UfGabli6wkPRvIHg4k3D1qarwa8KKYVjq6D9g4dSxkLhupQ5UtwZe6mRPPRp+qCjya2IxLkP6Rss/A27bKmWeSOfUFjSXuRiNnalLjxkPy7ZYmgZ8h8LeO9zg2wGSugGzlqzl6r4luouLEfMJFPZ7hYWZBE9aMVp6PXF9cjbdvcRb7JDKlEdgDnUycyuDPMxv9uH3yTxqsQsQYOuT9kWBBPNGMQ4JIbH1HvZt/F2ESdH7wuYrHQP2ZPTRLIUpuhfzwiZROCeT1R1ttLTbnMWM9z0PzHh8sfyqmfHVpsVxNNemPExK5;Vh94ypTVbHvMl1U7f9Rdrg=="
 ---
 

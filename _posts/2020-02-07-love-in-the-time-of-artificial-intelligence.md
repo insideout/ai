@@ -66,19 +66,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*p41V0ILqV5v14YumjuEc4w.jpeg"
         width: 1200
         height: 900
-  - title: "Researchers discuss use of artificial intelligence in government agencies"
-    excerpt: "Professor Daniel Ho discusses the use of artificial intelligence by government agencies Monday afternoon. (Photo: EMMA TALLEY / The Stanford Daily) By Emma Talley a few seconds ago Almost half of “important” American government agencies have ..."
-    publishedDateTime: 2020-02-04T07:40:00Z
-    webUrl: "https://www.stanforddaily.com/2020/02/03/researchers-discuss-use-of-artificial-intelligence-in-government-agencies/"
-    type: article
-    provider:
-      name: Stanford Daily
-      domain: stanforddaily.com
-    quality: 36
-    images:
-      - url: "https://wp.stanforddaily.com/wp-content/uploads/2020/02/AI.Gov_.jpg"
-        width: 480
-        height: 640
 
 secured: "spP2KsMPggO+WfrPFC5DV+hRyeFceTK+5M01PHYsAhifvC+Qx+qympPic5V9/0QmieOZh7xE5t1PY/jpYlBcUSn+THTC8tDlLRY8kbpIdK2sifS1bPdbPALbygvfvh1jqVRsd2Hth1BxKy5xy0wNDSUMm8OALNRO+fxAIQP4pnnnIxe2G60zb5TUcBOiCrfONIuVXKjP183SMTS+K9agFDlsYd5IeYWSUrMIFi7TF+1TBl/EGZuBamF29JJbdfilqEDBmKLQnOn7385Juyhj22ToJQ4lF5rP5S5eGne06g+2D9Q1AVFuifx82a3c+NOL;KBjdhgryF8OhABq4QxSBBA=="
 ---

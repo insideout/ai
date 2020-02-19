@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-eme
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Five Emerging Trends In Retail Technology"
 
 related:
-  - title: "AI Image Recognition Market Rising Trends, Technology and Demand 2019-2024"
-    excerpt: "The AI Image Recognition Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry, development possibilities,"
-    publishedDateTime: 2020-02-04T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-rising-trends-technology-and-demand-2019-2024-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Computer Vision Market 2020 – 2023: Regional Study, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
     excerpt: "Computer Vision Market Overview: The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
     publishedDateTime: 2020-02-06T10:07:00Z

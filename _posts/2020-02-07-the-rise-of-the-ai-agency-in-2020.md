@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -70,19 +70,6 @@ related:
       - url: "https://media.philstar.com/photos/2020/02/07/kpop_2020-02-07_17-11-54414_thumbnail.jpg"
         width: 686
         height: 392
-  - title: "Researchers discuss use of artificial intelligence in government agencies"
-    excerpt: "Professor Daniel Ho discusses the use of artificial intelligence by government agencies Monday afternoon. (Photo: EMMA TALLEY / The Stanford Daily) By Emma Talley a few seconds ago Almost half of “important” American government agencies have ..."
-    publishedDateTime: 2020-02-04T07:40:00Z
-    webUrl: "https://www.stanforddaily.com/2020/02/03/researchers-discuss-use-of-artificial-intelligence-in-government-agencies/"
-    type: article
-    provider:
-      name: Stanford Daily
-      domain: stanforddaily.com
-    quality: 36
-    images:
-      - url: "https://wp.stanforddaily.com/wp-content/uploads/2020/02/AI.Gov_.jpg"
-        width: 480
-        height: 640
 
 secured: "a8lXQvhYHQEjnE2bQd0cgVHMxbDIu6X1WJq43r+01pCoOm2i0PEVUTBoKRF9NPqhQ95na/UKjpKD+MrRAZHXjMo0Qj2MBsu2xYg7IQ8a0u0UsYmMSnwkf+oQkIUc3Tfiwl18YBSaxNZQx30N35INzuHibsXSZPIoA7VHAjGIfA/3OjFufhqMle9BU67C8cFnQRpoKiwpWql8VrSXjMMDCO+bgXLCUEe+LZiCAOztiTs1lMebliWk1dH3ypgAb6RTUtzdp29/owXPZhzS10aoTqAbQv+QM6EDvHUWwV64OsUJf2Re8vi8wJ0YTnl7uCjmxIm5BOpnfpTyfNBhuqsTXeGjS13GSFzxs/3scIoamUuRA/dUzNgrPV5uLgzOTWygYklHeihPUeaBKJWXLG1RFUknHq6sVGhAgzy33JsboU6a1Nulv1lE+2on3DoNwIMrD39KHEQpkMdF0JtUiPtVbCfvrRSHATGKeRO9OMrwqj0=;fBJ1i/r80gj2HS2LUjpsqg=="
 ---

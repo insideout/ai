@@ -43,19 +43,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1126653452/960x0.jpg?fit=scale"
         width: 711
         height: 474
-  - title: "AI Image Recognition Market Rising Trends, Technology and Demand 2019-2024"
-    excerpt: "The AI Image Recognition Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry, development possibilities,"
-    publishedDateTime: 2020-02-04T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-rising-trends-technology-and-demand-2019-2024-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Retail Market 2025: Industry Size, Growth Factors, Trends, and Top Companies Analysis for Business Development"
     excerpt: "Subsequently, various well-established retailers are struggling with increasing operational cost, dissatisfied customers, declining sales, and upstart competition; thereby creating a need for implementation of artificial intelligence in the retail industry. With the new phase of digital transformation, top players in the retail industry are ..."
     publishedDateTime: 2020-02-05T13:33:00Z

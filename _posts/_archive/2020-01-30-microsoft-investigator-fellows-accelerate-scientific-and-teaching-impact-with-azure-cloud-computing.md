@@ -5,7 +5,7 @@ excerpt: "“In particular in the area of computational behavioral phenotyping, 
 publishedDateTime: 2020-01-30T19:40:00Z
 webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
@@ -21,12 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-    width: 1400
-    height: 789
-    title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
-
 related:
   - title: "Genesys Engage call center software coming to Microsoft Azure"
     excerpt: "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ..."
@@ -41,14 +35,14 @@ related:
       - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
         width: 320
         height: 210
-  - title: "Microsoft's Azure Strategy Pays Off"
-    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
-    publishedDateTime: 2020-02-02T17:39:00Z
-    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
+  - title: "Genesys expands partnership with Microsoft Azure"
+    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
+    publishedDateTime: 2020-01-23T16:21:00Z
+    webUrl: "https://www.telecompaper.com/news/genesys-expands-partnership-with-microsoft-azure--1323890"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 34
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
@@ -64,6 +58,6 @@ related:
         width: 1024
         height: 803
 
-secured: "sgyiG1RA7ZJmhCzenVg59v/tU3YZePXmQRi++Q62luNEfGInY8QWKuqpLtN3wRzcxv6B20ecQDYSCI25WygksFOzMNsJhVRYs5ECX4XBzubFxDQyA2WaCRZlVBLY5tRPKUrOlxvQ+Jdas+26g+8XlEtZ8N3GaIGWf18Q7Bms1340W7KLdZS+Li6ANYVaAL2acrp7NotlvvmkyOr/J1zSTYijXAyt3QHuheqWZuIDdMdKUuSmWWYpZTXiw8wTSddwApm2D1ACFoyzHCPduorSIkcyirrngDOLOleZfWaYI0EFZY8WKqju97mUSpI7wkC2;TR2vPmyHIuF1NuqlRxs6pw=="
+secured: "Bv0BotZJwyCQKzWp4FHnxIj0my7k8+h67rBeGTBqiO0mNUWczhJbAIVJAyGiTcBcYA2/qrlijolx0Isemwq6601Ium6qiKBWTIYrKnwxjVofGrgtJOTGwk85kvs8OBkFY0Xpia+zLnUSVqLtg3ysFuor/CU2YD30BgT8Eg4d//mpCKXkfJsDZfw/cuCf90OjNNwWOeoW+MG9BXE16zOs0Vmf84GvMRLHbjRyovK3X9YguQv5P9J8DN6LkYAuzkOH+6lHDYhFgkWKmrBpyQLO6AVhp4Kje//OF/ZZkYauPfQ4KS8hD13mgz8tSyQ1PxGVTAs/b7k81zvrdTwWYpHq1BMOmx9d3EGGr/CxFR+Qpj8iGh7W2MgV4p3ixB+y4+JaiOew8ydQCUr+pG1c9NaKy3YLLVjWM8RtwCROiZtNCQ2N0UsNxM9gX0kEdtaZq/z38FjHTZepQL/nt4ev5DDAz6srHCPUsF7Sq6kO6JK5gns=;FkA1S78xL84q1v6WjFWVKw=="
 ---
 

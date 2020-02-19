@@ -3,7 +3,7 @@ category: news
 title: "Lawmakers Float New Restrictions On Facial Recognition"
 excerpt: "As controversies about the use of facial recognition continue to swirl, lawmakers across the country are preparing to tackle the technology. California state Senator Hannah-Beth Jackson (D-Santa Barbara), said Thursday she plans to introduce a bill to prevent law enforcement and other governmental agencies from using facial recognition ..."
 publishedDateTime: 2020-02-17T22:15:00Z
-webUrl: "https://www.mediapost.com/publications/article/347130/lawmakers-float-new-restrictions-on-facial-recogni.html?edition=117234"
+webUrl: "https://www.mediapost.com/publications/article/347130/lawmakers-float-new-restrictions-on-facial-recogni.html?edition="
 type: article
 quality: 19
 heat: -1
@@ -711,6 +711,6 @@ related:
         width: 300
         height: 250
 
-secured: "3DBIqDnAxJyN6cqoPdMGY6lgHCoXYlq4XAHCho22btHcWscf/eBRpJaaEE0ldsHWf8goB1sJB2a6AmJZwyTiipy95lrA5YSJkKajVZxvZFf+bJkxllwHMOVQbNdaHABSU67qMI4rauwr6iQuINdo1pPxxKb3HzuN66QPYA+O14IZSwcUcdbrYuJfsOL6+dCTFOl8UJNNxxobEEf0oqmftEvU2DmQy7QflNI+Com0dbfU5d/MhX3rYdHW8Z3hrqCkO9RhOtL2SCtMbbjGbn7Gn1pFxNiQHY9/3TM2ZvkeqCPNy5K8+xTrjcVGfn48Mf/+;zyQUCE0/gftQWfHRbWJZwQ=="
+secured: "Ga8c7nhgXHxSo+Qwv5UNcrJsP2qCPIDINerMIJs6Yg0XO09OuBw5UHfoL9BiV9T8/lMjDTyywsZblb9amnhi41BdhsJE8foup38ivXJFrAwecf+OgUoYpjfdD4upko8E9YMLFba3Qm65JQhKPG3ZIfyLDaSRx5QJlRkq4RUUXVmxITR78jYDlxcamqAAtnnwxiZgEQO66U0iNacqE8fmLezUCUg4kG0DmB1dDX31AJPykfAeLNmU5Tz4uqXwQmFhX0fhM0TchjVD3Jfhjs/gaTbe/ZQ0WxRkH4otzIgDtZDLJZCuf9Uw08gsEXBQsSsm;BFTDBlZY8Da+I9cviGJrwA=="
 ---
 

@@ -18,32 +18,32 @@ topics:
   - AWS AI
 
 related:
-  - title: "Digital Transformation – Why Now?"
-    excerpt: "Google also sought to broaden its customer base by putting artificial intelligence in reach for a wider audience. With Google’s AutoML, Google CEO Sundar Pichai wrote, “Today, designing neural nets is extremely time intensive, and requires an expertise that limits its use to a smaller community of scientists and engineers. That’s why we ..."
-    publishedDateTime: 2020-02-13T15:40:00Z
-    webUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/"
-    ampWebUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/digital-transformation-why-now/amp/"
+  - title: "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Carrier, a leader in heating, ventilating,"
+    publishedDateTime: 2020-02-05T14:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation-2020-02-05"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 46
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://www.cmswire.com/~/media/4f6ff12791384bfcbfe2ca1e08d4e283.jpg?mw=1024&hash=87FABE1B6A8C20FF6582B0B72E28EF165144DB1C"
-        width: 640
-        height: 480
-  - title: "Digital Leap: Betting big on AI to transform businesses"
-    excerpt: "For example, Siemens recently launched the S7-1500 TM NPU module that is equipped with the AI-capable MyriadX Vision processing unit chip from Intel Movidius which, among other things, enables the efficient processing of neural networks. The module can be seamlessly integrated into the SIMATIC automation system, this way permitting a simple and ..."
-    publishedDateTime: 2020-02-16T19:52:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "The AI Eye: VSBLTY and Energetika Propel Safety in Mexican Municipalities and HVAC Giant Carrier Selects AWS for Digital Transformation"
+    excerpt: "Point Roberts, WA and Vancouver, BC - February 5, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-02-05T17:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-vsblty-and-energetika-propel-safety-in-mexican-municipalities-and-hvac-giant-carrier-selects-aws-for-digital-transformation-2020-02-05"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
     excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
     publishedDateTime: 2020-02-06T20:12:00Z
@@ -72,6 +72,24 @@ related:
       - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
         width: 252
         height: 335
+  - title: "AWS selected by Carrier as preferred cloud provider to drive digital transformation"
+    excerpt: "Carrier will use AWS’s IoT services, such as AWS IoT Core, IoT Analytics, and IoT Events, to connect its products into intelligent systems, and AWS’s ML and artificial intelligence services to allow those systems to learn from users’ habits and adjust automatically to improve efficiency without sacrificing performance. Carrier will also ..."
+    publishedDateTime: 2020-02-05T17:43:00Z
+    webUrl: "https://www.telecompaper.com/news/aws-selected-by-carrier-as-preferred-cloud-provider-to-drive-digital-transformation--1325488"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 13
+  - title: "MYCOM OSI Announces Strategic Collaboration Agreement with Amazon Web Services to deliver Carrier-grade Service Assurance with the Cloud"
+    excerpt: "Running on AWS, MYCOM OSI’s Assurance Cloud™ embeds its award-winning Experience Assurance ... telco and IT networks by integrating real time assurance with closed loop automation and analytics driven by Artificial Intelligence (AI) and Machine Learning (ML). “When selecting a cloud provider, the thing that matters most is a cloud ..."
+    publishedDateTime: 2020-02-04T09:09:00Z
+    webUrl: "https://www.realwire.com/releases/MYCOM-OSI-Announces-Strategic-Collaboration-Agreement-with-AWS"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 0
 
 secured: "lC1nhbIfvHQ81RR3rtY0q3xVq/ueHJwtYiPMVee9GwM2CzfggaRhAOxQi7cgBMXfP8U1eV8jthimPtOg40CSm4yjYt5761PYcL5ePahXcWCDz4GjG9aa7nnuJqBWyfBLrm0d9hg8PMOg4Gs4ApsbcRjLNdRJ3mY6HBa8/xJB2iqrwLkqQ9qHDJsT3J+l1i/meXpguAZyMUQ24GAtvRzh78YdounFF2meEhMLGxMghehvo4e0BQUmfUMNsdup6ss07nAkV8pnK5dvLVwoPVmYuVP614ob5frNO/sHbTo3PtVg5ondpzN86EiG0NDLxFHBSJ/pMfpd1vu+IpOuMmhq6veGsP0LAisyyb10q4/YylqlYPvzwp0UdR+MBQRJJU6RHOSdX59vNR0xjcz1kZ2sI3JNN4VpdN6nlhztaL4ayNew4sBLn5+D5VIcgnPbJCE29ybt0l5+q9toiIYand+d4+LmvnxvoyeYXiNbGFXbd6s=;VAO3YIpqb1TwoNPoHkZnOg=="
 ---

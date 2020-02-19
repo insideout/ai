@@ -36,6 +36,15 @@ related:
       - url: "https://cdn.ghanaweb.com/imagelib/pics/105/10511846.jpg"
         width: 600
         height: 502
+  - title: "ECG to deploy artificial intelligence to tackle power theft"
+    excerpt: "Vice President Dr Mahamudu Bawumia has hinted of plans by the Electricity Company of Ghana (ECG) to employ the use of Artificial Intelligence and Remote Sensors across its systems to fight the canker of power theft. Speaking at the launch of a mobile application for ECG customers on Tuesday, Vice President Bawumia indicated that difficulties in ..."
+    publishedDateTime: 2020-02-19T00:44:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/ECG-to-deploy-artificial-intelligence-to-tackle-power-theft-870454"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 17
 
 secured: "fTcNxskXoJ75WxLhKpQPeCDRuvN70D4Luz9yz6FZwN0UAKr9UF3qyUue+149yPEvLlegkGzXZ0E+VowR7DH5fiBMaM+xkpYcAkZX60LDX4tIr0agbJgdW5qtuR8ixiRwZI7z6ahErJCZTJ/qMyHZ4gOYo46xTMy/BcJf7eTIpKSE/UkOSbYFrAg6qaS7ySnqkHlqmrKkjACiiOaukInkDUpmzNj+ViufCmpKMcdHkzWalFeGDGstJpaVmiU4SlKDx20+UVVw2/+Gd7zTQkP/93Vf1/ACwlfLBZ89Xi4PUsSo4PkDKS+Vw1ASNx7LSmI7BH2eJbCfevSbMQC26eAx4EqVKIDp0xeys693Mx+s0Ao5QN2j8Ft3NXDyvAjxaZr8GqUG4HmnhwSel46muvkGnxfZeBImOsy+je2sX/pKiOPE3xdUJM6GFDCit5dq/hfuDybfS50c5z4G8E07LokN3plnanfvJJJ3z8toqohfvH8=;n9Ivm+X5Us8ksrOhF2ev/Q=="
 ---

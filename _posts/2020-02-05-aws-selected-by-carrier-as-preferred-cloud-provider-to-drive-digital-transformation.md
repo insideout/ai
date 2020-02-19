@@ -18,6 +18,19 @@ topics:
   - AWS AI
 
 related:
+  - title: "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Carrier, a leader in heating, ventilating,"
+    publishedDateTime: 2020-02-05T14:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "The AI Eye: VSBLTY and Energetika Propel Safety in Mexican Municipalities and HVAC Giant Carrier Selects AWS for Digital Transformation"
     excerpt: "Point Roberts, WA and Vancouver, BC - February 5, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
     publishedDateTime: 2020-02-05T17:13:00Z
@@ -31,19 +44,52 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation"
-    excerpt: "and AWS’s ML and artificial intelligence services to allow those systems to learn from users’ habits and adjust automatically to improve efficiency without sacrificing performance. For instance, a smart climate control system that processes data from linked sensors throughout an office tower could be used to identify occupancy patterns over ..."
-    publishedDateTime: 2020-02-05T14:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005243/en/Carrier-Selects-AWS-Preferred-Cloud-Provider-Drive"
+  - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
+    excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
+    publishedDateTime: 2020-02-06T20:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 33
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 16
     images:
-      - url: "https://mms.businesswire.com/media/20200205005243/en/771407/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Paris-France-Eiffel-Tower-300x300.jpeg"
+        width: 300
+        height: 300
+  - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
+    excerpt: "... healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,\" said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. \"Our combined technology will empower payers and providers to drive better outcomes and improve care quality.\""
+    publishedDateTime: 2020-02-07T13:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-citiustech-announces-partnership-with-google-cloud-accelerate-digital-/2020/02/07/9094107.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+    images:
+      - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
+        width: 252
+        height: 335
+  - title: "Cloudtech startup Rapyder has partnered with AWS to help clients with digital transformation"
+    excerpt: "“Being an AWS Advanced Consulting Partner enables us to provide seamless ... It aims to leverage big data, data analytics, artificial intelligence, and machine learning, in the near future. “We have 55 employees across our offices, and plan to hire up to 50 more professionals by the end of 2020,” Amit says."
+    publishedDateTime: 2020-02-07T00:24:00Z
+    webUrl: "https://yourstory.com/2020/02/cloudtech-startup-rapyder-aws-quickride"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 8
+  - title: "MYCOM OSI Announces Strategic Collaboration Agreement with Amazon Web Services to deliver Carrier-grade Service Assurance with the Cloud"
+    excerpt: "Running on AWS, MYCOM OSI’s Assurance Cloud™ embeds its award-winning Experience Assurance ... telco and IT networks by integrating real time assurance with closed loop automation and analytics driven by Artificial Intelligence (AI) and Machine Learning (ML). “When selecting a cloud provider, the thing that matters most is a cloud ..."
+    publishedDateTime: 2020-02-04T09:09:00Z
+    webUrl: "https://www.realwire.com/releases/MYCOM-OSI-Announces-Strategic-Collaboration-Agreement-with-AWS"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 0
 
 secured: "PPD4Bm6t85rXATr5Kw6CD6Gt6zb7HR6Q3O3ia9YiYPAcu0Xj22PVXGunSBL2yzdVFjZUZCnxa87En/to5qmOzVj+S3R+H6xXmSljz3MBtUU4NTq4PJiwUOYYebEWgu5UfbXsXsC2P/u5gHAvXMAbrdy+lcqoT0rEVGoq/hptMvCoLq/aXVl6ghoW2n4Uvbnq85XNVdLgcEnkW//QKppOYqYdeLvfyyRpAkoINF0QSmvxVM1w3sCVCc4/eXAfRyGtLD5OpsVa8djqCTpWQUrBaJyk+hO7ZJ93Dkju8m3rXK+Tl0+aJdbLMqiNLyagRmgN;4Ht5ufe5xFHs7YWL7+zAPw=="
 ---

@@ -41,7 +41,25 @@ related:
       - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
         width: 320
         height: 210
+  - title: "Genesys expands partnership with Microsoft Azure"
+    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
+    publishedDateTime: 2020-01-23T16:21:00Z
+    webUrl: "https://www.telecompaper.com/news/genesys-expands-partnership-with-microsoft-azure--1323890"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
+  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
+    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
+    publishedDateTime: 2020-01-30T19:40:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 20
 
-secured: "oMq6NlBOeg99HAXqiYojs1zoPq+OxhyT6Dq06/nW58ckXDD9I34cfD22xKWmWYcllkNM7F6MsQ25LaZiPYIYllGwC4P9yzYzcQcglrbkbvI95/SQXpL4z/310qALJxGOGqEJA+7slInssNDDocqmmZUeweZo3TfnNJq4S7A2HMw+14myf1hjF1sbOUnx+UllPs87+QWTGhu1LAF/msiVreFd3Cl/HScX18DLHuO6cu5OBicT+6cHIwYj5bq5AyEq9o66BTTaYXff+Jj++RNFn+D5sfuHW1+J1wA56AxVjkBadHdcLGJVu4VYEoX/44LX;UPxPk1xxc/8n3B4X4JREzQ=="
+secured: "7NTZqqFQ1EdGlvRHsDxhk9Z+IwKxLYuMtR60FpuE1xy7hZksbnZ0GDRPA77YnxQUz3PSndDP/HbUZR3+GIXEWdzKNTci+dU2OUxfBObWEpgWdsUDb116nLZiW9R+OT+A86tqMJ1YYlRVlK/xIrxxcBOMewoChXXpYzlotUV23LY4+wVR5la4lHDBKsjr+WddkmdEqX2pU1EKGQ9U2E1kmsCi0wlxpzzwnPngRz91fMzLj1/PbvNvn6Vk9+6nyW8/46/D34kqLvie9o11DZ8j+AAzbCiSQBvuX2uQd0EngMT69JZkbG2RcdKLtY4IB7zE;WoZ1n9ZgWz4I2Ab2Lah9fQ=="
 ---
 

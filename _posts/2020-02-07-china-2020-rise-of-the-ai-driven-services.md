@@ -71,19 +71,6 @@ related:
       - url: "https://media.philstar.com/photos/2020/02/07/kpop_2020-02-07_17-11-54414_thumbnail.jpg"
         width: 686
         height: 392
-  - title: "Researchers discuss use of artificial intelligence in government agencies"
-    excerpt: "Professor Daniel Ho discusses the use of artificial intelligence by government agencies Monday afternoon. (Photo: EMMA TALLEY / The Stanford Daily) By Emma Talley a few seconds ago Almost half of “important” American government agencies have ..."
-    publishedDateTime: 2020-02-04T07:40:00Z
-    webUrl: "https://www.stanforddaily.com/2020/02/03/researchers-discuss-use-of-artificial-intelligence-in-government-agencies/"
-    type: article
-    provider:
-      name: Stanford Daily
-      domain: stanforddaily.com
-    quality: 36
-    images:
-      - url: "https://wp.stanforddaily.com/wp-content/uploads/2020/02/AI.Gov_.jpg"
-        width: 480
-        height: 640
 
 secured: "b8Hlr6p/kLXC+w2OtWu/LDMrb9xaxMr8II/e2sWEowPM7T+a6ldF4U7H5TOpXOrPBXdMUqItz7ZGvWPyjTetKrB0UAdx1/Q2Di07arRdu3uUW5faL6b0dqiE9OWb3cGkO+QiApkKfiLREv0jaIlTD8QR/oqw5g98kSomK6fvDD7lWftaJP0kGys0jbOG52vyDnsR/VDKu8FA8RJorAIc+y3ryJcYN9YLvIAuRolfODI8pi+LdfPYTk9vJotDm7fqx+fnF6WwJC91DmocFvCBT/ywPwCiPoWwFbV+KyPcISb4G6nWZP0hSgnB4AL73H2K;yChN0c5AOoyAN4tKD/VFJQ=="
 ---

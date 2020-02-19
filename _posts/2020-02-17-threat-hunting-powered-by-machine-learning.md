@@ -23,6 +23,17 @@ images:
     height: 866
     title: "Threat Hunting Powered by Machine Learning"
 
+related:
+  - title: "Hyland acquires blockchain-credentialing provider Learning Machine"
+    excerpt: "CLEVELAND, Feb. 19, 2020 /PRNewswire/ -- Hyland, a leading content services provider, announced its acquisition of Learning Machine, an innovator in blockchain-anchored digital credentialing solutions. The acquisition was effective February 1, 2020. Learning Machine is a pioneer in leveraging blockchain technology to authenticate documents and ..."
+    publishedDateTime: 2020-02-19T00:00:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/hyland-acquires-blockchain-credentialing-provider-learning-machine-8528534"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 19
+
 secured: "slz6XSC47bBjTUhJDgIHtMYB82r7Mq2d6/w9VfT2V5vQEyiIEDIc2rDP73aQRlGdTbUgjAy19bGShe5Ei8lKnuTM604yGj2QALAlTNs/W8+ZujlKZT2H4dHMML5tiWw/gm0l5rSAXDWxW8yLz/pl/l+4kA0V6u1Xvn18FiGF3H0He3O7r0iy9v2KRIE2LQhzeR1MF1W55Xt/oN5QRFK5Y8Zw3uD6EPJsbYvreLY4DDbeegDfE8gK6oADJGnM0HKpxlqCO42gHO36Vs/NDREpVI5zXQqWchVe8E4gU8c5hQxiUZBXb7307Tc20z0TA1oEegn3qm7SavxU8HE59junCplu0C+mQPlojIhFal2gb4h+glbqLpKPTYWe1BqHvF09sbxiW7DbqeHKhDfKBaBLcEaRClbJ3Mc7Mzh6NlyGH9cpSpWL9BCQ5igvOuN/zxlxcEyBfh3tR+E4B4SroASXKiqwUdHRs9BG60/3TqlrQTs=;gjhUH4mFvuoSDCPD8ZN7sA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T05:54:00Z
 webUrl: "https://www.cmo.com.au/mediareleases/38213/machine-learning-market-garner-valuation-us-768/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -26,20 +26,16 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market Size Worth $390.9 Billion by 2025: Grand View Research, Inc."
-    excerpt: "Improved image recognition technology is critical in enhanced drones, self-driving cars, and robotics. Key suggestions from the report ... Inc.; Zebra Medical Vision, Inc.; Baidu, Inc.; H2O ai; IBM Watson Health; NVIDIA; Enlitic, Inc.; Google, Inc.; Intel Corporation; and Microsoft Corporation. Read 100 page research report with ToC on ..."
-    publishedDateTime: 2020-02-05T08:40:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48774387-artificial-intelligence-market-size-worth-dollar-390-9-billion-by-2025-grand-view-research-inc-008.htm"
+    quality: 14
+  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
+    publishedDateTime: 2020-02-05T15:33:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 9
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "NbLgS766aONWi4QuKbfK/zfViQMLlDto19B0H2PdepJxzMpwArNOx7IFLPnTPh78sIcmeJTV4zCJfJ0/VvhY1e0d3UB4s6SgDkc5Cb0jKyfvdzbTwx9cWNbCUsPvvnEb+QhLHu3pI9yMR6xlO5XjJn5QSPQQLJtRxm51exJ2+9A9Bl5eC4l9P437tWmzq1DvDv+LtDcSSSRupG65zLi0YorYsg6Lcw3CRcutnPc7EPblEV1h2d5zDSeU5y/o/Y4fmMK7/wE4eJjuXuTWH2zmmCgqJ+onmsOdEb9YrlgOTFDzrNDvPJaszAIuRMk2j1VX;PQ37db1hTDS23SvVler9WQ=="
 ---
