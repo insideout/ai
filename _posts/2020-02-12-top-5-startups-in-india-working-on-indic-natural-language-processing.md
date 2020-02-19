@@ -23,6 +23,17 @@ images:
     height: 528
     title: "Top 5 Startups In India Working On Indic Natural Language Processing"
 
+related:
+  - title: "Machine Learning Market in India 2020"
+    excerpt: "transportation (especially airlines), and financial services companies operating in India. In 2018, this resulted in the creation of ~0.18 Mn to ~0.2 Mn new jobs, for professionals who have skills and expertise in machine learning applications. Now Get ..."
+    publishedDateTime: 2020-02-06T06:38:00Z
+    webUrl: "https://www.openpr.com/news/1920994/machine-learning-market-in-india-2020-with-top-key-players-like"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
+
 secured: "rjV5SzQD4g8OkXLiY0scSRfSEI4XUwEO7o61ctMOVda4hi6idYJ7PmzW7+Ovwjhjhwt5ql+oah6HoO8k49iIm9iwheDs8f71BjxgRmMz9CRZMxB9xGAr4aLOBdAChtbiRbT3t/TUpSp1l7qHlSl1tyu6YJnoWg5bJ8bMli2ylbqzHnrBuQtbPzEHFK3BiholkXCIAsq3BfItijebYsvK6+2XtmnQBjAP6lJV1mZVE2B2WYS0QVWT5XwaA93JZsPzw7+sZ7sq8iTkZ2E7WJEuoF9jYDPmaWjYuTE9wc3Wx7+oIvRFFLJQCRHCI/EFBJqt8k30Y438kmkISc3gT7vxAJrkGNyl3kt2426p+x8VsMny0KvgQIlNNe1Xt97wZDL/jZWUgnvgkhI6oror4esZZqU8YW+fgoAQjwDcC2Gk6gNxETSZ7Mvde03/ycz1tDbsovWOnTOl7OEyEDsRDLCz4iS3fC0Lw87bwi74r/1PBIU=;AJNHScLbFoXR627ny9sfGQ=="
 ---
 

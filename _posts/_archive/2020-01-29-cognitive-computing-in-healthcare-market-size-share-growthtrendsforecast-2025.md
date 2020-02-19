@@ -28,6 +28,6 @@ related:
       domain: openpr.com
     quality: 24
 
-secured: "ifu6RIgq2vuacpaiK15UheYStCh0TjfaL62ZsSVmTf/w9LL0a/jVgHIuY+TkjTog4eh/RdTbXSD/CQQyjT3pdPCApHHxGsB0sJD8Lp0svxfICszFx3TxNnaZpwGz/Kuwqsxb5C7ZIhB2tuXP2wD05YyJsmeS+HnzWXgFzsZUfBbSy8mq63p4BDw0NFBYKLLYER4PKYSoycNVxqPNJs0VN+ueN37bWPPb9GaKNSSVzx8RMnyBAS+euWoUzTLVFEGjs7vVeYr1WV75Q7UsZ1vvvILdG0OIT9VBE1zSjA4Crg8523jkqLoG8m8cdXwgv0bj;SYrjLxiVi2ObAvWX5uNaQg=="
+secured: "hXScC1re1xu/cayVx8uDMHlIv84Kgr2rKe7tVj0NJ27zSAMJLjOWp1OUigBPw5qKHRlB25T2g6MmtdAV/WMYL/jti+CaVw1orGMvrZb4DQT8yNlGdJQIYZ1bFTEJjJgdyF+LOhNNSguq7RkpjNyT5A/qLRse0y6q1FU8opaZfAYPBmaqZOEs2iIMMc+GIQPjS1HfexIEeMZWhqnOXyQp6vbDxg+o4yQ1FTJp0n/hVKyDlz1KjAmvW3LrD/dSm9b5Cki6eN+r18z6Lyk1MuKDOzAvtoDR+is9uoCPExPz5kymGPNl5dVEe++zzRXSOOsS;2T7dLgpc0q37ThqJaLPIOw=="
 ---
 

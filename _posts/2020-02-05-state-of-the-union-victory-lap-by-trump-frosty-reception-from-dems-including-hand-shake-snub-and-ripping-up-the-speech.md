@@ -69,17 +69,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/439becd3-a8b6-4905-9e68-0345d42ce01b-XXX__JH19686.JPG?auto=webp&crop=4821,2712,x0,y702&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "State of the Union: Trump Awards Rush Limbaugh Presidential Medal of Freedom, Nancy Pelosi Shreds Speech"
-    excerpt: "“And Rush, in recognition of all that you have done for our nation ... to position the last three years of his presidency as a step toward his “Make America Great Again” campaign. The president’s speech repeatedly struck upon themes of economic success, low unemployment rates, and job growth. “Our country is thriving and highly ..."
-    publishedDateTime: 2020-02-05T03:10:00Z
-    webUrl: "https://variety.com/2020/tv/news/state-of-the-union-president-donald-trump-2020-1203493246/"
-    ampWebUrl: "https://variety.com/2020/tv/news/state-of-the-union-president-donald-trump-2020-1203493246/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/tv/news/state-of-the-union-president-donald-trump-2020-1203493246/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 7
 
 secured: "JVUEWRIjO5d1NTUcA7dlCVSOPQP6u6denb5bqKKaiX+GWsho1EbKxiueLgrh/1bmLputpKXyL2UyuBTJMoVjs0j0hbo6Cu6gUofVjg/aaSs29UFeateaa8RTVO2qZeBW5u8HNCqRENU3UtO8lpqBGB/T8vtSQ9zB1LEWJhFrXm4HVYmxdkQp5O4CTrInxvSq+wwoXXBTcnI0iGh93rkwOI6pRApx1JxhMuwtM5yToazb067E7T4WetUfKzJx6t03PPMSi8sY6atidJq+UZpbG3TuVKOb0UuxhCiNUVy8KtEEulB6u6sBwLUPIFIedNWA;xAYvLCUNH1zHiCW1/8enOQ=="
 ---

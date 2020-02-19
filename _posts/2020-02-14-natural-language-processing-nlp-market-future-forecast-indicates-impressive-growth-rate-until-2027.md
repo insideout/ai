@@ -28,28 +28,15 @@ images:
     title: "Natural Language Processing (NLP) Market: Future Forecast Indicates Impressive Growth Rate until 2027"
 
 related:
-  - title: "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029"
-    excerpt: "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,"
-    publishedDateTime: 2020-02-14T05:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14"
+  - title: "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026"
+    excerpt: "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
+    publishedDateTime: 2020-02-14T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029"
-    excerpt: "Global Natural Language Processing Market, revenue was xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2029, with a CAGR of x.x% during 2019-2029. The report published by Prophecy Market Insights covers detailed segmentation as mentioned below - By Type: – Rule-Based – Statistical – Hybrid By Technologies: – Recognition – IVR – OCR – Speech Recognition – Text Processing – Pattern & Image Recognition Download Sample of This Strategic Report: https://www."
-    publishedDateTime: 2020-02-12T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-development-scenario-and-forecast-to-2029-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -67,19 +54,37 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Predictions for HPC in 2020"
-    excerpt: "AMD has agreements with cloud providers AWS and Azure to put its CPUs on their cloud platforms and promote the use of AMD CPUs for HPC. This interesting move reflects how a lot of our customers are now planning their next HPC cluster or supercomputer to include AMD in their infrastructure design to better support AI workflows. AMD had ..."
-    publishedDateTime: 2020-02-17T16:55:00Z
-    webUrl: "https://insidehpc.com/2020/02/predictions-for-hpc-in-2020/"
+  - title: "Automotive Artificial Intelligence Market is Expected to Grow at a CAGR of 41.0% to Reach $ 18.7 Billion by 2025 | Meticulous Research(R)"
+    excerpt: "Meticulous Research® – leading global market research company researching on market titled “Automotive Artificial Intelligence Market by Offering (Hardware, Software), Technology (Machine Learning, Deep Learning,"
+    publishedDateTime: 2020-02-19T14:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-410-to-reach-187-billion-by-2025-meticulous-researchr-2020-02-19"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 26
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/02/download.jpg"
-        width: 661
-        height: 661
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Automotive Artificial Intelligence Market"
+    excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
+    publishedDateTime: 2020-02-12T00:00:00Z
+    webUrl: "https://www.openpr.com/news/1929108/automotive-artificial-intelligence-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "North America Wearable AI Market Report 2020, Forecast to 2025 - Google, Microsoft and Apple are the Major Players"
+    excerpt: "/PRNewswire/ -- The \"North American Wearable AI Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The North American Wearable"
+    publishedDateTime: 2020-02-18T11:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/north-america-wearable-ai-market-report-2020-forecast-to-2025---google-microsoft-and-apple-are-the-major-players-301006457.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "NUYn01sK88I1h9xVGZswuaQI0DDf3oInC+56bSmPjI3ZGlLb9Muk2ZgjEhm15STx3Yvz/3HktcSSFI4qWqMDR03C9MZvOwntQhC8zqfsknbrB4P9ekaxLplri9JxeAF5FIaYGHOd8kgEeYh41UvAWmkT3AuSgTqCZ+RRYuUU0xSZ2N8f8MFmdhtCEZnAMMoCvGI7mH7/OkNY5wwAwMNULYfWE6ySLygeDIqgmnwH6oDmoN0x4jEgN1XPdjPmnDsQKXMqFedKM8MSdMEDQdXH4hzPh2peZxgMJx+j/Ro98F0z7jhi8+HsUV1LTnIxPsBJ;nlHeiaUxLi6zDVkOBFxo+Q=="
 ---

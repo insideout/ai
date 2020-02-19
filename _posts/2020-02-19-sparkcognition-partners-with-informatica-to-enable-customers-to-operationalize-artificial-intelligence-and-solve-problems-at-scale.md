@@ -1,27 +1,87 @@
 ---
 category: news
 title: "SparkCognition Partners with Informatica to Enable Customers to Operationalize Artificial Intelligence and Solve Problems at Scale"
-excerpt: "/PRNewswire/ -- SparkCognition, a leading AI company, announced a partnership with enterprise cloud data management company, Informatica, to transform the"
-publishedDateTime: 2020-02-19T14:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/sparkcognition-partners-with-informatica-to-enable-customers-to-operationalize-artificial-intelligence-and-solve-problems-at-scale-301007328.html"
+excerpt: "SparkCognition is the world's leading industrial artificial intelligence company, and its Darwin data science automation platform accelerates the creation of end-to-end AI solutions to deliver business-wide outcomes. The partnership will allow users to seamlessly discover data, pull their data from virtually anywhere using Informatica's data ..."
+publishedDateTime: 2020-02-19T14:50:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-partners-with-informatica-enable-customers-operationalize-artific-/2020/02/19/9100487.htm"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/516048/SparkCognition_Logo.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
     title: "SparkCognition Partners with Informatica to Enable Customers to Operationalize Artificial Intelligence and Solve Problems at Scale"
 
-secured: "5WQfXH/c3zagv1x6T3Yxsj5NyGvpX6g/8qRlj39hA4URkDU6JMg1Jj29/tLG/6c0Weg0Wq9+LpVxnLs5IuU47fxryGELSj9DNozQYMXnndJq6+hK6ZUtF6yydnXvyCy4QYWUG5XQ93V/uaMIn0DC1fhwg2tIAP+jWSTH1dSp3vb8B+gXnNPqE58F3QJa8PBlwz8u4GJZ36tX70boz3+UEgqAIgCg+vgWNyhgLmaQVEoWjOg3G0mqww0JVI/XfimNtnKY1IQLS/T6Q1gEx1McrYFx37vtRJANUFC3mqs1PfyQ/7pmK6SSKBYrZUZYjI87dCx7f5rn6vg4Pn0Z5Q1v5ailZsFYNNMk8wkxCfcTFDbPboQFITAxvmMcvOp6oVisULRcqRuuDPUUucwFA5FzeogMCaeJDqttdDiVODW0o2ntaP5wN6sj8nRUbAmq9ttzSXoZd7oYIMiTtPLD5SHKvG78reh5QOppFzR4PcphHIY=;aVmhJ+QxXAd4PGzhLcBOfQ=="
+related:
+  - title: "Microsoft’s new Dynamics 365 services apply AI to finance and project operations"
+    excerpt: "“Our continued investment in expanding AI capabilities across Dynamics 365 helps … organization[s] accelerate ... Customer Insights now plays nicely with Azure Synapse Analytics, allowing managers to run customer data through analytical processing pipelines and machine learning models. This in conjunction with prebuilt APIs that enable ..."
+    publishedDateTime: 2020-02-19T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/"
+    ampWebUrl: "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all"
+        width: 1200
+        height: 573
+  - title: "Aisera, an AI tool to help with customer service and internal operations, exits stealth with $50M"
+    excerpt: "There have been some efforts made to apply AI to solving different aspects of these particular use cases, but one of the issues has been that there are few solutions that sit above an organization’s software stack to work across everything that the organization uses, and does so in an “unsupervised” way — that is, uses AI to “learn ..."
+    publishedDateTime: 2020-02-18T17:15:00Z
+    webUrl: "https://techcrunch.com/2020/02/18/aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m/"
+    ampWebUrl: "https://techcrunch.com/2020/02/18/aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/18/aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-926526136.jpg?w=1024"
+        width: 1024
+        height: 658
+  - title: "Myntra partners with Microsoft Cloud to enhance customer experience"
+    excerpt: "By building and centralising its data platform on Azure, the company claims that it is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver personalised products, marketing and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on ..."
+    publishedDateTime: 2020-02-19T13:11:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/articleshow/74211461.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/amp_articleshow/74211461.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/myntra-partners-with-microsoft-cloud-to-enhance-customer-experience/amp_articleshow/74211461.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-74211467/74211467.jpg"
+        width: 1200
+        height: 900
+  - title: "Microsoft Adds More AI to Dynamics 365"
+    excerpt: "Microsoft is also enabling deeper insights between Customer Insights and Azure Synapse Analytics, which combines customer data with enterprise ... in the context of Dynamics 365 and quickly move from one lead or opportunity to the next in an AI-prioritized work queue, without needing to switch views to take the next-best action.\""
+    publishedDateTime: 2020-02-19T16:59:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=139328"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
+        width: 1200
+        height: 630
+
+secured: "1tC4l1RfDKsJSblsLZxuaBrz0OskQFVeLb3ZeEvMG8T8G/o9vQ2/aLzmjCgifLLGUy93LckVZfNn5+y49mpuwGnAgfcPtTozhpitXzkTg09QKNRERlyKFNkr8FQZuGfer2HvxzWVr4b3krWDJJ3MHRrfEEx5aSaarbSCL+Iaxs6879+5yeBcZ4W5ODWwsIKLMWLCYvIDF3xptVDOZI/8ePI7Kug7j8VrV+/lQ/xZgEvGExEJjG14j2KTBXpD5Z5/gmiO5psqHTBx5e4ULKGWm88BAjRrQzDpJF1QCaMaZRda0iqEb+KEzzKqc2vr7SvS;ZAuXNZ86D+cj9Kqp+lDgCA=="
 ---
 

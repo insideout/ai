@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-14T11:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,32 @@ images:
     title: "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026"
 
 related:
+  - title: "Natural Language Processing (NLP) Market: Future Forecast Indicates Impressive Growth Rate until 2027"
+    excerpt: "ARC added latest research on \"Natural Language Processing (NLP) Market Forecast to 2027\" to its huge collection of research reports database. Natural Language Processing (NLP) market on in-depth analysis market analysis size,"
+    publishedDateTime: 2020-02-14T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-future-forecast-indicates-impressive-growth-rate-until-2027-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Energy Market Size, Trend, Competitive Growth Overview and Forecast to 2025"
+    excerpt: "The Global Artificial Intelligence In Energy Market 2019 research provides a basic overview of the industry including definitions, classifications, applications, and industry chain structure. The Global Artificial Intelligence In Energy market analysis is provided for the international markets including development trends,"
+    publishedDateTime: 2020-02-19T10:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-trend-competitive-growth-overview-and-forecast-to-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence Market is Expected to Grow at a CAGR of 41.0% to Reach $ 18.7 Billion by 2025 | Meticulous Research(R)"
     excerpt: "Meticulous Research® – leading global market research company researching on market titled “Automotive Artificial Intelligence Market by Offering (Hardware, Software), Technology (Machine Learning, Deep Learning,"
     publishedDateTime: 2020-02-19T14:47:00Z

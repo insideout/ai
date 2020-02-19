@@ -49,6 +49,19 @@ related:
       - url: "https://images.livemint.com/img/2020/02/17/600x338/2020-01-30T114805Z_148678691_RC2BQE9Y9Q8L_RTRMADP_3_EU-ANTITRUST_1581912675356_1581912712630.JPG"
         width: 600
         height: 338
+  - title: "EU Unveils Plans to Regulate Artificial Intelligence"
+    excerpt: "Margrethe Vestager, the EU’s digital policy chief, unveiled a strategy for artificial intelligence on Wednesday that aims to boost the use of AI in Europe while addressing concerns about data privacy. “We want every citizen, every employee, every business to stand a fair chance to reap the benefits of digitalization,” she said in a statement."
+    publishedDateTime: 2020-02-19T18:32:00Z
+    webUrl: "https://www.law.com/international-edition/2020/02/19/eu-unveils-plans-to-regulate-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2019/04/Artificial-Intelligence-Article-201904091050.jpg"
+        width: 620
+        height: 372
 
 secured: "cIS/hLDLxKUeS79E+7ayFn00rJ81zmFXIRe0psys00wKkCtnudX29U/t+k3reJRH7Zg7eQvCaqk+a8nNwyt2cNWmgcDsO+5JWyNjH93cuyG9C4T0CssHGPtzB8+V+tQlD2jUFJddu+wi2jVRaohGIGJ346QSqsvbZ1uKOgZJ3dradoFDTo6X1+hka64KXiFXMNL5Y18xHNviEUnGgyKh5xVIKCppskAHOMvUXWIN6DatY2ZDG+c3B46lKXgf7aEhRmb8L5G36V2Ms7svM8buTZ0UX0dV2FRkA7HHoZnKmGRmJugXiqBRpPRauns56vqhUbvlgj5RUdHs6xmfPz0ABYzX5+a4eLNwZXhdThFDszdQGAF79HDYJXbdi9p/Kidm/7vGEgwwxPR7hXd37L2mDum/j/mt1rXXOCD9QzaxKBPtjF1W2PiT9ilhik2pE9RnuSiS5IRnEVRzbYmtcGqR8ewUoiuHTqHATJMM7ytyxxI=;nXfxSQApdkO63nxw5/UlPQ=="
 ---

@@ -1,43 +1,43 @@
 ---
 category: news
 title: "Canon Medical Receives FDA Clearance for Aquilion ONE / PRISM Edition, Enabling Deep Learning Spectral Capabilities for Routine Use"
-excerpt: "Canon Medical Systems USA, Inc. has received 510(k) clearance for the Aquilion ONE / PRISM Edition, enabling Deep Learning Spectral capabilities that allow for more routine spectral imaging. Designed for deep intelligence, the advanced system integrates artificial intelligence (AI) technology to maximize conventional and spectral CT ..."
-publishedDateTime: 2020-02-19T14:50:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-canon-medical-receives-fda-clearance-aquilion-one-prism-/2020/02/19/9100500.htm"
+excerpt: "TUSTIN, Calif.--(BUSINESS WIRE)--Canon Medical Systems USA, Inc. has received 510(k) clearance for the Aquilion ONE / PRISM Edition, enabling Deep Learning Spectral capabilities that allow for more routine spectral imaging. Designed for deep intelligence, the advanced system integrates artificial intelligence (AI) technology to maximize ..."
+publishedDateTime: 2020-02-19T14:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200219005323/en/Canon-Medical-Receives-FDA-Clearance-Aquilion-PRISM"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
+  - url: "https://mms.businesswire.com/media/20200219005323/en/706033/23/3724089_3724081_Canon_Medical_Systems_Corpration_USA_Red_logo_RGB.jpg"
+    width: 1200
+    height: 627
     title: "Canon Medical Receives FDA Clearance for Aquilion ONE / PRISM Edition, Enabling Deep Learning Spectral Capabilities for Routine Use"
 
 related:
-  - title: "Machine Learning Algorithms for Predicting the Recurrence of Stage IV Colorectal Cancer After Tumor Resection"
-    excerpt: "The aim of this study is to explore the feasibility of using machine learning (ML) technology to predict postoperative recurrence risk among stage IV colorectal cancer patients. Four basic ML algorithms were used for prediction—logistic regression, decision tree, GradientBoosting and lightGBM. The research samples were randomly divided into a ..."
-    publishedDateTime: 2020-02-13T10:10:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-59115-y"
+  - title: "JetPatch 4.0 Now Accelerates Vulnerability Remediation with Predictive Machine Learning"
+    excerpt: "BOSTON--(BUSINESS WIRE)--JetPatch, a next-generation vulnerability remediation cloud platform, today released JetPatch 4.0, which adds machine learning and intelligent workflow automation capabilities to ensure that an organization’s systems are appropriately patched. This latest release minimizes the time it takes to remediate a ..."
+    publishedDateTime: 2020-02-18T15:10:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200218005249/en/JetPatch-4.0-Accelerates-Vulnerability-Remediation-Predictive-Machine"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 20
+      name: Business Wire
+      domain: businesswire.com
+    quality: 31
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59115-y/MediaObjects/41598_2020_59115_Fig1_HTML.png"
-        width: 640
-        height: 685
+      - url: "https://mms.businesswire.com/media/20200218005249/en/773936/23/JetPatch_Logo.jpg"
+        width: 1200
+        height: 627
 
-secured: "Y4xzw6pMbUsTa4QXPWtcbMO0QOWGWzqV/xwn6/aJQ1juJKNnsticxTwJzI9WjQIdM/4XUGGuboiBIfez775OxJHK7tj1ppRQqJa3lq+n4oZ2fFdETmj15ZPD9Tcm5QjPCZLc6Jb2PpLaHsP8a5rXSFE0RQlNyj3HGpa7QMYXlzXZ+zD6swQvw1vRKB8FvYr7N+fzmYwSz2GpTCS4nAp2Ov/WGoo4Z7u04L0HeO4DdiPirO+NY3Jnq1CRc/JCRTXvJ+z/P1zOTBrIPXeabLiNC0pJqkalWoYz6RVRMorREtLaOjivbVuIb8tR6jrpLJb5;Mi4adQCBIZ49hdCUZRN98w=="
+secured: "co43uiHSYo8ZtJxMio3fcuhwaEQRFS0K6Sk/fSqq5IhXBzb8/XJWbmegQQDBY+egQih0SwZZsiWW3ScmEUWfF+D6xJ9LLvx8gLab4N5Ja8aFJAgNKDBpekEe31O5V0QWgbxUZWucEP5p5BaF8nHynVwo/ynZLj4OVuA5V+5gZUHNUqN4AtsbN1jxCGkLChPBu0/W9i6ER+2KrzKLsBppo9dY2ii/Du6E3Ry83YkpXDI428n0+bV1bxmdHvhonprOREAjcV+6rfbmV5rgMEAGAK14cKTDEWnGUi90557ilHmXKnikkw+f7yL91BEo1fkF;ltUGHSMD4sbe+e2Pvhqeuw=="
 ---
 

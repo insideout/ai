@@ -37,6 +37,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Automotive Market Opportunities, Share And Forecast 2020-2026"
+    excerpt: "The Artificial Intelligence (AI) In Automotive Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence (AI) In Automotive Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-opportunities-share-and-forecast-2020-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
   - title: "Artificial Intelligence (AI) In Fintech Market Size, Share 2020, Growth Outlook – Microsoft, Google, IBM, Amazon Web Services, IPsoft"
     excerpt: "Global Artificial Intelligence (AI) In Fintech Market is a comprehensive report which provides a detailed overview of the major driver, opportunities, challenges, current market trends and strategies impacting the global Artificial Intelligence (AI) In Fintech market in conjunction with calculation and forecast of size,"
     publishedDateTime: 2020-02-11T08:08:00Z
@@ -59,15 +68,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
-    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
-    publishedDateTime: 2020-02-11T11:51:00Z
-    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "KsnE1r6HyR3bFtIYWls7WJVIeqzXD+69t607p2OepTHokRf8LFjRnifFCdBp2RJwTqMF+qkreNFROkom4b16ELjARi4SSHUlX7jOVw+L7kkFCwvIP2mfulAnMIIqBbaXctugceb3xCV2Nz/smKRPhcLR1lfxXc2jQw9BiJRN6baaY4IHp6yU9egBuEn/4DyFhPeEcV0zxVB5WQe6NOMtZWI+0XVhdMXpJnaz9ZDSCrwJOkUlR/MfNyEQiJmJeHjAsdOI8dkOSPQwVylBGOQsO0dZubRbbfwAXC+v9b//gROcDroJPaFwBG3NEHdh2z6l;R1XzpejewAeHg29M6g7iFQ=="
 ---

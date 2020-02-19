@@ -18,9 +18,9 @@ topics:
   - AI in Finance
 
 images:
-  - url: "http://www.businesswire.com/images/bwlogo_square.png"
-    width: 560
-    height: 560
+  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
+    width: 600
+    height: 300
     title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
 related:
@@ -53,6 +53,6 @@ related:
         width: 914
         height: 611
 
-secured: "kPSHv2vP6RcIfnTZVg48pFCwGg7qcES8Ru+opXWuwcVhT5whmOGgsG+kKdwfU/4DNAr1+E28WD1Xo6rxja2TLYrBdUlrBsXB9Efhc2GuDAXxnnqJiLdQBrRdNee1lh1LW1S4DQP4TBDZhzK8P9LQnT0fT/HPzhohIelzLT5SAdZoyb1bYOvatR/8l2+Jp9RKc6Y8wYAkS+F0jQWzW8/pxDF59cljK0Uc+ajeEpQufav5xcmQk4PQ2EFyiFBiMSkljlBaIt2gjSt6KXEbcyn3i+QYxBWkXUABRBqk3F1URYKxW0HJRh8SVU9CeKxF730a;tRtWLVg2OADO4NHIMWmWcA=="
+secured: "Exx+/n+GJY1KVztCa/KwDidaKbe19WcNjWbFWbfSI4Vj7+B2P9JUK4FOvDjcu3k1UkDa4ZVxzw7g71KMcGUNjdgz3SKwHap5xXAAXo1fY4mZSFmLyc3slfsz0rXVDhHXMIs/x/0bWmNHnbu6hfn14xpyXZLEJ7sPUpSLAqn/sjML6u7rIzaXltRYgHljMpTxIMw1U3itLPxDKaZyuw5l4xE5aaOFcpeODY8FiyrMDyuE7y53boS+Sq2Xr+Td8yBZncPw0bv3te26++rpM22cjE8ahTP1YnciTrEWaeulklYOXwMeMfY4wSooBiBmOK7Y;23SZUn0UbQ7lPVYczr6Wjw=="
 ---
 

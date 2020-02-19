@@ -69,6 +69,19 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
         width: 1200
         height: 630
+  - title: "SparkCognition Partners with Informatica to Enable Customers to Operationalize Artificial Intelligence and Solve Problems at Scale"
+    excerpt: "SparkCognition is the world's leading industrial artificial intelligence company, and its Darwin data science automation platform accelerates the creation of end-to-end AI solutions to deliver business-wide outcomes. The partnership will allow users to seamlessly discover data, pull their data from virtually anywhere using Informatica's data ..."
+    publishedDateTime: 2020-02-19T14:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-partners-with-informatica-enable-customers-operationalize-artific-/2020/02/19/9100487.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "kmvxG9LtfrPEKU6qsvD5pAnjx4ByeYPX8J3JRQxHd6ZK2xPAW+1YjbvbEnhMbkgxkSToN3OYv4HEPWwc/vhRSMyYt/etIjfpakyYeXxS7vHeCfdxloyRc6DzpFmU7U5j8wYDqABj2BnLFMNCxdyBEOVxWetA7k48yvNFDijU90hJELmyQPIZZwIvhBZdGE+zAtUR0hzdoTo5e1K2wxdt1OLcsxzsjsx0Uaf+i4x5qnKyaXOrIH1GMBGvIpCQowaqwMC4QrdQLMO8U0zdoTTfKv22/qB8J6hvyjjjFa1F2eX/sqy/bSwgyZpAlE6Axzx3ktmAd3dGi0IZw0XhLr5tC8IQk+4oG2iS1yhqHZEx7wsTKEYFhsr9Cr5ksTCjrgklG5+1ZYt082X6rlB2HPX7ORtJ2zthmy+36smTNCXnSQlm6ugSaK3DiIGoEWJB/mTAHfvl/xDGVn2ohGrjqrLmZ1w3cKKMpHhHdmBFqnFln6Y=;5gf0w31knMeJqnJykg9cYw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T08:29:00Z
 webUrl: "https://www.businesswire.com/news/home/20200219005066/en/Signal-AI-Introduces-Generation-Artificial-Intelligence-Launch"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -23,32 +23,19 @@ images:
     title: "Signal AI Introduces the Next Generation of Artificial Intelligence With the Launch of AIQ"
 
 related:
-  - title: "Fiverr Reimagines the Way AI and Human Intelligence Work Together With the Launch of Logo Maker"
-    excerpt: "NEW YORK--(BUSINESS WIRE)--Fiverr International Ltd. (NYSE: FVRR), the company that is changing how the world works together, today announced the launch of Fiverr Logo Maker, bringing the power of artificial intelligence to Fiverr’s best creative talent. Fiverr sellers now have the opportunity to monetize their existing design portfolio by ..."
-    publishedDateTime: 2020-02-13T13:37:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200213005155/en/Fiverr-Reimagines-AI-Human-Intelligence-Work-Launch"
+  - title: "Viz.ai Adds Next Generation Functionality to Artificial Intelligence Stroke Platform"
+    excerpt: "Viz.ai, the leader in applied artificial intelligence in healthcare, today launched the next generation of its synchronized care platform for stroke. Viz.ai incorporates cutting edge artificial intelligence with HIPAA-compliant communication to allow stroke teams to quickly and efficiently triage patients to time-sensitive care with the aim of ..."
+    publishedDateTime: 2020-02-19T19:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vizai-adds-next-generation-functionality-artificial-intelligence-stroke-/2020/02/19/9100761.htm"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 47
     images:
-      - url: "https://mms.businesswire.com/media/20200213005155/en/773230/23/LogoMaker-Press-Page.jpg"
-        width: 1200
-        height: 627
-  - title: "trinamiX Announces the Next-generation of Facial Recognition for Upcoming Mobile Devices Powered by Qualcomm Snapdragon Mobile Platforms"
-    excerpt: "/PRNewswire/ -- trinamiX GmbH, a leader in 3D imaging and infrared sensing technologies, today announced it has joined the Qualcomm Software"
-    publishedDateTime: 2020-02-19T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/trinamix-announces-the-next-generation-of-facial-recognition-for-upcoming-mobile-devices-powered-by-qualcomm-snapdragon-mobile-platforms-301007388.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 6
-    images:
-      - url: "https://mma.prnewswire.com/media/1092342/TrinamiX_Features_2D_3D_Skin_Detection.jpg?p=facebook"
-        width: 1562
-        height: 818
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "PhZI5x3A1nzDTk5pZUJHDpVzl46kwT01D4/2pjhShAbXQmgb7kmiTomGXrrrLoYBaIEUQwhBvehc5Wm6yM53ZhGX4Z7rsCB2rjtQUGK2+rJ8G5nFxG3KTnhzWrOMEf8uedak7q2pa+GVGHO9ZBbz4VyCGcslyTTFiKEm0W0PM1pYcqs9bxgSnWLy+1gp1MCHj8ZPzLlXs63VTNP04NrIACJLEcNh6315x0dCCrFAPJLrlMCgCPsAqzhZSobtfyR/u4YAbz2J6XWDqofTU6rjHE3X7YbqL2nZcy9LIS0A3Grv8B0jrUJ2EquwsAH6Hc+t0HyCYyA/rjegEIdES2j9nm+2RJj4+OePsMqJVHXNDyoHs2/GHv4XhiUJeyPAiDvqW42VUK7D1K97GbXyI5SPpv+NwjDAcwVSBh4fCU1L9AKykmE+BVj4lQHqfjtV0eE7NvX83SNzbHtLsgQM1w3CC8TGJXt+et/uHOgSbPQ9R1Q=;SVyVvYzdGTCFS2o6mmZaMw=="
 ---

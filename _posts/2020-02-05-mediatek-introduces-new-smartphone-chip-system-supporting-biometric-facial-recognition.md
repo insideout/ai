@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T19:42:00Z
 webUrl: "https://www.biometricupdate.com/202002/mediatek-introduces-new-smartphone-chip-system-supporting-biometric-facial-recognition"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -24,28 +24,15 @@ images:
     title: "MediaTek introduces new smartphone chip system supporting biometric facial recognition"
 
 related:
-  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
-    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
-    publishedDateTime: 2020-02-10T20:50:00Z
-    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+  - title: "New North Korea smartphones feature AI, fingerprint, face and voice biometrics"
+    excerpt: "North Korea‘s next generation of Jindallae smartphones will integrate AI, text recognition and biometric facial, fingerprint and voice recognition, reports NK News. “Various types of ‘Jindallae’ smartphones, currently being developed and produced by Mangyongdae Information Technology Corporation, have been earning popularity since their ..."
+    publishedDateTime: 2020-02-05T20:06:00Z
+    webUrl: "https://www.biometricupdate.com/202002/north-korea-smartphones-feature-ai-fingerprint-face-and-voice-biometrics"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
-    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
-    publishedDateTime: 2020-02-05T18:29:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
 
 secured: "tnO6K3iSXp64BgQ98M8MfyMiLYdPs2wT+Zdk2xAzrhmybfRrDD9WCS+rrI86468j5hijZvOWpEsq2DO2dZNkxdJHdXqdejQz5rEA1Ab4+KzVpKTvK32wfjFMBK9grUIiBhE4yLWcCrZzMVWwrwkQ7qQuY2GkUYZhPxH2q8PR+6CdrI/tGE9bDfw5RPpn8AyuWteiSDzP2MBkTFCCLXtq/WDsWQvKItfZpwJ4CG2rsXgLyU/8EhqH/TUs4CdkgnUAW9aFkwDccL7Rfz/zjSF+V4GosM9+lSPJTHRuF5rXbjzbaqUOeVVSGUwNsP/d87JAOErrrTbljOnsY7gbIvneHOTsSkXUfIWGb2bDsd/uIL2RPq+uzkJz7ECjkn23V5Npy7gmbPW1xmxsrRz1V0me54nGtQInRy9yTQNxRTy/U7ZiA7K9B/2NKlc2UQNW3BJlaYwAVYTs8P/1jPf9gyU6K/IsCOcrSfyplNkamauUymA=;l10C3DBpLzT24N+CnNAAZA=="
 ---

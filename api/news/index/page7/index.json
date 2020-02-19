@@ -184,7 +184,7 @@
       "path": "_posts/2020-02-18-elon-musk-everyone-developing-ai-must-be-regulated-even-tesla.md",
       "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
       "excerpt": "Elon Musk wants every organization developing advanced AI to be regulated ... and collaboration.” Judging by his reply to Hao on Twitter, Musk shares the sentiment. OpenAI was founded in 2015 as a non-profit, but last year announced that it was restructuring “as a hybrid of a for-profit and nonprofit—which we are calling ...",
-      "heat": 237,
+      "heat": 247,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/02/18/elon-musk-everyone-developing-ai-must-be-regulated-even-tesla/",
@@ -662,7 +662,7 @@
       "path": "_posts/2020-02-18-how-ai-therapists-and-machine-learning-could-be-the-answer-to-affordable-mental-health-care.md",
       "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
       "excerpt": "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns.",
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18",
@@ -795,50 +795,6 @@
         "AI",
         "AI Ethics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-join-the-qa-with-top-speakers-at-tc-sessions-roboticsai-march-3.md",
-      "title": "Join the Q&A with top speakers at TC Sessions: Robotics+AI (March 3)",
-      "excerpt": "Over the past four years, TechCrunch has brought together some of the biggest names in robotics: founders, CEOs, VCs and researchers for TC Sessions: Robotics+AI. The show has provided a unique opportunity to explore the future and present of robotics, AI and the automation technologies that will define our professional and personal lives.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/18/join-the-qa-with-top-speakers-at-tc-sessions-roboticsai-march-3/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/18/join-the-qa-with-top-speakers-at-tc-sessions-roboticsai-march-3/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/18/join-the-qa-with-top-speakers-at-tc-sessions-roboticsai-march-3/amp/",
-      "publishedDateTime": "2020-02-18T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/QA-header.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "Join the Q&A with top speakers at TC Sessions: Robotics+AI (March 3)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1402,6 +1358,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-19-2020-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "Databricks is proud to announce that Gartner has named us a Leader in its 2020 Magic Quadrant for Data Science and Machine Learning Platforms. This is the third year in a row that Gartner has recognized Databricks in this Magic Quadrant. Gartner evaluated 17 vendors on the ability to execute and completeness of vision. Download your copy of ...",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/resources/198957/2020-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": "2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-19-5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities.md",
       "title": "5 Top-Ranked Tech Stocks to Gain From Advanced ML Capabilities",
       "excerpt": "Machine learning (ML) requires no introduction in this data-driven automation era. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
@@ -1613,6 +1614,51 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
+      "title": "Announcing the final agenda for Robotics + AI — March 3 at UC Berkeley",
+      "excerpt": "TechCrunch is returning to U.C. Berkeley on March 3 to bring together some of the most influential minds in robotics and artificial intelligence. Each year we strive to bring together a cross-section of big companies and exciting new startups, along with top researchers, VCs and thinkers. Alongside a selection of handpicked demos, we’ll also ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/amp/",
+      "publishedDateTime": "2020-02-19T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/robot_header_final.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Announcing the final agenda for Robotics + AI — March 3 at UC Berkeley",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -2125,43 +2171,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-01.md",
-      "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Stock Price Down 0.1%",
-      "excerpt": "Shares of iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) traded down 0.1% during trading on Monday . The company traded as low as $28.74 and last traded at $28.80, 26,336 shares changed hands during mid-day trading. A decline of 33% from the average session volume of 39,142 shares. The stock had previously closed at $28.84.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.modernreaders.com/news/2020/02/19/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-0-1.html",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/02/19/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-0-1.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/02/19/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-0-1.html/amp",
-      "publishedDateTime": "2020-02-19T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Stock Price Down 0.1%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

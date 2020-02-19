@@ -17,6 +17,17 @@ topics:
   - AI
   - AI in Autos
 
+related:
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
+    publishedDateTime: 2020-02-06T12:07:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+
 secured: "BBRGAd4DepHnnSOicLnQ7pPC4G2VH+shQZsHvTCg+NJi1nAJljE0hL6AyPNWlgWgpS2ZZxZbx///Rm/khsW9onWYM7WQIaBBzrJ2W8Klx10MTKdTaNdF0SJ9Y/cjA+xpEX0UUe2KTMJXVMQ0lX+alt3wfsd9gMxDCccQu8BOBezU9H8ReRtJEnaJtGFiCqDAMgMwRW4fxgbIofUT2K1HgoQkQMTV3RNvHD/l9hQTY6gjuLw+ccvfvZB34uF0kYlMNLGXzl7aIGEeIkdKiPPRQq28rUpuhIR75f0r/52yOVIuMf0YVgV+lCglAwCMdACz;6fbmGM19Tt4MEEaCBd15KA=="
 ---
 

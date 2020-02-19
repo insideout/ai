@@ -8,7 +8,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-5
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -63,6 +63,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "Would you tell secrets to Alexa or Siri? How AI therapists could save you time and money on mental health care"
+    excerpt: "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns."
+    publishedDateTime: 2020-02-19T17:27:00Z
+    webUrl: "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-IA504_depres_MG_20200219114711.jpg"
+        width: 569
+        height: 398
 
 secured: "1FJvKdg1slKGG2K0/MxEDG0QjwJfX1AQSsicSpuEkWUiGF+h3h+VCczY3RJCNkAjp4OK9BVpAjeh2hm17n/RWoJ+ZK+rhROURFC0dbt8RrT46klWW0fZYMNqQOlS6YG0AzCnu6ppboMjHBITKLVVrTHFvEhiggtU0w8N8o1M6iobN5zRYzKtzPqPIoZTnN5fsMb47hpkbf0U3va0bSJWBpEQd9hEqgHfdMBXKPASe4n6QjaCrwvM6R3PvmiF4Mi4iLfRcGtHv+TCrkqJgRnNGszq/IOo6lIsxGGO3G+5m/GV5eT2Mk7QkZbCD3hKfN89r1Qyoc4mDoXsJPSVXITOFOpQcITyGixbS0mPtsvSzRxQTYsimThQERNl0IirqHFyZeXIyiRsk1NL9KaQz1mT5LfGiU4cPCt07Zu6X4tPccS2li5OSkPzLPpqW9CGur6tKsThLLrQG/4P1+kD6Y9Unf1y6oz/w+NqGJvfUX8B4DE=;2aziXzD/6MHZmYtyMdTH9g=="
 ---

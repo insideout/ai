@@ -61,6 +61,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "Would you tell secrets to Alexa or Siri? How AI therapists could save you time and money on mental health care"
+    excerpt: "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns."
+    publishedDateTime: 2020-02-19T17:27:00Z
+    webUrl: "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-IA504_depres_MG_20200219114711.jpg"
+        width: 569
+        height: 398
 
 secured: "vLvHEvt4VITJ2xfdjqQWmWHv6NEBX5LBNHEGRF+9WAiAlpxh8Y/78tyAP0zGqEFNc0wcdy495m43DnQ6vXiRHgl/sNBbqhQHuJVM4lzSIp3ActrXmWddyeBrMnufxcloPv1HrCdJZaNW4H2IeaniLli1VHraQnnahXZa94QyvyDgcEIBOIJpXO1EnHeCUfdh2+bc77fKg72dEQd/jIAMmWlDi1epcJDWxqsHjRw95qp3pxSMaeGsdU1NHkXtcn2hJ+L+oERV+JqHvE9ALjhZS8G7yzxGT8y0dEeVh2cVntpkTgJ7EMgihnVIA0WeI/HxseBTw04eZPsXFpkT8xy2tBJ/pb2W+hkRYh+pU8n9GqW9Lc0+Qe7zhUwz1TRvS0TpoAOVILETeAgCbEqW2aeIYdA2G7gYZiPOL9RIyLkKuYfh6cJ82EhgbkX9DT4ANOKGVuczf2xJLtoWRJtBRsYvPP62yBG49FvXmAXE4Ii67Rs=;+voNqJ+dlCCQpxAJBu/5cg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-reco
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,26 +26,34 @@ images:
     title: "Speech and voice recognition tech market to soar to ₹210 crore by end of 2020"
 
 related:
-  - title: "Voice technology market is expected to register a 2.8X growth by 2022: WATConsult report"
-    excerpt: "Below are some of the key findings from the report: · Speech and voice recognition technology market stands at Rs. 149.95 Crore as of December 2019 · It is expected to grow at 40.47% to reach Rs. 210.63 Crore by the end of 2020 · 76% of the users are familiar with the speech and voice recognition technology · On an average, users are ..."
-    publishedDateTime: 2020-02-05T03:40:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/voice-technology-market-is-expected-to-register-a-2-8x-growth-by-2022-watconsult-report/73939347"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/voice-technology-market-is-expected-to-register-a-2-8x-growth-by-2022-watconsult-report/73939347"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/voice-technology-market-is-expected-to-register-a-2-8x-growth-by-2022-watconsult-report/73939347"
+  - title: "Best speech to text software in 2020: Free, paid and online voice recognition apps and services"
+    excerpt: "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Should you be looking for a business-grade dictation ..."
+    publishedDateTime: 2020-02-05T16:11:00Z
+    webUrl: "https://www.techradar.com/news/best-speech-to-text-app"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 15
-  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
-    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
-    publishedDateTime: 2020-02-06T12:07:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
+      name: TechRadar
+      domain: techradar.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/6s4wiJpNLiXjuTChGeH4X8-1200-80.jpg"
+        width: 970
+        height: 545
+  - title: "How to use voice recognition in Pokémon HOME"
+    excerpt: "Because you can use it from a mobile device, you can use it with voice recognition. You can’t use everything with voice recognition, though. Only a handful of features register with it, and you should know what they are because they will have a microphone next to them in your mobile application. For example, when you go into your Pokémon box ..."
+    publishedDateTime: 2020-02-12T10:16:00Z
+    webUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home"
+    ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
+    cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      name: Gaming Polls
+      domain: gamepur.com
+    quality: 44
+    images:
+      - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
+        width: 1200
+        height: 675
 
 secured: "dg1D4rUPi7M0oOkPGhlPCWx9xJ8gi1WqQREzYAiPd+q7Clti7Rs46xfUQTM9HCBcoqfy8NcvzxSI8Ku+Rb9CCaUfPjrp7aK0QX5pTjaNGXZwLVgRs3rtEbcwnXoN2xC7bRWy3mGpacK22jcPP1qYaY45DK8d76lKinX6N5UQjF3Ni6IqqV6Sb6nS5brTKLsCXEdWwpW4GrFgZIrM//kjXSyKpvWeTQyUjNWs/zizdUfOMJJ7PFaQakG3jaINRc3eddugqWoR4KeVZAytuhaYxrGBJRTg4VjkadSVEqU5aJXMFeLPhBoRf7IhvEF5FrW9dyNRSvQ7P2HI5sK5G4skbXW6gC200A9fCcj7z+nsxXwA6IuMr/2BKW70kNlHBWRjFBL6zCcgnl+PVScBA95zwy0xAlkENvDF9z3r31vxqKkhHU8nwNWhNHs0mXt1YGjHFO9ksRdhOmeH1avGbB/zYJnQZw6GbLyvL9/0S4NamzY=;d2+cudQr55XgW8X0NWyQdA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-servi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -73,6 +73,19 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
         width: 1200
         height: 630
+  - title: "SparkCognition Partners with Informatica to Enable Customers to Operationalize Artificial Intelligence and Solve Problems at Scale"
+    excerpt: "SparkCognition is the world's leading industrial artificial intelligence company, and its Darwin data science automation platform accelerates the creation of end-to-end AI solutions to deliver business-wide outcomes. The partnership will allow users to seamlessly discover data, pull their data from virtually anywhere using Informatica's data ..."
+    publishedDateTime: 2020-02-19T14:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-partners-with-informatica-enable-customers-operationalize-artific-/2020/02/19/9100487.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "1pVt3zN8Hr3dYwPs/26SzmzEsyLDea4oVUJFm/omaYCnlLv6S+R3L77ROrOsGeHYk4tJXcx/XdoL8qCxgjtNGeBNgceEOeKbquSJdt7SyS2FwGiSNUCH4X/BS+F3xJSF6T0dDi6RIrt78481IJIfCV/FhF7N4+sMgBc/Oz+tpcq6Njlspfi9bLVZj697MHmZ4aYjLGdgoLrsk/pIAPsRJ4bSyIThP5N1g4PvVJLHX609utkxkEMqjOe67Jt4QjDWPzy0zLw436SIEiTKxqRtP4/x7vXOx2lV8Ln3FgrVV5+oiVWC/pKjw1xMx+1twvSj+kp1w0OQ2vIAK3df0VjD6g5rU7gnBUJCqEzrYCLCVeT6HWKmeB5InxxIjwo5s+GpdtkX7dHsOGz0CPaC25J2YX2R5yvwTCz3fJb6yMU8lEy7jNLaEXN68JDYvUPgWBlXRC1hnx6gGAhRLKd0qPpOnhl+gJyAmpiauHsVyxopffA=;sznlq4oCKzy/JpF4DKMXjQ=="
 ---

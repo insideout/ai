@@ -2,6 +2,87 @@
   "page": 24,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-04-governments-ai-adviser-calls-for-crackdown-on-social-media-targeting.md",
+      "title": "Government’s AI adviser calls for crackdown on social media targeting",
+      "excerpt": "the government’s artificial intelligence (AI) adviser has warned. A report published today by the Centre for Data Ethics and Innovation (CDEI) called for tighter regulation of online targeting systems, which use personal information about users to decide which posts, videos and adverts to show them. An analysis of public attitudes towards ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/",
+      "ampWebUrl": "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/",
+      "publishedDateTime": "2020-02-04T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2020/02/1172808215.jpg",
+          "width": 1024,
+          "height": 659,
+          "title": "Government’s AI adviser calls for crackdown on social media targeting",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-instagram-reportedly-generated-20-billion-in-ad-revenue-in-2019-even-more-than-youtube.md",
+      "title": "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube",
+      "excerpt": "We finally know just how crucial Instagram is to the future of Facebook's business.",
+      "heat": 163,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2?amp",
+      "publishedDateTime": "2020-02-04T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5bb331f7ae84ee103c1c2e22?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-04-kaskada-raises-8-million-to-facilitate-ai-feature-engineering.md",
       "title": "Kaskada raises $8 million to facilitate AI feature engineering",
       "excerpt": "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform.",
@@ -630,6 +711,96 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-05-artificial-intelligence-robots-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report.md",
+      "title": "Artificial Intelligence Robots Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report",
+      "excerpt": "New York, February 05, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Robots Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-05-deep-learning-market-analysis-and-forecast-2026.md",
+      "title": "Deep Learning Market Analysis And Forecast 2026",
+      "excerpt": "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,",
+      "heat": 279,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Analysis And Forecast 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

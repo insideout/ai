@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-delivers-a-batter
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -57,6 +57,19 @@ related:
       - url: "https://news-media.stanford.edu/wp-content/uploads/2020/02/13134738/EVbattery1.jpg"
         width: 1500
         height: 1001
+  - title: "New machine learning method could supercharge battery development for electric vehicles"
+    excerpt: "But now, a team led by Stanford professors Stefano Ermon and William Chueh has developed a machine learning-based method that slashes these testing times by 98 percent. Although the group tested their method on battery charge speed, they said it can be applied to numerous other parts of the battery development pipeline and even to non-energy ..."
+    publishedDateTime: 2020-02-19T19:45:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/su-nml021920.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/224737_web.jpg"
+        width: 1440
+        height: 960
 
 secured: "t8X4kTNN9VgMu3oNhkaUUvGyc9mCXNjI+G0t0IFAbRGGuhbCnw+/Q0djgiIGYb3aGx98cFQiMeF/rdDmuUARmAscLokQKy6ZQ2IzSBKU92S6/meSchHqlTbXtpOkbDzqPJ55T3teqzhM8/rZCdJ6SQp2IgKyiIyfPnP7d6AM2prd22dX3FVVwIrebNI+g5h5NVrO1nYn9Z4B1yJbnKjEmbU89hkAMyKAc/pgkZeZhCM2UyWMghHgXECIDyKuHbKu0yWcx0DjzDv2MgeS6Iu2tjMPltRNZ6bzahU8gwZxZWYOqmI+Q2Y06pS3OnenvKQY0yVF6HkQGJ+nPDpKpFG10rU7U8c5sTPZlUL10JGd2xWxviLMsR1Yy2EXKaadH/IVQrcdDSn1k3/k2NSbTExTdjvm0XOWrOHHylv8ZDi5AXByQOD/afjGjZOM/Zmvy5mDLDvG3wQePtJIqgTkXrTjoF2KLTfv16p+EngqebW0nNw=;psfAYFx326/b+8i8QHg4TA=="
 ---

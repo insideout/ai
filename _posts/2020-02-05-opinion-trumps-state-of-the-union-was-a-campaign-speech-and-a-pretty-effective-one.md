@@ -8,7 +8,7 @@ ampWebUrl: "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-stat
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/439becd3-a8b6-4905-9e68-0345d42ce01b-XXX__JH19686.JPG?auto=webp&crop=4821,2712,x0,y702&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "State of the Union: Trump Awards Rush Limbaugh Presidential Medal of Freedom, Nancy Pelosi Shreds Speech"
-    excerpt: "“And Rush, in recognition of all that you have done for our nation ... to position the last three years of his presidency as a step toward his “Make America Great Again” campaign. The president’s speech repeatedly struck upon themes of economic success, low unemployment rates, and job growth. “Our country is thriving and highly ..."
-    publishedDateTime: 2020-02-05T03:10:00Z
-    webUrl: "https://variety.com/2020/tv/news/state-of-the-union-president-donald-trump-2020-1203493246/"
-    ampWebUrl: "https://variety.com/2020/tv/news/state-of-the-union-president-donald-trump-2020-1203493246/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/tv/news/state-of-the-union-president-donald-trump-2020-1203493246/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 7
   - title: "State of the Union: Victory lap by Trump; frosty reception from Dems (including hand-shake snub and ripping up the speech)"
     excerpt: "President Trump’s third State of the Union speech, under a cloud of impeachment ... including the presentation of the Presidential Medal of Freedom by first lady Melania Trump to conservative radio host Rush Limbaugh, and recognition of a 100-year-old Tuskeegee Airman, retired Brigadier General Charles McGee. >>Trump‘s friend in Palm ..."
     publishedDateTime: 2020-02-05T11:50:00Z

@@ -105,6 +105,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 37
+  - title: "Artificial-intelligence development should be regulated, says Elon Musk"
+    excerpt: "Regulators, rein us in: Tesla and SpaceX CEO Elon Musk has said development of advanced artificial intelligence, including AI created by his own companies, should be regulated. He tweeted the remark in response to an article published this week by MIT Technology Review about OpenAI (which Musk cofounded but has since left), describing how it ..."
+    publishedDateTime: 2020-02-19T19:06:00Z
+    webUrl: "https://www.technologyreview.com/f/615254/artificial-intelligence-development-should-be-regulated-says-elon-musk/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 22
+    images:
+      - url: "https://cdn.technologyreview.com/i/images/elon-musk-ap.jpg?sw=1200&cx=12&cy=8&cw=1988&ch=1119"
+        width: 1200
+        height: 675
 
 secured: "kQ+gu3CaRjx21DO5xtpHFDstJrFMPwV2gMkPWodkaXseH6II0sE+bgIW66DNk3OXfn3WphOVec1lReidQ1WmQoHT3K1+GfocsNkrdePgczFWkoWb+dSOyL/7/uDxGrnBEgkXuJsrwXsq99VsxoOggUIvuEe7QTi2ML2xyZxqhkpZVEGZXHd41TnSgdpjwhyWw0+MUhJfwZiiE+q6uF7TtaK1ihE91WDnF8655Pn5tSUpPREZB66xYMo1FtB7JFjCLCpuv/CYXKtJ+DUNanG+zrO4ZDjaD8PZuMlQh0FAZymLiP+TzaQ0lwbocjbY37wwkFJmslm4KXaTY9+Z/MFFqIo0zzEViBcPllSeALBBc035Xmtnprz0aQc0i1oMsPcOXpZnqJehEKs4bzYYMddOjrbi169rDe77y9lwzZqo8BeJ36L54IQbXjQNuqpASkoaRUPq42FfcNr/rRuSnIEDT1Y5nqepGm9ohfeITBGL0/U=;lALvuY24rz4ZrXoqcp677w=="
 ---

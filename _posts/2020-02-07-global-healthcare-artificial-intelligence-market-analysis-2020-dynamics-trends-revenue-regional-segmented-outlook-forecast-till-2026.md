@@ -119,19 +119,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Medicine Market, 2025- Global Market Projected to Reach USD18,119 million by 2025, Growing at a CAGR of 49.6%"
-    excerpt: "Artificial Intelligence in Medicine Market by Product Type (Hardware, Software, and Services), Technology (Deep Learning, Querying Method, Natural Language Processing, and Context Aware Processing), and Application (Drug Discovery & Repurposing,"
-    publishedDateTime: 2020-02-05T02:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medicine-market-2025--global-market-projected-to-reach-usd18119-million-by-2025-growing-at-a-cagr-of-496-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence Market Is Projected to Reach $390.9 Billion by 2025: Report"
     excerpt: "all of which have contributed to the swift uptake of artificial intelligence technology in end-use industries such as automotive and healthcare,” the release stated."
     publishedDateTime: 2020-02-13T01:42:00Z

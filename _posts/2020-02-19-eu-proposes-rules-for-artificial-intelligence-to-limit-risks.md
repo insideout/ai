@@ -1,7 +1,7 @@
 ---
 category: news
 title: "EU proposes rules for artificial intelligence to limit risks"
-excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije ... The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology."
+excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... The decision clears the way for the trial of Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud to start later this year for alleged war crimes and crimes against humanity ..."
 publishedDateTime: 2020-02-19T11:32:00Z
 webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
 ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
@@ -84,6 +84,21 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/34567-62480-000-lead-AI-xl.jpg"
         width: 870
         height: 485
+  - title: "European Union proposes data strategy and rules for artificial intelligence"
+    excerpt: "The European Union on Wednesday outlined the body's digital strategy and recommendations for regulating artificial intelligence and facial recognition."
+    publishedDateTime: 2020-02-19T18:54:00Z
+    webUrl: "https://thehill.com/policy/technology/483673-european-union-proposes-data-strategy-and-rules-for-artificial-intelligence"
+    ampWebUrl: "https://thehill.com/policy/technology/483673-european-union-proposes-data-strategy-and-rules-for-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/483673-european-union-proposes-data-strategy-and-rules-for-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: "https://thehill.com/sites/default/files/eu_europencommission_europeanunion_082418gn4_lead.jpg"
+        width: 980
+        height: 551
   - title: "Fear Of Big Brother Guides EU Rules On AI"
     excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI),"
     publishedDateTime: 2020-02-17T14:06:00Z
@@ -107,6 +122,6 @@ related:
       domain: hbs.edu
     quality: 17
 
-secured: "qShjsyyAHx69aWrP9CKZRWsZ7//QoBZCJEKq1daxwknjS5hUQJ7A7PqGl9MECYDRV5wROwsJDeedzmZPn3u/VL8N6/g5Wv21M1+9cRVFruuhSb9iEsKoNwkPt0KkJ7XHeC3Y/HqWi05C98n0SjSymu3nsh5bu/CPbhnUpn7J2B5SnoLy0a0WxkhXfzWGTjS8Dn77FKZ/OANK2lNL8spOEM9tWgwAyQPiWFmR1kj4sgkLLBmWV0kj3hTSts4+L0Wq0NBIVuM6ghDCrryaDj6ETtGqzHr4vYLKMGoGv0yRyqtGwbYZ60JL2Kb3BHKUzwg/;bSVPT9UP4X8I6l+rkPwEUA=="
+secured: "95PX8e9Ba7Rim9y1Za1p8K5XOOyvyLq7rYkwtDBpPlFoVXPyMPu2uVYYBBZiOOdxmIqmSaUPuuGLaD+Nzd6vvWAXX88wGt12vkBB1joMj9/xyiKA/TA92gMKoJrX1iOe9IBWcMeiBu/wEPbb8dLSAhpICi94P4hhHSDmfUc/Ycncy2sna/O9TlaWDtyA7MuBgNlGSjADZustoJvsX20h08TARYmy7/yI4Ek0BxUB2CvgmFmgA8K3a7QCWPT7U0RVZypE+N5GPHEXdTiOTvG/jiW9005K+PNSNCHFHKK6eykB08cK0dKDhmFdpaloQrV0;rmhJZJuy0dpFv2tjohxAWg=="
 ---
 

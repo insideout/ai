@@ -19,15 +19,33 @@ topics:
   - AI in Finance
 
 related:
-  - title: "SoC Forms Foundation of Smart Devices with LoRa IoT Connections"
-    excerpt: "The Ethos-U55 can be configured in a number of ways that run applications in parallel to the micro. Both platforms support popular ML frameworks. For example, the Cortex-M55 can run TensorFlow Lite models. Both will handle multiple models at the same time. A unified development tool chain allows models to target either platform. Expect to see ..."
-    publishedDateTime: 2020-02-11T21:40:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/iot/article/21122766/soc-forms-foundation-of-smart-devices-with-lora-iot-connections"
+  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application and Geography 2018 – 2027"
+    excerpt: "The report analyzes and forecasts the Machine Learning as a Service (MLaaS) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
+    publishedDateTime: 2020-02-06T10:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-and-geography-2018-2027-2020-02-06"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Natural Language Processing (NLP) Market By Type, Deployment Model, Technology, Vertical and Geography 2018 – 2027"
+    excerpt: "The report analyzes and forecasts the Natural Language Processing (NLP) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
+    publishedDateTime: 2020-02-06T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-by-type-deployment-model-technology-vertical-and-geography-2018-2027-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+  - title: "Machine Learning Market Garner Valuation US$ 76.8 Bn by 2026"
+    excerpt: "The global machine learning market value is expected to reach around US$ 76.8 Bn by 2026 and growing at a CAGR of around 40.1% over the forecast period 2019 to 2026. Machine learning is a subset of artificial intelligence. The concept has evolved from computational learning and pattern recognition in artificial intelligence. It explores the ..."
+    publishedDateTime: 2020-02-05T05:54:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38213/machine-learning-market-garner-valuation-us-768/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 19
 
 secured: "6FMJ4Y4oynBwf45KLeHnGgzEJ9Ki/1hcC0y485KpT1ZTQ1tSt2T0bqRwn8jqCKYHgRJ4B/g1FMMKQnc60yhLNZSCFLB4YiCCfQLmrVxBTHz1nvxopdxLUPDlVrGuD5oCx+3mU5y6AIhl/aB9CdnP9OowjIvIJeC0X7I26thHErAZ5tSE80uKPfknYRDVaqdJ6JWgndKhhT++hnTaBjYnOzy4q62zb7Fv5f0lXcxc7neYmHNjMLrR3OVgasjvQqm4ubnsPloDZ5uXDmLWPWPj78nXIhHzzQgOYG2n1ZMQ6KS1Tejg3RNAAL6lhZvgDQco;FH8nHtED8ZAkDpuDcJbWYw=="
 ---

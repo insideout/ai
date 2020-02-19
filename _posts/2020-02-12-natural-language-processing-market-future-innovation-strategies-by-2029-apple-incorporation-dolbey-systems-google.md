@@ -28,41 +28,32 @@ images:
     title: "Natural Language Processing Market Future Innovation Strategies by 2029 | Apple Incorporation, Dolbey Systems, Google"
 
 related:
-  - title: "Enterprise AI Market Statistics and Growth Prediction 2020 to 2025 | IBM Corporation, Oracle, HP"
-    excerpt: "Artificial Intelligence in recent years has moved on to become a key component for enterprise applications and has posed as an important factor for successful business strategies. With AI, enterprises are now able to achieve far more in quite less time."
-    publishedDateTime: 2020-02-06T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
+  - title: "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof"
+    excerpt: "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,"
+    publishedDateTime: 2020-02-06T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application and Geography 2018 – 2027"
-    excerpt: "The report analyzes and forecasts the Machine Learning as a Service (MLaaS) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
-    publishedDateTime: 2020-02-06T10:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-and-geography-2018-2027-2020-02-06"
+  - title: "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint"
+    excerpt: "The Natural Language Processing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
+    publishedDateTime: 2020-02-07T09:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-precise-outlook---apple-dolbey-systems-google-microsof-verint-2020-02-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
-  - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
-    publishedDateTime: 2020-02-07T11:27:00Z
-    webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
+    quality: 52
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "Vbu/G4h5uOY5SgkSbl00HJHL+kAD019W9G5DCmJ568cErAWsT2K5CiUurTC5SNrkzqMxMbKvWcEeIAcd7eAkK1XH2py6Y8I4r6Z0h9aFTZ5NeEgjdme9KN1lG81COdxBwXzQjEogL1RkL2iLG4Jvq5aMvsZkx0KeLlGTvcMI1GKRYUBxpFkyUY5R+ik4c1nS+Q5gx4N6X/KKgEWFNFWnHARAIm2Rz+9wjVhd50iCi0YIDLB9I1jGxjW/G4Tx8KzsCG6OdrFoRKMgYq+4jy3mPJ/r5BocN1hiSuiLh9sz3ITTpmdV36/KkGFJpC1mU5AN;HxtAFVM04FPEfbaT8rpgEA=="
 ---

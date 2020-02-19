@@ -53,7 +53,20 @@ related:
       - url: "https://news-media.stanford.edu/wp-content/uploads/2020/02/13134738/EVbattery1.jpg"
         width: 1500
         height: 1001
+  - title: "New machine learning method could supercharge battery development for electric vehicles"
+    excerpt: "But now, a team led by Stanford professors Stefano Ermon and William Chueh has developed a machine learning-based method that slashes these testing times by 98 percent. Although the group tested their method on battery charge speed, they said it can be applied to numerous other parts of the battery development pipeline and even to non-energy ..."
+    publishedDateTime: 2020-02-19T19:45:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/su-nml021920.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/224737_web.jpg"
+        width: 1440
+        height: 960
 
-secured: "zrblgTdiwxdEUTUk8l/b705sk5TNQrtI1P9PH9qZkzggxjXWn61DenMwIlhblpv8xSJxaLTKuj7GQqZWb5N0zh1+PCizTPYgAv0sMFbEYDmnmtBVoNMI0hISoW+b5VQziR5MXgGCDjAU3IMtQa17iGMNX3bSuisgyLPS+wtOtjFZEGKXpSTpyICIARqG/iH+VCMVjK/Eow4vdnGSBZNQGQrY3477fx+XCYrsxb0athXeHuMoYOLcC3a9u2sc1vhnCuriV9NWlpl7hc1k6B78c851ALlG83qkBUOdQ1hDJKfyxJKQdXx7bv5UX+Y5O49I;D2dnTF3WUauyvMc8a4jcog=="
+secured: "G6jWT6GU+AdJyxIe07cZVdTIYb5Wt/BRPfeuopvLBImcaShi4MCfdIIieGWpNyETN8nxwwJoZFUDoUTZcX7pos7m1KPQjJ0VdJBz0D8Bh1jYg8iRPLpiSYqGoclbaqq0PdY99/0pFPEaKB6Y5GRXZFtOcns7F3aKh4pgUm8CGoZQxc3XB0gcFrF9qH0S8zqi1vXmPOvzt5hzza5DaG/CYrE9l+HB446+gxkmnIbHUAbKI+QBSy69fjlp7Ss2OvQSbaemV8x1EAk+IBJnnKYd4CbI0FiZUCYJbHVljAoX6yT3lOKJR9RGOho4LxnQfJe1LNaqVPk4GC3T2fJImCfBj8epLrJvpWBhr7Zq5gxvn+KKoxIyiGVawC2JoilG2llpx3qbSFh6GCBVgkWpTO1nkyJV/0fxQw/i5SJFKJkqz0eyjFaeTHn1R6WJyJiHj7EhMzGidfNQYRKbvi6eQOXbABzmM2va72VWDG8Cu5NosrE=;qkboHP0ZUA27viSo7v5Xzw=="
 ---
 

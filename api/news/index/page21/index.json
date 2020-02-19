@@ -2,6 +2,87 @@
   "page": 21,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-29-googles-next-virtual-assistant-could-chat-your-ear-off-on-just-about-any-topic.md",
+      "title": "Google’s next virtual assistant could chat your ear off on just about any topic",
+      "excerpt": "Google today shared what it has been up to, and in a published paper, details a “human-like” chatbot called Meena that can “engage in conversation on any topic.” Meena, unlike its peers such as Google’s own Assistant ... virtual human. Google’s Meena likely won’t make it to your devices anytime soon. But it’s that clear in the ...",
+      "heat": 158,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp",
+      "publishedDateTime": "2020-01-29T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-here-are-the-7-biggest-fintech-trends-to-watch-in-2020-according-to-a-centana-growth-partners-exec.md",
+      "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
+      "excerpt": "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1",
+      "ampWebUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
+      "publishedDateTime": "2020-01-29T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5de57a1efd9db2771d15a925?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-29-house-ethics-committee-warns-lawmakers-against-posting-deepfakes.md",
       "title": "House ethics committee warns lawmakers against posting deepfakes",
       "excerpt": "The House Ethics Committee is advising lawmakers against posting manipulated videos and photos on their social media accounts, warning they could face repercussions for tweets and Facebook posts that",
@@ -2026,95 +2107,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-peta-wants-to-replace-punxsutawney-phil-with-an-animatronic-ai.md",
-      "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
-      "excerpt": "When we imagine the future of artificial intelligence, we tend to think of the technology making most human jobs obsolete. But if PETA has its way, an AI could also take over for the world's most famous groundhog, Punxsutawney Phil. In a letter signed by PETA founder and president Ingrid Newkirk, the organization calls on the Punxsutawney ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/30/peta-replace-punxsutawney-phil-with-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f4006f0-438b-11ea-bdef-51a7d251189a%26client%3Da1acac3e1b3290917d92%26signature%3D37fd7a74081041878e390c3019f83230b1221166&client=amp-blogside-v2&signature=9048b5352ceee474a101d8f7c499c40859254e35",
-          "width": 1200,
-          "height": 630,
-          "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-punxsutawney-phil-should-be-replaced-with-ai-groundhog-says-peta.md",
-      "title": "Punxsutawney Phil should be replaced with AI groundhog, says PETA",
-      "excerpt": "Instead, says the organization, Punxsutawney Phil should be replaced with an animatronic groundhog that uses AI to actually predict the weather. “Times change. Traditions evolve. It’s long overdue for Phil to be retired,” PETA president and founder Ingrid Newkirk, wrote in a letter to the The Punxsutawney Groundhog Club. “By creating an ...",
-      "heat": 179,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
-      "publishedDateTime": "2020-01-30T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/9HNbKTpxEfhl6QnFewwKN7aJ2Ug=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66218730/1092678740.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Punxsutawney Phil should be replaced with AI groundhog, says PETA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

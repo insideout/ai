@@ -26,6 +26,6 @@ images:
     height: 578
     title: "Europe unveils a new strategy for AI to show it is still a contender in the digital race"
 
-secured: "A6i1qLwns2034DjFYlcs845/K/mXyW7yVzuGauw1SM9cJThwokQIrL9qnSZqpOranZZyUw+EtuwLQEy6E71FZUnmSmQIeAH8J33IVjKOMi8PBAFHDIUa3Njah4ECNAvPupso8s5fW7w40BHjJZ1OBB3q1CizOLIjMJlF1oPizfGI3/FxHCPZCkIJmoWk0OLkYj68cwFkMARtnxPcdNS0WKZFm0y9uNAnrXZUxeAI19UaJviCU6TG8m81kKxUYJGNImDOzjy+8PfttI5Bwx9sfFLTduG1As/3W9f0jR69gmRYhdWDGKzDcaK5EioKuNf8;hf4RLBLXSg47FyAN3afJUw=="
+secured: "J4XBiPCCuX1uSDiRuVhzn/wW81rZdWIawE+f+YQbe1+Cc0RlOofTe8duhT7ecKwNvZUkE+Ppf8mR0VgiM1lXFYFgJwgaHwWHJJTMvqf3ojjf78zIyImCKX/HFdYjhgug/z+ZG1lB7puqZLvctRo/dP6hFz4UKnq3xALEExU3UYRQmTekvp/jD5Rc/rtowCYHW8L9vjSj664szkYvcJyTvuQOfqHPYkxJFqEOk/6aZusoqtYwJXI3XosaxmpoQnZ7MLX++rTWc5Vp002JRiGLTMPQug8jnufGLhgwO5DsmM8X6gCD5EvL1VuPSFcEiNvaGesCHKuBovJ5lKXqOsBSiHGWiL0hx9SHm1ttn9yI9jaYUeoGIYv8LL3K9onRrMNwG767GheojGS/BjjEce+5l8fYzBHG++MPsK4Ms2BXm5TyKDmaTuSrIcZYpUcIHlRn/6N/eQq2/cJvyp8tMk47vz9Q16NAqa+KtSrN5YssEW8=;Shekv3PMudroHeUnthok1Q=="
 ---
 
