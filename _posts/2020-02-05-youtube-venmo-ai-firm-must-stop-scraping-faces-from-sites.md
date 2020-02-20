@@ -118,32 +118,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 48
-  - title: "YouTube demands face recognition firm stop harvesting videos"
-    excerpt: "NEW YORK — YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny ..."
-    publishedDateTime: 2020-02-05T19:53:00Z
-    webUrl: "https://www.pressherald.com/2020/02/05/youtube-demands-face-recognition-firm-stop-harvesting-videos/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/multifiles.pressherald.com/uploads/sites/10/2020/02/Clearview-YouTube-Facial_Recognition_21500.jpg?fit=1000%2C667&#038;ssl=1"
-        width: 1000
-        height: 667
-  - title: "YouTube: Face recognition firm must stop harvesting videos"
-    excerpt: "NEW YORK -- YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following ..."
-    publishedDateTime: 2020-02-05T19:49:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781106"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 39
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
-        width: 992
-        height: 558
   - title: "YouTube: Face recognition firm must stop harvesting videos"
     excerpt: "YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI."
     publishedDateTime: 2020-02-06T03:38:00Z

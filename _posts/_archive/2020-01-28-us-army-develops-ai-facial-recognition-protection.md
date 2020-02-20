@@ -5,7 +5,7 @@ excerpt: "The US Army uses facial and object recognition technologies to train a
 publishedDateTime: 2020-01-28T09:26:00Z
 webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+    width: 620
+    height: 465
+    title: "US Army develops AI facial recognition protection"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -28,7 +34,11 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 81
+    quality: 101
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+        width: 1200
+        height: 763
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
     publishedDateTime: 2020-01-21T00:00:00Z
@@ -45,6 +55,6 @@ related:
         width: 446
         height: 300
 
-secured: "tCgqg0DdDclVG3jn9j+XYjI0UXYZ/62/2u4k1hVW8DtX54LWGiCYVdUzfRzgxCDLddUP/LGD6LXbVoUqwF07TC+UWG5vBSHXEJ9gkHh7gKc+NW/WPkahxTRqnWEa3XJRG2yX/sYWqf+e5Ho/62JbeR0C3VhXGv4Bl7hMEeOluBHQEbmaBdP3fapvDTZ3ar1gwEcjrVDF/hb6D3ttMg1qhYvP6Sqa9JCst0uJS2R7G7QziRZjYlV5sEY82f3qmKN5xYcz4J/aCWqgn6rwqd3SyfLpYhsB/AEkqp8RWhITc2R45C1dcXNrH7CA64WATDJg;xQJdvM+0c9LmuzuFy3844Q=="
+secured: "+7hNwvTmJX6hxxCjpBAyGiu5MJQ+OSCh6wjiaYkl/iswqMVLTbsVyK9V1RbPrC2gPBZ9OLy4kPwjyfY9n7GBhSHqSVT6v85NrK0AabKxzFgs3i9GwxDFpVwQemhXTo/taVlACuQziMkyjpuaUkrc37y6zLW+Dot1jpvG0pdKzegGG/FaV2QsGq5AzDVN1qH+7cPGtehAz8pd/VZyETzn3pePrBo+kPt6dN2KNOHW3lb/NLfe6K67Q10QdKSrKEvIg+VNF0cjsUQXMwun/G+Vm4G1ygP/rvUNVCyT1e7WXcNXcBTJyLJpfpCBBwssd4b7;e7a0AzqnfKOkLA3AaswrBQ=="
 ---
 

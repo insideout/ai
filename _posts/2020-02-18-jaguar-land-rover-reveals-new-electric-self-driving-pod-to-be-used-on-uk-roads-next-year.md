@@ -69,6 +69,19 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000563995434.jpg?strip=all&w=960&quality=100"
         width: 960
         height: 634
+  - title: "Jaguar Land Rover reveals self-driving transport pod"
+    excerpt: "Jaguar Land Rover, the UK’s largest automotive manufacturer, has revealed a new self-driving transport pod developed for cities and ready for an on-road pilot programme in the UK starting next year. Known as Project Vector, the vehicle is an autonomous platform with a design focus on maximising interior space and offering flexible body ..."
+    publishedDateTime: 2020-02-20T12:43:00Z
+    webUrl: "https://www.itweb.co.za/content/4r1ly7RbzdP7pmda"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 24
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/02/LandRover-Vector-3-2020.jpg"
+        width: 816
+        height: 459
   - title: "Jaguar Land Rover’s Project Vector is a self-driving pod that focuses on zero emissions/accidents"
     excerpt: "Joining the ranks of companies like Toyota, Honda, Volvo, Volkswagen, and many more, Jaguar Land Rover has unveiled its hitherto secret Project Vector, a self-driving pod that aims to usher the company into the future of mobility and achieve its goal of reaching Destination Zero. What is Destination Zero, you ask? “Jaguar Land Rover’s ..."
     publishedDateTime: 2020-02-19T14:57:00Z

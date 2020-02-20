@@ -3,9 +3,9 @@ category: news
 title: "Tape trick seen as showing hurdles for self-driving cars"
 excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
 publishedDateTime: 2020-02-20T07:50:00Z
-webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?latest"
+webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?business-national"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+    width: 340
+    height: 246
+    title: "Tape trick seen as showing hurdles for self-driving cars"
 
 related:
   - title: "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash"
@@ -180,6 +186,17 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Outrider Boasts $53M Funding Round For Self-Driving Freight Trucks"
+    excerpt: "Outrider wants to do for yard trucks what Waymo did for ridesharing, and what Einride did for trucking ... Founder and CEO Andrew Smith said that the logistics of operating a freight yard were complex and chaotic, and that the use of artificial intelligence had become a necessity to navigate the myriad of manual tasks available in such an ..."
+    publishedDateTime: 2020-02-20T09:33:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
   - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
     excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
     publishedDateTime: 2020-02-13T22:40:00Z
@@ -230,6 +247,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "r1BiZflsf18t+ncwH3WBkPjgRfJrQ6vK0Pz3+ZILRdAp9F7oK/tOVYiuqk9GBc208Up8bk5SI6rOXBYmeRJsUNHDptA+9Ia9lxt0ZpgpO6TZhYG8ri/mnVa+rK5qfol2jJSb4tXDRsK1uCUd1VTZXAT7Gx8axYOKaFHhUR42suVBcvwNHLEl69Y4+PI6buQqnGMO5pHNBUgbsylIpBG4OKz5WIB5zw6caTiAlQgxbwF+tQhxHcjksSAftrc6mIh5Zi8ZWSEBpZ1MAvaHkj3h63gSqHEGIbt0R1Z/wPQIxbBXB+zuupCDYlaWQBfZ6ISD;dROFJ7uZjRPQ9rNoU7viyw=="
+secured: "pSW4a2cNzdJzG6kzmr0raPXgm4qGCnDxcGeIHKm1iU2KJ4FkqtDEK36Jkgbga0gLUfVMX8aKkxCazSy7fEwV2c28JsJ18A695xAsvX4NYZE71CPcEVm+kB0IT0GXr/qr8uAQSnl1FR/OXEUgbtTjAcjL/wJFS9J1SQTyvtLBw/lhyu8VXYY/gekXdV9UDeegnkLfFVtlyPJM/ukR/Z6xoKXarPdSa4DuNHhiSxrOHDyjYsbvjBzgcngzPhMmr8BH7g5849TlNQmnYfK9CKGVnBpl5UjeDw8ulhm2yljmMAzaZmEzLJTofD4sFt6riN5d;sBn/can+OBrIMK1Yt3FWBA=="
 ---
 

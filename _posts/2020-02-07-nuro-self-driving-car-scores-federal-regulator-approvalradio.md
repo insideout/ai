@@ -175,6 +175,30 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Outrider Boasts $53M Funding Round For Self-Driving Freight Trucks"
+    excerpt: "Outrider wants to do for yard trucks what Waymo did for ridesharing, and what Einride did for trucking ... Founder and CEO Andrew Smith said that the logistics of operating a freight yard were complex and chaotic, and that the use of artificial intelligence had become a necessity to navigate the myriad of manual tasks available in such an ..."
+    publishedDateTime: 2020-02-20T09:33:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
+  - title: "Tape trick seen as showing hurdles for self-driving cars"
+    excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
+    publishedDateTime: 2020-02-20T07:50:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?business-national"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
   - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
     excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
     publishedDateTime: 2020-02-13T22:40:00Z
@@ -214,15 +238,6 @@ related:
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 4
-  - title: "Tape trick seen as showing hurdles for self-driving cars"
-    excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
-    publishedDateTime: 2020-02-20T07:50:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?latest"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
     quality: 4
   - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
     excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."

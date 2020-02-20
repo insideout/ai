@@ -41,21 +41,6 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg"
         width: 756
         height: 567
-  - title: "Uber gets permit to restart testing its self-driving cars in California"
-    excerpt: "Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona. The California Department of Motor Vehicles issued a permit on Wednesday to the company’s self-driving unit,"
-    publishedDateTime: 2020-02-05T19:31:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZZ2QG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486288485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG141VL"
-        width: 818
-        height: 545
   - title: "Nuro self-driving car gets US DOT's blessing"
     excerpt: "California-based Nuro has made history. Perhaps not the biggest splash, but in one small step for self-driving cars, Nuro's driverless R2 has received the first approved exemption from the US Department of Transportation. The exemption allows Nuro to operate its latest R2 self-driving car on public roads despite it having no human-driver controls."
     publishedDateTime: 2020-02-06T22:00:00Z
@@ -153,21 +138,6 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200205&Category=NEWS&ArtNo=200209273&Ref=AR"
         width: 2000
         height: 1460
-  - title: "Uber self-driving cars allowed back on California roads"
-    excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
-    publishedDateTime: 2020-02-05T19:34:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51393808"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51393808"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51393808"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 44
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C8A8/production/_110786315_ubergettyimages-605519896.jpg"
-        width: 1024
-        height: 576
   - title: "Uber Can Now Test Self-Driving Tech On California Roads"
     excerpt: "The company has been granted a permit by the California DMV. To recall, the tests were stopped after a self-driven car killed a pedestrian in 2018."
     publishedDateTime: 2020-02-06T13:54:00Z

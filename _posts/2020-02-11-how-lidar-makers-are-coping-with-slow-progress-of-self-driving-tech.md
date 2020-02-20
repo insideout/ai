@@ -37,36 +37,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024"
         width: 1024
         height: 576
-  - title: "Uber can resume testing its self-driving cars in California"
-    excerpt: "A newly issued permit has been granted nearly two years after a fatal crash in Arizona. Uber started scaling back its self-driving car tests after one of its vehicles hit and killed a pedestrian in March of 2018. While the company doesn't seem primed to unleash a fleet of autonomous cars, it has been granted a new permit to resume testing in ..."
-    publishedDateTime: 2020-02-05T18:47:00Z
-    webUrl: "https://www.engadget.com/2020/02/05/uber-self-driving-car-permit-california/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fb9771a10-4852-11ea-bff7-ef681d5d0ecb%26client%3Da1acac3e1b3290917d92%26signature%3D6155d16da62a23f3c23ff3c2df84de6c08108d5c&client=amp-blogside-v2&signature=229f519d801b555c87fa388a4059f2d145839f4c"
-        width: 600
-        height: 350
-  - title: "Uber's self-driving cars return home"
-    excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
-    publishedDateTime: 2020-02-05T18:36:00Z
-    webUrl: "https://mashable.com/article/uber-california-self-driving-permit/"
-    ampWebUrl: "https://mashable.com/article/uber-california-self-driving-permit.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/uber-california-self-driving-permit.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
-        width: 1200
-        height: 630
   - title: "Aptiv \"Self-Driving Vehicles\" Top 100,000 Rides In Las Vegas"
     excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
     publishedDateTime: 2020-02-11T11:05:00Z
@@ -153,21 +123,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
         width: 1024
         height: 705
-  - title: "Uber self-driving cars can be tested in California"
-    excerpt: "The California Department of Motor Vehicles on Wednesday added Uber to a list of companies with permits to test self-driving cars in the state, according to the ride-hailing app. Continue Reading Below The move comes nearly two years after an autonomous car struck and killed a pedestrian in Tempe, Arizona, because the employee ..."
-    publishedDateTime: 2020-02-05T19:39:00Z
-    webUrl: "https://www.foxbusiness.com/markets/california-uber-permit-autonomous"
-    ampWebUrl: "https://www.foxbusiness.com/markets/california-uber-permit-autonomous.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/california-uber-permit-autonomous.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202001/3280/854081161001_6120640160001_6120644360001-vs.jpg"
-        width: 1280
-        height: 720
   - title: "House panel to a hold hearing on the future of self-driving cars"
     excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
     publishedDateTime: 2020-02-09T18:48:00Z

@@ -18,15 +18,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Battery charging meets machine learning"
-    excerpt: "But perhaps that testing is not so extensive, thanks to a new system described in the journal Nature. The system uses a combination of machine learning and Bayesian inference to rapidly zero in on the optimal charging pattern for any battery, cutting the amount of testing needed down considerably. Fast charging is obviously useful for ..."
-    publishedDateTime: 2020-02-19T22:10:00Z
-    webUrl: "https://arstechnica.com/science/2020/02/using-machine-learning-to-figure-out-how-to-charge-your-gadgets-batteries/"
+  - title: "Machine Learning and AI Panel at AI Core Event"
+    excerpt: "The AI Core hosted Microsoft’s Lee Stott and Bianca Fortuna at Imperial College London on ... from how inventory management is improved with Azure AI and how Spotify uses cognitive services to transform customer experience. Then there was a practical demo about how an automated bot can replace customer’s industry. Finally, the discussion ..."
+    publishedDateTime: 2020-02-20T12:16:00Z
+    webUrl: "https://www.imperial.ac.uk/news/195416/machine-learning-ai-panel-ai-core/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
+      name: Imperial College London
+      domain: imperial.ac.uk
+    quality: 56
+    images:
+      - url: "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/newseventsimage_1582186553722_mainnews2012_x1.jpg"
+        width: 700
+        height: 484
 
 secured: "EzRCb6ObuI5AfiIO+W+pjTE3EVNCuiALH5S5CmKPXmeUCmZsDTVR0LV0FdiFMcbx5UjV6xAp9aNr0PGog3zANkhmwrnX/rsFQGMHrDMpKaurG1mMtJqSTBfQiaCiBuHwS68O9j1LtwsgcChEHssvAGVjtVfC5ijKw7XL+U49XwE/D2buOTNKd5ZIWoQdepYARAUfcewcUY01BWtsX4M384j44p+TqPQl/EUhKmaxQ5LRuUOOJvmtfLQYsiJnvMJdQE8q7hPLBe3mYcqsUqSMpD/TfA0gNh+zj1Q3ireVwZ961Ktd890d0WFWP4jwkJEp;VgjvnkApwOvwpBbBvG5BTQ=="
 ---

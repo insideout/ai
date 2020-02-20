@@ -27,21 +27,6 @@ images:
 
 related:
   - title: "Self-driving car to be part of East Bay city’s school auto classes"
-    excerpt: "East Bay school partners with country transportation agency, autonomous car maker to re-envision auto training program."
-    publishedDateTime: 2020-02-05T19:32:00Z
-    webUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/"
-    ampWebUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810-2.jpg?w=1024&h=607"
-        width: 1024
-        height: 606
-  - title: "Self-driving car to be part of East Bay city’s school auto classes"
     excerpt: "But this fall, Pittsburg High School will put to the test an auto class like no other when it launches its first advanced, hands-on course on repairing and maintaining self-driving electric vehicles. Helping the school to get into gear — and students learn about automobile careers — are the Contra Costa Transportation Authority and Local ..."
     publishedDateTime: 2020-02-06T03:32:00Z
     webUrl: "https://www.eastbaytimes.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/"

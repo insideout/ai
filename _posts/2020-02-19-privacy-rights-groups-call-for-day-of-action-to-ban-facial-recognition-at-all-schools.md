@@ -24,45 +24,34 @@ images:
     title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
 
 related:
-  - title: "Facial recognition technology will follow privacy laws: Edmonton police"
-    excerpt: "EDMONTON -- Attempting to quell privacy concerns, Edmonton police say facial recognition software that they intend to use to identify criminals will follow privacy laws. Informatics Division Supt. Warren Driechel revealed new details about the proposed technology Wednesday, though the department has not implemented facial recognition yet."
-    publishedDateTime: 2020-02-19T21:18:00Z
-    webUrl: "https://edmonton.ctvnews.ca/facial-recognition-technology-will-follow-privacy-laws-edmonton-police-1.4818878"
-    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
+  - title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
+    excerpt: "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ..."
+    publishedDateTime: 2020-02-14T14:50:00Z
+    webUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy"
+    ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 59
+      name: Fox News
+      domain: foxnews.com
+    quality: 80
     images:
-      - url: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-  - title: "London police deploy face scan tech, stirring privacy fears"
-    excerpt: "LONDON (AP) — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping ..."
-    publishedDateTime: 2020-02-19T17:57:00Z
-    webUrl: "https://www.journalnow.com/news/national/london-police-deploy-face-scan-tech-stirring-privacy-fears/article_6ea04d9b-53c6-539b-b885-5c39564e8136.html"
-    ampWebUrl: "https://www.journalnow.com/news/national/london-police-deploy-face-scan-tech-stirring-privacy-fears/article_6ea04d9b-53c6-539b-b885-5c39564e8136.amp.html"
-    cdnAmpWebUrl: "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/london-police-deploy-face-scan-tech-stirring-privacy-fears/article_6ea04d9b-53c6-539b-b885-5c39564e8136.amp.html"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
+        width: 810
+        height: 456
+  - title: "Class action: Tech firm Clarifai scanned OKCupid pics to train face recognition A.I., broke IL privacy law"
+    excerpt: "According to the complaint, Clarifai’s “surreptitious harvesting of biometric identifiers is ongoing” and Clarifai has indicated a willingness to “sell its facial recognition technology to foreign governments” and allow the technology to be used in “autonomous weapons” systems. According to the complaint, Clarifai “gained access ..."
+    publishedDateTime: 2020-02-18T14:50:00Z
+    webUrl: "https://cookcountyrecord.com/stories/525710212-class-action-tech-firm-clarifai-scanned-okcupid-pics-to-train-face-recognition-a-i-broke-il-privacy-law"
     type: article
     provider:
-      name: The Herald-Standard
-      domain: journalnow.com
-    quality: 44
+      name: Cook County Record
+      domain: cookcountyrecord.com
+    quality: 36
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/41/641f185e-5250-5d77-9cf0-6813b5f194c3/5e42e4e8ed6f3.image.jpg?resize=1024%2C708"
-        width: 1024
-        height: 708
-  - title: "Chief says police will not use face recognition until technology has been fully reviewed"
-    excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
-    publishedDateTime: 2020-02-20T04:31:00Z
-    webUrl: "https://www.therecord.com/news-story/9859221-chief-says-police-will-not-use-face-recognition-until-technology-has-been-fully-reviewed/"
-    type: article
-    provider:
-      name: Waterloo Region Record
-      domain: therecord.com
-    quality: 10
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/0f/193780/Chicago_DaleyCenter_Picasso_Upshot.jpg"
+        width: 1280
+        height: 640
 
 secured: "I3m+TY7lOSGBNAv0nSpBsSzf6C154fnV0diCnuTODvLeyOziMOVpWGIq6zQF2m/lUBOc4fw2wN0Y9o9qEtsypJ+j4PfhnPNEAFW59aR+nyUIFVsx33mwxusR6x+Fe+Sr5KFuYozTOYG0XbBl3YWNzJT/2xlxkdJVRiIiBQ0BVg6bB/FrxrxwZGD1bFp3l6D3YRSXquBPCAmC2sDRQCdPxL5Eu70DeW+nks/06Pyyi72/Y42HFrIj6jHv9lbUdilY4MyDz3cq1j+ejvah1WlpX3D+VkRSFwwpWe1Jm/kp2O4loqy+F5Ws71yxY48r+J+iqHWWEBdytHPHKL6Sfk8h6oCVLgxYhRoNJ23VwPQSfHo7TPztlt1wGx3O7Y5W3EarXL3CCRKX2BGWxHF2uig4auBM3KtjKu/ydFrulXEYWjqp9lKcpX4ApmJtbJZdzljyH5dcFjTo/nnGaEODjk0rpegLnUtMmZe/xo6ytixDye0=;pvJPf53oAa8VSqNjsfxB1g=="
 ---

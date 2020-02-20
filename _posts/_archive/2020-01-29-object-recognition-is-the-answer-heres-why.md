@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition
 ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
-quality: 69
-heat: 79
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -23,6 +23,12 @@ topics:
   - AI
   - Computer Vision
 
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+    width: 1200
+    height: 800
+    title: "Object Recognition Is The Answer, Here’s Why"
+
 related:
   - title: "Top 7 Usecases for Touchscreen Object Recognition"
     excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
@@ -32,8 +38,12 @@ related:
     provider:
       name: Digital Signage
       domain: digitalsignagetoday.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
+        width: 1200
+        height: 630
 
-secured: "/wDCuX60Luk0yTtkMR6v4LjYPync5G7C7jJsKVWlkS9uy2shSQVht098O/nSohjSqUeWCa5FGDfFlGwqA0NsYE5s00b7hs9Ia971A3jcYRyUnz0dou8VGc9AWKQbzWYKILEkbOejAdis1T1bvxW+DFCGhslbxU9EX/dpzDXMogdILFeW9sL89OaKcg5bye/oYZlxk6vVKQBucEKQcGkXpCCVOg/A/iUeJdPNm3oCdiiIFOuioYVBLtDtbWfhuRVLT4yRAkkNY2XP80+VLnxaSiITtj2Cqmk244Q8gyjWpNO/BvjToEci8RlZ4ounOZEH;JgO3DIVVQka3btXQoFU4Cg=="
+secured: "zn19+y53AU5YyV8EzA+wm3SgiZM/T2O+Y+dLHtna4qd7nZ84vVKC9KhHTcLFWBgjeSxPvdl7E7i8YJvKK99EfUHgy/8s9y9dMArkyORkyBYjV9XbU+aD+ICp2UCIhO/G/5nbRfLuRIKfFogHkOccWb0D2hhbpYQXuqjJmzZ8zoErNpeF9VCPxBNrtYEDEQTyRZSdmhkX9T99nOWyjFwLEoP2i+h49c8R17fmKJ2BybUgABHlKgN11IzJZvDgkE9+BTgh4sV9XFwb+lNbwnKKwHCj90BGkMlla3fj100oyZfFy3sTy8ugcmV671uEcVju;02cp5Q3d1dA4rOjKqA+l7g=="
 ---
 

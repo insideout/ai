@@ -2,6 +2,267 @@
   "page": 20,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-28-five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3.md",
+      "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+      "excerpt": "TechCrunch’s fourth Robotics and AI show is coming up on March 3 at UC Berkeley’s Zellerbach Hall. If past experience is any guide, the show is sure to draw a big crowd (cheap student rates here!) but there’s still time to grab a pass. If you’re wondering why you want to take a day out to catch a full day of interviews and audience Q&A ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "publishedDateTime": "2020-01-28T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/5.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-electric-trucks-in-detroit.md",
+      "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
+      "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit",
+      "ampWebUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
+      "publishedDateTime": "2020-01-28T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web.md",
+      "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
+      "excerpt": "TensorFlow Lite inference isn’t supported, and the graph’s computations must be run on a single processor thread. A lack of compute shaders — routines compiled for high-throughput ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
+      "publishedDateTime": "2020-01-28T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-google-translate-will-transcribe-translations-in-real-time-on-android.md",
+      "title": "Google Translate will transcribe translations in real time on Android",
+      "excerpt": "The feature will likely require an internet connection at launch, Google says, which means it will differ from the AI-based and on-device translation features that are in Google Translate today. The company says this is because real-time multilingual transcription is more complicated than simply translating written text from one language to ...",
+      "heat": 244,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
+      "publishedDateTime": "2020-01-28T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/Io0Xl3TweW-02htkun4nckwTH-Y=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66207626/acastro_180427_1777_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google Translate will transcribe translations in real time on Android",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-googles-ai-powers-real-time-orca-tracking-in-vancouver-bay.md",
+      "title": "Google’s AI powers real-time orca tracking in Vancouver Bay",
+      "excerpt": "Google AI today shared that it’s created a model for detecting an endangered species of orca whales in the Salish Sea, a waterway between the United States and Canada. Underwater microphones situated at a dozen points in the Salish Sea that includes the state of Washington and Vancouver Bay are used to alert officials when a Southern Resident ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/googles-ai-powers-real-time-orca-tracking-in-vancouver-bay/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/googles-ai-powers-real-time-orca-tracking-in-vancouver-bay/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/googles-ai-powers-real-time-orca-tracking-in-vancouver-bay/amp/",
+      "publishedDateTime": "2020-01-28T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/tim-cole-3TqYDlquU8c-unsplash.jpg?fit=2250%2C1125&strip=all",
+          "width": 2250,
+          "height": 1125,
+          "title": "Google’s AI powers real-time orca tracking in Vancouver Bay",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-ibm-watson-ai-xprize-announces-10-semifinalist-teams.md",
+      "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
+      "excerpt": "The XPRIZE Foundation, which designs and runs competitions to “solve humanity’s grand challenges,” has announced the 10 semifinalist teams advancing in the IBM Watson AI XPRIZE. The four-competition is intended to demonstrate how people can collaborate with artificial intelligence to tackle pressing global problems. Sponsored by IBM ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/IBM-AI-XPRIZE-logo.jpg",
+          "width": 1440,
+          "height": 650,
+          "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-launch-your-product-at-transform-2020-the-ai-event-for-enterprise-decision-makers.md",
       "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
       "excerpt": "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ...",
@@ -628,6 +889,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-28-the-10-coolest-silliest-and-most-borderline-insulting-tv-pilots-of-2020.md",
+      "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
+      "excerpt": "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to become a government assassin ... better known as that show starring Karl Urban about robot cops that was pretty good except when it was awful. This could end up being something interesting, or it could turn ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564",
+      "ampWebUrl": "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp",
+      "publishedDateTime": "2020-01-28T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--aSgrF8P5--/c_scale,f_auto,fl_progressive,q_80,w_800/civehnkykwkfwklensxt.jpg",
+          "width": 800,
+          "height": 449,
+          "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-this-chicago-software-firm-hired-300-people-last-year-it-just-raised-100-million-and-plans-to-hire-more.md",
       "title": "This Chicago software firm hired 300 people last year. It just raised $100 million and plans to hire more.",
       "excerpt": "Software firm ActiveCampaign raised $100 million in venture capital funding and plans to continue a hiring spree that added 300 people in the past year. “We’re not slowing down,” said CEO and founder Jason VandeBoom. The Chicago company makes software for targeted marketing and managing customer data. Demand for those types of tools is ...",
@@ -1143,6 +1449,43 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-29-amazon-made-rekognition-software-now-able-to-detect-fear.md",
+      "title": "Amazon-made Rekognition software now able to detect fear",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "publishedDateTime": "2020-01-29T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU=",
+          "width": 1200,
+          "height": 630,
+          "title": "Amazon-made Rekognition software now able to detect fear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-29-apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment.md",
       "title": "Apple researchers train AI drivers to merge lanes in a simulated environment",
       "excerpt": "Apple has yet to openly discuss its self-driving vehicle research, but it’s a poorly-kept industry secret. Around 5,000 employees — including a portion of those previously employed by Drive.ai, an autonomous car startup Apple acquired last year — are said to be involved with code-name Project Titan, a joint effort with Volkswagen to ...",
@@ -1575,6 +1918,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-29-getting-started-with-aws-deepracer-2020-edition.md",
+      "title": "Getting Started with AWS Deepracer (2020 edition)",
+      "excerpt": "Since the last time, I wrote a blog on how to win at Deepracer? a LOT has changed on the Deepracer Console. You could read that to know the very basics of Deepracer and Reinforcement Learning.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vaibhav-malpanis-blog/getting-started-with-deepracer-2020-edition-a7896dd07c48",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/0*70d1mypOZTlJ0xsF.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Getting Started with AWS Deepracer (2020 edition)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-29-google-looks-ahead-to-the-next-decade-of-ai-research.md",
       "title": "Google looks ahead to the next decade of AI research",
       "excerpt": "Google's already making strides on this front, with on-device translation services offered in 59 different languages. While Google and the industry at large have made significant strides in AI in the past few years, public awareness of the technology's potential drawbacks -- and corresponding regulation -- is only now beginning to catch up ...",
@@ -1733,369 +2121,6 @@
             "attribution": null
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-here-are-the-7-biggest-fintech-trends-to-watch-in-2020-according-to-a-centana-growth-partners-exec.md",
-      "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
-      "excerpt": "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1",
-      "ampWebUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
-      "publishedDateTime": "2020-01-29T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5de57a1efd9db2771d15a925?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-house-ethics-committee-warns-lawmakers-against-posting-deepfakes.md",
-      "title": "House ethics committee warns lawmakers against posting deepfakes",
-      "excerpt": "The House Ethics Committee is advising lawmakers against posting manipulated videos and photos on their social media accounts, warning they could face repercussions for tweets and Facebook posts that",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes",
-      "ampWebUrl": "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp",
-      "publishedDateTime": "2020-01-29T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/congressional_ethics_oce_getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "House ethics committee warns lawmakers against posting deepfakes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products.md",
-      "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
-      "excerpt": "The good news is that the same machine learning technologies utilized within these large organizations are offered to the general public by various providers, such as AWS, Google Cloud Platform and Azure — for a fee, of course. At AWS re:Invent 2019, there was a clear, overarching theme: machine learning. And not just machine learning ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
-      "publishedDateTime": "2020-01-29T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1165431212/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-in-coronavirus-response-ai-is-becoming-a-useful-tool-in-a-global-outbreak-data-experts-say.md",
-      "title": "In coronavirus response, AI is becoming a useful tool in a global outbreak, data experts say",
-      "excerpt": "A version of this story appeared in STAT ... expert epidemiologists. But for the first time in a global outbreak, it is becoming a useful tool in efforts to monitor and respond to the crisis, according to health data specialists. In prior outbreaks, AI ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.statnews.com/2020/01/29/coronavirus-response-artificial-intelligence-becoming-useful/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2020/01/Coronavirus-map-China-screencap-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "In coronavirus response, AI is becoming a useful tool in a global outbreak, data experts say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-jetbrains-taps-machine-learning-for-full-line-code-completion.md",
-      "title": "JetBrains taps machine learning for full-line code completion",
-      "excerpt": "JetBrains has laid out a 2020 roadmap for IntelliJ IDEA and its IntelliJ-based IDEs. The promised new capabilities range from additional machine learning driven code completion to collaborative editing. The company said the additional machine learning based code completion capabilities would make better use of the context for ranking ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.amp.html",
-      "publishedDateTime": "2020-01-29T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/10/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "JetBrains taps machine learning for full-line code completion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you.md",
-      "title": "Looking To Train Algorithms? Enforce Ethical AI? Then There's An AI Job For You",
-      "excerpt": "Here are some of the current AI-related roles that exist today and will increasingly be in demand over the next few years.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you/amp/",
-      "publishedDateTime": "2020-01-29T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1053499704/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Looking To Train Algorithms? Enforce Ethical AI? Then There's An AI Job For You",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354.md",
-      "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
-      "excerpt": "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-maine-to-build-institute-to-teach-tech-skills-machine-learning.md",
-      "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
-      "excerpt": "We really see that [as] a great opportunity.” (TNS) — Wex uses machine learning and artificial intelligence in its day-to-day operations. At its call centers, the payment processing firm uses speech recognition technology to route calls. When monitoring accounts for fraud risk, the company uses sophisticated data analysis built by algorithm.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html",
-      "ampWebUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
-      "publishedDateTime": "2020-01-28T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/Cuyahoga+County+OZ.JPG",
-          "width": 2048,
-          "height": 1582,
-          "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-man-in-wheelchair-dumped-onto-ground-in-dispute-over-parking-space-at-pleasant-hill-target-store.md",
-      "title": "Man In Wheelchair Dumped Onto Ground In Dispute Over Parking Space At Pleasant Hill Target Store",
-      "excerpt": "Detectives were given a partial license plate number for Tiger’s vehicle, and later identified ... injury were filed and an arrest warrant was issued. Two days later, Tiger was arrested in ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/",
-      "ampWebUrl": "https://sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/amp/",
-      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/amp/",
-      "publishedDateTime": "2020-01-29T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

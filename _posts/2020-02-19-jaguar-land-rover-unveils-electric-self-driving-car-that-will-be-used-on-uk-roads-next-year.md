@@ -56,6 +56,19 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+  - title: "Jaguar Land Rover reveals self-driving transport pod"
+    excerpt: "Jaguar Land Rover, the UK’s largest automotive manufacturer, has revealed a new self-driving transport pod developed for cities and ready for an on-road pilot programme in the UK starting next year. Known as Project Vector, the vehicle is an autonomous platform with a design focus on maximising interior space and offering flexible body ..."
+    publishedDateTime: 2020-02-20T12:43:00Z
+    webUrl: "https://www.itweb.co.za/content/4r1ly7RbzdP7pmda"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 24
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/02/LandRover-Vector-3-2020.jpg"
+        width: 816
+        height: 459
   - title: "Jaguar Land Rover reveals new electric self-driving pod to be used on UK roads next year"
     excerpt: "The city will be used as a 'living laboratory' by Britain's biggest car-maker to test how the self-driving pods interact with other vehicles, pedestrians and cyclists. One of the first to get an early preview is Prince Charles, who was on hand to officially open the National Automotive Innovation Centre at Warwick University, where the ..."
     publishedDateTime: 2020-02-18T15:03:00Z

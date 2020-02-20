@@ -5,7 +5,7 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-02-05T06:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Image Recognition Market Worth $81.88 billion by 2026"
 
 related:
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
@@ -177,6 +183,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
+    excerpt: "Ltd. London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth ..."
+    publishedDateTime: 2020-02-06T12:05:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
   - title: "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Smart Learning Market by Component (Hardware ... Enterprise users include organizations catering to various verticals, such as retail; government; healthcare; and Banking, Financial Services and Insurance (BFSI). Corporate users implement these solutions as a tool to train and assess employees for providing ..."
     publishedDateTime: 2020-02-10T11:56:00Z
@@ -202,6 +217,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "wp6UTFBdKi5Tqj71Z2oigkzncPwYgBH6vIXkoBOWR1nhVpgwEMmL0REOHJ+rLbvBsxEHGJJykE7uc7Ysbs3ZkQ/9qeUz2M+7Bf9oVNgQmlqslsq6qgDWkdQfXKYptOZH6CbtRmymtnp/WN8f5K4gAZ6EB9nVJdq/9iL71z2A1eUjnB88jF9cemWN/3JcDm3Au9P2PN6D9qLKyFs2+vPSrxtr5rIKhrh/4x1nZtSUvtBYCurs8Eg7ZJrLMGBXW1yx2qBUPhWVcbe/YMVCOutMGwi8V6YaSfrdzt3p9t2BIX1LF6R4XouWRwRYg0oLgNGO;TqDFOAYP2x9IbsHiGJACLQ=="
+secured: "kB4tZd6+eHUKvJoGDru+Zv9/Q9/iifE1PGBoju656NeynqCQCus43KR/x7v7B7lHcE3edgSA3FA39+3eNNj/Z07c0ZTr0cUILxrOXf55K23FtzxxVWWc8rJ3MfokRTIWUtui22B+wGAPpXZAYQhfe6sGVfS3DUkD6O99PhZlDmA4Nc1HIF/tJvVeQLc5XB+WOzzJNd8UMFImyuUMfp54GmJpT7lR9qc41A59GuGFgqQGSYnusaMzTOa1S5pUQHHzYqrAyrnW7rPfrjeK8o91knsb6bwzRfjmw0wSVaZ3UZZwcgRn/kTUllYrll5iMjFc;kRd3RfPbxh8UjMzQSKKbPA=="
 ---
 

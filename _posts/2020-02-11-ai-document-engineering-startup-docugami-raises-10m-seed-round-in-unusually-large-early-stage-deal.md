@@ -89,6 +89,19 @@ related:
       - url: "https://media.bizj.us/view/img/725821/fundingstartupistockphoto*600xx3454-2303-0-182.jpg"
         width: 600
         height: 400
+  - title: "Dave Copps’ stealthy AI startup emerges with $10 million in backing"
+    excerpt: "“As the number of IoT devices continues to grow, so will the need for AI and machine learning solutions to help manage the massive influx of data these devices will create.” Worlds’ funding round continues the fast start this year for Dallas-based ..."
+    publishedDateTime: 2020-02-07T13:58:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2020/02/07/dave-copps-stealthy-ai-startup-comes-out-with-10-million-in-backing/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 37
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Nvbis_8VTU4PHPL2W_pxLvpoOP8=/1200x630/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/TOIOGQZAJP6BPQADYQ2HKTRVA4.png"
+        width: 1200
+        height: 630
   - title: "Fintech Firm Ramp, which Offers Corporate Credit Cards, Secures $25 Million in Funding"
     excerpt: "Ramp’s team has a diverse background from companies in the Fintech sector, such as Affirm’s former vice president of engineering, executives from Plaid and Atrium, and product engineers from Facebook’s AI research team. Ramp’s team members also come from the Google research division, Capital One, Goldman Sachs, Apple, and Lyft."
     publishedDateTime: 2020-02-14T04:46:00Z

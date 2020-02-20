@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driv
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000563995434.jpg?strip=all&w=960&quality=100"
         width: 960
         height: 634
+  - title: "Jaguar Land Rover reveals self-driving transport pod"
+    excerpt: "Jaguar Land Rover, the UK’s largest automotive manufacturer, has revealed a new self-driving transport pod developed for cities and ready for an on-road pilot programme in the UK starting next year. Known as Project Vector, the vehicle is an autonomous platform with a design focus on maximising interior space and offering flexible body ..."
+    publishedDateTime: 2020-02-20T12:43:00Z
+    webUrl: "https://www.itweb.co.za/content/4r1ly7RbzdP7pmda"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 24
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/02/LandRover-Vector-3-2020.jpg"
+        width: 816
+        height: 459
   - title: "Jaguar Land Rover reveals new electric self-driving pod to be used on UK roads next year"
     excerpt: "The city will be used as a 'living laboratory' by Britain's biggest car-maker to test how the self-driving pods interact with other vehicles, pedestrians and cyclists. One of the first to get an early preview is Prince Charles, who was on hand to officially open the National Automotive Innovation Centre at Warwick University, where the ..."
     publishedDateTime: 2020-02-18T15:03:00Z

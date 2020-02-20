@@ -62,15 +62,6 @@ related:
       name: Hack
       domain: securityintelligence.com
     quality: 17
-  - title: "The top 10 cybersecurity companies to watch in 2020: How AI and ML is a key differentiator"
-    excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
-    publishedDateTime: 2020-02-05T18:45:00Z
-    webUrl: "https://webuilddesign.com/the-top-10-cybersecurity-companies-to-watch-in-2020-how-ai-and-ml-is-a-key-differentiator/"
-    type: article
-    provider:
-      name: webuilddesign.com
-      domain: webuilddesign.com
-    quality: 9
 
 secured: "eZuPD/HprlKNrvzGFEpxC4lDPBJuRiYKhdq538Bh4k4lUoMNy1IJPYCvHg7KPSbTNb0XP7PDBaBjXFeikWQhhh4sZ8AbXxRFumfss37Rn2zVDoNjApbkGk3tGYbWYx0vasq0qm1a0Bmh6K7X0n8pmWaThAs+Qw3H3LXj7WR9jJjQTH5Lb0BVsReI8Y6CsohoJ1OgksdkFM5PKCsMoosGYLsxX9SSg3KyPtaSSz/5U0ScTorOqBQRoTHi5E959lD9+62+uuZA9aZ/gUaf6JhswUdprCluczuuSBXYU/G/Xy/2wh0y2dfip5m36Z4SnQm7LA+Nxsko0y8/oGmoJUXYGzncgqHBIgSlBBtx9kBcPG1ocriFMHARue/3WS5ZOO4CRCueSlRkXGGl3DyiL/CbW9gpApZHdEJioxWWVUwA7dm1Ikfyc8sMVCLbV79ynuOIyArEOygCtKhihFxjjNAtcgEV7KP3yMYUd+EdxEU4VHo=;p/ZgDLKsZRFhGaOv9tozaA=="
 ---

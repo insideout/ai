@@ -87,7 +87,11 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 0
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "24.7% Growth Rate for Social and Emotional Learning (SEL) Market by 2024 | Latest Innovation, Advance Technology, Top Companies - ReportsnReports"
     excerpt: "Browse 130 Market Data Tables and 87 Figures spread through 199 Pages and in-depth TOC on \"Social and Emotional Learning (SEL) Market Research Report\" https://www.reportsnreports.com/reports/2891963-social-and-emotional-learning-sel-market-by-component-solutions-sel-platform-and-sel-assessment-tool-services-type-web-and-application-end-user-pre ..."
     publishedDateTime: 2020-02-07T13:12:00Z

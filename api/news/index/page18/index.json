@@ -2,6 +2,124 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-23-phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta.md",
+      "title": "Phiar launches AI-powered AR navigation app in invite-only iPhone beta",
+      "excerpt": "It also uses AI for lane segmentation, semantic segmentation, and 3D localization, allowing the app to determine and draw a proper navigational route through multi-lane streets. The user can then just follow the suggested path, as well as seeing floating icons that indicate points of interest and traffic signals. One key to these tricks is on ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/",
+      "publishedDateTime": "2020-01-23T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/phiar.jpg?fit=2299%2C1150&strip=all",
+          "width": 2299,
+          "height": 1150,
+          "title": "Phiar launches AI-powered AR navigation app in invite-only iPhone beta",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-pichai-hails-ai-potential-in-healthcare.md",
+      "title": "Pichai hails AI potential in healthcare",
+      "excerpt": "We know we can use artificial intelligence to make it better”, he stated ... In June 2018 Pichai highlighted the company’s aim to focus on areas beneficial to society, including healthcare, energy and transportation, and advised the tech giant will ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/",
+      "publishedDateTime": "2020-01-23T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2017/05/Pichai-IO-e1572348398144.png?fit=648%2C399&ssl=1",
+          "width": 648,
+          "height": 399,
+          "title": "Pichai hails AI potential in healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-sebi-eyes-ai-machine-learning-to-fix-market-manipulation.md",
+      "title": "SEBI eyes AI, machine learning to fix market manipulation",
+      "excerpt": "Meanwhile, the capital markets regulator has also planned a ‘data lake’ project using tools like machine learning, artificial intelligence and big data analysis among other things. Data lake refers to a repository of data that is stored in a very raw or unstructured manner. “Use of advanced technological tools such as artificial ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece",
+      "ampWebUrl": "https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/",
+      "publishedDateTime": "2020-01-23T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "SEBI eyes AI, machine learning to fix market manipulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-23-twitter-demands-ai-company-stops-collecting-faces.md",
       "title": "Twitter demands AI company stops 'collecting faces'",
       "excerpt": "Twitter has demanded an AI company stop taking images from its website. Clearview has already amassed more than three billion photographs from sites including Facebook and Twitter. They are used by the FBI and Department of Homeland Security and more than 600 other law-enforcement agencies around the world to identify suspects. In a cease-and ...",
@@ -223,6 +341,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-why-your-business-should-focus-on-understanding-speech-over-voice-recognition.md",
+      "title": "Why your business should focus on understanding speech over voice recognition",
+      "excerpt": "If you have ever had to repeat “yes” six times to your automated telephone banking assistant, you’d be forgiven for thinking that automatic speech recognition (ASR) has a long way yet to go.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/",
+      "publishedDateTime": "2020-01-23T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design40-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Why your business should focus on understanding speech over voice recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1102,6 +1265,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-24-samsung-and-ge-are-cooking-up-the-kitchen-smarts-ive-been-waiting-for.md",
+      "title": "Samsung and GE are cooking up the kitchen smarts I've been waiting for",
+      "excerpt": "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. The newest version of Samsung's Family Hub smart refrigerator ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/",
+      "publishedDateTime": "2020-01-24T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Samsung and GE are cooking up the kitchen smarts I've been waiting for",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-24-seeing-a-better-future-for-ai.md",
       "title": "Seeing A Better Future For AI",
       "excerpt": "I grew up during the 80s and 90s, the kind of kid who built his own computers late into the night and heard the dial-up modem’s tones as my personal anthem. During this time of great promise in mankind’s technological potential I remember watching early documentaries on artificial intelligence (AI).",
@@ -1625,7 +1833,7 @@
       "path": "_posts/_archive/2020-01-25-sentiment-analysis-and-text-mining-using-azure-cognitive-services.md",
       "title": "Sentiment analysis and text mining using Azure Cognitive Services",
       "excerpt": "This post provides 6 sample codes showing how Azure Microsoft Cognitive Services can used to build AI solutions to tackle opportunities like sentiment analysis and text mining.",
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7",
@@ -1648,7 +1856,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png",
+          "width": 1200,
+          "height": 600,
+          "title": "Sentiment analysis and text mining using Azure Cognitive Services",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1911,228 +2127,6 @@
         "AI",
         "AI in Robotics",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-8-misleading-ai-myths-and-the-realities-behind-them.md",
-      "title": "8 misleading AI myths — and the realities behind them",
-      "excerpt": "The fact is, much of the fear around AI comes from overactive imaginations that machines will mimic our own bad behavior. Skynet aside, there are some rational questions and answers to be had. So let’s break down the myths and realities around AI and all of its offshoots, like machine learning and deep learning. This is the single greatest ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html",
-      "publishedDateTime": "2020-01-27T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/ifw_hal9000_red_optical_sensor_lens_eye_by_cryteria_cc_by_3-0_fractal_background_by_garik_barseghyan_aka_insspirito_cc0_via_pixabay-100827763-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "8 misleading AI myths — and the realities behind them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-ai-accurately-predicts-billie-eilish-bad-guy-grammy-win.md",
-      "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
-      "excerpt": "Lil Nas X was nominated six times and walked away with two wins, according to CBS. Taylor Larkin, a data scientist with the company, used the DataRobot enterprise AI platform to predict the winners for song and record of the year. DataRobot leverages machine-learning models to learn from the past to predict the future. \"For Grammy ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "publishedDateTime": "2020-01-27T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/35f461af-b2cc-4f4f-8dee-22ac1ed6bb35/resize/1200x/24932119221d74ceb8807e3600f33dc0/billie-eilish-and-finneas-oconnell.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
-      "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
-      "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/",
-      "ampWebUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
-      "publishedDateTime": "2020-01-27T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e2b52d1097df7000896da19/master/pass/Transpo-licenseplates-502111737.jpg",
-          "width": 2400,
-          "height": 1594,
-          "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-ai-pharmas-perfect-medicine.md",
-      "title": "AI: Pharma's Perfect Medicine",
-      "excerpt": "The pharma industry has begun its first steps toward the implementation of large-scale AI solutions, and with an industry as large as pharma, the range of potential applications is immense.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/ai-pharmas-perfect-medicine/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/ai-pharmas-perfect-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/27/ai-pharmas-perfect-medicine/amp/",
-      "publishedDateTime": "2020-01-27T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x497/https://specials-images.forbesimg.com/dam/imageserve/499085618/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 497,
-          "title": "AI: Pharma's Perfect Medicine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-an-ai-virus-warning-system-mac-malware-and-more-news.md",
-      "title": "An AI Virus Warning System, Mac Malware, and More News",
-      "excerpt": "The platform, called BlueDot, uses an AI-driven algorithm that scours foreign-language news reports, animal and plant disease networks, and official proclamations to give its clients advance warning to avoid danger zones like Wuhan if possible. The sneaky ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/wuhan-coronavirus-ai-mac-malware-shlayer-trojan/",
-      "ampWebUrl": "https://www.wired.com/story/wuhan-coronavirus-ai-mac-malware-shlayer-trojan/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wuhan-coronavirus-ai-mac-malware-shlayer-trojan/amp",
-      "publishedDateTime": "2020-01-27T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e2f670665c5340008a008d5/master/pass/Science_techintwo-1196094969.jpg",
-          "width": 2300,
-          "height": 1533,
-          "title": "An AI Virus Warning System, Mac Malware, and More News",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

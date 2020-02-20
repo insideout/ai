@@ -8,7 +8,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2020/02/05/self-driving-car-to-be-part-
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Self-driving car to be part of East Bay city’s school auto classes"
 
 related:
-  - title: "Self-driving car to be part of East Bay city’s school auto classes"
-    excerpt: "East Bay school partners with country transportation agency, autonomous car maker to re-envision auto training program."
-    publishedDateTime: 2020-02-05T19:32:00Z
-    webUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/"
-    ampWebUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810-2.jpg?w=1024&h=607"
-        width: 1024
-        height: 606
   - title: "Self-driving shuttle to be part of East Bay city’s school auto classes"
     excerpt: "East Bay school partners with country transportation agency, autonomous car maker to re-envision auto training program."
     publishedDateTime: 2020-02-06T16:50:00Z

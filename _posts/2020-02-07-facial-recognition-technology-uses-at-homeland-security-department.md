@@ -54,6 +54,19 @@ related:
       - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
         width: 1200
         height: 675
+  - title: "WeWork wants facial recognition biometrics class action dismissed"
+    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
+    publishedDateTime: 2020-02-07T03:36:00Z
+    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+    type: article
+    provider:
+      name: Cook County Record
+      domain: cookcountyrecord.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
+        width: 1280
+        height: 640
   - title: "Facial-recognition tech questioned, defended at House committee hearing"
     excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
     publishedDateTime: 2020-02-07T20:31:00Z
@@ -93,15 +106,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
         width: 1500
         height: 784
-  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
-    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
-    publishedDateTime: 2020-02-05T18:29:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "6no2DUhWzrZ+KvYrL4ixqYGsd+iuz/at9j2NnNN3vxpMseOkGy2BaxUO70Wg60mJPK6V1V0GJBaN6oFZLXXUizfWgpmjYp+rPqwnjSwi4QUPNLs5D7hIkzUlw0m0SccEmxrObLoJZvhCxBW7cpoyCgUTkKq5cAXYFXfKFWpllNjElid7l2+qqY9pUnbe8qIbb5JE32emZuvLTAr+0ZCEnHdLjZWln6Kl0DJc/OrdYrmq+hJCcFGU5gI3B1bPMwP/EoVsMIbYZMjSZ8DDpH25BUEhqeDe84p1NkH5+jR3nUXMpTCHb69xSsKhZeKmuD9n;DyaWAzHhrX2r4NDD1aMwrw=="
 ---

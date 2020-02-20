@@ -8,7 +8,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-f
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
 type: article
 quality: 180
-heat: 450
+heat: 430
 published: true
 
 provider:
@@ -91,21 +91,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
         width: 625
         height: 415
-  - title: "Frustration grows in China as face masks compromise facial recognition"
-    excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
-    publishedDateTime: 2020-02-05T18:51:00Z
-    webUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/"
-    ampWebUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 89
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 789
   - title: "Facial recognition company CEO says he doesn’t need permission to use your face"
     excerpt: "The CEO of facial recognition company Clearview AI, Hoan Ton-That, today gave his first network television interview on “CBS This Morning.” During the brief conversation Ton-That told news-anchor Errol Burnett that he believed he had a First Amendment right to access, scrape, and store billions of files containing images of people’s faces."
     publishedDateTime: 2020-02-05T22:25:00Z
@@ -181,15 +166,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/7l1HObT4uIVko8_sSo6v9vlNURg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg"
         width: 1400
         height: 933
-  - title: "Google tells facial recognition startup Clearview AI to stop scraping photos"
-    excerpt: "Following Twitter, Google and YouTube have become the latest companies to send a cease-and-desist letter to Clearview AI, the startup behind a controversial facial recognition program that more than 600 police departments across North American use. Clearview came under scrutiny earlier this year when The New York Times showed that the company ..."
-    publishedDateTime: 2020-02-05T19:13:00Z
-    webUrl: "https://www.engadget.com/2020/02/05/google-tells-clearview-at-stop-scraping-photos/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 61
   - title: "Facial recognition moves into a new front: schools"
     excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
     publishedDateTime: 2020-02-06T13:00:00Z

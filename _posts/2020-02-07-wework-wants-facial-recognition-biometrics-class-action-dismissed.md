@@ -24,138 +24,88 @@ images:
     title: "WeWork wants facial recognition biometrics class action dismissed"
 
 related:
-  - title: "Met Police try to calm tensions as live facial recognition hits London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
+    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
+    publishedDateTime: 2020-02-06T19:08:00Z
+    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: The Hill
+      domain: thehill.com
+    quality: 54
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "Ottawa police piloted controversial facial recognition software last year"
-    excerpt: "Ottawa police quietly tested facial recognition software for three months last year, this newspaper has learned. The pilot, which ended in March of 2019, came before a public dialogue on the use of CCTV cameras in spaces like the ByWard Market after a string of fatal shootings in the tourist hub. Though Ottawa police at the time spoke of the ..."
-    publishedDateTime: 2020-02-13T23:12:00Z
-    webUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year"
-    ampWebUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
+      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
+        width: 980
+        height: 551
+  - title: "How to use voice recognition in Pokémon HOME"
+    excerpt: "Because you can use it from a mobile device, you can use it with voice recognition. You can’t use everything with voice recognition, though. Only a handful of features register with it, and you should know what they are because they will have a microphone next to them in your mobile application. For example, when you go into your Pokémon box ..."
+    publishedDateTime: 2020-02-12T10:16:00Z
+    webUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home"
+    ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
+    cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
     type: article
     provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 58
+      name: Gaming Polls
+      domain: gamepur.com
+    quality: 44
     images:
-      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
-        width: 1000
-        height: 750
-  - title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
-    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
-    publishedDateTime: 2020-02-18T23:02:00Z
-    webUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/"
-    ampWebUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
-    cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
+      - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
+        width: 1200
+        height: 675
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
     type: article
     provider:
-      name: Daily Camera
-      domain: dailycamera.com
-    quality: 53
+      name: C-SPAN
+      domain: c-span.org
+    quality: 39
     images:
-      - url: "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg"
-        width: 1000
-        height: 563
-  - title: "Met Police's controversial facial recognition cameras correctly identify just one in three women"
-    excerpt: "Controversial facial recognition cameras used by Britain's biggest police force correctly identify only a third of women, an official report admits. A review of the technology by Scotland Yard also reveals that two in three men are accurately identified, while black people are far more likely to be wrongly flagged up than white people."
-    publishedDateTime: 2020-02-15T22:02:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8007907/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
+  - title: "Facial-recognition tech questioned, defended at House committee hearing"
+    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
+    publishedDateTime: 2020-02-07T20:31:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 46
+      name: SC Media
+      domain: scmagazine.com
+    quality: 24
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/15/22/24785266-0-image-a-29_1581804047268.jpg"
-        width: 636
-        height: 382
-  - title: "Editorial: Facial-recognition software takes personal invasion into a new dimension"
-    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
-    publishedDateTime: 2020-02-16T22:00:00Z
-    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.html"
-    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
+        width: 700
+        height: 379
+  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
+    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
+    publishedDateTime: 2020-02-12T15:40:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/herta-security-lauded-by-frost--sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-301003793.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 38
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/8b/d8bc824d-a430-5a4c-a7d5-3c24d9712733/5e46e82107203.image.jpg"
-        width: 436
-        height: 512
-  - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
-    excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
-    publishedDateTime: 2020-02-11T05:28:00Z
-    webUrl: "https://www.heraldscotland.com/news/18225186.police-warned-not-adopt-unjustifiable-live-facial-recognition-technology/"
+      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
+        width: 1500
+        height: 784
+  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
+    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
+    publishedDateTime: 2020-02-13T02:52:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/herta-security-lauded-by-frost-amp-sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-879892037.html"
     type: article
     provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 36
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
     images:
-      - url: "https://www.heraldscotland.com/resources/images/10955630/"
-        width: 800
-        height: 600
-  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue thousands of children in India"
-    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
-    publishedDateTime: 2020-02-06T22:09:00Z
-    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-thousands-of-children-in-india"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue of thousands of children in India"
-    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
-    publishedDateTime: 2020-02-06T22:05:00Z
-    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-of-thousands-of-children-in-india"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-  - title: "NY Senate bill would ban police facial recognition technology"
-    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
-    publishedDateTime: 2020-02-06T00:26:00Z
-    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
-    type: article
-    provider:
-      name: The Daily News Online
-      domain: thedailynewsonline.com
-    quality: 19
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
+      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
+        width: 1500
+        height: 784
 
 secured: "jbOqfKBDbydsceMRaf0ykgTvMZcNMpijANi943iN8YFoSlAK7e1eTj8iK1wUUH9ltkS/GY+wmEtlJ/auNUDpFr9PvJ1lFgnVm2tVBpJc2Im1OReutcHwdQSOkREpk0X9ps+7J8K9OlzAvtFNKREUFnxhELdnn1hGQEyfzEWo1FW5jiQa61F32UYB8YVrz0VrrLu01e/T3Jl5Uwkk4i0WcVjKdUQONgM6be8mUFPU9U6Kfesbq4dGBMegtf22sQIzN5F4G/ilScWK2z3U68BR0G6qxwc0Gjy30XOMzkV2o8r2XqHda2+t5MvuXeZj4gP9;4CQdgIMe5djaYdsdcrPAAg=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Along with BCIs and mind-controlled robotic arms, here’s a list of t
 publishedDateTime: 2020-01-22T10:40:00Z
 webUrl: "https://itwire.com/strategy/science-fiction-becoming-‘reality’-as-advanced-technologies-start-to-enhance-human-beings.html"
 type: article
-quality: 0
-heat: 0
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "SuT8XMdfQ8MHunA//S9JRv2jVESLvj9f5yR81F6JkssYnl3QPP82FvFZBfTyQfPW/UlgxcgTdIbA/mDUDiimh0nRg9XVw7coyCQ+EUYHAxT/3J9eDDu3PmLCnX4c9WwGybOEE8B2orf+avgz1v1DRZovrNoCvEbDxAhFovOhDOf2YVhk6RJ0uyALAOHtW/VjGUABgDogO++t5jBUEzIhlC+3GLcplOLxucRTQ88RCbuv3KJQyUQKjjDTWu9O9rXj5DIrhfZY4L98J9eaWT7mlPPRh4UOiBuo3h1mugf6WbpFs+jj23WV6zfDjkhCMUqY;8nyhjAsX5XWpevOO2GW79g=="
+images:
+  - url: "https://itwire.com/media/k2/items/cache/87418b269cfc8376012396ffe51803d1_M.jpg"
+    width: 375
+    height: 375
+    title: "Science fiction becoming ‘reality’ as advanced technologies start to enhance human beings"
+
+secured: "rTg9FkaJcAwr5w9p+jn9ARiN8/2VQwZ9Nb2l78xcyQ3ZwXYVb+eowsN961NltakHNVKyE3Jo6xQMejV+UCFplHvYFBtaD5rwX0++9wkLG9NWo3wkbvMnMKS7k7HDxdMFDVYKvjtPpwMwv56udpeBVsJAeJFPA/POlpcoACahSo44Mqg+vKGTrayM2iukexORNuke8XEFwLjqwHOsqtABc/d5HgjkW+ry/4g+5sJCxr5jSsaTdg6urrBIoA67jZ1+pVwNLNX1xgeLtBX2GxFyG4nqJ5XXaHc/ShXioeUZu1vWMEvD0YGHUspawBFDFes6;oIjc7eflZqZapMT7jD2AHA=="
 ---
 

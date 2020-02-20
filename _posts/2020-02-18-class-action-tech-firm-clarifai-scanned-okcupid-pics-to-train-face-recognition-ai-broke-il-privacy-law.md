@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T14:50:00Z
 webUrl: "https://cookcountyrecord.com/stories/525710212-class-action-tech-firm-clarifai-scanned-okcupid-pics-to-train-face-recognition-a-i-broke-il-privacy-law"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 1280
     height: 640
     title: "Class action: Tech firm Clarifai scanned OKCupid pics to train face recognition A.I., broke IL privacy law"
+
+related:
+  - title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
+    excerpt: "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ..."
+    publishedDateTime: 2020-02-14T14:50:00Z
+    webUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy"
+    ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 80
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
+        width: 810
+        height: 456
+  - title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
+    excerpt: "Fight for the Future (FFTF) and Students for Sensible Drug Policy are organizing what they call a ‘National Day of Action to Ban Facial Recognition from College Campuses’ on March 2. FFTF and other groups have also called for and have actively been lobbying for a total federal ban on facial recognition technology, although there has been ..."
+    publishedDateTime: 2020-02-19T18:13:00Z
+    webUrl: "https://www.biometricupdate.com/202002/privacy-rights-groups-call-for-day-of-action-to-ban-facial-recognition-at-all-schools"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
 
 secured: "cdy1q733j5aw1ZGL3EQ7PJGoHJRf01iFwaa6jVmAISzqdBzCnCvG7Ov4wBTvfVleCBOyJpbWIxx5MubQTswEJXN25584JMquw8b/reN/DAGxFO8pFAh3dSbjvFdRgEXv+cmd1cpGQeP/vIJgeGEnEtWYSZjJvPormYzLhvANWxJhraFv08mH/nB+wT6F/fmT/Fix0fPuJ0pLVnv9JGojjA9QB3q42xxkTgWoDMs7GD8ouPXPNBIIJR6+387irrzlfmBjq5vtbXHdfI+47cztzcrQ22cpA/4CpAHSF0ADUQmCgdlOQFSdG1p0d+lJb5qWmAu6xPLwUgY6qDmN8duL5PPPT5kdeCwlasETNvoCHTafUjACAxY7Ak788GonYbWhlE/AbubR8AQP775nKXfIPuabVdTZLEML1Vl1Kh9Wy2uMZWiYY2MYhZoDePzKApu2atcjyhY3DN/rsIceSnXdNdaLp7cwe0aAz5/S/eH2xxo=;RDgeQzm9ocjO5j2SdHlIcw=="
 ---

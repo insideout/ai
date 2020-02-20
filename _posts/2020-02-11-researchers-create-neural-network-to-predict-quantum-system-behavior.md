@@ -23,17 +23,6 @@ images:
     height: 204
     title: "Researchers Create Neural Network to Predict Quantum System Behavior"
 
-related:
-  - title: "Moscow: New artificial Intelligence tool predicts the behaviour of a quantum system"
-    excerpt: "Moscow: Russian researchers have created an Artificial Intelligence (AI)-based tool that has learned to predict the behaviour of a quantum system by \"looking\" at its network structure. The neural network autonomously finds solutions that are well-adapted toward quantum advantage demonstrations, according to a study published in the New Journal ..."
-    publishedDateTime: 2020-02-05T20:02:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/moscow-new-artificial-intelligence-tool-predicts-the-behaviour-of-a-quantum-system-602929"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 13
-
 secured: "68Zp7arYROA1G7KoaaOajjrzgHpbF9Wvm32Rp2pUiQ1MiH363Jz2oymG0DILQN6r9MPd/p0MKbi2OiIBUgrHpBDvS1bAepmqwXx3Qa5ow5GBXRQbFKpft/R0qCBSqyJTwkF72jnHsysWzKlRSDpN5VHzJhswB1OQehtomTAL+VajtKtIjuNsa9oI3c8mOvysMicPmplcxY+dnn1ZUxDocRLTi9NYIfXi0qxJcmr+pwcaJ+zGxlVG09tMkCWT5SUzVjCO7CNGDpDRnndfBWGl2vB/H/3GYaSKfK4Do3tYCnB+zA/YNDKWX7UwaJK9575YooPT8FCLD7H7szeCptEp3igEZS3KiXQFwcR+sy7QhEd9hIFAcjoRv2+prfDduvOZ+yprADSU4huaaeM9YdhtMZRoE8U8D4um/obin54+G1/wNgRfG4ptolRAepMkoqPOC1x5xVH3PrJFHrbFV07aCytyo0da/VZrqMsR3v++yLE=;o3DIx2v7rVI6Cn+sIrjtzw=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "How I install compatible NVIDIA CUDA Tookit and cuDNN packages on Ubun
 publishedDateTime: 2020-01-29T12:37:00Z
 webUrl: "https://medium.com/analytics-vidhya/how-to-set-up-tensorflow-gpu-on-ubuntu-18-04-lts-7a09ffd5f30f?source=---------2------------------"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Google AI
 
-secured: "GwMinSinTOBUS8Wol9d8DNwNC+nhPwvc8jZN7TCay7EUBjZwlrvujF4IriD9gcBHTKiPgPJ9UdhbIGi63gyWu7Nh/EAW9Xdclfcui5nH3DOREyw0I9gd2SD8S7n2yeYDoNTtyYDkQFsixWBCt49pSsqW9uFaHrbI3fFwiJpXKeEkFXNEFDDKRyo5AzaqUSmnT/i0AcrVTHI+MBDMkAtqWgu62N5EQZ/Aooh1hQqY1srh+k8ATfZrHFP1fyczelaEl4dNSgU9wUNG5MMbE0b6MNy352QnUohTTSDfCRIPqUM2kyuEDfMup0MYCSW0ACJ2;5VDunsxCo3OwpiASXi2R7w=="
+images:
+  - url: "https://miro.medium.com/max/661/1*aBcfRK-jUEB1y3EVM1YgQg.png"
+    width: 661
+    height: 413
+    title: "Install TensorFlow GPU on Ubuntu 18.04 LTS"
+
+secured: "HiVZMS7TMEUrqCC8iUJwLs+hHLeXiOWeZcvo0lV2Hb/O3OBUDzgc0J/L2ZsPg+8tpx1yyd9eM5ejVJOwFVkIT5hDavIHO+vSYhP62k09pAcQ3fXr3j7oPS8qTmFomguRLh7o/T77MaYu6YL8OPRDm1XtHDb5smIkZ4rvA3+R6J2H88DxD6Y/4koHgaiD9aves6ws/pJlfFwhH80Iwh2D8wG3rTLq5Lgg2MNGE5VHahAJSOo274V10ilWoejm7eZTffT5Me+PWnwbfKnksiGJ0wLPXEJPQ7LlDYA6Y6bs7A01OFMJ/uCLYDbsRLrykao8;nM1l4y0ce/xmoccLpyANFQ=="
 ---
 

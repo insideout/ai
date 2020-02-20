@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/02/n15362033/the-war-against-
 ampWebUrl: "https://amp.benzinga.com/amp/content/15362033"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15362033"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 secured: "gdNLON4sv7IwAQuQoCgo2yvU8L6Jmwrg770kBR6j+LxOYExEg68HNHDqAxEULwiSB5/Dum5zvAuk3aJw3FOgDqxiE/bWdmLTlQV+zkEmkDT+F5uFeoTahl0pgcIN5VrCx0tfh6HbYu+S2nM9o1XiagWWV1rf+0FJG5gCFSxQhOdJEkI8b97Qf/e12Ris4FrMVpIQXCZiYOJlxucr6vQTT14CSochkYZ79yNTVIaegT2mzFd8c4FIVjNAqEP2ip2m6lZMH0JG8/LucO+6rgk3eFxLNqCwiBJ5o2pSG33jFFLfX0QvPxPeMoYQ38nsw3QF;lzjK+w8RzocxI1eeyHqVhg=="
 ---
