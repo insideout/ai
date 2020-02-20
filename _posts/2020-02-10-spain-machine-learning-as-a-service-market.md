@@ -31,15 +31,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/GNY-ML-as-a-Service.jpeg"
         width: 967
         height: 725
-  - title: "gny.io Limited: GNY Launches Machine Learning as a Service tool in AWS Marketplace to make Businesses AI-ready"
-    excerpt: "AWS Marketplace and the AWS Marketplace logo are trademarks of Amazon.com, Inc. or its affiliates. Today, GNY, a decentralized machine learning (ML) platform, announced the launch of a new Software-as-a-Service (SaaS) tool designed to allow businesses to check the AI-readiness of their data. The GNY Data Diagnostic analyzes a company's datasets ..."
-    publishedDateTime: 2020-02-05T15:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48779319-gny-io-limited-gny-launches-machine-learning-as-a-service-tool-in-aws-marketplace-to-make-businesses-ai-ready-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 31
 
 secured: "9avJAx+ooBhU25Pt3YVxTr5ffwkqdRU8WUMU8yRnPEz/H0a6YUsQyz/Odkrc8hYPjrwDfFGoub6f0tRpm99pYDZGDOUvAQNc1aBZZ9SERK2x2aYIaIvyhg4Cg1+nPnqyQYaWHCpIRMJKDtkk/m9z2js1v4fZGM3W04S1aFRISngU6LZWaLlwpZ1LraE8Pf6abEGjXRD2T2sXRsXQE8E7FaavL2YoCSdJR71z4nqM92cQQh0E3rHXEBCEljygmVYaF6vuinhe4D8dmhJ8RcekCCioYyqToaBrFPTIlpBmt7xwDV+Uz1XLQ4btYSTZN+l/;HrxabarkIO9is0M1uqaExg=="
 ---

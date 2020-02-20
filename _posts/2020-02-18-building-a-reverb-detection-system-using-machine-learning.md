@@ -67,6 +67,19 @@ related:
       - url: "https://miro.medium.com/max/378/0*pJ_V5RBE48AfmED2"
         width: 378
         height: 410
+  - title: "Run RAPIDS experiments at scale using Amazon SageMaker"
+    excerpt: "In this post, I’ll walk through an end-to-end code example of how you can run scale-out RAPIDS using Amazon SageMaker"
+    publishedDateTime: 2020-02-12T20:44:00Z
+    webUrl: "https://medium.com/rapids-ai/running-rapids-experiments-at-scale-using-amazon-sagemaker-d516420f165b"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*4ocfepDUnIjpupPgkXhtgA.png"
+        width: 1200
+        height: 522
   - title: "CDHI Foundation and IBM tracking the progress of Huntington's disease using AI"
     excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
     publishedDateTime: 2020-02-12T04:32:00Z

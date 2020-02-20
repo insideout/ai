@@ -86,21 +86,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/10/Coins-Pounds-Money-UK-sketch-600x415.jpg"
         width: 600
         height: 415
-  - title: "The 12 Largest US Tech Startup Funding Rounds of January 2020"
-    excerpt: "Founded by JoeBen Bevirt in 2009, Joby Aviation has now raised a total of $720.0M in total equity funding and is backed by investors that include Toyota Motor Corporation, JetBlue Technology Ventures, Capricorn Investment Group, SPARX Group, and Toyota AI Ventures. Investors in the round: Abdul Latif Jameel, Baillie Gifford, Capricorn ..."
-    publishedDateTime: 2020-02-05T14:27:00Z
-    webUrl: "https://www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/14/"
-    ampWebUrl: "https://www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 42
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/02/January-2020-us-top-startup-fundings.jpg"
-        width: 1000
-        height: 525
   - title: "Fintech Firm Ramp, which Offers Corporate Credit Cards, Secures $25 Million in Funding"
     excerpt: "Ramp’s team has a diverse background from companies in the Fintech sector, such as Affirm’s former vice president of engineering, executives from Plaid and Atrium, and product engineers from Facebook’s AI research team. Ramp’s team members also come from the Google research division, Capital One, Goldman Sachs, Apple, and Lyft."
     publishedDateTime: 2020-02-14T04:46:00Z

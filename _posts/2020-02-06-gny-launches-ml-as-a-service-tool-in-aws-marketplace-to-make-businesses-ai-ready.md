@@ -24,15 +24,6 @@ images:
     title: "GNY Launches ML As A Service Tool In AWS Marketplace To Make Businesses AI-Ready"
 
 related:
-  - title: "gny.io Limited: GNY Launches Machine Learning as a Service tool in AWS Marketplace to make Businesses AI-ready"
-    excerpt: "AWS Marketplace and the AWS Marketplace logo are trademarks of Amazon.com, Inc. or its affiliates. Today, GNY, a decentralized machine learning (ML) platform, announced the launch of a new Software-as-a-Service (SaaS) tool designed to allow businesses to check the AI-readiness of their data. The GNY Data Diagnostic analyzes a company's datasets ..."
-    publishedDateTime: 2020-02-05T15:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48779319-gny-io-limited-gny-launches-machine-learning-as-a-service-tool-in-aws-marketplace-to-make-businesses-ai-ready-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 31
   - title: "Spain machine learning as a service market"
     excerpt: "Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail & Ecommerce, Manufacturing, Healthcare and Pharmaceuticals, Travel & Logistics, Energy and Utility, Media and Entertainment), Country (Spain) Competitive Landscape and Spain Machine Learning as a Service Market Share Analysis Spain ..."
     publishedDateTime: 2020-02-10T06:49:00Z

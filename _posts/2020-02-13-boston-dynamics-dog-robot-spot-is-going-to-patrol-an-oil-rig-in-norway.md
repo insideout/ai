@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-13T12:05:00Z
 webUrl: "https://www.technologyreview.com/f/615194/boston-dynamics-spot-dog-robot-is-going-to-patrol-an-oil-rig-in-norway/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,14 +25,18 @@ images:
 
 related:
   - title: "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is"
-    excerpt: "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ..."
-    publishedDateTime: 2020-02-20T00:04:00Z
-    webUrl: "https://www.theverge.com/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues"
+    excerpt: "But Spot might not be the indication of Skynet that most AI scaremongers intend to think itis According to papers acquired ... The test lasted 90 days beginning in August of 2019, preceding Boston Dynamics’ news in September that it would certainly start renting the robot to lots of business to evaluating its real-world capacity."
+    publishedDateTime: 2020-02-20T07:48:00Z
+    webUrl: "https://tecake.in/boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 46
+      name: tecake.in
+      domain: tecake.in
+    quality: 36
+    images:
+      - url: "https://i0.wp.com/tecake.in/wp-content/uploads/2020/02/bfarsace_190919_3680_0038.jpg?fit=1200%2C628&#038;ssl=1"
+        width: 1200
+        height: 628
   - title: "Video: Boston Dynamics’ robot Spot goes to work on an oil rig"
     excerpt: "A new pilot project is being undertaken by Aker BP, one of the largest oil companies in Europe, and Cognite, an artificial intelligence (AI) software-as-a-service (SaaS), to explore how robots can improve offshore operations. Part of the project is using Boston Dynamics’ robot Spot, the quadruped robot that is famous for opening doors."
     publishedDateTime: 2020-02-13T13:49:00Z

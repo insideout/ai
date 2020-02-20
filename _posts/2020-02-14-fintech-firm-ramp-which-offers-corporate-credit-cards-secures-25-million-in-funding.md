@@ -101,21 +101,6 @@ related:
       - url: "https://media.bizj.us/view/img/725821/fundingstartupistockphoto*600xx3454-2303-0-182.jpg"
         width: 600
         height: 400
-  - title: "The 12 Largest US Tech Startup Funding Rounds of January 2020"
-    excerpt: "Founded by JoeBen Bevirt in 2009, Joby Aviation has now raised a total of $720.0M in total equity funding and is backed by investors that include Toyota Motor Corporation, JetBlue Technology Ventures, Capricorn Investment Group, SPARX Group, and Toyota AI Ventures. Investors in the round: Abdul Latif Jameel, Baillie Gifford, Capricorn ..."
-    publishedDateTime: 2020-02-05T14:27:00Z
-    webUrl: "https://www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/14/"
-    ampWebUrl: "https://www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 42
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/02/January-2020-us-top-startup-fundings.jpg"
-        width: 1000
-        height: 525
   - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
     excerpt: "former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary computing, and Steve DeRose, a renowned expert in natural language processing, computational linguistics, and standards related to document processing. The company’s business ..."
     publishedDateTime: 2020-02-11T15:04:00Z

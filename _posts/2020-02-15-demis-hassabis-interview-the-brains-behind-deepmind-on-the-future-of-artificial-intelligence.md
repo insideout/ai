@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-15T00:00:00Z
 webUrl: "https://www.thetimes.co.uk/article/demis-hassabis-interview-the-brains-behind-deepmind-on-the-future-of-artificial-intelligence-mzk0zhsp8"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Times
@@ -37,6 +37,17 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F567205e8-d3b7-11e9-aa6d-16cb9f989e55.jpg?crop=6194%2C3484%2C0%2C323&resize=685"
         width: 685
         height: 385
+  - title: "DeepMind on the Brain’s Dopamine System and AI"
+    excerpt: "In January 2020, research scientists at DeepMind published peer-reviewed research in Nature that applied machine learning concepts to neuroscientific experiments. The findings reveal similarities between the biological brain’s dopamine system and AI distributional reinforcement learning algorithms. These discoveries may validate recent ..."
+    publishedDateTime: 2020-02-20T07:05:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/deepmind-the-brain-s-dopamine-system-and-ai"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/deepmind-the-brain-s-dopamine-system-and-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/deepmind-the-brain-s-dopamine-system-and-ai?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 54
 
 secured: "fMAa6Tp1gJNVQyqs16o0yYWoy/aIy8PuqBRyiKmEWKNN0YTJTNB4VAoevrmJ9Ob2YFOmxvaIxTR+mpPBLt5x46IU7DNP0p177NmyfB9nO3OaFMMM5cqWdKi5iB5rDoKN4lE70/67WgZfRJ4qtFcKh7aQ3CdpK0/wjccvA5htPA/5VC44alr/mTWILYLcVBU4BEMizItMlmFLi0MGMwdaAVzrzne6eMlLSij/u6M1P/1mnKfx8mMZRl3/q45xiGchmU/Wqk/TLTr6AYTut++wAVTLo4gOjVfSCpmz+D02vsS1sLFJ/3Xp0LJC/WJ4061h;lyBq3nN469roPCBLc23ZqA=="
 ---

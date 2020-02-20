@@ -31,15 +31,6 @@ related:
       - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
         width: 1254
         height: 836
-  - title: "Forter Introduces its Machine Learning-based Loyalty Program Protection Solution"
-    excerpt: "To share a press release or news update, please email our Features Editor, Ameya at: ameya.dusane@martechadvisor.com Loyalty program fraud rose 89% year on year, predominantly driven by the amount of personally identifiable information (PII) available from increasing numbers of data breaches. With direct and indirect losses from loyalty and ..."
-    publishedDateTime: 2020-02-05T14:35:00Z
-    webUrl: "https://www.martechadvisor.com/news/ecommerce/forter-introduces-its-machine-learning-based-loyalty-program-protection-solution/"
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 14
 
 secured: "t4zzyUtHzg8dhkVFw0zSfPmaEbTR2GdQuesIJEp+lL72EsE2qIuHhErBPhFp2QZW1dk7QXGEValqcD2JH+U0r7QkzEKmUEZA/br4fvzigP4Oz+DxdWrd+Tekv23/IQ5oyRaO0s7RuinwmxNhbd3Y7KET8z8hHR5vcUUbkz1n2kEmIZXGo6Z4Y6TCpDsg5ocMjmNURZh/Ab71aJ89odK1K6+LrOP59veWcF8NL2PhpmvByucYX82N3TyD2YvHVCWmEmAodIPg4t+Zs3HnB9brnCdhcuJGBaOSowVbg5Dr/OL0bJAb0z8LE8t3yg6/G869;hNqJLMZKwQz/ykweNm2wgw=="
 ---

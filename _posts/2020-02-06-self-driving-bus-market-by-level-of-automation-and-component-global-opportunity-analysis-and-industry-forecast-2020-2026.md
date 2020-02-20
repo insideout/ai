@@ -36,7 +36,7 @@ related:
     provider:
       name: Medgadget
       domain: medgadget.com
-    quality: 49
+    quality: 51
 
 secured: "HRBaeYd8Lj3dRxANfRCtGRzUQ3JNFCrX5WFRbSqmOIUVTkw1nyhPYMovjmLBOU125FlR/ne5dB7tkAnroXPb1NFAEQ7CPj859ww9j2Q1SvJK/LqwW6FQZ5y5TdmR7AovYoE0oTSTkPGo3sFlvsLuFLNGcUiQO9bSeuVgR3dwwRqiFPNzbORbnBCsAPF+Jl+nybdgOv7mkrU7N+3HHIwWue1avu0pNlfJSkPzWMpXyU5+TnUwYy8ur34jvTazWFLFtz3TJJOUFrnOwge50Okf0cdnAEIAULxFgq8zNxe5XKFH2vLK7yV+LgASAwfmdEbG;ye4/aBxCyBbIJ8o8VaGmJg=="
 ---

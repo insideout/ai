@@ -5,8 +5,8 @@ excerpt: "Robot brain worms is a novel drug delivery technique that can eliminat
 publishedDateTime: 2020-02-12T10:55:00Z
 webUrl: "https://www.medgadget.com/2020/02/healthcare-artificial-intelligence-ai-industry-analysis-2020-potential-for-both-ai-and-medical-robotics-market-in-healthcare-is-vast.html"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - IBM AI
 
 related:
   - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"

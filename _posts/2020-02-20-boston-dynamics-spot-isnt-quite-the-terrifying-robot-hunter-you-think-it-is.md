@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is"
-excerpt: "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ..."
-publishedDateTime: 2020-02-20T00:04:00Z
-webUrl: "https://www.theverge.com/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues"
+excerpt: "But Spot might not be the indication of Skynet that most AI scaremongers intend to think itis According to papers acquired ... The test lasted 90 days beginning in August of 2019, preceding Boston Dynamics’ news in September that it would certainly start renting the robot to lots of business to evaluating its real-world capacity."
+publishedDateTime: 2020-02-20T07:48:00Z
+webUrl: "https://tecake.in/boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is"
 type: article
-quality: 46
-heat: 46
+quality: 36
+heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: "/assets/images/organizations/theverge.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: tecake.in
+  domain: tecake.in
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://i0.wp.com/tecake.in/wp-content/uploads/2020/02/bfarsace_190919_3680_0038.jpg?fit=1200%2C628&#038;ssl=1"
+    width: 1200
+    height: 628
+    title: "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is"
 
 related:
   - title: "Boston Dynamics’ dog robot Spot is going to patrol an oil rig in Norway"
@@ -45,6 +47,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "NwmpxkXySYWuPWQ6F21YkuETaOfL5MSXMeLxdIxi79Xf8hV/cKFF5u+PDKr14SO7YPj2z15KHuh/T2GGyI0726J3jEnkZ+YixKkdtj8f/PxmIpfu8gm75IqoIc/tVxo8hBmS15YJKvPj6g3ZDgJ8N5Oo63Sw/drCcmB0PfWLWP+lvYMaYzqYXZpiKk+6dDb9aMSSo6bwidPwUsi0r5IDiQ+xCyD/DXeb59KO7/zZPYtn9drGMaGy6yveypbw1iS0HR8VaKRrgOuxb4beil7QDdz3Bf3xoH/SGSJRUIURFVPJmLe4se9hQaCkuUXwmQWHgs7EygcHzMOCuXjNYeRO3SqWddKLkdBrXuiEh0iWpWOcERAvJ0vg8LL0T3wfxMWNtvkmDiL7TMGz31HvZJACIStIVSdiHMgQx7cMXH6DtbNV9brrZHkcDohN4rYG0B7PJnlTQUUS6ZZITF4a8zYoS4rvYwacjV9QXtyZ1Oz35zY=;2m1JY2+w/+gjL4eprpJ2MQ=="
+secured: "N3p9yzYoXcKtt413XZNWCEbfe35eKXzSesism1pOgeBvuEdB2ovWRV8NncUm4smDqOrwR5TZy5YZ8NnsgsrKueYhVblZE1zkV1+0a0o9+YT60xacTRXe7w+9c42nE6bgmwqr3/z9zTP7BlLwnycuVhLHPEzcvbR1cnYE/ctbkIFw2X0hjZm+b0XbnSyP7e4fwZO2qQ2PKiaSWK4kWDmSnbzN5z/LcFrU1iCzfBuBMmySGKqK3VdSn1fUNsPvDJNdIFb13gX4b4MSMmVZ1hwxPiv0PQTfXEizVD0B4TntSCtIHSethDNJU/MSoy2/iJi2;QMLGg0QDesA12MZo9m71Bw=="
 ---
 

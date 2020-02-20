@@ -7,7 +7,7 @@ webUrl: "https://yourstory.com/mystory/artificial-intelligence-changing-content-
 ampWebUrl: "https://yourstory.com/mystory/artificial-intelligence-changing-content-marketing/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-changing-content-marketing/amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://images.yourstory.com/cs/users/b4d12160-b5c5-11e9-a9c8-dd066755f2ab/profile_image_1564819636222.jpg"

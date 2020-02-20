@@ -37,6 +37,17 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F289203c0-fd4e-11e8-92e0-7fb8092617eb.jpg?crop=5760%2C3240%2C0%2C300&resize=685"
         width: 685
         height: 385
+  - title: "DeepMind on the Brain’s Dopamine System and AI"
+    excerpt: "In January 2020, research scientists at DeepMind published peer-reviewed research in Nature that applied machine learning concepts to neuroscientific experiments. The findings reveal similarities between the biological brain’s dopamine system and AI distributional reinforcement learning algorithms. These discoveries may validate recent ..."
+    publishedDateTime: 2020-02-20T07:05:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/deepmind-the-brain-s-dopamine-system-and-ai"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/deepmind-the-brain-s-dopamine-system-and-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/deepmind-the-brain-s-dopamine-system-and-ai?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 54
 
 secured: "ZNwji2GMw3VNQ0N+IeBN08ckTE4jUSnjQp6K+Lnhl5DFWP22H2F0GHDwQZynCami31hXBUE0UT4j6UwuwI74OBBCMi+pqmJXFdIQbkb5E7TEqitPxe/J0Ur64fPCv9KnQ8SR+KXCSoroNYGGqLy35H8oC/2QNx1/Q4dxrZQHmp3fn9dZ96F8yPnDR8RqAJV1zsO0X1wpk1LIa3plXEBpG2G84cTXbQ78lkSsaNuAscLizcWyVCazOY0shLfeFVXSkctHz/O10b8d5nAG6lce6Ba9guM/iLyd+FU8p3yaDb1s/vBnXgbsw4yMRXvnG90M;dLrujUSrLK1sGbQwXr2QnQ=="
 ---

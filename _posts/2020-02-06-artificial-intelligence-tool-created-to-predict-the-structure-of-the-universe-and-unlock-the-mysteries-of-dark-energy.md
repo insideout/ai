@@ -8,7 +8,7 @@ ampWebUrl: "https://www.newsweek.com/artificial-intelligence-dark-emulator-unive
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1"
 type: article
 quality: 164
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 2500
     height: 1679
     title: "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy"
-
-related:
-  - title: "Artificial intelligence tool developed to predict the structure of the universe"
-    excerpt: "This allows astronomers to drastically reduce the computational cost needed for the extraction of cosmological parameters from observational data Credit: YITP, NAOJ This tool uses an aspect of artificial intelligence called machine learning. By changing several important characteristics of the universe, such as those of dark matter and dark ..."
-    publishedDateTime: 2020-02-05T14:32:00Z
-    webUrl: "https://phys.org/news/2020-02-artificial-intelligence-tool-universe.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 13
 
 secured: "WKl80bUES7WLpXlKHiWOocMLZMWVtsqY3NQ/vtmtWr291XhHrJd1aFcj4lDlajeW2VBIzTVklE0TMpRardbfDUz6TzL/3c+KCtsB9qgC5s+SZ+1/jWV1qNxGKN9ypUZi7VOt6yGnc76W8Oh5jfzFuiiS88KJCJa/MXvK63onNGrKbci5sDr68I1GVU+PZmfPWwNAJp/hM3fkdlUX4f/s3+WITlVdM/uHU4p3i65laaN4XJgEqcA3cUkeA81BQ0a/kLndksaxpjOJx88FTS6n6fWplNGlERiHt15QkIqPI2jey/2WJDdmlC3Ow09A4dNq6zmZkv+DFQ32LsXgMM9HOir4S0p6CQgepceBZAF1mZNjK6HRelBZXFGoj2jugD4bphZg/0k90Hc7mamWz+Lp0JL6MIh19HQ32vQ8QttHT4LQ4y9RAc0vCKl7AvUwUZ+PguVeLOd2Q8pmfwnSK1QQJA5lFH7NxgZ1FODD7N9TMrt8UA94wmn5KpmQO7PmuEJF;o0ojqY9jO+iynw7cIg6UrA=="
 ---

@@ -54,6 +54,19 @@ related:
       - url: "https://miro.medium.com/max/378/0*pJ_V5RBE48AfmED2"
         width: 378
         height: 410
+  - title: "Run RAPIDS experiments at scale using Amazon SageMaker"
+    excerpt: "In this post, I’ll walk through an end-to-end code example of how you can run scale-out RAPIDS using Amazon SageMaker"
+    publishedDateTime: 2020-02-12T20:44:00Z
+    webUrl: "https://medium.com/rapids-ai/running-rapids-experiments-at-scale-using-amazon-sagemaker-d516420f165b"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*4ocfepDUnIjpupPgkXhtgA.png"
+        width: 1200
+        height: 522
   - title: "Building a Reverb Detection System using Machine Learning"
     excerpt: "Very little reverb. A lot of reverb. What we are actually trying to measure with our machine learning (ML) model is the Reverb Decay Time. This can be defined as the amount of time in seconds that it takes for a sound to fade away. The technical term for this is the RT-60 time, which is the time it takes for a sound’s pressure level to drop ..."
     publishedDateTime: 2020-02-18T14:07:00Z

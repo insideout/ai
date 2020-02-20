@@ -36,6 +36,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "1VVW9/Wi6NY3hSg3iqCeMVVBSQWGdx7VO2e4zi9Z9+YMWGyG7dVHWhFF42Sv6fY8PbSMskVbHO2oobP576Y7HAqw2S9SbG60fzGNn0GLljdz5ipEcR+I//cciDywXB57NpulnrUNwrTMHN4cBKvyskdtbsOKmVDyXXvWrRTzdrveFOYwXty1HDgL1JrS5ojpsH0nc1cOhBD2NHLESWSi7GHG1a+1mQCurFFD/njmoaCklnuRdACXhYxVsnJlaQWWXWJ1d+KFlfHsPRfjVTDqGpFPeIqSE52/+zAOrzczwwzQ9O59i7a4mj85CfxInLVJ;DGhNhmkPKWL0Os3231ppvA=="
+secured: "jMZ7gzII7eKcEwQt5DhgwutPgyZfrGmehT9BWchquTaAV8uNmXHAtvf+99pOOEs7rvjLgNG6Dm/w7HNGmQuib8vMyl+euAht+2Piwy8vLfSVnTwINAbBoZzIf6DL0HRFolhX9YN3krZ/1A8IpdSUCSJCHwHEGJtvdW0BS31sawUiCKt0udR9nMwsQ/PXXVDBrqOg+yxF2+3/0G7gbs1AAJ141U7ZFVCD1So6mcRvM885jD4YL5c36pkn4IC23zZI+DTW9O+xB1Da5aAE/kCPOtH/LVt3jfsa1qXjgeCilx3ltUA29pEVsfVd+dJLCBer;m2auuCBmkesobL/ljyHWnA=="
 ---
 
