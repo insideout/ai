@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Financial Times
@@ -25,6 +25,19 @@ images:
     title: "AI discovers new antibiotics effective against certain diseases"
 
 related:
+  - title: "Deep learning AI discovers surprising new antibiotics"
+    excerpt: "You spend months in the heat of Arizona digging up bones only to find that what you've uncovered is from a previously discovered dinosaur. That's how the search for antibiotics has panned out recently."
+    publishedDateTime: 2020-02-20T17:45:00Z
+    webUrl: "https://www.sfgate.com/news/article/Deep-learning-AI-discovers-surprising-new-15070809.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 54
+    images:
+      - url: "https://www.sfgate.com/img/pages/article/opengraph_default.png"
+        width: 500
+        height: 261
   - title: "Artificial intelligence yields new antibiotic"
     excerpt: "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ..."
     publishedDateTime: 2020-02-20T16:09:00Z

@@ -165,6 +165,21 @@ related:
       - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/2/6/52300b9d1ce048f2a0623c7f4b109fb1_18.jpg"
         width: 583
         height: 325
+  - title: "Washington Passes Government Facial Recognition Rules"
+    excerpt: "Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments, one in a series of related proposals up for review this year. (TNS) — Washington state senators ..."
+    publishedDateTime: 2020-02-20T17:56:00Z
+    webUrl: "https://www.govtech.com/policy/Washington-Passes-Government-Facial-Recognition-Rules.html"
+    ampWebUrl: "https://www.govtech.com/policy/Washington-Passes-Government-Facial-Recognition-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Washington-Passes-Government-Facial-Recognition-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/seattle8.jpg"
+        width: 940
+        height: 630
   - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
     excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
     publishedDateTime: 2020-02-17T01:11:00Z

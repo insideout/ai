@@ -2,140 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-19-this-phone-uses-ai-to-block-you-taking-naked-selfies.md",
-      "title": "This phone uses AI to block you taking naked selfies",
-      "excerpt": "Ever sent a nude photo to a partner before? If so, you're not the only one. Just under 50% of American adults have sent nude photos (or videos), said one 2014 study, while a survey by Cosmo found that 89% of millennial women had taken naked photos.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
-      "publishedDateTime": "2020-02-18T19:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/QiliQ1lVT-fjyYxebjYV2stM8r8=/756x567/2020/02/19/8ff3f60d-9d84-46e2-a6b1-ef42e5874c1c/screen-shot-2020-02-19-at-2-22-28-pm.png",
-          "width": 756,
-          "height": 567,
-          "title": "This phone uses AI to block you taking naked selfies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-this-smartphone-sensor-can-detect-live-skin-to-halt-facial-login-spoofing.md",
-      "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
-      "excerpt": "Apple’s Face ID is the gold standard in facial recognition tech, but it’s not one hundred percent foolproof. Highly detailed 3D printed masks can trick it. Less sophisticated 2D sensors, still found in many smartphones, can be tricked with a photo. The next generation of facial recognition technology is on the horizon, however, thanks to 3D ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
-      "publishedDateTime": "2020-02-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/trinamix-live-skin-demo-8-of-7-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-this-startup-is-using-ai-to-transform-industrial-quality-inspections.md",
-      "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
-      "excerpt": "Neurala's Brain Builder platform leverages artificial intelligence to make revolutionary leaps in machine vision industrial inspection technology.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/",
-      "ampWebUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
-      "publishedDateTime": "2020-02-19T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c97476895e0000683937c%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters.md",
       "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
       "excerpt": "Can we get AI talent to come to our shores, not just for education, but for work? Can we get AI talent to work in national security in a way that's consistent with their principles? Can we get a federal government ... the first thing we need to say, I think there's a lot of hype in Silicon Valley around AI and cyber on defense.",
@@ -394,6 +260,42 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-ai-discovers-new-antibiotics-effective-against-certain-diseases.md",
+      "title": "AI discovers new antibiotics effective against certain diseases",
+      "excerpt": "Artificial intelligence has been used to discover new antibiotics that treat resistant strains such as C. difficile and Acinetobacter baumannii (pictured) © FT montage; Janice Carr/CDC Share on Twitter (opens new window) Share on Facebook (opens new window) Share on LinkedIn (opens new window) Share on Whatsapp (opens new window) Artificial ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1",
+      "ampWebUrl": "https://amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1",
+      "publishedDateTime": "2020-02-19T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "AI discovers new antibiotics effective against certain diseases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -710,7 +612,7 @@
       "path": "_posts/2020-02-20-google-removes-gender-descriptions-on-ai-tool.md",
       "title": "Google Removes Gender Descriptions On AI Tool",
       "excerpt": "A Google artificial intelligence tool will no longer identify photos with gender descriptions such “man” or “woman,” Business Insider reported.",
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/",
@@ -882,6 +784,44 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-job-hunters-face-a-new-hurdle-impressing-ai.md",
+      "title": "Job hunters face a new hurdle: Impressing AI",
+      "excerpt": "Major businesses like Unilever and Ikea are turning to AI programs to sniff out suitable applicants — and predict future job performance — partly as a way to cut down on the time needed to hire employees. Supporters say the tech can help companies find better job candidates and eliminate some of the inherent bias that executives may not ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/job-hunting-ai-is-judging-you-but-critics-say-its-snake-oil/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/job-hunting-ai-is-judging-you-but-critics-say-its-snake-oil/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/job-hunting-ai-is-judging-you-but-critics-say-its-snake-oil/",
+      "publishedDateTime": "2020-02-20T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/11/15/aab6f7aa-648e-4d55-8ea9-b6500aebc498/thumbnail/1200x630/e8d230a763c1ccec2da525361e857c29/hal-9000-2001-a-space-odyssey-promo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Job hunters face a new hurdle: Impressing AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Computer Vision"
       ]
     },
     {
@@ -1068,7 +1008,7 @@
       "path": "_posts/2020-02-20-she-broke-the-glass-ceiling-to-establish-her-coliving-start-up.md",
       "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
       "excerpt": "Prior to this, the trio had founded Augbrain which uses artificial intelligence (AI) in education. However, the product was too complicated for ... Zolostays has raised $37 million in total till date. Choudhry revealed that the start-up is in advanced talks with new investors to raise up to $100 million for Series C round through a mix of ...",
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.entrepreneur.com/article/346594",
@@ -1233,14 +1173,14 @@
     {
       "path": "_posts/2020-02-20-this-college-banned-students-from-even-discussing-facial-recognition.md",
       "title": "This College Banned Students From Even Discussing Facial Recognition",
-      "excerpt": "Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event where the ACLU of Michigan and Detroit ...",
+      "excerpt": "This article originally appeared on VICE US. Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event ...",
       "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.vice.com/en_ca/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
-      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
-      "publishedDateTime": "2020-02-20T05:50:00-08:00",
+      "webUrl": "https://www.vice.com/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
+      "publishedDateTime": "2020-02-20T05:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VICE",
@@ -1311,6 +1251,51 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook.md",
+      "title": "When It Comes To Artificial Intelligence, Throw Away That Tired Old Tech Rulebook",
+      "excerpt": "MIT Sloan survey finds AI incurs risks and demands for executive involvement not seen in previous technology incarnations.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/02/20/when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/02/20/when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/02/20/when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook/amp/",
+      "publishedDateTime": "2020-02-20T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4eaced765d4500072cca5b%2F0x0.jpg",
+          "width": 478,
+          "height": 327,
+          "title": "When It Comes To Artificial Intelligence, Throw Away That Tired Old Tech Rulebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {

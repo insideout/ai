@@ -91,6 +91,19 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "Facial recognition cameras scan 4,600 faces but don’t find a single crook"
+    excerpt: "Scotland Yard’s first operational deployment of facial recognition cameras has been described as a failure after it did not spot a single suspect after hours spent scanning thousands of people. The country’s biggest police force was accused of wasting taxpayers’ money at the expense of civil liberties after it emerged that earlier this ..."
+    publishedDateTime: 2020-02-20T17:33:00Z
+    webUrl: "https://www.thetimes.co.uk/article/facial-recognition-cameras-scan-4-600-faces-but-dont-find-a-single-crook-jltfrtlcn"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 38
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4a5770c6-53f1-11ea-b4ee-385bb4c8d255.jpg?crop=2742%2C1543%2C616%2C465&resize=685"
+        width: 685
+        height: 385
   - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
     excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
     publishedDateTime: 2020-02-19T14:33:00Z

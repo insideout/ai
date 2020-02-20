@@ -37,6 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Service Robotics Market 2024: Regional Outlook, Latest Trend & Industry Share Report"
+    excerpt: "The personal sector has turned to be another prominent application vertical for service robotics market, especially with the increasing deployment of household and entertainment robots. Rising penetration of vacuum cleaners,"
+    publishedDateTime: 2020-02-20T17:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-2024-regional-outlook-latest-trend-industry-share-report-2020-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Know the Rapid Growth Factors of AI chips Market| Stay Up-to-date with Emerging Industry Trends Ahead"
     excerpt: "Global AI chips Market Research Report 2020 include all basic information related to the global Industry and forecast till 2024 AI chips are the silicon chips which includes AI technology and use machine learning and IoT that have the ability to analyse data and make decisions based on it."
     publishedDateTime: 2020-02-14T08:48:00Z

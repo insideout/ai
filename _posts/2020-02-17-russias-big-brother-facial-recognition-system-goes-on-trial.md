@@ -151,6 +151,21 @@ related:
       - url: "https://assets.vogue.com/photos/5e46c4856d8f97000815dd3e/master/pass/VO0320_FacialRecognition_01.jpg"
         width: 4068
         height: 2820
+  - title: "Washington Passes Government Facial Recognition Rules"
+    excerpt: "Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments, one in a series of related proposals up for review this year. (TNS) — Washington state senators ..."
+    publishedDateTime: 2020-02-20T17:56:00Z
+    webUrl: "https://www.govtech.com/policy/Washington-Passes-Government-Facial-Recognition-Rules.html"
+    ampWebUrl: "https://www.govtech.com/policy/Washington-Passes-Government-Facial-Recognition-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Washington-Passes-Government-Facial-Recognition-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/seattle8.jpg"
+        width: 940
+        height: 630
   - title: "AI and facial recognition in 2020: where’s the line?"
     excerpt: "security and AI ethics to be at the forefront of the conversation. As regulations continue to be made at a city, state or federal level, they will shape the extent to which we can use AI, and how we will approach the “AI race” in this decade."
     publishedDateTime: 2020-02-14T10:08:00Z

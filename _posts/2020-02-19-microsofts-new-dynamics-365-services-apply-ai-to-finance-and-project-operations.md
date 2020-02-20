@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-servi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -73,6 +73,19 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
         width: 1200
         height: 630
+  - title: "Microsoft Injects New AI Features Into Dynamics 365"
+    excerpt: "The AI enhancements include first- and third-party data connections in Dynamics 365 Customer ... enterprises can act on insights based on customers' changing behavior and perception. Customer Insights can be used with Azure Synapse Analytics, which combines customer data with enterprise and streaming data, to improve data completeness, run ..."
+    publishedDateTime: 2020-02-20T17:41:00Z
+    webUrl: "https://www.technewsworld.com/story/86523.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 54
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-conference-room-1.jpg"
+        width: 620
+        height: 350
   - title: "SparkCognition Partners with Informatica to Enable Customers to Operationalize Artificial Intelligence and Solve Problems at Scale"
     excerpt: "SparkCognition is the world's leading industrial artificial intelligence company, and its Darwin data science automation platform accelerates the creation of end-to-end AI solutions to deliver business-wide outcomes. The partnership will allow users to seamlessly discover data, pull their data from virtually anywhere using Informatica's data ..."
     publishedDateTime: 2020-02-19T14:50:00Z

@@ -39,19 +39,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/disinfection-robot-6.png"
         width: 580
         height: 428
-  - title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
-    excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
-    publishedDateTime: 2020-02-06T01:04:00Z
-    webUrl: "https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/d/d-id/757320"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
 
 secured: "YiDjvMj6Q4uRD2l1FAFB55S1sBySC0Ct+0ksqzgfse0iAScYs0rI9S6kTNFUM2A1wNqApgi+i38me1yID259z5664UmP5Dv0hA893fZVwkQtgHAulliGj10I0khb9THbGreC/YLy1Ae2nBEpA4SyNZxd+Yayg/TvrFbSedC0+GyEM1aaKE34Sag0JqnWnocWLqcVeC1wndPd8d+D9LKCmueGiDBIHhmkMeAFQflbhX30KtAnhu2SWNqmhbwdraHMEnAe/6JDlyK6g5m7t9ozQ4uzOfUb+UYdtV3IGjo1944CfgeuxY7YUWsm8sjW0/Mt;rSb4AIq7s5R5ZXfMKA9vLQ=="
 ---

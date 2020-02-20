@@ -23,6 +23,6 @@ images:
     height: 1414
     title: "Cisco Innovates Cellular IoT Connectivity Management with 5G Readiness and Machine Learning"
 
-secured: "mNB5U9hn3+qXbRFTzdkNuTai6T1VbcfVCFrYKSfuDhkMmviHMB7KrsPIopsXZVr1g5LDlJeqJx2L6pLjowo+WBfi9XQlAqdZFu+iYasH9wbAE/sK7bjagGEvS7++44Mc3ELqsykDsGlY3S8AaPXX7tISDbOVAnDJpBs0BfsisRUB4pLeBLyUMGB4meZivgXpJf9SBQTkk9HCu4R06NsOY8ulMkcv3t+qH2juUCh+rMQjKqkz/4yR4cIK58OWTNPSExaDtDQlIJuUniP5a5d+MlEukq9RdVFLlfUUMXOHRdIoy5ocZ4jhw2pn1wie8JAX;/y6MH04gp+/b5YA/iYq75g=="
+secured: "W+lmuphl0Vmd+dhKzXO4AuvIovf9ZccbtNnnRkDrjYWslw+D9S7o1ycm7aJE+oSzhCDadRezzwiLHj/YFP39tU2h9T8aOvAuadIZffQRn+xh2BmvgtGMTXTIStgmurCpVc+3aSvsnvQFz4j9jnWVbr5bi2QTD5r0yi7McRGxVF/wZXvvXedhxFuUL/mbWMNCsQ5t3pvm6XbPNEhoE8mxWlIHuvIUqJOC2DGpW1CgGnrGW+eX3+AEg6ouAt+B9UQciLwC3v2T5bmpskLz7hz1k3dr3UnEzMfXUKVcPEh38uDK9SCPZlhxyFD2k39R6RCkAMIuzVyeIjvannAZarCL7rDpHgSbssfQ6a64pQ80SFCTe7giLSE8+wKx4Hq/tlK8nHZ3o8dJHYwhrPPIEVnQ1+/HGkinaRr7wOthX6EarlzkmfL1V5NItrlzgRgPJEKOArd7m2L0RqADBCLU8q/iXbYxr+hSkrVgUc6XI6l+7Os=;5EhguS/SEoE/8LXatYLdyQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-stud
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications"
 
 related:
-  - title: "A new chatbot can help at-risk students stay in college"
-    excerpt: "Powered by natural language processing and machine learning, the company’s new chatbot can communicate with students via text message in more than 100 languages and identifies trends in data to uncover hard-to-measure insights, such as a student’s sense of belonging or financial hardship. That data that can then be used by advisers to ..."
-    publishedDateTime: 2020-02-06T00:44:00Z
-    webUrl: "https://edscoop.com/a-new-chatbot-can-help-at-risk-students-stay-in-college/"
-    ampWebUrl: "https://edscoop.com/a-new-chatbot-can-help-at-risk-students-stay-in-college/?amp"
-    cdnAmpWebUrl: "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/a-new-chatbot-can-help-at-risk-students-stay-in-college/?amp"
-    type: article
-    provider:
-      name: edscoop.com
-      domain: edscoop.com
-    quality: 44
-    images:
-      - url: "https://s3.amazonaws.com/wp-media-es/2020/02/05185106/rock-n-roll-monkey-FTfjMijq-Ws-unsplash-1.jpg"
-        width: 2000
-        height: 1333
   - title: "A new chatbot could help at-risk students stay in college"
     excerpt: "Powered by natural language processing and machine learning, the company’s new chatbot can communicate with students via text message in more than 100 languages and identifies trends in data to uncover hard-to-measure insights, such as a student’s sense of belonging or financial hardship. That data that can then be used by advisers to ..."
     publishedDateTime: 2020-02-06T18:47:00Z
