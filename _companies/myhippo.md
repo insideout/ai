@@ -34,7 +34,7 @@ tags:
   - FinTech
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1087795536617443328/fFQmCjgh_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1121786360917106688/FLk_O3ki_400x400.jpg"
     width: 400
     height: 400
     title: "Hippo Insurance"

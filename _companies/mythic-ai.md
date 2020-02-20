@@ -32,7 +32,7 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/378800000542288111/9f0de099c28730e017ddaf26b60a048a_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg"
     width: 400
     height: 400
     title: "Mythic"

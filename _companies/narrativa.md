@@ -35,7 +35,7 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1064650550334021632/Kkg4jOdl_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1087795536617443328/fFQmCjgh_400x400.jpg"
     width: 400
     height: 400
     title: "Narrativa"

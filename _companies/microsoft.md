@@ -33,11 +33,7 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_400_400/0?e=1582156800&v=beta&t=nBu4Vid9kLL4LOTzUqhogOTGDATLBvq-PGHziJ7RI3s"
-    width: 400
-    height: 400
-    title: "Microsoft"
-  - url: "https://pbs.twimg.com/profile_images/1029849217693405184/RWvJ3wHK_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1103786517686771712/UvG4ZtYW_400x400.png"
     width: 400
     height: 400
     title: "Microsoft"

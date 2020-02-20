@@ -40,11 +40,7 @@ tags:
   - Wearables
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQES3nM4D7c5Ew/company-logo_400_400/0?e=1582156800&v=beta&t=t7ssKT-Bxfvp2IWGa-LggBz9PFECyuyBhq2l9PqRzGo"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1192592704984633346/sSPPimVm_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/378800000542288111/9f0de099c28730e017ddaf26b60a048a_400x400.png"
     width: 400
     height: 400
     title: "Narrative"

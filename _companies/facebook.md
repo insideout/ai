@@ -31,13 +31,9 @@ topics:
   - Facebook AI
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQFjQHzcZz7J6g/company-logo_400_400/0?e=1582156800&v=beta&t=Zj-6uk4qiDKxOuOyS7SHjpEy5Va5Y8dY_i0qtzvQQF4"
-    width: 400
-    height: 400
-    title: "Facebook"
-  - url: "https://pbs.twimg.com/profile_images/997213460776665088/KwaiDTTw_400x400.jpg"
-    width: 400
-    height: 400
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFjQHzcZz7J6g/company-logo_200_200/0?e=1590019200&v=beta&t=k3HQYz9Y3zM8YNM-oB732osNakVy0GoA7XioPrn7qLw"
+    width: 200
+    height: 200
     title: "Facebook"
 
 secured: "r7cQmRAkv9GeMcpMG5Fa5tH2H7/xApYEyeTR9pQOSA7Gq/+xit5Khxj6zNxurQQcMEYu7jKuzzWxyZZwsgGs+8UqevnSCZTGRdP5nLSx00gsEsU82WE+Np98zlD34a58ZFpL4nQCiZ7Nzf93Cg7At2T8yudhSuiq+aQqG9hs3qmCn9jAVKjWZIp6DQUbTsw5RUYFa9C5q9bBge1RyhLujV6MxVyFBGC9DHjf5sDtEHRxJ9IbcBg1Kg6tugFwKkv6CfzRkgEuDn2mr14auaDUhA==;P+uO8PV2dvyEf7lClYRKng=="

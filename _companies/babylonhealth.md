@@ -32,11 +32,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQFiKAgqIPCxHw/company-logo_400_400/0?e=1574899200&v=beta&t=DjJ0Fcg47JZygEeZ_qkW8PoyVazFhLym8t85WdvyrqM"
-    width: 400
-    height: 400
-    title: "Babylon Health"
-  - url: "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/992408734143049729/rCKvenAw_400x400.jpg"
     width: 400
     height: 400
     title: "Babylon Health"

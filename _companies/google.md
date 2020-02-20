@@ -31,11 +31,7 @@ topics:
   - Google AI
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0?e=1582156800&v=beta&t=kCKjIgArRzPeNHog6E9-nLFr4_PdMD82VMZVh9qZwPk"
-    width: 400
-    height: 400
-    title: "Google"
-  - url: "https://pbs.twimg.com/profile_images/877225025874653184/vITaYmsB_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1216813945408966663/vkVajfRz_400x400.jpg"
     width: 400
     height: 400
     title: "Google"
