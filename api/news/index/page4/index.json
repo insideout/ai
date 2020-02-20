@@ -2,206 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-11-ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-of-financial-aid-applications.md",
-      "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
-      "excerpt": "Otterbot is a free, AI-powered texting service that can help high school seniors apply for financial aid that covers tuition and fees for college and other training. Last year, Washington ranked 48th among U.S. states for the percent of students who completed federal financial aid applications or FAFSA, a standardized form used for awarding ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
-      "publishedDateTime": "2020-02-11T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/20190330_155633-e1556638491703-630x407.jpg",
-          "width": 630,
-          "height": 407,
-          "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app.md",
-      "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
-      "excerpt": "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ...",
-      "heat": 349,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
-      "publishedDateTime": "2020-02-11T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-arm-targets-iot-with-new-machine-learning-ip-processors.md",
-      "title": "Arm targets IoT with new Machine Learning IP, processors",
-      "excerpt": "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "publishedDateTime": "2020-02-11T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/London-IoT.png?fit=650%2C400&ssl=1",
-          "width": 650,
-          "height": 400,
-          "title": "Arm targets IoT with new Machine Learning IP, processors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-army-looks-to-block-data-poisoning-in-facial-recognition-ai.md",
-      "title": "Army looks to block data ‘poisoning’ in facial recognition, AI",
-      "excerpt": "The Army has many data problems. But when it comes to the data that underlies facial recognition, one sticks out: Enemies want to poison the well. Adversaries are becoming more sophisticated at providing “poisoned,” or subtly altered, data that will mistrain artificial intelligence and machine learning algorithms. To try and safeguard ...",
-      "heat": 314,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": "Army looks to block data ‘poisoning’ in facial recognition, AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-artificial-intelligence-for-machine-tool-maintenance.md",
-      "title": "Artificial intelligence for machine tool maintenance",
-      "excerpt": "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-02/kift-aif021120.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia/pub/web/223953_web.jpg",
-          "width": 720,
-          "height": 652,
-          "title": "Artificial intelligence for machine tool maintenance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-caption-health-received-de-novo-clearance-from-the-fda-for-its-ai-assisted-cardiac-ultrasound-software.md",
       "title": "Caption Health received De Novo clearance from the FDA for its AI-assisted cardiac ultrasound software",
       "excerpt": "Caption Health received De Novo clearance from the FDA for its AI-powered tool that guides medical professionals as they perform echocardiogram tests.",
@@ -495,7 +295,7 @@
       "path": "_posts/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
       "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
       "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
-      "heat": 245,
+      "heat": 235,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
@@ -1820,7 +1620,7 @@
       "path": "_posts/2020-02-12-deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026.md",
       "title": "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026",
       "excerpt": "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market.",
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12",
@@ -2152,6 +1952,220 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-milestone-systems-hosts-the-2020-milestone-integration-platform-symposium-mips-texas.md",
+      "title": "Milestone Systems hosts the 2020 Milestone Integration Platform Symposium (MIPS), Texas",
+      "excerpt": "“Each year we hear from an array of speakers that challenge our thinking about today’s technology and the new frontiers of tomorrow ... Canscan’s idea is the next-level shipping container checking system, powered by artificial intelligence (AI) called Virtual Checker. “Jennifer and her team have come up with an innovation that addresses ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sourcesecurity.com/news/milestone-systems-hosts-2020-milestone-integration-platform-symposium-texas-co-227-ga-co-1042-ga-co-1151-ga-co-3978-ga-co-8419-ga-co-10267-ga-co-12610-ga-co-14918-ga-co-1581411690-ga.1581411180.html",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/milestone-systems-hosts-2020-milestone-integration-platform-symposium-texas-co-227-ga-co-1042-ga-co-1151-ga-co-3978-ga-co-8419-ga-co-10267-ga-co-12610-ga-co-14918-ga-co-1581411690-ga.1581411180.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/milestone-systems-hosts-2020-milestone-integration-platform-symposium-texas-co-227-ga-co-1042-ga-co-1151-ga-co-3978-ga-co-8419-ga-co-10267-ga-co-12610-ga-co-14918-ga-co-1581411690-ga.1581411180.html",
+      "publishedDateTime": "2020-02-12T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/vandalism-surveillance-920x533_1578636475.jpg",
+          "width": 612,
+          "height": 355,
+          "title": "Milestone Systems hosts the 2020 Milestone Integration Platform Symposium (MIPS), Texas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-robotics-ai.md",
+      "title": "Nvidia VP Claire Delaunay will discuss empowering robotics startups at TC Sessions: Robotics + AI",
+      "excerpt": "which works to develop AI and general intelligence for robotics, and Joshua Wilson, co-founder and CEO of Freedom Robotics, which works to help companies launch and scale robotics systems. Tickets are on sale now for $345; you’ll save $50 when you book now as prices go up at the door. We have two Startup Demo Packages left for $2,200.",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/11/nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-roboticsai/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/11/nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-roboticsai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-roboticsai/amp/",
+      "publishedDateTime": "2020-02-12T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/claire_speaker_header.png?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": "Nvidia VP Claire Delaunay will discuss empowering robotics startups at TC Sessions: Robotics + AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
+      "title": "The Future Of Blockchain: Fintech 50 2020",
+      "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
+      "heat": 247,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "publishedDateTime": "2020-02-12T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future Of Blockchain: Fintech 50 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-this-eye-tracking-system-uses-ai-to-diagnose-multiple-sclerosis.md",
+      "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
+      "excerpt": "Now, C. Light Technologies, a neurotech and AI company that grew out of the Berkeley Skydeck accelerator, wants to help doctors diagnose neurological conditions with more speed and precision. The company has developed an eye-tracking technology paired with machine learning that can be used to diagnose multiple sclerosis (MS). Patients simply ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "publishedDateTime": "2020-02-12T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4752%252C2969%252C478%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F2bf14030-49c4-11ea-bd12-51dd6eb02117%26client%3Da1acac3e1b3290917d92%26signature%3Dc06466b4199d3f7b3a513f29e3fcc3a88a4b1399&client=amp-blogside-v2&signature=6405a5ad9aa4e773b6077a09463989cd83fdcb9b",
+          "width": 600,
+          "height": 350,
+          "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-this-startup-is-building-infrastructure-for-the-first-factory-in-space.md",
+      "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+      "excerpt": "In the quest to build bigger things in space, one Colorado-based company is readying for an epic construction demonstration mission. Blue Canyon Technologies will provide the spacecraft vehicle infrastructure supporting a “factory” that will 3D-print solar arrays in space.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/",
+      "ampWebUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "publishedDateTime": "2020-02-12T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43fce9f133f400076c4041%2F0x0.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

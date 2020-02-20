@@ -8,8 +8,8 @@ ampWebUrl: "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-stat
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: 61
+published: false
 
 provider:
   name: Los Angeles Times
@@ -26,21 +26,6 @@ images:
     title: "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one"
 
 related:
-  - title: "State Of The Union: Rush Limbaugh Awarded Presidential Medal of Freedom During Speech"
-    excerpt: "Then POTUS highlighted Limbaugh’s charity work as he made the unprecedented announcement in the House chambers: Related Story Donald Trump Injects State of the Union With Reality Show Reveals “Rush, in recognition for all that you have done for our nation – the millions of people a day that you speak to and that you inspire and all of the ..."
-    publishedDateTime: 2020-02-05T11:36:00Z
-    webUrl: "https://deadline.com/2020/02/state-of-the-union-rush-limbaugh-medal-of-freedom-donald-trump-1202851737/"
-    ampWebUrl: "https://deadline.com/2020/02/state-of-the-union-rush-limbaugh-medal-of-freedom-donald-trump-1202851737/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/02/state-of-the-union-rush-limbaugh-medal-of-freedom-donald-trump-1202851737/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 37
-    images:
-      - url: "https://pmcdeadline2.files.wordpress.com/2020/02/rush-limbaugh-medal-of-freedom.jpg?w=1024"
-        width: 1024
-        height: 638
   - title: "Trump turned the State of the Union speech into a reality show. Rush Limbaugh was its star."
     excerpt: "Controversial at best — while no one should wish Limbaugh ill, he has long used hate speech as a tool to divide people. Still, the recognition is not something you would put past Trump. Iowa's media meltdown:Yes, the Iowa caucus was a debacle. But Wolf Blitzer's near-meltdown on CNN won the night Then, however, Trump asked first lady ..."
     publishedDateTime: 2020-02-05T15:47:00Z
@@ -56,19 +41,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/439becd3-a8b6-4905-9e68-0345d42ce01b-XXX__JH19686.JPG?auto=webp&crop=4821,2712,x0,y702&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "State of the Union: Victory lap by Trump; frosty reception from Dems (including hand-shake snub and ripping up the speech)"
-    excerpt: "President Trump’s third State of the Union speech, under a cloud of impeachment ... including the presentation of the Presidential Medal of Freedom by first lady Melania Trump to conservative radio host Rush Limbaugh, and recognition of a 100-year-old Tuskeegee Airman, retired Brigadier General Charles McGee. >>Trump‘s friend in Palm ..."
-    publishedDateTime: 2020-02-05T11:50:00Z
-    webUrl: "https://www.palmbeachpost.com/news/20200204/state-of-union-victory-lap-by-trump-frosty-reception-from-dems-including-hand-shake-snub-and-ripping-up-speech"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 0
-    images:
-      - url: "https://www.palmbeachpost.com/storyimage/LK/20200204/NEWS/200209054/AR/0/AR-200209054.jpg"
-        width: 3476
-        height: 2317
 
 secured: "B2KQr8j+wNqqnA2SBA6os5s3cBPSJf/6+15VE4Ew6IHikx6zGQGz8E59W0usYzrLtbWvljhMGZS80LTjeZAa8Xh5gF+UwuffKE8/Lo5CFzt4JHJc5P8UkJrbYyjd5MZHAsWEnaneNqyKZ2AzapRHFbWqWGQTBGalkfA17jWSt7E6ZqqlQkNWXVUpvejiqUNPSGxQ5zmHgcerMdwkXga46Mnb2ltC8RtqoyHqsNyYGoyweJhTMZJIZ38tZTeTdE7Zj42RSQtJ6LfEAY/UWlYAKAVut2bmuC5PvdVq4wp+RA6y+JVrDacjVRfOn3tpmpMn;TH3Tq73JG+BERdf6ao0U3Q=="
 ---

@@ -41,34 +41,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/4bc5b3c/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F37%2F4e8a13c64254b008d334ca3f9f93%2Ftrump-impeachment-54621.jpg"
         width: 320
         height: 209
-  - title: "State Of The Union: Rush Limbaugh Awarded Presidential Medal of Freedom During Speech"
-    excerpt: "Then POTUS highlighted Limbaugh’s charity work as he made the unprecedented announcement in the House chambers: Related Story Donald Trump Injects State of the Union With Reality Show Reveals “Rush, in recognition for all that you have done for our nation – the millions of people a day that you speak to and that you inspire and all of the ..."
-    publishedDateTime: 2020-02-05T11:36:00Z
-    webUrl: "https://deadline.com/2020/02/state-of-the-union-rush-limbaugh-medal-of-freedom-donald-trump-1202851737/"
-    ampWebUrl: "https://deadline.com/2020/02/state-of-the-union-rush-limbaugh-medal-of-freedom-donald-trump-1202851737/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/02/state-of-the-union-rush-limbaugh-medal-of-freedom-donald-trump-1202851737/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 37
-    images:
-      - url: "https://pmcdeadline2.files.wordpress.com/2020/02/rush-limbaugh-medal-of-freedom.jpg?w=1024"
-        width: 1024
-        height: 638
-  - title: "State of the Union: Victory lap by Trump; frosty reception from Dems (including hand-shake snub and ripping up the speech)"
-    excerpt: "President Trump’s third State of the Union speech, under a cloud of impeachment ... including the presentation of the Presidential Medal of Freedom by first lady Melania Trump to conservative radio host Rush Limbaugh, and recognition of a 100-year-old Tuskeegee Airman, retired Brigadier General Charles McGee. >>Trump‘s friend in Palm ..."
-    publishedDateTime: 2020-02-05T11:50:00Z
-    webUrl: "https://www.palmbeachpost.com/news/20200204/state-of-union-victory-lap-by-trump-frosty-reception-from-dems-including-hand-shake-snub-and-ripping-up-speech"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 0
-    images:
-      - url: "https://www.palmbeachpost.com/storyimage/LK/20200204/NEWS/200209054/AR/0/AR-200209054.jpg"
-        width: 3476
-        height: 2317
 
 secured: "npIpJ9PIIkBQ+Zwsszez7EykZe3NpI2uVe6bDU2LMB8uz5orvsTpK5ypsnNCcx9NAwfO83HMruytgygiEACgjC4eiKD8YE3qptmrJPSZzN0X1Nv+ntfPS+9OytEnmBwv+F/tZWaKXl3cbdYPT0tVQUDM3H5YHhdJPmhJUWFGQJcIPZjtXfn/GDtwq6bBAWP71CcnFhtgnw4I3tgcel0fYjy7jHeOGPWYkQ35KGYoawVRk8qVhOECbFjJj5PRRpXt2aueBGmLQWmkqkrjcg/F5uw4pvKApeXC7JagUZpzt5ec1mvDxZ26LV0MVo+FAVIj;EAShhal0vitSmlRl3xKLIw=="
 ---

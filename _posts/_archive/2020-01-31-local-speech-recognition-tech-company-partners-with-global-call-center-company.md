@@ -4,11 +4,9 @@ title: "Local speech recognition tech company partners with global call center c
 excerpt: "Voci Technologies, a Pittsburgh-based company that provides automated speech recognition technologies, announced Thursday that it had entered into a partnership with a global provider of call centers."
 publishedDateTime: 2020-01-31T13:10:00Z
 webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html"
-ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
-cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
-quality: 55
-heat: 65
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
-    width: 600
-    height: 400
-    title: "Local speech recognition tech company partners with global call center company"
 
 related:
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
@@ -36,6 +28,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "i0jHNXrmRJi1yMMMsU/GoeivccxW8MBuzXUeNOHYsAAV0AQ5zuOz7xU6Yru+5+lv5h8J98/eA/+XtHL+EHhTWtZ1YqTYjCMQ3rCYiC97DRhCaFNoUYzyBppg36eyJToYQkUlolozejj8pCgxwP7cA+hWrGMeWmQ5Mnx3Y3jFSgpXsH/9oQ4oUg9/jT7w8S1PvTmpRBiQVzrVZhclrrik4KyHux310NVjov9DkHkwidf0vegSFtA207RykxEqSSfEOe498U7vlYarEXdZeZj6mGTonFd4zzU6dDVOKfrILD6+vrRkCXN/AWqw/p22lpll;0PQ8C0+XavPvVbd9vOM/tg=="
+secured: "NQ9FekrkghjHMKXIzxGVX76k101nWFbzRUSpdWqC6+b5X3Fc7LIryZ6rcdHmaWfFTbmfPrAgyZQNiWK/HjQw/ZLsaAfwtt39/+mJuHrb1X3/PELCclDI1FOTGgnOrHPofApphEGcVblYJl0gLRul6TQ/CZlRLgS58ycFuYFi6YOk0rdh9MZj43ZdwlhpD4ND7xtgA7ujrX9N/y35qxmSCH694PhOprfjs845/0aK7BXjNe1wH2mPNs3kfCbM5kSGYxyZRtMCjqqAw8TB8xBzkDea9oRmgIZTUS2MaOTpddu+/mZMm2LQvz75n+XA/RCC;UvZRGUK4YmNQu36yxaGk8Q=="
 ---
 

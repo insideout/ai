@@ -5,7 +5,7 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-02-05T06:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Image Recognition Market Worth $81.88 billion by 2026"
 
 related:
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
@@ -183,15 +177,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
-    publishedDateTime: 2020-02-05T12:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
   - title: "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Smart Learning Market by Component (Hardware ... Enterprise users include organizations catering to various verticals, such as retail; government; healthcare; and Banking, Financial Services and Insurance (BFSI). Corporate users implement these solutions as a tool to train and assess employees for providing ..."
     publishedDateTime: 2020-02-10T11:56:00Z
@@ -217,6 +202,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "MuAnxUBZIPyeGlmWmCubwMDcyF4pAMNMh4Nhsq+6KudzYHG4KUfTT0x0Zi+sgt+rwt0cjgm3ZRP2sevnXB4rvZFzj+h1FqQyrYHuVO3b0rj7/rMttethRmNuk9Aewj4VTZphtNDdBtDZPGA9cT2iGAKY1IKB4r7M4oAozoVJe8TznPaYuvImTGNbzZGScGKu9enxMY037JPcliceWhW4/69iXlihbYNa1P1tp0bN5OfS2DS00hoIatWEJ9Ft76yifu1PSz265HfXF31v2WDlCj+RyyM9b6pyJzpk+YVe50pw7CXJorFtbysRww/TujyZ;VkeIWHG/zkEaTFobFFn1QQ=="
+secured: "KEC2TGMyqdh3wGvEhc7yOxyXd17rOn4dz7BKZhuizNNhqZmACFM7LoKcIUojU6WmqzrYipcBMARmTqXmyRKSre1Yz8FiulQwlRGF00O+tcBxaObUs6KJRTRpjTQkYtKen2xp4CTOAVs4MwiE0cn80fWEpgxVf90dc0D3sXU1ZSQyodzMX15BebYkM8wbZbtvrT3iMw6So22mpfZ5ZnLZlfLMA/IWtC/nu4nS4Ezt6Umz1GaoDBAtbZDexG75sqgYRp5ppfqqI7dULYNsSqVKNNGBdMQ7G5yMkaVIEU1z/1ervtCsNi2NGnfjegdzM9PN;43P/J0L+YgBEhIKIM2F38A=="
 ---
 

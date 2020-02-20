@@ -90,19 +90,6 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 24
-  - title: "Growing Optimism in Emerging Markets, Fintech Company CGTRADE Expands Its Business in Asia Pacific"
-    excerpt: "This includes United States fintech investment advisory company CGQuant and its subsidiary CGTrade. CGTrade has set up operation centres across Asia Pacific regions including Malaysia, Singapore, Taiwan, Hong Kong. The company, utilizing powerful internal and external resources of CGQuant including AI big data algorithms, provides top-level ..."
-    publishedDateTime: 2020-02-05T11:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48776422-growing-optimism-in-emerging-markets-fintech-company-cgtrade-expands-its-business-in-asia-pacific-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 10
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/575314/1.png"
-        width: 1760
-        height: 786
 
 secured: "pcWSExulHPqf7SFcj93mDW0eErIFMV9iEMkPeakmv+skbPymSGZSR+IlicDwSuZGmw26R0JnF3Z50oI8PVvzEkR+W4PA8IsPRjQ5q7Q22yVTgj0CrIs3rZFKZSootiIN+E0rzHatD5cSmSXpOtTlq0LFEqMVUUtPJiktC7y2nMS4Oy5z5+DX/MBMZw5IVYfTB6PFZ473am5Ifrg3dJbRkqQVxu5R3sKuqrR3Zy1GC9Uo9JlbqCuD6t03kq1ipa6QCuInesebeWlPsJI5wyuPUcO5RTVfgwrrjmZo9dr3lniVToJ7UHvUTajIFfv6UXfh;gOfK9vE3HNOFRsnO1/w1bw=="
 ---

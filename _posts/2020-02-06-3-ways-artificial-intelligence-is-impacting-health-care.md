@@ -33,6 +33,17 @@ related:
       - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/02/Digital-Health_Bloomberg.jpg"
         width: 620
         height: 372
+  - title: "6 ways how technology is changing healthcare"
+    excerpt: "Advancements in technological developments over the past few years have led to incredible growth in the Indian healthcare space from an innovation perspective. New-age technologies such as VR (virtual reality), AI (artificial intelligence), 3D-printing, robotics, nanotechnology, etc. have led to what was visualized as the future of healthcare ..."
+    publishedDateTime: 2020-02-12T05:27:00Z
+    webUrl: "https://www.ciol.com/6-ways-technology-changing-healthcare/"
+    ampWebUrl: "https://www.ciol.com/6-ways-technology-changing-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/6-ways-technology-changing-healthcare/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
 
 secured: "2YJpQjOkzBNJjmECPYNz+QCa9U4T+0efJwlD1dj9IQ9p402jhYin7xaRLj/scszWyuRWuqUOZwI+UXQFQLEmh7TE9DmhM/2HKIWgJ9Lk1okoq0GtvgLvdB5B4CmJbhdd9gNFEfwvEGRRXZYICKEnqJMhIpdXZWiFsKUk25x+kxKgQ3OulzjJzJ1c2nzF9rwk+XEIiLZ1fn/Hlfat0k1UQHmWZRyl9L9Xcv3zWrFdEMaNfJJG2Bwp3U23RBO2O8Apc5tCMdvcBoyYA/Da8KtLpIynSVnJH/wxszHKVNe2KNOb/ZsPeyp4Sx3WuFxvHl03icwP+SJEfkpVzmAt5X0d/Igc8IhtGeiKgL3iH/AvEWkbkMSm+JLs94oCCCnaf/2fhzrug6V60eJwNRhUytgYrdQWowqMUXmHfse/hsMsRN+PdXf2ZwZ4z7mk83A6zvPUm7v11VjKo8MN2YJSKbCja3CQ9cirYwEEAWCx2jK9/Js=;PMpXi8CbmuojJ9vlIHmocw=="
 ---

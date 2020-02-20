@@ -2,220 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-17-what-does-fairness-in-ai-mean.md",
-      "title": "What Does Fairness in AI Mean?",
-      "excerpt": "A closer look at how bias can creep into AI systems, and the push toward more fair and equitable AI outcomes. It’s not every day that the musings of a 4-year-old echo the conversations of the world’s leading technologists—but that’s precisely the situation in which I recently found myself while driving my daughter home from day care.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/",
-      "publishedDateTime": "2020-01-16T19:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1f8038da6d38000629ac5f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5993%26cropY1%3D361%26cropY2%3D3733",
-          "width": 1200,
-          "height": 675,
-          "title": "What Does Fairness in AI Mean?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100.md",
-      "title": "Whoever leads in artificial intelligence in 2030 will rule the world until 2100",
-      "excerpt": "A couple of years ago, Vladimir Putin warned Russians that the country that led in technologies using artificial intelligence will dominate the globe. He was right to be worried. Russia is now a minor player, and the race seems now to be mainly between the United States and China. But don’t count out the European Union just yet; the EU is ...",
-      "heat": 153,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/",
-      "ampWebUrl": "https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/",
-      "publishedDateTime": "2020-01-17T13:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.brookings.edu/wp-content/uploads/2020/01/200117_global_ai_fig2.jpg?fit=400%2C9999px&quality=1#038;ssl=1",
-          "width": 400,
-          "height": 857,
-          "title": "Whoever leads in artificial intelligence in 2030 will rule the world until 2100",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-why-using-ai-to-screen-job-applicants-is-almost-always-a-bunch-of-crap.md",
-      "title": "Why using AI to screen job applicants is almost always a bunch of crap",
-      "excerpt": "Anyone who believes that an AI startup has built an algorithm that can tell whether a person of color, for example, is “tenacious” or “a good team worker” based on a 3-5 minute video interview should email me right away. There’s a bridge in Brooklyn I’d like to sell them.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/17/why-using-ai-to-screen-job-applicants-is-almost-always-a-bunch-of-crap/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Why using AI to screen job applicants is almost always a bunch of crap",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai.md",
-      "title": "Will Google’s more-efficient ‘Reformer’ mitigate or accelerate the arms race in AI?",
-      "excerpt": "Also: AI is changing the entire nature of compute \"The reversible Transformer does not need to store activations in each layer and so gets rid of the nl term,\" write Kitaev and colleagues, referring to the N layers of a network. With these efficiencies, they are able to cram a twenty-layer Transformer into a single GPU, they write.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/",
-      "publishedDateTime": "2020-01-17T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/17/d6a939b3-3e00-4284-8ae9-b410aee8530d/reformer-lhs-hashing-jan-2020.png",
-          "width": 1658,
-          "height": 1014,
-          "title": "Will Google’s more-efficient ‘Reformer’ mitigate or accelerate the arms race in AI?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-world-economic-forum-launches-toolkit-to-help-corporate-boards-build-ai-first-companies.md",
-      "title": "World Economic Forum launches toolkit to help corporate boards build AI-first companies",
-      "excerpt": "The value of building data-driven businesses with AI at their core is well known today, and business executives are rushing to implement the technology into their operations and gain a competitive advantage, but it’s not as simple as creating a data lake and creating AI models. A large number of AI companies attempting to implement more AI ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/17/world-economic-forum-launches-toolkit-to-help-corporate-boards-build-ai-first-companies/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/17/world-economic-forum-launches-toolkit-to-help-corporate-boards-build-ai-first-companies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/world-economic-forum-launches-toolkit-to-help-corporate-boards-build-ai-first-companies/amp/",
-      "publishedDateTime": "2020-01-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "World Economic Forum launches toolkit to help corporate boards build AI-first companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-18-apples-latest-ai-acquisition-is-a-glimpse-into-future-devices.md",
       "title": "Apple’s Latest AI Acquisition Is A Glimpse Into Future Devices",
       "excerpt": "Apple's latest startup purchase is one of many, but it also gives us a glimpse into the company’s thinking when it comes to future devices.",
@@ -1278,43 +1064,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-20-artificial-intelligence-needs-to-be-regulated-says-google-ceo.md",
-      "title": "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO",
-      "excerpt": "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical",
-      "publishedDateTime": "2020-01-20T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-20-can-ai-systems-be-unethical-the-answer-is-yes.md",
       "title": "Can AI Systems Be Unethical? The Answer Is Yes",
       "excerpt": "To avoid biased outcomes, data sets need to be neutralized in a manner that these biases disappear, or are at least minimised as much as possible. Tony Fish, visiting lecturer for AI and Ethics at LSE, said, “if we teach our kids morality then why not teach the machines? However there is a problem here—we are trying to build the moral ...",
@@ -2126,6 +1875,275 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips.md",
+      "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
+      "excerpt": "The Snapdragon 662 supports triple camera configurations, a first for the company's 6-series chips. It will also have Qualcomm's third-generation AI engine to let phone makers add things like avatars, night photography and face and voice authentication to cheaper phones. The processor comes integrated with the new X11 LTE modem that can ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
+      "publishedDateTime": "2020-01-20T22:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/uTtvRMBczx9c-gHi594-X_c3hdY=/756x567/2019/12/17/7be74ffd-64e9-4938-aa31-3f17084d1fae/xiaomi-redmi-note-8-8.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020.md",
+      "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
+      "excerpt": "The 720G (the G stands for gaming) is an octa-core chipset aimed at higher-end smartphones. Features include on-device AI (a privacy-focused priority for handsets from Samsung and others) and display resolution up to 2,520 x 1,080, along with 800Mbps top down speeds - still a respectable number, especially compared to the lower-band 5G networks.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
+      "ampWebUrl": "https://www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
+      "publishedDateTime": "2020-01-21T12:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uiwrFz8a2mmzeGUNyGgShg-1200-80.jpg",
+          "width": 1200,
+          "height": 677,
+          "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ai-can-do-great-thingsif-it-doesnt-burn-the-planet.md",
+      "title": "AI Can Do Great Things—If It Doesn't Burn the Planet",
+      "excerpt": "The effort may have consumed about 2.8 gigawatt-hours of electricity, estimates Evan Sparks, CEO of Determined AI, a startup that provides software to help companies manage AI projects. That’s roughly equal to the output of three nuclear power plants for an hour. A spokesperson for OpenAI questioned the calculation, noting that it makes ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-great-things-burn-planet/",
+      "ampWebUrl": "https://www.wired.com/story/ai-great-things-burn-planet/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-great-things-burn-planet/amp",
+      "publishedDateTime": "2020-01-20T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e1f606fbf8e550008579631/master/pass/Biz-powerplant-1140185265.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "AI Can Do Great Things—If It Doesn't Burn the Planet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ai-can-help-find-illegal-opioid-sellers-online-and-wildlife-traffickers-and-counterfeits.md",
+      "title": "AI can help find illegal opioid sellers online. And wildlife traffickers. And counterfeits.",
+      "excerpt": "Timothy Mackey/S-3 Research. Another challenge: People selling these substances online ... Meanwhile, Reddit, YouTube, Twitter, and Facebook all told Recode they’re now using automated or AI-based technology to flag or investigate content that violates their policies, including illegal opioid sales. Mackey said he’s only been in limited ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vox.com/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
+      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
+      "publishedDateTime": "2020-01-21T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_TtMyoxXclrY57IOGfFbYqmuhNg=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19608727/Screen_Shot_2020_01_17_at_11.28.22_AM.png",
+          "width": 618,
+          "height": 302,
+          "title": "AI can help find illegal opioid sellers online. And wildlife traffickers. And counterfeits.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ai-privacy-startup-mine-raises-3-million-to-help-users-ask-companies-to-delete-their-data.md",
+      "title": "AI privacy startup Mine raises $3 million to help users ask companies to delete their data",
+      "excerpt": "AI privacy startup Mine is one of 160 firms joining Intel's accelerator program. The firm has raised $3 million to help users take back their data.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/ai-startup-mine-raises-3-million-help-users-take-intel-data-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T01:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5aac3309cc502927008b48d0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "AI privacy startup Mine raises $3 million to help users ask companies to delete their data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ai-the-topic-that-got-sidelined-in-the-british-election.md",
+      "title": "AI: the topic that got sidelined in the British election",
+      "excerpt": "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "publishedDateTime": "2020-01-21T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "AI: the topic that got sidelined in the British election",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

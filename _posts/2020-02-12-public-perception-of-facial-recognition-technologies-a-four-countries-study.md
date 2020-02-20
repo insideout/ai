@@ -269,6 +269,28 @@ related:
       - url: "https://www.unr.edu//main/images/news/2020/Feb/MPLGroup.jpg"
         width: 900
         height: 678
+  - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
+    publishedDateTime: 2020-02-20T05:37:00Z
+    webUrl: "https://www.richmond.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_9e8d9d34-1567-5a38-afc0-d3af39b29e45.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+  - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
+    publishedDateTime: 2020-02-20T02:25:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/washington-senate-passes-bill-to-regulate-governments-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 0
 
 secured: "4TqDDOWjdc2agbic6iW0PVhI1QdZ5Oi3QvEO4osq2CzE0ncpczMVvtvhBS+mVLNQKfqMF+IrNtZNZhHUI8kllqht4HM06o2llDLUNOJFJWBA1Vu541BgMON83vfwt6VIsy0KJOXbnnv3ZAZ66EjZDwvDK60W3dyWmyaV8x3J3QWSCPc5NOckJ85uL031qsvBHpXwh4XAIuJ+cq3AeoQCKxk8JEaGv5oFXFjyCC9LjgbgpY7Ye+t+YYhIE2tjWS2prmDsN59b8honcvsrmrTyq3wdn9oDW6Exu6EQU6bO0Cu2mjbNKoppwFm3M0v7Dyof;nyf9h+feAqcW//zQsHtU0g=="
 ---

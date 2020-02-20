@@ -2,564 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-25-groq-launches-the-first-ai-accelerator-card-capable-of-1-petaops.md",
-      "title": "Groq launches the first AI accelerator card capable of 1 PetaOPS",
-      "excerpt": "Why it matters: Groq is the hundredth startup to take a shot at making an AI accelerator card, the second to market, and the first to have a product reach the 1 quadrillion operations per second threshold. That’s quadruple the performance of Nvidia’s most powerful card. The Groq Tensor Streaming Processor (TSP) demands 300W per core ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html",
-      "publishedDateTime": "2020-01-25T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-25-ts3_thumbs-52c.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Groq launches the first AI accelerator card capable of 1 PetaOPS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-25-how-artificial-intelligence-provided-early-warnings-of-the-wuhan-virus.md",
-      "title": "How artificial intelligence provided early warnings of the Wuhan virus",
-      "excerpt": "AI is upending companies, industries, and humanity. During the kind of virus outbreak that China and other nations are now contending with, time is of the essence. The earlier the warning, the better the chance to contain the contagion. One problem, though, is that governments are sometimes reticent to share information. Such was the case in ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/",
-      "ampWebUrl": "https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/amp/",
-      "publishedDateTime": "2020-01-25T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/01/wuhan-virus-outbreak-e1579994767750.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 799,
-          "title": "How artificial intelligence provided early warnings of the Wuhan virus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-25-mass-production-of-a-self-driving-restaurant-robot-is-coming.md",
-      "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
-      "excerpt": "Bear Robotics has received a Series A investment of $32 million and has plans to mass-produce its self-driving restaurant robot called Penny. The robot works as a food runner and can deliver items to a table.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
-      "publishedDateTime": "2020-01-24T19:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F43189452%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D0%26cropY2%3D2667",
-          "width": 1200,
-          "height": 800,
-          "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-25-researchers-in-us-china-use-machine-learning-to-make-better-solar-panels.md",
-      "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
-      "excerpt": "This is a companion discussion topic for the original entry at https://cleantechnica.com/2020/01/25/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://businesscomputingworld.co.uk/t/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/244767",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-25T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BCW",
-        "domain": "businesscomputingworld.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg",
-          "width": 512,
-          "height": 512,
-          "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-25-scraping-the-web-is-a-powerful-tool-clearview-ai-abused-it.md",
-      "title": "Scraping the Web Is a Powerful Tool. Clearview AI Abused It",
-      "excerpt": "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/clearview-ai-scraping-web/",
-      "ampWebUrl": "https://www.wired.com/story/clearview-ai-scraping-web/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp",
-      "publishedDateTime": "2020-01-24T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "Scraping the Web Is a Powerful Tool. Clearview AI Abused It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-25-sentiment-analysis-and-text-mining-using-azure-cognitive-services.md",
-      "title": "Sentiment analysis and text mining using Azure Cognitive Services",
-      "excerpt": "This post provides 6 sample codes showing how Azure Microsoft Cognitive Services can used to build AI solutions to tackle opportunities like sentiment analysis and text mining.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-25T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png",
-          "width": 1200,
-          "height": 600,
-          "title": "Sentiment analysis and text mining using Azure Cognitive Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-ai-robot-will-replace-managers-by-2024.md",
-      "title": "AI robot will replace managers by 2024",
-      "excerpt": "In the coming times, new technologies such as Artificial Intelligence (AI) can make everyday tasks easier ... It further states that restaurants are implementing AI robotics technology so that paralyzed employees can also control robotic waiters from remote locations. Due to technologies like Braille readers and virtual reality, institutions ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.newstracklive.com/news/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "publishedDateTime": "2020-01-25T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.newstracklive.com/uploads/technology-news/gadgets-news-info/Jan/26/big_thumb/sdtyfstyfsf_5e2d2d0e90399.JPG",
-          "width": 1122,
-          "height": 675,
-          "title": "AI robot will replace managers by 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-apples-dismissal-of-200-self-driving-car-employees-points-to-a-shift-in-its-ai-strategy.md",
-      "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
-      "excerpt": "Apple dismissed 200 employees from its self-driving car unit on Wednesday. Apple said some employees have been reassigned to work more broadly on artificial intelligence and machine learning at ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "publishedDateTime": "2020-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105107156-rsz_gettyimages-849703458.jpg?v=1545329379",
-          "width": 2000,
-          "height": 1334,
-          "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out.md",
-      "title": "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out",
-      "excerpt": "The Clearview AI nightmare has already been well-documented. Now, it’s emerged that if you want to be deleted from its 3 billion image database, you have to prove who you are first.",
-      "heat": 166,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/",
-      "publishedDateTime": "2020-01-26T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x498/https://specials-images.forbesimg.com/imageserve/1139858627/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 498,
-          "title": "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers.md",
-      "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
-      "excerpt": "SAN FRANCISCO — At the IBM Watson Experience Center, digital and physical worlds meet in a futuristic-looking lounge overlooking San Francisco’s Financial District. “Regardless of the industry you’re in, there’s likely an application for AI … even as a chef,” said IBM’s data and AI engagement lead Euniq Nebo, as he stood before ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
-      "publishedDateTime": "2020-01-26T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/01/01182020_AIibm_182723-300x201.jpg",
-          "width": 300,
-          "height": 201,
-          "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud.md",
-      "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
-      "excerpt": "In either video or written form, Microsoft is inviting folks to share technical content relating to interesting experiences with Azure. These can revolve around open source, apps, DevOps + infrastructure, Big Data and Distributed Systems, Machine Learning and Data Science, as well as research. Submitted stories will be vetted by a committee of ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-26T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1580038361_msw-20200126_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020.md",
-      "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
-      "excerpt": "There’s plenty more waiting for you, including the finalists of our first Pitch Night. This group of intrepid robotics and AI startup founders made the cut (10 teams will pitch the night before the conference at a private event). The finalists will pitch again at the conference from the Main Stage. Think your startup has what it takes to ...",
-      "heat": 171,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-01-27T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/robotics_countdown_4.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-8-misleading-ai-myths-and-the-realities-behind-them.md",
-      "title": "8 misleading AI myths — and the realities behind them",
-      "excerpt": "The fact is, much of the fear around AI comes from overactive imaginations that machines will mimic our own bad behavior. Skynet aside, there are some rational questions and answers to be had. So let’s break down the myths and realities around AI and all of its offshoots, like machine learning and deep learning. This is the single greatest ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html",
-      "publishedDateTime": "2020-01-27T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/ifw_hal9000_red_optical_sensor_lens_eye_by_cryteria_cc_by_3-0_fractal_background_by_garik_barseghyan_aka_insspirito_cc0_via_pixabay-100827763-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "8 misleading AI myths — and the realities behind them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-ai-accurately-predicts-billie-eilish-bad-guy-grammy-win.md",
       "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
       "excerpt": "Lil Nas X was nominated six times and walked away with two wins, according to CBS. Taylor Larkin, a data scientist with the company, used the DataRobot enterprise AI platform to predict the winners for song and record of the year. DataRobot leverages machine-learning models to learn from the past to predict the future. \"For Grammy ...",
@@ -601,43 +43,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
-      "title": "AI can help cancer patients start radiation therapy sooner",
-      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "publishedDateTime": "2020-01-26T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "AI can help cancer patients start radiation therapy sooner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1709,12 +1114,12 @@
       "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
       "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
       "excerpt": "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ...",
-      "heat": 121,
+      "heat": 81,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-01-27T01:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1732,15 +1137,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png",
-          "width": 1200,
-          "height": 763,
-          "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -2163,6 +1560,600 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
+      "title": "AI can help cancer patients start radiation therapy sooner",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "publishedDateTime": "2020-01-27T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI can help cancer patients start radiation therapy sooner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-ai-driven-biomarkers-of-aging.md",
+      "title": "AI Driven Biomarkers Of Aging",
+      "excerpt": "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
+      "publishedDateTime": "2020-01-28T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30aae6f133f400076af2dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 585,
+          "title": "AI Driven Biomarkers Of Aging",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential.md",
+      "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
+      "excerpt": "Unlock new opportunities in Artificial Intelligence (AI) in Agriculture Market; the latest release from HTF MI highlights the key market trends significant to the growth prospects, Let us know if any specific players or list of players needs to consider to ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-artificial-intelligence-is-still-a-science-project-in-most-companies.md",
+      "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
+      "excerpt": "Will AI remain in the labs while the industry moves on to the next technology trend, or will it become the revolutionary force some are predicting?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/",
+      "publishedDateTime": "2020-01-28T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-building-a-business-intelligence-dashboard-for-your-amazon-lex-bots.md",
+      "title": "Building a business intelligence dashboard for your Amazon Lex bots",
+      "excerpt": "You’ve rolled out a conversational interface powered by Amazon Lex, with a goal of improving the user experience for your customers. Now you want to track how well it’s working. Are your customers finding it helpful? How are they using it? Do they like it enough to come back? How can you analyze their",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T14:55:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/27/bi-lex-1.gif",
+          "width": 800,
+          "height": 428,
+          "title": "Building a business intelligence dashboard for your Amazon Lex bots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-campaign-to-ban-face-recognition-at-us-colleges-gathers-steam.md",
+      "title": "Campaign to Ban Face Recognition at U.S. Colleges Gathers Steam",
+      "excerpt": "An organized campaign against the use of biometric surveillance at universities and colleges in the U.S. is ratcheting up pressure on institutions it believes are currently using—or are likely soon to adopt—face recognition technology. Fight for the Future, one of the nation’s leading digital rights organizations, and Students for ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/campaign-to-ban-face-recognition-at-u-s-colleges-gathe-1841302162",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-cisco-adds-ai-transcription-to-webex-meetings.md",
+      "title": "Cisco adds AI transcription to Webex Meetings",
+      "excerpt": "Cisco has added new AI capabilities to Webex Meetings, following the company’s acquisition of Voicea last year. Voicea’s Enterprise Voice Assistant (EVA) speech recognition tech has been integrated into Cisco’s Webex Meetings videoconferencing platform. New features include automated recording and transcription of conversations ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.html",
+      "ampWebUrl": "https://www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.amp.html",
+      "publishedDateTime": "2020-01-28T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/cisco-100784903-large.jpg",
+          "width": 700,
+          "height": 498,
+          "title": "Cisco adds AI transcription to Webex Meetings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-cisco-brings-new-ai-functionality-to-webex.md",
+      "title": "Cisco brings new AI functionality to Webex",
+      "excerpt": "About six months after acquiring Voicea, Cisco is bringing its AI capabilities to Webex meetings. Now, Webex Assistant will be able to help with meeting tasks such as language translation, closed captioning and transcriptions. What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/cisco-brings-new-ai-functionality-to-webex/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/",
+      "publishedDateTime": "2020-01-28T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/27/b83afa9e-e7cf-4580-873e-523febb334a5/wm-1.jpg",
+          "width": 1789,
+          "height": 1118,
+          "title": "Cisco brings new AI functionality to Webex",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-directly-raises-20-million-to-improve-customer-service-with-ai.md",
+      "title": "Directly raises $20 million to improve customer service with AI",
+      "excerpt": "Notably, it comes after a year in which the startup grew 10% per month over a six-month period. “At Industry Ventures, our focus is to work with leading growth companies, full stop,” said the VC firm’s Brian Langer. “Directly saw tremendous growth toward the end of 2019, and the work they’re doing to revolutionize AI and machine ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/",
+      "publishedDateTime": "2020-01-28T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/5b070d85a92bfd1d8fa7ba1c_sharing_c5g69e6MSr5iT0iGaltGfR_upscaled_image_x4-1-e1580223042930.png?fit=1200%2C733&strip=all",
+          "width": 1200,
+          "height": 733,
+          "title": "Directly raises $20 million to improve customer service with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira.md",
+      "title": "Disruptive Opportunities: Can developing AI and robotics stabilise the Naira?",
+      "excerpt": "The massive global investments that are fueling rapidly developing technologies like Artificial Intelligence (AI) and robotics present huge opportunities for Nigeria to pull our currency out from the deep water. Currently, big tech players like the United Kingdom (UK) are outsourcing AI, robotics, and other related jobs to China, where the ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/",
+      "ampWebUrl": "https://nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/amp/",
+      "cdnAmpWebUrl": "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/amp/",
+      "publishedDateTime": "2020-01-28T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nairametrics",
+        "domain": "nairametrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/nairametrics.com/wp-content/uploads/2020/01/Robotics.jpg?fit=900%2C563&#038;ssl=1",
+          "width": 900,
+          "height": 563,
+          "title": "Disruptive Opportunities: Can developing AI and robotics stabilise the Naira?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-facial-recognition-startup-clearview-ai-is-struggling-to-address-complaints-as-its-legal-issues-mount.md",
+      "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
+      "excerpt": "One of Clearview AI's investors defended the company, “We do not have to be hidden to be free.” By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 28, 2020, at 3:34 p.m. ET A screenshot of Clearview's search results. Clearview AI, the facial recognition company that claims to have amassed a database of more than 3 billion ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
+      "publishedDateTime": "2020-01-28T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/27/16/campaign_images/5ec0c13d1ba4/20-cashmere-things-so-soft-you-might-want-to-splu-2-326-1580142937-2_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3.md",
+      "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+      "excerpt": "TechCrunch’s fourth Robotics and AI show is coming up on March 3 at UC Berkeley’s Zellerbach Hall. If past experience is any guide, the show is sure to draw a big crowd (cheap student rates here!) but there’s still time to grab a pass. If you’re wondering why you want to take a day out to catch a full day of interviews and audience Q&A ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "publishedDateTime": "2020-01-28T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/5.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-electric-trucks-in-detroit.md",
+      "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
+      "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit",
+      "ampWebUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
+      "publishedDateTime": "2020-01-28T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web.md",
+      "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
+      "excerpt": "TensorFlow Lite inference isn’t supported, and the graph’s computations must be run on a single processor thread. A lack of compute shaders — routines compiled for high-throughput ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
+      "publishedDateTime": "2020-01-28T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

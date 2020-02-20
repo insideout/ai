@@ -24,15 +24,6 @@ images:
     title: "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System"
 
 related:
-  - title: "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System"
-    excerpt: "These are the main build blocks for higher levels of automated driving. Veoneer's camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity's software, fusing information from the camera and radar ..."
-    publishedDateTime: 2020-02-05T11:07:00Z
-    webUrl: "https://www.autoblog.com/press-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system_22080/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 0
   - title: "Veoneer selected to supply system based on next generation vision and radar system"
     excerpt: "These are the main build blocks for higher levels of automated driving. Veoneer’s camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity’s software, fusing information from the camera and radar ..."
     publishedDateTime: 2020-02-11T13:46:00Z

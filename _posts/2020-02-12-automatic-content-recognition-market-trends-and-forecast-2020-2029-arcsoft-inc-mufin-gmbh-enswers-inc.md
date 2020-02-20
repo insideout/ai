@@ -50,6 +50,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Securities Trading and Voice Recognition"
+    excerpt: "Voice recognition technology is no longer a novelty. Recent innovations have turned this once sci-fi tech into a very practical tool with numerous applications across a range of industries. For example, voice activation tools have begun transforming the way in which both consumers and professionals engage in securities trading. Whether you’re ..."
+    publishedDateTime: 2020-02-20T05:18:00Z
+    webUrl: "https://www.tradersmagazine.com/departments/commentary/securities-trading-and-voice-recognition/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2019/04/p17cd1f3fho0o1q9drvo3ng6pue.jpg"
+        width: 575
+        height: 383
 
 secured: "nPrmy2LpuDN6y4/zoejtbPT0c1L9fx77HLFmncBDxU2rxxXTrbeqEa237cGR+FPvX7XTycwKC4JdZIgrba/+6xMlVadZzLymW/ulAycIenP8YHDfpqM8ZyafPHgai8RbsP+zVjdk5E9Lc6FCexNG5bdj3ET4FjFViJYm2UG2AvIzFStD8O84ID/6N5WRkVbUsRntxlmnE3lfasSWTwRLhtQkaUEDA+Re8BWEzWmf9E+E5rICXBUBdJp83KFJGLaFY90V3eKkd6gnHog+5ZEQLFbwA09UtLhBtgH8kuzHv3ZAY4VxS3LM2KWShNLRH8um;k3um2cbD2AwE7LWPetwFPA=="
 ---

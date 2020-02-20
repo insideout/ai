@@ -2,222 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-18-cloud-computing-robotics-bonds-etf-industry-leaders-talk-2020s-top-themes.md",
-      "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
-      "excerpt": "Inflows into exchange-traded funds are picking up steam in 2020, driven by investor interest in cloud computing, robotics and a host of other themes, industry leaders say.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
-      "publishedDateTime": "2020-02-18T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104933877-RTX46XGD-nvidia.jpg?v=1574694026",
-          "width": 2000,
-          "height": 1333,
-          "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-elon-musk-everyone-developing-ai-must-be-regulated-even-tesla.md",
-      "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
-      "excerpt": "Elon Musk wants every organization developing advanced AI to be regulated ... and collaboration.” Judging by his reply to Hao on Twitter, Musk shares the sentiment. OpenAI was founded in 2015 as a non-profit, but last year announced that it was restructuring “as a hybrid of a for-profit and nonprofit—which we are calling ...",
-      "heat": 247,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/18/elon-musk-everyone-developing-ai-must-be-regulated-even-tesla/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-18.png&signature=ccc63db991ed8ae7a56e57ddcdb0a17c",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption.md",
-      "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
-      "excerpt": "Moreover, libraries like PySyft and tf-encrypted — which are built on Facebook’s PyTorch machine learning framework and TensorFlow, respectively — have made great strides in recent months. So, too, have abstraction layers like HE-Transformer, a backend for nGraph (Intel’s neural network compiler) that delivers leading performance on ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
-      "publishedDateTime": "2020-02-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/GettyImages-1079012962-e1574180775599.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel.md",
-      "title": "ESG: Dell EMC Ready Solutions for AI: Deep Learning with Intel",
-      "excerpt": "Organizations looking to leverage the power of AI face significant challenges, but what are the drivers behind these challenges? Document retention policy Hiring Kit: .Net developer Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
-      "publishedDateTime": "2020-02-18T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-eu-wants-big-tech-to-deploy-ai-tech-on-its-own-terms.md",
-      "title": "EU wants Big Tech to deploy AI tech on its own terms",
-      "excerpt": "The general perception is that Europe is far behind the US and China in terms of AI development. However, according to the McKinsey Global Institute, the EU's gap in digital tech can be overcome by funding startup development, digital transformation of non-tech companies, and encouraging investors to bring in more capital. As for talent ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "publishedDateTime": "2020-02-17T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/09/2019-09-11-ts3_thumbs-cdd.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "EU wants Big Tech to deploy AI tech on its own terms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-frontline-documentary-tackles-jeff-bezos-and-the-amazon-empire.md",
       "title": "‘Frontline’ documentary tackles Jeff Bezos and the ‘Amazon Empire’",
       "excerpt": "Complaints about Amazon becoming a monopoly (and resulting scrutiny from antitrust officials) take up a chunk of the runtime, as do troubling privacy issues with the likes of Alexa, Ring and Rekognition. The film covers issues spanning Amazon's entire history, including prominent incidents from the last couple of months. For one thing ...",
@@ -1431,7 +1215,7 @@
       "path": "_posts/2020-02-19-ai-artificial-intelligence-image-recognition-market-trends-drivers-opportunities-challenges-leading-players-and-forecast-until-2024.md",
       "title": "AI (Artificial Intelligence) Image Recognition Market Trends, Drivers, Opportunities, Challenges, Leading Players, and Forecast Until 2024",
       "excerpt": "Global AI (Artificial Intelligence) Image Recognition Market Report studies the latest industry trends,",
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-trends-drivers-opportunities-challenges-leading-players-and-forecast-until-2024-2020-02-19",
@@ -2119,7 +1903,7 @@
       "path": "_posts/2020-02-19-facial-recognition-technology-will-follow-privacy-laws-edmonton-police.md",
       "title": "Facial recognition technology will follow privacy laws: Edmonton police",
       "excerpt": "EDMONTON -- Attempting to quell privacy concerns, Edmonton police say facial recognition software that they intend to use to identify criminals will follow privacy laws. Informatics Division Supt. Warren Driechel revealed new details about the proposed technology Wednesday, though the department has not implemented facial recognition yet.",
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://edmonton.ctvnews.ca/facial-recognition-technology-will-follow-privacy-laws-edmonton-police-1.4818878",
@@ -2150,6 +1934,216 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
+      "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+      "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "publishedDateTime": "2020-02-19T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1.-Intro-Image-e1580880177276.png?fit=1198%2C601&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-googles-ai-chief-explains-machine-learning-for-chip-design.md",
+      "title": "Google’s AI chief explains machine learning for chip design",
+      "excerpt": "Jeff Dean, head of Google’s AI research, explained to ZDNet how machine learning algorithms can be used to come up with better designs for computer chips. Google is starting to use the technology internally to better design its own parts. Read more: https://zd.net/38HobeV",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/googles-ai-chief-explains-machine-learning-for-chip-design/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/19/c094ad77-8b65-46bb-a116-452e865b15cb/thumbnail/770x578/7ff49d5646bbec8959dfe7485c3fa7e7/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Google’s AI chief explains machine learning for chip design",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-grok-combines-machine-learning-and-the-human-brain-to-build-smarter-aiops.md",
+      "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+      "excerpt": "A few weeks ago I wrote a piece here about Moogsoft which has been making waves in the service assurance space by applying artificial intelligence and machine learning to the arcane task of keeping on keeping critical IT up and running and lessening the business impact of service interruptions. It’s a hot area for startups and I’ve since ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops",
+      "ampWebUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "publishedDateTime": "2020-02-19T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
+      "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
+      "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.euractiv.com/section/digital/news/high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EURACTIV",
+        "domain": "euractiv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/02/w_55884866-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-in-praise-of-boring-ai-aka-machine-learning.md",
+      "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
+      "excerpt": "Whether or not machine learning is paving the way for a sci-fi movie type of AI in the distant future is a pointless question.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
+      "publishedDateTime": "2020-02-19T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x454/https://specials-images.forbesimg.com/dam/imageserve/1158524088/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 454,
+          "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     }
   ],

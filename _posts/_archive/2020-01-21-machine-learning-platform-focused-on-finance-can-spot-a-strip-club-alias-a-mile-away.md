@@ -4,11 +4,9 @@ title: "Machine learning platform focused on finance can spot a strip club alias
 excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... and expenses to make sure companies are not paying for goods and services that fall outside company policies. Kale said the process is the ..."
 publishedDateTime: 2020-01-21T19:46:00Z
 webUrl: "https://www.techrepublic.com/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 type: article
-quality: 67
-heat: 67
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg"
-    width: 1200
-    height: 675
-    title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
-
-secured: "LiCDmtCcMsmT69aNo21CrC9UwiHohHPxJaKAwJkQ+RdXRHYaJj18S9MQJaEBsfCGGe7a12eS3ElDQ6DGMYz2CTkIvZyfBPnYlVhEhjycX9j8i5dXUUAZJOu52eerUTilAW7d+od2oT9nhG9tUP51BGADqJM4Ziz3ZKVKQof8v6oqm+8Rl97/BXP3aN4PXazQF5HyR2tBQYllFB4dRURJr1lqrf0CJXGP9TGISZGehbk/DjjiMVYSZph349ls4IYbpMwCPvpPLhlQK3wHFWzkfB2gUZuVrvLGitR7nqSRzYow1hsnCWu19shqfSaNfAqp;Q0Lt6M59EfyLMcuzXvSJwg=="
+secured: "lvMz8y0jfihT3pLzFwILUoQ2DBSvOZG+lEdHIa8SzJFxqQBAlgFX5C2p++iP3HIj9WqtFVgYbskhUSaJBIQiWoGv41+o59iigMfExi4wxTjDbi/ZW7abTBwVxBm0B7uEtAJjTrOGAcd8UDz7gZdUKkSSfyh+hnS2JAHfRHWB/ynwKQexcF1+NxyhmEG4vSMNcF2pvxd0pcBRkJIu5ngpF10QeAK2GGQp4ksaCrt2quFL8cWioTCqjhBENe0uRK4HsXeHqN4hpu6BjLZCwCH4sS8cztDjUlVVr4NAiaL6E0QraNz6UqRaaHGTFQhkR0yG;FipevTJIT0m6/z/xUnBenA=="
 ---
 

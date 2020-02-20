@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-02-05-a-new-device-uses-ai-to-identify-fake-pairs-of-nike-and-adidas-sneakers-in-seconds-heres-how-the-authentication-technology-works.md",
-      "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
-      "excerpt": "One of the biggest problems in the sneaker resale market may now be more manageable. Here's a new technology that uses AI to fight counterfeits.",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp",
-      "publishedDateTime": "2020-02-05T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e3477d95bc79c46c13d960e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-ai-predicts-coronavirus-could-infect-25-billion-and-kill-53-million-doctors-say-thats-not-credible-and-heres-why.md",
       "title": "AI Predicts Coronavirus Could Infect 2.5 Billion And Kill 53 Million. Doctors Say That’s Not Credible, And Here’s Why",
       "excerpt": "An AI-powered simulation run by a technology executive says that Coronavirus could infect as many as 2.5 billion people within 45 days and kill as many as 52.9 million of them. Fortunately, however, conditions of infection and detection are changing,",
@@ -91,42 +47,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-05-an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai.md",
-      "title": "An algorithm that can spot cause and effect could supercharge medical AI",
-      "excerpt": "Several other companies—including Ada and Your.MD—also offer diagnosis-by-chatbot but Babylon Health has singled itself out for criticism in part because of the overblown claims it makes for its AI. For example, in 2018 the company announced that its AI could diagnose medical conditions better than a human doctor. A study in The Lancet a ...",
-      "heat": 156,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
-      "publishedDateTime": "2020-02-05T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/pills_1.jpg?sw=600&cx=1&cy=54&cw=1079&ch=607",
-          "width": 600,
-          "height": 337,
-          "title": "An algorithm that can spot cause and effect could supercharge medical AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-best-speech-to-text-software-in-2020-free-paid-and-online-voice-recognition-apps-and-services.md",
       "title": "Best speech to text software in 2020: Free, paid and online voice recognition apps and services",
       "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Should you be looking for a business-grade dictation ...",
@@ -169,51 +89,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation.md",
-      "title": "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation",
-      "excerpt": "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Carrier, a leader in heating, ventilating,",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation-2020-02-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -638,43 +513,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-05-opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one.md",
-      "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
-      "excerpt": "Bernie Sanders and Elizabeth Warren. Pete Buttigieg, who proposes the less radical “Medicare for all who want it,” can point to Trump’s rant as a reason for Democrats to support him. But all the Democratic candidates should come away from this speech with a recognition that Trump will be a formidable opponent.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one",
-      "ampWebUrl": "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true",
-      "publishedDateTime": "2020-02-05T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/4bc5b3c/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F37%2F4e8a13c64254b008d334ca3f9f93%2Ftrump-impeachment-54621.jpg",
-          "width": 320,
-          "height": 209,
-          "title": "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-powerful-new-tool-helps-journalists-identify-manipulated-photos.md",
       "title": "Powerful New Tool Helps Journalists Identify Manipulated Photos",
       "excerpt": "“Assembler is an early stage experimental platform advancing new detection technology to help fact-checkers and journalists identify manipulated media.” Assembler works by combining several “manipulation detectors” into a single tool. Each individual detector—some brand new and created by Jigsaw, some created by academics at various ...",
@@ -801,34 +639,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-05-welfare-surveillance-system-violates-human-rights-dutch-court-rules.md",
-      "title": "Welfare surveillance system violates human rights, Dutch court rules",
-      "excerpt": "Government told to halt use of AI to detect fraud in decision hailed by privacy campaigners",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-what-role-will-or-does-artificial-intelligence-play-in-your-life.md",
       "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
       "excerpt": "It doesn’t seem too long ago that artificial intelligence (AI) was mostly the stuff of science fiction. Today it seems to be everywhere: in our home appliances, in our cars, in the workplace, even on our wrists. To some extent, our use of AI is still a matter of personal choice. But because AI is becoming increasing ubiquitous, we need to ...",
@@ -921,7 +731,7 @@
       "path": "_posts/2020-02-06-ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020.md",
       "title": "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020",
       "excerpt": "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,",
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06",
@@ -1215,7 +1025,7 @@
       "path": "_posts/2020-02-06-cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon.md",
       "title": "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon",
       "excerpt": "The Latest research study released by HTF MI \"Global Cloud Natural Language Processing Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06",
@@ -1415,7 +1225,7 @@
       "path": "_posts/2020-02-06-facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites.md",
       "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
       "excerpt": "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ...",
-      "heat": 387,
+      "heat": 377,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/",
@@ -2080,6 +1890,229 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-will-advancements-in-tech-make-homo-sapiens-go-extinct.md",
+      "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
+      "excerpt": "The field of prosthetics has advanced by leaps and bounds over the past century. However, is the future as bright as we think it is?",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
+      "publishedDateTime": "2020-02-06T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/dam/imageserve/107254334/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 511,
+          "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai.md",
+      "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
+      "excerpt": "Worlds, whose AI helps large organizations observe their physical spaces to ensure security, safety, and productivity, has raised $10 million in a first round of funding. The Dallas-based startup uses multiple cameras to track spaces in 3D over time, providing a more reliable view of what’s happening than typical 2D security video would.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
+      "publishedDateTime": "2020-02-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Worlds.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-2019-machine-learning-and-data-science-survey.md",
+      "title": "2019 Machine Learning and Data Science Survey",
+      "excerpt": "Every year, since 2017, the Kaggle community sets out to conduct an industry-wide survey on the State of Data Science and Machine Learning. This is for the year 2019. The dataset was gathered from a pool of 19,717 usable respondents from 171 countries and territories, cleaned and prepared by the Kaggle community. The young, mostly Indians and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@ubajakacj/2019-machine-learning-and-data-science-survey-4b882aced1a8",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1030/1*TlJDveTXMsiz48_94nFeKQ.png",
+          "width": 515,
+          "height": 338,
+          "title": "2019 Machine Learning and Data Science Survey",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-ai-weekly-announcing-our-ai-and-security-special-issue.md",
+      "title": "AI Weekly: Announcing our AI and security special issue",
+      "excerpt": "VentureBeat’s second special issue is nigh. Following our first special issue, Power in AI, this next one focuses on AI and security. Each special issue is a package of articles that explores a central topic from a variety of angles, from voices in industry, academia, and our newsroom. Whether we’re aware of it or not, both AI and ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/amp/",
+      "publishedDateTime": "2020-02-07T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/AI-and-Security-header.png?fit=4842%2C2421&strip=all",
+          "width": 4842,
+          "height": 2421,
+          "title": "AI Weekly: Announcing our AI and security special issue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-amazon-personalize-can-now-use-10x-more-item-attributes-to-improve-relevance-of-recommendations.md",
+      "title": "Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations",
+      "excerpt": "Amazon Personalize is a machine learning service which enables you to personalize your website, app, ads, emails, and more, with custom machine learning models which can be created in Amazon Personalize, with no prior machine learning experience. AWS is pleased to announce that Amazon Personalize now",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-use-10x-more-item-attributes-to-improve-relevance-of-recommendations/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T12:39:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

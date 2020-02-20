@@ -26,6 +26,17 @@ images:
     title: "Technology is changing the underwriting of health care risks"
 
 related:
+  - title: "6 ways how technology is changing healthcare"
+    excerpt: "Advancements in technological developments over the past few years have led to incredible growth in the Indian healthcare space from an innovation perspective. New-age technologies such as VR (virtual reality), AI (artificial intelligence), 3D-printing, robotics, nanotechnology, etc. have led to what was visualized as the future of healthcare ..."
+    publishedDateTime: 2020-02-12T05:27:00Z
+    webUrl: "https://www.ciol.com/6-ways-technology-changing-healthcare/"
+    ampWebUrl: "https://www.ciol.com/6-ways-technology-changing-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/6-ways-technology-changing-healthcare/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
   - title: "3 ways artificial intelligence is impacting health care"
     excerpt: "to transform the health care industry by improving patient outcomes and lowering costs is immense. From radiation to early sepsis warning, to drug design and telemedicine, AI holds the power to create vast industry efficiencies and improve people's lives around the globe."
     publishedDateTime: 2020-02-06T12:49:00Z

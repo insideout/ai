@@ -2,275 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-21-4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips.md",
-      "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
-      "excerpt": "The Snapdragon 662 supports triple camera configurations, a first for the company's 6-series chips. It will also have Qualcomm's third-generation AI engine to let phone makers add things like avatars, night photography and face and voice authentication to cheaper phones. The processor comes integrated with the new X11 LTE modem that can ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "publishedDateTime": "2020-01-20T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/uTtvRMBczx9c-gHi594-X_c3hdY=/756x567/2019/12/17/7be74ffd-64e9-4938-aa31-3f17084d1fae/xiaomi-redmi-note-8-8.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020.md",
-      "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-      "excerpt": "The 720G (the G stands for gaming) is an octa-core chipset aimed at higher-end smartphones. Features include on-device AI (a privacy-focused priority for handsets from Samsung and others) and display resolution up to 2,520 x 1,080, along with 800Mbps top down speeds - still a respectable number, especially compared to the lower-band 5G networks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "ampWebUrl": "https://www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "publishedDateTime": "2020-01-21T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/uiwrFz8a2mmzeGUNyGgShg-1200-80.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-ai-can-do-great-thingsif-it-doesnt-burn-the-planet.md",
-      "title": "AI Can Do Great Things—If It Doesn't Burn the Planet",
-      "excerpt": "The effort may have consumed about 2.8 gigawatt-hours of electricity, estimates Evan Sparks, CEO of Determined AI, a startup that provides software to help companies manage AI projects. That’s roughly equal to the output of three nuclear power plants for an hour. A spokesperson for OpenAI questioned the calculation, noting that it makes ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-great-things-burn-planet/",
-      "ampWebUrl": "https://www.wired.com/story/ai-great-things-burn-planet/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-great-things-burn-planet/amp",
-      "publishedDateTime": "2020-01-20T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e1f606fbf8e550008579631/master/pass/Biz-powerplant-1140185265.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "AI Can Do Great Things—If It Doesn't Burn the Planet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-ai-can-help-find-illegal-opioid-sellers-online-and-wildlife-traffickers-and-counterfeits.md",
-      "title": "AI can help find illegal opioid sellers online. And wildlife traffickers. And counterfeits.",
-      "excerpt": "Timothy Mackey/S-3 Research. Another challenge: People selling these substances online ... Meanwhile, Reddit, YouTube, Twitter, and Facebook all told Recode they’re now using automated or AI-based technology to flag or investigate content that violates their policies, including illegal opioid sales. Mackey said he’s only been in limited ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vox.com/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
-      "publishedDateTime": "2020-01-21T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/_TtMyoxXclrY57IOGfFbYqmuhNg=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19608727/Screen_Shot_2020_01_17_at_11.28.22_AM.png",
-          "width": 618,
-          "height": 302,
-          "title": "AI can help find illegal opioid sellers online. And wildlife traffickers. And counterfeits.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-ai-privacy-startup-mine-raises-3-million-to-help-users-ask-companies-to-delete-their-data.md",
-      "title": "AI privacy startup Mine raises $3 million to help users ask companies to delete their data",
-      "excerpt": "AI privacy startup Mine is one of 160 firms joining Intel's accelerator program. The firm has raised $3 million to help users take back their data.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/ai-startup-mine-raises-3-million-help-users-take-intel-data-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5aac3309cc502927008b48d0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "AI privacy startup Mine raises $3 million to help users ask companies to delete their data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-ai-the-topic-that-got-sidelined-in-the-british-election.md",
-      "title": "AI: the topic that got sidelined in the British election",
-      "excerpt": "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
-      "publishedDateTime": "2020-01-21T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "AI: the topic that got sidelined in the British election",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-21-artificial-intelligence-robots-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025.md",
       "title": "Artificial Intelligence Robots Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025",
       "excerpt": "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
@@ -1339,43 +1070,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-21-the-brain-predicts-reward-like-an-ai-says-new-deepmind-research.md",
-      "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
-      "excerpt": "If DeepMind’s new bombshell paper in Nature is any indication, a common approach in AI, one that’s led to humanity’s defeat in the game of Go against machines, may have the answer. We all subconsciously learn complex behaviors in response to positive ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/",
-      "ampWebUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/",
-      "publishedDateTime": "2020-01-21T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/01/brain-1787622_1280-dopaminergic-neurons-reward.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-21-the-legal-industry-finds-ways-to-leverage-ai.md",
       "title": "The legal industry finds ways to leverage AI",
       "excerpt": "How far are we from seeing \"robot judges\"? ZDNet's Stephanie Condon discusses with Karen Roby. Read more: https://zd.net/3auO0jl",
@@ -1535,43 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-why-most-self-driving-car-companies-use-these-3-models.md",
-      "title": "Why most self-driving car companies use these 3 models",
-      "excerpt": "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles/",
-      "ampWebUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp",
-      "publishedDateTime": "2020-01-21T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU=",
-          "width": 1200,
-          "height": 630,
-          "title": "Why most self-driving car companies use these 3 models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1882,51 +1539,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-22-automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025.md",
-      "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-      "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-01-22?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-22-bring-back-play-store-update-notifications-with-this-free-app.md",
       "title": "Bring back Play Store update notifications with this free app",
       "excerpt": "In a recent move to reduce unnecessary notifications, the Play Store no longer confirms when apps are updated in the background. While this may not be a big deal for most users, it's ...",
@@ -2122,6 +1734,399 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-exclusive-look-at-cruises-first-driverless-car-without-a-steering-wheel-or-pedals.md",
+      "title": "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals",
+      "excerpt": "The hard drive, stored in the trunk and housing the vehicle’s artificial intelligence and perception software ... GM submitted a petition for permission to deploy a fully driverless Chevy Bolt in 2018, but it has yet to receive a response. And it will most likely need another exemption before the Origin is allowed to hit the road, too.",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look",
+      "publishedDateTime": "2020-01-21T17:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_Cq8RBeDpZ0BOd8CsPhQ7orclbI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66141735/vpavic_200121_3874_0010.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-facebook-has-trained-an-ai-to-navigate-without-needing-a-map.md",
+      "title": "Facebook has trained an AI to navigate without needing a map",
+      "excerpt": "The news: A team at Facebook AI has created a reinforcement learning algorithm that lets a robot find its way in an unfamiliar environment without using a map. Using just a depth-sensing camera ... Two billion steps and counting: Facebook trained bots for three days inside AI Habitat, a photorealistic virtual mock-up of the interior of a ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615078/facebook-has-trained-an-ai-to-navigate-without-needing-a-map/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/russia-953111920.jpg?sw=1200&cx=0&cy=58&cw=1920&ch=1080",
+          "width": 1200,
+          "height": 675,
+          "title": "Facebook has trained an AI to navigate without needing a map",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-facial-recognition-technology-doesnt-have-to-destroy-privacy.md",
+      "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+      "excerpt": "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy",
+      "ampWebUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "publishedDateTime": "2020-01-22T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg",
+          "width": 1028,
+          "height": 578,
+          "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-five-methods-for-marketing-your-bespoke-cloud-service-to-developers.md",
+      "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+      "excerpt": "By focusing on what your audience needs, you can craft a marketing approach that is just as tailored as your product. Give developers the confidence that you have something that is built just for them,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "publishedDateTime": "2020-01-22T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x515/https://specials-images.forbesimg.com/dam/imageserve/645973085/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 515,
+          "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-github-now-uses-ai-to-recommend-open-issues-in-project-repositories.md",
+      "title": "GitHub now uses AI to recommend open issues in project repositories",
+      "excerpt": "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "publishedDateTime": "2020-01-22T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "GitHub now uses AI to recommend open issues in project repositories",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-gm-cruise-unveils-self-driving-electric-car-for-ride-sharing.md",
+      "title": "GM Cruise unveils self-driving electric car for ride-sharing",
+      "excerpt": "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ...",
+      "heat": 344,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/",
+      "ampWebUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
+      "publishedDateTime": "2020-01-21T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 470,
+          "title": "GM Cruise unveils self-driving electric car for ride-sharing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-googles-collections-feature-now-pushes-people-to-save-recipes-products-using-ai.md",
+      "title": "Google’s Collections feature now pushes people to save recipes & products, using AI",
+      "excerpt": "Google is giving an AI upgrade to its Collections feature — basically, Google’s own take on Pinterest, but built into Google Search. Originally a name given to organizing images, the Collections feature that launched in 2018 let you save for later perusal any type of search result — images, bookmarks or map locations — into groups ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/googles-collections-feature-now-pushes-people-to-save-recipes-products-using-a-i/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/22/googles-collections-feature-now-pushes-people-to-save-recipes-products-using-a-i/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/googles-collections-feature-now-pushes-people-to-save-recipes-products-using-a-i/amp/",
+      "publishedDateTime": "2020-01-22T15:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-22-at-4.09.14-PM.png?w=1024",
+          "width": 1024,
+          "height": 984,
+          "title": "Google’s Collections feature now pushes people to save recipes & products, using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce.md",
+      "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
+      "excerpt": "Will the proliferation of AI and machine learning reinforce the worldwide digital divide? It’s one of the questions the Global Talent Competitiveness Index (GTCI) and Global Cities Talent Competitiveness Index (GCTCI) seek to answer by benchmarking the ability of countries and cities to compete for talent. An answer has historically proven ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
+      "publishedDateTime": "2020-01-22T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/robot-on-computer.jpg?fit=1198%2C599&strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-how-ai-supports-and-accelerates-healthcare.md",
+      "title": "How AI Supports And Accelerates Healthcare",
+      "excerpt": "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
+      "publishedDateTime": "2020-01-22T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x446/https://specials-images.forbesimg.com/dam/imageserve/1147479249/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 446,
+          "title": "How AI Supports And Accelerates Healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

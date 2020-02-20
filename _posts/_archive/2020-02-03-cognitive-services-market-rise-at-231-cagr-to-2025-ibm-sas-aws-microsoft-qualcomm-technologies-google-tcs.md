@@ -5,9 +5,9 @@ excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-d
 publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
-quality: 62
-heat: 72
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: MarketWatch
@@ -21,12 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
-
 related:
   - title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
     excerpt: "Excellence Market Research has recently published a very complete analysis of the Image Recognition market based on comprehensive secondary and primary research. The report titled \"Global Image Recognition Market 2020 Industry Research Report\" offers the most precise analysis of the Image Recognition industry for the last five years and forecast until 2025."
@@ -36,12 +30,8 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+    quality: 19
 
-secured: "Edij2fIvM2r4pWRN+Y3NloCNjUrEEwWg3Z1WS7Ws51FiB8M3wD9ByI/efEsWw+3xnxJir7E0USwmBzpJBX+Vu9y7o/wvHJItfqt6OktuBzXIMXjiuk3OOnohz5FNZ5Yb+eI11yWLkkeSMdNwAOnazSx54sNF8rbfP3qSj7tm0o99rTz0wxJzEa6/15ApymOgEz8tTACmlKuZ7G2xsmZ30mCWhlxT7Rq4sv/7u8Haw0HTUqTvXgluxFMN9pw+eKSEoVv+duKahdhSjcTBovPyyPM1ZT8i550W8pZIKslK96cFyTIstg7wpuo9SUQIIpi8;/Z04nQEFbsoBnlmb9Q1Y9g=="
+secured: "MjFBSo105LsIut2rYTSa6cEcB1JeTygE81QyJI037RUvHD91apsw3Kqp3lVQ1BzRRRxOXyb93kxXe4SBmS+nlXthbgCSUjbCTxVTTY5JVaYI8SA1EaKlN4yEpWF6XLmvoTufhG55f8qKObxmTn7+9A1z2d5U67r6QpkziUto57qr8ESmpc32Bx/F9J6dGCcZiXkGZBG7hq/DP28EDGth4lnGUpclZCdcqayAcnadryhl+AnYuqSEfBhN3IICLKFb/9wpyezA83+GigDgEbcBcngHUsM56A57e/d6h0+prN/A9ZPWOb8Akljc+EybEccr;vJ53WQyohlGPZ7k5VDFtkQ=="
 ---
 

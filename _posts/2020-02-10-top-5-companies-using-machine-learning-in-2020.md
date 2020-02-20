@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T18:43:00Z
 webUrl: "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -92,19 +92,6 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 24
-  - title: "Growing Optimism in Emerging Markets, Fintech Company CGTRADE Expands Its Business in Asia Pacific"
-    excerpt: "This includes United States fintech investment advisory company CGQuant and its subsidiary CGTrade. CGTrade has set up operation centres across Asia Pacific regions including Malaysia, Singapore, Taiwan, Hong Kong. The company, utilizing powerful internal and external resources of CGQuant including AI big data algorithms, provides top-level ..."
-    publishedDateTime: 2020-02-05T11:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48776422-growing-optimism-in-emerging-markets-fintech-company-cgtrade-expands-its-business-in-asia-pacific-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 10
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/575314/1.png"
-        width: 1760
-        height: 786
 
 secured: "4WDbfdXPWGzFS+WazpKWs9o4Pcy/hTsf7cdKoD8wKeGsOZhzTAlEnORTLIEfUMqmkYXhv8Zu8n8kbU8Qmj+PggdrduySQ0nE/eOozfa5KtopU6WdJNOTsgMddm4G9WfHu8vHDTJvgtfH7WdpvTOGXVnU4olG3T+Og5THbrkabCk56o+RiE2fwcUZ5jg4e13Y/Dpct9nvO3iDfzSUzM0j+sC+shaUpVhx5DW3M1sM6+tvu18T0uyM+G/Rxg3fI5KMI1OpyHg5PVwl2Y5FEtGRdTxm4jbtwil0HErzdAAacR+jqYWGosy/EeSu7YGJQJ2Q2qpzvnjV9lyTkMy49gaQh+SGJ3QCRL67mKHEfDady1Abc7HStE7rkgwIgQjXLamSqGugS53bGZ8t8i6J1bF2zYIO4D6HfFZpu6eGQm7KLV2bbnW1K4GgmC7IX+7aybDIK/yhNGSLjpHGA7R/hCDoXyxYr+YmsjRJ/drR0QvTbnw=;O5Xn6i5qyBwTnJVPtINzBQ=="
 ---

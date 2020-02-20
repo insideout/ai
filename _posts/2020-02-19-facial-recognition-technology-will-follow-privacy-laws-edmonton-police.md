@@ -8,7 +8,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
+  - title: "Chief says police will not use face recognition until technology has been fully reviewed"
+    excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
+    publishedDateTime: 2020-02-20T04:31:00Z
+    webUrl: "https://www.therecord.com/news-story/9859221-chief-says-police-will-not-use-face-recognition-until-technology-has-been-fully-reviewed/"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 10
 
 secured: "bRYl1PDESyy+2+0N7YlnuZYtFOs4tniJk9slEHVeSIOd1lXgetjYVICiyIhgD/2ADeXe1v4wIFYqhGQGVcxwllbWc/AwrrFPdRpWjrnhg9cIJMzFUH0mgc1QB16E8xJRDROULTcZ/PIzB1iFqNF0RVy2glrzfwaNM6+L3G9sp67pUL3NdQy5dei1xlwSemi+zIvQ81AZLxHvO0spluAcNtxFSMXxPDFxJqYgWVHLjyiMi8KbrVK7zzyM8FAbDyMnZJRQSTONewrnObDLtTNupED2RPYbH3QnUScUshDx+JZ0uTNmH0LX19bCWOcsRxii;RIxhqqfYzAyfI/S+K8Rfvw=="
 ---

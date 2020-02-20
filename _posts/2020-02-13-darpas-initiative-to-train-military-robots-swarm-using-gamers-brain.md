@@ -69,15 +69,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gamer-1581356216.jpg?crop=1xw:0.7501831501831502xh;center,top&resize=1200:*"
         width: 1200
         height: 600
-  - title: "Good at StarCraft? DARPA wants to train military robots with your brainwaves"
-    excerpt: "The idea of using modern machine learning artificial intelligence is that it could give robot swarms the ability to more ... “We are around the halfway mark.” At present, they’ve yet to start the start the data-gathering phase of the project, although Chowdhury has a good idea of the format that it will take. The plan is to carry out ..."
-    publishedDateTime: 2020-02-05T12:12:00Z
-    webUrl: "https://www.digitaltrends.com/cool-tech/brain-training-future-swarm-robot-armies/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 61
 
 secured: "3o/VeLKdOmmeonOfyxrMyshIchI4W39eBe+SsAQlNIx4ogNZaA8jVFxtCK/fzGxS1rN9QL2ViW5BFxZu+cErp8B8WJoC7tADD3bKIlLBUXtJq90DQ3hJaVpZrnf17SAOzpU+MGHFrWoVNeTYf55rfxlWf+XdrtpEyhSPcqNcb0nquj/XggUpwZRvN1eDTy1Vw6MpU3a3AukuqjyHRSkUOa9dA7gAM6nWH9SCL5PS2hTeOeTPqL1OMObwykk2nrruL0k+xJ7otooInb6tHe0BjqyduNddTrtxHSfs/WQZ8saHKv4lLhGKGOI13JDDzeWl;PHlpWn5iAlvsgpm9dgkTvQ=="
 ---

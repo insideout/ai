@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T07:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-trends-drivers-opportunities-challenges-leading-players-and-forecast-until-2024-2020-02-19"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Securities Trading and Voice Recognition"
+    excerpt: "Voice recognition technology is no longer a novelty. Recent innovations have turned this once sci-fi tech into a very practical tool with numerous applications across a range of industries. For example, voice activation tools have begun transforming the way in which both consumers and professionals engage in securities trading. Whether you’re ..."
+    publishedDateTime: 2020-02-20T05:18:00Z
+    webUrl: "https://www.tradersmagazine.com/departments/commentary/securities-trading-and-voice-recognition/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2019/04/p17cd1f3fho0o1q9drvo3ng6pue.jpg"
+        width: 575
+        height: 383
   - title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"
     excerpt: "Segmentation by Technology: Acoustic digital video fingerprinting, Digital audio, video image watermarking, Optical character recognition, Speech recognition. Segmentation by Industry Vertical: Avionics, E-Commerce, Consumer Electronics, Media and Entertainment, Transportation and Logistics, Banking, Financial Services, and Insurance ..."
     publishedDateTime: 2020-02-12T21:40:00Z

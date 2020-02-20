@@ -37,19 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision Software Market Is Thriving Worldwide with Microsoft, OpenCV, Google"
-    excerpt: "Latest released study \"Global Computer Vision Software Market Size, Status and Forecast 2020-2026\" with 91 pages and in-depth assessment including market trends, upcoming technologies, industry drivers,"
-    publishedDateTime: 2020-02-05T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-is-thriving-worldwide-with-microsoft-opencv-google-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Conversational AI Market is Booming Worldwide | Oracle, SAP, Nuance"
     excerpt: "A New Syndicate Global Conversational AI Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Conversational AI market."
     publishedDateTime: 2020-02-06T10:20:00Z
@@ -60,6 +47,6 @@ related:
       domain: marketwatch.com
     quality: 49
 
-secured: "am1M1lrBc9IIEXWGrNgPgpmGT6vmaiPXUdE9LhZFPZUxREyGYNEdkzDDA6EllmsZBf75B4a2qW6xeCTbyaH7qcdo9rSo6EVMIvsY1gSwuk/4wpDOqDIxejgiaeAvDRBaX+ji3Im+W0TXOYQ3zNLikZBRDF/bvF9nqBnm6cHb2d+f3BY5Dw2nLRnaB8znr6febPazmuuu+pUVwlXBbQpdOO1hLYdEnpbPQ6LAgBKkArGXpduz48rWcvmmj2ZDlYzpEKuQXHFI8XgNqNQZXOomwzTqiZujAEjZTEUUeA71sFZaenSq+dyopVYbOvBlfhOA;VZ70EaxXiKCMnmQQG8nlXg=="
+secured: "YN1W0J7J7fIDSwNxGZtegfkV4ERPBey4W4gheKnCh7PmNzC4E/Ak8hFgaMqnUos/vYcksgAd92bCtFj7IAXXbtYFbOZrFVAdi/ROhlj+nqOj4TTMBQ84ZjSoOfo+l83wRqAdBPCGPqP75GryeZoWZ7zqc57cWTfLm0UdPU24/NkuDFSVbCvlX+la1MsZd3HnlNarLhmL4QaAeZkNImzT9Jl8LtTtKnPwZ4GJC+124YCEI3vcgS81EYV1WM3HZyNlhDyUlK4/11ADJhHVhLMrPMvdUdcwUAqbvhuThusnfXs6+bGW0FMJZhmEn/47YTeZ;0a6yP+DxhO4buG6dfH8Eow=="
 ---
 

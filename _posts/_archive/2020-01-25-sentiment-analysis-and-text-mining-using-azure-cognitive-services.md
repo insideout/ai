@@ -5,8 +5,8 @@ excerpt: "This post provides 6 sample codes showing how Azure Microsoft Cognitiv
 publishedDateTime: 2020-01-25T12:40:00Z
 webUrl: "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7"
 type: article
-quality: 84
-heat: 94
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -21,25 +21,17 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png"
-    width: 1200
-    height: 600
-    title: "Sentiment analysis and text mining using Azure Cognitive Services"
-
 related:
   - title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier in AI"
     excerpt: "which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson ..."
     publishedDateTime: 2020-01-24T00:00:00Z
     webUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792"
-    ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
     type: article
     provider:
       name: Business 2 Community
       domain: business2community.com
-    quality: 36
+    quality: 16
 
-secured: "535wyZ+1ZgfbfGtZxpoZ8kzz2t8YWxXIblVuQV+i/JNt1svMobCc7JhXhM/8rGZjPGXxWDXGIC4oT/yG8Ss+qKDYx1tgr9e+jSm95+TBNyqPvyZ+wF4sKQtCsZrW8fJefGVm/q7yNGu0MBARx6JWW+KeDkyluCKRJ6esi+vVFi5pctazh84928Tnmltxf3/3d6JxZyCac+Jv6E1ikVVs6yowFuC/Y7RiLJhZBO+rtXmAeML7pI7pZHC0q2sKSKPlT+ieIECTzBIhbz6f0C1tNmxF09gOvoxapIUN81ksYXZGKuT0tkn0Rkumez8sJLBq;HE/vJ+gZnJHz577ZJ1J9kg=="
+secured: "iEEO/q3RaNWqXLV4zYztu3jMnHZlcx2/+Id43xaDAeSQGvF22b3JikkIZnuhaHtJvtkezYL4xzVK+YN0+HPZMKgmyNIhBXRpskYygF453msvKHVRvwlh5VT5Lei6wJRrRKh5hWRud05GKm1sSvUE3KFdr/0MgFgfhP7CxI/YBGcsnL1CAbZCcbiUdw/NYeZG5oyynf3MXcI4WvmKqYDVpb2fgpL9xz535gRZyaTl9QMwObkdvvEKu9R2o2sZOxH4hyewp3ge7JQQnBgBsyKAr4r+p8rIrn3bESQQ5vVGkh0wnbBbb9ifD15ch1qyj83X;mtq6f8xp4givYwuJa2ABeg=="
 ---
 

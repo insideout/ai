@@ -41,15 +41,6 @@ related:
       - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
         width: 800
         height: 452
-  - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
-    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, a facial recognition app that scraps images from the websites and social media platforms, CBS News has learned. The tech companies join Twitter, which sent a similar letter in January, in trying to block the app from taking pictures from their platforms. The app is only ..."
-    publishedDateTime: 2020-02-05T11:25:00Z
-    webUrl: "https://www.cbsnews.com/news/clearview-ai-google-youtube-send-cease-and-desist-letter-to-facial-recognition-app/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 104
   - title: "YouTube demands Clearview AI stop scraping its videos for facial recognition database"
     excerpt: "YouTube has sent a cease and desist letter to Clearview AI demanding that the controversial facial recognition startup stop scraping YouTube videos to gather faces for its database and delete any images it’s already collected. The demand, first reported by CBS News, says that YouTube forbids anyone from collecting data from its platform that ..."
     publishedDateTime: 2020-02-05T16:45:00Z

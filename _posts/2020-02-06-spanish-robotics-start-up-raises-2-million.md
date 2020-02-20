@@ -31,15 +31,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/stori.jpg"
         width: 480
         height: 270
-  - title: "Artificial intelligence company Ambyint raises $19.9 million CAD Series B"
-    excerpt: "“It is also a proof point for our approach of combining advanced physics and artificial intelligence, deployed on a scalable software infrastructure, to deliver 10 to 20 percent margin gains in a market where meaningful improvements have been hard to achieve.” Ambyint’s solutions are aimed at improving wells by automating the detection of ..."
-    publishedDateTime: 2020-02-05T11:49:00Z
-    webUrl: "https://betakit.com/artificial-intelligence-company-ambyint-raises-19-9-million-cad-series-b/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 31
 
 secured: "BstL9r5PcDLinWCM/AxUgRek5OzLKD1AuQUHzQGmZgmdPgaI5Jj/e30wwv9J4ZxTJU4SrrmCuUGk7jzhk/aAYNCGntzTFrozYab3QRW5ObneEQwPcm2aWmLawTiYfOVr0vVOf+BsYcr3uSFlGlRQY8hZNx4XuwAXW4PbRXchmtvNZ/E7pKbdE0ueTXXnlMDw8Z5Ts56ClUeHPJYnkfAf5EiAnJCE3QHClJDntiY2NenPHXto8CTTQ3GBkezdgrxg4fhrr0Bt+Lm7Qo1LuCj0ZZFr5CaNBLKTfw4UskWMVnwq8gFLd0/kvKw1nCBuvff9OrbXiL+Xnmy7cQu6HQBBvrxHHc1aALI3P2Ay4Jt8S+KL7+Be9vPeohimGLXz7/WREXbUn8A0zqkQp2htD67D5iOjMZY/BpZoMq5w1Bqi8ezuHi5FEHtI6jHHA2bEx6kiyJMyYnaWl0LUB8a+HI3ArOlLGi6tBm+/S0ynnEfp0TU=;f6v33CgL/lIkXcMHdKjYRQ=="
 ---

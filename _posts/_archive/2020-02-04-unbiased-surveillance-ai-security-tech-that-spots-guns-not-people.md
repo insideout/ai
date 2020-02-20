@@ -4,11 +4,9 @@ title: "Unbiased Surveillance: AI Security Tech That Spots Guns, Not People"
 excerpt: "At least, for now, San Franciscans won’t have to become characters in a real-life Black Mirror episode. And worse, there’s a lot of evil profiling using facial recognition—I’m talking to you Amazon Rekognition, which mistook Boston athletes of color for criminals. Still, artificial intelligence (AI) and facial recognition always seem to ..."
 publishedDateTime: 2020-02-04T12:00:00Z
 webUrl: "https://observer.com/2020/02/athena-security-surveillance-bias-gun-control/"
-ampWebUrl: "https://observer.com/2020/02/athena-security-surveillance-bias-gun-control/amp/"
-cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/02/athena-security-surveillance-bias-gun-control/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://observer.com/wp-content/uploads/sites/2/2020/02/56161324_434979100380682_5588907875608035328_n-e1580760304964.png?quality=80&strip"
-    width: 902
-    height: 505
-    title: "Unbiased Surveillance: AI Security Tech That Spots Guns, Not People"
-
-secured: "i2XnCPIMx5xudJHxRARU3KytakKT744V+epPOhf1GAS6p6j9gjfyByHldPv2R6GCj0UnMZlv3twEIFylwi+7enZLcRjozOLRg1s64O0/mUKcbeZxr7PDCt4pF2DVfMHpKSKvOkasdPqFIeqK6dFpipb/Pw2bR7sg27c28EyHu0bi2RVBIREpmum5AxtPSqBMfIgdiMjl38IgqVCat4X5LRTKSyhvm2k00ZxM6axJndS4fgBfwxrpit/NuKIFtYceozqMEYvHp+AMsLiIQFRHMURXbGAJervwXHGuBLlNoRplpO8Mj4YHqMtw4fPdEr0i;sGPj9UitceALDBtMuhdIEA=="
+secured: "vqJdTlrR01DGEgMGVYwIJjGUUv+ljMWscghk6icQjK0h8txm7H8u08jtxWEZrC7wc4qvwqgHW00QPzzSXrxfPqEF9Aov/SC48U2mu9j9PeFERZh4IssXW3P3/GPFWmXDMLNTg61HY2LyHyMMgDifrpJJFr9HhyUbSL5WsnHw3+Q4c9rHLPsR0J2JYzeraFytpssuhs/VkaDgSqIAsu2urbqjQxQvxQsLvsfRms5a81V5U0zBB1hnGhjrlH2hVfVAaZjawN8BxD5+tTZSZtpQuuwJs4iud+rKNvMs72CT/sd8P/ptlTSD8CSFFyuAh9ri5pVcd2q7S6T+NuZcxsohM/kri2uZ3Z7mm85z7ToNOgdfKsSVrCQL4ZVWNcu0JY3biwzcV4L8mKM/zsK2VvYZiPw9ZYKkQscz6KWE0g/mrrwo+Elk7qx0Ha5UOfGhwqjr03DT5Qmmqz1VVbwevqnyYXdH/g8waq59rHhq2yYTtMY=;y2dsVe6DJoLLdNM8Fk68Cw=="
 ---
 

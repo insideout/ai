@@ -77,6 +77,15 @@ related:
       name: tech.economictimes.indiatimes.com
       domain: indiatimes.com
     quality: 26
+  - title: "This Canadian startup used AI to track coronavirus and raised alarm days before the outbreak"
+    excerpt: "BlueDot can sift through several news stories a day in order to detect and monitor the spread.AFP | February 20, 2020, 08:07 IST On the shores of Lake Ontario, a Canadian start-up raised one of the earliest alarms about the risk posed by the mystery virus that emerged in the Chinese city of Wuhan. How did it do it? Artificial intelligence."
+    publishedDateTime: 2020-02-20T02:37:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/internet/this-canadian-startup-used-ai-to-track-coronavirus-and-raised-alarm-days-before-the-outbreak/74218333"
+    type: article
+    provider:
+      name: ETCIO.com
+      domain: indiatimes.com
+    quality: 6
 
 secured: "SsAY0hYSidG47bWbbS/dF58/L8eQtvHU3zFURnAWiQRRFmt2KNJjol4I8MjkhB7fCp/CzFUXh2Xh6XRxzCSKRPrb2JFILNnUVYqUbar7YQPH86mFjbyfPODn3B1Di1qiBhDzLdnpJ1B1Kt7GdohAHYnvrlQIVzwhgVI4DblOrUJldd1pBpHsDncaS9WvI2MQKgLDbWa0+O56CQJacXTj45plbAsTSJAoOQiacjcr78RldfJ0ZxsuibZHHYYFawk3Q2FDwJfKsOLDNOr/GKcebINjcLCtatPbvAnlIGsyLpiqlx2Mu1TCjVB0/3olNRG7Q1dF+llbLQ0MIpc2poZ2S2mlUH8cokvMePeANuA5IlsKqt7ze+5IHBIBoJHqIrxmCkxaZlGEhPQjFnIImczNrkwPpQ1n2GLUQWF3HYbDliq1Fhffjo34Xz9ldJmKpKUKbAlOkFGSvkr7oCft89/B2SUVKEoV9WgZsXHLu2G8OEg=;Ar1sOQbgFxODk36odS2uFg=="
 ---

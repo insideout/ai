@@ -265,6 +265,28 @@ related:
       - url: "https://www.unr.edu//main/images/news/2020/Feb/MPLGroup.jpg"
         width: 900
         height: 678
+  - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
+    publishedDateTime: 2020-02-20T05:37:00Z
+    webUrl: "https://www.richmond.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_9e8d9d34-1567-5a38-afc0-d3af39b29e45.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+  - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
+    publishedDateTime: 2020-02-20T02:25:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/washington-senate-passes-bill-to-regulate-governments-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 0
 
 secured: "rkmGmoRQLrWGiq+mgs8CVMDFp+SCk+zk/R+TvFwfst3P98NgFeg0XBJmDKYcPMjVV9i3IGed+MbGUEJ4VIfoiBbQ4IDD6JU6iO2B+CRlf0lmy4rTv+L/QxWLgyTFcrz7JGXEis46oIMsLWoybqVpscjivtSXybi7/OX5wJzTo3GFi0iMmDM5H/RMV4RLua12ItZ/LJoBoBKFZYrEBuT+CVmnX4Giv0Ss96jx2zQSWDWtratG06ie2CMUas7K/vvmZFs897DC6hfT01Wjr6+3ZpPQxhjihzZjuZJ5UpLpL7+3id3MHx5unC8onxd4ddU7GgOLHj9QUzLFMn8f9Xg/fVaKCslAdXMLbs6Qlkv3XDQB9FFEWuhzfYeR6/gu2e+yGj7hTGppFFVzN6+GQr56fjDGI8H+6BbaqFv8LelYMKNHbw7g79rWJk/qjKBHyVZAZ1GJVSj3zSvIX7QlCtnR8ecaVwJ/pNbzVuLs3u6S15A=;t9v8rjPZkONnDfuNNOrWKg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T08:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     title: "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026"
 
 related:
-  - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
-    excerpt: "LOS ANGELES, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The global machine learning market is anticipated to grow at a CAGR of around 40.1% over the forecast period 2019 to 2026 and reach the market value of around US$ 76."
-    publishedDateTime: 2020-02-05T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-around-us-768-bn-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Machine Learning Market 2020-2029| Amazon Web Services Inc, Baidu Inc, Google Inc."
     excerpt: "Pune, Maharashtra, January 30, 2020 (Wired Release) Prudour Pvt. Ltd. The Global Machine Learning Market Research Report is expected to display a high CAGR according to the recent report added by MarketResearch.Biz. Distinct growth driving forces and upcoming trends which will boost the market growth are included in this study. The supply ..."
     publishedDateTime: 2020-02-12T21:41:00Z

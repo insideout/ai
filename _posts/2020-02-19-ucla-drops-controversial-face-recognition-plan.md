@@ -65,6 +65,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 67
+  - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
+    excerpt: "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database. Over 400 photos were scanned, 58 of which were false positives for mugshot images ..."
+    publishedDateTime: 2020-02-20T02:08:00Z
+    webUrl: "https://www.vice.com/en_ca/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 51
   - title: "UCLA cancels on-campus facial recognition program after backlash"
     excerpt: "This article, UCLA cancels on-campus facial recognition program after backlash, originally appeared on CNET.com. UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus,"
     publishedDateTime: 2020-02-20T02:19:00Z

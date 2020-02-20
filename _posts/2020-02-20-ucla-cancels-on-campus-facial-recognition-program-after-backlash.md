@@ -78,6 +78,15 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/d8d0774057d19139d16e6ede624d76e89947662d/c=1-0-1365-767/local/-/media/2020/02/06/USATODAY/usatsports/imageforentry34-vs0.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+  - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
+    excerpt: "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database. Over 400 photos were scanned, 58 of which were false positives for mugshot images ..."
+    publishedDateTime: 2020-02-20T02:08:00Z
+    webUrl: "https://www.vice.com/en_ca/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 51
   - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
     excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
     publishedDateTime: 2020-02-13T18:50:00Z
@@ -101,6 +110,6 @@ related:
       domain: edmontonjournal.com
     quality: 34
 
-secured: "cLjdOXdJlIJnvjKwE9neQA4eIPtxLC7f9Q0USR1zqIFWhWuK13w3U5PIKfhhX9JHoXmCU7mManMNsaqFFhARizd3/P1AEWi8ydxVFjag1uot1Nrohn2BDBQbm8ohFbzTEf5ueRyj5B3x8i1Fktb6QEASvrP5QyyxEDziduE+iZwSwVhAELxuJAt9sBm125N7PYLHCUz01xDt7uwa9dOjtOkKzIcX+sjaEmYO8jthsFIM0klNdCBlIOTdAZj3nSjjIgyErxnKnH+CieasOIOKS2Os+zKlHiRQFNfeKiFLt9LiodVAdKlZojzesKOZY+xP;S522oq8PGUWCXfJnq+aA5w=="
+secured: "aiEFGK6A9T2TRq8ePgo3Ako/l9bpZKVi53eFWDOxRXXqtUlo+LmHkl8cszJpZtOH8h8Ozr/MlH4wPSs4SaPjZAyRanzMim4wxgmGkUo1CqqnGhuwjjZrdurHzBr16sPpS7SpDN1jQjLySxVumgHW2tdguITDDolycp1rY/ywzwAhj26Lr0ZpX4v89caEmdQFZMQXoCD2i3/w7oE4zb/K0SeZWkWe+lLkObXi/OLynI2fKO1WrlQm1DAXxMYeqsfuNmggCHCKkYAu3abUG26I9FImOCPldEQ9EahHfvUD/7ljL9Ll0QhuFFwJCfACIFaS+ugVyX3bgF1oJCFg5DRZuY+oPT98692ZiPB/seFEe6H8JKwQbKI7czW/MFKliK5tIHs1PdDx5177GKEcFIdui38ptDe+uDD78j4oEPzGm5Tq7SHpWBunIxph/un1iPcxEQvFsQ3ifc2uavWm45PEqg522y9oOlVUoRY2XJV/NM4=;FCZafbvOTENb/YsuvLPhWg=="
 ---
 

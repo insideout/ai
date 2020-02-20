@@ -46,15 +46,6 @@ related:
       - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
         width: 800
         height: 452
-  - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
-    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, a facial recognition app that scraps images from the websites and social media platforms, CBS News has learned. The tech companies join Twitter, which sent a similar letter in January, in trying to block the app from taking pictures from their platforms. The app is only ..."
-    publishedDateTime: 2020-02-05T11:25:00Z
-    webUrl: "https://www.cbsnews.com/news/clearview-ai-google-youtube-send-cease-and-desist-letter-to-facial-recognition-app/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 104
   - title: "Facebook buys startup using AI vision to find your location (updated)"
     excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
     publishedDateTime: 2020-02-08T17:28:00Z
