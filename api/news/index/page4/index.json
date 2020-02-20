@@ -2,268 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-11-first-time-ever-artificial-intelligence-develops-drug-candidate.md",
-      "title": "First Time Ever, Artificial Intelligence Develops Drug Candidate",
-      "excerpt": "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/",
-      "ampWebUrl": "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/",
-      "publishedDateTime": "2020-02-11T14:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
-      "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
-      "heat": 235,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-googles-machine-learning-is-making-you-more-effective-in-2020.md",
-      "title": "Google’s Machine Learning Is Making You More Effective In 2020",
-      "excerpt": "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
-      "publishedDateTime": "2020-02-10T20:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F881497148%2F0x0.jpg%3FcropX1%3D148%26cropX2%3D3119%26cropY1%3D1497%26cropY2%3D3169",
-          "width": 1200,
-          "height": 676,
-          "title": "Google’s Machine Learning Is Making You More Effective In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-how-will-your-career-be-impacted-by-artificial-intelligence.md",
-      "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-      "excerpt": "Nobody can predict the future with absolute precision. But when it comes to the impact of artificial intelligence (AI) on people’s careers, the recent past provides some intriguing clues. Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future offers some insights and predictions that are well worth our consideration.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-11T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/imageserve/5e17b6d42ffdbd000701d5f4/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 511,
-          "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions.md",
-      "title": "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions",
-      "excerpt": "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to-drug interactions (DDIs). Researchers from the MIT-IBM Watson AI Lab, Harvard School of Public Health, Georgia Institute of Technology, and IQVIA have ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
-      "publishedDateTime": "2020-02-11T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/11/578ed6f6-77c3-463d-a9fb-ae809750f192/resize/1200x/f727d19000da51259bb97e2708cbc806/ai-medicine.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-is-ai-cybersecuritys-salvation-or-its-greatest-threat.md",
-      "title": "Is AI cybersecurity’s salvation or its greatest threat?",
-      "excerpt": "If you’re uncertain whether AI is the best or worst thing to ever happen to cybersecurity, you’re in the same boat as experts watching the dawn of this new era with a mix of excitement and terror. AI’s potential to automate security on a broader scale offers a welcome advantage in the short term. Yet unleashing a technology designed to ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
-      "publishedDateTime": "2020-02-11T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1.jpg?fit=2160%2C1078&strip=all",
-          "width": 2160,
-          "height": 1078,
-          "title": "Is AI cybersecurity’s salvation or its greatest threat?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-machine-learning-artificial-intelligence-market-may-set-new-growth-amazon-google-facebook.md",
       "title": "Machine Learning Artificial intelligence Market May Set New Growth| Amazon, Google, Facebook",
       "excerpt": "Some are the key & emerging players that are part of coverage and have being profiled are AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI, Apple, Luminoso & Qualcomm. Know how you are perceived in comparison to your competitors like AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI ...",
@@ -2180,6 +1918,260 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-ais-healthcare-promise-will-serve-patients-and-more.md",
+      "title": "AI’s Healthcare Promise Will Serve Patients — and More",
+      "excerpt": "The question: “As healthcare organizations invest in artificial intelligence technologies, in what areas can they reap the most immediate benefits?” Scott Nelson, Founder, CEO, CTO, Reuleaux Technology, agrees. “Without question, the most immediate AND impactful application of AI in healthcare will be patient engagement/behavior during ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.html",
+      "ampWebUrl": "https://www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.amp.html",
+      "publishedDateTime": "2020-02-13T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/02/istock-1139923894-100831551-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI’s Healthcare Promise Will Serve Patients — and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-apple-seeks-to-patent-machine-learning-correction-of-gps-estimates.md",
+      "title": "Apple seeks to patent machine learning correction of GPS estimates",
+      "excerpt": "But Apple thinks it can improve location accuracy by applying machine learning to Kalman estimation filters, a just-published patent application reveals. The basic concept is that while navigation systems generally rely on live location-determining pings from multiple satellites — a process that can take precious time, during which the ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-learning-correction-of-gps-estimates/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-learning-correction-of-gps-estimates/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-learning-correction-of-gps-estimates/amp/",
+      "publishedDateTime": "2020-02-13T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/applegps-e1581625499385.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Apple seeks to patent machine learning correction of GPS estimates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-baidu-shares-jump-more-than-4-percent-after-earnings-beat.md",
+      "title": "Baidu shares jump more than 4 percent after earnings beat",
+      "excerpt": "Baidu has also thrown its hat into the autonomous vehicle game, striking up relationships with Ford, ON Semiconductor and, most recently, BlackBerry to develop self-driving technology. Baidu even ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/02/13/baidu-earnings-q4-2017.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/02/13/baidu-earnings-q4-2017.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/02/13/baidu-earnings-q4-2017.html",
+      "publishedDateTime": "2020-02-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103620975-GettyImages-477053035.jpg?v=1462858078",
+          "width": 1024,
+          "height": 683,
+          "title": "Baidu shares jump more than 4 percent after earnings beat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-deep-learning-ai-can-imitate-the-distortion-effects-of-iconic-guitar-gods.md",
+      "title": "Deep learning A.I. can imitate the distortion effects of iconic guitar gods",
+      "excerpt": "That’s now changed thanks to the work of researchers in the department of signal processing and acoustics at Finland’s Aalto University. Using deep learning artificial intelligence (A.I.), they have created a neural network for guitar distortion modeling that, for the first time, can fool blind-test listeners into thinking it’s the ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/deep-learning-ai-iconic-guitar-amps/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/deep-learning-ai-iconic-guitar-amps/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/deep-learning-ai-iconic-guitar-amps/?amp",
+      "publishedDateTime": "2020-02-13T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-deepmind-develops-ai-with-an-imagination.md",
+      "title": "DeepMind Develops AI With An Imagination",
+      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "DeepMind Develops AI With An Imagination",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-disgruntled-former-waymo-self-driving-car-operator-arrested-for-causing-car-crash.md",
+      "title": "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash",
+      "excerpt": "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ...",
+      "heat": 253,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
+      "publishedDateTime": "2020-02-13T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

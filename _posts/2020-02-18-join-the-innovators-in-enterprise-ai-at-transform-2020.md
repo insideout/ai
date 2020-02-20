@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/robot_ai_shutterstock_Phonlamai-Photo.jpg"
         width: 1000
         height: 667
+  - title: "Role Played by Artificial Intelligence and RPA in transformation in the business world"
+    excerpt: "The age of transformation will witness the emergence of varied possibilities and use-cases with the intermingling of new age technologies like Artificial Intelligence, IoT, automation and analytics. For example, smart cities, self-driving cars, healthcare, manufacturing and retail (automation, preventive maintenance, predictive analytics ..."
+    publishedDateTime: 2020-02-20T10:34:00Z
+    webUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/"
+    ampWebUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
 
 secured: "L6JTLAOYFZhZicvuwhsFmIp9kOHupQ2ktI4bqPzzDZafxL8TYIoUCszkoH36mvcpL+sYXI1YjwFFP2O9uzti2jyBdmBxE6hx832u+9op+UTcAAnc4hjzubhEq1/kZyGUrEXTWhyg3u5Sn8f14nVb9X0pDJiuaxhyF04iDg3mklUNO/15wDWXzm0JAKiGh6Y4bHdvrv4Vk/pug0718wFgJhcBVO1CqLsof9cv9TSJ4urrHDo+TrHfVPGppFq8WGpeTWPVRhI+p6sVF131+WnCqn8sGgoDjaMXGKyEZZgZRw0pD6hyHWVQsx0/DkpNgWM4BNg3Xk+nUwZiK0KwJtrD5l98z4H6VJrvQWK5yMtcxfyE2Bim3vvY4o6GLiZhnVwjQchKh46BBib7Y4FL0jKPKXmWi84gRzQL8jDcHYXd1DVqdqqn/bB75S80hCCvAe0dsleHYSGgCB+Zq7Nwfy0/ULHxBmAzeVmZXDc0AogjDMs=;94CPlQrDfwceiBLK0XVZEQ=="
 ---

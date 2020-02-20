@@ -7,8 +7,8 @@ webUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recogni
 ampWebUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
 type: article
-quality: 41
-heat: 41
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://www.thehindubusinessline.com/info-tech/c0g3te/article30744550.ece/ALTERNATES/LANDSCAPE_615/BL06ALEXA"
-    width: 615
-    height: 384
-    title: "Speech and voice recognition tech market to soar to ₹210 crore by end of 2020"
 
 related:
   - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
@@ -36,6 +30,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "FtAkT9bE1XhRHRoHP24wgqk6NHUs+AvK64HuOTAu2u668Y8hrdyzzMeT1Cgcl1fluyVFkRg17Km2ZodQToOUqKTr/klcHAi7RI7jTVj557M/UbJusSj5RNw7dMI+GKQjqEDqQkTiuaWxJ54NExSZV185jdkNxHFcJQFTrpYYB+GD3wbRXWplXM/tddrwMNcAYraw2WmdPmWR0Iurx+/tuyaATy7EbuY2cffLI3lCfZRsGSsOKNdYI1uLCFExhAXz4Itr/YDg6h8UWbDheCCb3vhmSGoWciGf7XWWRHsgc6ddKFg84slcXEqA5ZTSbM5h;eFm9Y5PKVCiKrbmkCMv96g=="
+secured: "qT6xh0e7FbD1hk2Fv4QCzTV4ZsqzcvFY8x1j/66aEPEb4t1ArzhpKtwfhbZEDNNj+JdsaoZPfITDqTG5c1/OKcUFIbs55yR9lF1UmTL1x5fuzKU4dPrVwE/wIZJeX69F/oEnMPOLHfenYl2WXUIql9QSSwJTOGWdhcPFpw7nmN5PgSUqAic10TRRhjbQhQ7+HkYXR3FzJDAClBrZg+ut66LXq95M9z026ZXe6rmM2mSaD2w4GK7vzh6vxgP2XZOMSDQZ+LyML7GoXMWtxfx/E0nrRpZ+myRlGsqFTZsFxT8k8/jcl7TYq29+mSvfa3gH;jLcLiCMQvoPq/e5EALzVSA=="
 ---
 

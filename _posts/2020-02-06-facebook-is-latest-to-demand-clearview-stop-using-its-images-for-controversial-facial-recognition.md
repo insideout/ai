@@ -97,21 +97,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HW845_Facebo_ZH_20191212141837.jpg"
         width: 890
         height: 501
-  - title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
-    excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
-    publishedDateTime: 2020-02-05T17:34:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7970371/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 62
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/05/17/24354446-0-image-a-59_1580923631236.jpg"
-        width: 636
-        height: 382
   - title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
     excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
     publishedDateTime: 2020-02-05T23:47:00Z

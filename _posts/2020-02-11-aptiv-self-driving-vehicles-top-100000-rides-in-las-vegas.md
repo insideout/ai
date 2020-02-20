@@ -45,21 +45,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024"
         width: 1024
         height: 576
-  - title: "GM’s Cruise now has 1,800 employees working on self-driving cars, up from 1,000 in March 2019"
-    excerpt: "During a press conference this morning, Dan Ammann, CEO of GM’s self-driving subsidiary Cruise Automation, gave a glimpse at the progress that’s been made toward a fully self-driving vehicle fleet. He said that Cruise’s engineers, of which there are now 1,800 (up from 1,000 in March 2019), have over the past four years made a “10,000 ..."
-    publishedDateTime: 2020-02-05T17:42:00Z
-    webUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/"
-    ampWebUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 163
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/20190718_Cruise_AV_ISO_FINAL_MB_WBGRND-1-e1573598957728.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "Uber can resume testing its self-driving cars in California"
     excerpt: "A newly issued permit has been granted nearly two years after a fatal crash in Arizona. Uber started scaling back its self-driving car tests after one of its vehicles hit and killed a pedestrian in March of 2018. While the company doesn't seem primed to unleash a fleet of autonomous cars, it has been granted a new permit to resume testing in ..."
     publishedDateTime: 2020-02-05T18:47:00Z
@@ -146,21 +131,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Apple and Its Rivals Have Spent $16 Billion on Self-Driving Cars"
-    excerpt: "The report outlines the estimated spending by the top 11 companies working on self-driving vehicles, which is topped out by Alphabet’s Waymo, GM’s Cruise, and Uber, which The Information estimates have spent about half of the money being invested in developing the new technologies, while Apple, Baidu, Ford, and Toyota account for “most of ..."
-    publishedDateTime: 2020-02-05T17:42:00Z
-    webUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/"
-    ampWebUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
-    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
-    type: article
-    provider:
-      name: iDrop News
-      domain: idropnews.com
-    quality: 44
-    images:
-      - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
-        width: 1000
-        height: 600
   - title: "Uber gets DMV permit to test self-driving cars on California roads"
     excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
     publishedDateTime: 2020-02-05T21:18:00Z

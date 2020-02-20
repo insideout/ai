@@ -7,8 +7,8 @@ webUrl: "https://heavy.com/games/2019/06/crash-team-racing-nitro-fueled-review/"
 ampWebUrl: "https://heavy.com/games/2019/06/crash-team-racing-nitro-fueled-review/amp/"
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/2019/06/crash-team-racing-nitro-fueled-review/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://heavyeditorial.files.wordpress.com/2019/06/crash-team-racing-ps4.jpg?quality=65&strip=all"
-    width: 780
-    height: 440
-    title: "Crash Team Racing Nitro-Fueled Review"
-
-secured: "iQs/AJe9K8XfhR3w8+Xi8reaLZzBdKYySpI5ZFDqSqLGSfuJZgdxibJDoCh3HLCtGoPTWOowwL1ml2ZzByMahJk+qFQVUoT3zPLwVfMMkab1lRRDeA3wh6KcLb+qsyWIIEo59nEGrb4lg2EP8KUdWN1N4J9lFmV7jTJZ2NLNn2J5tNvFieOBp7nrn+/MTkNayDFRKos/vl9IAsJvb3aJ+CLBanetv0p46dkyX1d5TcGKhx1zprsKynFQ+2WIYC1jj7h0m2sCwtPDjlPYUr2jOgZDW4jqSY3ARnxrcvpiS534GuQqLOy/ihdrHfprd5mb;+zIbv3w3A/66qpy8TO+rvg=="
+secured: "a0fkY6OJvVZ08nDxCQlrnyNpM8VbhrIbfRIGjv6w6r+/jiKM0O0JGMitGWQDnAfrCNDKC5+7H9N+h+CvQp8KcFoVBD7w0EOsNS5bNiW4EMp+yI0en0HAOC9Ck9CQAWJvINDtWiGv1DVZJdxXkEGPjJFXYJcClZwhfYt26WtReoXRActkpXXu6D/rTSBrzd47SrgVTEoOs2Zw4zlnPk5YurVncWoRFRAW9EZtm5ulUyGVevzcZbPtlMKpWEYpyHcreD/cyHA0mTGzslNoAmtMPE+v2ycH0oXsSgzZb2oG3bo+WJUIOPDqOXNfwXjjdP0s;7Trl2Cb85QFukJoGRlmtVQ=="
 ---
 

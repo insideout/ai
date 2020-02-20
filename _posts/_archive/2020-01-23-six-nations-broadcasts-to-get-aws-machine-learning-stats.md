@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Six Nations broadcasts to get AWS machine learning stats"
-excerpt: "This is streamed and analysed by AWS platforms like SageMaker and then delivered as insights back to the live TV broadcasts. \"The introduction of the advanced statistics – powered by AWS – in the 2019 Guinness Six Nations Championship was just the start of how we are planning to change the game of rugby through advanced in-game analytics ..."
+excerpt: "This is streamed and analysed by AWS platforms like SageMaker and then delivered as insights back to the live TV broadcasts. \"The introduction of the advanced statistics – powered by AWS – in the 2019 Guinness Six Nations Championship was just the ..."
 publishedDateTime: 2020-01-23T00:30:00Z
 webUrl: "https://www.cloudpro.co.uk/saas/8393/six-nations-broadcasts-to-get-aws-machine-learning-stats"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/01/englandvscotland.jpg"
-    width: 1000
-    height: 667
-    title: "Six Nations broadcasts to get AWS machine learning stats"
-
-secured: "3Es7wuCL5B/OUF9+ZoUbX7iw+6KhvbumZMWbH3z4NOvNgaXLA9zg6POivgp+isJFVs/kb0zru+4ETc3xPThAsBE11mACURUMIqRUWmx6b2qQ3+ev7YyvZBzufVS6mTBz6f2b2twur+JMKpIOrgTUiLAeTMh2TDNtWgeD35uQIlKEZKjDOBK81tQwkHutMYlPbJEB1yzz439n+zqdGO5DAOo69v6nUFg/Rj+XhrO6893xvHqCQDnRwaW2RrIInPJs87JlNBpg4IB2r3rzgFla1mUL1vzQL0eFKofsOJCktzGxtIcOA3LU3boMVwPomm1T;bbEiqvQ9Y+TTOcZvYW6Izw=="
+secured: "TRfqvy2BTjfNKmAW0GTo9sEK+CDwYOVCxFh8qMLeMVgHp52kxpBUyew9vusHWL/pxhun2fZW5JhZSL5Bqkg6GXqZawTSm+eOmJ5HERGS3i4ToaiZ4s5vopBZ0fWes/8SdwC4GcmqMIGOIOfrSmhAG3xrZwWCf0T+l5nCHBl0H8GT+TnnZTDirHrkDnMlJstHCjXlntWAhx1Y/SXJ2DfFqnkVQnLg9OtFFNgV9POWxKnX45556nUTHqlNkRg9+XmLWoKORLQvBDBBGxCoryb3oUFdseFEie532HXvkg227Aw2k5IbXnP+Dwu0SdkM/X6kT/4CvRM2Ydu68zDwzPaKICoGjOECTL5bHJmP9vro4X/+cX2RKoWzlUcetrT5oSCGcmkM649J6uO9mEJEzCnlNNyANrVsBpZTcrvn6jpVGcSrcHOyECDDZcUe1MBGbnngmAbFJFTFmy2LzqBSmvHtuIs8Ty9Gxmy4p/wqJR3FJPM=;ICGpoEciC4Oaxw5JaY8+NQ=="
 ---
 

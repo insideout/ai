@@ -7,8 +7,8 @@ webUrl: "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help
 ampWebUrl: "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/"
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTX265HX-e1582179189744.jpg?quality=75&strip=all&w=1400"
@@ -29,6 +30,6 @@ images:
     height: 789
     title: "Only a better understanding of AI can help end our fear of robots"
 
-secured: "ZU09JoaSoqjSwk7/WoUefdOY/yraTmaf2Ypq9SMmgYVBi9Wlt3qcmYhDkPKioUe0hQLk5ZCbL4h619pHRDe7vvgB00K1hC7AxWHFeCmY1hXraKZsI4fcSxt+zxoviji+XdDfID6iTfVhvm7cPSrTE4MhZgxLpVVLdmYyoiaur26w/QuzXuE5FCi6P8Sa/M55LNtfldlr+Cj5wv14+N62Vz6NeVzp9AycZnisUMYVZVBKBtwIgNeuGaXy1f/v3XF1JEXLBccH4NBlzI1WfeG5qK67aMbkyvLlOQ7Igcwjuar4rL7eGxm9m2RctMQLLOHF;e6Q2+d22lt/XM2n+ckJOUA=="
+secured: "FtWE3OQIGxl22minDIjixJ21f6OBWduM0BzfW07I3Bkqcl07cEGo1phxhcDf59ZvVsddRC2mj7kwlAbU/K3WJIoBzE/ytjZsIe85U1rhl4xMSWjxLpVKyhgAXSFmw6ddBac3Wu/Q/UcLi1cJYPiKEnr3SRT17kqM/DWZfHHJOg6HKjkaimHysGZLxMJ6Hfih+8NStjGfl7TSKzaUhIr0GCL33YvdsulDlzwNsi4wOjjk4++V5rDibWz+cuLj//9J4DeN27Ff/5AcHVJrp899VpS6dN/GXa5Tt6eJ8UIx0xf493ZJPjzigAyowM5DzPoweU6qRNXLHVDsP8gKdJpQDEvT9mu/ExwtxRDJWSXCWiIPDFT4l1BL7D9jFZMA8jiLFWlzkUHOiLATT9JZHJlkW/tl+i+z9Ufwxd3Po+G9BWq4CI7xS3112UKRxpkdvFyChVd47hAC/Ln+RfUnAgpFT9SKTyx+08woSwh/D/XaqI8=;ho1AV+0Lax5oRjadWhu/Ew=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robo
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,17 +39,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zdxqblrfadpefqou_1581083925.jpeg?tr=f-jpeg"
         width: 1242
         height: 708
-  - title: "China working on robot development for coronavirus testing"
-    excerpt: "according to Siasun Robot and Automation Co.Ltd. Based in Shenyang, capital of northeast China’s Liaoning Province, Siasun was founded in 2000 and listed on the Growth Enterprise Market in 2009. China has also called on the country’s artificial intelligence (AI) sector to lend their technological hands to help battle the epidemic."
-    publishedDateTime: 2020-02-05T17:47:00Z
-    webUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
-    ampWebUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 39
   - title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
     excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
     publishedDateTime: 2020-02-06T01:04:00Z

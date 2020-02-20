@@ -121,32 +121,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
-  - title: "NJ lawmakers debate cops’ use of controversial facial-recognition tech"
-    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-05T18:04:00Z
-    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-controversial-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
-        width: 757
-        height: 667
-  - title: "NJ lawmakers debate cops’ use of facial-recognition tech"
-    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-05T18:05:00Z
-    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
-        width: 757
-        height: 667
   - title: "Internet giants reject controversial facial-recognition start-up"
     excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
     publishedDateTime: 2020-02-06T12:46:00Z

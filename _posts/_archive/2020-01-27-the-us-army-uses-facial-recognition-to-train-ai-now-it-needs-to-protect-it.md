@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-tr
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 101
-heat: 121
+quality: 81
+heat: 101
 published: true
 
 provider:
@@ -22,12 +22,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-    width: 1200
-    height: 763
-    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Software detects backdoor attacks on facial recognition"
@@ -53,12 +47,8 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-        width: 620
-        height: 465
+    quality: 34
 
-secured: "v31PboSkcgrJ1fuzZ/Y17zRrEDg0tIav1VZQlnHzWRPhJlRA8FNz0ZcoiikoCA36Kpmvdf2w2ZCQg8IaZtPljrkJpF71icWY9yKTFCJmboXOT4zb91pqdoYwR7OYCaFkzT5/d99uLj+d3JIQyQlTXqa4+eJRoWFDS0K/Ko8nyZjW2E32qyl4gay2XZWHFn5kqmMl9CBYTGQiIANqo8GoHwTYZ3nWVQpC54jGIbHqrTez2FC8Dd4sxPh+iObI2ErpY4nfXHOqkSv5X7fBqxEviOvT6iWWl+2n5QgtHsmtYe+Gmr+LAMgYLBRXdkrqMHLg;lILxbnoR6AEQ89mQp+MFxg=="
+secured: "COnhsW9xlrnI1Zmd+3OoDJcPXa64zOwOZyl90xlyRR1fVCC7zGxADoKu5F6UfbStptQ36ITdf6MhahE9iSK9ISWaEAVCfoUhKKTTrrG1z0eDaru2s1UsfGf5BkPxAzVqpk08DdBqK0WpAZEU9BCPlTlUKp5Z6ERtOGA6H/RSNm9Put9da98BDPdtapwaAYJlor7iT19K7M8xvMu6snvLt5j6pjQarwaqle7UQgSiWtaCW9+tWa0vU+hjKpwoIQogycCTY6cPLF+T/m800OFn02wssxz14tUIi+tLeq3i01aa5m8pemRgcsZEOyzeu5TGUR6ALYeX0KLE7AjaasRReLruN/mKKbq2N2jG15uf1ZCXvbuE8IWo92S49yU0+KyDRJEorBXTTnq+HIgDI+iUdjCvMd9TcJW9xcX20Q/YdmzZKWLTn8T/ga0TO24rSUuhAx3nJ99jcHdbs6phiktNdlawxXwENAl1Qtivlw96lJI=;+Ax4hViPhHccPxMRAxq2eA=="
 ---
 

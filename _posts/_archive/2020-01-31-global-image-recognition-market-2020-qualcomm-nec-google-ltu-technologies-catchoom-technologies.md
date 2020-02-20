@@ -5,7 +5,7 @@ excerpt: "Excellence Market Research has recently published a very complete anal
 publishedDateTime: 2020-01-31T08:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-2020--qualcomm-nec-google-ltu-technologies-catchoom-technologies-2020-01-31"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -21,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
-
 related:
   - title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
     excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-date analysis of the Market with regards to the innovations, current competitive landscape and latest trends and drivers, to provide new predictions for the forecast period."
@@ -36,12 +30,8 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+    quality: 42
 
-secured: "jEW0y1pCKzHY8ki79cZH17mZ6rROLOBFbWAYy22vHqakvfMgclUXdO5gSq22B/6lRjL7N41eu8k0XtW0n/P3pfsgOFxrkYkTlmueSBOfbE7K94gmoUeJkMV9HpFupWQs4JXzFYy+0RCWLy8tXRbkZNVO43rHcNRmtL7vvlbCvyNo0fMf4XXRDZQyjxppV9Pz1WaQanwjZmYyVL54o5zMw+qF8xSCVdj91YGO9rMkemUJM9F8SM+CYxbUeJqUJrj5Gz75cVWZtqhiPhl2ziWU4K7r5D30Diy02HAcSv9XthA4nbth8UMAgDnloU3vpkRB;OcOwyX6OOC+Ipdhn1/tTXA=="
+secured: "fNQe36rx82LMBkg+3Eun8+pEcWhJvfIJAg7kniTUxnFOZncNgAsA5e0T25QPnKAW0pHpH+xB3EeHNwq/rUYmtAJ2xw/08s8H8NnwzWGWcv1edjEVXEVfsWONdOuxJ3tT1nlNI0Q8DhZvFgkMSRXAR0DkMAtjYpxxfgiWZLsQ+xRk0ADtW752zMeLXwwOdbJW06kEUPin/Kf5+zdrBEgGzwTz9FEtbH0ocnCJ5hNs37AZbSfVnXIUhvXC3eZ0H9TzwCeKeXn0+ZBTLf11dJyz+cQbT2xmAVXOYsnhuHuBPxTe2FHz/6VL6sCAvZtPj8zn;ebkQ02Xw5MBix7HGNkankw=="
 ---
 

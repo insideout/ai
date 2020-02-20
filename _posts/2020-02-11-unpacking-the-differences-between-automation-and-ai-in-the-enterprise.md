@@ -57,6 +57,17 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/robot_ai_shutterstock_Phonlamai-Photo.jpg"
         width: 1000
         height: 667
+  - title: "Role Played by Artificial Intelligence and RPA in transformation in the business world"
+    excerpt: "The age of transformation will witness the emergence of varied possibilities and use-cases with the intermingling of new age technologies like Artificial Intelligence, IoT, automation and analytics. For example, smart cities, self-driving cars, healthcare, manufacturing and retail (automation, preventive maintenance, predictive analytics ..."
+    publishedDateTime: 2020-02-20T10:34:00Z
+    webUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/"
+    ampWebUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
 
 secured: "GS+i1O0PHE28C3jnzIw19c+sySFM1SD9iaHoCDicKaICgvv4adoh+N8gbg3JI9vDxo2aQfF1wxFLmGdmNL3q6tjpeaKZ1R3u4Ajsytz4GUNRDVIuHeXa1w9K+ea8FXOUrZfAfr5sT1dzmGyh6lLH3Q02Wpj9TFq6R52eCuX3A5yJbuV5XQI7hN92w2LBVQHU0W+sE9SuJY7qzh5Z4Rg8r/YXCfyjbeGCcNbPx9lWRdVvsmPIaXzx2t4uZBbAzbBifnOjD8r8Px5GJ/4HJ476xnjhb615niNaVT/veW8fiQvZtK5XyTkfpwBzS5SB/x/m09JR+MpKUwQU7CvX1qt6yH07VVijYGC9ZWguGXnaOmV+EGGZRD42zKhUv6E+XVSUlcfBb9hVMiPrk7yKwii+j1MvKWv9Qnu1BoDpfhlPgx0hYf0yttpp+hIt9ynHz8of7LmzpQhXQpA6cU1J7/qc2+V/Iau4B8yCq0/C6Fd5ftc=;BHWqIBSZlMm0UTZSDY80+A=="
 ---

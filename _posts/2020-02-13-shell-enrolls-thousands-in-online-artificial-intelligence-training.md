@@ -46,7 +46,7 @@ related:
         width: 1280
         height: 640
   - title: "EU pitches artificial-intelligence rules"
-    excerpt: "LONDON -- The European Union unveiled proposals Wednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology. The report is part of the bloc's wider digital strategy aimed at maintaining its position as the global pacesetter on technological standards."
+    excerpt: "The EU's report said clear rules are needed to address \"high-risk AI systems,\" such as those in recruitment, health care, law enforcement or transport, which should be \"transparent, traceable and guarantee human oversight.\" Other artificial intelligence systems could come with labels certifying that they are in line with EU standards."
     publishedDateTime: 2020-02-20T07:48:00Z
     webUrl: "https://www.arkansasonline.com/news/2020/feb/20/eu-pitches-artificial-intelligence-rule/"
     type: article

@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is"
+    excerpt: "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ..."
+    publishedDateTime: 2020-02-20T00:04:00Z
+    webUrl: "https://www.theverge.com/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 66
   - title: "Boston Dynamics’ dog robot Spot is going to patrol an oil rig in Norway"
     excerpt: "The news: Spot, a four-legged robot made by Boston Dynamics, has got one of its first real-world assignments: it will be start being used by oil and gas firm Aker BP to patrol ... Testing: Aker BP has an agreement with an AI software company called Cognite to work out which tasks it is best suited to, then deploy it in the wild."
     publishedDateTime: 2020-02-13T12:05:00Z
@@ -31,19 +42,6 @@ related:
       - url: "https://cdn.technologyreview.com/i/images/spot-mini-aker-bp.png?sw=1200&cx=0&cy=0&cw=588&ch=331"
         width: 588
         height: 331
-  - title: "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is"
-    excerpt: "But Spot might not be the indication of Skynet that most AI scaremongers intend to think itis According to papers acquired ... The test lasted 90 days beginning in August of 2019, preceding Boston Dynamics’ news in September that it would certainly start renting the robot to lots of business to evaluating its real-world capacity."
-    publishedDateTime: 2020-02-20T07:48:00Z
-    webUrl: "https://tecake.in/boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is"
-    type: article
-    provider:
-      name: tecake.in
-      domain: tecake.in
-    quality: 36
-    images:
-      - url: "https://i0.wp.com/tecake.in/wp-content/uploads/2020/02/bfarsace_190919_3680_0038.jpg?fit=1200%2C628&#038;ssl=1"
-        width: 1200
-        height: 628
 
 secured: "zaW+9ICEcaXbNsnyuADbU7lj1a8PyCh7BUF8SuawXN+AOSjbJKAZbvDLyRtUuqDU3/HqO97e9YOYRYbHBjbML+H6nYDOx4MGmwNSBSrYV0VYH8qrIyuVY5AcQQ0pSRFMXz0MMnTGyXWu2LfXh37b8VaSrRXZsUFqHN1oCQfSHqgcgI0Avn5NudnYcW9mzIZNvZvkUPHtR/68WfP1D/Lv9cf92fLa76wH0roJX6ZbdNmpc/e+wjTKmsCYQyzXTzWSrQnJJbz9Ayh/zZThq6BZjGEBFBcQjTfk3V3bvteE4z3y0C4uWGdlptYuT/htjSl5;Qg75qYHdK1jsNZcoH6vi1w=="
 ---

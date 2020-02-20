@@ -19,7 +19,7 @@ topics:
 
 related:
   - title: "KC companies could soon be using security robot with artificial intelligence"
-    excerpt: "It's able to patrol businesses and a local company hopes businesses in Kansas and Missouri will start using it. Kenton Brothers Inc. is already ... “Simon,” and other Cobalt Robots are autonomous with artificial intelligence designed to detect safety hazards and intruders. “It combines human intellect with superhuman sensors ..."
+    excerpt: "It's able to patrol businesses and a local company hopes businesses in Kansas and Missouri will start using it ... “Simon,” and other Cobalt Robots are autonomous with artificial intelligence designed to detect safety hazards and intruders."
     publishedDateTime: 2020-02-19T02:36:00Z
     webUrl: "https://www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.html"
     ampWebUrl: "https://www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.amp.html"

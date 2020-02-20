@@ -2,275 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-10-behind-the-code-meet-zia-mohammad.md",
-      "title": "Behind the Code: Meet Zia Mohammad",
-      "excerpt": "As a product manager on IBM’s Watson Platform team, Zia Mohammad oversees Natural Language Understanding offerings such as Language Translator and Tone Analyzer. Zia also teaches at IBM’s Project Management Bootcamp. We talked to him about why he chose to work in AI, where he sees the field going in",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/02/behind-the-code-meet-zia-mohammad/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T11:35:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/02/2020_02_05_-Marketing_Materials_Blog_Image.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Behind the Code: Meet Zia Mohammad",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-deal-prepare-for-the-robot-age-with-essential-ai-training.md",
-      "title": "Deal: Prepare for the robot age with Essential AI training",
-      "excerpt": "That might be an apocalyptic view, but learning how our future conquerors operate is definitely a worthwhile career move. Tech Deals is now offering the Essential AI and Machine Learning Certification Training Bundle as a budget-friendly guide. Explore computer vision and machine learning. Across your training, you’ll dabble with computer ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/essential-ai-training-1080950/",
-      "ampWebUrl": "https://www.androidauthority.com/essential-ai-training-1080950/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/essential-ai-training-1080950/amp/",
-      "publishedDateTime": "2020-02-10T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Deal: Prepare for the robot age with Essential AI training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws.md",
-      "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
-      "excerpt": "Each of the three scientists got a half hour to talk, and each one acknowledged numerous shortcomings in deep learning, things such as \"adversarial examples,\" where an object recognition system can be tricked into mis-identifying an object just by adding noise to a picture. \"There's been a lot of talk of the negatives about deep learning ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "publishedDateTime": "2020-02-10T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
-          "width": 3151,
-          "height": 1082,
-          "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
-      "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
-      "excerpt": "Deep learning may be bumping up against conceptual limits as a model of intelligence, but opportunities to apply it to transform industries and enact massive real-world change still abound.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "publishedDateTime": "2020-02-09T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40aef58b6cf300071e457e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks.md",
-      "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
-      "excerpt": "Robots perform better at a range of tasks when they draw on a growing body of experience. That’s the assertion of a team of researchers hailing from DeepMind, who in a preprint paper propose a technique called reward sketching. They claim it’s an effective way of eliciting human preferences to learn a reward function — a function ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
-      "publishedDateTime": "2020-02-10T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-does-picard-foretell-the-future-of-artificial-intelligence.md",
-      "title": "Does Picard Foretell the Future of Artificial Intelligence?",
-      "excerpt": "With the launch of Picard, what better time could there be to investigate the realities of artificial intelligence and fully sentient life? If you talk with Star Trek fans, they’ll tell you both Data and Spock shared a similar trait. They ironically displayed more human features than many other characters. Writers and directors accomplished ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/the-cosmic-companion/does-picard-foretell-the-future-of-artificial-intelligence-939eb96f914",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1000/1*ljF7aZb_J9On0u0fv7XccA.jpeg",
-          "width": 1000,
-          "height": 437,
-          "title": "Does Picard Foretell the Future of Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-facebook-quietly-acquired-another-uk-ai-startup-and-almost-no-one-noticed.md",
       "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
       "excerpt": "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ...",
@@ -1740,7 +1471,7 @@
       "path": "_posts/2020-02-11-aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app.md",
       "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
       "excerpt": "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ...",
-      "heat": 349,
+      "heat": 329,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/",
@@ -2144,6 +1875,268 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-first-time-ever-artificial-intelligence-develops-drug-candidate.md",
+      "title": "First Time Ever, Artificial Intelligence Develops Drug Candidate",
+      "excerpt": "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/",
+      "ampWebUrl": "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/",
+      "publishedDateTime": "2020-02-11T14:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
+      "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
+      "heat": 235,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-googles-machine-learning-is-making-you-more-effective-in-2020.md",
+      "title": "Google’s Machine Learning Is Making You More Effective In 2020",
+      "excerpt": "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
+      "publishedDateTime": "2020-02-10T20:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F881497148%2F0x0.jpg%3FcropX1%3D148%26cropX2%3D3119%26cropY1%3D1497%26cropY2%3D3169",
+          "width": 1200,
+          "height": 676,
+          "title": "Google’s Machine Learning Is Making You More Effective In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-how-will-your-career-be-impacted-by-artificial-intelligence.md",
+      "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
+      "excerpt": "Nobody can predict the future with absolute precision. But when it comes to the impact of artificial intelligence (AI) on people’s careers, the recent past provides some intriguing clues. Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future offers some insights and predictions that are well worth our consideration.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-02-11T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/imageserve/5e17b6d42ffdbd000701d5f4/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 511,
+          "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions.md",
+      "title": "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions",
+      "excerpt": "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to-drug interactions (DDIs). Researchers from the MIT-IBM Watson AI Lab, Harvard School of Public Health, Georgia Institute of Technology, and IQVIA have ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/",
+      "publishedDateTime": "2020-02-11T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/11/578ed6f6-77c3-463d-a9fb-ae809750f192/resize/1200x/f727d19000da51259bb97e2708cbc806/ai-medicine.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-is-ai-cybersecuritys-salvation-or-its-greatest-threat.md",
+      "title": "Is AI cybersecurity’s salvation or its greatest threat?",
+      "excerpt": "If you’re uncertain whether AI is the best or worst thing to ever happen to cybersecurity, you’re in the same boat as experts watching the dawn of this new era with a mix of excitement and terror. AI’s potential to automate security on a broader scale offers a welcome advantage in the short term. Yet unleashing a technology designed to ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
+      "publishedDateTime": "2020-02-11T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1.jpg?fit=2160%2C1078&strip=all",
+          "width": 2160,
+          "height": 1078,
+          "title": "Is AI cybersecurity’s salvation or its greatest threat?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

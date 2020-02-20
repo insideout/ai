@@ -2,250 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-19-nasa-missed-these-11-dangerous-asteroids-but-an-ai-caught-them.md",
-      "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
-      "excerpt": "To see just how many possibly dangerous asteroids we’ve been missing, researchers from the Netherlands built an AI network to analyze the data and see what it could find. AMAZON'S TOP DEALS: These Amazon deals are up to 50% off, today only! As the researchers explain in a new paper published in Astronomy & Astrophysics, the computer brain was ...",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/",
-      "ampWebUrl": "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/",
-      "publishedDateTime": "2020-02-18T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2016/12/asteroid.png",
-          "width": 1560,
-          "height": 1205,
-          "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-obviously-ai-introduces-natural-language-predictive-analytics-service.md",
-      "title": "Obviously AI introduces natural language predictive analytics service",
-      "excerpt": "The key is a combination of natural language processing and AutoML-like capabilities that let you write a query down in standard English (you can skip the SQL), choose the data set and column(s) you want to target. Then the service performs some data cleansing to normalize the data, internally runs a handful of competing algorithms to select ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
-      "publishedDateTime": "2020-02-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/19/3b6d1b1b-288c-4f2d-9b9d-76593f46fba9/thumbnail/1200x675/aeb3ea6808e22b96d2de0a08c7e48caa/sennheiser-hd-450bt-header.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Obviously AI introduces natural language predictive analytics service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-pentagon-to-adopt-detailed-principles-for-using-ai.md",
-      "title": "Pentagon to Adopt Detailed Principles for Using AI",
-      "excerpt": "However, he said, \"Taking AI ethics seriously could increase the chances that some skeptics in the broader AI community are willing to work with DoD while also potentially improving the reliability and effectiveness of military uses of algorithms.\"",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/02/pentagon-adopt-detailed-principles-using-ai/163191/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/upload/2020/02/19/NGdrone20200219/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Pentagon to Adopt Detailed Principles for Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-report-artificial-intelligence-finds-disease-related-genes-tdnews.md",
-      "title": "Report: Artificial intelligence finds disease-related genes — Tdnews",
-      "excerpt": "An artificial neural network can reveal patterns in huge amounts of gene expression data, and discover groups of disease-related genes. This has been shown by a new study led by researchers at Linköping University, published in Nature Communications. The scientists hope that the method can eventually be applied within precision medicine and in ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/",
-      "ampWebUrl": "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/",
-      "cdnAmpWebUrl": "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/",
-      "publishedDateTime": "2020-02-19T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tunisie Soir",
-        "domain": "tunisiesoir.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.tunisiesoir.com/wp-content/uploads/2020/02/Artificial-intelligence-finds-disease-related-genes-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Report: Artificial intelligence finds disease-related genes — Tdnews",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-sentinelone-raises-200m-at-a-11b-valuation-to-expand-its-ai-based-endpoint-security-platform.md",
-      "title": "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform",
-      "excerpt": "“The landscape is expanding and it is getting very hard to monitor not just what your network looks like but what your attackers are looking for.” This is where an AI-based solution like SentinelOne’s comes into play. The company has roots in the Israeli cyberintelligence community but is based out of Mountain View, and its platform is ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/",
-      "publishedDateTime": "2020-02-19T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-914788014.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-stanford-and-nyu-only-15-of-ai-federal-agencies-use-is-highly-sophisticated.md",
-      "title": "Stanford and NYU: Only 15% of AI federal agencies use is highly sophisticated",
-      "excerpt": "More than 40% of U.S. federal agencies and departments have experimented with AI tools, but only 15% currently use highly sophisticated AI, according to analysis by Stanford University computer scientists published today in “Government by Algorithm,” a joint report from Stanford and New York University. “This is concerning because ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/amp/",
-      "publishedDateTime": "2020-02-19T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/capitol-building.jpg?fit=3263%2C2005&strip=all",
-          "width": 3263,
-          "height": 2005,
-          "title": "Stanford and NYU: Only 15% of AI federal agencies use is highly sophisticated",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-the-top-20-it-training-companies.md",
       "title": "The top 20 IT training companies",
       "excerpt": "If you want to learn about AI, DevOps, Blockchain, and other tech topics ... ROI Training: Cloud certification prep workshops, which cover Google Cloud Platform, AWS, and Microsoft Azure, are offered at ROI Training. You can take them with an instructor, or teach yourself--and the skill level is customizable. CGS: For the third time in a ...",
@@ -686,6 +442,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-20-boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is.md",
+      "title": "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is",
+      "excerpt": "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
+      "publishedDateTime": "2020-02-19T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-20-gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises.md",
       "title": "Gartner’s 2020 Magic Quadrant For Data Science And Machine Learning Platforms Has Many Surprises",
       "excerpt": "Enterprise decision-makers look up to Gartner for its recommendations on enterprise software stack. The magic quadrant report is one of the most credible, genuine, and authoritative research from Gartner.",
@@ -736,7 +529,7 @@
       "path": "_posts/2020-02-20-only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots.md",
       "title": "Only a better understanding of AI can help end our fear of robots",
       "excerpt": "AI is upending companies, industries, and humanity. There has been an ongoing polarising discussion among experts in both the academic and industrial circles when it comes to artificial intelligence (AI), and the impact of its adoption on our continued existence. One side envisions multiple benefits over its widespread adoption; while the other ...",
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "type": "article",
       "webUrl": "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/",
@@ -774,7 +567,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI Ethics"
       ]
     },
     {
@@ -810,6 +604,50 @@
           "width": 1024,
           "height": 512,
           "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-she-broke-the-glass-ceiling-to-establish-her-coliving-start-up.md",
+      "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
+      "excerpt": "Prior to this, the trio had founded Augbrain which uses artificial intelligence (AI) in education. However, the product was too complicated for ... Zolostays has raised $37 million in total till date. Choudhry revealed that the start-up is in advanced talks with new investors to raise up to $100 million for Series C round through a mix of ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346594",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346594",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346594",
+      "publishedDateTime": "2020-02-20T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200220095801-Snehaedited.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
           "attribution": null
         }
       ],
@@ -2084,6 +1922,169 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-artificial-intelligence-can-now-track-down-blood-cancer.md",
+      "title": "Artificial intelligence can now track down blood cancer",
+      "excerpt": "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "ampWebUrl": "https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "publishedDateTime": "2019-12-26T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Asian Age",
+        "domain": "asianage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": "Artificial intelligence can now track down blood cancer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-aws-ceo-claims-alibaba-cloud-isnt-a-threat.md",
+      "title": "AWS CEO claims Alibaba Cloud isn't a threat",
+      "excerpt": "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/articleshow/72974967.cms",
+      "ampWebUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
+      "publishedDateTime": "2019-12-25T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-72975031,height-275,width-412,imgsize-563589/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/aws-andy-jassy.jpg",
+          "width": 412,
+          "height": 275,
+          "title": "AWS CEO claims Alibaba Cloud isn't a threat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-data-science-vs-artificial-intelligence-eliminate-your-doubts.md",
+      "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
+      "excerpt": "While Data Science makes use of Artificial Intelligence in its operations, it does not completely represent AI. In this article, we will understand the concept of Data Science vs Artificial ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/quick-code/data-science-vs-artificial-intelligence-eliminate-your-doubts-912b3b2c805",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/730/0*K2hTcclvkZAbCzkZ.jpg",
+          "width": 730,
+          "height": 365,
+          "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-revisiting-the-rise-of-ai-how-far-has-artificial-intelligence-come-since-2010.md",
+      "title": "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?",
+      "excerpt": "To most people, few things say “A.I. is here” quite like seeing an artificial intelligence defeat two champion Jeopardy ... In 2010, Google officially unveiled its autonomous car program, now called Waymo. Over the decade that followed, dozens of other companies (including tech heavy hitters like Apple) have started to develop their ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp",
+      "publishedDateTime": "2019-12-26T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/christies-ai-art-header-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

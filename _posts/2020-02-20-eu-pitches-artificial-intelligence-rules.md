@@ -1,7 +1,7 @@
 ---
 category: news
 title: "EU pitches artificial-intelligence rules"
-excerpt: "LONDON -- The European Union unveiled proposals Wednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology. The report is part of the bloc's wider digital strategy aimed at maintaining its position as the global pacesetter on technological standards."
+excerpt: "The EU's report said clear rules are needed to address \"high-risk AI systems,\" such as those in recruitment, health care, law enforcement or transport, which should be \"transparent, traceable and guarantee human oversight.\" Other artificial intelligence systems could come with labels certifying that they are in line with EU standards."
 publishedDateTime: 2020-02-20T07:48:00Z
 webUrl: "https://www.arkansasonline.com/news/2020/feb/20/eu-pitches-artificial-intelligence-rule/"
 type: article
@@ -55,6 +55,6 @@ related:
         width: 1280
         height: 640
 
-secured: "98MPRMaAWCvWsHX6MECqMQoWAMBSz6jwpC9yfL6tZgjzu9DdoRiEz8+GCBGjYtPXfH7jb9eUZm2uiIhyUShGKMlotfrdR8h3crLAa1z5qriE53PMOptTaiHsB7c2lTKX73oRCJi9y4UTaT+8u7QISt/5fQ+LT5Ex6hu56QXi2Zy5y9tfqleT1aOaivXgt2ydAIA/5Tz+/w3Tkd8G08UDi1oNZGdiOGTbzgUaMJVpP5wksRAoWo3TdLeHXCymrPV/I/DUnpWB+DkSP/Xnmx3MI9FpCQ45Ht5QBhth5zyH/iZDFKRUKfj5POSjXhO28vNU;wpRsXEMmxVOHZr16WttOvA=="
+secured: "1XyA60Iq/P9U0Xx5Qs+VYBKOC6obWTNrb3yCb1+z/2QRRCa2euBKx4FQVAoqMiwcCbveiejhWQIF9MzI9SDshP6jOzoguMxMt2PsXtwspuIcmV4qpj4ilMt4ZpDNX/wI0WJS+46xIVX2PQDygiqdzWRvlJZcoxg4NLx1p3hZBt6vRTRr2l/ecMgbPeJQu//QCzgUNmWspsOG7uL7WnL+dkYJn20gRFuwLFbZgYD8H1+ReNn/d4MtA0r5Ui64HKzDiHTUsQUKZCMlfg1hXV+pO/GmHzyYp2kbr5kX7D+DEuSpxLFPbo5AkwA1p/mgcSpK;Y+3AgpqlFaIeqVf4uk/8Vw=="
 ---
 

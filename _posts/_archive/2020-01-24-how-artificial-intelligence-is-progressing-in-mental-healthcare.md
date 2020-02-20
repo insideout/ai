@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/mint-lounge/features/how-artificial-intelli
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 337
     title: "How Artificial Intelligence is progressing in mental healthcare"
 
-related:
-  - title: "ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET"
-    excerpt: "Artificial Intelligence In Healthcare Market has been provided in the latest report launched by SMI that primarily focuses on the World industry trends, demand, Share, Consumption and Growth with ..."
-    publishedDateTime: 2020-01-28T07:33:00Z
-    webUrl: "https://www.openpr.com/news/1910427/artificial-intelligence-in-healthcare-market-is-set"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-
-secured: "afn0bcauyYFWS0RvJfmVXWxGeZ7fzBxbc3QTgILrfO+Nra4u9MtW7gsLxUGt8wjwp8eW4cpYYyb+RPDKljbMkDcra/cOv/2RK+M9Wq7Vk4vLApUStsG8BtL7hlo+PfAewGivA9+vuzEsZJzsEOrW0ZSz5ui8RnabplUCET6UKFVHp3ic9BWfRJ/GzRnyfuQgwCh90AgCQ3S5eN4kFAbEy2KFjurJT+Zd4+bAEKop+l4PXn35lBHOm/OGRs/czSmOcUE1r7R2eFppTMhBfJYSoiSiNOD9SSJ6Z8gwaofPQvNRKSnrCHisGi2q76FB1R1D;HHwfdb+LpoICP3hUoFiN1Q=="
+secured: "NcOgn1vIXFvVtlR0iUTmrYusvU9DPMQq7aFwCuaPt5AXgAgrrCJp2w3UZXidAq8qmDq6+vZLutwoMnGVqKcVoJzE1bMO9kukjNOciCF4U8qdOU8CpQLE1+SxXIdXXYiNvZGyLvTmv8VF2UZO8ZDISlIS/vF3ghv6A7Ly1Bn7TqST1jw135w/nQK4mhi6iTBSRi2scoOIbmY54GV3e8yeqfJgtO6dxGpnz5/vGOWtMtXdOVFikSLTf9AnSJa6lhHRDzDHbbbtim4hJfnSCwQNtewAXGztKmm6oYVYiOMXvXP7esgnZAoV9OB6R1H6Eryw;q5kCrRm1uZLyv7H41XcqmA=="
 ---
 

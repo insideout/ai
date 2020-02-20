@@ -2,184 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers.md",
-      "title": "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers",
-      "excerpt": "These technologies touch on a variety of legal and ethical concerns that the business community should take notice of.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/",
-      "publishedDateTime": "2020-01-16T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://blogs-images.forbes.com/forbesbusinesscouncil/files/2020/01/erik-lucatero-VcOwZMahmCQ-unsplash-1200x800.jpg?width=960",
-          "width": 711,
-          "height": 474,
-          "title": "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-the-defining-moments-of-ibm-watson-last-decade.md",
-      "title": "The defining moments of IBM Watson last decade",
-      "excerpt": "Unveiled to the world just under a decade ago, today, IBM Watson is being used by millions of people in thousands of different ways to unlock the value of data in new and profound ways. Across countless industries, Watson is helping businesses around the world harness their data, increase productivity,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/01/the-defining-moments-of-ibm-watson-last-decade/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T11:18:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/01/Year-In-Review_Image-Header_1.16.2020-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "The defining moments of IBM Watson last decade",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-the-next-iphone-will-have-an-advanced-camera-that-can-scan-3-d-objects-barclays-says.md",
-      "title": "The next iPhone will have an advanced camera that can scan 3-D objects, Barclays says",
-      "excerpt": "Barclays semiconductor analysts on Thursday said Apple's 2020 iPhones will have a refreshed version of Face ID and new time of flight camera sensors. The sensors could be used to improve portrait pictures and augmented reality apps.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/16/new-iphones-will-have-refreshed-face-id-and-3d-camera-barclays.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/16/new-iphones-will-have-refreshed-face-id-and-3d-camera-barclays.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/new-iphones-will-have-refreshed-face-id-and-3d-camera-barclays.html",
-      "publishedDateTime": "2020-01-16T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105496531-1578685537989tim.jpg?v=1579089697",
-          "width": 3000,
-          "height": 2000,
-          "title": "The next iPhone will have an advanced camera that can scan 3-D objects, Barclays says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-the-us-military-wants-long-range-in-the-dark-facial-recognition.md",
-      "title": "The US Military Wants Long-Range in the Dark Facial Recognition",
-      "excerpt": "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition",
-      "ampWebUrl": "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1",
-      "publishedDateTime": "2020-01-16T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "The US Military Wants Long-Range in the Dark Facial Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline.md",
       "title": "Want optimized AI? Rethink your storage infrastructure and data pipeline",
       "excerpt": "This article is part of the Technology Insight series, made possible with funding from Intel. Most discussions of AI infrastructure start and end with compute hardware — the GPUs, general-purpose CPUs, FPGAs, and tensor processing units responsible for training complex algorithms and making predictions based on those models. But AI also ...",
@@ -2156,6 +1978,169 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now.md",
+      "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+      "excerpt": "The reason: they both invest in so-called deep tech, and they meet routinely with startups whose central focus is ... Siraj Khaliq is a partner at the global venture firm Atomico, where he tries to find world-changing startups that are enabled by machine learning, AI, and computer vision. He has strong experience in the area, having cofounded ...",
+      "heat": 66,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "publishedDateTime": "2020-01-17T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/space.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-geekwire-podcast-apple-acquires-xnorai-microsofts-bold-climate-plan-seattle-startup-trivia.md",
+      "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
+      "excerpt": "This week on the GeekWire Podcast: Apple doubled down on artificial intelligence and boosted its presence in Seattle with the acquisition of Xnor.ai, an Allen Institute for Artificial Intelligence ... but it’s also an example of an ambitious startup selling to a tech giant before it has the chance to become one itself. So how should we ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/",
+      "ampWebUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
+      "publishedDateTime": "2020-01-18T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/geekwirelogo121518-1260x1260.png",
+          "width": 1260,
+          "height": 1260,
+          "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-how-fractals-trial-run-uses-aws-to-power-ai-based-decision-making.md",
+      "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
+      "excerpt": "Akhil Behl, VP, Artificial Intelligence and Machine Learning at ... When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making",
+      "ampWebUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
+      "publishedDateTime": "2020-01-17T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1579263492635.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-how-to-build-ethical-ai.md",
+      "title": "How to build ethical AI",
+      "excerpt": "There are serious ethical and societal issues we must confront quickly.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence",
+      "ampWebUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
+      "publishedDateTime": "2020-01-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/humanoid_robot_07272018_1_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "How to build ethical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

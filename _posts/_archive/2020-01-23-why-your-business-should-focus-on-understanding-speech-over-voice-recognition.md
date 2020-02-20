@@ -7,9 +7,9 @@ webUrl: "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus
 ampWebUrl: "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: The Next Web
@@ -23,12 +23,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design40-796x417.png"
-    width: 796
-    height: 417
-    title: "Why your business should focus on understanding speech over voice recognition"
-
-secured: "pb6Up6SMk2bgukZvmCd8YIriEtJ1pWk/oGxYsBikgOHuHYzP3zr0OX0RN1Lb0wdS90fjKW4mPzOHZjxWygcvBUpLMZJPvwZBXYYDkrtj7ouYIqc9VE2JT1q+WxXIET3iOMh0vHrS+BQ4mCMPplEBmjuzy1hS6QH9Gj4gX8h7VBjcYqIc8RNSEGG6NDjp9M8nwI3w9M4pn8MyB6A4rYk/ME/CjZKi71vWtWBdZaIw0rGyGMFSbBHdsSN/gpb5vUfIXSLNXScrMq8XuM95tGyLabJKO9xt4ra1KW6sHBhO6JfmFVZSvoi+G5Hxoz0rWLRJ;K8BDuRZZeeMpbjnXSFWTbA=="
+secured: "wEapLIliuX3NI0ZqMN3/E3Y13hoR0wxcaCKzlNpTt4pH1FcFIoJ3nSbOr03OMnUTlfyb17zFhwmyxtEQ1IxP0Xp7lFRXyOoLL351cKX6rSd424U7VuiSs4Hly85WUF8D+cYkReF5V2a9tFQlqlCNb/RBL6N3I5jyqCFh8kCueXr+idFdUMeZ2hf5oRGP769mKiQPTFpXvVol5sIOVK8IfCPBGWSDHd7hPkA2f9z/5R0dvnZoP1CerENIYH/ChEClQM8WmvpWGIEbEoJu2AJhcrHi8ZePN6t1VsO2eEpP1aJEDC7dyx8HElzSFz901TG/;gIpaAiLOcKSK1oBOtNGEhw=="
 ---
 

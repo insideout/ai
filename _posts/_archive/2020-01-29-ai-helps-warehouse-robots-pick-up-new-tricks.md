@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI Helps Warehouse Robots Pick Up New Tricks"
-excerpt: "a startup developing AI technology for warehouse bin-picking bots. Covariant.ai has developed a platform that consists of off-the-shelf robot arms equipped with cameras, a special gripper, and plenty of computer power for figuring out how to grasp objects tossed into warehouse bins. The company, emerging from stealth Wednesday, announced the ..."
-publishedDateTime: 2020-01-29T09:00:00Z
+excerpt: "are among the AI luminaries who have invested in Covariant.ai, a startup developing AI technology for warehouse bin-picking bots. Covariant.ai has developed a platform that consists of off-the ..."
+publishedDateTime: 2020-01-29T09:04:00Z
 webUrl: "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/"
 ampWebUrl: "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/amp"
 type: article
-quality: 104
-heat: 104
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Wired
@@ -21,14 +21,7 @@ provider:
 
 topics:
   - AI
-  - AI in Robotics
 
-images:
-  - url: "https://media.wired.com/photos/5e2f1b2fad484f0008ab9102/master/pass/Biz-A%20Covariant%20robot%20at%20a%20KNAPP-powered%20warehouse%20Obeta%20outside%20Berlin_.jpg"
-    width: 2400
-    height: 1600
-    title: "AI Helps Warehouse Robots Pick Up New Tricks"
-
-secured: "GVYRUUnTq1LGDNzFTEstk9jlkQyKyIDu9QXgTyQHiZZH4CMgq7yJ09P1cxS7G2Hh4MX84IA3zxfOflz+Z2CndXrlRFubORuixpKcLQZyWYeld/Fe4kJpG4pihEXKrLpsPybynTetsm8VvA0sBce3OdiaiqxyawsAZvWW5tJDqQl+Fw+yc6JtD4qPO2a+25YtbMhjh0JgzuR6rpIfhCMPJZ9Y4rj7lBMc/EPVRfVW4pvwc7rO29eF2r5/Z8ybucQ+qJ6M1iOxAA5QiECcqoEfJwHg20/91LorLO+otsW8B/tRrwRUIFEKgToV7u/4nB04;F4Vwk9JPRIxFLiXNh95MEA=="
+secured: "itMeZiNBkEhJcF5RAXV3Lk8kU11w/PfaODQJcvloV65LV3bEoUdzqALpOyQIYmq3fwhMfVTX2K0f2+N8HOEl+Le2Km8/dmj7v3tsUdbIDaXjubmjDO9OfNw7tN+xymvsSxKcsa0T56WeuCkIiSG6VhqrghGHxm4PggXu8hS1i5dDyWfoSKZCzeaFRIDCcotyz/PVtP0ptjZXBot0gs0uao/RG8KUw1VWG1U8iKYSsHtlH+BPlsyZNXUBZR5KdSY7Jr5Kql8AGq3wwp5tLhW7JOd5lBWZRcD6xuVn3dDOkpSPxl3rwlMHSY2IrAl7zD/n;JLhvZK5c3BSfnE4plYMh/A=="
 ---
 

@@ -34,12 +34,8 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 54
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/feature/w/why-most-s/why-most-self-driving-car-companies-use-these-3-models_358k.1200.jpg"
-        width: 1200
-        height: 799
+    quality: 34
 
-secured: "nuESTp4+n8SG2UGppoLewK8QSkcDCvq7kI4oS1mU2MjbJvM7iXv1IEvDzZYlK7qYXyn1rmBTNwkrkXUGKbqmmlWJS8SM11Ro8ctf6PK0aO2wPGev6/E+2bdWQ0Ur1BvggjrWkPPwHlHJGlkDeepvKQNdFryoHb9KxicL5rxkPYwfJbTTDle+eRMYdO6RYW9K9Rx08zFMBTJtwK4/6lPYyvXALrMhDJKMWfGw44K8oE1At+7pXD/NLllwQifUTB7EaDUATzexVbu5qoT06hpvhIhfTUv8qn5gj9Qhh+Z+/6Q+IibwmPo2VK8sUikeF7rC;BuZ8SPOugU8fMWFcFv6oQQ=="
+secured: "xrXpTS+Yeyql7xdcZF27CLyAPGmsqUmSU6VGKfUwGrRQGvjbdaI3veJY7BJfg4VBtfV9grlGVxz+5Sb0Pws+heXlnjrFP12pCUM9QvGw9rT6OqTF11O6dWD1E3ViKlo94WkD4NRCtM80mjDAezcgvsnVbKar/tJUgNlZtc+QnYknYq1oVIpHKi6cUIet1tjS6PZGfo44/TFVOpj5QQmrei8Aplw67m1NDtDcbeDwtjMRWr4sVBB3OSutjGBRE8jMNXDQLIC6CrhFkzdgIOkp/ZccVYIVaMSsOfW6zd0whKuTh5ih5aSF5t7HiVJLjplm;EdG0YBdbObP0TmOtjT9osQ=="
 ---
 

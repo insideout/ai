@@ -180,19 +180,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Tape trick seen as showing hurdles for self-driving cars"
-    excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
-    publishedDateTime: 2020-02-20T07:50:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
-        width: 340
-        height: 246
   - title: "Ex-Waymo Driver Charged In Self-Driving Van Crash"
     excerpt: "A former Waymo employee has been arrested and is facing felony charged of aggravated assault and criminal damage following damage caused to a Waymo self-driving vehicle."
     publishedDateTime: 2020-02-17T22:25:00Z
@@ -223,6 +210,15 @@ related:
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
+    quality: 4
+  - title: "Tape trick seen as showing hurdles for self-driving cars"
+    excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
+    publishedDateTime: 2020-02-20T07:50:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?latest"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 4
   - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
     excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."

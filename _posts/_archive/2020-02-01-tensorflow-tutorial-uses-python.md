@@ -5,8 +5,8 @@ excerpt: "There’s been a lot of renewed interest in the topic recently because
 publishedDateTime: 2020-02-01T00:00:00Z
 webUrl: "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://hackaday.com/wp-content/uploads/2020/02/sketch_thumb.jpg?w=600&#038;h=600"
-    width: 600
-    height: 600
-    title: "Tensorflow Tutorial Uses Python"
-
-secured: "EENfKBoyDOxXQZ34yRoZJ9A9Qqjr88M14XZzBjmzm+MoR2Y165rWF37FNCjWaMyy/OL3NMLF721Wqsit5WuHQIqOGcu0zLHk9Pz2vUMNaX1r/98ZHKURWsX47v0rg4lXQegTtd7fDR2e4qbmgPX97taGwt3v2t+Qc2paSNeBlNiHVgJM+40XWS/4OyuSDkQLuC3LOLeLlB97z+j3z9p4DGHdMvneQoQKsx9o/Uwuvozm6sH8+8SfaW8EW2fvhf7aRZxfBauLXPBmtDd2jdBwM4wY4WDGWXYNRFYZc5DNYs8leQ9N8KmzaYXiOTOrJq3f;Ypcal1nye06aRrOl5fbgfA=="
+secured: "LsvhEamDOE+aEd7FaMiyrEGg00N+uuJDVyFSLHvvJpsyAowVLW0nnwdv30ogLBqOvYa+OEVsVIUwvWe7iFdtOOx5pvdMBxkd07KHXkBq02Z5xZPf+zrOoX5dJS2w3d0FVZ/KBcYA0y4xJhHCi+KaUVWnfZ9RXYWJHdlkpAl1rBgOXFJL3E2pYobPk5h0FciD6HFV4xDMZSl1JOzpOvJ84Q/rK7Dpz5it5kV6aVYOK6U7IfCAPVdKjHYDRghfB+yboZYUBgfoVyt4rC6vxmIefhuucq5+GsvlwIpD2n4fjP5LwEjmraAnmsBmTkXGaDov;/BNgiTF7uF59kkx9x1CsEQ=="
 ---
 

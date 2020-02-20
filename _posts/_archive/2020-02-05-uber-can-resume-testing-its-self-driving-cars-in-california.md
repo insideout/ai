@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Uber's self-driving cars return home"
-excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
-publishedDateTime: 2020-02-05T18:36:00Z
-webUrl: "https://mashable.com/article/uber-california-self-driving-permit/"
-ampWebUrl: "https://mashable.com/article/uber-california-self-driving-permit.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/uber-california-self-driving-permit.amp"
+title: "Uber can resume testing its self-driving cars in California"
+excerpt: "A newly issued permit has been granted nearly two years after a fatal crash in Arizona. Uber started scaling back its self-driving car tests after one of its vehicles hit and killed a pedestrian in March of 2018. While the company doesn't seem primed to unleash a fleet of autonomous cars, it has been granted a new permit to resume testing in ..."
+publishedDateTime: 2020-02-05T18:47:00Z
+webUrl: "https://www.engadget.com/2020/02/05/uber-self-driving-car-permit-california/"
+ampWebUrl: "https://www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
-    width: 1200
-    height: 630
-    title: "Uber's self-driving cars return home"
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fb9771a10-4852-11ea-bff7-ef681d5d0ecb%26client%3Da1acac3e1b3290917d92%26signature%3D6155d16da62a23f3c23ff3c2df84de6c08108d5c&client=amp-blogside-v2&signature=229f519d801b555c87fa388a4059f2d145839f4c"
+    width: 600
+    height: 350
+    title: "Uber can resume testing its self-driving cars in California"
 
 related:
   - title: "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app"
@@ -41,36 +45,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024"
         width: 1024
         height: 576
-  - title: "GM’s Cruise now has 1,800 employees working on self-driving cars, up from 1,000 in March 2019"
-    excerpt: "During a press conference this morning, Dan Ammann, CEO of GM’s self-driving subsidiary Cruise Automation, gave a glimpse at the progress that’s been made toward a fully self-driving vehicle fleet. He said that Cruise’s engineers, of which there are now 1,800 (up from 1,000 in March 2019), have over the past four years made a “10,000 ..."
-    publishedDateTime: 2020-02-05T17:42:00Z
-    webUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/"
-    ampWebUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
+  - title: "Uber's self-driving cars return home"
+    excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
+    publishedDateTime: 2020-02-05T18:36:00Z
+    webUrl: "https://mashable.com/article/uber-california-self-driving-permit/"
+    ampWebUrl: "https://mashable.com/article/uber-california-self-driving-permit.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/uber-california-self-driving-permit.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 163
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/20190718_Cruise_AV_ISO_FINAL_MB_WBGRND-1-e1573598957728.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Uber can resume testing its self-driving cars in California"
-    excerpt: "A newly issued permit has been granted nearly two years after a fatal crash in Arizona. Uber started scaling back its self-driving car tests after one of its vehicles hit and killed a pedestrian in March of 2018. While the company doesn't seem primed to unleash a fleet of autonomous cars, it has been granted a new permit to resume testing in ..."
-    publishedDateTime: 2020-02-05T18:47:00Z
-    webUrl: "https://www.engadget.com/2020/02/05/uber-self-driving-car-permit-california/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
+      name: Mashable
+      domain: mashable.com
     quality: 74
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fb9771a10-4852-11ea-bff7-ef681d5d0ecb%26client%3Da1acac3e1b3290917d92%26signature%3D6155d16da62a23f3c23ff3c2df84de6c08108d5c&client=amp-blogside-v2&signature=229f519d801b555c87fa388a4059f2d145839f4c"
-        width: 600
-        height: 350
+      - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
+        width: 1200
+        height: 630
   - title: "Aptiv \"Self-Driving Vehicles\" Top 100,000 Rides In Las Vegas"
     excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
     publishedDateTime: 2020-02-11T11:05:00Z
@@ -142,21 +131,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Apple and Its Rivals Have Spent $16 Billion on Self-Driving Cars"
-    excerpt: "The report outlines the estimated spending by the top 11 companies working on self-driving vehicles, which is topped out by Alphabet’s Waymo, GM’s Cruise, and Uber, which The Information estimates have spent about half of the money being invested in developing the new technologies, while Apple, Baidu, Ford, and Toyota account for “most of ..."
-    publishedDateTime: 2020-02-05T17:42:00Z
-    webUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/"
-    ampWebUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
-    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
-    type: article
-    provider:
-      name: iDrop News
-      domain: idropnews.com
-    quality: 44
-    images:
-      - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
-        width: 1000
-        height: 600
   - title: "Uber gets DMV permit to test self-driving cars on California roads"
     excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
     publishedDateTime: 2020-02-05T21:18:00Z
@@ -253,6 +227,6 @@ related:
         width: 600
         height: 375
 
-secured: "MSqRQrI/Zogke9ilIJwsn/cNkw1U5dtwmig5nVCnMiSTJdBjVrY4ZjWoGu8lYx0u5rKdEnCtI4AwwdR7NgX3hq9Uf3mY04fN06sNe03lrZnZguuRBjQis0etAzBYpJwbQjQtjKrC3LQ0YLRpOyKkjeEteoZiNbJM8AJwF0nRV6xBRlx5lvvRv6QJT+XdZDQ5WBVNSFPDFr4nHBmYiTVYKUGrUh9bCF5M2DK/YfxkGXCYLrkWRJTeiy6XJh6lylXbWGy4JyX+nHFMbxw1WHz4QHK+TgF21h12jhilbw5iQm4X3cSk1lvSkcZzhGxMIc5JMkMA0CLnILHjJpJUXIECMGfGijjEgo0/9x3ZORU1t+RDE2mvwGeTudvW+kib4PNeLObzXBctThFgMTdTaZ9V9p7imeRRfdWyfWCxMJncvfsgXH83YGRcZjtYSR5VGiH3dqdJt0NtShO/IeEsGikt/exqXx5jphBD5r9f9xa2KIQ=;f2oUz/9YlhPsNdut2eJlHw=="
+secured: "sUUk/bu4alQvIq8LRCVZ29qdAbJZw9+HNETmYnDhtves7t1iZPCSTU/u4UZFTh6/k7YovaWkQ2X+scdg9eiss/92udlDQJjC0pq3KkSpl5pU6zHYxYppdyc6d4MU2J9Z5drkjKbLLxrdmU7ldu7KHqGMD5gYKmtV3Uy5A6bPQPUecQ9kNAtJCAMShi3axfpjKQy69BQ6P24l6Zx6HYo8iqE84Cv6Riv0meAGESMR4/ttalYvgYDgi2pqB4mL994jbXY961vVPgRUO4kQQ6di4kRL+QL599O7aPw73ErUwXHNehqSbb3NuxF8gXK3CwWrmkfBNJUGzsudFWJL36EbvjG2GvfZs64Bi5w19doRJTvqs2k1qwfd2N1E8q+1BWeQRXT/CtwM0/F8MgvvPbBoUbiV+VQ7WyFLwhMAiAe7ihhFL2yq6H1kPPGspoqi3ICAb8+gYTeVMq1IwBcSlXpZmt3N8RrLtf8hzATAGtbkuAM=;c6PnPVoVOIf7RRl/qzWvdA=="
 ---
 

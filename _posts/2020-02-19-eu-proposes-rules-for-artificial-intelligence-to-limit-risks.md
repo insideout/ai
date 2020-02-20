@@ -1,58 +1,127 @@
 ---
 category: news
 title: "EU proposes rules for artificial intelligence to limit risks"
-excerpt: "The European Union is unveiling proposals to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the emerging technology. The report"
-publishedDateTime: 2020-02-19T11:35:00Z
-webUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-ampWebUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... The decision clears the way for the trial of Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud to start later this year for alleged war crimes and crimes against humanity ..."
+publishedDateTime: 2020-02-19T11:32:00Z
+webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: WTNH
+  domain: wtnh.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+  - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
     title: "EU proposes rules for artificial intelligence to limit risks"
 
 related:
-  - title: "Europe plans to strictly regulate high-risk AI technology"
-    excerpt: "By Nicholas Wallace Feb. 19, 2020 , 12:05 PM The European Commission today unveiled its plan to strictly regulate artificial intelligence (AI), distinguishing itself from more freewheeling approaches to the technology in the United States and China."
-    publishedDateTime: 2020-02-19T18:11:00Z
-    webUrl: "https://www.sciencemag.org/news/2020/02/europe-plans-strictly-regulate-high-risk-ai-technology"
+  - title: "EU plan on AI: new rules, better taxes"
+    excerpt: "\"The new ... taxes and others do not,\" it adds. Other initiatives currently being discussed include an action plan on 6G, making data-centres more sustainable and a revision of the regulation on online identification. After the EU's approach to AI and ..."
+    publishedDateTime: 2020-02-17T06:20:00Z
+    webUrl: "https://euobserver.com/science/147454"
     type: article
     provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 139
+      name: EUobserver
+      domain: euobserver.com
+    quality: 137
     images:
-      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/European_AI_Regulation_1280x720.jpg?itok=OAWMDBz_"
-        width: 1280
-        height: 720
-  - title: "EU Unveils Plans to Regulate Artificial Intelligence"
-    excerpt: "Margrethe Vestager, the EU’s digital policy chief, unveiled a strategy for artificial intelligence on Wednesday that aims to boost the use of AI in Europe while addressing concerns about data privacy. “We want every citizen, every employee, every business to stand a fair chance to reap the benefits of digitalization,” she said in a statement."
-    publishedDateTime: 2020-02-19T18:32:00Z
-    webUrl: "https://www.law.com/international-edition/2020/02/19/eu-unveils-plans-to-regulate-artificial-intelligence/"
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ed6fdf40109cab6388b14a8576373ce9-480x.jpg"
+        width: 480
+        height: 320
+  - title: "EU’s new AI rules will focus on ethics and transparency"
+    excerpt: "While transformative technologies such as AI have been labeled critical to economic survival, Europe is perceived as slipping behind the U.S., where development is being led by tech giants with deep pockets, and China, where the central government is leading the push. Europe has in recent years sought to emphasize fairness and ethics when it ..."
+    publishedDateTime: 2020-02-17T13:51:00Z
+    webUrl: "https://venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/"
+    ampWebUrl: "https://venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/eus-new-ai-rules-will-focus-on-ethics-and-transparency/amp/"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/MV-e1573146856797.jpg?fit=1200%2C664&strip=all"
+        width: 1200
+        height: 664
+  - title: "Apple, Google, Facebook lobby EU over AI regulation plans"
+    excerpt: "An Apple engineer testing a Machine Learning feature (source: Apple) Apple's John Giannandrea, senior vice president of Machine Learning and AI Strategy, is in Brussels as European Union officials begin planning regulations for Artificial Intelligence. Separately, Google CEO Sundar Pichai has been to the city, and Facebook's Mark Zuckerberg has ..."
+    publishedDateTime: 2020-02-17T18:37:00Z
+    webUrl: "https://appleinsider.com/articles/20/02/17/apple-google-facebook-lobby-eu-over-ai-regulation-plans"
+    ampWebUrl: "https://appleinsider.com/articles/20/02/17/apple-google-facebook-lobby-eu-over-ai-regulation-plans/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/17/apple-google-facebook-lobby-eu-over-ai-regulation-plans/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/34567-62480-000-lead-AI-xl.jpg"
+        width: 870
+        height: 485
+  - title: "EU plans new rules for AI but experts seek more detail"
+    excerpt: "The European Commission has said it intends to draw up new rules to protect citizens against misuses of artificial intelligence (AI) tech. It likened the current situation to \"the Wild West\" and said it would focus on \"high-risk\" cases. But some experts are disappointed that a white paper it published did not provide more details. A leaked ..."
+    publishedDateTime: 2020-02-19T16:23:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-51559010"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51559010"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51559010"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0B3B/production/_110957820_gettyimages-1139860760.jpg"
+        width: 1024
+        height: 576
+  - title: "European Union proposes data strategy and rules for artificial intelligence"
+    excerpt: "The European Union on Wednesday outlined the body's digital strategy and recommendations for regulating artificial intelligence and facial recognition."
+    publishedDateTime: 2020-02-19T18:54:00Z
+    webUrl: "https://thehill.com/policy/technology/483673-european-union-proposes-data-strategy-and-rules-for-artificial-intelligence"
+    ampWebUrl: "https://thehill.com/policy/technology/483673-european-union-proposes-data-strategy-and-rules-for-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/483673-european-union-proposes-data-strategy-and-rules-for-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: "https://thehill.com/sites/default/files/eu_europencommission_europeanunion_082418gn4_lead.jpg"
+        width: 980
+        height: 551
+  - title: "Fear Of Big Brother Guides EU Rules On AI"
+    excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI),"
+    publishedDateTime: 2020-02-17T14:06:00Z
+    webUrl: "https://www.ibtimes.com/fear-big-brother-guides-eu-rules-ai-2923718"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 37
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2019/04/Artificial-Intelligence-Article-201904091050.jpg"
-        width: 620
-        height: 372
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/17/the-eu-commissions-digital-policy-chief-margrethe-vestager.jpg"
+        width: 1024
+        height: 682
+  - title: "10 Rules Entrepreneurs Need To Know Before Adopting AI"
+    excerpt: "Rocio Wu offers insights into how entrepreneurs can start riding the wave. Although adoption of artificial intelligence (AI) and machine learning (ML) for the enterprise is still in the early days, the technology has matured enough for entrepreneurs to start gathering inspiration and evaluating opportunities for potential applications."
+    publishedDateTime: 2020-02-11T16:03:00Z
+    webUrl: "https://hbswk.hbs.edu/item/10-rules-entrepreneurs-need-to-know-before-adopting-ai"
+    type: article
+    provider:
+      name: Harvard Business School
+      domain: hbs.edu
+    quality: 17
 
-secured: "6ZkY+GJ+D9o2Jua1CBW4NhSkNwOK0c4ztHDFMVC9cPlM9oR+cwiBL+ESDzKkMcVOBhgJsq6GX0mm83mbqUHM9GC+5oU5+9qjsAeM+7F1K82T04Fcf53p4EoGTuVllg3/zp9a+h888rsVclrGdTFvxHtpAr7BrUzcpXTd37ot+75u9u+skcDQwxQ2TRjAlksqV5oq4C9UvpnPi7PiYJHfcdIJSzb33QAAuKvMCJKzuy77zhF5QzAjHfUT37Yfh8PxcqWZQrUOlXT76H78KBvEI+ACxUyXbdQpO0RJ3NISsv4H7FzW0yg+CsvH34hnSnHw;CMunoaQb21QZAIq3e+GKSA=="
+secured: "w7n22GYPKmTXjfVO19aCRw3KjrvwkSQYe68pK5JT/I3rahKAD2HMIpjVwPP8hWCfUx98wyWVnwY9v7SRShdMf4DA5f6QMD1TWAixeChsd5pioPbCcRbdpogRiJe/XRxb5fxfljaKtR8oX8nm8olJ4E8ml8hhGIaUhIzIJNWbzNqBVScx+rZc2EBatKziJTGBLcNA1FFkF3Rzq4kbPEkaSnJvnyQyVsurxrI5FecmXw/UezT5hpuNzlwh+cZw/XHLA8dmphiCM18AKAljYyt4DrvF54kKWA8sfT1vdOzkp5eA9gngDd9UL/8GyXOcIJtb;zdpq5Lyp2Sb7/e3Y8q/qVQ=="
 ---
 

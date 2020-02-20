@@ -53,6 +53,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/MV-e1573146856797.jpg?fit=1200%2C664&strip=all"
         width: 1200
         height: 664
+  - title: "EU proposes rules for artificial intelligence to limit risks"
+    excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... The decision clears the way for the trial of Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud to start later this year for alleged war crimes and crimes against humanity ..."
+    publishedDateTime: 2020-02-19T11:32:00Z
+    webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+    ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    type: article
+    provider:
+      name: WTNH
+      domain: wtnh.com
+    quality: 59
+    images:
+      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "EU plans new rules for AI but experts seek more detail"
     excerpt: "The European Commission has said it intends to draw up new rules to protect citizens against misuses of artificial intelligence (AI) tech. It likened the current situation to \"the Wild West\" and said it would focus on \"high-risk\" cases. But some experts are disappointed that a white paper it published did not provide more details. A leaked ..."
     publishedDateTime: 2020-02-19T16:23:00Z

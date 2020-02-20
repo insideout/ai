@@ -128,32 +128,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
-  - title: "NJ lawmakers debate cops’ use of controversial facial-recognition tech"
-    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-05T18:04:00Z
-    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-controversial-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
-        width: 757
-        height: 667
-  - title: "NJ lawmakers debate cops’ use of facial-recognition tech"
-    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-05T18:05:00Z
-    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
-        width: 757
-        height: 667
 
 secured: "VY4MDMbXPNqRDujLWyZ3hlGqo/yUXt0CSHevcJIls6Ag53QKPDIBmqXJ539ZTo7mF+l7qvwidnEsz09kXfHnZSaayh2k1NY3B3Ty8XuEs/mwkvEMbxfLQd3P1tOK/X+qV63c7jGgvMhrYBVWixnen9NIIInn6lXcW/0luIdCvTH+edDyQ1nvGFWFLFYXs2Ry/eNQw5uc2UEJZOBTp31ZRfR/fEiRceayBXnWHyTWap1JvAcA5fBrb4Q38j63ZvLHyzNMaPdVjtECfeFz1iu4QyrTUlx1014ovAv8ACp9GXTCRVtQLRai7T22LFpQdLpG7hJNwZQv0svWtwKBkM0us5h0tkn1HJn5ZlTvkmRge0FpFBIS4tODkoErSao3utH4jA5RyyFniH98D+EQS2z4SNfqKcGP04UjeBWZt6KuFgTnz8eSALtK/m9LXc3TwXClf1UQXTL4ttdd5s7lNADRrwYbvl/KuG9sBpFS94TPlGQ=;gj7+yHvBJ+Nf8bRhunkiKg=="
 ---

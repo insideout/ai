@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-06T22:51:00Z
 webUrl: "https://www.aclu.org/news/privacy-technology/the-governments-nightmare-vision-for-face-recognition-at-airports-and-beyond/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 51
+published: false
 
 provider:
   name: Aclu.org
@@ -22,30 +22,6 @@ images:
     width: 1200
     height: 630
     title: "The Government's Nightmare Vision for Face Recognition at Airports and Beyond"
-
-related:
-  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
-    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
-    publishedDateTime: 2020-02-13T02:52:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/herta-security-lauded-by-frost-amp-sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-879892037.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
-    images:
-      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
-        width: 1500
-        height: 784
-  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
-    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
-    publishedDateTime: 2020-02-05T18:29:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "ZwAtWnwg6y+FlgQldXoDr3JrcV4EoBar85ovY11u4VdXwUQSshU/3n0VBc3Du6zZglShqj80ZlvFJ6/cW9kEgKeFPwV5tagBhWinYFLtzmmJknihsPYXs3T7roqp2V9RIWfEh1E4IpY3cG3PXtidHtasp+xmTSE4gtPAVCwqDccGttFNYGCUwffPZmywdUmgsrh10xbgjMBB+xyYCkf3VWtzIdx+QxqocS9maWMvG6A/QhG+S0U1pb6ZKm+4zsZOOsdSKAx+QLeCw4GeuwD6e4hiz+twcj/EbcQKfl0fTIYCNtmr66JAHyvLrNqZDUDe;uum3iER/fKkG+p/TsIfcLg=="
 ---

@@ -100,21 +100,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HW845_Facebo_ZH_20191212141837.jpg"
         width: 890
         height: 501
-  - title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
-    excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
-    publishedDateTime: 2020-02-05T17:34:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7970371/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 62
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/05/17/24354446-0-image-a-59_1580923631236.jpg"
-        width: 636
-        height: 382
   - title: "Google and YouTube want Clearview AI to stop scraping images and video for facial recognition database"
     excerpt: "Facebook told CBS News that it, too, is reviewing the company's controversial practices, but so far hasn't made any decision on what to do about it. The social giant is on thin ice when it comes to facial recognition, after being brought to court for silently doing it in the background using photos uploaded by its users."
     publishedDateTime: 2020-02-06T11:51:00Z

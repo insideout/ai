@@ -28,11 +28,7 @@ related:
     provider:
       name: Business Line
       domain: thehindubusinessline.com
-    quality: 41
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/c0g3te/article30744550.ece/ALTERNATES/LANDSCAPE_615/BL06ALEXA"
-        width: 615
-        height: 384
+    quality: 21
 
 secured: "d1Bjg/f5aUQPOrZi3Ws1xMzR7ODY7RjhP9yl511lGF3vuiK2Hx2WDVQUdoXPWvGXyHvxiFN/qIZrHX48oD7W43t+rjHuEmpsbf9nM66j9O/1jzXj3IZvk9Yc5jqAbqu7yPNSl2fUDV3gBaTQUXAi/JEIjiU53sz9uAIi2PwV1UHLHOOS7RXIpz7pBaUxaZJgsczUZrwUFljeauoNCFrNWIguFG5SOMb73K9dX7lu3q4t0OgylYqL0yzvL6UlQovqb6rtrxec6s/XzMyWs4lfRxJOpRgrb3OzwUjnIbUilJojdAbjIFyGemxHKDd4HxFC;zdITyNq2F6y7pz75VW2ubg=="
 ---

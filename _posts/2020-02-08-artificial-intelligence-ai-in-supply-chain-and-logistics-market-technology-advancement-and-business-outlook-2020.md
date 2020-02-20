@@ -86,11 +86,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+    quality: 0
   - title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
     excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
     publishedDateTime: 2020-02-06T13:49:00Z

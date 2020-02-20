@@ -89,21 +89,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-12%252F817d5be0-2b17-11ea-bf2f-87fbf2b24155%26client%3Da1acac3e1b3290917d92%26signature%3Db14f51401056407d35d55f5f6c2b29b8f6862048&client=amp-blogside-v2&signature=d27d50c6ff2fff8a8b1438ffab389237e0ebdc55"
         width: 600
         height: 350
-  - title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
-    excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
-    publishedDateTime: 2020-02-05T17:34:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7970371/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 62
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/05/17/24354446-0-image-a-59_1580923631236.jpg"
-        width: 636
-        height: 382
   - title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
     excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
     publishedDateTime: 2020-02-05T23:47:00Z
