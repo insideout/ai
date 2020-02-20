@@ -4,7 +4,7 @@ otherNames:
   - "GEENEE Inc."
 overview: "GEENEE is an advanced video and image recognition platform that uses patented technology to deliver dynamic, curated content into the moments of daily life."
 type: "profile"
-heat: 549998
+heat: 998
 
 website: https://geenee.me/
 
