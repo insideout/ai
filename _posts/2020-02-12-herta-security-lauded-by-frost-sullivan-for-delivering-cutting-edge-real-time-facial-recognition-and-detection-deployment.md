@@ -69,6 +69,32 @@ related:
       - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
         width: 980
         height: 551
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 39
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
+  - title: "Facial-recognition tech questioned, defended at House committee hearing"
+    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
+    publishedDateTime: 2020-02-07T20:31:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
+        width: 700
+        height: 379
 
 secured: "IJwGI4797Mr6fTEweViylvwSY4bABdzbFGrNcF5X/YWP9cpNT/Z3y8rgQy664BFhB429HAFS9Ey/NaQfrTLpLV5/ZoLn6UF8slhcAmTklUgOPzLYAlIvRIQAJob5wXqdbT6w4n/wJJt3iIuclQ8HoBGjeo7ra4CS1w/UdVs1ukIxMAyxw9RvhRyNUcQzeFbuAttsuf6o+aUz2EwjcBKCxV7N+caggpgchUJgOR+9T9ERErMN0qejlQd/Q70W+2OXh6VvIVdNsC1eyJlw44EgRXV2wtR7//0ws4sm6MXyQWFEnu/HtX6HxYf4nGuJ8S7f7IXohxhId9jS6QepcJLQzoTAzDu7KG9oMZwOUaRNGnz92kQzsuUPSB8RHwQ7K7E6ea8mq/PKvgHLrtsqzgZc8XMNPTt54XyJnxZqsmucx93LHn2c2Nln/UfWrkBCPw7Mfm+tNqA31M8sFWl2C2NpemZnu4pyQ0MceMiVUxFw81A=;aN6lCQrBiInEOcp9qIWQJQ=="
 ---

@@ -31,15 +31,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
-    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
-    publishedDateTime: 2020-02-05T15:33:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "P0kXxw+cTUZCxTklJuKiR6lY1ff+zg6GOk8e3lNGRUVDjmgBxwrtnhvPwxhQiuqjObuyTrbIPCmwU3hXjO831k0R0CXMrI0G6WyX9tRLoBZ1gU9Vh2oFzhW4gVM86y+F0Z8fm4h58sQYQRXvb+bPbgP9R1UOoEPSzQHnlK8RylVZ8XDtiyUhFCVRGLh+TJtytGZm/yY58Tqt6LV9Y4L42ZrUWa0BooWNnz/vE4bFjrYJD44+DwPEnGqsJtw3qBO4vNnEMgVnru5o6kkwueCbhBVYGRqFriZTUSVEXtatSCeHOpHhq7SjbpWWMVLuQGMH;6InCdmgLyNepuTNBAZ1SjA=="
 ---

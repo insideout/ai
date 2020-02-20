@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-02-novelty-dopamine.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-novelty-dopamine.amp"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -18,21 +18,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-related:
-  - title: "Machine learning technique speeds up crystal structure determination"
-    excerpt: "The method uses a machine learning algorithm, similar to the type used in facial recognition and self-driving cars, to independently analyze electron diffraction patterns, and do so with at least 95% accuracy. The work is published in the Jan. 31 issue of Science. A team led by UC San Diego nanoengineering professor Kenneth Vecchio and his Ph.D ..."
-    publishedDateTime: 2020-02-05T16:15:00Z
-    webUrl: "https://sciencebulletin.org/machine-learning-technique-speeds-up-crystal-structure-determination/"
-    type: article
-    provider:
-      name: Science Bulletin
-      domain: sciencebulletin.org
-    quality: 39
-    images:
-      - url: "https://sciencebulletin.org/wp-content/uploads/2020/02/Machine-learning-technique-speeds-up-crystal-structure-determination.jpg"
-        width: 975
-        height: 732
 
 secured: "LfkEL5V/eKgyaaYRf8imBfb9DSCbRCMXcl9hrca9RPkPQGaCNYIBfDFbsFLwzGRJH6vu5hPwfpwq+U2DT/g5djCM7A7sDLeHHUJ4WodRCSpCXJffdau2APUJqYW0Gmkj5bgJC4r2OkZp25zkeEuxxmky6l3gWicnWdeMwjmYt4p0CG3DGi1kZC9AghUTj+lGfDWIUKBiWaMApyPrkH6Dma0FxdXjIw6XANbJqmnFoWWFz2IXD2FWJFIul2ZJirvJGYfjwnaFnJyOeuXxWfNhbt6i3kJj6aQhdbeSfdzFMDg7d/NEVHKQkzpQBQYEvqTnUrKDFxK1Ng7AppnOnOv7Ju1e+uM1fKC2WSJ8L9PnGfz1nmxUaFg9Dg3njzVUasIAbnEPuHdf67RDp6gyd8AYO/OYSLEBqKi61fbeJNdxbEX9cqrGmRf6siWzTuDzTfHP+0PzACGEJriKplrLf+xPbk9WWzLHeMKLwNAuEBZl18g=;avHPIHkgDK7jZi9TL1kFlA=="
 ---

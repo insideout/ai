@@ -36,6 +36,6 @@ related:
       domain: openpr.com
     quality: 34
 
-secured: "qFryV4CuBf+ZJb4iTLsENz4nnCjA5RPa8Bqjv8KsUN9PQfGcfL21Ij1aiPasXrb+vcraIQmkrqa9LWHUnvAEtVzi6lY91KOqRvaM+eTOdeGY658FbRqF3sE8i58zQ9ejU4fKx8g6+/4QvrmzGDx4+q+0k77aSlPsap81TbBO7Mfiemu+Bd48lpeozJXvEJUYkOi4M31GEBYCfuYQNrdoa1LntmvoiIesxSVkWPdd6Q2iMQqVFDspa/KYywypLfY+sOyeiU5I+Ck0N3liN2rLR1g94L3NgnFlyvwjQhzv1Jgl1ZqCNdHFFbMol3M/6+nw;NInVxdLt7ekj0HqZTSyG0Q=="
+secured: "L4+klxfgdKyEk7+I1rq5ByC9/NVijbra+3Mkj1zLfWBtBs+EjJEGCMMDBTYNr2phVv5ny8lsskHbGqREKAehSuEM7a4dp8FF7YNUvGgQqNLgbZWWgWTmAHheiryVtSR3SWu94yPt2ogQHu4Dns5QY8/UN6Mq4Jlu57kaKkV6v3Wu0MuJN8rsETJFowGHwNR7jS13Unma56nxz9J0VUjYVCyv+wKqVONFXtJ15npDhSbI+xHKta854MrMijQacOpp+caxupi0vpqhP6y+WOo8lJZQmX7TA0LHJGHstUaOfFBjOsrM53Ne/uxTiMwdTcTp;/f2qa0fLsu0kzRR2Xe6Nog=="
 ---
 

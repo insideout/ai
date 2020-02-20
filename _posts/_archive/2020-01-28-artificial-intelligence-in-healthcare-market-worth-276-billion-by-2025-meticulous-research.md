@@ -27,6 +27,6 @@ images:
     height: 356
     title: "Artificial Intelligence In Healthcare Market Worth $27.6 Billion By 2025:: Meticulous Research®"
 
-secured: "NXTZPCWAyn/EeqODnSjFlFKm+ee+xO+ZTmr5rari0DBA2OTSQkCUfiavHw6uBexyTj3Kx4WmzJis3AJ//43vUpvA3dW04jbp8PB4onrMPjlgZkCEokz/Z+TB6gGsV4AGZuMSOZbK8TlZnijl4kOGNhlMjW1PL6b3qSKtgk9bKrnMVopaFV10OYz/pylfBSgRpp5PTJjeDc+1xlXJbGy/3K1QiuAUfoENLfijRTO9IfVznbmwDL9w36nqTUYgsptdXgV04rrpAVIF57I76zTUPCXcqgKm2fiw71Z6NhcFvtKa/IFltOQzOtltKx7n71rc;4em01Z+cqjUQ+i3jzn9Eww=="
+secured: "NOf1Wu9q6DIlGjrXXqCadHA29ZG+erjVNjCOxC/0kHUc+iqXNS1xQ0NOFwa/04apL+0SJWF8Nz5Q2B/vD8VcLgitmLr04duWNUt3uUoQpHcaA7rnGQYMleiK0XvPWW2VcXt8f0I5m+vg4MUu1dQ7F2Qk6bBJ4OcKaJxZqykxeFwO5vimr2xtCc3pYwo5fqXcPmY7jgJeJiSr5L2kwjDtH/uvA7P2a+qWeYRH9PuaSyOhUYO5jbvrioJg/mri+SxKmOjHQQhUEP8bUpBKdfQueQWSehl/oAmJ6+a1JgIybXJgtHo2ozmQe3xy+G0c8uhG;u6wUqq+QmQ6XuGbw8PPUpQ=="
 ---
 

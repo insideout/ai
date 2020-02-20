@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
-excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
-publishedDateTime: 2020-02-06T09:45:00Z
-webUrl: "https://www.businesswire.com/news/home/20200206005222/en/Yseop-Launches-Augmented-Analyst-Next-Generation-AI-NLG"
+excerpt: "Based on actual ROI findings collected across over 100 successful Yseop projects, scaling from single use case applications to enterprise-wide deployments could translate into billions in ... The platform combines different AI technologies including machine learning, NLG and natural language understanding allowing users to customize reporting ..."
+publishedDateTime: 2020-02-06T09:26:00Z
+webUrl: "https://venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/"
+ampWebUrl: "https://venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/amp/"
 type: article
-quality: 15
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://mms.businesswire.com/media/20200206005222/en/771287/23/Manche_H_YSEOP.jpg"
-    width: 1200
-    height: 627
-    title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
 
 related:
   - title: "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker"
@@ -193,6 +193,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "fHLZp7XCcKs+5M/1d5f7CbzfO45hGhO6wt41ynJBMiwvNStyYjxZwcrWV1IX5ThfLDl7AHYwG4qDmz1epOFsVjfRLGTMnZSJv80hDTcZ/A+0K+4BVLQVVDqTea1+aNchvP6Xa5T9MxbBxFaTJ728yO4GudLVKbPOE+wgfglUdsOQLgf6tcUxrUWvl6oHcSDbITWCdq/RfmhgCOAhYRoCj3dAczFoF9lsCxtZ05MPkWwXEtKwRyNqInkHObjrXkCMWokPz7eJ9ScUV0r6xf+0WBsk6PJcwSM4+DhbRAbg9ukknhFgJHwy1TM9KG7yPDWf26AxVThTjf0uVi+pfwPpriHsf27VBUlHFm28eKfSFVOHvawlI9Vf+vHneqwC3gTw+6Z6ZgX7CdqyPaoGbMajbj9+4zd9TttoDW3BGzsw3Qwp8HALrINDzJykXYZgc2bKzXJdSpIBLQP3JKYjUjCwYyxrlvj1FcRx1azsb7KlRFY=;6dQsjIeuWqDYsQDgygSizg=="
+secured: "DdAZKjYguxepe7yT+VjQig45T9/Cil2ik9HzydkYIwHIjzGYwDJyTfm3k2QkbhByfzfmuBb2FNDaFS08UVGTMiV0yu8+ml6C6+fQlM2kDiOwqLT6p6BI8r2ZApnSOYxcWo6zVczruvCJrOPoouLH0N/uQjrik8AyEqBpYsIsUAhLYYqs4/JQNN+hB5CI5rO2xRS5ERcvMmu3u9C3QcWC+OJuQK1da2IGdkzZUiIVpJUAd6p+7PkCg1qZkMUvfdwpPoIh1Ih+M4wfLCSWp/YCrbvKacTVlmA48RuKy00lvlduLCpSizRdSiQX2oIo8Wvs;+Cr2PFOFEAfsk+je/EUiQw=="
 ---
 

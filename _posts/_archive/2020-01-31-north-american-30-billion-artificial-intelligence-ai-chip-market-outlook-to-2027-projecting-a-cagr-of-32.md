@@ -17,17 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-related:
-  - title: "IoT Chip Market Outlook, 2020-2025 - 5G, AI, ML, Smart Homes, Smart Cities, and IoT Connected Devices in Electronics & Automotive Will Drive Growth"
-    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"IoT Chip Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The global IoT chip market is expected to register a CAGR of 13."
-    publishedDateTime: 2020-02-05T15:38:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980393/0/en/IoT-Chip-Market-Outlook-2020-2025-5G-AI-ML-Smart-Homes-Smart-Cities-and-IoT-Connected-Devices-in-Electronics-Automotive-Will-Drive-Growth.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-
-secured: "cPtTBOgJihK/8KXJWQx0YcUyO40+bgqvY5S0aRlywtisRoRx7w9Eddv9FBVDqZ/yDUqz2ef0v65SYAw6avsWmTjGX741lwNDiNLycx1gZsgNKqZxtVG8PAXPgf62OXgwZRgy8b45DxWUW7xT12omcVXHJh5NIK887h/SHMUZ6JsMInL6H0P6h21j/IHCKFS0zakm+4tL6m0M9DgOtRHHm7atv4c0PmEiuFqfkaG7v7+FFieZZvBqoFpggYfTy46e1B9XKNgA0bk5qENT460dmCG7dTwr2H3n8Gbmc+LtPCfokp9+plP6MM3qZi6CPAox;nxd/RDOPn8JISxyRjI3Dcw=="
+secured: "/J/MRwMAJKZ+MFPK1gvtDIokmq6H1njTQ3HPm4aTqAituPhWniAp8BjSZW6ZrGttWNWVblMcdaMpnKz4SVO3t7TBUbUdGxWNdciUtHwNQDgSkmJaLCkBTTlNHsN40ItOt1tEqYBDSPHljr6hrzi1vEw5VJXP1gm0rUn1mzcYGZa6L1WnV9ilKL8BmmW4Vcx9ADD2M353l+l/lkAawd+9LqfWiN48Ol/9w2yPCgQR+RuM8zlPQHMc0TCyJEGOSXfoha9BzhjJ+tPtpZ1xfxZOCtSVuKiffkjNZZSIXhCBems9kEY3C8b7j5p4b7TQ/ONb;FyP2oHE1DjUl9YxbtBZDsg=="
 ---
 

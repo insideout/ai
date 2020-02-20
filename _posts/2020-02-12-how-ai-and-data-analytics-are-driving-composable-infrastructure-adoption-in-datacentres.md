@@ -107,6 +107,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
+  - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
+    excerpt: "Based on actual ROI findings collected across over 100 successful Yseop projects, scaling from single use case applications to enterprise-wide deployments could translate into billions in ... The platform combines different AI technologies including machine learning, NLG and natural language understanding allowing users to customize reporting ..."
+    publishedDateTime: 2020-02-06T09:26:00Z
+    webUrl: "https://venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/"
+    ampWebUrl: "https://venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Incorrect Pronunciation Detection in eLearning using Deep Learning"
     excerpt: "At a high level, the idea is to monitor pronunciation of end-user, perform an analysis on it and feed the analysis back to them so that they can work on it to improve and also record it for deep learning. This can be achieved with an add-on or separate system that enables students/user to improve their pronunciation skills, not limited to ..."
     publishedDateTime: 2020-02-13T19:57:00Z
@@ -159,19 +170,6 @@ related:
       - url: "http://share.opsy.st/5e41cd6c4aabb-cranium-2099120_1280.png"
         width: 1160
         height: 1280
-  - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
-    excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
-    publishedDateTime: 2020-02-06T09:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200206005222/en/Yseop-Launches-Augmented-Analyst-Next-Generation-AI-NLG"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
-    images:
-      - url: "https://mms.businesswire.com/media/20200206005222/en/771287/23/Manche_H_YSEOP.jpg"
-        width: 1200
-        height: 627
   - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
     excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
     publishedDateTime: 2020-02-16T00:03:00Z

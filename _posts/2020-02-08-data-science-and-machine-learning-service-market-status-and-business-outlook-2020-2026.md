@@ -42,19 +42,6 @@ related:
       - url: "https://miro.medium.com/max/1030/1*TlJDveTXMsiz48_94nFeKQ.png"
         width: 515
         height: 338
-  - title: "Dataiku Launches Dataiku Community to Bring Together Professionals in Data Science, Machine Learning and AI"
-    excerpt: "/PRNewswire/ -- Dataiku, one of the world's leading Enterprise AI and machine learning platforms, today announced the launch of the Dataiku Community,"
-    publishedDateTime: 2020-02-05T15:51:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dataiku-launches-dataiku-community-to-bring-together-professionals-in-data-science-machine-learning-and-ai-300999601.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/831360/Dataiku_Inc_Logo.jpg?p=facebook"
-        width: 900
-        height: 470
 
 secured: "S9f065vrqaAtWzI6Z9gkAwu8i2ZS5i/7/kahZYPLXAl2YVUCyCy7gr2qEWSndQ/sgdm7RW0tOlA2XfDKCzcyg5GLs6UQ98slAHGGeENRa3Q+0rDaiJ7VzHCvh+tv8FB+nslQcMeyQ2/8k7DONaBQQsJdu+v+HK563Tj0foSNb1bQwsdEi8XiqjSOCQKpSpT/wsRhaB2gibeQTXkG4R2u/TqTgamvKkxIH9z7oPoV4AknLuXUIclycaXMie57ed3QzcSdV7i/NUPHy85I89XEfWGzzJrK09Cb2UM9PWkkN6SbGFb9ocjQkUJKKGgctsJg;r0r32UyPvHUggxqbHsIgrw=="
 ---
