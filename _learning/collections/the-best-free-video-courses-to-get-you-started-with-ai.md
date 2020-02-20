@@ -2,7 +2,7 @@
 title: "The Best Free Video Courses to Get You Started with AI"
 excerpt: "An increasing number of online courses have sprung up covering everything from the basics to advanced implementation of AI.  Here is a rundown of some of the best free online video courses to get you started."
 type: collection
-heat: 14234
+heat: 114234
 
 items:
   - courses/coursera-machine-learning
