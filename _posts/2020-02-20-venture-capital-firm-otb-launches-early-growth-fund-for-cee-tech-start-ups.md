@@ -23,6 +23,6 @@ images:
     height: 900
     title: "Venture capital firm OTB launches early growth fund for CEE tech start-ups"
 
-secured: "b5xHZ84KmMt/CnYDnOMBoj5sIDdWBsgPgIBGnX+gRWCa44+U0zNaEYx1+JkPNFyerOIc/7HHP0rPzJJ+1NTVbUNgypKkHhw47RShZXtX93+g/eR5zkyaAyk1DilwDLy6mb1zays3aD3kWjRi6AEr1rKMxqR9MENpZ4T46V9d/Uzb4TKF/W9hZi45yj6bTBdT17OY3OvAtX3w0RNXh7ZQEcDFZmvaUSYaQ1ib/m4F1hiky73HvJN6Ryetm+o3F/8EUo1Q6EkMBKyuCpKgV26+8j9cbbiZsWrgutUipzjGrvAXmiWtYSDuKRORaNAhP7oV;XSmqDV+lPPMxG54nABEyeA=="
+secured: "p+o2U/lBPbUGSh+01NXlfLIzwFpelva2/242RgBXqRCtcqCiPnRyuxdcwYezF72ShpvAZFuJ+v9qLXac/kBoQuzhUmlxIIaqdepOZg4DyxOYxBWP579DnJWMRvyfuR3zJlZy9/TV2PVWxWcBznIi45htLIhHpv1lRk9HZGU68gM9dGrJZxl/AxQNN/b4fD8XqL6bcDs7n4sV2sb0y1N1n59J0LtwZ7OXizTdudeNg5amkLnWFhpFXI0E6p9FsStJFk21Bmad3fEe1JTSFHwtdjR/gyty4DYdQ+Yf/gCM/eOrWbovkBPbrpx0qkTf08o2GKxq7W6m7M5BLO/X7DfxRfsYrfc7tXdR16YuHTcGdrqHhORjaj4P8zlI83XnNj980ChriLJVpuWAMvp/+OS0qt3LavfnS0w0BDw2MIrWhps8cnKOuX2lgpnnpIzMmwfu27gNmTDDDAx6C6ceGCMFRv1nPqBuJmKwo/FZKVt0QU0=;pezK2qPDbTtsT9Z51+GeBA=="
 ---
 

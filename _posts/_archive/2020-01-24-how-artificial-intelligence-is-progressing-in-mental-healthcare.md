@@ -36,6 +36,6 @@ related:
       domain: openpr.com
     quality: 34
 
-secured: "L4+klxfgdKyEk7+I1rq5ByC9/NVijbra+3Mkj1zLfWBtBs+EjJEGCMMDBTYNr2phVv5ny8lsskHbGqREKAehSuEM7a4dp8FF7YNUvGgQqNLgbZWWgWTmAHheiryVtSR3SWu94yPt2ogQHu4Dns5QY8/UN6Mq4Jlu57kaKkV6v3Wu0MuJN8rsETJFowGHwNR7jS13Unma56nxz9J0VUjYVCyv+wKqVONFXtJ15npDhSbI+xHKta854MrMijQacOpp+caxupi0vpqhP6y+WOo8lJZQmX7TA0LHJGHstUaOfFBjOsrM53Ne/uxTiMwdTcTp;/f2qa0fLsu0kzRR2Xe6Nog=="
+secured: "afn0bcauyYFWS0RvJfmVXWxGeZ7fzBxbc3QTgILrfO+Nra4u9MtW7gsLxUGt8wjwp8eW4cpYYyb+RPDKljbMkDcra/cOv/2RK+M9Wq7Vk4vLApUStsG8BtL7hlo+PfAewGivA9+vuzEsZJzsEOrW0ZSz5ui8RnabplUCET6UKFVHp3ic9BWfRJ/GzRnyfuQgwCh90AgCQ3S5eN4kFAbEy2KFjurJT+Zd4+bAEKop+l4PXn35lBHOm/OGRs/czSmOcUE1r7R2eFppTMhBfJYSoiSiNOD9SSJ6Z8gwaofPQvNRKSnrCHisGi2q76FB1R1D;HHwfdb+LpoICP3hUoFiN1Q=="
 ---
 

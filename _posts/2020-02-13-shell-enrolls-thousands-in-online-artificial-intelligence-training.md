@@ -45,6 +45,19 @@ related:
       - url: "https://images.wsj.net/im-154203/social"
         width: 1280
         height: 640
+  - title: "EU pitches artificial-intelligence rules"
+    excerpt: "LONDON -- The European Union unveiled proposals Wednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology. The report is part of the bloc's wider digital strategy aimed at maintaining its position as the global pacesetter on technological standards."
+    publishedDateTime: 2020-02-20T07:48:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/eu-pitches-artificial-intelligence-rule/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/img/photos/2020/02/19/resized_150246-4d1-eu-ai-0220-rgb_15-28769_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 393
 
 secured: "2uJfU9CS38/h/w2x4huI3pWAuQSApYcYN9YOiyyLxc3C/C1O2kFT5cBwnnmIWVVnWy8c3O0ONd0jaEqF7+atsBNnBgYQr7YsezcRmvcrboK6oorpfswwlaB3jBl2fx6+n2su2deMNlJEzdC57E7UaYpMvfpGMtqLfQuJtYDLe95FxFH0zP2IABUbqubo/y/GoOJcukXuF7HHFjebKMqs+PMdBDern0ZnxmScTVtJPewyIJSrGaWTMQGDVChyVhyPDrHqct1WM0sTCunsgF87FS6zpz6mjEaRJGHuQ5X4MHAabvURCHgL9WiHMYhyqfBUiD1X8d0M3jVj9p/ZbUD42D1ccDrOSIF/2i4cJ7J4ClTZXR1DEgeJ1cY9bcMYQzktc2XqPUo478GseNJLRs3KHtVfZ10nSIUa3wuyvWAIAjOnTasmi3ue6e4YKyZs7lAD8rldb7fSjasQW2TzxjBYlZ0F5yjJGa6cizQBwmnNQ6s=;2WKCCjNoJsUkb0NQ2L4QRw=="
 ---

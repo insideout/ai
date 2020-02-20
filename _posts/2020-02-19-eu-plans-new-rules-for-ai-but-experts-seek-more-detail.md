@@ -2,22 +2,18 @@
 category: news
 title: "EU plans new rules for AI but experts seek more detail"
 excerpt: "The European Commission has said it intends to draw up new rules to protect citizens against misuses of artificial intelligence (AI) tech. It likened the current situation to \"the Wild West\" and said it would focus on \"high-risk\" cases. But some experts are disappointed that a white paper it published did not provide more details. A leaked ..."
-publishedDateTime: 2020-02-19T16:24:00Z
-webUrl: "https://www.bbc.com/news/technology-51559010"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-51559010"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51559010"
+publishedDateTime: 2020-02-19T16:23:00Z
+webUrl: "https://www.bbc.co.uk/news/technology-51559010"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51559010"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51559010"
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -57,21 +53,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/MV-e1573146856797.jpg?fit=1200%2C664&strip=all"
         width: 1200
         height: 664
-  - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... The decision clears the way for the trial of Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud to start later this year for alleged war crimes and crimes against humanity ..."
-    publishedDateTime: 2020-02-19T11:32:00Z
-    webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-    ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-    type: article
-    provider:
-      name: WTNH
-      domain: wtnh.com
-    quality: 59
-    images:
-      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
   - title: "Apple, Google, Facebook lobby EU over AI regulation plans"
     excerpt: "An Apple engineer testing a Machine Learning feature (source: Apple) Apple's John Giannandrea, senior vice president of Machine Learning and AI Strategy, is in Brussels as European Union officials begin planning regulations for Artificial Intelligence. Separately, Google CEO Sundar Pichai has been to the city, and Facebook's Mark Zuckerberg has ..."
     publishedDateTime: 2020-02-17T18:37:00Z
@@ -125,6 +106,6 @@ related:
       domain: hbs.edu
     quality: 17
 
-secured: "dGAdhYa0L/J4daPMwfyJIJysYLGnBrNmgKoxeakI795dSUAVs24TdS1zwhRKssVVO25sxa3+qc6YH5wWlUl3MgaREGCQQau8PT6G1ORNMYWfabLQ/eDIlA3IQ/zpuZv6eD65u0sInljYzF+mkLgKyWqX2c01iccpDdAQTdocro2jYZHPrSV3FQDV7jtde+wbDTrGrWZ1Slu4jZvRHK2L+innrMFYMfl2Y30SFRXm48pU24+WOh7lnoqng2WqRnY7e+TWO5AlrElOvPEoJzWOcgDk8P2xGjx+zyt+kN23EPBT72SzaPPzdon6yGUGiYhsejlX8lwRbXDtNKkH8gfN1DmTXSFqFw862Tk9SlsmSX4CSBjTS7SI00WEU2amF8XEM8VE2MYTtCdLpIwrQ7Aba/1pHDBunxGFN9ENw/iSlNoX3r8n44CzDe2aDAGsg7KYnyzsh1Z4BBoWbW578OMyLPTu55qwgvnFUpnzwoORib4=;vgr1AIE1gE6bDNsuNz77Zw=="
+secured: "FApUoGWwBKFKH1plZ97afYqjoUuNxuAVvUsg6zInl9BZsAN8kXorNgMCDtBXIQ4xBk0jHQa4Sa7ACVH/tZHW1jn8FlkeSfzo88gB5Q+VqZ0qQYwldn8VVuxKNac7jAEKVdWiUtwpjuxNGXxXp2iSAyKKzdQMd+VxXYuJYbU+qXHhSIvPi0GXVB4MJId1ywOJsp/IJ1zGV9LiuI77i4aD1EaY25cjMUOMoj2XZVFjT7NQK6ZV9PZpylf9oTGsExlpFMv/Mg8dbW3zzv74DdXIyTNzRuH7jaQ4oURSDRWjcMl4W/LyGjL2QQ6t32A84fX1;0rzMy3zAB6oRmFhwEcPc+A=="
 ---
 

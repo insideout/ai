@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-mon
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -20,30 +20,19 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Fintech's Consolidation Creates Investment Opportunities"
-    excerpt: "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,"
-    publishedDateTime: 2020-02-05T17:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05"
-    ampWebUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
+  - title: "How Lending Has Changed with FinTech Innovations"
+    excerpt: "After all, the financial crisis of 2008 is still in the memory for some with how reckless some lending activity had become. The answer is with FinTech using much more sophisticated and advanced levels of AI and machine learning. A lender can see your credit file and your current income and expenditure very quickly during a decision, doing so ..."
+    publishedDateTime: 2020-02-18T15:39:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/18/444470-how-lending-has-changed-with-fintech-innovations.htm"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
     images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1823106049"
-        width: 1024
-        height: 512
-  - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
-    excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
-    publishedDateTime: 2020-02-06T09:44:00Z
-    webUrl: "https://www.openpr.com/news/1920717/just-ai-a-conversational-ai-solutions-provider-receives"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 3
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2020-feb/5879654967-money-182.jpg"
+        width: 960
+        height: 712
 
 secured: "s2zt8BjL5jlt6L9gKc4BXgZSUglvF5e3BdTUOY0AXFO2sBJ+a7j9RRspWEXxrgOno9cbM7TGiNbTr6vj+4fzxJHps8Nyd36QCK883QIvLKQDIOguBEs2vXpBOqn42PP5uJPje0CLb9f0p+5kMs+mlxr2xPee1XyMCtmiwbZsRnwXZBAEnW1iT6yZRj4hlbHZHI6NFZLMyrAI1aljLLixFcK1JL175bzkqPd+QC5WzJZiy4GjIj104BVZ3fDyLTsrSUYsiGFDXSRAlqwvhObtfo4jVs27THl+S28TYeapUPGxsG9lQGAAbVY5X5h7GSdMB41Zfuay9CiPVHw3Zxujtbm40dsDXaH60wbLK/+MXf9IzRoCHPr3wg6a6zDBgA1rJs3MmbYNUOxMa4+3pJmCgkXHqIQ8x6oH6VYYDWRSzl37oPoARJ6+0wu9CHp2+cN6zF4d+ldWNX0WO3xAsOh5+YcaD6dzIuwzabR8Dgqk+BQ=;qZaZ/D7F82GrkzMht/ksHA=="
 ---

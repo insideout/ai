@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T09:44:00Z
 webUrl: "https://www.openpr.com/news/1920717/just-ai-a-conversational-ai-solutions-provider-receives"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -16,34 +16,6 @@ provider:
 topics:
   - AI
   - AI in Finance
-
-related:
-  - title: "Fintech's Consolidation Creates Investment Opportunities"
-    excerpt: "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,"
-    publishedDateTime: 2020-02-05T17:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05"
-    ampWebUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
-    images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1823106049"
-        width: 1024
-        height: 512
-  - title: "Uber Creates Uber Money Team In India With FinTech Focus"
-    excerpt: "The Uber Money team will be geared toward putting into place new payment methods, harnessing smart routing technologies for payment gateways, using Uber artificial intelligence (AI) models for intelligent risk decisions ... “The Uber Hyderabad Tech Centre has the best in class fintech talent specializing in risk, payments, financial reporting ..."
-    publishedDateTime: 2020-02-11T18:02:00Z
-    webUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/"
-    ampWebUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 24
 
 secured: "ssXeXNIeaa569fPE1SSZmBZKxHDHiyplxifOzUhTsgUomL2htdCSxd0I9kNzqX1ooY5mpIPJ/TbdqZ46Vp9E02ool+/ktNgInVaP2vAnsWImeygTNBDOVTiohaGlACV3+qjKS0vyvlDGFpmkxKxFD7+Df78cPLUOm6PJlik7C74+ZuZeTLEy5YeZwi4f9UuAJ+UEo3HuZvSy1em9M1vejt6/PIDBnA5xuAT4JfSPKQmkXgR38y4yH0USe+HmZubMqmWtEcxtvR8NMFBiUpKMovSf/sv2tIcHCX6Hyb3KFdbxTeF0tXtAwERiGjT9/Nfs;VhEYuGGZZQ8YHC+UCQxJxA=="
 ---

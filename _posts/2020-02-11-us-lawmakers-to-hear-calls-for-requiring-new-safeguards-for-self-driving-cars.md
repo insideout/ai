@@ -99,36 +99,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg"
         width: 1400
         height: 933
-  - title: "Uber gets California DMV license to test self-driving cars on public roads"
-    excerpt: "In May 2018, Uber announced it wouldn’t renew its permit to test self-driving vehicles in California, citing caution in the wake of a fatal accident involving one of its autonomous cars in Arizona. (The California Department of Motor Vehicles requires that companies apply to test autonomous cars in the state.) But in a bid to close the gap wi ..."
-    publishedDateTime: 2020-02-05T17:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/05/uber-acquires-dmv-license-to-test-self-driving-cars-on-public-california-roads/"
-    ampWebUrl: "https://venturebeat.com/2020/02/05/uber-acquires-dmv-license-to-test-self-driving-cars-on-public-california-roads/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/uber-acquires-dmv-license-to-test-self-driving-cars-on-public-california-roads/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Uber issued permit to test self-driving vehicles on California public roads"
-    excerpt: "The company says it will notify key local, state, and federal stakeholders before it returns to the city. “San Francisco is a great city to gather key learnings for self-driving technology given it’s complex and ever changing environment. While we do not have an update as to exactly when we’ll resume autonomous testing, receiving our ..."
-    publishedDateTime: 2020-02-05T17:10:00Z
-    webUrl: "https://techcrunch.com/2020/02/05/uber-issued-permit-to-test-self-driving-vehicles-on-california-public-roads/"
-    ampWebUrl: "https://techcrunch.com/2020/02/05/uber-issued-permit-to-test-self-driving-vehicles-on-california-public-roads/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/05/uber-issued-permit-to-test-self-driving-vehicles-on-california-public-roads/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/uber-White-Volvo-6-.jpg?w=1024"
-        width: 1024
-        height: 682
   - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
     excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
     publishedDateTime: 2020-02-07T20:17:00Z
