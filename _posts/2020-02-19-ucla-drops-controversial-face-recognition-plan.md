@@ -26,34 +26,47 @@ images:
     title: "UCLA drops controversial face recognition plan"
 
 related:
-  - title: "Uber in Birmingham to launch face recognition checks for drivers"
-    excerpt: "Uber has just been given a new one-year licence to continue in Birmingham and pledges to do more to ease safety fears - including introducing driver facial recognition technology Uber in Birmingham is to launch new face-matching technology for drivers, alongside a passenger 'panic button', to ease safety fears. The company's UK chief was in ..."
-    publishedDateTime: 2020-02-19T15:17:00Z
-    webUrl: "https://www.birminghammail.co.uk/news/midlands-news/uber-birmingham-launch-face-recognition-17775710"
-    ampWebUrl: "https://www.birminghammail.co.uk/news/midlands-news/uber-birmingham-launch-face-recognition-17775710.amp"
-    cdnAmpWebUrl: "https://www-birminghammail-co-uk.cdn.ampproject.org/c/s/www.birminghammail.co.uk/news/midlands-news/uber-birmingham-launch-face-recognition-17775710.amp"
+  - title: "UCLA cancels on-campus facial recognition program after backlash"
+    excerpt: "UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus, a university administrator said Wednesday. The move comes after backlash from student groups and privacy advocates,"
+    publishedDateTime: 2020-02-19T23:21:00Z
+    webUrl: "https://www.cnet.com/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
     type: article
     provider:
-      name: Birmingham Live
-      domain: birminghammail.co.uk
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://i2-prod.birminghammail.co.uk/incoming/article17310852.ece/ALTERNATES/s615/2_22499790-1.jpg"
-        width: 615
-        height: 409
-  - title: "Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
-    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
-    publishedDateTime: 2020-02-13T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-leading-companies-consumption-key-drivers-challenges-and-trends-forecast-to-2026-2020-02-13"
+      - url: "https://cnet2.cbsistatic.com/img/Oz7mCdAo5X1NoCOIXkN3LG0Ws9I=/756x567/2020/02/19/19f84363-9dbf-4ec9-86c1-e95838a79888/gettyimages-992065420.jpg"
+        width: 756
+        height: 567
+  - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
+    excerpt: "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database."
+    publishedDateTime: 2020-02-19T21:44:00Z
+    webUrl: "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: VICE
+      domain: vice.com
+    quality: 71
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*"
         width: 1200
-        height: 630
+        height: 674
+  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
+    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
+    publishedDateTime: 2020-02-13T18:50:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
+        width: 400
+        height: 400
 
 secured: "LS2TblRNIiYTaro0dy4Y/pLSkuHLXgbD3LpZp5XtAnTtAvTTxBwPlzqF+v22MBMjp9V9q8DASnupmSC4pFBRr/aWjIJtemuQyMUhzXwcaz/3c48RCW5qyBnhzsuLm3ZwPvjkzSV78XQ25Ym1bs0INkbE1rGbMif6FWKohNg9sAnaiGKyWjnKHBAXyzPuJHWq0WkX+3qryFPWSZPUqbtqtmG9Gct/INTlHVG30O3ZeMmfF+qUzRJpJ90yLOYoJsN0UUo6WecGO7DZ/W4ID2lLSfv4OtxYjPylGSG1hPggN3/f8WCX0dZ6/w74Ptws8DIP;71q5z1gQQYiolFyHAz7cAA=="
 ---

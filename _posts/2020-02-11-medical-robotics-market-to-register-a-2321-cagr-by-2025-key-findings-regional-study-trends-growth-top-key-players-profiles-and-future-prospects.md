@@ -31,19 +31,6 @@ related:
       - url: "https://www.roboticstomorrow.com/images/articles/14749.jpg"
         width: 680
         height: 295
-  - title: "Deploying robots and drones in process plants and facilities"
-    excerpt: "Artificial intelligence made analysis of large data sets possible, and machine learning can be used to make decisions and take corrective actions in real time. The convergence of all these and other technologies has created space for innovation, with robotics one of the main beneficiaries. In general, mobile robots and drones must perform two ..."
-    publishedDateTime: 2020-02-05T07:05:00Z
-    webUrl: "https://www.controleng.com/articles/deploying-robots-and-drones-in-process-plants-and-facilities/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://cfemedia1.wpengine.com/wp-content/uploads/2020/02/CTL2002_MAG2_F3_Yokogawa-Fig2_RemoteRobotics-Slider.jpg"
-        width: 645
-        height: 350
   - title: "Kitchener-based self-driving industrial robot maker Otto Motors expands into Japan"
     excerpt: "Based in Kitchener, Otto Motors produces self-driving technology and vehicles that move materials within manufacturing and warehousing facilities. Altech is a trading company that imports advanced machinery and equipment from Europe and the United States (US) to support Japanese industrial companies. “Our innovative self-driving vehicles have ..."
     publishedDateTime: 2020-02-14T11:02:00Z

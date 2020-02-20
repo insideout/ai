@@ -48,6 +48,21 @@ related:
       - url: "https://i.ytimg.com/vi/4uGV_fRj0UA/maxresdefault.jpg"
         width: 1280
         height: 720
+  - title: "Hackers Tricked Self-Driving Teslas Into Accelerating 50 MPH With a Piece of Tape"
+    excerpt: "Hackers have figured out a way to fool Tesla’s self-driving Autopilot system, and all it took was a piece of tape. Povolny and Trivedi were able to manipulate a 2016 Model X (pictured above) and Model S by affixing a thin black strip of tape to the sign, extending the middle line on the number three. When the cars drove by the altered sign at ..."
+    publishedDateTime: 2020-02-19T23:49:00Z
+    webUrl: "https://robbreport.com/motors/cars/hackers-manipulate-teslas-50-mph-2900057/"
+    ampWebUrl: "https://robbreport.com/motors/cars/hackers-manipulate-teslas-50-mph-2900057/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/hackers-manipulate-teslas-50-mph-2900057/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 54
+    images:
+      - url: "https://robbreportedit.files.wordpress.com/2020/02/modelx.jpg?w=1000"
+        width: 1000
+        height: 562
 
 secured: "0gw0FLE+a8EmHtLTGVYykcFYdi/fJFchZ+iH2zj1wrHZ7bmEP4Ts/TD/zsBQ8QstFHZSEC9bThARtacQ6VmmUbZfIwgU54TP3crCy67hFfMZHVAqn0aEOgmVO5NE6Ubb76tul5sIMHCImO20VoBSFYjkUVwNg7828yVMCRevu17XU0YPdK1r6m4TXRVITRBQ08iu3XFaEHZkiQuIq/5sTuoH1YYBUhDrwxJ0HoN1A/Gx20N1CzRzId9GoHXfG5Kvg3DtQ5BTzGgh7It4JDGgdOSnsDKIeQ6PJ+xT8h2nYQbnIYDtAyI1owbW/uZcdpHsZ5AJlK7SHoZhNfJfYKfYRtFXqJ95Exhg8Y3/jBSk0QL3aaiuGXMlNEHcNBreMlmxWIrZe1mqJrfAHtoqKgrk0QAKxTIfYYpBq5OrXp8YAFeKM7zOqA6wrU0NQnBydtW7DXwMrJBA0H3uXDmAVNWep57zBiRR8gMkIRbjYyiHE1k=;fDY9qWN8epwANC4jSYs6Jg=="
 ---

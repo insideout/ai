@@ -8,7 +8,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-D
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-DD6044AC3CC1"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://i.ytimg.com/vi/4uGV_fRj0UA/maxresdefault.jpg"
         width: 1280
         height: 720
+  - title: "Hackers Tricked Self-Driving Teslas Into Accelerating 50 MPH With a Piece of Tape"
+    excerpt: "Hackers have figured out a way to fool Tesla’s self-driving Autopilot system, and all it took was a piece of tape. Povolny and Trivedi were able to manipulate a 2016 Model X (pictured above) and Model S by affixing a thin black strip of tape to the sign, extending the middle line on the number three. When the cars drove by the altered sign at ..."
+    publishedDateTime: 2020-02-19T23:49:00Z
+    webUrl: "https://robbreport.com/motors/cars/hackers-manipulate-teslas-50-mph-2900057/"
+    ampWebUrl: "https://robbreport.com/motors/cars/hackers-manipulate-teslas-50-mph-2900057/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/hackers-manipulate-teslas-50-mph-2900057/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 54
+    images:
+      - url: "https://robbreportedit.files.wordpress.com/2020/02/modelx.jpg?w=1000"
+        width: 1000
+        height: 562
   - title: "Insight: How to make an ethical self-driving car"
     excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
     publishedDateTime: 2020-02-16T09:31:00Z

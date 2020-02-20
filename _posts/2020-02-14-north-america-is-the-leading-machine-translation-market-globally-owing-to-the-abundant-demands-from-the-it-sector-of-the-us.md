@@ -24,15 +24,21 @@ images:
     title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
 
 related:
-  - title: "From models to tools: clinical translation of machine learning studies in psychosis"
-    excerpt: "At present, the feasibility of implementing neuroimaging-based machine learning tools in clinical services for psychosis is unclear due to the paucity of ... continuous development, and financial income generation over a sustained period will be required. We will therefore need to develop a dissemination and commercialization plan which ..."
-    publishedDateTime: 2020-02-14T10:15:00Z
-    webUrl: "https://www.nature.com/articles/s41537-020-0094-8"
+  - title: "FHWA Wants Machine Learning to Manage Transportation Network"
+    excerpt: "The report goes into great depth on the past, present and future of AI, and how emerging machine learning is expected to help create automated transportation systems. “Machine learning applications offer the potential to supplant human work in a variety of” transportation management systems, the report says, including data analysis and ..."
+    publishedDateTime: 2020-02-19T23:35:00Z
+    webUrl: "https://www.govtech.com/fs/infrastructure/FHWA-Wants-Machine-Learning-to-Manage-Transportation-Network.html"
+    ampWebUrl: "https://www.govtech.com/fs/infrastructure/FHWA-Wants-Machine-Learning-to-Manage-Transportation-Network.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/infrastructure/FHWA-Wants-Machine-Learning-to-Manage-Transportation-Network.html?AMP"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/accn-fedpulse-social-sept-v4-600x335-01.png"
+        width: 601
+        height: 336
 
 secured: "5x5NrtibgvFUez5ue1qdOGnhAtVKRHOrh7xXkNqmG6Ae+7mqHYU0Hy+1Qb/IgaoG4WyI1ODU7oamkuPpk5EBa/UK56IM41IrEqqSoJR2J6HfcNAT60E0I70vTXrVkdiX8GCHmzMzlJ8/SIHfxN6CpY10yw+B0kY24CjfaFnONJU5vZXQjzLkWteaPBatBrPrqagKLrG0Lv/ddpZ0PTpNDJFtmYVfc0kMMdc1BJ5MgIGos+XlGMvX3eP43/3NKciU4jYUkPTdTnGGHLNVt/r84PjpbAUqdXCaQGz/9mCWh9LrLiu3IU2deNHGJ7vsC7O3;ybtPWacldCh4oTmMblNuww=="
 ---

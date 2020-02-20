@@ -50,15 +50,6 @@ related:
       - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
         width: 1200
         height: 799
-  - title: "Making Kynisys: how we're building the future of AI"
-    excerpt: "The company is world-renowned for its GPU IP and more recently neural network accelerators and ray tracing and I ... After the initial learning-shock, I started to see how edge AI and inference on the edge is most likely going to be the future. The benefits of edge AI are about to make the world smarter: it provides speed, efficient data ..."
-    publishedDateTime: 2020-02-05T07:08:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/47483/making-kynisys-how-we-re-building-the-future-of-ai.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 19
   - title: "What Happens When the Spin Doctors Adopt Machine Learning? The Future of PR"
     excerpt: "In this special guest feature, Michael Burke, Director of Science & Technology at MSR Communications, takes a look at the state of the PR industry and its growing relationship with data science and machine learning technology. Machine learning may not replace the art of PR anytime soon, but there are countless areas where machine learning can ..."
     publishedDateTime: 2020-02-07T06:25:00Z

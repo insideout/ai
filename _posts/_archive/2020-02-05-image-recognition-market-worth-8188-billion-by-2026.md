@@ -196,15 +196,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200205005339/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
-  - title: "Global Surgical Imaging Market is Expected to Reach USD 7.50 Billion by 2025 : Fior Markets"
-    excerpt: "Global Surgical Imaging Market by Device (Angiography, C-arms, Endoscopy, Laparoscopy, Surgical Navigation Systems), Modality, Application, Region, Global Industry Analysis, Market Size, Share, Growth,"
-    publishedDateTime: 2020-02-05T07:02:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1979992/0/en/Global-Surgical-Imaging-Market-is-Expected-to-Reach-USD-7-50-Billion-by-2025-Fior-Markets.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
   - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
     publishedDateTime: 2020-02-05T12:03:00Z
@@ -239,6 +230,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "6XzEK9Gm8q42rPb3iywda9+igBMNH7OeI/Ves+eyWin0AWdxx0/YSHyxZKYZtEGJ3FZYaIlThMvNhbklkQae6SaY/tO6SYzmEL8j6TMCJA+98WbQCdbPpig0meeESmo6iQfCsqR716I1gv2qTxwel6zhSzU8OV0R4uhUZ9HQQGdPNcLJfUYX75RVwfPCkA+exJwxRMfVAik9q/Hw3vLqVlzjEInY6P5FzBuX5RdXrrQV8c8bGU3ev/tusR5KMXgxxReLiA9aG0nnJ/v6dtm77gbL8kix51sJtrkuBgEA28MFjeEE0Ho0JyDcEw+CBc6s;gET/lXdBbRsYxYXDIhTCbQ=="
+secured: "nEbfC2Fc2akU/PkWG8ogAgQ2hRRsMu9JIopUWj9T6L3jDzYrZVBm61+/uaeAnSAgDSZTmJISioPGf9a31aqA6ONTQPVrI9HyTOvgJIrkfWzUbj/VX1KFLeMJhmI5WOPt3CdSXYTSkB0rNWNJVMZFshR0CE15bM84IIdOlsKRnKyaVEaQNkpJx6qEgjJQzrAqGKTDLaEd6Czenvm2XP/DDI5tPrLnkM4nXQmgdnFdgOplyhVMPmzqeWfe5px36xaRsT58qUGA737YTSuxmOFvT14x4vBgBS04DS8gry8n1h6uSvEc0/REpFfzQBx38Ikv;3r3ILfRaxyVakMbRmjdVog=="
 ---
 

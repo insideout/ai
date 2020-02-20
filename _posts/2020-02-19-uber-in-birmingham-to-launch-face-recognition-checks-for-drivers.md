@@ -8,8 +8,8 @@ ampWebUrl: "https://www.birminghammail.co.uk/news/midlands-news/uber-birmingham-
 cdnAmpWebUrl: "https://www-birminghammail-co-uk.cdn.ampproject.org/c/s/www.birminghammail.co.uk/news/midlands-news/uber-birmingham-launch-face-recognition-17775710.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Birmingham Live
@@ -26,21 +26,6 @@ images:
     title: "Uber in Birmingham to launch face recognition checks for drivers"
 
 related:
-  - title: "UCLA drops controversial face recognition plan"
-    excerpt: "A major California university has dropped plans to use facial recognition for the surveillance of the campus. The idea was to have the University of California Los Angeles use facial recognition as a way to gain access to buildings, to prove authenticity and to deny entry to people with restricted access to the campus, matching their faces ..."
-    publishedDateTime: 2020-02-19T22:32:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/02/19/ucla-drops-face-recognition-plan/4810648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4810648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4810648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/d8d0774057d19139d16e6ede624d76e89947662d/c=1-0-1365-767/local/-/media/2020/02/06/USATODAY/usatsports/imageforentry34-vs0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
   - title: "Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
     excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
     publishedDateTime: 2020-02-13T12:51:00Z

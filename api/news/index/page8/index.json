@@ -2,43 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-19-facial-recognition-technology-will-follow-privacy-laws-edmonton-police.md",
-      "title": "Facial recognition technology will follow privacy laws: Edmonton police",
-      "excerpt": "EDMONTON -- Attempting to quell privacy concerns, Edmonton police say facial recognition software that they intend to use to identify criminals will follow privacy laws. Informatics Division Supt. Warren Driechel revealed new details about the proposed technology Wednesday, though the department has not implemented facial recognition yet.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://edmonton.ctvnews.ca/facial-recognition-technology-will-follow-privacy-laws-edmonton-police-1.4818878",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html",
-      "publishedDateTime": "2020-02-19T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": "Facial recognition technology will follow privacy laws: Edmonton police",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
       "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
       "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
@@ -1014,30 +977,38 @@
       ]
     },
     {
-      "path": "_posts/2020-02-19-uber-in-birmingham-to-launch-face-recognition-checks-for-drivers.md",
-      "title": "Uber in Birmingham to launch face recognition checks for drivers",
-      "excerpt": "Uber has just been given a new one-year licence to continue in Birmingham and pledges to do more to ease safety fears - including introducing driver facial recognition technology Uber in Birmingham is to launch new face-matching technology for drivers, alongside a passenger 'panic button', to ease safety fears. The company's UK chief was in ...",
-      "heat": 79,
+      "path": "_posts/2020-02-19-ucla-cancels-on-campus-facial-recognition-program-after-backlash.md",
+      "title": "UCLA cancels on-campus facial recognition program after backlash",
+      "excerpt": "UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus, a university administrator said Wednesday. The move comes after backlash from student groups and privacy advocates,",
+      "heat": 119,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.birminghammail.co.uk/news/midlands-news/uber-birmingham-launch-face-recognition-17775710",
-      "ampWebUrl": "https://www.birminghammail.co.uk/news/midlands-news/uber-birmingham-launch-face-recognition-17775710.amp",
-      "cdnAmpWebUrl": "https://www-birminghammail-co-uk.cdn.ampproject.org/c/s/www.birminghammail.co.uk/news/midlands-news/uber-birmingham-launch-face-recognition-17775710.amp",
-      "publishedDateTime": "2020-02-19T07:17:00-08:00",
+      "webUrl": "https://www.cnet.com/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/",
+      "publishedDateTime": "2020-02-19T15:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Birmingham Live",
-        "domain": "birminghammail.co.uk",
-        "images": null,
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://i2-prod.birminghammail.co.uk/incoming/article17310852.ece/ALTERNATES/s615/2_22499790-1.jpg",
-          "width": 615,
-          "height": 409,
-          "title": "Uber in Birmingham to launch face recognition checks for drivers",
+          "url": "https://cnet2.cbsistatic.com/img/Oz7mCdAo5X1NoCOIXkN3LG0Ws9I=/756x567/2020/02/19/19f84363-9dbf-4ec9-86c1-e95838a79888/gettyimages-992065420.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "UCLA cancels on-campus facial recognition program after backlash",
           "attribution": null
         }
       ],
@@ -2074,6 +2045,43 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages.md",
+      "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
+      "excerpt": "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
+      "publishedDateTime": "2019-12-22T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG",
+          "width": 600,
+          "height": 337,
+          "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

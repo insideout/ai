@@ -57,15 +57,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F567205e8-d3b7-11e9-aa6d-16cb9f989e55.jpg?crop=6194%2C3484%2C0%2C323&resize=685"
         width: 685
         height: 385
-  - title: "Making Kynisys: how we're building the future of AI"
-    excerpt: "The company is world-renowned for its GPU IP and more recently neural network accelerators and ray tracing and I ... After the initial learning-shock, I started to see how edge AI and inference on the edge is most likely going to be the future. The benefits of edge AI are about to make the world smarter: it provides speed, efficient data ..."
-    publishedDateTime: 2020-02-05T07:08:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/47483/making-kynisys-how-we-re-building-the-future-of-ai.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 19
 
 secured: "yoCLOry7F+IxQn5oFgqc7C9GVMEvmLD6PoTh11V0pzAV/HpCeM4BqzGZERU2aMTlth/lO3tAM6Ae00i5+IAsGq6eon+GOGOs4kw4jK3U+AxbPTF+xl/ZJhTSmYAKEwOk7lssseDqawSH5POIw6mzNwKVj6+PeCGXzHIJSspn2iHexllKMm/kIt/FHFQByHSVK7MakN1+0gxbqg28wmVmhZba4LDxgjU+sIuYPZt0HRJKAJgIydXSM5gBWSXp2xjmfDQ/xKPV0voFJ+nOAnxpXMsnrKAxHIqdUIO4JK01gkya3pyL/VN5yeUN371a8OcCGTgbCEDlp1btdEBdLlzk5vWGNN3KSoCUDZDVy+J918M3Qev9XUSiMch7orHGkAm/6oQd1rGXv3h5IFoT94e6X8fpdMIJsFprx50P4c3H2aG4uhqEXb55ktnUibc93B+Txbd0Ru/y6DJF0/Edj4ojt6+lm4LRPwBfq4d6Iz4KoV8=;RB1aMmQl+FHAfmQ+0Ebl1w=="
 ---
