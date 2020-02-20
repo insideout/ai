@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/tldr/2020/2/5/21124838/classic
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/tldr/2020/2/5/21124838/classic-1896-short-film-upscaled-4k-neural-networks-arrival-la-ciotat-station"
 type: article
 quality: 172
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 480
     height: 311
     title: "Classic 1896 short film gets upscaled to 4K using neural networks"
-
-related:
-  - title: "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps"
-    excerpt: "One of the hot topics in tech for the last few years has been AI, with business leaders throwing lots of buzzwords around - machine learning, deep learning, reinforcement learning, neural networks, computer vision, natural language processing. AI's complicated history can be traced back to software developed several decades ago with the purpose ..."
-    publishedDateTime: 2020-02-05T10:27:00Z
-    webUrl: "https://www.techspot.com/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 74
-    images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2019/07/2019-07-16-ts3_thumbs-789.jpg"
-        width: 800
-        height: 560
 
 secured: "bJsZC030QafPhIjTRwiRbFAdtHB/sLYMe5bXbMBPSEkxif812RDji6qX+tMPwXWlGjnCnVlNypALcNp7uwkUOICr/xUL3e5NxddK63Cob5g2mbCaxTm30eLWGjB1mW53qkwMCa7HXvMBXxN0osUlQBr0Y6IyUujm9YdGK8jURoB5l4ybTLiPhNYRznaImv4BHsmAaxfrhwempcq1C14k/4qxaofkfr1VADJszOSrmefb/c5NzjLvMsXDJjyAzs+dBgLj9l2IsOIXiqNuySMO9INxF/oBQkLaOOjH0nhoVy+oDonVG4tTDRnvYBOl6+JA7eyf3AUXfV8cFzJ215RaL41wc9BsRNLjk3TjEWsEvVvTpWEnUKe9yu40ju2g/Rzoz/G1GbEWXcFTgxRYinoolZ/A46o2WqD3avPCcV8gpudPZUQwijFy4LZjRTPucztEXpyJx/MWGhrZZvILShMLFOVk/7bqXnaFXgtzy7J1yNAC2xFXbo1eteaoCugY4/j4;HmMpwTTREUtvk3ApOtRYDQ=="
 ---

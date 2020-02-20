@@ -68,9 +68,9 @@ related:
         width: 1200
         height: 675
   - title: "UCLA cancels on-campus facial recognition program after backlash"
-    excerpt: "UCLA will prohibit the use of facial recognition on campus, an administrator said Wednesday. The university's prior plan to use the technology faced backlash. UCLA will prohibit the use of facial recognition on campus,"
+    excerpt: "This article, UCLA cancels on-campus facial recognition program after backlash, originally appeared on CNET.com. UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus,"
     publishedDateTime: 2020-02-20T02:19:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/UCLA-cancels-on-campus-facial-recognition-program-15068812.php"
+    webUrl: "https://www.sfgate.com/cnet/article/UCLA-cancels-on-campus-facial-recognition-program-15068812.php?ipid=newsrecirc"
     type: article
     provider:
       name: SFGate

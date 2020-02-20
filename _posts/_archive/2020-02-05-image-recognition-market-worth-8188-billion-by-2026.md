@@ -5,7 +5,7 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-02-05T06:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Image Recognition Market Worth $81.88 billion by 2026"
 
 related:
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
@@ -177,19 +183,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application, Geographical Outlook - Global Industry Analysis and Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's ..."
-    publishedDateTime: 2020-02-05T09:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005339/en/Global-Artificial-Intelligence-Agriculture-Market-Expected-Grow"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-    images:
-      - url: "https://mms.businesswire.com/media/20200205005339/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
   - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
     publishedDateTime: 2020-02-05T12:03:00Z
@@ -224,6 +217,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "UTuYTm2L0rmEag05DkinBcKRPDsxjZYQgRd0fihF7ixr54w8eLivZ4q1C3mvq62qNLBFJub1ZwtTRMjrYb7XK78j0grIfRYH0kiqRO/4HVJpAyGd2N12xt0SYhrVkaYj4aBl1WxHRmmz5t/d/2DAF5yIjDLVDoFcoomSv9i6GrI2z9Fi1XbsKtR8eqAxdfKQboMsKk+of79PAvcl1wffUR2kfCwTYy0faOAKv3AzligW0wm5dNH8/pZWFmA2feyBVORKGZjJONggS+yPjYt8E6lpHYwnbGod8lhttDZdi6wvbgJEsvm9/Uj0waeY64k/;Cc22YABhNv8Vyofu4e2fKQ=="
+secured: "MuAnxUBZIPyeGlmWmCubwMDcyF4pAMNMh4Nhsq+6KudzYHG4KUfTT0x0Zi+sgt+rwt0cjgm3ZRP2sevnXB4rvZFzj+h1FqQyrYHuVO3b0rj7/rMttethRmNuk9Aewj4VTZphtNDdBtDZPGA9cT2iGAKY1IKB4r7M4oAozoVJe8TznPaYuvImTGNbzZGScGKu9enxMY037JPcliceWhW4/69iXlihbYNa1P1tp0bN5OfS2DS00hoIatWEJ9Ft76yifu1PSz265HfXF31v2WDlCj+RyyM9b6pyJzpk+YVe50pw7CXJorFtbysRww/TujyZ;VkeIWHG/zkEaTFobFFn1QQ=="
 ---
 

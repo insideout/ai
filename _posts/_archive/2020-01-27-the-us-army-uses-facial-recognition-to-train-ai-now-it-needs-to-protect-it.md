@@ -1,12 +1,14 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 61
-heat: 81
+quality: 101
+heat: 121
 published: true
 
 provider:
@@ -21,7 +23,28 @@ topics:
   - AI
   - Computer Vision
 
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+    width: 1200
+    height: 763
+    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+
 related:
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-21T00:00:00Z
+    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    type: article
+    provider:
+      name: United States Army
+      domain: army.mil
+    quality: 59
+    images:
+      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
+        width: 446
+        height: 300
   - title: "US Army develops AI facial recognition protection"
     excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
     publishedDateTime: 2020-01-28T09:26:00Z
@@ -30,17 +53,12 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 34
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-21T00:00:00Z
-    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 19
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
+        width: 620
+        height: 465
 
-secured: "jy7RmjCK8oOsW4GguvWP/McPoXCG1ic6Kxxk+usQLDFIVTHtynYG59DmfQdeteaPyE5kLhp3mjDAOUaAj1W95fG8gCd+uMyUxc6FHFfuYsiJ1xAXHeC0sKXLZiJrTyY3CfiRKU+7YIAfKdxj6QVMJ385gSeMEc+ccVSY4POiYT8ZVD0nehMOtvIGRdX8NwnsZQub4HXscRl/n7If44cGsFgxMuSENS5qLSi0qlaUjdAFi3rF0hDjZjKYQ9s07CLioXofvG1rRS1cnzlE02I0Dj0uaqvXRjm6BAcEp7s+FB9cp4+ufyc6l/Ljg3hvkD1WnG+ppkkvK6BJsBkGcfRK/W35xAOZpQy9IONsxH6E73rEWV2mRYsB2RJe4ZbvomX25cH+Y1ocCtpyHim0qqUpX9mV62GKvaYEbsYORpRGP61o4x5ZkbFt8a0WDQ+slY9vYPBJBiZ5fhe2D1Z2lHPmJMamJynE09bnZu0MJRlRytY=;qCsOkYK45FEy0kFBpo73Yg=="
+secured: "JApG5cypmE4bTDP7E3EBiktNMi+3X0FiaCoDp8He0BOZX9zed5wHKB8ZdjVbxFrk0OxyuS83BjKocTDZXRhNt1rhUj/crpUqlZESZIDnyRrQk1qbhP9NQV+gU24hbSj8Kej9gnhzMigF4MHBZNb4+7A0uEHWHqRRVzIHg6qvSWTnoS3uEV14vsW/Yh4bp+2DhYisC/qDqnRJuamv9hZ84s8HqikkYOlPytc+lAflic1bpRbrTDO4fYkwc2PqW8gCNyDGsv2/uwTqJQS4fzCryh7Er6ScM4EGgs3ksMgaQrXEiZ3hj9JkhTMpNe+jCrfK;rHwn4WzWaeMqKkh8NkVDkg=="
 ---
 

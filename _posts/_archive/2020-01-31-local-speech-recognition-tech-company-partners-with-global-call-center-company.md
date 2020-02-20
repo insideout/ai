@@ -4,9 +4,11 @@ title: "Local speech recognition tech company partners with global call center c
 excerpt: "Voci Technologies, a Pittsburgh-based company that provides automated speech recognition technologies, announced Thursday that it had entered into a partnership with a global provider of call centers."
 publishedDateTime: 2020-01-31T13:10:00Z
 webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html"
+ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
-quality: 15
-heat: 15
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
+    width: 600
+    height: 400
+    title: "Local speech recognition tech company partners with global call center company"
 
 related:
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
@@ -28,6 +36,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "DI8WeJjHRqyHfK4izCewvrqw8RkTlvt1jpS0vwBlDQxQb+7qWshQt5byeO1lsjwKvfRCArFjlXLeceieEcVq/JL5pWN8/xySqiEKs5SD7zm1KYp/b9oh5V/ojJ3+gaTHrRqCSx2+/Q6Zkg4AmYaS26rklMBfrvfA+VWiL801ch7MK+4nCwH1W/+FyE8Q00bSJ8Yu+B5mLLOlcfzoQwY2bWciaFf6b+NQ/gydlO0CYXVG6Br7WeHefYOoIaYXl1Fr+Bm4nx74zavuCmhZdJ7eTWpvhWAQ4KsuEe+I/jFiOXw5KEFdGNCTlA1j+r/cEAom;gDqRDA6npC1nK9NAv2VYmg=="
+secured: "i0jHNXrmRJi1yMMMsU/GoeivccxW8MBuzXUeNOHYsAAV0AQ5zuOz7xU6Yru+5+lv5h8J98/eA/+XtHL+EHhTWtZ1YqTYjCMQ3rCYiC97DRhCaFNoUYzyBppg36eyJToYQkUlolozejj8pCgxwP7cA+hWrGMeWmQ5Mnx3Y3jFSgpXsH/9oQ4oUg9/jT7w8S1PvTmpRBiQVzrVZhclrrik4KyHux310NVjov9DkHkwidf0vegSFtA207RykxEqSSfEOe498U7vlYarEXdZeZj6mGTonFd4zzU6dDVOKfrILD6+vrRkCXN/AWqw/p22lpll;0PQ8C0+XavPvVbd9vOM/tg=="
 ---
 

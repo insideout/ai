@@ -119,24 +119,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-  - title: "Artificial Intelligence in Healthcare Market Growth, Segmentation, Share, Trends, Insights and Analysis Forecast to 2026"
-    excerpt: "Feb 05, 2020 (The Expresswire) -- Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC ..."
-    publishedDateTime: 2020-02-05T02:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-segmentation-share-trends-insights-and-analysis-forecast-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Deep Learning Software Market Will Reflect Significant Growth Prospects during 2019 to 2026"
-    excerpt: "Ameco Research announced the latest market research report on \"Global Deep Learning Software Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Deep Learning Software Market,"
-    publishedDateTime: 2020-02-05T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-will-reflect-significant-growth-prospects-during-2019-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Global Robo Taxi Market 2026 Information Procurement and Data Analysis"
     excerpt: "A Robo-Taxi, also known as a Robo-Cab, is a driverless taxi or a self-driving taxi. Its primary purpose is to eliminate the need for human ... Companies such as Lyft, DiDi, Uber, and Baidu are the major ride-hailing service providers. These players are the major potential customers for Robo -Taxi. Nowadays, most companies are focusing on ..."
     publishedDateTime: 2020-02-06T12:43:00Z

@@ -2,6 +2,729 @@
   "page": 22,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-30-elon-musk-contradicted-a-bold-claim-he-made-last-year-about-teslas-self-driving-capabilities.md",
+      "title": "Elon Musk contradicted a bold claim he made last year about Tesla's self-driving capabilities",
+      "excerpt": "Tesla CEO Elon Musk said last year he was \"certain\" the company's vehicles would be able to drive without human assistance by the end of 2019.",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1/",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1?amp",
+      "publishedDateTime": "2020-01-29T17:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e3224595bc79c3f8e4d83b5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Elon Musk contradicted a bold claim he made last year about Tesla's self-driving capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-ethical-ai-can-ensure-ais-superpower-is-used-for-good.md",
+      "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
+      "excerpt": "Ethical AI can help ensure all of our AI efforts are ethically compliant, environmentally conscious and transparent.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
+      "publishedDateTime": "2020-01-30T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 558,
+          "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit.md",
+      "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
+      "excerpt": "Facebook has agreed to pay $550 million to settle claims in Illinois that the company violated local laws on facial recognition technologies. The results of the lawsuit were made public on Wednesday and have been described as the \"largest cash settlement ever resolving a privacy-related lawsuit.\" Launched by law firms Edelson, Robbins Geller ...",
+      "heat": 467,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
+      "publishedDateTime": "2020-01-30T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/01/31/b757b17e-a735-4177-8143-35b8c57662e8/resize/1200x900/afac4a12cff1cda9dd8d8fcec0212626/screenshot-2019-01-31-at-17-25-36.png",
+          "width": 1200,
+          "height": 765,
+          "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you.md",
+      "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
+      "excerpt": "IBM has released a new free tool designed to help developers cut the chore of labeling images in video when training AI object-detection models. The new auto-labeling tool is part of IBM's push to ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
+      "publishedDateTime": "2020-01-30T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-google-ai-chief-the-promise-of-multi-modal-learning.md",
+      "title": "Google AI chief: The promise of multi-modal learning",
+      "excerpt": "Google's Jeff Dean explains multi-modal learning and why it's the next big challenge for AI researchers. Read more: https://zd.net/2RWOWVq",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/google-ai-chief-the-promise-of-multi-modal-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/982ecb2e-09ab-44ee-a2e9-a132a038b050/thumbnail/770x578/79de21a8c75b1f253e83a6992a2be950/20200129-dean-steph.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Google AI chief: The promise of multi-modal learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-government-releases-guide-for-ai-use-in-the-public-sector.md",
+      "title": "Government releases guide for AI use in the public sector",
+      "excerpt": "to managing the implementation of planned AI deployment and exploring the safety and ethics to using AI systems in the public sector. As AI is already being deployed in the public sector, the guide contains case studies for other public sector workers and organisations to draw inspiration from. For example, it notes how the National Grid uses ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
+      "publishedDateTime": "2020-01-30T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570816530/itpro/2019/02/ai_shutterstock_767827225.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Government releases guide for AI use in the public sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-ibms-new-ai-powered-tool-will-automatically-label-images-for-developers.md",
+      "title": "IBM’s new AI-powered tool will automatically label images for developers",
+      "excerpt": "Developers building machine learning or object detection models have to manually label hundreds to thousands of images to train them. To make the task easier, IBM has introduced a new auto-labeling tool. The new feature is available for everyone through Cloud Annotations GUI, IBM’s online tool for labeling images. If you’re a developer ...",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/30/ibms-new-ai-powered-tool-will-automatically-label-images-for-developers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/IBM-tool-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": "IBM’s new AI-powered tool will automatically label images for developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-interested-in-machine-learning-better-learn-pytorch.md",
+      "title": "Interested in machine learning? Better learn PyTorch",
+      "excerpt": "Building on the rampant popularity of Python was always going to be a good idea for the Facebook-born PyTorch, an open source machine learning framework. Just how good of an idea, however, few could have guessed. That’s because no matter how many things you get right when launching an open source project (great docs, solid technical ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html",
+      "publishedDateTime": "2020-01-30T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/09/data-science-certification7-100734862-large.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "Interested in machine learning? Better learn PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.md",
+      "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
+      "excerpt": "ST. PAUL, Minn. (FOX 9) - Minnesota lawmakers will debate Thursday whether to limit how law enforcement uses facial recognition technology. Police are already using facial recognition to scan mug shots and even security footage for suspects, but it is also causing concerns over digital privacy. A Senate committee is holding a hearing ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology",
+      "ampWebUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-01-30T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 9",
+        "domain": "fox9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/01/932/470/facial-recognition-technology.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-microsoft-azure-ai-the-right-platform-for-your-machine-learning-ambition.md",
+      "title": "Microsoft Azure AI — the right platform for your machine learning ambition?",
+      "excerpt": "The core product is Azure Machine Learning, including the ML Studio, which is intended to provide a complete service suite for data scientists and machine learning engineers. As always ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/appanion/microsoft-azure-ai-the-right-platform-for-your-machine-learning-ambition-1da94d260abc",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1024/1*TwU76v22s7tRfiLvXKapUQ.png",
+          "width": 1024,
+          "height": 769,
+          "title": "Microsoft Azure AI — the right platform for your machine learning ambition?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-neuromorphic-chip-maker-takes-aim-at-the-edge.md",
+      "title": "Neuromorphic Chip Maker Takes Aim At The Edge",
+      "excerpt": "they provide a critical capability for the kinds of AI applications commonly encountered in edge environments. Specific application areas being targeted include embedded vision, embedded audio, automated driving (LiDAR, RADAR), cybersecurity, and industrial IoT. The addition of the CNN capability did, however, push the company’s chip launch ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/",
+      "ampWebUrl": "https://www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/amp/",
+      "publishedDateTime": "2020-01-30T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/brainchip-akida.jpg",
+          "width": 1799,
+          "height": 863,
+          "title": "Neuromorphic Chip Maker Takes Aim At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020.md",
+      "title": "One day left for early-bird tickets to TC Sessions: Robotics + AI 2020",
+      "excerpt": "So if you love robots and machine learning, why spend more on your ticket to TC Sessions: Robotics + AI 2020? Prices go up on January 31, which means you have just one day left to buy an early-bird ticket. You’ll save a tidy $150 in the process. Sweet! On March 3, roughly 1,500 attendees will spend the day delving into the future of robots ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "publishedDateTime": "2020-01-30T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/1day_countdown.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "One day left for early-bird tickets to TC Sessions: Robotics + AI 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot.md",
+      "title": "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot",
+      "excerpt": "The organization suggests \"an animatronic groundhog with artificial intelligence\" to predict the end of winter. PETA is calling for Punxsutawney Phil to be retired and replaced by a robot ahead of Groundhogs Day on Sunday. The animal rights organization wrote a letter to the Punxsutawney Groundhog Club urging the the small town in Pennsylvania ...",
+      "heat": 154,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/",
+      "ampWebUrl": "https://amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/",
+      "cdnAmpWebUrl": "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/",
+      "publishedDateTime": "2020-01-30T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TooFab",
+        "domain": "toofab.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://toofab.akamaized.net/2020/01/30/groundhog-day-main-getty-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-peta-wants-to-replace-punxsutawney-phil-with-an-animatronic-ai.md",
+      "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
+      "excerpt": "When we imagine the future of artificial intelligence, we tend to think of the technology making most human jobs obsolete. But if PETA has its way, an AI could also take over for the world's most famous groundhog, Punxsutawney Phil. In a letter signed by PETA founder and president Ingrid Newkirk, the organization calls on the Punxsutawney ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/30/peta-replace-punxsutawney-phil-with-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f4006f0-438b-11ea-bdef-51a7d251189a%26client%3Da1acac3e1b3290917d92%26signature%3D37fd7a74081041878e390c3019f83230b1221166&client=amp-blogside-v2&signature=9048b5352ceee474a101d8f7c499c40859254e35",
+          "width": 1200,
+          "height": 630,
+          "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-punxsutawney-phil-should-be-replaced-with-ai-groundhog-says-peta.md",
+      "title": "Punxsutawney Phil should be replaced with AI groundhog, says PETA",
+      "excerpt": "Instead, says the organization, Punxsutawney Phil should be replaced with an animatronic groundhog that uses AI to actually predict the weather. “Times change. Traditions evolve. It’s long overdue for Phil to be retired,” PETA president and founder Ingrid Newkirk, wrote in a letter to the The Punxsutawney Groundhog Club. “By creating an ...",
+      "heat": 179,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
+      "publishedDateTime": "2020-01-30T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/9HNbKTpxEfhl6QnFewwKN7aJ2Ug=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66218730/1092678740.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Punxsutawney Phil should be replaced with AI groundhog, says PETA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-science-park-unveils-new-facilities-to-boost-ai-and-robotics-rd.md",
+      "title": "Science Park unveils new facilities to boost AI and robotics R&D",
+      "excerpt": "From now on, artificial intelligence and robotics (AIR) developers are able to use the state-of-the-art facilities provided by the Hong Kong Science and Technology Parks Corporation (HKSTP) to develop proof-of-concept (PoC) projects and fabricate functional prototypes. On January 20, HKSTP unveiled the AI PLUG and Robotics Catalysing Centre ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/presented/tech/topics/ai-plug-and-robotics-catalysing-centre/article/3048053/science-park-unveils",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T18:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/hero.jpg?itok=AfFlwyT4",
+          "width": 1200,
+          "height": 630,
+          "title": "Science Park unveils new facilities to boost AI and robotics R&D",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-self-driving-waymo-minivans-will-assist-ups-with-deliveries.md",
+      "title": "Self-driving Waymo minivans will assist UPS with deliveries",
+      "excerpt": "It's not just people who get to experience self-driving minivans in the Phoenix area. On Wednesday, Google spin-off company Waymo announced a partnership with UPS, the package delivery service. Soon, Waymo's self-driving Chrysler Pacifica minivans will be moving packages around instead of humans. The autonomous driving company is more than a ...",
+      "heat": 209,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/waymo-ups-autonomous-delivery/",
+      "ampWebUrl": "https://mashable.com/article/waymo-ups-autonomous-delivery.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-ups-autonomous-delivery.amp",
+      "publishedDateTime": "2020-01-29T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F29%252F92%252F1adb436cf38e4b8ba6ab5feee3237afa.7da77.jpg%252F1200x630.jpg?signature=xF6AUmM-vbSssyr5JnsUmU94XQM=",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving Waymo minivans will assist UPS with deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-30-the-robots-are-coming-prepare-for-trouble.md",
       "title": "The Robots Are Coming. Prepare for Trouble.",
       "excerpt": "Artificial intelligence won’t eliminate every retail job, an economist says, but the future could be grim unless we start planning now.",
@@ -1412,704 +2135,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will.md",
-      "title": "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will",
-      "excerpt": "On Jan 30, a crash was reported between a Waymo Chrysler Pacifica minivan and another vehicle, causing minor injuries to the safety driver. Reports suggest the other car acted erratically and cut quickly in front of the Waymo vehicle,",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/amp/",
-      "publishedDateTime": "2020-01-31T15:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e34b4b5f133f400076b58b1%2F0x0.jpg",
-          "width": 1199,
-          "height": 763,
-          "title": "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-5-soon-to-be-trends-in-artificial-intelligence-and-deep-learning.md",
-      "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
-      "excerpt": "AI’s major headwind is the cost of the investment, which will skew returns in the short-term. When the turnaround occurs, however, companies who are making the investment can expect to be rewarded disproportionately with a wide performance gap and up to double the cash flow.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
-      "publishedDateTime": "2020-01-31T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e34ccbef133f400076b5a6a/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-big-brother-facial-recognition-cameras-are-watching-you-more-than-ever-right-across-britain.md",
-      "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
-      "excerpt": "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
-      "publishedDateTime": "2020-02-01T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai.md",
-      "title": "GEMS Dubai American Academy launches center of excellence for robotics and AI",
-      "excerpt": "Dubai American Academy has announced the launch of its new Centre of Excellence for Artificial Intelligence and Robotics. The vision of the Centre of Excellence is to promote educational and research activities in the field of AI and Robotics. GEMS ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai",
-      "ampWebUrl": "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp",
-      "publishedDateTime": "2020-02-01T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itp.net/sites/default/files/itpdotnet/images/2020/02/01/PRL--GEMS-Dubai-American-Academy-launches-Artificial-Intelligence-and-Robotics-Centre-of-Excellence1.JPG",
-          "width": 2550,
-          "height": 1663,
-          "title": "GEMS Dubai American Academy launches center of excellence for robotics and AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-hiding-in-plain-sight-activists-don-camouflage-to-beat-met-surveillance.md",
-      "title": "Hiding in plain sight: activists don camouflage to beat Met surveillance",
-      "excerpt": "Privacy campaigners bid to beat police facial recognition plans by wearing ‘dazzle’ makeup",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/world/2020/feb/01/privacy-campaigners-dazzle-camouflage-met-police-surveillance",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-01T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-how-artificial-intelligence-will-change-medicine.md",
-      "title": "How Artificial Intelligence Will Change Medicine",
-      "excerpt": "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-01T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg",
-          "width": 790,
-          "height": 497,
-          "title": "How Artificial Intelligence Will Change Medicine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
-      "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-      "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "publishedDateTime": "2020-02-01T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BXJa3tZu4oKtEXuFash5oE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-hyper-intelligent-ai-hive-mind-claims-to-predict-super-bowl-winner.md",
-      "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
-      "excerpt": "But if you’re looking for a really educated guess on the game’s outcome, you’ll want to ask Stanford computer scientist Louis Rosenberg, the founder of Unanimous A.I., a startup that combines the opinions of a lot of humans with artificial intelligence to make remarkably accurate predictions. In nature, many species exhibit something ...",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://futurism.com/the-byte/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner",
-      "ampWebUrl": "https://futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
-      "publishedDateTime": "2020-02-01T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/01/hyper-intelligent-hive-mind-predicts-super-bowl-liv-winner-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-indias-plans-for-data-centre-parks-may-finally-force-facebook-and-twitter-to-localise.md",
-      "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
-      "excerpt": "The proposed policy directly takes on a highly-debated clause in India’s personal data protection bill, which suggests that data collected by foreign companies such as Facebook, TikTok ... for tech advancements by setting up a national portal for artificial intelligence (AI) research and development. “We appreciate the government’s ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/",
-      "ampWebUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
-      "publishedDateTime": "2020-02-01T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/02/AP_20032244386981-e1580546856302.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-the-future-of-fintech-ai-blockchain.md",
-      "title": "The Future of Fintech: AI & Blockchain",
-      "excerpt": "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.businessinsider.com/image/5e305ac224306a476129d512",
-          "width": 400,
-          "height": 224,
-          "title": "The Future of Fintech: AI & Blockchain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-what-if-ai-could-anticipate-our-wants-and-needs.md",
-      "title": "What If AI Could Anticipate Our Wants and Needs?",
-      "excerpt": "The lines of code that animate these machines will inevitably lack nuance, forget to spell out caveats, and end up giving AI systems goals and incentives that don’t align with our true preferences. A now-classic thought experiment illustrating this problem was posed by the Oxford philosopher Nick Bostrom in 2003. Bostrom imagined a ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theatlantic.com/technology/archive/2020/02/real-danger-artificial-intelligence/605914/",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/605914/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/605914/",
-      "publishedDateTime": "2020-02-01T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/assets/media/img/mt/2020/01/AI_Genie_3K_Lede/lead.jpg?mod=1580505331",
-          "width": 570,
-          "height": 321,
-          "title": "What If AI Could Anticipate Our Wants and Needs?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-01-why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced.md",
-      "title": "Why we’re failing to regulate the most powerful tech we’ve ever faced",
-      "excerpt": "It’s clear the AI revolution will impact society drastically, both for good and bad. Recently, using natural-language processing and machine-learning techniques, Canadian company BluDot sifted through global news reports, airline data, and reports of animal disease outbreaks to issue an alert about the current Coronavirus outbreak ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/01/why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/01/why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/01/why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced/amp/",
-      "publishedDateTime": "2020-02-01T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=3840%2C2160&strip=all",
-          "width": 3840,
-          "height": 2160,
-          "title": "Why we’re failing to regulate the most powerful tech we’ve ever faced",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-02-coronavirus-can-ai-artificial-intelligence-make-a-difference.md",
-      "title": "Coronavirus: Can AI (Artificial Intelligence) Make A Difference?",
-      "excerpt": "However, could technologies like AI (Artificial Intelligence) help out ... “In recent times, immunotherapy and Gene therapy empowered through AI algorithms such as boltzmann machines (entropy ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/amp/",
-      "publishedDateTime": "2020-02-02T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-02-could-ontario-police-start-using-facial-recognition-cameras.md",
-      "title": "Could Ontario police start using facial recognition cameras?",
-      "excerpt": "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras",
-      "ampWebUrl": "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp",
-      "cdnAmpWebUrl": "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp",
-      "publishedDateTime": "2020-02-02T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Sun",
-        "domain": "torontosun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://postmediatorontosun.files.wordpress.com/2020/01/surveillance1000.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": "Could Ontario police start using facial recognition cameras?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-02-executives-report-ai-investment-up-but-implementations-lag-expectations.md",
-      "title": "Executives Report AI Investment Up, But Implementations Lag Expectations",
-      "excerpt": "Side face of AI robot by network form. Is there a lag between enthusiasm for investment in Artificial Intelligence (AI) capabilities and delivery of AI results? Apparently so. A 2019 Harvard Business Review article,",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/",
-      "ampWebUrl": "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/",
-      "publishedDateTime": "2020-02-02T08:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189020673%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D300%26cropY2%3D3506",
-          "width": 1200,
-          "height": 675,
-          "title": "Executives Report AI Investment Up, But Implementations Lag Expectations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-02-first-drug-developed-using-machine-learning-enters-clinical-trials.md",
-      "title": "First drug developed using machine learning enters clinical trials",
-      "excerpt": "What just happened? Of all the domains where machine learning is expected to be revolutionary, medicine is perhaps the most universal. In a major new milestone, a drug developed using machine learning is about to enter human trials. Before a new medicine ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html",
-      "publishedDateTime": "2020-02-02T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/04/2019-04-08-ts3_thumbs-e3c.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "First drug developed using machine learning enters clinical trials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-02-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
-      "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-      "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "publishedDateTime": "2020-02-01T16:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BXJa3tZu4oKtEXuFash5oE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
