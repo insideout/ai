@@ -5,7 +5,7 @@ webUrl: https://aws.amazon.com/deepracer/
 type: answer
 price: 
 length: 
-heat: 1000000207
+heat: 207
 
 topics:
   - AI

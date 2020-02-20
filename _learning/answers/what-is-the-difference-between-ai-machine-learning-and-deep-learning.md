@@ -5,7 +5,7 @@ webUrl: https://blogs.oracle.com/bigdata/difference-ai-machine-learning-deep-lea
 type: answer
 price: 
 length: 
-heat: 1
+heat: 1000000207
 
 provider:
   name: Oracle
