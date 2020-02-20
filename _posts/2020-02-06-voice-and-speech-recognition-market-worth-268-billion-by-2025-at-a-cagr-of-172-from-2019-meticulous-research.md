@@ -211,6 +211,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "8a03TYe4q2OPgzhLgXTL6KJDY650WgUxXWkymhCfPnQpnt7xNDSNnNLZn3ynRYM/5m1OuT4omvid9/VFIlgM43uLCB1001wn9V8AoidxivmunCyjCkpNNyr4NJMKzWq9gHbmt6BWXUmviTGVri0KLUm3gEtfrbU+QLN7BAPGuddEdiG6KHY/ozGSMBA0L1KubjGRXvMGkDt+DB+C+MyL3PlhvUNf3M+9OocpBfR0bjuxr4QkXFCebpMCRxqw/guGwvekkJReobMLsHSacQwAfv1lCwkw8J9Myi++8Gzg0/lbAit8bvt6bUaNT1U8bRHK;D2ZHXNYsS0UoLQmyEaYYIw=="
+secured: "RmiXZAgeAOTfS8Fjc8DnzpkpfyKSjlZ0CJq/GU3dD9PvxPKf4HQqMAQgOURlN6aQnlqU5CvvFTOn9D7iuqqwrfPvApPI0qc8690hXqrSgT2LaybFhD9O+BWvshTDobPTLRGveo8X6ZGegIsSYFpyxcC+gFpqnH9wGR9SuXKihdQ/H3c4ulh9KwtdllOamK3JJOKJFYccsJGe4hG3M0Uac/JthQrw2Lu712KVTm+tBRlhS4MA9yAj1b7KRujnZRT7GdSizYk1U1xZ0+/FHeGqEJLcw8VKkwooxFyAftDDu3nnROcpy+50zBVLit/DAHyZ;PPk9CWCVwiIP9F5J5d8POw=="
 ---
 

@@ -279,6 +279,15 @@ related:
       name: Athens Banner-Herald
       domain: onlineathens.com
     quality: 30
+  - title: "Why Tech Firms Want (Some) Facial Recognition Rules: QuickTake"
+    excerpt: "A group of artificial intelligence researchers last April called on Amazon.com Inc. to stop selling its facial-recognition software Rekognition to police departments after other AI researchers found the company’s software had much higher error rates when predicting the gender of darker-skinned women in images, compared with lighter-skinned ..."
+    publishedDateTime: 2020-02-20T13:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/why-tech-firms-want-some-facial-recognition-rules-quicktake/2020/02/20/f567a0da-53e7-11ea-80ce-37a8d4266c09_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 21
 
 secured: "V03XX30AKAjKnmqk1OrLQfQuPhvcIjHcdIdwLyk7sF0XeP2ieA0jxCam6VlEd64mkxaz0VE0ErgQrnGUq2DnzEZCQ6GvNm9PKNhV/JOAN2ZEoNmToZLOcCoPcwqkhvqB9Od5mEjYR4mS15dtp27bE87UwY1VVD2TZYR65NNyHiqrha/CgBXB5YnnDHD8uzwuS02Wkp2u9avsSLKR2MOehZdng0da044p+VXNdqn9ruAJ9975jk1ns5RHITppDK6UqsWUnWJbDk7huA97cTcOZ7artcc0nOhzmQ7GQEP1vL6OXCS5dv6yHY7WVEuo8J1ahTbUBV4gItggE4VHaJSQ94eQOb3c3aF49+UUvVE8uhirMxxc4T4cEGq9aOTjgswZqpg4tTdD8q6umanH+tUzumGVaOsSdqhaS7l+5Zo0jF+xvimLYmC+4T9ACsyrOeet2ENfcvcEuMjqHJTxRsY2wrTMRCeWAQU3hdwt02XQvOU=;1L7hIWZ/jz0wJwkM5Ixs9w=="
 ---

@@ -214,19 +214,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
         width: 1200
         height: 800
-  - title: "YouTube, Venmo: Artificial intelligence firm must stop scraping faces from sites"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
-    publishedDateTime: 2020-02-05T22:18:00Z
-    webUrl: "https://triblive.com/business/technology/youtube-venmo-artificial-intelligence-firm-must-stop-scraping-faces-from-sites/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 32
-    images:
-      - url: "https://triblive.com/wp-content/uploads/2020/02/2283945_web1_2283945-307e037c5fa44bc9a22f5a276afaa514.jpg"
-        width: 640
-        height: 427
   - title: "AI company must stop scraping user images from social media sites, top tech firms say"
     excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
     publishedDateTime: 2020-02-05T22:56:00Z

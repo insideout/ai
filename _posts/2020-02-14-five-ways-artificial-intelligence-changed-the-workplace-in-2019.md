@@ -39,6 +39,21 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg"
         width: 1200
         height: 900
+  - title: "How Does The CCPA Impact Your AI?"
+    excerpt: "In the era of growing AI regulation, the CCPA sets a high bar for consumer protections for the coming AI-centric decade."
+    publishedDateTime: 2020-02-20T14:18:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/how-does-the-ccpa-impact-your-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/how-does-the-ccpa-impact-your-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/20/how-does-the-ccpa-impact-your-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/916896044/960x0.jpg?fit=scale"
+        width: 711
+        height: 474
   - title: "How Artificial Intelligence is Changing Content Marketing?"
     excerpt: "In addition, some of our digital assistants are based on smartphones and some messenger bots are based on (simple) AI. Google expanded its algorithm with artificial intelligence at the end of 2015: Google RankBrain . Behind this is a system that gradually learns more about the semantics of user inquiries, and with this knowledge gets better and ..."
     publishedDateTime: 2020-02-18T05:40:00Z

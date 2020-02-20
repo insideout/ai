@@ -30,36 +30,52 @@ images:
     title: "China is betting on slow but steady to win the self-driving car race"
 
 related:
-  - title: "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits"
-    excerpt: "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\""
-    publishedDateTime: 2020-02-05T22:17:00Z
-    webUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2"
-    ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg"
-        width: 800
-        height: 400
-  - title: "Hypodermic Needles Leftover In AI Self-Driving Cars By Despicable Passengers Is An Ominous Harbinger Of What’s Yet To Come"
-    excerpt: "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse."
-    publishedDateTime: 2020-02-12T16:08:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
+  - title: "Who Is Responsible In A Crash With A Self-Driving Car?"
+    excerpt: "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless."
+    publishedDateTime: 2020-02-06T17:06:00Z
+    webUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 63
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
-        width: 1200
-        height: 800
+      - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
+        width: 711
+        height: 459
+  - title: "First Lexus with self-driving system arrives in 2020"
+    excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
+    publishedDateTime: 2020-02-11T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127062_first-lexus-with-self-driving-system-arrives-in-2020"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
+        width: 1920
+        height: 1204
+  - title: "Can self-driving cars handle Canadian winters?"
+    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
+    publishedDateTime: 2020-02-11T16:22:00Z
+    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 4
+  - title: "The Man Behind the 1990s' Hottest Supercar Is Coming Out with a Self-Driving Pod"
+    excerpt: "The Motiv is similarly quite small, very lightweight, and runs on electric power. It has an aluminum suspension, ultra-lightweight high-strength extruded aluminum in the chassis, and composite body panels and doors that hold its weight below 992 pounds (sans batteries, at least). Measuring just 100 inches long and 52 inches wide, the compact ..."
+    publishedDateTime: 2020-02-10T21:54:00Z
+    webUrl: "https://www.motortrend.com/news/motiv-mclaren-f1-designer-autonomous-pod/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 0
 
 secured: "ppHpmNxL40xM5OHXhLyQQPktHax0zrp6GIxcZ6J5ZyVLqWiU19qZEkDdvRkgYc/2xZgtNSMdIHvZpr0Br1xPXMarIywf4u162pEemYerQQ3MzI4P6rGB9zmteQbjSyOid/o/pJTulXc5H9gWJZl/z666JUd9DnuF1d9CApxc6jDGo2RuZYhbiNpO/9mMdv3asd/xTPw141kZevxOBUY/3MZk3wr4dr+FUKlrtXf3hJkkIQRjvxDGcCDxjKOyi+uqYIoTsAtKZtL/BPo1HRkiR8nSx0+A6pdxcpz1CT5rgPvFJRK5PYAQ6N+Sx5iXgbjs;sLmHvBUsYG0ZefQgDa0Cfw=="
 ---

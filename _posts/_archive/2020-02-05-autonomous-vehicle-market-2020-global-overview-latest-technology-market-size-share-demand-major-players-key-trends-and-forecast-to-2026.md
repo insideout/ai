@@ -80,6 +80,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Computer Vision Market 2020 – 2023: Regional Study, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
+    excerpt: "Computer Vision Market Overview: The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
+    publishedDateTime: 2020-02-06T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023-regional-study-emerging-technologies-global-segments-business-trends-landscape-and-demand-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "AI in Fintech Market Technological Innovation, Current and Future Huge Demand, Scope 2020-2026"
     excerpt: "QY Market Research Store has added the report titled Global AI in Fintech Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
     publishedDateTime: 2020-02-07T09:02:00Z
@@ -112,6 +125,6 @@ related:
         width: 600
         height: 315
 
-secured: "bPE1Qvel59HeS4kciRLdbF+ZtVEf23m1hCOs26ii/X/YZ2UWAV3f/PXog4rh0k1ANxNxaS9MzuLRGPhNU3T+jxgcbXMGcV/u1nH/VaClXeKYGXjs+IRuKRz0jciLNaI45tD/Rxi4gW9MHbta1tfUfqkYJjL73ESGOUPqjqKNRmVtSX7o1Vdo/OBFElqKrnadG/Jj99q4N+s5AcVfeMKkhXFYQMRKX1ahwGbYJFhPA6nvtRitSlgi07JNqkPB7m53FlFcboQlHmhkyu9H7XcNJsczJ8GNw7eNImZrQbUAsoZ+WfHoxsgOATHEgWobbcLk;0OWZtEJ8oaIFNogyvuaVZw=="
+secured: "iEoUf5xTnEnO4vS7H/fWgnwDF9LLp5EVeVXtxf3NPEEa+hWLzvmSqCUVaMpf7OfFm+OEjMIRIlAxRNHj5++7YCYVOJcfNI7SqR2El3L4qCEnQb2r6nQic/4lryHISWBS4fPOPUa2tyLSCEG6z4yN9rdPHWvNLKe8W0chOWPDb2Jatdo09DGTW7/XEXXDAyuRlW2EG335UVFC5ovGetEXXt3AIETfGVQlXDIe3ZVGIZcmSAgF1zo4dK9kQhXl3PwhzS6gYU9f6B7avLqY3ZexZzlkYJZwhUEpUIDi2eXAw2VC3qUZxGwtNaLAIoEjoyyV;jJSHXjFSE1dR6xQZVBX6fg=="
 ---
 

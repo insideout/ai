@@ -2,43 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-18-mankato-robotics-teams-qualify-for-worldwide-competition.md",
-      "title": "Mankato robotics teams qualify for worldwide competition",
-      "excerpt": "which stands for artificial intelligence. Their team of eight students won the state championships in their division and will be competing at the world championships in April. Each student has a unique role to play. Anderson drives the robot using a game controller similar to an Xbox — picking up, moving and stacking green, purple and orange ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.html",
-      "ampWebUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
-      "cdnAmpWebUrl": "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
-      "publishedDateTime": "2020-02-18T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mankato Free Press",
-        "domain": "mankatofreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/9/1a/91a10458-4dff-11ea-b845-c78e0123f55b/5e44a54858b67.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": "Mankato robotics teams qualify for worldwide competition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face.md",
       "title": "Protect yourself from coronavirus with a mask that looks like your face",
       "excerpt": "It's hard to stand out in a crowd when everyone's wearing the same bone-white N95 protective facial mask. That could change if one San Francisco designer follows through on her idea to custom-print the respirator masks with images of wearers' faces.",
@@ -1300,7 +1263,7 @@
       "path": "_posts/2020-02-19-eu-puts-up-ai-and-data-strategies-with-an-ethical-twist.md",
       "title": "EU puts up AI and data strategies with an ethical twist",
       "excerpt": "The European Union (EU) has launched strategies for artificial intelligence (AI) and the “data economy”, with ethics and transparency as watchwords. It has also presented what it calls the “human-centric development of AI” as critical to “fighting climate change”. The European Commission (EC) said in a statement that it favours a ...",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist",
@@ -1890,7 +1853,7 @@
       "path": "_posts/2020-02-19-nasa-missed-these-11-dangerous-asteroids-but-an-ai-caught-them.md",
       "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
       "excerpt": "To see just how many possibly dangerous asteroids we’ve been missing, researchers from the Netherlands built an AI network to analyze the data and see what it could find. AMAZON'S TOP DEALS: These Amazon deals are up to 50% off, today only! As the researchers explain in a new paper published in Astronomy & Astrophysics, the computer brain was ...",
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "type": "article",
       "webUrl": "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/",
@@ -2128,6 +2091,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-the-top-20-it-training-companies.md",
+      "title": "The top 20 IT training companies",
+      "excerpt": "If you want to learn about AI, DevOps, Blockchain, and other tech topics ... ROI Training: Cloud certification prep workshops, which cover Google Cloud Platform, AWS, and Microsoft Azure, are offered at ROI Training. You can take them with an instructor, or teach yourself--and the skill level is customizable. CGS: For the third time in a ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/the-top-20-it-training-companies/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-top-20-it-training-companies/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-top-20-it-training-companies/",
+      "publishedDateTime": "2020-02-19T11:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2015/07/09/f2f18e43-5291-4699-bd1e-63e63d6dc4c3/resize/1200x/9c2b5d2f3b3c5090336b7e8bf41e8b24/istock000034521546medium.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": "The top 20 IT training companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

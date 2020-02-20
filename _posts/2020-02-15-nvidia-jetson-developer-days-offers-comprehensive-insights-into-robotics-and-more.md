@@ -23,17 +23,6 @@ images:
     height: 750
     title: "Nvidia Jetson Developer Days offers comprehensive insights into robotics and more"
 
-related:
-  - title: "Surgical Robotics in India 2019: Comprehensive Market Insights and Projections to 2024"
-    excerpt: "Dublin, Feb. 19, 2020 (GLOBE NEWSWIRE) -- The \"Surgical Robotics Market in India 2019\" report has been added to ResearchAndMarkets.com's offering. The India surgical robotics market was valued at INR 7."
-    publishedDateTime: 2020-02-19T16:18:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/19/1987189/0/en/Surgical-Robotics-in-India-2019-Comprehensive-Market-Insights-and-Projections-to-2024.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 26
-
 secured: "BOR+giU86lWU2z/RdGQkEMJ8oxDZ//YPnRbrO0asd0mfofUJ2jLjViIDMCc22khV3L0bZxm/AmDkr56pJN04DkOqaiYx+WuNJms+PYwQEDGAA4OQ/UcjB+bIgmokQNQYrL0Yh+Ect3U46SBjE7KIJhC/wtRKhgBy40BflgGxgYip+Nemr0ulps2JoHy2ZOKNsTpmif0e+dsGPwyAXcXcx2Qa1TV+flM6fZqPUW88zjCDzTsUTtlRWkIxR0DAIOZT+pSSZegw19zjpen0T/+buGAiRY+xm5jXPLOnzxxPmOaWEl/+q1x64ubNL2MlPCyin96NLZaAuePvTLA+UrzNNsKO8w/3SOnKeUqtcXHOfExdooCRgwRgc9+4+DSNnk1jE20ahmPEQtyRCggaHhDvdbhusWDEFivF15Z1jSZoJo6AQDe2ahBu00cSmbDgPpV5522r6BMsA3Axf56WjLEtKWhy5DGpl6K7xvHwSZniiv0=;eswkKvmU21oVMbak96ieRA=="
 ---
 

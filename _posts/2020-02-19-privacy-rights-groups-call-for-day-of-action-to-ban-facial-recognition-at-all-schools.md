@@ -26,10 +26,10 @@ images:
 related:
   - title: "This College Banned Students From Even Discussing Facial Recognition"
     excerpt: "Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event where the ACLU of Michigan and Detroit ..."
-    publishedDateTime: 2020-02-20T13:00:00Z
-    webUrl: "https://www.vice.com/en_us/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
+    publishedDateTime: 2020-02-20T13:50:00Z
+    webUrl: "https://www.vice.com/en_ca/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
+    ampWebUrl: "https://www.vice.com/amp/en_ca/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
     type: article
     provider:
       name: VICE

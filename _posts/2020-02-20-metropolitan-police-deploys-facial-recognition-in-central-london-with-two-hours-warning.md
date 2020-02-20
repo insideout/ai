@@ -24,21 +24,21 @@ images:
     title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
 
 related:
-  - title: "London police deploy face scan tech, stirring privacy fears"
-    excerpt: "LONDON (AP) — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping ..."
-    publishedDateTime: 2020-02-19T17:57:00Z
-    webUrl: "https://www.journalnow.com/news/national/london-police-deploy-face-scan-tech-stirring-privacy-fears/article_6ea04d9b-53c6-539b-b885-5c39564e8136.html"
-    ampWebUrl: "https://www.journalnow.com/news/national/london-police-deploy-face-scan-tech-stirring-privacy-fears/article_6ea04d9b-53c6-539b-b885-5c39564e8136.amp.html"
-    cdnAmpWebUrl: "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/london-police-deploy-face-scan-tech-stirring-privacy-fears/article_6ea04d9b-53c6-539b-b885-5c39564e8136.amp.html"
+  - title: "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts"
+    excerpt: "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,"
+    publishedDateTime: 2020-02-20T14:49:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
     type: article
     provider:
-      name: The Herald-Standard
-      domain: journalnow.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/41/641f185e-5250-5d77-9cf0-6813b5f194c3/5e42e4e8ed6f3.image.jpg?resize=1024%2C708"
-        width: 1024
-        height: 708
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg"
+        width: 1200
+        height: 794
 
 secured: "Ka16DHlj/9f8T49CBVr7Wv6R4iRhbYhFSar3WNYnHIYuBwkWRzbO9DgyIgKXEBUbJjtBXh0eUNoW4nuY5S2b4Gmx111JXQPfYw4ddKnbGp6Mzd6wGrUgOjTBGVOv/Oc+f0G6KLsXovSqaTdl77ZCXG0BSVVgQlZ954FzA08mBn5eC1TmwxjSl/M5t2pOzTfcRohFvQptdrqqTY+2VUVwKnCqbgMCcErpY/Yd+lBFDX7TjYw+1zuT3pG0eNhohA3692X1cMB1tKG6dweiDZqLYltWPMn1rvvUg4W2qXtn460OxCCHSLNCSLYB7x7FrdDu;gWnHDT5gLPZGDHFbXdzCLQ=="
 ---

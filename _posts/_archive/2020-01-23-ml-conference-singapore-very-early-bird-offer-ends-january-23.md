@@ -23,6 +23,6 @@ images:
     height: 300
     title: "ML Conference Singapore very early bird offer ends January 23"
 
-secured: "FC2hCYPR8XCY70MgA0H0puxqR+E6m81ZAC+jOqLDfNYJBrmc7IK+e7IKpOgatIkmrBx1mgYq5akx7L2B01jL1kTrszlkkEWiP9Uva5nNaT68efWNjlm36uQx3T6jas59y5w2Y9+xgX2eWJXrltpdFcI0r3EgvxKtsWt2xVhas+ULWJW8wiBJkLzUi84CgqRZLdVczxODHXZilp7Wm+/AiVzmgXrcx+nQdU8NpLisnYVp01MP16BUUQ1jj7pBsUccovVshHLa0h2d45DT8YI5BHQGWkN/4VXzELS1njd+Q2G9LGN+2mS6wlPBCfOU1W7U;GMZmmfdg4WlpkdZcgX3Mdw=="
+secured: "dpZB0wYP4W4IEICtjLLWjIaWKp1RniPoqTA4y0HiWPdRLBKnA3bc8l3BqFntjBaSNc5v9B5uscIRlECVsyljSr7B6qcYUypCpbgdbyXnbAG2JdE+oB7q7m2FiQ//2v9F7EYytN+wh71uLCwp2rLNcp77/g3sfncHznxLc/XjCkSvDYtbJ9+EQCDuzRb+LJL8vxCGJMqn71wJUIW8DSfaDeVRnsAXORVdxsPI27D+5i9z+katZ0SjF5EO0JfHmqPLbfA2m9uejwGLUnSHLe+lPvJLiOkAZTzSp+TwRYK+QiSVoBYdOvpa6+3QkDeus+pQ;T53a4vyjn4GbdxfLZsoZOQ=="
 ---
 

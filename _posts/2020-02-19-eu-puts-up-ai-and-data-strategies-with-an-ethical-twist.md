@@ -8,7 +8,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "EU puts up AI and data strategies with an ethical twist"
 
 related:
+  - title: "EU unveils 'human centric' artificial intelligence data strategy"
+    excerpt: "This regulatory framework will be based on the Communication on Building Trust in Human-Centric AI, as well as taking into account input from Ethics Guidelines prepared by the EU's High-Level Expert Group on AI. Commenting on the new strategy, John Buyers, head of International AI at law firm Osborne Clarke, picked his words carefully ..."
+    publishedDateTime: 2020-02-20T13:17:00Z
+    webUrl: "https://www.computing.co.uk/news/4011130/eu-ai-gdpr"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/03125ab/1739d8f6-d599-4f1f-8c77-2cf7db633c37/4/Ursula-von-der-Leyen-Credit-European-Parliament-370x229.jpg"
+        width: 370
+        height: 229
   - title: "New EU AI strategy focuses on ethics"
     excerpt: "The European Commission has put forward a strategy to promote the development of AI and robotics while putting people first and defending European ... “Businesses should benefit from a framework that allows them to start up, scale up, pool data, innovate and compete with large companies on fair terms. Society should benefit from social ..."
     publishedDateTime: 2020-02-20T02:32:00Z

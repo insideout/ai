@@ -56,21 +56,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/Docugami-Board-of-Directors-February-2020-1-630x443.jpg"
         width: 630
         height: 443
-  - title: "Global tax and audit firm KPMG takes minority interest in startup LumaTax in $2M funding round"
-    excerpt: "which automates manual accounting processes New Seattle-based VC firm aims to help startups bridge gap between seed and Series A rounds Seattle startup Spruce Up raises $3M for AI-powered home shopping platform Google discloses cloud revenue for the first time — here’s how it compares to Amazon and Microsoft"
-    publishedDateTime: 2020-02-05T21:56:00Z
-    webUrl: "https://www.geekwire.com/2020/global-tax-audit-firm-kpmg-takes-minority-interest-startup-lumatax-2m-funding-round/"
-    ampWebUrl: "https://www.geekwire.com/2020/global-tax-audit-firm-kpmg-takes-minority-interest-startup-lumatax-2m-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/global-tax-audit-firm-kpmg-takes-minority-interest-startup-lumatax-2m-funding-round/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 60
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/01/Robet-Schulte-LumaTax-CEO-300x300.jpg"
-        width: 300
-        height: 300
   - title: "UK Fintech Rimilia Raises $15 Million Through Latest Investment Round"
     excerpt: "Rimilia, a UK-based SaaS fintech, announced earlier this week it raised $15 million through its latest ... while also focusing on building out our team to add further subject matter expertise and leading data scientists to further advance our automation and AI.” The funding, which brings the total amount raised by Rimilia to $40 million ..."
     publishedDateTime: 2020-02-06T12:08:00Z

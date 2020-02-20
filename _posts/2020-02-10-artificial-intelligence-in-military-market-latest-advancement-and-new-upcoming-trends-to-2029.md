@@ -66,6 +66,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Computer Vision Market 2020 – 2023: Regional Study, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
+    excerpt: "Computer Vision Market Overview: The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
+    publishedDateTime: 2020-02-06T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023-regional-study-emerging-technologies-global-segments-business-trends-landscape-and-demand-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "AI in Fintech Market Technological Innovation, Current and Future Huge Demand, Scope 2020-2026"
     excerpt: "QY Market Research Store has added the report titled Global AI in Fintech Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
     publishedDateTime: 2020-02-07T09:02:00Z

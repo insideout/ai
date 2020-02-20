@@ -3,7 +3,7 @@ category: news
 title: "Facial recognition is easy to fool. This tech aims to fix that"
 excerpt: "The technology that might become the future of facial recognition started with a bucket of household paint. Ingmar Bruder was researching organic photovoltaics—and how to make paint that could absorb sunlight and turn it into electricity—at German chemical giant BASF when he hit upon an unexpected discovery. By shining an infrared beam at ..."
 publishedDateTime: 2020-02-19T18:05:00Z
-webUrl: "https://www.fastcompany.com/90465614/facial-recognition-is-easy-to-fool-this-tech-aims-to-fix-that?hss_channel=tw-17392332"
+webUrl: "https://www.fastcompany.com/90465614/facial-recognition-is-easy-to-fool-this-tech-aims-to-fix-that"
 type: article
 quality: 54
 heat: -1
@@ -418,6 +418,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "rnzkkhjnXNa6jSJO75dVMxXdfExPYoOM36XXb/YZxEHViqYXwVp16fYXASzErDndT5FfoTj3M13lNOtN4RoDIT3GZqAoqDsF7t2sYKpi/ynflddUJ10GQx+Q4xzZ1BchUkIvlJjrdrODpCzke3S64yd0XmIz6h7qnpgXvBV9Us7YMqHug6Pr+0VKusq2GMh8dO7uNd/Jvnyo8a+tQI/6iMCGOD2JSaVKgwhgQB6wTmKtO5JHv+CJ45TPbehPQ8HIy1jcE1VLMYZ52Qy5KOoV7vFHRjz3FxeioWVclDe51aoLSUfSxcz5gqf6pwusckxxVWhf7pK2w0Wrr1OZxjru2/J+ISCzjYVCrKjbbIOWzu3whTCL5Y5ck/xu/uwrOh3N6L2IOZLGdID0WhdJ2OcHUoT/0/7cfhybFZRrKtnDcgOWeCc8OPZOjIp+bupl2SUyVUrJHDri0z5h6yX22gmYDVg2h34cm20mV7GoUi7bnHE=;RIq1zCg+/ShS/r/L+xfiBA=="
+secured: "8naXMy/1myl+xWgx0YmBjGEGjKKYWTqDbqVoH+SQOLzGL2fp5iVAhKL8zDttcqDX+VVS3bU+DPBSL0rDNVOMNcbzpBk1e/WIm/vAblKvzoBTOs7Ya0uFc8QKXvwYAonyDgs3Pdr4HSqy12ZNq5seNrwMHCaA6ChvCVBl11KCcmJrgOQdMi2Hdd/5GVs6j8lDgjpOaZT9iHfW9AGenrMsikAKxVXiG1NfmHNTzajjtDR+dwGeaaRHFWWMHGVywGTE6PEmW9JstXjTPzCa6f/rcXrpsdQsA7cRBKJvLtFUB8QsFcjxN/RVxJP9jra9kzyM;4xd6YyIcCFps/gn6/vlvLw=="
 ---
 

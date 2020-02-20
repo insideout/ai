@@ -56,21 +56,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/Docugami-Board-of-Directors-February-2020-1-630x443.jpg"
         width: 630
         height: 443
-  - title: "Global tax and audit firm KPMG takes minority interest in startup LumaTax in $2M funding round"
-    excerpt: "which automates manual accounting processes New Seattle-based VC firm aims to help startups bridge gap between seed and Series A rounds Seattle startup Spruce Up raises $3M for AI-powered home shopping platform Google discloses cloud revenue for the first time — here’s how it compares to Amazon and Microsoft"
-    publishedDateTime: 2020-02-05T21:56:00Z
-    webUrl: "https://www.geekwire.com/2020/global-tax-audit-firm-kpmg-takes-minority-interest-startup-lumatax-2m-funding-round/"
-    ampWebUrl: "https://www.geekwire.com/2020/global-tax-audit-firm-kpmg-takes-minority-interest-startup-lumatax-2m-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/global-tax-audit-firm-kpmg-takes-minority-interest-startup-lumatax-2m-funding-round/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 60
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/01/Robet-Schulte-LumaTax-CEO-300x300.jpg"
-        width: 300
-        height: 300
   - title: "North Texas startup grabs $1 million in funding as it focuses on AI tools for health care"
     excerpt: "DocSynk is kicking off the year with new bridge funding. The North Texas startup focused on health care received the package from private equity firm Colosseum Group in Chicago, according to a news release."
     publishedDateTime: 2020-02-12T19:54:00Z

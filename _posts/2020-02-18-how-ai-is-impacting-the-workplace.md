@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-is-impacting-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "How AI is impacting the workplace"
 
 related:
+  - title: "How Does The CCPA Impact Your AI?"
+    excerpt: "In the era of growing AI regulation, the CCPA sets a high bar for consumer protections for the coming AI-centric decade."
+    publishedDateTime: 2020-02-20T14:18:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/how-does-the-ccpa-impact-your-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/how-does-the-ccpa-impact-your-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/20/how-does-the-ccpa-impact-your-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/916896044/960x0.jpg?fit=scale"
+        width: 711
+        height: 474
   - title: "How Artificial Intelligence is Changing Content Marketing?"
     excerpt: "In addition, some of our digital assistants are based on smartphones and some messenger bots are based on (simple) AI. Google expanded its algorithm with artificial intelligence at the end of 2015: Google RankBrain . Behind this is a system that gradually learns more about the semantics of user inquiries, and with this knowledge gets better and ..."
     publishedDateTime: 2020-02-18T05:40:00Z

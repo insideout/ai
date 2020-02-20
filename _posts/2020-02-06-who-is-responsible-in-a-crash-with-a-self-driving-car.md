@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Who Is Responsible In A Crash With A Self-Driving Car?"
 
 related:
+  - title: "China is betting on slow but steady to win the self-driving car race"
+    excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
+    publishedDateTime: 2020-02-10T20:43:00Z
+    webUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/"
+    ampWebUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 74
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 788
   - title: "First Lexus with self-driving system arrives in 2020"
     excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
     publishedDateTime: 2020-02-11T15:00:00Z

@@ -33,6 +33,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "\"Behind The Scenes\" with Laurence Fishburne Discusses How Artificial Intelligence Is Helping The Banking And Finance Industry"
+    excerpt: "/PRNewswire/ -- Hollywood actor from \"Boyz n the Hood,\" Laurence Fishburne, is the host of the informational TV show \"Behind The Scenes\" with"
+    publishedDateTime: 2020-02-20T13:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/behind-the-scenes-with-laurence-fishburne-discusses-how-artificial-intelligence-is-helping-the-banking-and-finance-industry-301007873.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/1092442/artificial_intelligence_Behind_The_Scenes_with_Lauren.jpg?p=facebook"
+        width: 1920
+        height: 1005
 
 secured: "nCDZacUR52tw26b1QpiMu5ZIKewuqR15827RQtzyMgSaIinL36f90GhE4pXW2fWzhscBqSLQSAAZIS5i5Bp5faBNwzHrDCuJi7jRZmWM6+iTtiOC/YNpP2H9Wt/+Cf8+7w1bUfSkba34z3TvR3TsmGZo4QdeQXt1f7KSASc05wHWTqzV3tRC2Wunj6Bs5pNENkbHXD4OGBY0Nl8hLfXklpLy0giwY/ue8GCo1QaaITPJRH3rwZo2Rx/dVBNWh2rJukP54CENNCAwFgUdG9svwedSDI1NxERuLopVvJ1bI2xQcM8u9NnzNTA0+4tvDfLj0HyjoXQuLEr0YjPUl/h2hrmll+rP+kgsKidUB+KmkHmsYM1IY0MPRDRQVfQHGcQUoF1jVROfo9cMsPn3FX9U9ADX+4/AquJaQMWPGBItd0C33hPQTPP9K8VAuZsboE2Jeei6ud5muuP27+vjSIBzapxF9aewHuh3BFJTkt08DQA=;tvMbG0k3XbAG++OW2/EWIA=="
 ---

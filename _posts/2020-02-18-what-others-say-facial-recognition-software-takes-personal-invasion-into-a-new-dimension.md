@@ -264,6 +264,15 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_084747.jpg?itok=AizU6ubR&v=1581900472"
         width: 1200
         height: 630
+  - title: "Why Tech Firms Want (Some) Facial Recognition Rules: QuickTake"
+    excerpt: "A group of artificial intelligence researchers last April called on Amazon.com Inc. to stop selling its facial-recognition software Rekognition to police departments after other AI researchers found the company’s software had much higher error rates when predicting the gender of darker-skinned women in images, compared with lighter-skinned ..."
+    publishedDateTime: 2020-02-20T13:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/why-tech-firms-want-some-facial-recognition-rules-quicktake/2020/02/20/f567a0da-53e7-11ea-80ce-37a8d4266c09_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 21
   - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
     publishedDateTime: 2020-02-12T10:04:00Z

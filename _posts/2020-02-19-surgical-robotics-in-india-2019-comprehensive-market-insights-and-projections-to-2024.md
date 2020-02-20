@@ -18,19 +18,58 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Nvidia Jetson Developer Days offers comprehensive insights into robotics and more"
-    excerpt: "This year’s Nvidia Jetson Developer Days aims to provide deep and comprehensive insights into one of the most important computing systems for robotics and artificial intelligence currently on the market. Nvidia is one of the world’s largest microprocessor manufacturers and high on the Robotics and Automation News list of top 25 AI chip ..."
-    publishedDateTime: 2020-02-15T23:35:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/02/15/nvidia-jetson-developer-days-offers-comprehensive-insights-into-robotics-and-more/30047/"
+  - title: "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024"
+    excerpt: "... operating in the global AI in Sports market includes 24/7.ai Inc., Amazon Inc., Apple Inc., Anodot, Facebook Inc., Fujitsu Ltd., Cisco Systems, DeepScale, Atmel Corporation, ARM Limited, Microsoft Corporation, and Micron Technology, among others. About All The Research: All The Research was formed with the aim of making market research a ..."
+    publishedDateTime: 2020-02-20T14:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 49
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/nvidia-embedded-dev-copy.jpg"
-        width: 750
-        height: 750
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in Construction Market Insights - 2019-2026: Research Dive"
+    excerpt: "in construction market size was valued at $408.1 million in 2018, and is anticipated to grow with a CAGR of"
+    publishedDateTime: 2020-02-20T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-construction-market-insights--2019-2026-research-dive-301008275.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg?p=publish&p=facebook"
+        width: 500
+        height: 500
+  - title: "Artificial Intelligence Market Comprehensive Insight by Growth Rate, Global Trends, Industry Status, Key Players Forecast till 2026"
+    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at USD 9."
+    publishedDateTime: 2020-02-19T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-comprehensive-insight-by-growth-rate-global-trends-industry-status-key-players-forecast-till-2026-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Predictions for HPC in 2020"
+    excerpt: "AMD has agreements with cloud providers AWS and Azure to put its CPUs on their cloud platforms and promote the use of AMD CPUs for HPC. This interesting move reflects how a lot of our customers are now planning their next HPC cluster or supercomputer to include AMD in their infrastructure design to better support AI workflows. AMD had ..."
+    publishedDateTime: 2020-02-17T16:55:00Z
+    webUrl: "https://insidehpc.com/2020/02/predictions-for-hpc-in-2020/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 26
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/download.jpg"
+        width: 661
+        height: 661
 
 secured: "ygjOuXy2AyJojiXJOm00wj+y7s+Yd8IXGJMxLCCngekC+s2yu3JXARYASqzBcYauVDHxfBB4c0JTHrNQfKmbfFz95HcfQ9tVtJqrveu45I13aaWwBFoY/WYojyGhQA6lDRvPDA+8n7OWX0zLRk6wlsBlcOGK6ObS1gKS/KvqsNqfHsguhLM4MOcXlEZ2rmrBsoWcx5eMuwTuOSv+Btxhth3K4cl4YC6cEuZlHkb5UU/xMOglxYoRwqTIp5WhYjxiUjRupN7xTzM9OGQTdIve+s54mwH0Pg1RCogQcdWnyj17W1H/d4x9Gxv5/d2e0/iE;gH0xS/lcG64b4gowiS3F9A=="
 ---

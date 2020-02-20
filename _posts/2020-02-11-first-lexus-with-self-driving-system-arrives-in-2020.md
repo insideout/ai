@@ -39,6 +39,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
         width: 711
         height: 459
+  - title: "China is betting on slow but steady to win the self-driving car race"
+    excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
+    publishedDateTime: 2020-02-10T20:43:00Z
+    webUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/"
+    ampWebUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 74
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 788
   - title: "Can self-driving cars handle Canadian winters?"
     excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
     publishedDateTime: 2020-02-11T16:22:00Z

@@ -25,6 +25,6 @@ images:
     height: 600
     title: "Apps that will give your hands a rest, here's the best speech to text writing apps"
 
-secured: "IMQ0LBtKRrku0JHsvIj7P9pB5kEztSMpafxDzk8fr5cDWf3NWTo4D36No3iJcLqu3A4u+OMvxEVEmw4O6mNAtpm+94eU3R13ANmITJMLallDJYRAoiQ7KZRxgf7k+RBAdT/NC4jp31eOlAYEGQhswK2JfY3i+Q8JQ64mW+74zuRWuBFohxFLn2NaYkxUvDC7mpSHYsLJkV+fDkKtaMOBJ94YHC9Ruu9n2R5jNxgwFm2ZiGt1fQY3axNUdkt3/c3I2y1C3bG4R66aOZJZH+4INwCgGrGa1c9DPdxmanXNviVhcRmV0D0zpRnYdb13ZDM8;Ak/8gXr7Ui7vRWEKEqEqDA=="
+secured: "T8Y4ti4X/audJgm/+ZFxpmdmqVIzpY2z+tVso9xUpweU0s+om2nVXBNQpMhS/OHOP64BOHNxrGi8yH8rSQLoMXE+TSe+C57ZmNXvmvJjqGHlVApxv1w6SlB8KUgAln1Ce9cAh0/uevU8cYc/kCJaCeUatCUwL5lGYHIlS3S+1+BgK9qucvOgZOcw3nghZ/zi+GfKwyQXru5mlnAvME6r3UvH5wUUls0gHWiBdUhIVpFCPVFNmbuE1WQnxcEHB/BbHRFkKxxyy1VI6elwoZ9c1VX6bnLiyqWNAWTNasuHOUuOuviktHj3g4A5XfZEnkHLldQA19/ntAkDE847c/dimQ6LQ1g7e4N+VU7VzDyvKORHMuyNES+bdMIbNjdwAvsmUyO6nPizf2pTi9ma8NfytI3I4SIiG94EbqOrXwZpWcweAdUqTfR6fc92vSgPr/iCkkv1/3GPNko6+dBaVqcSqNkTHlSWUISwSdyelynmwzE=;6Ry1c3RvjP9UWrnh9J2Uqw=="
 ---
 

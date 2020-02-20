@@ -41,6 +41,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
         width: 1200
         height: 800
+  - title: "Hypodermic Needles Leftover In AI Self-Driving Cars By Despicable Passengers Is An Ominous Harbinger Of What’s Yet To Come"
+    excerpt: "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse."
+    publishedDateTime: 2020-02-12T16:08:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
+        width: 1200
+        height: 800
 
 secured: "/7DLsFx31sJt8oGYQZIv84P2WDBcHZEARNhWeW+bISnhZ6v+QXZ/teEIuf8RDDhwXb4C7vvLh9ezc5uJbYy83RC5pywg+5nUnzdO3Rpd3ERNf0mideX3GFgCMqcROBMJ3gWiI3UlIqza942BPWbWw/SB8UsfdmpwjzMoaakQFIiC9cNLlzo3sWYP1I6VT1eD9graLKdInG3TaoI24eu3oXJ4CIGXbs+zmLVgvcVt7yp9w4KqrRCuizhw4uxEs17klc85JlCTfCscy9lDc/NzyyBuRcBXgSh1jtuT4bHCUbWfM1JbgOEpwdgw8+Zu7QFfr4oWIr0r3LE91qqb4BdfYbEAq3kXiTq5WFhw/GHEFTu9E7y9TPm6tC7ZpAnG1QjlE36YOE965ymYSkkdfnNeaG3YXV/uUMuaTpf/Vxo50+NgOEuIU6Xn4JOCD4dlhdERWl+dA13SJ6tN8562EAqvNVmGFy0mTAgmnJPyhJuNpKA=;kmsDIMXxAlTIMMlx2oZ86g=="
 ---

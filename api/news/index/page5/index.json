@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
-      "title": "Facial recognition could be temporarily banned for law enforcement use",
-      "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 799,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "publishedDateTime": "2020-02-12T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Facial recognition could be temporarily banned for law enforcement use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
       "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
       "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
@@ -1158,7 +1113,7 @@
       "path": "_posts/2020-02-14-hypodermic-needles-left-in-self-driving-cars-is-an-ominous-harbinger-of-whats-to-come.md",
       "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
       "excerpt": "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse.",
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/",
@@ -1723,7 +1678,7 @@
       "path": "_posts/2020-02-15-7-business-areas-ripe-for-an-artificial-intelligence-boost.md",
       "title": "7 business areas ripe for an artificial intelligence boost",
       "excerpt": "Artificial intelligence has captured everyone's imagination, but what can we expect from the technology? A recent survey of more than 550 executives from IBM finds plenty of support from the top -- everyone wants to plunge full-force into AI to increase the speed and capabilities of their businesses. At the same time, AI is still very much in ...",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
@@ -2109,6 +2064,43 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-using-artificial-intelligence-to-create-killer-robots.md",
+      "title": "Using Artificial Intelligence to Create Killer Robots",
+      "excerpt": "We also meet Nobel Peace Prize winner Jody Williams, renowned physicist Max Tegmark, and others who grapple with the specter of artificial intelligence, killer robots, and a technological precedent forged in the atomic age. It’s a story about the evolving relationship between humans and robots, and what AI in machines bodes for the future of ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://24hourhiphop.com/hip-hop-videos/shows/viceland/new-and-popular-on-vice/using-artificial-intelligence-to-create-killer-robots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-16T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24hourhiphop.com",
+        "domain": "24hourhiphop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://24hourhiphop.com/wp-content/uploads/2020/02/maxresdefault-312-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Using Artificial Intelligence to Create Killer Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

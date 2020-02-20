@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-07-growth-within-limits-us-based-cloud-service-provider-1q-earnings.md",
-      "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
-      "excerpt": "Evaluating Amazon AWS, Microsoft Azure, Alphabet GCP, IBM Cloud and Oracle OCI earnings from an IaaS perspective to understand how these cloud giants are managing and growing their infrastructure.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/",
-      "ampWebUrl": "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/",
-      "publishedDateTime": "2020-02-07T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d7b0d3738f500063f272c%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1142%26cropY1%3D0%26cropY2%3D640",
-          "width": 1137,
-          "height": 640,
-          "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-machine-learning-infrastructure-terraforming-sagemaker-part-1.md",
       "title": "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~",
       "excerpt": "The MLOps cover these areas mainly: Amazon SageMaker is AWS based machine learning platform that enables developers to build machine learning models, train data, deploy an inference point on the ...",
@@ -2174,6 +2129,51 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-fiat-chrysler-and-autox-confirm-plans-to-work-on-robotaxis.md",
+      "title": "Fiat Chrysler and AutoX confirm plans to work on robotaxis",
+      "excerpt": "FCA will face plenty of competition in China, where self-driving car tests have been permitted on public roads since 2017. Alibaba, Baidu, Chinese ridesharing company Didi Chuxingare and Tencent are all working on autonomous vehicle platforms. Volvo and Ford are both involved with Baidu. Meanwhile, Volkswagen's autonomous driving subsidiary ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/10/fiat-chrysler-autox-robotaxis-china/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/10/fiat-chrysler-autox-robotaxis-china/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/fiat-chrysler-autox-robotaxis-china/",
+      "publishedDateTime": "2020-02-10T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4000%252C2499%252C0%252C168%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1000%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fd4964650-4c34-11ea-a374-cfaa3a243dce%26client%3Da1acac3e1b3290917d92%26signature%3Da8fc029f8045afc06de7644470a82b686457cff2&client=amp-blogside-v2&signature=9fe2063928992a00bf65af16b4d39b2a6b5c5b19",
+          "width": 600,
+          "height": 350,
+          "title": "Fiat Chrysler and AutoX confirm plans to work on robotaxis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

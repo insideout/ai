@@ -39,6 +39,19 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/EU-european-flags-fotolia.jpg"
         width: 1200
         height: 400
+  - title: "EU unveils 'human centric' artificial intelligence data strategy"
+    excerpt: "This regulatory framework will be based on the Communication on Building Trust in Human-Centric AI, as well as taking into account input from Ethics Guidelines prepared by the EU's High-Level Expert Group on AI. Commenting on the new strategy, John Buyers, head of International AI at law firm Osborne Clarke, picked his words carefully ..."
+    publishedDateTime: 2020-02-20T13:17:00Z
+    webUrl: "https://www.computing.co.uk/news/4011130/eu-ai-gdpr"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/03125ab/1739d8f6-d599-4f1f-8c77-2cf7db633c37/4/Ursula-von-der-Leyen-Credit-European-Parliament-370x229.jpg"
+        width: 370
+        height: 229
 
 secured: "c/pGmT2xPpFbtxpMf/qK992aF1LoY3vCKrtHzl7pj1pd2F9DaHI1cqM0MiLt+O7R9BHTu4jMM+GCoID/4feyB+a8GAWYJSX56lTeyeK04KiRSxl1kVbPb6oquh7O/mzCFlYYoJL8iCAKKGqdLTr1SFKCtm4Od6NKsofdHvGLoVUoUMvP6RdnI7Sf39+0Lwmjd9INmQKTN5rX2RJHAt4+w634QezAPoUXbY6wjt5ZHpaBPQRtNcypdxpTeT8ly0CQDScnoUbQASE8V5asxFSGSwD1uALo+/QWgfKXPxMFN+S/R+5EjHJ6HFuZCfZyYAK/v0bPpb7CEglNgfzYv5sw43XHxyCcjFpGWkhgMsunO3zRU6Ub6A4NPP0hk4RzsI1ez8i9/r7XiFU0Fs3aoWbDEXhi1M+nc/Do5HMsVl0LpZSvlwV/rR+zV1OnxnYo5s/HlZv3/hghYpio7jxTHcBD/QhTIH/RZ239RkNnJbGNVzg=;TXmgr8SmytAjj7kdQRgvig=="
 ---
