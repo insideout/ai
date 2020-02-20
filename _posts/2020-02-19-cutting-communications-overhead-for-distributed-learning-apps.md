@@ -3,9 +3,9 @@ category: news
 title: "Cutting communications overhead for distributed learning apps"
 excerpt: "As the military depends more on edge devices that provide data-driven insights and allow warfighters to better collaborate, machine-learning applications face challenges sharing their data in contested, congested and bandwidth-constrained environments. Now, scientists at the Army Research Lab have shown that distributed deep learning algorithms ..."
 publishedDateTime: 2020-02-19T23:48:00Z
-webUrl: "https://gcn.com/articles/2020/02/19/arl-distributed-machine-learning.aspx?admgarea=TC_Cloud"
+webUrl: "https://gcn.com/articles/2020/02/19/arl-distributed-machine-learning.aspx"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Military/militaryAI.png"
-    width: 760
-    height: 368
-    title: "Cutting communications overhead for distributed learning apps"
 
 related:
   - title: "‘Abu-Ghazaleh University College for Innovation’ Launches AI Training Camp"
@@ -40,6 +34,6 @@ related:
         width: 960
         height: 540
 
-secured: "HfXqi9w8JRP9C4h6wcMkKC34FSmE3BLO0XlGSAERj/9HOtBthde/M4uH+cvasWEYAsVrCIrvMnCjf+1Pr1Gy+CEJvMaaQ90Y6iuVipjlszXupgMkz8gEDt82FlDDfRFqimyKq1PI+IQXgZDhPoSSXueaSINWlUy9xWvOCQriRbzw8gES8RRsj/PIkK25z8q6hBJGdaT3+OE+VYRlpGlUOJlsg8GkbGx9GQ+9kobdPbjjI8Hiu+BYbJwsjwFr9SC80vPirCZh1Luo7H1GUx8yY2IN3v+bhVLTiQK70xlAIDNX8vVC8nZ+xJj3hwXAMPua;VjlWWSxeoi1nB1iMHNy6WA=="
+secured: "R2gs2gS/IBw21mVY/UQivMXLoTVqvqsf/gdGx2six0PRWzsjVEdcj1NV6hyHz8sue4o6xIEMFxOnIDW/Ndf/oveOlLs4lFyse8/W3rc3MtXFDt+LxRwiCn1/JPiA1L5Q1gJYMU8gtk1UFd1lG+CurjqLwDVJn7ImYepListKWBWp4GPwtDH+edpuw+ARdLv6Y9e8fjGFhgf+Q7tV587TaJsg3S4pi2WKoqEf9KDc85PEberoYgBIwjMTSmil0KBYRbGLJsZRr/9de1UPGI+kxksW99aYSMQwesPHy1i4xEeysT9EIEEmCajJ4WETvNIvJuAicTbgONHsbR0EndQnNf4xKfArmzVSesbEjO0I8dSkstkNNPX2+vZ9wRx+SHG0wSXBjcg1AHWvakOzAVGFHU6OPSmo8LPNP8NsAEK0skbk9yiiGWOcl+/xjhEsJHM6oOEJLNbQhsm0qTtGYobSrnVfPBGt5hQpYMa7aohwEnA=;s9dIXh1n2IKe9Q8ZgTk+MQ=="
 ---
 

@@ -22,6 +22,6 @@ images:
     height: 500
     title: "Brainwaves: Artificial intelligence can love you, kill you, but can’t replace you (yet)"
 
-secured: "vXeFqUMn7uJMs7IrrSuewmp+7veX9E2jInYmTLxisiG3lMDkMSShMctHU9MEwfWUflNvcLU1gGyx4BoCPDIuhvNGFnFeHaCg6PdpvjcYPuec+3e/RSIOihIAwKBB2qqNF/CRofGpouQmBLijf8oyT/UAbknNdqa9pqfsdrG6IQ9b+ba4++q/2TO8LYBKk24OJMZaXXG2/ZWkJJzxQ0IwfiSnyyskkaHnYrpYw1Ps06/TD2cByC+LbzprQkTNGhZEMqNVn3RA9kuUYGsUNzN1t+R8zFbPZjQYT8Fw7CFUV9mbGWQIRFhZ1Y3oG/dAi7d7;Fm6NDDbObP7tKiDC8I3+JQ=="
+secured: "w3xWSyjwjFzvUe/9Cn9Hpw5OovQD9j3u6dLRB7vRdfK4sD4h7e/3LOynoAvcj8DK6yja+QJLA+domfG4251GlOpoRJtw8QHJFQ2Yi8ooQWXSYPA2sXtsHbTJgg1k+PCN+9UD9FovzEjkwmaNOUfz6T2XscqehG3r73Lj/w9qLgUuSldWOmoYG84mbwpGlPoArYG2IXGw/o+km9mXORAH+DQ3t5Khx1Y4xpcT+33NCiF5JFijuIcwwNnU8UNz7aV2wOrS9Du4Dq0aVhJw/Ad7DqrPalZovO1TPCfsw/J46wt3gNACsYD2+0LA/4gJ698vU2YZWenMXaOnCv/DzQR9Vuy5F5S37PUsork79M/ZYhKtXbA4u5YvqIeKzbaMZ2+wI7kjfkdGaZyQ7OyBpa1oQOThyDrg1MNDWAtlQMb5m9RzoecSKEo9CH2w8jKp65sVc/1QL9Vj6wtX4/+gpk/5l88PCmGcLFrpXxpz3ZYMLwM=;RKRkowCz3H4q/N3TjR/uhQ=="
 ---
 

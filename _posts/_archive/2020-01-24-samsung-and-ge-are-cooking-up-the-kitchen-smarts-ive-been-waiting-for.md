@@ -4,12 +4,10 @@ title: "Samsung and GE are cooking up the kitchen smarts I've been waiting for"
 excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. The newest version of Samsung's Family Hub smart refrigerator ..."
 publishedDateTime: 2020-01-24T15:21:00Z
 webUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: CNET
@@ -23,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg"
-    width: 756
-    height: 567
-    title: "Samsung and GE are cooking up the kitchen smarts I've been waiting for"
-
-secured: "33ChDPIIzAxG7EKXFp9c2/a2jUL6SHG03mjxNnUB214Y9O6MbhyP+hLmc2ApTlD8+4LKQrrdNUiS9o7DJXYZ4h/5szv4X6j7NxXyPXCmTuW6lKIX0aakh6SZ+BHDOeg33Qpqh0+BBzWcPjwqfjXeB7KkaOS0hMxP1tfrqo3RKTdlwuVUwcv1rH1tVvMGUHB1sviFN1fET0YK6MFzM70xYv3Nm37QfuUOP9B25Lyi+uRv2GUMI9Tvbl80f0WQGYBvyRZN451pD2bnAyLEGG7J1lXn0xobqX0AKm57/AHS98bdlfkAIAoQgyHcoYZ1d1L6;4iUODSMephp6VMNpA9Ei9Q=="
+secured: "AmLCtYClipj1HAT1pB3isqF7+qTAznfncz5Jm9rDC0uyIFicmXDzfNimgE1tr2umd3j8cg2/NmY9FS00Z3adwXMV9Vpj+rELd6DXTVxvNIcb7fyWFi/LIHNfxDvfnr1ci6i5pGPuiMRzW1H/sCdGVEy/8MpAM2g+9809iBmtLz/olPtbI4z7jqTc9uZjzR0tq4VXGLFmHEcqgnvTENyja6pCIusPX2Oh3u+oNleDCN6MUXWjQ6m66AXGjZoqlv457It3IVjxyH1anKJFZwGN+oMXiOQJYVAatAisBp1S/jf7KAw3WXZNTKDYtm4hfTnS;HKbSoBfHWkUnJ4S6vJuD5w=="
 ---
 

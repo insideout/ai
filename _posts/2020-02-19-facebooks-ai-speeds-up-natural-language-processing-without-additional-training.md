@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-langu
 ampWebUrl: "https://venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 102
+heat: 102
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     title: "Facebook’s AI speeds up natural language processing without additional training"
 
-secured: "eRUtGzHIEuG7HdzZrfThk44aLTDjjj7HDAT96fLtYqGAh88gS4l5VmyUmnHvlTqUQDOv7lrQs1j56Cy6vBN0Z6KeilmsmhUXHM0NDqRfV3JWeqpDDvYaYxcGsZnSyVt+utONE56+bQHCB4vROJgPhEQrRxB4zx1C7wU22XO1WjF+2fzLVE4gp4yu1hz8bU9DmuFkh0P3Zu//mi3w3FdzdqEvnIkupK3I7fKfD3F0aOctAVq3uBAwgaVAI4+rdLJ6SMj4vYrIWG9ztUF5Xj2/Kb7LqhXjynrKwPyucW943S3j7EmQhGvwzZQxqNg6VzNi;6ZQj99Kij2lNCjmTZct9aQ=="
+secured: "TUyCGY0F/z/iXfzru0mLTa5KLAk7N5++CJxX97ZVItx+Q4mfx32H+NgG9Im4hilheavV2E0mI9+corhioEKrtvhMk8psNnuH7sPPcgFJioDB/A7ZEjvG6jkubQ8ve0MOySWapfSGGm6VRzq5gG7xPhARD0ZbHY51/1dN+lxB7AZnG2L9ZBAGaxFfnsdw7ZRvBzrUI+SEvKvdUxUx0lrovhdQgbBUOod/D0EUEVNYvnu+TFivP5siFf6ux5iqgpZ6ASM1SJlMUNmXu3Bi4xFCi2ffvTU0TouZ/lVlyT7cjmPzPtPYEqMO4y553aprAggpwLqUpr3H++HNBHjQ/sUpvKTVL7MmLfn8XetQ2OMH62qp8OG2mr2RWXu1ZZs86KbKtrmd124zeF8E1g3jADBMAosaa5ZpXMfypvJh7ZQ7FpaNWsJzWhT38uTKXtigYfXsr/XPaijOTIPARCxyeVPXo+0iS8CGbiown6HXgUiyRu8=;L2u3kiA7d4ZC/bvKr4lMRA=="
 ---
 

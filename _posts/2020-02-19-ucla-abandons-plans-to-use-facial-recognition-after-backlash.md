@@ -39,11 +39,22 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://cnet2.cbsistatic.com/img/Oz7mCdAo5X1NoCOIXkN3LG0Ws9I=/756x567/2020/02/19/19f84363-9dbf-4ec9-86c1-e95838a79888/gettyimages-992065420.jpg"
         width: 756
         height: 567
+  - title: "UCLA won’t use facial recognition on its campus after it receives backlash"
+    excerpt: "UCLA was going to be the first university in the U.S. to use facial recognition, but backlash against the idea has caused the school to reverse course. Michael Black, UCLA’s administrative vice chancellor, wrote a letter to the digital rights group Fight for the Future on Wednesday, February 18, announcing the school’s decision to back out ..."
+    publishedDateTime: 2020-02-19T22:24:00Z
+    webUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/"
+    ampWebUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 67
   - title: "UCLA drops controversial face recognition plan"
     excerpt: "A major California university has dropped plans to use facial recognition for the surveillance of the campus. The idea was to have the University of California Los Angeles use facial recognition as a way to gain access to buildings, to prove authenticity and to deny entry to people with restricted access to the campus, matching their faces ..."
     publishedDateTime: 2020-02-19T22:32:00Z
@@ -59,6 +70,19 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/d8d0774057d19139d16e6ede624d76e89947662d/c=1-0-1365-767/local/-/media/2020/02/06/USATODAY/usatsports/imageforentry34-vs0.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+  - title: "UCLA cancels on-campus facial recognition program after backlash"
+    excerpt: "UCLA will prohibit the use of facial recognition on campus, an administrator said Wednesday. The university's prior plan to use the technology faced backlash. UCLA will prohibit the use of facial recognition on campus,"
+    publishedDateTime: 2020-02-20T02:19:00Z
+    webUrl: "https://www.sfgate.com/cnet/article/UCLA-cancels-on-campus-facial-recognition-program-15068812.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/10/54/66/19058071/3/rawImage.jpg"
+        width: 940
+        height: 627
   - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
     excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
     publishedDateTime: 2020-02-13T18:50:00Z
@@ -72,6 +96,15 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
         width: 400
         height: 400
+  - title: "Edmonton police unveil details on use of facial recognition technology"
+    excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
+    publishedDateTime: 2020-02-20T01:16:00Z
+    webUrl: "https://edmontonjournal.com/news/local-news/edmonton-police-unveil-details-on-use-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 34
 
 secured: "+Orj3tC1xmTC5ee2SfUPXsWKusuh+17FLNkI2vVruDSgLcNOxof+9I3qcDVeQnelcCiEjen2hmTsr605zHbUr/lMk4aSYbIeOD7mji9oDCnSfwpX16dLXEbAi+4TcKUYDgT+8FpoUbI3x0jmNm9O/sEoyCX2kPS/iowRmZYaiXJNqrJ/LusH57kGNsoTUBxzshlMDyr87hzbNdv5I0YGvDUhFYt8iK3LG2q9nBdWGpaiGUu9Xg5KfXVU06WfknyObqZHLyhW+cyHmqisLWGNrWoN8Ii/6nVgPHcGn6eF3Yv1A19i8j+H/ZM9ccIglKic;3jzJNDRW0uIaLBHqdostuw=="
 ---

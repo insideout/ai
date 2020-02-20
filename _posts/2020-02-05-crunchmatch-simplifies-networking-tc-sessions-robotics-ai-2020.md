@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/05/crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1024
     height: 562
     title: "CrunchMatch simplifies networking @ TC Sessions: Robotics + AI 2020"
-
-related:
-  - title: "Robotics Market size Witness Growth Acceleration During 2025"
-    excerpt: "Venture capitalists have opened up to funding companies designing and manufacturing industrial robots. Advancements in artificial intelligence and development of sophisticated sensors are projected to augment the development of self-programming robots. Make an Inquiry before Buying: https://www.trendsmarketresearch.com/checkout/3132/Single In ..."
-    publishedDateTime: 2020-02-05T08:23:00Z
-    webUrl: "https://www.openpr.com/news/1919614/robotics-market-size-witness-growth-acceleration-during-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "BK/Sq8iT30ulhCnA8NQBuNHCW67a516tKdQSyiWPxMZlO9Lsc4gRjsjj1TrBRHVokIeqUS6Kyn18k/SH5GT0LjlqFZt9YmrnE7WmuDPupqEnZ7nicCYdC2qvTzjLcatsICyRUGx7BXe+yGA4n3xTjCvmxh6sman3BD5zhnYd1Tdi+fDA/ODE1zp6I+WVGd3LahEqgvBG0ZAliLUXHRbIYmSL98W5NTZoUc71vepqLsKyoblcOv8/gjods6TMQJX8NIKiwyhK0GZzVrmvhYi5tcidUGSKB3rQNhvQ/9jSCpzyqGtMtsuXMls7ZdyaEVEVbUFFXE9wO4l0Twju3iTEBqhDoMZ3TZ0EzAg0HWfq/kmiquURKR1QbBLe+qt+6bVnG/jse7YzThZHzcJvRRi//U0NsprS2ceAR6nB5z3r8FqTCef+PUmmpkKtE10DI1HN5E4wTCH9rrb2h/snovDDTyMHkXR9D2p5V+NAOx9hzk0=;i4+rGlO+8EyePyrsCvBK+A=="
 ---

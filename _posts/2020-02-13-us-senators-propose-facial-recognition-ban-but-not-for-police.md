@@ -135,6 +135,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3750%252C2199%252C0%252C87%26quality%3D85%26format%3Djpg%26resize%3D1600%252C938%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F13cdbc50-4e28-11ea-af76-05ffda135652%26client%3Da1acac3e1b3290917d92%26signature%3D0481885756e5df58466c02a0c4b77093553bc031&client=amp-blogside-v2&signature=f8f6c4395bba8a560c86317e4de100dad55191c3"
         width: 600
         height: 350
+  - title: "UCLA backtracks on plan for campus facial recognition tech"
+    excerpt: "After expressing interest in processing campus security camera footage with facial recognition software, UCLA is backing down. In a letter to Evan Greer of Fight for the Future, a digital privacy advocacy group, UCLA Administrative Vice Chancellor Michael Beck announced the institution would abandon its plans in the face of a backlash from its ..."
+    publishedDateTime: 2020-02-20T02:03:00Z
+    webUrl: "https://techcrunch.com/2020/02/19/ucla-facial-recognition-tech/"
+    ampWebUrl: "https://techcrunch.com/2020/02/19/ucla-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/ucla-facial-recognition-tech/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-979036606.jpg?w=1024"
+        width: 1024
+        height: 682
   - title: "U.S. Senators propose facial recognition moratorium for federal government"
     excerpt: "Two Democratic U.S. Senators today proposed legislation that requires a moratorium on facial recognition use by federal agencies, government employees, and law enforcement until a Congressional commission can act to recommend guidelines and place limits on use of the technology. The bill, titled named the Ethical Use of Artificial Intelligence ..."
     publishedDateTime: 2020-02-12T23:24:00Z
@@ -739,6 +754,15 @@ related:
     provider:
       name: SC Media UK
       domain: scmagazineuk.com
+    quality: 19
+  - title: "Is the facial recognition technology used by GTA police illegal?"
+    excerpt: "The facial recognition technology that at least three GTA police forces tested may be illegal, according to one of Canada’s most powerful privacy regulators. British Columbia’s privacy commissioner and three of his counterparts are weighing whether to launch an investigation into the threat to Canadians’ rights posed by Clearview AI ..."
+    publishedDateTime: 2020-02-20T01:14:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/02/20/did-police-break-the-law-by-using-controversial-face-recognition-app.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
     quality: 19
   - title: "MSPs warn Police Scotland about use of live facial recognition technology"
     excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."

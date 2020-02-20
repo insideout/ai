@@ -24,21 +24,6 @@ images:
     height: 716
     title: "UNRCPD provides Responsible Innovation Workshop for machine learning and robotics engineers and developers during the Yantra"
 
-related:
-  - title: "Call for Papers: Deep Learning on Supercomputers workshop"
-    excerpt: "The Deep Learning on Supercomputers workshop has issued its Call for Papers. The event takes place June 25 as part of ISC 2020 in Frankfurt, Germany. The Deep Learning on Supercomputers is the fourth workshop in the Deep Learning on Supercomputers series. The workshop provides a forum for practitioners working on any and all aspects of DL for ..."
-    publishedDateTime: 2020-02-05T08:32:00Z
-    webUrl: "https://insidehpc.com/2020/02/call-for-papers-deep-learning-on-supercomputers-workshop/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/02/deep.jpg"
-        width: 584
-        height: 584
-
 secured: "beoeRmlZC+M8HUtsWsuham5t7K03ks14uGEhAv/vzuLp8xAIFHW+uN2fOak/nY/K+o/UzbxltAIl1c17nV2Jpb+DZyqncHpR9jlXdcrMbumPgkzUAvdhS2m6WGT9Itd3QM9mI8wLEXWuyFoAqsVTYpUUc9gW96fr0gUgLbeiNtQ2uuWFQCWMGGRS4u6J2a72Snnn+l61cJi07sFuRWcXop8XO/bQGJJJWD431Mm8tYOahbVTVNzjBXMit/duueP3Ox3LP4hXGHyGKtgpiVSZkSCld0s6h6EET3zC7/SYcjCd/Y/ZWTxRJRgt47llkh0L;W87j0VOCqn/NyLQHN1tvNw=="
 ---
 

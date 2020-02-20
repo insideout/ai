@@ -57,6 +57,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 15
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "Meticulous Research- a leading global market research company published a research report titled \"Speech and Voice Recognition Market by Type (Speech and Voice Recognition), End User (Automotive ..."
+    publishedDateTime: 2020-02-06T00:00:00Z
+    webUrl: "https://www.openpr.com/news/1921571/speech-and-voice-recognition-market-is-expected-to-grow-at-a-cagr"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
   - title: "North America Speech and Voice Recognition Market"
     excerpt: "Data Bridge Market research has recently released expansive research report with titled \"North America Speech and voice recognition Market\". The report helps out the clients to tackle every strategic aspect including product development, product specification, exploring niche growth opportunities, application modelling, and new geographical ..."
     publishedDateTime: 2020-02-07T13:42:00Z

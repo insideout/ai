@@ -1,8 +1,8 @@
 ---
 category: news
 title: "ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET"
-excerpt: "Artificial Intelligence In Healthcare Market has been provided in the latest report launched by SMI that primarily focuses on the World industry trends, demand, Share, Consumption and Growth with competitive analysis and Future Forecast 2020-2027. The report begins with a brief introduction regarding the major factors influencing the Artificial ..."
-publishedDateTime: 2020-01-28T08:01:00Z
+excerpt: "Artificial Intelligence In Healthcare Market has been provided in the latest report launched by SMI that primarily focuses on the World industry trends, demand, Share, Consumption and Growth with ..."
+publishedDateTime: 2020-01-28T07:33:00Z
 webUrl: "https://www.openpr.com/news/1910427/artificial-intelligence-in-healthcare-market-is-set"
 type: article
 quality: 34
@@ -18,53 +18,16 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "How AI In Healthcare Will Influence The Path To Value"
-    excerpt: "From medical malpractice to single-payer healthcare, there is no shortage of topics to debate in healthcare. Though provision, funding and government involvement in our system continue to be central topics,"
-    publishedDateTime: 2020-01-31T13:12:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
+  - title: "Artificial Intelligence In Healthcare Market Worth $27.6 Billion By 2025:: Meticulous Research®"
+    excerpt: "Meticulous Research®– leading global market research company published a research report titled “Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services ..."
+    publishedDateTime: 2020-01-28T09:14:00Z
+    webUrl: "https://medium.com/@phadatarekavita95/artificial-intelligence-in-healthcare-market-worth-27-6-billion-by-2025-meticulous-research-903f49019bad?hss_channel=tw-17392332"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1147429610/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
-  - title: "Setting up framework for AI in healthcare"
-    excerpt: "Growing populations, demographic changes and a shortage of health practitioners are also putting pressure on the healthcare sector. At the same time, increasing amounts of digital health data and information have become available. How can we tap this vast data resource? Artificial intelligence (AI) models are now being developed to learn from ..."
-    publishedDateTime: 2020-01-31T18:26:00Z
-    webUrl: "https://www.thestar.com.my/opinion/letters/2020/01/31/setting-up-framework-for-ai-in-healthcare"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg"
-        width: 1240
-        height: 936
-  - title: "Artificial Intelligence in Healthcare"
-    excerpt: "WMR published report on Artificial Intelligence in Healthcare Market 2027: Delivering key insights and providing a competitive advantage to clients through a detailed report. Artificial Intelligence in Healthcare Industry Size, Market Share Value, Competitors Research, Industry Outlook as well Analysis covers various factors like Regional ..."
-    publishedDateTime: 2020-01-30T10:45:00Z
-    webUrl: "https://www.openpr.com/news/1914020/artificial-intelligence-in-healthcare-market-global-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-  - title: "Artificial intelligence In Healthcare Market Poised To revolutionize the healthcare sector"
-    excerpt: "The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for players to better address challenges inside the global Artificial ..."
-    publishedDateTime: 2020-01-29T11:55:00Z
-    webUrl: "https://www.openpr.com/news/1911994/artificial-intelligence-in-healthcare-market-poised"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
+      name: Medium
+      domain: medium.com
+    quality: 52
 
-secured: "NQ0G3dkiouiIqUfOsTLsz3oi+zw0E/yVVnEgjaxsO1H6whpQgwV4Ee6oKiQJkrngBiIvDRg7wuQOETH32h7O6q5VKebDPZ4HRE5P/1j8q9iDRcsW0bzVbBdrmfXAn66tHPzn1I+GuB2cwHyXPZYTavNNQk8aR9cz0buHmd01M5Rin12u7dy8k0MNjPYTi1tbkjvNpo09649sf6L49apw8gxTcEAPJo66dylUFOhmMPNk3LJ+00HV4LsKsuDmuLRQw2ei+Ds4Gf1/xWLM4BBP0JMcYetzVZOaatIrcv2VIIMk84z3dOZta+Rb7iId/bb/;Lq35pz0qSYa9dO8fMeMBpQ=="
+secured: "o1uHdVk0xI44T4STjAuGANWbuf/P6/sIQ999tW1LW0W/CYdyKg0BNBX0GkhZMBBjunbBPwOXbIOVc7TWCWu8uQ/xy2/J9K2OLnFKpfHRq9DhKcUoput6+np4UwGyqva6rmY1z1waSU0iVcGfrpTMRjuqm7PQO4Q/ukhJHqaVH1tDrHKUnNxuMVIzeIQ2bRtdGA7Awdi6rC8BpL0/YaRjESQr2yZRcz6Zm0sVuEg9n7BxiZxZfyygYrrF/3xXiArdfcE4TN6exjHa7koCwto48UIkcTVuA5awF70BMccA6rZ6Qwh34Wdwu4esjki6J9g5;wKZOmRKPns3Y3Vusj4LoAA=="
 ---
 

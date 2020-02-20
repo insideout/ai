@@ -189,6 +189,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Global Fog Networking Market 2020-2025 Emerging Trends, Revenue, Demand & Applications"
+    excerpt: "Market Overview The fog networking market is expected to reach a value of USD 1446.63 million in 2025, from USD 65.53 million in 2019, growing at a CAGR of 67.90% during the forecast period (2020 - 2025)."
+    publishedDateTime: 2020-02-19T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-fog-networking-market-2020-2025-emerging-trends-revenue-demand-applications-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Global Context Aware Computing Market 2020 Technology Trends, High Demand, Competitive Landscape and Strong Application Scope by 2025"
     excerpt: "Global Context Aware Computing Market 2020-2025: The Global Context Aware Computing Market was valued at USD 42.59 billion in 2019, and it is expected to reach a value of USD 205.40 billion by 2025, at a CAGR of 30."
     publishedDateTime: 2020-02-18T05:45:00Z

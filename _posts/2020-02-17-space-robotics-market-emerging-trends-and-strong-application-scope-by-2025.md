@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 252
+heat: 262
 published: true
 
 provider:
@@ -180,6 +180,15 @@ related:
     excerpt: "Market Overview The Global AI Image Recognition Market estimated value was USD 1695.93 million in 2019 and is expected to reach a value of USD 622.03 million by 2025, registering a CAGR of 24.82% during the forecast period (2020 - 2025)."
     publishedDateTime: 2020-02-18T06:01:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-ai-image-recognition-market-2020-latest-innovations-drivers-dynamics-industry-demand-and-strategic-analysis-by-2025-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Global Fog Networking Market 2020-2025 Emerging Trends, Revenue, Demand & Applications"
+    excerpt: "Market Overview The fog networking market is expected to reach a value of USD 1446.63 million in 2025, from USD 65.53 million in 2019, growing at a CAGR of 67.90% during the forecast period (2020 - 2025)."
+    publishedDateTime: 2020-02-19T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-fog-networking-market-2020-2025-emerging-trends-revenue-demand-applications-2020-02-19"
     type: article
     provider:
       name: MarketWatch

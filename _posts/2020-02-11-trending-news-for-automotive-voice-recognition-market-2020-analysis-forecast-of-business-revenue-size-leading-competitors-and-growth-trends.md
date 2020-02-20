@@ -192,6 +192,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Global Fog Networking Market 2020-2025 Emerging Trends, Revenue, Demand & Applications"
+    excerpt: "Market Overview The fog networking market is expected to reach a value of USD 1446.63 million in 2025, from USD 65.53 million in 2019, growing at a CAGR of 67.90% during the forecast period (2020 - 2025)."
+    publishedDateTime: 2020-02-19T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-fog-networking-market-2020-2025-emerging-trends-revenue-demand-applications-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Computer Vision in Healthcare Market by Trends, Growth Projections and Forecast To 2020-2025"
     excerpt: "New York, February 18, 2020: The Global Computer Vision in Healthcare Market is expected to exceed more than US$ 343.3 Billion by 2024 at a CAGR of 21.3% in the given forecast period. Browse Full Report: https://www.marketresearchengine.com/computer-vision-in-healthcare-market Market Research Engine has published a new report titled as ..."
     publishedDateTime: 2020-02-18T17:29:00Z

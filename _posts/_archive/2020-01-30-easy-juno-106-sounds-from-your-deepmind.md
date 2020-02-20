@@ -5,8 +5,8 @@ excerpt: "Momo tells us that the DeepMind - Juno 106 Editor is a VST, AU and Sta
 publishedDateTime: 2020-01-30T01:04:00Z
 webUrl: "https://sonicstate.com/news/2020/01/30/easy-juno-106-sounds-from-your-deepmind/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,27 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32473_386.jpg"
-    width: 720
-    height: 405
-    title: "Easy Juno 106 Sounds From Your DeepMind"
-
-related:
-  - title: "Patches For Your DeepMind 12"
-    excerpt: "GEOSynths has released Deeper Vol 3, their 3rd and final bank of patches for the Behringer DeepMind 12. Spokesperson Jamie, told us, “There's 128 Patches in Deeper Vol 3 and It's full of Pads, Motion sounds, String Synths, huge Bass, cutting Leads, Atmospherics and Arp's. They all have extensive Controller and Modulation assignments where ..."
-    publishedDateTime: 2020-02-05T08:17:00Z
-    webUrl: "https://sonicstate.com/news/2020/02/05/patches-for-your-deepmind-12/"
-    type: article
-    provider:
-      name: Sonic State
-      domain: sonicstate.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32517_197.jpg"
-        width: 720
-        height: 405
-
-secured: "eJu1I92rJA++wQwPptm4ATAzvd1WV8rhKZR+MWdvPmU7i/gXtWV2aT6lcY+Hqrl6pbZmLc4+vV1vEqLkrctKOPqsEAik1gV5AVrNxhgkm+5FnyyJ/bKxMvK9WQ/RtvzIj7HwmVsVpHDkd1aBWgUX9hQ/NY98lTH3jza8wJPSH91NyuQaZMVWNzSrGB6ZvD8M25C2vHgJtdPeoOHfDYMQWCr+BcA+DjOoQ+iXBZcoEwxdeSdv7HZQ8UXd4St/oQtBeuxwu8MSMZl7ToC8QyXK3ljKRrmFMt9mH441uGcc5M9CXAiVJuAUExC+eVYGemnt;pFT7RL+OFd4Z7CVC7QQgqA=="
+secured: "PqxDrU5B9AKd1bg2DMyFvQgwCiKIs0X6plYKDGtnSEPysrWiabtlUjOd0BuhZo5uRdtDNYG3NBGoTekk6JZm+kIeZ9KBfZWVMDzTeNtNNqfSU3vBdBP5a2GhhJuy8RWgyDdMqO9S1SybuP7gN2OT1K/wlFCp2mFOdyYpG5XhZwtn+FrlUE9kIb/aD0ZL9QzZQP7Nb8k671WaVk2vyzHl0BqUYSs6CeaG5/iXgoUp1xBVPN0u73i7uT4SlAQs3QM/SGvrij+aB/gooMoy9CGkq7Uic3vl5hN+1j5LO0MzPLrD/F+reeI0PRPJ0XwxRqN3;VD5kyOf/b6lO1V665l7Czw=="
 ---
 

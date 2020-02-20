@@ -138,6 +138,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-10-796x417.png"
         width: 796
         height: 417
+  - title: "UCLA backtracks on plan for campus facial recognition tech"
+    excerpt: "After expressing interest in processing campus security camera footage with facial recognition software, UCLA is backing down. In a letter to Evan Greer of Fight for the Future, a digital privacy advocacy group, UCLA Administrative Vice Chancellor Michael Beck announced the institution would abandon its plans in the face of a backlash from its ..."
+    publishedDateTime: 2020-02-20T02:03:00Z
+    webUrl: "https://techcrunch.com/2020/02/19/ucla-facial-recognition-tech/"
+    ampWebUrl: "https://techcrunch.com/2020/02/19/ucla-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/ucla-facial-recognition-tech/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-979036606.jpg?w=1024"
+        width: 1024
+        height: 682
   - title: "U.S. Senators propose facial recognition moratorium for federal government"
     excerpt: "Two Democratic U.S. Senators today proposed legislation that requires a moratorium on facial recognition use by federal agencies, government employees, and law enforcement until a Congressional commission can act to recommend guidelines and place limits on use of the technology. The bill, titled named the Ethical Use of Artificial Intelligence ..."
     publishedDateTime: 2020-02-12T23:24:00Z
@@ -742,6 +757,15 @@ related:
     provider:
       name: SC Media UK
       domain: scmagazineuk.com
+    quality: 19
+  - title: "Is the facial recognition technology used by GTA police illegal?"
+    excerpt: "The facial recognition technology that at least three GTA police forces tested may be illegal, according to one of Canada’s most powerful privacy regulators. British Columbia’s privacy commissioner and three of his counterparts are weighing whether to launch an investigation into the threat to Canadians’ rights posed by Clearview AI ..."
+    publishedDateTime: 2020-02-20T01:14:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/02/20/did-police-break-the-law-by-using-controversial-face-recognition-app.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
     quality: 19
   - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
     excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."

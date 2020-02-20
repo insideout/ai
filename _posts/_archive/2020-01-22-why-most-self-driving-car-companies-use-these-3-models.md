@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Why most self-driving car companies use these 3 models"
-excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
+excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human ..."
 publishedDateTime: 2020-01-22T10:12:00Z
 webUrl: "https://sea.mashable.com/tech/8744/why-most-self-driving-car-companies-use-these-3-models"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,29 +17,17 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://sm.mashable.com/t/mashable_sea/feature/w/why-most-s/why-most-self-driving-car-companies-use-these-3-models_358k.1200.jpg"
-    width: 1200
-    height: 799
-    title: "Why most self-driving car companies use these 3 models"
-
 related:
   - title: "Why most self-driving car companies use these 3 models"
     excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
     publishedDateTime: 2020-01-21T21:09:00Z
     webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
-    ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
     type: article
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
-        width: 1200
-        height: 630
+    quality: 34
 
-secured: "AORNrPSJ2TjES/AG4/3FC+mTKxsr02+5aX1O+HIDcO1hdFU4+ejM+QHX7vcxJ1CL5JmHUqH3NerNWQWETow31hsG+DG5UtLTeTZUejm1fXxnOo7/vSeyD7ETeY2tU97FOKeejjJXe3hkYccqcCKKeGIJ9MAz7rMzaeoSgAKvu7S3mgXYa5uZcvSHyqTrfmownSQ517T9zbQ0ksiookRYDpjQcy9BB4C/FNtYv65Ls3un/bx42cE6MyZ4lDg+awgfkVc6o5rfmrLXldaDnfywyeBsjtTiDgUsH38AqnHeJm5RsE/LkZPsrDz7ZmkCTzwW;dIHeqKCBuRCTFzuA3GfiMg=="
+secured: "sDkGes50eMADo79MpnIFcWJm+rSdoKNRqu3+TcTQXVSs7m7qIbEGSHPDoY/5iQdknv1Y0gXO397A1ulXROXCXONki3MvqtDgMUUHqMzV9sJJCwT12UqEJg5P8Hv++bUrMVu2+wtzPfzPnqKgz6glq05xmHnF86W8KZUFgjDUZJtCQeWQp270W0UfbBoVCLWsSeQhGsjj7vgS5MVC2tDg5mghW0Xxjmdoj2UbsSDHmZY/aOyD17ggpFuoOrx7EAVn6lGTSrbbwKRGLXFbCpxXtK7zUfS3z6IKjcqsZQszXAtG4to5/zqFe2sPao/oIuo9sb8ys4mzQIHpLgF8JjB24DG+RZZ2OpWwjvnOoovJhnTnMCiD18OOIO+M5qaRrjB+uKohitUROEXDZaLfKQFdq3BAI8KwDuQ02h5koS7vfA/i3mSeVm+J/oOjroiQIUaQIQlvLDT5h1+GN+vJb2DVvwdxh+cAw7rfZpSFjkPtr34=;JlXy2TUZJ6RItERLW8dsNQ=="
 ---
 

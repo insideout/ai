@@ -18,6 +18,15 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is"
+    excerpt: "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ..."
+    publishedDateTime: 2020-02-20T00:04:00Z
+    webUrl: "https://www.theverge.com/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 46
   - title: "Boston Dynamics’ dog robot Spot is going to patrol an oil rig in Norway"
     excerpt: "The news: Spot, a four-legged robot made by Boston Dynamics, has got one of its first real-world assignments: it will be start being used by oil and gas firm Aker BP to patrol ... Testing: Aker BP has an agreement with an AI software company called Cognite to work out which tasks it is best suited to, then deploy it in the wild."
     publishedDateTime: 2020-02-13T12:05:00Z

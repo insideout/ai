@@ -8,7 +8,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 1200
     height: 400
     title: "EU puts up AI and data strategies with an ethical twist"
+
+related:
+  - title: "New EU AI strategy focuses on ethics"
+    excerpt: "The European Commission has put forward a strategy to promote the development of AI and robotics while putting people first and defending European ... “Businesses should benefit from a framework that allows them to start up, scale up, pool data, innovate and compete with large companies on fair terms. Society should benefit from social ..."
+    publishedDateTime: 2020-02-20T02:32:00Z
+    webUrl: "https://workplaceinsight.net/new-eu-ai-strategy-focuses-on-ethics/"
+    type: article
+    provider:
+      name: Workplace Insight
+      domain: workplaceinsight.net
+    quality: 39
+    images:
+      - url: "https://workplaceinsight.net/wp-content/uploads/2020/02/belgium-3595351_1920.jpg"
+        width: 1279
+        height: 1278
 
 secured: "9HqPWRSg+CQQMQRS0mOvQuqstaKSxQFWgZbanUti39+NTO0PHwiBt+JtuZmZqpIpbUzFQJQ1hU6tdWqix/4v/Sdl3xid1EAL8oMETRbSkkWFXtTA7G1e2xCF0RYBytx7au0LZHCVwsGilweEU9YsebvnKLcKhwtXzs/ym4AacWiNoj7by9OfxQOGz1VK8dA8o7VbrBSClSHkAvfM5r2L4CtJAFYMIZLVUv7Dqzo6kMe2uaCeXE2HaWUTuu/hZLG7iaDI+6QNava4twNvGjxIIKrR7DTrDm5l7yD7L4yKw9u94Hyrw6jTTDI0WHIuWBkgGAVMLXSkkvFzSXa/90Ptr3xB8J5og2LOXSTNXNHI32HtfbGjhenl9fYlNhXNYSADak4WtVGQ1DhzXtw2mD20ty6RdsHHgjTveNnKMBQ7CAn4/uj9QyW9/YTSPm3hO+zdl6bTtCJ50KtSRqclLoFbqf/LowgL/wb4mWRamf7d4po=;4W4mNz9CTCj261rBp33puA=="
 ---

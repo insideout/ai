@@ -4,12 +4,10 @@ title: "AI can help cancer patients start radiation therapy sooner"
 excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
 publishedDateTime: 2020-01-27T00:00:00Z
 webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: News Medical
@@ -19,38 +17,17 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
-    width: 620
-    height: 480
-    title: "AI can help cancer patients start radiation therapy sooner"
-
 related:
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
     webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 54
-  - title: "AI could kickstart early radiation therapy for cancer patients"
-    excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
-    publishedDateTime: 2020-01-28T13:01:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
-        width: 1200
-        height: 450
+    quality: 34
 
-secured: "hjGpVThacRy9wp1QgfAbe49ohkI1ggUT3/xahyzQ81MlVCcnHQOle8KHbtxp7MwLEdWxjvixoWl151iqFgbX/bYyDFOyoNst75MTeHhev7E1sAtHy3FzveebzVPzmQVMlr6wCKpm5ZAH7g/4jmBUpamP6uE94DHypifMrUpNR5Gk0vcZEYAeWSZb4xRdlF2s+Gcdtc531FDioHdqCnAImOqb6HWytA9Ju6H8YoTQxcmFT4wKdgydQb0rysnIsfynsmy5n88byAY1Bmm/UTsJPO6NYaL9KoT8rm63+h7T3CyNE78OVwLf/vrAfhrqIyas;O/Y3JOH+/WTxIcmZ6cgnpQ=="
+secured: "/k7f4fWBzPCzCAv8YSAKudrZ2EpwW+t0tiz1QSDsRzqT2xcIvohl5r4tNamCw9+7eIxzXvjUv7iyVXo00OkezgQ82hOzPq3Oq2tpgaq+DI9rCaEeNLlVCokaYZcT6KADX1O866Q93XVe+E9hdudGFNomywGqdGWeaZCj9Kc7wMYqY+O6pXFpcNQ7AR2A/Ss5suWu4pK7yJ1V0jO5f293iwElBdB/db1H3NFYMe1yyebz9/M3CdWCZLnONwjr1lQzdCxSh5uFJXjkBDi8OBcurOHxT7yqbhJ5ax1ImQYs69x0KmKUjE6QsVtIlvTgB14z;RZ51flv2ogoGBunXfTmKMQ=="
 ---
 

@@ -4,11 +4,9 @@ title: "Crash Team Racing Nitro-Fueled Review"
 excerpt: "Crash Bandicoot’s return to prominence has been amazing to watch. The Crash Bandicoot N. Sane Trilogy successfully kickstarted the orange marsupial’s resurgence in a major way by remaking his ..."
 publishedDateTime: 2020-02-03T02:45:00Z
 webUrl: "https://heavy.com/games/2019/06/crash-team-racing-nitro-fueled-review/"
-ampWebUrl: "https://heavy.com/games/2019/06/crash-team-racing-nitro-fueled-review/amp/"
-cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/2019/06/crash-team-racing-nitro-fueled-review/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://heavyeditorial.files.wordpress.com/2019/06/crash-team-racing-ps4.jpg?quality=65&strip=all"
-    width: 780
-    height: 440
-    title: "Crash Team Racing Nitro-Fueled Review"
-
-secured: "gvCBlaSlicZqjVru+C7S2AC/vQIRBYES+CGPC2hXYmElxwFBnLTxZSZGb5YCJY5L5lTlyMweyD0wXqyhIt3Dq0lLNVg9dS5c7OmuMWT70hvSiGwxuiA4orWI1NDo2zvHFMphN0b7I6vy6mSKGaW2ELdT/gKv5ukgutWELB9bhdbnyaedmEnjBHt8UdhaFwH2nxzJ9kf9SDbNKpR7MPg++weCHF1XqTno52wWZ9OcizLrQBX/fa8QoU71595G/F7R1Rqp7bXHdev1PK3hmPsle/y0YOB9UK7JEBC6zFzJSc4elx0mEz5kxK7ln7yYjX0X;vcWHjmAomEBldBp2qJqRYg=="
+secured: "rI3YiDouhr7gGsCWthUVQu0aZipS8fwg6qcs22hXkQi6N+sJCBev96SNrOyDSlr+wa6R+PuPGmx/qyYWm0+za9TpE6+uGXp/JQP7y2Qm4q5m77xU2kuV4qQQD6w1mHQWdmM9fLRrtrCOhy7lgx0ip4ZKlgiv05z5br10ML1chtTuGXHkzZ44RM0U7jJ+1CZVJHTkvIufIPbU4F7zVgYyjdyn1TknLJJZd3W2v+RVVwIc4gp7YA5IZe1n4wmjtuvz2/rda2uHZ1iUjewoFL+Tj78e7zxS7SQzPqWvPhfCJx9ambrRwN14voitqxLm24vJ;jSmWv3n5S4eMijJFmDm7UA=="
 ---
 

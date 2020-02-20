@@ -3,10 +3,10 @@ category: news
 title: "Facial recognition is easy to fool. This tech aims to fix that"
 excerpt: "The technology that might become the future of facial recognition started with a bucket of household paint. Ingmar Bruder was researching organic photovoltaics—and how to make paint that could absorb sunlight and turn it into electricity—at German chemical giant BASF when he hit upon an unexpected discovery. By shining an infrared beam at ..."
 publishedDateTime: 2020-02-19T18:05:00Z
-webUrl: "https://www.fastcompany.com/90465614/facial-recognition-is-easy-to-fool-this-tech-aims-to-fix-that?partner=feedburner"
+webUrl: "https://www.fastcompany.com/90465614/facial-recognition-is-easy-to-fool-this-tech-aims-to-fix-that"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-trinamix.jpg"
-    width: 1280
-    height: 721
-    title: "Facial recognition is easy to fool. This tech aims to fix that"
-
-secured: "Yr82jJlLUgQDP1+e3Ck25t1NsaQUm/Z8dElX4mgGJ7W/RE+c+QAU4wTrBcdnnmNQxFKwD3BCw5LnxmTFj1RmOe6xLPt3qVlkedZ7xHUZ9O2Te4DAgPwii6cNt32FujkYqju3EFKXf3fa0ZyJ/Gy5qv0T0fNvuKPF/cJeiTq59ghqszx/rXJytwwWye6G/oY/lyvQ34E//1WBHEcE0JZ3iw2WBBT3h5nyvmtzH+z73JEBNBfCq4FZpZtEV8RxZC2PwRfh3Kp5rcsy4H//ENA5ONezA4Wz7a+lv8XAHV+t+RNHmVe8Yq+sUw3WZspNNGg/X7+WtDyKQ9UPJdjcbQKxxvT1du9A17x/a7w5CbxTs6PtMYN4pxXy55FE4VRUUPIF5C0oDgUvDthjuFl7y84hgbdmuaoFZntjhHe2seJ6bs81qwE/GHakvEkVnqJOXpcPJ5KVLKB+C18Js5ctc3GerX3a65woga4iaq9qLky79kA=;7oLJpcXa7237TqDWd+SwnQ=="
+secured: "WxlX1ygpRlZJpy9fuLvjuNHi/0PFZdoZfb4r22SagMbW01L+1UM02LJ81cocI7f3MALYE1j6H6aF1zTVQwBTJFaJ7RGGtV5f6HN33MYFrxXocEX/94Fsh8mHR8TgpMZqNnBHs51jdgL4XFpblJrrMUDXMb1lfa5dV1/lM3HcLceNkTjqZEGD2q6mPHZ1oQhe22ivIzY6fyMYsKyY4tjIYOAhzjCp1Ne/2DaeY44j9hvHvxsRFCvruTRAk2Wd9TPqnVeXHB8r1IAjIu+W4Iiru1Ige2E5mTyD2ex7qiZlqnevVRG98Z1H4QVfHSe3rC1n64zUycYsMofM0/Rc/zvvkuXoSZIIHRIe774SFMxcf0fY7PeB5ESY5PX9IDRgntobvDqVOx6HavuCX/C3CLegamQwAQySWLPtqQ3dZYW7UeYv74bu40oGfQ7V8nG99gymelqV8UcEf+Aydr92RC8O8rRLwL8aQ/0bskfXnNbp7/w=;2C4pOT6H0dRHxJhkYw0wJQ=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://www.deccanchronicle.com/technology/in-other-news/250120/udacity
 ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -19,25 +19,17 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095642.Medi.jpeg"
-    width: 800
-    height: 448
-    title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
-
 related:
   - title: "Udacity launches new course called Intro to Machine Learning with TensorFlow"
     excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow."
     publishedDateTime: 2020-01-24T11:44:00Z
     webUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/"
-    ampWebUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
     type: article
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 36
+    quality: 16
 
-secured: "x0GD7+W2K+/RN2pz4826Ul7pDl7u+tnlVuinG+nMIJ2IkWomhqVXeHdA0IL3AMFh6SrczlXNur742KdQuUYj2ras/a8Sh7tT9bLB1IycEgz/ymZi6QQ1cWwDlqQIbZiOSCOdpBGP2akQ51Tp3z1cd/rLnc09QZiZmzeq0tkYKQdJeDoXpDXQnLCc3FNOhb+vfnm+M6vR1QKHXIo2L6bTJhRaFtUZAdZW5wIZXm8mbiViN9ZR4wKx0pF5F0/4V0QEnOtzk+PMVAQ7BjqOMYNXycG85jIClMlOVFRlIIaOxRoYEVIMTqdoFY07pVbZyTEm;DCBGgJUhj9ZUFg4/TSuzvw=="
+secured: "FiIO34tWdIxfOCBKLJVDMYc0IBIAUwfzapmBGvkO0l7JAehvakMFfTunF8FA/Ri8hblr+SvBo7MroEN60HDoLR8w/ZKhXktZMchucyyIG9k9dQyK7YH7cWxr/j2gO/AKNSPSICc8oO2Jg12xMhAzYdUkn2SulbMebqHF6YPUsS8LRZWWDPMRvnclAluLdYGRIhGSlOqnlq7pUDtGNTmIXBzjjTCzkWlFX/9DfxaAv9nvgxAAqIh/GfgmJ8em1KnA51Lj8DljWK+qGkqhYnKHa7+IHSgTWQmj+eoQrya09BP116t1vqQTCG2tkAEQFn0W;tc1ymVVUKdLSVf5rfABnbg=="
 ---
 

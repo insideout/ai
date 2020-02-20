@@ -22,17 +22,6 @@ images:
     height: 1000
     title: "Modl.ai closes $1.7m seed funding round"
 
-related:
-  - title: "Israeli Start-up Kardome Receives Investment from Hyundai During Successful Seed Funding Round"
-    excerpt: "Kardome, an Israeli startup that develops voice-control technology for machines ... We plan to use Kardome's robust voice AI technology to boost customer's value and gain competitive advantage by enhancing user experience and safety features.\""
-    publishedDateTime: 2020-02-05T08:58:00Z
-    webUrl: "https://www.autoblog.com/press-releases/israeli-start-up-kardome-receives-investment-from-hyundai-during-successful-seed-funding-round_22077/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 5
-
 secured: "beK+IyVF4Qocs7R4gCFXj+YcrZ5e+Vl/TeMEahkGOaQVIVqiJijZWL1SYHFr8faxKKMQj+m8qZAn2FnKWxjOwhkD62eWRNGPRgTfhzegaJ61laQzA/ZgwZc0kDI27GmdX3aFcgKGgVGbKR6fi+u6yC2ePjnr9Qm+1Hnvvl2TNCu244uW2WgCibeNw4cPMNHOh4PjPiucwSxjXuDG2qhyirdfZO/vClI83AkLAHXPgRbi0RxkRlxhOj5rfahnCRk/lYhgG5YBvGzZyTR9CWPU0kt3sgFcrMD5D919hBxSvUIHRPdZBBZ8j6G+gpIpqPiFkBMRTi0uRAdPcjvk/d3xeM52lNVCnIWe9TO+f+BSMRcONrkU0uKbmECh2s0Bjch4JH+DpweedbYnlaKkp7YDrgzwqsP1JS/LoF13QDu/Awa9709M/t+EG+1DwUtVvTBgRExJRCyDKPAUsrsbV/P3/bOZK95ppsWYpJ5uFm5RsFs=;fHux690llCGNqzjj8Vz2dQ=="
 ---
 
