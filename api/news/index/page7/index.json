@@ -2115,30 +2115,38 @@
       ]
     },
     {
-      "path": "_posts/2020-02-19-facial-recognition-technology-will-follow-privacy-laws-edmonton-police.md",
-      "title": "Facial recognition technology will follow privacy laws: Edmonton police",
-      "excerpt": "EDMONTON -- Attempting to quell privacy concerns, Edmonton police say facial recognition software that they intend to use to identify criminals will follow privacy laws. Informatics Division Supt. Warren Driechel revealed new details about the proposed technology Wednesday, though the department has not implemented facial recognition yet.",
-      "heat": 79,
+      "path": "_posts/2020-02-19-facebooks-ai-speeds-up-natural-language-processing-without-additional-training.md",
+      "title": "Facebook’s AI speeds up natural language processing without additional training",
+      "excerpt": "In a recent paper, researchers at Facebook AI Research assert that the first problem — the mapping problem — might be easier than the prediction problem, a hypothesis they build upon to augment language models with a “nearest neighbors” retrieval mechanism. They say it allows rare patterns to be memorized and that it achieves a state-of ...",
+      "heat": 85,
       "tags": null,
       "type": "article",
-      "webUrl": "https://edmonton.ctvnews.ca/facial-recognition-technology-will-follow-privacy-laws-edmonton-police-1.4818878",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html",
-      "publishedDateTime": "2020-02-19T13:18:00-08:00",
+      "webUrl": "https://venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/amp/",
+      "publishedDateTime": "2020-02-19T14:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": "Facial recognition technology will follow privacy laws: Edmonton police",
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI speeds up natural language processing without additional training",
           "attribution": null
         }
       ],
@@ -2148,7 +2156,7 @@
       ],
       "topics": [
         "AI",
-        "Computer Vision"
+        "Facebook AI"
       ]
     }
   ],

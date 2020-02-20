@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderati
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "Google used AI and human moderation to take down over 75 million Google Maps reviews"
 
 related:
+  - title: "Kenna Security uses machine learning and collaboration to target enterprise threats"
+    excerpt: "This is the approach taken by Kenna Security Inc., a predictive cyber risk company that specializes in using machine learning ... its solution among financial firms. TransUnion LLC, Fannie Mae and Dow Jones Inc. are customers, and banking giant HSBC Holdings PLC recently became an investor after deploying Kenna’s services throughout its ..."
+    publishedDateTime: 2020-02-19T23:52:00Z
+    webUrl: "https://siliconangle.com/2020/02/19/kenna-security-uses-machine-learning-and-collaboration-to-target-enterprise-threats-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/Toubba-Japic.jpg"
+        width: 985
+        height: 657
   - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
     excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
     publishedDateTime: 2020-02-17T16:14:00Z

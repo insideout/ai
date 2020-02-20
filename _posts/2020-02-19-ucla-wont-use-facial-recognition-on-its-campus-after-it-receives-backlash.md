@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
-excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
-publishedDateTime: 2020-02-18T17:33:00Z
-webUrl: "https://www.biometricupdate.com/202002/vuzix-integrates-tensormarks-ai-computer-vision-tech-for-facial-recognition-in-ar-smart-glasses"
+title: "UCLA won’t use facial recognition on its campus after it receives backlash"
+excerpt: "UCLA was going to be the first university in the U.S. to use facial recognition, but backlash against the idea has caused the school to reverse course. Michael Black, UCLA’s administrative vice chancellor, wrote a letter to the digital rights group Fight for the Future on Wednesday, February 18, announcing the school’s decision to back out ..."
+publishedDateTime: 2020-02-19T22:24:00Z
+webUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/"
+ampWebUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
 type: article
-quality: 56
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
-    width: 660
-    height: 300
-    title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
 
 related:
   - title: "India's use of facial recognition tech during protests causes stir"
@@ -69,17 +69,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
         width: 810
         height: 456
-  - title: "UCLA won’t use facial recognition on its campus after it receives backlash"
-    excerpt: "UCLA was going to be the first university in the U.S. to use facial recognition, but backlash against the idea has caused the school to reverse course. Michael Black, UCLA’s administrative vice chancellor, wrote a letter to the digital rights group Fight for the Future on Wednesday, February 18, announcing the school’s decision to back out ..."
-    publishedDateTime: 2020-02-19T22:24:00Z
-    webUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/"
-    ampWebUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 67
   - title: "London police deploy facial recognition tech, stirring privacy fears"
     excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
     publishedDateTime: 2020-02-11T18:01:00Z
@@ -155,6 +144,19 @@ related:
       - url: "https://wwwcache.wral.com/asset/news/local/2020/02/10/18945112/clearview_cap-DMID1-5lstc1qbi-1920x1080.jpg"
         width: 1920
         height: 1080
+  - title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
+    excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
+    publishedDateTime: 2020-02-18T17:33:00Z
+    webUrl: "https://www.biometricupdate.com/202002/vuzix-integrates-tensormarks-ai-computer-vision-tech-for-facial-recognition-in-ar-smart-glasses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
+        width: 660
+        height: 300
   - title: "Police use of facial recognition ‘unjustifiable’, says Scottish Justice Committee"
     excerpt: "There is no “justifiable basis” for Police Scotland to invest in and use live facial recognition (LFR) technology, a Scottish parliamentary committee has ruled, citing human rights and data protection concerns. The Scottish Parliament’s Justice Sub-Committee on Policing said in a report published today (11 February) that Police Scotland ..."
     publishedDateTime: 2020-02-11T00:43:00Z
@@ -270,6 +272,6 @@ related:
         width: 900
         height: 678
 
-secured: "Ea9OM614m5oOLCYUaCGqbYgb15C8URMvbu6zwU+HEoLXIGcgoV6VZTNnC8dQwJvESN+9Amm5zI2JMQng0iiSiDFjMVZZPozxm1oUDiQF7s1zrQU+WV1VUoj2iod/J3N35h3IFWQ8tsIZ5qyI1QfU25vmg0LaP+xmbQi2Pk8boB9PU42FV72s/uhvmkNjC4kzCrNIquke81HWpkoMKSz2XU7NaGzCwUp7oTLz5g7UCaCOfUJiL7QsuJ4sYtajFOrIZevo9le10HgtHOSgh0DVGJqQ53qWCjzD09DiEBkbcjoyftDFzAQz1mJ/tUp1KnnCHQzvhBbnEKicYoVE1abXcM9Gyrweo2AoHZUnWVi6H8SSX9nkxDYyUf/Ie2ZdQ52FRrtdouKJs9yDfjBjwgP33Bpjj3/nkTgEu7jDnbA6cdDweS9Ln79+XTTD3KAggH6GvoPzkUnLFiBNKlMqpsBC6Cekitqwgfcf0JqPefrnjgg=;crOigGaxfhsFNs+lWeuixA=="
+secured: "N3bzzUJlUZ+R1PLIA8uH11Evama4bFPuLnZKy+FFLduERfMNAdK6Ni0McsOZ3spCfBPmzLwVDKG2Y4XyK0FU5hKZvtBD7Fc7KyJNzkZmwcA2TK455vhdpYHLts1xLhcG4pH3NTg33tYWbFkxSCbo3F61R07pGhKu14ggvPFZztnQwrRwHWHV+tsO7sUGxQd5flyB5rD8lCBF+RSU3lEJwuWRFaMRKKqbC5HQmoyMXhdcPsrX6IOCzZCNhLgX+bHXWnwHI6vYqPoFBjEjQPlU/RBHlYprcrfRu52LBYqpKJ6DlfXApSrjKeJuYujmqH0obvK70aKiPtP05XCo32erUNUC0royMa4+g8xDM1/JnDok6BuDtRJS1QQQmE8g83Ixv/CSWncw7rwSHRgpw6TnApActp5cUAGoh9NXiQuxiPzDSm0ugA76nKIvN5OZNomSdwn9EOFl/DFwykRFzMu0J9ok6kuAklP3e4zn8sIHzrg=;lBM7JhnfITlH2Qt2duZaoQ=="
 ---
 

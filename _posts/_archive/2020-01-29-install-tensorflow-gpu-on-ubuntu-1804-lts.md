@@ -27,6 +27,6 @@ images:
     height: 413
     title: "Install TensorFlow GPU on Ubuntu 18.04 LTS"
 
-secured: "e3BgDPSNo3jw/JQ5LMX5lKL55xhWPQwFYPU8LlDfyanmEV7YcxPcI+Y1co//4WcLfHf9z3VLcnxaDnbBwrn2vbYOnz1bZLqrhfX6jP8ts/olMUC9bhjV3viBsYZn/yfiheFyUBd3+14NJvRd6KKsXVSznmQDir8z7vykxSWhi9qOOw9oJ645eEsZLWj7lfv22c8n/YhR+/GSyNOY7nm/GlbiGx9VM2Os75Pbi2Uxc+QvRK00GmqIqu/eUn0r4xL5uykJDncilN2SVL6ulnroaf27GrrFb1GD8GHH29mVF3n0kSqZao2ARjBGWtjv4slo;cnvsGJcR9tmGpRrDaso9Gg=="
+secured: "nwsx7M8FbKcRD15OTt65FQ6DlRAtHgNVAWhZHbprNSYNgEg06YdEu0kMNXkNrd8KJa4BM8eW4Srivs7PJQWU5TFSbfm4m64FYKnZs4Y7wv1UoOiDvUNDD96l/0FpwSPSFy1RMpJHL7pYSHoM9JmXLBb344P7+fzdzGgsDb1OuhWz+xCMzjXPv4CXUE1m2SRCuumNLCoLaaKCL6m9B2rEoWrubNrfSwd7OQYr4SnsDAkCFStS19hAgSO9RucgOrH3h4dk6aqUW7e/z6p+OMmK6wGpXvtC/RaYnBByslciodPlg/Ha3NGZYc0dbSYKtaPq;y8vGV5Gp5jtZgU48unBtVg=="
 ---
 

@@ -3,7 +3,7 @@ category: news
 title: "Cutting communications overhead for distributed learning apps"
 excerpt: "As the military depends more on edge devices that provide data-driven insights and allow warfighters to better collaborate, machine-learning applications face challenges sharing their data in contested, congested and bandwidth-constrained environments. Now, scientists at the Army Research Lab have shown that distributed deep learning algorithms ..."
 publishedDateTime: 2020-02-19T23:48:00Z
-webUrl: "https://gcn.com/articles/2020/02/19/arl-distributed-machine-learning.aspx"
+webUrl: "https://gcn.com/articles/2020/02/19/arl-distributed-machine-learning.aspx?admgarea=TC_Cloud"
 type: article
 quality: 24
 heat: -1
@@ -40,6 +40,6 @@ related:
         width: 960
         height: 540
 
-secured: "M2jBsDVN1Eg6LWYEIlpweyhwryOvNP48fcG1iN523q1h+U3l04ciBiCTZWocdqzHV9I/L4fKGNgf9mCXTvnW54SwSwAVxOkHjHbHVbOuefsJn1INCuW90q7ufXjMecIIXFjNFxQuHPB8qv0JZWRBNJf8ISlop1e1O/IMxp/8w40P1aEcdxYnwZK17uVaxixWW04mebcQ39PLxqLEfwiC4bPGYym5b8f2xs61scGGVXBOvneS7WhXxOtHcNEgrEQcDGOWGevyAvpRSQ6zIBxNhkHizylVgdiI/CP6yM0759sVLIbox3D0mUzeHyfl8fBE;KU4UZKQUNUQRLURd5aTmgQ=="
+secured: "HfXqi9w8JRP9C4h6wcMkKC34FSmE3BLO0XlGSAERj/9HOtBthde/M4uH+cvasWEYAsVrCIrvMnCjf+1Pr1Gy+CEJvMaaQ90Y6iuVipjlszXupgMkz8gEDt82FlDDfRFqimyKq1PI+IQXgZDhPoSSXueaSINWlUy9xWvOCQriRbzw8gES8RRsj/PIkK25z8q6hBJGdaT3+OE+VYRlpGlUOJlsg8GkbGx9GQ+9kobdPbjjI8Hiu+BYbJwsjwFr9SC80vPirCZh1Luo7H1GUx8yY2IN3v+bhVLTiQK70xlAIDNX8vVC8nZ+xJj3hwXAMPua;VjlWWSxeoi1nB1iMHNy6WA=="
 ---
 

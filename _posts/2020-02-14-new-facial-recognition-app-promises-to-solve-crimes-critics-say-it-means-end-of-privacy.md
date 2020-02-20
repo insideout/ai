@@ -60,6 +60,17 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x543/https://specials-images.forbesimg.com/dam/imageserve/905553688/960x0.jpg?fit=scale"
         width: 711
         height: 543
+  - title: "UCLA won’t use facial recognition on its campus after it receives backlash"
+    excerpt: "UCLA was going to be the first university in the U.S. to use facial recognition, but backlash against the idea has caused the school to reverse course. Michael Black, UCLA’s administrative vice chancellor, wrote a letter to the digital rights group Fight for the Future on Wednesday, February 18, announcing the school’s decision to back out ..."
+    publishedDateTime: 2020-02-19T22:24:00Z
+    webUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/"
+    ampWebUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 67
   - title: "London police deploy facial recognition tech, stirring privacy fears"
     excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
     publishedDateTime: 2020-02-11T18:01:00Z

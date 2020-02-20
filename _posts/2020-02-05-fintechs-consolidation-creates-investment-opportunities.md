@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-inves
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Fintech's Consolidation Creates Investment Opportunities"
 
 related:
-  - title: "The Future Of Android Integration In The Fintech industry"
-    excerpt: "Though there are a number of benefits to Fintech technology and the effect that it has had on the market, it is also important to note that this style of financial payment will require further development in security. With Visa and a number of other companies using Ai and other technologies to create a highly secure two-step verification ..."
-    publishedDateTime: 2020-02-05T08:11:00Z
-    webUrl: "https://www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/02/Trading-analysis-forex-chart-image-1.jpg"
-        width: 910
-        height: 607
   - title: "Uber Creates Uber Money Team In India With FinTech Focus"
     excerpt: "The Uber Money team will be geared toward putting into place new payment methods, harnessing smart routing technologies for payment gateways, using Uber artificial intelligence (AI) models for intelligent risk decisions ... “The Uber Hyderabad Tech Centre has the best in class fintech talent specializing in risk, payments, financial reporting ..."
     publishedDateTime: 2020-02-11T18:02:00Z

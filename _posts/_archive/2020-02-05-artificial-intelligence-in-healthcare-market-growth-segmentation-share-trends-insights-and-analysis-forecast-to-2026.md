@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market Growth, Segmentation, Share, Trends, Insights and Analysis Forecast to 2026"
-excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-publishedDateTime: 2020-02-05T06:14:00Z
+excerpt: "Feb 05, 2020 (The Expresswire) -- Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC ..."
+publishedDateTime: 2020-02-05T02:14:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-segmentation-share-trends-insights-and-analysis-forecast-to-2026-2020-02-05"
 type: article
 quality: 59
@@ -119,6 +119,15 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "Deep Learning Software Market Will Reflect Significant Growth Prospects during 2019 to 2026"
+    excerpt: "Ameco Research announced the latest market research report on \"Global Deep Learning Software Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Deep Learning Software Market,"
+    publishedDateTime: 2020-02-05T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-will-reflect-significant-growth-prospects-during-2019-to-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
     excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Self-driving Chip Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of the Automotive Self-driving Chip market."
     publishedDateTime: 2020-02-10T09:19:00Z
@@ -187,6 +196,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "vKQigon7ADl44ykjyIj09b88K6DsbLu2UpQZmBnIuwJ/7VHPSF0Ka9mlURvcIUTUPcf/7nYlbL71IaR12CAVE+8AcVLUSEgT1n3M6soVTPzXi+tcFa6Dd3EMe3a1lrziTRwUNUHHdHVpc9GLpTqw93RJYnuvIdes0qXiYungFmGtZcp0OisUi+H2vt0Ubk2CuA1x+d/RDTQHAxD6SXZSqH1xgFH9R5dJPzt6u59fDHR3JhEBzywdv4UdKG4X8lX71v1MDw34CHpPwLufSfaH1DW6dMFPY5TNYJz7tSKf+1Ykmwlh1VAGtArcCSbIWjIK;T/efsXfuPyYEewbwI2Aoyg=="
+secured: "Y6eBeJWzeQBCwf6Yy9giWkkPD6lAILbUXjp84QanSn1PvN/CHwF2oR4EBNMncWtbF0y97lO4hhYXE466s09rvhgma7n9isS4mloLLHeL93ImnQeYUsuPJ7bw0eIoUqsisb/Du5H5ZOYKgTZnvd/vFE23bQQIryoIMxp/uc1EdVaNt65ElMTvLPnx50fblZfvaaJvhyjpCQGorBmejb8mg8bGR8W4n3dbl8NUZJwUaj/0Hhf7w8myoizioEsb8SexQ1bEsgcke0ZagV0AdlKDCrzWQ4QhoeGr7/IHTsoCiA2cfPpOKA7iQjUrgxMbasVO;G3uSIg1NMSmujYzOQFYFdg=="
 ---
 

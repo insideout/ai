@@ -71,6 +71,17 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
         width: 810
         height: 456
+  - title: "UCLA won’t use facial recognition on its campus after it receives backlash"
+    excerpt: "UCLA was going to be the first university in the U.S. to use facial recognition, but backlash against the idea has caused the school to reverse course. Michael Black, UCLA’s administrative vice chancellor, wrote a letter to the digital rights group Fight for the Future on Wednesday, February 18, announcing the school’s decision to back out ..."
+    publishedDateTime: 2020-02-19T22:24:00Z
+    webUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/"
+    ampWebUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 67
   - title: "Raleigh police stop using controversial facial recognition technology"
     excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
     publishedDateTime: 2020-02-12T17:54:00Z

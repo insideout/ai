@@ -50,19 +50,6 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-Robotics-Investments-and-Funding-in-January-2020-1.png"
         width: 1592
         height: 942
-  - title: "Startup Funding: January 2020"
-    excerpt: "Iguazio has raised a total of $72M. EdgeCortix continued its seed funding round, raising $1M and bringing total investment to $4M. Based in Singapore and Tokyo, the startup has an edge-AI acceleration engine that automates AI model fine-tuning, deployment, and acceleration on edge devices. Key is the company’s software and hardware co-design ..."
-    publishedDateTime: 2020-02-05T08:05:00Z
-    webUrl: "https://semiengineering.com/startup-funding-january-2020/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 22
-    images:
-      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/11/fluctuating-market-graph.jpg?fit=721%2C484&#038;ssl=1"
-        width: 721
-        height: 484
 
 secured: "B4fyC0TKGI1NLzk0VvXvc80zclSrxXjSdRe69D4d8TQkevUH5JsLY8e/h09iokEMZpL19nLDHArEKV0rY2fgXAzM2OzO5h6dRFh6BRa9zrGmhXug3cHkxVvb02//omFW7yLQApC2xKsJ7DNfpZrg5WqzefAS1CSI5ZH/1A2KPBQ3H9wqa6+EYF2Tk6ug1FWye0l6QPt6K/nIn22XQNfWLAl3lZGspDnR0x+1KlbgzHMgjF8mItDOsv+tf1mFMlNiBEYHZDe3SNAsXznQidr91kziyavPtLg9DMun3l7+2yQ/uccfEz+8TjkWl0tenQIY37Nm27GTAwFZP9Ii4+u4IiftgKiWePisfh2PEWEnrMJNe73FAp9crGck07rma2E6MniPICMp45+n28PvTJTtA9ZIGPF3zf92nHjbPO5L0OzzbmU8p1/J8NnD+TD4Q0D5HiFFnclzWYrvXhZb908e/tbQpH9lm1fEKWpbX/uqiR0=;6hUjcL7wTvKaBr9Qv/X1kg=="
 ---

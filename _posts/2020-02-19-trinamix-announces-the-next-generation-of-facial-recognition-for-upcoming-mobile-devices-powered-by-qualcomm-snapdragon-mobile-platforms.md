@@ -1,28 +1,28 @@
 ---
 category: news
 title: "trinamiX Announces the Next-generation of Facial Recognition for Upcoming Mobile Devices Powered by Qualcomm Snapdragon Mobile Platforms"
-excerpt: "LUDWIGSHAFEN, Germany, Feb. 19, 2020 /PRNewswire/ -- trinamiX GmbH, a leader in 3D imaging and infrared sensing technologies, today announced it has joined the Qualcomm Software Accelerator Program to enable its patented technology for \"live skin\" detection as the new gold-standard for facial recognition across mobile devices. Through this new ..."
-publishedDateTime: 2020-02-19T14:51:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/19/9100460.htm"
+excerpt: "/PRNewswire/ -- trinamiX GmbH, a leader in 3D imaging and infrared sensing technologies, today announced it has joined the Qualcomm Software"
+publishedDateTime: 2020-02-19T14:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/trinamix-announces-the-next-generation-of-facial-recognition-for-upcoming-mobile-devices-powered-by-qualcomm-snapdragon-mobile-platforms-301007388.html"
 type: article
 quality: 6
 heat: 6
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://mma.prnewswire.com/media/1092342/TrinamiX_Features_2D_3D_Skin_Detection.jpg"
-    width: 400
-    height: 244
+  - url: "https://mma.prnewswire.com/media/1092342/TrinamiX_Features_2D_3D_Skin_Detection.jpg?p=facebook"
+    width: 1562
+    height: 818
     title: "trinamiX Announces the Next-generation of Facial Recognition for Upcoming Mobile Devices Powered by Qualcomm Snapdragon Mobile Platforms"
 
-secured: "VddO4uos4l+WlKOaKBYza+R/s9PQGiau1kbnWEuexfDh9J2/+4OSML5aDXnp6M8JnpUmiG6bNwqluyzN3r+1ljTPe1FCZnwdPINxClOEzW2DnaQxijhLOcBqneE7xw4qoOTIC6umTzq5EZ6L6MG3sD/9xRCK3rXm4qJccT/yEpjTMkH8mAjCyXW67y/8zjm8UomCuonzJfQhhdCqH/ttgJ1DIqK8z9FlJNHIUF3nm0j4pIOnmYB8ycR8AHvNAr3+6X/V4axJfCjQgKmOSngXpNtfW7I0A6/evC1CPs7qrPMVB+HU0goys7LA6SyW9C3q;lt6ktFfiwM/0Bkc94356Vg=="
+secured: "NvOAhx2Be6+6f9hfHtCzCTw/goIVdl97o8wKJ3rmooCyEaKZTT+vvsWRu16kYD37fKPPYD61ibRf9DgaZms+jRdP+2DetzVZOnz5NR4XTevZBMOfoeW86feobmeRr8W9BQpSkJhuvnmEyEZ5VSEyjwr1F63dqXYpaySmO4Ze4IdIGkUdcXLRimjAIZenrceEN3KWtQKIoUv/KBAX1MR9phCo3XRSi7OjdJfnb9MaPliYEfvkoGmMV+iqPea17sFnB6Lm9lfTXG9Ub+gGCKHnbGaT0Ar7lfPrTrO+5ruf+NQHnewz6T4Nl2AHY+IQDQR4;rKD0pyXJwLKKtiGqYTy87w=="
 ---
 

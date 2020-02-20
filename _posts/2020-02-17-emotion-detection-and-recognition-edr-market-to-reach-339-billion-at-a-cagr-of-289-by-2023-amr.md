@@ -33,6 +33,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/1.-Intro-Image-e1580880177276.png?fit=1198%2C601&strip=all"
         width: 1198
         height: 601
+  - title: "Kenna Security uses machine learning and collaboration to target enterprise threats"
+    excerpt: "This is the approach taken by Kenna Security Inc., a predictive cyber risk company that specializes in using machine learning ... its solution among financial firms. TransUnion LLC, Fannie Mae and Dow Jones Inc. are customers, and banking giant HSBC Holdings PLC recently became an investor after deploying Kenna’s services throughout its ..."
+    publishedDateTime: 2020-02-19T23:52:00Z
+    webUrl: "https://siliconangle.com/2020/02/19/kenna-security-uses-machine-learning-and-collaboration-to-target-enterprise-threats-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/Toubba-Japic.jpg"
+        width: 985
+        height: 657
 
 secured: "iAqI6VVAHUeKOaq1SuXCCt2qP+iMcXeWK1i9+3Tg5iu5CPDovko9TmeWI9vqWmqt4WLzx0chRQbXflhE0gv+SPryRuDCMfmyeDQgWixO02gIkWzyT2SCT4aBjQDSYe52Z3he7QH6265Q+LJsim80pzOZReQNRo2h4DtxjHAzhIm/D8LKMJ43LTnluTqSYQMfwUaYJme7w8jrIxtklNDweNvnZm0zxMwDogPWKff59bVX/oXHGSYQYPG2/tbeVdzS9xCu2wkkzl7JAs/OGphqmBwltK4fahgttO+/xHQIT1wOtnAhpBHv8jEe6wlUYsTQhYKJUJDwIXoPouivEcEN79anLC8UY4vdxyKWl+HyH4Y8YCK2KhV4a2peHDZ06uxODTL7hRVKbhhILLTCsqIJr3Gip5+7ED/cJReAgN6Aw6Ve5ZLTnGLBDpM02TxgGMnWBxUWknHBE127B6YuO5t08E382pHdQjbX6BCngx64a5U=;WNiAHDUuosIqTIoC9HaRtA=="
 ---

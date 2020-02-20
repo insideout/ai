@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20B0ZQ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20B0ZQ"
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
         width: 810
         height: 456
+  - title: "UCLA won’t use facial recognition on its campus after it receives backlash"
+    excerpt: "UCLA was going to be the first university in the U.S. to use facial recognition, but backlash against the idea has caused the school to reverse course. Michael Black, UCLA’s administrative vice chancellor, wrote a letter to the digital rights group Fight for the Future on Wednesday, February 18, announcing the school’s decision to back out ..."
+    publishedDateTime: 2020-02-19T22:24:00Z
+    webUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/"
+    ampWebUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 67
   - title: "London police deploy facial recognition tech, stirring privacy fears"
     excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
     publishedDateTime: 2020-02-11T18:01:00Z
