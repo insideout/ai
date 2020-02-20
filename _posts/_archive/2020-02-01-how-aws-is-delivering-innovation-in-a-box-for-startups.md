@@ -20,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2018/10/RTX1KFZL-378x213.jpg"
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2017/09/RTSDS09-378x213.jpg"
     width: 378
     height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "qzZjExpmqyvmQFKfYm6swGI16oBpobKQG5bweVSk7ECeDADyky8/FLRyvj3WtTvyBCMA5DuJ6ZoXqe1PQQtGGaiznGOKjdophKuiGtxGR83X1FdJ0u6NHtY7wIfk/kgdbua7KtNw9RLJUuQ0JzdHvOZArlLQ/cicSS6UV5Qmq0C4FB1RtTdADb5DTYckx3zQYamZQ598n2X54kWGCG4NQLBnoDQkPcDsWTSsfUYiELo7WtFQzgToa5eQ63CAuXSUWgAvOyx2GssmKmdmPNp6DT8jbc1DLubQ1C9QzNSg87WRi2mjmprOJg8e7R/W8mmQ;QOWvP1fj8T4U4t0c21u1Hw=="
+secured: "bwDJcQEiStUrcuncqbAxkzlk3jOkF/un03rKjf/KQVfX8iT6/8rX6h8MxvhaDoAgKfJuVXl05Q+1MUFjQiFcxtbp2uPzZHF66PQVuhRANV3byQpxlgtH+H0a0i6KfhwqgK4UeBlwkvnxCUVCkBH+jAHcoDsnPLtPmqzq3LVAeExjiW/zsMCJwmrvg8C1y7VoUogY++JoADAvIbDnSf0kGMemE6e4xhXT7JAT2sIym2gygzTXMUSdWpVGuZH3YYWhRZmikxhwsSaKEgjsxxLhUJ8DeB1Q8IKMMzXqVA7aKG85BF4iaxliNfL/ll9x92Z6;qfAvSr+MjxK8eUjCelL0VA=="
 ---
 

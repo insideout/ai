@@ -134,17 +134,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/33/24/18986281/9/rawImage.jpg"
         width: 2048
         height: 1365
-  - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-    excerpt: "The Google-owned video service said Wednesday, Feb. 5, 2020 that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and ..."
-    publishedDateTime: 2020-02-05T22:43:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article239997893.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article239997893.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article239997893.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 37
   - title: "YouTube, Venmo tell Clearview AI to stop scraping sites"
     excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does routinely as part of its work with police. Venmo said Wednesday that it is sending a cease-and-desist letter to New York’s Clearview AI. The small firm ..."
     publishedDateTime: 2020-02-05T23:52:00Z
@@ -210,17 +199,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
         width: 1200
         height: 800
-  - title: "AI company must stop scraping user images from social media sites, top tech firms say"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
-    publishedDateTime: 2020-02-05T22:56:00Z
-    webUrl: "https://globalnews.ca/news/6512311/clearview-ai-tech-firms-social-media/"
-    ampWebUrl: "https://globalnews.ca/news/6512311/clearview-ai-tech-firms-social-media/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6512311/clearview-ai-tech-firms-social-media/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 30
   - title: "Facebook and Google Demand Startup Stop Scraping Photos for Face DB"
     excerpt: "Facebook and Google have both sent cease-and-desist letters to Clearview AI demanding that the facial recognition startup stop scraping photos and videos to build up its face database. Clearview AI develops software that matches people’s portrait photos to their online photos with 99.6% accuracy, and the powerful tool is reportedly being used ..."
     publishedDateTime: 2020-02-06T18:06:00Z

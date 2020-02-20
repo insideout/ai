@@ -21,7 +21,7 @@ related:
   - title: "Syniverse and RealNetworks Collaboration Brings Kontxt-Based Machine Learning Analytics to Block Spam and Phishing Text Messages"
     excerpt: "TAMPA, Fla. & SEATTLE--(BUSINESS WIRE)--Syniverse, the world’s most connected company, and RealNetworks ®, a leader in digital media software and services, today announced they have incorporated sophisticated machine learning (ML) features into their integrated offering that gives carriers visibility and control over mobile messaging traffic."
     publishedDateTime: 2020-02-20T14:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200220005026/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200220005026/en/Syniverse-RealNetworks-Collaboration-Brings-Kontxt-Based-Machine-Learning"
     type: article
     provider:
       name: Business Wire

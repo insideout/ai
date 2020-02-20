@@ -1,11 +1,11 @@
 ---
 category: news
 title: "This College Banned Students From Even Discussing Facial Recognition"
-excerpt: "Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event where the ACLU of Michigan and Detroit ..."
-publishedDateTime: 2020-02-20T13:50:00Z
-webUrl: "https://www.vice.com/en_ca/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
-ampWebUrl: "https://www.vice.com/amp/en_ca/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
+excerpt: "This article originally appeared on VICE US. Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event ..."
+publishedDateTime: 2020-02-20T13:44:00Z
+webUrl: "https://www.vice.com/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
+ampWebUrl: "https://www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
 type: article
 quality: 89
 heat: 99
@@ -44,6 +44,6 @@ related:
         width: 623
         height: 432
 
-secured: "o6QHFwNQZ8H1dNH2ZLOB6c1Bu7/xG3g1DDWLFGT9slZfrlKrylum++0gC0kx8R/kANCA4ipb2XYdJuPBmW3x9b5KYv4zYOfjtU6AqAuJa0Oxvyi6zFn4xzEHj0DLRU0jh9sZ95Bre+KhRACyxAS2w7cUUMgEJoQJ80OM7mX8bMm/wWKXMwwqxtlk0LK+6j+HeGaiwU0GdSzv/51bpGLCZR5LcjoLPWcY0Ujfsgx7sbTXALsKiUHfH4sha1yYUFjbJ4mDDuM8akUZVQJnPh6yCQnoqltZeLCRaXKpVUT3ZgSNAJ9HJTG1CSzFihY1s3XF;zYiWms0REEK98FB6MUlb+g=="
+secured: "GtR3K2tDZw9stSAcFsoC6ce84xDo0NoEZLwfHR+fWgMUMznaBz7myDaZ1L7GGDuAJpQICynku3HbpXFuaJAdnqeJTmgh1vt7BU7ITb2LKl8Kr7aBQJdD5OK9rRMKE91q7WEHIFiYAAmBIS+J7fLNkqjMsmVxe0zAI1vQBvYHFe83X14JSLl5ZPlTyjyJlM2c+1w2jWeGH8FR5xZJ9qx3yIExcUBn9oTgfg46j+lazFXXjRLYl7znkk/d63KiBBKXgBmL8VIyjKZmJykpNlxso4pdIoCS6qQNPljEjHc5hTnBB1EqIs0NJDdnJAEdX5Tw;vLrKxGVpCJY5BI+7P/2TNA=="
 ---
 

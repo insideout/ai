@@ -5,7 +5,7 @@ excerpt: "These deep learning technologies are being deployed on a large scale b
 publishedDateTime: 2020-02-19T18:33:00Z
 webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/02191AIEye-ACN-TTCM-GOOG.asp"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"

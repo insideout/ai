@@ -50,6 +50,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200219005066/en/774196/23/AIQ_Logo.jpg"
         width: 1200
         height: 627
+  - title: "Utilizing Artificial Intelligence to Synchronize Stroke Care Impacts Workflow and Hospitalization"
+    excerpt: "SAN FRANCISCO & TEL AVIV, Israel--(BUSINESS WIRE)--Viz.ai, Inc. the leading applied artificial intelligence healthcare company, is excited to highlight real-world data from Dr. Ameer Hassan’s presentation “Early Experience Utilizing Artificial Intelligence Shows Significant Reduction in Transfer Times and Length of Stay in a Hub and Spoke ..."
+    publishedDateTime: 2020-02-20T14:28:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005279/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "9gb7dW2cV4kJTlV/BHvT+wbMDFNEHgL/BRNjxPw3Cfa+Cwin2ktuasaW6vg6HwIfuHSzaSDzD38ZI1VBU/8VBWZQF/oyOyYqcJ8QVhVNNRv2apfXCj2pS3qOKw5xmFJHmeu8akf8aHawJkmylmTuu5LRXZ3ow6ss3jNvxn6+sektW4bCcjqDdNnoFXMygyDKOGpAX71iIBqCYr4MwuaobtTjCsWO6mZH4p3XCTMMwdbR+OM6/4dmYkJQqCVA/pGmZ8XaMn6bWjtVJniM4X9/EIDmvPmyooBsPNPz0GIO8DLJlNTIYxxwfE6fXUhorkzW269wr+4lRceO6RqlYdm2X1CjeyZ1epgcajsWldJ35D+bv+CsKbOVKVmSUsBJvxCzEDwbOVjzXUHBjiaJFv7Gqocozn2Js9j8HwRqlZtby0gknJgPOrjSQ6wBbnfZSYeuE2zu6cxjE+Tpa9zGYcB2CoASYWcvJF500HZoq9U19OY=;PqU/xWFrL3AxNWD+/w4EbQ=="
 ---

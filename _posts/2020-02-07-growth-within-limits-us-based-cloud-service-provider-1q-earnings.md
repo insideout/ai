@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Datamation
       domain: datamation.com
     quality: 45
+  - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning (ML), and artificial ..."
+    publishedDateTime: 2020-02-14T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "CaljstwSgL90MovNxCudIK3CI8GkRlqNDqdZi9ejL6peRxG7chagvQi2yi37sHOSmgB1V+9uKzMbYRr4kLUQpxv44mLo3Yd6RlnW97EfsmS2uQhKesMnC1qAjAnxqarrF/9MB4Ela6jWtwAal4X4muc/KeqfPOJlGGZdPVy4xSQmUHHCTvHQirvGIBqEnxRQOqPSqV+7IHxbCJfE5UT65EiG+wYZA4q1/aZTP9Sj3rD4uciQmJVkkhhioh65dN5dVf0lABUTgXT+YZdVX+3JN+v1rhcNabX6yFh/GofSzzPh3aKkKdND98D5fg/qDlLs7C0nQYUxlwMconYetiQnWExzn2auhFqRTjTS8NxpWp8RbOBPJjfqb2L64XZ0WZIadOkGx0vvFGKzSoZ+5BWh8NjWY+R8hsFuT+dmidS79MAGeybHKYCI+AGqlh8RO62EKUwnU0FgtLKrRnOFbsZ3hw9s28pCgjsFzgLE7Hm3Ft8=;4WRrTUUdOkI3nVROO8uTFA=="
 ---

@@ -33,7 +33,7 @@ related:
     provider:
       name: Investor ideas
       domain: investorideas.com
-    quality: 14
+    quality: 16
     images:
       - url: "https://www.investorideas.com/images/AI-Eye.jpg"
         width: 1280

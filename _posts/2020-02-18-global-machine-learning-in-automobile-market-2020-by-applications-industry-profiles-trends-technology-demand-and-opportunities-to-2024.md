@@ -128,6 +128,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "AI in Fintech Market 2020 By Top Countries Data, Market Size, Defination, Business Opportunity, Trend, Segmentation and Forecast to 2024"
+    excerpt: "Global AI in Fintech Market 2020 report is a proficient and in-depth research report on the world's major regional market conditions, focusing on the main regions (North America, Europe and Asia-Pacific)."
+    publishedDateTime: 2020-02-20T14:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2020-by-top-countries-data-market-size-defination-business-opportunity-trend-segmentation-and-forecast-to-2024-2020-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence in Construction Industry 2020 Emerging Trends, Growth Opportunities and Strong Application Scope by 2025"
     excerpt: "Market Overview The artificial intelligence in construction market was valued at USD 580.70 million in 2019, and is expected to reach a value of USD 3,327.06 million by 2025, at a CAGR of 33.79%, during the forecast period (2020 - 2025)."
     publishedDateTime: 2020-02-19T12:11:00Z
@@ -137,6 +150,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Platform Market Size 2020 By Top Countries Data, Defination, SWOT Analysis, Applications, Trends and Forecast to 2024"
+    excerpt: "A new research report titled \"2020-2024 Global and Regional Artificial Intelligence Platform Industry Production, Sales and Consumption Status and Prospects Professional Market Research Report\" successfully exhibits the complete scenario of the global and an individual analysis of the various regional segments."
+    publishedDateTime: 2020-02-20T14:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-size-2020-by-top-countries-data-defination-swot-analysis-applications-trends-and-forecast-to-2024-2020-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

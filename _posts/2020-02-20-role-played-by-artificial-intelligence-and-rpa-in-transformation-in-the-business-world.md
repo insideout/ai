@@ -64,6 +64,19 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/robot_ai_shutterstock_Phonlamai-Photo.jpg"
         width: 1000
         height: 667
+  - title: "Podcast: Preparing for HPC & AI Convergence in the Enterprise"
+    excerpt: "In this Intel Chip Chat podcast, Dr. Rene Meyer from Amax describes how enterprises are preparing for emerging workloads being fueled by the convergence of AI & HPC. In this interview, Dr. Meyer discusses AMAX’s focus on appliances for storage, cloud, and hyper-scale integration. Dr. Meyer goes into more depth about why training in AI is now ..."
+    publishedDateTime: 2020-02-20T15:54:00Z
+    webUrl: "https://insidehpc.com/2020/02/podcast-preparing-for-hpc-ai-convergence-in-the-enterprise/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/amax.jpg"
+        width: 455
+        height: 456
   - title: "Role Played by Artificial Intelligence and RPA in transformation of the business world"
     excerpt: "The age of transformation will witness the emergence of varied possibilities and use-cases with the intermingling of new age technologies like Artificial Intelligence, IoT, automation and analytics. For example, smart cities, self-driving cars, healthcare, manufacturing and retail (automation, preventive maintenance, predictive analytics ..."
     publishedDateTime: 2020-02-20T13:37:00Z

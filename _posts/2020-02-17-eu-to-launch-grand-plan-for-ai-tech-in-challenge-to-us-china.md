@@ -47,6 +47,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
+  - title: "EU proposes rules for artificial intelligence to limit risks"
+    excerpt: "LONDON (AP) — The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules ... German government ministers announced plans to require companies like Facebook and YouTube to report certain forms of hate ..."
+    publishedDateTime: 2020-02-19T11:37:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
 
 secured: "xvDDNb1U6oO6s7UK+/M5GS73YRw1BULl1NGUnipta988AMYB075vqmyKDMIs9aBtgWKWkCk5I7ACcKbogjKWrq1Gv+1JlMrJCFBNTHcBU1ylkrNszLj4FffKo8q1IsIYdzKy+jd+VIr/yB790WFZG7ijlsFGtYrhLj0vGIq0NK0D3o6JzbWCd9e5z80JZxksZv2geV7wzRrGLrdOV++e2Q1kKMZfYaMh8kUyEB7VK5HLYxNJk4jrrgvu+AMrJADWEvIwYcC2VU/5n9WjXWHMIJZLJJRrmI/0cOpcQqoVCW5UxOJGZg7XFmG1FhQXckwg;tnl8BItsvr0iweL3W1q2sw=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "YouTube, Venmo tell Clearview AI to stop scraping sites"
-excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does routinely as part of its work with police. Venmo said Wednesday that it is sending a cease-and-desist letter to New York’s Clearview AI. The small firm ..."
-publishedDateTime: 2020-02-05T23:52:00Z
-webUrl: "https://www.sfchronicle.com/business/article/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-ampWebUrl: "https://www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
+title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
+excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
+publishedDateTime: 2020-02-05T23:47:00Z
+webUrl: "https://www.pbs.org/newshour/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites?ref=hvper.com"
+ampWebUrl: "https://www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
+cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: PBS
+  domain: pbs.org
 
 topics:
   - AI
+
+images:
+  - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/09/2019-09-04T134827Z_154642363_RC1C71B03BD0_RTRMADP_3_GOOGLE-FTC-1024x660.jpg"
+    width: 1024
+    height: 660
+    title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
 
 related:
   - title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
@@ -94,21 +100,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HW845_Facebo_ZH_20191212141837.jpg"
         width: 890
         height: 501
-  - title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
-    excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
-    publishedDateTime: 2020-02-05T23:47:00Z
-    webUrl: "https://www.pbs.org/newshour/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites?ref=hvper.com"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/09/2019-09-04T134827Z_154642363_RC1C71B03BD0_RTRMADP_3_GOOGLE-FTC-1024x660.jpg"
-        width: 1024
-        height: 660
   - title: "Google and YouTube want Clearview AI to stop scraping images and video for facial recognition database"
     excerpt: "Facebook told CBS News that it, too, is reviewing the company's controversial practices, but so far hasn't made any decision on what to do about it. The social giant is on thin ice when it comes to facial recognition, after being brought to court for silently doing it in the background using photos uploaded by its users."
     publishedDateTime: 2020-02-06T11:51:00Z
@@ -131,16 +122,16 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/33/24/18986281/9/rawImage.jpg"
         width: 2048
         height: 1365
-  - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-    excerpt: "The Google-owned video service said Wednesday, Feb. 5, 2020 that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and ..."
-    publishedDateTime: 2020-02-05T22:43:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article239997893.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article239997893.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article239997893.html"
+  - title: "YouTube, Venmo tell Clearview AI to stop scraping sites"
+    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does routinely as part of its work with police. Venmo said Wednesday that it is sending a cease-and-desist letter to New York’s Clearview AI. The small firm ..."
+    publishedDateTime: 2020-02-05T23:52:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
+    ampWebUrl: "https://www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
     quality: 37
   - title: "Facebook orders creepy AI firm to stop scraping your Instagram photos"
     excerpt: "Facebook has told Clearview AI, the controversial face-recognition service that works with law enforcement agencies around the country, to stop using images from its networks, the company confirmed Wednesday. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using ..."
@@ -205,17 +196,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
         width: 1200
         height: 800
-  - title: "AI company must stop scraping user images from social media sites, top tech firms say"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
-    publishedDateTime: 2020-02-05T22:56:00Z
-    webUrl: "https://globalnews.ca/news/6512311/clearview-ai-tech-firms-social-media/"
-    ampWebUrl: "https://globalnews.ca/news/6512311/clearview-ai-tech-firms-social-media/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6512311/clearview-ai-tech-firms-social-media/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 30
   - title: "Facebook and Google Demand Startup Stop Scraping Photos for Face DB"
     excerpt: "Facebook and Google have both sent cease-and-desist letters to Clearview AI demanding that the facial recognition startup stop scraping photos and videos to build up its face database. Clearview AI develops software that matches people’s portrait photos to their online photos with 99.6% accuracy, and the powerful tool is reportedly being used ..."
     publishedDateTime: 2020-02-06T18:06:00Z
@@ -239,6 +219,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "CnvHh3rswMAkqy7jdcrvO+Dep+JGncqAjobHAKJdCeIGIZ7pbwU7KLdqWpv5MzsNf+ndGhCs73dg1qTaSsziES2cWMStyyq2/HBJGys4MtNdJ6xNflcxOOxyyG8eDNeDcbULotCEzSLwqwk6wFYDXfRx6thrhMEB1+HNZvvDax7a/sVPF/8CnI3xs2/pUw/PeBVl7DktSOK3LmFEv7srJeRpLQ4gKKyy1znN+pdw+MepmhPDIOVuqQeeaij5puXx0cT7WW8wYyA/xGmR7GsrL9XLhf+7yp7GaVmM4bj8Ekm1U85NtzGda9ylqAswCRge;oSSrda1T7/30aN77KMw4Vg=="
+secured: "bivzfG62laBHt504PuJOU6a5N7ioYCfZJmMUGRC+s+aLrYj0PW6Gku46K4B0SFXaR0Vrb/plvgUz0nN4gyMkLnrDPlDudwMlx0qGUoojtmGCVk4YbsYglboOjXEK5wW25Jvk+lVsgX6oi5vxV/iGgAd8YBzUcI4NshTXoDYaPFTLVG0SB0/VeBYk+RoTXq48rCGOLxRi2YLsVyDs7BuiGs70BcCcfoyBl4rKwTQT2QqIEW03wFXnSYvvKKB8MvuID8nDXAqynpKZD70jI8HHzeqJXBhdMw4UxwUycrdVE4zx5KISs2saJfcCEQYIUzY0KtnVJejaxXJD57NtCZkdwE1AH0t7HnElDXdr3pFEIV3ojdNg7ZLEyqt4EWmKW+Axh7zgNWhH4iCxSdOslST9WoEfrHq59GGcSkwlTNSp0bRUjBRGSUE5JFt3WSPdH72SXRqRPyfsa7z6qeQmthX5iEPJF9wdtdeZ1He8ZLtGZUA=;L8IqaOqSlH0OctcfHu5aUQ=="
 ---
 

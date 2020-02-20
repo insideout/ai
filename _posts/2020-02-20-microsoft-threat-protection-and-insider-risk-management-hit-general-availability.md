@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Microsoft Threat Protection and Insider Risk Management hit general availability"
 
-secured: "ls+VMkpYVSPJNoxllTRCxpi2HMXz089sn+9gfj++WGO6AaEHYYzpN8TD3ZcWF2XCohM10gDOF8Rnyxn2lnzbQKFjElr6I+kz3lcr7bXJcjI+NDeTXLePuu9lcR48t7+Rcf2EYrU3btOkPRTocp5HqfQ0Q1iEfC/OzX1elmPzYWpa9fIKTz9QPSSWFnA+pGd3nIHBjmEVV61YSjafMCO/afr0yZ8DGLT+UmXLKoknMY7xZfrJdVa6gC0lUJG1SQTNjIY2WRQuXwk1UvjIAVr6W1j28yn4jRnlzd5o6fOe2PEynmks6NPa+dk/nFSbEeno;+ekQd9thAD+gZxxsIIe0+g=="
+secured: "jqkmqVv3Io/jFHGrd0FOADf4JHmGnSFV7i6eqDMIZgkR1WzTcBGl9IylbZ09UW6F/tpS5AYG5lDi/jETOZ3JYOQPsASU9r7BPEB18aQQFQihL/xJcqFerRCoq89Ud6SLR4VEtvj/0SU1Mrtu41CInazfnsqOdADDzpf6r6RvEKAUL77/hKZd+XGLfchomcW3beyFeMj1wkAepakHM09fRgaZ14ZbRw56U3lh/vAJjjsyYtoafWLTwuv+HxxXwzTjT3smXwHb4ZyRDoJfh7LHsVltDtA6loguPIt+Ge/x4/6oRaeVBt2QvY+msnSilj6DyIZQ4AB1Imu8UfAMEPhQTIGT8w92X9NJikr8JY5TJd81lAlgwKQuflj6FOm8PKb0kCpaZvSRAQWsF2kt/EPrZDmHMnaZTrTw+iSGnSevG/a9zRBuVRmcSpuOjDmls1L483ZcotEKeGRH8qzP1yYgIG6/tZX7Q/oW63jjy8L2/yk=;k0Rn69U4ImNf6AtEJeiHNg=="
 ---
 

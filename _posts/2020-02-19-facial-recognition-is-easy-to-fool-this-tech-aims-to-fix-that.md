@@ -129,6 +129,21 @@ related:
       - url: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1020
         height: 574
+  - title: "Live facial recognition technology used by police at Oxford Circus"
+    excerpt: "Live facial recognition technology has been deployed near Oxford Circus in London after an operational roll-out was announced last month. The van-mounted cameras were spotted at the busy location, which is popular with tourists, on Thursday morning. Image: The Met Police tweeted this to let people know It is believed to be the second time the ..."
+    publishedDateTime: 2020-02-20T15:35:00Z
+    webUrl: "https://news.sky.com/story/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
+    ampWebUrl: "https://news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
+        width: 1600
+        height: 900
   - title: "Raleigh police abruptly end use of controversial facial recognition tech"
     excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
     publishedDateTime: 2020-02-11T18:11:00Z
@@ -418,6 +433,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "8naXMy/1myl+xWgx0YmBjGEGjKKYWTqDbqVoH+SQOLzGL2fp5iVAhKL8zDttcqDX+VVS3bU+DPBSL0rDNVOMNcbzpBk1e/WIm/vAblKvzoBTOs7Ya0uFc8QKXvwYAonyDgs3Pdr4HSqy12ZNq5seNrwMHCaA6ChvCVBl11KCcmJrgOQdMi2Hdd/5GVs6j8lDgjpOaZT9iHfW9AGenrMsikAKxVXiG1NfmHNTzajjtDR+dwGeaaRHFWWMHGVywGTE6PEmW9JstXjTPzCa6f/rcXrpsdQsA7cRBKJvLtFUB8QsFcjxN/RVxJP9jra9kzyM;4xd6YyIcCFps/gn6/vlvLw=="
+secured: "MGFAy1b/Uexq5CMn7qmQRaaeEwQcKor0zO1nn9aOsoBi9EnScItPsTcx2jH5HIU0n0RMTV3FNRQrXy3R3lUdDZDrf3PkytvnAubLXMOnYeAsYl8Duav3UIA/mrD3SIxRAnb/nduPTWNcWXJGT4+wkrMP7l/gsHf1AVUHYpssGXHyEeNrwBazNVpeKotaqbSXD127dg7GBl+5zmijxIMh3sEswc+xsl7WzBcQ5940sm3GwKuW5REB5jnYzHsfCrPTtYNYel2TP6Ajdw6jASTkNFh8+m5SMF1+mZqBahwaMKkf6G0M9EzSCbb9pNNkRM5eDNAhbNBkPGiGuvJ26zNFIQMnbmgb3yKxpoPAS9hwLd6otqaMrGMjdr7TV4S9BeAzrEmgI4jzneJOgHKTGEL72YQR5Kejw8viLN5rbbg0bLmBGtF5XbIN4kKxPea52BSMOXLHBWhtPPYyrhma9HgmrrxPLi+7C+QmfiLtH+dlMyI=;gbvPz+hxDuk7do2SNVwTzg=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Can AI flag disease outbreaks faster than humans? Not quite"
-excerpt: "For now, AI-powered disease-alert systems can still resemble car alarms - easily triggered ... disease outbreaks help inform global agencies such as the World Health Organization - giving international experts a head start when local bureaucratic hurdles and language barriers might otherwise get in the way. Some systems, including ProMed ..."
-publishedDateTime: 2020-02-20T10:33:00Z
-webUrl: "https://www.washingtontimes.com/news/2020/feb/20/can-ai-flag-disease-outbreaks-faster-than-humans-n/"
+excerpt: "For now, AI-powered disease-alert systems can still resemble car alarms — easily triggered ... outbreaks help inform global agencies such as the World Health Organization — giving international experts a head start when local bureaucratic hurdles and language barriers might otherwise get in the way. Some systems, including ProMed, rely ..."
+publishedDateTime: 2020-02-20T15:36:00Z
+webUrl: "https://www.stamfordadvocate.com/news/medical/article/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/20/china_outbreak_artificial_intelligence_35797_c0-0-4500-2625_s1200x700.jpg?27c25af2ea4591cbd287e099859ceda78efd15e3"
-    width: 1200
-    height: 700
+  - url: "https://s.hdnux.com/photos/01/10/55/30/19060248/21/rawImage.jpg"
+    width: 2048
+    height: 1365
     title: "Can AI flag disease outbreaks faster than humans? Not quite"
 
-secured: "4EeBFqANfYWVhMttESmkHmk/h9jnKzDRmwcpA8S6sdI6UIBERJ3zE+gyHrqgPwJP9N6ZVqCA0VBnN60VMdM3j6QKzOZhM5ZxXYMqaSVjMjF0dNHoQuB/nLeS6sDNOqLZKlRhVFjJoQnZsle6eP5Ce7UH6DGBCKalxOYgVs4Rb1bybhdhmq11f9T4avjrVRTyOrC/qheHNopCjcthwdDpJ/pYWiq9+7Al6F3TqSF0yX5macwvEzvd/QICpcQ5aZkfaBjOKYrpSys8sQTrhyexmrZMn6wI+9WYHmbmkCBWWaZRWyADYJNjfjSMaoeLO/4w;mlKqUPNHBF8JnC+nHshd3g=="
+secured: "Skzle+9ghUehQQ6aBJJbml2GxWGHlvPkYh4L/6IAni/uwFZmWM040EuRt8C44azvheAPrYm54cGY+8/zdfI7tlfyxGbjKJ7hq3unAzMq7CRYf44DjRDwsbjjlW6k19L8OvHXpw4D61//8hbv1vb2lPZ6ZEnBAJ8BVDkcOhVzuLHm4M22+n9tkFjz607u5ahLTl409Xq8THeVn6VK+paUz1/vcAjxnKaB0MQaB+L0y/1miABdgu6Dzz8KuHzoENyIZtFYlKGRXnbmLQlbRhiMoxZleAwPsfgeNtBiTZmrE1wI06RZLdFjdVhUbh5x2CxV;0eYsMDwyU94Tib9mBD50mg=="
 ---
 

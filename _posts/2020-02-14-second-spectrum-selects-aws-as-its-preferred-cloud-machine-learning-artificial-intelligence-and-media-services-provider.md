@@ -18,54 +18,32 @@ topics:
   - AI in Finance
 
 related:
-  - title: "The AI Eye: Second Spectrum Chooses AWS for Cloud, ML and AI and NVIDIA Posts Q4 Results"
-    excerpt: "Point Roberts, WA and Vancouver, BC - February 14, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
-    publishedDateTime: 2020-02-14T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-second-spectrum-chooses-aws-for-cloud-ml-and-ai-and-nvidia-posts-q4-results-2020-02-14"
+  - title: "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings"
+    excerpt: "Evaluating Amazon AWS, Microsoft Azure, Alphabet GCP, IBM Cloud and Oracle OCI earnings from an IaaS perspective to understand how these cloud giants are managing and growing their infrastructure."
+    publishedDateTime: 2020-02-07T15:08:00Z
+    webUrl: "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/"
+    ampWebUrl: "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Second Spectrum picks AWS as preferred cloud, machine learning, AI, media services provider"
-    excerpt: "Amazon Web Services announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, chose AWS as its preferred cloud, machine learning (ML), and artificial intelligence (AI) provider. Second Spectrum also selected AWS media ..."
-    publishedDateTime: 2020-02-17T08:46:00Z
-    webUrl: "https://www.telecompaper.com/news/second-spectrum-picks-aws-as-preferred-cloud-machine-learning-ai-media-services-provider--1326820"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d7b0d3738f500063f272c%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1142%26cropY1%3D0%26cropY2%3D640"
+        width: 1137
+        height: 640
+  - title: "Top Machine Learning Services in the Cloud"
+    excerpt: "GPU accelerated machine learning training on IBM Cloud supports the Keras, PyTorch, Tensorflow and Caffe frameworks. Value proposition for potential buyers: For organizations that have already bought into Microsoft Azure cloud, Azure Machine Learning is good fit, providing a cloud environment to train, deploy and manage machine learning models."
+    publishedDateTime: 2020-02-08T09:16:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
+    ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
+    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 41
-  - title: "The AI Eye: Second Spectrum Chooses AWS (Nasdaq: AMZN) for Cloud, ML and AI and NVIDIA (Nasdaq: NVDA) Posts Q4 Results"
-    excerpt: "Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues like the NBA and England's Premier League, has selected Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), as its preferred cloud, machine learning (ML), and artificial intelligence (AI) provider. Rajiv Maheswaran, CEO of Second Spectrum ..."
-    publishedDateTime: 2020-02-14T17:59:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/02141AIEye-AMZN-ML-NVDA.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 30
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-  - title: "Sports analytics firm Second Spectrum picks AWS as its preferred cloud infrastructure provider"
-    excerpt: "Amazon Web Services Inc. unveiled its latest marquee customer today: sports analytics provider Second Spectrum Inc., which has selected AWS as its preferred cloud, machine learning and artificial intelligence technology provider. Second Spectrum should be a familiar name for sports fans because it’s the official Optical Tracking and ..."
-    publishedDateTime: 2020-02-14T14:01:00Z
-    webUrl: "https://siliconangle.com/2020/02/14/sports-analytics-provider-second-spectrum-chooses-aws-preferred-cloud-infrastructure-provider/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/71500375_2621006007939026_4334469282747383808_n.png"
-        width: 820
-        height: 312
+      name: Datamation
+      domain: datamation.com
+    quality: 45
 
 secured: "ISJINBTUhlliL1njzPBJxGdLKW1Z15OM5tSjJ1WOAkSNzBgOuxE5q0ovdspDDapUaBG7aZhCAt9Rbb44KXuebInaKvL26SJi9gH4+nlbvY7hJm2BK/TGhYow6DxHVfVfU32ITkWbh0i0jgNscsJMtF0wHtauAhXJk0zfb8+XNsd0zIEn4f2OVYS/Tq6jfCq4zLf0ycsniwBkEeaFc48FejLSWpZQYo1248o2ublx8GDuexQBudrrZIe6r87LGOYYJiNCF40pgUxAzKQN6FQ+yl5rhLWdh1IYx3mCzNAQNL0QidgfMuyTc6bragjWWXa9;l+vA0dT0rNU6PDN7AtEEEQ=="
 ---

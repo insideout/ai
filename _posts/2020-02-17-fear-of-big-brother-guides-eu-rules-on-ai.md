@@ -51,21 +51,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/MV-e1573146856797.jpg?fit=1200%2C664&strip=all"
         width: 1200
         height: 664
-  - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije ... The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology."
-    publishedDateTime: 2020-02-19T11:32:00Z
-    webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-    ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-    type: article
-    provider:
-      name: WTNH
-      domain: wtnh.com
-    quality: 59
-    images:
-      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
   - title: "Apple, Google, Facebook lobby EU over AI regulation plans"
     excerpt: "An Apple engineer testing a Machine Learning feature (source: Apple) Apple's John Giannandrea, senior vice president of Machine Learning and AI Strategy, is in Brussels as European Union officials begin planning regulations for Artificial Intelligence. Separately, Google CEO Sundar Pichai has been to the city, and Facebook's Mark Zuckerberg has ..."
     publishedDateTime: 2020-02-17T18:37:00Z

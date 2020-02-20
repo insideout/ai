@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Google's Android 11: Here's what's new for 5G, AI and security, plus tougher data rules"
 
-secured: "k+IYp55goGtlRC4TtR3VZ0MwMk3ZMiY4kaDwJOEjYB3J5toLS4UWnowSR4kSGL24PJWmtqAmxD9iELALdAjtNcgYaxE8CCboQgEl5xVcEu96kOluN+zYjyv9QowsuXPEzqoh4CcZ9asq4bAqo5yfci5rh54dy/kPfonyCfVKrSpY0RRIimXEKXQk3kjNeZZ3CEg/afkqXzDgeEdex4vgjt3NqWNMDWgaXV8iz1Hcuw5GQAzYkGicCqdbE5B4dzCsiKScoSJOAWlvyGf/4GsbXZ9+EhHNujgiRzf1/BOLH73kyY6oQAmDSjHGSrKBeVVC;og+hk2OZ/e2OTmSSfEbm8A=="
+secured: "HogOXKihzKXuNZ5iMnfTK8YvPUrWY+l/jDka0RasAWrsqHv9d3M1B3XtTTvLjqi1NXHEoSazHti8PSV8i8vv7VJI7NyCBHL/mLCXoMpwhjOh/2admckXHqbmsvwcPgDPa/qDHk80Es1o1sG463SCEKFwAK38Fc/z6RTZZntW29xVcUlPe5C2baumt1ttbTDACwzT5jRdLO6yIUbbfnIHyTX8ELVcQeOLdcMxvofMJGOPOewo1ZSOZCrOt4qhan/EM4ufgHFIY+9qtJ6WvGx4AhrCM5+OVO758g6o6MRvT1TnWwKGdEI/mFhaxShdW688CQqYSm/yiVDIsDB2fPci5vtjCY5FAayik2D8Ht20Nha+PubissMx5AJo7N6c2Gj8rTo+vzvpR19ZSRatKQdPSKeLiW+2rgcpH8GcS6Nte3d/YRZ2oT1o2LJAntaiwIX/PZxzm2V8q/E6TlvYddSMVwlWrKV1gh1V92RHROuOFMU=;N1cXVlAQOz1tp0m+vi5ddQ=="
 ---
 

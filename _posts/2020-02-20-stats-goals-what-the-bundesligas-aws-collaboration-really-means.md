@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Stats goals: What the Bundesliga’s AWS collaboration really means"
 
-secured: "V1Uvo6o1WROD/Z/KnlsdC+BGR+lf1FwGGYpqM1srOg1wlQsJEvRwNfA4XohMVKd90lL/6wflnMthNs0xe3Qi1LllIYcOxZX/dingAUSdIqxJvphw24Icc4fhc38NQV5ohteyRdg02+6nbWa/W0WJ8CBWQ7T6Wr9f+hRXpiaMBhJntbSnzPZCmRpGqpull7gzQeMbMi+nI9Z/AZftsv814/ilWvD0lpXBI6A3LGRgfTVoTvLQzcFYlIq27oGZ70WfE3y4iWiwqsmsvX2lMCtQiicbwgP/xTlips2QORtxDxEC0lhjsz45sIue25Mxanfx;UDE0QjD61oWgim3mqc/bxg=="
+secured: "CYMGaCXu42abRrATh/df4zuIvyOtWbNpiXbUj6hdY0O5WxzxMGVQutShbOQY4NgtNyLOE8HERuRuoOjB1R3O8xpQgPWwlyKdyI9d02/PfMiAJhWHTfol7YFsiiTUeG+f+YI8xdxYKbPezwPCFky26MNaVZ71P+BKmBK61t0TBWSGtbbwp05m+A4iq7AdmrhoMVL3fgD7BclxEwsNvFC18EsnV1YBGK67Vi+7wOXpypb4/nHfY6nb/LMN0WEJYsoc4QwUWUU2UktFfIbHmjpqSR0eYzfIWuzLoTC0aYvnEWDOZYtFHHbxPMvtJADkfQS0FsmyvfJkNjIs/hrzUU+pbRgiBb73bm2hAJEnkTOw/IkFPrM+VQo/ApdNufM+dRIxn9sV51QPrRpoGRHFWgwy0sSD6aIJ+j7JvpRzrit8yZ8059kdIvZhS+z7rjzMQqD6puUK1m9ETEdznzX9AJr82aKanogN87fHzsZHYzxat3k=;cniHYzZg06m29HPmSUj/2Q=="
 ---
 
