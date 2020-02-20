@@ -23,6 +23,6 @@ images:
     height: 405
     title: "Easy Juno 106 Sounds From Your DeepMind"
 
-secured: "fpRyA7nFBixkfYAaVs2DCYqOV3miwe2MA4Mp4555zfRHmvowsQNTqSLXRgqnTi6UdBruypxRh3SrLIiiJxbk2D3Ufz62yjmDXddcIPpjU1FbI02zfqrgmQ+fOKo0MlLuilACHhbKbcW9R1tOSMbn2rEInzJBCT/Oqc9AATZ7KLW4sOeFt2Nb8ku2RpkiJDa7ANPQQlUXV1rh3NE/JK2+aMErcf7cpnV2njpRfG5AkV7xalB+9Y8IU5Ua5WAXp6giALnP65FpNhib2JivdLb+ePavaiGPJm82CdoLL+8/7LhMDAq7GpuNa0e7Gtrm2Y6n;6J0cze3iFJ3Rp91e2Al86g=="
+secured: "ZtSWIObTAifHzrlIj4lEo3rE7oZH+6t0RJFSxtIsautGtwwnCU31J2uO1gD52Dnq3WDFKeM3lMr6sJHxHgyTmjct4TLylBFrZ4SS+8QeLVcc/6J5j965vPUD7g86eTPXBTJST5fROprURX+GMORzc++7Wxxrq20ts6GW9y8jKfzR6PI857J/SqBXDOG3LAWT/yfGV50BRPlmao3Y9maRfQqZvTkVi9+ZiNpS15oVVRJl3qgw+0v3RjlPZV8tnveLvrkaileAyb+Kzmo2A/Apdlc3Cn7e9Ee1SFbN2WJVOzlURDZdUKzqPqdBlik6ku1Q;wDmplvtflnRbA26gsQEMUw=="
 ---
 

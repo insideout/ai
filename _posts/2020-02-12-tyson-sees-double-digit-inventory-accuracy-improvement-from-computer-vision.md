@@ -23,17 +23,6 @@ images:
     height: 364
     title: "Tyson sees double-digit inventory accuracy improvement from computer vision"
 
-related:
-  - title: "Machine Vision and RFID Improve Inventory Tracking"
-    excerpt: "It's more advanced than bar codes because an RFID reader must only be in the range of a tag to read it. In contrast, bar codes require line-of-sight nearness. Computer vision is a subset of artificial intelligence (AI) concerned with teaching computers to get information from images or multidimensional objects. The technology can replace many ..."
-    publishedDateTime: 2020-02-16T15:17:00Z
-    webUrl: "https://www.rfidjournal.com/articles/view?19165"
-    type: article
-    provider:
-      name: RFID Journal
-      domain: rfidjournal.com
-    quality: 6
-
 secured: "IEErKMX1T2nthyGYd7yYnI4c8o9ENQ7rN6OgLiZ1A6edZORc7QWu5/EcOOSWzKhquMQ+eJtsHwi/5Ep0MtZlYR03HE76qXps/87Z7IPtOe1vnFIeE+5zR+ASPbBj8OZkUWnMgnS6bPGdvDRyx6XqaaKIGCLy1bAtChSWu5z89ZVpolZ39eA3x7usKdesPAsxteBi6ZMtypjKCWbv09FPaos4hGjE4KJ2jdv6HUgrV/ypkXTYME+cD99pzZdrtsyhV0QBHioDoOEDKazkUmEklccN0JbRERFdBrEi1mjPvYdREEbcp6rbC3hR85broNGO;eex/UWNmYSgn+/453p4ybA=="
 ---
 

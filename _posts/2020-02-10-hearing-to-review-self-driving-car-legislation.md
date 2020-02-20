@@ -166,36 +166,6 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/02072020_Self-Driving-Car_122510-300x220.jpg"
         width: 300
         height: 220
-  - title: "Uber may resume self-driving vehicle testing for first time since 2018 death"
-    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
-    publishedDateTime: 2020-02-06T00:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 41
-    images:
-      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
-        width: 600
-        height: 360
-  - title: "Uber to bring back self-driving cars in California for first time since 2018 death"
-    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
-    publishedDateTime: 2020-02-06T00:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 38
-    images:
-      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
-        width: 600
-        height: 360
   - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
     excerpt: "Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company’s plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Transportation Department believe specially ..."
     publishedDateTime: 2020-02-06T17:19:00Z

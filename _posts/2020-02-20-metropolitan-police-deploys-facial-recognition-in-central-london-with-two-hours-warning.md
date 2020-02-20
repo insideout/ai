@@ -39,6 +39,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg"
         width: 1200
         height: 794
+  - title: "London's Metropolitan Police flip the switch: Smile, fellow citizens... you're undergoing Live Facial Recognition"
+    excerpt: "Appy days? Microsoft's Word, Excel and PowerPoint now live under one roof on mobile – but look out for Office 365 popups The Metropolitan Police are using live facial recognition (LFR) in various locations in central London today after spending two years testing the technology. Most recently spotted at Oxford Circus, the vans are equipped ..."
+    publishedDateTime: 2020-02-20T16:53:00Z
+    webUrl: "https://www.theregister.co.uk/2020/02/20/met_police_facial_recognition/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/20/met_police_facial_recognition/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/20/met_police_facial_recognition/"
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 38
+    images:
+      - url: "https://regmedia.co.uk/2020/02/20/shutterstock_cops_met_london.jpg"
+        width: 648
+        height: 429
 
 secured: "Ka16DHlj/9f8T49CBVr7Wv6R4iRhbYhFSar3WNYnHIYuBwkWRzbO9DgyIgKXEBUbJjtBXh0eUNoW4nuY5S2b4Gmx111JXQPfYw4ddKnbGp6Mzd6wGrUgOjTBGVOv/Oc+f0G6KLsXovSqaTdl77ZCXG0BSVVgQlZ954FzA08mBn5eC1TmwxjSl/M5t2pOzTfcRohFvQptdrqqTY+2VUVwKnCqbgMCcErpY/Yd+lBFDX7TjYw+1zuT3pG0eNhohA3692X1cMB1tKG6dweiDZqLYltWPMn1rvvUg4W2qXtn460OxCCHSLNCSLYB7x7FrdDu;gWnHDT5gLPZGDHFbXdzCLQ=="
 ---

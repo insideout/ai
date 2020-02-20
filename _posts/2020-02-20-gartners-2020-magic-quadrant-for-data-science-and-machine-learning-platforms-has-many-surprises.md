@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/amp/"
 type: article
 quality: 80
-heat: 160
+heat: 130
 published: true
 
 provider:
@@ -58,32 +58,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200217005397/en/722802/23/Databricks_Logo.jpg"
         width: 1200
         height: 627
-  - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
-    excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
-    publishedDateTime: 2020-02-17T16:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dataiku-named-a-leader-in-the-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301005916.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
-        width: 1200
-        height: 628
-  - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
-    excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
-    publishedDateTime: 2020-02-18T02:45:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-named-a-leader-in-the-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-884558052.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
-        width: 1200
-        height: 628
   - title: "MathWorks named a Leader in the 2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "NATICK, Mass.--(BUSINESS WIRE)--MathWorks today announced it has been recognized as a Leader in Gartner’s 2020 Magic Quadrant for Data Science and Machine Learning Platforms. Gartner’s evaluation of MathWorks for completeness of vision and ability to execute led to the company’s position of a Leader in 2020. “To us, being recognized as ..."
     publishedDateTime: 2020-02-19T14:00:00Z
@@ -110,19 +84,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200219005572/en/704236/23/DataRobot_Logo.jpg"
         width: 1200
         height: 627
-  - title: "Alteryx Recognized As A Leader in Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
-    excerpt: "/PRNewswire/ -- Alteryx, Inc. (NYSE: AYX), revolutionizing business through data science and analytics, today announced that it was once again named a"
-    publishedDateTime: 2020-02-17T16:27:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/alteryx-recognized-as-a-leader-in-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301006033.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/662162/Alteryx_Logo.jpg?p=facebook"
-        width: 1196
-        height: 628
   - title: "Domino Data Lab Named a “Visionary” in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "Company Cited for High Customer Satisfaction and Industrial-Strength Capabilities that Enable Transparent, Scalable and Collaborative Environments SAN FRANCISCO, Feb. 19, 2020 (GLOBE NEWSWIRE) -- Domino Data Lab,"
     publishedDateTime: 2020-02-19T16:16:00Z
@@ -133,6 +94,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "u45J+hdEksH/swgnvEolnLVUQOzMsT5EMutkxHR6ojYoHncBcxzeyz50VBYhw1lRyHHy7Ojv3lcMtx89TH+z2WkvCdVsFkN16GNWdvsCniGvH2cHy5gbdpR9DhXWsq/Y+x8vWVkadTTyfbPGHzEFddJ1XT9WshS47uxaV+LEGEMtmQ/tYkq91jyK3zBUI8J69oq+8Vj1Maxkbv0gDfhkhutvSZtvfy1Zmz8GT0m/jgxeK5LkATRmjYSn5vpL/UTNcaUOzF0ME6wWp9rRn7d2Eu9N1CS3+mULTDhIW2Nni4GRidS50bT4mQGqI1IRhmY8AZyjPw3mXWSrHipa3CZmpEnhimg0GHfYo8VKVbMwutG8mm5ukh1kHQdndmG11YWuOLAsyIJm0nh0C5JYJZnCWY4+bgn5VSaIptnlod1Gaz+PtXUTmjeoBH1lK9AhvKWcKMwQq5pKdsDo+09TvV9ife8x9BAJpC02Pls0KLWkeB0=;QLH3xQg3rT/ySQI0dQmp5w=="
+secured: "iDE6eyFhRXlOY3wOpjhCUn/ruPuYzQuouHeW6SxADnGvnRBE3Sr0n8yXdUs+pCkOcuaerfbN4BsJ9OXT5GKuEkF/DKfxJJb/4BTA9u+jC5VLKNLVKglgMp9uX3RvJGMnDzkWHAzJXevNR7jlhD27n7x+m6gwTJ1aIMGiTPuMZAZBHfBHomTl4r3qgQSwJZA85vZPjLmFTYs2zlXRceCxpxxtleSL+SFEKEnZY5kEWDu2x1Sryx2qESPKYga7lHBJxgF9YE0rIInGchtPYQiFlzQixIDCq6RD6AaQt+AoTcCgl4eZ5XapW+nUNElJoN1fKzg1lSQpxAvyFnNMF7Q/lXCpZXxJBlhB3Mt7p4knIDvWkhXTMmu4tNKs/BPaK15jibchcYBX5DKRXTZrtaeQAlb9NpTUnjRVoP7wEw8CKI1wtuLCoqZ4M/38mJ/LsCqUVwBKpudbZrbUlGAaLaWyrvPf78KEzYYJs4o8qP6O86c=;DYJNT64U7T3+J3ookElm+Q=="
 ---
 

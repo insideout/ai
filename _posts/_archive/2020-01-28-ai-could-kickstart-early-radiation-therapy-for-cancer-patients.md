@@ -36,6 +36,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "W/gwpXgvWyS+vQWsnGAW/k/Pi8BxP+wBJqCa32wV3Osg7le0XNkRcApGBD6lfXVvYY+jWGgrYAG0vw+LCPRYHfWYN0M/kVSRuD+sEhI3eWHUX8XqvNH4tiGXquWRhxAER7JcgKu4c8BKwarCom5p+MQEhE4ih/EIxm7QxuSNHmnZnZjwm47X4ocaoPPUVzh7OshPuakUFB4Q1vcLpo3aa3iKlIVluL4xzox2CMI0SqJfs5RHsK3qUcrkM4wxUGs6TnPHX1mOyhggkpyz2s2XP5c74VtM8a/gHC7m3ROK0mYU1RZFzkmN8/LW6Su66E++;hkFCrfoK0Z0q3pIRdPxWyQ=="
+secured: "Rj6xjN+nXkqWpLU3KLootdy7mE8RGDBlb5qAZL+ZX4M55Mv3GybAwfgeT+4+kmD3JTNOaVarGwWXlwwwbYmuOwORvXcvw5Aci1lCmL21q2jUu6YsM5zyMrKHhUhBx9EMDZFviq2hZrdAmxREvlgyYp00D+0xC23Uw3Gsh8570P6QJ9tFjZrrMxAVehX+fUcKzulyuhq9dEXYLtUEkOTH6MRrYF3WHEK0y4mR5OdAhCstNhjWMvr9T9uDeAS8W9XwjTSqndqRgKmaTimBaCRh6SnD7xmOU7AMt/fh41A049Lzo1U0gr/SJEk/0CwFVM5m;CauT8GO/9tCu6FNy0ff81Q=="
 ---
 

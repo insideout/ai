@@ -1,26 +1,26 @@
 ---
 category: news
 title: "EU proposes rules for artificial intelligence to limit risks"
-excerpt: "LONDON (AP) — The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules ... German government ministers announced plans to require companies like Facebook and YouTube to report certain forms of hate ..."
-publishedDateTime: 2020-02-19T11:37:00Z
-webUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+excerpt: "at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... BERLIN (AP) — The German Cabinet has approved a bill that will require social media sites such as Facebook and YouTube to report certain hate speech to the police."
+publishedDateTime: 2020-02-19T11:32:00Z
+webUrl: "https://www.localmemphis.com/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+ampWebUrl: "https://www.localmemphis.com/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+cdnAmpWebUrl: "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: Local 24 News
+  domain: localmemphis.com
 
 topics:
   - AI
   - Facebook AI
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+  - url: "https://www.localmemphis.com/wp-content/uploads/sites/60/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
     title: "EU proposes rules for artificial intelligence to limit risks"
@@ -64,6 +64,6 @@ related:
         width: 600
         height: 338
 
-secured: "5+ADCW6NzuKS0mrc3u4sAvj9czef0zBwBzKOAZoTULav8lAOZEHx3PYlHrj4N1WihIjwBTgl9JvSJhZ0yypAQYDUbdLwB3xys6wAbKFfA4MfSO7J9p0Lb8hnKJVo/aEnehK6kuM4fxx1gxnGPSdzOtM4F5ND2vHzRNPgbCX2pYTP8dycAQbtZe2Kp1c12oo9bLOuaxhRifsI1yYpomQQfU4DOLXzLePToOp6OTZAtuR0iepaq1N20rFkvQNOTiMm0E5SpYG5JWzS5haeqW/yJY0QTY8c8b9f1iO+9D94fKM2PoKpGVUWK6qG5sqkEKkb;NvqAlqNrZh0Ik5A807NKJg=="
+secured: "0JySXXblDIGPhQ/rrrDv/nB4d63F3/4mN0blxaPf2b6HuQrstRi07w0GvWqjNTVwtpCfjhwwq6/O7+P+CoqvPVWMHDpmYvfKFFZMzB8NgMrld9xDJ/571rLBGaZzrmtjrwBwIiO2ch+bL3koSo0fWKsguHo/Ceqoo0uCAHnbcwEK7vHQU/C+ecQLxNaUnbKL4tYvT8SsSM0T0ViZuDUCgofCUcXW3/HTJPPxYHkU+Yip3esExJ6n094ZIeZrnEif/ZqNB7fqpYrHpK+pbWjg9rt/KIyE7daXNKfMCf0NnNKRhKu1RSfbT0z3VyDuSWdC;y+V1DSPWpqiRMJBOExpfTg=="
 ---
 

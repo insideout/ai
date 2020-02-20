@@ -24,47 +24,21 @@ images:
     title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
 
 related:
-  - title: "Gartner’s 2020 Magic Quadrant For Data Science And Machine Learning Platforms Has Many Surprises"
-    excerpt: "Enterprise decision-makers look up to Gartner for its recommendations on enterprise software stack. The magic quadrant report is one of the most credible, genuine, and authoritative research from Gartner."
-    publishedDateTime: 2020-02-20T07:39:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/amp/"
+  - title: "Cisco adds 5G and machine learning to IoT monitoring platform"
+    excerpt: "\"Leveraging machine learning opens up opportunities to look for specific patterns or to find new patterns that may have operational, security or financial implications,\" he said. SEE: 5G: What it means for IoT (free PDF) The Control Center allows customers to manage multiple services through one platform. Butaney said one of Cisco's ..."
+    publishedDateTime: 2020-02-20T16:30:00Z
+    webUrl: "https://www.techrepublic.com/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 91
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e13147a0098000733c741%2F0x0.jpg"
-        width: 1000
-        height: 675
-  - title: "2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "Databricks is proud to announce that Gartner has named us a Leader in its 2020 Magic Quadrant for Data Science and Machine Learning Platforms. This is the third year in a row that Gartner has recognized Databricks in this Magic Quadrant. Gartner evaluated 17 vendors on the ability to execute and completeness of vision. Download your copy of ..."
-    publishedDateTime: 2020-02-19T19:41:00Z
-    webUrl: "https://www.computerworld.com/resources/198957/2020-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-  - title: "Databricks Named a Leader in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Databricks, the leader in unified data analytics, has been named by Gartner as a Leader in the 2020 Magic Quadrant for Data Science and Machine Learning Platforms. The complete report was published on February 11, 2020, and is available at: http://databricks.com/p/whitepaper/gartner-magic-quadrant-2020-data ..."
-    publishedDateTime: 2020-02-17T18:24:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200217005397/en/Databricks-Named-Leader-Gartner-Magic-Quadrant-Data"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20200217005397/en/722802/23/Databricks_Logo.jpg"
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/02/03/66f6f5da-15a1-456c-8adf-a48cbf833009/resize/1200x/9666674f20d29b29ebb06d59db1479a9/istock-952984968.jpg"
         width: 1200
-        height: 627
+        height: 800
   - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
     excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
     publishedDateTime: 2020-02-17T16:15:00Z
@@ -78,32 +52,15 @@ related:
       - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
         width: 1200
         height: 628
-  - title: "MathWorks named a Leader in the 2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "NATICK, Mass.--(BUSINESS WIRE)--MathWorks today announced it has been recognized as a Leader in Gartner’s 2020 Magic Quadrant for Data Science and Machine Learning Platforms. Gartner’s evaluation of MathWorks for completeness of vision and ability to execute led to the company’s position of a Leader in 2020. “To us, being recognized as ..."
-    publishedDateTime: 2020-02-19T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200219005544/en/MathWorks-named-Leader-2020-Gartner-Magic-Quadrant"
+  - title: "Hyland acquires blockchain-credentialing provider Learning Machine"
+    excerpt: "CLEVELAND, Feb. 19, 2020 /PRNewswire/ -- Hyland, a leading content services provider, announced its acquisition of Learning Machine, an innovator in blockchain-anchored digital credentialing solutions. The acquisition was effective February 1, 2020. Learning Machine is a pioneer in leveraging blockchain technology to authenticate documents and ..."
+    publishedDateTime: 2020-02-19T00:00:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/hyland-acquires-blockchain-credentialing-provider-learning-machine-8528534"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 21
-    images:
-      - url: "https://mms.businesswire.com/media/20200219005544/en/33081/23/TMW_logo_2002.jpg"
-        width: 1200
-        height: 627
-  - title: "DataRobot Named a Visionary in the 2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "BOSTON--(BUSINESS WIRE)--DataRobot, the leader in enterprise AI, today announced that it was named a Visionary in Gartner’s 2020 Magic Quadrant for Data Science and Machine Learning Platforms for the second year in a row. The report recognized DataRobot for its completeness of vision and ability to execute. “Over the past year, we’ve been ..."
-    publishedDateTime: 2020-02-19T14:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200219005572/en/DataRobot Named-Visionary-in the 2020 Gartner Magic-Quadrant-Data-Science and Machine-Learning"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Finanzen
+      domain: finanzen.net
     quality: 19
-    images:
-      - url: "https://mms.businesswire.com/media/20200219005572/en/704236/23/DataRobot_Logo.jpg"
-        width: 1200
-        height: 627
   - title: "Alteryx Recognized As A Leader in Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
     excerpt: "/PRNewswire/ -- Alteryx, Inc. (NYSE: AYX), revolutionizing business through data science and analytics, today announced that it was once again named a"
     publishedDateTime: 2020-02-17T16:27:00Z
@@ -117,15 +74,6 @@ related:
       - url: "https://mma.prnewswire.com/media/662162/Alteryx_Logo.jpg?p=facebook"
         width: 1196
         height: 628
-  - title: "Domino Data Lab Named a “Visionary” in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "Company Cited for High Customer Satisfaction and Industrial-Strength Capabilities that Enable Transparent, Scalable and Collaborative Environments SAN FRANCISCO, Feb. 19, 2020 (GLOBE NEWSWIRE) -- Domino Data Lab,"
-    publishedDateTime: 2020-02-19T16:16:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/19/1987188/0/en/Domino-Data-Lab-Named-a-Visionary-in-Gartner-Magic-Quadrant-for-Data-Science-and-Machine-Learning-Platforms.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "fY4eqgNKny5MjUgZJCit+gL5V3bmsY6qnBo2qKy2azMcfb/fqPV2AvxNbBaafVMQHOkJ2ijmiOT79cdqWuPjP+Tb+R+d0w8a7/hI3CWqG9+2OjCmAtxn1J6djJngBG1CaTp9o6O2c6ARHib4PoMS8Kg3/bthnvp9/9laBGqVtZJ7hI2CplX1HYFa8biQCJIWtSkuw+Xla+zpI2E2sOhsMwGOFTzSMfjeZPRUR1n2qg5ms1b4g1p8N4d9MJbsRlEr0Um/RtkmMoXD74FLmiGUGTcXiW7p3LgcYWJ2iog4+ED6g4u/EkNS/wvvePZ6VXPm;TpSRaCXA1SxnF8sfobqSwQ=="
 ---

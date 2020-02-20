@@ -330,6 +330,19 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
         width: 625
         height: 305
+  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
+    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
+    publishedDateTime: 2020-02-20T16:46:00Z
+    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 34
+    images:
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
+        width: 1500
+        height: 1000
   - title: "Met police deploy live facial recognition technology"
     excerpt: "Cameras used at east London shopping centre despite experts warning against them"
     publishedDateTime: 2020-02-11T19:20:00Z

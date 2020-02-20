@@ -19,19 +19,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Tyson sees double-digit inventory accuracy improvement from computer vision"
-    excerpt: "Tyson is rolling out a computer-vision-enabled inventory tracking system at facilities where it packs chicken into trays for grocery stores, The Wall Street Journal was first to report. The system can read SKU information and weight, replacing what Tyson described as communication by hand gestures followed by manual inventory entry."
-    publishedDateTime: 2020-02-12T20:37:00Z
-    webUrl: "https://www.ciodive.com/news/tyson-computer-vision-inventory-management/572201/"
+  - title: "Tyson uses computer vision to track chicken inventory"
+    excerpt: "Tyson Foods plans to implement cameras, machine-learning algorithms and edge computing at all seven of their “fresh tray” chicken facilities by the end of the year to help streamline inventory management and improve efficiency."
+    publishedDateTime: 2020-02-20T16:41:00Z
+    webUrl: "https://www.wattagnet.com/articles/39719-tyson-uses-computer-vision-to-track-chicken-inventory"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
+      name: WATTAgNet
+      domain: wattagnet.com
+    quality: 39
     images:
-      - url: "https://www.ciodive.com/user_media/cache/60/ae/60ae902d47b93652d4f170aa1086b32c.jpg"
-        width: 770
-        height: 364
+      - url: "https://www.wattagnet.com/ext/resources/Images-by-month-year/20-02/Poultry/bulb-future-technology-concept.jpg?height=635&t=1582216371&width=1200"
+        width: 700
+        height: 467
 
 secured: "eSmDLafP5JmlUkA2MYt9qd0Ib7PSYgwU8KLR/fHq6AmjALFUnr85zsNTOhPOQCZdAjZZJW2THaA97nlYEI+6awN3qkIraPBh4acUGfVAE82kcQU//GUTJdqFnCTjEKy2fV87NaLrTT6JCz9jjDBGd7WTn6KKHms6CCE6GQRlunU4zFi6RxeEndTLhb05pMEl6VPwk5+2lw1peWfRwD37kKgIRcmCkkpUOEy3SJ+BkZXEz6UxfWZvnyn6ua9ErsroPoVRjBKZMhEZ3VHBqBuzLH1ndyFzwyVehsfokSl39imNh/r1v7eQcrs+1Ofazv37dWEVR0BugGrEGAzEAddsP8qnUCK2lvUzouj3Sg28Y5ltZyq8r8bgxJf71Cmh9TcFs+b3jJXXOFfUdp416Q23vwoJFBLxOoSVOxoxNChYoXBYwov2YCpolIJRtsKiKZGWDCMqTJ0ZcPjTYu4lKzb5E4iT5qMnjIqJbmAo8Z/6xOo=;r9askXtRylc/Zelh1StheA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launch
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 960
     height: 541
     title: "Aera Launches Cognitive ‘Business Brain’ Operating System"
+
+related:
+  - title: "Automation as self-driving glass box - Aera's Fred Laluyaux on the firm's Cognitive Operating System platform play"
+    excerpt: "The key theme for Aera is that its new platform enables the ‘Self-Driving Enterprise’, a term that the company has trademarked. The announcement says: Aera harmonises both internal and external data across the enterprise; applies science (analytics, search, optimisation, modelling, and data science) to derive insights and recommendations ..."
+    publishedDateTime: 2020-02-20T16:14:00Z
+    webUrl: "https://diginomica.com/automation-self-driving-glass-box-aeras-fred-laluyaux-firms-cognitive-operating-system-platform"
+    ampWebUrl: "https://diginomica.com/automation-self-driving-glass-box-aeras-fred-laluyaux-firms-cognitive-operating-system-platform?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/automation-self-driving-glass-box-aeras-fred-laluyaux-firms-cognitive-operating-system-platform?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 22
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-12/Screenshot%202019-12-09%20at%2011.43.51.png"
+        width: 1088
+        height: 694
 
 secured: "fPsMrr9SkMMn0gzUXoloeUsM/gl6fATKX2mR3pI0N9OjuExHqpbThxbxlu+KBvkO1lKSHlkRdPQurR6pRPEaG6OrOAA6tywuqgMJRZ/0y8N/z4Usb1sbasMOi6sbIAnh6kFCxrVtaOCW7eQFCK4B8gPNwebiJKyNndym68ayghlzqZKpyLfkQwAxgv9svYq21BZYSAW7Xy+Pf9iEKTBRw/trSE9KigeziixdF8G8GlVuLgPUin6xYmRSCXvOdQ5x2uC+E0M1Aq2TXQdJ+jVAv5B4je7qcO3ykhoamfsap0zc5RCtt6sRZdzuPrxB7usFeXbbCyypaxSzsMyGvRY3pjXJlv3qCgN2wIzvbCaU03Koz5fY9EMFiwd+uMaoW1PgJ0AdwVQZZW0Bl3nAuokadlFGLddPpoDfNMZyfvTQn1k+DzzVAHr91vGgcDRSPIuXHicwJ0mGLqQRYCYm2CP5htKosUTyxNbTVA9IV5qt61M=;lCWawJiOd2jaGDaw9k+F9w=="
 ---

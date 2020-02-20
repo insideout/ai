@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T12:16:00Z
 webUrl: "https://www.imperial.ac.uk/news/195416/machine-learning-ai-panel-ai-core/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 700
     height: 484
     title: "Machine Learning and AI Panel at AI Core Event"
-
-related:
-  - title: "Hyland acquires blockchain-credentialing provider Learning Machine"
-    excerpt: "CLEVELAND, Feb. 19, 2020 /PRNewswire/ -- Hyland, a leading content services provider, announced its acquisition of Learning Machine, an innovator in blockchain-anchored digital credentialing solutions. The acquisition was effective February 1, 2020. Learning Machine is a pioneer in leveraging blockchain technology to authenticate documents and ..."
-    publishedDateTime: 2020-02-19T00:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/hyland-acquires-blockchain-credentialing-provider-learning-machine-8528534"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 19
 
 secured: "deCVCmQWc5OnA3EgSEtaWdG6D5YNtndCb5cbBvGbyGp84lnlTD4gKx+aI8UbfgRppZJI4fAQVc5WF6SWxLHJKuNNylByi9ZySxhIBjyA9wUQ6sU3dkdI2ZL3esO2UIRTmolEIcrpsIVnquCVj5vl0bGgVKWCcXcwjGKmpY/yDK5I87ZQwmMROsZipyRZuPepz1I9A3mawJOAdkuWNVne/TepEKigLgv44vNhhkK97tEPP7h1OhVrccIhDet0wqTLk/nMe89GcoFJCOi4f9M9ZnbkCTuLX+7OIWAUZo8FmgI3PLGm7D9ZeZ+nK40PD6HnDHjxH+kH1/SlXWRMru33M5iqauIsplv3SM9o74vx/reC5nBxoMxktVOibmMWdLGfvaOoEbClfvaLbiQcHfuwDuJC7pGL+2mSk1XbrBNkwcF+jg504n0kV4jIbFrVVFFipXJ+XTDZXgOqOpkqee/bPhOhGQYnznH26246F2iZ9Fo=;L1xUUuNXxhvAEAdmfQRhFA=="
 ---

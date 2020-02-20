@@ -23,21 +23,21 @@ images:
     title: "Google’s AI drops ‘man’ and ‘woman’ gender labels to avoid possible bias"
 
 related:
-  - title: "Google AI will no longer use gender labels like 'woman' or 'man' on images of people to avoid bias"
-    excerpt: "Google says it made the change because you can't deduce someone's gender by their appearance."
-    publishedDateTime: 2020-02-20T13:20:00Z
-    webUrl: "https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2"
-    ampWebUrl: "https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2?amp"
+  - title: "Google Removes Gender Descriptions On AI Tool"
+    excerpt: "A Google artificial intelligence tool will no longer identify photos with gender descriptions such “man” or “woman,” Business Insider reported."
+    publishedDateTime: 2020-02-20T14:49:00Z
+    webUrl: "https://www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/"
+    ampWebUrl: "https://www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/5c1aab65a040ff0e71344943?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1ef8df0c18d04d60b8bcca96180e0cbd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4365%26cropY1%3D221%26cropY2%3D2677"
+        width: 1199
+        height: 675
 
 secured: "8/GiqqBMUlC828obI5LEmLah8AhKGh8c0FvAW85p9jpHS1PQtPjRajZWAp+wOiigDPBOdsnjwAODHkkPUdb5Nf1YH0cXF6ULNbkEagz/Gijk5glxwEHlnQk7UKE+dH0afgDB+mqVQdsGfArRlIgttqTOrcPXoZkNmPQTErinBp+ftJFoTagYNkBasKn+MkdtOMeGphkkX76iSY/ObGW/q9CJJlYqK3xt+400oo8uu4COYJxJlPj7qy/lotlPRoFxdmTfStw5pT8r3GvPduQBA97MEZjYhiA1sBFyP1EjwIb2NSo9d+hnDlNb70bsSRJQPxiTRTD0pN71/FUMWBpLKIQJqfvVYruQpF79Xa9npGpP7TnfB6ySgzndbThQhWEYcuUFYYrTEGh1TrC2HA6VdGorSSBk5yaTQ00uk+0mspZt0vTqbTabcqBa1GdrVlnYcNE+3NqAWy2N4r/5YwySm/NlfMMv79HhCSAVDdCftwo=;nz3uBmvIiTdzGjjBCJhnJA=="
 ---
