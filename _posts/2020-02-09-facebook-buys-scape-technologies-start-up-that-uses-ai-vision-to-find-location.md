@@ -20,6 +20,36 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Facebook buys startup using AI vision to find your location (updated)"
+    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
+    publishedDateTime: 2020-02-08T17:28:00Z
+    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
+        width: 600
+        height: 350
+  - title: "Facebook buys startup using AI vision to find your location"
+    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
+    publishedDateTime: 2020-02-08T17:28:00Z
+    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
+        width: 600
+        height: 350
   - title: "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook"
     excerpt: "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%)."
     publishedDateTime: 2020-02-08T10:36:00Z
@@ -35,6 +65,19 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024"
         width: 1024
         height: 767
+  - title: "Is your startup using AI responsibly?"
+    excerpt: "This is one of countless instances of bias emerging from AI algorithms. Understandably, these issues have generated a lot of attention. Conversations on ethics and bias have been one of the top themes in AI in the recent past. Organizations and actors across industries are engaging in research to eliminate bias through fairness, accountability ..."
+    publishedDateTime: 2020-02-06T22:56:00Z
+    webUrl: "https://techcrunch.com/2020/02/06/is-your-startup-using-ai-responsibly/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1169572297.jpg?w=600"
+        width: 600
+        height: 400
   - title: "Facebook buys start-up that uses AI vision to find location"
     excerpt: "Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). “However by looking at ..."
     publishedDateTime: 2020-02-09T16:45:00Z
@@ -65,19 +108,6 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2019/11/Mark-Zuckerberg-F8.jpg"
         width: 805
         height: 503
-  - title: "This Week In AI: Facebook Acquires Scape Technologies, Square Acquires Dessa, Carbon Relay Raises $63M"
-    excerpt: "Last month, we released our quarterly AI in Numbers report. This quarter’s report highlights AI investment activity, partnerships, and M&A in 2019. You can check it out in CB Insights Stories format here. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here."
-    publishedDateTime: 2020-02-14T18:37:00Z
-    webUrl: "https://www.cbinsights.com/research/this-week-in-artificial-intelligence-facebook-scape-uipath-sisense-carbon-relay/"
-    type: article
-    provider:
-      name: CB Insights
-      domain: cbinsights.com
-    quality: 23
-    images:
-      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/14101729/SELSER-572x364.png"
-        width: 572
-        height: 364
   - title: "Facebook acquires computer vision firm Scape - report"
     excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
     publishedDateTime: 2020-02-08T21:05:00Z

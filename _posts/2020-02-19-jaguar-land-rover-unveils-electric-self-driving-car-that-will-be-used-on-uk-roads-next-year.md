@@ -56,6 +56,19 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+  - title: "Jaguar Land Rover latest to unveil a self-driving shuttle"
+    excerpt: "Limited parking spots coupled with congestion will make owning and driving your own car a hassle. Automakers realize this and seem to have reached a consensus on the solution: self-driving shuttles that run around town offering rides. The British automaker's design is called the Project Vector, a self-driving, battery-electric shuttle that ..."
+    publishedDateTime: 2020-02-20T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127185_jaguar-land-rover-latest-to-unveil-a-self-driving-shuttle"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/jaguar-land-rover-project-vector_100736818_h.jpg"
+        width: 1920
+        height: 1278
   - title: "Jaguar Land Rover reveals self-driving transport pod"
     excerpt: "Jaguar Land Rover, the UK’s largest automotive manufacturer, has revealed a new self-driving transport pod developed for cities and ready for an on-road pilot programme in the UK starting next year. Known as Project Vector, the vehicle is an autonomous platform with a design focus on maximising interior space and offering flexible body ..."
     publishedDateTime: 2020-02-20T12:43:00Z

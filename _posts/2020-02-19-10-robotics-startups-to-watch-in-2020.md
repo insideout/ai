@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T20:13:00Z
 webUrl: "https://www.therobotreport.com/robotics-startups-to-watch-2020/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -35,6 +35,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 56
+  - title: "Startup develops robots to clean China's curtain walls"
+    excerpt: "BEIJING -- Chinese startup Yingxing Zhineng is hoping to expand its curtain wall-cleaning business overseas four years after developing robots using artificial intelligence to do the job. Spotting a gap in the market, the company started building and developing the robots in 2016. Curtain walls, which are outer coverings of buildings that are ..."
+    publishedDateTime: 2020-02-20T18:35:00Z
+    webUrl: "https://asia.nikkei.com/Business/Startups/Startup-develops-robots-to-clean-China-s-curtain-walls"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F1%2F1%2F0%2F4%2F24974011-1-eng-GB%2F20200213%20Yingxing%20Zhineng%20.jpeg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
+        width: 1024
+        height: 512
 
 secured: "IUmuumNZnneJsMISYpVFu/B+6HhcNeZvWrTbKw00BVUZidIbl9bB4tqmy6qYLJYsViQuo3alitNCsVQDO8pFVgpzeBXqlyJlZYgO6NgUCrpDPBBMA/rS1jROjgacaKUrtiPqrixzn+dAMgpUHyZBN15qSzoK19OxWFhvHZQJqqoStAflAOnLMKmCeBDQ4Om1jCzs0xEV5zPjT9doynK0eUlwAVkwjG21dHol0XXZppyjFKqi4d9oZZttMyNr8hKDXliYoajP4LfbJQGwjEu6DmEplsaTJtIIsV3eOI9DouG/N3wU1yfkCrdE79RxI8S6YhanG6dx7iB8M0xLz+Xb8yqLnhZltosjiZqMm83ScA4X+v7hmfOa0XOesr4jMcW3uzombHL+xisI4zwk1aFxKuQI9bRMmJHJNIdeV4gVxphNnKvU/SFVOEgU9EbPhZL/lHDtFwiLaG6r0dpdUmtw1ryCbFukTTudBMR4pR42P48=;QhiJHgVpmZpYm+yQqkM+zg=="
 ---

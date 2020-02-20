@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/12/clearview-ai-police-surveill
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Engadget
@@ -27,51 +27,6 @@ images:
     width: 600
     height: 350
     title: "Why Clearview AI is a threat to us all"
-
-related:
-  - title: "Clearview AI is looking to expand globally, report says"
-    excerpt: "The facial recognition company reportedly wants to sell its app to law enforcement in 22 more countries. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries ..."
-    publishedDateTime: 2020-02-06T02:17:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg"
-        width: 756
-        height: 567
-  - title: "Clearview AI reportedly looking to expand globally"
-    excerpt: "Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries, BuzzFeed News said Wednesday, citing a Clearview AI document that was reportedly part of a November 2019 ..."
-    publishedDateTime: 2020-02-06T01:27:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg"
-        width: 756
-        height: 567
-  - title: "CIA reportedly seeking to hire multiple providers for new cloud computing contracts"
-    excerpt: "The cloud providers are said to include Microsoft Corp., IBM Corp. and Oracle ... Krishna most recently led that company’s Cloud and Cognitive Computing unit, and was instrumental in building out its hybrid cloud business. “In other words, the company understands the kind of cloud services C2E will be comprised of, knows how to deliver ..."
-    publishedDateTime: 2020-02-06T02:13:00Z
-    webUrl: "https://siliconangle.com/2020/02/05/cia-seeking-hire-multiple-providers-new-cloud-computing-contracts/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/4829690897_425f2fec31_o.jpg"
-        width: 850
-        height: 609
 
 secured: "zURfsWngNpnNUorra48uhYRNUeUYDR1l5G1FTYven9CtupH2Rj8a+RoJyTsQr2gP5yVYAUY938n/Dk9p9ujyQWm20D9uJrVqDKtC3AmFpRELoXhlYeIA9+W2caf1LxcaW3UJia6d3SBuM7qdIrhn+szPyFzkvukC2TshmkoLwC2kFK2QTUMdjLGQ9rpPs2vxebSI4riNvFkjM85Lv48IjgsmNesSd3SAK5j6b2+2delF9uvrHZj9RyOx2LgKe849VKYMfDwiBYegAsExmrySt0QerRwrayeL6BxZma28AL0BElzx7zNT1/IvaJFXpZEAIH413YmZOi5TvwvlJzoQMnb3S29SwxYjYnVi/KOW6iqPCLfV9RHPN8/9RFaYxijgJcDAnM15wizsHVqvK7xm3fFJSsyj+NqLS/MD6yNbx8+kzv35YYc5mPYtvkiEr1HC/x9L/YRhYIJ2rfyCDlKMx63NAGeK7CJfWrwVr9GQh+o=;WMWO1QAtY6qPWUlRCQ3h8w=="
 ---

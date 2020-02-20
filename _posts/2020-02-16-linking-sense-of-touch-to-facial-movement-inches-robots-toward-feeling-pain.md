@@ -8,7 +8,7 @@ ampWebUrl: "https://www.sciencenews.org/article/robots-feel-pain-artificial-inte
 cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       name: i4u.com
       domain: i4u.com
     quality: 54
+  - title: "Bumblebees ‘can recognise objects in the dark using the sense of touch’"
+    excerpt: "Scientists have demonstrated that the insects are able to store information in such a way that it can be retrieved using different senses, a complex cognitive ability known as cross-modal object recognition. Humans use this ability to recognise something they have seen before, like for example, finding a set of keys by fishing around at the ..."
+    publishedDateTime: 2020-02-20T19:23:00Z
+    webUrl: "https://home.bt.com/news/science-news/bumblebees-can-recognise-objects-in-the-dark-using-the-sense-of-touch-11364432765242"
+    type: article
+    provider:
+      name: BT
+      domain: bt.com
+    quality: 24
+    images:
+      - url: "http://home.bt.com/images/bumblebees-can-recognise-objects-in-the-dark-using-the-sense-of-touch-136443276517310401-200220191011.jpg"
+        width: 435
+        height: 245
   - title: "Heston Blumenthal wants robots to make your boring lunch"
     excerpt: "In October 2019, Blumenthal joined the board of Karakuri, a London-based startup that wants to bring robot arms to restaurant kitchens ... Eventually, Blumenthal hopes that robotics and artificial intelligence could have a wider impact. “We eat too much,” he says. “We do not appreciate food, and we throw food away. We need to change ..."
     publishedDateTime: 2020-02-19T06:09:00Z

@@ -166,6 +166,21 @@ related:
       - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/2/6/52300b9d1ce048f2a0623c7f4b109fb1_18.jpg"
         width: 583
         height: 325
+  - title: "UCLA drops plans to use facial recognition after student pushback"
+    excerpt: "UCLA is dropping its plans to use facial recognition technology as digital rights and student groups have pushed colleges across the country not to adopt the controversial technology. Fight for the Future, a digital rights group that has been raising alarms about facial recognition technology, shared a statement from UCLA Administrative Vice ..."
+    publishedDateTime: 2020-02-20T19:07:00Z
+    webUrl: "https://www.dailydot.com/layer8/facial-recognition-ucla/"
+    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-ucla/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ucla/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-UCLA-1024x512.jpg"
+        width: 1024
+        height: 512
   - title: "AI and facial recognition in 2020: where’s the line?"
     excerpt: "security and AI ethics to be at the forefront of the conversation. As regulations continue to be made at a city, state or federal level, they will shape the extent to which we can use AI, and how we will approach the “AI race” in this decade."
     publishedDateTime: 2020-02-14T10:08:00Z
@@ -313,6 +328,6 @@ related:
         width: 1200
         height: 627
 
-secured: "+J22I2/tE3d/f9kOnFW3axhBe8S1E5wyq56bkFa6DM3yL3gGCIX1OCSwmggRipPW0WP5yC66oGjVLiffHlhG6D+fWqh4WTBTmn3Esuo4jfEuyPmQNNf+vpkNi45eN9TrgLAWwcpHXrM++GaLnFrHN6UmmT2Z1q4oBYMv54j4ByWgTvFGGVZyaxb96Ntb/jNbrRpUsZ5sF7T2mUHS99vU2mtviT9qTokSzbGrV8elc9DkSK/fYpi1I7GKWzZQ0nxZdYey0tm5hve40hwtmW1oLviB4oETHEqeDNEoa+ElkMOMCqRIfQt/AvxMqcqpmapJ;PuHVMmLGxznGBMJ2PLSa0Q=="
+secured: "+fm5v/YhleTVMlwRozj4INN5v8fdxXGFsfKIlxmaxSPjv2EK4gO20Nu0/ipZCur2l5ExdR/id/Xewj/vlQKAfz9e91u9arFIHlPA+Dk6AgbJF4ppM9lXyDRe3k2lZbh+bz+WaiZky+mRXh4bPURz8Q3Zop5m1W/igXqmX1n+TfG5HFX87fmxRfkOXq4Y9xJlaIMatxPj1oDjUXuZ98ODsT8jhAA5BCG9iMl/tO6HekqrheLPcbsFFXni7YmfMLUuDMmJuScJX1K9R9bDpTBWCdD/s2AIdODbklNwq43ALY2dD2Soi3GGUfTaDb2kB1umDtjRdn23lFsBIUUdMB6/2Mu5kNlRvjpXLs5bZeLgSZ+F393RgNjtRvguVfMER88D1tvypVihjnE4ohM5C5MwUlTzkQ2OueTbe80hqpVbAft21wrI4fz69JfTNE9xdhIyGxNnoRclpAVF68K9TVWIFHmNihaKbfGKsYyaIhZqJU0=;LzGMMidjWAi7+0zFkvdghw=="
 ---
 

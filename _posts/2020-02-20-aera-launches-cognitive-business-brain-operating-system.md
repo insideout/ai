@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launch
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 1088
         height: 694
 
-secured: "fPsMrr9SkMMn0gzUXoloeUsM/gl6fATKX2mR3pI0N9OjuExHqpbThxbxlu+KBvkO1lKSHlkRdPQurR6pRPEaG6OrOAA6tywuqgMJRZ/0y8N/z4Usb1sbasMOi6sbIAnh6kFCxrVtaOCW7eQFCK4B8gPNwebiJKyNndym68ayghlzqZKpyLfkQwAxgv9svYq21BZYSAW7Xy+Pf9iEKTBRw/trSE9KigeziixdF8G8GlVuLgPUin6xYmRSCXvOdQ5x2uC+E0M1Aq2TXQdJ+jVAv5B4je7qcO3ykhoamfsap0zc5RCtt6sRZdzuPrxB7usFeXbbCyypaxSzsMyGvRY3pjXJlv3qCgN2wIzvbCaU03Koz5fY9EMFiwd+uMaoW1PgJ0AdwVQZZW0Bl3nAuokadlFGLddPpoDfNMZyfvTQn1k+DzzVAHr91vGgcDRSPIuXHicwJ0mGLqQRYCYm2CP5htKosUTyxNbTVA9IV5qt61M=;lCWawJiOd2jaGDaw9k+F9w=="
+secured: "UnkiV3PaiaCEn/E2vWZDcWkIk43xedganiAck+mghyQyh9sZZ/1IotpaTUpb9LR9/aquJzRr4G9wgO2aPWRM01DJe/rgmWOgmvus1XAwTqd3sCNkAU+epOyxCc4qRufMW+1d8bVBJtefd9RY3YyrdtTLq/llmYEhC54MoV8wL7GvCyPuf1ktTqGN3cvVH5dqWYSvPOrp/mHPBiKnGzhs/q7vjw3x22VvoZMF0HhJwXesdiCSH6HFQwihbHdkOZ1XNSWJKxJKHnQ3Fq4UBIV9KBHqftgg987u2rffCwtnnATResMDsL0qC/6NDO5mQwZdHj41OA6R5S5FpIzuEmur7nAxyjZhfZimBmCQ+Xi+A8xs+oKPrIPfAvtphKg2U3dShaPofOPsOc3llGfMALqerdoL6sfi6y/P8GCqCYq+bTIus5VUkfG9pM+D9uKbGhZOWES7oEzUj2sFHuD88xeiDMy7PKncHi0cSSL0GDD7Eg8=;F9KlCWdHb85d4LyaGkScwg=="
 ---
 

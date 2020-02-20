@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T14:37:00Z
 webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     height: 803
     title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
 
-secured: "ITswmvf4D0yXz2PnHeqrmwZ3u44BNFFW7i7GHGlhRxxMtROSyYfdI4B7xRbWnghi/Bc9vrl6cmpbo/GoHrJG7rbrPuHa91+xj/ma0JJ/yIye4aYG00GrArq5lFnu8zUdwkAhI9KoxGZVWcUWbzkrDSTOCyubkz9PVlY74PDDRKvTlxZkNFLLyCeIHtQmtuVwOj2qlh8e/C3aA+rH0yT6BuuQYMqcQCXLn73cgTpc70tvZSg0lMGlf0YPTwdtM+A0bKyRtiDcWG2qZsdkCzbV2zYMQWf9xrLy2JJuHUJtuLJy2Bb0a06MG34hGmQ8BJUH;IKAMNVorZjftAPmSmKLc4g=="
+related:
+  - title: "Genesys expands partnership with Microsoft Azure"
+    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
+    publishedDateTime: 2020-01-23T16:21:00Z
+    webUrl: "https://www.telecompaper.com/news/genesys-expands-partnership-with-microsoft-azure--1323890"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
+
+secured: "uF+1fRIlSvjvFigXE2uzXEAPe9xtakyqVIHVatf6XJZO1YLOFcx0ycT6NU8xgR+mg+UvGaELx1h0yloDzIsQVwcNfwup/KNwbMiGIXoXferv5g8OVLKmjsdt7nCjWU9/pvO3fSLwnoZ61ZpleZe9AUMcRo5LJskOvyk8KQ2wJlAcR3PTwa0TuYG/qRYEC7anOCuoi2C6AJA9H1vf+1x4tn82D5wn+qS7RM5v5OYyezsbPH43GJe+XW6XcAstVlNMqv3u+WyaBc9DdBgk46+zaq03QMdGlc0H8bHniknm5D9n2fHF46TzbUYA+rwjWiuf;BlPRiy1R2PktY/BY5Ffm6g=="
 ---
 

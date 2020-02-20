@@ -33,6 +33,21 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/02/03/66f6f5da-15a1-456c-8adf-a48cbf833009/resize/1200x/9666674f20d29b29ebb06d59db1479a9/istock-952984968.jpg"
         width: 1200
         height: 800
+  - title: "Deep learning AI discovers surprising new antibiotics"
+    excerpt: "Enter deep learning. These algorithms power many of today’s facial recognition systems and self-driving cars. They mimic how neurons in our brains operate by learning patterns in data. An individual artificial neuron – like a mini sensor – might detect simple patterns like lines or circles. By using thousands of these artificial neurons ..."
+    publishedDateTime: 2020-02-20T19:31:00Z
+    webUrl: "https://www.rawstory.com/2020/02/deep-learning-ai-discovers-surprising-new-antibiotics/"
+    ampWebUrl: "https://www.rawstory.com/2020/02/deep-learning-ai-discovers-surprising-new-antibiotics/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/deep-learning-ai-discovers-surprising-new-antibiotics/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 74
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/02/A-colored-electron-microscope-image-of-MRSA.-NIH-NIAIDflickr-CC-BY.jpeg"
+        width: 640
+        height: 315
   - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
     excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
     publishedDateTime: 2020-02-17T16:15:00Z

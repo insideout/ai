@@ -24,6 +24,6 @@ images:
     height: 211
     title: "Can AI flag disease outbreaks faster than humans? Not quite"
 
-secured: "cBuDbuETqnkjK4ykuA+czaocJSI04DgPeCiTmfDntTmox5P3zbx8w6DtXkeQ56boEap0XxLSwiXBMNDRhaziCOMCfT1O2RhuBa/npiqQeQ7GW0EWhGdiYKrMfaDXnyWu2rwwsNj2Ye+mZrxI5WQC/71zrsN2rMbAh3doGf4It+oZ8FNJYJ4wSna0CE5fiwwLU4nSQLcGIN1hky57dOzmk1p8YWfetTRDWXe5iglaQyea3n9g+bXC6KhXzmlvxyXxIJ2EMngPlb6gzWAHurpP+q/2zKhemvQZpCBN9/pXq0aVS6jGjUvCmlZERbWb5709;lvVZCW+77VwGYhpbGA4Pow=="
+secured: "RLrUsnceuqtHPgsy6xl7YD7Ml0bgUoQsH1PuNF5Xv8wcZ4xdjqEAl1yOnA6WlauFDQENTvy0mhjDZ0Cn9AKDtDJOTSmBbXAcvaCvRjekpnmNdZi6BiD06aMSDubZaxbAyPfmC/ufO6yDlP/y/TmclbQhV7ZvMjKJ0t5yEUupu6JRMRPXh7lGpnljCcY44DERLQzN5o3pF6sg8gX5heupKKhAGu2eEl6yi2tXGeR+4dMjKxog+aIHErmAE+zOCKv9O4VlKum1g8aE1fzEbXZjj1yyPr1tGvpDpFgPI/lYGVzL6NzUw8RRTJYdLjiuWESS;ZBwTAq2d7OOKEH8TVZdW3A=="
 ---
 

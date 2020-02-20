@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-rec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
 quality: 101
-heat: 121
+heat: 101
 published: true
 
 provider:
@@ -29,36 +29,6 @@ images:
     height: 763
     title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
-related:
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-21T00:00:00Z
-    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 59
-    images:
-      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
-        width: 446
-        height: 300
-  - title: "US Army develops AI facial recognition protection"
-    excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
-    publishedDateTime: 2020-01-28T09:26:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-        width: 620
-        height: 465
-
-secured: "OcH2HbqUaYwt54hY387OGA9RyrouMu9roiyKRfJt6EvXA7p/e1zI7BXzP8dtL5G7Au+/UqseuaAruixSkxr+ySWlM5taY+BmycOMwdjO3sb/5QYtuYeEqIVCKa7ZFSuJg5P8pJ/ONDBZ8JTYYHsuSPt/G79eiiQ5c344K5/sjLphShACtnmGznR9utc537CVQSwszbzaDvZXou5jWn3fFNBkofCHClFxsUjiOQyNl+GWYTwZkiritMezadUTSaBgqcFVen7BIKTJraNwMGLhpi+IS2hD3SZuL544jxjCDLiiCvqzebA9ryq2yW7AXLCf;ZDRCyeg1tw15jcMXARIWiA=="
+secured: "PGyzNyZXH+V65loms3ei9bp/kHH+13xvwiM4bE35DNQozLHM925IDAxMScrD7b0C/XRXqln6cZq+A088nQdssTbTCuqKHqYybzRLs9oxjyLpgtm21LYYae+KCKRnO/EtZ9qTA9u3Fw9e9oEA9BrFGAOxPKLN5LWlsdHcSGQurCfFAxqMbyJAytOkmydUZwbJVQQUhGrpv7UagWiqjMm75LxK6MKVCHaDqEMS3Cg+Xj5Gj4r61ikxK7s2zwimhwxvYLPgYpuUCMA66XBMVUyy1ds6rmuKn1jMIPUeohOeuN9dMiBlpTfPc+T/fIvL2+xS;ALpAvjYWwxIhVdBkexzZOA=="
 ---
 

@@ -74,6 +74,21 @@ related:
       name: VICE
       domain: vice.com
     quality: 51
+  - title: "UCLA cancels facial recognition amid backlash over privacy likening use to George Orwell's '1984'"
+    excerpt: "UCLA cancelled a plan to use facial recognition technology on campus after students protested over privacy concerns, including one critique that likened use of the digital surveillance to George Orwell's book, '1984.' The school issued a statement on Wednesday, saying that its plan for using facial recognition was scrapped due to the privacy ..."
+    publishedDateTime: 2020-02-20T19:16:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8025867/UCLA-cancels-facial-recognition-amid-backlash-privacy-likening-use-George-Orwells-1984.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8025867/amp/UCLA-cancels-facial-recognition-amid-backlash-privacy-likening-use-George-Orwells-1984.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8025867/amp/UCLA-cancels-facial-recognition-amid-backlash-privacy-likening-use-George-Orwells-1984.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 46
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/20/19/24991782-0-image-a-56_1582228510455.jpg"
+        width: 636
+        height: 382
   - title: "UCLA cancels on-campus facial recognition program after backlash"
     excerpt: "This article, UCLA cancels on-campus facial recognition program after backlash, originally appeared on CNET.com. UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus,"
     publishedDateTime: 2020-02-20T02:19:00Z

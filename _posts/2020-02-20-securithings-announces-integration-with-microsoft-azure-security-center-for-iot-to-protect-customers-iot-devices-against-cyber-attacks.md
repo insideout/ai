@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T17:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/securithings-announces-integration-with-microsoft-azure-security-center-for-iot-to-protect-customers-iot-devices-against-cyber-attacks-301008562.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,33 +24,46 @@ images:
     title: "SecuriThings Announces Integration with Microsoft Azure Security Center for IoT to Protect Customers' IoT Devices Against Cyber-Attacks"
 
 related:
-  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
-    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: \"CyberX's IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies - without ..."
-    publishedDateTime: 2020-02-20T17:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/02/20/9101701.htm"
+  - title: "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT"
+    excerpt: "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices"
+    publishedDateTime: 2020-02-20T19:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 52
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+  - title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
+    excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
+    publishedDateTime: 2020-02-19T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200219005687/en/ClearDATA-Comply™-Microsoft-Azure-Enhances-Sophistication-PHI"
+    type: article
+    provider:
+      name: Daily News
+      domain: businesswire.com
+    quality: 50
+    images:
+      - url: "https://mms.businesswire.com/media/20200219005687/en/683520/23/CD_2018_No_Descriptors_Logo_w_%C2%AE.jpg"
+        width: 1200
+        height: 627
+  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
+    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
+    publishedDateTime: 2020-02-20T18:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 28
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-  - title: "Delivering on the promise of security AI to help defenders protect today’s hybrid environments"
-    excerpt: "Today we’re announcing support for Linux and plans for iOS and Android as well. Azure Sentinel, the first cloud-native SIEM with fusion AI technology turns huge volumes of low fidelity signals into a few important incidents for security professionals to focus on. In December 2019 alone, within Microsoft, Azure Sentinel evaluated nearly 50 ..."
-    publishedDateTime: 2020-02-20T15:52:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/02/20/delivering-on-the-promise-of-security-ai-to-help-defenders-protect-todays-hybrid-environments/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 27
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/02/RSA-header-image-768x509.png"
-        width: 768
-        height: 509
+      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
+        width: 1200
+        height: 627
 
-secured: "SYdpYQbAtioB9Nw7WkhOgetwBFkKU3uOIfgHLL3dpp6iQtQbQYCR7qoS2lPQJ6Kv5Thqrn0uOo1C6nzYJROO7hPxFA8XqjZuNOChxsfanpTsIYgJD7HZqr7C6bKjG5eVhAoMcpZJ0Ld41qebJu0I1CvfDSpii/C2YzmJvWz9ki6ox6+d3lfvp0kTJEIwSnGdVDTLdYijD2AlPT5CYQU3FuJiS0vb8v4LLOqJfYACqmDO5mv32q6jpM9WKZsZBoNTSId1dkuGmj7MB2+ckTj8AKxtucC4jt0guEck50WJifZbPjnb1XVQgg5wsNn7g9UL;wuwzn4VqYOC/KgJH+HPukA=="
+secured: "zdn0MzyNUVh7V5YxZb47qteKLXDW8++A0T6PVhEHBbV8WFjLca9KiRk9bWW0LphXPXI8pXoBnZdxGvpPO1cXgBWfC7KQQ8NpWomojQ0TjXCis2/3rIWXoo4suajw6+wTa5bfe2oOwUTaYF+jVI2MYXUrk1EZLnXHa8mVSDnYvwhQqfRkOvkywx9rR1SYbl2XIUREv2Rcj40CaF8yIkx2PhFivH2hYwHKE330PMhU/smR2w+2dHSEAbuMauf8YI1QmN5f9KIwEa5QJJyGuogb1CrruGX6El4Y/9Vh2ts58cgRNMVs5VrRRhTBmYB24nuAf18uzFm16t1T5pRYZYv2q0REgMRYyYgtWQi/UphaNq7Ok8W2G50kTyumE9JqkW4H2zEhvNwKGZUjL2wgV1IILbc11VNDuBcdcPI22Y9Jj/9caSs0u1Mb3FH73S8lMizwoEIGcf7/7pqdTb0ixEu6DqpgOvAMjfLM3qH8mb3Aebw=;0jussmPSpMzzTgQCEuo30w=="
 ---
 

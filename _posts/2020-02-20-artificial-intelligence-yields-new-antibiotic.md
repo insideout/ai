@@ -34,19 +34,19 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Deep learning AI discovers surprising new antibiotics"
-    excerpt: "You spend months in the heat of Arizona digging up bones only to find that what you've uncovered is from a previously discovered dinosaur. That's how the search for antibiotics has panned out recently."
-    publishedDateTime: 2020-02-20T17:45:00Z
-    webUrl: "https://www.sfgate.com/news/article/Deep-learning-AI-discovers-surprising-new-15070809.php"
+  - title: "Powerful antibiotics discovered using AI"
+    excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
+    publishedDateTime: 2020-02-20T18:54:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-00018-3"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 54
+      name: Nature
+      domain: nature.com
+    quality: 37
     images:
-      - url: "https://www.sfgate.com/img/pages/article/opengraph_default.png"
-        width: 500
-        height: 261
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00018-3/d41586-020-00018-3_17728260.jpg"
+        width: 1024
+        height: 576
 
 secured: "OvL/yyWUFUWAmCt1HBM8C29gOVEMs6ugUhYBcUhQWUj5PivyYsMNGWZWAmKx51jV82XSPO58BVhIib9GZ5SEnCG7eg0XXHMf6ZUnwJAcQ+gUukSbOjaKAsi1UYCl54bw9BgsXgOO1z3SwiHqyBSKBPPiPTR5A/lQMo0EJFg/uGeIy41odQpFXcUj1IhYTtZrp/nlO2kL/nJzeNj6apcnvZmGoc80ILHMuhO6wZIHHGTYuL23wPTrw1Q3myv45/32ZL3eg7KF2Wb6fcDzP01A2yY5QXoMp7WMyyFAOR2O9cTcU3ST7qy+uhBm91BQBSui3iizNaOtmhwmX/aMTCIQqb8dTS2NHEqBYozOPdfWIU8JVANPox+BKxC8XzsP98Y8vxNYDlH+ZGxt2FRpt1r29W67S3mPTBC2i12ImGVeDWyLTv7VzLREPP9KmBnrES0QQ3GYJ/G+88Xy6DSctHqfRGzxv/1XvSUa2FATJJQYsDQ=;KgsYQaOHzIRhFIitFZZ2UA=="
 ---

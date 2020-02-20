@@ -25,19 +25,6 @@ images:
     title: "AI discovers new antibiotics effective against certain diseases"
 
 related:
-  - title: "Deep learning AI discovers surprising new antibiotics"
-    excerpt: "You spend months in the heat of Arizona digging up bones only to find that what you've uncovered is from a previously discovered dinosaur. That's how the search for antibiotics has panned out recently."
-    publishedDateTime: 2020-02-20T17:45:00Z
-    webUrl: "https://www.sfgate.com/news/article/Deep-learning-AI-discovers-surprising-new-15070809.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 54
-    images:
-      - url: "https://www.sfgate.com/img/pages/article/opengraph_default.png"
-        width: 500
-        height: 261
   - title: "Artificial intelligence yields new antibiotic"
     excerpt: "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ..."
     publishedDateTime: 2020-02-20T16:09:00Z
@@ -49,6 +36,19 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 37
+  - title: "Powerful antibiotics discovered using AI"
+    excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
+    publishedDateTime: 2020-02-20T18:54:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-00018-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00018-3/d41586-020-00018-3_17728260.jpg"
+        width: 1024
+        height: 576
 
 secured: "RHOZkjUQGuFGr7t87Cv7h0Qx5IwGnMQx9W+aakUNj+BNm91usg3QdU8v2fauoys/Q9+RTxOhRXFM7UO0iqnYiguWfH5gmu/ZWbfeM3Y2BcR7xwRfgp/VMbYqkcAsmG5IYtPboBO5YYAZDfDZ/rBRrDwCdpLJoYOp1hXcAFqDuzj+Vz5HZia8TOyIiEOsS/Cl1CuddRNamuOtfBpRqto40DpkAbmC7lYsx6r9ZL/MPNx8XW5huG0YEKDRJpA+DDsYl7nRrqMxJjUC2l7nfp72voyKgywD6sSjumv5c4YImh6/fhKcMVBvX4J26A3wb2gxVOQr+WgYPdANMjVMb0tbQXdH1AUkKWEftVDoR8ahzOPuvaug01sIX6TaRVPqEBXNDgN9AEk6+wjgMZpZYgkHS4T+yqRIiuC5Zd6De1mUPPI9oE6ZkxFAshldxN+ygPrL60oNYd8w78X05kePDz5sGOLRa9LIukKrNzwuOYeWSA0=;iZ/djTY/vMtdANPKZaDH0g=="
 ---

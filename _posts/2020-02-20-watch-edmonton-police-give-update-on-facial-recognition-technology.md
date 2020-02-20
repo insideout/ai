@@ -309,6 +309,32 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
+  - title: "What Can Barnstormers Teach Us about Face Recognition?"
+    excerpt: "We’re now at a similar point not only with face recognition, but also with many other fast-moving technologies with privacy implications, such as always-listening speakers and phones, GPS that tracks our every move, and, of course, social media. While my recommendations below apply to those technologies as well, I’m focusing on face recogni ..."
+    publishedDateTime: 2020-02-20T17:53:00Z
+    webUrl: "https://www.nextgov.com/ideas/2020/02/what-can-barnstormers-teach-us-about-face-recognition/163228/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/20/NGplane20200220/open-graph.jpg"
+        width: 400
+        height: 400
+  - title: "Artificial Intelligence Technology and Competition with China"
+    excerpt: "U.S. Chief Technology Officer Michael Kratsios talks about artificial intelligence technology and tackling Chinese competition."
+    publishedDateTime: 2020-02-20T19:16:00Z
+    webUrl: "https://www.c-span.org/video/?469498-1/artificial-intelligence-technology-competition-china"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 37
+    images:
+      - url: "https://images.c-span.org/Files/90d/1582138795.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
   - title: "London police deploy live facial recognition technology, stirring privacy fears"
     excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
     publishedDateTime: 2020-02-11T18:47:00Z

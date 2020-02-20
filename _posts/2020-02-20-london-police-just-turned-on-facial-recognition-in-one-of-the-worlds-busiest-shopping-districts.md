@@ -3,7 +3,7 @@ category: news
 title: "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts"
 excerpt: "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,"
 publishedDateTime: 2020-02-20T14:49:00Z
-webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/"
+webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts"
 ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
 type: article
@@ -59,6 +59,6 @@ related:
         width: 1998
         height: 1499
 
-secured: "c4Y7YAgKc+iCbah3AUMtLUHiEf2SiifKQgve1J4JFUmlhvl/T6M06sf0XzVKk343pH7/WFLnGtrIxxcNNEScq+b+9y6/B1ApmZx33ggz/e980zfqzjtc0SF/v6cJTdenN+vzxPJTzjK29ffNqPh20IdHKIr/m2/BUcKEjhayFilr535V3yVdxqQHy7DEyTKqTjaykTtHEqAMTB0/JeXbuEkHv2l7/WwGTyrv6pCYeTug9fvs/5RcR7Cz95iCLA5duCunLCf1yPFHQKK+avmqX2tsB+LCOdjtRb2sOG8q9OK3SpZEWrXU5DTaXu0o0Yh1pKHOiYwxszTZDNsRO8dz9BIogEwcqTubTX/TcD4WsztGzt+zyNxzuIvF754RE3CA1+7gxZrsBB6ZOMKj+yMxclB6CrsCNboGSU26Q59hzCl9v3oyAAkntoN7pZrDifc8AxKbpZ6kKqxRwxnDHL6IBsgh3M/nQ4vLxIPzYiO6yAc=;P6Hdc0e9sVQurY5yANXI6g=="
+secured: "JZggr2+Ro/HNoaW1ijauxlrc406GU6aJp2qudlksh2iua30BY7V/HwztRARHYOxhLk88CDDaii2fgKKFYdB/9qyEYUfnoqixrlex4xJe01B/iCyaIl1M1reO1p92NSgFtrd8pCNmZLIFVjIRYqQFeB7hA2xqGa0ZVhSB3uXMjsrbh+n/J08ATnA4s+DzW06UTav7V07xjVfZ7wWux1+aqDaZErWYCCTai3ZEQ/MFRwFTGU/Bt1d+6NKeCpcQRGcBcGNHx2+WnVQ5sY1a1++3x/a4+xSY0IwmjlQQN0CrMKDAT4rnQLV4q714C8IHcLI7dg6gADrx7RyJsy+l/ise+q57riE3AnsqwYilfxZc44ZvC8Y0dbi5viS6j2fin3E/zjs9sVT1djLWQSRYgi41gje+4AmIoITolRLrV2XEC66Xou7zseYXTXMr+jp412G1NMb1Lz8IIGxm79rTDtTIpzsTuq85P/UiFwdBjysYaV4=;sM+tqfV/x1l9Kxr8FsBysQ=="
 ---
 

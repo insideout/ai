@@ -1,56 +1,95 @@
 ---
 category: news
 title: "Deep learning AI discovers surprising new antibiotics"
-excerpt: "You spend months in the heat of Arizona digging up bones only to find that what you've uncovered is from a previously discovered dinosaur. That's how the search for antibiotics has panned out recently."
-publishedDateTime: 2020-02-20T17:45:00Z
-webUrl: "https://www.sfgate.com/news/article/Deep-learning-AI-discovers-surprising-new-15070809.php"
+excerpt: "Enter deep learning. These algorithms power many of today’s facial recognition systems and self-driving cars. They mimic how neurons in our brains operate by learning patterns in data. An individual artificial neuron – like a mini sensor – might detect simple patterns like lines or circles. By using thousands of these artificial neurons ..."
+publishedDateTime: 2020-02-20T19:31:00Z
+webUrl: "https://www.rawstory.com/2020/02/deep-learning-ai-discovers-surprising-new-antibiotics/"
+ampWebUrl: "https://www.rawstory.com/2020/02/deep-learning-ai-discovers-surprising-new-antibiotics/amp/"
+cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/deep-learning-ai-discovers-surprising-new-antibiotics/amp/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: The Raw Story
+  domain: rawstory.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://www.sfgate.com/img/pages/article/opengraph_default.png"
-    width: 500
-    height: 261
+  - url: "https://www.rawstory.com/wp-content/uploads/2020/02/A-colored-electron-microscope-image-of-MRSA.-NIH-NIAIDflickr-CC-BY.jpeg"
+    width: 640
+    height: 315
     title: "Deep learning AI discovers surprising new antibiotics"
 
 related:
-  - title: "AI discovers new antibiotics effective against certain diseases"
-    excerpt: "Artificial intelligence has been used to discover new antibiotics that treat resistant strains such as C. difficile and Acinetobacter baumannii (pictured) © FT montage; Janice Carr/CDC Share on Twitter (opens new window) Share on Facebook (opens new window) Share on LinkedIn (opens new window) Share on Whatsapp (opens new window) Artificial ..."
-    publishedDateTime: 2020-02-20T06:00:00Z
-    webUrl: "https://www.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
-    ampWebUrl: "https://amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
+  - title: "Cisco adds 5G and machine learning to IoT monitoring platform"
+    excerpt: "\"Leveraging machine learning opens up opportunities to look for specific patterns or to find new patterns that may have operational, security or financial implications,\" he said. SEE: 5G: What it means for IoT (free PDF) The Control Center allows customers to manage multiple services through one platform. Butaney said one of Cisco's ..."
+    publishedDateTime: 2020-02-20T16:30:00Z
+    webUrl: "https://www.techrepublic.com/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 91
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "Artificial intelligence yields new antibiotic"
-    excerpt: "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ..."
-    publishedDateTime: 2020-02-20T16:09:00Z
-    webUrl: "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.html"
-    ampWebUrl: "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp"
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/02/03/66f6f5da-15a1-456c-8adf-a48cbf833009/resize/1200x/9666674f20d29b29ebb06d59db1479a9/istock-952984968.jpg"
+        width: 1200
+        height: 800
+  - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
+    excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
+    publishedDateTime: 2020-02-17T16:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dataiku-named-a-leader-in-the-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301005916.html"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
+        width: 1200
+        height: 628
+  - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
+    excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
+    publishedDateTime: 2020-02-18T02:45:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-named-a-leader-in-the-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-884558052.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
+        width: 1200
+        height: 628
+  - title: "Hyland acquires blockchain-credentialing provider Learning Machine"
+    excerpt: "CLEVELAND, Feb. 19, 2020 /PRNewswire/ -- Hyland, a leading content services provider, announced its acquisition of Learning Machine, an innovator in blockchain-anchored digital credentialing solutions. The acquisition was effective February 1, 2020. Learning Machine is a pioneer in leveraging blockchain technology to authenticate documents and ..."
+    publishedDateTime: 2020-02-19T00:00:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/hyland-acquires-blockchain-credentialing-provider-learning-machine-8528534"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 19
+  - title: "Alteryx Recognized As A Leader in Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
+    excerpt: "/PRNewswire/ -- Alteryx, Inc. (NYSE: AYX), revolutionizing business through data science and analytics, today announced that it was once again named a"
+    publishedDateTime: 2020-02-17T16:27:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/alteryx-recognized-as-a-leader-in-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301006033.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/662162/Alteryx_Logo.jpg?p=facebook"
+        width: 1196
+        height: 628
 
-secured: "DQ/o/5WJjEAgqSKck/+31MBf4ZvXAfxQsPeq1qJuVsKjzBS4VWlxlmHRw54y30UPxNTsOZMF9Xk1nVj2NtHvzcS9j+Viz5AixWlDMmFKcNPEg9C3iyJJjMJyHa1aCqvKeu7IkZqu3b9YUlcFrrGzDe0IxFkLob7XHxcpPhv/SVd4RqgOjcCO9FfJHcupLtz9cYmJq/SqPWyPHI0yOC9AqOcPRw7ADd+yb2+Zh7JUiEpSHEOpQEmfMkOkJZTNdnqZY14bFqln8i0lZ72HzuVbLeimKAhA2FS5Wk7wY7Zdjn0FfWTTFkJE28r461vDIy73;MGld2xCyykWyU9mdNjdyvw=="
+secured: "uHJFdfmeGs6/0RXJFFljqXeiJ2WPlWn8RafSNBXpW8vBfPIIq1Y+01MmA5hhpwd1SsF5EzRJqjIXvwNyXSnauZz0YSbeKVjtvLEAx82ezt0te+aRUpqJ8qSrvct+6T7YkMNzSR9/AzwxCXKeRxJuhPaYn8bDNRhdpO+VvLWYp+eqFLHpPNC6ODLAdtKqSQRDX8r2086/FNciT+iQJ/a6VuVeLBVuWVtf8OKfwsRYtGdxPNR3SyptktlI1Ak3NVerxGW5f6ST2zQsEDoHLGLs+3hejIKoB11nYSU28ICR0P6IYFMBEuQzRIZgSQpUyriE;2Il2ZF48yQgZNWaGwSoR0w=="
 ---
 

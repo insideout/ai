@@ -27,6 +27,6 @@ images:
     height: 784
     title: "CData creates ODBC reader for Google’s TensorFlow"
 
-secured: "iouWloO0cBoTt8au/aJQowwKBH1qY2LvMy0VqjholzZh/wMymE15O6Z3COIhNi0Zz90iqGV1n9a3Cl4huEpL4nTUQwM047EqyS9oTjzS1htTyqpd2ifsAZlF3m2Fg1vUJYoeK6ceVo+Q7K8ri1qUaXKsruGbEgvhxR6rHxpLFUuWscftL2t45qlbpWI8GgbsUno9nk6pDCr1qEQpGwpqGjuNPm/wXe7nfpWrQDJGg0bF3FuleZic8q++pqtcb0vZB9ELcppmqYOxDZdW7+HFtJkuJHTFihYDkemavSDYrl+b0sFD4MmduQRD0ha8wtug;90TOf/Ys7kIQY3R9fhOgag=="
+secured: "Sa6XsgKf939cNIzkYgikWIs1NHgm6jxUbOGMolDaXhfFnPZ/0muJUZw4/tHDftQwfp2ofciwWd76L6p7AHCKg0GikSw4u+XTLDsy1fM+J039Dd95B8xWJ+5QYG7nSKrV5wOD7o2hnsnmK+1ZlI+sSqL8RYHAMC6XSd7ecN7lZaQOrBuar8x4+oDX6b/Hz+m5iJHZ81C5AEcZ9m8YtMeG9UoRzy708tulxy3Vy5QW9wpc0pgZz5dPTkUUGaUgcd35fnAmxRvWaty8Xd0+SgaMEUiNIf3k9yIRV5Q/2Zg/tCVM165/o7btfGyFj2v6GEdv;A7cvxBdj6RdLBxqfQVQzJg=="
 ---
 

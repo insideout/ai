@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 400
     title: "Local speech recognition tech company partners with global call center company"
 
-related:
-  - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
-    excerpt: "The AI-algorithm that powers SpeechX is based on proprietary evaluation parameters of Mercer | Mettl and grading mechanism of its technology partner CarnegieSpeech that in turn leverages state-of-the-art and patented speech recognition and pinpointing technology licensed by the Carnegie Mellon University. SpeechX assessments can be taken from ..."
-    publishedDateTime: 2020-02-06T02:31:00Z
-    webUrl: "https://indiaeducationdiary.in/mercer-mettl-partners-with-carnegie-speech-for-english-language-assessments/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 1
-
-secured: "GjKH1Q6+ZtTZolYhINp2FDwXlyurP6vSowjWAKWnl3IumYt7N1J3xHsG0TNzhXqXzZUbtwVCd8Yk90trJ8gax9PimdQQwkT3SMYZK0r/p0dVcKfyDy8YcKG8MEDBr6bgogv8MMjaTwTwgP3286XRY/BD6IPLCLL5wUjrtkIYd/Sb/E4ClCDPBmkHGSKGC4Kn4tOchSo/fTT/DQcl8Jfic+Y/xBAFn0VcW7FvMcN4fcg+wImaQEGV9fbfcHCSIClCMBSlzmn5lLhg/XJExfrj9E5vsviq1LC/4b/ciRQThJUODqsDh9OeIj/Oe4gSLe3U;otgIIdsJ+XuN2wScZt+t8g=="
+secured: "xUmK1gEovU/ix0QNJTyPz+jxnShOxDo5nvL2icZCTtzilbqxn9r5d7wVTgXmyc6rUPYPJTAO6rC6WZiZU+Q/nGrk5X8VZu/hkAGH2oxL0FDkf6oz/BrIfQ+V23yDpUhLx2jKh5vh5FwXvXJmRIdkvEI/6tklBjoOxq7ahVgfavCTuNiI/TZLxas/njjBWF/aeJSP81bTqhhSpyClYDwS9ZgkZicqHDCQL/7TUQUJO6GyLPZwJCziS/kkVZTi6bWcFrHfj+kTZTDBF0J/YREGGcP0oZtOk7sUvUFqEfJvRJZJjZ2QAlo1Ngk+mlaXfp45;w2imWiKTO6jv1vxHCsfCcw=="
 ---
 

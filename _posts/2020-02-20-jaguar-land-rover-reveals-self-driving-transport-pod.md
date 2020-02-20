@@ -69,6 +69,19 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000563995434.jpg?strip=all&w=960&quality=100"
         width: 960
         height: 634
+  - title: "Jaguar Land Rover latest to unveil a self-driving shuttle"
+    excerpt: "Limited parking spots coupled with congestion will make owning and driving your own car a hassle. Automakers realize this and seem to have reached a consensus on the solution: self-driving shuttles that run around town offering rides. The British automaker's design is called the Project Vector, a self-driving, battery-electric shuttle that ..."
+    publishedDateTime: 2020-02-20T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127185_jaguar-land-rover-latest-to-unveil-a-self-driving-shuttle"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/jaguar-land-rover-project-vector_100736818_h.jpg"
+        width: 1920
+        height: 1278
   - title: "Jaguar Land Rover reveals new electric self-driving pod to be used on UK roads next year"
     excerpt: "The city will be used as a 'living laboratory' by Britain's biggest car-maker to test how the self-driving pods interact with other vehicles, pedestrians and cyclists. One of the first to get an early preview is Prince Charles, who was on hand to officially open the National Automotive Innovation Centre at Warwick University, where the ..."
     publishedDateTime: 2020-02-18T15:03:00Z

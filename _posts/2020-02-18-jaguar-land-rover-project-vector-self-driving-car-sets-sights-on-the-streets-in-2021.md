@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driv
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000563995434.jpg?strip=all&w=960&quality=100"
         width: 960
         height: 634
+  - title: "Jaguar Land Rover latest to unveil a self-driving shuttle"
+    excerpt: "Limited parking spots coupled with congestion will make owning and driving your own car a hassle. Automakers realize this and seem to have reached a consensus on the solution: self-driving shuttles that run around town offering rides. The British automaker's design is called the Project Vector, a self-driving, battery-electric shuttle that ..."
+    publishedDateTime: 2020-02-20T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127185_jaguar-land-rover-latest-to-unveil-a-self-driving-shuttle"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/jaguar-land-rover-project-vector_100736818_h.jpg"
+        width: 1920
+        height: 1278
   - title: "Jaguar Land Rover reveals self-driving transport pod"
     excerpt: "Jaguar Land Rover, the UK’s largest automotive manufacturer, has revealed a new self-driving transport pod developed for cities and ready for an on-road pilot programme in the UK starting next year. Known as Project Vector, the vehicle is an autonomous platform with a design focus on maximising interior space and offering flexible body ..."
     publishedDateTime: 2020-02-20T12:43:00Z

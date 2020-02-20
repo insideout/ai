@@ -17,6 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "PlYIMrt5gzY49M5UHw+JD2Xvs0u3nffTDKsh08uDbqgubrn3rxdfkWzcctOAUwPuhUZ8gMhl6y/wvt8qwBxJEotGVwIp0299VFWnUMHzeBXHDy/PDAjcCeLrW5OBDBomXUdmcXn7ldoUYW5Uhf5D6atgztQblJ77JGWLcTMQffsceg0qgGnVgXZiwDaMyJjh+zpn0NliVoHYWwDdjMl8cMd5K0YgAhRzKZoze7yhxnVLcoqNLgFnT9Q2wdx0lokPyAjJEgJv9IlONKZ/h+/BrusTC6P0z33L7c5XA9/+R7Q3CW/0EbtR6ETXg6XLqQcp;8/1X+l9rl9NOWgZ7VkGo2Q=="
+secured: "AEzXM4xOgKy2ckW2ZKqgvB6v9lkAqHxvtLk83lLDtzst7qMwGjC+U03NVxRzi94aoXvYWFWfJ3w6JhC7pq849n2sG2+h1Uek4K/BwNzMKJbDtw3RIg1wVGO5eglaP5KC8vRfdoPVSZqJTbjbc+FiAFfcuxgxzjgZ7bPZP7yD5p/TeDDhjjasGLWuu3fSZtFFv+RlYAzX90A61ogUHGb6tT3J1iIbn/HA2s+Kdr2RmQCpODyE+Qh7dBMCaUVDJRyNPogwIi3qJkm9aq+RB7I8J1Itj1yuc4ZPR0Yrggmz5X34/ZSXu+m2KRwRwrXerzZV;bm4cGQ8DxrFSr6meUTiZ7Q=="
 ---
 

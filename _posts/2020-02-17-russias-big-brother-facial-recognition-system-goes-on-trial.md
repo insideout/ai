@@ -151,6 +151,21 @@ related:
       - url: "https://assets.vogue.com/photos/5e46c4856d8f97000815dd3e/master/pass/VO0320_FacialRecognition_01.jpg"
         width: 4068
         height: 2820
+  - title: "UCLA drops plans to use facial recognition after student pushback"
+    excerpt: "UCLA is dropping its plans to use facial recognition technology as digital rights and student groups have pushed colleges across the country not to adopt the controversial technology. Fight for the Future, a digital rights group that has been raising alarms about facial recognition technology, shared a statement from UCLA Administrative Vice ..."
+    publishedDateTime: 2020-02-20T19:07:00Z
+    webUrl: "https://www.dailydot.com/layer8/facial-recognition-ucla/"
+    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-ucla/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ucla/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-UCLA-1024x512.jpg"
+        width: 1024
+        height: 512
   - title: "Washington Passes Government Facial Recognition Rules"
     excerpt: "Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments, one in a series of related proposals up for review this year. (TNS) — Washington state senators ..."
     publishedDateTime: 2020-02-20T17:56:00Z

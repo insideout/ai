@@ -22,179 +22,243 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
-    excerpt: "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ..."
-    publishedDateTime: 2020-02-06T02:09:00Z
-    webUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/"
-    ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
-    cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
+  - title: "Army looks to block data ‘poisoning’ in facial recognition, AI"
+    excerpt: "The Army has many data problems. But when it comes to the data that underlies facial recognition, one sticks out: Enemies want to poison the well. Adversaries are becoming more sophisticated at providing “poisoned,” or subtly altered, data that will mistrain artificial intelligence and machine learning algorithms. To try and safeguard ..."
+    publishedDateTime: 2020-02-11T17:17:00Z
+    webUrl: "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 157
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 154
     images:
-      - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
-        width: 800
-        height: 452
-  - title: "Facebook buys startup using AI vision to find your location (updated)"
-    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
-    publishedDateTime: 2020-02-08T17:28:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
+        width: 2309
+        height: 1299
+  - title: "Is this facial recognition app going too far? We tested it"
+    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality,"
+    publishedDateTime: 2020-02-10T02:12:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: CNN
+      domain: cnn.com
     quality: 89
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
-        width: 600
-        height: 350
-  - title: "Facebook buys startup using AI vision to find your location"
-    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
-    publishedDateTime: 2020-02-08T17:28:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
+        width: 1100
+        height: 619
+  - title: "Why concern about facial recognition from brain scans is overblown"
+    excerpt: "The privacy concerns arose when a study published in October reported that a facial-recognition software program had correctly matched photos of research volunteers with magnetic resonance imaging (MRI) scans of their head and brain 1. This feat was a technical tour de force, representing important advances in biomedical image analysis."
+    publishedDateTime: 2020-02-18T12:40:00Z
+    webUrl: "https://www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/"
+    ampWebUrl: "https://www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/amp"
+    cdnAmpWebUrl: "https://www-spectrumnews-org.cdn.ampproject.org/c/s/www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/amp"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Spectrum
+      domain: spectrumnews.org
+    quality: 74
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
-        width: 600
-        height: 350
-  - title: "Facebook and Venmo demand Clearview AI stops scraping their data"
-    excerpt: "The facial recognition startup is using photos from the internet to build its database. Following Google and Twitter, Facebook has become the latest company to take legal action against controversial facial recognition startup Clearview AI. According to Buzzfeed News, the company sent a cease-and-desist letter to Clearview sometime this week ..."
-    publishedDateTime: 2020-02-06T14:48:00Z
-    webUrl: "https://www.engadget.com/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
+      - url: "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/02/17111237/20200218-PelphryMRI112011.jpg"
+        width: 1120
+        height: 550
+  - title: "Congressional committee to hear testimony on facial recognition"
+    excerpt: "A Congressional committee will hold a hearing Thursday on the Department of Homeland Security’s use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age ..."
+    publishedDateTime: 2020-02-06T04:01:00Z
+    webUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/"
+    ampWebUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-12%252F817d5be0-2b17-11ea-bf2f-87fbf2b24155%26client%3Da1acac3e1b3290917d92%26signature%3Db14f51401056407d35d55f5f6c2b29b8f6862048&client=amp-blogside-v2&signature=d27d50c6ff2fff8a8b1438ffab389237e0ebdc55"
-        width: 600
-        height: 350
-  - title: "Facebook, Twitter, YouTube, Venmo demand AI startup must stop scraping faces from sites"
-    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police."
-    publishedDateTime: 2020-02-06T03:16:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-twitter-youtube-venmo-demand-ai-startup-must-stop-scraping-faces-from-sites-2020-02-05"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/01/mlkms11.jpg?w=1024&h=676"
+        width: 1024
+        height: 675
+  - title: "Facial Recognition Experts to Testify to House Committee"
+    excerpt: "(TNS)—A Congressional committee will hold a hearing Thursday on the Department of Homeland Security's use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age -- which critics say could easily result in bias. The House Homeland Security ..."
+    publishedDateTime: 2020-02-06T21:56:00Z
+    webUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html"
+    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-HW845_Facebo_ZH_20191212141837.jpg"
-        width: 890
-        height: 501
-  - title: "YouTube: Face recognition firm must stop harvesting videos"
-    excerpt: "YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI."
-    publishedDateTime: 2020-02-06T03:38:00Z
-    webUrl: "https://www.sfgate.com/business/technology/article/YouTube-Face-recognition-firm-must-stop-15032752.php"
+      - url: "https://media2.govtech.com/images/shutterstock_387869113.jpg"
+        width: 946
+        height: 630
+  - title: "Groups Call on Chicago to Ban Facial Recognition Technology"
+    excerpt: "(TNS) — Chicago Mayor Lori Lightfoot should ban the city’s use of facial recognition technology of the kind the Chicago Police Department utilizes on the grounds it’s racially biased and an invasion of residents’ privacy, a group of activists said Tuesday. The groups want to halt the department’s new contract to use technology ..."
+    publishedDateTime: 2020-02-06T22:37:00Z
+    webUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
+  - title: "Met Police rolls out live facial recognition in London"
+    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
+    publishedDateTime: 2020-02-12T04:00:00Z
+    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+  - title: "Chino police and facial recognition technology: 5 things to know"
+    excerpt: "The Chino Police Department held a forum on the use of the software and solicited feedback from the community."
+    publishedDateTime: 2020-02-15T00:16:00Z
+    webUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/"
+    ampWebUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
+    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
+    type: article
+    provider:
+      name: Inland Valley Daily Bulletin
+      domain: dailybulletin.com
+    quality: 59
+    images:
+      - url: "https://www.dailybulletin.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
+        width: 480
+        height: 270
+  - title: "Protesters in India object to facial recognition expansion"
+    excerpt: "Police in New Delhi are using facial recognition to identify protesters. Activists are worried about the lack of regulation around the technology; they are also sharing tips on evading detection. Protest against India's Citizenship Amendment Act in New Delhi. Activists in the Indian capital of New Delhi are expressing concern over the use of ..."
+    publishedDateTime: 2020-02-18T04:49:00Z
+    webUrl: "https://www.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
+    ampWebUrl: "https://amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 59
+    images:
+      - url: "https://www.dw.com/static/stills/images/je/je20200114_paperN_image_1024x576_3.jpg"
+        width: 1024
+        height: 576
+  - title: "Merkley bill aims to avert federal abuse of facial recognition"
+    excerpt: "WASHINGTON (KTVZ) – Sens. Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation Wednesday they said is aimed at protecting the privacy of consumers from rapidly advancing facial recognition technology and data collection practices that heighten the risk of over-surveillance and over-policing, especially in communities already ..."
+    publishedDateTime: 2020-02-14T07:25:00Z
+    webUrl: "https://ktvz.com/news/oregon-northwest/2020/02/13/merkley-bill-aims-to-avert-federal-abuse-of-facial-recognition/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 54
+    images:
+      - url: "https://ktvz.com/wp-content/uploads/2019/11/US-Capitol-generic-860x484.jpg"
+        width: 860
+        height: 484
+  - title: "CEO Glaser invests $10M in RealNetworks, bullish on facial recognition software, gaming"
+    excerpt: "RealNetworks Inc. CEO Rob Glaser is so bullish on the company’s facial recognition software and its gaming pipeline that he pledged this week to invest nearly $10 million of his personal funds into the company."
+    publishedDateTime: 2020-02-12T18:37:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.html"
+    ampWebUrl: "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 51
+    images:
+      - url: "https://media.bizj.us/view/img/11480968/rob-glaser-ceo-realnetworks-01*600xx4965-3310-9-0.jpg"
+        width: 600
+        height: 400
+  - title: "Rights groups join student demands to bar facial recognition at colleges"
+    excerpt: "The ACLU, EFF and several other groups sign a letter of support for the student demands. Students shouldn't have to worry that colleges and universities are tracking their movements with facial recognition,"
+    publishedDateTime: 2020-02-13T11:09:00Z
+    webUrl: "https://www.cnet.com/news/rights-groups-join-student-demands-to-bar-facial-recognition-at-colleges/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 48
+  - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
+    excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
+    publishedDateTime: 2020-02-11T22:23:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-privacy-safety-trends"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "Facial recognition provides big boost in finding lost pets"
+    excerpt: "Hardin County Animal Care and Control is taking advantage of a new tool to help locate and identify lost dogs and cats. The shelter recently announced its partnership with Finding Rover, a company that uses facial recognition imaging systems. According to ..."
+    publishedDateTime: 2020-02-06T09:55:00Z
+    webUrl: "https://www.thenewsenterprise.com/news/local/facial-recognition-provides-big-boost-in-finding-lost-pets/article_97fb94a1-4134-5020-b0d9-9931d297c14b.html"
+    type: article
+    provider:
+      name: The News-Enterprise
+      domain: thenewsenterprise.com
     quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/10/33/24/18986281/9/rawImage.jpg"
-        width: 2048
-        height: 1365
-  - title: "Facebook orders creepy AI firm to stop scraping your Instagram photos"
-    excerpt: "Facebook has told Clearview AI, the controversial face-recognition service that works with law enforcement agencies around the country, to stop using images from its networks, the company confirmed Wednesday. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using ..."
-    publishedDateTime: 2020-02-06T15:15:00Z
-    webUrl: "https://www.fastcompany.com/90461077/facebook-joins-fellow-tech-companies-in-publicly-opposing-a-controversial-face-recognition-firm?partner=rss"
+      - url: "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/assets/v3/editorial/3/1a/31a4f67f-c4b3-5f0e-9d69-8a954c0d14b6/5e3ba2ce8fd0d.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+  - title: "Despite public concerns, facial recognition gets traction in Congress"
+    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs ..."
+    publishedDateTime: 2020-02-09T00:00:00Z
+    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-facebook-joins-others-in-contesting-face-recognition-firmand8217s-scraping.jpg"
-        width: 1280
-        height: 720
-  - title: "Google demands startup Clearview AI stop scraping photos"
-    excerpt: "Google LLC-owned YouTube Wednesday said it has sent a cease-and-desist letter to Clearview AI, telling the startup that it can no longer scrape videos from its platform. Clearview AI came under scrutiny this year after reports that it had been scraping videos of people on social media platforms and then adding faces to its database."
-    publishedDateTime: 2020-02-06T05:46:00Z
-    webUrl: "https://siliconangle.com/2020/02/05/google-demands-startup-clearview-ai-stop-scraping-photos/"
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
+        width: 760
+        height: 368
+  - title: "Despite public concerns, facial recognition gets traction in Congress"
+    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
+    publishedDateTime: 2020-02-10T01:59:00Z
+    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/431443767_3f9ec027b9_c.jpg"
-        width: 800
-        height: 400
-  - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-    excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
-    publishedDateTime: 2020-02-06T04:08:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781053"
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
+        width: 760
+        height: 368
+  - title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
+    excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI), will stop short of imposing an outright ban, a top official said."
+    publishedDateTime: 2020-02-16T23:43:00Z
+    webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
     type: article
     provider:
-      name: ABC
-      domain: go.com
-    quality: 37
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 29
     images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
-        width: 992
-        height: 558
-  - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
-    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
-    publishedDateTime: 2020-02-06T11:57:00Z
-    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 36
-  - title: "Facebook, YouTube, Twitter warn Clearview face-recognition service to stop harvesting images"
-    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
-    publishedDateTime: 2020-02-06T19:37:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 33
-    images:
-      - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_073744.jpg?itok=8I6egWZ4&v=1581896270"
         width: 1200
-        height: 800
-  - title: "Facebook and Google Demand Startup Stop Scraping Photos for Face DB"
-    excerpt: "Facebook and Google have both sent cease-and-desist letters to Clearview AI demanding that the facial recognition startup stop scraping photos and videos to build up its face database. Clearview AI develops software that matches people’s portrait photos to their online photos with 99.6% accuracy, and the powerful tool is reportedly being used ..."
-    publishedDateTime: 2020-02-06T18:06:00Z
-    webUrl: "https://petapixel.com/2020/02/06/facebook-and-google-demand-startup-stop-scraping-photos-for-face-db/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 22
-    images:
-      - url: "https://petapixel.com/assets/uploads/2020/02/cuttingedgetech.jpg"
-        width: 1600
-        height: 840
-  - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
-    excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
-    publishedDateTime: 2020-02-06T10:16:00Z
-    webUrl: "https://www.benzinga.com/news/20/02/15266220/facebook-sends-cease-and-desist-letter-to-ai-startup-joins-twitter-venmo-youtube"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
+        height: 630
 
 secured: "iw2Zo/bI9HVykpm8GoOKLNwRmIUbA1dmLEeCYcoePsi2u7lxOL96SlIgCgontDO5fK9Zj/12OYKAm5XEvEstjV0vGbriWQjP93srN+LVwnU+S4k9VvsMMnwWqtmz5ZdPR3QVjpZR5M9MtB68+bIlKghvjWbWNBAlqVWHnJKpyQlCNHLc6fZzjNJrZV2Zt3Mv4kuTG9rSuiYsZ1E9h4KDHjei/GlSiIv7Hij0LAEbkaC+EkwsDCfTP7TBftUPRu/EI4keMEF6nusSPcyR/XsJEgTFPXa0ux77iYF/WeUOzYtZyckQsYgrzOMQscGPYo2lq4+xg3p7UjmX9aZq/EUL3OJjUc94vyfoIg13B/RJoftWAei5iE11YbeH3KoRpDU72vgEbYOXYowrMtYEqX2N68wxaxJQmluzy3kkw+0OZnjyLVybIVEt5A+LHEqrUZ151isJPYdn5FJhMH5FMtZcwvaVFPF16P6Sw7NyBINPjoE=;rXhZStXHheBzBM0NRDLb0Q=="
 ---

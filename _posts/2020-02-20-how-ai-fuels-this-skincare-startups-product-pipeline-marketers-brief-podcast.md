@@ -22,6 +22,6 @@ images:
     height: 600
     title: "How AI fuels this skincare startup's product pipeline: Marketer’s Brief Podcast"
 
-secured: "d3GzXobEruQbAyAnWxftmCVExF9fQHuky0c2AxiUWlXb43kMrBBYClamgvv73XPsRqQQ6JW0isadMhbgp43qVMwVotZCvC2acpi/F9q0peEvoWvcFM1DZisB4Wg3xeVy8FlqtE0smuYke9OSQsZhOWDGt8rsk5dA9au1o6ZYTbgzuOYat6ZnZKcW4cy/j39SR5XMiOoVR1OAqr6qaOI96wisafgq2o4YtD2SLbzFJKhatg1k+XtU95kw9YP+YElP24GKJBDBrl7QCv3MMzFs7ERQBi/oPeQadN/m5YsgBXByAxy58IYx4j33R8h65vNg;667PLaX/zt6KI/yX+V83Ng=="
+secured: "oreSNa76OhWuNXlEx6FNQtVfSDV5cYPDU8J1G7ObpnBchjcaKUYgdrGE+Zba3rQgXsTCwCHbFmIT1yFwGznCXHDvmY1Ae0QOeZp8CFhAnwrhA1AKgUltG9i32emkdhX+wvH8A2rFRY2lJRusAFlbMD9Zhsi7ADsM/1okLH3/fNr9G8uhoHMIJF/ibVoYp+lALn6mIaY3c4YwZjcncY72cMj3tg54v2yGTycGYrSvlfBRIf/Rfg4BSUBgqxrqAeykkaH0cVidfgO94+OaDMq0SL2OkXh1Wq8j/vDiyFeyUWGKk3D05m78/m+4azUbvaQa+wiZ9GlYLrQBlMXuW5sM+LoSzrA829XvSwQq9n+/RSZHS/rkRuy7cId3jf+ZXm7a+MmrKMmAU0+zUfy86a9VsSQf6koJ/6lRbV1Z3qsa6SZP+gj7bdFZSo9D/XZuxF6fjWBgErrvXJ4fpwuTDcvDsNTOTuvJZCGXbVf/FKyYTr4=;lio3ZWV+UzSsD8tdR3NLtw=="
 ---
 
