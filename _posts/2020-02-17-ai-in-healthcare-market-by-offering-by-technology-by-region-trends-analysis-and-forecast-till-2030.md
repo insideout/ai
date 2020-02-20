@@ -70,6 +70,19 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
         width: 400
         height: 300
+  - title: "Big Data With Big Payoff — How The Healthcare Industry Is Embracing AI To Help Save Lives"
+    excerpt: "Artificial intelligence (AI) initiatives are supposed to enable us to reinvent how ... One industry is taking the lead on leveraging Big Data to make AI work and is blazing a trail that others can follow. An IDC-Seagate study found that the healthcare “datasphere” is one of the fastest growing—with a 36 percent Compound Annual Growth ..."
+    publishedDateTime: 2020-02-20T20:46:00Z
+    webUrl: "https://www.healthitoutcomes.com/doc/big-data-with-big-payoff-how-the-healthcare-industry-is-embracing-ai-to-help-save-lives-0001"
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 45
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/b61ec6d6/b61ec6d6-3bd5-4eb2-a2ec-0e9423fa3414/375_250-big_data.jpg"
+        width: 375
+        height: 249
   - title: "AI in the Manufacturing Sector Market Analysis to 2025 | New Technologies Transforming the Global Industry"
     excerpt: "The hardware segment will continue dominating the AI in the manufacturing sector market on account of the increasing demand for AI processors across several industry verticals. Considering the AI processors,"
     publishedDateTime: 2020-02-18T10:28:00Z

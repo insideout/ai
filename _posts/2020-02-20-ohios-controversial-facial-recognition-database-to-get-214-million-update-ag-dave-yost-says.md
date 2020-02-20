@@ -26,30 +26,19 @@ images:
     title: "Ohio’s controversial facial-recognition database to get $21.4 million update, AG Dave Yost says"
 
 related:
-  - title: "Panel: Add New License Photos to Facial Recognition Database"
-    excerpt: "The Attorney General's Facial Recognition Task Force recommended that current Bureau of Motor Vehicle photos be added, which would include photos of people already in the database plus photos of individuals who received a license since 2011. The photos would have to meet an image quality standard. The report noted that the recommendation was ..."
-    publishedDateTime: 2020-02-20T18:57:00Z
-    webUrl: "https://www.usnews.com/news/best-states/ohio/articles/2020-02-20/panel-add-new-license-photos-to-facial-recognition-database"
+  - title: "Clearview AI's founder defends controversial facial recognition app"
+    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
+    publishedDateTime: 2020-02-18T14:19:00Z
+    webUrl: "https://www.djournal.com/news/national/clearview-ai-s-founder-defends-controversial-facial-recognition-app/video_9e9cbbbc-111e-5904-b1c9-c12426069aab.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Editorial: Facial-recognition software takes personal invasion into a new dimension"
-    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
-    publishedDateTime: 2020-02-16T22:00:00Z
-    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.html"
-    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 38
+      name: Daily Journal
+      domain: djournal.com
+    quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/8b/d8bc824d-a430-5a4c-a7d5-3c24d9712733/5e46e82107203.image.jpg"
-        width: 436
-        height: 512
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
 
 secured: "36iBNbJ2X3GZJN/ObgpfqSRP0OeCx7VwRsi28JGFpOv3fl7eaNAjdj+b9AOkPb7S1CJrfUNBry+9bzIXEOvEGK7RnrUtGGcY27nEZ0Umn2Cz3eHcS+Yy/YceDATF98if+pUFpj9AWImwemzFB7OdgkvRr6C+BGhF2/hePRZkO2zreWGrHhYTu3M1RGmknAmcvxFyk8G2SuKrflRr9rlIkeu3CQof3ddyo4owaCqxsBoTPC5jSP1N3peSccKgY0q1hwMkm2SHmvTDyy6gO3H2Fz4RnHp4I8kkmYjayQIpjzXpmpcbcpH5pxhzn1yCYo+ITDVGv77ZotXqxAbTbzG9qCkOu7BRUgebGPDzGZFieZmfrje5d9V3iUHWPLk3OXb3xL9dPuBDB82YYN7mj2s+jnWnAP0Ol/m9/oxwGeYcrHfWdl+o0ZakdObSNM9NEVQL8h6+djvs7OyMUyOrYIGaoVjc3cldCETUvvM7rGT3ka0=;bC8GQ2nwvL5lrUqlAy9NCA=="
 ---

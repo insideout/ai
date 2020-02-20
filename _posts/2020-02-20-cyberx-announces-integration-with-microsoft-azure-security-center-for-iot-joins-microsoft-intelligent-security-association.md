@@ -3,7 +3,7 @@ category: news
 title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
 excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
 publishedDateTime: 2020-02-20T18:16:00Z
-webUrl: "https://www.businesswire.com/news/home/20200220005507/en/"
+webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
 type: article
 quality: 28
 heat: -1
@@ -64,6 +64,6 @@ related:
         width: 2700
         height: 1414
 
-secured: "oWWWkDKfU561p0Y/u0U/d8MQob115I4J5FgJ3CheapL/04Kp2iS8n8J8JEP/Qlu8KMh4HAQ6huFlanV6WC98YZVeAPGccMffxmOfhLOhyruAnf2Nd2MdcsIm1lvo2BRSGqGOfryA4VGqLlwXdBeFejMr8nDcf7KaipWMpY3n5NKV7iDn524AiB3B7ad7bldM2uhmHJV962JhIM2jGT7HPMEJiu3kNmWm58PYJ60UstdrSN6v7MvkvJKSTmGqE9MVoDwTm6gh9XXzxCxIL8TB5wnYyHGEajQ1Y0X9y7KOCDsqOOk72L6Q5nVJujMHBu+b;kIIMfnkaDC0TNteL11gBSw=="
+secured: "pTmBOy+6SoVigx+OrLdREi2wta1E+S1A3zOFnNrBqR6e98lpXJgg178B++G3Q8cB/8eJ6GWhjA6/Z/48NsJu7/t8JxeYfhb+KbKd0M/3y7hP2WJF6yqGC4Tiy/ovucMN3ZA/WhYKZ+VCk67Melb/sdSg041HZOSx3CvULQgKPivNIn7EHueikBhEblN1Ewjh1UT0omcIn1nycxjRF0P2jQEKebJZlQs/kZ3rKzgJBbojZzfmoOYBoA01JGoKAJyKnfmr9TILyab94Q8ncB5Nl+BzmNnQfdI7P/OPIaNxKwx1F5de/cfXSADlaNSLynZn;PJEAMTOr4/ua540H5PdF0Q=="
 ---
 

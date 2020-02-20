@@ -75,21 +75,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3240%252C0%252C495%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3Dde699115449a716bcec325db3e7903662dbd4881&client=amp-blogside-v2&signature=3eefa1557daf961b15de1298ae8254f93b9244fb"
         width: 600
         height: 350
-  - title: "Facebook sends cease-and-desist to facial recognition startup Clearview AI over photo scraping"
-    excerpt: "Facial recognition software startup Clearview AI has been under fire over revelations it's been training its machine learning algorithm on billions of publicly available photos, including public personal images scraped from social media without permission. Now Facebook has become the latest tech giant to tell the controversial company to quit it."
-    publishedDateTime: 2020-02-06T03:48:00Z
-    webUrl: "https://mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos/"
-    ampWebUrl: "https://mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 94
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F02%252F06%252Fc6%252F5335378eb82744b8b802e7bfae6244aa.18786.jpg%252F1200x630.jpg?signature=83PU2mA_LKCXx5zQ3q2x6kyFAW4="
-        width: 1200
-        height: 630
   - title: "Facebook, YouTube demand facial recognition company stop scraping faces from sites"
     excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
     publishedDateTime: 2020-02-06T19:05:00Z

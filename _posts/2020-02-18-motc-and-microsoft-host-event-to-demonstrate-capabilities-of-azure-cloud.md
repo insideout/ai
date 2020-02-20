@@ -41,6 +41,15 @@ related:
       - url: "https://thepeninsulaqatar.com/uploads/2020/02/18/post_main_cover/46fd2d3449a2330392fe130d6ed07e07d69d5f84.jpg"
         width: 532
         height: 355
+  - title: "Attivo Networks Announces Integration with Microsoft Azure Security Center for IoT"
+    excerpt: "The Azure IoT Edge is a fully managed service built on Azure IoT Hub ... and data deceptions designed to misdirect and reveal attacks efficiently from all threat vectors. Advanced machine-learning makes preparation, deployment, and operations fast and simple to operate for organizations of all sizes. Comprehensive attack analysis and forensics ..."
+    publishedDateTime: 2020-02-20T17:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005132/en/Attivo-Networks-Announces-Integration-Microsoft-Azure-Security"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
 
 secured: "u22+XgShrFpiiEHDbPJQZDc4bpqlmyKWmXe856clauH0MseHcWk3Az3xgoqfQfqZBB2cI1gXSZ/AR39HBqLAcmyimveQFd7hl7JO+wjgZwN2hEEeq8zOyPDMPF2fhhleUWKsI8RVHlVSQigaRH3mtGP83p1Ap33QfvXBnId7EfaIOY+35T0tW7XTu3zstaIC0ueNVfLg9QL6g7hyv2cxt9LOBZqnJvkVDsNxoALFcwF/GlgN1VmJVUKADW+TnkbJR6rIZL8kx8RTNVNSqkGod7iOoOi7TiRPAfUpYVtPCIEcdYx+gcjXsLC04FLuIFyuy/+fLnC0ZUDZN3GqHbKHxkMRGY2mau/vjTy1nJd+Ffb+z7831/0cBxQZHegvGshG5i7JutIaw5ojmVm1kxeI6MQ17Qep2vnTHHpr4CgPoJkP0P4hFZuir16GoEWCgDSbUgPkiI1HlQcB1CuCtS+00JtVaaT9GVfjMqEUXZhsSp4=;+ABf4YglJT+cdyPPgeJvUQ=="
 ---

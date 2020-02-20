@@ -75,19 +75,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-facebook-joins-others-in-contesting-face-recognition-firmand8217s-scraping.jpg"
         width: 1280
         height: 720
-  - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-    excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
-    publishedDateTime: 2020-02-06T04:08:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781053"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
-        width: 992
-        height: 558
   - title: "Facebook and Google Demand Startup Stop Scraping Photos for Face DB"
     excerpt: "Facebook and Google have both sent cease-and-desist letters to Clearview AI demanding that the facial recognition startup stop scraping photos and videos to build up its face database. Clearview AI develops software that matches people’s portrait photos to their online photos with 99.6% accuracy, and the powerful tool is reportedly being used ..."
     publishedDateTime: 2020-02-06T18:06:00Z

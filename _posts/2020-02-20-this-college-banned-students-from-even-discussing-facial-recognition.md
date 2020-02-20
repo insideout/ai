@@ -8,7 +8,7 @@ ampWebUrl: "https://www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-st
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 2000
     height: 1124
     title: "This College Banned Students From Even Discussing Facial Recognition"
-
-related:
-  - title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
-    excerpt: "Fight for the Future (FFTF) and Students for Sensible Drug Policy are organizing what they call a ‘National Day of Action to Ban Facial Recognition from College Campuses’ on March 2. FFTF and other groups have also called for and have actively been lobbying for a total federal ban on facial recognition technology, although there has been ..."
-    publishedDateTime: 2020-02-19T18:13:00Z
-    webUrl: "https://www.biometricupdate.com/202002/privacy-rights-groups-call-for-day-of-action-to-ban-facial-recognition-at-all-schools"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
 
 secured: "/uzE0ipDJnZVKArraTfvWMTAUaq6AlGVhm5Msd8MlrheWhgDoGMiEsYXrFGvBEDQ/xVmOYwQa+utvwIlqQJjLmtRahpej0d1rbO4ovQ20HnMzcj49r5J71efVqOjNnt7ApZdNbKPG8V5moL/TyzThBQbWCa+KDiCMNCZwgUFqMs+Nncm9UEyBidKw1S0Ax30oA7aGqOgeAD4d9EWdIDR9YlgiW5CTb51xOaED7Gln6LZc5iaNgBT7pfKBzPPuDMkJQnn23IFlPL+GhRIK6B/kIexnsrIswk5fqXfldAyL2blBWjZDLsyF4yPXZzjGbhT;/p9pGSjHeJdgpgSM+1EuVQ=="
 ---

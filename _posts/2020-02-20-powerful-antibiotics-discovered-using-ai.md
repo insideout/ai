@@ -23,32 +23,49 @@ images:
     title: "Powerful antibiotics discovered using AI"
 
 related:
-  - title: "AI discovers new antibiotics effective against certain diseases"
-    excerpt: "Artificial intelligence has been used to discover new antibiotics that treat resistant strains such as C. difficile and Acinetobacter baumannii (pictured) © FT montage; Janice Carr/CDC Share on Twitter (opens new window) Share on Facebook (opens new window) Share on LinkedIn (opens new window) Share on Whatsapp (opens new window) Artificial ..."
-    publishedDateTime: 2020-02-20T06:00:00Z
-    webUrl: "https://www.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
-    ampWebUrl: "https://amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
+  - title: "Powerful antibiotic discovered using machine learning for first time"
+    excerpt: "Team at MIT says halicin kills some of the world’s most dangerous strains"
+    publishedDateTime: 2020-02-20T16:28:00Z
+    webUrl: "https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai"
+    ampWebUrl: "https://amp.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/5ad9424c30e580fdc638c52ef7cd200e61ad6e07/363_670_3568_2141/master/3568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b80c4e4b7fb6e665ef4567b4a989f87"
+        width: 600
+        height: 360
+  - title: "Antibiotic that kills drug-resistant bacteria discovered through AI"
+    excerpt: "Team at MIT says halicin kills some of the world’s most dangerous strains"
+    publishedDateTime: 2020-02-20T16:13:00Z
+    webUrl: "https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai"
+    ampWebUrl: "https://amp.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 57
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "Artificial intelligence yields new antibiotic"
-    excerpt: "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ..."
-    publishedDateTime: 2020-02-20T16:09:00Z
-    webUrl: "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.html"
-    ampWebUrl: "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp"
+      - url: "https://i.guim.co.uk/img/media/5ad9424c30e580fdc638c52ef7cd200e61ad6e07/363_670_3568_2141/master/3568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b80c4e4b7fb6e665ef4567b4a989f87"
+        width: 600
+        height: 360
+  - title: "Medical Breakthrough: Deep Learning Ai Discovers Surprising New Antibiotics"
+    excerpt: "Deep learning AI can recognize individual faces. The same technology is being adapted to recognize potential antibiotics."
+    publishedDateTime: 2020-02-20T20:15:00Z
+    webUrl: "https://patch.com/us/across-america/medical-breakthrough-deep-learning-ai-discovers-surprising-new-antibiotics"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
+      name: Patch
+      domain: patch.com
+    quality: 52
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/22908971/20200220/014539/styles/patch_image/public/shutterstock-1060302206___20134451109.jpg"
+        width: 599
+        height: 449
 
 secured: "S3YtBBL/O7Jmrzxg7PUg8wRSKiAQicQKF9b8i/OiPhBj2GioxKAVNPJHkE/E07+rOlPWd8HlVdwskRRiBViBLe1rfVvduVIbpOfVCDCEPrtHHmLNyi1tZsOMurCaXHQwpr8Qd07YnwbeZbxSNtZ4P21YabVr221oRSXxVUpbJIDRTd5AaMOlISmqaxrSG0kBWg02Rmr6V2b/9Uull3dB+fmOeKKDofaACrkJ3/tgggWXWd/Fabpnm8qml8Tr1rEhFBY/Zi0Uqeal3xHwGaWIhh8RT513ZzCGg7LOmc8+vtE5SnnriXUpa7vpngvWxhxCxQwlgR2o1mL190rNbh4jZilHH8ZrPbNiufPOIeqjPONSmXyOR5er/rlETSdQQnBZHvHvCc8aMIdxj86hu1/uHSUOLUQ7xekJKaoYtnxgJR+9eg8C1ZKihQm11O+iMQB41eKSfeFOywd8K5d6VrqYNcw0I/1noMC7Q68woUGLD5Q=;BKfeOqH0znq3cKbfkeSIVA=="
 ---

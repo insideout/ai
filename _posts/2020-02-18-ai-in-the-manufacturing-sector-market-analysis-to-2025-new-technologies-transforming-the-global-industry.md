@@ -77,6 +77,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Big Data With Big Payoff — How The Healthcare Industry Is Embracing AI To Help Save Lives"
+    excerpt: "Artificial intelligence (AI) initiatives are supposed to enable us to reinvent how ... One industry is taking the lead on leveraging Big Data to make AI work and is blazing a trail that others can follow. An IDC-Seagate study found that the healthcare “datasphere” is one of the fastest growing—with a 36 percent Compound Annual Growth ..."
+    publishedDateTime: 2020-02-20T20:46:00Z
+    webUrl: "https://www.healthitoutcomes.com/doc/big-data-with-big-payoff-how-the-healthcare-industry-is-embracing-ai-to-help-save-lives-0001"
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 45
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/b61ec6d6/b61ec6d6-3bd5-4eb2-a2ec-0e9423fa3414/375_250-big_data.jpg"
+        width: 375
+        height: 249
 
 secured: "CtdAWOgs3rSx6u2uzYfUm5o2kJXozfRdciTOQs9L22ktT/9FN8dMiKeryeqb6sqtdmz4TAPzdA2Z9VwlX8FxUrmHFzYCgBF27iY98inwQxJPG+JnW+xHxQauzWkvdFuy0/wg+KccGhcFv4iSOip60Iaz6+akHxeJvvwnUBjEufhdc7T3JBaWz28RfsME7yICLIFkrXwVkli/fc9/KZECampoxA3r970T9XsfrPAhz+kZXgVAakg/MyPKSv4BuqcoNTwiUFzMC0VfHdDyK1cBxj/QFoP/9Wbc2V6RbjXuAzhXh3Bi6zvy9K7jAc+CeKzx;nrsrkJQQqIK0tUoF+p/V+g=="
 ---
