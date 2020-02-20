@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-mask
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
 type: article
 quality: 166
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -99,21 +99,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4a5770c6-53f1-11ea-b4ee-385bb4c8d255.jpg?crop=2742%2C1543%2C616%2C465&resize=685"
         width: 685
         height: 385
-  - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
-    excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
-    publishedDateTime: 2020-02-19T14:33:00Z
-    webUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/"
-    ampWebUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 37
-    images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/chinese-city-rolls-out-facial-recognition-thermometers-on-buses.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "China rolls out facial recognition thermometers on buses amid coronavirus outbreak"
     excerpt: "Buses in south China’s Guangdong Province are being equipped with facial recognition thermometers for faster detection of passengers who may be infected."
     publishedDateTime: 2020-02-19T18:29:00Z

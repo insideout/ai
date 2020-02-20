@@ -50,36 +50,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
         width: 1100
         height: 619
-  - title: "Why concern about facial recognition from brain scans is overblown"
-    excerpt: "The privacy concerns arose when a study published in October reported that a facial-recognition software program had correctly matched photos of research volunteers with magnetic resonance imaging (MRI) scans of their head and brain 1. This feat was a technical tour de force, representing important advances in biomedical image analysis."
-    publishedDateTime: 2020-02-18T12:40:00Z
-    webUrl: "https://www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/"
-    ampWebUrl: "https://www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/amp"
-    cdnAmpWebUrl: "https://www-spectrumnews-org.cdn.ampproject.org/c/s/www.spectrumnews.org/opinion/viewpoint/why-concern-about-facial-recognition-from-brain-scans-is-overblown/amp"
-    type: article
-    provider:
-      name: Spectrum
-      domain: spectrumnews.org
-    quality: 74
-    images:
-      - url: "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/02/17111237/20200218-PelphryMRI112011.jpg"
-        width: 1120
-        height: 550
-  - title: "Congressional committee to hear testimony on facial recognition"
-    excerpt: "A Congressional committee will hold a hearing Thursday on the Department of Homeland Security’s use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age ..."
-    publishedDateTime: 2020-02-06T04:01:00Z
-    webUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/"
-    ampWebUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/01/mlkms11.jpg?w=1024&h=676"
-        width: 1024
-        height: 675
   - title: "Facial Recognition Experts to Testify to House Committee"
     excerpt: "(TNS)—A Congressional committee will hold a hearing Thursday on the Department of Homeland Security's use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age -- which critics say could easily result in bias. The House Homeland Security ..."
     publishedDateTime: 2020-02-06T21:56:00Z
@@ -125,49 +95,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Chino police and facial recognition technology: 5 things to know"
-    excerpt: "The Chino Police Department held a forum on the use of the software and solicited feedback from the community."
-    publishedDateTime: 2020-02-15T00:16:00Z
-    webUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/"
-    ampWebUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
-    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
-    type: article
-    provider:
-      name: Inland Valley Daily Bulletin
-      domain: dailybulletin.com
-    quality: 59
-    images:
-      - url: "https://www.dailybulletin.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
-        width: 480
-        height: 270
-  - title: "Protesters in India object to facial recognition expansion"
-    excerpt: "Police in New Delhi are using facial recognition to identify protesters. Activists are worried about the lack of regulation around the technology; they are also sharing tips on evading detection. Protest against India's Citizenship Amendment Act in New Delhi. Activists in the Indian capital of New Delhi are expressing concern over the use of ..."
-    publishedDateTime: 2020-02-18T04:49:00Z
-    webUrl: "https://www.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
-    ampWebUrl: "https://amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/protesters-in-india-object-to-facial-recognition-expansion/a-52412455"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 59
-    images:
-      - url: "https://www.dw.com/static/stills/images/je/je20200114_paperN_image_1024x576_3.jpg"
-        width: 1024
-        height: 576
-  - title: "Merkley bill aims to avert federal abuse of facial recognition"
-    excerpt: "WASHINGTON (KTVZ) – Sens. Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation Wednesday they said is aimed at protecting the privacy of consumers from rapidly advancing facial recognition technology and data collection practices that heighten the risk of over-surveillance and over-policing, especially in communities already ..."
-    publishedDateTime: 2020-02-14T07:25:00Z
-    webUrl: "https://ktvz.com/news/oregon-northwest/2020/02/13/merkley-bill-aims-to-avert-federal-abuse-of-facial-recognition/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 54
-    images:
-      - url: "https://ktvz.com/wp-content/uploads/2019/11/US-Capitol-generic-860x484.jpg"
-        width: 860
-        height: 484
   - title: "CEO Glaser invests $10M in RealNetworks, bullish on facial recognition software, gaming"
     excerpt: "RealNetworks Inc. CEO Rob Glaser is so bullish on the company’s facial recognition software and its gaming pipeline that he pledged this week to invest nearly $10 million of his personal funds into the company."
     publishedDateTime: 2020-02-12T18:37:00Z
@@ -183,15 +110,6 @@ related:
       - url: "https://media.bizj.us/view/img/11480968/rob-glaser-ceo-realnetworks-01*600xx4965-3310-9-0.jpg"
         width: 600
         height: 400
-  - title: "Rights groups join student demands to bar facial recognition at colleges"
-    excerpt: "The ACLU, EFF and several other groups sign a letter of support for the student demands. Students shouldn't have to worry that colleges and universities are tracking their movements with facial recognition,"
-    publishedDateTime: 2020-02-13T11:09:00Z
-    webUrl: "https://www.cnet.com/news/rights-groups-join-student-demands-to-bar-facial-recognition-at-colleges/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 48
   - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
     excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
     publishedDateTime: 2020-02-11T22:23:00Z

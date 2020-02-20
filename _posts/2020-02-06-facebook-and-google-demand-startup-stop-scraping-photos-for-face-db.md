@@ -88,19 +88,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/431443767_3f9ec027b9_c.jpg"
         width: 800
         height: 400
-  - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-    excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
-    publishedDateTime: 2020-02-06T04:08:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781053"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
-        width: 992
-        height: 558
   - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
     excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
     publishedDateTime: 2020-02-06T10:16:00Z

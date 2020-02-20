@@ -2,26 +2,20 @@
 category: news
 title: "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI"
 excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ..."
-publishedDateTime: 2020-02-19T08:18:00Z
-webUrl: "https://www.bakersfield.com/ap/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology/article_0129a35e-6040-5a9b-bb71-6a45f496be5d.html"
+publishedDateTime: 2020-02-19T07:43:00Z
+webUrl: "https://www.businesswire.com/news/home/20200218006230/en/Northern-Data-Canaan-Announce-Cooperation-Blockchain-technology-AI"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI Hardware
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-    width: 1200
-    height: 630
-    title: "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI"
 
 related:
   - title: "Sandler's Methodology and Gong's Revenue Intelligence Technology is an Unbeatable Combination"
@@ -47,6 +41,6 @@ related:
       domain: 4investors.de
     quality: 8
 
-secured: "eqpBULsvZXbQ9/6PIn4kL9a7vgIL5GqYIQeja9KXgH9Q3873zOMfodPauvoCIgzVg05obyjUhcwMd6Tufi8KfBAFCxZV5dk8JyrxIxro/wdBRbJu9xph2pO44RX/yyqCTsW/7p1VqIbp5oKHJVKcs1lLUFsdG7kUjJPhiYL8msEe5QsLdF4h3GaeCUOgCgDtLbhP6Cp6cnSvderm8HdwNgBdz48ZjbHV0my9PvT1v49MepygVa8PT1A1oH+45I1J/1D8Xh5o49E5qHg8PtUO/GxlJotZqRt1S1vva5n99bXlupQfrkWp3fcbJJZQugg5;DmRkJuz0J7c5+y7lxD/V8A=="
+secured: "UtPReyNjSHYmEfWZmbrrBh8hi82m8VgxtL9oQ6SVPN3P6RxE/CpkEFqYK6F4j9Z68h3oDAT/NUSc8MWHMWFQ4ZPwpYB8N2dsyOyRVjEQyqXiudoFb14b974+iAr9da39R65eCndVm1e4VZJ5owjIRECE09whW1hwRVm/I+aIKKCB6Cq6A4KXNcDKrHJIJRWj/wGonCIuh5Hs/6Vc0XxZg/3QNVHVjDMP1mbqZzwnzqTQ4Rzkt/yHHXEqrl7fkiT2mXjSXiBy0Hl3H2NHYaCLRoS793IrnWFcctJTil6jBUJa/riez1dLec6yU2ljnv7u;E8z0HQ92cK0FcgRd8b1erw=="
 ---
 

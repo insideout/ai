@@ -18,110 +18,131 @@ topics:
   - Computer Vision
 
 related:
-  - title: "UCLA cancels on-campus facial recognition program after backlash"
-    excerpt: "UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus, a university administrator said Wednesday. The move comes after backlash from student groups and privacy advocates,"
-    publishedDateTime: 2020-02-19T23:21:00Z
-    webUrl: "https://www.cnet.com/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
+  - title: "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts"
+    excerpt: "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,"
+    publishedDateTime: 2020-02-20T14:49:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://cnet2.cbsistatic.com/img/Oz7mCdAo5X1NoCOIXkN3LG0Ws9I=/756x567/2020/02/19/19f84363-9dbf-4ec9-86c1-e95838a79888/gettyimages-992065420.jpg"
-        width: 756
-        height: 567
-  - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
-    excerpt: "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database."
-    publishedDateTime: 2020-02-19T21:44:00Z
-    webUrl: "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 71
-    images:
-      - url: "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg"
         width: 1200
-        height: 674
-  - title: "UCLA won’t use facial recognition on its campus after it receives backlash"
-    excerpt: "UCLA was going to be the first university in the U.S. to use facial recognition, but backlash against the idea has caused the school to reverse course. Michael Black, UCLA’s administrative vice chancellor, wrote a letter to the digital rights group Fight for the Future on Wednesday, February 18, announcing the school’s decision to back out ..."
-    publishedDateTime: 2020-02-19T22:24:00Z
-    webUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/"
-    ampWebUrl: "https://www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ucla-wont-use-facial-recognition-on-its-campus-after-it-receives-backlash/?amp"
+        height: 794
+  - title: "Live facial recognition technology used by police at Oxford Circus"
+    excerpt: "Live facial recognition technology has been deployed near Oxford Circus in London after an operational roll-out was announced last month. The van-mounted cameras were spotted at the busy location, which is popular with tourists, on Thursday morning. Image: The Met Police tweeted this to let people know It is believed to be the second time the ..."
+    publishedDateTime: 2020-02-20T15:35:00Z
+    webUrl: "https://news.sky.com/story/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
+    ampWebUrl: "https://news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 67
-  - title: "UCLA drops controversial face recognition plan"
-    excerpt: "A major California university has dropped plans to use facial recognition for the surveillance of the campus. The idea was to have the University of California Los Angeles use facial recognition as a way to gain access to buildings, to prove authenticity and to deny entry to people with restricted access to the campus, matching their faces ..."
-    publishedDateTime: 2020-02-19T22:32:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/02/19/ucla-drops-face-recognition-plan/4810648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4810648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4810648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Sky
+      domain: sky.com
     quality: 59
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/d8d0774057d19139d16e6ede624d76e89947662d/c=1-0-1365-767/local/-/media/2020/02/06/USATODAY/usatsports/imageforentry34-vs0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-  - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
-    excerpt: "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database. Over 400 photos were scanned, 58 of which were false positives for mugshot images ..."
-    publishedDateTime: 2020-02-20T02:08:00Z
-    webUrl: "https://www.vice.com/en_ca/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
+      - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
+        width: 1600
+        height: 900
+  - title: "Ottawa police piloted controversial facial recognition software last year"
+    excerpt: "Ottawa police quietly tested facial recognition software for three months last year, this newspaper has learned. The pilot, which ended in March of 2019, came before a public dialogue on the use of CCTV cameras in spaces like the ByWard Market after a string of fatal shootings in the tourist hub. Though Ottawa police at the time spoke of the ..."
+    publishedDateTime: 2020-02-13T23:12:00Z
+    webUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year"
+    ampWebUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
+    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 51
-  - title: "UCLA cancels facial recognition amid backlash over privacy likening use to George Orwell's '1984'"
-    excerpt: "UCLA cancelled a plan to use facial recognition technology on campus after students protested over privacy concerns, including one critique that likened use of the digital surveillance to George Orwell's book, '1984.' The school issued a statement on Wednesday, saying that its plan for using facial recognition was scrapped due to the privacy ..."
-    publishedDateTime: 2020-02-20T19:16:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8025867/UCLA-cancels-facial-recognition-amid-backlash-privacy-likening-use-George-Orwells-1984.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8025867/amp/UCLA-cancels-facial-recognition-amid-backlash-privacy-likening-use-George-Orwells-1984.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8025867/amp/UCLA-cancels-facial-recognition-amid-backlash-privacy-likening-use-George-Orwells-1984.html"
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
+    quality: 58
+    images:
+      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
+        width: 1000
+        height: 750
+  - title: "Facial recognition software used by Waterloo Regional Police Service in past"
+    excerpt: "The Waterloo Regional Police Service says it used facial recognition technology 'on a very limited basis' in 2019, but Chief Bryan Larkin says it won't be used going forward until more is known about how it works and there's a policy in place for its use."
+    publishedDateTime: 2020-02-20T12:30:00Z
+    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/clearview-ai-facial-recognition-waterloo-regional-police-1.5468839"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5468839"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5468839"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 56
+    images:
+      - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
+        width: 620
+        height: 349
+  - title: "Met Police's controversial facial recognition cameras correctly identify just one in three women"
+    excerpt: "Controversial facial recognition cameras used by Britain's biggest police force correctly identify only a third of women, an official report admits. A review of the technology by Scotland Yard also reveals that two in three men are accurately identified, while black people are far more likely to be wrongly flagged up than white people."
+    publishedDateTime: 2020-02-15T22:02:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8007907/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
     type: article
     provider:
       name: Mail Online
       domain: dailymail.co.uk
     quality: 46
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/20/19/24991782-0-image-a-56_1582228510455.jpg"
+      - url: "https://i.dailymail.co.uk/1s/2020/02/15/22/24785266-0-image-a-29_1581804047268.jpg"
         width: 636
         height: 382
-  - title: "UCLA cancels on-campus facial recognition program after backlash"
-    excerpt: "This article, UCLA cancels on-campus facial recognition program after backlash, originally appeared on CNET.com. UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus,"
-    publishedDateTime: 2020-02-20T02:19:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/UCLA-cancels-on-campus-facial-recognition-program-15068812.php?ipid=newsrecirc"
+  - title: "London's Metropolitan Police flip the switch: Smile, fellow citizens... you're undergoing Live Facial Recognition"
+    excerpt: "Appy days? Microsoft's Word, Excel and PowerPoint now live under one roof on mobile – but look out for Office 365 popups The Metropolitan Police are using live facial recognition (LFR) in various locations in central London today after spending two years testing the technology. Most recently spotted at Oxford Circus, the vans are equipped ..."
+    publishedDateTime: 2020-02-20T16:53:00Z
+    webUrl: "https://www.theregister.co.uk/2020/02/20/met_police_facial_recognition/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/20/met_police_facial_recognition/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/20/met_police_facial_recognition/"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
+      name: The Register
+      domain: theregister.co.uk
+    quality: 38
     images:
-      - url: "https://s.hdnux.com/photos/01/10/54/66/19058071/3/rawImage.jpg"
-        width: 940
-        height: 627
-  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
-    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
-    publishedDateTime: 2020-02-13T18:50:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
+      - url: "https://regmedia.co.uk/2020/02/20/shutterstock_cops_met_london.jpg"
+        width: 648
+        height: 429
+  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
+    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
+    publishedDateTime: 2020-02-20T16:46:00Z
+    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 34
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
+        width: 1500
+        height: 1000
+  - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
+    excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
+    publishedDateTime: 2020-02-20T13:59:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/crime/met-police-facial-recognition-technology-city-westminster-a9346831.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 30
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
+        width: 1998
+        height: 1499
+  - title: "Watch: Edmonton police give update on facial recognition technology"
+    excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
+    publishedDateTime: 2020-02-20T01:38:00Z
+    webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 19
 
 secured: "gQMh2xQAw2v6xd9kXaTBmCWnL7SOzohsFqEtftnKdpHr5Zn86Vg54sM3OQ5cbHAvyyanWmGW3hK/ghnlERUlec2lURvipeDSk+khW9tqdbmcYIpobBR8WLwJTalj5Mm6uRtV78gO5bvp0+lNJMM5XSlO5C4hhqdgfoVLjhE/dtZiwrGwB5pNbvu4ZJVwzGl/EfTLkk8QybfvVh0dZHAxcldWLvp0DJHFIuNjaT1Rs4qfeiqIV4ER3w0oyzQ9ChMnGKwOYwMYHyvy2VCt3vRxsnZW3CaIlOOvRo542KG7XCiFT2SDaIiq2zx3lGTM6GmdY73cZLrdCtE+pwH1Jyu6omjeMWQU1r1MY/yKWD+msk1e2LSGu3xqafOYpjpCKixagKjsDpzm0S9rCiU5YfK4Do9hH1XsjyqwqM+ly4Vh2IR4vFn86sU7lEPTJDw3+rricp5Pg6PT2xemkB5NPbSUbFzuWHdXQQM1334VgWVF9x0=;b1KM8fIA3yBgCwttWeXpHg=="
 ---

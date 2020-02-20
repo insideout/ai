@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Times
@@ -35,20 +35,22 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 37
-  - title: "Powerful antibiotics discovered using AI"
-    excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
-    publishedDateTime: 2020-02-20T18:54:00Z
-    webUrl: "https://www.nature.com/articles/d41586-020-00018-3"
+    quality: 137
+  - title: "Deep learning AI discovers surprising new antibiotics"
+    excerpt: "Enter deep learning. These algorithms power many of today’s facial recognition systems and self-driving cars. They mimic how neurons in our brains operate by learning patterns in data. An individual artificial neuron – like a mini sensor – might detect simple patterns like lines or circles. By using thousands of these artificial neurons ..."
+    publishedDateTime: 2020-02-20T19:31:00Z
+    webUrl: "https://www.rawstory.com/2020/02/deep-learning-ai-discovers-surprising-new-antibiotics/"
+    ampWebUrl: "https://www.rawstory.com/2020/02/deep-learning-ai-discovers-surprising-new-antibiotics/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/deep-learning-ai-discovers-surprising-new-antibiotics/amp/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 74
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00018-3/d41586-020-00018-3_17728260.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/02/A-colored-electron-microscope-image-of-MRSA.-NIH-NIAIDflickr-CC-BY.jpeg"
+        width: 640
+        height: 315
 
 secured: "RHOZkjUQGuFGr7t87Cv7h0Qx5IwGnMQx9W+aakUNj+BNm91usg3QdU8v2fauoys/Q9+RTxOhRXFM7UO0iqnYiguWfH5gmu/ZWbfeM3Y2BcR7xwRfgp/VMbYqkcAsmG5IYtPboBO5YYAZDfDZ/rBRrDwCdpLJoYOp1hXcAFqDuzj+Vz5HZia8TOyIiEOsS/Cl1CuddRNamuOtfBpRqto40DpkAbmC7lYsx6r9ZL/MPNx8XW5huG0YEKDRJpA+DDsYl7nRrqMxJjUC2l7nfp72voyKgywD6sSjumv5c4YImh6/fhKcMVBvX4J26A3wb2gxVOQr+WgYPdANMjVMb0tbQXdH1AUkKWEftVDoR8ahzOPuvaug01sIX6TaRVPqEBXNDgN9AEk6+wjgMZpZYgkHS4T+yqRIiuC5Zd6De1mUPPI9oE6ZkxFAshldxN+ygPrL60oNYd8w78X05kePDz5sGOLRa9LIukKrNzwuOYeWSA0=;iZ/djTY/vMtdANPKZaDH0g=="
 ---

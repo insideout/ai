@@ -25,6 +25,17 @@ images:
     height: 708
     title: "London police deploy face scan tech, stirring privacy fears"
 
+related:
+  - title: "Chief says police will not use face recognition until technology has been fully reviewed"
+    excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
+    publishedDateTime: 2020-02-20T04:31:00Z
+    webUrl: "https://www.therecord.com/news-story/9859221-chief-says-police-will-not-use-face-recognition-until-technology-has-been-fully-reviewed/"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 10
+
 secured: "8kY/EFVhxFuFFU4ArCvWaSl1y3bfBkv1Ib3oh+0fnHIVPCIhVj1Xi0dy86KrbmSIOrvCltkDGgD2Mr5GmfOXvAMqLevV9sfLhkpyzGP0rP4q28GdmhPHjITFnQneJ9Uzr7ePDwV8HlIlHCkbARKK+rJz9rxs9FG4JoR8Lz+CthHur5dRtGtSV7c+pjTrnASxvdF8h11Hq2IIbda8jVq578flKPyezHNIYHSdRcukCpamvsiZDMWWkimQ6A3mAGrSrLQkJxTvPFjnZo52oBlRBbCFUetsVwX8pKNTIQXwLPWRh76SS2MkfBHkRLTD74QK;Z2jqcYuFEu8jQXFRfS/sag=="
 ---
 

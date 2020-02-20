@@ -26,70 +26,33 @@ images:
     title: "Deep learning AI discovers surprising new antibiotics"
 
 related:
-  - title: "Cisco adds 5G and machine learning to IoT monitoring platform"
-    excerpt: "\"Leveraging machine learning opens up opportunities to look for specific patterns or to find new patterns that may have operational, security or financial implications,\" he said. SEE: 5G: What it means for IoT (free PDF) The Control Center allows customers to manage multiple services through one platform. Butaney said one of Cisco's ..."
-    publishedDateTime: 2020-02-20T16:30:00Z
-    webUrl: "https://www.techrepublic.com/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/"
+  - title: "Artificial intelligence yields new antibiotic"
+    excerpt: "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ..."
+    publishedDateTime: 2020-02-20T16:09:00Z
+    webUrl: "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.html"
+    ampWebUrl: "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 91
+      name: Phys.org
+      domain: phys.org
+    quality: 137
+  - title: "AI discovers new antibiotics effective against certain diseases"
+    excerpt: "Artificial intelligence has been used to discover new antibiotics that treat resistant strains such as C. difficile and Acinetobacter baumannii (pictured) © FT montage; Janice Carr/CDC Share on Twitter (opens new window) Share on Facebook (opens new window) Share on LinkedIn (opens new window) Share on Whatsapp (opens new window) Artificial ..."
+    publishedDateTime: 2020-02-20T06:00:00Z
+    webUrl: "https://www.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
+    ampWebUrl: "https://amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/02/03/66f6f5da-15a1-456c-8adf-a48cbf833009/resize/1200x/9666674f20d29b29ebb06d59db1479a9/istock-952984968.jpg"
-        width: 1200
-        height: 800
-  - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
-    excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
-    publishedDateTime: 2020-02-17T16:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dataiku-named-a-leader-in-the-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301005916.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
-        width: 1200
-        height: 628
-  - title: "Dataiku Named a Leader In the Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
-    excerpt: "/PRNewswire/ -- Today Dataiku, one of the world's most advanced Enterprise AI platforms, was named a Leader in the Gartner 2020 Magic Quadrant for Data"
-    publishedDateTime: 2020-02-18T02:45:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-named-a-leader-in-the-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-884558052.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1091205/Gartner_PRESS_RELEASE_IMAGE.jpg?p=facebook"
-        width: 1200
-        height: 628
-  - title: "Hyland acquires blockchain-credentialing provider Learning Machine"
-    excerpt: "CLEVELAND, Feb. 19, 2020 /PRNewswire/ -- Hyland, a leading content services provider, announced its acquisition of Learning Machine, an innovator in blockchain-anchored digital credentialing solutions. The acquisition was effective February 1, 2020. Learning Machine is a pioneer in leveraging blockchain technology to authenticate documents and ..."
-    publishedDateTime: 2020-02-19T00:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/hyland-acquires-blockchain-credentialing-provider-learning-machine-8528534"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 19
-  - title: "Alteryx Recognized As A Leader in Gartner 2020 Magic Quadrant For Data Science And Machine-Learning Platforms"
-    excerpt: "/PRNewswire/ -- Alteryx, Inc. (NYSE: AYX), revolutionizing business through data science and analytics, today announced that it was once again named a"
-    publishedDateTime: 2020-02-17T16:27:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/alteryx-recognized-as-a-leader-in-gartner-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-301006033.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/662162/Alteryx_Logo.jpg?p=facebook"
-        width: 1196
-        height: 628
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
 
-secured: "uHJFdfmeGs6/0RXJFFljqXeiJ2WPlWn8RafSNBXpW8vBfPIIq1Y+01MmA5hhpwd1SsF5EzRJqjIXvwNyXSnauZz0YSbeKVjtvLEAx82ezt0te+aRUpqJ8qSrvct+6T7YkMNzSR9/AzwxCXKeRxJuhPaYn8bDNRhdpO+VvLWYp+eqFLHpPNC6ODLAdtKqSQRDX8r2086/FNciT+iQJ/a6VuVeLBVuWVtf8OKfwsRYtGdxPNR3SyptktlI1Ak3NVerxGW5f6ST2zQsEDoHLGLs+3hejIKoB11nYSU28ICR0P6IYFMBEuQzRIZgSQpUyriE;2Il2ZF48yQgZNWaGwSoR0w=="
+secured: "CUtDaZRzmqt4baHaBNGJRrGl6lKAFXSdP614JPKLcsgjhsdZHGOWj7ROTzyzFjIWa36fKIaEUaFL2APP1Sa9+TbhubNb47Nhi9JroxIic2mVjaRiuARuyO3H/YibXzCWhnmQwUhqqvyKyEGci3wVihu7qTxNMS7H0mNNqPb6BjiqB8V2wC/GYj065PMuEAoFD8h5VkuU9EfFYw2iw/x78MSYzWxpji8puI0vBDosxQHYDa/nQifeWqj4GeMl6xuO8JndYABvermJn1RpxTn0rSB0naDVTGtwJKNHp8TLNvmYEGqy9Bbw0cm3lIUjN3ckl6cBXESdRHulF/DpcBpMLHq4B0w8X1H1FFE2MSE4fT9l4Q4BvdCOVMk/GKIvzj748deHRE7s0EcH6JfU+PXfC7hGfBwXr6/Diq3n5Ivi+outdR4hgptswrR2rvuYvZyrWJLnvtGGGQ7zEN3l33xh/+LAsg9A5XGx3spzLi4ncj8=;2vjWXGZfLV9lhzth3Q7feA=="
 ---
 

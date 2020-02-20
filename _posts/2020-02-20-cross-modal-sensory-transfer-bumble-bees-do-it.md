@@ -3,7 +3,7 @@ category: news
 title: "Cross-modal sensory transfer: Bumble bees do it"
 excerpt: "Cross-modal recognition is also useful for increasing the flexibility of object-recognition systems. The finding by Solvi et al. illustrates that tiny invertebrates, with brain structures that differ greatly from those of vertebrates, also can experience an object with one sensory modality and later recognize that same object with a different ..."
 publishedDateTime: 2020-02-20T19:51:00Z
-webUrl: "https://science.sciencemag.org/content/367/6480/850"
+webUrl: "https://science.sciencemag.org/content/367/6480/850.full"
 type: article
 quality: 24
 heat: -1
@@ -73,6 +73,6 @@ related:
       domain: phys.org
     quality: 15
 
-secured: "fzkE3rRyvifhimbCbl/Eik2SOliAPtx7jC6vwOYrn1IMfq99tSSdxu3q7nMwUpylvjZ7nvPG2pR5VkzRHxzYxNO2e/+y10KuJK8SfUtbEpKvgNtOAkfhBDVbO6+37YXicqdnOXjJJ++H62JzGGIreYa0ZJifiJPf7QM4KIdqRBnETypG7cy50uNADLgUqwwoumfbx26cORodsIY3Ivy/Bo8+ezMZyMBPLwvYXvAYVh7LlQrDFRV1bkTijooh756lPuJE/5y+TRY7G1sVULAf8lsDpd7BN/0ONXYMDmumtsz/G2GvPCNTMk+mqBLF/oKC;TAiOSN/EC5Y/NiajrFgacA=="
+secured: "RWmOk9pu1eLpm+K0rTAUKT1PYZth4XMWbJZTVD3AGA6TbxQ+l/VmPKXOr+W6ih8vfM5RTNOWfmBrKU2qK9B+irz8bhR2M2OhkqktTEt9GtaLAEHOIewCDdLaB1eTGPDS+AKujUa7V67nzTTRyWWK9ahfHGD561yhjxoc8lUIbtVpiFOcODvlAACmPSbz5vc6S6Q/A5W2uralp4r9A1CoqrJ2GvTyPi4RAYQky5TKMfr5CdQ1f/qn/9gVZNVBvf6yMdQNhvRf7DpXoygbSDzqct1yNo0sN6w6NAch0w45GL5FBZ9q0UrCBMtlTV3Ox1D8;9TkqZ26Wxgvwi6KRTfYjRQ=="
 ---
 
