@@ -37,19 +37,6 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2018/05/Fintech-880x400.jpg"
         width: 880
         height: 400
-  - title: "Artificial Intelligence Trends To Watch In 2020"
-    excerpt: "Some trends highlighted in our 40-page report include: Commercial deepfakes will resurrect celebrities, shake up retail, and change media AutoML: AI is the future of AI design Federated learning will bring in a new data partnership ecosystem Doing more with less: Tackling small data problems in AI will be a major focus Natural language ..."
-    publishedDateTime: 2020-02-06T05:04:00Z
-    webUrl: "https://www.cbinsights.com/research/report/ai-trends-2020/"
-    type: article
-    provider:
-      name: CB Insights
-      domain: cbinsights.com
-    quality: 41
-    images:
-      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/05173732/Ai_trends_2020-06-572x364.png"
-        width: 572
-        height: 364
   - title: "Fintech Trends Everyone Should Look For in 2020"
     excerpt: "Now, fintech companies can understand more about us through our online behaviour, browsing history and app usage on our likes and dislikes, preferences, credit and repayment history and more. With AI being omnipresent across multiple channels, fintech companies are looking to combine the power of both to deliver better services and experiences ..."
     publishedDateTime: 2020-02-10T14:04:00Z

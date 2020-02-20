@@ -3,10 +3,10 @@ category: news
 title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
 excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
 publishedDateTime: 2020-02-20T19:25:00Z
-webUrl: "https://science.sciencemag.org/content/367/6480/910.editor-summary"
+webUrl: "https://science.sciencemag.org/content/367/6480/910.abstract"
 type: article
-quality: 32
-heat: 32
+quality: 12
+heat: -1
 published: false
 
 provider:
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://science.sciencemag.org/content/367/6480/F1.medium.gif"
-    width: 346
-    height: 440
-    title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
 
 related:
   - title: "Bumble Bees Can Recognize Objects Across Senses"
@@ -73,6 +67,6 @@ related:
       domain: phys.org
     quality: 15
 
-secured: "DBXmes39idsD5IDgQ8fPwJj9NcbT/YmaaRcKnQTqgVr06gTW3IGt/2OaSRGyL14jst98zc5Z0319ga3ytCJIQn9zggwc+PS9eh/1XXlT0ZMN4FUD9gTkUREB2dMOXiE0+PNY86NCtY5h9mj/TJBO7KgvQBJYbqSJptOTxv7mrjHlLvpx9UUcrYtHeOx9+LjjuzMgos2csg+JSfKU2Gjk768pXUKdiz0xt+0GL7899/jJlY78vZJX+pyP4USS06CvMqAg8eGXyKnqukD4FIrzNFslrTLJqeOj5RTLoa+D0hasrj+wfu+xftFuoFS95rNE;FU6wfqLQvpGS42NN50NOzw=="
+secured: "NxK7zbcHMeBEqc7Xzg8v7VMwhT+jK+T7B1U9xXg/tPfHHhnkZDVLoHejsSLkipIyRSgsQpz+s3csjet96UeHJVbvwQpXTIWEa1D7LGyHexo0AT+QO54/x+0WBRFWd5haBniyYZwxh3rRploBFU4KhZNcc6G09DezzjORMdQSpcrgLg8VX9tN5DhsJ+UpeBY0poC2WCZH/YxneUWkWbxsGX1utDEZAP9gNvft8pbHg3AEJ2/08rtsRRLqksMfZ4g+2UxpLfOPuT9Dc+pgv1k4PabrtBWRHDFNc5qLtUndiHi4W2yCCS3ZfYTKTtq3DE82E/Y4tU+0KrTjcRixYlEMf4iAdJaj9YWl6rqq0XDlL+QdHFRXwN4bt59t5W16wk5rfVOv7UV+OHPE5v/XrJRinw25HDeGTS+o5q1V0suI5W5efRGiAemCRAd8ycVOephYJN/FWgG1goucDg1P4IEo8rud9tlT9goqKO6uOrmmK9I=;sMoFj1X9RZSreot4Lvd8/A=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 582
     title: "Mass Adoption Of AI In Financial Services Expected Within Two Years"
 
-secured: "QXAOxOR2/7z4hf1ur5kIFRAEZvHAfgH46L5T23ol0vAPH6EjG3OwcAhiqKkuzzitAPeT3qGWvxAMM1c3BHQjyTaqu0TKNLgusFVuXhY20x3eBo6UucWbzyQms5QjqYGoY0xri4oy8Ej04DKmj0R3FrIOCrhCchOM6++/g0tUg5yWLZAl7w82W7e5qSDsYX9iIHZWRATYVMv83i0EXTAMXte30m4u8FgLlf2w5tp6wHZ9sx86LKJ+GmeEEaKRkRG/OfQRy0NIgDi1wFZqdr4ASsl4oBPtG6QwAe7OPVUAR5h6q67M6PqvIxjqHXJlZkvw;P6O/XoGRzz9iANfDVWvjIw=="
+secured: "E9+hbdZ6p29ydnZGDK6O6TOSDCbAhr828RfwXdyJE0kaPCgnK5k6w32CRn3MjBp5sVdrvV+OtcfnXhU4CVzxRefi5DL7EqlDKGaHBT05dtFEyevN15llbeELLM8uxoPOmS+k7JrfhKobREh14o7R5Jl1kXJ81xQOBUnPqUYNUM/jpOdiK3EZKBWY0zUgO48C88uWpCcQ2+nA7SrC0aJkPBc75Cb0GHhab4O+nL0VffC5MePODVXdQBzFYMehIj0OpgoVNyxRnCDRT5PzJVGKPpS30jiDDK0fxpFup/s6zPCxjiXv1wEiiamRui1TflUE;W9kJD6CfCEAOy+nX4Gnt+g=="
 ---
 

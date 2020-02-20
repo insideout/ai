@@ -180,6 +180,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Medical Imaging Market Emerging Trend and Global Demand 2020 to 2026 | Alphabet Inc. GOOG, Cisco Systems, Inc. CSCO"
+    excerpt: "The latest market report on Artificial Intelligence In Medical Imaging 2020-26 offers an in-depth analysis of this business vertical involving key information concerning industry deliverables, predominantly market tendencies,"
+    publishedDateTime: 2020-02-20T21:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-emerging-trend-and-global-demand-2020-to-2026-alphabet-inc-nasdaqgoog-cisco-systems-inc-nasdaqcsco-2020-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
     excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
     publishedDateTime: 2020-02-11T07:58:00Z

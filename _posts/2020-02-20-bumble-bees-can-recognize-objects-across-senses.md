@@ -8,7 +8,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/animal-minds/202002/bumble-b
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/animal-minds/202002/bumble-bees-can-recognize-objects-across-senses?amp"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -20,19 +20,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
-    excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
-    publishedDateTime: 2020-02-20T19:25:00Z
-    webUrl: "https://science.sciencemag.org/content/367/6480/910.editor-summary"
-    type: article
-    provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 32
-    images:
-      - url: "https://science.sciencemag.org/content/367/6480/F1.medium.gif"
-        width: 346
-        height: 440
   - title: "Cross-modal sensory transfer: Bumble bees do it"
     excerpt: "Cross-modal recognition is also useful for increasing the flexibility of object-recognition systems. The finding by Solvi et al. illustrates that tiny invertebrates, with brain structures that differ greatly from those of vertebrates, also can experience an object with one sensory modality and later recognize that same object with a different ..."
     publishedDateTime: 2020-02-20T19:51:00Z
@@ -70,6 +57,15 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 15
+  - title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
+    excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
+    publishedDateTime: 2020-02-20T19:25:00Z
+    webUrl: "https://science.sciencemag.org/content/367/6480/910.abstract"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 12
 
 secured: "Jh9IIu+O+z9ZGEQGe+HL9nEXvH9i/LSs5F7SuYPCS3i44hJF3bTC90COyZWfUwiC+tyF7cI/iYVpSH9D7RafpB3Q50GyIeGRM4i7PMCP/e4vaUffV0hm64ETDZ1DSQUKBZHa37URlY0PZukfN1azk+Ow36qUwLlIYzniQCjG2ByyTkaNx0BrRS1zQ/rD0CCIXMixOVh932nJkxpgRB3ubzJtw/SIIxVzYT5VCOtHIa5xS3OMCdhyAh4tYluPMTxipTv+9KFPZWetM83LMY3+KYORpRz3krtczNvntQuJp4YmJBK5e3GMnMt0ImdF46moeJxhDQja2gLIaG77MKqG7C2VXnW+a6VOeUAEJCo9JjEqSWzLZWhyvAaC4su905g+6EylYU809y8mrqounHIRc9/zDJAkQuwmJD/ryhx0sluCczeP6UrB0k7sEWM1UCfMa4luHCCtQd0dhtit+CPzz3t4xooScfbXgSOb2ZV5Ne0=;5eswrmyqxSjB8kdP7Z/WnA=="
 ---

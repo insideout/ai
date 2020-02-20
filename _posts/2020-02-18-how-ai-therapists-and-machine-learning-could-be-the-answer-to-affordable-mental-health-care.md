@@ -8,7 +8,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-5
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -74,6 +74,21 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-IA504_depres_MG_20200219114711.jpg"
+        width: 569
+        height: 398
+  - title: "Would you tell your innermost secrets to Alexa? How AI therapists could save you time and money on mental health care"
+    excerpt: "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns."
+    publishedDateTime: 2020-02-20T16:34:00Z
+    webUrl: "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-IA504_depres_MG_20200219114711.jpg"
         width: 569

@@ -25,6 +25,6 @@ images:
     height: 384
     title: "Speech and voice recognition tech market to soar to ₹210 crore by end of 2020"
 
-secured: "3os82oYj7Ncm38tru9R89CPX2NoWCqbVormf9YXYVpwehQnVt3GalpI51oQAyOkbAwyNomt1OidL3+5osnnajRWeQTajXMWldb8GQmlb7tNbyyGRiYQAYzHuGWEEKde6ac2X9QZZSkT+ue66d4euxQojRG82s34P2NmcQjav5469x433GkJzFmFy7ilFT7hIfSFvlhDCMqbgM04g+M4kbtAeua15iHsSFBX9L+VEb1Q6Imyq/hUbK4rDZ5LRJw4/IL6RnKQcjEJpytUVyXirgov1JCUTP4UfAdXjqlqNBko3bmFQg18tfsYDWn6rVZn7;O1iDZPfNwDYT3cERceRLiA=="
+secured: "xSWDpPoF9QI9HbgDcBeMf6HiAtux+n4KgAHOkR5W0EETYTYte+B7QY5joLxilPeD+9S/lWD25H098p33TZs0W2wW/xLcbvJ1iNgm/GnFtiZfFUSyCuhOcH5coGL1b0Gec/UcweXJxs0/59Utipr9NJgTMpyUS2lxz76TrK6dg7ahFLrQvXgF73jb0WGaY2ZI4vjvZfQtN3hH4TXCx8DU6CXUySdn5h32F8ebmX/9MP5BeXQPFeJzaN4M9Q1D4/6E3QZLa8qKKbZd48ZFc9zHe9x+2kpaE66AMcKwFS1ZolIam6BRU60H0PipM0qVuWRf;NjH/Kmz4rlsUPueughN6Mg=="
 ---
 

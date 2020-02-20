@@ -29,6 +29,6 @@ images:
     height: 933
     title: "Facebook will now pay you for your voice recordings"
 
-secured: "k2kyvVMPUdwHCBDyA+bl5g5ZKCt1QF0rG3TWOepSxoVF3Y1tYZJTdXcbDUpBQaoT1rzqYD6uYILOaARfxYB9WkbDTHvEeArj+e7rta/epvUtPfOyAp/evo1/RzXPnO6FOU4nSvDLuLmEMJxDHiEOyB9hPauuFtT5ShMiz5fB6ANWXrC65uYk3AcIL5kyYSnik7Ps3QuPHmqtDU1m43+1YFrQWIJ1NOCt/EyzEcbNZ7yEEf1Z0QlfzYOAdlAcOGr6KnH//hzhSmTQW0Fc0DlZYZGFoZnP5+3eDb3ypV2Yo+GosBX+Z6VORcik0GgFBlXl;kVdUa2eMECeI8S2aCM/O5g=="
+secured: "YeYvj6yhzk6Vs4VdXrLhCVBztvUNxKEeEo3CmXFRU7MMuwJEOL4ufuDh/TW3xZVU1ovLFcDObnzKQ/moAgqC3izat079Hvqkv8ycLuIQdw6Of7XdhHuUtBYRh70Pm/jNlLjkNahiHp3wTl+xfzbN/9s//g5ZkAgl4grKR8WbAR3WHiljjYdUTnAI1C8aKLLP5O79v0rpgUT1qtdpq5FVVGLGXd+OlUNPY/d0m+cR2O//mvZZJBWcrIfYeBE8NN6MKoRKAISNUU0T0dT0rf0FnFZL+xsD2vlfHBDQxYgr6ZPvrY/v40G4VsLiWr6ciC5xuOestd+YDdGjBYfOhGCTy8/vUA/HVSDv4yT/CBKIwV09HsYli9xztYOmBSXlVkyMBWZJSdmSQnIuTcdGWXw1+/8cdT0+m9YHMPbIRw3wE3UEMQuz9CD/eSMV9CMxkw2xecy/yFJbVbTL+2+9R3i1TKVPq2vc0NIwtTNOzuuV2QA=;9+FJgteGe7RXtnJtpuAJjg=="
 ---
 

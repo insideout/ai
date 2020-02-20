@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:
@@ -71,6 +71,6 @@ related:
         width: 1280
         height: 720
 
-secured: "A71DQ2DXPVwBpojVsD6kQbf2ObqLd38BflexvqwK1rCCRnuaPwVyO3HPCYw2Ys6/exSnSqke2Yl403qbBX4hGf82IF+qQ3K8Zkg4l2T/B995tKU9BwFSbmQ5Uu0X8ikmGFX6KK5CqoGQhh63+XZkJv5tv395hRjMHr43/0qxAP5s5g0Sg6TOAv9yU4O4tWDynxEUEes3K7q8AksYBotBNWMFx8MwFuvjWCBLNvFcRL+bUVlsyqOkfk4XXK1tocreeAXAnXxjBaJEYmdpeiAb5+AdCfb7O5SkGBURM/oxuXFI1CKtLmEgatYxIRflen4E;/wx54XAWebw3gQZPb/H/jg=="
+secured: "5q5RzZaZrvMXy1aiqufibhTPZiA0Q/4mrIbRZ3KluymXlmV/ICO4yzM3AFsMuR4ONENGU2XNtS5dKgCGer9Bs0gqksHNkg5E9Nih8TFZLKKdMvfXWcrJN5Tpc0294v/J+5V9BIV71vRLCmJjNEe8mN3mm7nwQzr2LsUX4L+WtsHFLKA/wjm/g5NLRDeUcTkBZtMRiPO1UJrlIbgHNUALKbPrYuY8jtFtSOUnroPZ52KkJLpqZmX1ngEqlMSDfnmI1ZfBFrWHTHYcz3wQorzcvs7Bfkwx5JoaiSKgWKIrArIJ8Mh7KVVyxljwxkT+peoroo3BLSSxzpC1pTlkMUA6tD10LsGJ0NRaXi7fQClncpKnQfRqyLYREHeYDLKIGg0hl/lJ8zGHiGgQZ6JPxrseSUwMnZnpcAw81zlHIp1UGHl7ldX9+ERJYNwwe/ECeNHLEESYz4al87XXV9FGbPteCP5zAjU8oNiPy0IRqbK0qP4=;/YBhtpqluJSaW/NU0nnWLg=="
 ---
 

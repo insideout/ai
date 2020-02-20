@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 302
+heat: 312
 published: true
 
 provider:
@@ -158,6 +158,19 @@ related:
     excerpt: "Market Overview The artificial intelligence in construction market was valued at USD 580.70 million in 2019, and is expected to reach a value of USD 3,327.06 million by 2025, at a CAGR of 33.79%, during the forecast period (2020 - 2025)."
     publishedDateTime: 2020-02-19T12:11:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-construction-industry-2020-emerging-trends-growth-opportunities-and-strong-application-scope-by-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Medical Imaging Market Emerging Trend and Global Demand 2020 to 2026 | Alphabet Inc. GOOG, Cisco Systems, Inc. CSCO"
+    excerpt: "The latest market report on Artificial Intelligence In Medical Imaging 2020-26 offers an in-depth analysis of this business vertical involving key information concerning industry deliverables, predominantly market tendencies,"
+    publishedDateTime: 2020-02-20T21:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-emerging-trend-and-global-demand-2020-to-2026-alphabet-inc-nasdaqgoog-cisco-systems-inc-nasdaqcsco-2020-02-20"
     type: article
     provider:
       name: MarketWatch

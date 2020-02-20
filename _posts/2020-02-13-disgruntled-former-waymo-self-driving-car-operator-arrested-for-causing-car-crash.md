@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
 type: article
 quality: 83
-heat: 263
+heat: 273
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG"
         width: 640
         height: 419
+  - title: "Ex-Waymo driver accused of deliberately causing crash"
+    excerpt: "Waymo officials said Tang “engaged in similar conduct ... days before the bloc is expected to release new proposals on regulating artificial intelligence. The billionaire social network founder is the latest U.S. tech executive to make the trip to ..."
+    publishedDateTime: 2020-02-13T21:33:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/ex-waymo-driver-accused-of-deliberately-causing-crash/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/02/e1a12058c4994013a8c4b826b6ab617f.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash"
     excerpt: "Raymond Tang was a former Waymo van operator who worked for a contractor of the self-driving-vehicle company. He was arrested on charges of intentionally causing one to crash on January 30. Since his termination, according to Waymo, he is accused of ..."
     publishedDateTime: 2020-02-14T06:43:00Z

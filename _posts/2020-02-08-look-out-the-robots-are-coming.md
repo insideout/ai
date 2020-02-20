@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Look out, the robots are coming!"
-excerpt: "Just when I think that I'm getting used to the shiny new world of Roombas, Alexas and driverless cars, something else comes along and throws ... a team of international researchers remarked on the potential of artificial intelligence to disrupt a variety of jobs in fields as diverse as finance, information technology, law and medicine, and ..."
+excerpt: "Just when I think that I'm getting used to the shiny new world of Roombas, Alexas and driverless cars ... a team of international researchers remarked on the potential of artificial intelligence to disrupt a variety of jobs in fields as diverse as finance ..."
 publishedDateTime: 2020-02-08T04:31:00Z
-webUrl: "https://www.texarkanagazette.com/news/features/story/2020/feb/07/look-out-robots-are-coming/815638/"
+webUrl: "https://www.texarkanagazette.com/news/features/story/2020/feb/07/look-out-robots-are-coming/815637/"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://media-cdn.wehco.com/img/photos/2020/02/07/cdoughertycolumn24539147173_t1070_h10763943e31ed1ed1283106f30b9da2ac5376c82.jpg"
-    width: 1070
-    height: 721
-    title: "Look out, the robots are coming!"
 
 related:
   - title: "Chatbots are big news, but robots are set to be bigger"
@@ -40,6 +34,6 @@ related:
         width: 816
         height: 459
 
-secured: "3gPpjlMGq/yN6H6GwZxsZy8rXci5Nmb1aZzgWO7sW0TKA8771yHeX2/c+6muhWZq5vtkKV2iKKN/Ru6m2h1oSyejyZx+F2pJaZZgUZ+7wEFTcs3pBIiQ753zY7G9/Oxum9KvBIVPa1KG2BJbIzavwVq9gME+OjJ/DwfCcjKhnmiCK9x9e7FTblXWrTmn5BdSmsZxHlfg+t1dkh8IXszmQYKJF542YuP0C6kVTX6An6OEc3Z//F7K0mfZpmyz3owRO4bHX58otPKvibSAY9qtDdChXD2erogJToHkaf90282Z2RSUncK+M8G1x6l22j9ttkRQfNbeslc0+342DHs4b27kd4xjVz8yLDEU2H30thpgtkc0M/0PKM6gevrxa9n6BgN+jg2fjd6wH9UurNmtxfC+QVDvvfkZbdUVOa03ENghbvLrL0XrtzthP+NeVceA01lxz/eRNb9kh2Sww9GKvcbQex5LsmwtLf4eMXKYKtA=;dKPWkcTZ/AOCuPsRaXJtQA=="
+secured: "2MnBVXjrkzKKwANPM/WzM4i1S9VTaqZ5A66yz5caPbNqRov9Z3oSDK29J5DodlbOhSfUYIU433tP8AafP0rTriXgQ5YTq5mB+Mz/g56lEQA4Nhj6ojKm/bLt6NfIFSZ2OZg6Bj7PUg64RYm2/at7pMLtZspK8cns1M5+DV8j0Z7sS0tE0ekiB1PG2U+ZV1LfYk0GSY7t5gbO/jrgcysCkCrMelOch7SN+cXTm7B4WPAGyrEmRtFN9W2/usPKPQQ2lQ1AuWjdAaCiuCAn3+ouj4hsQMhH6fcjiilUe8aQ8zVvo9A0oQZjRElWL2eza6n1WVnZGArySzBJ+L6K9cedTxHu8vBQK1SOZOirL8VlRug8FhNQaZ8SJN2lcCGOiFy+3v812aiPC4ocD09DFVHzk9GLygBdbjrBQwNCSEWo5sg6QkPcnbzLW+RDWdOvJdhggR3UMPzHRaKmcygeISPwXpVPXKX4g5pDksEqoXUduBM=;TuNu1C+9ZEaBFo/ILFzfrA=="
 ---
 

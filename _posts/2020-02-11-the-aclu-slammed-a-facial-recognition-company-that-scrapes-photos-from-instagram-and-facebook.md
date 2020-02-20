@@ -8,7 +8,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-f
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
 type: article
 quality: 180
-heat: 400
+heat: 390
 published: true
 
 provider:
@@ -302,15 +302,6 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 9
-  - title: "Video: American Civil Liberties Union criticizes facial-recognition company using people?s photos without permission"
-    excerpt: "One person died and more than 150 people were injured Wednesday when a Pegasus Airlines plane landing at Istanbul’s Sabiha Gokcen Airport skidded off the runway and crashed into a field, according to multiple reports. Istanbul Gov. Ali Yerlikaya said the ..."
-    publishedDateTime: 2020-02-06T04:38:00Z
-    webUrl: "https://www.news965.com/news/video-american-civil-liberties-union-criticizes-facial-recognition-company-using-people-photos-without-permission/zxDuScv4SVMKOi7HIXGBBJ/"
-    type: article
-    provider:
-      name: News 96.5 - WDBO
-      domain: news965.com
-    quality: 0
 
 secured: "Aw/fVwB8LgOZBRb0gg5sk3PqLo27/IU9lVtUhNfXJiauRl4BYxh1h90dZk7M+401ueFFlOpIPvwMAU0V9Pc8lModznshWa8WJ1/ZEFhqAvU5vVkT6lrdImK+Vg9KSjznxtBksU6SvWq0ZbZ0ki7iqsAqDpAmMUMY+TThtK7BlH7KcK0q9uCAYBl3hjZ9PpLlDVRUMFUDAVNiv1kUjVOAiZXSFDnzwUVCeAhj5eB9MvhJStEjp2KTGlW8rm4B8r/e2q19n7Whfn9AW3piSYrOk/6/R7ulxp5hLsJaGcUUz7EI+2i6Md7IyecU1fzKG9QCaW4mpW0OzTZvZXrjcxSrXNHjh6KItCCDojmdDJ+8ncBphioItMqawEz0ihreZjb4pcP6IG8GhpUT7b4BcLpX7O0ytgrxo/c7A7xiB6f+tW3UWDTN7mLxT+76EmKVOpsP9miSTGUyt6RdrzDQgE65fM2slrzY/YYzGruG/7M3bnGeXBwW9hCo+wQHEqv6O+gW;CylL9THe+xLh7an/CmQ4dg=="
 ---

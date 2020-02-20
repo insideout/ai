@@ -34,6 +34,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-14-796x417.png"
         width: 796
         height: 417
+  - title: "The EU’s agenda to regulate AI does little to rein in facial recognition"
+    excerpt: "AI is upending companies, industries, and humanity. The term “facial recognition” only appears four times in the 27-page document that outlines Europe’s vision for the future of artificial intelligence. Three of those four instances are in footnotes. The document, known as the White Paper on Artificial Intelligence, is a part of the ..."
+    publishedDateTime: 2020-02-20T21:45:00Z
+    webUrl: "https://qz.com/1805847/facial-recognition-ban-left-out-of-the-eus-agenda-to-regulate-ai/"
+    ampWebUrl: "https://qz.com/1805847/facial-recognition-ban-left-out-of-the-eus-agenda-to-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1805847/facial-recognition-ban-left-out-of-the-eus-agenda-to-regulate-ai/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 105
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTS32KQS-1-e1582225812882.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 788
   - title: "LG CNS deploys AI facial recognition gate service"
     excerpt: "LG CNS has deployed a facial recognition gate control service that runs on artificial intelligence (AI) software at its headquarters in Seoul, the company has announced. The solution, made in collaboration with Chinese AI firm SenseTime, uses a designated reader that can identify a face, authenticate an employee, and open the gate ..."
     publishedDateTime: 2020-02-11T02:47:00Z

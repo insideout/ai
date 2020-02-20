@@ -33,6 +33,21 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 47
+  - title: "Drones and self-driving robots used to fight coronavirus in China"
+    excerpt: "Self-driving disinfection robots for hospitals On February 19 2020 it was announced that Danish-designed self-driving UV Disinfection Robots are being shipped to China for use in hospitals. These devices, from UVD Robots, emit concentrated UV-C light from a column of bulbs on top of a wheeled base. The light has a germicidal effect, allowing it ..."
+    publishedDateTime: 2020-02-20T17:06:00Z
+    webUrl: "https://www.dezeen.com/2020/02/20/drones-robots-coronavirus-china-technology/"
+    ampWebUrl: "https://www.dezeen.com/2020/02/20/drones-robots-coronavirus-china-technology/amp/"
+    cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/02/20/drones-robots-coronavirus-china-technology/amp/"
+    type: article
+    provider:
+      name: Dezeen
+      domain: dezeen.com
+    quality: 44
+    images:
+      - url: "https://static.dezeen.com/uploads/2020/02/uvd-robot-drones-coronavirus-china-sq-b-1024x1024.jpg"
+        width: 1024
+        height: 1024
 
 secured: "xqr7FcOEKdoudLAN/nOjHmsOFz6U90rqzTvNkA6Osh83414qnR1WHdmw+aCTX6uibCS6KQVaCeoa59/6/FA+p0L0/cdlKpgEe9FNZtXO/azPKZuX2IjWYR4/XwWv9KdS33GkAc6kRqKQcNIsUfcFYIUFBwMjSgt1umbHSKZj8h3LViS3Rsh5bXqrS9efNFLhg37ml5hRsbbMU2U4hoU3PsAUpdtk3NskD9p1tCKdWD4bYBW+DAt7JnCHXeOWLTvUMSghMFBDzZO9c5FlGTlm5jYAjLnBn9/e0G3MusRJUusl3Xa1CDYU8Mt+9gdd71rU;oSCv5B8chg/3ZnwtpxRFew=="
 ---

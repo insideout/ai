@@ -20,19 +20,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
-    excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
-    publishedDateTime: 2020-02-20T19:25:00Z
-    webUrl: "https://science.sciencemag.org/content/367/6480/910.editor-summary"
-    type: article
-    provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 32
-    images:
-      - url: "https://science.sciencemag.org/content/367/6480/F1.medium.gif"
-        width: 346
-        height: 440
   - title: "Bumble Bees Can Recognize Objects Across Senses"
     excerpt: "This ability to experience an object in one sensory modality and later recognize it in another is called cross-modal object recognition. It’s actually a highly complex cognitive capacity that was thought to be limited to vertebrates. Cross-modal object recognition has been demonstrated across vision and touch in humans, apes, monkeys ..."
     publishedDateTime: 2020-02-20T19:32:00Z
@@ -70,6 +57,15 @@ related:
       - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
         width: 900
         height: 300
+  - title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
+    excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
+    publishedDateTime: 2020-02-20T19:25:00Z
+    webUrl: "https://science.sciencemag.org/content/367/6480/910.abstract"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 12
 
 secured: "S5Y0adcTRMbd06D+QyCzAk2l/yqYNDDA8qSHfykD5gP8EbJ2ILHp9aTIRzIc/wWSXZtMi9Tz1yDVstulP1Tpq0RT6+lZx4wf0e+zp0m5+GbQmmgD8owtNJFLnPLYxTRHTp4wK0GXYhpDMzRHbU4IvdoVoRj2TGsm7MczvaRfwek/RxgvHD2WlpMuk7dvINf43rwmPq4frwbV2jAkOpXjAXSmUtSF3BetoQ7yOkT4ztQIdPlvmhENIAxchMV9m6nLgrLurHbVs26XpXl7dS+j7H8LVF9V9aC3K8yOPG7AGxi8KDsIukvtsK0E88wU3mj8/FrW1nHv1sWHsVO9yfW6fspdaZP7qMJVYlNgVXWt49/Xya8/ngJGC4KyAYUZGZWT2iCdOfn+z0TjvyyJclW83Jy/K7siifnnOfIZ1i9466kPxCO6z/jOhDlmBAfurXHw74dqkq23f9Tn/g9sGG71xjSCqHqP0lWysloUnS+0h20=;LNAElKTlbHNfq0HyeUmhbw=="
 ---

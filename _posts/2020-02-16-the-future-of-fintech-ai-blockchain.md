@@ -3,9 +3,9 @@ category: news
 title: "The Future of Fintech: AI & Blockchain"
 excerpt: "Sweeping global regulations, the growing penetration of digital devices, and a slew of investor interest are catapulting the fintech industry to new highs. Of the many emerging technologies poised to transform financial services, two of the most promising and mature are artificial intelligence (AI) and blockchain. 74% of banking executives ..."
 publishedDateTime: 2020-02-16T19:28:00Z
-webUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/articleshow/74050801.cms"
-ampWebUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
-cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74050801.cms"
+webUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/articleshow/74234001.cms"
+ampWebUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74234001.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74234001.cms"
 type: article
 quality: 39
 heat: -1
@@ -107,6 +107,6 @@ related:
       domain: phys.org
     quality: 39
 
-secured: "/CLegiDrtx1/sbhviLe7JMyxEzyAlnfNHDKo4uvB41TSc2HKU24UTYDmkjSPTh2lJVqYAes+uZMq0z9eTwOxVW42Hp76JsVzPDxdgMBS6G34BQRiKt8ixNcYuiqHcK79k42T/bdIt/Hu06my/uYUFlW5DNQopikJVQ10TDVeBPUJEnHObnuXNM1Da+gyPk69tk9Y7qEiDHqUxAVIZo6nqiz7dafSnHpyOt+SiHJLqFm6krH76rLvYt6o7EhUUyRn2RyvuhUt/F957j0rGCkmnsDrJGwn96YLdjthymLwwUE9+LVFweceUiwu/wqncCTc3xaIhcWvf6ITh9NEl8Lche9uEHyLaoYdm/Hqo/5WD0wOp2tnEdPFJz/FgcTkch9fyUg90ZxdRT2ac0WAoc6SmLKyJzKCtzGBzSxUymXHGrCCEAVE9O2aumiZcoPIeMgtm3jn0BpnoSPe1EiWYAFyLAAzfWjMJ8wF2oLOciuZotY=;X9h0Q44dfI62z+KUkBlWKg=="
+secured: "ZJV2gDFMGdiFVamW2pm+NlS+qCR/9rOaK8EvwyL4XiJrRcqN1hx7BOmCbmU6ABQmP1Iced1Updtl+NMYw6/loiiIsIvU985Gg5d446788zOW5N1ri9Q+knu35NnO2NiDcJ3H40bqi5WEGCQREwLNHhhQvrlLDW0yFEiZ1e+Wftrt8zeVixhQuVyxhNiSHcErAjbbP8Fmt/OzT1Yv6hOb5/tiNplzNKkZK8RMtWc3IY+gblHUgghe9kJmp+Nsw1lYf5cm1QoPdl8J/8RPv+uyHJcErbEIyA+HNcsbKFYHapl1a+hXhEm9WI5uPPZ2ErMElRqycYDau6U9DD3umnyHiR9Vy/bTBO4rc6GtHrkbC9jubJ4EFSxXvwi9sWlg8RuFeYgTtwmqCBWxbWeq5zEXLAKAQcYpKA2mDTLGrwDsY3qShTjbFTorWBy2uizIpA/8tIz4ZjqIXGrfAmTNx1hTp/MGEeTIY1sjLM1LoY2M+A4=;MEGCeKwS4rbDaofn67+AqQ=="
 ---
 

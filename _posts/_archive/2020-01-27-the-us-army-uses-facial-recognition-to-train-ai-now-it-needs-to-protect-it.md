@@ -29,6 +29,6 @@ images:
     height: 763
     title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
-secured: "U1X+guxbWmv5WgJv5wpOKyQwiNiqcAtfdfAujq9UHDwRo/7G6ZnbK9CKwKfPGYdzjSWdx0d38osuH+lx+FDkj5ZwXXoV6j02NxiWqLPxD2b8IX5riNmA02hpOhCPNaNkNv1FFyv7C6s80R2KQNtNU8knH82m8UP31XntK+gMMvAWwVh41QOBbmQomVGsrj9hTXzba0+Q9x6KyLIeayfYjrASg9iwzStrnTIF2wQVV+1L48ElWMV6zqA35kV7dzoTOJFh1+bI2+15x8lps2pPPVTOKZFGUUNOkeK4ejl/Cso2jZUsDrEu57ORtS5s8WC/;85abYwgtdkxaTfdhjb+n5w=="
+secured: "pgkDC31lb3xZksol//bdf1VeCUL+6rDd8U8aE2B6NadJHYChzvBqzb99fVc6BKzgC9+qW2aa00F/AvdB8cAQjNXEKzhwjET0LPdg/6YGlht1dbynDcgxzfqPKSFe1XZKfpG5CXhUCrkuMuKX5E7KiASJCCYlgc/HfAJFN9Zx8S8jsNUFf8EdZ5r7XAGiLRPDDBC+aoVFINjY+OQCMSOh4qNjEzjUicM7ORfsUBNNcjQ4FuqoLsAVaM0mC3j2Xa3oB5WYt9Xe5uRlHtJC8XE/wA7rqFyrPaSjjV4CxXt+pTZFlypA8JMTPHfTcdKp2Ady;V1EyFs4iZjyrR9avV0F2fw=="
 ---
 

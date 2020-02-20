@@ -25,6 +25,6 @@ images:
     height: 642
     title: "Robots in the Food industry: how it will help your business"
 
-secured: "hQ8oloFYBTlcx11ZtG0DRCCGs2e4c8hvPvkvR3MIysXy0ZTroOieBQbCTmzin/E59jfhtYyIUBAzCeIsM6Trpw3G7Vr0vIv4KkgkcXqY1qjrHuvS17TBo6J1VxhxOSz/PYuzjR9m2V7Ua4+NBEVQEvcj+brZpnaOe6qr/G1y/LCEKpD3Th7tvyUahU4BU8Vdg5siKPfxfTzqDri7Rmk/iIu0ZM+icUXlloopEE3oHF+G0pwGcdmVfsJGl/fLLJ/QvHrmuiqKpwD2PaDtqhdQ/ACG+NcYwsPonMaRWsd/MXbFeb/nN0r0Hz4Zbe8EuTuR;CbcCgcCfon622o16qc8jJg=="
+secured: "gsjwmtRZ5Pl3JS+eQhn+b88BLFZl8B5eI8v7GUKYWI8CzT7QViqKMD24f/Wn07K2qx1ghmG7Fep4s2yiakyRc6bFvjx1sd9vecLU/w0/6rg/f+hLWWgfPydc1vSUecU6uWJcuq1YJJmKVF1TxLdP44PW0kRyMhMqxm4jnlxwJ8fkGWAiiMXCmoTOiH7K1ZI66UXNYLIOh+qNxGSrj6NnElfod2TNVnEEZzT48jIry/RMfN3taXtOINcVqbEG4uWqAqtpJJpwG1voIRK4dL6v72cHbltZVk7HdhyuPkV2cimZXAoP2UEqFb+nSNbs14liHGvM+QvGvlbuqJF+KVaGgKf7DrRU24I82cJo8we7Z6apcnXyNazP1zIqEeUahHoKHhUwJuC0ioyxdjym0KnyO8ovCqwLU1mW5Y8e8bNaa+AJKeu7NxCKYEVK5pltnOpKklHPDs+PU7zqZk95PgJlyZfsWvHKHkfmxXHrP8+unFk=;+aOxS8qBpJcT7gw2x62OSQ=="
 ---
 

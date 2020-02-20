@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/the-top-20-it-traini
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-top-20-it-training-companies/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 799
     title: "The top 20 IT training companies"
 
-secured: "mg1nzp1RGjx87ngehYrYp/AqLp97NOBkIy0aivA24GBrGTRTlcgPY0GargQNdZPCFhGjNY+GPaz6tus3ACcmNxxPflPNgeMbF3bEskrF1Tb+FNqTDl96gmYRGw+AGJgILtt3ACdaQ7Gub2VnXb391MBxVQe0oou97No3IOv2knju+D9r7eZ5Q7X2Tynb8zust4KxSEuepSSicBsJobLmKzoYScU/1N8QObMqd26fNuf5LI5LLsqe6ZL/BmiZGrtSR+MWpClohbA1Pio3BF7lhd3oHLGSy6sMjWvkzN0xxHeKIcZlmJPYi3Wq0opLK872KDnkUzxOMRa+mB3mTQTQQ3oZRA536VYFkcc2THz4EjmDu/Cz8m6QufBsdcO/MwGlc424qv8HTQR0E8t0D0gcxk4RcEH1sXCgGfdG0sOBWMbXSnzdqpphdPqmE7KdLN3TUDdtys08qdN1uOBHPkOUkEhhJ+PvYjfRqM23M6/n1qE=;PJl+1+a8v232L/w1Mc0RoA=="
+secured: "FiHxhVJ8kBEfh9WzxuEQxWyr9IwzfW62MNedoQT+tX67MGj6TGEJHhZEDdEN3qHAo88YWiqzCTBzu/4CJ1VzNae7IhzPiIWahU0DOkYRQv5/Fz0SczNCjLOtIbptsHajkcwUL3CDELEbUSjIi93YobVws0ocBgDJlQf/qKDxc8duDE1I+Y2TvJHgdLYVdYiS4Gwk8Iviz6SckqfC8daeVo8xKN0girSwoAfLR6WSw8nXDy4QXgwyMUB5tvEOXavbUKj6jbO/7VEMeioUqgofjDABnzAkDXDWiifpCWGMbhgtyA2pXNpzxfiwFpzPbw+6ttLpvIDiSo5uO5Tot7128KZdWve8Wp9Np6OshM1PdpUsBIUM+EQ+XOCtniPYwvq9W4UHYa5kPnTI9Azq+dtqFVb/7HNoyqh1TxMrmSh/kiXlgJLuzufSit9HaZeLKz+7Y9GJ0gAyB94IVUhmQ1Ef01ARcxKpFLYfTTqTPK6uhig=;q5IxwyNHp+hYj8ec/3SztQ=="
 ---
 

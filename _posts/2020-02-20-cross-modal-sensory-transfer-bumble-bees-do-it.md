@@ -24,19 +24,6 @@ images:
     title: "Cross-modal sensory transfer: Bumble bees do it"
 
 related:
-  - title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
-    excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
-    publishedDateTime: 2020-02-20T19:25:00Z
-    webUrl: "https://science.sciencemag.org/content/367/6480/910.editor-summary"
-    type: article
-    provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 32
-    images:
-      - url: "https://science.sciencemag.org/content/367/6480/F1.medium.gif"
-        width: 346
-        height: 440
   - title: "Bumble Bees Can Recognize Objects Across Senses"
     excerpt: "This ability to experience an object in one sensory modality and later recognize it in another is called cross-modal object recognition. It’s actually a highly complex cognitive capacity that was thought to be limited to vertebrates. Cross-modal object recognition has been demonstrated across vision and touch in humans, apes, monkeys ..."
     publishedDateTime: 2020-02-20T19:32:00Z
@@ -72,7 +59,16 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 15
+  - title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
+    excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
+    publishedDateTime: 2020-02-20T19:25:00Z
+    webUrl: "https://science.sciencemag.org/content/367/6480/910.abstract"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 12
 
-secured: "RWmOk9pu1eLpm+K0rTAUKT1PYZth4XMWbJZTVD3AGA6TbxQ+l/VmPKXOr+W6ih8vfM5RTNOWfmBrKU2qK9B+irz8bhR2M2OhkqktTEt9GtaLAEHOIewCDdLaB1eTGPDS+AKujUa7V67nzTTRyWWK9ahfHGD561yhjxoc8lUIbtVpiFOcODvlAACmPSbz5vc6S6Q/A5W2uralp4r9A1CoqrJ2GvTyPi4RAYQky5TKMfr5CdQ1f/qn/9gVZNVBvf6yMdQNhvRf7DpXoygbSDzqct1yNo0sN6w6NAch0w45GL5FBZ9q0UrCBMtlTV3Ox1D8;9TkqZ26Wxgvwi6KRTfYjRQ=="
+secured: "C6sLGucOah2pHuKj8DICbiOGTGQPzRFP1iRSbx8VWF3hgxUld7g4ZvP2GIoCpnJzY7Wf6svcUr04LgGGUaCScP/6FRd6/B1QKRwU7C0cS1My/3EEzyrBjq+TxCP/wk94SdIIIjN4xUrqIIajerktSNDl3uf8PrL0kOw/MhXVNqt478BMNcADpLMDmdZloK5CS/MQokWdkqaZOynDj/8N2HS3M7lgfYLZi71WxpYVdDeCaEaBx1Q8UpN5lgbTmSNaLYGrgmELE1iZCdlMluXEISBarMR6jqwKJFzNRphep4YAZaugQ25bL66PwYFC0luuOKTvmV+4zd412vph3+yug+Kk/9rUeUs5hKu4Bd6hlj979wNhscY7O1vJHvuyjxWPxSeWcEKqg0AbgdDyBCdUumVCtcu1s0pEgKmZStuaDQLGr3ByrZpBTmWNaP+DH3WH9eYdN4dwmklu1QNfBLwd1KywCPcWM46DUuFwUuLCSIw=;TZOq8wPspbwPaEsMD46N8g=="
 ---
 

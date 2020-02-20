@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/346594"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346594"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 338
     title: "She Broke the Glass Ceiling To Establish Her Coliving Start-up"
 
-secured: "eiT3CEcxCN5q4v466tt+UmQjMJau3ecPgbAOtqY/4c6//QbAp6VaYgI8Bq8Bhhmp5RemzP+GbVxAYDqTUm63sg8UVlaPuaJ2B4gbhWlAvwP1uEiXqiUCna6KD6ekWTJSionSbBeJ5W1QEC8zEWUgtfl1g6M1NoldnM+e2SEbJgIMd2J1JvcD2rnLFHDDHsZlcslA6LhN3O7RifsKydTQt6M6M6UHrFCj4L7WFPOKI5ob+wJuedQlC1boynDxNI9+dn8MTnY5CmrAZAhAVmBzZ5Imsj8qfZqInPXwufy3Y3pSxyjLcb1faQmynk/eNZnkDW0NYif7FcGbvyRmuClCXLAbtMeCXuCRiaS+d6E+AMUuXbq8uSBxxtwrU/FUXBHCjGou6WaOuhHtAH40XuFip56O+j0u677ZquuilwBoq1ouZhDcY6gUWVpOyBZIcrDotxwQalVc01mKfsrqF5ykBhumS1kM7ulZj8AAeM8IIyA=;pfnZR3/smZJISOiz7Fvtqw=="
+secured: "r9yuhp2dR24c3Rr079+y7Nop5glFsEjWA9aJU0QAwGhGzQKpBnZrzm3San5nx2Z/evuDsxSw+DAT2eiSp3gL5otICDzl4hvMjKnVjgV8tl8m1eTG+SA7R5r+Os7/7m4dvWyNEczhx1qptSPdWmCqJW4XWzaxm+pDfR94NgIECQRRIDvj1R/wBDFa8o8yEnwbKHkwbJYF8+aTZYZ/el01a2z+2SSYlRM/9STRFq2vlnljvkhvFxx0rnWL8iOKso7pIwkKu4mLErHrCOJlpfpGKUJI+YUbL80HZcKDONkk0KHIAn6vikv6UqCB1v03xk8kJghi/gqClCPkokN68Incit8wacuRURg4NW3odQk5jwJYKa6m7o6kOVkwAGuxtlbKWsP9F4n4cI39mCqY8v2jIYDtvhsM7hCQEk5fvqF1iJ2RtvqTu3Id5m/lw8rRafslumH5xzbljn0KgE+azDdT7SNR91CynjkLBi/R8rLslnw=;9iPcb4eEpNFrMhLH06aFlg=="
 ---
 

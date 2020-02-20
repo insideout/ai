@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T14:32:00Z
 webUrl: "https://www.prnewswire.com/news-releases/sandlers-methodology-and-gongs-revenue-intelligence-technology-is-an-unbeatable-combination-301003733.html"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -21,26 +21,6 @@ images:
     width: 2695
     height: 1414
     title: "Sandler's Methodology and Gong's Revenue Intelligence Technology is an Unbeatable Combination"
-
-related:
-  - title: "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI"
-    excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ..."
-    publishedDateTime: 2020-02-19T07:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200218006230/en/Northern-Data-Canaan-Announce-Cooperation-Blockchain-technology-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-  - title: "DGAP-News: NORTHERN DATA AND CANAAN INC ANNOUNCE COOPERATION ON BLOCKCHAIN-TECHNOLOGY AND AI"
-    excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ..."
-    publishedDateTime: 2020-02-19T06:30:00Z
-    webUrl: "https://www.4investors.de/nachrichten/dgap-meldung.php?sektion=dgap&ID=60921"
-    type: article
-    provider:
-      name: 4investors.de
-      domain: 4investors.de
-    quality: 8
 
 secured: "l2Z3p1jctBV2/+opd3Hr2In/iSeVIT0hCnJ/USnS5YeBD+34JLaKvvuERCQG0/CoivWaHsTaSjcRp414ARslGXoeFZ0pn2qKN7bKG9DuvSGnpLmVsPljMMtCOKELyjjbCNcqIqI8ibA1ICion30vRt9D6l4IYs1e8zqAl00aQyWisOvJcEPxXEJjAVERUCK/irH5p00n1cPc3WXwG+sY5EMEVxf8bnvEnZC24UAnTys6UuxLZWJYGUAtRWKU0CVgvVqB6T6/pBU2rZ6aNN3PdBba3PtBdL/8pZW4nAuf5o4PMb/d4wWMLKlPicWaSJKS;QxdefQbkb7xNdvQ4asVVkw=="
 ---

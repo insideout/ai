@@ -297,15 +297,6 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 9
-  - title: "Video: American Civil Liberties Union criticizes facial-recognition company using people?s photos without permission"
-    excerpt: "One person died and more than 150 people were injured Wednesday when a Pegasus Airlines plane landing at Istanbul’s Sabiha Gokcen Airport skidded off the runway and crashed into a field, according to multiple reports. Istanbul Gov. Ali Yerlikaya said the ..."
-    publishedDateTime: 2020-02-06T04:38:00Z
-    webUrl: "https://www.news965.com/news/video-american-civil-liberties-union-criticizes-facial-recognition-company-using-people-photos-without-permission/zxDuScv4SVMKOi7HIXGBBJ/"
-    type: article
-    provider:
-      name: News 96.5 - WDBO
-      domain: news965.com
-    quality: 0
 
 secured: "vxGlOIhSAemf9nJ1/jbAqLyuFsu298nbQAxm0zKXvosN57ihHAptNAaKpQ5SDEqdUPnvJvK/bQMixS0XjYlJMWa9JNNW8+1bVl5RuMW2SNy2tnyPROi3Ev6LZnmhLT2kujiy14ZJTOgT4KyHIopfzDDDRepm0pxeyBX77y5HECSuhWKsrLwPznPYJ0LC6pkm7W2jrkkF1f+EFKdeyMg5/itWdpc1Mus4JZKKa8RMCaHqD+BhD5lCCq6grA4pN8Fca2P1t0KTI+5W36Pzo0DYS821wSjkNY2fouK3MEVPyZZbpo09PdBEgXMcl4vtV4SZ;ovikXsyvp0siIFZ1NbZ2Ew=="
 ---

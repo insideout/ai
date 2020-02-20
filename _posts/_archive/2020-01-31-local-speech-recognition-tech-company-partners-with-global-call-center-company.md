@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Local speech recognition tech company partners with global call center company"
 
-secured: "fNXteYd8II6aWfpVpYNHZuZEw/4mkZguy1QWRKPIxyoClWVZ3jVoFl8A+vjMdfwsVOtkrjK/+9U/rFoUWgEaqZrLzrviCZnHJJ35OX0HvHx5CBB+7ebHtI6RZyvkHiuT4AD9GRvFHyxc27PKKHpvL9cBzM3hoZeQ3u8M+/HfcgsAeybELej9v8KUm9G9x7E745AMxV6S990PRDkeb1UlqvBP7hPKCbQ+tM1QYTlM67mooywfNIiP/UsY81ckEhxd6c/1LCDM6rrhzQgx8xgKBAlvh2KSkPBF8zqIFZPSDsgP9WIeq92RO9hpIGQWf3kn;rKBTsSycb+ZFatD1BCVY4Q=="
+secured: "9zFtMyIgHcLp007hVllSBCYo34jfOuBdhQJ5mQ4/m8mYQfUZ9tfR+oTuF/2wmkBtviWpFAuTGMRB2G493fG3s+8vgCFuZ0zG2v4Rb3kJXvCzDFxuJMYUcbnjw1wLQTxjjAq3Hkde+aicufjvvmAmgEaL2EIn32fokmg5LDCHNQEV6f5AR13xu5e6sk39rfWtXG6mL7S8WeGKV+JqVtQPVdh3TEnT1pp4Xyzo27o+Fxss7HHtEHFuml/8lmynMP7DEgHx1MDOlod9pO/aoME1Vwd7BwLXItTNdAwjM/k35AJzU7W4we0LHHH2vSnMZVYf;Sapp2RgFa9A8DF38Utz/nw=="
 ---
 
