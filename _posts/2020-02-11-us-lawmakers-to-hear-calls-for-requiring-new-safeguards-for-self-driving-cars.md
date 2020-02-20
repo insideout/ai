@@ -110,21 +110,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Self-driving shuttles tested in Linden"
-    excerpt: "Self-driving shuttles began traversing the streets of Linden on Wednesday, and community leaders and residents hope the pilot program will show the need for continuing such service. The two 12-passenger shuttles — one blue and green, the other rainbow-colored — began serving the public at 3:30 p.m. The free Linden LEAP — for Linden ..."
-    publishedDateTime: 2020-02-05T21:13:00Z
-    webUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden"
-    ampWebUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
-    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 44
-    images:
-      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200205&Category=NEWS&ArtNo=200209273&Ref=AR"
-        width: 2000
-        height: 1460
   - title: "Uber Can Now Test Self-Driving Tech On California Roads"
     excerpt: "The company has been granted a permit by the California DMV. To recall, the tests were stopped after a self-driven car killed a pedestrian in 2018."
     publishedDateTime: 2020-02-06T13:54:00Z

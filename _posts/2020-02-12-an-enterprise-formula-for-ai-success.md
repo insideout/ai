@@ -65,6 +65,17 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 33
+  - title: "Role Played by Artificial Intelligence and RPA in transformation of the business world"
+    excerpt: "The age of transformation will witness the emergence of varied possibilities and use-cases with the intermingling of new age technologies like Artificial Intelligence, IoT, automation and analytics. For example, smart cities, self-driving cars, healthcare, manufacturing and retail (automation, preventive maintenance, predictive analytics ..."
+    publishedDateTime: 2020-02-20T13:37:00Z
+    webUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/"
+    ampWebUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
 
 secured: "0OxTWuqHdbt8SiHTrp19SlR7p0e3fUi5aSyea3jOmjybPxG+GxiaFG9emnAcSbgHWFTVkRleFFqJkXW30xw676TF1gas6L4e41R9FlHZOzvSlXL8E1+d8nivhCvrLkeOeWHWcBMPxgnuJrssSWS/Rtcf7tcv/qphESpF/wRm1yMwssgeBncC5jkhan+b17VV6kCV4a5jLGsJxMVJFTh432wyWFSj8QGVdZAPeki+EsZKqvz+wjRQ83RePtPK7BNxZGZ6z0QamBHNWKM4wOaSkpw31a95yIrjoSBMs5Lv8e2fgSdMWR5mYqPOyJ53FuM8OPdci4TR7Fpy0nORnt7wXXh/FUsDBAp+zFzL7GjOAQ4PgebG3Yf10MjsnOrHeb+IGtYSbM+JlZOej1JQmXpGgCKfHj0hKeNn7/fz1WmmV3/ciIlkuwnkEorRChjbiKS39J1N3P70uaMjOzTvlZG2ahjPpxpMl7eniHU/7n7BVH8=;LCrErJlPMjS/FVEvOvpvnw=="
 ---

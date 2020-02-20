@@ -211,6 +211,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "/beirGUwH+ijKTGpuHiTHUu4uOXDmfKyKTZHy6bVbGIK9L3gtOQXPu8+FVcegrZ/kRV65KNRFaVoTTKp8UKtgrYMpoNSK1mDUawb4L6CWwhUDb+I9d6AjVUw28pRizbJl4/GMg5CF3X44+bMY7dZ3h3s4wyIgphQ/Nv9ZI5c9kpjxs7HapdqseSuG4eziFxxG83bntUQjB6kLtgzLIzUg+hTfpRQf+SFCnwyDbKO3pMkS3Nabk+grZVqhmPWh9cbI5oJxqarV62d0HEC5DJaP8+WSuqfcYL4FWMAAzNyVsCPe2eLsvXlcyV0Ausd6AfX;gb0CQgnedZxeJSy/TMRnMA=="
+secured: "8a03TYe4q2OPgzhLgXTL6KJDY650WgUxXWkymhCfPnQpnt7xNDSNnNLZn3ynRYM/5m1OuT4omvid9/VFIlgM43uLCB1001wn9V8AoidxivmunCyjCkpNNyr4NJMKzWq9gHbmt6BWXUmviTGVri0KLUm3gEtfrbU+QLN7BAPGuddEdiG6KHY/ozGSMBA0L1KubjGRXvMGkDt+DB+C+MyL3PlhvUNf3M+9OocpBfR0bjuxr4QkXFCebpMCRxqw/guGwvekkJReobMLsHSacQwAfv1lCwkw8J9Myi++8Gzg0/lbAit8bvt6bUaNT1U8bRHK;D2ZHXNYsS0UoLQmyEaYYIw=="
 ---
 

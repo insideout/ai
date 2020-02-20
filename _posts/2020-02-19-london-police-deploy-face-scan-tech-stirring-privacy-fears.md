@@ -25,6 +25,21 @@ images:
     height: 708
     title: "London police deploy face scan tech, stirring privacy fears"
 
+related:
+  - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
+    excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
+    publishedDateTime: 2020-02-20T13:59:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/crime/met-police-facial-recognition-technology-city-westminster-a9346831.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 30
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
+        width: 1998
+        height: 1499
+
 secured: "8kY/EFVhxFuFFU4ArCvWaSl1y3bfBkv1Ib3oh+0fnHIVPCIhVj1Xi0dy86KrbmSIOrvCltkDGgD2Mr5GmfOXvAMqLevV9sfLhkpyzGP0rP4q28GdmhPHjITFnQneJ9Uzr7ePDwV8HlIlHCkbARKK+rJz9rxs9FG4JoR8Lz+CthHur5dRtGtSV7c+pjTrnASxvdF8h11Hq2IIbda8jVq578flKPyezHNIYHSdRcukCpamvsiZDMWWkimQ6A3mAGrSrLQkJxTvPFjnZo52oBlRBbCFUetsVwX8pKNTIQXwLPWRh76SS2MkfBHkRLTD74QK;Z2jqcYuFEu8jQXFRfS/sag=="
 ---
 

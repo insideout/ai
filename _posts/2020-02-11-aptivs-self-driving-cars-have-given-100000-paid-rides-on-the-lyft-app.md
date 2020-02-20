@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-give
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
 type: article
 quality: 189
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -101,21 +101,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Uber gets DMV permit to test self-driving cars on California roads"
-    excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
-    publishedDateTime: 2020-02-05T21:18:00Z
-    webUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/"
-    ampWebUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
-        width: 1024
-        height: 705
   - title: "House panel to a hold hearing on the future of self-driving cars"
     excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
     publishedDateTime: 2020-02-09T18:48:00Z

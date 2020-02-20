@@ -3,7 +3,7 @@ category: news
 title: "Business Reporter: Why You Should Embrace Mobile Robots and Cobots in Your Workplace"
 excerpt: "The integration of different technologies can bring about brand new benefits – such as the relationship between automation and artificial intelligence (AI). According to PMMI, \"AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and ..."
 publishedDateTime: 2020-02-20T12:52:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/20/9101148.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-business-reporter-why-should-embrace-mobile-robots-cobots-/2020/02/20/9101148.htm"
 type: article
 quality: 32
 heat: -1
@@ -40,6 +40,6 @@ related:
         width: 1024
         height: 576
 
-secured: "xN7IldPMhVU1pppOQ3zHpRY0KnmhwIQOPtKwri0us2VOANbgVToCM3y1yZOTzA4YUr0tilgtZCeEk/4ce9fABQr9vulH49JOFxcPmpySgW9CFywEBHRayyLtyXv1PInUKsxrm6/ZiIvsmfDCe17kiH3sRFqHySg1hAjsc3CxhEOxQievK4GOSDRTORkCPR1TTsiprM6gGg7tdUcWDaKAAO9wpy5aaB1kn+e9Jn8PDf0shGlHb6jJGBqGso2mE/KRSBcCf1gFyj8FFur4nNpMeVrcnlk5Jqr7+g5PoTl/wR3FreBUsQOMuxiqFLyDNDQx;8RLSIpudAEWy6cc5Kjw1mQ=="
+secured: "6K14RaP5KT42rP6egreA9t9XENJVmq5Vj4Yt+T6E0VNd8ACEgG3yvZWQIf1iLLy4UwOGxqCP8E5qg2bFNomc6lKOmt8gLokCv+l3CY3SKoT+phTMQ8p1vVRkRvyGeyXz+DhSDBwVGyFiUJU7VL47REz5sRmFA/p+U/8PvppV2fPpSh3dtq3smwazSNfxrOoF1m3boy5jSfZ56nvBo+1Q+SXOPo985UIIoPMnehUFr8qm4i9ysv5mLeDvSYPpYijIABbG0YxVHfZDU1t8X9ugOaUbwU8noDZShscbgvGQNpK6TbKkSoNA0l0JVrf+As5w;JvoVsnr76vGdBZf4msd3og=="
 ---
 

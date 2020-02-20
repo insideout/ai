@@ -2,80 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-07-first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears.md",
-      "title": "First Peoples sing with one voice: this anthem is not ours and at last the NRL hears",
-      "excerpt": "These ... lyrics have changed before, and for a song that has only been our official anthem since 1974, perhaps this might be the right time to update it. Despite Durham and Edwards’ conciliatory efforts, some will say the First Peoples of this continent have much more pressing concerns than a song. This is true, but those concerns do not ...",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
-      "ampWebUrl": "https://amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
-      "publishedDateTime": "2020-02-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-geek-of-the-week-trupanions-david-jaw-uses-machine-learning-to-help-facilitate-better-pet-care.md",
-      "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
-      "excerpt": "As the leader of the data science department at Trupanion in Seattle, David Jaw’s projects are actually around pets. Jaw, GeekWire’s latest Geek of the Week, uses artificial intelligence and machine learning to help automate medical insurance claims for pets, streamlining the process and removing the worry about what’s covered and what ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/david-jaw-2/",
-      "ampWebUrl": "https://www.geekwire.com/2020/david-jaw-2/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/david-jaw-2/amp/",
-      "publishedDateTime": "2020-02-07T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/hank_home_011-630x511.jpg",
-          "width": 630,
-          "height": 511,
-          "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-growth-within-limits-us-based-cloud-service-provider-1q-earnings.md",
       "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
       "excerpt": "Evaluating Amazon AWS, Microsoft Azure, Alphabet GCP, IBM Cloud and Oracle OCI earnings from an IaaS perspective to understand how these cloud giants are managing and growing their infrastructure.",
@@ -1720,7 +1646,7 @@
       "path": "_posts/2020-02-10-ai-may-help-patients-determine-most-effective-antidepressant.md",
       "title": "AI may help patients determine most effective antidepressant",
       "excerpt": "Researchers input information from electrical signals in the brain into a computer program that learns as it goes. Based on brain activity, the AI technology helped predict whether or not an antidepressant will help treat a particular person's depression. So far, the new technology has only been tested on one type of antidepressant ...",
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.upi.com/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/",
@@ -2158,6 +2084,96 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-does-picard-foretell-the-future-of-artificial-intelligence.md",
+      "title": "Does Picard Foretell the Future of Artificial Intelligence?",
+      "excerpt": "With the launch of Picard, what better time could there be to investigate the realities of artificial intelligence and fully sentient life? If you talk with Star Trek fans, they’ll tell you both Data and Spock shared a similar trait. They ironically displayed more human features than many other characters. Writers and directors accomplished ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/the-cosmic-companion/does-picard-foretell-the-future-of-artificial-intelligence-939eb96f914",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1000/1*ljF7aZb_J9On0u0fv7XccA.jpeg",
+          "width": 1000,
+          "height": 437,
+          "title": "Does Picard Foretell the Future of Artificial Intelligence?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-facebook-quietly-acquired-another-uk-ai-startup-and-almost-no-one-noticed.md",
+      "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
+      "excerpt": "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ...",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
+      "publishedDateTime": "2020-02-10T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
       ]
     }
   ],

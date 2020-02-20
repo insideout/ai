@@ -39,19 +39,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
         width: 810
         height: 456
-  - title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
-    excerpt: "Fight for the Future (FFTF) and Students for Sensible Drug Policy are organizing what they call a ‘National Day of Action to Ban Facial Recognition from College Campuses’ on March 2. FFTF and other groups have also called for and have actively been lobbying for a total federal ban on facial recognition technology, although there has been ..."
-    publishedDateTime: 2020-02-19T18:13:00Z
-    webUrl: "https://www.biometricupdate.com/202002/privacy-rights-groups-call-for-day-of-action-to-ban-facial-recognition-at-all-schools"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
 
 secured: "cdy1q733j5aw1ZGL3EQ7PJGoHJRf01iFwaa6jVmAISzqdBzCnCvG7Ov4wBTvfVleCBOyJpbWIxx5MubQTswEJXN25584JMquw8b/reN/DAGxFO8pFAh3dSbjvFdRgEXv+cmd1cpGQeP/vIJgeGEnEtWYSZjJvPormYzLhvANWxJhraFv08mH/nB+wT6F/fmT/Fix0fPuJ0pLVnv9JGojjA9QB3q42xxkTgWoDMs7GD8ouPXPNBIIJR6+387irrzlfmBjq5vtbXHdfI+47cztzcrQ22cpA/4CpAHSF0ADUQmCgdlOQFSdG1p0d+lJb5qWmAu6xPLwUgY6qDmN8duL5PPPT5kdeCwlasETNvoCHTafUjACAxY7Ak788GonYbWhlE/AbubR8AQP775nKXfIPuabVdTZLEML1Vl1Kh9Wy2uMZWiYY2MYhZoDePzKApu2atcjyhY3DN/rsIceSnXdNdaLp7cwe0aAz5/S/eH2xxo=;RDgeQzm9ocjO5j2SdHlIcw=="
 ---

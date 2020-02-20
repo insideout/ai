@@ -2,50 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-19-stanford-and-nyu-only-15-of-ai-federal-agencies-use-is-highly-sophisticated.md",
-      "title": "Stanford and NYU: Only 15% of AI federal agencies use is highly sophisticated",
-      "excerpt": "More than 40% of U.S. federal agencies and departments have experimented with AI tools, but only 15% currently use highly sophisticated AI, according to analysis by Stanford University computer scientists published today in “Government by Algorithm,” a joint report from Stanford and New York University. “This is concerning because ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/amp/",
-      "publishedDateTime": "2020-02-19T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/capitol-building.jpg?fit=3263%2C2005&strip=all",
-          "width": 3263,
-          "height": 2005,
-          "title": "Stanford and NYU: Only 15% of AI federal agencies use is highly sophisticated",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-the-top-20-it-training-companies.md",
       "title": "The top 20 IT training companies",
       "excerpt": "If you want to learn about AI, DevOps, Blockchain, and other tech topics ... ROI Training: Cloud certification prep workshops, which cover Google Cloud Platform, AWS, and Microsoft Azure, are offered at ROI Training. You can take them with an instructor, or teach yourself--and the skill level is customizable. CGS: For the third time in a ...",
@@ -486,10 +442,55 @@
       ]
     },
     {
+      "path": "_posts/2020-02-20-5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map.md",
+      "title": "5 clever Google Maps tricks to see more than just what's on the map",
+      "excerpt": "Google Maps crowdsources more than just traffic data -- get real-time information on your destination, including wait times, operating hours and more. I open the Google Maps app on my phone practically every day,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/how-to/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
+      "publishedDateTime": "2020-02-20T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/pifVUy5Lk2fZIkaFloP9-u8fG4I=/756x567/2019/12/04/6a025761-b652-4ce9-a80c-65319a3f1ca6/google-maps-logo-phone-3831.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "5 clever Google Maps tricks to see more than just what's on the map",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/2020-02-20-boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is.md",
       "title": "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is",
       "excerpt": "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ...",
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
@@ -520,6 +521,97 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-do-we-need-more-data-or-more-science-in-data-science.md",
+      "title": "Do We Need More Data Or More Science In Data Science?",
+      "excerpt": "Is the success of Google that of the algorithms or that of data? Today’s fascination with artificial intelligence (AI) reflects both our appetite for data and our excitement about the new opportunities in machine learning.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/do-we-need-more-data-or-more-science-in-data-science/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/do-we-need-more-data-or-more-science-in-data-science/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/20/do-we-need-more-data-or-more-science-in-data-science/amp/",
+      "publishedDateTime": "2020-02-20T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x532/https://specials-images.forbesimg.com/dam/imageserve/954077270/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 532,
+          "title": "Do We Need More Data Or More Science In Data Science?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-finnish-city-espoo-pioneers-civic-ai-with-education-and-explainability.md",
+      "title": "Finnish city Espoo pioneers civic AI with education and explainability",
+      "excerpt": "Espoo has already conducted AI trials that initially required overcoming technical hurdles but ultimately improved city services. Over the long-term, the city is crafting a model that places ethics at the center of its AI plans by ensuring citizens can understand how these systems work and participate in debates about their implementation.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/20/finnish-city-espoo-pioneers-civic-ai-with-education-and-explainability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/image001.png?w=1200&#038;strip=all",
+          "width": 875,
+          "height": 397,
+          "title": "Finnish city Espoo pioneers civic AI with education and explainability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Microsoft AI"
       ]
     },
     {
@@ -567,6 +659,140 @@
         "Microsoft AI",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-google-ai-will-no-longer-use-gender-labels-like-woman-or-man-on-images-of-people-to-avoid-bias.md",
+      "title": "Google AI will no longer use gender labels like 'woman' or 'man' on images of people to avoid bias",
+      "excerpt": "Google says it made the change because you can't deduce someone's gender by their appearance.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2?amp",
+      "publishedDateTime": "2020-02-20T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5c1aab65a040ff0e71344943?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google AI will no longer use gender labels like 'woman' or 'man' on images of people to avoid bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-how-artificial-intelligence-can-help-pick-the-best-depression-treatments-for-you.md",
+      "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
+      "excerpt": "But promising new research published in February in Nature Biotechnology suggests that a simple brain test, paired with insights from artificial intelligence (AI), can predict whether an antidepressant will work on a given patient. Trivedi and a team of researchers took data from a previous study in which more than 200 people with depression ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://time.com/5786081/depression-medication-treatment-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/02/your_brain_knows_the_meds_you_need.jpg",
+          "width": 2400,
+          "height": 1972,
+          "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-how-microsoft-365s-new-solution-uses-machine-learning-to-stop-data-leaks-and-insider-attacks.md",
+      "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
+      "excerpt": "The post How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks appeared first on The AI Blog.\n",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/insider-risk-management-microsoft-365/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T05:59:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/02/insider-risk-04_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -738,6 +964,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-this-college-banned-students-from-even-discussing-facial-recognition.md",
+      "title": "This College Banned Students From Even Discussing Facial Recognition",
+      "excerpt": "Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event where the ACLU of Michigan and Detroit ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
+      "publishedDateTime": "2020-02-20T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e4d943853183c009d48a232/lede/1582144710293-GettyImages-1127318593.jpeg?crop=1xw%3A0.8431477516059958xh%3Bcenter%2Ccenter&resize=2000%3A*",
+          "width": 2000,
+          "height": 1124,
+          "title": "This College Banned Students From Even Discussing Facial Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1840,250 +2111,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
-      "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
-      "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "publishedDateTime": "2019-12-23T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-24-artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023.md",
-      "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
-      "excerpt": "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ...",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-24T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-24-getting-started-with-azureml-notebook-vms.md",
-      "title": "Getting Started With AzureML Notebook VMs",
-      "excerpt": "TLDR; Azure Machine Learning (AML), a cloud-based environment you can use to train, deploy, automate, manage, and track ML models. In the following tutorial we will walk through how to set up an ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/microsoftazure/getting-started-with-azureml-notebook-vms-f637b6e09ed4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*r9E_9IOr95ZxpA_2nOzC_g.png",
-          "width": 1200,
-          "height": 589,
-          "title": "Getting Started With AzureML Notebook VMs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-26-artificial-intelligence-can-now-track-down-blood-cancer.md",
-      "title": "Artificial intelligence can now track down blood cancer",
-      "excerpt": "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
-      "ampWebUrl": "https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
-      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
-      "publishedDateTime": "2019-12-26T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asian Age",
-        "domain": "asianage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": "Artificial intelligence can now track down blood cancer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-26-aws-ceo-claims-alibaba-cloud-isnt-a-threat.md",
-      "title": "AWS CEO claims Alibaba Cloud isn't a threat",
-      "excerpt": "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/articleshow/72974967.cms",
-      "ampWebUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
-      "publishedDateTime": "2019-12-25T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-72975031,height-275,width-412,imgsize-563589/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/aws-andy-jassy.jpg",
-          "width": 412,
-          "height": 275,
-          "title": "AWS CEO claims Alibaba Cloud isn't a threat",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-26-data-science-vs-artificial-intelligence-eliminate-your-doubts.md",
-      "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
-      "excerpt": "While Data Science makes use of Artificial Intelligence in its operations, it does not completely represent AI. In this article, we will understand the concept of Data Science vs Artificial ...",
-      "heat": 167,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/quick-code/data-science-vs-artificial-intelligence-eliminate-your-doubts-912b3b2c805",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/730/0*K2hTcclvkZAbCzkZ.jpg",
-          "width": 730,
-          "height": 365,
-          "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

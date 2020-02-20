@@ -1,7 +1,7 @@
 ---
 category: news
 title: "KC companies could soon be using security robot with artificial intelligence"
-excerpt: "It's able to patrol businesses and a local company hopes businesses in Kansas and Missouri will start using it ... “Simon,” and other Cobalt Robots are autonomous with artificial intelligence designed to detect safety hazards and intruders."
+excerpt: "It's able to patrol businesses and a local company hopes businesses in Kansas and Missouri will start using it. Kenton Brothers Inc. is already ... “Simon,” and other Cobalt Robots are autonomous with artificial intelligence designed to detect safety hazards and intruders. “It combines human intellect with superhuman sensors ..."
 publishedDateTime: 2020-02-19T02:36:00Z
 webUrl: "https://www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.html"
 ampWebUrl: "https://www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.amp.html"
@@ -30,6 +30,6 @@ related:
       domain: 13newsnow.com
     quality: 49
 
-secured: "01/NEQfiwL7e5kxk42aSRtP3huHHaiHUNyAlYUPfCTMBOeJScSnJqyQsQi9E8xgrulGrzlVOXiOl683YodtQSzE+KoWxJALyKvvVf3S84XJT1xDdiUfLsvp3Y6G5COt8q5/3egCkcAyTdPoGhuSETVZwXfgCAtRD2pb3V5edxyExw8AZQ4gMvYSN26U2XSfp++i4gEkqgZPFlQ82c2M/M84DJ9zaxZ6MsglvR9tZ+edh/EaS8CBrNvphWOksYgOd7zqolQ1C9zrPZqTxALmQ9cAPph38BMKzqNMEV7sl+nFpv7MiOA0gNrFU86uERXXnLNq+2xLzbvSOx6mzkuhXLNvuULHLQZCsmEH88YQJNJRxJf3FRnxSO8fKj/8D9Ebx7cdMvg6I9Yi4eUlLNns5tyQa9CQd7S7FnBZG7ZJBFVVxk0TqWkwxuhEr1VUwqBe6ZKgNbXJnrejIRF2Gum2YX0dpbW5con0wyge2HLGcaQs=;vyI9EqyN3PzsuXdFDYXCIg=="
+secured: "au2C+MnL54mNl+4ri0/5YLSGeU1P6Vq/+nuiRDBp+fWkGTT6lvmCQqNtLDanrPPmDWSZSQsLAzs+NWc5D/Ua9CpukV8tP+jhwlzDoPbtZDicgi/OYG5OFADR1Ps3Ip9OtbPTqcA87g6gK9BublW/atLPniXXqMqmpxRmLaXS4Se+J87rHDTqtliw9KzFxz/ColQ1rDLJcfBWr/86Czp42JzdcL9QbulP+w7KD4v5lcX49E/q3ZGRZJ36YoCpmg8pJtAVuFjbGuRfknJ+9x7suDkdNG2uVlIss2LXL17EE0JvklvNvpTwg4oXIxfj/aedvwdcfUPEmWznX4O49k6S0cJDcwHdblA++VQGob8rrD2tugUnEca94MPoSqqiR6v7wCr5UQX+qm0843KPAZdAbKxGhPxyqKbDkn/2OwUqMlNkwh5BaaUEaUSrYLavohNU/DPq1ZszXUdPD76t/hDaAzsZngFC7KZikFnwSwUHKic=;D/1jvxowSfaOrEd9K76T5Q=="
 ---
 

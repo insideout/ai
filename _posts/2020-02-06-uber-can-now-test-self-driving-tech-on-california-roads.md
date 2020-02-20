@@ -123,21 +123,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 50
-  - title: "Self-driving shuttles tested in Linden"
-    excerpt: "Self-driving shuttles began traversing the streets of Linden on Wednesday, and community leaders and residents hope the pilot program will show the need for continuing such service. The two 12-passenger shuttles — one blue and green, the other rainbow-colored — began serving the public at 3:30 p.m. The free Linden LEAP — for Linden ..."
-    publishedDateTime: 2020-02-05T21:13:00Z
-    webUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden"
-    ampWebUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
-    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 44
-    images:
-      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200205&Category=NEWS&ArtNo=200209273&Ref=AR"
-        width: 2000
-        height: 1460
   - title: "Self-Driving Cars Rise Alongside Flight Shaming"
     excerpt: "As self-driving cars move closer to becoming a reality at scale, the impact on corporate travel will be immense. As sustainability becomes a more important factor for companies sending employees around the world, new solutions are needed to reduce the impact of flights on the environment. This week we take a look at some of the innovations ..."
     publishedDateTime: 2020-02-07T04:15:00Z

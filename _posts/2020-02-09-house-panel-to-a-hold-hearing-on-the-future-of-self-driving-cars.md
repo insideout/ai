@@ -112,21 +112,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Uber gets DMV permit to test self-driving cars on California roads"
-    excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
-    publishedDateTime: 2020-02-05T21:18:00Z
-    webUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/"
-    ampWebUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
-        width: 1024
-        height: 705
   - title: "Has reality put the brakes on self-driving cars?"
     excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
     publishedDateTime: 2020-02-17T16:56:00Z

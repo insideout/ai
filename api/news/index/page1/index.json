@@ -2,51 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-02-05-five-emerging-trends-in-retail-technology.md",
-      "title": "Five Emerging Trends In Retail Technology",
-      "excerpt": "Consumers want shopping experiences that feel personal to them, whether they are shopping online or in-store. Retailers are in a race to use technology to match consumer expectations and win more business.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/",
-      "publishedDateTime": "2020-02-05T14:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1126653452/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Five Emerging Trends In Retail Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-05-googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions.md",
       "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
       "excerpt": "Determining whether an AI system is maintaining fairness in its predictions requires an understanding of models’ short- and long-term effects, which might be informed by disparities in error metrics on a number of static data sets. In some cases, it’s necessary to consider the context in which the AI system operates in addition to the ...",
@@ -88,51 +43,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-05-waymos-self-driving-car-workers-reportedly-complain-about-finding-leftover-needles-in-the-vehicles-and-a-cut-to-their-benefits.md",
-      "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
-      "excerpt": "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\"",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
-      "publishedDateTime": "2020-02-05T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1304,7 +1214,7 @@
       "path": "_posts/2020-02-06-uber-gets-green-light-to-test-self-driving-cars-in-california-again.md",
       "title": "Uber gets green light to test self-driving cars in California again",
       "excerpt": "Uber's self-driving could be allowed roads again in California. According to report Thursday from Reuters, the ride sharing company received a permit on Wednesday from the California Department of Motor Vehicles to test the autonomous vehicles with a backup driver. Uber did not immediately respond to request for comment, but told Reuters it ...",
-      "heat": 319,
+      "heat": 309,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
@@ -2114,6 +2024,80 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears.md",
+      "title": "First Peoples sing with one voice: this anthem is not ours and at last the NRL hears",
+      "excerpt": "These ... lyrics have changed before, and for a song that has only been our official anthem since 1974, perhaps this might be the right time to update it. Despite Durham and Edwards’ conciliatory efforts, some will say the First Peoples of this continent have much more pressing concerns than a song. This is true, but those concerns do not ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "ampWebUrl": "https://amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "publishedDateTime": "2020-02-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sydney Morning Herald",
+        "domain": "smh.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-geek-of-the-week-trupanions-david-jaw-uses-machine-learning-to-help-facilitate-better-pet-care.md",
+      "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+      "excerpt": "As the leader of the data science department at Trupanion in Seattle, David Jaw’s projects are actually around pets. Jaw, GeekWire’s latest Geek of the Week, uses artificial intelligence and machine learning to help automate medical insurance claims for pets, streamlining the process and removing the worry about what’s covered and what ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/david-jaw-2/",
+      "ampWebUrl": "https://www.geekwire.com/2020/david-jaw-2/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/david-jaw-2/amp/",
+      "publishedDateTime": "2020-02-07T14:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/hank_home_011-630x511.jpg",
+          "width": 630,
+          "height": 511,
+          "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
       ]
     }
   ],

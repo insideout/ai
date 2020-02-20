@@ -51,19 +51,6 @@ related:
       - url: "https://media.nbcdfw.com/2019/09/Brain-scan-1.jpg?resize=1200%2C675"
         width: 1200
         height: 675
-  - title: "AI and brain scans may strongly improve depression treatment"
-    excerpt: "In a new study, researchers found that artificial intelligence (AI) may soon play a critical role in choosing which depression therapy is best for patients. They found a computer can accurately predict whether an antidepressant will work based on a patient’s brain activity. The new research is the latest among several studies from the trial ..."
-    publishedDateTime: 2020-02-16T11:07:00Z
-    webUrl: "https://knowridge.com/2020/02/ai-and-brain-scans-may-strongly-improve-depression-treatment/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 39
-    images:
-      - url: "https://knowridge.com/wp-content/uploads/2020/02/AI-and-brain-scans-may-strongly-improve-depression-treatment-.jpg"
-        width: 640
-        height: 428
 
 secured: "yXXZ+nG0lrboNElS10BRHdXrKK8zk+arq1Yshbj7IJB+zqSAsdEy5zjIDCI6TwSxBb/fhk6usLH9qJCEt0s26pPuSELZqQVFwQFoLNDvVEn3RVNIrDI+kJzAO2Wq/bJGER2m2TDUSUCvbKyJLswC++9i56j/eUqOntwBgrAi3wkjGmxCN95k/yXJ+iodW+BZPxgS1RsEbVanmYxaczSfFM13QQaSMGG59G/MGtRrITrtRME4oIa5+EXUnv1uDf2McOdyhlW7y4pMFoT0/k64cAXmIoHbAhygni1n7yVMR0JRMD4i56ZgUg6zvIVMaDPT0dziVG3pJvsqExGrtBX+KgrcRHcMrf1Bk4dkSm8PsnfEcENhm1whZ5E3iwfKUPVGNliCdNTwu6iI0wkuNU/t6gLEc++RmEAoSbynzf506MKqNNn3+JonaJjXi8rIfY1u7vMFNxJhey9U6s1cY/S0tkIhWyE8qdTMHAf2ei3dIZg=;WeX8x9snmF6LTAoRRFfdNw=="
 ---

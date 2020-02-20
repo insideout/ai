@@ -2,6 +2,267 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-23-messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs.md",
+      "title": "Messy data is slowing down machine learning projects and driving up costs",
+      "excerpt": "A new survey from Trifacta quantified the impact of bad data on machine learning (ML) projects with a third of respondents stating that poor data quality causes ML projects to take longer, cost more and fail to hit the anticipated results. About a third of ...",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
+      "publishedDateTime": "2020-01-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Messy data is slowing down machine learning projects and driving up costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime.md",
+      "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
+      "excerpt": "With the integration of BERT with ONNX, developers can train a model, export it to ONNX format and use it for inferencing across multiple hardware platforms.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
+      "publishedDateTime": "2020-01-23T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-microsoft-unveils-new-azure-service-genesys-engage.md",
+      "title": "Microsoft unveils new Azure Service, Genesys Engage",
+      "excerpt": "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" Microsoft has ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-23T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1579801417_ms-nadella-satyagenesys-ceo-bates-tony-0019-edit-1-1024x803_story.jpg",
+          "width": 760,
+          "height": 595,
+          "title": "Microsoft unveils new Azure Service, Genesys Engage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029.md",
+      "title": "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029",
+      "excerpt": "A recent market research analysis titled, Mobile Artificial Intelligence Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Mobile Artificial Intelligence market covering industry surroundings,",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029-2020-01-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T22:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-mumbai-based-salaam-bombay-foundation-is-introducing-robotics-to-underprivileged-children-across-india.md",
+      "title": "Mumbai-based Salaam Bombay Foundation is introducing robotics to underprivileged children across India",
+      "excerpt": "Be it movies like Star Wars and Star Trek or Marvel and DC characters, we all have grown up watching them. And in the process, we loved the futuristic plot lines that were riddled with subjects like artificial intelligence, robotics, automation, quantum physics, and many more, that explained the existence of the universe. While many are ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics",
+      "ampWebUrl": "https://yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics/amp",
+      "publishedDateTime": "2020-01-22T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/5/4e0288202dda11e9b78a8b7eb69eb573/Untitleddesign-2020-01-22T201110-1579704162630.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Mumbai-based Salaam Bombay Foundation is introducing robotics to underprivileged children across India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-nhs-to-inject-more-robots-into-healthcare-with-uwe-bristol-partnership.md",
+      "title": "NHS to inject more robots into healthcare with UWE Bristol partnership",
+      "excerpt": "in developing robotics and other healthcare technology for one of the UK’s leading medical centres, Southmead Hospital. The partnership will explore how artificial intelligence (AI), machine learning, and socially and physically assistive robots could be employed to better support patients. One of the anticipated robotic systems is CHIRON ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp",
+      "publishedDateTime": "2020-01-23T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1579797035/unnamed.jpg",
+          "width": 1295,
+          "height": 736,
+          "title": "NHS to inject more robots into healthcare with UWE Bristol partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-23-phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta.md",
       "title": "Phiar launches AI-powered AR navigation app in invite-only iPhone beta",
       "excerpt": "It also uses AI for lane segmentation, semantic segmentation, and 3D localization, allowing the app to determine and draw a proper navigational route through multi-lane streets. The user can then just follow the suggested path, as well as seeing floating icons that indicate points of interest and traffic signals. One key to these tricks is on ...",
@@ -1872,261 +2133,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-ai-robot-will-replace-managers-by-2024.md",
-      "title": "AI robot will replace managers by 2024",
-      "excerpt": "In the coming times, new technologies such as Artificial Intelligence (AI) can make everyday tasks easier ... It further states that restaurants are implementing AI robotics technology so that paralyzed employees can also control robotic waiters from remote locations. Due to technologies like Braille readers and virtual reality, institutions ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.newstracklive.com/news/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "publishedDateTime": "2020-01-25T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.newstracklive.com/uploads/technology-news/gadgets-news-info/Jan/26/big_thumb/sdtyfstyfsf_5e2d2d0e90399.JPG",
-          "width": 1122,
-          "height": 675,
-          "title": "AI robot will replace managers by 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-apples-dismissal-of-200-self-driving-car-employees-points-to-a-shift-in-its-ai-strategy.md",
-      "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
-      "excerpt": "Apple dismissed 200 employees from its self-driving car unit on Wednesday. Apple said some employees have been reassigned to work more broadly on artificial intelligence and machine learning at ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "publishedDateTime": "2020-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105107156-rsz_gettyimages-849703458.jpg?v=1545329379",
-          "width": 2000,
-          "height": 1334,
-          "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out.md",
-      "title": "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out",
-      "excerpt": "The Clearview AI nightmare has already been well-documented. Now, it’s emerged that if you want to be deleted from its 3 billion image database, you have to prove who you are first.",
-      "heat": 166,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/",
-      "publishedDateTime": "2020-01-26T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x498/https://specials-images.forbesimg.com/imageserve/1139858627/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 498,
-          "title": "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers.md",
-      "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
-      "excerpt": "SAN FRANCISCO — At the IBM Watson Experience Center, digital and physical worlds meet in a futuristic-looking lounge overlooking San Francisco’s Financial District. “Regardless of the industry you’re in, there’s likely an application for AI … even as a chef,” said IBM’s data and AI engagement lead Euniq Nebo, as he stood before ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
-      "publishedDateTime": "2020-01-26T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/01/01182020_AIibm_182723-300x201.jpg",
-          "width": 300,
-          "height": 201,
-          "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud.md",
-      "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
-      "excerpt": "In either video or written form, Microsoft is inviting folks to share technical content relating to interesting experiences with Azure. These can revolve around open source, apps, DevOps + infrastructure, Big Data and Distributed Systems, Machine Learning and Data Science, as well as research. Submitted stories will be vetted by a committee of ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-26T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1580038361_msw-20200126_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020.md",
-      "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
-      "excerpt": "There’s plenty more waiting for you, including the finalists of our first Pitch Night. This group of intrepid robotics and AI startup founders made the cut (10 teams will pitch the night before the conference at a private event). The finalists will pitch again at the conference from the Main Stage. Think your startup has what it takes to ...",
-      "heat": 171,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-01-27T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/robotics_countdown_4.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

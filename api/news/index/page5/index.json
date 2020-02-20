@@ -2,87 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-13-disgruntled-former-waymo-self-driving-car-operator-arrested-for-causing-car-crash.md",
-      "title": "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash",
-      "excerpt": "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ...",
-      "heat": 263,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous",
-      "publishedDateTime": "2020-02-13T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
-      "title": "Esteban Granero aiming to bring artificial intelligence into football",
-      "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.skysports.com/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "ampWebUrl": "https://www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "cdnAmpWebUrl": "https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "publishedDateTime": "2020-02-12T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky Sports",
-        "domain": "skysports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://e0.365dm.com/20/02/1600x900/skysports-esteban-granero-espanyol_4917382.jpg?20200211164937",
-          "width": 1600,
-          "height": 900,
-          "title": "Esteban Granero aiming to bring artificial intelligence into football",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
       "title": "Facial recognition could be temporarily banned for law enforcement use",
       "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
@@ -1328,7 +1247,7 @@
       "path": "_posts/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
       "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
       "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy",
@@ -1919,6 +1838,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-15-video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars.md",
+      "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
+      "excerpt": "Uber driver on wild chase opts to \"kidnap\" his passengers, which brings up interesting lessons for AI self-driving cars.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-02-15T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F3921-000053%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5140%26cropY1%3D206%26cropY2%3D3096",
+          "width": 1200,
+          "height": 675,
+          "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/2020-02-15-why-bill-gates-thinks-gene-editing-and-artificial-intelligence-could-save-the-world.md",
       "title": "Why Bill Gates thinks gene editing and artificial intelligence could save the world",
       "excerpt": "(GeekWire Photo / Alan Boyle) Microsoft co-founder Bill Gates has been working to improve the state of global health through his nonprofit foundation for 20 years, and today he told the nation’s premier scientific gathering that advances in artificial intelligence and gene editing could accelerate those improvements exponentially in the years ...",
@@ -2108,6 +2072,43 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-these-custom-masks-may-not-beat-face-id-but-they-could-do-some-good.md",
+      "title": "These custom masks may not beat Face ID, but they could do some good",
+      "excerpt": "Baskin's viral tweet links to what appears to be a half-serious website that claims these masks can \"work with facial recognition software.\" That's not proven, though; Baskin even admitted on Twitter that she's testing the facial recognition claim. But the site also notes that these $40 masks \"are still in development.\" You might've heard ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/face-id-respirator-masks-resting-risk-face/",
+      "ampWebUrl": "https://mashable.com/article/face-id-respirator-masks-resting-risk-face.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/face-id-respirator-masks-resting-risk-face.amp",
+      "publishedDateTime": "2020-02-16T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F02%252F16%252F6d%252F2ecec0d02057407d895f43033b507547.b8a0a.jpg%252F1200x630.jpg?signature=v7L41m66b07-2EZTH4i5SqFM4xI=",
+          "width": 1200,
+          "height": 630,
+          "title": "These custom masks may not beat Face ID, but they could do some good",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

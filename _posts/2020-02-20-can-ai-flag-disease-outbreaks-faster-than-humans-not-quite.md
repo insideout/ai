@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Can AI flag disease outbreaks faster than humans? Not quite"
-excerpt: "For now, AI-powered disease-alert systems can still ... World Health Organization — giving international experts a head start when local bureaucratic hurdles and language barriers might ..."
-publishedDateTime: 2020-02-20T09:34:00Z
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-flag-disease-outbreaks-faster-humans-69094703"
+excerpt: "In this Thursday, Feb. 13, 2020 photo, Kyle Martin, a worker at HealthMap, a system using artificial intelligence to monitor global disease outbreaks, mines health data to keep the system up to date in a work area at Boston Children's Hospital in Boston."
+publishedDateTime: 2020-02-20T10:08:00Z
+webUrl: "https://www.timesunion.com/news/medical/article/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
+ampWebUrl: "https://www.timesunion.com/news/medical/amp/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/medical/amp/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_946b069f249747868f8f2742bc385a85_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     title: "Can AI flag disease outbreaks faster than humans? Not quite"
 
-secured: "4MxAJjN8HUQgCV8YFevyjVYwmr1qgPA80JCSV5lR5NL6mdXSFiM9LSGcx4XXCSzWFkqr2OdE6efa3qi+9a5N5MwAs7m6HquFZc9x2iR82KE17QbOYJBZChb93+3jt//frMcxbgZvgNDh8ey58BgJ17zDUOrpDHTR9T7Y3T1+BHJuuvmPWOxNpigGmFvBaWQ4XKUwlxhfnKhUJrnuJsk75CKVjt2O8wqVpnK5UaLsFW5SaANCHvbE6vkOiCXCYNcforj2M1OiSHpPTfTdTR26bcq5A9yn0c4timoiiePrin73R8X8uhJvWRY6aUH3qP3z;ewaiBVEpvbB/hM14m4vAqA=="
+secured: "fJg/O2XG5iWgTX5Q+lEOToguStI5G5cPpHYcdmm7KzGX92z9994nJHuRfuMjBsU4wj7e1kPdqfD3SCMOof06il/LYXHDT9+h8MIsjhR6XRQOrZRp0mDQ3G89jWuhGBvsk1uCfM7I/YcJxwgqabsCFZePfeP90olXafjHe9vUkwfJXAiwLcMHelhEoZjUmwtADpgeYmx4OqSrO2psv/KGqsEbXtwL3j9bzUWz5KPuDhVBvVDTasMjJnQ8Q7kntYgbyDVbS0ONHf0m39p2Cx3mBsl1OGeibfj7Ij2G84v2h3E8Udr0I8nKCp4ODiV4Qur4;q1GmVk/SXINUkGjaPINvtw=="
 ---
 

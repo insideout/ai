@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -62,6 +62,17 @@ related:
   - title: "Role Played by Artificial Intelligence and RPA in transformation in the business world"
     excerpt: "The age of transformation will witness the emergence of varied possibilities and use-cases with the intermingling of new age technologies like Artificial Intelligence, IoT, automation and analytics. For example, smart cities, self-driving cars, healthcare, manufacturing and retail (automation, preventive maintenance, predictive analytics ..."
     publishedDateTime: 2020-02-20T10:34:00Z
+    webUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/"
+    ampWebUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
+  - title: "Role Played by Artificial Intelligence and RPA in transformation of the business world"
+    excerpt: "The age of transformation will witness the emergence of varied possibilities and use-cases with the intermingling of new age technologies like Artificial Intelligence, IoT, automation and analytics. For example, smart cities, self-driving cars, healthcare, manufacturing and retail (automation, preventive maintenance, predictive analytics ..."
+    publishedDateTime: 2020-02-20T13:37:00Z
     webUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/"
     ampWebUrl: "https://www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"
     cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-played-artificial-intelligence-rpa-transformation-business-world/amp/"

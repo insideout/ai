@@ -44,7 +44,7 @@ related:
         width: 480
         height: 320
   - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center ... The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and ..."
+    excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije ... The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology."
     publishedDateTime: 2020-02-19T11:32:00Z
     webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
     ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"

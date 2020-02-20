@@ -35,6 +35,19 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 66
+  - title: "Watch the beloved Boston Dynamics robot dog pull a rickshaw"
+    excerpt: "As one of Boston Dynamics’ most popular robotic creations, Spot has been tested in various ways and its abilities have further deepened our faith in the power of artificial intelligence and robotics. With a new project in mind, the company recently recruited a former MythBusters host to experiment in a unique way with Spot. Adam Savage has ..."
+    publishedDateTime: 2020-02-20T13:57:00Z
+    webUrl: "https://www.techjuice.pk/watch-the-beloved-boston-dynamics-robot-dog-pull-a-rickshaw/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 39
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/02/spot.jpg"
+        width: 1280
+        height: 720
   - title: "Video: Boston Dynamics’ robot Spot goes to work on an oil rig"
     excerpt: "A new pilot project is being undertaken by Aker BP, one of the largest oil companies in Europe, and Cognite, an artificial intelligence (AI) software-as-a-service (SaaS), to explore how robots can improve offshore operations. Part of the project is using Boston Dynamics’ robot Spot, the quadruped robot that is famous for opening doors."
     publishedDateTime: 2020-02-13T13:49:00Z

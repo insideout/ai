@@ -2,6 +2,268 @@
   "page": 10,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-06-artificial-intelligence-application-with-android-using-microsoft-cognitive-services.md",
+      "title": "Artificial Intelligence application with Android using Microsoft cognitive services.",
+      "excerpt": "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services allows you to recognize computer text, faces, describe ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-05T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg",
+          "width": 540,
+          "height": 960,
+          "title": "Artificial Intelligence application with Android using Microsoft cognitive services.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-06-blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter.md",
+      "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+      "excerpt": "Additionally, the platform will integrate the BlackBerry QNX operating system and over-the-air software update services with AWS IoT cloud services for secure connectivity and telematics, Amazon SageMaker for developing machine learning models and AWS IoT edge services for in-vehicle machine learning inference. Senior vice president and co-head ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "ampWebUrl": "https://www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "publishedDateTime": "2020-01-06T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2mY8X5N3SSLuWtVUUnBDre-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-06-bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise.md",
+      "title": "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise",
+      "excerpt": "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity,",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/",
+      "ampWebUrl": "https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/",
+      "publishedDateTime": "2020-01-06T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg",
+          "width": 1181,
+          "height": 663,
+          "title": "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-06-deep-learning-vs-machine-learning-understand-the-differences.md",
+      "title": "Deep learning vs. machine learning: Understand the differences",
+      "excerpt": "Without doing that you risk creating neural networks that only memorize their inputs instead of learning to be generalized predictors. A deep neural network for a real problem might have upwards of 10 hidden layers. Its topology might be simple ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.javaworld.com/article/3512638/deep-learning-vs-machine-learning-understand-the-differences.html?page=2",
+      "ampWebUrl": "https://www.javaworld.com/article/3512638/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
+      "cdnAmpWebUrl": "https://www-javaworld-com.cdn.ampproject.org/c/s/www.javaworld.com/article/3512638/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
+      "publishedDateTime": "2020-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JavaWorld",
+        "domain": "javaworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/succession_brain-sharing_intellectual-knowledge_sharing-100746954-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Deep learning vs. machine learning: Understand the differences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-06-deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems.md",
+      "title": "DeepMind researchers introduce hybrid solution to robot control problems",
+      "excerpt": "They’re often difficult to tackle, because it’s not always obvious which algorithms or control policies might best fit. That’s why researchers at Google parent company Alphabet’s DeepMind recently proposed a technique — continuous-discrete hybrid learning — that optimizes for discrete and continuous actions simultaneously ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/amp/",
+      "publishedDateTime": "2020-01-06T12:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/deepmind_robotics-e1578341793570.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind researchers introduce hybrid solution to robot control problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-06-facebook-ai-text-based-generation-of-interactive-worlds.md",
+      "title": "Facebook AI | Text-Based Generation of Interactive Worlds",
+      "excerpt": "In an attempt to make the relationship between such game elements more natural, researchers from Facebook AI Research, French computer science research lab Loria, and University College London recently proposed a new machine learning method for ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/syncedreview/facebook-ai-text-based-generation-of-interactive-worlds-36cce3790fe3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*wjzxkhVEKIvah_Ye22bz_g.png",
+          "width": 1200,
+          "height": 703,
+          "title": "Facebook AI | Text-Based Generation of Interactive Worlds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-06-machine-translation-market-research-and-technology-developments-2020-to-2024.md",
       "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
       "excerpt": "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,",
@@ -1876,274 +2138,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-09-warner-bros-signs-ai-startup-that-claims-to-predict-film-success.md",
-      "title": "Warner Bros. signs AI startup that claims to predict film success",
-      "excerpt": "As The Verge reported last year, Cinelytic is just one of a new crop of startups leveraging AI to forecast film performance, but the film world has historically been skeptical about their ability. Andrea Scarso, a film investor and Cinelytic customer, told The Verge that the startup’s software hadn’t ever changed his mind, but “opens up a ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic",
-      "publishedDateTime": "2020-01-09T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/UmjNOYDg32KrioDyxtLP8hbcjVU=/0x0:3000x2021/1400x933/filters:focal(1260x771:1740x1251):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66069445/136247596.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Warner Bros. signs AI startup that claims to predict film success",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-09-what-its-like-to-ride-in-a-self-driving-lyft.md",
-      "title": "What it’s like to ride in a self-driving Lyft",
-      "excerpt": "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/",
-      "ampWebUrl": "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/",
-      "publishedDateTime": "2020-01-09T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/01/Lyft-self-driving-rear-e1578551520317.jpeg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 788,
-          "title": "What it’s like to ride in a self-driving Lyft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-10-amazon-aims-to-democratize-deep-learning-with-new-library-autogluon.md",
-      "title": "Amazon aims to democratize deep learning with new library AutoGluon",
-      "excerpt": "“We developed AutoGluon to truly democratize machine learning, and make the power of deep learning available to all developers,” said Jonas Mueller, AWS applied scientist. According to ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/amazon-aims-to-democratize-deep-learning-with-new-library-autogluon/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/01/download-1.png",
-          "width": 1440,
-          "height": 810,
-          "title": "Amazon aims to democratize deep learning with new library AutoGluon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-10-an-ex-cio-of-goldman-sachs-is-helping-a-startup-use-ai-to-battle-cancer.md",
-      "title": "An Ex-CIO Of Goldman Sachs Is Helping A Startup Use AI To Battle Cancer",
-      "excerpt": "Marty Chavez, who left Goldman last year, just joined the board of Paige, a New York City startup that’s raised around $70 million to better diagnose and treat cancer patients.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/martingiles/2020/01/10/goldman-sachs-ex-cio-helping-ai-startup-paige-battle-cancer/",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2020/01/10/goldman-sachs-ex-cio-helping-ai-startup-paige-battle-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/01/10/goldman-sachs-ex-cio-helping-ai-startup-paige-battle-cancer/amp/",
-      "publishedDateTime": "2020-01-10T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e18eb77735f8c0007999891%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "An Ex-CIO Of Goldman Sachs Is Helping A Startup Use AI To Battle Cancer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-10-artificial-intelligence-makes-bad-medicine-even-worse.md",
-      "title": "Artificial Intelligence Makes Bad Medicine Even Worse",
-      "excerpt": "Google researchers made headlines early this month for a study that claimed their artificial intelligence system could outperform human experts at finding breast cancers on mammograms. It sounded like a big win, and yet another example of how AI will soon transform health care: More cancers found! Fewer false positives! A better, cheaper way to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp",
-      "publishedDateTime": "2020-01-10T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Artificial Intelligence Makes Bad Medicine Even Worse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-10-export-controls-threaten-the-future-of-ai-outposts-in-china.md",
-      "title": "Export Controls Threaten the Future of AI Outposts in China",
-      "excerpt": "Other US tech companies, like Facebook, are effectively blocked ... University who writes a newsletter on Chinese AI. “Google, Microsoft Research Asia, and other multinationals with R&D labs ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/export-controls-threaten-ai-outposts-china/",
-      "ampWebUrl": "https://www.wired.com/story/export-controls-threaten-ai-outposts-china/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/export-controls-threaten-ai-outposts-china/amp",
-      "publishedDateTime": "2020-01-10T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e177e6287b5f30008dd4e8e/master/pass/Business-AI-US-China-1169747427.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": "Export Controls Threaten the Future of AI Outposts in China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -42,6 +42,19 @@ related:
       - url: "https://cdn.technologyreview.com/i/images/spot-mini-aker-bp.png?sw=1200&cx=0&cy=0&cw=588&ch=331"
         width: 588
         height: 331
+  - title: "Watch the beloved Boston Dynamics robot dog pull a rickshaw"
+    excerpt: "As one of Boston Dynamics’ most popular robotic creations, Spot has been tested in various ways and its abilities have further deepened our faith in the power of artificial intelligence and robotics. With a new project in mind, the company recently recruited a former MythBusters host to experiment in a unique way with Spot. Adam Savage has ..."
+    publishedDateTime: 2020-02-20T13:57:00Z
+    webUrl: "https://www.techjuice.pk/watch-the-beloved-boston-dynamics-robot-dog-pull-a-rickshaw/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 39
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/02/spot.jpg"
+        width: 1280
+        height: 720
 
 secured: "zaW+9ICEcaXbNsnyuADbU7lj1a8PyCh7BUF8SuawXN+AOSjbJKAZbvDLyRtUuqDU3/HqO97e9YOYRYbHBjbML+H6nYDOx4MGmwNSBSrYV0VYH8qrIyuVY5AcQQ0pSRFMXz0MMnTGyXWu2LfXh37b8VaSrRXZsUFqHN1oCQfSHqgcgI0Avn5NudnYcW9mzIZNvZvkUPHtR/68WfP1D/Lv9cf92fLa76wH0roJX6ZbdNmpc/e+wjTKmsCYQyzXTzWSrQnJJbz9Ayh/zZThq6BZjGEBFBcQjTfk3V3bvteE4z3y0C4uWGdlptYuT/htjSl5;Qg75qYHdK1jsNZcoH6vi1w=="
 ---

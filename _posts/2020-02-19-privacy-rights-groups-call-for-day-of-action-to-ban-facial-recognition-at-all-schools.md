@@ -24,34 +24,21 @@ images:
     title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
 
 related:
-  - title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
-    excerpt: "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ..."
-    publishedDateTime: 2020-02-14T14:50:00Z
-    webUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy"
-    ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
+  - title: "This College Banned Students From Even Discussing Facial Recognition"
+    excerpt: "Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event where the ACLU of Michigan and Detroit ..."
+    publishedDateTime: 2020-02-20T13:00:00Z
+    webUrl: "https://www.vice.com/en_us/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 80
+      name: VICE
+      domain: vice.com
+    quality: 89
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
-        width: 810
-        height: 456
-  - title: "Class action: Tech firm Clarifai scanned OKCupid pics to train face recognition A.I., broke IL privacy law"
-    excerpt: "According to the complaint, Clarifai’s “surreptitious harvesting of biometric identifiers is ongoing” and Clarifai has indicated a willingness to “sell its facial recognition technology to foreign governments” and allow the technology to be used in “autonomous weapons” systems. According to the complaint, Clarifai “gained access ..."
-    publishedDateTime: 2020-02-18T14:50:00Z
-    webUrl: "https://cookcountyrecord.com/stories/525710212-class-action-tech-firm-clarifai-scanned-okcupid-pics-to-train-face-recognition-a-i-broke-il-privacy-law"
-    type: article
-    provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
-    quality: 36
-    images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/0f/193780/Chicago_DaleyCenter_Picasso_Upshot.jpg"
-        width: 1280
-        height: 640
+      - url: "https://video-images.vice.com/test-uploads/articles/5e4d943853183c009d48a232/lede/1582144710293-GettyImages-1127318593.jpeg?crop=1xw%3A0.8431477516059958xh%3Bcenter%2Ccenter&resize=2000%3A*"
+        width: 2000
+        height: 1124
 
 secured: "I3m+TY7lOSGBNAv0nSpBsSzf6C154fnV0diCnuTODvLeyOziMOVpWGIq6zQF2m/lUBOc4fw2wN0Y9o9qEtsypJ+j4PfhnPNEAFW59aR+nyUIFVsx33mwxusR6x+Fe+Sr5KFuYozTOYG0XbBl3YWNzJT/2xlxkdJVRiIiBQ0BVg6bB/FrxrxwZGD1bFp3l6D3YRSXquBPCAmC2sDRQCdPxL5Eu70DeW+nks/06Pyyi72/Y42HFrIj6jHv9lbUdilY4MyDz3cq1j+ejvah1WlpX3D+VkRSFwwpWe1Jm/kp2O4loqy+F5Ws71yxY48r+J+iqHWWEBdytHPHKL6Sfk8h6oCVLgxYhRoNJ23VwPQSfHo7TPztlt1wGx3O7Y5W3EarXL3CCRKX2BGWxHF2uig4auBM3KtjKu/ydFrulXEYWjqp9lKcpX4ApmJtbJZdzljyH5dcFjTo/nnGaEODjk0rpegLnUtMmZe/xo6ytixDye0=;pvJPf53oAa8VSqNjsfxB1g=="
 ---
