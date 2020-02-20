@@ -37,15 +37,6 @@ related:
       - url: "https://miro.medium.com/max/844/0*bbnXzCvTKv0Wl7uc.png"
         width: 844
         height: 422
-  - title: "AlmavivA Lauded by Frost & Sullivan for its Strong Focus on Customer Experience in the Latin American Contact Center Market"
-    excerpt: "/PRNewswire/ -- Based on its recent analysis of the Latin American contact center outsourcing services market, Frost & Sullivan recognizes AlmavivA with"
-    publishedDateTime: 2020-02-05T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/almaviva-lauded-by-frost--sullivan-for-its-strong-focus-on-customer-experience-in-the-latin-american-contact-center-market-300999000.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
 
 secured: "OfdL/BExnEjOORFA61GEL3LUA3IVP+usymLXIS4ml10wMZ3CaCsHl/CyACn7hgA9lAwh4qUvhhpHtEzwEqpYOkM1WX045ehYZ1QQEnhlaEZPQ6BD2+rOMLmn5CGUipLX5Gm/Vy60/KvWwHTrKgbm701T2MtXTx0jN8ky4ymDiE+99Fxn2/KYXblw+gV+fbG941mdNa9y/axwYWdoxrywo1RpaTthdeao3RItjX8ZKmNpvCL1g/CIDGBrNoehCK65dsYe5ZzZgXk48ObzlKu2RMD2/n7tVyaSk25jfOF8hZFm92sfHXC/tF6B2Vwmzwd4;6tU7rGGcA3pXNPOlJx/bOA=="
 ---

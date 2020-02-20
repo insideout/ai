@@ -117,15 +117,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
         width: 1280
         height: 720
-  - title: "China using AI to battle coronavirus"
-    excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
-    publishedDateTime: 2020-02-05T12:18:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178630.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 19
   - title: "Coronavirus outbreak to further strain global AI information exchanges already under pressure from tech war"
     excerpt: "Chinese search giant Baidu and Tongdun Technology, a Hangzhou-based risk management start-up, are among the leading conference sponsors along with US firms IBM, Google AI, Amazon and Apple. China’s smartphone giants cut size of contingent to world’s biggest mobile show In a written response, Baidu said 28 papers submitted by its own authors ..."
     publishedDateTime: 2020-02-06T22:56:00Z

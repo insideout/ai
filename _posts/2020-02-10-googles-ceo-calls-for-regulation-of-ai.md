@@ -44,6 +44,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/markets.jpg?fit=3840%2C2160&strip=all"
         width: 3840
         height: 2160
+  - title: "Dutch court rules AI benefits fraud detection system violates EU human rights"
+    excerpt: "Discriminative practices were accepted by the court, which also raised concerns over the tool's insufficient privacy safeguards and a lack of transparency. CNET: Clearview AI hit with cease-and-desist from Google, Facebook over facial recognition collection Alston applauded the decision, commenting: \"By applying universal human rights ..."
+    publishedDateTime: 2020-02-06T13:30:00Z
+    webUrl: "https://www.zdnet.com/article/dutch-court-rules-ai-benefits-fraud-detection-system-violates-eu-human-rights/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dutch-court-rules-ai-benefits-fraud-detection-system-violates-eu-human-rights/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dutch-court-rules-ai-benefits-fraud-detection-system-violates-eu-human-rights/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2018/09/05/ea56213d-03b9-4e1c-add4-dd9d8659e133/resize/1200x900/0921563461aa76e305ea6d4224c2109d/screen-shot-2018-09-05-at-19-43-25.png"
+        width: 1200
+        height: 759
 
 secured: "6+xxICDj9OgOQS2kcdUZ1EWhNvQzW+xPiyMtJxE12UOJje+LlvXTZy4Wx2O/TeZn94y4iFoCKhcp2zMG4eaWIKXkIpgP0PM5ZuEi8SM9sa2iDb9yCJ/DdfyAm9RdOj3t9Hq7LEAvikrM8jA/687h2Sp4ce7hZ89P2UNDHGtz/dHBhOKjCM8KMvjJKbG1e/aP4bsY4XaEi/5mKSIQzWztcWf+jgieBnkvwrZKMIjr7Cr9gL6Xckry9LGdom5Jrlrx+LY9JppT1uPu9WD41YHp+jPUekyIcsokkeNzsT+cmFEG5un/eXqkbg2XZIu6CqdYJe4kLX9AmWp4P66gjIpDThHoZKx9s/k3nMLDI0jqsgixhy0kMLqUdkhsDZIN2H+8gzQkcjObq8mI2lGv4NCDQ9wovZgNTehsryE+jQ7jVOZ+v8DQk7Ns68XjaZwvIA/yPpa2LA7fEaTqqIVHRCOSwbog9bK1ohjVLlzTpdokiI8=;p8OGR7mqudvSFnDUHn8g0Q=="
 ---

@@ -26,17 +26,6 @@ images:
     height: 630
     title: "Trending News For Artificial Intelligence in Aviation Market Emerging Opportunities with Current Trends and Forecast to 2029"
 
-related:
-  - title: "AI in Pharmaceutical Market Ecosystem 2020 With New Business Opportunity & Emerging Trends"
-    excerpt: "Taking AI in Pharmaceutical Market ecosystem into consideration, AI in drug discovery is one of the major applications. A lot of transformations occur across various applications such as in Diagnosis,"
-    publishedDateTime: 2020-02-05T13:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-ecosystem-2020-with-new-business-opportunity-emerging-trends-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-
 secured: "Tddf3B600pC8mdPVRPAZJVEHqvKw5IYgBZwS1YyvZdx79e2haX8/0kEkgp04YIb/cAoROxf0iuROnvqBUN7mT3GwmmCp7ESnXXWbCnIVGiErV70F/Q0yV5wYjXhkXbfBFTz9Eyx+R+tIcnKc9+LyKJF9gxVv2WkCu05suc8MItX7mCJKQfktsCycbO0qsO875If6oVhh7MFDLQOw2juSkhorQgo4NinY4+tEtefpekGivFc+PvpGh+JZYOYtc+ggrs4a4kAgZXRUBM4FN1qSeIyBPB9D4U4KWVsFlCnI7k+3OudHhylxCVasOp7zQw75;pRGo02P2Lj+Fu0ai76AIMA=="
 ---
 

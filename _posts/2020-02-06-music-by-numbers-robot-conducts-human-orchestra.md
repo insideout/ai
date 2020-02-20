@@ -84,15 +84,6 @@ related:
       - url: "http://www.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2020/20200207_robot_r.jpg?h=215d3f1a&itok=_fCoJwA7"
         width: 600
         height: 316
-  - title: "Music by numbers? Robot conducts human orchestra in Sharjah"
-    excerpt: "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ..."
-    publishedDateTime: 2020-02-05T13:39:00Z
-    webUrl: "https://www.zawya.com/mena/en/story/Music_by_numbers_Robot_conducts_human_orchestra_in_Sharjah-TR20200205nL8N2A54ITX1/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 19
 
 secured: "Z9q/XVMkokmMaf7Lhps9DJvRP0OQxZEmtIBUKQIViWyXjohX5WAQd4DXVLe8RAxaaYp3yp+uJSm5eZNeLRldtepohyfds9gUEC7ir6OZeSZfUFL+wQkRu7z7xV7XwkLpcTKvEkw0sYPgX5U7PIkBverRIQpGoxZRt83IetmE5rE75TZkzr7ginp1XQcfzcm3SfIStmFszIvFeQ12etZHdanIs3aWYIOHZ9kSQruKlyoCcF45vosIlHxNQNzxLFsqGL10DdQVp+lx5kkQKSJR2gOOq4Hi/D+dNv3HL80+JMNiDBHWP/arXxHbTHQ/syaN7nW/ZY/SgLaeCOhI1rb384f10Mj9ZY4voll0SmtPqd9RiFxatf7gwe7F+zF+cwb9F9G21EC6UhGzr+2Ydj3Lt8pWY6/cGh3gHxVagVboZqtLqx5SA6663pvAVRLeNetU9zASRRfKBoaoGqe9YSkr9QNQQvcOnadadJiBKwQX35M=;3sLoXxcG0XNFJnk+6uBwqg=="
 ---

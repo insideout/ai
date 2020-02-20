@@ -97,15 +97,6 @@ related:
       - url: "https://vertassets.blob.core.windows.net/image/b6566dd4/b6566dd4-46d8-4fce-99ce-702b4c6c708b/375_250-crystal_ball_future_istock_518433454.png"
         width: 375
         height: 250
-  - title: "Artificial Intelligence In Healthcare Market"
-    excerpt: "Meticulous Research- leading global market research company published a research report titled \"Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services), Technology ..."
-    publishedDateTime: 2020-02-05T12:48:00Z
-    webUrl: "https://www.openpr.com/news/1920347/artificial-intelligence-in-healthcare-market-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "jShmyj7fQk3RbsDHZ0ZBGLSLjGGxjtr9xuPXKn47ua8f+ipkAslAQJe467Kk16/U2zMo4El+Et7pfueiipzmmd2UumE4QEASi2RmkLbNJNb29+T9aV1Xarho8h4hg2lOyUIS6U08Ad0UmN4YD7KsfuWgeXG5dnVJb5zSGc12n0mMlGF9AdlkDfPx7HRwllhimOsEMBfGMmINdSR6a9tW64+jnXBs1+eeMofqzRo/mVXMqnvPJ/cbpII1m/XwKzhP7UsP73d9iH5h5gKkPXn/5NM62ZWBgpxoAIiDQkxkMNVU9v6XFX8XXlffhTJ0t+JwD6F/zxBmtMm1GsugATi1WAaHYqpLbIAvYQKGWhh+nzs7dHja4bzkdob4vTBlysOvQmTXI9oMuokvGdl0E2NmAhQvtVnjih+NVzEnLsqdJiSI4jgo0lpEbnXkNmtwp/MUl7Swo9e6WyhSCK2cdYiVW2j3uC5qKOnPiPtrL3Pv2C4=;+FaIgXKfOqpW5inBWUormw=="
 ---

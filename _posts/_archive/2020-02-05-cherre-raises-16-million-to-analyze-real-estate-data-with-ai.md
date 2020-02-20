@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "NGD raises $20 million for storage hardware designed to handle AI workloads"
-    excerpt: "That’s where NGD Systems comes in — it’s an Irvine, California-based company offering a computational storage drive tailor-made for on-device AI and machine workloads. To lay a runway for growth, NGD this week closed a $20 million series C financing round led by Western Digital Capital, with participation from existing investors including ..."
-    publishedDateTime: 2020-02-05T13:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/05/ngd-raises-20-million-for-storage-hardware-designed-to-handle-ai-workloads/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "HouseCanary, Inc. Closes $65M Series C Round, Aims to Create More Efficiency in the $2 Trillion Residential Real Estate Market"
     excerpt: "Through partnerships with leading financial institutions, HouseCanary’s ComeHome platform will enable ... based on big data and refined through machine learning. By combining this technology with its nationwide brokerage, HouseCanary is uniquely positioned to connect investors and consumers alike to the information that they care most about ..."
     publishedDateTime: 2020-02-06T10:01:00Z

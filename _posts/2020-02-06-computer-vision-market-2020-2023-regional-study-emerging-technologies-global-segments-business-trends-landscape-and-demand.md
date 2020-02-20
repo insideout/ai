@@ -43,15 +43,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1126653452/960x0.jpg?fit=scale"
         width: 711
         height: 474
-  - title: "Artificial Intelligence in Retail Market 2025: Industry Size, Growth Factors, Trends, and Top Companies Analysis for Business Development"
-    excerpt: "Subsequently, various well-established retailers are struggling with increasing operational cost, dissatisfied customers, declining sales, and upstart competition; thereby creating a need for implementation of artificial intelligence in the retail industry. With the new phase of digital transformation, top players in the retail industry are ..."
-    publishedDateTime: 2020-02-05T13:33:00Z
-    webUrl: "https://www.openpr.com/news/1920389/artificial-intelligence-in-retail-market-2025-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "hrN6KYj8i2hZiV33XePO8fvonZdq4DMglPLD4Omp0SmJm8K9mRZzeG5Nnb+G0npMtpyNnPWU796BUGWGuJkIySbPW3e9UzlgD+ak9ITALs7mv4yNGdfX+o/DJxXuXYnsjRK2S97q0IsDUCODvGPR3+MoakcLziuJpNr3klLxwNcU/CL1pmoEebkyp43w6pPigYNRILduJbP++L95ejCGImeOLzj8IORZhDw9L6oSwwo6oiDCcbP8fw+Jb2BTBeBeH6/Hcz+amfvyObhQEnR/FHb74y92Midgidh6qJWLy+VL30S8hH4+f839xD1ZJ/26;HgD6OIN+KQ+cpcV1z/M/yw=="
 ---

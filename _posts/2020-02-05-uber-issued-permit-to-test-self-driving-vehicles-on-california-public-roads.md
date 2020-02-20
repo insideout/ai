@@ -120,15 +120,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
-    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
-    publishedDateTime: 2020-02-05T14:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 60
   - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
     excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
     publishedDateTime: 2020-02-07T20:17:00Z

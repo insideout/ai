@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-eme
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Retail Market 2025: Industry Size, Growth Factors, Trends, and Top Companies Analysis for Business Development"
-    excerpt: "Subsequently, various well-established retailers are struggling with increasing operational cost, dissatisfied customers, declining sales, and upstart competition; thereby creating a need for implementation of artificial intelligence in the retail industry. With the new phase of digital transformation, top players in the retail industry are ..."
-    publishedDateTime: 2020-02-05T13:33:00Z
-    webUrl: "https://www.openpr.com/news/1920389/artificial-intelligence-in-retail-market-2025-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "Aclxdowgguf5DejdHEmxIfR3IHBwo/FbgcD55VJpt+yMDhHrFcsDokzFXjlJbaHPLpIQT7DGRWJ77XZvyUuDuRujBdb0D1bOVB824357CB+gwgQjr3zjtBlwa9pJRmnWRR6d+d8Xh0SzrMaDrF0+MupEQhMWZF5V2ekh3aSCPdLp0VwXi0HFdqhyFmRWJC0Ti22bbFOB3bbuQOPiWICUpLMs93gmV71xeU1W9vSpfSyjqRVfBJUA5rPcnovbKWO4rePFL2N5XwAx+HtfHxdF/7aGW+S2Qt9xe/MBr6sBBaxUX51//XtBb6oDoc09KLhM;Npvsbq3t0Qyv24L0bCga/w=="
 ---

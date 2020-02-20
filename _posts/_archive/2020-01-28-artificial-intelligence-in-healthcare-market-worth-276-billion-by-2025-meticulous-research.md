@@ -5,9 +5,9 @@ excerpt: "Meticulous Research®– leading global market research company publis
 publishedDateTime: 2020-01-28T09:14:00Z
 webUrl: "https://medium.com/@phadatarekavita95/artificial-intelligence-in-healthcare-market-worth-27-6-billion-by-2025-meticulous-research-903f49019bad?hss_channel=tw-17392332"
 type: article
-quality: 52
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Medium
@@ -21,17 +21,12 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET"
-    excerpt: "Artificial Intelligence In Healthcare Market has been provided in the latest report launched by SMI that primarily focuses on the World industry trends, demand, Share, Consumption and Growth with ..."
-    publishedDateTime: 2020-01-28T07:33:00Z
-    webUrl: "https://www.openpr.com/news/1910427/artificial-intelligence-in-healthcare-market-is-set"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
+images:
+  - url: "https://miro.medium.com/max/632/0*zQdHy3pqlrdv-3pd.png"
+    width: 632
+    height: 356
+    title: "Artificial Intelligence In Healthcare Market Worth $27.6 Billion By 2025:: Meticulous Research®"
 
-secured: "6CINE5jSIXmsgViSqnLEl03C380bgJ+SbjvFQJFLd3N59w+eqbke8frEmhkcP51192TioVu/6rvYjRgoCLpV4f79PGznEYG8pfh7jmfJ2CLk5lM3CXopatZxfx+RTDKahxSebN81GbkVdRp5Kysx8jeq3t/zB4GHSE6ttU9gETGDqvJ42mUSRz7RF23qPREY5oEwLVNEx/rTcjcuybfAGzzdrXsnF1Bn4puJny6JYYmN42rSKf3nHfBMy+x5eJtoJ9ecqUfGGmuKWY2OhDBYUyo38toeIRdDNRzvko86Ac+tsmZjHdrU6qfdyTZdt4Up;w7The3nk2o6zrdEW/4yvgQ=="
+secured: "y71VYEvKtZ2L4/YLwqaH6tzedosQf8wHLhrwsd22nBIEesyePXRHtIXwOGaJxRgHF9B0gLvaDTTtuEU0XwjzUs4t/G75Kr4ZeqXGx4c2jt7QQTQ7HF6UeyJn8oLBfIvuihX9qTbrwGfnLTTaYnJg/DMll175AlmkrbB3dKnRRXhAidBSn1nU0rT9amlYb1gGqWNVtb8MrtfqlXbdx7ylDxr3RcqioNTJO80PT1lH3Dwnvm3JgqAu9YOGaqP3Tr6xs0ja4sc3qkMid0TpKe7RZEM1k/t9XHS1W8wlxoxjf8wxj4xV9UgpZ3R9owuwjcF8;j+cNSM2m6UwHahL2FDiTNg=="
 ---
 

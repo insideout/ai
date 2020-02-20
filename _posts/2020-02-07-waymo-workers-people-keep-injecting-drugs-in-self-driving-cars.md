@@ -131,15 +131,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/uber-White-Volvo-6-.jpg?w=1024"
         width: 1024
         height: 682
-  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
-    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
-    publishedDateTime: 2020-02-05T14:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 60
   - title: "Uber cleared to restart self-driving car testing in California"
     excerpt: "Uber is the latest company that California has granted a permit to test self-driving vehicles — with a trained human driver still present. Reuters reports that California’s Department of Motor Vehicles issued Uber the permit on Wednesday, February 5. The permit was issued to Uber Advanced Technologies Group (ATG), which is tasked with ..."
     publishedDateTime: 2020-02-06T21:27:00Z

@@ -31,15 +31,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Illustration-eye-AI-mipt-300x204.jpg"
         width: 300
         height: 204
-  - title: "New AI tool predicts quantum system behaviour by looking at network structure"
-    excerpt: "based tool that has learned to predict the behaviour of a quantum system by “looking” at its network structure."
-    publishedDateTime: 2020-02-05T13:54:00Z
-    webUrl: "https://www.hindustantimes.com/tech/new-ai-tool-predicts-quantum-system-behaviour-by-looking-at-network-structure/story-68HTmxyMnjMpw6gCY32fVO.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 16
 
 secured: "Rb7cEfjTZFFtRseXGa3TV1R9mP/9Zfr5/MregHFUZCU6DHnlEwDcY4Kdk/LKLgkkrO+7gBpi4upkuQW+V5xujAdDZmcdUupN/kAtoJKemfyKYU8CX7deAVxkTyTwsru03qxkGmUaHKIv7MGevyFE8uDu0XrQ0eJ41whWQuK5byZX2PQ9RRwppQ58Ny3fMJK5om5mUXLam4WXZxHLcYPpzQSp7lnZsfaEiN3lxeSHsBjqVE6ZkrbSRztjEe5Tipa4qCqqAhTbKPw5Qqmx/FahzpjhcjLhC23hAXP5mw2nU3plwXVKVp9hhzHMmzSdI36pgGm/lzxZCQOHZfLD/agN1kiMEEnFHOPR3x1GDWlVE7OMNDVM+4GKG2icKmt8q+EYvVLECCBypSfrcQiWHvUKrA+lL+YUj/8AVhMtYcUc+NPKUh7Af1MS4RhE2Yw795e3m3BNxDSH9v5prPOx5BrvP36r6+9E7t428H8WX2rZqsg=;YrLkxqBmQ60d9rUBN8thrA=="
 ---

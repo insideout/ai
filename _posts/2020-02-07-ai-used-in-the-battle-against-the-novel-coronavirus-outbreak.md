@@ -117,15 +117,6 @@ related:
       - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
         width: 1200
         height: 450
-  - title: "China using AI to battle coronavirus"
-    excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
-    publishedDateTime: 2020-02-05T12:18:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178630.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 19
   - title: "Coronavirus outbreak to further strain global AI information exchanges already under pressure from tech war"
     excerpt: "Chinese search giant Baidu and Tongdun Technology, a Hangzhou-based risk management start-up, are among the leading conference sponsors along with US firms IBM, Google AI, Amazon and Apple. China’s smartphone giants cut size of contingent to world’s biggest mobile show In a written response, Baidu said 28 papers submitted by its own authors ..."
     publishedDateTime: 2020-02-06T22:56:00Z

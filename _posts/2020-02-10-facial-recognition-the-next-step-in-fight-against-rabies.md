@@ -71,15 +71,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg"
         width: 1024
         height: 512
-  - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
-    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
-    publishedDateTime: 2020-02-05T13:40:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-hit-with-cease-and-desist-from-google-over-facial-recognition-collection/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 57
   - title: "Will we see operators using facial recognition software soon?"
     excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
     publishedDateTime: 2020-02-06T15:53:00Z

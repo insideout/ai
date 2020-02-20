@@ -5,8 +5,8 @@ excerpt: "The companies are also exploring and developing new integrations for G
 publishedDateTime: 2020-01-23T14:37:00Z
 webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
 type: article
-quality: 0
-heat: 0
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "zhtyPvHOhEPYSRP2jUPZmqFpOFlAkGJT+yAySNjdp1ApczAt2U8QA/bMx4WNlz/COCy7Xzk2veTM8uqsuEnGHverhJXcN9x2DO7lpSCigN4Ig8qJLF1dwO+V/NelQGKO/JqDazJ5hKUfcBFFZMlD5MsWaxng7XTc2n2MmcIDO0cpJHak12CiukL3/W1o50kcnohXkPurOEO6WEgWjwlR+B424Aa2fk8OaW5fiwO/DZ74tvRi/GFe9AAI9pL/vBQqEmQe1xbE61sfuAdaIi00uCeqHlpGdZ5bqiBsezweVR3JHsdjgzvtwYl1t36ZK87x;9c4OPX4JuPabcKXCroPJJw=="
+images:
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
+    width: 1024
+    height: 803
+    title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
+
+secured: "ITswmvf4D0yXz2PnHeqrmwZ3u44BNFFW7i7GHGlhRxxMtROSyYfdI4B7xRbWnghi/Bc9vrl6cmpbo/GoHrJG7rbrPuHa91+xj/ma0JJ/yIye4aYG00GrArq5lFnu8zUdwkAhI9KoxGZVWcUWbzkrDSTOCyubkz9PVlY74PDDRKvTlxZkNFLLyCeIHtQmtuVwOj2qlh8e/C3aA+rH0yT6BuuQYMqcQCXLn73cgTpc70tvZSg0lMGlf0YPTwdtM+A0bKyRtiDcWG2qZsdkCzbV2zYMQWf9xrLy2JJuHUJtuLJy2Bb0a06MG34hGmQ8BJUH;IKAMNVorZjftAPmSmKLc4g=="
 ---
 

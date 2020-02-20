@@ -18,16 +18,22 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Worth $27.6 Billion By 2025:: Meticulous Research®"
-    excerpt: "Meticulous Research®– leading global market research company published a research report titled “Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services ..."
-    publishedDateTime: 2020-01-28T09:14:00Z
-    webUrl: "https://medium.com/@phadatarekavita95/artificial-intelligence-in-healthcare-market-worth-27-6-billion-by-2025-meticulous-research-903f49019bad?hss_channel=tw-17392332"
+  - title: "How Artificial Intelligence is progressing in mental healthcare"
+    excerpt: "Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers ..."
+    publishedDateTime: 2020-01-24T15:06:00Z
+    webUrl: "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html"
+    ampWebUrl: "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 52
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg"
+        width: 600
+        height: 337
 
-secured: "4qlSpWQywZ0z0XsQkbdgChgxuSP63NZzZJ61qO2hqPKwUtxbAa405d9duD/35WQmpUXmui2TCJ7Brqqn3rMLy/tNEvl+OwZAOwQIK+DTpwgfqPgZAdOrZqly3IkBpY3M6l0Bi/+taHWBnkW0UgIfA+VjmFDJK1gb762yVlTLkRAfz9ED7FQq11rIS7g9cVSHpvVKf6h08EmA3Wm3gyWjiqJdc2vGWIVwDL8oYxBhILM9jLqsJNsWwKc4AwaB27chVQBar4x3WrK5P3LHjY1QoVAZwo8M/81SxHBeWgYQGvLK73tOCeOhr59rEsgMcNXs;Ogq8wbOf397NZ6VW6wSn7Q=="
+secured: "dDCs4uVvA90KHZKfQ1jYWPxdPfMIt+QVAdRg3AVCjABvA6Nh4tJmvQ9FozHUnXC6BYvMpdzB8pErdDL9rdw7HKSpQGq9zTYJjEAur5bZi5+rRJX4G4/Jp94S3zbA0bmFZCr+CPwz3Ghh6x9HWeT9e1DNxU+6CKtsOPpeAXEPk7b2zw3UKp0XYHuVvGTjgLkYoGoxnlrNvnPB3CCfO6UW2I8HiBt/2YwAXLRvV8O8Wy0qrTpwOXjhCkKX9wC8i9c1UV9kII9XmQUgqgkIhW8npHTETq2bGuWqtshAL8guJq4gP3ukjG6s3A0OY6L4aI2L;xyjOVA/myv069kIgnprsMg=="
 ---
 

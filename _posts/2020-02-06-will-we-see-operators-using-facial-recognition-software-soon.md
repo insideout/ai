@@ -78,15 +78,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg"
         width: 1024
         height: 512
-  - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
-    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
-    publishedDateTime: 2020-02-05T13:40:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-hit-with-cease-and-desist-from-google-over-facial-recognition-collection/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 57
 
 secured: "HDvCt44IlRzOutFMIKdvIRSzMSSWB78fqYlxrM60DWOu/RMFgU+8varWfOxLXzdWVp7q466JnOIhCpizDTggSVPofjrN5JTWGBpKcSSD6XLoYCgIbsXUU1Ei11KJF2MYuUimz9daWbZ85nv2Lu6XwL6bJNExau/+h5hc/rJNx6V4hqV+vt4Rj1P/F0LImaGhERqY1S9Nwl1Rq65VjZm2vq+52ZMcjDtnz9ALiRGqCE8RS/RGgAliHhcho99bAFirCcqnPJDZRZUJBykd0rwg8SG44+jn2d3LZ5BQF6uQ156h8bj3Nho39rA/nSWLHqplKP38KRhIXCCKoMKH3GcjejTsXh0bbdIML0te+RGFNaG/AF9mRiXRADatqTG6+/aXTLhboLubiCSB+nIH3mxkgcj/1DBH4TnAgWmaUIK8cOBPj8xvCCE+nBNJq3g3Jb+5kzq9V0Mn6vyCB0DPydiaG3HvuzoHv1ne5O4VhIn6+fk=;+l5hkYw38QotP5IcHOKWGw=="
 ---

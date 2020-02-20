@@ -2,25 +2,25 @@
 category: news
 title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
 excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
-publishedDateTime: 2020-02-20T05:37:00Z
-webUrl: "https://www.richmond.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_9e8d9d34-1567-5a38-afc0-d3af39b29e45.html"
+publishedDateTime: 2020-02-20T03:03:00Z
+webUrl: "https://www.omaha.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_81a5a78c-4b22-548f-b17f-95e8e5e84552.html"
 type: article
 quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Richmond
-  domain: richmond.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600"
-    width: 600
-    height: 600
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+    width: 1200
+    height: 630
     title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
 
 related:
@@ -290,6 +290,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "PpfwgCmsgBSaiG6uAK7p8+B8/N0Fi1E9lSIGvk3ki5qetrHKSEd+tvJSyVpIWf0UZ/VKpyfN/srkMpM0YjDwsB9HxZTIxj6zUzOhQohQ7T9xBrnjpyBjzMW5kV1PeEblFXbWSs/5MsNj3L2KmBYX4Y8atTxKOW6Meji3uz9zSHTLaJwT/NdqXFPSxGC4eSF84hKLZfaPtXWX7E8RjF5Xlobq32wq/QNBVpPStTnk/Gb2Nd8HPXRHmqNjgdi0yDkgVpjGTg5yB4sk4ABg3w7t/SbkAPLW0/1AnPViUIG5+a2safI9Yth6v6FW9MfGUbPx;xnTRa41j1rgoeFkhCKZ03g=="
+secured: "zctnnB/t3amIMFe09FVvTyYMmFXHHOYLwSs/IMWRhpigbyVtEJq7bhcfsHdjp7ys9yoXItVEUPSxyrzNzPhuZ7Gm3oBXi7uIAXhp0QMQsFuf0p/RoPOnl8jLW5K1NTRgMC3yr9w7mPRgfKy9GIx0+M30MAqKCiCAewjIB+ySsYLFzZtlng5B7PNlfFxilIwkSs5MpaDEd87CaVO23SPyFGZC+Rf3bhu/RYsGj3S9FG/gthanahZ+sJGS2x7jKpe5FoX14NnUI9YqCaUyauPK+xlN+mWGBRrH1y3SnbOZS+8CkoIe+lYDwHNl+8PNo7JO;axMCtPKLuPmGl1JpY/xjWw=="
 ---
 

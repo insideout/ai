@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
       - url: "https://vertassets.blob.core.windows.net/image/b6566dd4/b6566dd4-46d8-4fce-99ce-702b4c6c708b/375_250-crystal_ball_future_istock_518433454.png"
         width: 375
         height: 250
-  - title: "Artificial Intelligence In Healthcare Market"
-    excerpt: "Meticulous Research- leading global market research company published a research report titled \"Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services), Technology ..."
-    publishedDateTime: 2020-02-05T12:48:00Z
-    webUrl: "https://www.openpr.com/news/1920347/artificial-intelligence-in-healthcare-market-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "pmROLGfEnxqFyL9juLNeoKUSLtGtMOKeJ2qkRE1PXTkE53koooghOLWig/eaEB7xcGwQMbyd/ZqBMamc5NvL+amWyKbfHGmsuDypJY/v+rHH3qkFsassWWhz1/1pws/29sB6TYev+aJD5bFtjAxRAWre28UuSu5Q4fYZ+8o+UaWTpnZEPVtDGo/qwjVQTGhZXqaHbtYTsfiYAIJgj/uQ3j6ub+FDl7JwmXOuoNuUh5nMTgXRgDYwAX2vCCPEe++7K2vKDWV+G4j52lLEaZnvwjaEJeZ9nnhd04oNDuvg7Bhdg3cNsR5TmMRx9o/RdKJ7xzO7QrgsDTU8KBPdI7VH52CAlxqMzSSW5AHZRH8/QM7aFVTn/2+njQQyqZ0SoUUOD0NtoC7AYu55GWoFQp3sMpsIeWQsyeEroKlkth5l+6gnrt/RufZDjnxU0r8bT39f9uyYymvm0jXuIbySwzUSl4XW6gVgnwAOpfmN6XNTEPA=;QYNSwtQ1Ge9BP5AFbdWnKg=="
 ---

@@ -24,15 +24,6 @@ images:
     title: "Researchers Create Neural Network to Predict Quantum System Behavior"
 
 related:
-  - title: "New AI tool predicts quantum system behaviour by looking at network structure"
-    excerpt: "based tool that has learned to predict the behaviour of a quantum system by “looking” at its network structure."
-    publishedDateTime: 2020-02-05T13:54:00Z
-    webUrl: "https://www.hindustantimes.com/tech/new-ai-tool-predicts-quantum-system-behaviour-by-looking-at-network-structure/story-68HTmxyMnjMpw6gCY32fVO.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 16
   - title: "Moscow: New artificial Intelligence tool predicts the behaviour of a quantum system"
     excerpt: "Moscow: Russian researchers have created an Artificial Intelligence (AI)-based tool that has learned to predict the behaviour of a quantum system by \"looking\" at its network structure. The neural network autonomously finds solutions that are well-adapted toward quantum advantage demonstrations, according to a study published in the New Journal ..."
     publishedDateTime: 2020-02-05T20:02:00Z

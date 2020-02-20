@@ -4,9 +4,11 @@ title: "Local speech recognition tech company partners with global call center c
 excerpt: "Voci Technologies, a Pittsburgh-based company that provides automated speech recognition technologies, announced Thursday that it had entered into a partnership with a global provider of call centers."
 publishedDateTime: 2020-01-31T13:10:00Z
 webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.html"
+ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/31/local-speech-recognition-tech-company-partners.amp.html"
 type: article
-quality: 15
-heat: 15
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
+    width: 600
+    height: 400
+    title: "Local speech recognition tech company partners with global call center company"
 
 related:
   - title: "Mercer | Mettl Partners with Carnegie Speech for English Language Assessments"
@@ -28,6 +36,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 1
 
-secured: "NQ9FekrkghjHMKXIzxGVX76k101nWFbzRUSpdWqC6+b5X3Fc7LIryZ6rcdHmaWfFTbmfPrAgyZQNiWK/HjQw/ZLsaAfwtt39/+mJuHrb1X3/PELCclDI1FOTGgnOrHPofApphEGcVblYJl0gLRul6TQ/CZlRLgS58ycFuYFi6YOk0rdh9MZj43ZdwlhpD4ND7xtgA7ujrX9N/y35qxmSCH694PhOprfjs845/0aK7BXjNe1wH2mPNs3kfCbM5kSGYxyZRtMCjqqAw8TB8xBzkDea9oRmgIZTUS2MaOTpddu+/mZMm2LQvz75n+XA/RCC;UvZRGUK4YmNQu36yxaGk8Q=="
+secured: "1VVW9/Wi6NY3hSg3iqCeMVVBSQWGdx7VO2e4zi9Z9+YMWGyG7dVHWhFF42Sv6fY8PbSMskVbHO2oobP576Y7HAqw2S9SbG60fzGNn0GLljdz5ipEcR+I//cciDywXB57NpulnrUNwrTMHN4cBKvyskdtbsOKmVDyXXvWrRTzdrveFOYwXty1HDgL1JrS5ojpsH0nc1cOhBD2NHLESWSi7GHG1a+1mQCurFFD/njmoaCklnuRdACXhYxVsnJlaQWWXWJ1d+KFlfHsPRfjVTDqGpFPeIqSE52/+zAOrzczwwzQ9O59i7a4mj85CfxInLVJ;DGhNhmkPKWL0Os3231ppvA=="
 ---
 

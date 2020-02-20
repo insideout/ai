@@ -125,15 +125,6 @@ related:
       - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
         width: 1200
         height: 450
-  - title: "China using AI to battle coronavirus"
-    excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
-    publishedDateTime: 2020-02-05T12:18:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178630.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 19
 
 secured: "ja0u5gHDj0okun/jQxhff3eoEJ6fJ8Q4mwceut0szfqWipu+V2wNO15yT66ht9+4bY+Wl9nxU2c4GbQ4DFkKpCV0mGIYcZtm9YRpakGr6ejpJvkqbF8gYTYnwanN6Hu/VPDz3tSeV1acKkrb5T0HGld09Ot4FhOa5dcLywd4Mmt+5lcZ6KGZylC5dTjkwhsuMgAD/Ys+iz+NtWsblxANaSdMuFdRS1PLOOeJ/N6ENWuCMJ79BaSIa/rGDAJSdYR4QsJcgv1oybaSOIrMy2BPb4NHei6BGNsR+lzIPA0mx8fv2rj0Pl99Synfu8kudJmOcPwuTB61A885AFo5C9JfRmcYcOAU8lyVthARza67Jxt0sm5m7OQUMO3c7M9pOVOAyjQiUFOis0muNW41AHrJy/Bdat8f6f+juIn2wApS15qUOwBECoRJ4FsxuY0tfrF5Bl05rPCGwcUCvNC78VdfNJwE9Mbv8SGkpLWK0ShnAb8=;X44Ih4qouTkg9O/bl1ucEA=="
 ---

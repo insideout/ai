@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4666027002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4666027002"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1200
     height: 675
     title: "Trump turned the State of the Union speech into a reality show. Rush Limbaugh was its star."
-
-related:
-  - title: "Opinion: Trump’s State of the Union was a campaign speech — and a pretty effective one"
-    excerpt: "Bernie Sanders and Elizabeth Warren. Pete Buttigieg, who proposes the less radical “Medicare for all who want it,” can point to Trump’s rant as a reason for Democrats to support him. But all the Democratic candidates should come away from this speech with a recognition that Trump will be a formidable opponent."
-    publishedDateTime: 2020-02-05T13:15:00Z
-    webUrl: "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one"
-    ampWebUrl: "https://www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-02-04/opinion-trumps-state-of-the-union-was-a-campaign-speech-and-a-pretty-effective-one?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 51
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/4bc5b3c/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F37%2F4e8a13c64254b008d334ca3f9f93%2Ftrump-impeachment-54621.jpg"
-        width: 320
-        height: 209
 
 secured: "npIpJ9PIIkBQ+Zwsszez7EykZe3NpI2uVe6bDU2LMB8uz5orvsTpK5ypsnNCcx9NAwfO83HMruytgygiEACgjC4eiKD8YE3qptmrJPSZzN0X1Nv+ntfPS+9OytEnmBwv+F/tZWaKXl3cbdYPT0tVQUDM3H5YHhdJPmhJUWFGQJcIPZjtXfn/GDtwq6bBAWP71CcnFhtgnw4I3tgcel0fYjy7jHeOGPWYkQ35KGYoawVRk8qVhOECbFjJj5PRRpXt2aueBGmLQWmkqkrjcg/F5uw4pvKApeXC7JagUZpzt5ec1mvDxZ26LV0MVo+FAVIj;EAShhal0vitSmlRl3xKLIw=="
 ---
