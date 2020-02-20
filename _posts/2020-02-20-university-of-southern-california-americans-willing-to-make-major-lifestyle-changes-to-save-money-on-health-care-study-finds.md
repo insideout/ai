@@ -18,6 +18,19 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Americans would embrace AI and 24/7 monitoring to cut healthcare costs, survey finds"
+    excerpt: "Despite their current reluctance to wholeheartedly welcome digital health tools such as remote monitoring devices and artificial intelligence algorithms into their lives, many Americans would do so if it meant lower healthcare costs, according to a recent survey. In the Future of Health Care Study, researchers from Los Angeles-based USC ..."
+    publishedDateTime: 2020-02-20T22:35:00Z
+    webUrl: "https://www.beckershospitalreview.com/consumerism/americans-would-embrace-ai-and-24-7-monitoring-to-cut-healthcare-costs-survey-finds.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 47
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/consumerism/3.jpg"
+        width: 400
+        height: 300
   - title: "To save on healthcare, Americans are willing to make major lifestyle changes"
     excerpt: "Many Americans are willing to make significant personal tradeoffs to lower their health insurance rates or medical costs, such as agreeing to 24/7 personal monitoring or working with artificial intelligence instead of a human ... for the sake of their medical coverage.\" The Future of Healthcare Study explores views and behavior about 25 issues ..."
     publishedDateTime: 2020-02-20T14:25:00Z

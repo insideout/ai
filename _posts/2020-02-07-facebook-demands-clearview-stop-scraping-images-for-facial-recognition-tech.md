@@ -211,19 +211,6 @@ related:
       - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
         width: 620
         height: 350
-  - title: "ACLU criticizes facial recognition company using photos without permission"
-    excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
-    publishedDateTime: 2020-02-06T05:25:00Z
-    webUrl: "https://www.wftv.com/news/local/volusia-county/american-civil-liberties-union-criticizes-facial-recognition-company-using-photos-without-permission/ONZWHDR5XVDQVJAZ7L6UQBG2A4/"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 37
-    images:
-      - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
-        width: 1200
-        height: 628
   - title: "Google Photos allegedly violated Illinois’ facial recognition laws, according to suit filed after Facebook settles class-action over same law"
     excerpt: "The suit was filed about a week after Facebook agreed to pay $550 million to Illinois users to settle allegations that its facial tagging feature violated the same state law protecting biometric information, which can include data from facial, fingerprint and iris scans. Illinois has one of the strictest biometric privacy laws in the nation."
     publishedDateTime: 2020-02-11T23:07:00Z

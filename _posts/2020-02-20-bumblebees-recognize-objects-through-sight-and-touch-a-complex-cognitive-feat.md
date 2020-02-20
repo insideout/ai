@@ -24,6 +24,19 @@ images:
     title: "Bumblebees recognize objects through sight and touch, a complex cognitive feat"
 
 related:
+  - title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
+    excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated."
+    publishedDateTime: 2020-02-20T19:25:00Z
+    webUrl: "https://science.sciencemag.org/content/367/6480/910?rss=1"
+    type: article
+    provider:
+      name: Science
+      domain: sciencemag.org
+    quality: 32
+    images:
+      - url: "https://science.sciencemag.org/content/367/6480/F1.medium.gif"
+        width: 346
+        height: 440
   - title: "Bumble Bees Can Recognize Objects Across Senses"
     excerpt: "This ability to experience an object in one sensory modality and later recognize it in another is called cross-modal object recognition. It’s actually a highly complex cognitive capacity that was thought to be limited to vertebrates. Cross-modal object recognition has been demonstrated across vision and touch in humans, apes, monkeys ..."
     publishedDateTime: 2020-02-20T19:32:00Z
@@ -59,15 +72,6 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 15
-  - title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
-    excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
-    publishedDateTime: 2020-02-20T19:25:00Z
-    webUrl: "https://science.sciencemag.org/content/367/6480/910.abstract"
-    type: article
-    provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 12
 
 secured: "A5NOOd7+me+NklUJM5Vmw3X8PwqcBDjHvY32/SyW69QaEGNYGUJDxCpRVxLDbQM2dTWaKRPHe+JvGkOVqz7+m1iDKvIfv/XBEok3E6FZ8RH/NZCPfSPOgFQQ0kewN5xAZ8TSv/xEFynyxOBmWEBwjZtoxf4CEROO5M7nEeS1yIysVEYvjZgHy44nzYLUypJ1bv2n+PU3e19V1uI85wILmsGU7wk9A5o/iBB/R91uJ28mfNS53jhHKG2mHQPFPdfNIsgmtFhrgMhP3FNsSG+S9mkm156tXySKKGv1aAGtql7xUiJODOXXEi/Af4WH+PlH;Cr/9WfUJlOLvg6AV3dlytA=="
 ---

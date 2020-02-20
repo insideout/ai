@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 1400
     height: 933
     title: "Facebook will now pay you for your voice recordings"
+
+related:
+  - title: "Facebook Will Now Pay You for Voice Recordings (Instead of Spying)"
+    excerpt: "Facebook will now offer to pay some of its users for providing voice recordings that the social media giant will use to improve its speech recognition systems. The company announced the new initiative, dubbed Pronunciations, on Thursday. And, while Facebook didn’t mention it, the program seems like a way forward after Facebook was caught ..."
+    publishedDateTime: 2020-02-20T21:55:00Z
+    webUrl: "https://www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/"
+    ampWebUrl: "https://www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/amp/"
+    type: article
+    provider:
+      name: iDrop News
+      domain: idropnews.com
+    quality: 44
+    images:
+      - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
+        width: 1000
+        height: 600
 
 secured: "YeYvj6yhzk6Vs4VdXrLhCVBztvUNxKEeEo3CmXFRU7MMuwJEOL4ufuDh/TW3xZVU1ovLFcDObnzKQ/moAgqC3izat079Hvqkv8ycLuIQdw6Of7XdhHuUtBYRh70Pm/jNlLjkNahiHp3wTl+xfzbN/9s//g5ZkAgl4grKR8WbAR3WHiljjYdUTnAI1C8aKLLP5O79v0rpgUT1qtdpq5FVVGLGXd+OlUNPY/d0m+cR2O//mvZZJBWcrIfYeBE8NN6MKoRKAISNUU0T0dT0rf0FnFZL+xsD2vlfHBDQxYgr6ZPvrY/v40G4VsLiWr6ciC5xuOestd+YDdGjBYfOhGCTy8/vUA/HVSDv4yT/CBKIwV09HsYli9xztYOmBSXlVkyMBWZJSdmSQnIuTcdGWXw1+/8cdT0+m9YHMPbIRw3wE3UEMQuz9CD/eSMV9CMxkw2xecy/yFJbVbTL+2+9R3i1TKVPq2vc0NIwtTNOzuuV2QA=;9+FJgteGe7RXtnJtpuAJjg=="
 ---

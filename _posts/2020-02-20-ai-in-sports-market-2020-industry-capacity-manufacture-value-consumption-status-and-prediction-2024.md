@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T14:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -54,19 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Predictions for HPC in 2020"
-    excerpt: "AMD has agreements with cloud providers AWS and Azure to put its CPUs on their cloud platforms and promote the use of AMD CPUs for HPC. This interesting move reflects how a lot of our customers are now planning their next HPC cluster or supercomputer to include AMD in their infrastructure design to better support AI workflows. AMD had ..."
-    publishedDateTime: 2020-02-17T16:55:00Z
-    webUrl: "https://insidehpc.com/2020/02/predictions-for-hpc-in-2020/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 26
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/02/download.jpg"
-        width: 661
-        height: 661
   - title: "Surgical Robotics in India 2019: Comprehensive Market Insights and Projections to 2024"
     excerpt: "Dublin, Feb. 19, 2020 (GLOBE NEWSWIRE) -- The \"Surgical Robotics Market in India 2019\" report has been added to ResearchAndMarkets.com's offering. The India surgical robotics market was valued at INR 7."
     publishedDateTime: 2020-02-19T16:18:00Z

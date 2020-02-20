@@ -203,19 +203,6 @@ related:
       - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
         width: 620
         height: 350
-  - title: "ACLU criticizes facial recognition company using photos without permission"
-    excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
-    publishedDateTime: 2020-02-06T05:25:00Z
-    webUrl: "https://www.wftv.com/news/local/volusia-county/american-civil-liberties-union-criticizes-facial-recognition-company-using-photos-without-permission/ONZWHDR5XVDQVJAZ7L6UQBG2A4/"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 37
-    images:
-      - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
-        width: 1200
-        height: 628
   - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
     excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
     publishedDateTime: 2020-02-07T12:48:00Z

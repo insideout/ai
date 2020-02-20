@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "Why most self-driving car companies use these 3 models"
-    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human ..."
+    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
     publishedDateTime: 2020-01-22T10:12:00Z
     webUrl: "https://sea.mashable.com/tech/8744/why-most-self-driving-car-companies-use-these-3-models"
     type: article
@@ -40,6 +40,6 @@ related:
         width: 1200
         height: 799
 
-secured: "vsKLtHGMKT9ulQBisg9rXtISR4EkBpPCSd2k6ldiTvNvLgn6xB99XmEqzU0W9hnCA6TeycADvIbrnIduGUp7MhP6ck7++DPR1C9aF/ULroKp9jADm1RyceJpgkouiFMzpptC7zIZ7/1ggBkZ5zQbt3RdgzIhhsJ0hHULR386OmFqJBreyT5g05lU77zHBWgcxj5flbBpmTFlULCAPxTr8n20RBq1RPXD/v2nUL+O1F4PiUWa1rI0VH30+MBAEery/oj8AHCRyxLpjOrGxdKq2hmIOhf8slI8HouKeWTqJrztB/rQBM0V4L2kmx+9LzzT;xPlbMkGIafD/nPzs8DfOAQ=="
+secured: "8mAN/0dbHdKTlmdf8fG1ATaUibckbhh9xXEVSrGnqmeFt1rWOmN97HtnX9Mg9+TrO3T7h3bMMIR9LxKswCy95yK1vR9TINVY2+9CvgMZExynU8X094+zYFstCtzXAB+Bo73Rp4nhxhkaCnbewtaWi3x049iggrVlGdwxPQa+fiGVRzWvxa5OADuo5iL9ncIIAslAay8iYz9NJWOtaWC9t79CoEeAke1+bCtlJFq0DrB8ZS5ewlV5sylWdpptnNLFNdaugnZKB0Oc+YB2V1hNapvaXYO32/pwx1eWUImTRqi/RoLRjBucI0NN+ZRKXwC0;feN48+TlI7wu+EcInqIHrA=="
 ---
 

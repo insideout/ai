@@ -75,19 +75,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-facebook-joins-others-in-contesting-face-recognition-firmand8217s-scraping.jpg"
         width: 1280
         height: 720
-  - title: "Google demands startup Clearview AI stop scraping photos"
-    excerpt: "Google LLC-owned YouTube Wednesday said it has sent a cease-and-desist letter to Clearview AI, telling the startup that it can no longer scrape videos from its platform. Clearview AI came under scrutiny this year after reports that it had been scraping videos of people on social media platforms and then adding faces to its database."
-    publishedDateTime: 2020-02-06T05:46:00Z
-    webUrl: "https://siliconangle.com/2020/02/05/google-demands-startup-clearview-ai-stop-scraping-photos/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/431443767_3f9ec027b9_c.jpg"
-        width: 800
-        height: 400
   - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
     excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
     publishedDateTime: 2020-02-06T10:16:00Z

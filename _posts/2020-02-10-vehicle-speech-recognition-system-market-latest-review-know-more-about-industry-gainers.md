@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T09:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
-  - title: "Speech and Voice Recognition Market Size & Industry Share by Leading Companies, Opportunities, Revenue Growth, Trends and Outlook (2020-2026)"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights(TM) in their new study. The study is titled \"Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
-    publishedDateTime: 2020-02-06T05:57:00Z
-    webUrl: "https://www.openpr.com/news/1920861/speech-and-voice-recognition-market-size-industry-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "Q0rRDSrqz3Of2iA3rJHNYiSSBCvoYTKzoCwTSSO81orrIIBVJOjs0rXMlNKd1uQZZuGEuqvAfE57B4lhhhuH/4iBxDHhch6m5SvTSejdkBMHN85K76+F/CVGxd9khRDTCfoiVZ7u4UEiFSdhG9XwgegoW4Jcog7rhzhd8bHpky3aKF9Uxn+Q5H8wMlxx1fjQZkBZdxOtbPeNEvx5XqfW8qr2YvZLwmDyaiNjESgyw0rXabVgp00cbhZHqillwX9RzUs6UzgPAQh1gzLSVt1n/Y0YQzOFDP1ubVD5LIBYxqDcTSNowLO7Qv9UwqzGo/mL;L+p+NgNDbvvsbQJ5VLoxsg=="
 ---

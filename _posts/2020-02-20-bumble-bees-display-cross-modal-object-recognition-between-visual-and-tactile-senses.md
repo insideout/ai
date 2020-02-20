@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
-excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
+excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated."
 publishedDateTime: 2020-02-20T19:25:00Z
-webUrl: "https://science.sciencemag.org/content/367/6480/910.abstract"
+webUrl: "https://science.sciencemag.org/content/367/6480/910?rss=1"
 type: article
-quality: 12
-heat: -1
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Science | AAAS
+  name: Science
   domain: sciencemag.org
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://science.sciencemag.org/content/367/6480/F1.medium.gif"
+    width: 346
+    height: 440
+    title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
 
 related:
   - title: "Bumble Bees Can Recognize Objects Across Senses"
@@ -67,6 +73,6 @@ related:
       domain: phys.org
     quality: 15
 
-secured: "NxK7zbcHMeBEqc7Xzg8v7VMwhT+jK+T7B1U9xXg/tPfHHhnkZDVLoHejsSLkipIyRSgsQpz+s3csjet96UeHJVbvwQpXTIWEa1D7LGyHexo0AT+QO54/x+0WBRFWd5haBniyYZwxh3rRploBFU4KhZNcc6G09DezzjORMdQSpcrgLg8VX9tN5DhsJ+UpeBY0poC2WCZH/YxneUWkWbxsGX1utDEZAP9gNvft8pbHg3AEJ2/08rtsRRLqksMfZ4g+2UxpLfOPuT9Dc+pgv1k4PabrtBWRHDFNc5qLtUndiHi4W2yCCS3ZfYTKTtq3DE82E/Y4tU+0KrTjcRixYlEMf4iAdJaj9YWl6rqq0XDlL+QdHFRXwN4bt59t5W16wk5rfVOv7UV+OHPE5v/XrJRinw25HDeGTS+o5q1V0suI5W5efRGiAemCRAd8ycVOephYJN/FWgG1goucDg1P4IEo8rud9tlT9goqKO6uOrmmK9I=;sMoFj1X9RZSreot4Lvd8/A=="
+secured: "98/0YWqy1nPtg5K2mzQDI/pzCwSs3iwCrjcM01TtXhtBbFpCAYcWdCWM0hPeZIF8g6uVH8ZWsJ/dArztO2TDa8UUmX30+Y4u3s0qHP0eyAPzFFDbtWo0OT1Uy6G9zGpyS5VwYxBaXR6CTy6fwKQslky9YfHWHLnU0rRKU9blNEvadzS5Ga8NGaLxseB/LyRQzRR13Me2FmftGWLY4qYUe89KKQSmfkZMKVGvIAh1I0e/rSx3XuFWdQ6FR3aT8Fj0ZzTm4SQFvjFMycoMGW9+hepHxiMd9yYDbD+ntcgscyUata74yuLx/GsadX2S7mYC;kK7/C6NYDGLDJIEY5+yclw=="
 ---
 

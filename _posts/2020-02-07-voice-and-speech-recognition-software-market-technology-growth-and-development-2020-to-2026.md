@@ -66,15 +66,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
-  - title: "Speech and Voice Recognition Market Size & Industry Share by Leading Companies, Opportunities, Revenue Growth, Trends and Outlook (2020-2026)"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights(TM) in their new study. The study is titled \"Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
-    publishedDateTime: 2020-02-06T05:57:00Z
-    webUrl: "https://www.openpr.com/news/1920861/speech-and-voice-recognition-market-size-industry-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "RVW0AnEB9jrma06HZJR+lR9Vukl7ybBnQ1irUQy/Tm0Sr1dYKuSdTBCIXPBsH77j+BuhOQqGQYaHrE7YZJNuazya0/ltruRVR5lU+G9WlMqMmMRBZWvBYJy/hGWrXISZ1QMrRrD3DLE1/awvu0/OthTy9av7zSeV3k2yvJiO/IMDpXrySN1bdzRo6ZmD7DMd6ZTfiHzvFd2bcYc47V6Tz19VALl/ruSsLgudEB9p3L7mNa6eMYg+LWat0FfqUpRggInDFWOs6t5b7vMuZYfUnJfI90iqh4i7pQRK+bPvknO4T/YIWWLqekGsI/rkrd10;5716qhJEfZwoIZ4UOAw4bQ=="
 ---

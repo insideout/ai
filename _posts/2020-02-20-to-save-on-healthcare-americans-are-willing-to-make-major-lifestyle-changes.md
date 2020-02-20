@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-02-healthcare-americans-major-li
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-healthcare-americans-major-lifestyle.amp"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,19 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Americans would embrace AI and 24/7 monitoring to cut healthcare costs, survey finds"
+    excerpt: "Despite their current reluctance to wholeheartedly welcome digital health tools such as remote monitoring devices and artificial intelligence algorithms into their lives, many Americans would do so if it meant lower healthcare costs, according to a recent survey. In the Future of Health Care Study, researchers from Los Angeles-based USC ..."
+    publishedDateTime: 2020-02-20T22:35:00Z
+    webUrl: "https://www.beckershospitalreview.com/consumerism/americans-would-embrace-ai-and-24-7-monitoring-to-cut-healthcare-costs-survey-finds.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 47
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/consumerism/3.jpg"
+        width: 400
+        height: 300
   - title: "University of Southern California: Americans Willing to Make Major Lifestyle Changes to Save Money on Health Care, Study Finds"
     excerpt: "Among the study's findings: * Nearly 1 in 4 Americans (24%) would work with an artificial intelligence-based technology if it lowered the cost of their health care. * Most Americans (80%) think that access to health care is a basic right that should be available to all citizens regardless of their ability to pay. This is a view shared even by a ..."
     publishedDateTime: 2020-02-20T16:43:00Z
