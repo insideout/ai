@@ -39,19 +39,6 @@ related:
       - url: "https://media.wired.com/photos/5e3c9fc2184f8b00092042da/master/pass/Transpo-2021-Cadillac-Escalade-053.jpg"
         width: 2400
         height: 1600
-  - title: "2021 Cadillac Escalade: 38-Inch Display, Better Self-Driving"
-    excerpt: "Night Vision is optional on the top four lines. Super Cruise is enhanced Level 2 self-driving, meaning the car lane-centers and paces the car ahead. Unlike other L2 vehicles, it uses lidar reference maps of major US highways to help the car know exactly where it is. (There is no onboard lidar on shipping Cadillacs.) The 2021 Super Cruise also ..."
-    publishedDateTime: 2020-02-06T15:15:00Z
-    webUrl: "https://www.extremetech.com/extreme/305850-2021-cadillac-escalade-38-inch-display-better-self-driving"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 24
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/02/Escalade-0764B8300.jpg"
-        width: 1344
-        height: 743
 
 secured: "lg1f/I0bewBJX5H5tGpzUYCKSbm3VbKbiPpINKZ6zSL+7CUf8TSLSsEHDEBY7W31LMjMdmQ+y3FRroBlNOSlkChKamQadMqXr7cj0M30oU0QH/rA70HsE45k7Y+WbzELbHQc3GXngSB8RqIefuG71LKMzjd+LPG1k7woMyF9Xoc5KdZQ9uEEw+nMJyg9H/rpfSHQbEhHS8tF0T1d9B+zHAvGswoWGBL33mCDkfldCwj2I/48kjbwLOzBd1iCuiEuwCk0Z/WGKEMMk97dUna0Gi522qi9DhnrM8e80eDZgAqcNFSiaYZ64KXjRXLIdncCGJdogmO3JR4lSdlLEN6AGffT8QUNPdgpGFO+FO9S/RpuZHW7DucfnorDR4JgpT8tjgqc0D1zyBVzeomrGwTZazjdReqBAcvxTJl2SUjYGP4fZFGHZ9LJwsP0Z8E7ZK6AS4A3CRCur3AoziMXJpzk3eVDUVQ+gnlim1Xopr8TZE0=;7UghYY9sTPABw1PiwN7bew=="
 ---

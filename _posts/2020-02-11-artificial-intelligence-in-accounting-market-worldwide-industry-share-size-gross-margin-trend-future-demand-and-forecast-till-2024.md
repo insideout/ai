@@ -18,15 +18,15 @@ topics:
   - AWS AI
 
 related:
-  - title: "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025"
-    excerpt: "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
-    publishedDateTime: 2020-02-17T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025-2020-02-17"
+  - title: "Modular Robotics Market Robust Expansion by Top Key Manufactures Till 2026| Worldwide Overview by Size, Share, Trends, Segments"
+    excerpt: "Top Players in Modular Robotics MarketABB Ltd., Acutronic Robotics, KUKA AG, Mitsubishi Electric Corp., FANUC Corporation, Kawasaki Heavy Industries Ltd., Yaskawa Electric Corporation, Denso Corporation,"
+    publishedDateTime: 2020-02-13T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/modular-robotics-market-robust-expansion-by-top-key-manufactures-till-2026-worldwide-overview-by-size-share-trends-segments-2020-02-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

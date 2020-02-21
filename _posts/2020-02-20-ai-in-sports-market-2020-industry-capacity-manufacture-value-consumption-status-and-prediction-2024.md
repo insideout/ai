@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T14:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg?p=publish&p=facebook"
         width: 500
         height: 500
-  - title: "Artificial Intelligence Market Comprehensive Insight by Growth Rate, Global Trends, Industry Status, Key Players Forecast till 2026"
-    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at USD 9."
-    publishedDateTime: 2020-02-19T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-comprehensive-insight-by-growth-rate-global-trends-industry-status-key-players-forecast-till-2026-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Surgical Robotics in India 2019: Comprehensive Market Insights and Projections to 2024"
     excerpt: "Dublin, Feb. 19, 2020 (GLOBE NEWSWIRE) -- The \"Surgical Robotics Market in India 2019\" report has been added to ResearchAndMarkets.com's offering. The India surgical robotics market was valued at INR 7."
     publishedDateTime: 2020-02-19T16:18:00Z

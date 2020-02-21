@@ -188,19 +188,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/R_JTtoqdaQpQCFtG9OHt_xZ_9lY=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/C3DCANJPP5EF3BJLLF7AUJDL3U.jpg"
         width: 1200
         height: 720
-  - title: "Venmo, YouTube and Twitter demand company stop ‘scraping’ photos for facial recognition work with police"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part … This item is available in full to subscribers."
-    publishedDateTime: 2020-02-06T15:54:00Z
-    webUrl: "https://romesentinel.com/stories/venmo-youtube-and-twitter-demand-company-stop-scraping-photos-for-facial-recognition-work,91635"
-    type: article
-    provider:
-      name: Rome Sentinel
-      domain: romesentinel.com
-    quality: 22
-    images:
-      - url: "https://romesentinel.com/images/og-images/og-rome.png"
-        width: 600
-        height: 315
   - title: "London police officially deploy facial recognition cameras"
     excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in Stratford ..."
     publishedDateTime: 2020-02-11T07:40:00Z

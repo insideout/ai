@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T11:15:00Z
 webUrl: "https://www.prnewswire.com/news-releases/north-america-wearable-ai-market-report-2020-forecast-to-2025---google-microsoft-and-apple-are-the-major-players-301006457.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -15,69 +15,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026"
-    excerpt: "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
-    publishedDateTime: 2020-02-14T11:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market: Future Forecast Indicates Impressive Growth Rate until 2027"
-    excerpt: "ARC added latest research on \"Natural Language Processing (NLP) Market Forecast to 2027\" to its huge collection of research reports database. Natural Language Processing (NLP) market on in-depth analysis market analysis size,"
-    publishedDateTime: 2020-02-14T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-future-forecast-indicates-impressive-growth-rate-until-2027-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Energy Market Size, Trend, Competitive Growth Overview and Forecast to 2025"
-    excerpt: "The Global Artificial Intelligence In Energy Market 2019 research provides a basic overview of the industry including definitions, classifications, applications, and industry chain structure. The Global Artificial Intelligence In Energy market analysis is provided for the international markets including development trends,"
-    publishedDateTime: 2020-02-19T10:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-trend-competitive-growth-overview-and-forecast-to-2025-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Automotive Artificial Intelligence Market is Expected to Grow at a CAGR of 41.0% to Reach $ 18.7 Billion by 2025 | Meticulous Research(R)"
-    excerpt: "Meticulous Research® – leading global market research company researching on market titled “Automotive Artificial Intelligence Market by Offering (Hardware, Software), Technology (Machine Learning, Deep Learning,"
-    publishedDateTime: 2020-02-19T14:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-410-to-reach-187-billion-by-2025-meticulous-researchr-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Automotive Artificial Intelligence Market"
-    excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
-    publishedDateTime: 2020-02-12T00:00:00Z
-    webUrl: "https://www.openpr.com/news/1929108/automotive-artificial-intelligence-market-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
 
 secured: "RiptJj/VHPQmZL5odVXb7RNfdeCvdzu0v5uXWmeNkcB6t3gjjpT6SvGPFwOmWA+2YY32d0yOA7nQKC2/viqhQC9S1w+TcUT+br/wL6z9tthJcb7xKCx4qRmwle1fGDQJGNutNkjyThMlSS8cNJWsGTs7oNR0v6dQwbPzQPzGE9DMcB4R4j7DubSK/fblkgA9uvzpzdrlhiE0Az7qK28KavT5pf98Vuz9Q2PqqI1K64R5tK77bqInEDceaSfjLJ5c6IOZH71ND3cgKbLUiblL49yl2jucgZ8Dqb+qjmPOTRm9hcGwHx10VMLwT3tb945K;43nydjTKA+jP31OZmy2Z/w=="
 ---

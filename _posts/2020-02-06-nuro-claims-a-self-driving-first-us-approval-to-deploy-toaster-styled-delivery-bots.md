@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/"
 type: article
 quality: 81
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots"
 
 related:
-  - title: "Nuro R2 self-driving delivery pod hits US autonomous vehicle milestone"
-    excerpt: "US regulators have granted the first self-driving vehicle exemption, allowing the Nuro R2 to drive autonomously on public streets, though don’t expect to catch a ride in one yourself. The R2 is SoftBank Group-backed Nuro’s driverless delivery vehicle, which the startup hopes will give grocery stores, restaurants, and other retailers a human ..."
-    publishedDateTime: 2020-02-06T15:47:00Z
-    webUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/"
-    ampWebUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/nuro-r2-1.jpeg"
-        width: 1680
-        height: 1120
   - title: "Self-driving delivery van ditches 'human controls'"
     excerpt: "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ..."
     publishedDateTime: 2020-02-06T23:45:00Z

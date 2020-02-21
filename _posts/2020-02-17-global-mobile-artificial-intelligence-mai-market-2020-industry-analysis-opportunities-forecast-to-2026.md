@@ -27,6 +27,19 @@ images:
     title: "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
 
 related:
+  - title: "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026"
+    excerpt: "Global Artificial Intelligence (AI) Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries,"
+    publishedDateTime: 2020-02-21T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Computer Vision Market Growth and Top Key Players Analysis Report 2026"
     excerpt: "Global Computer Vision Market was valued at USD 11.88 Billion in 2018 and is projected to reach USD 21.24 Billion by 2026, growing at a CAGR of 7.49% from 2019 to 2026. The report includes an in-depth analysis of the toggle switch market,"
     publishedDateTime: 2020-02-19T08:19:00Z
@@ -40,41 +53,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025"
-    excerpt: "The Global Artificial Intelligence in Retail Market was valued at USD 1.80 billion in 2019 and is expected to reach USD 10.90 billion by 2025, at a CAGR of 35% over the forecast period 2020 - 2025. AI will drive faster business decisions in marketing,"
-    publishedDateTime: 2020-02-19T09:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025-2020-02-19"
+  - title: "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025"
+    excerpt: "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
+    publishedDateTime: 2020-02-17T10:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market: Facts, Figures and Analytical Insights 2017 - 2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
-    publishedDateTime: 2020-02-14T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2017---2025-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural language processing (NLP) Market Global Industry Analysis and Forecast till 2027"
-    excerpt: "Ameco Research added new research report to its vast database titled \"Global Natural language processing (NLP) Market 2020\" which provides extensive and highly detailed information on the key markets."
-    publishedDateTime: 2020-02-17T03:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-global-industry-analysis-and-forecast-till-2027-2020-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -92,6 +79,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026"
+    excerpt: "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
+    publishedDateTime: 2020-02-14T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025"
     excerpt: "The post Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025 appeared first on Dailymarketjournals. COMTEX_362078588/2654/2020-02-16T10:34:56"
     publishedDateTime: 2020-02-16T15:34:00Z
@@ -105,28 +105,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market Opportunities and Top Key Players Analysis Report 2027"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-02-17T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-opportunities-and-top-key-players-analysis-report-2027-2020-02-17?mod=mw_quote_news"
+  - title: "Speech Recognition Market Trends, Share, Size, Growth, Opportunity and Forecast 2020-2026 by Ameco Research"
+    excerpt: "Ameco Research presents \"Global Speech Recognition2020 Market Research Report\" new Research to its studies database. A new report by Ameco Research studies the prevalent growth rate in the global Speech Recognition market."
+    publishedDateTime: 2020-02-17T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-trends-share-size-growth-opportunity-and-forecast-2020-2026-by-ameco-research-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Retail Market Industry Analysis Report by 2026 | IBM, Google, Microsoft, Intel, ViSenze, Oracle, Nvidia"
-    excerpt: "Artificial Intelligence (AI) in Retail Market Size - USD 1.43 Billion in 2018, Market Growth - CAGR of 37.8%, Market Trends -Rapid expansion of the retail industry. The globalArtificial Intelligence in the Retail marketis forecast to reach USD 18."
-    publishedDateTime: 2020-02-18T08:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-industry-analysis-report-by-2026-ibm-google-microsoft-intel-visenze-oracle-nvidia-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -144,28 +131,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Managed Infrastructure Services Market Global Trends, High Demand and Supply Chain by Future Prediction 2020 to 2025"
-    excerpt: "The Global Managed Infrastructure Services Market was valued at USD 71.01billion in 2019, and it is expected to reach USD 127.57 billion by 2025, registering a CAGR of 9.95%, during the period of 2020-2025."
-    publishedDateTime: 2020-02-19T08:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/managed-infrastructure-services-market-global-trends-high-demand-and-supply-chain-by-future-prediction-2020-to-2025-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Automotive Artificial Intelligence Market Development Analysis 2020 to 2026"
-    excerpt: "Latest Trends Report On Global Automotive Artificial Intelligence Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2020-02-13T11:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-development-analysis-2020-to-2026-2020-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
   - title: "Global Artificial Intelligence and Machine Learning Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
     excerpt: "Artificial Intelligence and Machine Learning Market 2020 Wiseguyreports.Com Adds \"Artificial Intelligence and Machine Learning - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
     publishedDateTime: 2020-02-18T07:19:00Z
@@ -175,24 +140,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-  - title: "Natural Language Processing (NLP) Market Size, Share and Top Key Players During 2019-2027"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-02-18T07:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-share-and-top-key-players-during-2019-2027-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-  - title: "Artificial Intelligence In Construction Market is Estimated to Achieve $ 2.1 Billion by 2026"
-    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 29.4% from 2019 to 2026 and is expected to achieve a market value above US$ 2.1 Billion in 2026. The report provides analysis of global Artificial Intelligence In Construction Market for the period 2015-2026,"
-    publishedDateTime: 2020-02-18T06:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-is-estimated-to-achieve-21-billion-by-2026-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
   - title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
     excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
     publishedDateTime: 2020-02-18T09:30:00Z
@@ -208,37 +155,15 @@ related:
       - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
         width: 600
         height: 250
-  - title: "Global Professional Cloud Services Market 2020 Present Trends, Business Growth Analysis & Forecast Outlook to 2025"
-    excerpt: "The Global Professional Cloud Services Market was valued at USD 21.51billion in 2019 and is expected to reach a value of USD 57.54 billion by 2025, at a CAGR of 17.76 %, during the forecast period, 2020 - 2025."
-    publishedDateTime: 2020-02-19T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-professional-cloud-services-market-2020-present-trends-business-growth-analysis-forecast-outlook-to-2025-2020-02-19"
+  - title: "Artificial Intelligence (AI) Market"
+    excerpt: "Artificial Intelligence (AI) Market Research Report 2020 features key trends and emerging drivers that shaping this Artificial Intelligence (AI) industry growth as the study avails you with market characteristics, size and growth, segmentation, regional breakdowns, competitive landscape, shares, trend and strategies for Artificial Intelligence ..."
+    publishedDateTime: 2020-02-19T14:25:00Z
+    webUrl: "https://www.openpr.com/news/1937991/artificial-intelligence-ai-market-2020-growth-regional"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: openpr.com
+      domain: openpr.com
     quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Deep Learning Market In-Depth Industry Analysis on Size, Share Analysis, Cost Structure and Prominent Key Players Analysis 2026"
-    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 5.1% from 2019 to 2026 and is expected to achieve a market value above US$ 56,427.2 million in 2026. The report provides analysis of global Deep Learning Market for the period 2015-2026,"
-    publishedDateTime: 2020-02-18T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-in-depth-industry-analysis-on-size-share-analysis-cost-structure-and-prominent-key-players-analysis-2026-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-  - title: "Global Natural Language Processing Market 2020-2025 Current Trends, High Demand, Benefits, Key Country Analysis and Business Opportunity"
-    excerpt: "Market Overview The Natural Language Processing Market was valued at USD 6.94 billion in 2019 and is expected to reach USD 23.47 billion by 2025, at a CAGR of 22.5% over the forecast period 2020 - 2025."
-    publishedDateTime: 2020-02-18T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-2020-2025-current-trends-high-demand-benefits-key-country-analysis-and-business-opportunity-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
 
 secured: "cf0/1gXy3wTzeunltkDTAjgcCvbZ83B0IL7p/XYByY1jDIGb1512NWhsAHwWBWiag6c8ci/wIvwr4+5UwQsuHelKxtaULbaqSOPXhK8i4JWol0muRZPO0Tb4lLgoSzaSkrq8MmSFlm4DodAJCVQsNgJdha2dF5wMpZHsogEeRTdBmkDvdQ44e9off4HYocT0L8D+4BtHzTIChz7qY3UYd/RWrpa5ym46KVLPucftDwd7jaLiXcqs/4IwGAFLcfWQHqOSTIcUiRuCqkwirmAV3KC6YdkVGuR/n383fu6Sng+pzOyX0zTYaIPhn2gGBnKp;dLfBeuzlD+VDT+liI6hioQ=="
 ---

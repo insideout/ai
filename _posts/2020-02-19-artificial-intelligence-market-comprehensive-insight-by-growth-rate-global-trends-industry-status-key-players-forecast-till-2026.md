@@ -28,41 +28,19 @@ images:
     title: "Artificial Intelligence Market Comprehensive Insight by Growth Rate, Global Trends, Industry Status, Key Players Forecast till 2026"
 
 related:
-  - title: "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024"
-    excerpt: "... operating in the global AI in Sports market includes 24/7.ai Inc., Amazon Inc., Apple Inc., Anodot, Facebook Inc., Fujitsu Ltd., Cisco Systems, DeepScale, Atmel Corporation, ARM Limited, Microsoft Corporation, and Micron Technology, among others. About All The Research: All The Research was formed with the aim of making market research a ..."
-    publishedDateTime: 2020-02-20T14:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news"
+  - title: "How much Worth Natural Language Processing Market will Generate by 2026?"
+    excerpt: "Feb 21, 2020 (The Expresswire) -- Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation, International Business Machine (IBM) Corporation , Microsoft Corporation, SAS Institute Inc The overall ..."
+    publishedDateTime: 2020-02-21T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-much-worth-natural-language-processing-market-will-generate-by-2026-2020-02-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Construction Market Insights - 2019-2026: Research Dive"
-    excerpt: "in construction market size was valued at $408.1 million in 2018, and is anticipated to grow with a CAGR of"
-    publishedDateTime: 2020-02-20T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-construction-market-insights--2019-2026-research-dive-301008275.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 46
-    images:
-      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg?p=publish&p=facebook"
-        width: 500
-        height: 500
-  - title: "Surgical Robotics in India 2019: Comprehensive Market Insights and Projections to 2024"
-    excerpt: "Dublin, Feb. 19, 2020 (GLOBE NEWSWIRE) -- The \"Surgical Robotics Market in India 2019\" report has been added to ResearchAndMarkets.com's offering. The India surgical robotics market was valued at INR 7."
-    publishedDateTime: 2020-02-19T16:18:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/19/1987189/0/en/Surgical-Robotics-in-India-2019-Comprehensive-Market-Insights-and-Projections-to-2024.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 26
 
 secured: "ff2+vg/7+E062wlLrd6qSz2iwjhAOhorikQ1WDHaA/76D5Cusic0s6X1L+aXeZWQUv5rnE8bbZ5SydUBDIck228Ds6+EeoP5QcwgZoGbRHzL7Fo/j/+RHRccyxPJfN7erJT/Co5cV2ryyntmhLpQoa0YzXhgilq41xmRrNFlJNuAO+RkAMeajiP1w/Pr9FwJ4wVysVTSGH/g3XrW7lwl5y8OIP7C3GI9uBywfqMeIIhx9hcoqbWOMjKRqXqMBhNdnU9hQYdMjTW9WB78lj6GdiNdCVaEbswYemYNeWogAQD1a+1YDq2Sg3GwobMLiZkj;F48OamZ2+J9UD/GUVpJkgg=="
 ---

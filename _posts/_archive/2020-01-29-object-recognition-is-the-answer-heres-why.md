@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition
 ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
-quality: 69
-heat: 79
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -23,6 +23,12 @@ topics:
   - AI
   - Computer Vision
 
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+    width: 1200
+    height: 800
+    title: "Object Recognition Is The Answer, Here’s Why"
+
 related:
   - title: "Top 7 Usecases for Touchscreen Object Recognition"
     excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
@@ -32,8 +38,12 @@ related:
     provider:
       name: Digital Signage
       domain: digitalsignagetoday.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
+        width: 1200
+        height: 630
 
-secured: "rrpAZc+cVqeZKJEiguUaiue4dCOq4kjxSoNvf/85UY8qAOlUsU6d1q8aAYOO8S+eN1ijOC/IR9EHRtRjWjCaap9hG0f4CwifSgwy+7QjN0Ce6B0C+7QNpRy6gp81EVlptsUbDXZuw9ONEA/jXgQgnNtzSSdlykuexE3AXIojhYRmOELMX9ODAdRVDio4POSVy9JG4HqENF5skbIFvpf8UaVziBIFNdMkbvwpSkvLQaNykxajgFFmq/5Cv/jUaomZEGd+0CSOrPfubVjkdZDX63O5R1ueRymRFJJkjJaYM7Duvvy19i6o2rroStQGgUqy;E5NB7lzgY28g7t53XNbi7g=="
+secured: "x2jbCxmMk5BuhWgxiEB7ysSPDaMi4YgjWUdDnZompvrFLqRnxuVBQgE6wyVQjILmu4TUG7IsMAJ2ypOgG0ECnEYdl4GNy+uPHNjR68c2Dy2xki4hZLVjS9UMIkph1wFz0LIPofx7Mf6Vc+TVjcxbNbBaubWVfxoZiUNu4YoBa6IRf/Nq/aeh+SvAXc0fNbFRduaoN4j8GfZzlxUqm4ixqYWk1xbdMEN7oO7YkMsqTrIx8tipcznW5/05d5CZplHU1tL+IGhWRv0QJNr5tTIjhIOqHTCSbxn388Y5SVD9QuauW2kwP31YZfKYuKrXlHJP;2ox/AJivlZo3TUnpUJRJkw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-14T10:38:00Z
 webUrl: "https://www.openpr.com/news/1932674/natural-language-processing-market-future-opportunities"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -18,19 +18,15 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Banking, Financial Services, and Insurance industry vertical to hold the largest market ... With the help of data science platform, companies can train machine learning models on thousands of customer profiles with hundreds of data entries for each customer. North America to hold the largest market size during the forecast period ..."
-    publishedDateTime: 2020-02-12T15:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-data-science-platform-market-worth-1409-billion-2024-/2020/02/12/9096953.htm"
+  - title: "Automotive Artificial Intelligence Market"
+    excerpt: "The global automotive artificial intelligence market study presents ... Volvo Car Corporation (Sweden), Volkswagen Group (German), Waymo LLC (U.S.), and Xilinx Inc.(U.S.). 1."
+    publishedDateTime: 2020-02-12T00:00:00Z
+    webUrl: "https://www.openpr.com/news/1929108/automotive-artificial-intelligence-market-global-industry"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "tXWhZ/dKNri8LY62kzBdL826I7/gx6KR6tEXOrXOHyLR24MVIavHyvRz4/8s1+F3+TxgtG2gTTrd8o44IwVgW9AbL+5kUcsI5K/CgkTIkpkXwgVIAJdmmXzL6dan2UyCDl9Tpvwt+O48Yiod7wBjc9+C5sDN0tset5Kf4KFnj1tYUQ5hNGqfVEZsIixJN0VFtyAboUMXDI/F4FyYPRcRJ0nPLLAE17eEluwXdIOWevWYPbS0MaMrVuF6043ohBiq+vRDfR+2BfrvBeCkBKEa8cSGcvOgKT6ztVG6HPtIE44q1sfNXgbR6L5ui+5wjAfj;SgG+qCd67cNyFFuWXutK+g=="
 ---

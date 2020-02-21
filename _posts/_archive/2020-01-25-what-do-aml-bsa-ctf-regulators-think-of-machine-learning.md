@@ -5,8 +5,8 @@ excerpt: "In her address entitled \"What Are We Learning about Artificial Intell
 publishedDateTime: 2020-01-25T18:37:00Z
 webUrl: "https://www.finextra.com/blogposting/18373/what-do-aml-bsa-ctf-regulators-think-of-machine-learning"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Finance
 
-secured: "oAXKqV6apKbIyRvpjASLxVxLoFXRZR+1v9c8wXTWepsQCdq02mCjpjh0zsCRrb0cqBGKE1Ch6Xyr9RZhrejYqfGvELT7sNpEus7FNM1b9qlFr4Z3ix83MSG0dB97FLmS54KNS2ytemRWLDjEeVJMH03hgsCk7ivYaLcRyS+gO8Q1lDEo2WwgxlnPkC2bApjdJ6vtBoGmzE6KeJvVHP0VDqj1+ATcXnT9wUynuTRaTiROY7NHwmAhKiyuFf8e8Y3tIXPWgz+Pkb6ocv5e6mrnXruMyhZH+CMpnzY/OCSJ75nir+QjWF+22Ut0BaM2BO5i;vwqMuaBlkBJiCZOqR5VrKA=="
+images:
+  - url: "https://cdn2.hubspot.net/hubfs/178283/iStock-844535726.jpg"
+    width: 702
+    height: 497
+    title: "What do AML-BSA-CTF Regulators think of Machine Learning?"
+
+secured: "JOSATBVEu75zVdQAmKYopWkm4bZpXDoYTyWncm+BqNNPtPGFrtWtfGXySmNeQWnPHArsZS3Swv6qU0iPKmg/mkphnxAUdw2ymsf1LHYA/wB3QImg/7lXrNAQEuUpoczv1SFLotL/B4/Yj9y2O21d0MG9Z15/gJpiDpsM7QTXHkTADxx0yw/ljIckrBxKMMX3IBOX1FDZTxOo+LsSmcaCZn+sM7yhtwRqmrjgK5jjsAGz2ujVmQ7C/h7tlNTn33EgPDzsbqNnj1J+4KgxKb/lt807Plr6mRgBmJnHLfqMPk+ZKhUiniA7exOnMUgK4wnz;gIdDiPYFRjgpHwEr1VeGNA=="
 ---
 

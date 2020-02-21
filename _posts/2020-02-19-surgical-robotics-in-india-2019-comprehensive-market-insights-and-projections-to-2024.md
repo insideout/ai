@@ -44,19 +44,6 @@ related:
       - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg?p=publish&p=facebook"
         width: 500
         height: 500
-  - title: "Artificial Intelligence Market Comprehensive Insight by Growth Rate, Global Trends, Industry Status, Key Players Forecast till 2026"
-    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at USD 9."
-    publishedDateTime: 2020-02-19T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-comprehensive-insight-by-growth-rate-global-trends-industry-status-key-players-forecast-till-2026-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "ygjOuXy2AyJojiXJOm00wj+y7s+Yd8IXGJMxLCCngekC+s2yu3JXARYASqzBcYauVDHxfBB4c0JTHrNQfKmbfFz95HcfQ9tVtJqrveu45I13aaWwBFoY/WYojyGhQA6lDRvPDA+8n7OWX0zLRk6wlsBlcOGK6ObS1gKS/KvqsNqfHsguhLM4MOcXlEZ2rmrBsoWcx5eMuwTuOSv+Btxhth3K4cl4YC6cEuZlHkb5UU/xMOglxYoRwqTIp5WhYjxiUjRupN7xTzM9OGQTdIve+s54mwH0Pg1RCogQcdWnyj17W1H/d4x9Gxv5/d2e0/iE;gH0xS/lcG64b4gowiS3F9A=="
 ---

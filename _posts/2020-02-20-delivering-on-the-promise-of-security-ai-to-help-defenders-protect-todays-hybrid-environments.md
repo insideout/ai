@@ -3,7 +3,7 @@ category: news
 title: "Delivering on the promise of security AI to help defenders protect today’s hybrid environments"
 excerpt: "Today we’re announcing support for Linux and plans for iOS and Android as well. Azure Sentinel, the first cloud-native SIEM with fusion AI technology turns huge volumes of low fidelity signals into a few important incidents for security professionals to focus on. In December 2019 alone, within Microsoft, Azure Sentinel evaluated nearly 50 ..."
 publishedDateTime: 2020-02-20T15:52:00Z
-webUrl: "https://news.microsoft.com/en-gb/2020/02/20/delivering-on-the-promise-of-security-ai-to-help-defenders-protect-todays-hybrid-environments/"
+webUrl: "https://news.microsoft.com/en-my/2020/02/21/delivering-on-the-promise-of-security-ai-to-help-defenders-protect-todays-hybrid-environments/"
 type: article
 quality: 27
 heat: 27
@@ -22,11 +22,11 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/02/RSA-header-image-768x509.png"
-    width: 768
-    height: 509
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/430/2020/02/Lede-photo_-Security-OMB-Photo-1662x1080-1.jpg"
+    width: 1662
+    height: 1080
     title: "Delivering on the promise of security AI to help defenders protect today’s hybrid environments"
 
-secured: "fQcA1MEXB1EhBnyVfmvgObuRQPsMkcNCfSKCnc8BqVXUqDf+a5ZCP+RX7/DyQ1LgK7farmkelzECMYcopFKEAgEaV3qGR8Hype4x8BADrNEr6k4AlSQMI9vAqImLDNkc5c2ak5aW/taRtdL4HhVnvVgN/dIdH0i9FYIEwNTIN3FRnnitJwn6ZblIf2aml8Ct8Pz/AoNSNfdyNGj0RLeoZ2tvpzjyndABbbeOi/EV4DiRQGa6LB5g8HcvMvplp4MnjeaDujS6ZVZRvFee2i5GzHY/F1FzjNTGI19mmI5c11G/N3DH3zLU6YMl7u5L2g4CfhP3o+6d6Z4Fuyz10mMUBlpiGoji4Q4ZtXMGJyzbt8x75uEl1QYyyJdGlM8p/v8eK7X0m9HMq8/IOD4Lcr7ERo6kUlbcM3iwqIZ5ddxLcKSOhNypqY9fmPcqUvSkDfdnmhG/qPgotx2xzyK1FO52V6s4XhmveUJScuvYUCeLzXY=;buDPX0rceegzPsqzyvKWkg=="
+secured: "jAcSGu1S5k9nd5407Rr7CV2IioIH2BMCR52iS1mhc6CW7YMw/t1xM3+vVQgi2/lqB8Bi8FpAyW2w9j06ROEdAQwnMzCgdyPRYz1UxecEgG34VdzbZY36U+jh3NdMWRSms/tLFyLoxYRWCXSvK9Ax/VdKBSzfHrHMtQvn7M2IMllqtJmjtcq4Z3MAkfhbDljNVWvLolgLJuQL0OjiTuGdR4DiOgyDfIv76GaCu2ezutIa22rk58BrZLd1zEGm3OGd8B2VbDFkhd1OL4mPdaqd94Yc3NiDCeyQ7A7mILU0lCOhKKLN0AMurjGJviSbh9I+;1GDjtThKnkWO3o0V6VJ7qQ=="
 ---
 

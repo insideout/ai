@@ -23,17 +23,6 @@ images:
     height: 364
     title: "This Week In Insurance Tech: AIG Plans For Tech Investments, State Farm’s Smart Home Patent, Zesty.ai Opens AI Research Lab In Montreal"
 
-related:
-  - title: "Mantra Labs Announces New Report Addressing Insurance Challenges, Solutions & Ripe Investment Opportunities in AI in 2020"
-    excerpt: "“The State of AI in Insurance 2020” is Mantra Labs Point of View (POV ... The company also has strategic technology partnerships with MongoDB, IBM Watson, Nvidia, and Microsoft Azure."
-    publishedDateTime: 2020-02-13T08:06:00Z
-    webUrl: "https://www.pr.com/press-release/805480"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
-
 secured: "iSTMTrUpDqPiaanWnUFOMA5jGR9yTfOfew3z0tFVnsLnOl4/8MtnQW9FUnnO5c6OzJRrz0efCrTv3kXV1uidbolhQaKCrehD7QnljkZQ9yoPSkXaL6C0JDmPDrMuDuEV12yg5dA4ZBq64kZbKgQb4nXXV9bkMQxiWi1HkD8yqotnjSzydtzCg2fMCgEFuZR91uyWMCWuk2j/QNPluJ6pCx010AtiJzMR5xQvaN0eNmw1o5byAOZXacg24vEKsoyXZWEPTJJl0A8swzD0QGZEU5rQZQHHH9Rc+tUN0fjz3DlIVyOImNt6L1iKqTtfo2N+KW7R4aBu3fsNwMnWmsqbo8ucSfy63UY4jkd+ycEo/ifDUKzgHYXxxqoBqvK7f5vRdnzYQVULs/4uTDyW2KIp5pLwZJajmbn5Jjj1mx+PNkAogmoCU06tHNwLHQx0zFWW1y6pV+upVOJXtLR5Dm8dprsLlX2NnR/owP3+mitaupM=;y6KrB7GGXDQqGbRv/Hu0tw=="
 ---
 

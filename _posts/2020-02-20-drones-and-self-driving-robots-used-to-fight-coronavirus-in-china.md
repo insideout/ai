@@ -26,6 +26,17 @@ images:
     title: "Drones and self-driving robots used to fight coronavirus in China"
 
 related:
+  - title: "Artificial Intelligence Could Fight a Future Coronavirus"
+    excerpt: "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,"
+    publishedDateTime: 2020-02-21T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
   - title: "Artificial Intelligence Gears Up to Fight a Future Coronavirus"
     excerpt: "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,"
     publishedDateTime: 2020-02-21T05:00:00Z

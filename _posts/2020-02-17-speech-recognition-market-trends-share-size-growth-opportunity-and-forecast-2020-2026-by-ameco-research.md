@@ -28,45 +28,143 @@ images:
     title: "Speech Recognition Market Trends, Share, Size, Growth, Opportunity and Forecast 2020-2026 by Ameco Research"
 
 related:
-  - title: "AI (Artificial Intelligence) Image Recognition Market Trends, Drivers, Opportunities, Challenges, Leading Players, and Forecast Until 2024"
-    excerpt: "Global AI (Artificial Intelligence) Image Recognition Market Report studies the latest industry trends,"
-    publishedDateTime: 2020-02-19T07:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-trends-drivers-opportunities-challenges-leading-players-and-forecast-until-2024-2020-02-19"
+  - title: "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026"
+    excerpt: "Global Artificial Intelligence (AI) Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries,"
+    publishedDateTime: 2020-02-21T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Securities Trading and Voice Recognition"
-    excerpt: "Voice recognition technology is no longer a novelty. Recent innovations have turned this once sci-fi tech into a very practical tool with numerous applications across a range of industries. For example, voice activation tools have begun transforming the way in which both consumers and professionals engage in securities trading. Whether you’re ..."
-    publishedDateTime: 2020-02-20T05:18:00Z
-    webUrl: "https://www.tradersmagazine.com/departments/commentary/securities-trading-and-voice-recognition/"
+  - title: "Computer Vision Market Growth and Top Key Players Analysis Report 2026"
+    excerpt: "Global Computer Vision Market was valued at USD 11.88 Billion in 2018 and is projected to reach USD 21.24 Billion by 2026, growing at a CAGR of 7.49% from 2019 to 2026. The report includes an in-depth analysis of the toggle switch market,"
+    publishedDateTime: 2020-02-19T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-growth-and-top-key-players-analysis-report-2026-2020-02-19"
     type: article
     provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2019/04/p17cd1f3fho0o1q9drvo3ng6pue.jpg"
-        width: 575
-        height: 383
-  - title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"
-    excerpt: "Segmentation by Technology: Acoustic digital video fingerprinting, Digital audio, video image watermarking, Optical character recognition, Speech recognition. Segmentation by Industry Vertical: Avionics, E-Commerce, Consumer Electronics, Media and Entertainment, Transportation and Logistics, Banking, Financial Services, and Insurance ..."
-    publishedDateTime: 2020-02-12T21:40:00Z
-    webUrl: "https://apnews.com/9d4f89708f92d191e5c9a10e51f0fd86"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025"
+    excerpt: "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
+    publishedDateTime: 2020-02-17T10:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025-2020-02-17"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
+    excerpt: "Mobile Artificial Intelligence (MAI) Market 2020 Wiseguyreports.Com Adds \"Mobile Artificial Intelligence (MAI) - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
+    publishedDateTime: 2020-02-17T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-artificial-intelligence-mai-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Modern Warfare Market 2020 Set for Rapid Growth with Top Companies Analysis by 2025"
+    excerpt: "Market Overview The artificial intelligence in modern warfare market was valued at USD 1453.81 million in 2019, and it is expected to reach a value of USD 10781.27 million by 2025, at a CAGR of 40.25% during the forecast period (2020-2025)."
+    publishedDateTime: 2020-02-19T10:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-modern-warfare-market-2020-set-for-rapid-growth-with-top-companies-analysis-by-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Automotive Artificial Intelligence Market Latest Research and Development 2020 to 2026"
+    excerpt: "The Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
+    publishedDateTime: 2020-02-14T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-latest-research-and-development-2020-to-2026-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025"
+    excerpt: "The post Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025 appeared first on Dailymarketjournals. COMTEX_362078588/2654/2020-02-16T10:34:56"
+    publishedDateTime: 2020-02-16T15:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-growth-trends-analysis-and-forecast-to-2025-2020-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chip Market 2020 Increasing Demand, Growth Analysis and Strategic Outlook – 2026"
+    excerpt: "Artificial Intelligence Chip Marketis a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and supply data (as applicable)."
+    publishedDateTime: 2020-02-18T14:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-increasing-demand-growth-analysis-and-strategic-outlook-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence and Machine Learning Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
+    excerpt: "Artificial Intelligence and Machine Learning Market 2020 Wiseguyreports.Com Adds \"Artificial Intelligence and Machine Learning - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
+    publishedDateTime: 2020-02-18T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-and-machine-learning-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+  - title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
+    excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
+    publishedDateTime: 2020-02-18T09:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15351302/deep-learning-software-market-2020-global-industry-key-players-size-trends-opportunities-growth-a"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15351302"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15351302"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
+        width: 600
+        height: 250
+  - title: "Artificial Intelligence (AI) Market"
+    excerpt: "Artificial Intelligence (AI) Market Research Report 2020 features key trends and emerging drivers that shaping this Artificial Intelligence (AI) industry growth as the study avails you with market characteristics, size and growth, segmentation, regional breakdowns, competitive landscape, shares, trend and strategies for Artificial Intelligence ..."
+    publishedDateTime: 2020-02-19T14:25:00Z
+    webUrl: "https://www.openpr.com/news/1937991/artificial-intelligence-ai-market-2020-growth-regional"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
 
 secured: "nyZrEPWKx2KYPZ+lgH0MJemq/1JTrN3+tL2/HkZlQPQLeVfTzit4tieUJD0U1XGnp8vpbnxfj23on++j9E5Z3oABur/c6jRRGvhXc6OMsgJ2nliUgu8uYbB7VbZIYOslkr7/ugOAYT70sZ9gPDR88RRO4WuO7eVB4bI1kO7Vi0Vem0QSKoZFHnyIPqhsmH2Ibs/Mr9FR5e62AxImr4dSJ4K3/j3TOlHurEcuFvQFvZsrkjiLU2/zRyIHqku0i8MDfJFtSYYmIRcyMRGg9KXKv3TMiuX7B2eyXlpKUDzLJkouK1wVRJ/YgDZLdvIjdc1h;oT58HZkPEX5FfHyVhzy1zw=="
 ---

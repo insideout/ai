@@ -24,45 +24,19 @@ images:
     title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"
 
 related:
-  - title: "AI (Artificial Intelligence) Image Recognition Market Trends, Drivers, Opportunities, Challenges, Leading Players, and Forecast Until 2024"
-    excerpt: "Global AI (Artificial Intelligence) Image Recognition Market Report studies the latest industry trends,"
-    publishedDateTime: 2020-02-19T07:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-trends-drivers-opportunities-challenges-leading-players-and-forecast-until-2024-2020-02-19"
+  - title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Banking, Financial Services, and Insurance industry vertical to hold the largest market ... With the help of data science platform, companies can train machine learning models on thousands of customer profiles with hundreds of data entries for each customer. North America to hold the largest market size during the forecast period ..."
+    publishedDateTime: 2020-02-12T15:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-data-science-platform-market-worth-1409-billion-2024-/2020/02/12/9096953.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Speech Recognition Market Trends, Share, Size, Growth, Opportunity and Forecast 2020-2026 by Ameco Research"
-    excerpt: "Ameco Research presents \"Global Speech Recognition2020 Market Research Report\" new Research to its studies database. A new report by Ameco Research studies the prevalent growth rate in the global Speech Recognition market."
-    publishedDateTime: 2020-02-17T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-trends-share-size-growth-opportunity-and-forecast-2020-2026-by-ameco-research-2020-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Securities Trading and Voice Recognition"
-    excerpt: "Voice recognition technology is no longer a novelty. Recent innovations have turned this once sci-fi tech into a very practical tool with numerous applications across a range of industries. For example, voice activation tools have begun transforming the way in which both consumers and professionals engage in securities trading. Whether you’re ..."
-    publishedDateTime: 2020-02-20T05:18:00Z
-    webUrl: "https://www.tradersmagazine.com/departments/commentary/securities-trading-and-voice-recognition/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2019/04/p17cd1f3fho0o1q9drvo3ng6pue.jpg"
-        width: 575
-        height: 383
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "nPrmy2LpuDN6y4/zoejtbPT0c1L9fx77HLFmncBDxU2rxxXTrbeqEa237cGR+FPvX7XTycwKC4JdZIgrba/+6xMlVadZzLymW/ulAycIenP8YHDfpqM8ZyafPHgai8RbsP+zVjdk5E9Lc6FCexNG5bdj3ET4FjFViJYm2UG2AvIzFStD8O84ID/6N5WRkVbUsRntxlmnE3lfasSWTwRLhtQkaUEDA+Re8BWEzWmf9E+E5rICXBUBdJp83KFJGLaFY90V3eKkd6gnHog+5ZEQLFbwA09UtLhBtgH8kuzHv3ZAY4VxS3LM2KWShNLRH8um;k3um2cbD2AwE7LWPetwFPA=="
 ---

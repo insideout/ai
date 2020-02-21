@@ -5,8 +5,8 @@ excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, an
 publishedDateTime: 2020-02-05T03:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
+
 related:
   - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
     excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
@@ -32,6 +38,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "H605J/cNkNtHGdjps7CptWYpoXaM7knrBU0p9/t1GYIxUApd+eTzujz7Dz677kfDOnqkfVL6Tq1qYoeUq9RlEUB0efNe2a5S5QNhADMTI6+UthN0ZloqY5841sqBiwYU1IAjFqrhhS8p+hS8x9xdWuoQ3xNgksR2LObVigLUtCieHW5UxoLoRnRqBOWoIIJcLDbs4UG6O42sj4YNMqdR2aeoNlV59sontlkzavpsewugW/JSrvn0SwQq6bh/SthShaSh4dFHqToqA5xJBLi8HZtwTFGORUuq2XPtz2RQ6GE2IXlpgtC0DtQHatEGX2XQ;aG8QSFXgCmgeOqj98DNmxg=="
+secured: "15kk4mKSdqfyVfT3eh0xURu+5MiLy+a3kyGo9Pu+VuV9oZhwVKWjI5bbbvfUi5zOWIntOdZKnQZ85/e9n2JhnqULK8YDX5qut4o67oV1llaR+k1eC0GL4qoBbabUaYto+C1nhS0KA6WfO6R9pW1T+xMuFAKnQ6niAs65YvN64AQadNpu/3gBxrFToq34UC2oba3nsXUtRMzapT+T3q5wFsex0MtbJOiSOlx2HD5AGPfGCKzlEAV0WG9mElPKzxWf2Iadqaacjhrt4iumTwE6WUxXKCH1PkYBRiiLRx5ywUOyH50CaqPUCubdRWovcLbW;DZPZf5nB0c3uYSTikCeXyQ=="
 ---
 

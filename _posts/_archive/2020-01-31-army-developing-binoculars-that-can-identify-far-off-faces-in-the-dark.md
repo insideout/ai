@@ -5,8 +5,8 @@ excerpt: "Hackers can cripple facial and object recognition systems during devel
 publishedDateTime: 2020-01-31T11:49:00Z
 webUrl: "https://www.stripes.com/news/army-developing-binoculars-that-can-identify-far-off-faces-in-the-dark-1.617023"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "MXcG55K023WodM6Pz7g/td6TIm4xodjAZIZO6ud1e5n/bGT+LlPxWrBw/+UkLOyboWQuctPWhVlTmJEwGYE1E4fdbk7BT2s2I0pghoWeX4+iIuAZo14BfSrFhNwNVbwdhwJ0a/1wrXDbgdPf2tEUYIU5PsnAaIaGROrpOV6jUDZOX74ZrJXrPW5uO9TohnsqY4k1wvRYoYWq8Gkm8uaEdBlSRelhiuYuaPLrPwQ2aMAZEi5gg/FeHkwzdp/gtt43U8vwewuCpWaz46I71JZZbFW9JMcDB4FHM5oIeZshA67ttqCeo9ogVm+8FK6T7cVx;uqZG8WjepoN4PfkUecobVA=="
+images:
+  - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+    width: 490
+    height: 506
+    title: "Army developing binoculars that can identify far-off faces in the dark"
+
+secured: "11dFGzRJkhkLIFULvISLRggsc07Y+NRnwUs60JWD6xfG5qCboTX5bTNDKmd9A6ZpuTkoHDZl5iMwdUkM1ZdEn3NcVYA172Jd6+zZyt1j63CaZ9Vx9qvZ13SNAtZxK4hGZtRACWq4aVk8G95YRB/V+a4PW6LSplbGWIXhi1i+XsewnmswA8vRkvdYOWD78JUMJT9Bz9kHOohAlfdbXs+oCCrQWs5McDilbtZnMKikgM3y2IpGbVPb6Byoq+tmI9ih8qVLNVKzzNdAYTLAhxJsthNLFeealz3Q8zrit1p+Zd/P1bTEiChZE8WaiXpVPv4k;VYZzws0PXe5sevOahGhzvg=="
 ---
 

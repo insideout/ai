@@ -24,32 +24,128 @@ images:
     title: "Global Robotics Market in Personal and Homecare Sector 2020-2024 | Evolving Opportunities with Blue Frog Robotics SAS and F&P Robotics AG | Technavio"
 
 related:
-  - title: "Artificial Intelligence, Robotics, Drones Drive Opportunities to Transform the Oil & Gas Sector - 2019 - ResearchAndMarkets.com"
-    excerpt: "Technology convergence in oil and gas sector has witnessed adoption of several technologies such as artificial intelligence (AI), robotic process automation, Big Data analytics, advanced sensor technologies, autonomous robots and drones, which can enable effective inspection of oil rig sites, corrosion and leaks monitoring, enable predictive ..."
-    publishedDateTime: 2020-02-18T16:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200218005827/en/Artificial-Intelligence-Robotics-Drones-Drive-Opportunities-Transform"
+  - title: "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025"
+    excerpt: "The Global Artificial Intelligence in Retail Market was valued at USD 1.80 billion in 2019 and is expected to reach USD 10.90 billion by 2025, at a CAGR of 35% over the forecast period 2020 - 2025. AI will drive faster business decisions in marketing,"
+    publishedDateTime: 2020-02-19T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025-2020-02-19"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://mms.businesswire.com/media/20200218005827/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
-  - title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence (Ai) Robots (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually ..."
-    publishedDateTime: 2020-02-12T10:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005347/en/Global-Forecast-Artificial-Intelligence-AI-Robots-2021"
+        height: 630
+  - title: "Automotive AI Market 2020 | Global Industry To Rise at CAGR of 35% by 2026"
+    excerpt: "Global Automotive AI market has emerged as one of the most lucrative growth verticals in recent years. The market is predicted to show a remunerative growth trend through 2026. This development can be attributed to the slowly increasing uptake of driver assistance technologies in an effort to provide a better driving comfort as well as ensure a safe driving experience."
+    publishedDateTime: 2020-02-17T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-ai-market-2020-global-industry-to-rise-at-cagr-of-35-by-2026-2020-02-17"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://mms.businesswire.com/media/20200212005347/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
+  - title: "Artificial Intelligence Market: Facts, Figures and Analytical Insights 2017 - 2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
+    publishedDateTime: 2020-02-14T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2017---2025-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural language processing (NLP) Market Global Industry Analysis and Forecast till 2027"
+    excerpt: "Ameco Research added new research report to its vast database titled \"Global Natural language processing (NLP) Market 2020\" which provides extensive and highly detailed information on the key markets."
+    publishedDateTime: 2020-02-17T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-global-industry-analysis-and-forecast-till-2027-2020-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI (Artificial Intelligence) Image Recognition Market Trends, Drivers, Opportunities, Challenges, Leading Players, and Forecast Until 2024"
+    excerpt: "Global AI (Artificial Intelligence) Image Recognition Market Report studies the latest industry trends,"
+    publishedDateTime: 2020-02-19T07:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-trends-drivers-opportunities-challenges-leading-players-and-forecast-until-2024-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Cloud Natural Language Processing (NLP) Market Opportunities and Top Key Players Analysis Report 2027"
+    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-02-17T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-opportunities-and-top-key-players-analysis-report-2027-2020-02-17?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Managed Infrastructure Services Market Global Trends, High Demand and Supply Chain by Future Prediction 2020 to 2025"
+    excerpt: "The Global Managed Infrastructure Services Market was valued at USD 71.01billion in 2019, and it is expected to reach USD 127.57 billion by 2025, registering a CAGR of 9.95%, during the period of 2020-2025."
+    publishedDateTime: 2020-02-19T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/managed-infrastructure-services-market-global-trends-high-demand-and-supply-chain-by-future-prediction-2020-to-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Professional Cloud Services Market 2020 Present Trends, Business Growth Analysis & Forecast Outlook to 2025"
+    excerpt: "The Global Professional Cloud Services Market was valued at USD 21.51billion in 2019 and is expected to reach a value of USD 57.54 billion by 2025, at a CAGR of 17.76 %, during the forecast period, 2020 - 2025."
+    publishedDateTime: 2020-02-19T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-professional-cloud-services-market-2020-present-trends-business-growth-analysis-forecast-outlook-to-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Natural Language Processing Market 2020-2025 Current Trends, High Demand, Benefits, Key Country Analysis and Business Opportunity"
+    excerpt: "Market Overview The Natural Language Processing Market was valued at USD 6.94 billion in 2019 and is expected to reach USD 23.47 billion by 2025, at a CAGR of 22.5% over the forecast period 2020 - 2025."
+    publishedDateTime: 2020-02-18T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-2020-2025-current-trends-high-demand-benefits-key-country-analysis-and-business-opportunity-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+  - title: "Mantra Labs Announces New Report Addressing Insurance Challenges, Solutions & Ripe Investment Opportunities in AI in 2020"
+    excerpt: "“The State of AI in Insurance 2020” is Mantra Labs Point of View (POV ... The company also has strategic technology partnerships with MongoDB, IBM Watson, Nvidia, and Microsoft Azure."
+    publishedDateTime: 2020-02-13T08:06:00Z
+    webUrl: "https://www.pr.com/press-release/805480"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "+kempVGSQMb0ZgmISbhNeB+DSb7HqnqlqdMS8iP9EIayJgAsA+/cv23PT+cYQ6LH8AUc3r8jeVMxzb0xRv850SYQu3JkrHt2jIIEFEQ0V/zVVd1A1ftGV0KEeCldFcOSo77yVzcZZlnF7PknQiHNdwsJ/Tz0VaT4APaaGnnhdtqkn/UrjWUDcyNPQDIUC8tvmlrMrlBpFCOATzMh/lu5TobIlcWzgIzn4EL5TCTzX0PknMHfvYyx4/wVVEigrmaqwhflHY1eXs2NDC+2YUCHGWpfPHrxdWpNG7ivgG+JrGxRcJZOT2A0y3K3vd23+cyxtNq0L9R5mnRM+Lbsoes9NJHcPxLjtGyQwprup+ROWrJ7eIYESfq6O0ULae5mDWQJUWrqP8v7BQyvI97b8cRaW0G8N0MdRK5ZvGg2vp1XrxAVhADIRpUTTadob/9qJ63RW/GvvfEpQZcWK+jOTOW7o/TIPqFZ/9A/rQ80iuP3Das=;4xXxDXYnm5Uawp0g9MQBKw=="
 ---

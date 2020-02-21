@@ -7,9 +7,9 @@ webUrl: "https://mashable.com/video/amazon-rekognition-adds-fear/"
 ampWebUrl: "https://mashable.com/video/amazon-rekognition-adds-fear.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Mashable
@@ -19,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "Adk4mJq09D/DXflCzhfP9qokV+3/Jgr4x639WnDyRWEirL9Wap2u8962vQqe9IVSkhvc+zET/g7JcT8ydzl5X3VSCKIQT2rA5TfTyccVION5B+NE4LbPLNDiblRhQFC30ugLcMgZeBjM3JJsYydMGHafj+RdI6yMkXqY2zvh3wFmQ6nEhLE3MaOxg85weCAZCsJ987R1M6P9WzZhybUpYuydfMk4ZGSCmMFg/H8J1WoluiaT5efDyWQmo7SKT8fmOTLh1CT869smh6foqDwFD31RU1mFewQtZcuRtKAQD18MfUPoAlxQdIriPeAbFix8;CtFtEmIgt3APCbRIif/mkg=="
+images:
+  - url: "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU="
+    width: 1200
+    height: 630
+    title: "Amazon-made Rekognition software now able to detect fear"
+
+secured: "kKmjXb2w7+fUFDuFnvTC8QNVkc/Oy/vPpvo0ExkzaSBKW6KL0TW51LSOVXv1Gnk3w0rUtvEwghYD+Awuw9r/AsmrJEQGcHBJMRebnknPOdkQYe+dJh/WPw0h95EnC+I+Se1HTvaK7SD1szGT+A0ClDOb1kp2WxuFf6U2iYitnkFQYF8f7GYR+Hk4jtxoBx70gigeGVLNXYJJs78lCX0pyFF8k5mVsTCI+t9L8Yp2UUDGeSvRnmWkKv/3S9nwSZDp4t/7NSOT8UB7wre8bbzU1gImLMpdQ942ONpPjQcK3zR1QTWawjHWCcbD9jSVjunq;y/7JGXICFpQEutvXNlF6Pg=="
 ---
 

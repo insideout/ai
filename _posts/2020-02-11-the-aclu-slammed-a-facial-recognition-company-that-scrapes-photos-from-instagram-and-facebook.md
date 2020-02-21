@@ -8,7 +8,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-f
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
 type: article
 quality: 180
-heat: 350
+heat: 340
 published: true
 
 provider:
@@ -186,19 +186,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/R_JTtoqdaQpQCFtG9OHt_xZ_9lY=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/C3DCANJPP5EF3BJLLF7AUJDL3U.jpg"
         width: 1200
         height: 720
-  - title: "Venmo, YouTube and Twitter demand company stop ‘scraping’ photos for facial recognition work with police"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part … This item is available in full to subscribers."
-    publishedDateTime: 2020-02-06T15:54:00Z
-    webUrl: "https://romesentinel.com/stories/venmo-youtube-and-twitter-demand-company-stop-scraping-photos-for-facial-recognition-work,91635"
-    type: article
-    provider:
-      name: Rome Sentinel
-      domain: romesentinel.com
-    quality: 22
-    images:
-      - url: "https://romesentinel.com/images/og-images/og-rome.png"
-        width: 600
-        height: 315
   - title: "Tech company develops facial recognition camera for the STEM classroom"
     excerpt: "An electronics company has developed an artificial intelligence (AI)-powered, facial recognition camera exclusively for the science, technology, engineering and mathematics (STEM) classroom. Dubbed HuskyLens, the camera developed by DFRobot is an easy-to-use camera designed to teach STEM students about facial biometrics and object recognition ..."
     publishedDateTime: 2020-02-06T17:21:00Z

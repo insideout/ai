@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T14:36:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr-2020-02-18"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     title: "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR"
 
 related:
+  - title: "Artificial Intelligence In Construction Market is Estimated to Achieve $ 2.1 Billion by 2026"
+    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 29.4% from 2019 to 2026 and is expected to achieve a market value above US$ 2.1 Billion in 2026. The report provides analysis of global Artificial Intelligence In Construction Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-18T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-is-estimated-to-achieve-21-billion-by-2026-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
   - title: "Global Cyber Security Market Value Projected to Exceed $280 Billion by 2027"
     excerpt: "/PRNewswire/ -- The Global cyber security market value stood at USD 112.01 billion in 2019 and is projected to reach USD 281.74 billion by 2027, exhibiting"
     publishedDateTime: 2020-02-19T13:30:00Z

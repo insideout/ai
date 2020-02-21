@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-could-be-tem
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
 type: article
 quality: 189
-heat: 779
+heat: 759
 published: true
 
 provider:
@@ -438,19 +438,6 @@ related:
       - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
         width: 1024
         height: 578
-  - title: "DHS to be grilled on facial recognition"
-    excerpt: "Another) facial recognition hearing: House lawmakers will press the Department of Homeland Security on its use of facial surveillance as the technology remains under fire on the federal level and has been banned in several cities. — The moment telecom’s been waiting for: FCC Chairman Ajit Pai will unveil his C-Band auction plan for 5G today ..."
-    publishedDateTime: 2020-02-06T15:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/02/06/dhs-to-be-grilled-on-facial-recognition-785115"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
   - title: "Facial recognition company CEO speaks out"
     excerpt: "Watch \"CEO of controversial facial recognition company speaks out about privacy concerns\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-02-06T17:07:00Z
@@ -464,19 +451,6 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/02/06/story_03953211_1581003003.jpg"
         width: 480
         height: 270
-  - title: "Groups Call For Chicago PD To Stop Using Facial Recognition Technology"
-    excerpt: "A coalition of groups in Chicago is calling on the city's police department to end its use of facial recognition technology, citing racial bias and privacy concerns. The Chicago Sun-Times recently published reports detailing the city's use of the ..."
-    publishedDateTime: 2020-02-06T14:43:00Z
-    webUrl: "https://www.newsy.com/stories/groups-want-chicago-pd-to-stop-using-facial-recognition/"
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 39
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1580993170_OND4F3.jpg"
-        width: 640
-        height: 360
   - title: "Zwicker Wants to Regulate Facial Recognition Technology"
     excerpt: "TRENTON, NJ – Just recently, the New Jersey Attorney General prohibited law enforcement in all 21 counties from using Clearview AI’s facial recognition software after a New York Times article revealed the start-up had built its database by scrubbing ..."
     publishedDateTime: 2020-02-07T09:00:00Z

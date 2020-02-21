@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -121,6 +121,19 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 39
+  - title: "Facebook to pay users for to improve service"
+    excerpt: "According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app ... this is an interesting approach by Facebook to improve its artificial intelligence-driven transcription skills."
+    publishedDateTime: 2020-02-21T08:04:00Z
+    webUrl: "https://www.khaleejtimes.com/technology/mobiles/facebook-to-pay-users-for-to-improve-service"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 24
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221083954&exif=.jpg"
+        width: 790
+        height: 517
 
 secured: "YeYvj6yhzk6Vs4VdXrLhCVBztvUNxKEeEo3CmXFRU7MMuwJEOL4ufuDh/TW3xZVU1ovLFcDObnzKQ/moAgqC3izat079Hvqkv8ycLuIQdw6Of7XdhHuUtBYRh70Pm/jNlLjkNahiHp3wTl+xfzbN/9s//g5ZkAgl4grKR8WbAR3WHiljjYdUTnAI1C8aKLLP5O79v0rpgUT1qtdpq5FVVGLGXd+OlUNPY/d0m+cR2O//mvZZJBWcrIfYeBE8NN6MKoRKAISNUU0T0dT0rf0FnFZL+xsD2vlfHBDQxYgr6ZPvrY/v40G4VsLiWr6ciC5xuOestd+YDdGjBYfOhGCTy8/vUA/HVSDv4yT/CBKIwV09HsYli9xztYOmBSXlVkyMBWZJSdmSQnIuTcdGWXw1+/8cdT0+m9YHMPbIRw3wE3UEMQuz9CD/eSMV9CMxkw2xecy/yFJbVbTL+2+9R3i1TKVPq2vc0NIwtTNOzuuV2QA=;9+FJgteGe7RXtnJtpuAJjg=="
 ---

@@ -69,17 +69,6 @@ related:
       - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
         width: 1200
         height: 672
-  - title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
-    excerpt: "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ..."
-    publishedDateTime: 2020-02-03T03:39:00Z
-    webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
-    ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 69
   - title: "What Is A.I. and Machine Learning?"
     excerpt: "Artificial intelligence (A.I.) and machine learning have seen a recent resurgence due to advancements in computing power A.I. is an area of R&D that focuses on getting machines to act rationally and autonomously. Machine learning is a subset of A.I. that leverages applied math to find patterns in data Machine learning is composed of three ..."
     publishedDateTime: 2020-02-07T19:29:00Z

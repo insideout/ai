@@ -115,6 +115,19 @@ related:
       - url: "https://images.livemint.com/img/2020/02/21/600x338/2019-12-02T174920Z_467783753_RC25ND9X2N0L_RTRMADP_3_EU-FACEBOOK_1575316477461_1582267603516.JPG"
         width: 600
         height: 337
+  - title: "Facebook to pay users for to improve service"
+    excerpt: "According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app ... this is an interesting approach by Facebook to improve its artificial intelligence-driven transcription skills."
+    publishedDateTime: 2020-02-21T08:04:00Z
+    webUrl: "https://www.khaleejtimes.com/technology/mobiles/facebook-to-pay-users-for-to-improve-service"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 24
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221083954&exif=.jpg"
+        width: 790
+        height: 517
 
 secured: "C2hS2FHxV5rj0l8Bwsu0wL5lT4qaxBCsTJs54eYhR0zP/L+ZvdPEL9/f0yjR9D/X5ix7hWlbVPQMJrJi+jML+dizSfUDVfC48D5kl+dpVrQA0MpFolfWz9Zmw0F9DThJGQm8wXaehoEYZQM1U5DoZ1xJbgHqLHCbtLir0eU8bxwUkrtYPA/9BiHO8hjvsNUzPdTQkfms1WBViTCkk4cYQWWlc4qW2b2xjOufkn/wlw6XA6XciseLDcsM7dlgqURSLm2HFM3FJ/pjQHEUnv0xXysPQCDx2Q5enwixV+v0RqCOlYn4ZcV9K4Xb5dbHmOK7B0AvG0zo1a0zTQ65nBC6kS+8sYgaAgSIagRtsvx8HeDWwtepXMANyvgl5RN8bYFagaTmM0JbLGiwkgjeRiB2n648Vk1vvvfp6v8phWpV1yei8yE/u8f9Z3WjLBkwEtaKLa6lP8ipTC3eBIbkvQ8jnTh6WGV3i1/g2KV2nkW3jZ0=;IxQno4uJpPYBlzuXgXn7ZA=="
 ---

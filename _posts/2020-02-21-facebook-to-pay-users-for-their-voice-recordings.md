@@ -117,6 +117,19 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 39
+  - title: "Facebook to pay users for to improve service"
+    excerpt: "According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app ... this is an interesting approach by Facebook to improve its artificial intelligence-driven transcription skills."
+    publishedDateTime: 2020-02-21T08:04:00Z
+    webUrl: "https://www.khaleejtimes.com/technology/mobiles/facebook-to-pay-users-for-to-improve-service"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 24
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221083954&exif=.jpg"
+        width: 790
+        height: 517
 
 secured: "nj3dO7sI03lvNi+wlmOyTbdLHUuDM9NfE0Skpc36EEeIMHt9oqgzMUg42rSA+uVFjkta61KsMAB3RjkEAsg6n0usyf0jOeCN2LKzMgTOZJ8BICHwROZrAI+f+7OxveSjA+w47smck8bQffCT/QnP53gIl9j38OeGxg4onsRSoTbpFme6a4wPbAN05JevAfqV23DejxpHzKyRzTd61fJQYn0+4xXrFIB/A8+pCp7NIZ/f0rE4kfnm0uH7jhdLF1OaMU83Vtye7EppV49XRdM6buGD1T+hJgQrEUC9XDFxx5mrBqe356BUJ8S3A3OFHvmJ;6nrFUGJCnL72bQPIw9BdHA=="
 ---

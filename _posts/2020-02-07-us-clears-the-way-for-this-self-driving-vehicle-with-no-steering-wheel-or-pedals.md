@@ -26,78 +26,36 @@ images:
     title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
 
 related:
-  - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
-    excerpt: "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ..."
-    publishedDateTime: 2020-02-07T22:57:00Z
-    webUrl: "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
-    images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
-        width: 800
-        height: 560
-  - title: "The feds just blessed a custom self-driving vehicle for the first time"
-    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
-    publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
-  - title: "When can we buy self-driving vehicles? No one knows"
-    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 24
-    images:
-      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
-        width: 540
-        height: 420
-  - title: "Self-driving vehicle law hits a speed bump"
-    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
-    publishedDateTime: 2020-02-11T11:08:00Z
-    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
+  - title: "Feds clear the way for Nuro's driverless deliveries"
+    excerpt: "Cruise Origin, a driverless EV that Cruise plans to use for ride-sharing ... In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world incubators could help accelerate the development of infrastructure and related ecosystems ..."
+    publishedDateTime: 2020-02-06T15:09:00Z
+    webUrl: "https://www.axios.com/feds-clear-the-way-for-nuros-driverless-deliveries-de9db97f-113d-45c6-9606-48f8e207949a.html"
+    ampWebUrl: "https://www.axios.com/feds-clear-the-way-for-nuros-driverless-deliveries-de9db97f-113d-45c6-9606-48f8e207949a.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/feds-clear-the-way-for-nuros-driverless-deliveries-de9db97f-113d-45c6-9606-48f8e207949a.html"
     type: article
     provider:
       name: Axios
       domain: axios.com
-    quality: 24
+    quality: 59
     images:
-      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
-        width: 1920
-        height: 1080
-  - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
-    excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
-    publishedDateTime: 2020-02-07T18:06:00Z
-    webUrl: "https://cbs58.com/news/us-clears-the-way-for-self-driving-vehicle-with-no-steering-wheel-or-pedals"
+      - url: "https://images.axios.com/yi-j5xjVk_P7ohYzQuBUvj3qRzk=/2020/02/05/1580945838314.jpg"
+        width: 6720
+        height: 4480
+  - title: "Uber loses $1.1B investing in food delivery, driverless cars"
+    excerpt: "(AP Photo/Seth Wenig, File) NEW YORK (AP) — Uber is still losing money as it expands its food delivery business and develops technology for driverless cars ... to release new proposals on regulating artificial intelligence. The billionaire social ..."
+    publishedDateTime: 2020-02-06T21:13:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/uber-loses-1-1b-investing-in-food-delivery-driverless-cars/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/uber-loses-1-1b-investing-in-food-delivery-driverless-cars/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/uber-loses-1-1b-investing-in-food-delivery-driverless-cars/amp/"
     type: article
     provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 22
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
     images:
-      - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
-        width: 3000
-        height: 2000
-  - title: "US lets self-driving vehicle bypass human-driver safety rules"
-    excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-    publishedDateTime: 2020-02-06T18:08:00Z
-    webUrl: "https://www.pennlive.com/news/2020/02/us-lets-self-driving-vehicle-bypass-human-driver-safety-rules.html"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 4
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/02/feffd3ce646f48f6b89f5f7c25d87d0c.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
 
 secured: "7sYEw63Z31RdJ7O+Bp+/t32zrEOubwOdFsEtw6AOqroHVds5d/Ep/8lYy3MyxypXs0plZ5njvxnlVoJ1VSJvsAjkuwqHuGclWPNI8S3unp2LIBpochA+9FDBlkckPkjAYi2J9E39oqWWan4H8R9hnOoq/O6L/Gw2WRmPrSYh6uMM3oRW1b/RlF8EFyZiFnu5k802esIEzSsQqj8aW/MyiIYe/gKsWpTT5NC5009z1B1eeEFXxozfgcBtLjDZ22KEiMRqFvmOd4/Hv45Cu+Gzx2hmwu8n+uayJrqbh/jn3N6h8kk+U++9Hm/MRBHQ6Tsn;MOe14co+4hcVJ2gYu7X7gw=="
 ---

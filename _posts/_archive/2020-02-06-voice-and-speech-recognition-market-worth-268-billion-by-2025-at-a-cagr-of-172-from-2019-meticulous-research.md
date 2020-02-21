@@ -72,6 +72,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Image Recognition Market Worth $81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-05T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Healthcare Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2029"
     excerpt: "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of current Artificial Intelligence in Healthcare market size, drivers, trends, opportunities,"
     publishedDateTime: 2020-02-17T11:39:00Z
@@ -135,15 +148,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200210005115/en/603399/23/CH_red_blue_logo_%281%29.jpg"
         width: 1200
         height: 576
-  - title: "Image Recognition Market Worth $81.88 billion by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-02-05T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
     excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
     publishedDateTime: 2020-02-12T19:30:00Z
@@ -187,6 +191,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "OttLb3pq0YD3Lzg6HyPWx6dGDqDAY0+qmC8ARcu9/s03hJs1oA8Ybrr0n8JyWnsD7uK04LFh2msJNZ6xR7MHCgDE9hSyDUxX95InZT3+5r4tgLaCC8ZV+9N9kybjM28NO/MiVLVvncsLAkIkC23PmVk8QQ8LpFrRNCAQlOOLS2ysk8DLWofyZNwXV4P84uKjKozJUXiMxSuLV8/XBvN8oytcScRjW+msd8cF1giLxLE815nApAhC/CAwxl/kZh67+A4tFahUfSpiDzfw4vNJoQZhpqAq1jZwlBNNKxv0nbYsaBpSw0tO9pZKFcNWBikQ;eQDBiYLeejQu0GJJKSg6IA=="
+secured: "yeLqNutaLDAknAJCBrNUAI365OnG3j8U27bFfr2SggSYemY1FCVUOfBWQhd22AnvQErLzyCXORzlhPTkoqZbLnMFLFRG2ZHrxCWoN7OoOAfh88xdscf3Hqmj5coLVNOvpUn6JOstGQw+GIFLl2afBUjf585l0KYdaxSgR2aXJiXVVQfcVUCrikExZQF9YaOuNnaYLWpNGdTcJSc3xeoW/MT8zztUH+D6CH27Wpu+f2xdYF9qK+jSAzSUnY7sTN2SwutMGGU4jh6a5B1VboICsJgZlqY4j3OWYV4HUvKZ0NJWAWhT825wWK6A2oQeyCPD;mbkoxc8KrzJQtF7m2sUA5A=="
 ---
 

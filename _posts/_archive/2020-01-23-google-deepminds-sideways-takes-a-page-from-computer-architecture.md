@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/google-deepminds-sideways-takes-a-page-fr
 ampWebUrl: "https://www.zdnet.com/google-amp/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: ZDNet
@@ -23,6 +23,12 @@ topics:
   - AI
   - Google AI
 
-secured: "RH7KxIfMdbauNvNWXT2vuhcbbxo0ccaudRRmV0OtbYx6IzcR3Vd+qIaAigSOTwInNLZM0W1IGhU/M1SaHl9Zq/wjG4YDLxPj+/XOsEnoY1z1iv9Gmo9ImS382QKu1aoCbKnqBUTqwo0VER69rEzbPi6xQ/d4maLfOwybbG9YiHwaFL6i9J42tJl+K/af5jrQJMHei6n/RK1+ayoThnaWMxXRJU5taAwgkEqPyS1cj0Vn0/ugA7NSmSAO03kfhjf0/DeW2oITBbdSA3Xq8mH4oeH43zBCWsry1xKPg9UjH2Q+7BbuJKvYo6sMZA+1JPU4;iOcFO8S1itdDyeN0YcI6ng=="
+images:
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/22/bb4eab38-d3e2-4df2-97b1-00c89187ee5d/thumbnail/1200x675/a215d738dcece5fd36b570b0e7ef01a3/thumb.jpg"
+    width: 1200
+    height: 675
+    title: "Google DeepMind’s ‘Sideways’ takes a page from computer architecture"
+
+secured: "fSKzyiB+cUrM0f+swhpQs3kqUlMgy/qdh08qnPZYLcs3Gf5MyJhO4/c8P5fbI1AvsumdpSGtkKLkdyguntZWtyDawtoynyY4/DzXmbT868VWpR7Dl3DiziVGLvwhpGl7yKR0b4JdBOgDu3T1gTePI4bbSTdk3vt78YCLWx0R3H6KbtfUc5pdkPzRvXofk50BYJZcIelnmiyBwa1KObvflK4lPP8mah/kryAkRC10GjrRDxDOS98tvLw+CN/cBH83XR1Uqtx5VFCcr9ewPRfhOu12iW07t4T6xbOqzMm7wfPpI60fqstlaBKu8YyZrlAV;NPKVAOlzxU9nFzK0joRKmg=="
 ---
 

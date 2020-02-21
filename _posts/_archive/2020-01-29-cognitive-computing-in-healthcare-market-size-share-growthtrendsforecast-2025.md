@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T12:11:00Z
 webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -26,8 +26,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 0
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "pfS1wtVTkt+ywyinqmz2Q9zRvroVxRYssZS2x4C2cPaqgbcGrsfJQ8xihcOsZGn+VY2PkYjNm1V/bocy94rhWClnv00Ai5yxTR7HYjEjflgxwrqqTP2YuVt0D3OB70DmBQaijPEXokz8wiYtxaPKDoqO7H0/PwOD9wyLQmKzF8FR6QImlg4uLjtF5tcPXov0kewQ/2t/CYeDb853BwpiFmtBhihN7N0J79GWFCcRRPxry2ciBkm12MWLeob1y3LX9/wp0kUZTFSKhWZcHXqZaqrc22qzVQpsDRfs7zZq6o/7L3pPHEJhe3IG5JK8/gzt;ofx0HeWwFJNQUj+Jkim5fw=="
+secured: "DHMWHxVlWxqMWqFy9yIZhvjexv725sdCIqJKmSvMP/eUb1ZbozHumFysWiCW0pczqO/in3gSXn+98fwTO8+7VUlWnbzn0LC8/ZqWoSCuBy+zwNE7tKSCuWpHXsgUxCpJhdLfIYcrnDh6Ak3lxFyRO/x7hdQkfEvGp8v3KqOykwrvlLZKTWxdBpyZQ99ECsVAz7xlOYe7ZKWdFZXpkLnxZtM+T02j5Pb/XTgh33RegMTsUxsjxyiMV6oHdatiuo8yVRG2XHI1jgdKYoHC7FEM97FEkMszUrPx60EZKbHEmTgMDSMppAJ+D3sbh6k8fYJb;byWrno9Jh8d7YvryNkbnUQ=="
 ---
 
