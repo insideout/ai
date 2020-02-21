@@ -41,6 +41,36 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/9GjJYqY3aHq7Y6WKo61JQUsI72o=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66345179/acastro_180522_facebook_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Facebook will now pay for your voice recordings – here's how to cash in"
+    excerpt: "To improve its speech recognition algorithms, Facebook is now offering to pay some of its users for voice recordings. These snippets will be used to 'teach' systems used in devices like its Facebook Portal smart speakers and cameras. The clips were anonymized, but the practice raised questions about security and privacy, with workers being ..."
+    publishedDateTime: 2020-02-21T10:31:00Z
+    webUrl: "https://www.techradar.com/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
+    ampWebUrl: "https://www.techradar.com/amp/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jgJrX8BxhZREZSf3s8UGF9-1200-80.jpg"
+        width: 1200
+        height: 675
+  - title: "Facebook Will Now Pay You To Record Your Voice"
+    excerpt: "Yeah, Facebook is now paying users who offer their voice recordings to improve the California-based social media giant’s speech recognition technology. This move comes after Facebook said it would finally stop listening to voice notes in messenger. According to a report from The Verge, Facebook has launched a new program called Pronunciations ..."
+    publishedDateTime: 2020-02-21T10:33:00Z
+    webUrl: "https://in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice"
+    ampWebUrl: "https://in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/image/u/us-politic/us-politicians-can-now-pay-for-sponsored-content-on-facebook_ndjn.620.png"
+        width: 620
+        height: 348
   - title: "Facebook will pay users to improve its speech recognition"
     excerpt: "Last year, Facebook abandoned its practice of listening to Messenger audio chats in order to improve its AI speech recognition. Now ... The Verge reports that selected users will be asked to record short phrases via its Viewpoints market research app. If you qualify, you’ll have all the fun of saying “Hey Portal” and then the name ..."
     publishedDateTime: 2020-02-21T09:07:00Z
@@ -219,6 +249,6 @@ related:
         width: 790
         height: 517
 
-secured: "p94pk70t3hUaZNlpzF0t/lZyVKn/7/4vjoqdxagHekI+0vSf5doC4iAgm2JEOfD/eXzY7S3NO5C85auzRkbWBz+hS0+P5+/eNMMxT+6eJ9vHD+K8/yRihwfPD67Q4OBfuUXQPx8jLhNb48hc1HV8zXuItllWUEsHEvJKErIdTOJzCmIYRmSJiF4xXcQTGXs4xlmB12FLwkOejMtZsM/PdPkdkt91k/0nOTVVrso6IOW1vOVx3fIAaBSa4QUH2H9kC2W9rdZN2X1pREXEcqBY3alROK5+OO5cQyDNFgekOYBIxTzxIw1epmvIjYYiOtIn;phCZlPwA3n4uICB85PVOHg=="
+secured: "xkMofPlRV1nd55c06AHEO/dDjwsHDYR4uc/IIDSfm2SwziASNSe5ljNhye1DAd8zgFRm5piXxxEDebROJzYd+rrzG12BHtauHTUmut84RupT+GERQussvAfdtY7gyHekCpF0zsNrxy0OOPNYq4wo8PpgYzbSkjJQXV8kCrfiUYSYlqUXfoYoB7FM9FdO5H9MoivzNH00rJv7DeU9xhV0BNO8QZTwdwd9rYJpR3KwTR13HmW0JDADpHrUxXlKb9QvUbxAfkF/cl1lI4fLWtjEJ9sj0qhaBUCnOOKH5mJyaXfEZNdlP4w6ghojA0aGQd0gP+iQHoFxaGhYED1FMnyWf2Q4YspcnDdjNMbMpEeY/xH3ZwBcM2ojAbsRHTJFckHTPhg1YCBOgWhlznCaF69hPulcykySDMkWjfhU6lAqQwrNiXNty7i+LHkDWNsbHP1S2cnskQIloKW5d0oIxvdhbXFW/TthZNOIfEK8bKOL568=;X9WeS1Yqt8RWSCAEnAEbXg=="
 ---
 

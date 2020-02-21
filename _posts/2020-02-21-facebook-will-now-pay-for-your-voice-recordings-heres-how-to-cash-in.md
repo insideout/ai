@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
-excerpt: "The program will be rolled out to select users with 75 or more Facebook friends Facebook has been repeatedly caught with its hand in the cookie jar when it comes to sharing user data. It was caught in August last year hiring third-party contractors for reviewing and transcribing user audio clips,"
-publishedDateTime: 2020-02-21T09:00:00Z
-webUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330"
-ampWebUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
+title: "Facebook will now pay for your voice recordings – here's how to cash in"
+excerpt: "To improve its speech recognition algorithms, Facebook is now offering to pay some of its users for voice recordings. These snippets will be used to 'teach' systems used in devices like its Facebook Portal smart speakers and cameras. The clips were anonymized, but the practice raised questions about security and privacy, with workers being ..."
+publishedDateTime: 2020-02-21T10:31:00Z
+webUrl: "https://www.techradar.com/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
+ampWebUrl: "https://www.techradar.com/amp/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
 type: article
-quality: 39
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/18/facebook-logos_0.jpg"
-    width: 1024
-    height: 683
-    title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
+  - url: "https://cdn.mos.cms.futurecdn.net/jgJrX8BxhZREZSf3s8UGF9-1200-80.jpg"
+    width: 1200
+    height: 675
+    title: "Facebook will now pay for your voice recordings – here's how to cash in"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -41,21 +45,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/9GjJYqY3aHq7Y6WKo61JQUsI72o=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66345179/acastro_180522_facebook_0001.0.jpg"
         width: 1400
         height: 933
-  - title: "Facebook will now pay for your voice recordings – here's how to cash in"
-    excerpt: "To improve its speech recognition algorithms, Facebook is now offering to pay some of its users for voice recordings. These snippets will be used to 'teach' systems used in devices like its Facebook Portal smart speakers and cameras. The clips were anonymized, but the practice raised questions about security and privacy, with workers being ..."
-    publishedDateTime: 2020-02-21T10:31:00Z
-    webUrl: "https://www.techradar.com/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
-    ampWebUrl: "https://www.techradar.com/amp/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jgJrX8BxhZREZSf3s8UGF9-1200-80.jpg"
-        width: 1200
-        height: 675
   - title: "Facebook Will Now Pay You To Record Your Voice"
     excerpt: "Yeah, Facebook is now paying users who offer their voice recordings to improve the California-based social media giant’s speech recognition technology. This move comes after Facebook said it would finally stop listening to voice notes in messenger. According to a report from The Verge, Facebook has launched a new program called Pronunciations ..."
     publishedDateTime: 2020-02-21T10:33:00Z
@@ -224,6 +213,21 @@ related:
       - url: "https://images.livemint.com/img/2020/02/21/600x338/2019-12-02T174920Z_467783753_RC25ND9X2N0L_RTRMADP_3_EU-FACEBOOK_1575316477461_1582267603516.JPG"
         width: 600
         height: 337
+  - title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
+    excerpt: "The program will be rolled out to select users with 75 or more Facebook friends Facebook has been repeatedly caught with its hand in the cookie jar when it comes to sharing user data. It was caught in August last year hiring third-party contractors for reviewing and transcribing user audio clips,"
+    publishedDateTime: 2020-02-21T09:00:00Z
+    webUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330"
+    ampWebUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/18/facebook-logos_0.jpg"
+        width: 1024
+        height: 683
   - title: "FB to pay users for recording to improve speech recognition"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. The social networking giant will pay select users to record snippets of audio through a new programme called “Pronunciations” in its Viewpoints market research app, according to The Verge. If you qualify to be part ..."
     publishedDateTime: 2020-02-21T06:23:00Z
@@ -249,6 +253,6 @@ related:
         width: 790
         height: 517
 
-secured: "HvzdU7HT69B16qzpMje/dNwUz0B01XitWuX1MgZxHffTFoql7XgKqhKlsaGG9NTB5cHN9EH1OCHdqpz3kXZiWkPHo3p7pVa/k9qaiMQOrJMU8Yst/oA6muLw5Rzhikd1wRSJAo555s1165q5JNH3t6bBHo8v9Bw6aYl/u2jXdsTyhXIZQjE+PXxQw5oQojlpD1wClqhXoglw4Cx7e9kmYpAUK/dbO6tLNtGSwu9kePoC4O6iAMVuG6jpfKS3gdv3yAF5FIxQgX3/A1Q0nMuDdybQPKAzY2OoaDE1OrL+DNNKYBnM1F/cVGDDhtP8/keGF9eFwZXETwFXgQWWgNhS0eHhOSTE8p7J4pdYDor+d31s5HSNvF5L1Yvazgp6yMyqtct5WUInQj/Y+k5O9mOachQzkSlawj7OC6KOEnw9rCFHv35Wi9i6QP/Pd5fQoqJiXP3sWpjF/FjyXnWsBTmaHscM+cyV82ouhB+8IUSJWmw=;nAUvghhcBtmUPtm2xnWUqA=="
+secured: "Yz2hut3ERdBMpNoY8W924BeHE8KhZtaIZ0G5BQyxqpeSJUOGx8rzMKCG/rTI7Ijjl9xvEMuZMMJJIEbtuzwtErf5s+t79j88qybPwpeb5EnEujRBqwHl9PxF822cVWcX/h1jHpqxu9gxn1xuuN/4fP20q6JIi2W8L+UvAubTBW6+D5d35OdlKFrNkhgYQQ7w2oESxH5sHstJ1JF+bImFpbCi8T39EPhrU8T9r4LxzqGKGAsSUZ2EjYB64YEChslq+8ElV73rSmQ4A4xkDyeJvFuAPpCw2Rd2zHVznKj/sxSuIZASLT8TDDHr4wmhUltB;vlIy/U4y6WYMVGD2iMDROg=="
 ---
 

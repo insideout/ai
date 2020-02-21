@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
 type: article
 quality: 76
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -164,7 +164,16 @@ related:
       name: Edmonton Journal
       domain: edmontonjournal.com
     quality: 19
+  - title: "Met police deploy facial recognition technology in central London"
+    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
+    publishedDateTime: 2020-02-21T10:26:00Z
+    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 19
 
-secured: "Z9+rla3oa2H+Onx0O0kd4fhjIoGU4F8n3R1rTT7+qBL4P3lx6XzMLfqWdETE8xB+cAK17GphoupP00cYs/xyt/wXiBCF4htR13dnLQ1rxNjsSDaas1XSy2NJ54HLpoRqm/k5w1R9YMrEDmHY3a4NGqJ3xeqJ2xRwbr1wTIaSdRBzP2qas6H6tBYpNrRyKCavxEVC1Xr22FSqRoAphh9TPhyCFkwyJV4sbcfy/VBHl3GSivqO5/6AK8ydOoh1xGsZzr+uCu6QxKHXCi9cp5MivZs8fDpJktzs82fu3DC87c1J8JB67vWwgKvpC+77SNsz;iqalmysESWxj1AIcPnsKdQ=="
+secured: "nKw2cVQ5+Q1tbnnhNTynlFqRA6DAzl1M9b/Ay1D2RrHF3Oz68E+zmTqfBP21jzFdRGVyBM4ZJbbiUNKb2Ub6HI6MwnUtanXlMbZUyMajZb7jn31QLyRxmz0USGDU6qEjAmDQcB7TX2ljaq5XqIpE4cbSjocFZasiyUWe8dkkFCmXApJ6fRvFlxhC8ZgGvVU1EsBD8IOPCITK6Khkjbnm8pVduDI4ZsP8InF3BCDmp7ZRo8ScXfx/uSDbT2oeVPbdeM0JlgYnPYy8s2kEwS1HZKtlK+oEsrEG9S6xzpyYPFLwtjjZQrgFoglaMDENE2TyAX1z7r/u0uoUpjUVfjLsGd74Pku57xWMg55hbh1Ob0A8N3tfHJMtrepsezQuPEjVgNXVqAZo69aOrccOKebDvBAPro8hJq+996CwNbtCUKHLEa0tAEypJU5ZVvwwinYRXzFzbA6BiQBAtcIQgQY9MxspNASeo1UhKkxF82IIgJQ=;yeiCR4DkwGY8f7C9m74Qcw=="
 ---
 

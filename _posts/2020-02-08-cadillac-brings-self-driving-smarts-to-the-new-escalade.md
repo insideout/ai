@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 2400
     height: 1600
     title: "Cadillac Brings Self-Driving Smarts to the New Escalade"
-
-related:
-  - title: "Magna: The Ultimate Winner Of Self-Driving Is Boringly Profitable"
-    excerpt: "Companies at the forefront of the self-driving revolution have collectively deployed $100 billion into this futuristic technology over the past few years. Canadian auto parts giant Magna International stands to gain from this wave of investments. The company has strategic alliances with manufacturers and innovators which allow it to deploy new ..."
-    publishedDateTime: 2020-02-06T17:35:00Z
-    webUrl: "https://seekingalpha.com/article/4322027-magna-ultimate-winner-of-self-driving-is-boringly-profitable"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2020/2/4/saupload_Dollar-Car-cropped_thumb1.png"
-        width: 640
-        height: 390
 
 secured: "wDKTnGWq0M84+HSwuyLMfGqMviQDu9p4sNfAYkFrgIcK0BNnezunE5OaryqWdt29+x9vV4X6fZG7N/mdP58HH+NdJWno6JuepVz1fwFM3rAOqqbk9YJcjEHi3j2zsoF/+LUVhk4LNuGZoTPmdZeN5FXdSSaGeWvdAbO5c9bGdXmyDJP3UwcZZOQK2sWED4qcZrnyzFOZHv0kguxkmrDy0DdhR3+4lbxq7uaSciOf6RQIS1/8/FcL+yunsBsfdxUDLD+U2i3fTMxo9kI1H1gZBPXitqTwMlFYRO9sO0EuZEBRoCqdKTltysxGv+b8KtXi8cVamKTyFX9uAWKTasqVCIknc3sL1B3SuhJ6oQmmAI6gnc7y9KDTuOcwV7v1ltc3zVXGAVhJRONYrlV1izyMGLlmuZBBfED1Vu7a9KshYLajCfUAX0LPZ02ZODoPy17gDdkPLjq/4ObYKCjp1JEpejIU0rbGyDfbb46saOaBmUg=;6FCrOcXXY90Ab5XSSqIY4g=="
 ---

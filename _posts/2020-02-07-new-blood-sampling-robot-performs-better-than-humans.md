@@ -59,15 +59,6 @@ related:
       - url: "https://www.futurity.org/wp/wp-content/uploads/2020/02/blood_draw_robot_1600.jpg"
         width: 1600
         height: 915
-  - title: "Robot Does Superior Job Sampling Blood"
-    excerpt: "Data from this study will be used to enhance artificial intelligence in the robot to improve its performance. Republished courtesy of Rutgers University-New Brunswick. Photo: A prototype of an automated blood drawing and testing device. Credit: Unnati Chauhan"
-    publishedDateTime: 2020-02-06T17:49:00Z
-    webUrl: "https://www.laboratoryequipment.com/560529-Robot-Does-Superior-Job-Sampling-Blood/"
-    type: article
-    provider:
-      name: Laboratory Equipment
-      domain: laboratoryequipment.com
-    quality: 19
 
 secured: "OaM6Ob9oYqi1r0D/YxEoETiikJmAUdIaTQVzox9tFuGefW+9pvV5mZIP6gf7a3O9rNVDqNBMNDJJPVMeaGQaT5lRVodmLx8DhimLUkb/2ZWXmNjDxkwjD0jv7aoiBg0KuWR5rEnl86DT8HUW/UUKofAYRjEfDqnN2kUs/+GRDD46UsRvoyy/0LbEK++wgU6kDEzywDYEfciRE8TMaEXiLUSn2NhwODXUtZkbBD2Y67vInpbCdaaL+WFcAkuKe6ur3HuAek74k9oof3EUfEJtdDwdHeYjkwLNMR35C0qc9F6kMl4NHAAkkuQ2zTb51XUgjt1aXTd5fHMSuwvE87PaYwpFPz639X63LHg0/2LtYFqqGQ4moxz2pLQSpu5IjZfLqCXy32qgB1PE3/sxIxP6aZ0xf9BboCXdImgvbY7HQnSm5cqyVLw6mysnHN66TvvNYSFdZE5Bl+ZuEtVCSmkofzZJW32Yuvp7bgyPPRkU9JA=;kTI1VE3JUnvEsKET3eqTsA=="
 ---

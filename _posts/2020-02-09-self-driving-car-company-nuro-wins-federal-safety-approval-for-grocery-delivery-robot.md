@@ -56,21 +56,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
         width: 1024
         height: 576
-  - title: "First Self-Driving Vehicle with Federal Exemption Is Nuro Delivery Pod"
-    excerpt: "The Nuro R2 is a self-driving delivery vehicle that will transport goods instead of passengers. The vehicle will begin testing on public roads in Houston in the coming weeks. The exemption from NHTSA and the DOT means the vehicle doesn't need a windshield or side mirrors. Autonomous vehicles are more than just robotaxis and long-haul trucking ..."
-    publishedDateTime: 2020-02-06T18:06:00Z
-    webUrl: "https://www.caranddriver.com/news/a30793888/self-driving-nuro-r2-federal-exemption/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp30793888/self-driving-nuro-r2-federal-exemption/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30793888/self-driving-nuro-r2-federal-exemption/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nuro-r2-1581004051.jpeg?crop=1.00xw:0.754xh;0,0.238xh&resize=1200:*"
-        width: 1200
-        height: 603
   - title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
     excerpt: "They’ll arrive in Houston, Texas, soon. (TNS) — A self-driving delivery vehicle with no driver's seat, steering wheel or brake pedal has become the first to be cleared by the federal government to operate without the presence of a human. Nuro Inc., a robotics company based in Mountain View, Calif., has been given permission to put up to ..."
     publishedDateTime: 2020-02-07T22:04:00Z
@@ -86,21 +71,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
         width: 950
         height: 629
-  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
-    excerpt: "Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company’s plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Transportation Department believe specially ..."
-    publishedDateTime: 2020-02-06T17:19:00Z
-    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/resizer/ioZ0vfVxhHboPpFfI1sv9v84lqY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNXLH6CJAUI6VELE2MKUVWFFZU.jpg"
-        width: 1440
-        height: 960
   - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
     excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
     publishedDateTime: 2020-02-07T19:49:00Z

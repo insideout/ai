@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
-excerpt: "The program will be rolled out to select users with 75 or more Facebook friends Facebook has been repeatedly caught with its hand in the cookie jar when it comes to sharing user data. It was caught in August last year hiring third-party contractors for reviewing and transcribing user audio clips,"
-publishedDateTime: 2020-02-21T09:00:00Z
-webUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330"
-ampWebUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
+title: "Facebook Will Now Pay You To Record Your Voice"
+excerpt: "Yeah, Facebook is now paying users who offer their voice recordings to improve the California-based social media giant’s speech recognition technology. This move comes after Facebook said it would finally stop listening to voice notes in messenger. According to a report from The Verge, Facebook has launched a new program called Pronunciations ..."
+publishedDateTime: 2020-02-21T10:33:00Z
+webUrl: "https://in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice"
+ampWebUrl: "https://in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice?amp=1"
+cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice?amp=1"
 type: article
-quality: 39
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/18/facebook-logos_0.jpg"
-    width: 1024
-    height: 683
-    title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
+  - url: "https://sm.mashable.com/t/mashable_in/image/u/us-politic/us-politicians-can-now-pay-for-sponsored-content-on-facebook_ndjn.620.png"
+    width: 620
+    height: 348
+    title: "Facebook Will Now Pay You To Record Your Voice"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -56,21 +56,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/jgJrX8BxhZREZSf3s8UGF9-1200-80.jpg"
         width: 1200
         height: 675
-  - title: "Facebook Will Now Pay You To Record Your Voice"
-    excerpt: "Yeah, Facebook is now paying users who offer their voice recordings to improve the California-based social media giant’s speech recognition technology. This move comes after Facebook said it would finally stop listening to voice notes in messenger. According to a report from The Verge, Facebook has launched a new program called Pronunciations ..."
-    publishedDateTime: 2020-02-21T10:33:00Z
-    webUrl: "https://in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice"
-    ampWebUrl: "https://in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/image/u/us-politic/us-politicians-can-now-pay-for-sponsored-content-on-facebook_ndjn.620.png"
-        width: 620
-        height: 348
   - title: "Facebook will pay users to improve its speech recognition"
     excerpt: "Last year, Facebook abandoned its practice of listening to Messenger audio chats in order to improve its AI speech recognition. Now ... The Verge reports that selected users will be asked to record short phrases via its Viewpoints market research app. If you qualify, you’ll have all the fun of saying “Hey Portal” and then the name ..."
     publishedDateTime: 2020-02-21T09:07:00Z
@@ -224,6 +209,21 @@ related:
       - url: "https://images.livemint.com/img/2020/02/21/600x338/2019-12-02T174920Z_467783753_RC25ND9X2N0L_RTRMADP_3_EU-FACEBOOK_1575316477461_1582267603516.JPG"
         width: 600
         height: 337
+  - title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
+    excerpt: "The program will be rolled out to select users with 75 or more Facebook friends Facebook has been repeatedly caught with its hand in the cookie jar when it comes to sharing user data. It was caught in August last year hiring third-party contractors for reviewing and transcribing user audio clips,"
+    publishedDateTime: 2020-02-21T09:00:00Z
+    webUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330"
+    ampWebUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/18/facebook-logos_0.jpg"
+        width: 1024
+        height: 683
   - title: "FB to pay users for recording to improve speech recognition"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. The social networking giant will pay select users to record snippets of audio through a new programme called “Pronunciations” in its Viewpoints market research app, according to The Verge. If you qualify to be part ..."
     publishedDateTime: 2020-02-21T06:23:00Z
@@ -249,6 +249,6 @@ related:
         width: 790
         height: 517
 
-secured: "HvzdU7HT69B16qzpMje/dNwUz0B01XitWuX1MgZxHffTFoql7XgKqhKlsaGG9NTB5cHN9EH1OCHdqpz3kXZiWkPHo3p7pVa/k9qaiMQOrJMU8Yst/oA6muLw5Rzhikd1wRSJAo555s1165q5JNH3t6bBHo8v9Bw6aYl/u2jXdsTyhXIZQjE+PXxQw5oQojlpD1wClqhXoglw4Cx7e9kmYpAUK/dbO6tLNtGSwu9kePoC4O6iAMVuG6jpfKS3gdv3yAF5FIxQgX3/A1Q0nMuDdybQPKAzY2OoaDE1OrL+DNNKYBnM1F/cVGDDhtP8/keGF9eFwZXETwFXgQWWgNhS0eHhOSTE8p7J4pdYDor+d31s5HSNvF5L1Yvazgp6yMyqtct5WUInQj/Y+k5O9mOachQzkSlawj7OC6KOEnw9rCFHv35Wi9i6QP/Pd5fQoqJiXP3sWpjF/FjyXnWsBTmaHscM+cyV82ouhB+8IUSJWmw=;nAUvghhcBtmUPtm2xnWUqA=="
+secured: "Yr0i9bpk6bwhHTSq+yG4vWXhO5wY8MxRRz4uXAtu2fPF7k/DzSGDm4p++PUXTmOGZBk+Z5CJswalXO0MVAqNdR6ua8K5CoXG3AS2yDg1xrM6tqG2An7YeEO4iI/WtWD2KynsQzOr1DuvqD+XAFEMlqwZmDTQva788kD5DBa4eWKnRpQg3+Cewiijbo4qekccSaBqAqC7TOsijL+3WClosgiIV3NBRb77LG/8c1mM9dyKK5YKIxELeMyfDY67wrksqqxPwiCPBjazdOwCYHgs95i3bVjPYZ3rBIS4oHEt5mHTGWK6k0JGbRhzDQByVJio;lXudNwIZcdtdod8JiZWcvg=="
 ---
 

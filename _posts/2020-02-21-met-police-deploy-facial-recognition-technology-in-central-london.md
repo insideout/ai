@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
-excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
-publishedDateTime: 2020-02-20T13:59:00Z
-webUrl: "https://www.independent.co.uk/news/uk/crime/met-police-facial-recognition-technology-city-westminster-a9346831.html"
+title: "Met police deploy facial recognition technology in central London"
+excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
+publishedDateTime: 2020-02-21T10:26:00Z
+webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
 type: article
-quality: 30
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Independent
-  domain: independent.co.uk
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
-    width: 1998
-    height: 1499
-    title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
 
 related:
   - title: "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts"
@@ -151,6 +145,19 @@ related:
       - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
         width: 1500
         height: 1000
+  - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
+    excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
+    publishedDateTime: 2020-02-20T13:59:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/crime/met-police-facial-recognition-technology-city-westminster-a9346831.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 30
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
+        width: 1998
+        height: 1499
   - title: "Watch: Edmonton police give update on facial recognition technology"
     excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
     publishedDateTime: 2020-02-20T01:38:00Z
@@ -160,16 +167,7 @@ related:
       name: Edmonton Journal
       domain: edmontonjournal.com
     quality: 19
-  - title: "Met police deploy facial recognition technology in central London"
-    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
-    publishedDateTime: 2020-02-21T10:26:00Z
-    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 19
 
-secured: "Ka16DHlj/9f8T49CBVr7Wv6R4iRhbYhFSar3WNYnHIYuBwkWRzbO9DgyIgKXEBUbJjtBXh0eUNoW4nuY5S2b4Gmx111JXQPfYw4ddKnbGp6Mzd6wGrUgOjTBGVOv/Oc+f0G6KLsXovSqaTdl77ZCXG0BSVVgQlZ954FzA08mBn5eC1TmwxjSl/M5t2pOzTfcRohFvQptdrqqTY+2VUVwKnCqbgMCcErpY/Yd+lBFDX7TjYw+1zuT3pG0eNhohA3692X1cMB1tKG6dweiDZqLYltWPMn1rvvUg4W2qXtn460OxCCHSLNCSLYB7x7FrdDu;gWnHDT5gLPZGDHFbXdzCLQ=="
+secured: "xjyUS2bqMvAopoHG+OyjOuwQgMBXBxvIodLxNL2lgah2Cg+EKaAWmCzkLn++LuipwKWN8fMRUiCpQyHADDtxrhI1z/Klffg5kLCsdybZStcKtmCqPcQGqST0PAQ3KRN8pE8L4Ts0nGLwxOSuNhD46gyN2wk3JsL04JpJMMUvu+SoaVe7FvSpLC5AMSy4na5PVD3Sad7YyZZEz2vIjVDnzSjBRh1lt2w/0Z5l/0gYP99/nVaNBnQTKF+U/Fmix1ZOsjTT76mxKBx03+YELvx1CAeuTc6p3a6qflhteqcrP6uDgvlAjoWbb1NSBZ5QQ4weB2EdGFgro8ITo7m7ig3ROIYgKwcsSQ0JcSBdqXJ9njTROohaBAw87wOqlfH8lf1XWtKz9dJYsv3vSXTTlzs6a1dJ5ob58Q7W9nTXTUNOG+V50TPxtiu6/x/JdTVALDFTyLTzZ9mXgrCuF0DMoZJ8Bv1XwrLDmEOoHDkwYtU3MfI=;IqVyNSugt7dU/uhdKR4V/A=="
 ---
 

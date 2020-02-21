@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T19:25:00Z
 webUrl: "https://science.sciencemag.org/content/367/6480/910.full"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
 
 related:
+  - title: "When bees can’t see, the humble bumble can make do with a fumble"
+    excerpt: "Results show that bumblebees are able to successfully recognise objects in both directions, sight-to-touch and touch-to-sight. Cross-modal object recognition has been shown in primates, rats, dolphins and electric fish. Like humans, bumblebees have been found to recognise objects in the dark using their sense of touch. Scientists have ..."
+    publishedDateTime: 2020-02-21T09:52:00Z
+    webUrl: "https://www.sciencefocus.com/nature/when-bees-cant-see-the-humble-bumble-can-make-do-with-a-fumble/"
+    ampWebUrl: "https://www.sciencefocus.com/nature/when-bees-cant-see-the-humble-bumble-can-make-do-with-a-fumble/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/nature/when-bees-cant-see-the-humble-bumble-can-make-do-with-a-fumble/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 44
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2020/02/embedded3450710-8170312.jpg?quality=90&resize=960,413"
+        width: 960
+        height: 413
   - title: "Bumble Bees Can Recognize Objects Across Senses"
     excerpt: "This ability to experience an object in one sensory modality and later recognize it in another is called cross-modal object recognition. It’s actually a highly complex cognitive capacity that was thought to be limited to vertebrates. Cross-modal object recognition has been demonstrated across vision and touch in humans, apes, monkeys ..."
     publishedDateTime: 2020-02-20T19:32:00Z
@@ -48,30 +63,6 @@ related:
       - url: "https://science.sciencemag.org/content/sci/367/6480/850/F1.medium.gif"
         width: 264
         height: 440
-  - title: "Bumblebees recognize objects through sight and touch, a complex cognitive feat"
-    excerpt: "While cross-modal object recognition was previously thought to be a highly complex cognitive capacity capable by few animals outside humans, the results suggest that the bumblebee - with a brain with fewer than one million neurons - can create mental ..."
-    publishedDateTime: 2020-02-20T19:17:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/aaft-bro021820.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 20
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
-  - title: "Bumblebees can experience an object using one sense and later recognize it using another"
-    excerpt: "\"Bumble bees display cross-modal object recognition between visual and tactile senses,\" Science (2020). science.sciencemag.org/cgi/doi … 1126/science.aay8064 G. von der Emde at University of Bonn in Bonn, Germany el al., \"Cross-modal sensory transfer: Bees do it,\" Science (2020). science.sciencemag.org/cgi/doi … 1126/science.aba8519"
-    publishedDateTime: 2020-02-20T19:14:00Z
-    webUrl: "https://phys.org/news/2020-02-bumblebees.html"
-    ampWebUrl: "https://phys.org/news/2020-02-bumblebees.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-bumblebees.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 15
 
 secured: "iBhO6un5jXErWNDRDAnZAcJmCVgBuOwKfqe0Ee7tXATiZDGqore81Mf6ACUigD7sQa5Rc5pLaGcQTkQ7h/GiTT2Fa1FMl7wXvw3CWxNqPB2Vo7+guJUBJIXvH5LXzc4FHU3SEV0MbJ3un6wglrulMY7KeR9ENhCkShwPi73KVzBHTB0qJhS4B13fABQxDZqRo2Ke5rcLf74LZ6b9cx3SRa102IN+Hld6qUgB0k3v351FcOzaZTSFbj639AOeJ1TltoMjIPcwvqnLZgvSn48MJKJAxXpDoXb+JG6aa/aWEA3wpbPbx9glvBvKYPdh5qLNcqtm0FEZWLsvjxMD5yzmmi8V8pFDje6D6oU0yh4ANaZT/Yfr10wS3pWvHMxJlYpYZOBrPNZRaF/PrTp3mnsBrU/Rld1Oh29EtuGZq+L5DVZG3pZoFeAJYQL5RWaFLyUwSfOAJ4ijridd6IAT/7q9nduzSGIt9vi674WRj7EvcaM=;iQOLLqTP1MgLvlxvtUrKYA=="
 ---

@@ -160,6 +160,15 @@ related:
       name: Edmonton Journal
       domain: edmontonjournal.com
     quality: 19
+  - title: "Met police deploy facial recognition technology in central London"
+    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
+    publishedDateTime: 2020-02-21T10:26:00Z
+    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 19
 
 secured: "B62iuknWkLMIBYgMzngI5nEwpBaEXzZ0eoUtsmU9HHkWGVQrXFLiORwg2cj6URIpE0pWDNqwQskZI4M3ioUnfHsX8m4b/JH+G22aKO28AI45wvky5mZOaqAL4lK1oLg8Nym03565vbhXsxUoFIbb66LH4en6cSOr6hUeEfsOFcM2wBfCCFuOCOKlbShXMSJDOvhpBKknnW0JaPJtdFEqRPgMnGRGJIspE4h/zb+t2qXl2gJkWKyigV1UdsxyCFUlbY3GrH4AwMzOanTX4B4cmiGLaUxYo/HvmRbwTfrFKg9saaeHydj7A1fUQSdz1AhV;Hl3amXh2jsYg3VPtmWyCrA=="
 ---

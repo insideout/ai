@@ -3,7 +3,7 @@ category: news
 title: "EU pitches artificial-intelligence rules"
 excerpt: "The EU's report said clear rules are needed to address \"high-risk AI systems,\" such as those in recruitment, health care, law enforcement or transport, which should be \"transparent, traceable and guarantee human oversight.\" Other artificial intelligence systems could come with labels certifying that they are in line with EU standards."
 publishedDateTime: 2020-02-20T07:48:00Z
-webUrl: "https://www.arkansasonline.com/news/2020/feb/20/eu-pitches-artificial-intelligence-rule/"
+webUrl: "https://www.arkansasonline.com/news/2020/feb/20/eu-pitches-artificial-intelligence-rule/?business"
 type: article
 quality: 24
 heat: -1
@@ -55,6 +55,6 @@ related:
         width: 1280
         height: 640
 
-secured: "p+XS6cbOh443VhZS9zXZX6t1z2KY3inb0tjpGBDZOIxEG3uDlqES3Pvb6i4slE5xA9/0PIzGBksTnpYzdNAWzKQOWY5KA+wh+SA2l3F5tMoF9LVnbEHxToWDg/5wtxWN9BUI+J7BXsD5Ie70tBlCDsVD73GBuBuVvyWCZPWMvQDawtZtfMSnRRT/zHl4A3QcMxxJiO+OUG3YJeBaA4TTuhZ6Db7mALwlt8TAKSwjdrneerhQkszkWLqWnrx4vM5QulOO068vnSqdxOyDocw3BL7gpW8dDCF+NJX5eh1+1HPF+Z4xsHzMfcYso0yQVBq8;UwCTdUHl6mG4NiTWnof7xg=="
+secured: "JF9xydCEq/6GtD5P4EFrppNilNORt5/pxwQw9xzYZD19RqDlmh9afrkm8AcsIEQQbNj5izcCJC8avm18CzgkdVTIAQ/jbmiNdz+/knbaAPqBCSsYTfR83saFkiXSQOiVizWwBBrc+ooWIg3lRXY1ro2cdrQWFeu5gc5xa7P4frPUG45ZPLhLfdVKrbSeudGeBfFxopo9zH3q086rJbODgK7Jtj1YQazrpBox2E+Lz5Px/2n2NRJxs5TQpGzGuwvOs4K1aKr+FrNswTFOn4wbAcpJc0zNKp7trKJShbgI+LMqZd8bi/Ma+mfMhqg5IRPl;HQH5ylxoLAeXRBfyLV2aNg=="
 ---
 
