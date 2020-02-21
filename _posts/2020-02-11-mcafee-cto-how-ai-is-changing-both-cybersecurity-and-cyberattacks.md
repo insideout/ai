@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-bot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/Joe%20Evangelisto%2C%20MercuryGate.jpg?itok=J1p8ijlU"
         width: 1440
         height: 500
-  - title: "Adversarial artificial intelligence winning the cyber security battle"
-    excerpt: "Artificial intelligence (AI) has come a long way since its humble beginnings. Once thought to be a technology that would struggle to find its place in the real world, it is now all around us. It’s in our phones, our cars, and our homes. It can influence the ads we see, the purchases we make and the television we watch. It’s also fast ..."
-    publishedDateTime: 2020-02-06T09:43:00Z
-    webUrl: "https://www.information-age.com/adversarial-artificial-intelligence-winning-cyber-security-battle-123487325/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/01/adversarial-artificial-intelligence-winning-cyber-security-battle.jpeg"
-        width: 1080
-        height: 608
   - title: "Biased AI Is Another Sign We Need to Solve the Cybersecurity Diversity Problem"
     excerpt: "Individuals with diverse perspectives on AI, technology, data, ethics and diversity need to collaborate on governance. Remember, “minimize” is not the same as “remove.” A risk-based framework is the only pragmatic way to put AI governance into practice. Resources should be directed toward mitigating biases in artificial intelligence ..."
     publishedDateTime: 2020-02-06T12:17:00Z

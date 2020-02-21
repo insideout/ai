@@ -2,6 +2,222 @@
   "page": 8,
   "value": [
     {
+      "path": "_posts/2020-02-19-this-phone-uses-ai-to-block-you-taking-naked-selfies.md",
+      "title": "This phone uses AI to block you taking naked selfies",
+      "excerpt": "Ever sent a nude photo to a partner before? If so, you're not the only one. Just under 50% of American adults have sent nude photos (or videos), said one 2014 study, while a survey by Cosmo found that 89% of millennial women had taken naked photos.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
+      "publishedDateTime": "2020-02-18T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/QiliQ1lVT-fjyYxebjYV2stM8r8=/756x567/2020/02/19/8ff3f60d-9d84-46e2-a6b1-ef42e5874c1c/screen-shot-2020-02-19-at-2-22-28-pm.png",
+          "width": 756,
+          "height": 567,
+          "title": "This phone uses AI to block you taking naked selfies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-this-smartphone-sensor-can-detect-live-skin-to-halt-facial-login-spoofing.md",
+      "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
+      "excerpt": "Apple’s Face ID is the gold standard in facial recognition tech, but it’s not one hundred percent foolproof. Highly detailed 3D printed masks can trick it. Less sophisticated 2D sensors, still found in many smartphones, can be tricked with a photo. The next generation of facial recognition technology is on the horizon, however, thanks to 3D ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
+      "publishedDateTime": "2020-02-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/trinamix-live-skin-demo-8-of-7-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-this-startup-is-using-ai-to-transform-industrial-quality-inspections.md",
+      "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
+      "excerpt": "Neurala's Brain Builder platform leverages artificial intelligence to make revolutionary leaps in machine vision industrial inspection technology.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/",
+      "ampWebUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
+      "publishedDateTime": "2020-02-19T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c97476895e0000683937c%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters.md",
+      "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
+      "excerpt": "Can we get AI talent to come to our shores, not just for education, but for work? Can we get AI talent to work in national security in a way that's consistent with their principles? Can we get a federal government ... the first thing we need to say, I think there's a lot of hype in Silicon Valley around AI and cyber on defense.",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
+      "publishedDateTime": "2020-02-19T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/19/638f33e3-728d-4dc0-a92f-16a59234d241/thumbnail/1200x630/ec4e33af4cbd2e79aee757eb4fe5d69f/screen-shot-2020-02-18-at-7-49-39-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-ucla-abandons-plans-to-use-facial-recognition-after-backlash.md",
+      "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
+      "excerpt": "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database.",
+      "heat": 381,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*",
+          "width": 1200,
+          "height": 674,
+          "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-19-what-explainable-ai-really-means-and-what-it-means-for-your-business-vb-live.md",
       "title": "What explainable AI really means and what it means for your business (VB Live)",
       "excerpt": "White-box AI is getting heaps of attention, in part because it brings business value to customers and companies alike. Learn why businesses are moving away from black box systems to more explainable AI — and what it really means to be explainable — when you catch up on this VB Live event. Access free on demand right here. White box and ...",
@@ -904,7 +1120,7 @@
       "heat": 176,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts",
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/",
       "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
       "publishedDateTime": "2020-02-20T06:49:00-08:00",
@@ -1028,7 +1244,7 @@
       "path": "_posts/2020-02-20-microsoft-threat-protection-and-insider-risk-management-hit-general-availability.md",
       "title": "Microsoft Threat Protection and Insider Risk Management hit general availability",
       "excerpt": "The biggest announcement is arguably the general availability of Microsoft Threat Protection, which uses AI to offer a correlated view of threats and automation to address them. Other tidbits worth touching on include news from Microsoft Defender ATP (Android and iOS support is coming), Insider Risk Management, and Azure Sentinel. Microsoft ...",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/20/microsoft-threat-protection-insider-risk-management-general-availability/",
@@ -1889,213 +2105,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-01-12-serbian-parliament-apologizes-for-1995-srebrenica-bosnia-massacre-president-boris-tadic-says-it-strengthens-links-to-eu.md",
-      "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
-      "excerpt": "Rajko Kuzmanovic, the president of the Bosnian Serb ministate, said the declaration was \"unacceptable and counterproductive.\" Associated Press writers Jovana Gec in Belgrade, Irena Gajic in Banja Luka, Bosnia-Herzegovina contributed to this report.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cleveland.com/world/2010/03/serbian_parliament_apologizes.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-01-12T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Plain Dealer",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cleveland.com/resizer/EMGywyN0Qp1ASZhljB-bu95oGhQ=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.cleveland.com/home/cleve-media/width2048/img/world_impact/photo/serbia-boris-tadic-massacre-033110jpg-af71bef030ec35fb.jpg",
-          "width": 1280,
-          "height": 860,
-          "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-09-30-face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment.md",
-      "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
-      "excerpt": "Many face detectors exist in the literature each having its advantages and disadvantages. Here we used the “Viola & Jones ... recognition task easier. For example we could use a 2D alignment ...",
-      "heat": 152,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@appstud/face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment-4bdc38d50dd1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-09-30T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/640/1*Y5Z8dUctqXo2LnLmxkZlzA.jpeg",
-          "width": 640,
-          "height": 480,
-          "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-16-waymo-acquires-ai-startup-latent-logic.md",
-      "title": "Waymo acquires AI startup Latent Logic",
-      "excerpt": "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "ampWebUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "cdnAmpWebUrl": "https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "publishedDateTime": "2019-12-16T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leftlane",
-        "domain": "leftlanenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://leftlanenews.com/images/content/2019-08/WaymoIPACE-city2_700.jpg",
-          "width": 700,
-          "height": 449,
-          "title": "Waymo acquires AI startup Latent Logic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-17-amazon-releases-a-new-tool-to-improve-machine-learning-processes.md",
-      "title": "Amazon Releases A New Tool To Improve Machine Learning Processes",
-      "excerpt": "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/",
-      "publishedDateTime": "2019-12-17T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df8a126e961e10007393d3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453",
-          "width": 1199,
-          "height": 675,
-          "title": "Amazon Releases A New Tool To Improve Machine Learning Processes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-18-how-the-driverless-vehicles-dilemma-highlights-wider-system-safety-issues.md",
-      "title": "How the driverless vehicles dilemma highlights wider system safety issues",
-      "excerpt": "Artificial intelligence (AI) is already playing a significant part ... This question of bias is a crucial one when considering system safety issues. Our theoretical driverless vehicle needs to know how to value individuals in its “save or sacrifice ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
-      "publishedDateTime": "2019-12-17T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1576169739/itpro/2019/12/AI_Ethics_good_vs_bad.jpg",
-          "width": 6222,
-          "height": 3500,
-          "title": "How the driverless vehicles dilemma highlights wider system safety issues",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

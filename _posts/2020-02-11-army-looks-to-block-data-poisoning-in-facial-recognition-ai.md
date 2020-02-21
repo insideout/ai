@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T17:17:00Z
 webUrl: "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/"
 type: article
 quality: 154
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -121,19 +121,6 @@ related:
       - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Facial recognition provides big boost in finding lost pets"
-    excerpt: "Hardin County Animal Care and Control is taking advantage of a new tool to help locate and identify lost dogs and cats. The shelter recently announced its partnership with Finding Rover, a company that uses facial recognition imaging systems. According to ..."
-    publishedDateTime: 2020-02-06T09:55:00Z
-    webUrl: "https://www.thenewsenterprise.com/news/local/facial-recognition-provides-big-boost-in-finding-lost-pets/article_97fb94a1-4134-5020-b0d9-9931d297c14b.html"
-    type: article
-    provider:
-      name: The News-Enterprise
-      domain: thenewsenterprise.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/assets/v3/editorial/3/1a/31a4f67f-c4b3-5f0e-9d69-8a954c0d14b6/5e3ba2ce8fd0d.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
   - title: "Despite public concerns, facial recognition gets traction in Congress"
     excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs ..."
     publishedDateTime: 2020-02-09T00:00:00Z

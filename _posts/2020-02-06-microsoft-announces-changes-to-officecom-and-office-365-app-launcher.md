@@ -8,7 +8,7 @@ ampWebUrl: "https://mspoweruser.com/microsoft-announces-changes-to-office-com-an
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-announces-changes-to-office-com-and-office-365-app-launcher/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1026
     height: 564
     title: "Microsoft announces changes to Office.com and Office 365 app launcher"
-
-related:
-  - title: "Realme announces launch of realme C3; prices start at ₹6,999"
-    excerpt: "The phone supports 1080p video shooting and slow-motion videos at 120 fps. On the front, the C3 has a 5MP selfie camera with features such as AI beautification function, HDR mode, portrait mode and a Panoselfie feature. The body has an optical texture ..."
-    publishedDateTime: 2020-02-06T09:59:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/mobiles-tablets/realme-announces-launch-of-realme-c3-prices-start-at6999/article30750424.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/mobiles-tablets/realme-announces-launch-of-realme-c3-prices-start-at6999/article30750424.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/mobiles-tablets/realme-announces-launch-of-realme-c3-prices-start-at6999/article30750424.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 42
-    images:
-      - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
 
 secured: "xBveFxGckLOcC56K2phsBmQbiGe57b2bWA1/1fODw+QFc3+r/XxU9OTU3T7KnP0JUb2Rmam753IBv1wHQxjjMBt6OUy+9hN5JnNs9x2LJVSJsQEVrN/SCu2jiEB1urD3jBFrd8DlJhEfATaNxOAFhUjYkNDnwsihSpjV4mFk1Tv0MgdSZ/EW89d0ia6PGGW/ZIKZBVzsMWDB1NnF3E56PF1lT3HueCHzppfe0VOgiSzKvVXZrwcdyY/8Im0BC3vM8fgmbtVb1J3ETYos+zekCQq1xO4I8kEoMN/PA9PzT8Ffkn7ABqTqWIuY6jbJtoltg5otLDPfcWruSJvCT5ImxmQ6+npGPJOv/IXwG09GQ+4hD0AnWIMwyzCEeBQTLxMTYnnlMORazWm5Ot+Iu4YUzerk3K1XJXDtwtToym7WB/YuMeMXe2RJw+l13FOMNF4qTJKm9snqLkyTkOq5KNUkkKYlZ2pG92V+EKZ3iNMN88U=;jJvPwzVxt3FOMP8EntOM2w=="
 ---

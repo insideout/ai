@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T18:22:09Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 240
+heat: 230
 published: true
 
 provider:
@@ -102,17 +102,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
-  - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
-    excerpt: "Based on actual ROI findings collected across over 100 successful Yseop projects, scaling from single use case applications to enterprise-wide deployments could translate into billions in ... The platform combines different AI technologies including machine learning, NLG and natural language understanding allowing users to customize reporting ..."
-    publishedDateTime: 2020-02-06T09:26:00Z
-    webUrl: "https://venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/"
-    ampWebUrl: "https://venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "Incorrect Pronunciation Detection in eLearning using Deep Learning"
     excerpt: "At a high level, the idea is to monitor pronunciation of end-user, perform an analysis on it and feed the analysis back to them so that they can work on it to improve and also record it for deep learning. This can be achieved with an add-on or separate system that enables students/user to improve their pronunciation skills, not limited to ..."
     publishedDateTime: 2020-02-13T19:57:00Z

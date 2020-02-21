@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T06:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
 type: article
 quality: 85
-heat: 245
+heat: 235
 published: true
 
 provider:
@@ -42,19 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-    publishedDateTime: 2020-02-06T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026"
     excerpt: "The global Machine Learning Market will increase by a CAGR of approximately 40.1% from 2019 to 2026 and is expected to achieve a market value above US$ 76.8 Billion in 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,"
     publishedDateTime: 2020-02-14T08:13:00Z
@@ -77,6 +64,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market Worth $81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-05T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -144,15 +144,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200210005115/en/603399/23/CH_red_blue_logo_%281%29.jpg"
         width: 1200
         height: 576
-  - title: "Image Recognition Market Worth $81.88 billion by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-02-05T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
     excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
     publishedDateTime: 2020-02-12T19:30:00Z

@@ -24,54 +24,19 @@ images:
     title: "Global Artificial Intelligence (AI) in Social Media Market 2019-2023 | Growing Demand for Smart Homes to Boost Growth | Technavio"
 
 related:
-  - title: "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025"
-    excerpt: "The AI Market in Social Media valued at USD 815.33 million in 2019 and is expected to reach USD 3,714.89 million by 2025, recording a CAGR of 28.77%, during the forecast period of 2020-2025. Social media has become one of the primary sources of customer intelligence data."
-    publishedDateTime: 2020-02-06T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025-2020-02-06"
+  - title: "Global Artificial Intelligence (AI) Market 2019-2023 | 33% CAGR Projection Through 2023 | Technavio"
+    excerpt: "This is encouraging public cloud players to offer a wide range of cloud-based AI products and services. For instance, in February 2019, Microsoft launched the Azure Internet of Things Edge Runtime, which allows developers to edit and customize applications on edge. “Alternative solutions to GPU for accelerating AI workloads and the increased ..."
+    publishedDateTime: 2020-02-12T20:27:00Z
+    webUrl: "https://apnews.com/Business Wire/966e8d618f3d4c40bab619d29a2f82ee"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
-    excerpt: "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-08T04:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Military Market Latest Advancement And New Upcoming Trends To 2029"
-    excerpt: "A recent market research analysis titled, Artificial Intelligence in Military Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Military market covering industry surroundings,"
-    publishedDateTime: 2020-02-10T09:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-latest-advancement-and-new-upcoming-trends-to-2029-2020-02-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Accounting Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2024"
-    excerpt: "Get Free Sample Research Report of Artificial Intelligence in Accounting Market spread across 146 pages, profiling 23 companies and supported with 51 tables and 40 figures is now available at https://www.reportsnreports.com/contacts/requestsample.aspx?name=2443587. Key Players- Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage ..."
-    publishedDateTime: 2020-02-11T02:47:00Z
-    webUrl: "https://www.openpr.com/news/1926330/artificial-intelligence-in-accounting-market-worldwide"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "q9nVcjW9ImHDUg544Ks2nxvduy1jEOAFTDN9cz+H0im54X9Q+vhURkOvsTNIR/kJ2LmIM67CrX81pycb4uXkfJCwPo9Kqy7xSIE8xCQFEveqeRRsqb9oSAB5FxOhTMyhgO6F5knBGfcXNX6Mu+XAdTwhxO5OiCxTjxOA9CFmVyV+alC+2zp/nNfHfi41b9X1TXzwrcD+2KFxE0DLGmzmkZXCo5NAzKrvv5wP19juUvDchSrbsT6ri03rWZzTLBHWp5MlveE1eaw8lFvjYNlKYHdMwrFUzg3YNf3ep9kFqINg3YAGlXqMA5i5lBAEI6U4i4rLiiOxv7FRRermXVpqOfN3KAzO/amZ+6T79JfFcA/382avhMiHgDZY0jKqRZTzRD1w3r3jzR9Nt8+QBhxbHTEZFMj+KAa+5PjAlxKonzi1w6hkKiXTgVgnPw303HzpruWtZIrr5easnDK1quvXlelC09Cr1XLCOcEr5J0fOjI=;aGjz+LCx37+0ybAK1RFBHQ=="
 ---

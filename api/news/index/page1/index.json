@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_posts/2020-02-06-activists-launch-new-effort-to-kick-facial-recognition-out-of-schools.md",
+      "title": "Activists launch new effort to kick facial recognition out of schools",
+      "excerpt": "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailydot.com/layer8/facial-recognition-schools-petition/",
+      "ampWebUrl": "https://www.dailydot.com/layer8/facial-recognition-schools-petition/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-schools-petition/?amp",
+      "publishedDateTime": "2020-02-06T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Activists launch new effort to kick facial recognition out of schools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-06-ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine.md",
       "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
       "excerpt": "Once that was figured out, doctors quickly brought him back around, and he was fine. But what if, through groundbreaking mixtures of compute, database, and AI technologies, a quick round of analyses on his blood and genome could have revealed his potential for such a reaction before it became a critical issue? What if it were possible to devise ...",
@@ -412,7 +449,7 @@
       "path": "_posts/2020-02-06-facebook-and-venmo-demand-clearview-ai-stops-scraping-their-data.md",
       "title": "Facebook and Venmo demand Clearview AI stops scraping their data",
       "excerpt": "The facial recognition startup is using photos from the internet to build its database. Following Google and Twitter, Facebook has become the latest company to take legal action against controversial facial recognition startup Clearview AI. According to Buzzfeed News, the company sent a cease-and-desist letter to Clearview sometime this week ...",
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
@@ -783,7 +820,7 @@
       "path": "_posts/2020-02-06-top-homeland-security-democrat-voices-opposition-to-facial-recognition-moratorium.md",
       "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
       "excerpt": "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr",
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition",
@@ -1466,7 +1503,7 @@
       "path": "_posts/2020-02-07-facial-recognition-market-present-scenario-and-growth-analysis-till-2026.md",
       "title": "Facial Recognition Market Present Scenario and Growth Analysis till 2026",
       "excerpt": "QY Market Research Store has added the report titled Global Facial Recognition Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,",
-      "heat": 208,
+      "heat": 198,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-present-scenario-and-growth-analysis-till-2026-2020-02-07",
@@ -1713,6 +1750,43 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-music-by-numbers-robot-conducts-human-orchestra.md",
+      "title": "Music by numbers? Robot conducts human orchestra",
+      "excerpt": "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. “This work is a metaphor of the relations between humans and technology. Sometimes the android will get ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://timesofindia.indiatimes.com/life-style/spotlight/music-by-numbers-robot-conducts-human-orchestra/articleshow/74007683.cms",
+      "ampWebUrl": "https://m.timesofindia.com/life-style/spotlight/music-by-numbers-robot-conducts-human-orchestra/amp_articleshow/74007683.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/life-style/spotlight/music-by-numbers-robot-conducts-human-orchestra/amp_articleshow/74007683.cms",
+      "publishedDateTime": "2020-02-07T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-74007661/74007661.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Music by numbers? Robot conducts human orchestra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -2019,95 +2093,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-this-girls-only-app-uses-ai-to-screen-a-users-gender-what-could-go-wrong.md",
-      "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
-      "excerpt": "But in an era of ever-expanding surveillance, with companies like Clearview AI identifying people’s faces without their knowledge or consent, an app built on dubious biometric screening and extensive data collection should be cause for concern. While Giggle’s website says the app is “designed to give girls choice, control and connection ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "publishedDateTime": "2020-02-07T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/KylgpuoqoH4U00P5Fk8WjdgX0uE=/0x0:904x683/1400x933/filters:focal(380x270:524x414):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66274336/giggle_girl_banner_1.0.png",
-          "width": 904,
-          "height": 683,
-          "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-weed-mapping-robot-moves-from-prototype-to-fleet-manufacture.md",
-      "title": "Weed-mapping robot moves from prototype to fleet manufacture",
-      "excerpt": "Small Robot Company (SRC), the UK-based agri-tech startup, has announced the next stage in the development of its crop-monitoring ... feed/weed and seed arable crops, directed by an Ubuntu-based AI system called Wilma. Tom creates high-resolution 'per-plant' crop maps, which will enable Dick and Harry to carry out precision husbandry with ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/weed-mapping-robot-moves-from-prototype-to-fleet-manufacture/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weed-mapping-robot-moves-from-prototype-to-fleet-manufacture/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weed-mapping-robot-moves-from-prototype-to-fleet-manufacture/",
-      "publishedDateTime": "2020-02-07T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/07/742eee96-17ca-4206-9b0b-0ad038337ee0/tom-tractor.jpg",
-          "width": 770,
-          "height": 614,
-          "title": "Weed-mapping robot moves from prototype to fleet manufacture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

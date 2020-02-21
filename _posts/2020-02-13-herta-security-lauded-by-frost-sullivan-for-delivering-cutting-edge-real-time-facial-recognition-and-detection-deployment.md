@@ -54,32 +54,15 @@ related:
       - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
         width: 1200
         height: 675
-  - title: "Facial Recognition Technology Uses at Homeland Security Department"
-    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
-    publishedDateTime: 2020-02-07T12:41:00Z
-    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+  - title: "Will we see operators using facial recognition software soon?"
+    excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
+    publishedDateTime: 2020-02-06T15:53:00Z
+    webUrl: "https://www.racingpost.com/news/ice-2020/will-we-see-operators-using-facial-recognition-software-soon/421688"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 39
-    images:
-      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-        width: 1200
-        height: 630
-  - title: "Facial-recognition tech questioned, defended at House committee hearing"
-    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
-    publishedDateTime: 2020-02-07T20:31:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
-        width: 700
-        height: 379
+      name: Racing Post
+      domain: racingpost.com
+    quality: 19
   - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
     excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
     publishedDateTime: 2020-02-12T15:40:00Z

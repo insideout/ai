@@ -2,6 +2,169 @@
   "page": 3,
   "value": [
     {
+      "path": "_posts/2020-02-10-machine-learning-the-tool-of-the-century.md",
+      "title": "Machine Learning: The Tool of the Century",
+      "excerpt": "There are 3 main types of artificial intelligence: narrow, general, and super. We have yet to achieve super, or even general intelligence. Artificial narrow intelligence (ANI) includes machine learning, which is being used to make self-driving cars, show you advertisements, and improve disease diagnosis. Machine learning is the field in which ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/machine-learning-the-tool-of-the-century-fe5a20309920",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*3z-djqopm88GYDz2OB3qDg.png",
+          "width": 1200,
+          "height": 672,
+          "title": "Machine Learning: The Tool of the Century",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models.md",
+      "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+      "excerpt": "Microsoft Research today announced DeepSpeed, a new deep learning optimization library that can train massive 100-billion-parameter models. In AI, you need to have larger natural language models for better accuracy. But training larger natural language models is time consuming and the costs associated with it are very high. Microsoft claims ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/",
+      "ampWebUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "publishedDateTime": "2020-02-10T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2020/02/Microsoft-Deepspeed-deeplearning.jpg",
+          "width": 1305,
+          "height": 717,
+          "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-new-music-label-says-it-can-use-ai-to-find-the-next-big-artist.md",
+      "title": "New music label says it can use AI to find the next big artist",
+      "excerpt": "We've seen artists like Björk and Arca use the technology to create new musical arrangements. But a new label called Snafu Records thinks it can also use AI to discover the next big artist long before even the most music-savvy talent scouts find them.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/10/snafu-records-ai-music-label/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/10/snafu-records-ai-music-label/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/snafu-records-ai-music-label/",
+      "publishedDateTime": "2020-02-10T11:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-07%252Fc02a1db0-9cb5-11e9-bebf-bcf6f08c5d47%26client%3Da1acac3e1b3290917d92%26signature%3D924400140c8eaa0af3df0a205e90164761ac8073&client=amp-blogside-v2&signature=3fbcf3d3d89d1169c2eb9053be70b7d99112b1dc",
+          "width": 600,
+          "height": 350,
+          "title": "New music label says it can use AI to find the next big artist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-notes-from-a-former-guitar-zero.md",
+      "title": "Notes From A Former 'Guitar Zero'",
+      "excerpt": "NYU psychology professor Gary Marcus took up guitar at ... and she was brilliant. And a lot of it was just about absolutely perfect technique. You know, every finger movement was just right.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.npr.org/2012/02/10/146697656/notes-from-a-former-guitar-zero",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "Notes From A Former 'Guitar Zero'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-worse-for-workers.md",
       "title": "Prepare For ‘Robomageddon’: New Study Says AI Makes Jobs Easier, But Worse For Workers",
       "excerpt": "Are you prepared for \"Robomageddon\"? As robotics and advanced automation continue to spread throughout the American workplace, a new study shows that attitudes are a mixed bag.",
@@ -1046,7 +1209,7 @@
       "path": "_posts/2020-02-11-army-looks-to-block-data-poisoning-in-facial-recognition-ai.md",
       "title": "Army looks to block data ‘poisoning’ in facial recognition, AI",
       "excerpt": "The Army has many data problems. But when it comes to the data that underlies facial recognition, one sticks out: Enemies want to poison the well. Adversaries are becoming more sophisticated at providing “poisoned,” or subtly altered, data that will mistrain artificial intelligence and machine learning algorithms. To try and safeguard ...",
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/",
@@ -1410,7 +1573,7 @@
       "path": "_posts/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
       "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
       "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
-      "heat": 245,
+      "heat": 235,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
@@ -1728,7 +1891,7 @@
       "path": "_posts/2020-02-11-mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks.md",
       "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
       "excerpt": "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ...",
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/",
@@ -1981,177 +2144,6 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.md",
-      "title": "NBA using artificial intelligence for highlight clips this All-Star game",
-      "excerpt": "The NBA says they are using machine learning to create more highlights than ever before this All-Star weekend.",
-      "heat": 186,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
-      "publishedDateTime": "2020-02-11T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106384981-1581436693869gettyimages-1196398279.jpeg?v=1581436778",
-          "width": 5231,
-          "height": 3487,
-          "title": "NBA using artificial intelligence for highlight clips this All-Star game",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-robot-with-coronavirus-advice-hits-times-square.md",
-      "title": "Robot with coronavirus advice hits Times Square",
-      "excerpt": "Worried about the spread of coronavirus? A five-foot tall (1.5 meter) Promobot might have your answer. The robot with a friendly face rolled into Times Square on Monday to help provide information about the new virus.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "publishedDateTime": "2020-02-11T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106384789-1581430324237gettyimages-1166054633.jpeg?v=1581430362",
-          "width": 5042,
-          "height": 3456,
-          "title": "Robot with coronavirus advice hits Times Square",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-samsung-unveils-galaxy-s20-5g-lineup-with-new-camera-tech-ai-security-and-more-starting-at-1000.md",
-      "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
-      "excerpt": "The hybrid zoom's AI uses multi-image processing to reduce resolution loss at higher magnification ... the Galaxy S20 is protected by Knox—the industry-leading mobile security platform that protects the device from the chip level through to the software level,” says Samsung. The company also says that the S20 has a new “secure processor ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
-      "publishedDateTime": "2020-02-11T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-11-ts3_thumbs-833.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses.md",
-      "title": "Seattle University launches public course to bring the ethics of artificial intelligence to the masses",
-      "excerpt": "The future of artificial intelligence (AI) is here: self-driving cars, grocery-delivering drones and voice assistants like Alexa that control more and more of our lives, from the locks on our front doors to the temperatures of our homes. But as AI permeates into everyday life, what about the ethics and morality of the systems? For example ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1",
-      "publishedDateTime": "2020-02-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg",
-          "width": 780,
-          "height": 501,
-          "title": "Seattle University launches public course to bring the ethics of artificial intelligence to the masses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
         "AI Ethics"
       ]
     }

@@ -18,58 +18,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025"
-    excerpt: "The AI Market in Social Media valued at USD 815.33 million in 2019 and is expected to reach USD 3,714.89 million by 2025, recording a CAGR of 28.77%, during the forecast period of 2020-2025. Social media has become one of the primary sources of customer intelligence data."
-    publishedDateTime: 2020-02-06T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025-2020-02-06"
+  - title: "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025"
+    excerpt: "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
+    publishedDateTime: 2020-02-17T10:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
-    excerpt: "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-08T04:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Military Market Latest Advancement And New Upcoming Trends To 2029"
-    excerpt: "A recent market research analysis titled, Artificial Intelligence in Military Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Military market covering industry surroundings,"
-    publishedDateTime: 2020-02-10T09:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-latest-advancement-and-new-upcoming-trends-to-2029-2020-02-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence (AI) in Social Media Market 2019-2023 | Growing Demand for Smart Homes to Boost Growth | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The artificial intelligence (AI) in social media market size is poised to grow by USD 1.67 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The process of deploying and maintaining reliable data interfaces is difficult, owing to the complexity ..."
-    publishedDateTime: 2020-02-07T01:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200206005722/en/Global-Artificial-Intelligence-AI-Social-Media-Market"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
-        width: 1200
-        height: 627
 
 secured: "lDVzZNsscDjz06IVloe0FV9yI7VPH7Ypc/bsHMW7IX4FyY7kYP8vVa+23k8YOw61LjKrPaQBUXLSXSUk5Hs8PMKXtK8YRlvmpmWMfWjuj0DwlR0apUVABi/6nJ2ZrbXmblJ4JRs0pBMbvKK9iIA9oUtZ1xX7i9zvR0oTw4nmbUeIGOpa6XZHAhdVHUWTnmjH2X1RTFWU1+sT07JyufEKcz521uJsb2nM/iKt2CVTyLIywrkeudVEzx33yL4iKdK7+dk4t/svOXmrCiQ6XdiVoD93annHEtRRan3AwYYZtlNbcm5ZFfm38zro5dhzIjV3;402+wG0KLg5ymOWM4FcS0w=="
 ---

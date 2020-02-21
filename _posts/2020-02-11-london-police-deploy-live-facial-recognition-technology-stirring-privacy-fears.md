@@ -24,21 +24,6 @@ images:
     title: "London police deploy live facial recognition technology, stirring privacy fears"
 
 related:
-  - title: "Met Police try to calm tensions as live facial recognition hits London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
   - title: "Raleigh police abruptly end use of controversial facial recognition tech"
     excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
     publishedDateTime: 2020-02-11T18:11:00Z
@@ -54,47 +39,34 @@ related:
       - url: "https://wwwcache.wral.com/asset/news/local/2020/02/10/18945112/clearview_cap-DMID1-5lstc1qbi-1920x1080.jpg"
         width: 1920
         height: 1080
-  - title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
-    excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
-    publishedDateTime: 2020-02-18T17:33:00Z
-    webUrl: "https://www.biometricupdate.com/202002/vuzix-integrates-tensormarks-ai-computer-vision-tech-for-facial-recognition-in-ar-smart-glasses"
+  - title: "Police use of facial recognition ‘unjustifiable’, says Scottish Justice Committee"
+    excerpt: "There is no “justifiable basis” for Police Scotland to invest in and use live facial recognition (LFR) technology, a Scottish parliamentary committee has ruled, citing human rights and data protection concerns. The Scottish Parliament’s Justice Sub-Committee on Policing said in a report published today (11 February) that Police Scotland ..."
+    publishedDateTime: 2020-02-11T00:43:00Z
+    webUrl: "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee"
+    ampWebUrl: "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 56
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
-        width: 660
-        height: 300
-  - title: "WeWork wants facial recognition biometrics class action dismissed"
-    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
-    publishedDateTime: 2020-02-07T03:36:00Z
-    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
+        width: 1200
+        height: 400
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
     type: article
     provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
+      name: C-SPAN
+      domain: c-span.org
     quality: 39
     images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
-        width: 1280
-        height: 640
-  - title: "Editorial: Facial-recognition software takes personal invasion into a new dimension"
-    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
-    publishedDateTime: 2020-02-16T22:00:00Z
-    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.html"
-    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/8b/d8bc824d-a430-5a4c-a7d5-3c24d9712733/5e46e82107203.image.jpg"
-        width: 436
-        height: 512
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
   - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
     excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
     publishedDateTime: 2020-02-11T05:28:00Z
@@ -108,6 +80,19 @@ related:
       - url: "https://www.heraldscotland.com/resources/images/10955630/"
         width: 800
         height: 600
+  - title: "Facial-recognition tech questioned, defended at House committee hearing"
+    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
+    publishedDateTime: 2020-02-07T20:31:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
+        width: 700
+        height: 379
   - title: "Biometric facial recognition use by police draws scrutiny but helps rescue thousands of children in India"
     excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
     publishedDateTime: 2020-02-06T22:09:00Z
@@ -170,15 +155,6 @@ related:
       name: LinkedIn
       domain: linkedin.com
     quality: 16
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
 
 secured: "Q4QOanbYX46Wh9km7VXTVEdqYVybm9oqPA9RFqSU5mJQhOS6W8uRJgwwTQhDD6KBsbihWRZ80MZvyN+/Peri66qeHxU4xYeaje5SzZhzA3z8QIaDPbv2Jfe3/94ZD2T8OJ0M1jBDDri1GkjvcXdcGI4x1OVnmbTxvYCG5EMCACzNL1Jvk9BLtJIS44C6mYIP5y9ZI9CyNoY9pMZ/3p3RHbiNosGhVoguEnzswZp9JI48WNS9OpFKUuhO0EIQLqG7yHOJF0YHNEcjYvU2uxMUSfwDBTMsMLzxcwEP7hO9iBB95pPYoZqyAHaQtFZAEPhmgkKyaN2KbF/keypQkCuANXM/lvIhP33wFTMo1zIWl/EavEv66MDrlEqu9ltA3bMQ2hH05PtfnL4/53bOdXVGh/ErzLhk2lJfkcSwAxhBalrE7KfC7+5RxJBAljAnGSuEV6Wp0K1qWqHPzF0crfaJkTj6Xuiplkgc+sZ7wFcFxJk=;Wg3Ub7XGKLePL4EDwqAZPg=="
 ---

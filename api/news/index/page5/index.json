@@ -2,6 +2,178 @@
   "page": 5,
   "value": [
     {
+      "path": "_posts/2020-02-13-itsm-what-is-demanded-for-an-ai-service-desk.md",
+      "title": "ITSM+: What Is Demanded For An AI Service Desk",
+      "excerpt": "Any enterprise can embrace the ITSM+ transformational journey irrespective of their size, level of deployed automation and personnel on staff.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/amp/",
+      "publishedDateTime": "2020-02-13T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152157066/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "ITSM+: What Is Demanded For An AI Service Desk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-reviewing-ai-powered-contract-management-software-evisort.md",
+      "title": "Reviewing AI Powered Contract Management Software Evisort",
+      "excerpt": "This flexibility means the company has the potential to work with businesses outside of the legal industry which is new for an AI document review organization. Evisort can deal with contracts across multiple languages better than its competition by using machine learning support translation services. Machine learning allows the software to ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html",
+      "ampWebUrl": "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp",
+      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp",
+      "publishedDateTime": "2020-02-12T19:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techworm.net",
+        "domain": "techworm.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.techworm.net/wp-content/uploads/2020/02/evisort.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Reviewing AI Powered Contract Management Software Evisort",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-training.md",
+      "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
+      "excerpt": "The oil company is expanding an online program that teaches its employees artificial-intelligence skills, part of an effort to cut costs, improve business processes and generate revenue.",
+      "heat": 208,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "publishedDateTime": "2020-02-13T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-154203/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-sony-envisions-an-ai-fueled-world-from-kitchen-bots-to-games.md",
+      "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
+      "excerpt": "“I told him it started five minutes ago!” he says with a laugh. Such was the state of AI and robotics at the time. It took a machine minutes to interpret its situation and work out what to do next. But much has changed, with AI increasingly helping machines, from self-driving cars to surveillance cameras, perceive and behave in clever way",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/",
+      "ampWebUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
+      "publishedDateTime": "2020-02-13T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e44656433fa920008cbf86d/master/pass/Biz-sonydogs-1145503656.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-13-stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all.md",
       "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
       "excerpt": "Also: AI on steroids: Much bigger neural nets to come with new hardware ... \"I have a heard time believing that my laptop has subjective experience,\" he said, even though it gets more intelligent all the time with faster chips and better software. Still, one has to \"concede it's possible that suitably programmed computers could have ...",
@@ -1788,6 +1960,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-17-artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025.md",
+      "title": "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025",
+      "excerpt": "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-17-artificial-intelligence-program-aims-to-help-doctors-more-accurately-diagnose-breast-cancer.md",
       "title": "Artificial intelligence program aims to help doctors more accurately diagnose breast cancer",
       "excerpt": "A team at Google has developed an artificial intelligence program aimed at helping doctors accurately detect cancer in mammograms. Thousands of women receive a false negative on their breast cancer tests each year, while one in 10 receive a false positive. Shravya Shetty, who heads the Google team developing the system, told CBS News' Jamie ...",
@@ -1848,214 +2064,6 @@
           "width": 600,
           "height": 390,
           "title": "Artificial Intelligence training for technical students in Odisha soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
-      "title": "Automated facial recognition breaches GDPR, says EU digital chief",
-      "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
-      "heat": 429,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
-      "publishedDateTime": "2020-02-17T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-14-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Automated facial recognition breaches GDPR, says EU digital chief",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-aws-assists-premier-league-analytics.md",
-      "title": "AWS assists Premier League analytics",
-      "excerpt": "The Premier League has chosen Amazon Web Services (AWS) as its preferred Cloud, machine learning (ML) and artificial intelligence (AI) provider. The league’s analytics company Second Spectrum uses AWS to help deliver analytics, visualisations and searchable video clips during games. Second Spectrum applies ML and computer vision techniques to ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics",
-      "ampWebUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "publishedDateTime": "2020-02-17T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/05/premier-league.jpg",
-          "width": 590,
-          "height": 350,
-          "title": "AWS assists Premier League analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-bridging-the-gender-gap-in-ai.md",
-      "title": "Bridging The Gender Gap In AI",
-      "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
-      "publishedDateTime": "2020-02-17T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a973bf133f40006290dbd%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Bridging The Gender Gap In AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions.md",
-      "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
-      "excerpt": "Costa Group, one of Australia's largest horticulturist companies, has begun rolling out an artificial intelligence (AI) system to help the company better understand and manage the quantity and quality of its berry crops. The Sensing+ system, developed by Sydney-based company, The Yield, has been designed to measure 14 variables of a typical ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
-      "publishedDateTime": "2020-02-16T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/17/78ce6dfc-31b4-4817-ae47-d1b21601de2e/ty-node-in-costa-polytunnel-1.png",
-          "width": 1156,
-          "height": 867,
-          "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-cyber-security-market-to-register-an-impressive-cagr-of-126-till-2027-says-fortune-business-insights.md",
-      "title": "Cyber Security Market to Register an Impressive CAGR of 12.6% till 2027, Says Fortune Business Insights",
-      "excerpt": "/PRNewswire/ -- Rapidly rising e-commerce activities will be the key driver for the global cyber security market growth during the forecast period.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/cyber-security-market-to-register-an-impressive-cagr-of-12-6-till-2027--says-fortune-business-insights-301005924.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1091206/FBI_Cyber_Security_Market.jpg?p=facebook",
-          "width": 999,
-          "height": 524,
-          "title": "Cyber Security Market to Register an Impressive CAGR of 12.6% till 2027, Says Fortune Business Insights",
           "attribution": null
         }
       ],

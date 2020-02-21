@@ -37,6 +37,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/microsoft-threat-protection-hero.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services"
+    excerpt: "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ..."
+    publishedDateTime: 2020-02-21T02:20:00Z
+    webUrl: "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html"
+    ampWebUrl: "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 66
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg"
+        width: 1200
+        height: 800
   - title: "Microsoft Announces General Availability of Threat Protection, Insider Risk Management"
     excerpt: "It started with an internal demand at Microsoft to use machine learning to detect threats based on user behavior ... and other partners to enable easier data collection. A new connector for Azure Security Center for IoT lets admins onboard data workloads from the Internet of Things into Azure Sentinel from deployments managed in the IoT ..."
     publishedDateTime: 2020-02-20T20:37:00Z
@@ -51,6 +66,6 @@ related:
         width: 600
         height: 600
 
-secured: "1R5ABhZMrtMwHsWLCzGxhTYuepmvgLgfa2G1zYcC/U6U1CFQLZRxplBcRzNQqfRKCkdi3UcG+kbyb07yuKNqmQJsA7cfltoGR8NT+ttTZE948PDk3exZdxlbRxoQxVYQ+MohD8iFMcFFPgm5izfi9n+bY8tpODEFPVcGBFLPQt7udUCWmWeow8cyxEnGPMKu2AT2Tu/oOIP72+hHfHyFqqtazIeM8nQtNuOlciQ7C2dV1G5k1C1k7847T4s26PPyNG5TNR+rb7Z2JSx/8BGHCwkDjCc2Hy9w2j0iGPimJ3UGs3fWRRz6xOxX1cv0wXnA;Wh6b0k4s/A8MVq++Kd2OCQ=="
+secured: "2wBjcfckIOZ+7Riy8kFB54Yn9l1n4k6OaD9Jzu8bMwlCOcHqigKUcpKer1IFCc7RM+MLcX9XGObwJWp/wy+iI6Pa4cLgfJ5d+wkN+6Cl5uuB0a0lmyEHU3Ok1/2fxaOEwKu7vTYKltDXRQBokkDXQqsofbM2hthjloADQwxW3oWNw5cXpzy0T8eKDUQBLKpHNjQ1rhE54N7PgOHKWrS2NBq0ijMJbFhpDcEyHVmw4/aIzPER6WYbZdp5/ZnCZuWjwXPwj3QFBnXk4LmIDZ12bwmKH3hloZXDg+iKfVA6dm58q64Oi81Ga194l2yFJcSKOl6WEhy5dYM0q/jyj99xopYAwYeUxS3VM+L6DYoPCKWOJeAYZTjKckeIPHwzptkHu9Xi1Ki+2cksjlqq6f8ZyUhWMmoNnl6drHxJlSWUjPOyRtYuIfuZkfTPnOGgDKAOQvWfOXO28taNR57vVDO8OLNzzrp5fYM2HAecpd8rC0g=;1zhGXFLFMf02goxcxgmR+Q=="
 ---
 

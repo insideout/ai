@@ -3,7 +3,7 @@ category: news
 title: "Facial recognition is easy to fool. This tech aims to fix that"
 excerpt: "The technology that might become the future of facial recognition started with a bucket of household paint. Ingmar Bruder was researching organic photovoltaics—and how to make paint that could absorb sunlight and turn it into electricity—at German chemical giant BASF when he hit upon an unexpected discovery. By shining an infrared beam at ..."
 publishedDateTime: 2020-02-19T18:05:00Z
-webUrl: "https://www.fastcompany.com/90465614/facial-recognition-is-easy-to-fool-this-tech-aims-to-fix-that"
+webUrl: "https://www.fastcompany.com/90465614/facial-recognition-is-easy-to-fool-this-tech-aims-to-fix-that?hss_channel=tw-17392332"
 type: article
 quality: 54
 heat: -1
@@ -24,57 +24,35 @@ images:
     title: "Facial recognition is easy to fool. This tech aims to fix that"
 
 related:
-  - title: "Facial Recognition Technology Is the New Rogues’ Gallery"
-    excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
-    publishedDateTime: 2020-02-17T10:45:00Z
-    webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
-    ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+  - title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
+    excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
+    publishedDateTime: 2020-02-18T17:33:00Z
+    webUrl: "https://www.biometricupdate.com/202002/vuzix-integrates-tensormarks-ai-computer-vision-tech-for-facial-recognition-in-ar-smart-glasses"
     type: article
     provider:
-      name: Slate
-      domain: slate.com
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
     images:
-      - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
-        width: 780
-        height: 520
-  - title: "Facial Recognition: Beware the ‘Long Arm of the Algorithm’"
-    excerpt: "Facial recognition is unlikely to provide sufficient evidence to determine a guilty suspect in court without the intervention of human judgment, say two researchers from the United Kingdom. In a case study analyzing the South Wales Police Department’s automated facial recognition (AFR) pilot program called “AFR Locate,” found serious ..."
-    publishedDateTime: 2020-02-18T13:05:00Z
-    webUrl: "https://thecrimereport.org/2020/02/18/facial-recognition-beware-the-long-arm-of-the-algorithm/"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
+        width: 660
+        height: 300
+  - title: "Editorial: Facial-recognition software takes personal invasion into a new dimension"
+    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
+    publishedDateTime: 2020-02-16T22:00:00Z
+    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.html"
+    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-takes-personal-invasion-into-a-new/article_d711c8b0-803d-5b1f-a2db-97ca717c826d.amp.html"
     type: article
     provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 38
     images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/photo-by-Endstation-Jetzt.jpg"
-        width: 800
-        height: 549
-  - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
-    excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
-    publishedDateTime: 2020-02-20T03:03:00Z
-    webUrl: "https://www.omaha.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_81a5a78c-4b22-548f-b17f-95e8e5e84552.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 10
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
-  - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
-    excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
-    publishedDateTime: 2020-02-20T02:25:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/politics/washington-senate-passes-bill-to-regulate-governments-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 0
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/8b/d8bc824d-a430-5a4c-a7d5-3c24d9712733/5e46e82107203.image.jpg"
+        width: 436
+        height: 512
 
-secured: "MGFAy1b/Uexq5CMn7qmQRaaeEwQcKor0zO1nn9aOsoBi9EnScItPsTcx2jH5HIU0n0RMTV3FNRQrXy3R3lUdDZDrf3PkytvnAubLXMOnYeAsYl8Duav3UIA/mrD3SIxRAnb/nduPTWNcWXJGT4+wkrMP7l/gsHf1AVUHYpssGXHyEeNrwBazNVpeKotaqbSXD127dg7GBl+5zmijxIMh3sEswc+xsl7WzBcQ5940sm3GwKuW5REB5jnYzHsfCrPTtYNYel2TP6Ajdw6jASTkNFh8+m5SMF1+mZqBahwaMKkf6G0M9EzSCbb9pNNkRM5eDNAhbNBkPGiGuvJ26zNFIQMnbmgb3yKxpoPAS9hwLd6otqaMrGMjdr7TV4S9BeAzrEmgI4jzneJOgHKTGEL72YQR5Kejw8viLN5rbbg0bLmBGtF5XbIN4kKxPea52BSMOXLHBWhtPPYyrhma9HgmrrxPLi+7C+QmfiLtH+dlMyI=;gbvPz+hxDuk7do2SNVwTzg=="
+secured: "AU13hDMrGi4p3oMhp/MgkmgJuezKfdYLJjk27PKLzNFlYfvdNUT4CWd47BIMrcY7mMw5L2IRkKFne7CNxQamM+VbrS/MccIjFqU64mShrWe9RUUYoHm+flkwAtQYYnp8TJlRoWEm49znjCodEj8ONBH2nSvuwDx8DyjDt+VoAUnpOrAix6GayYxwWH4DwpI3ZvVdWcMfxdlewQLjewEx8foKaNMDYVLS8qr57/O3dZ6fllwQqI3puGZGqcuX9ZFKsGNA5MjvlE38epwEtHm3s8JCFwVxmvknBF69Sz+OaE8sd+kWOJUV4cslyqwh0seN;aiLMBddFIcQxDfIE3h5znQ=="
 ---
 

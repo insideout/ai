@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-08T04:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: MarketWatch
@@ -30,19 +30,6 @@ images:
     title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
 
 related:
-  - title: "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025"
-    excerpt: "The AI Market in Social Media valued at USD 815.33 million in 2019 and is expected to reach USD 3,714.89 million by 2025, recording a CAGR of 28.77%, during the forecast period of 2020-2025. Social media has become one of the primary sources of customer intelligence data."
-    publishedDateTime: 2020-02-06T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Military Market Latest Advancement And New Upcoming Trends To 2029"
     excerpt: "A recent market research analysis titled, Artificial Intelligence in Military Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Military market covering industry surroundings,"
     publishedDateTime: 2020-02-10T09:15:00Z
@@ -56,27 +43,23 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Social Media Market 2019-2023 | Growing Demand for Smart Homes to Boost Growth | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The artificial intelligence (AI) in social media market size is poised to grow by USD 1.67 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The process of deploying and maintaining reliable data interfaces is difficult, owing to the complexity ..."
-    publishedDateTime: 2020-02-07T01:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200206005722/en/Global-Artificial-Intelligence-AI-Social-Media-Market"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
-        width: 1200
-        height: 627
-  - title: "Artificial Intelligence in Accounting Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2024"
-    excerpt: "Get Free Sample Research Report of Artificial Intelligence in Accounting Market spread across 146 pages, profiling 23 companies and supported with 51 tables and 40 figures is now available at https://www.reportsnreports.com/contacts/requestsample.aspx?name=2443587. Key Players- Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage ..."
-    publishedDateTime: 2020-02-11T02:47:00Z
-    webUrl: "https://www.openpr.com/news/1926330/artificial-intelligence-in-accounting-market-worldwide"
+  - title: "Artificial Intelligence (AI) in Supply Chain Market"
+    excerpt: "Meticulous Research - leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & by End User - Global Forecast to ..."
+    publishedDateTime: 2020-02-06T11:12:00Z
+    webUrl: "https://www.openpr.com/news/1921632/artificial-intelligence-ai-in-supply-chain-market-is-expected"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 32
+  - title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
+    excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
+    publishedDateTime: 2020-02-06T13:49:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/38259/self-driving-bus-market-advanced-technology-and/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 0
 
 secured: "zPWDCc9YZS4XmZhv68PwykXE0AkChXMAbH4YrRx7q+1w0qCX7D4e2tn/aXlpfOlcdBuQQuoOHm1RrQDrrq+bIQmOBELmB2YgKpL9IenoN6/jwkuLM8LU+8m+mO7eikUSRJJg5LEYP+QuRzbGsb8FgIzwEXHl4+jqsm4GFwCnHDj9lTF1H/hXWc/jzmeaBaPw/lavYuPuWF1II8EhnSnTlFj/grPffKGyUA46K+a4FyxksB5WKJsXvCyByn7y/qb0rQduynf1d4HlRmDkEytV5vnWJw1B3qS7xw35Sx0xeL0dwKs1AkUq1uOMFQD9smeg;UDhn1DSlXPOWsMSghe0alQ=="

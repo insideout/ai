@@ -22,66 +22,58 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
-    excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
-    publishedDateTime: 2020-02-06T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/"
-    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
+  - title: "Facebook and Venmo demand Clearview AI stops scraping their data"
+    excerpt: "The facial recognition startup is using photos from the internet to build its database. Following Google and Twitter, Facebook has become the latest company to take legal action against controversial facial recognition startup Clearview AI. According to Buzzfeed News, the company sent a cease-and-desist letter to Clearview sometime this week ..."
+    publishedDateTime: 2020-02-06T14:48:00Z
+    webUrl: "https://www.engadget.com/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 105
+      name: Engadget
+      domain: engadget.com
+    quality: 87
     images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-  - title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
-    excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
-    publishedDateTime: 2020-02-08T12:03:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-12%252F817d5be0-2b17-11ea-bf2f-87fbf2b24155%26client%3Da1acac3e1b3290917d92%26signature%3Db14f51401056407d35d55f5f6c2b29b8f6862048&client=amp-blogside-v2&signature=d27d50c6ff2fff8a8b1438ffab389237e0ebdc55"
+        width: 600
+        height: 350
+  - title: "The straight line from Google Maps to Clearview AI"
+    excerpt: "It’s worse than showing nothing.” People walking around and finding themselves subject to ubiquitous computing — whether they like it or not — is a subject that has been in the news constantly of late, as we debate the rise of for-profit facial recognition and tools like Clearview AI. It’s a story that, to my mind, starts with the ..."
+    publishedDateTime: 2020-02-07T11:00:00Z
+    webUrl: "https://www.theverge.com/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai"
+    ampWebUrl: "https://www.theverge.com/platform/amp/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
+      name: The Verge
+      domain: theverge.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Facial recognition: the next step in fight against rabies"
-    excerpt: "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ..."
-    publishedDateTime: 2020-02-10T14:43:00Z
-    webUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/"
-    ampWebUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
+      - url: "https://cdn.vox-cdn.com/thumbor/o4YgD9JkSTTTNLwOzs4_EZONwOs=/0x0:1280x800/1400x933/filters:focal(538x298:742x502):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66270774/googlemaps.0.png"
+        width: 1280
+        height: 800
+  - title: "Clearview AI says the First Amendment lets it scrape the internet. Lawyers disagree"
+    excerpt: "On a CBS This Morning segment on Wednesday, Clearview AI CEO Hoan Ton-That said his company has a First Amendment right to access public data, including photos from YouTube, Facebook, Twitter, LinkedIn and Venmo. It uses those photos for a controversial database primarily accessed by law enforcement. (Disclosure: CBS News and CNET are owned by ..."
+    publishedDateTime: 2020-02-07T11:54:00Z
+    webUrl: "https://www.cnet.com/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/"
     type: article
     provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 74
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
-        width: 792
-        height: 528
-  - title: "Activists launch new effort to kick facial recognition out of schools"
-    excerpt: "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ..."
-    publishedDateTime: 2020-02-06T20:21:00Z
-    webUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/"
-    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
+      name: CNET
+      domain: cnet.com
+    quality: 41
+  - title: "Facebook orders creepy AI firm to stop scraping your Instagram photos"
+    excerpt: "Facebook has told Clearview AI, the controversial face-recognition service that works with law enforcement agencies around the country, to stop using images from its networks, the company confirmed Wednesday. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using ..."
+    publishedDateTime: 2020-02-06T15:15:00Z
+    webUrl: "https://www.fastcompany.com/90461077/facebook-joins-fellow-tech-companies-in-publicly-opposing-a-controversial-face-recognition-firm?partner=rss"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
     images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg"
-        width: 1024
-        height: 512
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-facebook-joins-others-in-contesting-face-recognition-firmand8217s-scraping.jpg"
+        width: 1280
+        height: 720
   - title: "Facebook, YouTube, Twitter warn Clearview face-recognition service to stop harvesting images"
     excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
     publishedDateTime: 2020-02-06T19:37:00Z
@@ -97,15 +89,28 @@ related:
       - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
         width: 1200
         height: 800
-  - title: "Will we see operators using facial recognition software soon?"
-    excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
-    publishedDateTime: 2020-02-06T15:53:00Z
-    webUrl: "https://www.racingpost.com/news/ice-2020/will-we-see-operators-using-facial-recognition-software-soon/421688"
+  - title: "Facebook and Google Demand Startup Stop Scraping Photos for Face DB"
+    excerpt: "Facebook and Google have both sent cease-and-desist letters to Clearview AI demanding that the facial recognition startup stop scraping photos and videos to build up its face database. Clearview AI develops software that matches people’s portrait photos to their online photos with 99.6% accuracy, and the powerful tool is reportedly being used ..."
+    publishedDateTime: 2020-02-06T18:06:00Z
+    webUrl: "https://petapixel.com/2020/02/06/facebook-and-google-demand-startup-stop-scraping-photos-for-face-db/"
     type: article
     provider:
-      name: Racing Post
-      domain: racingpost.com
-    quality: 19
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 22
+    images:
+      - url: "https://petapixel.com/assets/uploads/2020/02/cuttingedgetech.jpg"
+        width: 1600
+        height: 840
+  - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
+    excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
+    publishedDateTime: 2020-02-06T10:16:00Z
+    webUrl: "https://www.benzinga.com/news/20/02/15266220/facebook-sends-cease-and-desist-letter-to-ai-startup-joins-twitter-venmo-youtube"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
 
 secured: "tOO46i5ILkLT7E0w75TsHO5Je8HMnVpXGkC6i26dWkGoQqsQdmkr4S0tyPBTP2uKBZGpuLUd4U0uCTp5p6MafDQFyLv3q48ZJWdgDO3mCpfOXwCbv9HNbPQJIT6IHtoqKzrsbxJvFJTY2NaHCpw3MLRQ6V8ShKBJv4g4XdUXj13eiKuZEAn8oi/gdCYeFik+1+BcNNzUwYKmDGGYpUsmTe9NLLWb5ab9VaZ6+9W8kd6YAbZoqcpCKP5PWh/AHqXSLcVZHU1TdUKBNG6UFvRl2Uuyq/cfQx5YATBy+ufPETCP1ACwfCelzaTe6fQsa6+GKdrFJfzqL1G0s+AAvb6ecqZYB0bVM+UkIit6xJufyMYcbinw+y0HM+jlXaQuV7u601jE4PTobJASXSmMSd19++1KqBQE+5lRnOtkuSqMHDOqjuMDbkRuMRsoDZfJlra9uTZC0sIElMCrFlWtgITgvT707ZA15IXNnW9KnNZCWPo=;OM6EUIjA2zhbOSr4KYgs/g=="
 ---

@@ -5,7 +5,7 @@ excerpt: "This whitepaper from eyefactive presents some of the most exiting usec
 publishedDateTime: 2020-01-27T14:40:00Z
 webUrl: "https://www.digitalsignagetoday.com/whitepapers/top-7-usecases-for-touchscreen-object-recognition/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,17 +17,29 @@ topics:
   - AI
   - Computer Vision
 
+images:
+  - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
+    width: 1200
+    height: 630
+    title: "Top 7 Usecases for Touchscreen Object Recognition"
+
 related:
   - title: "Object Recognition Is The Answer, Here’s Why"
     excerpt: "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ..."
     publishedDateTime: 2020-01-29T19:32:00Z
     webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+        width: 1200
+        height: 800
 
-secured: "EeTq/kfScbtQnlTjq6VS/7Wt/Hcr7TdRZQLYYp1h3p6VPKAIZNv+oOjAZpGi8JgAimAweprelB7bx4fDxed1a69fgs9dv5X2qKSQASQKTA53uSsphz5It/b7okeo9Hto/vEGoAGm84MFa//m612GpWVVtssvfk4iE+jELh/yyW6UMZkNNp3fR6ox+MranrrIFxNMZLq1GeyiG0YFT1TRW8/fwnSUh3/yvtjD2qJz24YLVoH4C0ebprvsNy+1A7Cjugl1pEU2H08VmiaoDg38eH6EeuULpxSSmOa6jRiR7jYt1wFq2fRoDzriYhncouA0;X1KCImSAoAIQeV/wxcktSg=="
+secured: "ZycdZ2E3X1y/s9h2xRouzrIwbDsykPupGjCH+ZzhIy4y7JS+vm9MZUR4ePdJnaHAl5qzlcX5h4KoVR7R/KdzuPQUdDHCiXc8/4oHoetonMKIZOY3FS+E+kSDxpjbClHxC+PztfBi/7rkL6BvmYTsWq07XVhCXqUiduK8P9wqinpBxKSu5GjAkG/PIEHhLnBhrirO4fVNOsm2XRsqp1ZAZecTaeqdRdGcvhL6wNdwFSp0ZnBLkT3fkw7Ia1WBGR2C0nystAfXTktmeixky6vVxA5A1GwIyM/E88x37Ypbq3v48Q0irLn2iuRiVH62lw4f;2MYAu66GYHOVk80VMbxIOQ=="
 ---
 

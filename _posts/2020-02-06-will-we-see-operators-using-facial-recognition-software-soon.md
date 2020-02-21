@@ -18,90 +18,62 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
-    excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
-    publishedDateTime: 2020-02-06T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/"
-    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
+  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
+    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
+    publishedDateTime: 2020-02-06T19:08:00Z
+    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 105
+      name: The Hill
+      domain: thehill.com
+    quality: 54
     images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
+      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
+        width: 980
+        height: 551
+  - title: "How to use voice recognition in Pokémon HOME"
+    excerpt: "Because you can use it from a mobile device, you can use it with voice recognition. You can’t use everything with voice recognition, though. Only a handful of features register with it, and you should know what they are because they will have a microphone next to them in your mobile application. For example, when you go into your Pokémon box ..."
+    publishedDateTime: 2020-02-12T10:16:00Z
+    webUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home"
+    ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
+    cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
+    type: article
+    provider:
+      name: Gaming Polls
+      domain: gamepur.com
+    quality: 44
+    images:
+      - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
         width: 1200
-        height: 628
-  - title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
-    excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
-    publishedDateTime: 2020-02-08T12:03:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
+        height: 675
+  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
+    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
+    publishedDateTime: 2020-02-12T15:40:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/herta-security-lauded-by-frost--sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-301003793.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
     images:
-      - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Facial recognition: the next step in fight against rabies"
-    excerpt: "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ..."
-    publishedDateTime: 2020-02-10T14:43:00Z
-    webUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/"
-    ampWebUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
+      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
+        width: 1500
+        height: 784
+  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
+    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
+    publishedDateTime: 2020-02-13T02:52:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/herta-security-lauded-by-frost-amp-sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-879892037.html"
     type: article
     provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 74
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
     images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
-        width: 792
-        height: 528
-  - title: "Activists launch new effort to kick facial recognition out of schools"
-    excerpt: "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ..."
-    publishedDateTime: 2020-02-06T20:21:00Z
-    webUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/"
-    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg"
-        width: 1024
-        height: 512
-  - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
-    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
-    publishedDateTime: 2020-02-06T11:57:00Z
-    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 36
-  - title: "Facebook, YouTube, Twitter warn Clearview face-recognition service to stop harvesting images"
-    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
-    publishedDateTime: 2020-02-06T19:37:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 33
-    images:
-      - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
-        width: 1200
-        height: 800
+      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
+        width: 1500
+        height: 784
 
 secured: "HDvCt44IlRzOutFMIKdvIRSzMSSWB78fqYlxrM60DWOu/RMFgU+8varWfOxLXzdWVp7q466JnOIhCpizDTggSVPofjrN5JTWGBpKcSSD6XLoYCgIbsXUU1Ei11KJF2MYuUimz9daWbZ85nv2Lu6XwL6bJNExau/+h5hc/rJNx6V4hqV+vt4Rj1P/F0LImaGhERqY1S9Nwl1Rq65VjZm2vq+52ZMcjDtnz9ALiRGqCE8RS/RGgAliHhcho99bAFirCcqnPJDZRZUJBykd0rwg8SG44+jn2d3LZ5BQF6uQ156h8bj3Nho39rA/nSWLHqplKP38KRhIXCCKoMKH3GcjejTsXh0bbdIML0te+RGFNaG/AF9mRiXRADatqTG6+/aXTLhboLubiCSB+nIH3mxkgcj/1DBH4TnAgWmaUIK8cOBPj8xvCCE+nBNJq3g3Jb+5kzq9V0Mn6vyCB0DPydiaG3HvuzoHv1ne5O4VhIn6+fk=;+l5hkYw38QotP5IcHOKWGw=="
 ---

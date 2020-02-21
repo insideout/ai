@@ -111,17 +111,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
-  - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
-    excerpt: "Based on actual ROI findings collected across over 100 successful Yseop projects, scaling from single use case applications to enterprise-wide deployments could translate into billions in ... The platform combines different AI technologies including machine learning, NLG and natural language understanding allowing users to customize reporting ..."
-    publishedDateTime: 2020-02-06T09:26:00Z
-    webUrl: "https://venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/"
-    ampWebUrl: "https://venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/yseop-launches-augmented-analyst-the-next-generation-ai-nlg-platform-revolutionizing-intelligent-reporting-automation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "An ultra-compact particle size analyser using a CMOS image sensor and machine learning"
     excerpt: "In this paper, we introduce the concept of a new particle size analyser in a collimated beam configuration using a consumer electronic camera and machine learning. The key novelty is a small form factor angular spatial filter that allows for the collection of light scattered by the particles up to predefined discrete angles. The filter is ..."
     publishedDateTime: 2020-02-12T12:55:00Z

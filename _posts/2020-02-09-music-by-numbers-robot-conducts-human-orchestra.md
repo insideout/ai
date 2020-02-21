@@ -28,21 +28,6 @@ images:
 related:
   - title: "Music by numbers? Robot conducts human orchestra"
     excerpt: "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. “This work is a metaphor of the relations between humans and technology. Sometimes the android will get ..."
-    publishedDateTime: 2020-02-06T09:16:00Z
-    webUrl: "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/"
-    ampWebUrl: "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/robot-homepage.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-  - title: "Music by numbers? Robot conducts human orchestra"
-    excerpt: "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. “This work is a metaphor of the relations between humans and technology. Sometimes the android will get ..."
     publishedDateTime: 2020-02-07T19:30:00Z
     webUrl: "https://timesofindia.indiatimes.com/life-style/spotlight/music-by-numbers-robot-conducts-human-orchestra/articleshow/74007683.cms"
     ampWebUrl: "https://m.timesofindia.com/life-style/spotlight/music-by-numbers-robot-conducts-human-orchestra/amp_articleshow/74007683.cms"
@@ -56,6 +41,21 @@ related:
       - url: "https://static.toiimg.com/photo/msid-74007661/74007661.jpg"
         width: 1200
         height: 900
+  - title: "Aleshia Howell column: Human rights for robots come with responsibilities"
+    excerpt: "A robot may not injure a human being or ... There is also the question of who owns intellectual property produced by artificial intelligence in the form of electronic persons who are afforded rights under the UDHR. Technically, these legal people should be compensated and retain ownership of their inventions, algorithms, and ideas; however ..."
+    publishedDateTime: 2020-02-07T17:17:00Z
+    webUrl: "https://www.savannahnow.com/opinion/20200207/aleshia-howell-column-human-rights-for-robots-come-with-responsibilities"
+    ampWebUrl: "https://www.savannahnow.com/opinion/20200207/aleshia-howell-column-human-rights-for-robots-come-with-responsibilities?template=ampart"
+    cdnAmpWebUrl: "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/opinion/20200207/aleshia-howell-column-human-rights-for-robots-come-with-responsibilities?template=ampart"
+    type: article
+    provider:
+      name: Savannah Morning News
+      domain: savannahnow.com
+    quality: 58
+    images:
+      - url: "https://www.savannahnow.com/apps/pbcsi.dll/bilde?Site=GA&Date=20200207&Category=OPINION&ArtNo=200209374&Ref=AR"
+        width: 504
+        height: 704
 
 secured: "6gI2jLSM4i8ysG0POvBEURHwDH070UuO8sMd55GsUnD+TfvQ2SjZDnjHhkN2WTBtDhVCh9N5DyJ9UxJdHz8FhS4Blkl+fHfFXOJdYLLxcPPSCwb9dA/LZiB441e0FFV7v8Vui7iGnU0cmpcJk5Ah2Dd+E+irIuJXo0ecea63YhbAgw5gxoHxoet9+OAW80SPMWfdFCI4IvIpxb5mwZFQpkr0Py84D+eQ5Rj8Yqth78zfZYgTRpauM5SmZ9yXyKBNCo6GaSOlcpLezG5UCIw2gmGJm4fncTjTMnGp5rO8MXaun5wdaczEUzFPsqghH4gu;pDhSQWoCsZVzWRXSd1m3ew=="
 ---

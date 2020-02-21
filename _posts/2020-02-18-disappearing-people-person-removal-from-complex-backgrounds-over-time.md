@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Disappearing-People - Person removal from complex backgrounds over time."
-excerpt: "This is all happening in real time, in the browser, using TensorFlow.js. #MadeWithTFJS This is an experiment. It may not be perfect in all situations. Go ahead and try it right now in your own web browser. Pick your preference and give me a fork / like :-) Feel free to use in your own projects. If you decide to use my code please consider ..."
+excerpt: "This is all happening in real time, in the browser, using TensorFlow.js. #MadeWithTFJS This is an experiment. It may not be perfect in all situations. Feel free to use in your own projects. Code is released under Apache licence. If you decide to use my code please consider giving me a shout out! Would love to see what others create with it ..."
 publishedDateTime: 2020-02-18T06:16:00Z
-webUrl: "https://github.com/jasonmayes/Real-Time-Person-Removal"
+webUrl: "https://github.com/jasonmayes/Real-Time-Person-Removal/blob/master/README.md"
 type: article
 quality: 23
 heat: 23
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Disappearing-People - Person removal from complex backgrounds over time."
 
-secured: "p6F4iICYpwyV3SaDELnXTdIJTcqQqJd9u5HTJ2PjmsQVKFuJk+pnG7GzSxgCR1Y2WLOAl79pBMtA6GIu5dyvz7r/mdPDWNvzWU/yhrgNZHemjNon/pkaXeQ49gdMZv7H9G0jd8J/ClYKcX/cr3wl8RJUG3QgDInSuQ0IEQ5LtZYEBPVAFGAY3raC9OvzFVKW1CglS7grKlcy/zJr2ixOJfoCq4RPXutWwqWug4/1k9+kS6fTKnRZ4Wr0NIx9giAaChcr+8NZ1faP6Fqem0masZZGRcqS1pI53rbxY5TzymQEuzKqP7loc9U4E8i2Xt5Lav2M5cB5IFdA8CUyx5Tk7PMswH/rFbVt/P9P+ux693jx5CT2x0pZMlwpSCZ+6OsI6eHLvJVzomHQ7tuo9w+Y4/4xuaTg8djGO2VFdttTSlpzVz69CG0m8W6VyLn1loF+jxuYZQhVNlG7Zc/Gs0CsxGaNl642dTi4rxXUZktmQyY=;l+KS3hBr/RNLiOR4htgLZw=="
+secured: "euuO5ptP3muStsT/DiCaYwoGwLlBj9qqvmzABS3x16nGTDrFwJ7xcF9wnL5PVcGoOCDjuIJ4QrQcPbyx3QZJvSbanC5GPyb8Vtf+Dke/ITgHnNCLSM31tGGP5RSxBGPgIHJbXdeAVJ2cfzJ6D7LCuuIqeOJXsGxghQfd9f6fI+6GKqBjGsldwzx//tDHjaD3EoheT14MRFyhkX8XAddi8yvtxg82Z9kTNpWCGpPMUI5ZAU7aECiDQ4Smcu/PqBaqtIW50TXZDQsLhD9r0xTRMHtmIjPOTD37tRJDFnvyToh+ITBJ6Tyyipg0Ex4n4oMx;NyEkE5NXFpeNPS7G2njKKg=="
 ---
 

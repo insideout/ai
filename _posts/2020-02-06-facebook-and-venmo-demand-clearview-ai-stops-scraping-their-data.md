@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-des
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
 type: article
 quality: 87
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -66,6 +66,30 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-facebook-joins-others-in-contesting-face-recognition-firmand8217s-scraping.jpg"
         width: 1280
         height: 720
+  - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
+    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
+    publishedDateTime: 2020-02-06T11:57:00Z
+    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 36
+  - title: "Facebook, YouTube, Twitter warn Clearview face-recognition service to stop harvesting images"
+    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
+    publishedDateTime: 2020-02-06T19:37:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 33
+    images:
+      - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
+        width: 1200
+        height: 800
   - title: "Facebook and Google Demand Startup Stop Scraping Photos for Face DB"
     excerpt: "Facebook and Google have both sent cease-and-desist letters to Clearview AI demanding that the facial recognition startup stop scraping photos and videos to build up its face database. Clearview AI develops software that matches people’s portrait photos to their online photos with 99.6% accuracy, and the powerful tool is reportedly being used ..."
     publishedDateTime: 2020-02-06T18:06:00Z

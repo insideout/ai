@@ -1,21 +1,20 @@
 ---
 category: news
-title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
-excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
-publishedDateTime: 2020-02-06T13:49:00Z
-webUrl: "https://www.reseller.co.nz/mediareleases/38259/self-driving-bus-market-advanced-technology-and/"
+title: "Artificial Intelligence (AI) in Supply Chain Market"
+excerpt: "Meticulous Research - leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & by End User - Global Forecast to ..."
+publishedDateTime: 2020-02-06T11:12:00Z
+webUrl: "https://www.openpr.com/news/1921632/artificial-intelligence-ai-in-supply-chain-market-is-expected"
 type: article
-quality: 0
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
-  - AI in Autos
 
 related:
   - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
@@ -44,16 +43,16 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Supply Chain Market"
-    excerpt: "Meticulous Research - leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & by End User - Global Forecast to ..."
-    publishedDateTime: 2020-02-06T11:12:00Z
-    webUrl: "https://www.openpr.com/news/1921632/artificial-intelligence-ai-in-supply-chain-market-is-expected"
+  - title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
+    excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
+    publishedDateTime: 2020-02-06T13:49:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/38259/self-driving-bus-market-advanced-technology-and/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 0
 
-secured: "D2CadV4bxlv6cR/pgVQZf7frfGsVuL5yKPo/fE1DcpA9G2ORqjsfO/3wGo1/rXTn+3FMifxFdq8JBGq0k4B1s4fTvGFGenCtn0G6lbKub2dNZhhvMg2B4WtOsKrv54mw8YIvr4Sf8hvJ59QuGz9An7Ni4bEozV4PvLEigyEkbZpm6zOuOMIeniScQnbx80VDohyv3NRYrRNO9WVX5b6l3105aGxCTLmbr3joeNQwjXgHnApKZ0RAcKD1dU4tSgf1bjTPTYb0+aJbGrCJcl8tho2yZ/MBwymhITV5ebjSdNJeqrlYMs5Cc0bpT73C5qWI;Bo0yrw1d0lbwVHDMLbRLAg=="
+secured: "2CQcgDFESIHFL71/bBGM4WEXYypl0ttHdAS7nLvlq9oFaIgtnhDjFjX+wERGsT4o9d78rdzcrO5vPBGnJFicA6COrQAPWi1fgDDPukurMijbSfzbYJSQqnv9bBEHbd1y+6peSYF+shShsZY+hAWuZ4eYSXtMcwbQjQuFf7Na2HdtzQs4piR6WdoLuv2vNlJfwYTmmpNE//noXRyTLkLgikyIFtPIKBJFXGDjjQ2uyEBStFDbA0gvfjOSiVu3FKDUlWHvlv/+u3EdZWCm32T6BpG3AXZoqui2gEHOZ5OXj/2tZmA24R/CJA7vwGMB0UtM;5d3pECEXV1npYYC73NneLw=="
 ---
 

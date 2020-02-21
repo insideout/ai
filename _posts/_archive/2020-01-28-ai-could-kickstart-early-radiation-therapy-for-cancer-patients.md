@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence (AI) could one day be used to help cancer pati
 publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,17 +17,25 @@ topics:
   - AI
   - AI in Healthcare
 
+images:
+  - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+    width: 1200
+    height: 450
+    title: "AI could kickstart early radiation therapy for cancer patients"
+
 related:
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
     webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 34
+    quality: 54
 
-secured: "Qezy3AAifjrAwwUGm3RDV45aCalqeRrXT7xAuZ0k+pYQ6zBqcc1uQx7HXqv3IjRzZ7rRlniRtUqlMiBhh6FOChGKorPJiaNvXr1XYph1b4ytOQuLn+YUTYBPTXmxVpwZtaVrABYCojR35DmrsSgXMOeQjbH9Eou1pHBqItbisQQwmeJFYy8Ougw/NEdF8sLe7Dl08MzRwTsDh1nntmtgYCTyzrBvUQBemfyfcZ58fv42GI82AsbS6s2anwOeRw65b++XHt6VBe5JEcRLCzWd25SpkmVSNeOwwRrkjLziilDzLQI3IocndIOKP3mCBFRf;LAdPFxo5IHVAufwbdL1l3g=="
+secured: "4qKtgauR6R42nT1z9/XzM9dxT2VQj7CuqlKdazTlrsfIco6fc9qq5cWXLsZn/IXqrFkh+0ppWZtjd5Q4JI0ea3mbN8MC1PlSRAkNvsd+yd8C8oLMJwaresHljh/b/S7B4t5lvbYMdoxFtXEsbbb9W3HimDHiGI1cfaAidFurxAEso5CdFSEroem9VJESx7biF3sl7Yt4MgqEV6zC5R+4GpTDSLX1V7HazakAOGauIlfa9T1Tmv4ncqERSaZ71LR9JdU1NOl0/XtJrUF3gAOHvrJdLOyXX4JVcGcNaoXv8ya8NLH7bLcBDQt2BQHZr1n6;fyPSN+Vjetd/G3m/dkxUSw=="
 ---
 

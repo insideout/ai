@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T14:00:00Z
 webUrl: "https://venturebeat.com/2020/02/20/microsoft-threat-protection-insider-risk-management-general-availability/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Microsoft Threat Protection and Insider Risk Management hit general availability"
 
 related:
+  - title: "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services"
+    excerpt: "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ..."
+    publishedDateTime: 2020-02-21T02:20:00Z
+    webUrl: "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html"
+    ampWebUrl: "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 66
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg"
+        width: 1200
+        height: 800
   - title: "Microsoft Announces General Availability of Threat Protection, Insider Risk Management"
     excerpt: "It started with an internal demand at Microsoft to use machine learning to detect threats based on user behavior ... and other partners to enable easier data collection. A new connector for Azure Security Center for IoT lets admins onboard data workloads from the Internet of Things into Azure Sentinel from deployments managed in the IoT ..."
     publishedDateTime: 2020-02-20T20:37:00Z

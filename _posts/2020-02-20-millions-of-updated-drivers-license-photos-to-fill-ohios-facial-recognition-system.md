@@ -41,6 +41,15 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/O4C7BWLACRGL5EKOY7V6WLBEFY.jpg"
         width: 960
         height: 720
+  - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
+    publishedDateTime: 2020-02-20T02:25:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/washington-senate-passes-bill-to-regulate-governments-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 0
 
 secured: "VXxovsJzC/6dbtPXxLQ/y8Gc1Xsf83hsTrYjDsv6FuzImH3W0IwPaIHWgcDAGNHhFZfcRx2/3RkXyhrfr64zQaPdRRrWTCnwYJORx6fsggtvM6t+HNR1ril/p3AxnuWwS6XeSMJGQc+iW73TW5UQFxCpu61WNM9AFCRAjrhbQFnKdcCUezHdtQuNxcQSMfHB7NHZ+MHX8INKBecfE81lNPn24hsPvxfOrYEMnoI9DV8WPnirM0sEjVsjK5yWX6GYOAidgbGWJX9A3YdnrcL97isEpWYys86HGcPkOl5R65c2grKUxYfvY/gtOFeXhxDZQLNX6oMiMnQWreny0MPb549mbkRKHITkKh7dVI3NLvbl1Y5xGtjnNfLydD/wpYnqvrNKlk9ZwthtFrhBDcXWl+3plbBwE5KTeP+txr0sgEQv3RueAX/b10Bo4NIamrOsoQFpmAnehO0kXLvdtXnTQbkT9Emz/sCM9YxDIBp55hM=;s+cLokcq/TLrySc5A21ppA=="
 ---

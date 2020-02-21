@@ -5,7 +5,7 @@ excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, an
 publishedDateTime: 2020-02-05T03:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
+
 related:
   - title: "Computer Vision Market 2020 – 2023: Regional Study, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
     excerpt: "Computer Vision Market Overview: The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
@@ -35,16 +41,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
-    excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
-    publishedDateTime: 2020-02-06T13:49:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/38259/self-driving-bus-market-advanced-technology-and/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 0
 
-secured: "FmTDEwFdnA5mvfuQ+jkhu9pqafCefy06r8wlwWBfIYfByYdJglwG6Pvl1RS9jlU5Y5qNHC9JH4WeCUnRTVZmKC6B2eliAcg6s2llGDOo1YaWairJ6iXY6G9yagcH0mfsEIS4VU6xiKES98/TkT6WWnT6biWD6S0PeC58d3jcEHRSp4RKwTUsNkXLQAhUU2k8jMjBulCK2Xz7DZug7ApuFbEjgQhUvejqg0J9pOphNqZHh0nk+yfwTHTN6iZNLk8xrRs3IjPkeQ1/aa5QiiclAJEoknpByxd65LIJV9Zg1aTcQnqz0w7zrsdpTov0uZsT;DDQ76fBdWJkqNsAUGl1nPw=="
+secured: "Pvg19evauAGLSNYEAmErfakdr8SLQ9Wxa1NG6bpYHpTyWHvjsOMnJblnEoVLW0Yz+ND+1xXpWEzHlu87tmoz5HwzHdu3cC+Xf2cwE968SgR3JoxBZNVp8SUlff9Eflu8g+8zpBj11AOdT8wSGnNj7NWrO2Fn9aFdyRBH42Y5wDYVwd63mIQra/mLYXZPShBW+3atP0hdJdww+77mcSfg4ZwbiZKps4MaXx4WgjWa04SEyOCFYTc0Y0XqPHPqYxINAox9kDZbIXi/uOgwLjqcbkcL2z5dZzfBYIQOCWkUiWLck0c//hZFAFLRYDmVV2wr;UDSNZ3nEMRl1yHkhJX1nIA=="
 ---
 

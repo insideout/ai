@@ -37,6 +37,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/microsoft-threat-protection-hero.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services"
+    excerpt: "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ..."
+    publishedDateTime: 2020-02-21T02:20:00Z
+    webUrl: "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html"
+    ampWebUrl: "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 66
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg"
+        width: 1200
+        height: 800
   - title: "Microsoft Preps for RSA Conference with Multiple Security Product Announcements"
     excerpt: "Azure Sentinel uses so-called \"Fusion\" machine learning technology to find the most important threats. How that's done is outlined in this blog post by Ram Shankar Siva Kumar of Microsoft's cloud and AI security team. Microsoft Defender ATP for Linux Previews Microsoft is extending endpoint detection and response protections with its currently ..."
     publishedDateTime: 2020-02-21T01:21:00Z

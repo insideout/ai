@@ -44,19 +44,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-    publishedDateTime: 2020-02-06T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Machine Learning Market Size Will Reach US$ 76.8 Billion Globally, in 2026"
     excerpt: "The global Machine Learning Market will increase by a CAGR of approximately 40.1% from 2019 to 2026 and is expected to achieve a market value above US$ 76.8 Billion in 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,"
     publishedDateTime: 2020-02-14T08:13:00Z
@@ -79,6 +66,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market Worth $81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-05T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -146,15 +146,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200210005115/en/603399/23/CH_red_blue_logo_%281%29.jpg"
         width: 1200
         height: 576
-  - title: "Image Recognition Market Worth $81.88 billion by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-02-05T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
     excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
     publishedDateTime: 2020-02-12T19:30:00Z
@@ -207,6 +198,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "4OUIFefvGIA3bGu7H99ZaF99ixjTUtADgcPsVQh32p7KwRGc+lTjI5vpQyq5yydlvoelWRviE3mMPH2DJxB1VtipizAt7is+WLkUjix3yb6KS6pI03QmQORPbTqUH2KWI8nQXCnFeAgrZJyJv9W1leZS41wPgTu3Xil34a86+Ig2RUwCyv5raUBXZQBGHRmQ9QKatMyQJEqj7bgivpBPD98fYneu5iI7gbGHeGIOHL65eKzB79KFmxnD6GeaO+20n6bzmWMn2Flnr1ulA8jrIzbcDVe3rjNwAfLJ/voUBgyPMOqCiFsv4rTjPjMslqHf;mJesorei/qM0vQRxdu9X7w=="
+secured: "dJYyID+rLREI9NUsgh33yGpKeTrYAGHKWriU5DivnXrgtGdJ73SdmoExEwkJgv3kJOdaBe+2DtgJBV+jVHhe8e6IwJu1f1vl641nkB+rBTn4zmcJZ18okhkb1hIdIouyEZR5Cz6JJ4Q+HrrC2oWQ9zFLwCHIReuqNWnwxC7iB/fBHn+HmhBwShfG5gBL2rQkpA1kOnt20yv2D2Bgk9w5V1N49aEiy9UA1V71AzHn1oAEHwanVW3F9V9Y9el8Aj1foQFdoWDlEUkgSwNJDmipY45eU4jVQrVHP4uEAw6cqgKOgO0AixtmWN/7ZqVBhZF9;ehIa4PiPZ8mZUM2ve/p2GA=="
 ---
 

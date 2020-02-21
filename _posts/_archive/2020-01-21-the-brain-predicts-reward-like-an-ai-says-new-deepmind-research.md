@@ -4,10 +4,12 @@ title: "The Brain Predicts Reward Like an AI, Says New DeepMind Research"
 excerpt: "If DeepMind’s new bombshell paper in Nature is any indication, a common approach in AI, one that’s led to humanity’s defeat in the game of Go against machines, may have the answer. We all subconsciously learn complex behaviors in response to positive ..."
 publishedDateTime: 2020-01-21T15:21:00Z
 webUrl: "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/"
+ampWebUrl: "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/"
+cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Singularity Hub
@@ -17,6 +19,12 @@ topics:
   - AI
   - Google AI
 
-secured: "TVZVDij45C1egf3gM3Lz1bjxBTsRgQoEvnFUf9ELSOzPl80gDFvYHnEsN2ebNaBc9FkYIMafoQODBDLikpccJA/HQywZCoMwU6fqtcciMj6hV8Cp5+IUTglP5Vn+egqR2/tnva3g4LsKttCnQ3HMn0Woqoy2NFAZ3n8YIGhQfrZd/CPkGV1NEKL7LoERBKQdhEMr3sybCD17BWon43xirGZt2aJeEHlRoiT/XKQflAu9jrJsp/aKgtXoERXbGxky6k0+plt3mzhc1Xv/fjI4fuPZpaRORWs+yAvX5sG/PbTsNhRmIxkyrcqnd0Xvx/Ty;Ncq4ENRC3iw7Yknj6QMe8Q=="
+images:
+  - url: "https://singularityhub.com/wp-content/uploads/2020/01/brain-1787622_1280-dopaminergic-neurons-reward.jpg"
+    width: 1068
+    height: 601
+    title: "The Brain Predicts Reward Like an AI, Says New DeepMind Research"
+
+secured: "meJije73nQ6beZwWwt+SBuOviJQqTI+9050FtE7TKys/8kiCm2Jl9W/W7k4wcwP9N4ATm22zmLySNnIBlS727w3acbG6U/7WzIs3sGcFhkqNXQr60iFOm2cox06U31j18QXIs4geEf1rq3nKNQbLJdQHDb8ENi1deQOcFRW0o3rsTTxBgyUYFpuDcZkWLZMN+9OuNgWdIGB8LTvcZdGei3EsEHbGqGEAV4XrwG8RCcOGdbZ5Gapxg9liseA7tmNAxltZXyjXJcEghsiksusNtft9HaTFQ/2Ipoq3co+NCfDZVYt+HMYi4hJJlCGOFaZ6;h3JdLUJJk6kvD3qcLet0mA=="
 ---
 

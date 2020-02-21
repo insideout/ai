@@ -8,8 +8,8 @@ ampWebUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-f
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: ScienceBlog
@@ -26,84 +26,21 @@ images:
     title: "Facial recognition: the next step in fight against rabies"
 
 related:
-  - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
-    excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
-    publishedDateTime: 2020-02-06T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/"
-    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
+  - title: "Facial Recognition Technology Is the New Rogues’ Gallery"
+    excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
+    publishedDateTime: 2020-02-17T10:45:00Z
+    webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
+    ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 105
-    images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-  - title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
-    excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
-    publishedDateTime: 2020-02-08T12:03:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Activists launch new effort to kick facial recognition out of schools"
-    excerpt: "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ..."
-    publishedDateTime: 2020-02-06T20:21:00Z
-    webUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/"
-    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
+      name: Slate
+      domain: slate.com
     quality: 59
     images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg"
-        width: 1024
-        height: 512
-  - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
-    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
-    publishedDateTime: 2020-02-06T11:57:00Z
-    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 36
-  - title: "Facebook, YouTube, Twitter warn Clearview face-recognition service to stop harvesting images"
-    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
-    publishedDateTime: 2020-02-06T19:37:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 33
-    images:
-      - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
-        width: 1200
-        height: 800
-  - title: "Will we see operators using facial recognition software soon?"
-    excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
-    publishedDateTime: 2020-02-06T15:53:00Z
-    webUrl: "https://www.racingpost.com/news/ice-2020/will-we-see-operators-using-facial-recognition-software-soon/421688"
-    type: article
-    provider:
-      name: Racing Post
-      domain: racingpost.com
-    quality: 19
+      - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
+        width: 780
+        height: 520
 
 secured: "LCi9S2ij8RBFLOj4e5ySPQnmANm/tsGKW8IC8MTF6zwq2gCyS39Ej0cmfp1koUd9CMJtzya1d5izN15F/mpsMcDsjG+ySkqan8Gv9uzd0yU6zx/G97WlwWUs9ClzwuZ2F4NlLHfLLzxOLCRnoarqUsiwIUhVR9dISdWhUQYLh+7cJ3/A8oIyAMHstHg4uHdS16fyFmXwvmWDeSxeuJi6hcCznvAU6O90VqnlDjPkDo1E62ExgevmYzf4WBw1OCgjzziy7j1FjmReFjWSecZ5Cn4E6U6fFZZTrewB/sJKit2kNil+WmdXbSOXvxOKU5fb6qAKuXYyWlWpluAe2BSx14sPyK/AkRFvcbiLz2I8DZ6lRD7Jm4fAltzgOFm8Y8neW1Lc8SbZTtLhOekuq0OGwkHRZsbLiEclxZcjUfmEmx7yOzNwoNMhOlO3tEKEZcqgcXp6jIlG6KF6OZq03IN6BcZ2vDJj1ckuYyUMEQUeEBc=;TSfvkLY8Y9+Nh5h81ngtrg=="
 ---

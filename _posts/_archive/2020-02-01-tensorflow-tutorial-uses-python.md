@@ -5,8 +5,8 @@ excerpt: "There’s been a lot of renewed interest in the topic recently because
 publishedDateTime: 2020-02-01T00:00:00Z
 webUrl: "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
-secured: "u4k2PImTDTGwVB+upHeK495CWaAYYw8rKQB6G2nqfT9QIHz2Z/IiDvNOmdorA1wJmkmuVENG61lisHjUvtssx1Kqd9avg9Yh7Bj5njkBKYTPlDQd7Y+CMbgA1+7MDq5XwsRXtN+E/z1wD8+GBYiyuDxIevSu9Fdh7fQV07lPqKqrc8w0RDqW8qzbksamLU4C6wWbeYM5WXQayVa3jgx1yUPTeHK8TNA1lBhjcEHlOk3FXJCQ6ig7fm9Aywkzvqd1wTcm1//4kMVR3cXx1HrEWZHgDkDpPGLYRd7d70uv/BHBNE+DEFluDaodO4emUdF4;tt3oGY444wBcYwE01YvK/g=="
+images:
+  - url: "https://hackaday.com/wp-content/uploads/2020/02/Using-ground-relays-with-Starlink-10-4-screenshot.png?w=600&#038;h=600"
+    width: 469
+    height: 469
+    title: "Tensorflow Tutorial Uses Python"
+
+secured: "2QB74A1eCdChUjxzjjCoPgE+LXRBikzcHUmkgLn4GRv7uWFWcDWtuGGsl6YGn6aDl28IyJmBh8vA21hmytHDkUqRZTI/SAk9YjL6nw+WxZLWpDNjxbcCEyqWHWqHg3+iLoId0jQpmHr1x/RmKIjV16x0YLDMRZmJTwVhrI08CLea1LH4zMq1caBdapRv2ZL9bBHS5RtKdx2jHhq5tKBUjEoX+Mn4XoN1O1M74kNrZnsVA2BpQdLI5t5rdxY+18PBjtnQXfDHAY7qCb4LF29Vj5tP97WgpS262T+C6wvUosue22UbujM1eqagbB4uCKlq;YQUV3cUK87It7FIjAHAuPw=="
 ---
 

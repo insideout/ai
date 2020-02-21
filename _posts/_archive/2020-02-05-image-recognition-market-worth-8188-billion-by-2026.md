@@ -5,7 +5,7 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-02-05T06:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Image Recognition Market Worth $81.88 billion by 2026"
 
 related:
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
@@ -44,19 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-    publishedDateTime: 2020-02-06T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -211,6 +204,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "tNGpY3NYEcZP6Coa9bv6yP5LAYSdHMcLI85GZbYyv7MxFWPrbHJrsBCZhKCyFxZHVfyzzBf8Za11t30ZbZ+xvHR61fQADFetMgGtiMEeoxxftFd2MBYeg01pmUaYusfv38b9l0VSkgXoHpQO9YoWNUzlkfkk0fQea3173NXr/8zqI1j/gOTQBaCVCQlw148WlpwkrpZr3lFEdOKvSnVjkfrIdPiAWn0zbSDdovol1gmX2/4LUk+/Xj2E+er25/0bpYRR4LZTiNodkWYvVD2cxiGqryNiimKclQKzt2Y8YEXkmTSzZUO5G0tmlsOmSlj6;CO8K3yCGsw3LtyIHWV5J+Q=="
+secured: "TVunlRz+c10on81gcFj4KUItIJGSeBFIa0J8yq8WEsocefdbsaN5u8AakGvu0OBaVF+k4LaA4KZdS5Xv0QDyinyHWUN9R3ywXsXnFXkmTRCS7w4IeVzeiD84zISYMKi1M+ySS9A9s1OHAOCdRR3D/ZzcnGEOpyEMWEAlUrnXC+quqeBl6UGKWqhz0Sn+mjJ2fHf97NquLok1r3/hAcAakQtrGOM6XO4aZa7eEmKTxDr2wgnLzhlToQ+kSigPaB8DiBRrJI1K5AwwhRlMhp4Sy2A9ly0ygOfNWAk8mLdZkz0J6eY+AhDQ8JvtDwP824ec;tGxnc6/FyeF9ijRsIXebdg=="
 ---
 

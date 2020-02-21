@@ -57,19 +57,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Enterprise AI Market Statistics and Growth Prediction 2020 to 2025 | IBM Corporation, Oracle, HP"
-    excerpt: "Artificial Intelligence in recent years has moved on to become a key component for enterprise applications and has posed as an important factor for successful business strategies. With AI, enterprises are now able to achieve far more in quite less time."
-    publishedDateTime: 2020-02-06T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
     excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 6% during the forecast era and is expected to achieve a market value above US$ 7 Bn in 2026. This Acumen research report examines the 2015-2026 Global Artificial Intelligence In Construction Market."
     publishedDateTime: 2020-02-12T07:54:00Z
