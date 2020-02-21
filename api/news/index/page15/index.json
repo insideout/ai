@@ -2,221 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-17-i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape.md",
-      "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
-      "excerpt": "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
-      "publishedDateTime": "2020-01-17T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/Tiid1ZAgHJWSHQdKzyENKcS7TFo=/756x567/2020/01/16/ceedacb8-85c9-4017-8972-6591c818f319/mg-2832.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026.md",
-      "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
-      "excerpt": "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,",
-      "heat": 125,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T00:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-moodys-analytics-wins-an-artificial-intelligence-award.md",
-      "title": "Moody’s Analytics Wins an Artificial Intelligence Award",
-      "excerpt": "Moody’s Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution,",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-an-artificial-intelligence-award-2020-01-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Moody’s Analytics Wins an Artificial Intelligence Award",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars.md",
-      "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
-      "excerpt": "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "publishedDateTime": "2020-01-17T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-new-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.md",
-      "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
-      "excerpt": "Researchers of the ICAI Group -Computational Intelligence and Image Analysis- of the University of Malaga (UMA) have designed an unprecedented method that is capable of improving brain images obtained through magnetic resonance imaging using artificial intelligence. This new model manages to increase image quality from low resolution to high ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
-      "publishedDateTime": "2020-01-17T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-patent-dominance-top-5-companies-leading-the-charge.md",
       "title": "Patent Dominance: Top 5 Companies Leading the Charge",
       "excerpt": "P atents are considered one of the best representations of a company’s inventive activity. Patenting an innovation is a crucial step to secure and convert research and development (R&D) efforts into potential economic gains.",
@@ -2125,6 +1910,229 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction.md",
+      "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
+      "excerpt": "In search of a solution, an Intel-led group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/",
+      "publishedDateTime": "2020-01-20T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/4435aca3-10d3-4e94-bce1-b9a5ec1a9557-e1579113904720.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-interpreting-3d-seismic-data-automatically-using-amazon-sagemaker.md",
+      "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
+      "excerpt": "Interpreting 3D seismic data correctly helps identify geological features that may hold or trap oil and gas deposits. Amazon SageMaker and Apache MXNet on AWS can automate horizon picking using deep learning techniques. In this post, I use these services to build and train a custom deep-learning model",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interpreting-3d-seismic-data-automatically-using-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-20T09:49:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/12/seismic-1.gif",
+          "width": 600,
+          "height": 424,
+          "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai.md",
+      "title": "Scoutbee raises $60 million to expedite supplier discovery with AI",
+      "excerpt": "That’s why in 2015, four German entrepreneurs — Christian Heinrich, Fabian Heinrich, Gregor Stühler, and Lee Galbraith — founded Scoutbee, which develops and sells access to an AI-driven supplier discovery platform. After raising $12 million in June 2019 to lay the runway for future growth, the company this week closed a $60 million ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/",
+      "publishedDateTime": "2020-01-20T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/logo-orange-small-e1579119365676.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Scoutbee raises $60 million to expedite supplier discovery with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn.md",
+      "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
+      "excerpt": "Although thеrе are several factors driving thе adoption оf artificial іntеllіgеnсе, thе mоѕt іmроrtаnt оnе іѕ іtѕ capability to make real and аutоmаtеd decisions. This is driven by the 3A’s of AI: Aѕѕіѕtеd,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
+      "publishedDateTime": "2020-01-20T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2567f28b6cf300071c7af7%2F0x0.jpg",
+          "width": 589,
+          "height": 393,
+          "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon.md",
+      "title": "The World Economic Forum Jumps On the Artificial Intelligence Bandwagon",
+      "excerpt": "It’s great to see the WEF taking a strong look at AI and then presenting what looks like a very good, introductory, toolkit for boards of directors, but the need for strong ethical positions means that more is needed.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/",
+      "publishedDateTime": "2020-01-20T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24dd7e8b6cf300071c77b9%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": "The World Economic Forum Jumps On the Artificial Intelligence Bandwagon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

@@ -40,15 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
-    excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
-    publishedDateTime: 2020-02-06T13:49:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/38259/self-driving-bus-market-advanced-technology-and/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 0
 
 secured: "hyYDkwMau90hVz9S3P1agdywQfnHmR3kvknIcbuD3W4PCQm8rZGcMdQm62qQZF4YDDXbgBOzPSNXTTiznPe0YDkpe0pWp7J8jPM2J4VQTLRjgpH4ibwrkO/osAfMfr+xgd/Nh6YbXA1gwbYwisFIppswgVd3iJReOSNs0pfChZRCXSEAmIZ7pqGXJWdTUaRkkz6DrRpUuABH1wWnpVnSMM2DbhjByaDqcVVjsh+eIfvEVbcl3uaRLACWTH00k6WaGTqzNlhCsk8BO2no7ggRIPGkzLU2boWunch1eDxtctEL9hZgKSCjys22PrCu/U0+;NnqRlYxrPYwfO7VY8P+PpA=="
 ---

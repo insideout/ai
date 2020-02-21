@@ -2,178 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-10-protecting-privacy-in-an-ai-driven-world.md",
-      "title": "Protecting privacy in an AI-driven world",
-      "excerpt": "This report from The Brookings Institution’s Artificial Intelligence and Emerging Technology (AIET ... The Brookings Institution is a nonprofit organization devoted to independent research and policy solutions. Its mission is to conduct high-quality, independent research and, based on that research, to provide innovative, practical ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/",
-      "ampWebUrl": "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/",
-      "publishedDateTime": "2020-02-10T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2017/04/es_20170425_fintechapps.jpg",
-          "width": 4566,
-          "height": 3024,
-          "title": "Protecting privacy in an AI-driven world",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security.md",
-      "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
-      "excerpt": "In the midst of an unprecedented stock market rally and record-low unemployment, many Americans still struggle to meet their financial needs. Neel Yerneni and Tucker Haas have created Quo to provide Americans with the financial security they need in today's economy.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
-      "publishedDateTime": "2020-02-10T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e3f539b8b6cf300071e3b09/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-robots-arent-taking-over-and-other-lessons-learned-from-2-decades-in-the-logistics-tech-industry.md",
-      "title": "Robots aren’t taking over, and other lessons learned from 2 decades in the logistics tech industry",
-      "excerpt": "Editor’s note: The following is a guest post written by David Glick, CTO at Flexe, a Seattle logistics startup. I’ve spent a lot of time in warehouses ... You may have seen videos of robots zipping around the warehouse and heard the rumors of AI and automation replacing jobs. I don’t agree. Logistics is a $1.6 trillion industry; a ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/",
-      "ampWebUrl": "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/",
-      "publishedDateTime": "2020-02-09T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/Glick-Guest-Post-Pic-630x387.png",
-          "width": 630,
-          "height": 387,
-          "title": "Robots aren’t taking over, and other lessons learned from 2 decades in the logistics tech industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
-      "title": "SoftBank-owned Arm to launch new AI chip for small devices",
-      "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-arm-tech-idUSKBN2041MK",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2041MK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2041MK",
-      "publishedDateTime": "2020-02-10T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200210&t=2&i=1488376532&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1911W",
-          "width": 785,
-          "height": 545,
-          "title": "SoftBank-owned Arm to launch new AI chip for small devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-talking-to-robots-with-david-ewing-duncan.md",
       "title": "Talking to Robots With David Ewing Duncan",
       "excerpt": "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ...",
@@ -1322,7 +1150,7 @@
       "path": "_posts/2020-02-11-googles-machine-learning-is-making-you-more-effective-in-2020.md",
       "title": "Google’s Machine Learning Is Making You More Effective In 2020",
       "excerpt": "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function.",
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/",
@@ -2147,6 +1975,177 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup.md",
+      "title": "The engineers behind Google’s Bookbot have launched a delivery robot startup",
+      "excerpt": "The secretive startup called Cartken was formed in fall 2019 after Google ... However, a Korean trade delegation to Silicon Valley in October was told the company had “developed a delivery robot that combines unmanned autonomous vehicles and artificial intelligence.” Cartken’s website says that it will offer “low-cost delivery through ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/11/the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/11/the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup/amp/",
+      "publishedDateTime": "2020-02-11T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/bookbot-cartken.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "The engineers behind Google’s Bookbot have launched a delivery robot startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-the-white-house-wants-to-spend-hundreds-of-millions-more-on-ai-research.md",
+      "title": "The White House wants to spend hundreds of millions more on AI research",
+      "excerpt": "The news: The White House is pumping hundreds of millions more dollars into artificial intelligence research. In budget plans announced on Monday, the administration bumped funding for AI research at the Defense Advanced Research Projects Agency (DARPA) from $50 million to $249 million and at the National Science Foundation from $500 million ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615174/the-white-house-will-spend-hundreds-of-millions-more-on-ai-research/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688",
+          "width": 1200,
+          "height": 675,
+          "title": "The White House wants to spend hundreds of millions more on AI research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes.md",
+      "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
+      "excerpt": "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience.",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
+      "publishedDateTime": "2020-02-10T16:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-to-protect-people-we-need-a-different-type-of-machine-learning.md",
+      "title": "To protect people, we need a different type of machine learning",
+      "excerpt": "But these measures haven’t solved the biggest security problem — an organization’s own people. Traditional machine learning methods that are used to detect threats at the machine layer aren’t equipped to account for the complexities of human relationships and behaviors across businesses over time. There is no concept of “state ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/amp/",
+      "publishedDateTime": "2020-02-11T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/7-ML-learning.jpg?fit=2160%2C1078&strip=all",
+          "width": 2160,
+          "height": 1078,
+          "title": "To protect people, we need a different type of machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

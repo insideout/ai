@@ -201,6 +201,21 @@ related:
       name: VICE
       domain: vice.com
     quality: 51
+  - title: "Other voices: Facial recognition software takes personal invasion into a new dimension"
+    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
+    publishedDateTime: 2020-02-21T07:30:00Z
+    webUrl: "https://www.twincities.com/2020/02/21/other-voices-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/"
+    ampWebUrl: "https://www.twincities.com/2020/02/21/other-voices-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/02/21/other-voices-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 51
+    images:
+      - url: "https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg"
+        width: 1280
+        height: 720
   - title: "Rights groups join student demands to bar facial recognition at colleges"
     excerpt: "The ACLU, EFF and several other groups sign a letter of support for the student demands. Students shouldn't have to worry that colleges and universities are tracking their movements with facial recognition,"
     publishedDateTime: 2020-02-13T11:09:00Z

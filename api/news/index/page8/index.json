@@ -2,207 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-20-aera-launches-cognitive-business-brain-operating-system.md",
-      "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
-      "excerpt": "The software industry is pushing to extend the definition of the operating system that started with software built for mainframes in the 1950s and then into the PC revolution in the 1980s - it now explains the use of AI-driven business operational software.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
-      "publishedDateTime": "2020-02-20T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e8413d378190007f3e652%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D12%26cropY2%3D552",
-          "width": 960,
-          "height": 541,
-          "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-ai-in-sports-market-2020-industry-capacity-manufacture-value-consumption-status-and-prediction-2024.md",
-      "title": "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024",
-      "excerpt": "... operating in the global AI in Sports market includes 24/7.ai Inc., Amazon Inc., Apple Inc., Anodot, Facebook Inc., Fujitsu Ltd., Cisco Systems, DeepScale, Atmel Corporation, ARM Limited, Microsoft Corporation, and Micron Technology, among others. About All The Research: All The Research was formed with the aim of making market research a ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-artificial-intelligence-yields-new-antibiotic.md",
-      "title": "Artificial intelligence yields new antibiotic",
-      "excerpt": "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ...",
-      "heat": 167,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.html",
-      "ampWebUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
-      "publishedDateTime": "2020-02-20T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is.md",
-      "title": "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is",
-      "excerpt": "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
-      "publishedDateTime": "2020-02-19T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform.md",
-      "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
-      "excerpt": "\"Leveraging machine learning opens up opportunities to look for specific patterns or to find new patterns that may have operational, security or financial implications,\" he said. SEE: 5G: What it means for IoT (free PDF) The Control Center allows customers to manage multiple services through one platform. Butaney said one of Cisco's ...",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
-      "publishedDateTime": "2020-02-20T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/02/03/66f6f5da-15a1-456c-8adf-a48cbf833009/resize/1200x/9666674f20d29b29ebb06d59db1479a9/istock-952984968.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
       "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
       "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
@@ -288,7 +87,7 @@
       "path": "_posts/2020-02-20-facebook-will-now-pay-you-for-your-voice-recordings.md",
       "title": "Facebook will now pay you for your voice recordings",
       "excerpt": "Facebook will offer to pay some users for voice recordings that will be used to help improve its speech recognition technology, the company announced Thursday. The move comes after Facebook — as well as Amazon, Apple, Google, and Microsoft — was caught listening to and transcribing voice recordings to improve speech recognition systems ...",
-      "heat": 114,
+      "heat": 144,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
@@ -770,7 +569,7 @@
       "heat": 176,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/",
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts",
       "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
       "publishedDateTime": "2020-02-20T06:49:00-08:00",
@@ -2087,6 +1886,206 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-18-why-some-cities-states-and-lawmakers-want-to-curb-facial-recognition-technology.md",
+      "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
+      "excerpt": "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of ...",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/2680483001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001",
+      "publishedDateTime": "2019-12-17T16:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/11/19/USAT/4673ca8f-44ed-4dcf-99a0-2c54536bf6fc-AFP_AFP_1LW6JF.JPG?crop=3104,2328,x175,y0&quality=50&width=640",
+          "width": 640,
+          "height": 480,
+          "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-19-12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks.md",
+      "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
+      "excerpt": "However, previous research in visually-grounded language understanding have been mostly task-specific. Researchers from the Facebook AI Research, Georgia Institute of Technology, and Oregon State University found that the skills required for different V&L ...",
+      "heat": 65,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/syncedreview/12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks-e4553d91599d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*0vHYTrZBDprt8NP4KByFkg.png",
+          "width": 1200,
+          "height": 419,
+          "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-19-tiny-robotic-insect-can-withstand-multiple-heavy-hits-from-a-fly-swatter.md",
+      "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
+      "excerpt": "Scientists have pulled inspiration from insects in order to create a tiny ... It might sound like science fiction, but it's actually more plausible than you might think.' It is also designed ...",
+      "heat": 141,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
+      "publishedDateTime": "2019-12-19T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2019/12/19/17/22463342-0-image-a-30_1576777846491.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-ai-accelerator-card-offers-face-object-recognition-applications.md",
+      "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
+      "excerpt": "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ...",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecuriMetrics HIIDE",
+        "domain": "findbiometrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://findbiometrics.com/wp-content/uploads/computervision.jpeg",
+          "width": 400,
+          "height": 258,
+          "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
+      "title": "Computer Vision and the CCPA: What You Need to Know",
+      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
+          "width": 1200,
+          "height": 744,
+          "title": "Computer Vision and the CCPA: What You Need to Know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

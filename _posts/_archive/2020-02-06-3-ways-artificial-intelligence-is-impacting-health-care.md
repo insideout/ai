@@ -5,7 +5,7 @@ excerpt: "to transform the health care industry by improving patient outcomes an
 publishedDateTime: 2020-02-06T12:49:00Z
 webUrl: "https://www.bizjournals.com/nashville/news/2020/02/06/3-ways-artificial-intelligence-is-impacting-health.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://media.bizj.us/view/img/11588294/gettyimages-840370370*1200xx2141-1206-0-0.jpg"
-    width: 1200
-    height: 675
-    title: "3 ways artificial intelligence is impacting health care"
 
 related:
   - title: "Technology is changing the underwriting of health care risks"
@@ -51,6 +45,6 @@ related:
       domain: ciol.com
     quality: 39
 
-secured: "Tt/MZc6+wDsqzFtNv1UoACezl8NzXs3UpfOLJGgttBD4MUvDe+v1XIEMlbTzY22w9k3ibkPmTYqn14C3RiCOU6rxkXCAIK7IYLRN83MmwuqEQQ+lEvc6E7aK55O7ZFXuv4hzBphvzomzi+8nUqor6/obAy3i5sgyuQuaS0h/byV81gb+o6wA3KZdKb7vuoFI5Y2kNWcFLuVKCZoVTX4XXvZ7pJoYy5x6oHhA7OIZD1zasUsnbgHLKfhVO2ljaslU9AF657nHy/PYOxL9KqEiyJ7SfLO28AJ0vuBPykRSV9Tys+npAjaPOCb4gH+cnU+t;7GszoRjUDSuzeSFt1coRkA=="
+secured: "GQaCVOEJzvlERe1Xga35j/8HvAsZmg6tdKEd2I/7wdwHg/uIG2lC5EFpnPmBIoN0nHu3Gke2t6LN8qAuul9W3eKwxh3Cq9CE9lrNSps75K0BhMHFjx7suuZVA8EAsZhvS6fOrreNhAz/Tr1yyBOlwA679w+LOgbcwa7c9SDPQjGY+8JukgIdc8ilcIZTscX2zIhpb8B1EUg/7pMlKZJlQLwDZiMfamDPeJVJBCzwOcCV8MEp+lS77Y6B+d6xfJzwzYlM3IAQBacdUnlG7FugejrUaJpQcRv5YjlHWqJj8fUx1Q1VkQaWaLNzlLdCUgv8VXmVDIi52Cn5PL+xY7hx51ElYgo31o1oFw/5lI+ZfiR/iOVHM+JyqtQXmSGd+1/cWbR3xHDgscJb+ZCHd59sAURNfv+uCACcconwocuSVnunP+/5Y3HBWrwJwUyyFrP3MIj/2+sgLNquvYRTsUPAQloZaWoD4usqg8LNT4Ei5vs=;sx9IfIh+RNwmLz93M6rQMQ=="
 ---
 

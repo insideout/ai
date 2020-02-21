@@ -5,7 +5,7 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-02-05T06:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Image Recognition Market Worth $81.88 billion by 2026"
 
 related:
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
@@ -162,14 +156,16 @@ related:
       domain: openpr.com
     quality: 19
   - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
-    excerpt: "Ltd. London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth ..."
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion"
     publishedDateTime: 2020-02-06T12:05:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15267401/voice-and-speech-recognition-market-worth-26-8-billion-by-2025-at-a-cagr-of-17-2-from-2019-meticul"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15267401"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15267401"
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
   - title: "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Smart Learning Market by Component (Hardware ... Enterprise users include organizations catering to various verticals, such as retail; government; healthcare; and Banking, Financial Services and Insurance (BFSI). Corporate users implement these solutions as a tool to train and assess employees for providing ..."
     publishedDateTime: 2020-02-10T11:56:00Z
@@ -195,6 +191,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "yRtwP7zaRxpmuEPcapMVMZvct8vGPIenNl70xBNEOGnT2wFlvALYn5P67GED0XetGMqbWOdcl+FZKyvc3paiv1APhbuDlYOf0dopXKeeyE+Y/GiTVGAz3ujQmMB9iII4s4i9ujEXqEI76nX3dVJWqNCAWF0Vc06CE9esQq/sZVj13sgpdD8dlqHtjJ48PmsO3bUgk83JV2dUbtaD4x0kaXCSFHxmB3zE5fMcbzkxSRcFHIb2cp70dT3HTHJObDejmMdH0dpJd6tJHH/E0MCGYk7xMP1VsyX4D7jR35aDQf4XaYQmsBX/pH8b3fGXB5YA;unzBjano49l3PfLCLbatEg=="
+secured: "sdb8nza1otrCMrhhicy9wOu2TjQGnNXUrlUW6t2P7ni4RNI8ijplfO9xHL7PDA5SYvTnoZJEEjnVfbWQfRaGlMjyVJnLZgfnp8cuwOAfE8eczbBfm/mD/kRqmqcDbWW8ptUZrMuj4mLAfXvt1vTAenNDRx4rtULnSecpgZg01tcdWuTtDTnxmKeaUbYEcf63DsKAaM5ElD396S0+So7yhUECpND753aA7xZTa5dN/qBl9JTYeNR1wizH9TfOa/tUsTV0u2AU0qMsXLtC57l54/WnDj3rzUt2WMYEF6uemC2DbdzrqMY2G1/KjbC87EvX;9/k2/Z9k9h2vRuXqjgJOHw=="
 ---
 

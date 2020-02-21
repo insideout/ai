@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T15:25:00Z
 webUrl: "https://insidehpc.com/2020/02/deep-learning-for-predicting-severe-weather/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     title: "Deep Learning for Predicting Severe Weather"
 
 related:
-  - title: "The evolution of computing for AI & machine learning - Infographic"
-    excerpt: "See the divided uses cases for Vector processing vs Scale processing by downloading your free Infographic from our content partners NEC X"
-    publishedDateTime: 2020-02-06T14:16:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/evolution-computing-ai-machine-learning-infographic/"
+  - title: "Machine Learning Algorithms for Predicting the Recurrence of Stage IV Colorectal Cancer After Tumor Resection"
+    excerpt: "The aim of this study is to explore the feasibility of using machine learning (ML) technology to predict postoperative recurrence risk among stage IV colorectal cancer patients. Four basic ML algorithms were used for prediction—logistic regression, decision tree, GradientBoosting and lightGBM. The research samples were randomly divided into a ..."
+    publishedDateTime: 2020-02-13T10:10:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-59115-y"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
+      name: Nature
+      domain: nature.com
+    quality: 20
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/NEXC_INFORGRAPHIC.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59115-y/MediaObjects/41598_2020_59115_Fig1_HTML.png"
+        width: 640
+        height: 685
 
 secured: "s9Muo49602DDY1uAXQ2xOEaBbmmAOO5a7KcdHfJ9D8hrFnhwx821ouDugsz8tGW4agSn+NLIrd9nGu5krDUAUb78tKmegts1YgSKBfksvSJUSfIjgl+9DIadbYFqxu3neuawdZ6lnaqAEAS9nljxH3rEzr3fVah1D3GYviXuohKajr9MsSwSdJN1FspfzErqtF2iLpQD5FdMU0vBleGODDCX7oTPqsTmTPdKKSDeTqAnVDdi2hPBmK9DX+KtBoaP4NDEMa02NEVpMF0dVXuvC3mH6UPCKbas4NDIj2f4bWhanie5vjRVcvJa4ccrfshlDu1JrT45y666hIk3a9C6EUT6LDa+6BfkbYvZy5XPipswXSkqrWOxcb7uwzqVlV39c1QvZ1tQwpOSnpYDDZhTVgkiXzVJau4STEKkNLfRUF3t+LCbgSakEAlidqWTra38E0Wd7SfkuxCYQ0PfU/y2fLixMYJFGHCVp+6Ut613gqg=;G5OuFbjB4QU4jsj5o0IxWA=="
 ---

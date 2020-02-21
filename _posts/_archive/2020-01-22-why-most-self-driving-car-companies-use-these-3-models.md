@@ -5,7 +5,7 @@ excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at stre
 publishedDateTime: 2020-01-22T10:12:00Z
 webUrl: "https://sea.mashable.com/tech/8744/why-most-self-driving-car-companies-use-these-3-models"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://sm.mashable.com/t/mashable_sea/feature/w/why-most-s/why-most-self-driving-car-companies-use-these-3-models_358k.1200.jpg"
-    width: 1200
-    height: 799
-    title: "Why most self-driving car companies use these 3 models"
 
 related:
   - title: "Why most self-driving car companies use these 3 models"
@@ -40,6 +34,6 @@ related:
         width: 1200
         height: 630
 
-secured: "0oT/9gNBerNK4APzO2pRCflpctC4tFQaoL1MxBvuozp7mX6F0PK23AG7OooGP3y7Z71/lWILKrp+Jy+FX2S7NDm9SK6L7fqV5QbMILH6fGLKX2l7APvCoOMVCK+Im/3gVPB2XxRQTkMe8yFdNdKIf0AfdEu+WfAsrn8l/VfuqFw1zTVmW2r8B1FJ2FvZKwIh4/4QeOvf5HYpJ0D2QKYMuM371tr10teEoD3tWV+GWha3Glu3yBhwVf4mLU8MkbSfQCeRp4wk9PmTAKJUvcUZ3H25PhHTi/4zySiMVroXiZJtkuIP0jmPQvtiW9zsb7bA;fCLsamK1Xu+k5Tmyu2nGbw=="
+secured: "u83ru9Ugs5QTXyYOjcBEO81NI4dOVm+9n2ppMQbhJhEMCbyx1lvquCDIO/GuVo1Kh23wCPgXirqdpxM3VbboNd7x3L9sS1v0uy4L8+bz+Yw/SC49hAYRqCyYJn7ywC5w/u7c6v604IT1gMyVC3WJYDn+wpMHOfbW09KP83qSbikoX8HJ4YL3IW4TSXlHWMzPOo8d4yG7PG1AH4O1XWvW7z4159ZwztAnJ2stJ5q0h+fpEgYcAhCnOzh8mI88kUxVZvktjLbl9wywITkiTf+a1ca9nL2Jd9Clu76by3qLWN7PFgH4al/7lF7MSW9p45r6GmfwmoOU7MjR3cDkBBiOaARpT6LMwxAPxvFFGzD77vX+3AHuJ4Rhn4nLlCCsnEwNnqm/cP2hRe/w9XLJskDI0oZo/OHP4keW/yis9OqWD1YDaT45A/WibmGKBvv791MWMXh3CgKpgmwXhzMa6f5y9PG6ntoOCW2F4IRX5JvSbps=;P02kOAH17Y7mxuVkWfbWug=="
 ---
 

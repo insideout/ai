@@ -121,42 +121,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-06-ai-energy-startup-worlds-snags-chevron-and-petronas-as-backers.md",
-      "title": "AI energy startup Worlds snags Chevron and Petronas as backers",
-      "excerpt": "An AI company with energy applications is emerging from stealth mode with $10 million from backers including VC arms of Chevron and the Malaysian oil giant Petronas. Driving the news: Worlds, a spatial AI company being spun out of the firm Hypergiant Sensory Sciences, announced the Series A funding led by Align Capital. The company's technology ...",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.axios.com/worlds-chevron-petronas-investment-ai-energy-89238171-2e77-4120-b764-d37b8ba5cf27.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.axios.com/img/axios-icon.png",
-          "width": 400,
-          "height": 400,
-          "title": "AI energy startup Worlds snags Chevron and Petronas as backers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-amazon-researchers-distill-knowledge-from-a-large-ai-model-to-a-simplified-version.md",
       "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
       "excerpt": "In AI and machine learning systems, knowledge is typically distilled by training a small model — a student — to mimic a large and cumbersome model — a teacher. The idea is to compress the teacher’s knowledge by using its outputs as labels to optimize the student, but there’s no guarantee knowledge will be transferred to the student ...",
@@ -328,88 +292,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-06-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon.md",
-      "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
-      "excerpt": "The European Central Bank (ECB) has partnered with Reply, a platform focused on digital innovation, in order to offer a 48-hour coding marathon, which will focus on teaching participants how to apply the latest artificial intelligence (AI) and machine learning (ML) algorithms. The marathon is scheduled to take place during the final days of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
-      "publishedDateTime": "2020-02-06T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Euro-Money-Europe-20-bright-300x216.jpeg",
-          "width": 300,
-          "height": 216,
-          "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-facebook-and-venmo-demand-clearview-ai-stops-scraping-their-data.md",
-      "title": "Facebook and Venmo demand Clearview AI stops scraping their data",
-      "excerpt": "The facial recognition startup is using photos from the internet to build its database. Following Google and Twitter, Facebook has become the latest company to take legal action against controversial facial recognition startup Clearview AI. According to Buzzfeed News, the company sent a cease-and-desist letter to Clearview sometime this week ...",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
-      "publishedDateTime": "2020-02-06T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-12%252F817d5be0-2b17-11ea-bf2f-87fbf2b24155%26client%3Da1acac3e1b3290917d92%26signature%3Db14f51401056407d35d55f5f6c2b29b8f6862048&client=amp-blogside-v2&signature=d27d50c6ff2fff8a8b1438ffab389237e0ebdc55",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook and Venmo demand Clearview AI stops scraping their data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
       "title": "Facebook launches 3D deep learning library for PyTorch",
       "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
@@ -453,51 +335,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai.md",
-      "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
-      "excerpt": "The white paper encapsulates change underway at the IEEE in line with AI ethics principles released in spring 2019 after years of work, according to IEEE Global Initiative on Ethics of Autonomous & Intelligent Systems John Havens. It also follows last fall’s declaration by IEEE leadership to recognize “the global scale of the human-made and ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2020-02-06T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?fit=1200%2C850&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -696,7 +533,7 @@
       "path": "_posts/2020-02-06-uber-gets-green-light-to-test-self-driving-cars-in-california-again.md",
       "title": "Uber gets green light to test self-driving cars in California again",
       "excerpt": "Uber's self-driving could be allowed roads again in California. According to report Thursday from Reuters, the ride sharing company received a permit on Wednesday from the California Department of Motor Vehicles to test the autonomous vehicles with a backup driver. Uber did not immediately respond to request for comment, but told Reuters it ...",
-      "heat": 279,
+      "heat": 269,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
@@ -2103,6 +1940,186 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-ai-for-a-competitive-advantage.md",
+      "title": "AI For A Competitive Advantage",
+      "excerpt": "If implemented gradually and accompanied by training for employees to maximize the technology’s impact, AI can promise to unlock many new doors for any organization.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/",
+      "publishedDateTime": "2020-02-07T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 558,
+          "title": "AI For A Competitive Advantage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-an-ai-regulation-strategy-that-could-really-work.md",
+      "title": "An AI regulation strategy that could really work",
+      "excerpt": "When even the companies developing AI themselves agree with the need for regulation, it is time to stop discussing abstract principles and get down to the business of how to regulate a rapidly advancing technology landscape. It is clear that our regulatory system needs an update. If we try to regulate 21st century technology and beyond ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/amp/",
+      "publishedDateTime": "2020-02-08T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/markets.jpg?fit=3840%2C2160&strip=all",
+          "width": 3840,
+          "height": 2160,
+          "title": "An AI regulation strategy that could really work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020.md",
+      "title": "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020",
+      "excerpt": "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T20:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-biased-algorithms-learn-from-biased-data-3-kinds-biases-found-in-ai-datasets.md",
+      "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
+      "excerpt": "Algorithmic bias negatively impacts society, and has a direct negative impact on the lives of traditionally marginalized groups.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/",
+      "publishedDateTime": "2020-02-07T19:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3e257cf133f400076bf4fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5785%26cropY1%3D413%26cropY2%3D3667",
+          "width": 1200,
+          "height": 675,
+          "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     }
   ],

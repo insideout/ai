@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/2020/02/investors-technology-startup-ai-data-t
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/investors-technology-startup-ai-data-talent/amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     title: "How an investor evaluates the technology of an AI startup"
 
 related:
-  - title: "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office"
-    excerpt: "Less than a half-year into its existence, the Energy Department’s new Artificial Intelligence and Technology Office officially unveiled its leader. According to a Thursday announcement, the agency’s undersecretary for science officially swore in Cheryl Ingstad as the inaugural director of AITO on Feb. 4. “AI technologies will be as ..."
-    publishedDateTime: 2020-02-06T14:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/energy-names-inaugural-director-new-artificial-intelligence-and-technology-office/162922/"
+  - title: "The Technology 202: Tech startup investors are skeptical of Washington's increased antitrust scrutiny"
+    excerpt: "“All of these companies are vulnerable in some fashion or another.” Ram Shriram, an early investor in Google, said there continue to be areas where start-ups can take on the incumbents. “The way Big Tech will get disrupted is by new technologies like AI,” he said. The workshop highlighted the wide chasm between the venture capital ..."
+    publishedDateTime: 2020-02-13T14:25:00Z
+    webUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/02/13/the-technology-202-tech-startup-investors-are-skeptical-of-washington-s-increased-antitrust-scrutiny/5e4457a088e0fa4a22a4ab72/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 130
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 7
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/05/NGai20200205/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/56bbd775d7d71ded7c42234efc290ed2-44NP7UCNTYI6VFT34B2NGAWH2Q-680-392-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 855
 
 secured: "OX5KVR5VtUdICWfkMd47vS8XL+JW/QZx8YqljwuKdrc5X7/yisQMGa0n7yN2DXeGs4ZMQ689JhXvuW8Smk8U4OgXwWgeJOVL/yPEcde+N2nvoFMdi+JZV+OtjEBduYYMJCNtTIZdz78tLhaulitOYRfN0NZ8dqLM4IbeqQsAc6PZqaMNncuzzTsR7ZX0JRhEnz6iMNiPSqG+8bR1UMlvcQCNKBVawJmTXWC+kd8gAUa3zwMpazfSQos9se6vtBeXeuK1yp5iI4GQHLc51jz97u1qavOUGaT/g01QJpjyFsxZppAdV9o8fcJW89TtpsJctPH6AFNyVnTpEFJAb/+5pQMhdEbsXtVFkYwvfiLuIgaDvGjYZg1qOoxYwWhis8iEniPeTo1JEhOs1FXBFazIPLU2EIFbYl1+5390qXQBib1993dh4Kjk0xZ2t5KfvO8ea0U5li0pC+8E36pKzGPGIwTYf3xBKw8K6E3BYd6Zonc=;2C8Sn/B+VwhWJ4xIRLMyCw=="
 ---

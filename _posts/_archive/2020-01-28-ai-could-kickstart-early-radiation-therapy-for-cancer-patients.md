@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence (AI) could one day be used to help cancer pati
 publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,13 +17,22 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
-    width: 1200
-    height: 450
-    title: "AI could kickstart early radiation therapy for cancer patients"
-
 related:
+  - title: "AI can help cancer patients start radiation therapy sooner"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
+    publishedDateTime: 2020-01-27T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 74
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
@@ -36,6 +45,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "RgYw+9WYXW2yMjfic5B3+1/VyOGuum+j5N7aRJ6jz2uvRLAGha9GUWZWv8j1mvIksHC/TLxRYnm1XtHMn5jM/4h37HifH6coa8hjdmi302HPneJmfRIaRfORME2E5b6NYfm72PsXfYPJydSePh7YxRGsQKNwYc5ijnd2QDdk6njwtsom9WapFTIhLOlnJG+FXZ8vHRQoaLUL8V1Pknti19eAgjVAXZacz4hSDhiAySsmeGQAGbMkoA3juFNoC81B4Pznpey4ljJsV+Wtcg1108M67HC3juSbttp1psl4yh5Cg9LOK8la0gBD32N5OynZ;YtaEkb93aZget02Lf14HNA=="
+secured: "/V4asHJKyEyMFSyZuDqP/wAY95r0NFhhNvLjz35Xb2qHi0LMTI+AVi17no0+/X2NlRZQNj9h5dM/gWTkBl8kHWGN3Uv/M+MHUPDlGtUtj0HRulPsMvMzN+re/NkIvNkWMv101Egfe+wBvSPvks1CTE5cOwXNVupX6ixP9WwKITIemaeVCuBxbBYi6wm1nRhm/lQdUH12ll+scr9G7hhQeh9lyJ/hVUtmwTLgTfpxLi/iYgEaApl7UV28021LyKjuzY4ViQAFoKMdP+WPQuPgvwUssooY9kAbxm81XlMbif8pG90y8qok9daQRUpDINuz;F8N8urbcBjABTysuAZ1eCQ=="
 ---
 

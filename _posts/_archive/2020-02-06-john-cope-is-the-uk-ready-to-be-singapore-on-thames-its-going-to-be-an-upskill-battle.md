@@ -1,8 +1,8 @@
 ---
 category: news
 title: "John Cope: Is the UK ready to be Singapore-on-Thames? It’s going to be an upskill battle"
-excerpt: "Careers are getting much longer, with most likely to be working into their seventies. Artificial intelligence, driverless cars, automation – the most visible sign being the death of the checkout – are pervasive, but still largely discussed as ‘the ..."
-publishedDateTime: 2020-02-06T13:46:00Z
+excerpt: "Artificial intelligence, driverless cars, automation – the most visible sign being the death of the checkout – are pervasive, but still largely discussed as ‘the future’. Algorithms can ..."
+publishedDateTime: 2020-02-06T15:01:00Z
 webUrl: "https://www.conservativehome.com/platform/2020/02/john-cope-is-the-uk-ready-to-be-singapore-on-thames-its-going-to-be-an-upskill-battle.html"
 type: article
 quality: 15
@@ -23,6 +23,6 @@ images:
     height: 300
     title: "John Cope: Is the UK ready to be Singapore-on-Thames? It’s going to be an upskill battle"
 
-secured: "EJMuTnmhPdzCAegEhvr5s0mwgjTvMnckNUmv3TG2V1ZYti4nladhxAWihK07xxdgtjEPzVV+l8DnW5bvTnc5lTMO/6Iv5WIjOph55DIR74cNMQuAkHb9oi3ZUiZ90t5gjZ29f80wlS2Gg8oejx2zhFhUyGDlj8LxyIu0A7QAqWT6lPIStiwSvSj0oDyjYC+mVOacB9JTiNYu3+V+/cBq0ru14kYgAqjpK21Cf9WaKgJQipcftP/18IoxOjqcS3REmVCcuo/aaxqTPD52wJ1G/2PF3XLD8w61Iu60X5EweDlNnN6pMEOFWMfPDpYTTyiTJUO3OhmHaPWuAb79YNDCnTEA2uGcm/nSQE1Y9RWnGWFk5mbx/Un6NXzV11IJbVtHXGrdJDRbBISx09SnHWkbFJ7sa6dqoKl3AaJnF5JhXDrB8qIOk/y1al/oNw7k0jxeR8VqBj1YM8xS8tdr9jNy8yWQ9G4ryF0gUGxmDLHpXVs=;SlxQNVXewteW+S7WA/Wl/w=="
+secured: "nFzxiROimT5LsEbCC7KPn2jsf51TLsGadgQ5EaG9wCDWXttkq/YH4U+wuLJNjDIz0OI4aI0zgKQHNfeaNvMmOxIvp/Sb4H3uCPAKe4ODEZlrpj+S4aEr2i0L/cwjRnvqOCK6YW1X/B1YFT+XrCqq/Dd2VtdXBT3qGO1ekhh7TShKFIOUhBXkhUyULcpfplRO5EmpaOB/Rt5v8/j4kHAoevxU6CoIUWAfXIcVrDmPNA6DkVFh/Rj0N1okgoWchruBcKE5A4F9jEcHkzYpsVivikmCUG/YTucFZzLzZNlFrb0QIKro86TrMhNHnXtjshKs;C30uOM68ntNsJxz8PZ5lUw=="
 ---
 

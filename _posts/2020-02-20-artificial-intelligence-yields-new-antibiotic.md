@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-02-artificial-intelligence-yields-antibio
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp"
 type: article
 quality: 137
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -49,6 +49,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Artificial intelligence used to discover powerful new antibiotic"
+    excerpt: "Scientists have used artificial intelligence to discover a new type of antibiotic which could kill some of the world's most dangerous drug-resistant bacteria. A team from Massachusetts Institute of Technology (MIT) say their machine-learning algorithm was able to identify a powerful new antibiotic compound which did not develop any resistance ..."
+    publishedDateTime: 2020-02-21T07:51:00Z
+    webUrl: "https://news.sky.com/story/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 57
+    images:
+      - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
+        width: 1600
+        height: 900
   - title: "Artificial Intelligence brings a novel antibiotic compound"
     excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
     publishedDateTime: 2020-02-21T00:44:00Z

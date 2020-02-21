@@ -67,11 +67,7 @@ related:
     provider:
       name: TWCN Tech News
       domain: thewindowsclub.com
-    quality: 89
-    images:
-      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png"
-        width: 412
-        height: 338
+    quality: 69
   - title: "Most used jargon's in Machine Learning"
     excerpt: "Machine learning and data science are one of the hot topics. We hear lots of terms related to these fields. Let’s learn about few popular terms. Supervised learning typically begins with an established set of data and a certain understanding of how that data is classified. Supervised learning is intended to find patterns in data that can be ..."
     publishedDateTime: 2020-02-07T19:29:00Z

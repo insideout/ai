@@ -58,6 +58,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Artificial intelligence used to discover powerful new antibiotic"
+    excerpt: "Scientists have used artificial intelligence to discover a new type of antibiotic which could kill some of the world's most dangerous drug-resistant bacteria. A team from Massachusetts Institute of Technology (MIT) say their machine-learning algorithm was able to identify a powerful new antibiotic compound which did not develop any resistance ..."
+    publishedDateTime: 2020-02-21T07:51:00Z
+    webUrl: "https://news.sky.com/story/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 57
+    images:
+      - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
+        width: 1600
+        height: 900
 
 secured: "m0W0AHO7Jv2W+txIH/nGEHaORofa+c4ahnnb0yVMunIs1jNrTorWn706NVQJ8Zi0oJ7ZjqiPfb8zkQa0u0xlLpxkgeBHxWykWoYu+9g2d8PXauJHxrvnQ6f8kk2lxozzg1G1Gq+RH7gQF4EceRAg0D51ODmTP8CjeM6cRUJvmyleRehm+dh1sr/nB2N7+spsF5AeNAXBZiYUggt2cAdCcOzdf27IHrEe4hl4We3UU8/NtAUWk9Lg2mt0GE8AskT8R/z7hTweUQgVT9x0j0G6DO4j9AVfqXjTbfIEjGFJo+7WRJ9fROofqGxHtl3EG4BB;bb7FVG7o4oArRZ5u1aTLtw=="
 ---

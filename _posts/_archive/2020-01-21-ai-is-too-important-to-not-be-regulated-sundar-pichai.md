@@ -25,6 +25,6 @@ images:
     height: 1020
     title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
 
-secured: "vNao9zTIEX5gV0F+FS2NAK8Rrqc5QFLUGZqjzjfJNQqojk7GPgndxI/W12U7aKockeMhveIckQJHb/pRswSFyEhOv3R651rbv6UYEbxBKQvwrw/1h6ml8KhU74rnJaJ9AK0V6faEna0jdzP57HEOBb/o0bO8YlfjbdAeDYy/xfAzJhnWhoR5f3xvb1R08pjKDLPx8y+JMqCR2wnHqefd+39ed7LtsOTAl2t1fXs3z5sjDC5aGzC0bgWr+6KciPVnm5pCFs9MeQW3rU2xTwCQgSxwpnpwm+0G+UHqpTjktwG/PkDZ8P3YAkaSYMlxBFqQ;nBFHvFtZRBG7y/ybSL9VnA=="
+secured: "FBuTrT0GOqfWcPmPnMi6f1QygeOQmRs8t1kHG68Y7c4zoONIFDAKNHdjy0c9RS7KWTBsTmwJDjXc7YnWL9fn1KxHWaBuRZ4NyDMhvwUa1PwffXLGPz0B2Kwl69xoHFcYQoi19eh4I8ZzK8Fv3we5CswOue/QLbTQbzjxxgnWF0URYpxBj3P2mbRRsNzdMiAr3/S0ArPbtAUGAy3UBBWt+Qv2LS46FtOVKl9r1ryWgo9h8OtMcEIgVQC1aMbVje2lBJ49xhVb3e0Zc6a6C1UER6kpljvkr465JWtYbR/oowGwPmjR/9NMguHd2p2c6eBR;6zLALL9aa/z2F7v4DjQm1Q=="
 ---
 

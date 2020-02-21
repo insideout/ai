@@ -76,6 +76,47 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
         width: 1000
         height: 600
+  - title: "Facebook to pay users for using their voice recordings"
+    excerpt: "As per a report by The Verge, Facebook has announced that it will pay some users for their voice recordings, which will be used by the company in improving its speech recognition technology. Facebook announced this after it was ‘caught’ listening and transcribing voice recordings without seeking permission from users. The report adds that ..."
+    publishedDateTime: 2020-02-21T06:50:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-to-pay-users-for-using-their-voice-recordings/articleshow/74238134.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/facebook-to-pay-users-for-using-their-voice-recordings/amp_articleshow/74238134.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/facebook-to-pay-users-for-using-their-voice-recordings/amp_articleshow/74238134.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/msid-74238121/74238121.jpg"
+        width: 800
+        height: 600
+  - title: "Facebook is willing to pay users for just recording audio for voice recognition"
+    excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
+    publishedDateTime: 2020-02-21T07:07:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/facebook-is-willing-to-pay-users-for-just-recording-audio-for-voice-recognition-11582267466383.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/facebook-is-willing-to-pay-users-for-just-recording-audio-for-voice-recognition/amp-11582267466383.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-is-willing-to-pay-users-for-just-recording-audio-for-voice-recognition/amp-11582267466383.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 42
+    images:
+      - url: "https://images.livemint.com/img/2020/02/21/600x338/2019-12-02T174920Z_467783753_RC25ND9X2N0L_RTRMADP_3_EU-FACEBOOK_1575316477461_1582267603516.JPG"
+        width: 600
+        height: 337
+  - title: "FB to pay users for recording to improve speech recognition"
+    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. The social networking giant will pay select users to record snippets of audio through a new programme called “Pronunciations” in its Viewpoints market research app, according to The Verge. If you qualify to be part ..."
+    publishedDateTime: 2020-02-21T06:23:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 39
 
 secured: "nj3dO7sI03lvNi+wlmOyTbdLHUuDM9NfE0Skpc36EEeIMHt9oqgzMUg42rSA+uVFjkta61KsMAB3RjkEAsg6n0usyf0jOeCN2LKzMgTOZJ8BICHwROZrAI+f+7OxveSjA+w47smck8bQffCT/QnP53gIl9j38OeGxg4onsRSoTbpFme6a4wPbAN05JevAfqV23DejxpHzKyRzTd61fJQYn0+4xXrFIB/A8+pCp7NIZ/f0rE4kfnm0uH7jhdLF1OaMU83Vtye7EppV49XRdM6buGD1T+hJgQrEUC9XDFxx5mrBqe356BUJ8S3A3OFHvmJ;6nrFUGJCnL72bQPIw9BdHA=="
 ---

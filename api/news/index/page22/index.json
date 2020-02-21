@@ -2,617 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-30-aquant-raises-30-million-for-ai-that-gives-customer-service-agents-mission-critical-data.md",
-      "title": "Aquant raises $30 million for AI that gives customer service agents mission-critical data",
-      "excerpt": "Assaf Melochna and Shahar Chen, former colleagues at workforce management and service optimization company ClickSoftware, advocate an AI- and machine learning-based solution. The two cofounded Aquant, which algorithmically mines and analyzes data from various sources to learn manufacturing, utilities, and telecom companies’ unique service ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/",
-      "publishedDateTime": "2020-01-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Aquant raises $30 million for AI that gives customer service agents mission-critical data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-artificial-intelligence-in-construction-market-big-changes-to-have-big-impact.md",
-      "title": "Artificial Intelligence In Construction Market - Big Changes to Have Big Impact",
-      "excerpt": "The Exploration study offers in-depth assessment of Artificial Intelligence In Construction Market and helps market participants to gain strong insights of the industry to make valuable decision. The study highlights assessment of the market by giving lot of focus on futuristic trend,",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market---big-changes-to-have-big-impact-2020-01-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Construction Market - Big Changes to Have Big Impact",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-artificial-intelligence-in-healthcare-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
-      "title": "Artificial Intelligence In Healthcare Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-      "excerpt": "Jan 30, 2020 (AmericaNewsHour) -- A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market. The report analyzes the artificial intelligence in healthcare ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-30?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Healthcare Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regulation.md",
-      "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-      "excerpt": "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done.md",
-      "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
-      "excerpt": "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/",
-      "publishedDateTime": "2020-01-30T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1037080322%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8678%26cropY1%3D427%26cropY2%3D5309",
-          "width": 1200,
-          "height": 677,
-          "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-darpa-deploys-swarms-of-autonomous-robots-to-carry-out-urban-raid.md",
-      "title": "DARPA Deploys Swarms of Autonomous Robots to Carry Out Urban Raid",
-      "excerpt": "In the not-so-distant future, hundreds of unmanned drones and on-the-ground rovers could swoop into an area of interest and spew crucial data to human military operators, researchers say.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834",
-      "ampWebUrl": "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1",
-      "publishedDateTime": "2020-01-30T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1563786/darpa-drone-swarm.png",
-          "width": 1695,
-          "height": 1115,
-          "title": "DARPA Deploys Swarms of Autonomous Robots to Carry Out Urban Raid",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute.md",
-      "title": "DeepMind’s MEMO AI solves novel reasoning tasks with less compute",
-      "excerpt": "Can AI capture the essence of reasoning — that is, the appreciation of distant relationships among elements distributed across multiple facts or memories? Alphabet subsidiary DeepMind sought to find out in a study published on the preprint server Arxiv.org, which proposes an architecture — MEMO — with the capacity to reason over long ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/amp/",
-      "publishedDateTime": "2020-01-30T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind’s MEMO AI solves novel reasoning tasks with less compute",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-drug-designed-by-ai-to-enter-human-trials-for-first-time.md",
-      "title": "Drug designed by AI to enter human trials for first time",
-      "excerpt": "Exscientia's system automatically analyses patients' genetic data and finds molecules that could be used in new medication Credit: Andriy Onufriyenko The first drug designed entirely using artificial intelligence is entering clinical human trials ... Rock Health for The Financial Times earlier this month suggested that AI, machine learning ...",
-      "heat": 207,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/",
-      "publishedDateTime": "2020-01-30T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
-          "width": 1960,
-          "height": 1225,
-          "title": "Drug designed by AI to enter human trials for first time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-elon-musk-contradicted-a-bold-claim-he-made-last-year-about-teslas-self-driving-capabilities.md",
-      "title": "Elon Musk contradicted a bold claim he made last year about Tesla's self-driving capabilities",
-      "excerpt": "Tesla CEO Elon Musk said last year he was \"certain\" the company's vehicles would be able to drive without human assistance by the end of 2019.",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1/",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1?amp",
-      "publishedDateTime": "2020-01-29T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e3224595bc79c3f8e4d83b5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk contradicted a bold claim he made last year about Tesla's self-driving capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-ethical-ai-can-ensure-ais-superpower-is-used-for-good.md",
-      "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
-      "excerpt": "Ethical AI can help ensure all of our AI efforts are ethically compliant, environmentally conscious and transparent.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
-      "publishedDateTime": "2020-01-30T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 558,
-          "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit.md",
-      "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
-      "excerpt": "Facebook has agreed to pay $550 million to settle claims in Illinois that the company violated local laws on facial recognition technologies. The results of the lawsuit were made public on Wednesday and have been described as the \"largest cash settlement ever resolving a privacy-related lawsuit.\" Launched by law firms Edelson, Robbins Geller ...",
-      "heat": 467,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
-      "publishedDateTime": "2020-01-30T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/01/31/b757b17e-a735-4177-8143-35b8c57662e8/resize/1200x900/afac4a12cff1cda9dd8d8fcec0212626/screenshot-2019-01-31-at-17-25-36.png",
-          "width": 1200,
-          "height": 765,
-          "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you.md",
-      "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-      "excerpt": "IBM has released a new free tool designed to help developers cut the chore of labeling images in video when training AI object-detection models. The new auto-labeling tool is part of IBM's push to ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "publishedDateTime": "2020-01-30T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-google-ai-chief-the-promise-of-multi-modal-learning.md",
-      "title": "Google AI chief: The promise of multi-modal learning",
-      "excerpt": "Google's Jeff Dean explains multi-modal learning and why it's the next big challenge for AI researchers. Read more: https://zd.net/2RWOWVq",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/google-ai-chief-the-promise-of-multi-modal-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/982ecb2e-09ab-44ee-a2e9-a132a038b050/thumbnail/770x578/79de21a8c75b1f253e83a6992a2be950/20200129-dean-steph.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Google AI chief: The promise of multi-modal learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-government-releases-guide-for-ai-use-in-the-public-sector.md",
-      "title": "Government releases guide for AI use in the public sector",
-      "excerpt": "to managing the implementation of planned AI deployment and exploring the safety and ethics to using AI systems in the public sector. As AI is already being deployed in the public sector, the guide contains case studies for other public sector workers and organisations to draw inspiration from. For example, it notes how the National Grid uses ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp",
-      "publishedDateTime": "2020-01-30T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816530/itpro/2019/02/ai_shutterstock_767827225.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Government releases guide for AI use in the public sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-30-ibms-new-ai-powered-tool-will-automatically-label-images-for-developers.md",
       "title": "IBM’s new AI-powered tool will automatically label images for developers",
       "excerpt": "Developers building machine learning or object detection models have to manually label hundreds to thousands of images to train them. To make the task easier, IBM has introduced a new auto-labeling tool. The new feature is available for everyone through Cloud Annotations GUI, IBM’s online tool for labeling images. If you’re a developer ...",
@@ -2120,6 +1509,594 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-top-cloud-providers-in-2020-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
+      "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
+      "excerpt": "AI, machine learning and analytics are the upsell opportunities for Google Cloud Platform ... (See: Salesforce plays multi-cloud game with Microsoft Azure, Google Cloud as AWS contract likely up for renewal) Alibaba has scaled rapidly with a bevy of enterprise partners. What remains to be seen is whether Alibaba can expand beyond China.",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "publishedDateTime": "2020-01-31T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/ceb60455-dec4-4a4b-9359-2712746d6986/gartner-cloud-spend-2020.png",
+          "width": 823,
+          "height": 557,
+          "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month.md",
+      "title": "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month",
+      "excerpt": "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-want-to-be-ai-first-you-need-to-be-data-first.md",
+      "title": "Want To Be AI-First? You Need To Be Data-First.",
+      "excerpt": "Those that implement AI and Machine Learning project learn quickly that machine learning projects are not like typical application development projects. The code is the least significant part.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
+      "publishedDateTime": "2020-01-30T20:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f567178b3f4000623f395%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Want To Be AI-First? You Need To Be Data-First.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-what-differentiates-ai-leaders-according-to-a-founder-of-globant.md",
+      "title": "What Differentiates AI Leaders, According To A Founder Of Globant",
+      "excerpt": "I recently sat down with Guibert Englebienne, CTO and co-founder of Globant, a digitally-native technology services company committed to leveraging the latest technologies and methodologies to help organizations thrive in their digital transformations.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/01/31/what-differentiates-ai-leaders-according-to-a-founder-of-globant/",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/01/31/what-differentiates-ai-leaders-according-to-a-founder-of-globant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/01/31/what-differentiates-ai-leaders-according-to-a-founder-of-globant/amp/",
+      "publishedDateTime": "2020-01-31T15:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e34b6eaa854780006b02f26%2F0x0.jpg",
+          "width": 1015,
+          "height": 440,
+          "title": "What Differentiates AI Leaders, According To A Founder Of Globant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society.md",
+      "title": "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society",
+      "excerpt": "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ...",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-why-visa-and-mastercard-are-todays-most-exciting-fintech-innovators.md",
+      "title": "Why Visa And Mastercard Are Today’s Most Exciting FinTech Innovators",
+      "excerpt": "In the world of the platform economy, the big get bigger. It’s the winner who takes all. That’s why investors were all turning their attention last Thursday as Visa announced its quarterly earnings. Processing some $3 trillion in transactions the last quarter,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/howardhyu/2020/01/31/why-visa-and-mastercard-are-todays-most-exciting-fintech-innovators/",
+      "ampWebUrl": "https://www.forbes.com/sites/howardhyu/2020/01/31/why-visa-and-mastercard-are-todays-most-exciting-fintech-innovators/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/howardhyu/2020/01/31/why-visa-and-mastercard-are-todays-most-exciting-fintech-innovators/amp/",
+      "publishedDateTime": "2020-01-31T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e33f2398b6cf300071d7fe7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Why Visa And Mastercard Are Today’s Most Exciting FinTech Innovators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-with-googles-meena-are-ai-assistants-about-to-get-a-lot-smarter.md",
+      "title": "With Google’s Meena, are AI assistants about to get a lot smarter?",
+      "excerpt": "Last year, we got to see coherent, multi-paragraph text generated by OpenAI’s GPT-2 model. This week, a new paper from Google AI showed that a chatbot based on a gigantic neural network and huge amounts of data can hold coherent conversations, maintaining context over multiple turns and conversing on just about any topic. The chatbot is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/31/with-googles-meena-are-ai-assistants-about-to-get-a-lot-smarter/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/31/with-googles-meena-are-ai-assistants-about-to-get-a-lot-smarter/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/with-googles-meena-are-ai-assistants-about-to-get-a-lot-smarter/amp/",
+      "publishedDateTime": "2020-01-31T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_524844376-e1510202399161.jpg?fit=1200%2C631&strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": "With Google’s Meena, are AI assistants about to get a lot smarter?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-would-you-take-a-drug-discovered-by-artificial-intelligence.md",
+      "title": "Would you take a drug discovered by artificial intelligence?",
+      "excerpt": "The British startup Exscientia claims it has developed the first medication created using artificial intelligence that will be clinically tested on humans. The medication, which is meant to treat ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vox.com/2020/1/31/21117102/artificial-intelligence-drug-discovery-exscientia",
+      "ampWebUrl": "https://www.vox.com/platform/amp/2020/1/31/21117102/artificial-intelligence-drug-discovery-exscientia",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/2020/1/31/21117102/artificial-intelligence-drug-discovery-exscientia",
+      "publishedDateTime": "2020-01-31T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/Ml3lr_eBTr7k4NJZKXPuatuUN2g=/0x0:3629x2419/1400x1050/filters:focal(1525x920:2105x1500):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66228929/GettyImages_464555598.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": "Would you take a drug discovered by artificial intelligence?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will.md",
+      "title": "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will",
+      "excerpt": "On Jan 30, a crash was reported between a Waymo Chrysler Pacifica minivan and another vehicle, causing minor injuries to the safety driver. Reports suggest the other car acted erratically and cut quickly in front of the Waymo vehicle,",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/amp/",
+      "publishedDateTime": "2020-01-31T15:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e34b4b5f133f400076b58b1%2F0x0.jpg",
+          "width": 1199,
+          "height": 763,
+          "title": "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-01-5-soon-to-be-trends-in-artificial-intelligence-and-deep-learning.md",
+      "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
+      "excerpt": "AI’s major headwind is the cost of the investment, which will skew returns in the short-term. When the turnaround occurs, however, companies who are making the investment can expect to be rewarded disproportionately with a wide performance gap and up to double the cash flow.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
+      "publishedDateTime": "2020-01-31T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e34ccbef133f400076b5a6a/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-01-big-brother-facial-recognition-cameras-are-watching-you-more-than-ever-right-across-britain.md",
+      "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
+      "excerpt": "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
+      "publishedDateTime": "2020-02-01T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-01-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai.md",
+      "title": "GEMS Dubai American Academy launches center of excellence for robotics and AI",
+      "excerpt": "Dubai American Academy has announced the launch of its new Centre of Excellence for Artificial Intelligence and Robotics. The vision of the Centre of Excellence is to promote educational and research activities in the field of AI and Robotics. GEMS ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai",
+      "ampWebUrl": "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp",
+      "publishedDateTime": "2020-02-01T15:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itp.net/sites/default/files/itpdotnet/images/2020/02/01/PRL--GEMS-Dubai-American-Academy-launches-Artificial-Intelligence-and-Robotics-Centre-of-Excellence1.JPG",
+          "width": 2550,
+          "height": 1663,
+          "title": "GEMS Dubai American Academy launches center of excellence for robotics and AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-01-hiding-in-plain-sight-activists-don-camouflage-to-beat-met-surveillance.md",
+      "title": "Hiding in plain sight: activists don camouflage to beat Met surveillance",
+      "excerpt": "Privacy campaigners bid to beat police facial recognition plans by wearing ‘dazzle’ makeup",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/feb/01/privacy-campaigners-dazzle-camouflage-met-police-surveillance",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-01T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-01-how-artificial-intelligence-will-change-medicine.md",
+      "title": "How Artificial Intelligence Will Change Medicine",
+      "excerpt": "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-01T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg",
+          "width": 790,
+          "height": 497,
+          "title": "How Artificial Intelligence Will Change Medicine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

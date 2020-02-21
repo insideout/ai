@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-langu
 ampWebUrl: "https://venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/amp/"
 type: article
-quality: 202
-heat: 202
+quality: 204
+heat: 204
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - Facebook AI
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all"

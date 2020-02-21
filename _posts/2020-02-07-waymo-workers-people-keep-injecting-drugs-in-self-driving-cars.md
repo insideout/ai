@@ -108,21 +108,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 50
-  - title: "Uber Can Now Test Self-Driving Tech On California Roads"
-    excerpt: "The company has been granted a permit by the California DMV. To recall, the tests were stopped after a self-driven car killed a pedestrian in 2018."
-    publishedDateTime: 2020-02-06T13:54:00Z
-    webUrl: "https://www.ibtimes.com/uber-can-now-test-self-driving-tech-california-roads-2916930"
-    ampWebUrl: "https://www.ibtimes.com/uber-can-now-test-self-driving-tech-california-roads-2916930?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/uber-can-now-test-self-driving-tech-california-roads-2916930?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 44
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/28/uber-logo.png"
-        width: 1200
-        height: 675
   - title: "Self-Driving Cars Rise Alongside Flight Shaming"
     excerpt: "As self-driving cars move closer to becoming a reality at scale, the impact on corporate travel will be immense. As sustainability becomes a more important factor for companies sending employees around the world, new solutions are needed to reduce the impact of flights on the environment. This week we take a look at some of the innovations ..."
     publishedDateTime: 2020-02-07T04:15:00Z

@@ -19,44 +19,27 @@ topics:
 
 related:
   - title: "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI"
-    excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at ..."
+    excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ..."
     publishedDateTime: 2020-02-19T07:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334"
+    webUrl: "https://www.businesswire.com/news/home/20200218006230/en/Northern-Data-Canaan-Announce-Cooperation-Blockchain-technology-AI"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Canaan, Northern Bitcoin Partner to Develop Blockchain, AI"
-    excerpt: "As the announcement described, it has extensive experience in the fields of AI chip development and ASIC hardware. Northern Data, on the other hand, operates a number of data centers and has been working on blockchain infrastructure for years. The collaboration will happen between the teams of Northern Data in both North America and Europe with ..."
-    publishedDateTime: 2020-02-19T11:12:00Z
-    webUrl: "https://www.financemagnates.com/cryptocurrency/news/canaan-northern-bitcoin-partner-to-develop-blockchain-ai/"
-    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/canaan-northern-bitcoin-partner-to-develop-blockchain-ai/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/canaan-northern-bitcoin-partner-to-develop-blockchain-ai/amp/"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
+  - title: "Sandler's Methodology and Gong's Revenue Intelligence Technology is an Unbeatable Combination"
+    excerpt: "/PRNewswire/ -- Artificial intelligence is here to stay. The global leader in the training industry, Sandler (www.sandler.com), has partnered with"
+    publishedDateTime: 2020-02-12T14:32:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sandlers-methodology-and-gongs-revenue-intelligence-technology-is-an-unbeatable-combination-301003733.html"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2019/01/Fotolia_158317030_Subscription_Monthly_M.jpg"
-        width: 880
-        height: 400
-  - title: "Artificial Intelligence Technology and Competition with China"
-    excerpt: "U.S. Chief Technology Officer Michael Kratsios talks about artificial intelligence technology and tackling Chinese competition."
-    publishedDateTime: 2020-02-20T19:16:00Z
-    webUrl: "https://www.c-span.org/video/?469498-1/artificial-intelligence-technology-competition-china"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 37
-    images:
-      - url: "https://images.c-span.org/Files/90d/1582138795.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/836802/Sandler_Training_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
 
 secured: "h6Un9sajOcAyEAZRUkf85n1q+6256OafEkmxwc2PbDrB+yxkiJsdqqEDwXFJAGhF6d5nBkxjxFChYkPU0db9ySrfzOsC6J0iR8uXMB1ejHqZRn022Jvjh2GkCAHNZ0YJ/YRGGBR4qQVFX8x+AU6itymxMLnH44zAu/iTQkX83KbPy7b4MbYkby5J6BoNbcZc9eV3RXyilmqJugODZy0TJitjmKlW4fwtyLYBraODvT4/VzPoMQnAukKd6npkiWqAWoC12TMt8ApFauXlF3RZ/l4XyiNA40rzcvl/R4PROy/bK+ck3l1qk2VJVCXX8UcQg+KiwS3P8DYH520jPvwxp+TNF0kzCnnwNazHMHxpKPwGWrZl7tMo+dp3lcjoDYFLUxyyB9y/BTG0XltqofKDsWXRKPe4xlGdADySdrotpFMRNDER610FYnkY0f9DGidsAJH0VgfcV7PjtIMqsRd0pquNKM+fcQ53Wz3UICTRi9Y=;fJ7a1V0A6kpJ3IA67WZiLw=="
 ---

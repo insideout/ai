@@ -2,176 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-17-how-the-race-to-autonomous-cars-got-sidetracked-by-human-nature.md",
-      "title": "How the race to autonomous cars got sidetracked by human nature",
-      "excerpt": "If you believed the early hype about autonomous cars ... have told me that it’s actually harder for a human to remain ready to take control than it is for them to fully control the vehicle. On top of that, studies have shown that even in controlled test environments, human reaction time for taking over an autonomous system is often to slow ...",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fastcompany.com/90459114/how-the-race-to-autonomous-cars-got-sidetracked-by-words?ref=hvper.com",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-16T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/poster-autonomous-cars-and-humans.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "How the race to autonomous cars got sidetracked by human nature",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-israel-risks-falling-behind-in-ai-despite-growth.md",
-      "title": "Israel risks falling behind in AI despite growth",
-      "excerpt": "Habana Labs. Mobileye. Hailo. Wix. There are more than 1,150 AI-focused startups in Israel, and that number is growing. Even so, some people within the government are concerned that the nation risks falling behind because it lacks a unified AI policy. AI policy refers to national strategies like the U.S.’s American AI Initiative and Canada ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
-      "publishedDateTime": "2020-02-17T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobileye-e1572905863843.jpeg?fit=1200%2C601&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "Israel risks falling behind in AI despite growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-machine-learning-is-no-place-to-move-fast-and-break-things.md",
-      "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-      "excerpt": "Machine learning systems can be massively useful, but also fail critically in unforeseen ways. We need systems engineering in synergy with experimentation and innovation.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/",
-      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "publishedDateTime": "2020-02-17T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e48aadba854780006b17705%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention.md",
-      "title": "Monash University researchers develop AI aimed at improving suicide prevention",
-      "excerpt": "In an effort to help paramedics respond more effectively to potential suicides in Australia, researchers from Monash University and Turning Point, a national addiction treatment centre, are using artificial intelligence (AI) to streamline how relevant ambulance data is filtered and categorised. The AI project, which received a AU$1.2 million ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "publishedDateTime": "2020-02-16T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/17/b6213abd-fa0f-464c-9980-616c43d989c6/thumbnail/1200x675/71d46fb343b28e5a5692484319d19257/idf-collage.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Monash University researchers develop AI aimed at improving suicide prevention",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-motc-and-microsoft-host-event-on-microsoft-azure-cloud.md",
       "title": "MoTC and Microsoft host event on Microsoft Azure Cloud",
       "excerpt": "... own terms”, brought together decision-makers to witness the capabilities of the Microsoft Azure Cloud and its open platform approach to help build or migrate workloads and applications, as well as make use of advanced technologies such as AI, Internet of Things, and Mixed Reality. The event builds on a recent announcement from MOTC and ...",
@@ -2159,6 +1989,171 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-winners-of-aws-machine-learning-research-awards-announced.md",
+      "title": "Winners of AWS Machine Learning Research Awards announced",
+      "excerpt": "The AWS Machine Learning Research Awards (MLRA) provides unrestricted cash funds and AWS Promotional Credits to academics to advance the frontiers of machine learning (ML) and its applications. MLRA is pleased to announce winners for its 2019 Q2/Q3 call-for-proposal cycles: \n \n Mohit Bansal, University",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/winners-of-aws-machine-learning-research-awards-announced/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T11:37:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Winners of AWS Machine Learning Research Awards announced",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-y-combinator-startup-humanly-helps-companies-screen-job-candidates-at-scale-with-the-help-of-ai.md",
+      "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
+      "excerpt": "Startup Spotlight profiles emerging tech companies in the Pacific Northwest. Do you run a standout startup? Apply for Startup Spotlight. The Humanly team at Y Combinator, from left, CTO Bryan Leptich, CEO Prem Kumar and COO Andrew Gardner. (Humanly Photo) Automation may be a means to replacing humans in specific types of jobs. But for Humanly ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/humanly/",
+      "ampWebUrl": "https://www.geekwire.com/2020/humanly/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/humanly/amp/",
+      "publishedDateTime": "2020-02-18T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/humanly-630x619.jpg",
+          "width": 630,
+          "height": 619,
+          "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-10-robotics-startups-to-watch-in-2020.md",
+      "title": "10 robotics startups to watch in 2020",
+      "excerpt": "Running a robotics startup is no easy task. Yet, we are always amazed by the number of robotics startups ... Reason to watch: Covariant is building AI that it calls the “Covariant Brain” to make robots smarter. Covariant was founded in 2017, but it came out of stealth mode in January 2020, announcing that its first application is piece ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/robotics-startups-to-watch-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T12:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2019/06/robust-ai.jpeg",
+          "width": 972,
+          "height": 745,
+          "title": "10 robotics startups to watch in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities.md",
+      "title": "5 Top-Ranked Tech Stocks to Gain From Advanced ML Capabilities",
+      "excerpt": "Machine learning (ML) requires no introduction in this data-driven automation era. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities-2020-02-19",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities-2020-02-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities-2020-02-19?amp",
+      "publishedDateTime": "2020-02-19T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "5 Top-Ranked Tech Stocks to Gain From Advanced ML Capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing",
+        "Machine Learning"
       ]
     }
   ],

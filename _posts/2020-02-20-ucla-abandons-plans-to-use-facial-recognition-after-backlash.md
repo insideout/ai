@@ -193,6 +193,21 @@ related:
       - url: "https://images.wsj.net/im-156180/social"
         width: 1280
         height: 640
+  - title: "Other voices: Facial recognition software takes personal invasion into a new dimension"
+    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
+    publishedDateTime: 2020-02-21T07:30:00Z
+    webUrl: "https://www.twincities.com/2020/02/21/other-voices-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/"
+    ampWebUrl: "https://www.twincities.com/2020/02/21/other-voices-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/02/21/other-voices-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 51
+    images:
+      - url: "https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg"
+        width: 1280
+        height: 720
   - title: "Panel: Add New License Photos to Facial Recognition Database"
     excerpt: "The Attorney General's Facial Recognition Task Force recommended that current Bureau of Motor Vehicle photos be added, which would include photos of people already in the database plus photos of individuals who received a license since 2011. The photos would have to meet an image quality standard. The report noted that the recommendation was ..."
     publishedDateTime: 2020-02-20T18:57:00Z

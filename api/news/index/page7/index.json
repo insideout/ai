@@ -2,171 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-18-winners-of-aws-machine-learning-research-awards-announced.md",
-      "title": "Winners of AWS Machine Learning Research Awards announced",
-      "excerpt": "The AWS Machine Learning Research Awards (MLRA) provides unrestricted cash funds and AWS Promotional Credits to academics to advance the frontiers of machine learning (ML) and its applications. MLRA is pleased to announce winners for its 2019 Q2/Q3 call-for-proposal cycles: \n \n Mohit Bansal, University",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/winners-of-aws-machine-learning-research-awards-announced/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T11:37:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Winners of AWS Machine Learning Research Awards announced",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-y-combinator-startup-humanly-helps-companies-screen-job-candidates-at-scale-with-the-help-of-ai.md",
-      "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
-      "excerpt": "Startup Spotlight profiles emerging tech companies in the Pacific Northwest. Do you run a standout startup? Apply for Startup Spotlight. The Humanly team at Y Combinator, from left, CTO Bryan Leptich, CEO Prem Kumar and COO Andrew Gardner. (Humanly Photo) Automation may be a means to replacing humans in specific types of jobs. But for Humanly ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/humanly/",
-      "ampWebUrl": "https://www.geekwire.com/2020/humanly/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/humanly/amp/",
-      "publishedDateTime": "2020-02-18T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/humanly-630x619.jpg",
-          "width": 630,
-          "height": 619,
-          "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-10-robotics-startups-to-watch-in-2020.md",
-      "title": "10 robotics startups to watch in 2020",
-      "excerpt": "Running a robotics startup is no easy task. Yet, we are always amazed by the number of robotics startups ... Reason to watch: Covariant is building AI that it calls the “Covariant Brain” to make robots smarter. Covariant was founded in 2017, but it came out of stealth mode in January 2020, announcing that its first application is piece ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/robotics-startups-to-watch-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2019/06/robust-ai.jpeg",
-          "width": 972,
-          "height": 745,
-          "title": "10 robotics startups to watch in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities.md",
-      "title": "5 Top-Ranked Tech Stocks to Gain From Advanced ML Capabilities",
-      "excerpt": "Machine learning (ML) requires no introduction in this data-driven automation era. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities-2020-02-19",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities-2020-02-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities-2020-02-19?amp",
-      "publishedDateTime": "2020-02-19T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "5 Top-Ranked Tech Stocks to Gain From Advanced ML Capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-85-in-a-35-hackers-show-how-easy-it-is-to-manipulate-a-self-driving-tesla.md",
       "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
       "excerpt": "Two McAfee researchers managed to trick a 2016 Tesla into a dangerous burst of acceleration by changing a speed limit reading from 35 m.p.h to 85 m.p.h.",
@@ -857,7 +692,7 @@
       "path": "_posts/2020-02-19-facebooks-ai-speeds-up-natural-language-processing-without-additional-training.md",
       "title": "Facebook’s AI speeds up natural language processing without additional training",
       "excerpt": "In a recent paper, researchers at Facebook AI Research assert that the first problem — the mapping problem — might be easier than the prediction problem, a hypothesis they build upon to augment language models with a “nearest neighbors” retrieval mechanism. They say it allows rare patterns to be memorized and that it achieves a state-of ...",
-      "heat": 202,
+      "heat": 204,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/",
@@ -896,7 +731,8 @@
       "topics": [
         "AI",
         "Facebook AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI Hardware"
       ]
     },
     {
@@ -1359,43 +1195,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai.md",
-      "title": "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI",
-      "excerpt": "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
-      "publishedDateTime": "2020-02-18T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1952,7 +1751,7 @@
       "path": "_posts/2020-02-19-ucla-abandons-plans-to-use-facial-recognition-after-backlash.md",
       "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
       "excerpt": "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database.",
-      "heat": 381,
+      "heat": 391,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash",
@@ -2126,6 +1925,207 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-aera-launches-cognitive-business-brain-operating-system.md",
+      "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
+      "excerpt": "The software industry is pushing to extend the definition of the operating system that started with software built for mainframes in the 1950s and then into the PC revolution in the 1980s - it now explains the use of AI-driven business operational software.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
+      "publishedDateTime": "2020-02-20T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e8413d378190007f3e652%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D12%26cropY2%3D552",
+          "width": 960,
+          "height": 541,
+          "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-ai-in-sports-market-2020-industry-capacity-manufacture-value-consumption-status-and-prediction-2024.md",
+      "title": "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024",
+      "excerpt": "... operating in the global AI in Sports market includes 24/7.ai Inc., Amazon Inc., Apple Inc., Anodot, Facebook Inc., Fujitsu Ltd., Cisco Systems, DeepScale, Atmel Corporation, ARM Limited, Microsoft Corporation, and Micron Technology, among others. About All The Research: All The Research was formed with the aim of making market research a ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-artificial-intelligence-yields-new-antibiotic.md",
+      "title": "Artificial intelligence yields new antibiotic",
+      "excerpt": "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ...",
+      "heat": 177,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.html",
+      "ampWebUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
+      "publishedDateTime": "2020-02-20T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is.md",
+      "title": "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is",
+      "excerpt": "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
+      "publishedDateTime": "2020-02-19T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform.md",
+      "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
+      "excerpt": "\"Leveraging machine learning opens up opportunities to look for specific patterns or to find new patterns that may have operational, security or financial implications,\" he said. SEE: 5G: What it means for IoT (free PDF) The Control Center allows customers to manage multiple services through one platform. Butaney said one of Cisco's ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
+      "publishedDateTime": "2020-02-20T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/02/03/66f6f5da-15a1-456c-8adf-a48cbf833009/resize/1200x/9666674f20d29b29ebb06d59db1479a9/istock-952984968.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
       ]
     }
   ],
