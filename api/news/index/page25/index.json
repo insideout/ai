@@ -2,6 +2,139 @@
   "page": 25,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-05-five-emerging-trends-in-retail-technology.md",
+      "title": "Five Emerging Trends In Retail Technology",
+      "excerpt": "Consumers want shopping experiences that feel personal to them, whether they are shopping online or in-store. Retailers are in a race to use technology to match consumer expectations and win more business.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/",
+      "publishedDateTime": "2020-02-05T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1126653452/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Five Emerging Trends In Retail Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-05-googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions.md",
+      "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
+      "excerpt": "Determining whether an AI system is maintaining fairness in its predictions requires an understanding of models’ short- and long-term effects, which might be informed by disparities in error metrics on a number of static data sets. In some cases, it’s necessary to consider the context in which the AI system operates in addition to the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
+      "publishedDateTime": "2020-02-05T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-05-huami-amazfit-homestudio-start-your-immersive-fitness-at-home-in-2020.md",
+      "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
+      "excerpt": "The Amazfit HomeStudio is built to offer a vision of the future of fitness with connectivity, technology, and the way AI will impact your workout. Huami CEO Wang Huang said, “at the end of 2019, Huami defined a new mission: Connect Health with Technology,” and the new Amazfit is just the start of a new decade of technology. The Amazfit ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/",
+      "ampWebUrl": "https://www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/amp/",
+      "publishedDateTime": "2020-02-05T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/02/huami-amazfit-homestudio-treadmill-4-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-05-music-by-numbers-robot-conducts-human-orchestra.md",
       "title": "Music by numbers? Robot conducts human orchestra",
       "excerpt": "The conductor on the podium has no baton, no tailcoat and no musical score, but Android Alter 3 is kicking up a storm as it guides a symphony orchestra’s players through their paces. The robot has a humanoid face,",
@@ -1035,43 +1168,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-feds-clear-the-way-for-nuros-driverless-deliveries.md",
-      "title": "Feds clear the way for Nuro's driverless deliveries",
-      "excerpt": "Cruise Origin, a driverless EV that Cruise plans to use for ride-sharing ... high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world incubators could ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.axios.com/feds-clear-the-way-for-nuros-driverless-deliveries-de9db97f-113d-45c6-9606-48f8e207949a.html",
-      "ampWebUrl": "https://www.axios.com/feds-clear-the-way-for-nuros-driverless-deliveries-de9db97f-113d-45c6-9606-48f8e207949a.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/feds-clear-the-way-for-nuros-driverless-deliveries-de9db97f-113d-45c6-9606-48f8e207949a.html",
-      "publishedDateTime": "2020-02-06T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.axios.com/yi-j5xjVk_P7ohYzQuBUvj3qRzk=/2020/02/05/1580945838314.jpg",
-          "width": 6720,
-          "height": 4480,
-          "title": "Feds clear the way for Nuro's driverless deliveries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {

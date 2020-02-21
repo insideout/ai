@@ -5,7 +5,7 @@ excerpt: "If there’s been a constant in the tech industry’s approach to the 
 publishedDateTime: 2020-02-19T11:54:00Z
 webUrl: "https://www.bloomberg.com/news/articles/2020-02-19/why-tech-firms-want-some-facial-recognition-rules-quicktake"
 type: article
-quality: 34
+quality: 51
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Computer Vision
 
 related:
   - title: "Automated facial recognition breaches GDPR, says EU digital chief"

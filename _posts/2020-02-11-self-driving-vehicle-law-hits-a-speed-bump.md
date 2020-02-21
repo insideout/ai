@@ -78,6 +78,19 @@ related:
       - url: "https://placehold.it/300X250"
         width: 300
         height: 250
+  - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
+    excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
+    publishedDateTime: 2020-02-07T18:06:00Z
+    webUrl: "https://cbs58.com/news/us-clears-the-way-for-self-driving-vehicle-with-no-steering-wheel-or-pedals"
+    type: article
+    provider:
+      name: CBS 58
+      domain: cbs58.com
+    quality: 22
+    images:
+      - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
+        width: 3000
+        height: 2000
 
 secured: "6SzfK1BlP+/AFRYaMWpJ+lnTeD3uL+R+eiccSpQFd2Umhrvqxo3tbS4IQXgUJqcduD4l+2qLBZN3Kbyrnys9qtG9Ws0bImMM6J1OYTxvqbU3xlpixrZHsrlPYbKOGtDuIOv88mpNhKDJm4tppL4GaEB70gzFu+hsuEbAskcV87n7LX7T/Ojv5K5gnr6jb+pHmIFFH5ZAEBEiSontalzNh+BbwQV4C+j/S77Pdyb07Ujh6f9MIVArZmMT3P2Ly93p730NSVYbJ9HbONk1i2npJzaFQYRqhGYLV0H5aWDS6tbtyJyEV3Q285WYlBnxtBty;z/TYBGBg/wgrRiKxW/Xuxw=="
 ---

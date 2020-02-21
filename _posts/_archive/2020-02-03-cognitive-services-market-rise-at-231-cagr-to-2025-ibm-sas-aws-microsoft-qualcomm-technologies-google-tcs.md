@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: MarketWatch
@@ -27,21 +27,6 @@ images:
     height: 630
     title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
 
-related:
-  - title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
-    excerpt: "Excellence Market Research has recently published a very complete analysis of the Image Recognition market based on comprehensive secondary and primary research. The report titled \"Global Image Recognition Market 2020 Industry Research Report\" offers the most precise analysis of the Image Recognition industry for the last five years and forecast until 2025."
-    publishedDateTime: 2020-01-31T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-2020--qualcomm-nec-google-ltu-technologies-catchoom-technologies-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
-secured: "wNTdTwBssVlSeE9GWipuCgFBWc1lvPtIQjW/eO7CO6Pxsglj1eNN9dQzWOvb3764Ki+RZLnHSDv8SydN8/6vKDWgEMrKH4KYGo4ZpKbVwlg6dmNJV4tOosPYqHCOsFsR3s2bOZl2t/orvHMV5Y93QHTd+AoEO/UDcbfTjEMKf6qh9E4PTDTbFKJPlVW5LrMlRWK8H1MnWKq0NcCPtGT5z26Z0sDOuVbQfOdQUZgfemJFxOJLC/ji5jEOKOrnF/KZbfuVLNsAfWLp00xn3NZIj9gUEq/ELWnn3ZPJUttZkKyZwH3umFdgdOo4Kt2XPLaq;9jJOnnJtybKavWMjgB5apA=="
+secured: "FbEe8zZcMhcFKNc7RPm6+vgzhEv2nJ0MgLZPdEC7XuFHRaOBRtdb0bydHL3da3N8yZ+EQimMCydWDZ+NDEcm2y2BLIEbRdk1vGxXjr6lphmR4o+l8IXTiTs3Mwb8Xz6oKHvKoE3WsOZyFG77jrssndjqLeTO2/sdAWBvckYHn9/IADvBl2R/OGoBL8ZHF8RzkpNnv1uwMfmlhmiyAEea86PsvSZnjaDWUPUgV2JXuRajpg5szYxFCwaQ5Mpa+ZPOCTML1ul8Z6GNMwB82wLS6HiU8xAO8T7zHDzscGJrQQUy2L/2JFyWXba7xC62S4Ws;NwTTFuyaVheK+UGkFcScWw=="
 ---
 

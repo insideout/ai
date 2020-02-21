@@ -2,6 +2,170 @@
   "page": 12,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-13-linkedin-blockchain-beats-ai-and-cloud-computing-for-hottest-skill-in-2020.md",
+      "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
+      "excerpt": "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/",
+      "ampWebUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
+      "publishedDateTime": "2020-01-13T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg",
+          "width": 796,
+          "height": 450,
+          "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-13-raytheon-tapped-for-self-evaluating-machine-learning-system.md",
+      "title": "Raytheon tapped for self-evaluating machine learning system",
+      "excerpt": "Jan. 13 (UPI) --Raytheon Co. announced on Monday it has begun work on a machine-learning technology allowing machines to teach machines through artificial intelligence use. The $6 million contract is one of four, valued at a total of $20.9 million, between the U.S. Defense Research Projects Agency and Raytheon BBN Technologies, SRI ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/",
+      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/",
+      "publishedDateTime": "2020-01-13T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/4541578937214/2020/1/15789374589835/v1.5/Raytheon-tapped-for-self-evaluating-machine-learning-system.jpg",
+          "width": 800,
+          "height": 532,
+          "title": "Raytheon tapped for self-evaluating machine learning system",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-13-skyqraft-a-startup-using-ai-and-drones-for-electricity-power-line-inspection-raises-505k.md",
+      "title": "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K",
+      "excerpt": "Skyqraft, a Swedish startup using AI and drones for electricity power-line inspection, has picked up $505,000 in early backing. Leading the round is “startup generator” and investor Antler, with participation from a number of angels, including Claes Ekström and Tomas Kåberger. Founded in March 2019 and launched that September, Skyqraft ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/13/skyqraft/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/13/skyqraft/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/13/skyqraft/amp/",
+      "publishedDateTime": "2020-01-13T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/SkyqraftTeam.jpg?w=1024",
+          "width": 1024,
+          "height": 799,
+          "title": "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-13-tealium-launches-predict-solution-powered-by-machine-learning.md",
+      "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+      "excerpt": "Integrated into Tealium AudienceStream, a data-first customer data platform that is designed to create highly granular, unified customer profiles from every touchpoint, Tealium Predict aims to create and activate trustworthy machine learning insights using cross-channel customer behavior data. Visitors are scored based on the likelihood to ...",
+      "heat": 61,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning",
+      "ampWebUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "publishedDateTime": "2020-01-13T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Demand Gen Report",
+        "domain": "demandgenreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.demandgenreport.com/media/k2/items/cache/2d88ab916503b4690740bdbf348148be_XL.jpg",
+          "width": 1280,
+          "height": 766,
+          "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-13-the-emerging-meta-learning-oligopoly.md",
       "title": "The Emerging Meta-Learning Oligopoly",
       "excerpt": "Meta-learning — special cases of which have lately been called AutoML (automatic machine learning) — is, simply put, learning how to learn. A major aspect of the transition from today's narrow ...",
@@ -1935,185 +2099,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-qualcomms-self-driving-car-made-me-never-want-to-touch-a-steering-wheel-again.md",
-      "title": "Qualcomm’s self-driving car made me never want to touch a steering wheel again",
-      "excerpt": "A couple of days earlier at the giant Consumer Electronics Show, Qualcomm announced a new platform for self-driving cars called Snapdragon Ride — and to showcase its powers, Qualcomm gave me a ...",
-      "heat": 135,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp",
-      "publishedDateTime": "2020-01-15T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Qualcomm’s self-driving car made me never want to touch a steering wheel again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-retailers-hope-in-store-tech-will-keep-shoppers-in-stores.md",
-      "title": "Retailers Hope In-Store Tech Will Keep Shoppers in Stores",
-      "excerpt": "Dubbed AWM Frictionless, the system includes digital shelving and object-recognition cameras that can keep track of which customers leave with which items. Customers have to do facial recognition ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202",
-      "publishedDateTime": "2020-01-15T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-144177/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Retailers Hope In-Store Tech Will Keep Shoppers in Stores",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions.md",
-      "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
-      "excerpt": "Amazon Polly turns text into lifelike speech, which allows you to create voice-enabled applications. AWS is excited to announce the general availability of all standard voices in the Middle East (Bahrain) and Asia Pacific (Hong Kong) Regions. Customers in these Regions can now synthesize over 60 standard",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T12:32:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health.md",
-      "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-      "excerpt": "A new IEEE study shows millennial parents would embrace self-driving school busses, 3D-printed organs and AI-powered assistants. TechRepublic's Karen Roby interviewed Dr. Karen Panetta, dean of engineering at Tufts University, about the tech organization IEEE and a recent study concerning AI and healthcare. The following is an edited transcript ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "publishedDateTime": "2020-01-15T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/15/0474ddc4-0751-4943-ba45-8001b2a71c49/thumbnail/1200x675/d7a62e7ff462af441cef021bc9ac5d6c/20191212-panetta-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-bot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "McAfee CTO: How AI is changing both cybersecurity and cyberattacks"
 
 related:
+  - title: "What are the uses of AI in Cyberdefense? How Important is AI to the future of Cybersecurity"
+    excerpt: "Doing so manually is impossible, so we have AI! Artificially Intelligent Security Assistants IBM Watson maintains data security for its clients which includes global leaders in the banking and ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/@chrysaliss.transformation/what-are-the-uses-of-ai-in-cyberdefense-how-important-is-ai-to-the-future-of-cybersecurity-b7406de866a6"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 59
+    images:
+      - url: "https://miro.medium.com/max/602/1*1AMOHanE0YZgGndHiA42Rg.png"
+        width: 602
+        height: 333
   - title: "How Is Artificial Intelligence Reshaping Cybersecurity?"
     excerpt: "Cybercriminals are constantly growing in number and sophistication, leaving organizations in a tough spot as they align their defenses. Artificial intelligence offers one way to address this challenge. At the CDW Protect SummIT in San Antonio, we asked security and IT experts how automation can help them protect their systems and data."
     publishedDateTime: 2020-02-17T22:38:00Z

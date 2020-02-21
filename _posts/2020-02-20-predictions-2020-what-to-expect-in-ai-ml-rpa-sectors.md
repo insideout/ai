@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T22:40:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/predictions-2020-what-to-expect-in-ai-ml-rpa-sectors"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     title: "Predictions 2020: What to Expect in AI, ML, RPA Sectors"
 
 related:
-  - title: "What to Expect from 5G in Healthcare"
-    excerpt: "Although still in its infancy, this powerful network has big potential for healthcare. Among the possibilities: transmitting large medical images, facilitating telehealth initiatives and supporting remote patient monitoring tools — as well as enabling more complex uses of artificial intelligence and augmented and virtual reality."
-    publishedDateTime: 2020-02-18T22:22:00Z
-    webUrl: "https://healthtechmagazine.net/article/2020/02/what-expect-5g-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2020/02/what-expect-5g-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/02/what-expect-5g-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202002/20200218_HT_Web_MonITor_5G-in-Healthcare.jpg?itok=vkBOUNjS"
-        width: 1440
-        height: 500
   - title: "Predictions for HPC in 2020"
     excerpt: "AMD has agreements with cloud providers AWS and Azure to put its CPUs on their cloud platforms and promote the use of AMD CPUs for HPC. This interesting move reflects how a lot of our customers are now planning their next HPC cluster or supercomputer to include AMD in their infrastructure design to better support AI workflows. AMD had ..."
     publishedDateTime: 2020-02-17T16:55:00Z

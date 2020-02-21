@@ -26,32 +26,56 @@ images:
     title: "What to Expect from 5G in Healthcare"
 
 related:
-  - title: "Predictions 2020: What to Expect in AI, ML, RPA Sectors"
-    excerpt: "Here is another in a list of articles eWEEK is now publishing about predictions for 2020 (and sometimes beyond!). AI adoption in non-consumer internet industries is still in an early stage, and many projects are stuck in pilot purgatory because of challenges ranging from a lack of data to knowing how to manage complex machine learning workflows."
-    publishedDateTime: 2020-02-20T22:40:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/predictions-2020-what-to-expect-in-ai-ml-rpa-sectors"
+  - title: "AI Improves Healthcare? 91% Of Healthcare Executives Say It Does"
+    excerpt: "... Taiwanese civic participation and more general investigations into how fake news stories travel across Facebook’s platform [WSJ] Funding for AI startups globally rose to a record $27 billion in 2019, a significant increase over the amounts raised ..."
+    publishedDateTime: 2020-02-21T17:58:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/01/1088x725_-_243826254---Data-Analytics-Trends-for-2020.jpg?alias=social_image"
-        width: 560
-        height: 300
-  - title: "Predictions for HPC in 2020"
-    excerpt: "AMD has agreements with cloud providers AWS and Azure to put its CPUs on their cloud platforms and promote the use of AMD CPUs for HPC. This interesting move reflects how a lot of our customers are now planning their next HPC cluster or supercomputer to include AMD in their infrastructure design to better support AI workflows. AMD had ..."
-    publishedDateTime: 2020-02-17T16:55:00Z
-    webUrl: "https://insidehpc.com/2020/02/predictions-for-hpc-in-2020/"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e50147b7a0098000733e9a9%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "VA Embraces Artificial Intelligence To Improve Veterans’ Health Care"
+    excerpt: "He said the VA has a \"unique opportunity to help veterans\" with artificial intelligence. As the largest integrated health care system in the country, the VA has vast amounts of patient data, which is helpful when training AI software to recognize patterns and trends. Alterovitz said the health system generates about a billion medical images a year."
+    publishedDateTime: 2020-02-19T10:26:00Z
+    webUrl: "https://www.cpr.org/2020/02/19/va-embraces-artificial-intelligence-to-improve-veterans-health-care/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 26
+      name: Colorado Public Radio
+      domain: cpr.org
+    quality: 39
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/02/download.jpg"
-        width: 661
-        height: 661
+      - url: "https://i2.wp.com/wp-cpr.s3.amazonaws.com/uploads/2020/02/tampa_docs_1-scaled.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+  - title: "GE Healthcare launches cyberdefense product"
+    excerpt: "As connected devices proliferate, GE Healthcare is banking that hospitals, health systems and other providers will seek the company’s help in shoring up their defenses against cyber threats. The company on Thursday unveiled a cybersecurity product that scans for cyber risks and recommends responses using a mix of artificial intelligence and ..."
+    publishedDateTime: 2020-02-20T18:37:00Z
+    webUrl: "https://medcitynews.com/2020/02/ge-healthcare-launches-cyberdefense-product/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
+    images:
+      - url: "https://medcitynews.com/uploads/2017/08/GettyImages-578833436.jpg"
+        width: 724
+        height: 483
+  - title: "53% of Execs Say Healthcare Leads Artificial Intelligence Adoption"
+    excerpt: "February 18, 2020 - Fifty-three percent of healthcare executives say that the healthcare industry is ahead of most other industries in artificial intelligence adoption, according to a survey from KPMG. However, 37 percent of respondents believe that the pace at which they’re implementing artificial intelligence is too slow, mainly because of ..."
+    publishedDateTime: 2020-02-18T14:51:00Z
+    webUrl: "https://healthitanalytics.com/news/53-of-execs-say-healthcare-leads-artificial-intelligence-adoption"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
 
 secured: "vUaLVWOCY3LDt3gKXP1f25H8Zb73BogBWRSBWKq4KiGfW+zVih8IMYkXqhQtzJ/UDcgyaBITgDgBViPA0SvqZluJP0EyiCjePaFZvM/RkT/w3gi14Ti+upe2+K3oqxL1b+x0fspXkLv6ckehCCGn0prrhE1XJK0htXf4hAGVW2h9VTmVw21zhQsahROF3P0+u+JL5impGjufGjJ150UwJO5OXTBkxsB/+0fgh44B7h9PKB9DFZc5AOnuiuZVqn7C4u0zbUF5OR3XJAJyGjj8YclmJ5MapYbUoWCh1cDThqlG+Pb2B0caFqkJFobAI7ew;HAGsJkbfE/j41OhIRa/8NA=="
 ---

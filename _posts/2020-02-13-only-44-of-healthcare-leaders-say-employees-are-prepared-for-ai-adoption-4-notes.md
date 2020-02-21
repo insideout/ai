@@ -24,15 +24,6 @@ images:
     title: "Only 44% of healthcare leaders say employees are prepared for AI adoption: 4 notes"
 
 related:
-  - title: "53% of Execs Say Healthcare Leads Artificial Intelligence Adoption"
-    excerpt: "February 18, 2020 - Fifty-three percent of healthcare executives say that the healthcare industry is ahead of most other industries in artificial intelligence adoption, according to a survey from KPMG. However, 37 percent of respondents believe that the pace at which they’re implementing artificial intelligence is too slow, mainly because of ..."
-    publishedDateTime: 2020-02-18T14:51:00Z
-    webUrl: "https://healthitanalytics.com/news/53-of-execs-say-healthcare-leads-artificial-intelligence-adoption"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Global healthcare leaders stress on multi-stakeholder engagement, AI-based technology for healthy future Indian generation"
     excerpt: "public and private healthcare sectors, NGOs, youths, innovators and specialists considering the vastness of the country and the population needed to be covered. \"Today, Artificial Intelligence-led technology platforms are creating wonders in the field of healthcare services. A perfect blend of technology and initiatives by all the stakeholders ..."
     publishedDateTime: 2020-02-07T01:49:00Z

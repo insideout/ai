@@ -254,6 +254,15 @@ related:
       - url: "https://images.thestar.com/4Gdty1kT8G_3_BfW_A4H-pAkIM8=/1200x800/smart/filters:cb(1581730926690)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/policegraduation10.jpg"
         width: 1200
         height: 800
+  - title: "Why Tech Firms Want (Some) Facial Recognition Rules: QuickTake"
+    excerpt: "If there’s been a constant in the tech industry’s approach to the idea of regulating new products, it’s been the twin mantras of “leave us alone, we’ll take care of it” and “don’t make rules that will harm innovation."
+    publishedDateTime: 2020-02-19T11:54:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-19/why-tech-firms-want-some-facial-recognition-rules-quicktake"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 51
   - title: "Is this facial recognition app going too far? We tested it"
     excerpt: "Hoan Ton-That’s app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business’ Donie O’Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
     publishedDateTime: 2020-02-17T19:34:00Z
@@ -314,15 +323,6 @@ related:
     provider:
       name: Digital Signage
       domain: digitalsignagetoday.com
-    quality: 34
-  - title: "Why Tech Firms Want (Some) Facial Recognition Rules: QuickTake"
-    excerpt: "If there’s been a constant in the tech industry’s approach to the idea of regulating new products, it’s been the twin mantras of “leave us alone, we’ll take care of it” and “don’t make rules that will harm innovation."
-    publishedDateTime: 2020-02-19T11:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-19/why-tech-firms-want-some-facial-recognition-rules-quicktake"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
     quality: 34
   - title: "What Others Say: Facial recognition software takes personal invasion into a new dimension"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."

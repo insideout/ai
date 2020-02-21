@@ -53,6 +53,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Natural Language Processing Market is expected to see growth rate of 20.84%"
+    excerpt: "Advance Market Analytics released the research report of Global Natural Language Processing Market, offers a detailed overview of the factors influencing the global business scope. Natural Language Processing Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+    publishedDateTime: 2020-02-21T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-see-growth-rate-of-2084-2020-02-21?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
     excerpt: "Mobile Artificial Intelligence (MAI) Market 2020 Wiseguyreports.Com Adds \"Mobile Artificial Intelligence (MAI) - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
     publishedDateTime: 2020-02-17T06:16:00Z

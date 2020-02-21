@@ -23,6 +23,6 @@ images:
     height: 381
     title: "Media3 Adds Full Suite of AI Cognitive Services"
 
-secured: "BrcXPMi5ukpG9hohHe7Etw/Ekm8KKEjKfNvE5CzpHbrF9++Jg1YUsbKYJPgvRAw2BjgO0axw+28JVHuAQidGCm3kecLq2XCBJosFjvDRjTOEfaeq0nirUTdraWIxHIs2s7S+3lJCC+DxihHwF4lQUqv3qAlC+reC36FCeNkIh1ZDVQk6I32a6V84SKOoweZXjL02Xx+8cN6zctUwcgPBmL2oOwjCkHFGchH/jSwqK4Fo6K+Wllu/6tWbVw7L/giqW0xAEHDdGKr+nwTL3681TSiiQJJylcTqfKIIpeVhlFd0Mc4CRTMunBgb34uamUCh;z60Z9A7CT+V7GBoOIQa7oA=="
+secured: "FHkx9VmdtCzx9it3IEutWI6x5LQP8w/T5YsL1M1wELdK/DZzOrK2+pp5LKWK7jZ6x9/WSZyCUceRPRgbgcYjyQbehcGpWd+Tm3MAq4Alr4gwJArWV8wZw2Yw7QLrsXAb/rdYHzO+lzGL98xwugJWHOUEqjEApjSIrNq2lwGyT3+rCTpL9vPUU8uPhYrbWdNG2EcshUfOZYlhuIf4MM+s0rpWUYlGOhmMEghJKikc5qwwombKd1vWsqF10waQ6Rdw9HbBwSLi4rLdTKue16yUBrWJJKNMb0Du6u+vmCRr+ZeT+nNfQSXdMYw8+pf+GnJp;oNGttF8j84yLrKxrivo6Ew=="
 ---
 

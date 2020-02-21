@@ -138,7 +138,18 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2020/02/MIT-New-Antibiotic-01_0.jpg"
         width: 639
         height: 426
+  - title: "MIT Uses AI to Discover a Novel Antibiotic"
+    excerpt: "It was renamed to halicin by the MIT researchers. According to a MIT news report released today, the name was inspired by the fictional sentient AI computer with artificial general intelligence named HAL (Heuristically Programmed ALgorithmic Computer) from Arthur C. Clarke’s Space Odyssey series of science fiction novels and the iconic and ..."
+    publishedDateTime: 2020-02-21T17:14:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
 
-secured: "eiLLGe7+lnTVcuc/mP/VHcLMFEIkI4xxmNhcsbVY4hu6OwK3+WirYVzfGxjtUtxZaRa9JoxsURZL8XPebImRCQSIRQ79jGTC0dv/bBYcdn+JUSQ9fgd8AfHDCXTduovyLgYHTO/Z7BgTaE1n4fHerWK0Mi5VaDWGlnqU6NGbRhN2se7zkxfc5lT5cfHNeHKGab8PIGQb56cUFRtkskfogl/mS3birnliip+7/AEZ41Jayzns8npkAdwfG7Wek1kdO6kHlxOLRfwvhkoPYKuZkU9WXm3qUi46FGd1/JLysnRsumcZyEcD0WS1SfLnVmYj;RckTLtYmU7hIZdGP16M7Dg=="
+secured: "257uWCB4Q744XG3wFFHW0IlbFx6qWX3cySA5JnzdZ8SOx3g+YNhwSkWa0h2EgOS63OihO1ek6DBWBU2WMfsRZ79VXBy6nxEbNb3XH0FIy3bLtesOjG+br3WlN1DWilSYgseVsnpis5GDpNvPjqNREQ87MNud2X2r41HnIjsedghIt4Dil56HscV+dLJ9zihPUOMW7KSzph+8rUyCh20o3iOQCWENiUz3bD5TY+HPCcbsHcT2OnEOKl7ivC6jCIRNq1OJfWh3ZceGrmMgNOVBSZ4FCk4ZsXh2kPDuWNeCn3hse9Im6ZCT5kDXURyml1JZVKRbT0+d/hJj7Mj+hB0KqAKuw4nXOn2YDipCqn6YvwqyBWHO2YYYHnpOcx0sk9KYsmdzGgNLk+zgstw42zLo7x2XE/NHJp/sgpdAuTQwxTjA0ZQpvbrdft6Wwk5nvqw8qFlMa8IKaAUD/obLIjzc9P7bhb/Ms94epdWFbcs8rns=;i7JNfukB1cY4hHU5NRJ7bA=="
 ---
 

@@ -54,6 +54,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Natural Language Processing Market is expected to see growth rate of 20.84%"
+    excerpt: "Advance Market Analytics released the research report of Global Natural Language Processing Market, offers a detailed overview of the factors influencing the global business scope. Natural Language Processing Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+    publishedDateTime: 2020-02-21T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-see-growth-rate-of-2084-2020-02-21?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025"
     excerpt: "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
     publishedDateTime: 2020-02-17T10:08:00Z

@@ -40,15 +40,6 @@ related:
       - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
         width: 252
         height: 335
-  - title: "Cloudtech startup Rapyder has partnered with AWS to help clients with digital transformation"
-    excerpt: "“Being an AWS Advanced Consulting Partner enables us to provide seamless ... It aims to leverage big data, data analytics, artificial intelligence, and machine learning, in the near future. “We have 55 employees across our offices, and plan to hire up to 50 more professionals by the end of 2020,” Amit says."
-    publishedDateTime: 2020-02-07T00:24:00Z
-    webUrl: "https://yourstory.com/2020/02/cloudtech-startup-rapyder-aws-quickride"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 8
 
 secured: "+QMikM2sf5CElqbvzlFO//iB/WO3yotHTTAsUYQChNyE7dkhUM8tlk919jN+nj4ytNs5KjxnATWvG8pfyvHAO7bu7BxlBLAuGt6KZzqZgvzAHMRn9awN9GKlJZpoLt9oof1oV6QVLi1wtpAF5QVoI4ZVie/A5Skwb1DEd+QhSLBovm9Ku7FhsGrl4VdU8dLHaI84rRcu7UtywyOg147+K72FzGugsm6xLU8DTkFXuRvmAcTpPDlWIdfQTc0QZqm55KBSF3BfEP2Ppcdfbe/p7U6LLgtLzkrTpGUk0peaD+IN4ROkvEPTaxMxp88BlZohwsZwyUYdBnpgU0ZFUTg5D8jbHzFYofctB6tBuHtureitWN1SwlAOJGB1yQviX8aizfVWQLElA3F0Zb3pnY10fqgVflZt402CHduookQg1/8WJG8Bf2zBkm10YVLfrSUUCrQKhvFjThCN/z93RHMLnKXmLCnBwUSPBBToVWFOZMY=;LIDProHzq6xnLW2BpqUDvQ=="
 ---

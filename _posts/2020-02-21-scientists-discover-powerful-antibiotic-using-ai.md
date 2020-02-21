@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/health-51586010"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-51586010"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -137,7 +137,18 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2020/02/MIT-New-Antibiotic-01_0.jpg"
         width: 639
         height: 426
+  - title: "MIT Uses AI to Discover a Novel Antibiotic"
+    excerpt: "It was renamed to halicin by the MIT researchers. According to a MIT news report released today, the name was inspired by the fictional sentient AI computer with artificial general intelligence named HAL (Heuristically Programmed ALgorithmic Computer) from Arthur C. Clarke’s Space Odyssey series of science fiction novels and the iconic and ..."
+    publishedDateTime: 2020-02-21T17:14:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
 
-secured: "+n+hQPXT5e96waxQwV9pebxyr1TWFO6QMXQ9CVGi4NW2F6OXshgTP9ZQ+SNr0aCIE3pLLpCV8Dad3FDMaObaPBmhJP0gen91p8lMJFAnL2B/B3lpcC0jomQfOiNvam8DOJIX32/AK9BSubdMyQkuC2atY41maxe8s7BuiYAw3ufDbq0TxeGbClYMGLLZIsB/i8V5gpgrQSmhWDS2f2rJyheaFtdYKJyluUncPK0dM0F/F8IboNoTJZ33AbYxheN+eWLrPvseb2f3vir95MqlyXDv9I/bqODgdjxV1HKcf1cGeqQRFfEcnx8Fi7oFsNxh;ZmICIJNh4ruDI7WEGnN2TQ=="
+secured: "ek6bMNJ1v61rkT+asFAUbbLwJwPcBbHILjJb9VPbgfWlJxxTAN2nfs1vV6rVCLc+RBLxNeSBXA1nOlXw+1nbJX9C3v+1vmTQHkQPW0+6CBX0uFGidmqRktBrnUISJlshnyQzl/TLegHdyhQPCIp0EkzZF3JY6Me++nVcyAcEUkUk/tZ5rp+nwhLBaz6UC8Okfwuz4w2FTjTuxa7ImCmGeiz4pxaZTXGNFrFsPsNWAbJWSsEaMf7OcqaIFZJxeGsicqS0QFOIDg8yPwvwVErqMFc7A1DEzE6K7dN5+XZqkZwKYS97BISg1x119e4QjJIwiik0961Ta1GYAeF8GBTxOX+qKouOOu1qzsd+TCrJGrFSxI3bfEeMJK2Xa4Lf7ChIFd1RjvVMKaF5TL6bUK3zXn9DTyr9kzYwXVmq5FhSnHkKQYZuKDHfyV2yM/Xru7BXhhQyrFwBgrshhLLRLXq/5WvWT2A54dwPer3DWOTMOFs=;vciDv54gDpjaXqqAQ7JUYA=="
 ---
 

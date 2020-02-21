@@ -29,6 +29,6 @@ images:
     height: 550
     title: "The Robots Are Coming. Prepare for Trouble."
 
-secured: "tXLFRKnVxP41eiDvwXhdpPFRU9F9+okkcivYV4fBeHqHeQKK3qsoFlpJPypBvHRK/BuhXfrw67WO6JP18KXpzoa+0KzDt2H/rhNvFrRx2xckI+tgLNOrQ+O+VJVUgabB72IOSB+enmB1bTR8iR62lpN3OLPAHEFpZw/iE5CgWPbp0omWyPhtA6oaoSmoCRBHEO7Z5WPvf95BVq7UjdPS8AZtdNI3+QzIKpKj13E9XbFVfsM8TaPe6BAMbD1fmVb54fsyecFmvvnFgv2ECA3quSbKG65ODGXZ3R8nU3p4Nar1nYuN7fCe1Xharu0CTwTG;T2NkQQopx8WtD+pFpc5QBA=="
+secured: "fBgCNUQFrTp9ItQ3B8mAn5cBQe28QPqo8+l5uGBgZYBduxvvvgn/ASbtfU3hkxYzvtI1ztT1i8oaaRxcU94P5DSTvfZm8xirptPv+J0weNY7hFgMKIlLWccNOHfwWyJGbgJN1lAUptR8XK4S+thPgnwiEzmTG9KkMk8UV9NxwQy8h1df8lRSPJF5sjbYJ/okooCmQq1zM0eM2jIwmJh+7F0yefsqwYa8JAI6KmgDI+YirrtTN4Bkw/ohIrllh5M2UOfsyNeHpE7mH6KovOVrI0awDvvHDp4C+gkdxQl8eRPBI9p69EyeN7aeMIQCUl4W;+ufHgoDF+rpxzVZKGmLfYA=="
 ---
 

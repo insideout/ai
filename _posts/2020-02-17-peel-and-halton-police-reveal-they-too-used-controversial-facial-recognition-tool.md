@@ -239,6 +239,15 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/jason_carolan_flexential_mono.2e16d0ba.fill-1200x630.jpg"
         width: 900
         height: 474
+  - title: "Why Tech Firms Want (Some) Facial Recognition Rules: QuickTake"
+    excerpt: "If there’s been a constant in the tech industry’s approach to the idea of regulating new products, it’s been the twin mantras of “leave us alone, we’ll take care of it” and “don’t make rules that will harm innovation."
+    publishedDateTime: 2020-02-19T11:54:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-19/why-tech-firms-want-some-facial-recognition-rules-quicktake"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 51
   - title: "Is this facial recognition app going too far? We tested it"
     excerpt: "Hoan Ton-That’s app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business’ Donie O’Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
     publishedDateTime: 2020-02-17T19:34:00Z
@@ -299,15 +308,6 @@ related:
     provider:
       name: Digital Signage
       domain: digitalsignagetoday.com
-    quality: 34
-  - title: "Why Tech Firms Want (Some) Facial Recognition Rules: QuickTake"
-    excerpt: "If there’s been a constant in the tech industry’s approach to the idea of regulating new products, it’s been the twin mantras of “leave us alone, we’ll take care of it” and “don’t make rules that will harm innovation."
-    publishedDateTime: 2020-02-19T11:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-19/why-tech-firms-want-some-facial-recognition-rules-quicktake"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
     quality: 34
   - title: "‘Really scary what I saw in Hong Kong’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
     excerpt: "The commission, the EU’s powerful regulator, is eager to answer the worries of European citizens about the rising importance of AI in their lives, amid reports from China of facial-recognition technology used to crack down on dissent. “I find it truly really scary what I saw in Hong Kong,” said the EU Commission’s executive vice ..."

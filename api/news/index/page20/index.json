@@ -2,6 +2,161 @@
   "page": 20,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-28-5-canadian-top-social-cios-vala-afshar-may-have-missed.md",
+      "title": "5 Canadian top social CIOs Vala Afshar may have missed",
+      "excerpt": "100 Most Social CIOs on Twitter 2015 from Vala Afshar As he explains in his post, Afshar looks at a number of factors in choosing the top social CIOs, including the number of followers ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/5-canadian-top-social-cios-vala-afshar-may-have-missed/101337",
+      "ampWebUrl": "https://www.itworldcanada.com/article/5-canadian-top-social-cios-vala-afshar-may-have-missed/101337?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/5-canadian-top-social-cios-vala-afshar-may-have-missed/101337?amp=1",
+      "publishedDateTime": "2020-01-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-28-at-10.02.44-AM.png-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "5 Canadian top social CIOs Vala Afshar may have missed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-advantages-of-machine-learning-and-data-analytics-courses.md",
+      "title": "Advantages of Machine Learning and Data Analytics Courses",
+      "excerpt": "Advantages of Machine Learning and Data Analytics Courses: Considering that the data enormity is consistently on the rise, the urgent need to figure out such methods that can help to gain valuable insights on the same can be felt. As a result, the demand for professionals with adequate data science skills cannot be neglected. There is no ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/",
+      "ampWebUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "cdnAmpWebUrl": "https://www-newznew-com.cdn.ampproject.org/c/s/www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "publishedDateTime": "2020-01-27T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seat",
+        "domain": "newznew.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newznew.com/wp-content/uploads/2020/01/892730_f4e5_3.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Advantages of Machine Learning and Data Analytics Courses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-ai-and-disinformation-join-nukes-in-the-race-for-armageddon.md",
+      "title": "AI and disinformation join nukes in the race for armageddon",
+      "excerpt": "Some analysts say China is surging ahead with the development of artificial intelligence (AI), and perhaps even dominating the field. Huawei's founder Ren Zhengfei would beg to differ. The US government has yet to figure out the implications of AI, but China hasn't even started thinking about it, Ren told the World Economic Forum in Davos last ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "publishedDateTime": "2020-01-27T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and disinformation join nukes in the race for armageddon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-ai-can-boost-radiation-therapy-for-cancer-patients.md",
+      "title": "AI can Boost Radiation Therapy for Cancer Patients",
+      "excerpt": "Artificial intelligence (AI) can now instantly translate complex clinical data into an optimal plan of attack which can help cancer patients start their radiation therapy sooner and thereby decrease the odds of the cancer spreading, reports a new study.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.medindia.net/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm",
+      "ampWebUrl": "https://www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm",
+      "publishedDateTime": "2020-01-27T23:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/zika-virus-kills-brain-cancer-cells.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": "AI can Boost Radiation Therapy for Cancer Patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
       "title": "AI can help cancer patients start radiation therapy sooner",
       "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
@@ -1147,14 +1302,14 @@
     {
       "path": "_posts/_archive/2020-01-28-reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai.md",
       "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
-      "excerpt": "They make use of a mish-mash of technology such as \"AutoML,\" of varying sophistication and quality. The Reality Engines offering goes up a level above simple program functions like those to more substantial corporate applications. They include such apps as how to optimize a company's spend on cloud computing services fees; financial metrics ...",
+      "excerpt": "Most exciting of all is that the tiny 18-person team has some very novel takes on deep learning forms of AI, the product of seasoned vets in machine learning technology and products. This is no me ...",
       "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
-      "publishedDateTime": "2020-01-28T09:28:00-08:00",
+      "publishedDateTime": "2020-01-28T09:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1173,9 +1328,9 @@
       },
       "images": [
         {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/28/c09d9ffd-7104-467f-a7bd-207a377162ca/crop/2114x1588+89+0/df2670fd400eaf01050ef3a769fc3c10/reality-engines-dagan-training-outline-jan-2020.png",
-          "width": 2114,
-          "height": 1588,
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/28/52508ce2-f9c8-402a-b6b2-8a1250faa0f2/binduheadshot6.jpg",
+          "width": 940,
+          "height": 512,
           "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
           "attribution": null
         }
@@ -1441,7 +1596,7 @@
     {
       "path": "_posts/_archive/2020-01-28-the-10-coolest-silliest-and-most-borderline-insulting-tv-pilots-of-2020.md",
       "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
-      "excerpt": "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to ... starring Karl Urban about robot cops that was pretty ...",
+      "excerpt": "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to become a government assassin ... better known as that show starring Karl Urban about robot cops that was pretty good except when it was awful. This could end up being something interesting, or it could turn ...",
       "heat": 73,
       "tags": null,
       "type": "article",
@@ -1949,170 +2104,6 @@
         "AI",
         "Facebook AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work.md",
-      "title": "AI-powered robot warehouse pickers are now ready to go to work",
-      "excerpt": "In the summer of 2018, a small Berkeley-based robotics startup received a challenge. KNAPP, a major provider of warehouse logistics technologies, was on the hunt for a new AI-powered robotic arm that could pick as many types of items as possible. So every week, for eight weeks, it would send the startup a list of increasingly difficult items ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/amp/",
-      "publishedDateTime": "2020-01-29T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/covariant-co-founders-l-r-tianhao-zhang-rocky-duan-peter-chen-pieter-abbeel.jpg?sw=600&cx=0&cy=0&cw=2000&ch=1125",
-          "width": 600,
-          "height": 337,
-          "title": "AI-powered robot warehouse pickers are now ready to go to work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-amazon-comprehend-now-supports-multi-label-custom-classification.md",
-      "title": "Amazon Comprehend now supports multi-label custom classification",
-      "excerpt": "Amazon Comprehend is a fully managed natural language processing (NLP) service that enables text analytics to extract insights from the content of documents. Amazon Comprehend supports custom classification and enables you to build custom classifiers that are specific to your requirements, without the",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-multi-label-custom-classification/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/15/comprehend-multi-label-classification-1.gif",
-          "width": 1000,
-          "height": 420,
-          "title": "Amazon Comprehend now supports multi-label custom classification",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-amazon-made-rekognition-software-now-able-to-detect-fear.md",
-      "title": "Amazon-made Rekognition software now able to detect fear",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "publishedDateTime": "2020-01-29T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU=",
-          "width": 1200,
-          "height": 630,
-          "title": "Amazon-made Rekognition software now able to detect fear",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment.md",
-      "title": "Apple researchers train AI drivers to merge lanes in a simulated environment",
-      "excerpt": "Apple has yet to openly discuss its self-driving vehicle research, but it’s a poorly-kept industry secret. Around 5,000 employees — including a portion of those previously employed by Drive.ai, an autonomous car startup Apple acquired last year — are said to be involved with code-name Project Titan, a joint effort with Volkswagen to ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/29/apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/29/apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment/amp/",
-      "publishedDateTime": "2020-01-29T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/e62e501f-87df-4bf1-bf6d-a4a1c366fb43-e1580318068496.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Apple researchers train AI drivers to merge lanes in a simulated environment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

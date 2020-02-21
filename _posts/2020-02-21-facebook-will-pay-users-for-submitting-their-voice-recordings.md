@@ -312,6 +312,21 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 39
+  - title: "Facebook will pay for users' voice recordings after it was caught listening to Messenger chats"
+    excerpt: "In a program called 'Pronunciations', participants will be payed a small sum, only up to $5, to use the company's market research app Viewpoints for recording various words and phrases that the company will then leverage to train its speech recognition AI. That voice data will be used to improve products like Portal, which is Facebook's smart ..."
+    publishedDateTime: 2020-02-21T16:31:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8029495/Facebook-pay-users-voice-recordings-caught-listening-Messenger-chats.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8029495/amp/Facebook-pay-users-voice-recordings-caught-listening-Messenger-chats.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8029495/amp/Facebook-pay-users-voice-recordings-caught-listening-Messenger-chats.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 32
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/21/16/21461494-0-image-a-11_1582301264268.jpg"
+        width: 636
+        height: 382
   - title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T10:28:00Z
@@ -349,6 +364,19 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221083954&exif=.jpg"
         width: 790
         height: 517
+  - title: "Facebook will pay you up to $5 to record your voice"
+    excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice for 10 times."
+    publishedDateTime: 2020-02-21T17:18:00Z
+    webUrl: "https://www.channel3000.com/facebook-will-pay-you-up-to-5-to-record-your-voice/"
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 24
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/01/5dfb591dd3167.image_.jpg"
+        width: 1763
+        height: 1175
 
 secured: "bHHNg7SHBIZNGSOJQoBdyZ7ZwUZvoKytiD56HAae+Z0Wy0WPz+3allo/k2FBeDVURn1rT8aoeJDhKPAjOihafY93ZRbAJBlEZ/EteSEwKWZoo1PnHBBtk3KxKU5wyZVD2YvuO8ZHA+18MRNfwhpZE6j8j3L2Pomo/dlTIVP9MCjPg7todzHYYUsy09ZCbw8h3o8iwoHpbaH8gfJ5iKc8MARa10KT5inxtYbv9SKcsIwUjTAqu8Mrr5wVzfk1JqNAt6uWpUQOxu8OGuZ62RLiwVikkyKhkMMwfnOXZetks7H7EWKE1qoKijZmym0l6HwCUPFC0ut50iuYgukoA6iJQ7XJy5i25CY72/WcjwjE0Bq+CGl5jCCxHHVV1Nlm/Z4oVNjeTZgMtBVvoCGXSOkVfskJDC6I9Oh4EizQU73eQ9RZwfZX3vnzXF+2jRphH/Rh78hzCITgxoGgwAv1EOc3rI2hlsh5cF4lioQDDwvIaEQ=;8T87XOWTxCocoIypi73C3g=="
 ---

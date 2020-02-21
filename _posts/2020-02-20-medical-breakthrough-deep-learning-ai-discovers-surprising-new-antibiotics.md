@@ -134,6 +134,17 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2020/02/MIT-New-Antibiotic-01_0.jpg"
         width: 639
         height: 426
+  - title: "MIT Uses AI to Discover a Novel Antibiotic"
+    excerpt: "It was renamed to halicin by the MIT researchers. According to a MIT news report released today, the name was inspired by the fictional sentient AI computer with artificial general intelligence named HAL (Heuristically Programmed ALgorithmic Computer) from Arthur C. Clarke’s Space Odyssey series of science fiction novels and the iconic and ..."
+    publishedDateTime: 2020-02-21T17:14:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
 
 secured: "YzMRSQMwFuT3E1w1ZOssm7HeSDhopYy9JZtEjbh5qsz0OKpQiapLmBoFOeYagZEo9xwYKqvp0tPXIfeojo+qnrHBxiLP3grn5BSwc1gSYAGrLKtH/mGPLX+f+Qn7qjSpYVXmN3JJi8fYP14lNGjIrNcU6LbY//4ji06eWIobAexfNnXK3lbbfj7pPOyPrgbWjYjkFCm9WzrCbBIYXyB9INg5MqaKHuXQ8e0GqT5PgaIrTafkG2T6DDmfm5ohbVMkt90dla26fIQWzg71nU0JgEvRKp24C0B5J+03o8pGV0oAkcP6DwXK0ip6IP9wUdNFYKHpRRm5Ial/tLHFH7/cDUA+OUWKzaJyAjGG6h4mPjJWIaFM1kdNHvpb3zFqQVVKPoScBsYDJa0GiuT+Go2FS0IurFEHG4vvZ/fQnTNn/FPSGCCKynfQF9JN9LjywnWUzfsgAtGCP2KTbS43VjxNtgzB9h3YOSTzk0TUMWNTcv8=;dTUEeHPE9ZQn4d8VQ6RXfQ=="
 ---

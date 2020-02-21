@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T07:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market is expected to see growth rate of 20.84%"
+    excerpt: "Advance Market Analytics released the research report of Global Natural Language Processing Market, offers a detailed overview of the factors influencing the global business scope. Natural Language Processing Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+    publishedDateTime: 2020-02-21T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-see-growth-rate-of-2084-2020-02-21?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

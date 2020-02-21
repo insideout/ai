@@ -18,11 +18,11 @@ topics:
   - Google AI
 
 images:
-  - url: "https://hackaday.com/wp-content/uploads/2020/02/Using-ground-relays-with-Starlink-10-4-screenshot.png?w=600&#038;h=600"
-    width: 469
-    height: 469
+  - url: "https://hackaday.com/wp-content/uploads/2020/02/Amateur-Radio-thumb.jpg?w=600&#038;h=600"
+    width: 600
+    height: 600
     title: "Tensorflow Tutorial Uses Python"
 
-secured: "q+dQG/5igULi5BG8jGMWhoGUfU0NrADfokhistKZJdWceijURveqCeKFHijBUmwUSbSkg2fNnHmSBSCblpsI6YCJ8szuwRAM7pflp4IWJSr7vn6f8jbFuo80s1a02Cj+KJIUFFJe/HxheKCid9gcf9Dh8YOFBjcdZyUvae7wY0jvWB8asPhMO6qhJGkXvVVKIJY+EJpfvxHVU3CH9ViZTXoXwq3GOogKwe3PgAnZ7DFZrYE6IZyvWJzztafkvGfE5qsSmiJihRASu0ZN/8/tEz4BFq1vXhbIzimqF0lOgqw40XWjdvhtqCM4VT1ct0sQ;Sy+0r0gDwSQ1r2J0yI1RqA=="
+secured: "0s/UFxilFCR5csnRlJ0D7RBRf354+jfV9d9oay+MHfuqhCfPSUzWlBZlIFtyEuvFlyfNzeyXavf9Oht+CH9bFFfa5lRX/51R2laMEoE8Ky8/yIY1lYkiYfWiGA7QqRHPRTUpqU7JbjdOxkofuicIIr4KrHD6L/E+kMo6KKGCr2C5SrRTWR2L9mLb4OR9S1ZwBvF/u37NrB4BtWQ9zDwvo/aCNrpMX4jm1eLLl5RLaQ3Qh2gmiRlChhK9zR/QX6NGxKA1V0uCAPtoAUQSUA0yjjlDt7xTABXuvsbjwLKEVBcb5ZnL76XKdgua1iELlMf3;yie8CX/CK4WaToqsOEYvtg=="
 ---
 
